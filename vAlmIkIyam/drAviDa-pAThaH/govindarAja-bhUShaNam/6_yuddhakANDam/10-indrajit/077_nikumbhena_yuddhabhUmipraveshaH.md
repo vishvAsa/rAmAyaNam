@@ -5,7 +5,13 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तसप्ततितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 हनुमता निकुंभहननम् ॥ १ ॥
+
+</details>
+
 
 ****
 

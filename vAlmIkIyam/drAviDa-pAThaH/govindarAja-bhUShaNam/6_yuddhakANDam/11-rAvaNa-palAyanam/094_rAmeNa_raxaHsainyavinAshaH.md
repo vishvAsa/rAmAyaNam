@@ -5,7 +5,13 @@ title_english = "094 The female demons lament over the death of their kith and k
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुर्नवतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 रामेण रावणमूलबलवधः ॥ १ ॥
+
+</details>
+
 
 **स प्रविश्य सभां राजा दीनः परमदुःखितः ।**
 

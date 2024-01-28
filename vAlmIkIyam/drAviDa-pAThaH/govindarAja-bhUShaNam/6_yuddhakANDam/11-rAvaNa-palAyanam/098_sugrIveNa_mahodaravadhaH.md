@@ -5,7 +5,13 @@ title_english = "098 Angada kills Mahaparsva"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे अष्टनवतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 सुग्रीवेण महोदरवधः ॥ १ ॥
+
+</details>
+
 
 ****
 

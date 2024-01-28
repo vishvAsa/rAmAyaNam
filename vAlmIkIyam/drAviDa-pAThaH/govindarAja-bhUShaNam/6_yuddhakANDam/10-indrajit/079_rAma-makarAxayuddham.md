@@ -5,7 +5,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनाशीतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 राममकराक्षयोर्वीरवादपुरस्सरंसमरारंभः ॥ १ ॥ रामेणमकराक्षक्षपणम् ॥ २ ॥
+
+</details>
+
 
 ****
 

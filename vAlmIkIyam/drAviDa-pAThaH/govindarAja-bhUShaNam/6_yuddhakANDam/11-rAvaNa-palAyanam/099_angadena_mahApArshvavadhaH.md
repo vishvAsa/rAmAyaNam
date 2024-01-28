@@ -5,7 +5,13 @@ title_english = "099 The battle between Rama and Ravana"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनशततमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 अङ्गदेनमहापार्श्वभङ्गः ॥ १ ॥
+
+</details>
+
 
 ****
 

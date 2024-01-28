@@ -5,7 +5,13 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकनवतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 लक्ष्मणेनेन्द्रजिद्वधः ॥ १ ॥
+
+</details>
+
 
 **स हताश्वो महातेजा भूमौ तिष्ठन्निशाचरः ।**
 

@@ -5,7 +5,13 @@ title_english = "097 Sugreeva kills Mahodara"
 +++
 **श्रीमद्रामायणे बाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तनवतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 सुग्रीवेण विरूपाक्षवधः ॥ १ ॥
+
+</details>
+
 
 ****
 

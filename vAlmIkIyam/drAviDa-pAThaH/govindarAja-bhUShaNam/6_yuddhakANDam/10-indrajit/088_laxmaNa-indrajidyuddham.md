@@ -5,7 +5,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे अष्टाशीतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 लक्ष्मणेन्द्रजितोर्वीरवादपुरस्सरंसमरप्रवर्तनम् ॥ १ ॥
+
+</details>
+
 
 ****
 

@@ -5,7 +5,13 @@ title_english = "089 Vibhishana destroys many demons"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोननवतितमः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 लक्ष्मणेन्द्रजितोर्महायुद्धम् ॥ १ ॥
+
+</details>
+
 
 ****
 

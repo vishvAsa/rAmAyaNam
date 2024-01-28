@@ -5,7 +5,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 +++
 **श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुःपञ्चाशः सर्गः**
 
+
+<details><summary>विषयाः</summary>
+
 अङ्गदेनवज्रदंष्ट्रवधः ॥ १ ॥
+
+</details>
+
 
 ****
 
