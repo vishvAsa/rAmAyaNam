@@ -2,7 +2,16 @@
 title = "०५ रावण-श्वेत-द्वीप-प्राप्तिः"
 
 +++
-**प्रक्षिप्तेषु पञ्चमः सर्गः ॥ ५ ॥**
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रक्षिप्तेषु पञ्चमः सर्गः ॥ ५ ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रक्षिप्तेषु पञ्चमः सर्गः ॥ ५ ॥
+</details>
 
 <details><summary>विषयाः</summary>
 
