@@ -1,6 +1,5 @@
 +++
-title = "೦೦೧"
-unicode_script = "kannada"
+title = "००१ अगस्त्यादि-मेलनम्"
 
 +++
 [ಮೊದಲನೆಯ ಸರ್ಗ]

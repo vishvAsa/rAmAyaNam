@@ -1,6 +1,5 @@
 +++
-title = "೦೦೩"
-unicode_script = "kannada"
+title = "००३ कुबेरः"
 
 +++
 [ಮೂರನೆ ಸರ್ಗ]

@@ -1,6 +1,5 @@
 +++
-title = "೦೦೪"
-unicode_script = "kannada"
+title = "००४ हेति-कुलम्"
 
 +++
 [ನಾಲ್ಕನೆಯ ಸರ್ಗ]
