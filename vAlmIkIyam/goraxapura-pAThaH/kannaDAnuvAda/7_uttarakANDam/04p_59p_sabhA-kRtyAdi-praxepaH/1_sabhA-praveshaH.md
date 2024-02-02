@@ -1,5 +1,5 @@
 +++
-title = "೦೫೯"
+title = "१ सभा-प्रवेशः"
 unicode_script = "kannada"
 
 +++

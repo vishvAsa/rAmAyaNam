@@ -1,5 +1,5 @@
 +++
-title = "೦೬೦"
+title = "२ श्व-भिक्षु-कुलपति-कथा"
 unicode_script = "kannada"
 
 +++
