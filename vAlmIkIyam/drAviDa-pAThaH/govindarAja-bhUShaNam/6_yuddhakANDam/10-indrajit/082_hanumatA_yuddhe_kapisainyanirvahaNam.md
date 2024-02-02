@@ -14,7 +14,10 @@ title_english = "082 Hanuma Leads the monkey army"
 श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्व्यशीतितमः ॥ ८२ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 इन्द्रजिता मायासीताच्छेदनानन्तरं हनुमतावानरान्प्रति सीतानिधनाद्युद्धस्यवैफल्यो -क्त्त्या प्रतिनिवर्तनपूर्वकं तैस्सह रामसमीपगमनम् ॥ १ ॥ अत्रान्तरेलब्धावकाशेनेन्द्रजिता निकुंभिलामेत्ययागारंभः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,8 +34,11 @@ title_english = "082 Hanuma Leads the monkey army"
 तानुवाच ततः सर्वान्हनुमान्मारुतात्मजः ।  
 विषण्णवदनान्दीनांस्त्रस्तान्विद्रवतः पृथक् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथेन्द्रजितो निकुम्भिलायां होमारम्भः – श्रुत्वेत्यादि । शक्राशनिसमस्वनं शक्राशनिस्वनसममित्यर्थः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +51,11 @@ title_english = "082 Hanuma Leads the monkey army"
 कस्माद्विषण्णवदना विद्रवध्वे प्लवङ्गमाः ।  
 त्यक्तयुद्धसमुत्साहाः शूरत्वं क्वनु वो गतम् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विद्रवध्वे विद्रवथ । आत्मनेपदमार्षम् ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -83,8 +92,11 @@ title_english = "082 Hanuma Leads the monkey army"
 तामापतन्तीं दृष्ट्वैव रथः सारथिना तदा ।  
 विधेयाश्वसमायुक्तः सुपूरमपवाहितः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनुव्रजध्वं अनुव्रजत । पदव्यत्ययआर्षः ॥ ४-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "082 Hanuma Leads the monkey army"
 निपतन्त्या च शिलया राक्षसा मथिता भृशम् ॥ १२ ॥  
 तमभ्यधावञ्छतशो नदन्तः काननौकसः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यर्थमुद्यता व्यर्थं प्रयुक्ता ॥ ११-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +148,11 @@ title_english = "082 Hanuma Leads the monkey army"
 स शरौघानवसृजन्स्वसैन्येनाभिसंवृतः ।  
 जघान कपिशार्दूलान्स बहून्दृष्टविक्रमः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इन्द्रजितः इन्द्रजितं प्रति ॥ १४-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -151,8 +169,11 @@ title_english = "082 Hanuma Leads the monkey army"
 सस्कन्धविटपैः सालैः शिलाभिश्च महाबलः ।  
 हनुमान्कदनं चक्रे रक्षसां भीमकर्मणाम् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शूलैरशनिभिरिति अशनेरायुधत्वं शक्तिविशेषात् ॥ १९-२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,8 +198,11 @@ title_english = "082 Hanuma Leads the monkey army"
 इत्युक्त्वा वानरश्रेष्ठो वारयन्सर्ववानरान् ।  
 शनैः शनैरसंत्रस्तः सबलः सन्न्यवर्तत ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 न साध्यं साधयितुमयोग्यं । प्रयोजनाभावादितिभावः । तदेवाह—त्यक्त्वेति ॥ २१-२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +215,11 @@ title_english = "082 Hanuma Leads the monkey army"
 ततः प्रेक्ष्य हनूमन्तं व्रजन्तं यत्र रौघवः ।  
 स होतुकामो दुष्टात्मा गतश्चैत्यनिकुम्भिलाम् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चैत्यनिकुम्भिलां चैत्ये विद्यमानं निकुम्भिलाख्यदेवतायतनमित्यर्थः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -207,8 +234,11 @@ title_english = "082 Hanuma Leads the monkey army"
 यज्ञभूम्यां तु विधिवत्पावकस्तेन रक्षसा ।  
 हूयमानः प्रजज्वाल मांसशोणितभुक्तदा ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निकुम्भिलामित्यर्धं । जुहव जुहाव ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,8 +251,11 @@ title_english = "082 Hanuma Leads the monkey army"
 सोर्चिः पिनदो ददृशे होमशोणिततर्पितः ।  
 सन्ध्यागत इवादित्यः सुतीव्रोऽग्निः समुत्थितः ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 होमशोणितं शोणितहोमः ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +269,10 @@ title_english = "082 Hanuma Leads the monkey army"
 दृष्ट्वा व्यतिष्ठन्त च राक्षसास्ते महासमूहेषु नयानयज्ञाः ॥ २९ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 नयानयज्ञाः शास्त्रीयाशास्त्रीयविदः ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

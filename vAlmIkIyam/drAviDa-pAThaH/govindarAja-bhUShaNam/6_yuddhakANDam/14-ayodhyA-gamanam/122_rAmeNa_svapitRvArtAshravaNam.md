@@ -32,7 +32,10 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 इदं शुभतरं वाक्यं व्याजहार महेश्वरः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 देवकार्यस्य कृतत्वात्रिदिवमाक्रमेति ब्रह्मणोक्तत्वाल्लोके धर्मसंस्थापन परं रामहृदयं जानन् रुद्रस्तदनुमन्यते – एतच्छ्रुत्वेत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 पुष्कराक्ष महाबाहो महावक्षः परन्तप ।  
 दिष्ट्या कृतमिदं कर्म त्वया शस्त्रभृतांवर ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुष्कराक्ष पुण्डरीकाक्ष । अनेन तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी, पुरुषः पुण्डरीकाक्ष इति श्रुतिस्मृतिभ्यामुदीरितस्य परब्रह्मासाधारणचिह्नस्य रामेरुद्रेण प्रति पादनाद्रामत्वेनावतीर्णो विष्णुरेव वेदान्तवेद्यं परब्रह्मेत्युक्तं । श्रीनिवासत्वेन महावक्षस्त्वं । दिष्ट्या भाग्येन । अस्माकमिति शेषः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 दिष्ट्या सर्वस्य लोकस्य प्रवृद्धं दारुणं तमः ।  
 अपावृत्तं त्वया संख्ये राम रावणजं भयम् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उक्तमेव विवृणोति – दिष्ट्येति ॥ सर्वस्य लोकस्य रावणजं भयमेव प्रवृद्धं तमः अपावृत्तं निरस्तम् ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,8 +90,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 इष्ट्वा तुरगमेधेन प्राप्य चानुत्तमं यशः ।  
 ब्राह्मणेभ्यो धनं दत्वा त्रिदिवं गन्तुमर्हसि ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आश्वास्येत्यादिश्लोकत्रयमेकान्वयम् ॥ यशस्विनीमिति कैकेयीविशेषणं । तन्मूलत्वाद्रावणवधस्य तस्या यशस्वित्वं । लक्ष्मणमातरमित्यनेन सा लक्ष्मणस्नेहाद्विशेषतो वन्द्येत्युक्तं । अयोध्यायां सुहृज्जनं नन्दयित्वेत्यन्वयः । वंशं पुत्रपौत्रादिपरम्परां । इक्ष्वाकूणां कुले इक्ष्वाकुकुलनिमित्तं । स्थापयित्वा । प्राप्य चानुत्तमं यश इति तुरगमेधफलोक्तिः । आश्वास्येत्यादिना दशवर्षसहस्राणि दशवर्षशतानि च । वत्स्यामि मानुषे लोके इत्यवतारात्पूर्वं तत्कृतां प्रतिज्ञामनुसृत्यरुद्रेणोक्तम् ॥ ४-६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -107,8 +119,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 दीप्यमानं स्वया लक्ष्म्या विरजोम्बरधारिणम् ।  
 लक्ष्मणेन सह भ्रात्रा ददर्श पितरं विभुः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एष इत्यादिश्लोकद्वयमेकान्वयम् ॥ देवदेहपरिग्रहेणापरिज्ञायमानत्वात् पुरस्थितोप्येष इत्यङ्गुल्या निर्दिश्यते । मानुषेलोके गुरुरित्यनेन पिता पुत्रेण पितृमान् योनियोनौ इति श्रुतिरुपबृंहिता ॥ ७-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +140,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 आरोप्याङ्कं मैहाबाहुर्वरासनगतः प्रभुः ।  
 बाहुभ्यां संपरिष्वज्य ततो वाक्यं समाददे ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हर्षेणेत्यादिश्लोकद्वयमेकान्वयम् ॥ पुत्रं रामम् ॥ ११-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,8 +161,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 अद्य त्वा निहतामित्रं दृष्ट्वा संपूर्णमानसम् ।  
 निस्तीर्णवनवासं च प्रीतिरासीत्परा मम ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुरर्षिभिः संमानः देवर्षिभिः संमानोपि ॥ १३-१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +178,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 कैकेय्या यानि चोक्तानि वाक्यानि वदतां वर ।  
 तव प्रवाजनार्थानि स्थितानि हृदये मम ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हृदये स्थितानि । न विस्मरामीत्यर्थः । तेन दुःखितोभूवमिति सूचितम् ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +195,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 त्वां तु दृष्ट्वा कुशलिनं परिष्वज्य सलक्ष्मणम् ।  
 अद्य दुःखाद्विमुक्तोस्मि नीहारादिव भास्करः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सलक्ष्मणमित्यनेन द्वितीयपरिष्वङ्गे लक्ष्मणोपि विषयीकृत इत्युच्यते ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +212,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 तारितोहं त्वया पुत्र सुपुत्रेण महात्मना ।  
 अष्टावक्रेण धर्मात्मा तारितो ब्राह्मणो यथा ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तारितोहं त्विति ॥ कहोलो नाम ऋषिरष्टावक्रेण तारित इतीयं कथा भारतोक्ता ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +229,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 इदानीं तु विजानामि यथा सौम्य सुरेश्वरैः ।  
 वधार्थं रावणस्येदं विहितं पुरुषोत्तम ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणस्य वधार्थं सुरेश्वरैरिदमभिषेकविघ्नादिकं कर्म यथा विहितं तथा इदानीमेव जानामि । पुरुषोत्तमेत्यनेन भवान्विष्णुरेव रावणवधार्थं मनुष्यत्वंगत इत्युच्यते ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +250,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 सिद्धार्थाः खलु ते राम नरा ये त्वां पुरीं गतम् ।  
 जलार्द्रमभिषिक्तं च द्रक्ष्यन्ति वसुधाधिपम् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सिद्धार्था कृतार्था । मम स्वर्गसुखादपि तस्याः सुखमधिकमिति भावः। ॥ १९-२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,8 +281,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 भ्रातृभिः सह राज्यस्थो दीर्घमायुरवाप्नुहि ॥  
 इति ब्रुवाणं राजानं रामः प्राञ्जलिरब्रवीत् ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनुरक्तेनेति ॥ अवश्यं राम भरतं प्राप्नुहीति भावः ॥ २१ -२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -259,8 +298,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 कुरु प्रसादं धर्मज्ञ कैकेय्या भरतस्य च ।  
 सपुत्रां त्वां त्यजामीति यदुक्ता केकयी त्वया ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कैकेय्या भरतस्य च कैकेय्यां भरते चेत्यर्थः । संबन्धसामान्ये षष्ठी । यस्मादुक्ता तस्मात् प्रसादं कुर्विति संबन्धः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,8 +317,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 स तथेति महाराजो राममुक्त्वा कृताञ्जलिम् ।  
 लक्ष्मणं च परिष्वज्य पुनर्वाक्यमुवाच ह ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स शाप इत्यर्धमेकं वाक्यम् ॥ शापः संबन्धविच्छेदरूपः ॥ २६–२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -289,8 +334,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 रामं शुश्रूषता भक्त्या वैदेह्या सह सीतया ।  
 कृता मम महाप्रीतिः प्राप्तं धर्मफलं च ते ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सीतया सह रामं शुश्रूषतेत्यन्वयः ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,8 +355,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 रामं शुश्रूष भद्रं ते सुमित्रानन्दवर्धन ।  
 रामः सर्वस्य लोकस्य शुभेष्वभिरतः सदा ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्वर्गं सुखं । लक्ष्मणस्यापि विष्ण्ववतारत्वं न जानाति दशरथः । महिमानं महत्त्वम् ॥ २९-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -321,8 +372,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 एते सेन्द्रास्त्रयो लोकाः सिद्धाश्च परमर्षयः ।  
 अभिगम्य महात्मानमर्चन्ति पुरुषोत्तमम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रामस्य सर्वोत्तमत्वं शिष्टाचारेण दर्शयति – एत इति । अर्चन्तीतिणिजभाव आर्षः । एत इति हस्तनिर्देशन रुद्रोप्यन्तर्गतः ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,8 +405,11 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 \[ सुदुष्करमिदं पुत्रि तव चारित्रलक्षणम् ।  
 कृतं यत्तेऽन्यनारीणां यशो ह्यभिभविष्यति \] ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 देवानां हृदयं सर्वदेवान्तर्यामी । वेदानामिति पाठे वेदतात्पर्यभूतं । उभयथाप्यनीन्द्रादिरूपेण सर्वकर्मसमाराध्यमित्यर्थः । गुह्यं साक्षादुपनिषद्वेयं । अव्यक्तं भक्तिशून्यैर्दुर्ज्ञेयं । अक्षरं षड्भावविकाररहितं । तदेतत् ब्रह्म रामः रामरूपेण निर्मितं । रामरूपेणावतीर्णं । इति उक्तं । ब्रह्मादिभिरिति शेषः ॥ ३२-३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -374,7 +431,10 @@ title_english = "122 Rama along with Lakshmana and Seetha ascend the aerial car"
 आमन्त्र्य पुत्रौ सह सीतया च जगाम देवप्रवरस्य लोकम् ॥ ३९ ॥ \]
 </details>
 
+<details><summary>व्याख्या</summary>
+
 न समाधेया नोपदेटव्या ॥ ३७–३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

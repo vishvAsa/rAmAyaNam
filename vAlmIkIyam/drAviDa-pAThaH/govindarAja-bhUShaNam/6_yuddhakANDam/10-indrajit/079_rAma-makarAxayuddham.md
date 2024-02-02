@@ -40,7 +40,10 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 अन्योन्यं मर्दयन्ति स्स तदा कपिनिशाचराः ॥ ३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ मकराक्षवध एकोनाशीतौ – निर्गतमिति ॥ १–३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -61,8 +64,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 बाणौघैरर्दिताश्चापि खरपुत्रेण वानराः ।  
 संभ्रान्तमनसः सर्वे दुद्रुवुर्भयपीडिताः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शक्तीत्यादिश्लोकद्वयमेकान्वयम् ॥ निखातैः आयुधविशेषैः । निर्घातैरिति पाठे अशनिभिरित्यर्थः । केचिन्निशाचराः शक्तिखङ्गादिभिः अपरे रजनीचराः पाशमुद्गरादिभिश्च कदनं चक्रुरिति योजना ॥ ४ – ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +93,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 तिष्ठ राम मया सार्धं द्वन्द्वयुद्धं ददामि ते ।  
 त्याजयिष्यामि ते प्राणान्धनुर्मुक्तैः शितैः शरैः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राक्षसा जितकाशिन इति भिन्नं वाक्यं । जितं जयः तेन काशन्त इति तथोक्ता जितकाशिनः । बभूवुरिति शेषः । अन्यथा द्वितीयराक्षसपदवैयर्थ्यं स्यात् ॥ ७-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +110,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 यत्तदा दण्डकारण्ये पितरं हतवान्मम ।  
 मदग्रतः स्वकर्मस्थं दृष्ट्वा रोषोभिवर्धते ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्वकर्मस्थं वधकर्मस्थं । यथा पिता हतस्तथा वध्यमित्यर्थः । यद्वा क्षात्रधर्मकर्मानुतिष्ठन्तमित्यर्थः । स्वकर्मस्थमिति सुतरामकृत्यनिरतमिति वार्थः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,8 +139,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 बहुनाऽत्र किमुक्तेन शृणु राम वचो मम ।  
 पश्यन्तु सकला लोकास्त्वां मां चैव रणाजिरे ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्मिन्काले महावने यद्यस्मान्न दृष्टोसि तस्मान्ममाङ्गानि दह्यन्ते । तदानीमेव दृष्टश्चेत्प्रतीकारेण तापः शाम्येदित्यर्थः ॥ १२-१५ ॥ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,8 +156,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 अस्त्रैर्वा गदया वाऽपि बाहुभ्यां वा महाहवे ।  
 अभ्यस्तं येन वा राम तेनैव युधि वर्तताम् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महाहवे निमित्ते । येन वा अन्येनायुधेनाभ्यस्तं तेनैव युधि वर्ततां । भवानिति शेषः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,8 +173,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 मकराक्षवचः श्रुत्वा रामो दशरथात्मजः ।  
 अब्रवीत्प्रहसन्वाक्यमुत्तरोत्तरवादिनम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्तरोत्तरवादिनं । बहुप्रलापिनमित्यर्थः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +194,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 चतुर्दशसहस्राणि रक्षसां त्वत्पिता च यः ।  
 त्रिशिरा दूषणश्चैव दण्डके निहता मया ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 युद्धेन विना प्रहारेण विना ॥ १८-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +227,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 तद्युद्धमभवत्तत्र समेत्यान्योन्यमोजसा ।  
 रक्षसः खरपुत्रस्य सूनोर्दशरथस्य च ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्वाशिताः सुष्ठु आशितवन्तः ॥ २०-२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,8 +248,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 देवदानवगन्धर्वाः किन्नराश्च महोरगाः ।  
 अन्तरिक्षगताः सर्वे द्रष्टुकामास्तदद्भुतम् ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ज्यातलयोः शब्दः ज्यातलयोः संघर्षजः शब्दः । स्वनोत्कृष्टः स्वनेषूत्कृष्टः ॥ २५–२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,8 +277,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 ततः क्रुद्धो महाबाहुर्धनुश्चिच्छेद रक्षसः ।  
 अष्टाभिरथ नाराचैः सूतं विव्याध राघवः ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विद्धं वेधनं । वर्धते अवर्धत । कृतप्रतिकृतान्योन्यं कृतस्य प्रतिकृतं ययोस्तौ तादृशावन्योन्यं यस्मिन्युद्धकर्मणि तत्तथोक्तं । कुरुतां अकुरुतां । युद्धमिति शेषः ॥ २७ – ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,8 +294,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 भित्वा शरै रथं रामो रथाश्वान्समपातयत् ।  
 विरथो वसुधां तिष्ठन्मकराक्षो निशाचरः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वसुधां तिष्ठत् वसुधायामतिष्ठत् ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,8 +329,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 स च्छिन्नो नैकधा शूलो दिव्यहाटकमण्डितः ।  
 व्यशीर्यत महोल्केव रामबाणार्दितो भुवि ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वसुधां वसुधायाम् ॥ ३२-३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +362,11 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 दृष्ट्वा ते राक्षसाः सर्वे मकराक्षस्य पातनम् ।  
 लङ्कामेवाभ्यधावन्त रामबाणार्दितास्तदा ॥ ४१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तच्छूलमिति । नभोगता नभोगतानि । सुपां सुलुक् — इत्यादिना आकारादेशः ॥ ३७ –४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -338,7 +380,10 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 ददृशुरथ सुरा भृशं प्रहृष्टा गिरिमिव वज्रहतं यथा विकीर्णम् ॥ ४२ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 गिरिमिव वज्रहतं यथेति । द्वे अप्यव्ययपदे संभूयैकार्थमेवाचक्षाते । पक्षद्वयेपि मकराक्षवधेन दशममहः समाप्तम् ॥ ४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

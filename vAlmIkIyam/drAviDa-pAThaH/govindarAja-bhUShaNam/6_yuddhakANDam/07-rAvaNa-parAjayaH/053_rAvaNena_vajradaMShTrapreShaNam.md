@@ -36,7 +36,10 @@ title_english = "053 Ravana sends Vajradamstra"
 अब्रवीद्राक्षसं शूरं वज्रदंष्ट्रं महाबलम् ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ वज्रदंष्ट्रयुद्धं त्रिपञ्चाशे – धूम्राक्षमित्यादि ॥ आविष्टः अभूदिति शेषः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "053 Ravana sends Vajradamstra"
 गच्छ त्वं वीर निर्याहि राक्षसैः परिवारितः ।  
 जहि दाशरथिं रामं सुग्रीवं वानरैः सह ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गच्छ त्वं वीर निर्याहीति ॥ इतो गच्छ पुरान्निर्याहीत्यर्थः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +69,11 @@ title_english = "053 Ravana sends Vajradamstra"
 तथेत्युक्त्वा द्रुततरं मायावी राक्षसेश्वरः ।  
 निर्जगाम बलैः सार्धं बहुभिः परिवारितः ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बहुभिः बलाध्यक्षैरिति शेषः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "053 Ravana sends Vajradamstra"
 पताकालङ्कृतं दीप्तं तप्तकाञ्चनभूषणम् ।  
 रथं प्रदक्षिणं कृत्वा समारोहच्चभूपतिः ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रथैरित्यस्य संयुक्त इत्यनेनान्वयः । समलंकृतः चन्दनकुसुमादिभिरलङ्कृतः । तनुत्राणि कवचतलत्रकण्ठत्रशिरस्त्राणानि । संरुध्य संबध्य धृत्वेत्यर्थः ॥ ५- ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,8 +117,11 @@ title_english = "053 Ravana sends Vajradamstra"
 पदातयश्च निर्यान्ति विविधाः शस्त्रपाणयः ॥  
 विचित्रवाससः सर्वे दीप्ता राक्षसपुङ्गवाः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यष्टिभिरित्यादिसार्धश्लोकद्वयम् ॥ ८–९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +134,11 @@ title_english = "053 Ravana sends Vajradamstra"
 गजा मदोत्कटाः शूराश्चलन्त इव प्वताः ।  
 ते युद्धकुशलै रूढास्तोमराङ्कुशपाणिभिः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गजा इति । अत्र निर्यान्तीत्यनुषज्यते । गजानेव विशिनष्टि-ते युद्धेत्यादिना । तोमराङ्कुशपाणिमिः यन्तृभिः । रूढाः आरूढा इत्यर्थः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,8 +159,11 @@ title_english = "053 Ravana sends Vajradamstra"
 निःसृता दक्षिणद्वारादङ्गदो यत्र यूथपः ।  
 तेषां निष्क्रममाणानामशुभं समजायत ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्ये लक्षणसंयुक्ता इति ॥ अत्रापि गजा निर्यान्तीत्यनुषङ्गः ॥ ११-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +180,11 @@ title_english = "053 Ravana sends Vajradamstra"
 व्याहरन्ति मृगा घोरा रक्षसां निधनं तदा ।  
 समापतन्तो योधास्तु प्रास्खलन्भयमोहिताः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विधनात् घनशून्यात् ॥ १४-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +197,11 @@ title_english = "053 Ravana sends Vajradamstra"
 एतानौत्पातिकान्दृष्ट्वा वज्रदंष्ट्रो महाबलः ।  
 धैर्यमालम्ब्य तेजस्वी निर्जगाम रणोत्सुकः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 औत्पातिकान् अशुभसूचकान् ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +214,11 @@ title_english = "053 Ravana sends Vajradamstra"
 तांस्तु निष्क्रमतो दृष्ट्वा वानरा जितकाशिनः ।  
 प्रणेदुः सुमहानादान्पूरयंश्च दिशो दश ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूरयन् अपूरयंश्चेत्यर्थः । केचित्तु पूरयन् पूरयन्त इत्यर्थः, वचनव्यत्यय आर्ष इत्याहुः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +247,11 @@ title_english = "053 Ravana sends Vajradamstra"
 रथनेमिस्वनस्तंत्र धनुषश्चापि निस्स्वनः ।  
 शङ्खमेरी मृदङ्गानां बभूव तुमुलः स्वनः ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तुमुलं रणसङ्कुलं । तुमुलं रणसङ्कुले इत्यमरः ॥ १८-२२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +272,11 @@ title_english = "053 Ravana sends Vajradamstra"
 वज्रदंष्ट्रो भृशं बाणै रणे वित्रासयन्हरीन् ।  
 चचार लोकसंहारे पाशहस्त इवान्तकः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्त्राणि संसृज्य सर्वाण्यस्त्राणि प्रयुज्य । तदनन्तरमस्त्राभावात् बाहुयुद्धमकुर्वतेत्यर्थः ॥ २३ – २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +289,11 @@ title_english = "053 Ravana sends Vajradamstra"
 बलवन्तोस्त्रविदुषो नानामहरणा रणे ।  
 जघ्नुर्वानरसैन्यानि राक्षसाः क्रोधमूर्च्छिताः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्त्रविदुषः अस्त्रविद्वांसः । प्रथमार्थे द्वितीया ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +320,11 @@ title_english = "053 Ravana sends Vajradamstra"
 रथैरश्वैर्ध्वजैश्चित्रैः शरीरैर्हरिरक्षसाम् ।  
 रुधिरेण च संछन्ना भूमिर्भयकरी तदा ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निघ्नत इत्यादिश्लोकद्वयमेकान्वयम् ॥ संवर्तके प्रलयकाले । तान्राक्षसगणानित्यत्र निजघानेति विपरिणामः ॥ २७-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -300,7 +342,10 @@ title_english = "053 Ravana sends Vajradamstra"
 प्राकम्पत तदा तत्र पवनेनाम्बुदो यथा ॥ ३२ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 शारदीव यथा निशेत्यत्र इव शब्दयथाशब्दावेकार्थकौ अपिचेतिवत् । इवशब्दः पादपूरण इत्येके ॥ ३१ – ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

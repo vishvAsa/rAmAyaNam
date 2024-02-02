@@ -32,7 +32,10 @@ title_english = "043 The duels arose between the monkeys and demons"
 रक्षसां संबभूवाथ बलकोपः सुदारुणः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ द्वन्द्वयुद्धं वर्णयति त्रिचत्वारिंशे – युध्यतां वित्यादि ॥ वानराणां युध्यतां वानरेषु युध्यमानेषु । बलकोपः सेनायाः कोपः । बलेत्यविभक्तिकनिर्देशः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -61,8 +64,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 अङ्गदेनेन्द्रजित्सार्धं वालिपुत्रेण राक्षसः ।  
 अयुध्यत महातेजास्त्र्यम्बकेण यथाऽन्तकः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते हयैरित्यादिश्लोकद्वयमेकान्वयम् ॥ काञ्चनापीडैः स्वर्णमयशेखरैः । हयैरित्याद्युपलक्षणे तृतीया । राक्षसव्याघ्राः राक्षसश्रेष्ठाः । राक्षसश्रेष्ठवेपि जात्यन्तरत्वं संभवतीति राक्षसा इत्युक्तम् ॥ २ – ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +93,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 वानरेन्द्रस्तु सुग्रीवः प्रघसेन समागतः ।  
 संगतः समरे श्रीमान्विरूपाक्षेण लक्ष्मणः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दुर्मर्षणः दुःसहः । प्रजङ्घो राक्षसः । संपातिः विभीषणसचिवः । आरब्धः हन्तुमिति शेषः ॥ ७-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +110,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 अग्निकेतुश्च दुर्घर्षो रश्मिकेतुश्च राक्षसः ।  
 सुप्तघ्नो यज्ञकोपश्च रामेण सह संगताः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनिकेतुरिति । सुप्तध्नयज्ञकोपौ चेति वापाठः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +127,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 वज्रमुष्टिस्तु मैन्देन द्विविदेनाशनिप्रभः ।  
 राक्षसाभ्यां सुघोराभ्यां कपिमुख्यौ समागतौ ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राक्षसाभ्यां वज्रमुष्टवशनिप्रभाभ्यां कपिमुख्यौ मैन्दद्विविदौ । अनेन परस्परसंगतिरुक्ता ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +148,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 धर्मस्य पुत्रो बलवान्सुषेण इति विश्रुतः ।  
 स विद्युन्मालिना सार्धमयुध्यत महाकपिः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रणदुर्धरः रणे दुनिग्रहः ॥ १३–१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +165,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 वानराचापरे भीमा राक्षसैरपरैः सह ।  
 द्वन्दं सैमीयुर्वहुधा युद्धाय बहुभिः सह ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 द्वन्द्वं द्वन्द्वत्वं । बहुधा युद्धाय शस्त्रास्त्रबाहुचरणप्रभृ तिभिर्युद्धाय । बहुभिरितिराक्षसविशेषणाद्वानराश्चेयत्रापि बहव इति विशेषणं विज्ञेयम् ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +182,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 तत्रासीत्सुमहद्युद्धं तुमुलं रोमहर्षणम् ।  
 रक्षसां वानराणां च वीराणां जयमिच्छताम् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तुमुलं व्याकुलम् ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,8 +199,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 हरिराक्षसदेहेभ्यः प्रभूताः केशशाद्वलाः ।  
 शरीरसंघाटवहाः प्रसस्रुः शोणितापगाः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 केशशाद्बलाः केशैः शाद्बलवत्यः । संघाटः काष्ठसंचयः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,8 +224,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 संपातिस्तु त्रिभिर्बाणैः प्रजङ्घेन समाहतः ।  
 निजघानाश्वकर्णेन प्रजङ्गं रणमूर्धनि ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आजघान ताडयामास ॥ १८-२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +241,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 जम्बुमाली रथस्थस्तु रथशक्त्या महाबलः ।  
 बिभेद समरे क्रुद्धो हनूमन्तं स्तनान्तरे ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रथशक्त्या रथ एव सदा वर्तमानया शक्त्या ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,8 +258,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 तस्य तं रथमास्थाय हनूमान्मारुतात्मजः ।  
 प्रममाथ तलेनाशु सह तेनैव रक्षसा ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आस्थाय आरुह्य ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -237,8 +273,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 
 नदन्प्रतपंनो घोरो नलं सोप्यन्वधावत ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नदन्नित्यर्धमेकं वाक्यम् ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,8 +290,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 नलः प्रतपनस्याशु पातयामास चक्षुषी ।  
 भिन्नगात्रः शरैस्तीक्ष्णैः क्षिप्रहस्तेन रक्षसा ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्षसा प्रतपनेन । भिन्नगात्र इत्यस्य पूर्वेणान्वयः ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,8 +315,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 अग्निकेतुश्च दुर्धर्षो रश्मिकेतुश्च राक्षसः ।  
 सुप्तघ्नो यज्ञकोपश्च रामं निर्बिभिदुः शरैः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सप्तपर्णेन सप्तपर्णवृक्षेण ॥ २५–२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,8 +332,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 तेषां चतुर्णां रामस्तु शिरांसि निशितैः शरैः ।  
 क्रुद्धचतुर्भिचिच्छेद घोरैरग्निशिखोपमैः ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अग्निशिखोपमैः अग्निज्वालोपमैः ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -305,8 +353,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 निकुम्भस्तु रणे नीलं नीलाञ्जनचयप्रभम् ।  
 निर्बिभेद शरैस्तीक्ष्णैः करैर्मेघमिवांशुमान् ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुराट्ट पुरवलभिः ॥ २९-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,8 +370,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 पुनः शरशतेनाथ क्षिग्रहस्तो निशाचरः ।  
 बिभेद समरे नीलं निकुम्भः प्रजहास च ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्षिप्रहस्तः क्षित्रकारिहस्तः । निकुम्भः प्रजहास चेति पाठः सम्यक् ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,8 +407,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 तं रथस्थमथो दृष्ट्वा सुषेणो वानरोत्तमः ।  
 गिरिशृङ्गेण महता रथमाशु न्यपातयत् ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शिरश्चिच्छेद सारथेरित्यनन्तरं वज्राशनिसमस्पर्श इति श्लोकः । ततो द्विविदं वानरेन्द्रं त्विति श्लोकः ॥ ३२ – ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,8 +424,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 लाघवेन तु संयुक्तो विद्युन्माली निशाचरः ।  
 अपक्रम्य रथात्तूर्णं गदापाणिः क्षितौ स्थितः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अपक्रम्य अवप्लुत्य ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -385,8 +445,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 तमापतन्तं गदया विद्युन्माली निशाचरः ।  
 वक्षस्यभिजघानाशु सुषेणं हरिसत्तमम् ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभिद्रवत् अभ्यद्रवत् ॥ ३९-४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -403,8 +466,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 शिलाप्रहाराभिहतो विद्युन्माली निशाचरः ।  
 निष्पिष्टहृदयो भूमौ गतासुर्निपपात ह ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अचिन्त्य अचिन्तयित्वा ॥ ४१ – ४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,8 +483,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 एवं तैर्वानरैः शूरैः शूरास्ते रजनीचराः ।  
 द्वन्द्वे विमृदितास्तत्र दैत्या इव दिवौकसैः ॥ ४३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दिवौकसैरित्यकारान्तत्वमार्षम् ॥ ४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -437,8 +506,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 चक्राक्षयुगदण्डैश्च भग्नैर्धरणिसंश्रितैः ।  
 बभूवायोधनं घोरं गोमायुगणसंकुलम् ॥ ४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भग्नैरित्यादि सार्धश्लोकद्वयमेकान्वयम् ॥ अपविद्धैरिति रथविशेषणं । भिन्नैरिति हयविशेषणं । सांग्रामिकैः संग्रामे साधुभिः । अक्षं चक्ररन्ध्रं । युगदण्डः अश्वबन्धनदण्डः ॥ ४४ – ४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -451,8 +523,11 @@ title_english = "043 The duels arose between the monkeys and demons"
 कबन्धानि समुत्पेतुर्दिक्षु वानररक्षसाम् ।  
 विमर्दे तुमुले तस्सिन्देवासुररणोपमे ॥ ४६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कबन्धानि शिरोहीनशरीराणि । विमर्दे युद्धे ॥ ४६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -466,7 +541,10 @@ title_english = "043 The duels arose between the monkeys and demons"
 पुनः सुयुद्धं तरसा समास्थिता दिवाकरस्यास्तमयाभिकाङ्क्षिणः ॥ ४७ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 दिवाकरस्येति । रात्रौ राक्षसानां बलाधिक्यादितिभावः ॥ ४७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

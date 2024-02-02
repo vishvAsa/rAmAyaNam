@@ -36,7 +36,10 @@ title_english = "008 All demons eulogising their strengths"
 न त्वां धर्षयितुं शक्ताः किं पुनर्वानरा रणे ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 एवं मन्त्रिभिः सहसंमन्त्र्य भूयोभिहिते सकलसचिवप्रधानः प्रहस्तः स्वाभिमतमर्थं राज्ञे निवेदयति – तत इति ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "008 All demons eulogising their strengths"
 सर्वां सागरपर्यन्तां सशैलवनकाननाम् ।  
 करोम्यवानरां भूमिमाज्ञापयतु मां भवान् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हनुमतः पौरुषं प्रत्यक्षतो दृष्ट्वा कथमेवमुच्यत इत्यत्राह – सर्व इति ॥ विश्वस्ताः परिभवितुमस्मान् कोपि न शक्त इति विश्वस्ताः विस्रब्धाः । प्रामादिकशत्रुपरिभवो न न्यूनतामापादयतीतिभावः ॥ ३–४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "008 All demons eulogising their strengths"
 रक्षां चैव विधास्यामि वानराद्रजनीचर ।  
 नागमिष्यति ते दुःखं किं चिदात्मापराधजम् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आत्मापराधः सीताहरणरूपो व्यतिक्रमः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "008 All demons eulogising their strengths"
 अयं परिभवो भूयः पुरस्यान्तःपुरस्य च ।  
 श्रीमतो राक्षसेन्द्रस्य वानरेण प्रधर्षणम् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हि यस्माद्वानरेण कृतमिदं कर्म सर्वेषां नः प्रधर्षणरूपं । भूयः तदुपरि पुर स्यान्तःपुरस्य च परिभवरूपं । अथच राक्षसेन्द्रस्य प्रधर्षणरूपं । अतो न क्षमणीयमित्यर्थः ॥ ६-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "008 All demons eulogising their strengths"
 ततोऽब्रवीत्सुसङ्क्रुद्धो वज्रदंष्ट्रो महाबलः ।  
 प्रगृह्य परिघं घोरं मांसशोणितरूपितम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः किं करिष्यसीत्यत आह–अस्मिन्निति ॥ ८-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,8 +136,11 @@ title_english = "008 All demons eulogising their strengths"
 अद्य रामं ससुग्रीवं परिघेण सलक्ष्मणम् ।  
 आगमिष्यामि हत्वैको विक्षोभ्य हरिवाहिनीम् ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृपणेन गूढसंचार प्रकटितभयेन । तपस्विना शोच्येन ॥ १० – ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,8 +153,11 @@ title_english = "008 All demons eulogising their strengths"
 इदं ममापरं वाक्यं शृणु राजन्यदीच्छसि ।  
 उपायकुशलो ह्येव जयेच्छत्रूनतन्द्रितः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तद्वाक्यं किमित्याकाङ्क्षायामुपायप्रतिपादकं वाक्यं वक्तुमादावुपायं प्रशंसति – उपायेति ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +180,11 @@ title_english = "008 All demons eulogising their strengths"
 \[ तवागमनमुद्दिश्य कृत्यमात्ययिकं त्विति \] ।  
 स हि सेनां समुत्थाप्य क्षिप्रमेवोपयास्यति ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विवक्षितमुपायमेवाह – कामरूपेत्यादिना ॥ निश्चिताः निश्चितवन्तः । राक्षसा वा सहस्राणीति । सहस्रशब्दस्य संख्येयपरत्वेपि शब्दस्वाभाव्यान्नपुंसकत्वं । किमिति ब्रूयुस्तत्राह — प्रेषिता इति ॥ अस्यान्ते इतिकरणं द्रष्टव्यम् ॥ १३-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,8 +201,11 @@ title_english = "008 All demons eulogising their strengths"
 आकाशे गणशः स्थित्वा हत्वा तां हरिवाहिनीम् ।  
 अश्मशस्त्रमहावृष्ट्या प्रापयाम यमक्षयम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते वयं तत्र समीपे याम । यामेति लोटि रूपम् ॥ १६-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,8 +222,11 @@ title_english = "008 All demons eulogising their strengths"
 कौम्भकर्णिस्ततो वीरो निकुम्भो नाम वीर्यवान् ।  
 अब्रवीत्परमक्रुद्धो रावणं लोकरावणम् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवं कृते किं स्यादित्यत्राह — एवं चेदिति ॥ राम लक्ष्मणौ अनयं अस्मत्कृतकैतवापरिज्ञानेन विश्वासं यद्युपसर्पेतां ततस्तेन अपनीतेन अपनयेन । जीवितं जहतामेव । जह्यातामेवेत्यर्थः ॥ १८- १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +241,11 @@ title_english = "008 All demons eulogising their strengths"
 अहमेको हनिष्यामि राघवं सहलक्ष्मणम् ।  
 सुग्रीवं च हनूमन्तं सर्वानेव च वानरान् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्व इत्यादि सार्धश्लोकमेकं वाक्यम् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,8 +262,11 @@ title_english = "008 All demons eulogising their strengths"
 स्वैरं कुर्वन्तु कार्याणि भवन्तो विगतज्वराः ।  
 एकोऽहं भक्षयिष्यामि तान्सर्वान्हरियूथपान् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिसार्धश्लोकत्रयमेकान्वयम् ॥ २१ – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -246,7 +282,10 @@ title_english = "008 All demons eulogising their strengths"
 अङ्गदं च हनूमन्तं रामं च रणकुञ्जरम् ॥ २४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 मधुवारुणीं मधुरूपां वारुणीं । रणकुञ्जरं रणाप्रवृष्यं । स्वःस्था इत्यमङ्गलोक्तिः ॥ २३ – २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

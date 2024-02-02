@@ -32,7 +32,10 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 क्रोधं च द्विगुणं चक्रे क्रोधाच्चास्त्रमनन्तरम् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ लक्ष्मणस्य शक्त्या पतनं तस्मिन्नित्यादि । क्रोधाच्चास्त्रमनन्तरमित्यत्रापि चक्र इत्यनुषज्यते ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 मयेन विहितं रौद्रमन्यदस्त्रं महाद्युतिः ।  
 उत्स्रष्टुं रावणो घोरं राघवाय प्रचक्रमे ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 किं तद्वमित्यपेक्षायामाह – मयेनेति ॥ रौद्रं रुद्रदेवताकम् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,8 +81,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 ततश्चक्राणि निष्पेतुर्भास्वराणि महान्ति च ।  
 कार्मुकाद्भीमवेगस्य दशग्रीवस्य धीमतः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः शूलानीत्यादिश्लोकद्वयमेकान्वयम् ॥ कूटपाशाः कपटपाशाः ॥ ३–७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,8 +114,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 ततो विव्याध गात्रेषु सर्वेषु समितिंजयः ।  
 राघवस्तु सुसंक्रुद्धो रावणं बहुभिः शरैः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चन्द्रसूर्यग्रहैरिवेति । तत्समानाकारैरित्यर्थः ॥ ८-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +131,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 एतस्मिन्नन्तरे क्रुद्धो राघवस्यानुजो बली ।  
 लक्ष्मणः सायकान्सप्त जग्राह परवीरहा ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एतस्मिन्नन्तर इति । एवं रावणं प्रहृत्य क्षणं रामे विश्राम्यति सतीत्यर्थः । लक्ष्मणः पूर्वं युद्धे प्रवृत्तो मध्ये रामेण युद्धकरणादवसरप्रतीक्ष इत्यर्थः । एवमव्याख्याने कथमन्येन युध्यमानमन्यो युध्येतेति महान्दोषः स्यात् ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,8 +156,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 तस्य बाणैश्च चिच्छेद धनुर्गजकरोपमम् ।  
 लक्ष्मणो राक्षसेन्द्रस्य पञ्चभिर्निशितैः शरैः॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गृहीतानां सप्तबाणानां विनियोगप्रकारमाह – तैः सायकरित्यादिश्लोकत्रयेण ॥ तैः सायकैरिति षष्ठ्यर्थेतृतीया । तेषां सायकानां मध्ये एकेन बाणेन ध्वजं, एकेन बाणेन सारथिशिरः । पञ्चभिर्धनुश्च चिच्छेदेत्यर्थः । निशितैः शरैरित्यत्र शरशब्दः काशदण्डविशेषमयत्वपरो बाणविशेषणम् ॥ १४ – १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +189,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 सा पपात त्रिधा छिन्ना शक्तिः काञ्चनमालिनी ।  
 सविस्फुलिङ्गा ज्वलिता महोल्केव दिवश्च्युता ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवं धनुषि छिन्ने क्षणं तूष्णीं तिष्ठति रावणे विभीषणेन किंचित्कारमाह – नीलेति ॥ १७ – २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -189,8 +210,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 सा वेगिना बलवता रावणेन दुरासदा ।  
 जज्वाल सुमहाघोरा शक्राशनिसमप्रभा ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संभाविततरां चन्दनादिभिरर्चिताम् ॥ २२ – २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -207,8 +231,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 तं विमोक्षयितुं वीरश्चापमायम्य लक्ष्मणः ।  
 रावणं शक्तिहस्तं वै शरवर्षैरवाकिरत् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभ्यवपद्यत तमाच्छाद्य स्वयमतिष्ठदित्यर्थः ॥ २४-२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,8 +252,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 मोक्षितं भ्रातरं दृष्ट्वा लक्ष्मणेन स रावणः।  
 लक्ष्मणाभिमुखस्तिष्ठन्निदं वचनमब्रवीत् ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विमुखीकृतविक्रमः विमुखीकृतविभीषणविषयपराक्रमः ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +269,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 मोक्षितस्ते बलश्लाघिन्यस्मादेवं विभीषणः ।  
 विमुच्य राक्षसं शक्तिस्त्वयीयं विनिपात्यते ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते त्वया ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -265,8 +298,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 सा क्षिप्ता भीमवेगेन शक्राशनिसमस्वना ।  
 शक्तिरभ्यपतद्वेगाल्लक्ष्मणं रणमूर्धनि ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लोहितलक्षणा रुधिरचिह्ना । अनेन पूर्वमपि बहवो रिपवोऽनया हता इति व्यज्यते । लोहितलक्षणा सती यास्यतीति वा ॥ २९ – ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,8 +315,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 तामनुव्याहरच्छक्तिमापतन्तीं स राघवः ।  
 स्वस्त्यस्तु लक्ष्मणायेति मोघा भव हतोद्यमा ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राघवः लक्ष्मणाय स्वस्त्यस्तु । त्वं हतोद्यमा नष्टहननोद्योगा मोघा भवेति । तामनुव्याहरदित्यन्वयः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -305,8 +344,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 तदवस्थं समीपस्थो लक्ष्मणं प्रेक्ष्य राघवः ।  
 भ्रातृस्नेहान्महातेजा विषण्णहृदयोऽभवत् ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्षणाद्भस्मीकरणक्षमा शक्तिः रामेण मोघीकृता सती केवलमपतदित्याह रावणेनेति ॥ मुक्तेति । आशु उरसि अभीतस्येति पदानि । लक्ष्मणस्योरसि ममज्जेति संबन्धः ॥ ३४–३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,8 +361,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 स मुहूर्तमनुध्याय बाष्पव्याकुललोचनः ।  
 बभूव संरब्धतरो युगान्त इव पावकः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनुध्याय तत्कालकर्तव्यं चिन्तयित्वा ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -335,8 +380,11 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 चक्रे सुतुमुलं युद्धं रावणस्य वधे धृतः ।  
 सर्वयत्नेन महता लक्ष्मणं सन्निरीक्ष्य च ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 न विषादस्येति सार्धश्लोकमेकं वाक्यं । लक्ष्मणं सन्निरीक्ष्य महता सर्वयत्नेन रावणस्य वधे धृतः अवहितः सुतुमुलं युद्धं चक्र इत्यन्वयः । न केवलं सीताहरणात् किंतु लक्ष्मणदर्शनादपीति चशब्दार्थः ॥ ३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -350,7 +398,10 @@ title_english = "101 Hanuma brings mountain with life giving herbs"
 लक्ष्मणं रुधिरादिग्धं सपन्नगमिवाचलम् ॥ ४० ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 कथं लक्ष्मणदर्शनं रावणवधकारणं भवतीत्यत्राह–स ददर्शेति ॥ तदानीं लक्ष्मणस्य तादृशशोच्यत्वदर्शनं रावणवधनिश्चयकारणं भवतीत्याशयः ॥ ४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

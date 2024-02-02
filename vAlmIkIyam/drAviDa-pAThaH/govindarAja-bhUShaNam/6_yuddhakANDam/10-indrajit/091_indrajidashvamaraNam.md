@@ -32,7 +32,10 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 इन्द्रजित्परमक्रुद्धः संप्रजज्वाल तेजसा ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथेन्द्रजितद्वधः-स हताश्व इत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तौ धन्विनौ जिघांसन्तावन्योन्यमिषुभिर्भृशम् ।  
 विजयेनाभिनिष्क्रान्तौ वने गजवृषाविव ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विजयेनेति प्रयोजने तृतीया । विजयायेत्यर्थः । अभिनिष्क्रान्तौ बभूवतुरिति शेषः । गजवृषाविव गजश्रेष्ठाविव । यद्वा किंचिद्धीनबलत्वादिन्द्रजितो वृषभतुल्यत्वम् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 निबर्हयन्तश्चान्योन्यं ते राक्षसवनौकसः ।  
 भर्तारं न जहुर्युद्धे संपतन्तस्ततस्ततः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संपतन्तः परितः संचरन्त इत्यर्थः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,8 +86,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तमसा बहुलेनेमाः संसक्ताः सर्वतो दिशः ।  
 नेह विज्ञायते स्वो वा परो वा राक्षसोत्तमाः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्तुवानः स्तुवन् । आर्षः शानच् ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 इत्युक्त्वा रावणसुतो वञ्चयित्वा वनौकसः ।  
 प्रविवेश पुरीं लङ्कां रथहेतोरमित्रहा ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मोहनाय मन्निर्गमनापरिज्ञानाय ॥ ६-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +140,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 सोभिनिष्क्रम्य नगरादिन्द्रजित्परवीरहा ।  
 अभ्ययाञ्जवनैरश्वैर्लक्ष्मणं सविभीषणम् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स रथमित्यादिश्लोकद्वयमेकान्वयं भूषयित्वा स्वतेजसा भूषयित्वा । आप्तोपदेशिना हितोपदेशिना ॥ ९-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +175,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ततः समरकोपेन ज्वलितो रघुनन्दनः ।  
 चिच्छेद कार्मुकं तस्य दर्शयन्पाणिलाघवम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिसार्धश्लोक एकान्वयः ॥ ततः तस्माद्युद्धप्रदेशात् ॥ १३-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +212,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 मुक्तमिन्द्रजिता तत्तु शरवर्षमरिन्दमः ।  
 अवारयदसंभ्रान्तो लक्ष्मणः सुदुरासदम् ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्वरन्निवेति । इवशब्दो वाक्यालंकारे । निरकृन्तत अच्छिनत् ॥ १८-२३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,8 +229,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 दर्शयामास च तदा रावणि रघुनन्दनः ।  
 असंभ्रान्तो महातेजास्तदद्भुतमिवाभवत् ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दर्शयामास पराक्रममिति शेषः ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,8 +248,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 अविध्यत्परमक्रुद्धः शीघ्रास्त्रं संप्रदर्शयन् ॥  
 राक्षसेन्द्रसुतं चापि बाणौघैः समताडयत् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततस्तानित्यादिसार्धश्लोक एकान्वयः ॥ शीघ्रास्त्रं शीघ्रमन्त्रम् ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,8 +265,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 सोतिविद्धो बलवता शत्रुणा शेत्रुधातिना ।  
 असक्तं प्रेषयामास लक्ष्मणाय बहूञ्शरान् ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 असतं अव्यासङ्गं अविलम्बितं वा ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,8 +284,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 सारथेरस्य च रणे रथिनो रथसत्तमः ।  
 शिरो जहार धर्मात्मा भल्लेनानतपर्वणा ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तानप्राप्तानित्यादिसार्धश्लोक एकान्वयः ॥ रथिनोस्य रावणेः सारथेरित्यन्वयः ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,8 +309,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 अमृष्यमाणस्तत्कर्म रावणस्य सुतो बली ।  
 विव्याध दशभिर्बाणैः सौमित्रिं तममर्षणम् ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अविक्लबाः अनाकुलाः । शिक्षापाटवातिशयादिति मन्तव्यम् ॥ २८-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,8 +326,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ते तस्य वज्रप्रतिमाः शराः सर्पविषोपमाः ।  
 विलयं जग्मुराहत्य कवचं काञ्चनप्रभम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विलयं नाशम् ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,8 +345,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ललाटे लक्ष्मणं बाणैः सुपुङ्खैस्त्रिभिरिन्द्रजित् ।  
 अविध्यत्परमक्रुद्धः शीघ्रास्त्रं च प्रदर्शयन् ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभेद्येत्यादिसार्धश्लोकः ॥ अभेद्यकवचमित्यनेन पूर्वकवचस्यत भग्नत्वात् कवचान्तरं धृतमिति गम्यते । शीघ्रास्त्रं च प्रदर्शयन् । आत्मनः शीघ्रास्त्रत्वं प्रदर्शयन्नित्यर्थः ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -317,8 +362,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तैः पृषत्कैर्ललाटस्थैः शुशुभे रघुनन्दनः ।  
 रणाग्रे समरश्लाघी त्रिशुङ्ग इव पर्वतः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समरं श्लाघत इति समरश्लाधी । समरप्रिय इत्यर्थः । पृषत्कैः बाणैः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -333,8 +381,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तमाशु प्रतिविव्याध लक्ष्मणः पञ्चभिः शरैः ॥  
 विकृष्येन्द्रजितो युद्धे वदने शुभकुण्डले ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स तथेत्यादिसार्धश्लोकएकान्वयः ॥ विकृष्य धनुराकृष्य ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,8 +402,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ततः शोणितदिग्धाङ्गौ लक्ष्मणेन्द्रजितावुभौ ।  
 रणे तौ रेजतुर्वीरौ पुष्पिताविव किंशुकौ ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लक्ष्मणेन्द्रजिताविति । विशिखैः विविधशिखैः । करवीरपत्राद्याकाराग्रैरित्यर्थः ॥ ३५–३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -377,8 +431,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तस्मै दृढतरं क्रुद्धो जघान गदया हयान् ।  
 विभीषणो महातेजा रावणेः स दुरात्मनः ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जये कृतभावावित्यन्वयः ॥ ३७–४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,8 +452,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तामापतन्तीं संप्रेक्ष्य सुमित्रानन्दवर्धनः ।  
 चिच्छेद निशितैर्बाणैर्दशधा साऽपतद्भुवि ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रथशक्तिं रथेऽवस्थितां शक्तिम् ॥ ४१-४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -409,8 +469,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तस्मै दृढधनुः क्रुद्धो हताश्वाय विभीषणः ।  
 वज्रस्पर्शसमान्पञ्च ससर्जोरसि मार्गणान् ॥ ४३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृढधनुः दृढधन्वा । समासान्तविधेरनित्यत्वात्साधुः ॥ ४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -423,8 +486,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ते तस्य कायं निर्भिद्य रुक्मपुङ्खा निमित्तगाः ।  
 बभूवुर्लोहितादिग्धा रक्ता इव महोरगाः ॥ ४४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निमित्तगाः लक्ष्यगाः । वेध्यं लक्ष्यं शरव्यं च निमित्तं च समं विदुः इति निघण्टुः ॥ ४४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -437,8 +503,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 स पितृव्याय संक्रुद्ध इन्द्रजिच्छरमाददे ।  
 उत्तमं रक्षसां मध्ये यमदत्तं महाबलः ॥ ४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्षसां मध्ये आदद इत्यन्वयः ॥ ४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,8 +532,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ताभ्यां तौ धनुषी श्रेष्ठे संहितौ सायकोत्तमौ ।  
 विकृष्यमाणौ वीराभ्यां भृशं जज्वलतुः श्रिया ॥ ४९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तं समीक्ष्येत्यादिश्लोकद्वयमेकान्वयम् ॥ महात्मना अप्रमेयबुद्धिना । भाविवृत्तान्तज्ञेनेति यावत् ॥ ४६-४९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -477,8 +549,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तौ भासयन्तावाकाशं धनुर्भ्यां विशिखौ च्युतौ ।  
 मुखेन मुखमाहत्य संनिपेततुरोजसा ॥ ५० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सन्निपेततुः संघर्षं प्राप्तौ ॥ ५० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,8 +580,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 रौद्रं महेन्द्रजिद्युद्धे व्यसृजद्युधि निष्ठितः ।  
 तेन तद्विहतं त्वस्त्रं वारुणं परमाद्भुतम् ॥ ५५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तज्जः सन्निपातजः ॥ ५१-५५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,8 +597,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 ततः क्रुद्धो महातेजा इन्द्रजित्समितिंजयः ।  
 आग्नेयं संदधे दीप्तं स लोकं संक्षिपन्निव ॥ ५६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संक्षिपन् संहरन् ॥ ५६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,8 +616,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 अस्त्रं निवारितं दृष्ट्वा रावणिः क्रोधमूर्च्छितः ।  
 आसुरं शत्रुनाशाय घोरमस्त्रं समाददे ॥ ५८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सौरेण सूर्यदेवताकेन । सूर्यतिष्यागस्त्य इत्यादिना यलोपः ॥ ५७-५८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -549,8 +633,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तस्माच्चापाद्विनिष्पेतुर्भास्वराः कूटमुद्गराः ।  
 शूलानि च भुशुण्ड्यश्च गदाः खड़ाः परश्वधाः ॥ ५९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्मादिति । असुरास्त्रप्रयोगाद्धेतोः । चापात् इन्द्रजिद्धनुषोपादानात् । कूटमुद्गरादयो विनिष्पेतुरित्यन्वयः । भुशुण्ड्यः मुसलविशेषाः ॥ ५९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -569,8 +656,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तयोः सुतुमुलं युद्धं संबभूवाद्भुतोपमम् ।  
 गगनस्थानि भूतानि लक्ष्मणं पर्यवारयन् ॥ ६१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तदृष्ट्वेत्यादिसार्धश्लोक एकान्वयः ॥ क्रियाद्वयार्थं तदस्त्रमिति द्विरुक्तिः ॥ ६०-६१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -591,8 +681,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 अथान्यं मार्गणश्रेष्ठं संदधे राघवानुजः ।  
 हुताशनसमस्पर्शं रावणारत्मजदारणम् ॥ ६४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भैरवाभिरुते भयंकरशब्दे ररक्षुः । जय जयेत्याद्युक्तिभिरित्यर्थः ॥ ६२-६४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -617,8 +710,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तदैन्द्रमस्रं सौमित्रिः संयुगेष्वपराजितम् ।  
 शरश्रेष्ठं धनुःश्रेष्ठे नरश्रेष्ठोऽभिसंदघे ॥ ६८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुपत्रमित्यादिचतुःश्लोक्येकान्वया ॥ अनुवृत्ताङ्गं वर्तुलस्वरूपं । सुसंस्थितं सुसंस्थानं । सुवर्णविकृतं सुवर्णविचित्रितं । हरिवाहनः हरितवर्णाश्वः । ऐन्द्रमस्त्रं ऐन्द्रास्त्रमन्त्रयोजितम् ॥ ६५-६८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -639,8 +735,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 धर्मात्मा सत्यसंघश्च रामो दाशरथिर्यदि ।  
 पौरुषे चाप्रतिद्वन्द्वः शरैनं जहि रावणिम् ॥ ७१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अमित्रदलनं शत्रुनाशनं । कालः यमः ॥ ६९-७१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -655,8 +754,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 लक्ष्मणः समरे वीरः ससर्जेन्द्रजितं प्रति ।  
 ऐन्द्रास्त्रेण समायोज्य लक्ष्मणः परवीरहा ॥ ७२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इत्युक्त्वेत्यादिसार्धश्लोक एकान्वयः ॥ बाणमैन्द्रास्त्रमन्त्रेण समायोज्य ससर्जेत्यन्वयः । एको लक्ष्मणशब्दो लक्ष्मीयुक्तवचनः । लक्ष्मीवॉल्लक्ष्मणः श्रीलः श्रीमान् इत्यमरः ॥ ७२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -673,8 +775,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 तद्राक्षसतनूजस्य छिन्नस्कन्धं शिरो महत् ।  
 तपनीयनिमं भूमौ ददृशे रुधिरोक्षितम् ॥ ७४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सः बाणः ॥ ७३-७४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -719,8 +824,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 यथास्तंगत आदित्ये नावतिष्ठन्ति रश्मयः ।  
 तथा तस्मिन्निपतिते राक्षसास्ते गता दिशः ॥ ८३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कवचीति । कवचादिभिः सह विध्वस्तः इतः धरण्यां निपपातेत्यन्वयः ॥ ७५-८३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -733,8 +841,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 शान्तरश्मिरिवादित्यो निर्वाण इव पावकः ।  
 स बभूव महातेजा व्यपास्तगतजीवितः ॥ ८४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यपास्तगतजीवितः व्यपास्तो विक्षिप्ताङ्गो गतजीवितश्च, सः शान्तरश्मिरादित्य इव । निर्वाणः शान्तः । पावक इव च बभूव । निस्तेजस्कोऽभूदित्यर्थः ॥ ८४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -751,8 +862,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 हर्षं च शक्रो भगवान्सह सर्वैः सुरर्षभैः ।  
 जगाम निहते तस्मिन्राक्षसे पापकर्मणि ॥ ८६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रशान्तेति । इदमारभ्य लोकविशेषणं । प्रशान्तपीडाबहुलः प्रशान्तबहुलपीडः । प्रतापवान् सूर्यप्रकाशवान् । पूर्वं भयेन मन्दसूर्यत्वात् ॥ ८५-८६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,8 +879,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 आकाशे चापि देवानां शुश्रुवे दुन्दुभिस्वनः ।  
 नृत्यद्भिरप्सरोभिश्च गन्धर्वैश्च महात्मभिः ॥ ८७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अप्सरोभिर्गन्धर्वैश्च कृतनर्तनगानजन्यस्वनः शुश्रुव इत्यर्थः । नृत्यद्भिरित्यत्र ङीबभावः आर्षः ॥ ८७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -781,8 +898,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 प्रशशंसुर्हते तस्मिन्राक्षसे क्रूरकर्मणि ॥  
 शुद्धा आपो दिशश्चैव जहृषुर्दैत्यदानवाः ॥ ८८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ववृषुरिति । अत्रापि देवाः कर्तारः । ववृषुः प्रशशंसुश्च ॥ ८८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -809,8 +929,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 क्ष्वेलन्तश्च नदन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
 लब्धलक्षा रघुसुतं परिवार्योपतस्थिरे ९२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आजग्मुरित्यादिसार्धश्लोक एकान्वयः ॥ देवगन्धर्वदानवाः आजग्मुः विचरन्त्वित्यूचु -श्चेति संबन्धः ॥ ८९-९२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -827,8 +950,11 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 अन्योन्यं च समाश्लिष्य कपयो हृष्टमानसाः ।  
 चक्रुरुच्चावचगुणा राघवाश्रयजाः कथाः ॥ ९४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विश्रावयन् व्यश्रावयन् ॥ ९३-९४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -842,7 +968,10 @@ title_english = "091 Lakshmana and others were treated by Sushena"
 परममुपलभन्मनःप्रहर्षं विनिहतमिन्द्ररिपुं निशम्य देवाः ॥ ९५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 असुकरं दुष्करं । सर्वेषां प्राणप्रतिष्ठापकमिति वा । प्रियसुहृदः सर्वप्रियसुहृदः । उपलभन्नित्यत्र अडात्मनेपदाभावावार्षौ । देवाः इन्द्रंरिपुं विनिहतं निशम्य परमं मनःप्रहर्ष उपलभन् उपालभन्त । अथ असुकरं तत् इन्द्रजिद्धननं । प्रियसुहृदः लक्ष्मणस्य । कर्म कृतिविषयभूतं । अभिवीक्ष्य हृष्टाः विस्मिताः । आसन्निति शेषः । विस्मितप्रति घातयोश्चेति वक्तव्यं इति हृषेः पाक्षिक इडभावः । देवाश्चारणादिमुखेन प्रथम मिन्द्रजिद्धननं संतुष्टाः सन्तः पश्चात्तस्यात्यन्ताशक्यत्वादतथ्यं मन्वाना युद्धभूमिमागत्य तत्प्रत्यक्षीकृत्य विस्मिता आसन्निति भावः ॥ ९५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

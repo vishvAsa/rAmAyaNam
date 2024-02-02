@@ -32,7 +32,10 @@ title_english = "097 Sugreeva kills Mahodara"
 बभूव वसुधा तत्र प्रकीर्णा हरिभिस्तदा ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ विरूपाक्षवधः – तथा तैरित्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,8 +60,11 @@ title_english = "097 Sugreeva kills Mahodara"
 कदनं तरसा कृत्वा राक्षसेन्द्रो वनौकसाम् ।  
 आससाद ततो युद्धे राघवं त्वरितस्तदा ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एकतः एकस्य अद्वितीयस्य ॥ २-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,8 +81,11 @@ title_english = "097 Sugreeva kills Mahodara"
 आत्मनः सदृशं वीरः स तं निक्षिप्य वानरम् ।  
 सुग्रीवोऽभिमुखः शत्रुं प्रतस्थे पादपायुधः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अद्भुतमिति क्रियाविशेषणम् ॥ ६-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,8 +102,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स नर्दन्युधि सुग्रीवः स्वरेण महता महान् ।  
 पातयन्विविधांवान्याञ्जगामोत्तमराक्षसान् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महाद्रुमान् उत्पाठ्येति शेषः । उत्पाट्य अस्य पार्श्वतः पृष्ठतश्चानुजह्नुरिति संबन्धः । यथा महाराजे युद्धाय गच्छति । तदाऽऽयुधानि भृत्या आहरन्ति ॥ तथा वानरराजे युद्धाय निष्क्रामति तदायुधभूतान् शैलवृक्षादीन् समये दातुं वानरा आजह्नुरिति भावः ॥ ८-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +127,11 @@ title_english = "097 Sugreeva kills Mahodara"
 कपिराजविमुक्तैस्तैः शैलवर्षैस्तु राक्षसाः ।  
 विकीर्णशिरसः पेतुर्निकृत्ता इव पर्वताः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अगमान वृक्षान् । पलाशी द्रुद्रुमागमाः इत्यमरः ॥ १०-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +160,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स तु विद्धः शितैर्बाणैः कपीन्द्रस्तेन रक्षसा ।  
 चुक्रोध स महाक्रोधो वधे चास्य मनो दधे ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संक्षीयमाणेषु हिंस्यमानेषु । क्षि हिंसायां इति धातुः ॥ १३-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +177,11 @@ title_english = "097 Sugreeva kills Mahodara"
 ततः पादपमुद्धृत्य शूरः संप्रधनो हरिः ।  
 अभिपत्य जघानास्य प्रमुखे तु महागजम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संप्रधनः । बहुलग्रहणात् कर्तरि ल्युट् । प्रहर्तेत्यर्थः । प्रमुखे मुखे ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +194,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स तु प्रहाराभिहतः सुग्रीवेण महागजः ।  
 अपासर्पद्धनुर्मात्रं निषसाद ननाद च ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 धनुर्मात्रं धनुःप्रमाणं । प्रमाणे द्वयसच्दघ्नञ्मात्रचः इत्यादिना मात्रच्प्रत्ययः ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,8 +219,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स हि तैस्याभिसंक्रुद्धः मगृह्य विपुलां शिलाम् ।  
 विरूपाक्षाय चिक्षेप सुग्रीवो जलदोपमाम् २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गजात्त्विति श्लोकद्वयमेकं वाक्यम् ॥ व्यवस्थितं निश्चलतया स्थितम् ॥ २० – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +244,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स तदा सहसोत्पत्य राक्षसस्य महाहवे ।  
 मुष्टिं संवर्त्य वेगेन पातयामास वक्षसि ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अपक्रम्य शिलापातपरिहारार्थमन्यतोपसृत्य प्राहरत् । सुग्रीवमिति शेषः ॥ २३ – २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -237,8 +267,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स समुत्थाय पतितः कपिस्तस्य व्यसर्जयत् ।  
 तलप्रहारमशनेः समानं भीमनिस्स्वनम् ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मुष्टिप्रहारेत्यादिसार्धश्लोक एकान्वयः ॥ कवचमिति अनेन सुग्रीवस्यापि कवचधारणमस्तीति गम्यते । पद्भ्यामिति । अभिहतः सन् पद्भ्यामपतदित्यन्वयः ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,8 +284,11 @@ title_english = "097 Sugreeva kills Mahodara"
 तलप्रहारं तद्रक्षः सुग्रीवेण समुद्यतम् ।  
 नैपुण्यान्मोचयित्वैनं मुष्टिनोरस्यताडयत् ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नैपुण्यात् शिक्षापाटवात् ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +303,11 @@ title_english = "097 Sugreeva kills Mahodara"
 मोक्षितं चात्मनो दृष्ट्वा प्रहारं तेन रक्षसा ।  
 स ददर्शान्तरं तस्य विरूपाक्षस्य वानरः ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततस्त्विति सार्धश्लोकमेकं वाक्यम् ॥ अन्तरं अवकाशम् ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,8 +318,11 @@ title_english = "097 Sugreeva kills Mahodara"
 
 ततो न्यपातयत्क्रोधाच्छ्ङ्खदेशे महत्तलम् ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तव इत्यर्धम् ॥ शङ्खदेशे ललाटास्थिप्रदेशे । शङ्खो निधौ ललाटास्थि इत्यमरः ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -295,8 +337,11 @@ title_english = "097 Sugreeva kills Mahodara"
 पपात रुधिरक्लिन्नः शोणितं च समुद्रमन् ।  
 स्रोतोभ्यस्तु विरूपाक्षो जलं प्रस्रवणादिव ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महेन्द्राशनीत्यादि सार्धश्लोकमेकं वाक्यम् ॥ स्रोतोभ्यः नासादिनवद्वारेभ्यः ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,8 +354,11 @@ title_english = "097 Sugreeva kills Mahodara"
 विवृत्तनयनं क्रोधात्सफेनं रुधिराप्लुतम् ।  
 ददृशुस्ते विरूपाक्षं विरूपाक्षतरं कृतम् ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विरूपाक्षतरं नेत्रोद्रमनेनात्यन्तविकटाक्षम् ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +371,11 @@ title_english = "097 Sugreeva kills Mahodara"
 स्फुरन्तं परिवर्तन्तं पार्श्वेन रुधिरोक्षितम् ।  
 करुणं च विनर्दन्तं ददृशुः कपयो रिपुम् ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्फुरन्तं ऊर्ध्वमुत्पतन्तं । परिवर्तन्तं परिवर्तमानम् ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,8 +388,11 @@ title_english = "097 Sugreeva kills Mahodara"
 तथा तु तौ संयति संप्रयुक्तौ तरस्विनौ वानरराक्षसानाम् ।  
 बलार्णवौ सस्वनतुः सुभीमं महार्णवौ द्वाविव भिन्नवेलौ ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भिन्नवेलौ विदीर्णवेलौ ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -352,7 +406,10 @@ title_english = "097 Sugreeva kills Mahodara"
 बलं समस्तं कपिराक्षसानामुन्मत्तगङ्गाप्रतिमं बभूव ॥ ३५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 उन्मत्तगङ्गा उद्वेलगङ्गा ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

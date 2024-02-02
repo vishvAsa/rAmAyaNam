@@ -32,7 +32,10 @@ title_english = "046 Ravana applauds his son for his daring act"
 ददृशुः संततौ बाणैर्भ्रातरौ रामलक्ष्मणौ ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ पूर्वसर्गोक्तमनुवदति – तत इत्यादि ॥ द्या आकाशं । सन्ततौ व्याप्तौ ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 वृष्ट्वेवोपरते देवे कृतकर्मणि राक्षसे ।  
 आजगामाथ तं देशं ससुग्रीवो विभीषणः ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वृष्ट्वा उपरते देव इव स्थिते राक्षसे । कृतकर्मणि कृतशरवर्षरूपकर्मणि सति । तं देशं रामस्थानम् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 नीलद्विविदमैन्दाश्च सुषेणकुमुदाङ्गदाः ।  
 तूर्णे हनुमता सार्धमन्वशोचन्त राघवौ ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नीलेति नीलादयः सुग्रीवात्पूर्वमेवागताः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 अन्तरिक्षं निरीक्षन्तो दिशः सर्वाश्च वानराः ।  
 न चैनं मायया च्छन्नं ददृशू रावणिं रणे ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अचेष्टावित्यादिचतुःश्लोक्येकान्वया ॥ अचेष्टौअतएव स्तब्धौ निश्चलौ । मध्ये मध्ये मन्दनिश्वासौ मध्ये मध्ये निश्चेष्टौ । कदाचित्सर्पाविव निश्वसन्तौ कदाचिन्मन्दचेष्टितौ च । अत्र पुनरुक्तयो दुःखातिरेकात् । यद्वा अचेष्टाविति श्लोकः पूर्वश्लोकेनान्वितः ॥ ४–८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 तं तु मायाप्रतिच्छन्नं माययैव विभीषणः ।  
 वीक्षमाणो ददर्शाथ भ्रातुः पुत्रमवस्थितम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 माययैवेति । अन्तर्हितस्तुदर्शनहेतुभूतया विद्ययेत्यर्थः ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +134,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 ददर्शान्तर्हितं वीरं वरदानाद्विभीषणः ॥ १० ॥  
 तेजसा यशसा चैव विक्रमेण च संयुतम् ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अप्रतिद्वन्द्वं निःसमं । वरदानादन्तर्हितमित्यन्वयः । तेजसेत्यर्धं पूर्वेणान्वेति ॥ १० – ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +151,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 इन्द्रजित्त्वात्मनः कर्म तौ शयानौ समीक्ष्य च ।  
 उवाच परमप्रीतो हर्षयन्सर्वनैर्ऋतान् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आत्मनः कर्म नागास्त्रबन्धरूपं । शयानौ तौ च वीक्ष्येत्यन्वयः ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +168,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 दूषणस्य च हन्तारौ खरस्य च महाबलौ ।  
 सादितौ मामकैर्वाणैर्भ्रातरौ रामलक्ष्मणौ ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सादितौ पश्यतेति शेषः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +185,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 नेमौ मोक्षयितुं शक्यावेतस्मादिषुबन्धनात् ।  
 सर्वैरपि समागम्य सर्पिसङ्घैः सुरासुरैः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समागम्य सङ्घीभूय ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,8 +202,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 यत्कृते चिन्तयानस्य शोकार्तस्य पितुर्मम ।  
 अस्पृष्ट्वा शयनं गात्रैस्त्रियामा याति शर्वरी ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत्कृते यन्निमित्तं गात्रैः शयनमस्पृष्ट्वा चिन्तयानस्यैव मम पितुः त्रियामा याति । यत्पौरुषभयान्मम पिता शर्वर्यामेकस्मिन्नपि यामे न निद्रातीत्यर्थः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -189,8 +219,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 कृत्स्नेयं यत्कृते लङ्का नदी वर्षास्विवाकुला ।  
 सोयं मूलहरोऽनर्थः सर्वेषां निहतो मया ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लङ्का लङ्कास्थजनः । आकुला नदीपक्षे आविलेत्यर्थः । लङ्कापक्षे व्यग्रेत्यर्थः । सर्वेषामस्माकं मूलहरः अनर्थः अनर्थकरो रामः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +236,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 रामस्य लक्ष्मणस्यापि सर्वेषां च वनौकसाम् ।  
 विक्रमा निष्फलाः सर्वे यथा शरदि तोयदाः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विक्रमाः सेतुबन्धनादयः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,8 +257,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 नीलं नवभिराहत्य मैन्दं च द्विविदं तथा ।  
 त्रिभिस्त्रिभिरमित्रघ्नस्तताप प्रवरेषुभिः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिपार्श्वतः समीपतः ॥ १८-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +278,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 गवाक्षं शरभं चैव द्वावप्यमिततेजसौ ।  
 द्वाभ्यां द्वाभ्यां महावेगो विव्याध युधि रावणिः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हनूमतः हनूमदर्थमित्यर्थः । संबन्धसामान्ये षष्ठी ॥ २०-२१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,8 +303,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 तानर्दयित्वा बाणौघैस्त्रासयित्वा च वानरान् ।  
 प्रजहास महाबाहुर्वचनं चेदमब्रवीत् ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गोलाङ्गूलेश्वरं गवाक्षम् ॥ २२ – २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,8 +320,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 शरबन्धेन घोरेण मया बद्धौ चमूमुखे ।  
 सहितौ भ्रातरावेतौ निशामयत राक्षसाः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निशामयत पश्यत ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,8 +349,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 हर्षेण तु समाविष्ट इन्द्रजित्समितिंजयः ।  
 प्रविवेश पुरीं लङ्कां हर्षयन्सर्वराक्षसान् ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कूटयोधिनः कपटयोधिनः ॥ २६ – २९ ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,8 +370,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 तमुवाच परित्रस्तं वानरेन्द्रं विभीषणः ।  
 सवाष्पवदनं दीनं शोकव्याकुललोचनम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरीरे इति प्रत्येकापेक्षया द्विवचनं । अङ्गानि करादीनि । उपाङ्गानि अङ्गुल्यादीनि । अत्रापि शरैश्चितानीति योज्यं दृष्ट्वा स्थित इति सुग्रीवो विशेषणीयः ॥ ३०-३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -333,8 +387,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 अलं त्रासेन सुग्रीव बाष्पवेगो निगृह्यताम् ।  
 एवंप्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः ३२
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवंप्रायाणि एवंविधानि । प्रायश्चानशने मृत्यौ तुल्यबाहुल्ययोरपि इति विश्वः । नैष्ठिकः नियतः ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -347,8 +404,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 सशेषभाग्यताऽस्माकं यदि वीर भविष्यति ।  
 मोहमेतौ प्रहास्येते महात्मानौ महाबलौ ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सशेषभाग्यतेति । अस्माकं भाग्यशेषं यद्यस्तीत्यर्थः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -361,8 +421,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 पर्यवस्थापयात्मानमनाथं मां च वानर ।  
 सत्यधर्माभिरक्तानां नास्ति मृत्युकृतं भयम् ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पर्यवस्थापयामानं मनो निश्चलं कुरु । स्वात्मपर्यवस्थापनेन मां च पर्यवस्थापय । धैर्यं कारयेत्यर्थः । पर्यवस्थापने हेतुमाह – सत्येति । मृत्युकृतं अपमृत्युकृतम् ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -375,8 +438,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 एवमुक्त्वा ततस्तस्य जलक्लिन्नेन पाणिना ।  
 सुग्रीवस्य शुभे नेत्रे प्रममार्ज विभीषणः ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जलक्लिन्नेन जलसिक्तेन ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -389,8 +455,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 ततः सलिलमादाय विद्यया परिजप्य च ।  
 सुग्रीवनेत्रे धर्मात्मा स ममार्ज विभीषणः ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवममाङ्गल्यनिवृत्त्यर्थं श्रान्तिनिवृत्त्यर्थं वा नेत्रे प्रमृज्य राक्षसमाया परिज्ञानेनाप्यस्य धैर्यसंपादनाभिप्रायेण विद्याभिमन्त्रितजलेनापि ममार्जेत्याह – तत इति ॥ विद्यया राक्षसमायादर्शनहेतुमन्त्रेण । परिजप्य अभिमन्त्र्य ॥ ३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -403,8 +472,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 प्रमृज्य वदनं तस्य कपिराजस्य धीमतः ।  
 अब्रवीत्कालसंप्रांप्तमसंभ्रममिदं वचः ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालसंप्राप्तं तत्कालोचितं । असंभ्रमं अव्याकुलमिति क्रियाविशेषणम् ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,8 +489,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 न कालः कपिराजेन्द्र वैक्लव्यमनुवर्तितुम् ।  
 अतिस्नेहोप्यकालेऽस्मिन्मरणायोपकल्पते ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वैक्लव्यं अधैर्यं । किं करोमि अतिस्नेह एवं बाधत इत्यत्राह-अतिस्त्रेहोपीति ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,8 +506,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 तस्मादुत्सृज्य वैक्लव्यं सर्वकार्यविनाशनम् ।  
 हितं रामपुरोगाणां सैन्यानामनुचिन्त्यैताम् ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवं व्यक्तव्यमुक्त्वा कर्तव्यमुपदिशति – तस्मादिति ॥ वैक्लब्यमिति स्नेहस्याप्युपलक्षणं । रामपुरोगाणां रामप्रभृतीनां । रामशरण्यानामित्यर्थः ॥ ३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -445,8 +523,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 अथवा रक्ष्यतां रामो यावत्संज्ञाविपर्ययः ।  
 लब्धसंज्ञौ हि काकुत्स्थौ भयं नो व्यपनेष्यतः ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संज्ञाविपर्ययः मूर्च्छा । यावदनुवर्तते तावद्रक्ष्यतामित्यर्थः ॥ ४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -459,8 +540,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 नैतत्किंचन रामस्य न च रामो मुमूर्षति । ।  
 ह्येनं हास्यते लक्ष्मीर्दुर्लभा या गतायुषाम् ॥ ४१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवंभूतयोः कथं संज्ञाप्राप्तिस्तत्राह—नैतदिति । एतत् शस्त्रबन्धनं । रामस्य न किंचन । इदमसत्प्रायं बाधकं न भवतीत्यर्थः । अतो न मुमूर्षति । मरिष्यतीति शङ्का न कर्तव्येव्यर्थः । आशङ्कायामुपसंख्यानं इति म्रियते सन् । एतच्च जीवनलिङ्गशरीरसौभाग्येन निश्चीयत इत्याह – नहीति । गतायुषां मृतानां । या लक्ष्मीः मुखकान्तिः । दुर्लभा । सा च एनं न हास्यते । न जहातीत्यर्थः । जीवनानुकूला लक्ष्मीर्दृश्यत इत्यर्थः ॥ ४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,8 +557,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 तस्मादाश्वासयात्मानं बलं चाश्वासय स्वकम् ।  
 यावत्कार्याणि सर्वाणि पुनः संस्थापयाम्यहम् ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यावत् यावत्पर्यन्तं । सर्वाणि कार्याणि कर्तव्यानि पुनः संस्थापयामि । तावत्पर्यन्तमाश्वासयेत्यन्वयः । केचित्तु यावत्कार्याणि यावन्ति कर्तव्यानि । तानि सर्वाणीत्याहुः ॥ ४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -491,8 +578,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 मां तु दृष्ट्वा प्रधावन्तमनीकं संप्रहर्षितुम् ।  
 त्यजन्तु हरयस्रासं भुक्तपूर्वामिव स्रजम् ॥ ४४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पर्यवस्थापनं किमर्थमित्यत्राह – एते हीति ॥ आगतसाध्वसाः प्राप्तभयविकाराः । ते च विकाराः पुलकादयः । प्रकथिताः पलायनार्थं प्रवृत्तकथा इत्यर्थः । संप्रहर्षितुमित्यनन्तरं अर्हसीत्यध्याहार्यं । प्रधावन्तं इन्द्रजिद्भ्रामेणेति भावः । इदमनीकविशेषणं । गच्छामीति वाध्याहार्यं । संप्रहर्षितुं भयान्निवर्तयितुमिति यावत् । तदेवाह – त्यजन्त्विति ॥ ४३ – ४४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,8 +595,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 समाश्वास्य तु सुग्रीवं राक्षसेन्द्रो विभीषणः ।  
 विद्रुतं वानरानीकं तत्समाश्वासयत्पुनः ॥ ४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समाश्वासयत् नाहमिन्द्रजित्किंतु विभीषण इति समाश्वासयदित्यर्थः ॥ ४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,8 +612,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 इन्द्रजित्तु महामायः सर्वसैन्यसमावृतः ।  
 विवेश नगरीं लङ्कां पितरं चाभ्युपागमत् ॥ ४६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथासंघट्टनाय पूर्वोक्तमनुवति – इन्द्रजित्त्विति ॥ ४६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -533,8 +629,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 तत्र रावणमासीनमभिवाद्य कृताञ्जलिः ।  
 आचचक्षे प्रियं पित्रे निहतौ रामलक्ष्मणौ ॥ ४७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रामलक्ष्मणावित्यनन्तरमितिकरणं ज्ञेयम् ॥ ४७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -549,8 +648,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 रावणो रक्षसां मध्ये श्रुत्वा शत्रू निपातितौ ।  
 उपाघ्राय स मूर्ध्न्येनं पप्रच्छ प्रीतमानसः ॥ ४८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्पपात आसनादिति शेषः ॥ ४८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,8 +665,11 @@ title_english = "046 Ravana applauds his son for his daring act"
 पृच्छते च यथावृत्तं पित्रे सर्वे न्यवेदयत् ।  
 यथा तौ शरबन्धेन निश्रेष्टौ निष्प्रभौ कृतौ ॥ ४९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यथावृत्तं वृत्तमनतिक्रम्य । इदमेव विवृणोति यथा ताविति ॥ ४९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -578,7 +683,10 @@ title_english = "046 Ravana applauds his son for his daring act"
 जहौ ज्वरं दाशरथेः समुत्थितं प्रहृष्य वाचाऽभिननन्द पुत्रम् ॥ ५० ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 हर्षवेगः हर्षातिशय ः तेनानुगतो व्याप्तः अन्तरात्मा मनो यस्य स तथोक्तः । दाशरथेः निमित्तात् । ज्वरं चिन्तासंतापं । अनया राज्या प्रतिपद्गतेत्यूचुः ॥ ५० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

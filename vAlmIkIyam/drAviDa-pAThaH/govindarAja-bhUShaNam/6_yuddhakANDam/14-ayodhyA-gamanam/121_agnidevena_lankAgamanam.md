@@ -32,7 +32,10 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 अङ्केनादाय वैदेहीमुत्पपात विभावसुः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 विभावसुः अग्निः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 स विधूय चितां तां तु वैदेहीं हव्यवाहनः ।  
 उत्तस्थौ मूर्तिमानाशु गृहीत्वा जनकात्मजाम् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विधूय चितां शिथिलीकृत्य । मूर्तिमान् मनुष्यविग्रहवान् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -65,8 +71,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 ददौ रामाय वैदेहीमङ्के कृत्वा विभावसुः ॥ ४ ॥  
 अब्रवीच्च तदा रामं साक्षी लोकस्य पावकः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तरुणादित्येत्यादिश्लोकद्वयमेकान्वयम् ॥ तथारूपां प्रवेश कालिक रूपवतीं । मनस्विनीं प्रसन्नमनस्कामित्यर्थः । अङ्के कृत्वा अङ्केनादायेत्यर्थः ॥ ३–५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,8 +86,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 
 एषा ते राम वैदेही पापमस्यां न विद्यते ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एषा या पूर्वं मयि प्रविष्ठा सैषेत्यर्थः । एतेन मायासीताग्निं प्रविष्टा साक्षात्सीताग्निना दत्तेति प्रत्युक्तं । ते त्वदीयेत्यर्थः । एनां परिगृहाणेति शेषः ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,8 +103,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 नैव वाचा न मनसा नानुध्यानान्न चक्षुषा ।  
 सुवृत्ता वृत्तशौण्डीर न त्वामतिचचार ह ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पापाभावमेवोपपादयति — नैवेत्यादिना ॥ अनुध्यानात् संकल्पात् । अत्यन्ताभिमतां देवीं निर्दोषां जानन्नपि स्ववृत्तावद्यत्वपरिहारार्थं वह्निं प्रावेशयदिति संतोषातिशयाद्वृत्त- शौण्डीरेति संबोधनम् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,8 +120,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 रावणेनापनीतैषा वीर्योत्सिक्तेन रक्षसा ।  
 त्वया विरहिता दीना विवशा निर्जनाद्वनात् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एतत्संमति विना कथं रावणः समानीतवानित्यत्राह – रावणेनेत्यादि ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,8 +141,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 प्रलोभ्यमाना विविधं भर्त्स्यमाना च मैथिली ।  
 नाचिन्तयत तद्रक्षस्त्वद्गतेनान्तरात्मना ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विवशा नीतेत्यत्र लिङ्गं दर्शयति – रुद्धेति ॥ त्वयि चित्तं यस्याः सा त्वच्चित्ता । त्वमेव परायणमुत्तमगतिर्यस्याः सा त्वत्परायणा ॥ ९-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,8 +158,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 विशुद्धभावां निष्पापां प्रतिगृह्णीष्व राघव ।  
 न किंचिदभिधातव्यमहमाज्ञापयामि ते ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विशुद्धभावां विशुद्धहृदयां । अभिधातव्यं मद्वचनस्योत्तरमिति शेषः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,8 +179,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 एवमुक्तो महातेजा द्युतिमान्दृढ विक्रमः ।  
 अब्रवीत्रिदशश्रेष्ठं रामो धर्मभृतां वरः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दध्यौ न वृथैव सीता त्यक्तेत्यचिन्तयत् ॥ १२-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,8 +196,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 अवश्यं त्रिषु लोकेषु न सीता पापमर्हति ।  
 दीर्घकालोषिता हीयं रावणान्तः पुरे शुभा ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वस्तुतो निर्दोषत्वेपि अपवादोस्तीत्याह-अवश्यमिति ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +213,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 बालिशः खलु कामात्मा रामो दशरथात्मजः ।  
 इति वक्ष्यन्ति मां सन्तो जानकीमविशोध्य हि ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अपवादपरिहारार्थमयं मम प्रयत्न इत्याह – बालिश इति ॥ अविशोध्येति । परिग्रह इति शेषः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,8 +230,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 अनन्यहृदयां भक्तां मच्चित्तपरिवर्तिनीम् ।  
 अहमप्यवगच्छामि मैथिलीं जनकात्मजाम् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनन्यहृदयां मय्येव सक्तहृदयां । मच्चित्तपरिवर्तिनीं मच्चित्तानुवर्तिंनीं । त्यक्तस्वव्यापारामित्यर्थः । जनकात्मजामिति हेतुगर्भविशेषणं । जनकपुत्र्याः किमाचारसंपत्तिर्वक्तव्येति भावः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +247,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 प्रत्ययार्थं तु लोकानां त्रयाणां सत्यसंश्रयः ।  
 उपेक्षे चापि वैदेहीं प्रविशन्तीं हुताशनम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तर्हि किमर्थमुपेक्षितवानसीत्यत्राह-प्रत्ययार्थमिति ॥ प्रत्ययार्थं विश्वासजननार्थमित्यर्थः । सत्यसंश्रयः सत्यैकाश्रयः । यथावद्वृत्तप्रवर्तनाकाङ्क्षीत्यर्थः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,8 +264,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 इमामपि विशालाक्षीं रक्षितां स्वेन तेजसा ।  
 रावणो नातिवर्तेत वेलामिव महोदधिः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एतादृशसुन्दरीं रावणः कथं नेक्षेतेत्यत्राह-इमामपीति ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +281,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 न हि शक्तः स दुष्टात्मा मनसाऽपि हि मैथिलीम् ।  
 प्रधर्षयितुमप्राप्तां दीप्तामग्निशिखामिव ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृष्टान्तान्तरमाह – न हीति । अप्राप्तां प्रधर्षणानर्हाम् ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +298,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 नेयमर्हति चैश्वर्यं रावणान्तः पुरे शुभा ।  
 अनन्या हि मया सीता भास्करेण प्रभा यथा ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तथाप्येषा तादृशमैश्वर्यं कथं जह्यात्तत्राह-नेयमिति । रावणैश्वर्यं नेयमर्हति किंतु ममैश्वर्यमर्हतीत्यर्थः । तत्र हेतुमाह – अनन्येति । मया अनन्या अभिन्ना । अविनांभूतेति यावत् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +315,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 विशुद्धा त्रिषु लोकेषु मैथिली जनकात्मजा ।  
 न हि हातुमियं शक्या कीर्तिरात्मवता यथा ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अहमपि तया अनन्य इत्याह – विशुद्धेति ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +332,11 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 अवश्यं तु मया कार्यं सर्वेषां वो वचः शुभम् ।  
 स्निग्धानां लोकेमान्यानामेवं च ब्रुवतां हितम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सीतापरिग्रहे भवद्वचनं तु प्रधानहेतुरित्याह-अवश्यमिति ॥ वचनकरणे स्नेहः सर्वपूज्यत्वं हितोपदेष्टत्वं च हेतुरित्यर्थः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -296,7 +350,10 @@ title_english = "121 Rama prepares to leave for Ayodhya"
 समेत्य रामः प्रियया महाबलः सुखं सुखार्होऽनुबभूव राघवः ॥ २३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 विदितं स्वेन विदितं । इदं उक्तं वचनं । उक्त्वा स्वकृतेन कर्मणा करणेन महाबलैः कर्तृभिः प्रशस्यमानः प्रियया समेत्य सीतां स्वसमीपमानीयेत्यर्थः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -32,7 +32,10 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 धनुष्पाणिनमादाय त्वरमाणो जगाम ह ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथेन्द्रजिद्विभीषणसंवादः – एवमुक्त्वेत्यादि ॥ धनुष्पाणिनमिति नकारान्तत्वमार्षम् ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 नीलजीमूतसंकाशं न्यग्रोधं भीमदर्शनम् ।  
 तेजस्वी रावणभ्राता लक्ष्मणाय न्यवेदयत् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अविदूरमिति ॥ तत्कर्म होमकर्मस्थानम् ॥ २–३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 अदृश्यः सर्वभूतानां ततो भवति राक्षसः ।  
 निहन्ति समरे शत्रून्बध्नाति च शरोत्तमैः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उपहारं बलिं । उपहृत्य कृत्वा । ओदनपाकं पचतीतिवत् । ततः तस्माद्देशात् ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 स रथेनाग्निवर्णेन बलवान्रावणात्मजः ।  
 इन्द्रजित्कवची धन्वी सध्वजः प्रत्यदृश्यत ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अप्रविष्टन्यग्रोधं रावणात्मजं विध्वंसय । पुनः प्रवेशात्पूर्वमेव विध्वंसयेत्यर्थः ॥ ६-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 तमुवाच महातेजाः पौलस्त्यमपराजितम् ।  
 समाह्वये त्वां समरे सम्यग्युद्धं प्रयच्छ मे ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महातेजा इति लक्ष्मणो विशेष्यः । सम्यग्युद्धं अमायायुद्धम् ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 एवमुक्तो महातेजा मनस्वी रावणात्मजः ।  
 अब्रवीत्परुषं वाक्यं तत्र दृष्ट्वा विभीषणम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मनस्वी दृढमनस्कः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +149,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 इह त्वं जातसंवृद्धः साक्षाभ्राता पितुर्मम ।  
 कथं द्रुह्यसि पुत्रस्य पितृव्यो मम राक्षस ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इह लङ्कायां । जातसंवृद्धः । पूर्वकाल – इत्यादिना पूर्वकालार्थवाचिनो जातशब्दस्य उत्तरकालार्थवाचिना संवृद्धशब्देन सह समासः । पुत्रस्य पुत्राय । क्रुधद्रुह — इत्यादिना चतुर्थीनियमात् । राक्षसेत्यनेन साजात्यमपि न दृष्ट वानसीति व्यज्यते ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +166,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 न ज्ञातित्वं न सौहार्दं न जातिस्तव दुर्मते ।  
 प्रमाणं न च सौंदर्यं न धर्मो धर्मदूषण ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रमाणं मर्यादानियामकम् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +183,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 शोच्यस्त्वमसि दुर्बुद्धे निन्दनीयश्च साधुभिः ।  
 यस्त्वं स्वजनमुत्सृज्य परभृत्यत्वमागतः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शोच्यत्वादौ हेतुमाह – यस्त्वमिति ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +200,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 नैतच्छिथिलया बुद्ध्या त्वं वेत्सि महदन्तरम् ।  
 क च स्वजनसंवासः क च नीचपराश्रयः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शिथिलया कोमलया, तुच्छया वा । अन्तरं तारतम्यम् ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +217,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 गुणवान्वा परजनः स्वजनो निर्गुणोपि वा ।  
 निर्गुणः स्वजनः श्रेयान्यः परः पर एव सः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ननु परस्य नीचत्वाभावान्न भवदुक्तदोष इत्यत्राह – गुणवानिति ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +244,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 जित्वाऽस्मान्युधि शक्तश्चेत्पश्चात्त्वां च वधिष्यति ।  
 शत्रुस्त्वमसि रामस्य रावणस्यानुजोसि यत् ॥ १८ ॥\]
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तदेव वैषम्यं स्वरूपतो दर्शयति ——य इति ॥ १६ – १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,8 +263,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 स्वजनेन त्वया शक्यं परुषं रावणानुज ॥ १९ ॥  
 इत्युक्तो भ्रातृपुत्रेण प्रत्युवाच विभीषणः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इयं होमविघातपूर्वकं लक्ष्मणस्य न्यग्रोधप्रवेशकरणरूपा । निरनुक्रोशता निर्दयता, यादृशी यथा घोरा तादृशं परुषं निर्दयत्वं । स्वजनेन बन्धुभूतेन त्वयैव कर्तुं शक्यं नान्येनेत्यर्थः । यद्वा स्वजने विषये त्वया न शक्यं न कर्तव्यं । अनुचितं कृतमिति भावः ॥ १९–२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +280,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 अजानन्निव मच्छीलं किं राक्षस विकत्थसे ।  
 राक्षसेन्द्रसुतासाधो पारुष्यं त्यज गौरवात् ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गौरवात् । गुरोर्भावो गौरवं । पितृव्यत्वादित्यर्थः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,8 +297,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 कुले यद्यप्यहं जातो रक्षसां क्रूरकर्मणाम् ।  
 गुणोयं प्रथमो नॄणां तन्मे शीलमराक्षसम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्षसां कुले यद्यप्यहं जातः । तत् तथापि । मे शीलं अराक्षसं अक्रूरं । अयं मे शीलाख्यो गुणः नृणां सत्पुरुषाणां । प्रथमः मुख्यः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,8 +314,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 न रमे दारुणेनाहं न चाधर्मेण वै रमे ।  
 भ्रात्रा विषमशीलेन कथं भ्राता निरस्यते ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तन्मे शीलमराक्षसमित्युक्तमेव दर्शयति न रम इति ॥ दारुणेन कर्मणा न रमे । अधर्मेण परपीडाकरेण च कर्मणा न रमे । न केवलं मय्येव दोषः रावणेपीत्याह – भ्रात्रेति । निरस्यते । त्वां तु धिक्कुलपांसनं इति वचनेनेत्यर्थः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,8 +331,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 धर्मात्प्रच्युतशीलं हि पुरुषं पापनिश्चयम् ।  
 त्यक्त्वा सुखमवाप्नोति हस्तादाशीविषं यथा ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इन्द्रजिदुक्तस्वदोषपरिहाराय परित्यागहेतून् रावणदोषानाह– धर्मादित्यादिना ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -297,8 +348,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 हिंसापरस्वहरणे परदाराभिमर्शनम् ।  
 त्याज्यमाहुर्दुराचारं वेश्म प्रज्वलितं यथा ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हिंसा च परस्वहरणं च ते हिंसापरस्वहरणे हिंसादिरूपं दुराचाररूपं कर्म त्याज्यमाहुः । तद्युक्तस्त्याज्य इत्यर्थः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -311,8 +365,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 परस्वानां च हरणं परदाराभिमर्शनम् ।  
 सुहृदामतिशङ्का च त्रयो दोषाः क्षयावहाः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुहृदामतिशङ्का सुहृत्स्वविश्वासः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,8 +386,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 एते दोषा मम भ्रातुर्जीवितैश्वर्यनाशनाः ।  
 गुणान्प्रच्छादयामासुः पर्वतानिव तोयदाः ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दोषवत्तया यदि त्याज्यत्वं, तर्ह्यभिजनविद्यादिगुणवत्तया किमिति न ग्राह्यत्वमित्यत आह – महर्षीणामिति सार्धश्लोकद्वयमेकान्वयं अभिमानः गर्वः । वैरित्वं बद्धवैरत्वं । प्रतिकूलता परश्रेयोद्वेषित्वं । तथा चाभि जनविद्यादिगुणवत्त्वेपि परस्त्रीहरणादिदोषदूषिततया विषसंपृक्तमधुवन्न ग्राह्योयमिति भावः ॥ २७-२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,8 +411,11 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 अद्य ते व्यसनं प्राप्तं किं मां त्वमिह वक्ष्यसि ।  
 प्रवेष्टुं न त्वया शक्यो न्यग्रोधो राक्षसाधम ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नेयमस्तीत्यादि । उत्तरक्षणे अवश्यं न शिष्यतीत्यर्थः ॥ २९-३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -372,7 +435,10 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 न लक्ष्मणस्यैत्य हि बाणगोचरं त्वमद्य जीवन्सबलो गमिष्यसि ॥ ३३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 देवताकार्यं यमदूतरूपदेवताकार्यं । नरकयातनानुभवं वा ॥ ३२-३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

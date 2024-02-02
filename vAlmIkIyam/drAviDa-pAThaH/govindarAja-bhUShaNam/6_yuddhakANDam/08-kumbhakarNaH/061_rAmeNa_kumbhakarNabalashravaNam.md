@@ -38,7 +38,10 @@ title_english = "061 Rama enquires about Kumbhakarna"
 सतोयाम्बुदसंकाशं काञ्चनाङ्गदभूषणम् ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रामेण कुम्भकर्णस्वरूपप्रश्न ः विभीषणेन तदुत्तरं च क्रियत एकषष्टितमे— तत इत्यादिसार्धश्लोकद्वयमेकान्वयम् ॥ तं दृष्ट्वा धनुरादाय पुनर्विशेषेण ददर्शेति योजना । महाकायं उन्नतकायं । पर्वताकारदर्शनं । दृश्यत इति दर्शनं शरीरं । पर्वतवत्स्थूलशरीरमित्यर्थः । काञ्चनाङ्गदभूषणं काञ्चनमयाङ्गदभूषणं । अतएव सतोयाम्बुदः वर्षकमेघः तत्सदृशम् ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 
 दृष्ट्वा पुनः प्रदुद्राव वानराणां महाचमूः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृष्ट्वेत्यर्धम् ॥ कुम्भकर्णमिति शेषः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +69,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 विद्रुतां वाहिनीं दृष्ट्वा वर्धमानं च राक्षसम् ।  
 सविस्मयमिदं रामो विभीषणमुवाच ह ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सविस्मयमिति क्रियाविशेषणं । वर्धमानमिति कामरूपत्वादिति भावः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 स पृष्टो राजपुत्रेण रामेणाक्लिष्टकर्मणा ।  
 विभीषणो महाप्राज्ञः काकुत्स्थमिदमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरिलोचनः कपिलेक्षणः । हरिर्ना कपिले त्रिषु इत्यमरः ॥ ५-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,8 +117,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 सैष विश्रवसः पुत्रः कुम्भकर्णः प्रतापवान् ।  
 अस्य प्रमाणात्सदृशो राक्षसोन्यो न विद्यते ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सैष इत्यत्र सोचि लोपे चेत्पादपूरणं इति सुलोपः । प्रमाणं स्थौल्यौन्नत्ये ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +134,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 एतेन देवा युधि दानवाश्च यक्षा भुजङ्गा पिशिताशनाश्च ।  
 गन्धर्वविद्याधरकिन्नराश्च सहस्रशो राघव संप्रभग्नाः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संप्रभग्नाः अभज्यन्त ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +151,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 शूलपाणिं विरूपाक्षं कुम्भकर्णं महाबलम् ।  
 हन्तुं न शेकुस्त्रिदशाः कालोऽयमिति मोहिताः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विरूपाक्षं विकटाक्षं । मोहिताः भ्रान्ताः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +168,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 प्रकृत्या ह्येष तेजस्वी कुम्भकर्णो महाबलः ।  
 अन्येषां राक्षसेन्द्राणां वरदानकृतं बलम् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रकृत्या तेजस्वी स्वप्रभावेन बलवान् । न तु वरप्रदानेनेत्यर्थः । अन्येषां रावणादीनां भवतीति शेषः ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,8 +193,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 कुंभकर्णं कुपितो महेन्द्रो जधान वज्रेण शितेन वज्री ।  
 स शक्रवज्राभिहतो महात्मा चचाल कोपाच्च भृशं ननाद ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रकृत्या तेजस्वित्वमुपपादयति — एते नेत्यादिना ॥ १३-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +210,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 तस्य नानद्यमानस्य कुंभकर्णस्य धीमतः ।  
 श्रुत्वाऽतिनादं वित्रस्ता भूयो भूमिर्वितत्रसे ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नानद्यमानस्य अतिशयेन नदतः । वित्रस्ता भूमिः भूयो वितत्रसे उत्तरोत्तरं भीताऽभूत् ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,8 +227,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 तत्र कोपान्महेन्द्रस्य कुंभकर्णो महाबलः ।  
 विकृष्यैरावताद्दन्तं जधानोरसि वासवम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्र तदानीं । विकृष्य उत्पाट्य ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +244,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 कुंभकर्णप्रहारार्तो बिजज्वाल स वासवः ।  
 ततो विषेदुः सहसा देवब्रह्मर्षिदानवाः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विजज्वाल चुकोपेति यावत् ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,8 +261,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 प्रजाभिः सह शक्रश्च ययौ स्थानं स्वयंभुवः ।  
 कुंभकर्णस्य दौरात्म्यं शशंसुस्ते प्रजापतेः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते शक्रायः । प्रजापतेः प्रजापतये ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +278,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 प्रजानां भक्षणं चापि देवानां चापि धर्षणम् ।  
 आश्रमध्वंसनं चापि परस्त्रीहरणं भृशम् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दौरात्म्यं प्रपञ्चयति -प्रजानामित्यादि ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +295,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 एवं प्रजा यदि त्वेष भक्षयिष्यति नित्यशः ।  
 अचिरेणैव कालेन शून्यो लोको भविष्यति ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवं इदानींक्रियमाणप्रकारेण । यदि भक्षयिष्यतीत्यन्वयः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +312,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 वासवस्य वचः श्रुत्वा सर्वलोकपितामहः ।  
 रक्षांस्यावाहयामास कुंभकर्णं ददर्श ह ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्राधान्याद्वासवग्रहणं । कुम्भकर्णं तेष्विति शेषः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +329,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 कुंभकर्णं समीक्ष्यैव वितत्रास प्रजापतिः ।  
 दृष्ट्वा विश्वास्य चैवेदं स्वयंभूरिदमब्रवीत् ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इदं रक्षः इदं वक्ष्यमाणमिति इदंशब्दद्वयनिर्वाहः । विश्वास्य प्रलोभ्य । सान्त्वपूर्वकं समीपमानीयेत्यर्थः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -295,8 +346,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 ध्रुवं लोकविनाशाय पौलस्त्येनासि निर्मितः ।  
 तस्मात्त्वमद्यप्रभृति मृतकल्पः शयिष्यसे ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पौलस्त्येन विश्रवसा तस्मात्त्वमद्यप्रभृति मृतकल्पः शयिष्यसे इत्ययंशापः स्वप्तुं वर्षाण्यनेकानि देवदेव ममेप्सितम् । एवमस्त्विति तच्चोक्त्वा प्रहृष्टास्ते दिवौकसः इति तपश्चर्यानन्तरप्रार्थनालब्धबहुवार्षिक निद्रासमनन्तरकालभावीत्यवगन्तव्यं । अन्यथा मृतकल्पः शयिष्यस इति शप्तस्य तपश्चर्याद्यसंभवात् ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,8 +363,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 ब्रह्मशापाभिभूतोथ निपपाताग्रतः प्रभोः ।  
 ततः परमसंभ्रान्तो रावणो वाक्यमब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रभोः रावणस्य ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +380,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 विवृद्धः काञ्चनो वृक्षः फलकाले निकृत्यते ।  
 न नप्तारं स्वकं न्याय्यं शप्तमेवं प्रजापते ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 काश्चनः काञ्चनवत् स्पृहणीयः । चम्पकवृक्षो वा । विवृद्धः वर्धितः। फलकाले पुष्पकाले निकृत्यते छिद्यते । नप्तारं पौत्रम् ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -339,8 +399,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 कालस्तु क्रियतामस्य शयने जागरे तथा ॥ २७ ॥  
 रावणस्य वचः श्रुत्वा स्वयंभूरिदमब्रवीत् ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालः कालनियमः ॥ २७–२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,8 +418,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 एकेनाह्ना त्वसौ वीरश्चरन्भूमिं बुभुक्षितः ।  
 व्यात्तास्यो भक्षयेल्लोकान्संक्रुद्ध इव पावकः ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 षण्मासानित्येतदर्वाङ्निषेधपरं । अन्यथा नव षट् सप्त चाष्टौ च मासानिति पूर्वोक्तविरोधात् ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,8 +435,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 सोसौ व्यसनमापन्नः कुंभकर्णमबोधयत् ।  
 त्वत्पराक्रमभीतश्च राजा संप्रति रावणः ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सोसौ रावणः ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,8 +456,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 कुंभकर्णं समीक्ष्यैव हरयोद्य प्रविद्रुताः ।  
 कथमेनं रणे क्रुद्धं वारयिष्यन्ति वानराः ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शिबिरात् स्वनिलयात् । भक्षयन् परिधावति भक्षणहेतोः परि धाविष्यति । लक्षणहेत्वोः क्रियायाः इति शतृप्रवर्तमानसामीप्यादिना भविष्यदर्थे लट् ॥ ३१ – ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,8 +473,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 उच्यन्तां वानराः सर्वे यन्त्रमेतत्समुच्छ्रितम् ।  
 इति विज्ञाय हरयो भविष्यन्तीह निर्भयाः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यन्त्रं विभीषिका । समुच्छ्रितं उन्नतम् ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -415,8 +490,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 बिभीषणवचः श्रुत्वा हेतुमत्सुमुखेरितम् ।  
 उवाच राघवो वाक्यं नीलं सेनापतिं तदा ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुमुखेरितं सुमुखं यथा भवति तथा ईरितं उक्तम् ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -441,8 +519,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 ततो गवाक्षः शरभो हनुमानङ्गदस्तथा ।  
 शैलशृङ्गाणि शैलाभा गृहीत्वा द्वारमभ्ययुः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गच्छेत्यादिश्लोकद्वयम् ॥ आदाय स्वीकृत्य । आवृत्येति यावत् । उपसंहर राशीकुरु । युद्धसाधनशिलादिकामिदानीमेव संपादयेत्यर्थः । तिष्ठन्तु वानराः सर्वे सायुधाः शैलपाणय इति पाठः । सायुधाः खड्गाद्यायुधवन्तः ॥ ३५-३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -455,8 +536,11 @@ title_english = "061 Rama enquires about Kumbhakarna"
 रामवाक्यमुपश्रुत्य हरयो जितकाशिनः ।  
 पादपैरर्दयन्वीरा वानराः परवाहिनीम् ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परवाहिनीं नगररक्षार्थं बहिश्चरन्तीं । यद्वा कुम्भकर्णं दृष्ट्वा पलायमानान्वानरान्प्रत्यनुद्रुतां परवाहिनीमित्यर्थः ॥ ३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,7 +554,10 @@ title_english = "061 Rama enquires about Kumbhakarna"
 गिरेः समीपानुगतं यथैव महन्महाम्भोधरजालमुग्रम् ॥ ४० ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 शैलोद्यतदीप्तहस्तं शैलोद्यताः उद्यतशैलाः । महन्महाम्भोधरजालं । महत् गुरु महाम्भोघरजालं मेघजालमित्यर्थः ॥ ४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

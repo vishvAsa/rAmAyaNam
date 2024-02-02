@@ -32,7 +32,10 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 रक्षोगणास्तत्र हतावशिष्टास्ते रावणाय त्वरितं शशंसुः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ ब्रह्मास्त्रबन्धस्त्रिसप्ततितमे – ततो हतानित्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततो हतांस्तान्सहसा निशम्य राजा मुमोहाश्रुपरिप्लुताक्षः ।  
 पुत्रक्षयं भ्रातृवधं च घोरं विचिन्त्य राजा विपुलं प्रदध्यौ ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूर्वं कुम्भकर्णादिवधः सामान्येन श्रुतः संप्रत्याप्तैः सविशेषं श्रुत इत्याह – तत इति । पूर्वोक्तसर्वानुवादो वा ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततस्तु राजानमुदीक्ष्य दीनं शोकार्णवे संपरिपुप्लुवानम् ।  
 रथर्षभो राक्षसराजसूनुस्तमिन्द्रजिद्वाक्यमिदं बभाषे ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संपरिपुप्लुवानं । लटः शानजादेशः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,8 +88,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 पश्याद्य रामं सह लक्ष्मणेन मद्बाणनिर्भिन्नविकीर्णदेहम् ।  
 गतायुषं भूमितले शयानं शितैः शरैराचितसर्वगात्रम् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत्र यदा । इन्द्रारिः इन्द्रजित् ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,8 +109,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 अद्येन्द्रवैवस्वतविष्णुमित्रसाध्याश्विवैश्वानरचन्द्रसूर्याः ।  
 द्रक्ष्यन्तु मे विक्रममप्रमेयं विष्णोरिवोग्रं बलियज्ञवाटे ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पौरुषदैवयुक्तां पुरुषबलदैवबलयुक्तां । सन्तर्पयिष्यामि पूरयिष्यामि ६-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -111,8 +126,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स एवमुक्त्वा त्रिदशेन्द्रशत्रुरापृच्छ्य राजानमदीनसत्वः ।  
 समारुरोहानिलतुल्यवेगं रथं खरश्रेष्ठसमाधियुक्तम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 खरश्रेष्ठसमाधियुक्तं खरश्रेष्ठसंबन्धयुक्तं । खरश्रेष्ठैः समाधिना समाधानेन च युक्तमिति वा ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +143,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 तमास्थाय महातेजा रथं हरिरथोपमम् ।  
 जगाम सहसा तत्र यत्र युद्धमरिन्दमः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरिरथः सूर्यरथः । यमानिलेन्द्रचन्द्रार्कविष्णुसिंहांशुवाजिषु । शुकाहिकपिभेकेषु हरिर्ना कपिले त्रिषु इत्यमरः । युद्धमिति । कर्तव्यमिति शेषः ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +180,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स शङ्खशशिवर्णेन छत्रेण रिपुसूदनः ।  
 रराज प्रतिपूर्णेन नभचन्द्रमसा यथा ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तं प्रस्थितमित्यादिश्लोकद्वयमेकान्वयम् ॥ १०-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +211,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततस्त्विन्द्रजिता लङ्का सूर्यप्रतिमतेजसा ।  
 रराजाप्रतिवीरेण द्यौरिवार्केण भास्वता ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हैमैः हेमदण्डैः । हेमविभूषितैः हेमशलाकायुक्तैः ॥ १६–१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,8 +228,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स संप्राप्य महातेजा युद्धभूमिमरिन्दमः ।  
 स्थापयामास रक्षांसि रथं प्रति समन्ततः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रथं प्रति रथसिद्धिमुद्दिश्य ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,8 +245,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततस्तु हुतभोक्तारं हुतभुक्सदृशप्रभः ।  
 जुहाव राक्षसश्रेष्ठो मन्त्रवद्विधिवत्तदा ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विधिवत् क्रमवत् ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,8 +262,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स हविर्लाजसंस्कारैर्माल्यगन्ध पुरस्कृतैः ।  
 जुहुवे पावकं तत्र राक्षसेन्द्रः प्रतापवान् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हविर्लाजसंस्कारैः संस्कृतहविर्लाजैः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,8 +279,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 शस्त्राणि शरपत्राणि समिधोथ विभीतकाः ।  
 लोहितानि च वासांसि स्रुवं कार्ष्णायसं तथा ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शस्त्राणि आयुधानि । शरपत्राणि काशपत्रस्थानीयानि । तानि परिस्तरणान्यासन्नित्यर्थः । शरमयं बर्हिस्तृणातीत्यभिचारे काशश्चोदितः । अत्र त्वभिचारविशेषे तत्स्थाने शस्त्राणि कृतानीति बोध्यं । विभीतकाः कलिद्रुमविकाराः । वैभीतक इध्मः इति श्रुतेः । वासांसि स्वधार्याणि । यद्वा शस्त्राणि तोमरादीनि शरपत्राणि च । बर्हींष्यासन्निति शेषः । शरपत्रैः सतोमरैरित्यनुवादात् । कार्ष्णायसं स्रुवं । कृतमिति शेषः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +296,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स तत्राग्निं समास्तीर्य शरपत्रैः सतोमरैः ।  
 छागस्य कृष्णवर्णस्य गलं जग्राह जीवतः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्र युद्धभूमौ । आस्तीर्य परिस्तीर्य ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,8 +313,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 सकृदेव समिद्धस्य विधूमस्य महार्चिषः ।  
 बभूवुस्तानि लिङ्गानि विजयं यान्यदर्शयन् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सकृत्समिद्धस्य एकदा समिद्भिर्ज्वलितस्य । लिङ्गानि उक्तसकृत्समिद्धत्वविधूम -त्वमहार्चिष्ट्वानि । विजयं यान्यदर्शयन् । पूर्वमिति शेषः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,8 +330,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 प्रदक्षिणावर्तशिखस्तप्तकाश्चनभूषणः ।  
 हविस्तत्प्रतिजग्राह पावकः स्वयमास्थितः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रदक्षिणेति । प्रदक्षिण आवर्तो भ्रमिर्यासां ताः शिखा यस्येति विग्रहः । स्वयमास्थितः स्वयमास्थावान् । स्वयमुत्थित इति पाठे पुरुषरूपेणोत्थित इत्यर्थः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,8 +347,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 सोस्रमाहारयामास ब्राह्ममिन्द्ररिपुस्तदा ।  
 धनुषात्मरथं चैव सर्वं तत्राभ्यमन्त्रयत् ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आहारयामास आजुहाव । अभ्यमन्त्रयत् अभिमन्त्रितवान् ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,8 +364,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 तस्मिन्नाहूयमानेऽस्त्रे हूयमाने च पावके ।  
 सार्धं ग्रहेन्दुनक्षत्रैर्वितत्रास नभस्स्थलम् ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वितत्रास चचाल ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,8 +391,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 शरैर्बहुभिश्चित्रैस्तीक्ष्णवेगैरलंकृतैः ।  
 तोमरैरङ्कुशैश्चापि वानराञ्जघ्नुराहवे ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आत्मानं अन्तर्दधे अन्तर्धापयामास । अन्तर्भावितव्यथोयं । खेऽन्तर्दघेत्मानमित्यत्र आर्षं पूर्वरूपत्वं । अचिन्त्यरूपः अचिन्त्यमन्त्रशक्तिः ॥ २९ – ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,8 +408,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 रावणिस्तु ततः क्रुद्धस्तान्निरीक्ष्य निशाचरान् ।  
 हृष्टा भवन्तो युध्यन्तु वानराणां जिघांसया ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणिस्त्विति ॥ उवाचेति शेषः ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -365,8 +425,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततस्ते राक्षसाः सर्वे नर्दन्तो जयकाङ्क्षिणः ।  
 अभ्यवर्षस्ततो घोरान्वानराञ्शरवृष्टिभिः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः तस्माद्रावणिवचनात् । द्वितीयस्ततःशब्दः पश्चाच्छब्दार्थः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,8 +442,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स तु नालीकनाराचैर्गदाभिर्मुसलैरपि ।  
 रक्षोभिः संवृतः सङ्ख्ये वानरान्विचकर्त ह ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नालीकः विशालाग्रशरः । रक्षोभिः संवृतः रक्षोगणमध्यत उपरिस्थित इत्यर्थः । अन्यथा खेन्तर्दध इति पूर्वोक्तं विरुध्येत । विचकर्त हिंसितवान् ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,8 +471,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स शरैः सूर्यसंकाशैः शातकुम्भविभूषितैः ।  
 वानरान्समरे वीरः प्रममाथ सुदुर्जयः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणिं रावणिमुक्तायुधागमनप्रदेशम् ॥ ३५ – ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -427,8 +496,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततस्तु वानराः सर्वे भिन्नदेहा विचेतसः ।  
 व्यथिता विद्रवन्ति स्म रुधिरेण समुक्षिताः ॥ ४१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मथितसंकल्पाः नाशितमनोरथाः ॥ ३९–४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -445,8 +517,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ते द्रुमैः पर्वताग्रैश्च शिलाभिश्च प्लवङ्गमाः ।  
 अभ्यवर्षन्त समरे रावणिं पर्यवस्थिताः ॥ ४३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यक्तजीविताः त्यक्तजीवितेच्छाः । अभिवृत्ताः अभिमुखं प्रवृत्ताः । तुरवधारणे ॥ ४२ – ४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,8 +538,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ततः पावकसंकाशैः शरैराशीविषोपमैः ।  
 वानराणामनीकानि बिभेद समरे प्रभुः ॥ ४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यपोहत वारयामास ॥ ४४–४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -487,8 +565,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 सुग्रीवमृषभं चैव सोङ्गदं द्विविदं तथा ॥  
 घोरैर्दत्तवरैस्तीक्ष्णैर्निष्प्राणानकरोत्तदा ॥ ४८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अष्टादशेत्यादिसार्धश्लोकत्रयमेकान्वयम् ॥ दत्तवरैः वरदत्तैः ॥ ४६ – ४८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,8 +586,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स शरैः सूर्यसंकाशैः सुमुक्तैः शीघ्रगामिभिः ।  
 वानराणामनीकानि निर्ममन्थ महारणे ॥ ५० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्यानिति ॥ मूर्च्छितः प्रवृद्धः ॥ ४९-५० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,8 +603,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 आकुलां वानरीं सेनां शरजालेन मोहिताम् ।  
 हृष्टः स परया प्रीत्या ददर्श क्षतजोक्षिताम् ॥ ५१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परया प्रीत्या हृष्टः उद्धतः ॥ ५१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,8 +622,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 संसृज्य बाणवर्षं च शस्त्रवर्षं च दारुणम् ॥  
 ममर्द वानरानीकमिन्द्रजित्वरितो बली ॥ ५२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुनरेवेत्यादिसार्धश्लोकमेकं वाक्यम् ॥ खङ्गादीनि शस्त्राणि । अत्र द्वितीयबलिशब्दो वरदानबलवत्तावाचकः । प्रथमो वीर्यवत्तावाचकः ॥ ५२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -553,8 +643,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 ते शक्रजिद्बाणविशीर्णदेहा मायाहता विस्वरमुन्नदन्तः ।  
 रणे निपेतुर्हरयोद्रिकल्पा यथेन्द्रवज्राभिहता नगेन्द्राः ॥ ५४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्वसैन्यं स्वसैन्योपरिभागम् ॥ ५३–५४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -577,8 +670,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 सविस्फुलिङ्गोज्ज्वलपावकानि ववर्ष तीव्रं प्लवगेन्द्रसैन्ये ।  
 \[ गदाश्च शक्तीः परिघं शतघ्नीर्ववर्ष तीव्रं प्लवगेन्द्रसैन्ये \] ॥ ५७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मायानिगूढं अतएव आवृतं अप्रकाशम् ॥ ५५-५७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -595,8 +691,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 तेऽन्योन्यमभिसर्पन्तो निनदन्तश्च विस्वरम् ।  
 राक्षसेन्द्रास्त्रनिर्भिन्ना निपेतुर्वानरर्षभाः ॥ ५९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततो ज्वलनेत्यादिश्लोकद्वयमेकान्वयम् ॥ शरैः तीक्ष्णैरित्यर्थः ॥ ५८-५९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -609,8 +708,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 उदीक्षमाणा गगनं केचिन्नेत्रेषु ताडिताः ।  
 शेरैर्विविशुरन्योन्यं पेतुश्च जगतीतले ॥ ६० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विविशुरन्योन्यं अन्योन्योपर्यालम्बनार्थं पेतुरित्यर्थः ॥ ६० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -623,8 +725,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 हनुमन्तं च सुग्रीवमङ्गदं गन्धमादनम् ।  
 जाम्बवन्तं सुषेणं च वेगदर्शिनमेव च ॥ ६१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हनुमन्तमित्यादिचतुः-श्लोक्येकान्वया ॥ ६१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -645,8 +750,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 प्रासैः शूलैः शितैर्बाणैरिन्द्रजिन्मन्त्रसंहितैः ।  
 विव्याध हरिशार्दूलान्सर्वांस्तान्राक्षसोत्तमः ॥ ६४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 केसरिमित्यार्षम् ॥ ६२ – ६४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -659,8 +767,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स वै गदाभिर्हरियूथमुख्यान्निर्भिद्य बाणैस्तपनीयपुङ्खैः ।  
 ववर्ष रामं शरवृष्टिजालैः सलक्ष्मणं भास्कररश्मिकल्पैः ॥ ६५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गदाभिरित्येतत् पूर्वोक्तप्रासादीनामुपलक्षणम् ॥ ६५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -673,8 +784,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स बाणवर्षैरभिवर्ष्यमाणो धारानिपातानिव तानचिन्त्य ।  
 समीक्षमाणः परमाद्भुतश्री रामस्तदा लक्ष्मणमित्युवाच ॥ ६६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बाणवर्षैः बाणनिरन्तरपातैः । अभिवर्ष्यमाणः अभितः पात्यमानः स रामः । तान् बाणवर्षान् । धारानिपातानिव लघूनचिन्त्य । बाणवर्षं तृणीकृत्येत्यर्थः । अत्र हेतुमाह – परमेति । अत्यन्ताश्चर्यकरधैर्य समृद्धिः सन् लक्ष्मणं समीक्षमाणः स्वस्वभावावलम्ब नेन ब्रह्मास्त्रप्रतिक्रियां कर्तुमुद्युक्तमिङ्गितैरभिवीक्षमाणः सन्नित्युवाच ॥ ६६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -687,8 +801,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 असौ पुनर्लक्ष्मण राक्षसेन्द्रो ब्रह्मास्त्रमाश्रित्य सुरेन्द्रशत्रुः ।  
 निपातयित्वा हरिसैन्यमुग्रमस्माञ्शरैरर्दयति प्रसक्तः ॥ ६७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 असौ ब्रह्मास्त्रं ब्रह्मास्त्रमत्रं । आश्रित्य । प्रहरन्निति शेषः ॥ ६७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -701,8 +818,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 स्वयम्भुवा दत्तवरो महात्मा खमास्थितोन्तर्हितभीमकायः ।  
 कथं नु शक्यो युधि नष्टदेहो निहन्तुमद्येन्द्रजिदुद्यतास्त्रः ॥ ६८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नष्टदेहः अदृष्टदेहः । तत्र हेतुः –अन्तर्हितभीमकाय इति ॥ ६८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -719,8 +839,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 प्रच्छादयत्येष हि राक्षसेन्द्रः सर्वा दिशः सायकवृष्टिजालैः ।  
 एतच्च सर्वं पतिताग्र्यशूरं न भ्राजते वानरराजसैन्यम् ॥ ७० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तर्हि तत्र प्रतिक्रिया कर्तव्येत्यत्राह – मन्य इति ॥ स्वयम्भूः अचिन्त्यः अचिन्त्यप्रभाव इति मन्ये । तत्र हेतुमाह — यस्येति । एतदस्त्रं यस्य यद्देवताकं । यः अस्यास्त्रस्य प्रभवः उत्पत्तिकारणं । सोचिन्त्यः । तर्ह्यावाभ्यां किं कर्तव्यमित्यत्राह – बाणेति । धीमन् आपत्सु न चलितव्यमिति ज्ञानिन् ॥ ६९-७० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -733,8 +856,11 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 आवां तु दृष्ट्वा पतितौ विसंज्ञौ निवृत्तयुद्धौ गतरोषहर्षौ ।  
 ध्रुवं प्रवेक्ष्यत्यमरारिवासमसौ समादाय रणाग्रलक्ष्मीम् ॥ ७१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गतरोषहर्षौ मूर्च्छिताविति यावत् । अमरारिवासं लङ्कां । रणाग्रलक्ष्मीं विजयलक्ष्मीं । अग्रपदेन रणमूललक्ष्मीर्न ग्रहीतुं शक्येत्युच्यते । एतेन मूलघातः कर्तुं न शक्यत इत्युच्यते ॥ ७१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -754,7 +880,10 @@ title_english = "073 Rama and Lakshmana fell unconscious"
 \[ संस्तूयमानः स तु यातुधानैः पित्रे च सर्वं हृषितोऽभ्युवाच ॥ \] ७४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 विशस्तौ पीडितौ । तौ पतितौ विदर्शयित्वा दृष्ट्वा ननाद ॥ ७२-७४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

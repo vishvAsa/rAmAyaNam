@@ -32,7 +32,10 @@ title_english = "117 Gods reach Lanka and approach Rama"
 रामं वचनमर्थज्ञो वरं सर्वधनुष्मताम् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ सीतानयनं स उवाचेत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 सा हि शोकसमाविष्टा बाष्पपर्याकुलेक्षणा ।  
 मैथिली विजयं श्रुत्वा तव हर्षमुपागमत् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आरम्भः उद्योगः । कर्मणां सेतुबन्धादिव्यापाराणां । फलोदयः रावणविजयश्च यन्निमित्तः यस्याः सीताया लाभार्थः । तां द्रष्टुमर्हसि ॥ २ – ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +69,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 पूर्वकात्प्रत्ययाच्चाहमुक्तो विश्वस्तया तया ।  
 भर्तारं द्रष्टुमिच्छामि कृतार्थं सहलक्ष्मणम् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूर्वकात् पूर्वोत्पन्नात् । प्रत्ययात् विश्वासात् ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,8 +86,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 एवमुक्तो हनुमता रामो धर्मभृतां वरः ।  
 अगच्छत्सहसा ध्यानमीषद्वाष्पपरिप्लुतः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रामः ईषद्वाष्पपरिप्लुतः सन् सहसा ध्यानमागच्छत् । रावणभवनोषितसीतापरिग्रहे महान् लोकापवादो भवेत् निर्दोषायास्तस्याः परित्यागे महान् दोषः स्यादित्येवं कार्यदौरथ्यात् किं कर्तव्यमिति चिन्तयामासेत्यर्थः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,8 +103,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 दीर्घमुष्णं विनिश्वस्य मेदिनीमवलोकयन् ।  
 उवाच मेघसंकाशं विभीषणमुपस्थितम् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निःश्वासदैर्येण चिन्तादैर्घ्यं गृह्यते । औष्ण्येन कथं क्लिष्टां तां पुनः क्लेशयिष्यामीत्यन्तस्तापो व्यज्यते । भूमिं समवलोकयन्निति चिन्तापारवश्याभिनयः । मेघसंकाशमित्यनेन सीतानयने कृतत्वरत्वमुच्यते ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,8 +120,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 दिव्याङ्गरागां वैदेहीं दिव्याभरणभूषिताम् ।  
 इह सीतां शिरस्नातामुपस्थापय मा चिरम् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दिव्याङ्गरागामिति । अलंकृत्यानयनादेशः उत्तरकालिकपरुषभाषणार्हताप्रतिपादनाय । नहि तादृशदशापन्नां दीनां परुषं भाषितुं युज्यते । तच्च तस्या न परित्यागार्थं किंतु चतुर्मुखादिदेवतामुखेन तस्याः पातिव्रत्यं ख्यापयितुं । मा चिरं बिलम्बो न कार्य इत्यर्थः ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +149,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 एवमुक्ता तु वैदेही प्रत्युवाच विभीषणम् ।  
 अस्त्राता द्रष्टुमिच्छामि भर्तारं राक्षसाधिप ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवमित्यादिश्लोकद्वयमेकान्वयं । स्वाभिः स्त्रीभिरचोदयत् निजस्त्रीमुखेनाचोदयत् ॥ ८-११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +166,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 तस्यास्तद्वचनं श्रुत्वा प्रत्युवाच विभीषणः ।  
 यदाह राजा भर्ता ते तत्तथा कर्तुमर्हसि ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रत्युवाच स्त्रीमुखेनेति शेषः । यथानियोगं कर्तव्यत्वे हेतुद्वयम् – राजा भर्तेति ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,8 +191,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 आरोग्य शिबिकां दीप्तों परार्ध्याम्बरसंवृताम् ।  
 रक्षोभिर्बहुभिर्गुप्तामाजहार विभीषणः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अङ्गीकारेहेतुद्वयं भर्तृदेवता भर्तृभक्तिप्रतेति ॥ १३ – १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,8 +208,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 सोभिगम्य महात्मानं ज्ञात्वाऽपि ध्यानमास्थितम् ।  
 प्रणतश्च प्रहृष्टश्च प्राप्तां सीतां न्यवेदयत् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ज्ञात्वापि विभीषणागमनं विदित्वापि । अनेन चिन्तानुवृत्तिरुक्ता ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,8 +225,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 तामागतामुपश्रुत्य रक्षोगृहचिरोषिताम् ।  
 हर्षो दैन्यं च रोषश्च त्रयं राघवमाविशत् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तामिति । रावणवधपूर्वकसीतागमेन हर्षः । रावणभवनोषितत्वेन दैन्यं रोषश्च । अत्र रोषो भाविशपथोपयोगित्वादारोपित इति द्रष्टव्यम् ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,8 +246,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 राक्षसाधिपते सौम्य नित्यं मद्विजये रत ।  
 वैदेही सन्निकर्षं मे शीघ्रं समुपगच्छतु ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सविमर्शं विचारयन् सवितर्क चिन्तयन् । अष्टमिति क्रियाविशेषणं शेषणं वा ॥ १८-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,8 +263,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 स तद्वचनमाज्ञाय राघवस्य विभीषणः ।  
 तूर्णमुत्सारणे यत्नं कारयामास सर्वतः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्सारणे जननिवारणे ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +280,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 कञ्चुकोष्णीषिणस्तत्र वेत्रजर्जरपाणयः ।  
 उत्सारयन्तः पुरुषाः समन्तात्परिचक्रमुः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कञ्चुकेति । कञ्चुकं वारबाणं । उष्णीषं शिरोवेष्टनं । वेत्रेण जर्जराः सदावलम्बनजनितपारुष्याः पाणयो येषां ते ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,8 +297,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 ऋक्षाणां वानराणां च राक्षसानां च सर्वशः ।  
 वृन्दान्युत्सार्यमाणानि दूरमुत्ससृजुस्तदा ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्ससृजुः अपचक्रमुः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,8 +314,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 तेषामुत्सार्यमाणानां सर्वेषां ध्वनिरुत्थितः ।  
 वायुनोद्वर्तमानस्य सागरस्येव निस्स्वनः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उद्वर्तमानस्य उज्जृम्भमाणस्य ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,8 +331,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 उत्सार्यमाणांस्तान्दृष्ट्वा समन्ताज्जातसंभ्रमान् ।  
 दाक्षिण्यात्तदमर्षाच्च वारयामास राघवः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दाक्षिण्यात् वानरेषुदाक्षिण्यात् । अमर्षात् उत्सारणासहनात् ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,8 +352,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 किमर्थं मामनादृत्य क्लिश्यतेऽयं त्वया जनः ।  
 निवर्तयैनमुद्योगं जनोऽयं स्वजनो मम ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चक्षुषा प्रदहन्निवेति लोचनाभ्यां पिबन्निवेत्युक्तादरपात्रभूतस्य विभीषणस्यैवं विधदर्शनविषयताकरणं स्वजननिग्रहासहिष्णुत्वात् । सीताविषयसमारोपितरोषविशेषाद्वा ॥ २५-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,8 +369,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 न गृहाणि न वस्त्राणि न प्राकारास्तिरस्क्रियाः ।  
 नेदृशा राजसत्कारा वृत्तमावरणं स्त्रियाः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तिरस्क्रियाः तिरस्करिण्यः । राजसत्काराः उत्सारणादिकं । वृतं आचारः ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,8 +386,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 व्यसनेषु न कृच्छ्रेषु न युद्धेषु स्वयंवरे ।  
 न क्रतौ न विवाहे च दर्शनं दुष्यति स्त्रियाः ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यसनेषु इष्टजनवियोगेषु । कृच्छ्रेषु राज्यक्षोभादिषु । युद्धे युद्धभूमौ ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,8 +411,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 तदानय समीपं मे शीघ्रमेनां विभीषण ।  
 सीता पश्यतु मामेषा सुहृद्गणवृतं स्थितम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृच्छ्रे वक्ष्यमाणाग्निप्रवेशे ॥ २९ – ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,8 +432,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 ततो लक्ष्मणसुग्रीवौ हनुमांच प्लवङ्गमः ।  
 निशम्य वाक्यं रामस्य बभूवुर्व्यथिता भृशम् ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सविमर्शः कृच्छ्रशब्दप्रयोगात्साशङ्कः ॥ ३२-३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,8 +449,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 कलत्रनिरपेक्षैश्च इङ्गितैरस्य दारुणैः ।  
 अप्रीतमिव सीतायां तर्कयन्ति स्म राघवम् ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यथायां हेतुमाह—कलत्रेति ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,8 +470,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 सा वस्त्रसंरुद्धमुखी लज्जया जनसंसदि ।  
 रुरोदासाद्य भर्तारमार्यपुत्रेति भाषिणी ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अवलीयन्ती संकुचन्ती ॥ ३५-३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -415,8 +487,11 @@ title_english = "117 Gods reach Lanka and approach Rama"
 विस्मयाच्च प्रहर्षाच्च स्नेहाच्च पतिदेवता ।  
 उदैक्षत मुखं भर्तुः सौम्यं सौम्यतरानना ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विस्मयात् अघटितरामपुनदर्शनाद्विस्मयः । प्रियस्य दर्शनेन प्रहर्षः । स्नेहः स्वाभाविकः । उदीक्षणकालिकमुखप्रसादमाह – सौम्येति ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -430,7 +505,10 @@ title_english = "117 Gods reach Lanka and approach Rama"
 वदनमुदितपूर्णचन्द्रकान्तं विमलशशाङ्कनिभानना तदानीम् ॥ ३८ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 उदितपूर्णचन्द्रेत्यनेन कोपरक्तत्वमुक्तं । विमलशशाङ्केत्यनेन उत्तरकालिकक्षयः सूच्यते ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

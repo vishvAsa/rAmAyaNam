@@ -32,7 +32,10 @@ title_english = "086 Indrajit enters the battle filed again"
 परेषामहितं वाक्यमर्थसाधकमब्रवीत् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथेन्द्रजिद्युद्धारम्भः – अथ तस्यामित्यादि ॥ तस्यामवस्थायां निकुम्भिलासमीपगमना -वसरे । अर्थसाधकं । स्वानामिति शेषः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "086 Indrajit enters the battle filed again"
 यदेतद्राक्षसानीकं मेघश्यामं विलोक्यते ।  
 एतदायोध्यतां शीघ्रं कपिभिः पादपायुधैः ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आयोध्यतां हन्यतां । शीघ्रमिति । विलम्बे यागः समाप्येतेति भावः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "086 Indrajit enters the battle filed again"
 जहि वीर दुरात्मानं मायापरमधार्मिकम् ।  
 रावणिं क्रूरकर्माणं सर्वलोकभयावहम् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत यतस्व । अत्र राक्षसानीके ॥ ३–५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "086 Indrajit enters the battle filed again"
 ऋक्षाः शाखामृगाश्चापि द्रुमाद्रिनखयोधिनः ।  
 अभ्यधावन्त सहितास्तदनीकमवस्थितम् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शुभलक्षणः सुहृद्वचनसारग्राहित्वलक्षणयुक्तः ॥ ६–७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "086 Indrajit enters the battle filed again"
 राक्षसाश्च शितैर्वाणैरसिभिः शक्तितोमरैः ।  
 उद्यतैः समवर्तन्त कपिसैन्यजिघांसवः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कपिसैन्यजिघांसवः कपिसैन्यं हन्तुमिच्छवः ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "086 Indrajit enters the battle filed again"
 शस्त्रैश्च बहुधाकारैः शितैर्बाणैश्च पादपैः ।  
 उद्यतैर्गिरिशृङ्गैश्व घोरैराकाशमावृतम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संग्रहारः युद्धम् ॥ ९-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +157,11 @@ title_english = "086 Indrajit enters the battle filed again"
 ऋक्षवानरमुख्यैश्च महाकायैर्महाबलैः ।  
 रक्षसां वध्यमानानां महद्भयमजायत ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शस्त्रनिवेशनविकृताननबाहुत्वरूपक्रियाभेदात् तच्छब्दद्वयनिर्वाहः ॥ ११–१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -153,8 +174,11 @@ title_english = "086 Indrajit enters the battle filed again"
 स्वमनीकं विषण्णं तु श्रुत्वा शत्रुभिरर्दितम् ।  
 उदतिष्ठत दुर्धर्षस्तत्कर्मण्यननुष्ठिते ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्कर्मणि तस्मिन्होमकर्मणि ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,8 +191,11 @@ title_english = "086 Indrajit enters the battle filed again"
 वृक्षान्धकारान्निर्गत्य जातक्रोधः स रावणिः ।  
 आरुरोह रथं सज्जं पूर्वयुक्तं स राक्षसः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वृक्षान्धकारात् नीरन्ध्रवृक्षषण्डादित्यर्थः । सज्जं आयुधादिभिः । पूर्वयुक्तं पूर्वमेव युक्ताश्वं । सराक्षसः राक्षससहितः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,8 +208,11 @@ title_english = "086 Indrajit enters the battle filed again"
 स भीमकार्मुकधरः कालमेघसमप्रभः ।  
 रक्तास्यनयनः क्रुद्धो बभौ मृत्युरिवान्तकः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्तकः अन्तकरः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,8 +225,11 @@ title_english = "086 Indrajit enters the battle filed again"
 दृष्ट्वैव तु रथस्यं तं पर्यवर्तत तद्बलम् ।  
 रक्षसां भीमवेगानां लक्ष्मणेन युयुत्सताम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पर्यवर्तत परितोतिष्ठत् ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +250,11 @@ title_english = "086 Indrajit enters the battle filed again"
 विध्वंसयन्तं तरसा दृष्ट्वैव पवनात्मजम् ।  
 राक्षसानां सहस्राणि हनुमन्तमवाकिरन् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्मिन्नित्यादि ॥ आदावेकं वृक्षमुद्यम्य निर्दहन्सन् पश्चात् बहुभिर्वृक्षैस्तद्रक्षोबलं निःसंज्ञं चकारेत्यन्वयः ॥ १८- २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +277,11 @@ title_english = "086 Indrajit enters the battle filed again"
 मुष्टिभिर्वज्रकल्पैश्च तलैरशनिसन्निभैः ॥  
 अभिजघ्नुः समासाद्य समन्तात्पर्वतोपमम् ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अवाकिरन्नित्युक्तं प्रपञ्चयति – शिवेत्यादि । शितशूलधरा इत्यादिविशेषणेन येषां येष्वस्त्रेष्वत्यन्तपाटवमस्ति तैस्ते अवाकिरन्निति गम्यते । परिघैरित्यादौ परिघपाणयइत्याद्यूह्यं । शुभदर्शनैरित्यनेन तैक्ष्ण्यमुपलक्ष्यते । पर्वतोपमं हनुमन्तमिति शेषः ॥ २१-२३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +296,11 @@ title_english = "086 Indrajit enters the battle filed again"
 स ददर्श कपिश्रेष्ठमचलोपममिन्द्रजित् ।  
 सूदयन्तममित्रघ्नममित्रान्पवनात्मजम् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तेषामित्य ॥ संक्रुद्धः । हनुमानिति शेषः ॥ २४-२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,8 +313,11 @@ title_english = "086 Indrajit enters the battle filed again"
 स सारथिमुवाचेदं याहि यत्रैष वानरः ।  
 क्षयमेष हि नः कुर्याद्राक्षसानामुपेक्षितः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हि यस्मात्कारणात् । उपेक्षितः एषः नः अस्माकं संबन्धिनां राक्षसानां क्षयं कुर्यात् । अतः एष वानरो यत्र । वर्तत इति शेषः । तत्र याहीतीदं वचः सारथिमुवाचेत्यन्वयः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,8 +330,11 @@ title_english = "086 Indrajit enters the battle filed again"
 इत्युक्तः सारथिस्तेन ययौ यत्र स मारुतिः ।  
 वहन्परमदुर्धर्षं स्थितमिन्द्रजितं रथे ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वहन् प्रापयन् ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,8 +355,11 @@ title_english = "086 Indrajit enters the battle filed again"
 युध्यस्व यदि शूरोसि रावणात्मज दुर्मते ।  
 वायुपुत्रं समासाद्य जीवन्न प्रतियास्यसि ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सोभ्युपेत्येति । अत्रापि क्रियाभेदात् तच्छन्दस्य द्विःप्रयोगः ॥ २८-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,8 +376,11 @@ title_english = "086 Indrajit enters the battle filed again"
 हनुमन्तं जिघांसन्तं समुद्यतशरासनम् ।  
 रावणात्मजमाचष्टे लक्ष्मणाय विभीषणः ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 द्वन्द्वं द्वन्द्वयुद्धं । ददासीति शेषः । यदि ददासि तर्हि शस्त्राणि त्यक्त्वा बाहुभ्यां प्रतियुध्यस्वेत्यन्वयः । ततः तदानीं द्वन्द्वयुद्धकाले ॥ ३१ – ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -339,8 +393,11 @@ title_english = "086 Indrajit enters the battle filed again"
 यः स वासवनिर्जेता रावणस्यात्मसंभवः ।  
 स एष रथमास्थाय हनुमन्तं जिघांसति ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यः सः । प्रसिद्धो य इत्यर्थः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,8 +410,11 @@ title_english = "086 Indrajit enters the battle filed again"
 तमप्रतिमसंस्थानैः शरैः शत्रुविदारणैः ।  
 जीवितान्तकरैर्घोरैः सौमित्रे रावणि जहि ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अप्रतिमसंस्थानैः अनुपमसन्निवेशैः करवीरपत्राद्याकारैरित्यर्थः ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -368,7 +428,10 @@ title_english = "086 Indrajit enters the battle filed again"
 ददर्श तं पर्वतसन्निकाशं रणे स्थितं भीमबलं नदन्तम् ॥ ३५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अरिविभीषणेन शत्रुभयंकरेण ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

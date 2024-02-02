@@ -36,7 +36,10 @@ title_english = "096 Sugreeva kills Virupaksha"
 बभूव परमक्रुद्धो रावणो भीमदर्शनः ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रावणिनिर्याणं – आर्तानामित्यादि । परिदेवितं परिदेवितरूपं शब्दम् ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,8 +72,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 प्रतिपूज्य यथान्यायं रावणं ते निशाचराः ।  
 तस्थुः प्राञ्जलयः सर्वे भर्तुर्विजयकाङ्क्षिणः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संदृश्येत्यादिश्लोकत्रयमेकान्वयम् ॥ मूर्च्छितः अभिवृद्धः, कालाग्निरिव स्थितः । भयाव्यक्तकथः भयादव्यक्तवचनः । ममाज्ञया वदतेत्युवाचेत्यन्वयः । इमौ महोदरमहापार्श्वौ सचिवौ । पूर्वहतौ तु मत्तप्रमत्तापरपर्यायौ । रावणभ्रातरौ ॥ ३-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +93,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 अद्य बाणैर्धनुर्मुक्तैर्युगान्तादित्यसन्निभैः ।  
 राघवं लक्ष्मणं चैव नेष्यामि यमसादनम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रहस्येति । शत्रुषु तृणीकारात् ॥ ९-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -113,8 +122,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 अद्य वानरसैन्यानि रथेन पवनौजसा ।  
 धनुःसमुद्रादुद्भूतैर्मथिष्यामि शरोर्मिभिः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 खरस्येत्यादिषु वधस्येति शेषः ॥ ११-१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +151,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 हतो भर्ता हतो भ्राता यासां च तनया हताः ।  
 वधेनाद्य रिपोस्तासां करोम्यस्रप्रमार्जनम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आकोशपद्मवक्त्राणि ईषद्विकसितपद्मभूतवक्त्राणि । पद्मकेसरवर्चसां बानराणामिति शेषः । प्रमथामि प्रमथ्नामि । श्राभाव आर्षः ॥ १५–१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +172,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 अद्य गोमायवो गृध्रा ये च मांसाशिनोऽपरे ।  
 सर्वांस्तांस्तर्पयिष्यामि शत्रुमांसैः शरार्पितैः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गतचेतनैः गतप्राणैः । यत्नावेक्ष्यतलामिति । नैरन्ध्र्येण भूमौ वानरान्पातयिष्यामीत्यर्थः ॥ १९-२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,8 +193,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 तस्य तद्वचनं श्रुत्वा महापार्श्वोब्रवीद्वचः ।  
 बलाध्यक्षान्स्थितांस्तत्र बलं संत्वर्यतामिति ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कल्प्यतां आकल्प्यतां । अलंक्रियतामित्यर्थः ॥ २१-२२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +212,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 बलाध्यक्षास्तु संरब्धा राक्षसांस्तागृहाद्गृहात् ॥  
 चोदयन्तः परिययुर्लङ्कायां तु महाबलाः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संरब्धा इति । पुनः पुनराह्वानेप्यनागमनात्कुपिताइत्यर्थः । परिययुः प्रतिरथ्यं ययुरित्यर्थः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,8 +237,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 यष्टिभिर्विमलैश्चक्रैर्निशितैश्च परश्वधैः ।  
 भिण्डिपालैः शतघ्नीभिरन्यैश्चापि वरायुधैः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिश्लोकत्रयमेकान्वयं । हुलैः द्विफलपत्राग्रायुधविशेषैः । हुलं द्विफलपत्रा इति वैजयन्ती । भुजैरित्याद्युपलक्षणे तृतीया ॥ २४-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,8 +278,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 कोटिसूर्यप्रतीकाशं ज्वलन्तमिव पावकम् ॥ \]  
 द्रुतं सूतसमायुक्तं युक्ताष्टतुरगं रथम् ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथानयद्बलाध्यक्षः सर्वतो रावणाज्ञया । द्रुतं सूतसमायुक्तं युक्ताष्टतुरगं रथंमिति पाठः ॥ २७-३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,8 +293,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 
 आरुरोह रथं भीमो दीप्यमानं स्वतेजसा ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आरुरोहेत्यर्धमेकं वाक्यम् ॥ भीमः रावणः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,8 +340,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 ततो युद्धाय तेजस्वी रक्षोगणवलैर्वृतः ।  
 निर्ययावुद्यतधनुः कालान्तकयमोपमः ॥ ४१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सत्त्वगाम्भीर्यात् बलातिशयात् ॥ ३४-४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -321,8 +357,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 ततः प्रजवनाश्वेन रथेन स महारथः ।  
 द्वारेण निर्ययौ तेन यत्र तौ रामलक्ष्मणौ ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 द्वारेणेति । उत्तरद्वारेणेत्यर्थः ॥ ४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,8 +382,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 नयनं चास्फुरद्वामं सव्यो बाहुरकम्पत ।  
 विवर्णं वदनं चासीत्किंचिदभ्रश्यत स्वरः ॥ ४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततो नष्टप्रभ इत्यादिश्लोकचतुष्टयमेकान्वयम् ॥ ४३ – ४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,8 +411,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 तेषां तु रथघोषेण राक्षसानां महात्मनाम् ।  
 वानराणामपि चमूर्युद्धायैवाभ्यवर्तत ॥ ४९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रूपाणि दुर्निमित्तरूपाणि । ततः अनन्तरं । ततः उत्तरद्वारात् । निष्पततः निष्क्रमतः । सूर्यनष्टप्रभत्वादीनि रूपाणि जज्ञिर इतिसंबन्धः ॥ ४६-४९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,8 +432,11 @@ title_english = "096 Sugreeva kills Virupaksha"
 ततः कुद्धो दशग्रीवः शरैः काञ्चनभूषणैः ।  
 वानराणामनीकेषु चकार कदनं महत् ॥ ५१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आह्वयानानां आह्वयमानानां स्पर्धया आह्वयतां । आगमशासनस्यानित्य -त्वान्मुगागमाभावः ॥ ५०–५१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -410,7 +458,10 @@ title_english = "096 Sugreeva kills Virupaksha"
 ततस्ततस्तस्य शरप्रवेगं सोढुं न शेकुर्हरिपुङ्गवास्ते ॥ ५४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 निकृत्तशिरस इत्यादिश्लोकद्वयम् ॥ ५२–५४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

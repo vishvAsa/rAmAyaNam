@@ -40,7 +40,10 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 अदृश्यो दृश्यमानो वा सर्वथा त्वं बलाधिकः ॥ ३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथेन्द्रजिन्निर्गमोशीतितमे – मकराक्षमित्यादि । आविष्टः अभूदिति शेषः ॥ १-३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 त्वमप्रतिमकर्माणमिन्द्रं जयसि संयुगे ।  
 किं पुनर्मानुषौ दृष्ट्वा न वधिष्यसि संयुगे ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जयसि अजैषीः । पुनःशब्दस्त्वर्थे । मानुषौ पुनः मानुषौ तु । संयुगे दृष्ट्वापि न वधिष्यसि किं दर्शनमात्रेण वधिष्यस्येवेत्यर्थः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 तथोक्तो राक्षसेन्द्रेण प्रतिगृह्य पितुर्वचः ।  
 यज्ञभूमौ स विधिवत्पावकं जुहवेन्द्रजित् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जुहव जुहाव । वृद्ध्यभाव आर्षः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,8 +90,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 जुह्वतथापि तत्राग्निं रक्तोष्णीषधराः स्त्रियः ।  
 आजग्मुस्तत्र संभ्रान्ता राक्षस्यो यत्र रावणिः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जुह्वतइति भावलक्षणे षष्ठी । रक्तोष्णीषधराः । ऋत्विग्धारणार्थं रक्तोष्णीषाण्यानयन्त्य इत्यर्थः । लोहितोष्णीषा ऋत्विजः प्रचरन्ति इति श्रुतेः । संभ्रान्ताः त्वरावत्यः । समयातिक्रमो मा भूदिति त्वरया उष्णीषाण्यानिन्युरित्यर्थः ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 सर्वतोग्निं समास्तीर्य शरपत्रैः सतोमरैः ।  
 छागस्य कृष्णवर्णस्य गलं जग्राह जीवतः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शस्त्राणि अभवन्निति शेषः । शरपत्राणि गुन्द्रपत्राणि । गुन्द्रश्च काशजातीयः । गुन्द्रस्तेजनकः शरः इत्यमरः । शस्त्राणि तोमराणि । सतोमरैरित्यनुवादात् । शस्त्राणि शरपत्राणि च परिस्तरणान्यभवन् । विभीतकाः समिधः इध्मानि अभवन् । वासांसि ऋत्विगुष्णीषवासांसि लोहितान्यभवन् । कार्ष्णायसं स्रुवमासीत् ॥ ७–८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 प्रदक्षिणावर्तशिखस्तप्तहाटकसन्निभः ।  
 हविस्तत्प्रतिजग्राह पावकः स्वयमुत्थितः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विजयं दर्शयन्ति विजयसूचकानि ॥ ९-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,8 +153,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 स वाजिभिश्चतुर्भिश्च बाणैश्च निशितैर्युतः ।  
 आरोपितमहाचापः शुशुभे स्यन्दनोत्तमः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्तर्धानगतं अन्तर्धानशक्तियुक्तम् ॥ ११–१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,8 +170,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 जाज्वल्यमानो वपुषा तपनीयपरिच्छदः ।  
 मृगैश्चन्द्रार्धचन्द्रैश्च सरथः समलङ्कृतः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मृगैः मृगाकारप्रतिमाभिः । चन्द्रैः चन्द्राकारैः । अर्धचन्द्रैः रचनाविशेषैः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,8 +191,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 तेन चादित्यकल्पेन ब्रह्मास्त्रेण च पालितः ।  
 स बभूव दुराधर्षो रावणिः सुमहाबलः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जाम्बूनदमहाकम्बुः सौवर्णमहावलययुक्तः । कम्बुर्ना वलये शङ्खे इत्यमरः ॥ १४-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,8 +208,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 सोभिनिर्याय नगरादिन्द्रजित्समितिंजयः ।  
 हुत्वाऽग्निं राक्षसैर्मन्त्रैरन्तर्धानगतोऽब्रवीत् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राक्षसैः निर्ऋतिदेवताकैः । अन्तर्धानगतः अन्तर्धानशक्तिं प्राप्तः । अतः इत्युक्त्वान्तरधीयतेत्यनेन न विरोधः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +233,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 आपपाताथ संक्रुद्धो दशग्रीवेण चोदितः ।  
 तीक्ष्णकार्मुकनाराचैस्तीक्ष्णस्त्विन्द्ररिपू रणे ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अद्य हवेत्यादिश्लोकद्वयमेकान्वयं । अद्य निर्वानरामिति । पितुरित्यध्याहारः । पितुः परमप्रीतिं परमप्रीतिं प्रति । पितुः प्रीतिमुद्दिश्येत्यर्थः । अद्य सलक्ष्मणं रामं हत्वा उर्वी निर्वानरां करिष्य इति संबन्धः ॥ १७–१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +250,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 स ददर्श महावीर्यौ नागौ त्रिशिरसाविव ।  
 सृजन्ताविषुजालानि वीरौ वानरमध्यगौ ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नागौ त्रिशिरसाविवेति दृष्टान्तेन रामलक्ष्मणयोर्महापुरुषलक्षणपृथुलोन्नतभुजशिरस्कवं द्योत्यते । सृजन्तौ स्रक्ष्यन्तौ । सकलराक्षसक्षयकारिणावित्यर्थः ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -231,8 +267,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 इमौ ताविति संचिन्त्य सज्यं कृत्वा च कार्मुकम् ।  
 सन्ततानेषुधाराभिः पर्जन्य इव वृष्टिमान् ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सन्ततान ववर्ष ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +292,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 प्रच्छादयन्तौ गगनं शरजालैर्महाबलौ ।  
 तमस्त्रैः सूर्यसंकाशैर्नैव पस्पृशतुः शरैः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वैहायसं विहायसा गमनम् ॥ २२-२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,8 +325,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 तौ हन्यमानौ नाराचैर्धाराभिरिव पर्वतौ ।  
 हेमपुङ्खाभरव्याघ्रौ तिग्मान्मुमुचतुः शरान् ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नभः प्रच्छादयन् । हेतौ शतृप्रत्ययः । अन्तर्धापयामासेत्यर्थः । धूमान्धकारमिति नीहारतमसावृता इति च पूर्वमेवोत्पातकलुषत्वमुच्यते । घनान्धकारे घनकालिमवति ॥ २५–२९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,8 +354,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 रावणिस्तु दिशः सर्वा रथेनातिरथः पतन् ।  
 विव्याध तौ दाशरथी लध्वस्त्रो निशितैः शरैः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पतगाः पक्षिणो भूत्वा । तथा वेगवन्त इत्यर्थः ॥ ३०–३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +371,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 तेनातिविद्धौ तौ वीरौ रुक्मपुङ्खैः सुसंहितैः ।  
 बभूवतुर्दाशरथी पुष्पिताविव किंशुकौ ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुसंहितैः सुष्ठु निर्मितैः ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -347,8 +398,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 ब्राह्ममस्त्रं प्रयोक्ष्यामि वधार्थं सर्वरक्षसाम् ॥ ३७ ॥  
 तमुवाच ततो रामो लक्ष्मणं शुभलक्षणम् ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभ्रसंप्लवे मेघावरणे ॥ ३५-३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,8 +417,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 अयुध्यमानं प्रच्छन्नं प्राञ्जलिं शरणागतम् ।  
 पलायन्तं प्रमत्तं वा न त्वं हन्तुमिहार्हसि ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रच्छन्नं युद्धभीत्या प्रच्छन्नं । पलायन्तं पलायमानम् ॥ ३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -381,8 +438,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 तमेनं मायिनं क्षुद्रमन्तर्हितरथं बलात् ।  
 राक्षसं निहनिष्यन्ति दृष्ट्वा वानरयूथपाः ॥ ४१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आदेक्ष्यावः प्रयोक्ष्यावः । अस्त्रान् अस्त्राणि । लिङ्गव्यत्यय आर्षः ॥ ४०-४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,8 +455,11 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 यद्येष भूमिं विशते दिवं वा रसातलं वाऽपि नभःस्थलं वा ।  
 एवं निगूढोपि ममास्रदग्धः पतिष्यते भूमितले गतासुः ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भूमिं भूविवरं । विशते । आत्मनेपदमार्षं । दिवं स्वर्गम् ॥ ४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -410,7 +473,10 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 वधाय रौद्रस्य नृशंसकर्मणस्तदा महात्मा त्वरितं निरीक्षते ॥ ४३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 प्लवगर्षभैः वृतः निरीक्षते । उपायं चिन्तयति स्मेत्यर्थः ॥ ४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

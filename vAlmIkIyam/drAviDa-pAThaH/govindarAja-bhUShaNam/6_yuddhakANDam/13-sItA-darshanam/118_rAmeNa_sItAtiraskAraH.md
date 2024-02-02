@@ -32,7 +32,10 @@ title_english = "118 The fire god appears in person from the burning pyre"
 हृदयान्तर्गतक्रोधो व्याहर्तुमुपचक्रमे ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रामपरुषोक्तिः–तां तु पार्श्वस्थितामित्यादि । प्रह्वां लज्जया नम्राम् ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 एषाऽसि निर्जिता भद्रे शत्रुं जित्वा मया रणे ।  
 पौरुषाद्यदनुष्ठेयं तदेतदुपपादितम् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एषेति प्रत्यक्षेण दर्शयति । भद्रे इत्यसंबन्धनिवेदकसंबोधनं । पौरुषायदनुष्ठेयं तदेव कृतं । नतु त्वल्लाभाय यत्नः कृत इति भावः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 गतोस्म्यन्तममर्पस्य धर्षणा संप्रमार्जिता ।  
 अवमानश्च शत्रुश्च मया युगपदुद्धृतौ ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्तं फलं । उद्धृतौ निर्मूलितौ ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +82,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 अद्य मे पौरुषं दृष्टमद्य मे सफलः श्रमः ।  
 अद्य तीर्ण प्रतिज्ञत्वात्प्रभवामीह चात्मनः ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आत्मनः प्रभवामि स्वतन्त्रो भवामि ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +99,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 या त्वं विरहिता नीता चलचित्तेन रक्षसा ।  
 दैवसंपादितो दोषो मानुषेण मया जितः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मया विरहिताया त्वं चलचित्तेन रक्षसा नीता । तया त्वया हेतुभूतया दैवसंपादितः दोषः अवमानः । मानुषेण प्रमार्जितः । दैवकृतं पुरुषयत्नेन निवारितमिति भावः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +116,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 संप्राप्तमवमानं यस्तेजसा न प्रमार्जति ।  
 कस्तस्य पुरुषार्थोस्ति पुरुषस्याल्पतेजसः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 घर्षणाया अमार्जने दोषमाह – संप्राप्तमिति । प्रमार्जति प्रमार्ष्टि ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +133,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 लङ्घनं च समुद्रस्य लङ्कायाश्चावमर्दनम् ।  
 सफलं तस्य तच्छ्लाघ्यं महत्कर्म हनूमतः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इदानीं हनुमदादिपौरुषस्यापि घर्षणावमार्जनहेतुत्वमाह-लङ्घनं चेत्यादिना । समुद्रस्य लङ्घनं लङ्काया अवमर्दनं इत्येवंरूपं हनुमतः श्लाघ्यं कर्मचाद्य सफलं । घर्षणापरिमार्जनेन सफलमित्यर्थः ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,8 +150,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 युद्धे विक्रमतश्चैव हितं मन्त्रयतश्च मे ।  
 सुग्रीवस्य ससैन्यस्य सफलोऽद्य परिश्रमः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मन्त्रयतः चिन्तयतः ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,8 +167,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 निर्गुणं भ्रातरं त्यक्त्वा यो मां स्वयमुपस्थितः ।  
 विभीषणस्य भक्तस्य सफलोद्य परिश्रमः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निर्गुणमिति ॥ तस्येत्यध्याहार्यम् ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +184,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 इत्येवं ब्रुवतस्तस्य सीता रामस्य तद्वचः ।  
 मृगीवोत्फुल्लनयना बभूवाश्रुपरिप्लुता ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तद्वचः नैराश्येनोक्तं वचः । तस्य ब्रुवतः । तस्मिन् ब्रुवति सति ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +201,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 पश्यतस्तां तु रामस्य भूयः क्रोधो व्यवर्धत ।  
 प्रभूताज्यावसिक्तस्य पावकस्येव दीप्यतः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पावकस्येति । पावकस्य क्रोधोतीव ज्वलनम् ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +218,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 स बद्धा भ्रुकुटीं वक्रे तिर्यक्प्रेक्षितलोचनः ।  
 अब्रवीत्परुषं सीतां मध्ये वानररक्षसाम् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तिर्यक्प्रेक्षितलोचनः तिर्यक्प्रेक्षणं पुरतः सीतादर्शनासहिष्णुत्वकृतम् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +235,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 यत्कर्तव्यं मनुष्येण धर्षणां परिमार्जता ।  
 तत्कृतं सकलं सीते शत्रुहस्तादमर्षणात् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत्कर्तव्यमित्यादित्रिपादश्लोक एकान्वयः ॥ हे सीते घर्षणां परिमार्जता । मृजेरजादौ विभाषा वृद्धिः इति वृद्धि । मनुष्येण यत्कर्तव्यं तत् सकलं कृतं । शत्रुहस्तादमर्षणादित्युत्तरशेषः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,8 +252,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 निर्जिता जीवलोकस्य तपसा भावितात्मना ।  
 अगस्त्येन दुराधर्षा मुनिना दक्षिणेव दिक् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भावितात्मना ध्यातात्मस्वरूपेण । अगस्त्येन । इल्वलाक्रान्तत्वाज्जीवलोकस्य दुराधर्षा दुःसंचारा दक्षिणा दिगिव । अमर्षणात् अमर्षाद्धेतोः । शत्रुहस्तान्मया त्वं निर्जितेति संबन्धः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,8 +269,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 विदितश्चास्तु ते भद्रे योऽयं रणपरिश्रमः ।  
 स तीर्णः सुहृदां वीर्यान्न त्वदर्थं मया कृतः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 योयं रणपरिश्रमः सुहृदां वीर्यात्तीर्णः निर्व्यूढः सः त्वदर्थं मया न कृत इति विदितोस्तु ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +286,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 रक्षता तु मया वृत्तमपवादं च सर्वशः ।  
 प्रख्यातस्यात्मवंशस्य न्यङ्गं च परिरक्षता ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तर्हि किमर्थमेष परिश्रम इत्यत आह रक्षतेति ॥ अत्र मया रणपरिश्रमः कृत इत्यनुषज्यते । वृत्तं रक्षता अपवादं न्यङ्गं अयशस्यं च परिरक्षता परिहरता निवारयता । मया रणपरिश्रमः कृतः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -259,8 +307,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 तद्गच्छ ह्यभ्यनुज्ञाता यथेष्टं जनकात्मजे ।  
 एता दश दिशो भद्रे कार्यमस्ति न मे त्वया ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परगृहवासेन प्राप्तचारित्रसंदेहा त्वं नेत्रातुरस्य दीप इव प्रतिकूलासि । अनेनोपमानेन वस्तुतः सीताया दोषो नास्ति । स्वसंदेहेनाहं प्रतिकूलीकरोमीति व्यज्यते ॥ १७ – १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,8 +324,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 कः पुमान्हि कुले जातः स्त्रियं परगृहोषिताम् ।  
 तेजस्वी पुनरादद्यात्सुहृल्लेख्येन चेतसा ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुहृल्लेखेन सुहृल्लेखा रणरणकं सुहृल्लेखामर्हतीति सुहृल्लेख्यं तेन । रणरणकातिशययुक्तेनेत्यर्थः ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,8 +341,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 रावणाङ्कपरिभ्रष्टां दृष्टां दुष्टेन चक्षुषा ।  
 कथं त्वां पुनरादद्यां कुलं व्यपदिशन्महत् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यपदिशन् कीर्तयन् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,8 +358,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 तदर्थं निर्जिता मे त्वं यशः प्रत्याहृतं मया ।  
 नास्ति मे त्वय्यभिष्वङ्गो यथेष्टं गम्यतामितः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तदर्थं कुलार्थं । अभिष्वङ्गः आसक्तिः । अनुरागो वा ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +383,11 @@ title_english = "118 The fire god appears in person from the burning pyre"
 न हि त्वां रावणो दृष्ट्वा दिव्यरूपां मनोरमाम् ।  
 मर्षयेत चिरं सीते स्वगृहे परिवर्तिनीम् ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इति प्रव्याहृतमित्यादिश्लोकद्वयमेकान्वयम् ॥ अत्र लक्ष्मणादौ मनःकरणं नाम अनाथाया रक्षकत्वेन तत्तद्गृहे वर्तनं । भर्त्रा परित्यक्तायाः स्त्रियो बन्धुगृहे वासविधानात् । न स्त्री स्वातन्त्र्यमर्हति इति स्मृतेः । न त्वत्रान्यथा ग्रहीतुं युक्तं । महापुरुषेण तादृशोक्त्ययोगात् ॥ २२-२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -338,7 +401,10 @@ title_english = "118 The fire god appears in person from the burning pyre"
 मुमोच बाष्पं सुभृशं प्रवेपिता गजेन्द्रहस्ताभिहतेव सल्लकी ॥ २५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 सल्लकी गजभक्ष्यलताविशेषः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

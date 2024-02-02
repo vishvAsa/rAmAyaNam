@@ -60,7 +60,10 @@ title_english = "100 Ravana runs away from the battle field"
 निर्ददाह कपीन्सर्वांस्ते प्रपेतुः समन्ततः ॥ ८ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रामरावणयुद्धारम्भः शततमे–महोदरेत्यादि ॥ तस्मिन् विरूपाक्षे निहते सति पश्चान्महोदरमहापार्श्वौ हतौ दृष्ट्वा स्थितमिति शेषः ॥ १-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,8 +80,11 @@ title_english = "100 Ravana runs away from the battle field"
 तान्यनीकान्यनेकानि रावणस्य शरोत्तमैः ।  
 दृष्ट्वा भग्नानि शतशो राघवः पर्यवस्थितः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सहितुं सोढुं । आर्ष इडागमः ॥ ९–१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,8 +103,11 @@ title_english = "100 Ravana runs away from the battle field"
 आलिखन्तमिवाकाशमवष्टभ्य महद्धनुः ॥  
 पद्मपत्रविशालाक्षं दीर्घबाहुमरिंदमम् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तव इत्यादिसार्धश्लोकद्वयेन रामस्यापराजितत्वं निरवधिकसौन्दर्यनिधित्वेन वैरं विहाय निरन्तरानुभाव्यत्वं रावणस्य दुर्बुद्धित्वं अमृतप्रवाहमावर्तेनेव महता धनुर्वरेणावर्तितं श्रीरामदेहलावण्यामृतपूरमनवगाहमानस्य तस्य दौर्भाग्यं चोच्यते ॥ ११-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -113,8 +122,11 @@ title_english = "100 Ravana runs away from the battle field"
 वानरांश्च रणे भग्नानापतन्तं च रावणम् ।  
 समीक्ष्य राघवो हृष्टो मध्ये जग्राह कार्मुकम् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततो राम इत्यादिसार्धश्लोक एकान्वयः ॥ हृष्टः चिराद्वैरी समागत इति संतुष्टः । कार्मुकं जग्राह ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,8 +139,11 @@ title_english = "100 Ravana runs away from the battle field"
 विस्फारयितुमारेभे ततः स धनुरुत्तमम् ।  
 महावेगं महानादं निर्भिन्दन्निव मेदिनीम् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विस्फारयितुमारेभ इत्यादि विलम्बोक्त्या किमिदानीमपिवा नतोभविष्यति रावण इति रामस्य दयालुतोच्यते ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,8 +156,11 @@ title_english = "100 Ravana runs away from the battle field"
 रावणस्य च बाणौघै रामविस्फारितेन च ।  
 शब्देन राक्षसास्ते च पेतुश्च शतशस्तदा ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणस्य बाणौघैः रामविस्फारितेन च जातेन शब्देनेत्यर्थः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,8 +185,11 @@ title_english = "100 Ravana runs away from the battle field"
 एकमेकेन बाणेन त्रिभिस्त्रीन्दशभिर्दश ।  
 लक्ष्मणस्य प्रचिच्छेद दर्शयन्पाणिलाघवम् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शशिसूर्ययोरिति । अमायामिति शेषः ॥ १६-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,8 +222,11 @@ title_english = "100 Ravana runs away from the battle field"
 चेरतुश्च चिरं चित्रं मण्डलं सव्यदक्षिणम् ।  
 बाणवेगात्समुत्क्षिप्तावन्योन्यम पराजितौ ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभ्यतिक्रम्य एकस्यापि बाणस्य स्वस्मिन्नपतनादनाद्रेणातिक्रम्य ॥ २०-२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,8 +239,11 @@ title_english = "100 Ravana runs away from the battle field"
 तयोर्भूतानि वित्रेसुर्युगपत्संप्रयुध्यतोः ।  
 रौद्रयोः सायकमुचोर्यमान्तकनिकाशयोः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यमान्तकनिकाशयोः यमतदन्तकौ यमरुद्रौ तत्तुल्ययोः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,8 +256,11 @@ title_english = "100 Ravana runs away from the battle field"
 संततं विविधैर्बाणैर्बभूव गगनं तदा ।  
 घनैरिवातपापाये विद्युन्मालासमाकुलैः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गगनं संततं निबिडं बभूवेत्यन्वयः ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +271,11 @@ title_english = "100 Ravana runs away from the battle field"
 
 गवाक्षितमिवाकाशं बभूव शरवृष्टिभिः ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गवाक्षितमित्यर्धम् ॥ गवाक्षितं संजातगवाक्षम् ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +290,11 @@ title_english = "100 Ravana runs away from the battle field"
 शरान्धकारं तौ भीमं चक्रतुः समरं तदा ॥  
 गतेऽस्तं तपने चापि महामेघाविवोत्थितौ ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महावेगैरित्यादिसार्धश्लोक एकान्वयः ॥ गृध्रपत्रैः हेतुभिः । सुवाजितैः संजातशोभनपक्षैः । बाणैरिति शेषः ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,8 +311,11 @@ title_english = "100 Ravana runs away from the battle field"
 उभौ हि परमेष्वासावुभौ शस्त्रविशारदौ ।  
 उभावस्त्रविदां मुख्यावुभौ युद्धे विचेरतुः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनासाद्यं इतः पूर्वं केनापि दुर्लभं । अचिन्त्यं रावणस्यैवं भविष्यतीति चिन्तानर्हम् ॥ ३०-३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -289,8 +328,11 @@ title_english = "100 Ravana runs away from the battle field"
 उभौ हि येन व्रजतस्तेनतेन शरोर्मयः ।  
 ऊर्मयो वायुना विद्धा जग्मुः सागरयोरिव ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 येन येन मण्डलचारेण ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,8 +349,11 @@ title_english = "100 Ravana runs away from the battle field"
 रौद्रचापंप्रयुक्तां तां नीलोत्पलदलप्रभाम् ।  
 शिरसा धारयन्रामो न व्यथां प्रत्यपद्यत ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संसक्तहस्तः बाणप्रयोगासक्तहस्तः ॥ ३३-३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +368,11 @@ title_english = "100 Ravana runs away from the battle field"
 शरान्भूयः समादाय रामः क्रोधसमन्वितः ।  
 मुमोच च महातेजाश्चापमायम्य वीर्यवान् ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरान् रौद्रास्त्रप्रपञ्चरूपान्बाणान् मुमोचेत्यन्वयः मुमोच च महातेजाश्चापमायम्य वीर्यवानिति पाठः । तदनन्तरं । ते महामेघसंकाश इति श्लोकः । तदनन्तरं पुनरेवेति श्लोकः । तदनन्तरं ते भित्त्वेति श्लोकात्पूर्वं ग्रन्थपतनमस्ति तदन्वेष्टव्यम् ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -339,8 +387,11 @@ title_english = "100 Ravana runs away from the battle field"
 ते महामेघसंकाशे कवचे पतिताः शराः ।  
 अवध्ये राक्षसेन्द्रस्य न व्यथां जनयंस्तदा ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अवध्ये अभेद्ये । व्यथां न जनयन् नाजनयन् ॥ ३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,8 +404,11 @@ title_english = "100 Ravana runs away from the battle field"
 पुनरेवाथ तं रामो रथस्थं राक्षसाधिपम् ।  
 ललाटे परमास्त्रेण सर्वास्त्रकुशलो रणे ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ललाटे विषये ललाटमुद्दिश्येत्यर्थः । यद्वा परमास्त्राणि विव्याधेति शेषः ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,8 +425,11 @@ title_english = "100 Ravana runs away from the battle field"
 निहत्य राघवस्यास्त्रं रावणः क्रोधमूर्च्छितः ।  
 आसुरं सुमहाघोरमस्त्रं प्रादुश्चकार ह ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते अस्त्रविकृतिरूपाः शराः बाणरूपाणि रावणास्त्राणि । भित्त्वा रावणप्रतिकूलिताः रावणेन निवारिताः सन्तः भूमिं विविशुः ॥ ३८-३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -397,8 +454,11 @@ title_english = "100 Ravana runs away from the battle field"
 एतानन्यांश्च मायावी ससर्ज निशिताञ्शरान् ।  
 रामं प्रति महातेजाः क्रुद्धः सर्प इव श्वसन् ॥ ४३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आसुरास्त्रं प्रपञ्चयति सिंहेत्यादि श्लोकंचतुष्टयेन लेलिहानान् सर्पान् । तदाकारानिति यावत् । श्वानशब्दोप्यस्ति । मकराशीविषाननानित्यत्रआशीविषशब्दः पञ्चास्यसर्पेतरसर्पपरः ॥ ४०-४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,8 +471,11 @@ title_english = "100 Ravana runs away from the battle field"
 आसुरेण समाविष्टः सोस्त्रेण रघुनन्दनः ।  
 ससर्जास्रं महोत्साहः पावकं पावकोपमः ॥ ४४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पावकं पावकसंबन्धि ॥ ४४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -439,8 +502,11 @@ title_english = "100 Ravana runs away from the battle field"
 हृष्टा नेदुस्ततः सर्वे कपयः कामरूपिणः ।  
 सुग्रीवप्रमुखा वीराः परिवार्य तु राघवम् ॥ ४८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पावकास्त्रं प्रपञ्चयति–अग्नीत्यादिश्लोकद्वयेन महोल्कामुखसंस्थितान् महोल्कामुखेन वर्तमानान् । विद्युज्जिह्वोपमान् विद्युदर्चिः सदृशान् कणा जिह्वास्तथार्चिषः इति हलायुधः ॥ ४५-४८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -454,7 +520,10 @@ title_english = "100 Ravana runs away from the battle field"
 मुदान्वितो दाशरथिर्महाहवे विनेदुरुच्चैर्मुदिताः कपीश्वराः ॥ ४९ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 तत् प्रसिद्धं । मुदान्वितः बभूवेति शेषः ॥ ४९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

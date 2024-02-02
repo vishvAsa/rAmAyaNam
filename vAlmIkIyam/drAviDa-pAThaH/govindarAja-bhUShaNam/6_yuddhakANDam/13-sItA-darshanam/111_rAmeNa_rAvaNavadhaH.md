@@ -36,7 +36,10 @@ title_english = "111 Madodari laments on Ravana s death"
 विनाशकालः कथितो यः सुरैः सोद्य वर्तते ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रावणवधः – अथ संस्मारयामासेत्यादिश्लोकद्वयमेकान्वयम् ॥ अजानन्निव ब्रह्मास्त्रमजानन्निव एनं रावणं अनुवर्तसे अस्त्रस्य प्रत्यास्त्रप्रयोगमात्रं करोषि । विनाशकालः मानुषेण वध इत्युक्तः कालः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "111 Madodari laments on Ravana s death"
 यमस्मै प्रथमं प्रादादगस्त्यो भगवानृषिः ।  
 ब्रह्मदत्तं महाबाणममोघं युधि वीर्यवान् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः संस्मारित इत्याद्येकादश श्लोका एकान्वयाः ॥ ३–४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "111 Madodari laments on Ravana s death"
 ब्रह्मणा निर्मितं पूर्वमिन्द्रार्थममितौजसा ।  
 दत्तं सुरपतेः पूर्वं त्रिलोकजयकाङ्क्षिणः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रथमं पूर्वं दण्डकारण्ये । ब्रह्मदत्तमित्येतद्विवृणोति – ब्रह्मणेत्यादिना ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "111 Madodari laments on Ravana s death"
 सधूममिव कालानिं दीप्तमाशीविषं यथा ।  
 परनागाश्ववृन्दानां भेदनं क्षिप्रकारिणम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यस्य वाजेष्विति । पवनादीनामधिदेवतात्वेनावस्थानं । फले शल्ये । तेजसा सारांशेन कृतम् ॥ ६-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "111 Madodari laments on Ravana s death"
 द्वाराणां परिघाणां च गिरीणामपि भेदनम् ।  
 नानारुधिरसिक्ताङ्गं मेदोदिग्धं सुदारुणम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 द्वाराणां रिपुगोपुराणां । नानारुधिरेति वध्यासुरभेदात् । मेदः मांसविशेषः ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,8 +136,11 @@ title_english = "111 Madodari laments on Ravana s death"
 कङ्कगृध्रबलानां च गोमायुगणरक्षसाम् ।  
 नित्यं भक्ष्यप्रदं युद्धे यमरूपं भयावहम् ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वज्रसारं वज्रतुल्यदार्ढ्यं । नानासमितिदारणं कपटयुद्धस्यापि निवर्तकं । सर्ववित्रासनत्वे हेतुः—भीममिति । दीप्तं श्वसन्तमिति भेदादुपमानभेदः ॥ १० – ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,8 +153,11 @@ title_english = "111 Madodari laments on Ravana s death"
 नन्दनं वानरेन्द्राणां रक्षसामवसादनम् ।  
 वाजितं विविधैर्वाजैश्वारुचित्रैर्गरुत्मतः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बलाः गृध्र विशेषाः । रक्षसां पिशाचसहचारिणां । यमरूपं यमतुल्यं यथा भवति तथा भयावहमिति वित्रासनाद्भेदः । गरुत्मतः वाजैः पत्रैः । वाजितं संजातपत्रं । गरुडपत्रकृतपत्रमित्यर्थः ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,8 +170,11 @@ title_english = "111 Madodari laments on Ravana s death"
 तमुत्तमेषुं लोकानामिक्ष्वाकुभयनाशनम् ।  
 द्विषतां कीर्तिहरणं प्रहर्षकरमात्मनः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लोकानां मध्ये उत्तमेषु प्रहर्षकरमात्मन इत्यन्तस्य जग्राहेत्यनेन संबन्धः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,8 +191,11 @@ title_english = "111 Madodari laments on Ravana s death"
 तस्मिन्संघीयमाने तु राघवेण शरोत्तमे ।  
 सर्वभूतानि वित्रेसुश्चचाल च वसुंधरा ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः ग्रहणानन्तरं तं इषं संदधे ॥ १४-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,8 +208,11 @@ title_english = "111 Madodari laments on Ravana s death"
 स रावणाय संक्रुद्धो भृशमायम्य कार्मुकम् ।  
 चिक्षेप परमायत्तस्तं शरं मर्मघातिनम् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणाय चिक्षेपेत्यन्वयः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +233,11 @@ title_english = "111 Madodari laments on Ravana s death"
 रुधिराक्तः स वेगेन जीवितान्तकरः शरः ।  
 रावणस्य हरन्प्राणान्विवेश धरणीतलम् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वज्रिबाहुविसर्जितो वज्र इवेत्यन्वयः ॥ १७–१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +250,11 @@ title_english = "111 Madodari laments on Ravana s death"
 स शरो रावणं हत्वा रुधिराद्रकृतच्छविः ।  
 कृतकर्मा निभृतवत्स्वतूणीं पुनरागमत् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निभृतवत् विनीतवत् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +275,11 @@ title_english = "111 Madodari laments on Ravana s death"
 तं दृष्ट्वा पतितं भूमौ हतशेषा निशाचराः ।  
 हतनाथा भयत्रस्ताः सर्वतः संप्रदुद्रुवुः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्राणैः सह जीवितात् प्राणधारणयत्नात् भ्रश्यमानस्य तस्य हस्तात् संसायकं कार्मुकं पपात ॥ २१ – २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +292,11 @@ title_english = "111 Madodari laments on Ravana s death"
 नर्दन्तश्चाभिपेतुस्तान्वानरा द्रुमयोधिनः ।  
 \[ दशग्रीववधं दृष्ट्वा सर्वलोकप्रियं प्रियम् ॥ २४ ॥\]
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नर्दन्तश्चेत्यर्धमेकं वाक्यम् ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,8 +311,11 @@ title_english = "111 Madodari laments on Ravana s death"
 अर्दिता वानरैर्हृष्टैर्लङ्कामभ्यपतन्भयात् ॥  
 गंताश्रयत्वात् करुणैर्वाष्पप्रस्रवणैर्मुखैः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दशग्रीवेत्यादिसार्धश्लोक एकान्वयः ॥ मुखैः उपलक्षिताः । राक्षसा इति शेषः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,8 +336,11 @@ title_english = "111 Madodari laments on Ravana s death"
 निपपातान्तरिक्षाच्च पुष्पवृष्टिस्तदा भुवि ।  
 किरन्ती राघवरथं दुरवापा मैनोरमा ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तद्वधं तं वधम् ॥ २६-२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -305,8 +353,11 @@ title_english = "111 Madodari laments on Ravana s death"
 राघवस्तवसंयुक्ता गगनेऽपि च शुश्रुवे ।  
 साधुसाध्विति वागम्या दैवतानां महात्मनाम् ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राघवस्तवसंयुक्ता वागित्यन्वयः ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,8 +370,11 @@ title_english = "111 Madodari laments on Ravana s death"
 आविवेश महाहर्षो देवानां चारणैः सह ।  
 रावणे निहते रौद्रे सर्वलोकभयंकरे ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चारणैः सह चारणैः सहितान् देवानित्यर्थः ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -333,8 +387,11 @@ title_english = "111 Madodari laments on Ravana s death"
 ततः सकामं सुग्रीवमङ्गदं च महाबलम् ।  
 चकार राघवः प्रीतो हत्वा राक्षसपुङ्गवम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इति । सुग्रीववद्युवराजत्वेन प्रत्युपकारायाङ्गदेनापि रावणवधस्य काङ्क्षितत्वात्सकामत्वम् ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -347,8 +404,11 @@ title_english = "111 Madodari laments on Ravana s death"
 ततः प्रजग्मुः प्रशमं मरुद्गणा दिशः प्रसेदुर्विमलं नभोऽभवत् ।  
 मही चकम्पे न हि मारुतो ववौ स्थिरप्रभश्चाप्यभवद्दिवाकरः ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रशमं प्रसादं । मरुद्गणाः देवगणाः । मही न चकम्पे महीकम्पाभावस्य शुभसूचकत्वादित्याहुः । रावणवधपर्यन्तं सकम्पा स्थिता मही तद्धानन्तरं निष्कम्पाऽभवदिति चाहुः । ववौ सुखमिति शेषः ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +426,10 @@ title_english = "111 Madodari laments on Ravana s death"
 रघुकुलनृपनन्दनो महौजास्त्रिदशगणैरभिसंवृतो यथेन्द्रः ॥ ३४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 सुहृद्विशेषाः जाम्बवदादयः । हिशब्दः पादपूरणे । विजयेन हृष्टा इत्यन्वयः । विधिना क्रमेण ॥ ३३-३४ ॥ फाल्गुनामावास्यायां रावणवधः । यद्वा चैत्रशुद्धप्रतिपदि शिष्टामावास्यायां प्रातःकाले रावणवधः । पूर्वं सर्वरात्रमवर्ततेत्युक्तेः ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

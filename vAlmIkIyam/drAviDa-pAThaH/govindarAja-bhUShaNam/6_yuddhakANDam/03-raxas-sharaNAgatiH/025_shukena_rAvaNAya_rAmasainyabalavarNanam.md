@@ -32,7 +32,10 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 अमात्यौ रावणः श्रीमानब्रवीच्छुकसारणौ ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ शुकसारणप्रेषणं पञ्चविंशे – सबल इत्यादि ॥ दशरथात्मजइति मनुष्यत्वोक्तिः । श्रीमानिति मदातिशयोक्तिः । शुकः पूर्वस्मादन्यः । सारणसाहित्यात् ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 समग्रं सागरं तीर्णं दुस्तरं वानरं बलम् ।  
 अभूतपूर्वं रामेण सागरे सेतुबन्धनम् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समग्र विशालं । दुस्तरं तरितुमशक्यं । सागरं कर्म । वानरं वानरसंबन्धि बलं कर्तृ । तीर्णं अतरत् । कर्तरि क्तः । सेतुबन्धनं रामेण कृतमिति शेषः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 सागरे सेतुबन्धं तु न श्रद्दध्यां कथंचन ।  
 अवश्यं चापि संख्येयं तन्मया वानरं बलम् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सेतुबन्धनं रामेण कृतं । कथंचन आप्तपुरुषोदितत्वेपि । अपिच तथापि । संख्येयं ज्ञातव्यम् ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,8 +102,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 इति प्रतिसमादिष्टौ राक्षसौ शुकसारणौ ।  
 हरिरूपधरौ वीरौ प्रविष्टौ वानरं बलम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भवन्तावित्यादि चतुःश्लोक्येकान्वया ॥ तस्माद्भवन्तौ अनुपलक्षितौ परैरविज्ञातौ सन्तौ । वानरं सैन्यं प्रविश्य । परिमाणं वानराणामियत्तां । तेषां वीर्य बलपरिच्छेदं । ये प्लवङ्गमाःमुख्याः प्रधानभूताः तान् । ये रामस्य सुग्रीवस्य च संमता मन्त्रिणः । ये नासीरभटाः पूर्वमभिवर्तन्ते । ये च प्लवङ्गमाः वस्तुतः शूराः तान्सर्वान् । सागरे सगरखानिते । सलिलार्णवे लवणजलसमुद्रे । स सेतुः वानरतरणार्थसेतुश्च । यथा येन प्रकारेण बद्धः तं प्रकारं । तेषां निवेशं निवासं । उत्पत्तिस्थानं वा । क्लीबत्वमार्षं । यद्यथा यादृशप्रकारः । रामस्य व्यवसायं कर्तव्यविषयनिश्चयं । वीर्यं बलं । प्रहरणानि आयुधानि । लक्ष्मणस्य व्यवसायं बलं च । तत्त्वतः पारमार्थेन । ज्ञातुमर्थ्ये इत्यन्वयः ॥ ४–९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -107,8 +119,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 ततस्तद्वानरं सैन्यमचिन्त्यं लोमहर्षणम् ।  
 संख्यातुं नाध्यगच्छेतां तदा तौ शुकसारणौ ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नाध्यगच्छेतां नाज्ञासिष्टाम् ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,8 +142,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 निविष्टं निविशच्चैव भीमनादं महाबलम् ।  
 तद्बलार्णवमक्षोभ्यं ददृशाते निशाचरौ ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अज्ञानहेतुमाह सार्धश्लोकद्वयेन — संस्थितमिति । निर्दरेषु दलितपर्वतप्रदेशेषु । उपवनेषु आरामेषु । आरामः स्यादुपवनं इत्यमरः ॥ ११ – १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,8 +159,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 तौ ददर्श महातेजाः प्रच्छन्नौ च निभीषणः ।  
 आचचक्षेऽथ रामाय गृहीत्वा शुकसारणौ ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथ विभीषणः ददर्श आचचक्षे चेत्यन्वयः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,8 +184,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 आवामिहागतौ सौम्य रावणप्रहितावुभौ ।  
 परिज्ञातुं बलं कृत्स्नं तवेदं रघुनन्दन ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लङ्काया इति पञ्चमी । परपुरं जयतीति परपुरंजयः । संज्ञायां भृतृवृजिधारिसहितपिदमः इति खच् ॥ १४ – १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,8 +201,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 तयोस्तद्वचनं श्रुत्वा रामो दशरथात्मजः ।  
 अब्रवीत्प्रहसन्वाक्यं सर्वभूतहिते रतः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दशरथात्मजः महापुरुषप्रसूतत्वेन सहजकारुण्य ः प्रहसन् रावणबुद्धिमान्द्यस्मरणात् प्रहासः । सर्वभूतहिते रतः रिपूणामपि वत्सलः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +218,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 यदि दृष्टं बलं कृत्स्नं वयं वा सुपरीक्षिताः ।  
 यथोक्तं वा कृतं कार्यं छन्दतः प्रतिगम्यताम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यथोक्तं रावणेन यथोक्तं । छन्दतः यथेच्छातः ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,8 +235,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 अथ किंचिददृष्टं वा भूयस्तद्द्रष्टुमर्हथः ।  
 विभीषणो वा कार्त्स्न्येन भूयः संदर्शयिष्यति ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथेति पक्षान्तरे । भूयः अतिशयेन ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -219,8 +252,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 न चेदं ग्रहणं प्राप्य भेतव्यं जीवितं प्रति ।  
 न्यस्तशस्त्रौ गृहीतौ वा न दूतौ वधमर्हथः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दूतौ युवामितिशेषः ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,8 +269,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 पच्छमानौ विमुञ्चैतौ चारौ रात्रिंचरावुभौ ।  
 शत्रुपक्षस्य सततं विभीषण विकर्षणौ ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विभीषणं प्रत्याह- पृच्छमानाविति ॥ सततं पृच्छमानत्वदशायामपि शत्रुपक्षस्य विकर्षणौ बाधकाविति यावत् ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,8 +286,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 प्रविश्य नगरीं लङ्कां भवद्भ्यां धनदानुजः ।  
 वक्तव्यो रक्षसां राजा यथोक्तं वचनं मम ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुनर्दूतौ प्रत्याह- प्रविश्येति ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,8 +303,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 यद्बलं च समाश्रित्य सीतां मे हृतवानसि ।  
 तद्दर्शय यथाकामं ससैन्यः सहबान्धवः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यथाकामं यथेच्छं । शरणं वाऽऽगच्छेति भावः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,8 +320,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 श्वः काले नगरीं लङ्कां सप्राकारां सतोरणाम् ।  
 राक्षसं च बलं पश्य शरैर्विध्वंसितं मया ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 श्वः काल्ये परेद्युः प्रातःकाले ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -289,8 +337,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 क्रोधं भीममहं मोक्ष्ये ससैन्ये त्वयि रावण ।  
 श्वः काले वज्रवान्वज्रं दानवेष्विव वासवः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्रोधं मोक्ष्ये क्रोधकार्यं करिष्य इत्यर्थः । वज्रवान् अभ्यस्तवत्र इत्यर्थः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -305,8 +356,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 जयेति प्रतिनन्द्यैतौ राघवं धर्मवत्सलम् ।  
 आगम्य नगरीं लङ्कामब्रूतां राक्षसाधिपम् ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इतीत्यादि सार्घश्लोक एकान्वयः ॥ प्रतिनन्द्य अभिष्टुत्य ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,8 +373,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 विभीषणगृहीतौ तु वधार्हौ राक्षसेश्वर ।  
 दृष्ट्वा धर्मात्मना मुक्तौ रामेणामिततेजसा ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मुक्तौ आवामिति शेषः । धर्मात्मना दूतवधमनिच्छतेत्यर्थः । अमिततेजसेत्यनेन अस्मत्यागे भीतिहेतुता न शंक्त्यर्थः ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,8 +398,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 एते शक्ताः पुरीं लङ्कां सप्राकारां सतोरणाम् ।  
 उत्पाट्य् संक्रामयितुं सर्वे तिष्ठन्तु वानराः ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एकस्थानेत्यादि लोकत्रयमेकान्वयम् ॥ यत्र एकस्थानं ऐकमत्यं । एकप्रदेशं वा गताः एते शक्ताः । पुरीं लङ्कामित्याद्यन्वयः । कृतास्त्राः शिक्षितास्त्राः । छत्रिणो गच्छन्तीतिवदयं निर्देशः । सुग्रीवस्याकृतास्त्रत्वात् । उत्पाट्य उद्धृत्य । संक्रामयितुं अन्यत्र क्षेतुं । सर्वे एतच्चतुष्टयभिन्नाः ॥ २८ – ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,8 +415,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 यादृशं तस्य रामस्य रूपं प्रहरणानि च ।  
 वधिष्यति पुरीं लङ्कामेकस्तिष्ठन्तु ते त्रयः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यादृशमिति । प्रहरणादिकं यादृशं तदवलोकने राम एको वधिष्यतीति मन्यावहे इत्यर्थः ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -377,8 +440,11 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 निविष्टो दक्षिणे तीरे रामः स च नदीपते ।  
 तीर्णस्य तरमाणस्य बलस्यान्तो न विद्यते ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नन्वसहायशूरोपि रामः सेनाहननादनुत्साहः स्यात् तत्क्रियतामित्यत्राह — रामलक्ष्मणेति ॥ सुग्रीवेण च अङ्गदादिना च सहिता सा अपरिच्छिन्ना । हरिवाहिनी चपलकपिसेना । रामलक्ष्मणगुप्ता रामेण रामस्य दक्षिणो बाहुरिति रामदक्षिणबाहुभूतेन लक्ष्मणेन च गुप्ता सती । सुग्रीवस्य रक्ष्यकोटावेवान्वयः न तु रक्षककोटौ । तन्मन्त्रिणा हनुमतैव — जयत्यतिबलो रामो लक्ष्मणश्च महाबलः । राजा जयति सुग्रीवो राघवेणाभिपालितः इत्युक्तेः । दुर्धर्षतरा बभूव । तरसा मनसापि धर्षयितुमशक्येत्यवगम्यते । न केवलं मनुष्यादिभिः किन्तु सुरैरपि । न केवलं सुरैरेव किन्तु सुरासुरैः विरोधं विहाय कृतसौहार्दैरपि । न केवलमनायकैस्तैः किन्तु सेन्द्रैरपि । स्वस्वातन्त्र्यं विहाय नायकाज्ञानुवर्तिभिरित्यर्थः ॥ ३२–३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +458,10 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 अलं विरोधेन शमो विधीयतां प्रदीयतां दाशरथाय मैथिली ॥ ३५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 महात्मनां दृढमनस्कानां । संप्रति सद्य एव । योद्धुमिच्छतां । प्रहृष्टरूपा हर्षद्योतकाकारयुक्ता । भवतीति शेषः । अतस्तद्विरोधेनालं । शमः क्रोधनिवृत्तिः । विधीयतां क्रियतां । मैथिली प्रदीयतां च ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

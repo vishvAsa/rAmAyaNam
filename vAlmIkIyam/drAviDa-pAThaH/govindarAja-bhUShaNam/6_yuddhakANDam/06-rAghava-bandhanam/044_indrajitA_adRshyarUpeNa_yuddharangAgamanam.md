@@ -36,7 +36,10 @@ title_english = "044 Indrajit comes back in an invisible form"
 संप्रवृत्तं निशायुद्धं तदा वानररक्षसाम् ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रात्रियुद्धप्रवृत्तिश्चतुश्चत्वारिंशे- युध्यतामेवेत्यादि । युध्यतां युध्यमानेषु । प्राणहारिणी वानराणामिति शेषः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 जहि दारय चैहीति कथं विद्रवसीति च ।  
 एवं सुतुमुलः शब्दस्तस्मिंस्तमसि शुश्रुवे ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरिवासीति राक्षसा इति । दारुणतमस्कत्वेन रक्षसामपि मोहोभूदितिभावः ॥ ३–४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 कालाः काञ्चनसन्नाहास्तस्मिंतमसि राक्षसाः ।  
 संप्रादृश्यन्त शैलेन्द्रा दीप्तौषधिवना इव ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालाः नीलाः । काञ्चनसन्नाहाः काञ्चनकवचाः । दीप्तौषधिवनाः दीप्ततृणज्योतिर्वनाः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,8 +90,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तस्मिंस्तमसि दुष्पारे राक्षसाः क्रोधमूच्छिताः ।  
 परिपेतुर्महावेगा भक्षयन्तः प्लवङ्गमान् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिपेतुः संचेरुः ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,8 +107,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 ते हयान्काञ्चनापीडान्ध्वजांश्चाग्निशिखोपमान् ।  
 आप्लुत्य दशनैस्तीक्ष्णैर्भीमकोपा व्यदारयन् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते वानराः । काञ्चनापीडान् सुवर्णशेखरान् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -111,8 +126,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 कुञ्जरान्कुञ्जरारोहान्पताकाध्वजिनो रथान् ।  
 चकर्षुश्च ददंशुश्च दशनैः क्रोधमूच्छिताः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वानरा इत्यादिसार्धश्लोकः ॥ युद्धेक्षोभयन्नित्यत्र अक्षोभयन्निति पदच्छेदः ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +143,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 लक्ष्मणश्चापि रामश्च शरैराशीविषोपमैः ।  
 दृश्यादृश्यानि रक्षांसि प्रवराणि निजघ्नतुः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृश्यादृश्यानि ईषदृश्यानीत्यर्थः ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +160,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तुरङ्गखुरविध्वस्तं रथनेमिसमुत्थितम् ।  
 रुरोध कर्णनेत्राणि युध्यतां धरणीरजः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विध्वस्तं चूर्णितम् ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +183,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 शङ्खवेणुस्वनोन्मित्रः संबभूवाद्भुतोपमः ॥  
 \[ विमर्दे तुमुले तस्सिन्देवासुररणोपमे ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रुधिरोदाः । असंज्ञायामप्युदकशब्दस्योदादेश आर्षः ॥ ११ – १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +200,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 हतानां स्तनमानानां राक्षसानां च निस्वनः ।  
 शस्तानां वानराणां च संबभूवातिदारुणः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्तनमानानां स्तनतां । शस्तानां हिंसितानाम् ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +221,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 शस्त्रपुष्पोपहारा च तत्रासीद्युद्धमेदिनी ।  
 दुर्ज्ञेया दुर्निवेशा च शोणितास्रावकर्दमा ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हतैरित्यादिश्लोकद्वयमेकान्वयम् ॥ निहतैरिति राक्षसविशेषणं । पर्वताग्रैः वानरप्रेरितैः । उपलक्षणेतृतीया । शस्त्राण्येव पुष्पोपहाराः पुष्पबलयो यस्यां सा । तत्र तदा । दुर्ज्ञेया कृच्छ्रज्ञेया । प्रतियोधिनः दुर्निवेशा दुष्प्रवेशा ॥ १४-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,8 +238,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 सा बभूव निशा घोरा हरिराक्षसहारिणी ।  
 कालरात्रीव भूतानां सर्वेषां दुरतिक्रमा ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालरात्रिः भीमरथिरात्रिः । रात्रिर्भीमरथिर्नाम सर्वप्राणिभयावहा इत्युक्तेः । शक्तिर्वा । सती च कालरात्रिश्च भैरवी गणनायिका इत्युक्तेः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -219,8 +255,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 ततस्ते राक्षसास्तत्र तस्मिंस्तमसि दारुणे ।  
 राममेवाभ्यवर्तन्त संसृष्टाः शरवृष्टिभिः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संसृष्टाः संमिलिताः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,8 +272,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तेषामापततां शब्दः क्रुद्धानामभिगर्जताम् ।  
 उद्वर्त इव सप्तानां समुद्राणां प्रशुश्रुवे ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उद्वर्ते अभिवृद्धौ । प्रलये वा ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,8 +289,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तेषां रामः शरैष्षड्भिष्पट् जघान निशाचरान् ।  
 निमेषान्तरमात्रेण शितैरग्निशिखोपमैः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तेषां राक्षसानां मध्ये । षट् निशाचरान् । अग्निशिखोपमैः शितैः शरैः जघान ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -265,8 +310,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 ते तु रामेण बाणौघैः सर्वे मर्मसु ताडिताः ।  
 युद्धादपसृतास्तत्र सावशेषायुषोऽभवन् ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 के ते षडित्यपेक्षायामाह-यमेति ॥ दुर्धर्षः धर्षितुमशक्यः । यमशत्रुः । महोदरमहापार्श्वौ । महाकायः वज्रदंष्ट्रः । तौ उत्तरद्वाररक्षकत्वेन पूर्वोक्तौ । उभौ शुकसारणौ चेति षट् । अत्र महाकाय इति वज्रदंष्ट्रविशेषणं । अपसृताः पलायिताः । सावशेषायुषः आयुःशेषयुक्ता इति जीवने हेतुः ॥ २० – २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +329,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 दिशश्चकार विमलाः प्रदिशश्च महाबलः ।  
 \[ रामनामाङ्कितैर्बाणैर्व्याप्तं तद्रणमण्डलम् \] ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महाबलः रामः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,8 +350,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 सुवर्णपुङ्खैर्विशिखैः संपतद्भिः सहस्रशः ।  
 बभूव रजनी चित्रा खद्योतैरिव शारदी ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पावकं समासाद्येत्यन्वयः ॥ २३ – २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,8 +367,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 राक्षसानां च निनदैर्हरीणां चापि निस्वनैः ।  
 सा बभूव निशा घोरा भूयो घोरतरा तदा ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूर्वमेव घोरा सा भूयः विशिष्य घोरतरा बभूव ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,8 +384,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तेन शब्देन महता प्रवृद्धेन समन्ततः ।  
 त्रिकूटः कन्दराकीर्णः प्रव्याहरदिवाचलः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रव्याहरदिव प्रतिव्याहरदिवेत्यर्थः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,8 +401,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 गोलाङ्गूला महाकायास्तमसा तुल्यवर्चसः ।  
 संपरिष्वज्य बाहुभ्यां भक्षयन्रजनीचरान् ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भक्षयन् अभक्षयन् ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,8 +418,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 अङ्गदस्तु रणे शत्रुं निहन्तुं समुपस्थितः ।  
 रावणिं निजघानाशु सारथिं च हयानपि ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूर्वप्रसक्तस्याङ्गदेन्द्रजितोर्द्वन्द्वयुद्धस्य शेषं वक्तुमुपक्रमते – अङ्गदस्त्वित्यादिना ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,8 +437,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 इन्द्रजित्तु रथं त्यक्त्वा हताश्वो हतसारथिः ॥  
 अङ्गदेन मेहाकायस्तत्रैवान्तरधीयत ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्रैव तस्मिन्देश एव ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -385,8 +454,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तत्कर्म वालिपुत्रस्य सर्वे देवाः सहर्षिभिः ।  
 तुष्टुवुः पूजनार्हस्य तौ चोभौ रामलक्ष्मणौ ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूजनार्हस्य स्तुत्यर्हस्य ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -409,8 +481,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 इन्द्रजित्तु तदा तेन निर्जितो भीमकर्मणा ।  
 संयुगे वालिपुत्रेण क्रोधं चक्रे सुदारुणम् ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते तानि । लिङ्गव्यत्यय आर्षः । महात्मानं महाधैर्यं । तेन अङ्गदेन । प्रधर्षितं पराजितं । दृष्ट्वा तुष्टाः ॥ ३१ – ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,8 +496,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 
 एतस्मिन्नन्तरे रामो वानरान्वाक्यमब्रवीत् ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एतस्मिन्नित्यर्धम् ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -439,8 +517,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 भवतामर्थसिद्ध्यर्थं कालेन स समागतः ।  
 अद्यैव क्षमितव्यं मे भवन्तो विगतज्वराः ॥ ३६॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्व इत्यर्धम् ॥ ३५ – ३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -455,8 +536,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 \[ ब्रह्मदत्तवरो वीरो रावणिः क्रोधमूच्छितः । \]  
 अदृश्यो निशितान्वाणान्मुमोचाशनिवर्चसः ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्तर्धानगतः अन्तर्धानविद्यां प्राप्तः ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -469,8 +553,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 स रामं लक्ष्मणं चैव घोरैर्नागमयैः शरैः ।  
 बिभेद समरे क्रुद्धः सर्वगात्रेषु राक्षसः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्वगात्रेषु सर्वावयवेषु ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,8 +576,11 @@ title_english = "044 Indrajit comes back in an invisible form"
 तौ तेन पुरुषव्याघ्रौ क्रुद्धेनाशीविषैः शरैः ।  
 सहसा निहतौ वीरौ तदा प्रेक्षन्त वानराः ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मायया संवृतः मायया युक्तः । अतएव अदृश्यः । कूटयोधी कपटयोधी । राघवौ रघुकुलोद्भवौ रामलक्ष्मणौ । शरबन्धेन शररूपबन्धकेन । बबन्ध । वेष्टनदंशनादिना नागमयत्वं । वेदनादिना शरमयत्वम् ॥ ३९–४०॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -504,7 +594,10 @@ title_english = "044 Indrajit comes back in an invisible form"
 मायां प्रयोक्तुं समुपाजगाम बबन्ध तौ राजसुतौ महात्मा ॥ ४१ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 मायाप्रयोगः किमर्थस्तत्राह-प्रकाशेति ॥ समुपाजगाम उपचक्रमे । बबन्ध च । महात्मा महाबुद्धिः ॥ ४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

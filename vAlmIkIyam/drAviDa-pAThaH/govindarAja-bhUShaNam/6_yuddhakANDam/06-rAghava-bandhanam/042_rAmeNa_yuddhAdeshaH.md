@@ -32,7 +32,10 @@ title_english = "042 Ravana commands his army to commence combat"
 न्यवेदयन्पुरीं रुद्धां रामेण सह वानरैः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ युद्धारम्भो द्विचत्वारिंशे – तत इति ॥ तत्र तस्मिन्काले ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "042 Ravana commands his army to commence combat"
 रुद्धां तु नगरीं श्रुत्वा जातक्रोधो निशाचरः ।  
 विधानं द्विगुणं कृत्वा प्रासादं सोध्यरोहत ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विधानं रक्षणविधिं । द्विगुणं पूर्वस्मादधिकम् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "042 Ravana commands his army to commence combat"
 स ददर्शावृतां लङ्कां सशैलवनकाननाम् ।  
 असंख्येयैर्हरिगणैः सर्वतो युद्धकाङ्क्षिभिः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स इति । सर्वत आवृतामित्यन्वयः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +82,11 @@ title_english = "042 Ravana commands his army to commence combat"
 स दृष्ट्वा वानरैः सर्वां वसुधां कबलीकृताम् ।  
 कथं क्षपयितव्याः स्युरिति चिन्तापरोऽभवत् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कबलीकृतां आच्छादितां । कपिलीकृतामितिपाठे वानरवर्णेन कपिलीकृतां । क्षपयितव्याः नाशयितव्याः । एत इति शेषः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +99,11 @@ title_english = "042 Ravana commands his army to commence combat"
 स चिन्तयित्वा सुचिरं धैर्यमालम्ब्य रावणः ।  
 राघवं हरियूथांश्च ददर्शायतलोचनः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आयतलोचन इत्यनेन विस्मयातिशय उच्यते ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +116,11 @@ title_english = "042 Ravana commands his army to commence combat"
 राघवः सह सैन्येन मुदितो नाम पुप्लुवे ।  
 लङ्कां ददर्श गुप्तां वै सर्वतो राक्षसैर्वृताम् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुप्लुवे नाम पूर्वस्थानात् प्राकारसन्निकृष्टं प्रदेशं प्राप्त इत्यर्थः ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +133,11 @@ title_english = "042 Ravana commands his army to commence combat"
 दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
 जगाम सहसा सीतां दूयमानेन चेतसा ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दूयमानेनेति । सीतां स्मृत्वा दुःखितोभूदित्यर्थः ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,8 +150,11 @@ title_english = "042 Ravana commands his army to commence combat"
 अत्र सा मृगशाबाक्षी मत्कृते जनकात्मजा ।  
 पीड्यते शोकसन्तप्ता कृशा स्थण्डिलशायिनी ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मृगशाबाक्षीत्यनेन शोकानर्हत्वमुच्यते । स्थण्डिलशायिनी भूतलशायिनी ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,8 +167,11 @@ title_english = "042 Ravana commands his army to commence combat"
 पीड्यमानां स धर्मात्मा वैदेहीमनुचिन्तयन् ।  
 क्षिप्रमाज्ञापयामास वानरान्द्विषतां वधे ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पीड्यमानां राक्षसीभिरिति शेषः । धर्मात्यनेन दयालुत्वमुच्यते ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +184,11 @@ title_english = "042 Ravana commands his army to commence combat"
 एवमुक्ते तु वचने रामेणाक्लिष्टकर्मणा ।  
 संघर्षमाणाः प्लवगाः सिंहनादैरनादयन् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वचने आज्ञापनरूपे । सङ्घर्षमाणाः स्पर्धमानाः । अनादयन् लङ्कामितिशेषः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +201,11 @@ title_english = "042 Ravana commands his army to commence combat"
 शिखरैर्विकिरामैनां लङ्कां मुष्टिभिरेव वा ।  
 इति स्म दधिरे सर्वे मनांसि हरियूथपाः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विकिराम चूर्णयाम । मनांसि दधिरे निश्चयं चक्रुरित्यर्थः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +218,11 @@ title_english = "042 Ravana commands his army to commence combat"
 उद्यम्य गिरिशृङ्गाणि शिखराणि महान्ति च ।  
 तरूंथोत्पाट्य विविधांस्तिष्ठन्ति हरियूथपाः ॥१२॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शिखराणि पर्वतखण्डान् । शिखरं शैलखण्डमिति संग्रहकारः । तिष्ठन्ति अतिष्ठन् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +235,11 @@ title_english = "042 Ravana commands his army to commence combat"
 प्रेक्षतो राक्षसेन्द्रस्य तान्यनीकानि भागशः ।  
 राघव प्रियकामार्थं लङ्कामारुरुहुस्तदा ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रेक्षतः प्रेक्षमाणमनादृत्य । तान्यनीकानि वानरानी कानि । भागशः स्वस्वनियुक्तप्रदेशे । लङ्कां लङ्काप्राकारं । राघवप्रियकामार्थं रामप्रीतिसिद्ध्यर्थमित्यर्थः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,8 +252,11 @@ title_english = "042 Ravana commands his army to commence combat"
 ते ताम्रवक्रा हेमाभा रामार्थे त्यक्तजीविताः ।  
 लङ्कामेवाभ्यवर्तन्त सालतालशिलायुधाः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यक्तजीविताः आशंसायां भूतवच्च इति क्तः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -231,8 +273,11 @@ title_english = "042 Ravana commands his army to commence combat"
 परिखाः पूरयन्ति स्म प्रसन्नसलिलायुताः ।  
 पांसुभिः पर्वताग्रैश्च तृणैः काष्ठैश्च वानराः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अरण्यानि उद्यानानि । तोरणानि बहिर्द्वाराणि ममन्थुः बभञ्जुरित्यर्थः ॥ १५-१६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,8 +290,11 @@ title_english = "042 Ravana commands his army to commence combat"
 ततः सहस्रयूथाश्च कोटियूथाश्च वानराः ।  
 कोटीशतयुताश्चान्ये लङ्कामारुरुहुस्तदा ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कोटीशतयुताः कोटीशतयूथयुताः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +315,11 @@ title_english = "042 Ravana commands his army to commence combat"
 जयत्यतिबलो रामो लक्ष्मणश्च महाबलः ।  
 राजा जयति सुग्रीवो राघवेणाभिपालितः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 काञ्चनानीत्यादिश्लोकद्वयं । काञ्चनानि काञ्चनकृतानि । प्रमृगन्तः चूर्णयन्तः । आप्लवन्तः प्लवन्तश्च गमनागमने कुर्वन्तः ॥ १८-२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +332,11 @@ title_english = "042 Ravana commands his army to commence combat"
 इत्येवं घोषयन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
 अभ्यधावन्त लङ्कायाः प्राकारं कामरूपिणः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 घोषयन्तः घुष्यन्तः । गर्जन्तः सिंहनादं कुर्वन्तः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -297,8 +351,11 @@ title_english = "042 Ravana commands his army to commence combat"
 निपीड्योपनिविष्टास्ते प्राकारं हरियूथपाः ।  
 एतस्मिन्नन्तरे चक्रुः स्कन्धावारनिवेशनम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वीरवाहुरित्यादि सार्धश्लोक एकान्वयः ॥ एतस्मिन्नन्तरे प्रसिद्धाः वीरबाह्वादयः प्राकारं निपीड्योपनिविष्टाः सन्तः । स्कन्धावारस्य शिबिरस्य । निवेशनं निर्माणं । चक्रुः । युद्धेन्तरान्तरा विश्रमार्थं वासस्थानं स्कन्धावारः । यद्वा व्यूहीभावेन सेनास्थापनं स्कन्धावारः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,8 +372,11 @@ title_english = "042 Ravana commands his army to commence combat"
 साहाय्यार्थं तु तस्यैव निविष्टः प्रघसो हरिः ।  
 पनसश्च महाबाहुर्वानरैर्बहुभिर्वृतः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निवेशनप्रकारमेवाह – पूर्वद्वारमित्यादिना ॥ कुमुदः पूर्वद्वारमावृत्य तस्थौ । ईशानकोणे स्थित्वा पूर्वद्वारमाक्रम्य स्थितवानित्यर्थः ॥ २३-२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,8 +389,11 @@ title_english = "042 Ravana commands his army to commence combat"
 दक्षिणं द्वारमागम्य वीरः शतबलिः कपिः ।  
 आवृत्य बलवांस्तस्थौ विंशत्या कोटिभिर्वृतः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शतबलिः दक्षिणद्वारमावृत्य तस्थौ । आग्नेयकोणे स्थित्वा दक्षिणद्वारमाक्रम्य स्थितवानित्यर्थः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,8 +406,11 @@ title_english = "042 Ravana commands his army to commence combat"
 सुषेणः पश्चिमद्वारं गतस्तारापिता हरिः ।  
 आवृत्य बलवांस्तस्थौ षष्टिकोटिभिरावृतः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुषेणः पश्चिमद्वारं गतः आवृत्य तस्थौ । नैर्ऋतकोणे स्थित्वा पश्चिमद्वारमाक्रम्य स्थितवानित्यर्थः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,8 +435,11 @@ title_english = "042 Ravana commands his army to commence combat"
 सन्नद्धस्तु महावीर्यो गदापाणिर्विभीषणः ।  
 वृतो यत्तैस्तु सचिवैस्तस्थौ तत्र महाबलः ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुग्रीव चोत्तरं द्वारमावृत्य तस्थौ । पश्चिमेन तु रामस्य सुग्रीवः सहजाम्बवान् । अदूरान्मध्यमे गुल्मे तस्थौ बहुबलानुगः इत्युक्तप्रकारेण वायव्यकोणे स्थितस्य सुग्रीवस्य उत्तरद्वारनिरोधकत्वाभिधानादेतदनुसारेण कुमुदादीनां तत्तत्कोणावस्थितत्वेन तत्तद्वारनिरोधकत्वमिति व्याख्यातम् ॥ २७–३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,8 +452,11 @@ title_english = "042 Ravana commands his army to commence combat"
 गजो गवाक्षो गवयः शरभो गन्धमादनः ।  
 समन्तात्परिधावन्तो ररक्षुर्हरिवाहिनीम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गजो गवाक्ष इति ॥ रामपार्श्वस्थात् गवाक्षादन्यो ज्ञेयः ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -397,8 +469,11 @@ title_english = "042 Ravana commands his army to commence combat"
 ततः कोपपरीतात्मा रावणो राक्षसेश्वरः ।  
 निर्याणं सर्वसैन्यानां द्रुतमाज्ञापयत्तदा ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः वानरसेनासन्निवेशाद्धेतोः । तदा तस्मिन्सन्निवेशकाले ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,8 +486,11 @@ title_english = "042 Ravana commands his army to commence combat"
 एतच्छ्रुत्वा तंतो वाक्यं रावणस्य मुखोद्गतम् ।  
 सहसा भीमनिर्घोषमुद्धुष्टं रजनीचरैः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भीमनिर्घोषं यथा भवतितथा उद्धृष्टं । उच्चैः सिंहनादः कृत इत्यर्थः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -429,8 +507,11 @@ title_english = "042 Ravana commands his army to commence combat"
 विनेदुश्च महाघोषाः शङ्खाः शतसहस्रशः ।  
 राक्षसानां सुघोराणां मुखमारुतपूरिताः ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रचोदिताः सेनाग्रे प्रेरिताः । चन्द्रपाण्डुरपुष्कराः चन्द्रशुभ्रमुखाः । संमार्जनसंस्कारविशेषेण तासां शुभ्रत्वं । पुष्करं करिहस्ताग्रे बाद्यभाण्डमुखे जले इत्यमरः । कोणो । वाद्यताडनदण्डः । विनेदुरित्यनुकर्षः । अथवा प्रचोदिताः सस्वनुरित्यर्थः ॥ ३४ – ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -443,8 +524,11 @@ title_english = "042 Ravana commands his army to commence combat"
 वे बभ्रुः शुभनीलाङ्गाः सशङ्खा रजनीचराः ।  
 विद्युन्मण्डलसन्नद्धाः सबलाका इवाम्बुदाः ॥ ३६॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शुभनीलाङ्गाः आभरणप्रभाभिः शोभमानानि नीलानि चाङ्गानि येषां ते । अतएव विद्युन्मण्डलसन्नद्धा इति नाधिकोपमा । विद्युन्मण्डलसन्नद्धा इत्युपमानविशेषणेनोपमेयेषु राक्षसेषु सभूषणत्वं गम्यत इत्यप्याहुः ॥ ३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,8 +541,11 @@ title_english = "042 Ravana commands his army to commence combat"
 निष्पतन्ति ततः सैन्या हृष्टा रावणचोदिताः ।  
 समये पूर्यमाणस्य वेगा इव महोदधेः ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सैन्याः सेनायां समवेता जनाः । सेनायां समवेता ये सैन्यास्ते सैनिकाश्च ते इत्यमरः । समये प्रलये । चन्द्रोदये वा । वेगाः पूराः ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -471,8 +558,11 @@ title_english = "042 Ravana commands his army to commence combat"
 ततो वानरसैन्येन मुक्तो नादः समन्ततः ।  
 मलयः पूरितो येन ससानुप्रस्थकन्दरः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मलयः त्रिकूटः । सः प्रसिद्धः । सानुप्रस्थकन्दरः अनुप्रस्थं प्रस्थे प्रस्थे स्थिताः याः कन्दरास्ताभिः सह वर्तत इति विग्रहः । यद्वा सानुः वप्रः प्रस्थः तटः कन्दरा गुहेत्यर्थः । सानुः महाप्रस्थः प्रस्थः क्षुद्रतटः कन्दरः दरी तैः सह वर्तत इति ससानुप्रस्थकन्दर इत्याहुः ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,8 +579,11 @@ title_english = "042 Ravana commands his army to commence combat"
 गजानां बृंहितैः सार्धं हयानां हेषितैरपि ।  
 रथानां नेमिघोषैश्च रक्षसां वदनस्वनः ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शङ्खदुन्दुभीत्यादिश्लोकद्वयम् ॥ शङ्खदुन्दुभिसंघुष्टः शङ्खदुन्दुभिसंघोषयुक्तः । तरस्विनां बलवतां । सिंहनादः गजबृंहितादिभिः सह पृथिव्यादिकं नादयन् अनादयत् ॥ ३९—४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -507,8 +600,11 @@ title_english = "042 Ravana commands his army to commence combat"
 ते गदाभिः प्रदीप्ताभिः शक्तिशूल परश्वधैः ।  
 निजध्रुर्वानरान्घोराः कथयन्तः स्वविक्रमान् ॥४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 देवासुरे यथा देवासुरविरोधे देवानामसुराणामिवेत्यर्थः । यद्वा षष्ठीबहुवचनस्य सुपां सुलुक् — इत्यादिना शेआदेशः ॥ ४१ – ४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,8 +615,11 @@ title_english = "042 Ravana commands his army to commence combat"
 
 राजी जयति सुग्रीव इति शब्दो महानभूत् ॥ ४३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राजेत्यर्धम् ॥ स्पष्टम् ॥ ४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,8 +634,11 @@ title_english = "042 Ravana commands his army to commence combat"
 तथा वृक्षैर्महाकायाः पर्वताग्रैश्च वानराः ॥  
 निजघ्नुस्तानि रक्षांसि नखैर्दन्तैश्च वेगिताः ॥ ४४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राजन्नित्यादिसार्धश्लोकः ॥ स्वस्वनामकथान्तत इति । नामकथां चोक्त्वा ततो निजघ्नुरित्युत्तरत्रान्वयः । नामकथानां अन्ततः अन्ते इति वा योजना । वेगिताः सजातवेगाः । वेपिता इति पाठे कोपेन कम्पमाना इत्यर्थः ॥ ४४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -549,8 +651,11 @@ title_english = "042 Ravana commands his army to commence combat"
 राक्षसास्त्वपरे भीमाः प्राकारस्था महीगतान् ।  
 भिण्डैपालैश्च खङ्गैश्च शूलैश्चैव व्यदारयन् ॥४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भिन्दिपालैः गदाभेदैः ॥ ४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,8 +668,11 @@ title_english = "042 Ravana commands his army to commence combat"
 वानराश्चापि संक्रुद्धाः प्राकारस्थान्महीगताः ।  
 राक्षसान्पातयामासुः समाप्लुत्य प्लवङ्गमाः ॥ ४६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समाप्लुत्य प्राकाराग्रपर्यन्तमुत्पत्य । प्लवनं श्रुतगतिं गच्छन्तीति लवङ्गमाः । असंज्ञायामपि खशार्षः । अनेन प्लुतगतिमत्त्वमुक्तं । अतो न वानरशब्देन पुनरुक्तिः ॥ ४६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -582,7 +690,10 @@ title_english = "042 Ravana commands his army to commence combat"
 प्रक्ष्वेडितास्फोटितसिंहनादैर्द्वाभ्यां गताभ्यामिव सागराभ्याम् ॥ ४८ ॥ \]
 </details>
 
+<details><summary>व्याख्या</summary>
+
 संप्रहारः युद्धं । तुमुलः परस्परसंकुलः । मांसशोणितान्येव कर्दमो यस्मिन् स मांसशोणितकर्दमः । अद्भुतोपमः दुर्लभोपम इति यावत् ॥ ४७ – ४८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

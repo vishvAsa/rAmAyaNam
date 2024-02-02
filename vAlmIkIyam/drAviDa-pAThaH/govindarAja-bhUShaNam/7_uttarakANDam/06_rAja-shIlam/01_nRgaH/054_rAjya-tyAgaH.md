@@ -32,7 +32,10 @@ title = "०५४ राज्य-त्यागः"
 उवाच प्राञ्जलिर्वाक्यं राघवं दीप्ततेजसम् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 रामस्येत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

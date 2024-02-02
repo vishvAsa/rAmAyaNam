@@ -66,7 +66,10 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 ततो हयैश्च संयोज्य हरितैः स्यन्दनोत्तमम् ॥ ९॥ \]
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथेन्द्ररथमारुह्य संग्रामस्त्रिशततमे – लक्ष्मणेनेत्यादि ॥ १-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +92,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 देवराजेन संदिष्टो रथमारुह्य मातलिः ।  
 अभ्यवर्तत काकुत्स्थमवतीर्य त्रिविष्टपात् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिसार्धश्लोकत्रयमेकान्वयम् ॥ कूबरः युगाधारदारु । कूबरस्तु युगंधरः इत्यमरः । काञ्चनापीडैः काञ्चनालंकारैः । श्वेतप्रकीर्णकैः श्वेतचामरैः । चामरं तु प्रकीर्णकं इत्यमरः । हरिभिः हरितवर्णैः । रुक्मवेणुध्वजः । कनकदण्डध्वजः । देवराजरथ इति । य इति शेषः । योस्ति तमारुह्येत्युत्तरत्रान्वयः । संदिष्टः चोदितः । त्रिविष्टपात् स्वर्गात् ॥ १० – १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +109,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 अब्रवीच्च तदा रामं सप्रतोदो रथे स्थितः ।  
 प्राञ्जलिर्मातलिर्वाक्यं सहस्राक्षस्य सारथिः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रतोदः अश्वप्रेरणकाष्टम् ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +134,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 आरुह्येमं रथं वीर राक्षसं जहि रावणम् ।  
 मया सारथिना राजमहेन्द्र इव दानवान् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सहस्राक्षेणेत्यादिश्लोकद्वयमेकान्वयम् ॥ इदमिति ॥ अत्र चापादिषु यथायोग्यं दत्त इत्येतल्लिङ्गवचनविपरिणामेन योजनीयम् ॥ १४-१६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,8 +167,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 ते रावणधनुर्मुक्ताः शराः काञ्चनभूषणाः ।  
 अभ्यवर्तन्त काकुत्स्थं सर्पा भूत्वा महाविषाः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संपरिक्रम्य प्रदक्षिणीकृत्य । लोकान् लक्ष्म्या विराजयन् चन्द्रप्रभयेव स्वकान्त्या सर्वलोकान् प्रकाशयन्नित्यर्थः ॥ १७–२१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,8 +184,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 ते दीप्तवदना दीप्तं वमन्तो ज्वलनं मुखैः ।  
 राममेवाभ्यवर्तन्त व्यादितास्या भयानकाः ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यादितास्याः व्याप्ताननाः । भयानकाः भयंकराः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +201,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 तैर्वासुकिसमस्पर्शैर्दीप्तभोगैर्महाविषैः ।  
 दिशश्च सन्तताः सर्वाः प्रदिशश्च समावृताः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दीप्तभोगैः दीप्तफणैः । भोगः सुखे स्त्र्यादिभृतावहेश्च फणकाययोः इत्यमरः । प्रदिशः दिक्कोणाः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,8 +218,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 तान्दृष्ट्वा पन्नगान्रामः समापतत आहवे ।  
 अस्त्रं गारुत्मतं घोरं प्रादुश्चक्रे भयावहम् ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रादुश्चक्रे प्रयुयुजे ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,8 +247,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 ततः शरसहस्रेण राममक्लिष्टकारिणम् ।  
 अर्दयित्वा शरौघेण मातलिं प्रत्यविध्यत ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शिखिप्रभाः अग्निप्रभाः । सुपर्णाः गरुडाः ॥ २५–२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,8 +274,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 राममार्तं तदा दृष्ट्वा सिद्धाश्च परमर्षयः ।  
 व्यथिता वानरेन्द्राश्च बभूवुः सविभीषणाः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चिच्छेदत्यादिसाश्लोकमेकं वाक्यम् ॥ केतुं ध्वजपटं । उद्दिश्य लक्षीकृत्य । रथात् रथावयवदण्डात् ॥ २९ – ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +297,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 सधूमपरिवृत्तोर्मिः प्रज्वलन्निव सागरः ।  
 उत्पपात तदा क्रुद्धः स्पृशन्निव दिवाकरम् ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रामस्य तादृशदशादर्शनेन संजातानि दिव्यानि भौमानि च वैकृतान्याह-रामचन्द्रमसमित्यादिना ॥ प्राजापत्यं नक्षत्रं प्रजापतिदेवताकनक्षत्रभूतां रोहिणीं । बुधे रोहिणीं प्राप्ते जगत्पीडा भवतीति भावः ॥३२ – ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +314,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 शस्त्रवर्णः सुपरुषो मन्दरश्मिर्दिवाकरः ।  
 अदृश्यत कबन्धाङ्कः संसक्तो धूमकेतुना ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शस्त्रवर्णः असिश्यामः ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,8 +335,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 दशास्यो विंशतिभुजः प्रगृहीतशरासनः ।  
 अदृश्यत दशग्रीवो मैनाक इव पर्वतः ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कोसलानां इक्ष्वाकूणां । विशाखायास्तन्नक्षत्रत्वमेतत्काण्डचतुर्थसर्गे दर्शितम् ॥ ३५-३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,8 +352,11 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 निरस्यमानो रामस्तु दशग्रीवेण रक्षसा ।  
 नाशक्नोदभिसन्धातुं सायकान्रणमूर्धनि ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभिसंधातुं धनुष्यारोपयितुम् ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -328,7 +370,10 @@ title_english = "103 Ravana s charioteer carries away Ravana in the chariot"
 जगाम सुमहाक्रोधं निर्दहन्निव चक्षुषा ॥ ३८ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथैतद्दर्शनेन रामकोपं दर्शयति-स कृत्वेति ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

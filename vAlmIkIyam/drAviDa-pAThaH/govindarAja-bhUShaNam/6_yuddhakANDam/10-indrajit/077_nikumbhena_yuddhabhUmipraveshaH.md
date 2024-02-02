@@ -32,7 +32,10 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 प्रदहन्निव कोपेन वानरेन्द्रमवैक्षत ॥ १॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ निकुम्भवधः सप्तसप्ततितमे- निकुम्भ इत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 तमाविध्य महातेजाः शक्रध्वजसमं तदा ।  
 विननाद विवृत्तास्यो निकुम्भो भीमविक्रमः ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिलोकद्वयमेकान्वयम् ॥ स्रग्दामसन्नद्धं स्रक्समूहनिबद्धं । दत्तपश्चाङ्गुलं चन्दनकुङ्कुमादिनार्पितपञ्चाङ्गुलमुद्रामुद्रितं । अथवा क्रियाविशेषणमेतत् । दत्तपञ्चाङ्गुलं यथा तथा आददे । परिक्षिप्त परिणद्धम् ॥२-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,8 +77,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 निकुम्भो भूषणैर्भाति तेन स्म परिघेण च ।  
 यथेन्द्रधनुषा मेघः सविद्युत्स्तनयिनुत्मान् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उरोगतेनेत्यादिलोकद्वयमेकान्वयम् ॥ निष्कः पदकं । भूषणैः हारादिभिः । भाति स्म । लट् स्मे इति भूते लट् । स्तनयि मान् गर्जितवान् । स्तनयिब्रुस्तु गर्जिते मेघे ” स्तनयिनुस्तु गर्जिते मेघे इति रत्नमाला । इन्द्रधनुःस्थाने परिघः । विद्युत्स्थाने भूषणानि । विननादेति पूर्वश्लोकोक्तो विनादः स्तनयित्नुस्थान इति नोपमेयन्यूनता ॥ ५-६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 परिघाग्रेण पुस्फोट वातग्रन्थिर्महात्मनः ।  
 प्रजज्वाल सघोषश्च विधूम इव पावकः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वातग्रन्थिः आवहादिसप्तवातस्कन्धः । सघोषः ससिंहनाद इति निकुम्भविशेषणं परिघविशेषणं वा ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 सतारग्रहनक्षत्रं सचन्द्रं समहाग्रहम् ।  
 निकुम्भपरिघाघूर्णं भ्रमतीव नभःस्थलम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नगर्येत्यादिश्लोकद्वयमेकान्वयम् ॥ विटपावत्या अलकया । अत्रापि सहेति शेषः । भवनैः अमरभवनैः । तारा ः अश्विन्यादयः । ग्रहाः बुधादयः । नक्षत्राणि अश्विन्यादिभिन्नानि । महाग्रहाः शुक्रादयः । अत्र रात्रित्वात्सूर्यो नोक्तः । निकुम्भपरिघाघूर्ण । अत्र परिघशब्देन तद्वात उपलक्ष्यते । इवशब्दो वाक्यालंकारे ॥ ८-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 दुरासदश्च संजज्ञे परिघाभरणप्रभः ।  
 कपीनां स निकुम्भाग्निर्युगान्ताग्निरिवोत्थितः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिघेणाभरणैश्च प्रभातीति परिघाभरणप्रभः । यद्वा परिघाभरणान्येव प्रभा यस्य स तथा । कपीनां दुरासदो जज्ञ इति संबन्धः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +149,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 राक्षसा वानराश्चापि न शेकुः स्पन्दितुं भयात् ।  
 हनुमांस्तु विवृत्योरस्तस्थौ प्रमुखतो बली ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राक्षसा इति । प्रबलेषु प्रजङ्घादिषु हतेषु दुर्बलैर्भवद्भिः किमर्थं युद्धाय प्रयत्नः कृत इति निकुम्भः कुप्येदिति राक्षसानां भयं वेदितव्यं । विवृत्य विस्तार्य । प्रमुखतः अग्रे ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +166,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 परिघोपमबाहुस्तु परिघं भास्करप्रभम् ।  
 बली बलवतस्तस्य पातयामास वक्षसि ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिघोपमबाहुः निकुम्भः ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +183,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 स्थिरे तस्योरसि व्यूढे परिघः शतधा कृतः ।  
 विशीर्यमाणः सहसा उल्काशतमिवाम्बरे ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यूढे विशाले । उल्काशतमिव बभाविति ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +200,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 स तु तेन प्रहारेण विचचाल महाकपिः ।  
 परिघेण समाधूतो यथा भूमिचलेऽचलः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भूमिचले भूकम्पे ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +229,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 स तु तेन प्रहारेण निकुम्भो विचचाल ह ।  
 स्वस्थश्चापि निजग्राह हनुमन्तं महाबलम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संवर्तयामास । चकारेत्यर्थः ॥ १५-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +250,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 स तदा ह्रियमाणोपि कुम्भकर्णात्मजेन ह ।  
 आजघानानिलसुतो वज्रकल्पेन मुष्टिना ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भीमं विचुक्रुशुः । हनुमद्ग्रहणहर्षादिति भावः । उद्यतं गृहीतम् ॥ १९ – २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -231,8 +267,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 आत्मानं मोचयित्वाऽथ क्षितावभ्यवपद्यत ।  
 हनुमानुन्ममाथाशु निकुम्भं मारुतात्मजः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्षितावभ्यवपद्यत स्थितः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,8 +284,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 निक्षिप्य परमायत्तो निकुम्भं निष्पिपेष ह ।  
 उत्पत्य चास्य वेगेन पपातोरसि वीर्यवान् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निक्षिप्य भूमौ पातयित्वा । परमायत्तः अतिप्रयासयुक्तः । उत्पत्य ऊर्ध्वमुद्गत्य । उरसि वेगेन पपात ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +309,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 हनूमन्तं महाबाहुं वायुपुत्रमरिंदमम् ।  
 प्रशंसन्तः परैर्वाक्यैः प्रसूनैरभ्यपूजयन् \] ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बाहुभ्यां शिरोधरां परिगृह्य परिवर्त्य । शिर उत्पाटयामास ॥ २३–२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,8 +326,11 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 अथ विनदति सादिते निकुम्भे पवनसुतेन रणे बभूव युद्धम् ।  
 दशरथसुतराक्षसेन्द्रसून्वोर्भृशतरमागतरोषयोः सुभीमम् ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्तरसर्गद्वयार्थं संग्रहेण दर्शयति — अथेति ॥ विनदति निकुम्भे पवनसुतेन सादिते सति । दशरथसुतराक्षसेन्द्रसून्वोः । राममकराक्षयोः । युद्धं बभूव । पुष्पिता प्रावृत्तं । उत्तरत्र भुजङ्गप्रयातम् ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -296,7 +344,10 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 चचालेव चोर्वी पफालेव च द्यौर्भयं राक्षसानां बलं चाविवेश ॥ २७ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 दिशः सस्वनुः प्रतिध्वनिं चक्रुः । पफालेव पुस्फोटेव । बलं कर्म । भयं कर्तृ ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

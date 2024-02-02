@@ -32,7 +32,10 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 सुवेले राघवं शैले निविष्टं प्रत्यवेदयन् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ शार्दूलादिचारवचनं त्रिशे-तत इति ॥ सुवेले सुवेलसमीपे । सामीप्ये सप्तमी । सुवेलस्य समीप इति पूर्वमुक्तत्वात् ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम् ।  
 जातोद्वेगोऽभवत्किंचिच्छार्दूलं वाक्यमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चाराणां चारेभ्यः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 अयथावच्च ते वर्णो दीनश्चासि निशाचर ।  
 नासि कच्चिदमित्राणां क्रुद्धानां वशमागतः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अयथेति । शत्रुगृहीतत्वेन तेषां स्वरूपं किं न ज्ञातमिति भावः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +82,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 इति तेनानुशिष्टस्तु वाचं मन्दमुदीरयत् ।  
 तदा राक्षसशार्दूलं शार्दूलो भयविह्वलः ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनुशिष्टः पृष्टः । उदीरयत् अडभाव आर्षः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +97,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 
 न ते चारयितुं शक्या राजन्वानरपुङ्गवाः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चारयितुं चारविषयीकर्तुं । न शक्याः चारसंचारविषया न भवन्तीत्यर्थः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +114,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 विक्रान्ता बलवन्तश्च राघवेण च रक्षिताः ।  
 नापि सम्भाषितुं शक्याः सम्प्रश्नोऽत्र न लभ्यते ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संप्रश्नः परीक्षणं । अत्र वानरेषु ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -113,8 +131,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 सर्वतो रक्ष्यते पन्था वानरैः पर्वतोपमैः ।  
 प्रविष्टमात्रे ज्ञातोऽहं बले तस्मिन्नचारिते ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रविष्टमात्रे प्रविष्ठ एव । अचारिते चाराविषयीकृते ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,8 +148,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 बलाद्गृहीतो बहुभिर्बहुधास्मि विचालितः ।  
 जानुभिर्मुष्टिभिर्दन्तैस्तलैश्चाभिहतो भृशम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्षोभिः विभीषणसचिवैः । विचालितः भुवि परिवर्तितः ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,8 +165,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 परिणीतोऽस्मि हरिभिर्बलवद्भिरमर्षणैः ।  
 परिणीय च सर्वत्र नीतोऽहं रामसंसदम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिणीतः परितो नीतः । सर्वतः परिणीय सर्वेषां निकटे चारोयमिति घोषणपूर्वकं परिणीयेत्यर्थः । रामसंसद रामसभां । विह्वलः मूर्च्छितः । मूर्च्छानिवृत्तावपि चलितेन्द्रियः ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,8 +182,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 रुधिरादिग्धसर्वाङ्गो विह्वलश्चलितेन्द्रियः ।  
 हरिभिर्वध्यमानश्च याचमानः कृताञ्जलिः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 याचमानः त्राणमिति शेषः । परित्रात इत्यनुवादात् ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,8 +197,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 
 राघवेण परित्रातो जीवामीति यदृच्छया ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राघवेणेत्यर्धम् ॥ जीवामीति यदृच्छया इदानीं जीवनं यादृच्छिकमित्यर्थः । यद्वा इतीति स्वशरीरप्रदर्शनं । अयथावच्च ते वर्णो दीनश्चासि निशाचरेति युक्तम् ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +218,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 गरुडव्यूहमास्थाय सर्वतो हरिभिर्वृतः ।  
 मां विसृज्य महातेजा लङ्कामेवाभिवर्तते ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 द्वारमाश्रित्य तिष्ठतीति वर्तमानसामीप्ये वर्तमानप्रयोगः ॥ १२ – १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +235,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 पुरा प्राकारमायाति क्षिप्रमेकतरं कुरु ।  
 सीतां वास्मै प्रयच्छाशु सुयुद्धं वा प्रदीयताम् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुराप्राकारमायाति आयास्यतीत्यर्थः । यावत्पुरानिपातयोर्लट् । एकतरं द्वयोरेकं । एकाच्च प्राचां इति तरप् । एकतरमित्युक्तं विवृणोति – सीतामिति ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,8 +252,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 मनसा तं तदा प्रेक्ष्य तच्छ्रुत्वा राक्षसाधिपः ।  
 शार्दूलं महद्वाक्यमथोवाच स रावणः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मनसा प्रेक्ष्य आलोच्य । तं शार्दूलमुवाचेत्यन्वयः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,8 +269,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 यदि मां प्रतियुध्येरन्देवगन्धर्वदानवाः ।  
 नैव सीतां प्रदास्यामि सर्वलोकभयादपि ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सीतास्मैप्रदीयतामित्यस्योत्तरमाह – यदीति युध्येरन् तथापि सीतां न प्रदास्यामि । सर्वलोकेभ्यो भयापि न प्रदास्यामीतियोजना ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +286,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 एवमुक्त्वा महातेजा रावणः पुनरब्रवीत् ।  
 चारिता भवता सेना केऽत्र शूराः प्लवङ्गमाः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवं प्रथमपक्षस्यानुपपत्त्या द्वितीयपक्षंकरिष्यमाणः तत्र ज्ञातव्यविशेषं पृच्छति – एवमित्यादि लोकत्रयम् ॥ भवता सेना चारिता चारविषयीकृता । सम्यग्दृष्टेत्यर्थः । अत्र सेनायां । के शूराः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,8 +303,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 कीदृशाः किम्प्रभाः सौम्य वानरा ये दुरासदाः ।  
 कस्य पुत्राश्च पौत्राश्च तत्त्वमाख्याहि राक्षस ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ये दुरासदाः ते कीदृशाः कीदृशाकाराः । किंप्रभाः किंप्रभावाः । कस्य पुत्राः कस्य पौत्राश्च । तत्त्वं तेषां वानराणां भावं । आख्याहि ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,8 +324,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 अथैवमुक्तः शार्दूलो रावणेनोत्तमश्चरः ।  
 इदं वचनमारेभे वक्तुं रावणसंनिधौ ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथने किं प्रयोजनमित्याह —तथेति ॥ तथा एवमाख्याते सति । तेषां बलाबलं ज्ञात्वा अत्र वानरेषु । प्रतिपत्स्यामि प्रतिपत्स्ये । कर्तव्यं ज्ञास्यामीत्यर्थः ॥ १९ – २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,8 +341,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 अथर्क्षरजसः पुत्रो युधि राजा सुदुर्जयः ।  
 गद्गदस्याथ पुत्रोऽत्र जाम्बवानिति विश्रुतः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथेत्युत्तरवचनारम्भे । द्वितीयोथशब्दः पादपूरणे । राजा सुग्रीवः । पाञ्चालीन्यायेन गद्गदेन पोषितत्वात्तत्पुत्रो जाम्बवान् । तस्य ब्रह्मणो जृम्भारम्भसंभूतत्वात् ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,8 +358,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 गद्गदस्यैव पुत्रोऽन्यो गुरुपुत्रः शतक्रतोः ।  
 कदनं यस्य पुत्रेण कृतमेकेन रक्षसाम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्यः पुत्रः धूम्रः । जाम्बवान् धूम्रश्चेति गद्गदस्य द्वौ पुत्रावित्यर्थः । यस्य पुत्रेणैकेन महता रक्षसां अक्षादीनां कदनं हननं । कृतं । स केसरी शतक्रतोर्गुरुः बृहस्पतिः तस्य पुत्रः । सापेक्षत्वेपि गमकत्वात्समासः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,8 +375,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 सुषेणश्चापि धर्मात्मा पुत्रो धर्मस्य वीर्यवान् ।  
 सौम्यः सोमात्मजश्चात्र राजन्दधिमुखः कपिः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 धर्मस्य देवतायाः । ननु वरुणो जनयामास सुषेणं नाम वानरं इति बालकाण्डोक्तं । सत्यमुक्तं । स एवात्र धर्मशब्देनोच्यते । शार्दूलो वा भयाकुलोन्यथा श्रुतवान् । अन्योयं सुषेण इत्यप्याहुः । एवमन्यत्रापि ज्ञेयम् ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,8 +392,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 सुमुखो दुर्मुखश्चात्र वेगदर्शी च वानरः ।  
 मृत्युर्वानररूपेण नूनं सृष्टः स्वयम्भुवा ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मृत्युरेव स्वयंभुवा सुमुखादिवानररूपेण सृष्टः । सुमुखादयो मृत्युतुल्या इत्यर्थः । यद्वा सुमुखादयो मृत्युपुत्रा इत्यर्थः ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,8 +409,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 पुत्रो हुतवहस्याथ नीलः सेनापतिः स्वयम् ।  
 अनिलस्य च पुत्रोऽत्र हनूमानिति विश्रुतः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनिलस्य पुत्रः औरसः । एवं तत्र तत्र पितृद्वयनिर्देशो बीजित्वक्षेत्रित्वाभ्यामिति मन्तव्यम् ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -361,8 +430,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 पुत्रा वैवस्वतस्यात्र पञ्चकालान्तकोपमाः ।  
 गजो गवाक्षो गवयः शरभो गन्धमादनः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नप्तेति । अत्र नप्तृशब्दोर्थसामर्थ्यात्पौत्रे वर्तते ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -375,8 +447,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 दश वानर कोट्यश्च शूराणां युद्धकाङ्क्षिणाम् ।  
 श्रीमतां देवपुत्राणां शेषं नाख्यातुमुत्सहे ॥ २८॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वानरकोट्य इत्यत्र वानरेत्यविभक्तिकनिर्देशः । सुपां सुलुक् इत्यादिना षष्ठ्या लुक् । वानराणामित्यर्थः । शेषं जन्मस्थानादि । नोत्सहे न शक्नोमि ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -393,8 +468,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 नास्ति रामस्य सदृशो विक्रमे भुवि कश्चन ।  
 विराधो निहतो येन कबन्धश्चान्तकोपमः ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सिंहसंहननः रमणीयावयवसन्निवेशवान् । वराङ्गरूपोपेतो यः सिंहसंहननो हि सः इत्यमरः ॥ २९-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -407,8 +485,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 वक्तुं न शक्तो रामस्य नरः कश्चिद्रुणान्क्षितौ ।  
 जनस्थानगता येन यावन्तो राक्षसा हताः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ये जनस्थानगताः ते यावन्तः ते सर्वेपि हता इत्यर्थः । यावत्तावच्च साकल्ये इत्यमरः ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -425,8 +506,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 श्वेतो ज्योतिर्मुखश्चात्र भास्करस्यात्मसम्भवौ ।  
 वरुणस्य च पुत्रोऽन्यो हेमकूटः प्लवङ्गमः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चशब्देन दशरथस्य पुत्र इत्याकृष्यते । मातङ्गानामिवर्षभः गजश्रेष्ठ इव स्थितः ॥ ३२ – ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -439,8 +523,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 विश्वकर्मसुतो वीरो नलः प्लवगसत्तमः ।  
 विक्रान्तो बलवानत्र वसुपुत्रः सुदुर्धरः ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुदुर्धरः सुदुर्धरनामा ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -453,8 +540,11 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 राक्षसानां वरिष्ठश्च तव भ्राता विभीषणः ।  
 परिगृह्य पुरीं लङ्कां राघवस्य हिते रतः ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लङ्कां रामात् परिगृह्य तस्य हिते । रतो विभीषणस्तव भ्रातेत्यन्वयः ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -468,7 +558,10 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 सुवेलेऽधिष्ठितं शैले शेषकार्ये भवान्गतिः ॥ ३६ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 गतिः प्रमाणं । अत्र वानरजन्मोक्ते प्रायशो बालकाण्डोक्तविरोधादेतत्सर्गं विनापि पूर्वोत्तरकथासंघट्टनाच्च सर्गोयं कल्पित इत्याहुः ॥ ३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

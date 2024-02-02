@@ -36,7 +36,10 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 गृहेभ्यः पुष्पवर्षेण कीर्यमाणस्तदा ययौ ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ कुम्भकर्णं प्रति रावणस्य सान्त्ववचनं द्विषष्टितमे – स त्वित्यादि निद्रामदसमाकुलः निद्रया अकालोत्थितत्वेनानुवर्तमानया मदेन मद्यपानकृतेन च समाकुलः । गृहेभ्यः । निर्गतेनेति शेषः ॥ १ – २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 स हेमजालविततं भानुभास्वरदर्शनम् ।  
 ददर्श विपुलं रम्यं राक्षसेन्द्रनिवेशनम् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हेमजालविततं स्वर्णमयगवाक्षविततं । भानुभास्वरदर्शनं दृश्यत इति दर्शनं रूपं । भानुवत्प्रकाशमानमित्यर्थः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,8 +77,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 सोभिगम्य गृहं भ्रातुः कक्ष्यामभिविगाह्य च ।  
 ददर्शोद्विग्नमासीनं विमाने पुष्पके गुरुम् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दूरे कक्ष्यान्तरप्रदेशे । ददर्श । उन्नतपुष्पकवत्त्वादितिभावः ॥ ४-६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 अथ दृष्ट्वा दशग्रीवः कुंभकर्णमुपस्थितम् ।  
 तूर्णमुत्थाय संहृष्टः सन्निकर्षमुपानयत् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सन्निकर्ष समीपम् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -109,8 +121,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 स तदासनमाश्रित्य कुंभकर्णो महाबलः ॥  
 संरक्तनयनः कोपाद्रावणं वाक्यमब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृत्यं मया कर्तव्यम् ॥ ८-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,8 +138,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 किमर्थमहमादृत्य त्वया राजन्विबोधितः ।  
 शंस कस्माद्भयं तेऽस्ति कोऽद्य प्रेतो भविष्यति ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आदृत्य स्थितेनेति शेषः । शंसेति । तमिति शेषः । प्रेतो भविष्यति मृतो भविष्यति ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,8 +155,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 भ्रातरं रावणः क्रुद्धं कुंभकर्णमवस्थितम् ।  
 ईषत्तु परिवृत्ताभ्यां नेत्राभ्यां वाक्यमब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ईषत्परिवृत्ताभ्यामित्यनेन ईषत्कोपो लक्ष्यते ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -151,8 +172,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 अद्य ते सुमहान्कालः शयानस्य महाबल ।  
 सुखितस्त्वं न जानीषे मम रामकृतं भयम् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ईषत्त्वमेव विवृणोति – अद्येत्यादिना ॥ सुमहान्कालः नवदिनपरिमितः । गत इति शेषः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,8 +189,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 एष दाशरथी रामः सुग्रीवसहितो बली ।  
 समुद्रं सबलस्तीर्त्वा मूलं नः परिकृन्तति ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मूलं मूलबलं । परिकृन्तति बाधतइत्यर्थः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +212,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 वानराणां क्षयं युद्धे न पश्यामि कदाचन ॥ १६ ॥  
 न चापि वानरा युद्धे जितपूर्वाः कदाचन ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मूलकृन्तनमुपपादयति-हन्तेति ॥ लङ्कायां वनान्युपवनानि च सर्वं । सेतुना सुखमागम्य स्वनिर्मितसेतुमात्रेण सुखमागम्य । रामेण । वानरैकार्णवीकृतं वानररूपैकार्णवीकृतं । पश्यस्व । आत्मनेपदमार्ष । यद्वा स्वलङ्कायामिति च्छेदः आत्मीयलङ्काद्वीपइत्यर्थः ॥ १५-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +229,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 तदेतद्भयमुत्पन्नं त्रायस्वेमां महाबल ।  
 नाशय त्वमिमानद्य तदर्थं बोधितो भवान् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तदेतत् एतादृशं । भयमुत्पन्नं । अस्माद्भयादिमां पुरीं त्रायस्व । इमान् वानरान् नाशय । तदर्थं नाशनार्थम् ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,8 +246,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 सर्वक्षपितकोशं च स त्वमभ्यवपद्य माम् ।  
 त्रायस्वेमां पुरीं लङ्कां बालवृद्धावशेषिताम् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्वक्षपितकोशं क्षपितसर्वैश्वर्य । कोशोस्त्री कुङ्भले खड्गपिधानेर्थौघदिव्ययोः इत्यमरः । अभ्यवपद्य जानीहीत्यर्थः । बालवृद्धावशेषितामित्यतिशयोक्तिः । मूलबलाद्युत्सादनस्य वक्ष्यमाणत्वात् ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,8 +263,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 भ्रातुरर्थे महाबाहो कुरु कर्म सुदुष्करम् ।  
 मयैवं नोक्तपूर्वो हि कच्चिद्भातः परंतप ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कच्चिदिति प्रश्ने । कदाचिदपि नोक्तपूर्वोसीत्यर्थः । कश्चिदिति पाठे त्वदन्यः कश्चिदपि नैवमुक्तपूर्वइत्यर्थः ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,8 +282,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 दैवासुरेषु युद्धेषु बहुशो राक्षसर्षभ ।  
 त्वया देवाः प्रतिव्यूह्य निर्जितास्चासुरा युधि ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दिति संभावना आदरः । दैवासुरेषु देवासुरसंबन्धिषु । प्रतिव्यूह्य विभज्य । असुराः असुराअपीत्यर्थः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +299,11 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 तदेतत्सर्वमातिष्ठ वीर्यं भीमपराक्रम ।  
 न हि ते सर्वभूतेषु दृश्यते सदृशो बली ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आतिष्ठ अवलम्बस्व ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -272,7 +317,10 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 स्वतेजसा विधम सपत्नवाहिनीं शरद्धनं पवन इवोद्यतो महान् ॥ २३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 यथाप्रियं यथास्नेहं । आवयोः प्रीत्यनुरूपमित्यर्थः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

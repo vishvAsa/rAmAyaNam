@@ -32,7 +32,10 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 सनिवृत्याहवात्तस्मात्संविवेश पुरं ततः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ मायासीतावध एकाशीतितमे – विज्ञाय त्वित्यादि । अत्र तृतीयाक्षरभूतो यकारो गायत्र्या एकोनविंशतितमाक्षरं । अष्टादशसहस्रश्लोकागताः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 सोनुस्मृत्य वधं तेषां राक्षसानां तरस्विनाम् ।  
 क्रोधताप्रेक्षणः शूरो निर्जगाम महाद्युतिः ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तेषां कुम्भकर्णादीनाम् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 स पश्चिमेन द्वारेण निर्ययौ राक्षसैर्वृतः ।  
 इन्द्रजित्त महावीर्यः पौलस्त्यो देवकण्टकः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निकुम्भिलायां दुर्जयास्त्रबललाभाय होतुकामस्तावत्पर्यन्तं रामलक्ष्मणयोर्युद्धोद्योगं मन्दीकर्तुं मायामारिप्समाणो रामलक्ष्मणयोः कुपितत्वेन दुरासदत्वात् सीतास्वरूपाभिज्ञ- स्यान्यस्याभावाद्धनुमते मायां दर्शयितुं पश्चिमद्वारेण निर्गत इत्याह – स पश्चिमेनेत्यादिना ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +82,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 इन्द्रजित्तु ततो दृष्ट्वा भ्रातरौ रामलक्ष्मणौ ।  
 रणायाभ्युद्यतौ वीरौ मायां प्रादुष्करोत्तदा ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृष्ट्वा विचिन्त्य । पश्चिमद्वारनिष्क्रान्तस्य रामलक्ष्मणदर्शनासंभवात् । मायां परव्यामोहकरीं शक्तिं । प्रादुष्करोत् प्रादुर्भावयामास ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 हनुमान्पुरतस्तेषां जगाम कपिकुञ्जरः ।  
 प्रगृह्य सुमहच्छृङ्गं पर्वतस्य दुरासदम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आवृत्य स्थितेन बलेन । युक्त इति शेषः । युक्ते रथे सीतां स्थाप्य ततस्तस्या वधमरोचयदिति संबन्धः ॥ ५-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 परिक्लिष्टैकवसनाममृजां राघवप्रियाम् ।  
 रजोमलाभ्यामालिप्तैः सर्वगात्रैर्वरस्त्रियम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स ददर्शेत्यादिश्लोकद्वयमेकान्वयं । अमृजां अनुद्वर्तनां । अनलंकारामिति वा । मृजू शौचालंकारयोः इति धातोर्भिदादित्वादङ् । सर्वगात्रैः उपलक्षिताम् ॥ ९-१०॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +149,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 तां निरीक्ष्य मुहूर्तं तु मैथिलीत्यध्यवस्य तु ।  
 बभूवाचिरदृष्टा हि तेन सा जनकात्मजा ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अध्यवस्य निश्चित्य । विषण्ण इति शेषः । निश्चये हेतुमाह – बभूवेति ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +166,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 तां दीनां मलदिग्धाङ्गीं रथस्थां दृश्य मैथिलीम् ।  
 वाष्पपर्याकुलमुखो हनुमान्व्यथितोऽभवत् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृश्य दृष्ट्वा ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +185,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 सीतां रथस्थितां दृष्ट्वा राक्षसेन्द्रसुताश्रिताम् ॥  
 किं समर्थितमस्येति चिन्तयन्स महाकपिः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अब्रवीदित्याद्यर्धत्रयमेकान्वयं । सीतां रथे स्थापितवतोस्य किं समर्थितं को वाभिप्राय इति चिन्तयन्नब्रवीत् । इतिर्वचनचिन्तनयोः साधारणः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +200,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 
 सह तैर्वानरश्रेष्ठैरभ्यधावत रावणिम् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सह तैरित्यर्धं । हनुमानिति शेषः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +217,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 तद्वानरबलं दृष्ट्वा रावणिः क्रोधमूर्च्छितः ।  
 कृत्वा विकोशं निस्त्रिंशं मूर्ध्नि सीतां परामृशत् ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मूर्च्छितः व्याप्तः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +242,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 तां दृष्ट्वा चारुसर्वाङ्गीं रामस्य महिषीं प्रियाम् ।  
 अब्रवीत्परुषं वाक्यं क्रोधाद्रक्षोधिपात्मजम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पश्यतां तेषां । अनादरे षष्ठी । मायया परमोहनशक्त्या ॥ १६-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,8 +259,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 दुरात्मन्नात्मनाशाय केशपक्षे परामृशः ।  
 ब्रह्मर्षीणां कुले जातो राक्षसीं योनिमाश्रितः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 केशपक्षे केशसमूहे । पाशः पक्षश्च हस्तश्च कलापार्थाः कचात्परे इत्यमरः । परामृशः अस्पृशः ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +278,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 नृशंसानार्य दुर्वृत्त क्षुद्र पापपराक्रम ।  
 अनार्यस्येदृशं कर्म घृणा ते नास्ति निर्घृण ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 धिगित्यादिसार्धश्लोक एकान्वयः । ईदृशी । जुगुप्सितेत्यर्थः । नृशंस निर्दय । अनार्य असज्जन । दुर्वृत्त दुराचार । क्षुद्र अल्पबुद्धे । पापः अधर्म्यः पराक्रमो यस्य स पापपराक्रमः । उक्तमनार्यत्वं कार्यतो दर्शयति – अनार्यस्येति । ईदृशं जुगुप्सितं कर्म अनार्यस्यैव भवति । हे निर्घृण निर्दय, ते घृणा जुगुप्सा नास्ति । जुगुप्सा करुणा घृणा इत्यमरः ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +299,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 सीतां च हत्वा न चिरं जीविष्यसि कथंचन ।  
 वधार्हकर्मणाऽनेन मम हस्तगतो ह्यसि ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अपराधिषु घृणा न कर्तव्या । अत एव एन । हन्मीत्याशङ्क्यापराधलेशोप्यस्यां नास्तीत्याह-च्युतेति । गृहात् स्वसदनात् । चकारात् परिचारकेभ्यश्च । अनेन बन्धुमुखादपराधकरणं नास्तीत्युक्तं । राज्यात् राज्योपकरणाच्च । अनेन सेनामुखेन नापराध इत्युक्तं । रामहस्तात् रक्षकहस्ताच्च । तन्मुखादप्यपराधप्रसक्तिर्नास्तीत्युक्तं । मैथिली आचारप्रधानकुले जाता । अनेनापराधस्वरूपमेव न जानातीत्युक्तं । यत् येनापराधकार्येण । एनां हन्तुमिच्छसि तादृशं किं प्रयोजनमुद्दिश्य । अपराद्धा अपराधं कृतवती । कर्तरि क्तः ॥ २१ – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,8 +316,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 ये च स्त्रीघातिनां लोका लोकवध्येषु कुत्सिताः ।  
 इह जीवितमुत्सृज्य प्रेत्य तान्प्रतिपत्स्यसे ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हे लोकवध्य, एषु चतुर्दशलोकेषु । स्त्रीघातिनां ये कुत्सिता लोकाः । तान् इह जीवितमुत्सृज्य प्रेत्य यातनाशरीरं प्राप्य । प्रतिपत्स्यसे । प्राप्स्यसीत्यर्थः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,8 +333,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 इति ब्रुवाणो हनुमान्सायुधैर्हरिभिर्वृतः ।  
 अभ्यधावत संक्रुद्धो राक्षसेन्द्रसुतं प्रति ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सायुधैः सहननसाधनैः ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -311,8 +362,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 इमां हत्वा ततो रामं लक्ष्मणं त्वां च वानर ।  
 सुग्रीवं च वधिष्यामि तं चानार्यं विभीषणम् ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनीकं अनीकं च ॥ २५-२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -333,8 +387,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 तमेवमुक्त्वा रुदतीं सीतां मायामयीं तदा ।  
 शितधारेण खड्नेन निजघानेन्द्रजित्स्वयम् ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 न हन्तव्या इति यत् ब्रवीषि तत्रोत्तरं शृण्विति वाक्यशेषः ॥ २९ – ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -357,8 +414,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 ततः खड्ङ्गेन महता हत्वा तामिन्द्रजित्स्वयम् ।  
 हृष्टः स रथमास्थाय विननाद महास्वनम् ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यज्ञोपवीतमार्गेण भिन्ना । मार्गशब्दः प्रकारवचनः । यज्ञोपवीतधारणप्रकारेण भिन्नेत्यर्थः । यज्ञोपवीतमादाय भिन्नेति पाठान्तरं । पूर्वं मूर्धजेषु गृहीतामादाय । यज्ञोपवीतभिन्ना यज्ञोपवीतं यथा भवति तथा भिन्ना । यज्ञोपवीतप्रकारेण भिन्नेत्यर्थः ३२ – ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,8 +431,11 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 वानराः शुश्रुवुः शब्दमदूरे प्रत्यवस्थिताः ।  
 व्यादितास्यस्य नदतस्तद्दुर्गं संश्रितस्य च ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यादितास्यस्य व्यात्तास्यस्य । तद्दुर्गं व्यूहीकृतराक्षसपरिवेष्टनरूपम् ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -386,7 +449,10 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 तं हृष्टरूपं समुदीक्ष्य वानरा विषण्णरूपाः सहसा प्रदुद्रुवुः ॥ ३६ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 हृष्टरूपं अयन्तहृष्टं । विषण्णरूपाः अत्यन्तं विषण्णाः ॥ ३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

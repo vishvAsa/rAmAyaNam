@@ -32,7 +32,10 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 लङ्कायां ददृशुर्वीर वनान्युपवनानि च ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ लङ्कादर्शनमेकोनचत्वारिंशे — तामिति ॥ ता रात्रिमित्यत्यन्तसंयोगे द्वितीया । ददृशुः प्रातरिति सिद्धं । वनानि अकृत्रिमाणि । उपवनानि कृत्रिमाणि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 समसौम्यानि रम्याणि विशालान्यायतानि च ।  
 दृष्टिरम्याणि ते दृष्ट्वा बभूवुर्जातविस्मयाः ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समानि च तानि सौम्यानि च समसौम्यानि निम्नोन्नतत्वरहितानि स्निग्धानि चेत्यर्थः । अत एव रम्याणि रमणीयानि । विशालानि विपुलानि । आयतानि दीर्घाणि । दृष्टिरम्याणि नयनाकर्षणानि । वनान्युपवनानि चेत्याकृष्यान्वयः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,8 +77,11 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 विचित्रकुसुमोपेतै रक्तकोमलपल्लवैः ।  
 शाद्वलैश्च तथा नीलैश्चित्राभिर्वनराजिभिः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चम्पकेत्यादि श्लोकचतुष्टयमेकान्वयम् ॥ नागमाला नागकेसरमाला । हिन्तालैरित्यादि । उपलक्षितेतिशेषः । दिव्यैः पारिजातादिभिः । अत्राप्युपलक्षितेतिशेषः । विचित्रेत्यादि पदद्वयमपि दिव्यद्रुमविशेषणं । शाद्वलैरित्यादावप्युपलक्षणे तृतीया । लङ्काशब्दश्चात्र सुवेलपरः । उत्तरत्र वानरप्रवेशोक्तेः । शुशुभे शोभमाना दृश्यत इत्यन्वयः ॥ ३–६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 गन्धाढ्यान्यभिरम्याणि पुष्पाणि च फलानि च ।  
 धारयन्त्यगमास्तत्र भूषणानीव मानवाः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्र वनेषु । धारयन्ति अधारयन् । अगमाः वृक्षाः ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 तच्चैत्ररथसङ्काशं मनोज्ञं नन्दनोपमम् ।  
 वनं सर्वर्तुकं रम्यं शुशुभे षट्पदायुतम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्वे ऋतवो यस्मिन् तत्सर्वतुंक । शेषाद्विभाषा ” इति कप्प्रत्ययः । षट्पदायुतं षट्पदैरासमन्ताद्युतं ।॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -114,7 +129,10 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 रुतं परभृतानां च शुश्रुवुर्वननिर्झरे ॥ ९ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 वननिर्झरे नत्यूहैः कोयष्टिभकैः जलकुकुटविशेषैः । नृत्यमानैः नृत्यद्भिः। बर्हिणैश्च सहितानां परभृतानां रुतं शुश्रुवुरिति योजना ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

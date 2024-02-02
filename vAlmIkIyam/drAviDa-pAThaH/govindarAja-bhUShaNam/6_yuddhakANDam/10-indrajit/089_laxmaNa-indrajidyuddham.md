@@ -36,7 +36,10 @@ title_english = "089 Vibhishana destroys many demons"
 विवर्णवदनो भूत्वा लक्ष्मणं समुदैक्षत ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ लक्ष्मणेन्द्रजितोः सुमहान्संप्रहारः – ततः शरमित्यादि ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "089 Vibhishana destroys many demons"
 तं विवर्णमुखं दृष्ट्वा राक्षसं रावणात्मजम् ।  
 सौमित्रिं युद्धंसंयुक्तं प्रत्युवाच विभीषणः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सौमित्रिं प्रति उद्दिश्य ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "089 Vibhishana destroys many demons"
 ततः संधाय सौमित्रिर्बाणानग्निशिखोपमान् ।  
 मुमोच निशितांस्तस्मिन्सर्पानिव महाविषान् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्मिन् यानि मुखवैवर्ण्यस्तब्धत्वादीनि निमित्तानि अनुपश्यामि तैरयं भन्न इति जाने । तेन कारणेन त्वर त्वरस्व ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "089 Vibhishana destroys many demons"
 सोभिचक्राम सौमित्रिं रोषात्संरक्तलोचनः ।  
 अब्रवीच्चैनमासाद्य पुनः स परुषं वचः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्वसंक्षुभितेन्द्रियः संक्षुभितसर्वेन्द्रियः ॥ ६-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "089 Vibhishana destroys many demons"
 किं न स्मरसि तद्युद्धे प्रथमे मत्पराक्रमम् ।  
 निबद्धस्त्वं सह भ्रात्रा यदा भुवि विवेष्टसे ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्वं भ्रात्रा सह निबद्ध इति यत् प्रथमे तद्युद्धे तस्मिन्युद्धे । मत्पराक्रमं त्वन्निबन्धनरूपं । न स्मरसि किं । यदा यत्र युद्धकाले । विवेष्टसे विवेष्टितवानसि ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "089 Vibhishana destroys many demons"
 युवां खलु महायुद्धे शक्राशनिसमैः शरैः ।  
 शायितौ प्रथमं भूमौ विसंज्ञौ स पुरस्सरौ ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तमेव पराक्रमं विशिष्टि – युवामिति ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +157,11 @@ title_english = "089 Vibhishana destroys many demons"
 इत्युक्त्वा सप्तभिर्बाणैरभिविव्याध लक्ष्मणम् ।  
 दशभिस्तु हनूमन्तं तीक्ष्णधारैः शरोत्तमैः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यक्तं नूनमित्यर्थः ॥ ११ – १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -153,8 +174,11 @@ title_english = "089 Vibhishana destroys many demons"
 ततः शरशतेनैव सुप्रयुक्तेन वीर्यवान् ।  
 क्रोधाद्विगुणसंब्धो निर्बिभेद विभीषणम् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्रोधाद्विगुणसंरब्ध इति । लक्ष्मणादिविषयरोषापेक्षया विभीषणविषये द्विगुणं कुपित इत्यर्थः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,8 +193,11 @@ title_english = "089 Vibhishana destroys many demons"
 अचिन्तयित्वा प्रहसन्नैतत्किंचिदिति ब्रुवन्  
 मुमोच स शरान्घोरान्संगृह्य नरपुङ्गवः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तद्दृष्ट्वेत्यादिसार्धश्लोक एकान्वयः नैतत्किचिदिति ब्रुवन् एतदकिंचित्करमिति ब्रुवन्नित्यर्थः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,8 +220,11 @@ title_english = "089 Vibhishana destroys many demons"
 तस्य बाणैः सुविध्वस्तं कवचं हेमभूषितम् ।  
 व्यशीर्यत रथोपस्थे ताराजालमिवाम्बरात् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभीतवदन इत्यादिसार्धश्लोकद्वयमेकान्वयम् ॥ अकिंचित्करत्वमेवाह – नैवमिति ॥ १६-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +241,11 @@ title_english = "089 Vibhishana destroys many demons"
 ततः शरसहस्रेण संक्रुद्धो रावणात्मजः ।  
 बिभेद समरे वीरं लक्ष्मणं भीमविक्रमः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्ररूढः प्ररूढवृक्षः ॥ १९-२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,8 +258,11 @@ title_english = "089 Vibhishana destroys many demons"
 व्यशीर्यत महादिव्यं कवचं लक्ष्मणस्य च ।  
 कृतप्रतिकृतान्योन्यं बभूवतुरभिद्रुतौ ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृते प्रतिकृतं अन्योन्यं यस्मिन् कर्मणि तत्तथोक्तम् ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +275,11 @@ title_english = "089 Vibhishana destroys many demons"
 अभीक्ष्णं निश्श्वसन्तौ तौ युध्येतां तुमुलं युधि ।  
 शरसंकृत्तसर्वाङ्गौ सर्वतो रुधिरोक्षितौ ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 युध्येतां अयुध्येताम् ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +292,11 @@ title_english = "089 Vibhishana destroys many demons"
 सुदीर्घकालं तौ वीरावन्योन्यं निशितैः शरैः ।  
 ततक्षतुर्महात्मानौ रणकर्मविशारदौ ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततक्षतुः अन्योन्यं बभञ्जतुः ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,8 +311,11 @@ title_english = "089 Vibhishana destroys many demons"
 तौ शरौघैस्तदा कीर्णौ निवृत्तकवचध्वजौ ॥  
 स्रवन्तौ रुधिरं चोष्णं जलं प्रस्रवणाविव ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत्तौ यत्नवन्तौ ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,8 +336,11 @@ title_english = "089 Vibhishana destroys many demons"
 अस्त्राण्यस्त्रविदां श्रेष्ठौ दर्शयन्तौ पुनः पुनः ।  
 शरानुच्चावचाकारानन्तरिक्षे बबन्धतुः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरवर्षमित्यादिश्लोकद्वयमेकान्वयम् ॥ सासारयोः सधारापातयोः । धारासंपात आसारः इत्यमरः ॥ २५–२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,8 +361,11 @@ title_english = "089 Vibhishana destroys many demons"
 स तयोर्भ्राजते शब्दस्तदा समरसक्तयोः ।  
 सुघोरयोर्निष्टनतोर्गगने मेघयोर्यथा ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यपेतदोषं व्यपगतमोहत्वदोषं । अस्यन्तौ वाणान्क्षिपन्तौ ॥ २८-३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -331,8 +382,11 @@ title_english = "089 Vibhishana destroys many demons"
 ते गात्रयोर्निपतिता रुक्मपुङ्खाः शरा युधि ।  
 असृङ्गद्धा विनिष्पत्य विविशुर्धरणीतलम् ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 धृतौ अवहितौ ॥ ३१-३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -345,8 +399,11 @@ title_english = "089 Vibhishana destroys many demons"
 अन्ये सुनिशितैः शस्त्रैराकाशे संजघट्टिरे ।  
 बभञ्जुश्चिच्छिदुश्वान्ये तयोर्बाणाः सहस्रशः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तयोः अन्ये केचन बाणाः आकाशे सुनिशितैः शस्त्रैः संजघट्टिरे संघट्टिताः । अन्ये बाणाः बाणान् सहस्रशः बभञ्जुः । चिच्छिदुश्चेति संबन्धः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,8 +420,11 @@ title_english = "089 Vibhishana destroys many demons"
 तयोः कृतव्रणौ देहौ शुशुभाते महात्मनोः ।  
 सपुष्पाविव निष्पत्रौ वने शाल्मलिकिंशुकौ ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रणः घोरो बभूव । यस्मिन् तयोर्बाणमयश्चयः सत्रे दीप्ताभ्यामग्निभ्यां सहितः कुशमयश्चय इवासीत् । अग्नी गार्हपत्याहवनीयौ ॥ ३४-३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -377,8 +437,11 @@ title_english = "089 Vibhishana destroys many demons"
 चक्रतुस्तुमुलं घोरं सन्निपातं मुहुर्मुहुः ।  
 इन्द्रजिलक्ष्मणश्चैव परस्परवधैषिणौ ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सन्निपातं युद्धम् ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,8 +458,11 @@ title_english = "089 Vibhishana destroys many demons"
 बाणजालैः शरीरस्थैरवगाढैस्तरस्विनौ ।  
 शुशुभाते महावीर्यौ प्ररूढाविव पर्वतौ ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रत्यपद्यतां प्रपद्येताम् ॥ ३७-३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +484,10 @@ title_english = "089 Vibhishana destroys many demons"
 प्रियहितमुपपादयन्महौजाः समरमुपेत्य विभीषणोऽवतस्थे ॥ ४१ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 बभ्राजुः । आर्षं परस्मैपदम् ॥ ३९-४१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

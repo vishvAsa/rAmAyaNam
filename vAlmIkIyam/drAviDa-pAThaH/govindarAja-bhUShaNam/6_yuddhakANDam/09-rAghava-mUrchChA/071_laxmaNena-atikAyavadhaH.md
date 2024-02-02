@@ -44,7 +44,10 @@ title_english = "071 Lakshmana kills Atikaya"
 रथमा स्थाय शक्रारिरभिदुद्राव वानरान् ॥ ४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 स्वबलमित्यादि । भ्रातरौ अन्योन्यं भ्रातरौ ॥ १-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -61,8 +64,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तेन सिंहप्रणादेन नामविश्रावणेन च ।  
 ज्याशब्देन च भीमेन त्रासयामास वानरान् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मृष्टकुण्डलः शुद्धकुण्डलः ॥ ५-६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,8 +97,11 @@ title_english = "071 Lakshmana kills Atikaya"
 स तं दृष्ट्वा महात्मानं राघवस्तु विसिष्मिये ।  
 वानरान्सान्त्वयित्वाऽथ विभीषणमुवाच ह ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 माहात्म्यं महत्वं । उत्थित इत्यनन्तरमितिकरणं द्रष्टव्यम् ॥ ७-११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -109,8 +118,11 @@ title_english = "071 Lakshmana kills Atikaya"
 य एष निशितैः शूलैः सुतीक्ष्णैः प्रासतोमरैः ।  
 अर्चिष्मद्भिर्वृतो भाति भूतैरिव महेश्वरः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरिलोचनः सिंहदृष्टिः ॥ १२-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +143,11 @@ title_english = "071 Lakshmana kills Atikaya"
 क एष रक्षःशार्दूलो रणभूमिं विराजयन् ।  
 अभ्येति रथिनां श्रेष्ठो रथेनादित्यतेजसा ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रथशक्तीभिः रथस्थिताभिः शक्तिभिः ॥ १४ – १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +160,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ध्वज शृङ्गप्रतिष्ठेन राहुणाभिविराजते ।  
 सूर्यरश्मिनिभैर्बाणैर्दिशो दश विराजयन् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ध्वजशृङ्गप्रतिष्ठेनेति ॥ अनेन राहुध्वजोयमित्युक्तम् ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +177,11 @@ title_english = "071 Lakshmana kills Atikaya"
 त्रिणतं मेघनिर्ह्रादं हेमपृष्ठमलङ्कृतम् ।  
 शतक्रतुधनुःप्रख्यं धनुश्वास्य विराजते ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्रिणतं त्रिषुआद्यन्तयोर्मध्ये च नतं । मेघनिदं मेघतुल्यज्यास्वनं । हेमपृष्ठं हेमलिप्तपार्श्वमित्यर्थः । धनुः रथस्थेभ्यः अन्यत् करधृतमिदम् ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +194,11 @@ title_english = "071 Lakshmana kills Atikaya"
 सध्वजः सपताकश्च सानुकर्षो महारथः ।  
 चतुःसादिसमायुक्तो मेघस्तनितनिस्वनः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ध्वजः असाधारणकेतनं । पताका साधारणी । अनुकर्षः रथाधः- स्थदारु । चतुःसादिसमायुक्तः चतुःसारथियुक्तः ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +211,11 @@ title_english = "071 Lakshmana kills Atikaya"
 विंशतिर्दश चाष्टौ च तूण्योस्य रथमास्थिताः ।  
 कार्मुकानि च भीमानि ज्याश्च काञ्चनपिङ्गलाः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कार्मुकाणि धनुर्भेदा इति न पौनरुत्यम् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,8 +228,11 @@ title_english = "071 Lakshmana kills Atikaya"
 द्वौ च खड्नौ रथगतौ पार्श्वस्थौ पार्श्वशोभितौ ।  
 चतुर्हस्तत्सेरुयुतौ व्यक्तहस्तदशायतौ ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पार्श्वशोभितौ पार्श्वाभ्यां शोभितौ । चतुर्हस्तत्सरुयुतौ चतुर्हस्तप्रमाणत्सरुयुक्तौ । त्सरुः खङ्गादिमुष्टौ स्यात् इत्यमरः । व्यक्तहस्तदशायतौ व्यक्तौ च तौ हस्तदशायतौ चेति तथा ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,8 +265,11 @@ title_english = "071 Lakshmana kills Atikaya"
 दशग्रीवो महातेजा राजा वैश्रवणानुजः ।  
 भीमकर्मा महोत्साहो रावणो राक्षसाधिपः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्तकण्ठगुणः रक्तकण्ठमाल्यः । कालमहावक्रः कालस्येव महावक्रं यस्य स तथोक्तः । काल इव महाव्र इति वा ॥ २२–२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,8 +302,11 @@ title_english = "071 Lakshmana kills Atikaya"
 एतेन शतशो देवा दानवाश्च पराजिताः ।  
 रक्षितानि च रक्षांसि यक्षाश्चापि निषूदिताः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्येत्यादिश्लोकद्वयम् ॥ नये युक्तौ । मन्त्रे विचारे २८-३३
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,8 +323,11 @@ title_english = "071 Lakshmana kills Atikaya"
 एषोतिकायो बलवान्राक्षसानामथर्षभः ।  
 रावणस्य सुतो धीमान्देवदानवदर्पहा ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वज्रमित्यादिश्लोकद्वयम् ॥ विष्टम्भितं निश्चलीकृतं । राक्षसानामथर्षभ इत्यत्राथशब्दः कात्स्न्र्ये ॥ ३४-३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,8 +348,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तं भीमवपुषं दृष्ट्वा रथस्थं रथिनां वरम् ।  
 अभिपेतुर्महात्मानो ये प्रधाना वनौकसः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुरा नयति नेष्यतीत्यर्थः ॥ ३६-३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,8 +369,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तेषां वृक्षांश्च शैलांश्च शरैः काञ्चनभूषणैः ।  
 अतिकायो महातेजाश्चिच्छेदास्त्रविदां वरः ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समभिद्रवन् । आगमशासनस्यानित्यत्वादडभावः ॥ ३९-४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -345,8 +390,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तेऽर्दिता बाणवर्षेण भग्नगात्राः प्लवङ्गमाः ।  
 न शेकुरतिकायस्य प्रतिकर्तु महारणे ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभिमुखः स्थित इति शेषः ॥ ४१-४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -359,8 +407,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तत्सैन्यं हरिवीराणां त्रासयामास राक्षसः ।  
 मृगयूथमिव क्रुद्धो हरिर्यौवनदर्पितः ॥ ४३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरिः सिंहः ॥ ४३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -373,8 +424,11 @@ title_english = "071 Lakshmana kills Atikaya"
 स राक्षसेन्द्रो हरिसैन्यमध्ये नायुध्यमानं निजघान कंचित् ।  
 उपेत्य रामं सधनुः कलापी सगर्वितं वाक्यमिदं बभाषे ॥ ४४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कलापी तूणीरवान् । कलापो भूषणे बर्हे तूणीरे संहतावपि इत्यमरः । सगर्वितं सगर्वम् ॥ ४४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,8 +441,11 @@ title_english = "071 Lakshmana kills Atikaya"
 रथे स्थितोऽहं शरचापपाणिर्न प्राकृतं कंचन योधयामि ।  
 यश्वास्ति कश्चिद्व्यवसाययुक्तो ददातु मे क्षिप्रमिहाद्य युद्धम् ॥ ४५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यवसायः उत्साहः ॥ ४५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,8 +462,11 @@ title_english = "071 Lakshmana kills Atikaya"
 क्रुद्धः सौमित्रिरुत्पत्य तूणादाक्षिप्य सायकम् ।  
 पुरस्तादतिकायस्य विचकर्ष महद्धनुः ॥ ४७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्मयित्वा अनादृत्य । ष्मिङ् अनादरे इति धातुः ॥ ४६-४७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -419,8 +479,11 @@ title_english = "071 Lakshmana kills Atikaya"
 पूरयन्स महीं शैलानाकाशं सागरं दिशः ।  
 ज्याशब्दो लक्ष्मणस्योग्रस्त्रासयन्रजनीचरान् ॥ ४८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्रासयन् अभूदिति शेषः ॥ ४८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -445,8 +508,11 @@ title_english = "071 Lakshmana kills Atikaya"
 न हि मद्बासहुसृष्टानामस्त्राणां हिमवानपि ।  
 सोढुमुत्सहते वेगमन्तरिक्षमथो मही ॥ ५२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रतिभयं । भयंकरं प्रतिभयं इत्यमरः । ४९-५२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -459,8 +525,11 @@ title_english = "071 Lakshmana kills Atikaya"
 सुखप्रसुप्तं कालाग्निं निबोधयितुमिच्छसि ।  
 न्यस्य चापं निवर्तस्व मा प्राणाञ्जहि मङ्गतः ॥ ५३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निबोधयितुं ज्वलयितुं । मा जहि मा हिंसीः । हन्तेर्जः इति जादेशः । मद्गतः मां प्राप्तः ॥ ५३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,8 +542,11 @@ title_english = "071 Lakshmana kills Atikaya"
 अथ वा त्वं प्रतिष्टब्धो न निवर्तितुमिच्छसि ।  
 तिष्ठ प्राणान्परित्यज्य गमिष्यसि यमक्षयम् ॥ ५४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रतिष्टब्धः प्रतिमुखं स्थितः ॥ ५४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -497,8 +569,11 @@ title_english = "071 Lakshmana kills Atikaya"
 श्रुत्वाऽतिकायस्य वचः सरोषं सगर्वितं संयति राजपुत्रः ।  
 स संचुकोपातिवलो बृहच्छ्रीरुवाच वाक्यं च ततो महार्थम् ॥ ५७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ईश्वरायुधं त्रिशूलम् ॥ ५५ -५७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,8 +594,11 @@ title_english = "071 Lakshmana kills Atikaya"
 सर्वायुधसमायुक्तो धन्वी त्वं रथमास्थितः ।  
 शरैर्वा यदि वाऽप्यस्त्रैर्दर्शयस्व पराक्रमम् ॥ ६० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कत्थनात् आत्मश्लाघनात् । सत्पुरुषाः शूरपुरुषाः ॥ ५८- ६० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -533,8 +611,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ततः शिरस्ते निशितैः पातयिष्याम्यहं शरैः ।  
 मारुतः कालसंपक्वं वृन्तात्तालफलं यथा ॥ ६१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वृन्तात् प्रसवबन्धनात् । वृन्तं प्रसवबन्धनं इत्यमरः ॥ ६१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -549,8 +630,11 @@ title_english = "071 Lakshmana kills Atikaya"
 पास्यन्ति रुधिरं गात्राद्बाणशल्यान्तरोत्थितम् ॥ ६२ ।  
 बालोऽयमिति विज्ञाय न माऽवज्ञातुमर्हसि ॥ ६३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बाणशल्यान्तरोत्थितमिति । बाणशल्यान्तराणि बाणशल्यकृतान्यन्तराणि ॥ ६२ – ६३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -571,8 +655,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ततो विद्याधरा भूता देवा दैत्या महर्षयः ।  
 गुह्यकाश्च महात्मानस्तद्युद्धं द्रष्टुमागमन् ॥ ६६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मृत्युं जानीहि । मामिति शेषः ॥ ६४–६६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -607,8 +694,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तमादाय धनुःश्रेष्ठे योजयामास लक्ष्मणः ।  
 विचकर्ष च वेगेन विससर्ज च वीर्यवान् ॥ ७२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सायकं चापमारोप्य बाणं धनुषि संधायेत्यर्थः । संक्षिपन्निव बाणवेगेनान्तरावस्थितमाकाशं प्रसन्निवेत्यर्थः ॥ ६७–७२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -621,8 +711,11 @@ title_english = "071 Lakshmana kills Atikaya"
 पूर्णायतविसृष्टेन शरेण नतपर्वणा ।  
 ललाटे राक्षसश्रेष्ठमाजघान स वीर्यवान् ॥ ७३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पूर्णायतेन पूर्णाकृष्टेन । विसृष्टेन क्षिप्तेन । नतपर्वणा निलीनपर्वणा । ऋजुनेति यावत् ॥ ७३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -635,8 +728,11 @@ title_english = "071 Lakshmana kills Atikaya"
 स ललाटे शरो मग्नस्तस्य भीमस्य रक्षसः ।  
 ददृशे शोणितेनाक्तः पन्नगेन्द्र इवाचले ॥ ७४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अक्तः लिप्तः ॥ ७४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -649,8 +745,11 @@ title_english = "071 Lakshmana kills Atikaya"
 राक्षसः प्रचकम्पे च लक्ष्मणेषुप्रपीडितः ।  
 रुद्रबाणहतं घोरं यथा त्रिपुरगोपुरम् ॥ ७५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्रिपुरगोपुरं त्रिपुरद्वारम् ॥ ७५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -667,8 +766,11 @@ title_english = "071 Lakshmana kills Atikaya"
 विधायैवं विनम्यास्यं नियम्य च भुजावुभौ ।  
 स रथोपस्थमास्थाय रथे च प्रचचार ह ॥ ७७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चिन्तयामासेत्यादिश्लोकद्वयमेकान्वयम् ॥ विमृश्य करणीयं निर्धार्य । बाणनिपातेन मे साधु श्लाघनीयो रिपुरसीति । एवं लक्ष्मणं विधाय अभिधाय । आस्यं विनम्य भुजौ नियम्य वशे स्थापयित्वा । रथोपस्थमास्थाय रथेन प्रचचार हेति संबन्धः ॥ ७६-७७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -701,8 +803,11 @@ title_english = "071 Lakshmana kills Atikaya"
 अतिकायेन सौमित्रिस्ताडितो युधि वक्षसि ।  
 सुस्राव रुधिरं तीव्रं मदं मत्त इव द्विपः ॥ ८३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इति उक्तप्रकारेण ॥ ७८-८३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -715,8 +820,11 @@ title_english = "071 Lakshmana kills Atikaya"
 स चकार तदाऽऽत्मानं विशल्यं सहसा विभुः ।  
 जग्राह च शरं तीक्ष्णमस्त्रेणापि च संदधे ॥ ८४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्त्रेण अस्त्रमन्त्रेण । संधे योजयामास ॥ ८४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -729,8 +837,11 @@ title_english = "071 Lakshmana kills Atikaya"
 आग्नेयेन तदाऽऽस्त्रेण योजयामास सायकम् ।  
 स जज्वाल तदा बाणो धनुष्यस्य महात्मनः ॥ ८५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आग्नेयेनेत्यादि । पूर्वोक् तस्यैव विवरणम् ॥ ८५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -743,8 +854,11 @@ title_english = "071 Lakshmana kills Atikaya"
 अतिकायोपि तेजस्वी सौरमस्त्रं समादधे ।  
 तेन बाणं भुजङ्गाभं हेमपुङ्खमयोजयत् ॥ ८६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समाधे अनुसंधे ॥ ८६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,8 +879,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तावुभावम्बरे बाणावन्योन्यमभिजघ्नतुः ।  
 तेजसा संप्रदीप्ताग्रौ क्रुद्धाविव भुजङ्गमौ ॥ ८९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आहितं संहितम् ॥ ८७-८९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -835,8 +952,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ब्राह्मेणास्त्रेण भिन्ध्येनमेष बध्यो हि नान्यथा ।  
 अवध्य एष ह्यन्येषास्मत्राणां कवची बली ॥ १०३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भस्मकृतौ भस्मतया कृतौ ॥ ९०–१०३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -849,8 +969,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ततस्तु वायोर्वचनं निशम्य सौमित्रिरिन्द्रप्रतिमानवीर्यः ।  
 समाददे बाणममोघवेगं तद्बाह्ममस्रं सहसा नियोज्य ॥ १०४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ब्राह्ममस्रं ब्रह्मास्त्रमन्त्रं । नियोज्य जपित्वेति यावत् ॥ १०४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -863,8 +986,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तस्मिन्महास्त्रे तु नियुज्यमाने सौमित्रिणा बाणवरे शिवाग्रे ।  
 दिशश्च चन्द्रार्कमहाग्रहाश्च नभश्च तत्रास चचाल चोर्वी ॥ १०५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दिशश्चेत्यादौ तत्रसुरिति विपरिणम्यानुषज्यते ॥ १०५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -885,8 +1011,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तं प्रेक्षमाणः सहसाऽतिकायो जघान बाणैर्निशितैरनेकैः ।  
 स सायकस्तस्य सुपर्णवेगस्तदाऽऽतिकायस्य जगाम पार्श्वम् ॥ १०८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नियोज्य जपित्वा । तस्य यमदूतकल्पमित्यन्वयः ॥ १०६-१०८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -911,8 +1040,11 @@ title_english = "071 Lakshmana kills Atikaya"
 तं तु भूमौ निपतितं दृष्ट्वा विक्षिप्तभूषणम् ।  
 बभूवुर्व्यथिताः सर्वे हतशेषा निशाचराः ॥ ११२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हुलैः द्विफलपत्राग्रायुधविशेषैः । हुलं द्विफलपत्राग्रं इति वैजयन्ती ॥ १०९ – ११२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -925,8 +1057,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ते विषण्णमुखा दीनाः प्रहारजनितश्रमाः ।  
 विनेदुरुच्चैर्बहवः सहसा विस्वरैः स्वरैः ॥ ११३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विस्वरैः विस्वररूपैः ॥ ११३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,8 +1074,11 @@ title_english = "071 Lakshmana kills Atikaya"
 ततस्ते त्वरितं याता निरपेक्षा निशाचराः ।  
 पुरीमभिमुखा भीता द्रवन्तो नायके हते ॥ ११४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निरपेक्षाः युद्धानपेक्षाः ॥ ११४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -958,7 +1096,10 @@ title_english = "071 Lakshmana kills Atikaya"
 त्वरितमथ तदा स रामपार्श्वं कपिनिवहैश्च सुपूजितो जगाम \] ॥ ११६ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 प्रबुद्धेत्यत्र प्रसन्नत्वे तात्पर्यं । इष्टस्य जयस्य भागः प्राप्तिः सोऽस्यास्तीतीष्टभागी तम् ॥ ११५ – ११६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

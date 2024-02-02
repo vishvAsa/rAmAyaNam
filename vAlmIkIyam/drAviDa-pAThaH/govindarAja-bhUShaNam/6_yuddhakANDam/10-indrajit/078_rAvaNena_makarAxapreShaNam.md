@@ -32,7 +32,10 @@ title_english = "078 Ravana orders Makaraksha"
 रावणः परमामर्षी प्रजज्वालानलो यथा ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ मकराक्षनिर्गमोष्टसप्ततितमे, प्रथमपक्षे अयं दशम्यां प्रातः, द्वितीयपक्षे तु दशम्यां प्रातरारभ्य कम्पनवधप्रहस्तवधरावणमुकुटभङ्गकुम्भकर्णप्रबोधतद्वधाः, अथापराह्ने ब्रह्मास्त्र -बन्धः रात्रौ तन्मोक्षलङ्कादहनकुम्भनिकुम्भयूपाक्षशोणिताक्षप्रजङ्घ कम्पनमकराक्षवधाः- निकुम्भं चेत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,8 +60,11 @@ title_english = "078 Ravana orders Makaraksha"
 सोभिवाद्य दशग्रीवं कृत्वा चापि प्रदक्षिणम् ।  
 निर्जगाम गृहाच्छुभ्राद्रावणस्याज्ञया बली ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिमूर्च्छितः व्याप्तः ॥ २-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,8 +77,11 @@ title_english = "078 Ravana orders Makaraksha"
 समीपस्थं बलाध्यक्षं खरपुत्रोऽब्रवीदिदम् ।  
 रथश्चानीयतां शीघ्रं सैन्यं चाहूयतां त्वरात् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्वरातूत्वरया ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "078 Ravana orders Makaraksha"
 तस्य तद्वचनं श्रुत्वा बलाध्यक्षो निशाचरः ।  
 स्यन्दनं च बलं चैव समीपं प्रत्यपादयत् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रत्यपादयत् प्रापयत् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "078 Ravana orders Makaraksha"
 प्रदक्षिणं रथं कृत्वा आरुरोह निशाचरः ।  
 सूतं संचोदयामास शीघ्रं मे रथमावह ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आवह चोदय । अत्रेतिकरणं द्रष्टव्यम् ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +140,11 @@ title_english = "078 Ravana orders Makaraksha"
 अद्य शूलनिपातैश्च वानराणां महाचमूम् ।  
 प्रदहिष्यामि संप्राप्तः शुष्केन्धनमिवानलः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथतानित्यादिचतुःश्लोक्येकान्वया ॥ ९ – १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +157,11 @@ title_english = "078 Ravana orders Makaraksha"
 मकराक्षस्य तच्छ्रुत्वा वचनं ते निशाचराः ।  
 सर्वे नानायुधोपेता बलवन्तः समागताः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समागताः समाजग्मुः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +182,11 @@ title_english = "078 Ravana orders Makaraksha"
 शङ्खभेरीसहस्राणामाहतानां समन्ततः ।  
 क्ष्वेलितास्फोटितानां च ततः शब्दो महानभूत् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ते कामरूपिण इत्यादिश्लोकद्वयमेकान्वयम् ॥ १४–१६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,8 +199,11 @@ title_english = "078 Ravana orders Makaraksha"
 प्रभ्रष्टोथ करात्तस्य प्रतोदः सारथेस्तदा ।  
 पपात सहसा चैव ध्वजस्तस्य च रक्षसः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 करात्तस्य आत्तकरस्य वशीकृतकरस्य । लघुहस्तस्येति यावत् ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -189,8 +216,11 @@ title_english = "078 Ravana orders Makaraksha"
 तस्य ते रथयुक्ताश्च हया विक्रमवर्जिताः ।  
 चरणैराकुलैर्गत्वा दीनाः सास्रमुखा ययुः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विक्रमवर्जिताः विविधपदन्यासविरहिताः । प्रथममाकुलैश्चरणैर्गत्वा पश्चाद्ययुरित्यर्थः ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +233,11 @@ title_english = "078 Ravana orders Makaraksha"
 प्रवाति पवनस्तस्मिन्सपासः खरदारुणः ।  
 निर्याणे तस्य रौद्रस्य मकराक्षस्य दुर्मतेः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सपांसुः अतएव खरदारुणः खरः परुषः दारुणो भयंकरश्च ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -222,7 +255,10 @@ title_english = "078 Ravana orders Makaraksha"
 अहमहमिति युद्धकौशलास्ते रजनिचराः परितः समुन्नदन्तः ॥ २१ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 तानीत्यादिश्लोकद्वयमेकान्वयं । असकृद्गदासिभिन्ना इत्यनेन शौर्यातिशयः सूचितः । युद्धकौशलाः युद्धकुशलाः । स्वार्थेण् । अहमहमिति वदन्तः । अचिन्त्य निर्गता इति पूर्वेण संबन्धः ॥ २० – २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

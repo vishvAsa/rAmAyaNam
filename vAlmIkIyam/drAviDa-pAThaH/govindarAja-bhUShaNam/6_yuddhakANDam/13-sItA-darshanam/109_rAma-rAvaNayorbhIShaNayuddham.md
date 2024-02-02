@@ -32,7 +32,10 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 सुमहद्वैरथं युद्धं सर्वलोकभयावहम् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 द्वैरथं द्वाभ्यां रथाभ्यां प्रवृत्तं युद्धं प्रवृत्तमिति योजना ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 ततो राक्षससैन्यं च हरीणां च महद्बलम् ।  
 प्रगृहीतमहरणं निश्रेष्टं समतिष्ठत ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निश्चेष्टं समतिष्ठत । युद्धाद्भुतदर्शनकुतूहलादिति भावः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 संप्रयुद्धौ ततो दृष्ट्वा बलवन्नरराक्षसौ ।  
 व्याक्षिप्तहृदयाः सर्वे परं विस्मयमागताः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एतदेव विवृणोति द्वाभ्यां – संप्रयुद्धावित्यादि । संप्रयुद्धौ सम्यग्योद्धुमुपक्रान्तौ । कर्मणि क्तः । बलवत् अत्यन्तं व्याक्षिप्तहृदयाः युद्धदर्शनसक्तचित्ताः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +82,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 नानाप्रहरणैर्व्यग्रैर्भुजैर्विस्मितबुद्धयः ।  
 सर्पन्तं प्रेक्ष्य संग्रामं नाभिजग्मुः परस्परम् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भुजैरित्युपलक्षणे तृतीया ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +99,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 रक्षसां रावणं चापि वानराणां च राघवम् ।  
 पश्यतां विस्मिताक्षाणां सैन्यं चित्रमिवाबभौ ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणं पश्यतां विस्मिताक्षाणां विकसितनेत्राणां रक्षसां सैन्यं राघवं पश्यतां विस्मिताक्षाणां वानराणां सैन्यं च चित्रमिवाबभौ ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +116,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 तौ तु तत्र निमित्तानि दृष्ट्वा रावणराघवौ ।  
 कृतबुद्धी स्थिरामर्षौ युयुधाते ह्यभीतवत् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निमित्तानि दुर्निमित्तानि शुभनिमित्तानिचेत्यर्थः कृतबुद्धी निश्चितबुद्धी ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +137,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 ततः क्रोधाद्दशग्रीवः शरान्संधाय वीर्यवान् ।  
 मुमोच ध्वजमुद्दिश्य राघवस्य रथे स्थितम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निश्चयमेवाह -जेतव्यमिति ॥ जयोवश्यंभावीति । मर्तव्यमिति । मरणमवश्यंभावीति । आवश्यकत्वार्थे तव्यः । धृतौ धैर्यवन्तौ ॥ ७-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +154,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 ते शरास्तमनासाद्य पुरन्दररथध्वजम् ।  
 रथशक्तिं परामृश्य निपेतुर्धरणीतले ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रथशक्तिं रथबलं । परामृश्य । प्राप्य । रथशक्तिप्रघातेन ध्वजमनासाद्य निपेतुरित्यर्थः ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +171,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 ततो रामोऽभिसंक्रुद्धश्चापमायम्य वीर्यवान् ।  
 कृतप्रतिकृतं कर्तुं मनसा संप्रचक्रमे ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संप्रचक्रमे उद्युक्तवान् । संकल्पितवानित्यर्थः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +188,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 रावणध्वजमुद्दिश्य मुमोच निशितं शरम् ।  
 महासर्पमिवासह्यं ज्वलन्तं स्वेन तेजसा ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 असह्यं दुर्दर्शमित्यर्थः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,8 +207,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 जगाम स महीं छित्वा दशग्रीवध्वजं शरः ॥  
 स निकृत्तोपतद्भूमौ रावणस्य रथध्वजः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सः शरः ध्वजं छित्त्वा जगाम न तु केवलं जगाम ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,8 +226,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 \[ क्रोधजेनाग्रिना सङ्ख्ये प्रदीप्त इव पावकः ॥ \]  
 संप्रदीप्तोऽभवत्क्रोधादमर्षात्प्रदहन्निव ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्रोधादमर्षाच्च प्रदहन्निव प्रदहन्नग्निरिव संप्रदीप्तः ज्वलितः अभवत् ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -207,8 +243,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 स रोषवशमापन्नः शरवर्षं महद्वमन् ।  
 रामस्य तुरगान्दीप्तैः शरैर्विव्याध रावणः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरवर्षं वमन् वमन्निवेत्यर्थः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,8 +264,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 तेषामसंभ्रमं दृष्ट्वा वाजिनां रावणस्तदा ।  
 भूय एव सुसंक्रुद्धः शरवर्षं मुमोच ह ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरयः हरितवर्णाः । इन्द्राश्वत्वादिति भावः ॥ १५ -१६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,8 +281,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 गदाच परिघाश्चैव चक्राणि मुसलानि च ।  
 गिरिशृङ्गाणि वृक्षांश्च तथा शूलपरश्वधान् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गदाश्चेति । मुमोचेत्यनुषज्यते ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +298,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 मायाविहितमेतत्तु शस्त्रवर्षमपातयत् ।  
 तुमुलं त्रासजननं भीमं भीमप्रतिस्वनम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 धनुषा कथं गदादिमोचनमित्यत्राह – मायेति ॥ शस्त्रवर्षं गदादिवर्षं । मायाविहितं आश्चर्यकरशक्तिकृतं । तुमुलं नानाविधमित्यर्थः ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,8 +315,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 तद्वर्षमभवद्युद्धे नैकशस्त्रमयं महत् ।  
 विमुच्य राघवरथं समन्ताद्वानरे बले ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नैकशस्त्रमयं अनेकशस्त्रप्रचुरं तद्वर्षं क्रोधातिशयेन प्रयुक्तै रामशरैर्निवारणाल्लक्ष्यभूतं राघवरथं विमुच्य वानरबले अभवत् । तत्रापतदित्यर्थः ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,8 +334,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 सहस्रशस्ततो बाणानश्रान्तहृदयोद्यमः ।  
 मुमोच च दशग्रीवो निःसङ्गेनान्तरात्मना ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सायकैरित्यादि सार्धश्लोक एकान्वयः ॥ ततः दशग्रीवः अश्रान्तहृदयोद्यमः अविच्छिन्नोत्साहः सन् निःसङ्गेन अव्यासक्तेन अन्तरात्मना मनसा उपलक्षितः सहस्रशो बाणान् मुमोच । सायकैरन्तरिक्षं च निरन्तरं चकार ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,8 +355,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 स मुमोच ततो बाणान्रणे शतसहस्रशः ।  
 तान्दृष्ट्वा रावणश्चक्रे स्वशरैः खं निरन्तरम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यायच्छमानं व्यायच्छन्तं । यत्नं कुर्वन्तं रणे तत्परं सक्तं । प्रहसन्निव संदधे अनायासेन संदधे ॥ २१ – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -317,8 +374,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 शरबद्धमिवाभाति द्वितीयं भास्वदम्बरम् ।  
 \[ चक्राते तो शरौघाभ्यां निरुच्छ्रासमिवांबरम् \] ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरवर्षेण भास्वत् अम्बरं शरबद्धं द्वितीयमम्बरमिवाभाति स्म ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,8 +389,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 
 नानिमित्तोऽभवद्बाणो नातिभेत्ता न निष्फलः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नानिमित्त इत्यर्धं । अनिमित्तः लक्ष्यविशेषोद्देशरहितः । अतिभेत्ता अपेक्षितप्रमाणा -धिकभेत्ता । निष्फलः लक्ष्ये पतितोपि प्रयोजनाकारी ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,8 +406,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 अन्योन्यमभिसंहत्य निपेतुर्धरणीतले ।  
 तथा विसृजतोर्वाणान्रामरावणयोर्मृधे ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तथा विसृजतोः उक्तप्रकारेण विसृजतोः । अत्र बाणा इत्यध्याहार्यम् ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -361,8 +427,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 \[ नान्तरं ददृशे किंचित्पश्यद्भिरनिमेषणम् ।  
 भूमिष्ठैः कपिरक्षोभिः स्वस्थैर्वा देवदानवैः\] ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्यन्तौ शरान् क्षिपन्तौ । इवशब्दो वाक्यालंकारे । निरुच्छ्रासं उच्छ्रासावकाशरहितम् ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,8 +448,11 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 एवं तौ तु सुसंक्रुद्धौ चक्रतुर्युद्धमद्भुतम् ।  
 मुहूर्तमभवद्युद्धं तुमुलं रोमहर्षणम् ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रावणस्येति । अत्र जघानेति वचनविपरिणामेनानुषज्यते । तौ अन्योन्यं कृतानुकृतकारिणौ कृतप्रतिक्रियाकारिणौ सन्तौ । तथा जघ्नतुः । हय इवान्यत्रापि सारथ्यादौ जघ्नतुरित्यर्थः ॥२८-२९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -394,7 +466,10 @@ title_english = "109 Rama directs Vibhishana to perform the obsequies to Ravana"
 ध्वजावपातेन स राक्षसाधिपो भृशं प्रचुक्रोध तदा रघूत्तमे ॥ ३० ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 प्रयुध्यमानाविति । यदा बभूवतुरित्युपस्कार्यम् ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

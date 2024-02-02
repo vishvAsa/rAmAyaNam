@@ -36,7 +36,10 @@ title_english = "049 Vibhishana approaches Rama"
 परिवार्य महात्मानौ तस्थुः शोकपरिप्लुताः ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रामप्रबोधनमेकोनपञ्चाशे – घोरेणेत्यादिश्लोकद्वयमेकान्वयम् ॥ नागौ यथा नागाविव निश्वसन्तावित्यन्वयः । शोकपरिप्लुताः शोकपूर्णाः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "049 Vibhishana approaches Rama"
 एतस्मिन्नन्तरे रामः प्रत्यबुध्यत वीर्यवान् ।  
 स्थिरत्वात्सत्त्वयोगाच्च शरैः संदानितोपि सन् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्थिरत्वात् धीरत्वात् । सत्त्वयोगात् बलयोगात् । संदानितोपि बद्धोपि । बद्धे संदानितं मूतं इत्यमरः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +69,11 @@ title_english = "049 Vibhishana approaches Rama"
 ततो दृष्ट्वा सरुधिरं विषण्णं गाढमर्पितम् ।  
 भ्रातरं दीनवदनं पर्यदेवयदातुरः॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अर्पितं शरैरिति शेषः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,8 +90,11 @@ title_english = "049 Vibhishana approaches Rama"
 शक्या सीतासमा नारी मर्त्यलोके विचिन्वता ।  
 न लक्ष्मणसमो भ्राता सचिवः सांपरायिकः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 किं त्वित्यादिश्लोकद्वयम् ॥ विचिन्वता मयेति शेषः । सचिवः सहायः । साम्परायिकः युद्धे साधुः । युद्धाययोः सम्परायः इत्यमरः ॥ ५-६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,8 +107,11 @@ title_english = "049 Vibhishana approaches Rama"
 परित्यक्ष्याम्यहं प्राणं वानराणां तु पश्यताम् ।  
 यदि पञ्चत्वमापन्नः सुमित्रानन्दवर्धनः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पञ्चत्वं मृतिम् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -113,8 +128,11 @@ title_english = "049 Vibhishana approaches Rama"
 विवत्सां वेपमानां च क्रोशेन्तीं कुररीमिव ।  
 कथमाश्वासयिष्यामि यदा यास्यामि तं विना ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 किं न्वित्यादिश्लोकद्वयमेकान्वयं । अहं तं लक्ष्मणं विना अयोध्यां यदा यास्यामि तदा कौसल्यां कैकयीं च किं वक्ष्यामि । सुमित्रां कथमा- श्वासयिष्यामि ॥ ८-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +143,11 @@ title_english = "049 Vibhishana approaches Rama"
 
 कथं वक्ष्यामि शत्रुघ्नं भरतं च यशस्विनम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथमित्यर्धम् ॥ यशस्विनमित्यनेन तद्यशो मया न लब्धमिति खिद्यति ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +160,11 @@ title_english = "049 Vibhishana approaches Rama"
 मया सह वनं यातो बिना तेन गतः पुनः ।  
 उपालम्भं न शक्ष्यामि सोढुं बत सुमित्रया ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यो मया सह वनं यातः तेन विनाऽयोध्यां गतोहं सुमित्रया कृतमुपालम्भं उक्तप्रकारं सोढुं कथं शक्ष्यामि ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -151,8 +175,11 @@ title_english = "049 Vibhishana approaches Rama"
 
 इहैव देहं त्यक्ष्यामि न हि जीवितुमुत्सहे ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इहैवेत्यर्थम् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,8 +192,11 @@ title_english = "049 Vibhishana approaches Rama"
 धिङ्मां दुष्कृतकर्माणमनार्यं यत्कृते ह्यसौ ।  
 लक्ष्मणः पतितः शेते शरतल्पे गतासुवत् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दुष्कृतकर्माणं । लक्ष्मणवनानयनमेव दुष्कृतं कर्म ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +213,11 @@ title_english = "049 Vibhishana approaches Rama"
 येनाद्य निहता युद्धे राक्षसा विनिपातिताः ।  
 तस्यामेव क्षितौ वीरः स शेते निहतः परैः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स त्वमित्यन्वयः ॥ १४-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,8 +230,11 @@ title_english = "049 Vibhishana approaches Rama"
 शयानः शरतल्पेऽस्मिन्स्वंशोणितपरिप्लुतः ।  
 शरजालैश्चितो भाति भास्करोस्तमिव व्रजन् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शयान इति । अयमिति शेषः । अत्र शरतल्पस्थानीयोस्तगिरिः । शरस्थाने किरणाः । शोणितस्थाने रक्तवर्णत्वम् ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,8 +247,11 @@ title_english = "049 Vibhishana approaches Rama"
 बाणाभिहतमर्मत्वान्न शक्नोत्यभिभाषितुम् ।  
 रुजा चाब्रुवतोप्यस्य दृष्टिरागेण सूच्यते ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रुजा व्यथा । दृष्टिरागेण वीक्षणप्रेम्णा ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,8 +268,11 @@ title_english = "049 Vibhishana approaches Rama"
 इष्टबन्धुजनो नित्यं मां च नित्यमनुव्रतः ।  
 इमामद्य गतोऽवस्थां ममानार्यस्य दुर्नयैः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तथैव तेन प्रकारेण । मात्रादिस्नेहमविचार्येत्यर्थः । यमक्षयमित्यत्रापि यान्तमित्यनुषज्यते ॥ १८-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,8 +285,11 @@ title_english = "049 Vibhishana approaches Rama"
 सुरुष्टेनापि वीरेण लक्ष्मणेन न संस्मरे ।  
 परुषं विप्रियं वाऽपि श्रावितं तु कदाचन ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विप्रियं अहितं । सुरुष्टेनापि लक्ष्मणेन श्रावितं विप्रियं परुषं वाक्यं न स्मरामीत्यर्थः ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +302,11 @@ title_english = "049 Vibhishana approaches Rama"
 विससर्जेकवेगेन पञ्चबाणशतानि यः ।  
 इष्वस्त्रेष्वधिकस्तस्मात्कार्तवीर्याच्च लक्ष्मणः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यः कार्तवीर्यः सहस्रबाहुः एकेन वेगेन एकप्रयत्नेन । यावता कालेन पञ्चबाणशतानि विससर्ज प्रायुङ्क । द्विभुजोप्ययं लक्ष्मणः तावतैव कालेन तावतो बाणान् विसृजन् । इष्वस्त्रेषु विषये तस्मात्कार्तवीर्यादधिक इत्यर्थः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,8 +319,11 @@ title_english = "049 Vibhishana approaches Rama"
 अस्त्रैरस्त्राणि यो हन्याच्छक्रस्यापि महात्मनः ।  
 सोऽयमुर्व्यां हतः शेते महार्हशयनोचितः ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हन्यात् हन्तुं शक्तः । शकि लिङ् ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,8 +336,11 @@ title_english = "049 Vibhishana approaches Rama"
 यन्मया न कृतो राजा राक्षसानां विभीषणः ।  
 तच्च मिथ्या प्रलप्तं मां प्रवक्ष्यति न संशयः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत् यस्मात् विभीषणो राक्षासानां राजा न कृतः । तस्मात् मिथ्याप्रलप्तं राजानं त्वां करिष्यामीति मिथ्या प्रलपितं मां प्रधक्ष्यति । दहतीत्यर्थः । आश्रुतकार्यनिर्वाहाभावेन मिथ्येत्युच्यते । आश्रुतं प्रतिज्ञातम् ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,8 +357,11 @@ title_english = "049 Vibhishana approaches Rama"
 अङ्गदं तु पुरस्कृत्य ससैन्यः ससुहृज्जनः ।  
 सागरं तर सुग्रीव नीलेन च नलेन च ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रतियातुं किष्किन्धामिति शेषः । हीनं त्वामिति शेषः ॥ २४-२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,8 +384,11 @@ title_english = "049 Vibhishana approaches Rama"
 अन्यैश्च हरिभिर्युद्धं मदर्थे त्यक्तजीवितैः ।  
 न चातिक्रमितुं शक्यं दैवं सुग्रीव मानुषैः ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृतमित्यादिसार्धश्लोकत्रयम् ॥ संपातिना वानरेण ॥२६-२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -345,8 +405,11 @@ title_english = "049 Vibhishana approaches Rama"
 मित्रकार्यं कृतमिदं भवद्भिर्वानरर्षभाः ।  
 अनुज्ञाता मया सर्वे यथेष्टं गन्तुमर्हथ ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वयस्येन मित्रेण । सुहृदा च शोभनहृदयेन वा । चशब्दो वाशब्दार्थकः । धर्मभीरुणा धर्मो नश्यतीति भीरुणेत्यर्थः । अधर्मभीरुणेति वा पदच्छेदः ॥ २९–३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -359,8 +422,11 @@ title_english = "049 Vibhishana approaches Rama"
 शुश्रुवुस्तस्य ते सर्वे वानराः परिदेवनम् ।  
 वर्तयाञ्चक्रुरश्रूणि नेत्रैः कृष्णेतरेक्षणाः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वर्तयांचक्रुः प्रवर्तयां चक्रुः । कृष्णेतरेक्षणाः रक्तेक्षणा इत्यर्थः ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -386,7 +452,10 @@ title_english = "049 Vibhishana approaches Rama"
 विभीषणं विव्यथिरे च दृष्ट्वा मेघा यथा वायुहताः लवङ्गमाः ॥ ३५ ॥ \]
 </details>
 
+<details><summary>व्याख्या</summary>
+
 तत इत्यादिश्लोकद्वयम् ॥ ३२-३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

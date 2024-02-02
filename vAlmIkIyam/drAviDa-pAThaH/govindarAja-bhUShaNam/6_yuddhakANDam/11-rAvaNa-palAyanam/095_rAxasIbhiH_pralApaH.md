@@ -44,7 +44,10 @@ title_english = "095 Ravana fights fiercely with monkeys"
 राक्षसीश्च समागम्य दीनाश्चिन्तापरिप्लुताः ॥ ४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ राक्षसीनां प्रलापः – तानितानीत्यादिचतुःश्लोकी ॥ वाजिनामित्येतद्गजानामप्युप -लक्षणं । सहस्रशः सहस्राणि । राक्षसीः राक्षसस्त्रियः । समागम्य चिन्तापरिप्लुताः । आसन्निति शेषः ॥ १-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,8 +60,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 विधवा हतपुत्राश्च क्रोशन्त्यो हतबान्धवाः ।  
 राक्षस्यः सह संगम्य दुःखार्ताः पर्यदेवयन् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संगम्य संघीभूय । परस्परमालिङ्गिता इत्यर्थः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +79,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 आससाद बने रामं कन्दर्पमिव रूपिणम् ॥  
 सुकुमारं महासत्त्वं सर्वभूतहिते रतम् ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथमित्यादिसार्धश्लोकमेकं वाक्यम् ॥ कराला विकटा ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 कथं सर्वगुणैर्हीना गुणवन्तं महौजसम् ॥  
 सुमुखं दुर्मुखी रामं कामयामास राक्षसी ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तं दृष्ट्वेत्यादिसार्धश्लोकमेकं वाक्यम् ॥ प्रकामिता सा कथं कामयामास ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +127,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 न च सीतां दशग्रीवः प्राप्नोति जनकात्मजाम् ।  
 बद्धं बलवता वैरमक्षयं राघवेण च ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जनस्येत्यादिसार्धश्लोकद्वयमेकं वाक्यम् ॥ वलयोस्याः सन्तीति वलिनी । पामादित्वान्नः । आर्षो ङीप् । अप्रतिरूपा अननुरूपा । तन्निमित्तं प्रधर्षणनिमित्तात् । शूर्पणखयाऽन्यथोक्तावपि तत्कामनादिकमकम्पनादिमुखात्सर्वैर्ज्ञातमिति ज्ञेयम् ॥ ८-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,8 +144,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 वैदेहीं प्रार्थयानं तं विराधं प्रेक्ष्य राक्षसम् ।  
 हतमेकेन रामेण पर्याप्तं तन्निदर्शनम् ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विराधं प्रेक्ष्य ज्ञात्वा स्थितानामस्माकं तत् विराधननं । विरोधिनिरसनाय पर्याप्तं पूर्णं निदर्शनम् ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +165,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 खरश्च निहतः सङ्ख्ये दूषणस्त्रिशिरास्तथा ।  
 शरैरादित्यसंकाशैः पर्याप्तं तन्निदर्शनम् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चतुर्दशेतिश्लोके पर्याप्तं तन्निदर्शनमित्यनुषज्यते ॥ उत्तरश्लोकेनैकवाक्यत्वें शरपदद्वयवैयर्थ्य ॥ १२–१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +206,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 विभीषणवचः कुर्याद्यदि स धनदानुजः ।  
 श्मशानभूता दुःखार्ता नेयं लाङ्का पुंरी भवेत् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अथ खरवधानन्तरं । नादं शब्दं । नदन् कुर्वन् । सः प्रसिद्धः कबन्धः ॥ १४ – २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,8 +229,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 \[ पुरा हनुमता लङ्कां दग्धां लाङ्गूलवह्निना ।  
 हतमक्षकुमारं च दृष्ट्वाऽसौ नावबुध्यते ॥ २२ ॥ \]
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नावबुध्यते रामप्रभावमिति शेषः ॥ २१ – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,8 +254,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 रुद्रो वा यदि वा विष्णुर्महेन्द्रो वा शतक्रतुः ।  
 हन्ति नो रामरूपेण यदि वा स्वयमन्तकः ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कुले कुले गृहे गृहे । इदमपि राक्षसीवाक्यमेव ॥ २३-२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,8 +275,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 रामहस्ताद्दशग्रीवः शूरो दत्तमहावरः ।  
 इदं भयं महाघोरमुत्पन्नं नावबुध्यते ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वयमित्येतदपेक्षया अपश्यन्त इति पुंलिङ्गं । विलपामहे इत्यात्मनेपदमार्षम् ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -259,8 +292,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 न देवा न च गन्धर्वा न पिशाचा न राक्षसाः ।  
 उपसृष्टं परित्रातुं शक्ता रामेण संयुगे ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उपसृष्टं उपद्रुतम् ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,8 +309,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 उत्पाताश्चापि दृश्यन्ते रावणस्य रणे रणे ।  
 कथयिष्यन्ति रामेण रावणस्य निबर्हणम् ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथयिष्यन्ति इतः परमपि कानिचिन्निमित्तानि प्रादुर्भूय कथयिष्यन्तीत्यर्थः । वर्तमाने तात्पर्यमित्यप्याहुः ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,8 +326,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 पितामहेन प्रीतेन देवदानवराक्षसैः ।  
 रावणस्याभयं दत्तं मानुषेभ्यो न याचितम् ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 देवदानवराक्षसैः देवदानवराक्षसेभ्यः ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,8 +343,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 तदिदं मानुषं मन्ये प्राप्तं निस्संशयं भयम् ।  
 जीवितान्तकरं घोरं रक्षसां रावणस्य च ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मानुषं मानुषादागतं । मन्ये मन्यामहे ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,8 +364,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 देवतानां हितार्थाय महात्मा वै पितामहः ।  
 उवाच देवताः सर्वा इदं तुष्टो महद्वचः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्षसा रावणेन । वरदानेन करणेन ॥ ३२ – ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,8 +389,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 प्रसन्नस्तु महादेवो देवानेतद्वचोऽब्रवीत् ।  
 उत्पत्स्यति हितार्थं वो नारी रक्षःक्षयावहा ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दानवराक्षसा इत्युक्तेर्मन्दोदरीसंबन्धेन दानवाश्च केचिद्राक्षसैः सह तिष्ठन्तीति ज्ञेयम् ॥ ३४-३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,8 +406,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 एषा देवैः प्रयुक्ता तु क्षुद्यथा दानवान्पुरा ।  
 भक्षयिष्यति नः सीता राक्षसघ्नी सरावणान् ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्षुद्यथा दानवान्पुरेति । देवेभ्योऽमृतप्रदानानन्तरमिति बोध्यं । अस्मच्छब्दापेक्षया सरावणानित्युक्तिः ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,8 +423,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 रावणस्थापनीतेन दुर्विनीतस्य दुर्मतेः ।  
 अयं निष्ठानको घोरः शोकेन समभिप्लुतः ॥ ३८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निष्ठानकः नाश इत्याहुः ॥ ३८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,8 +444,11 @@ title_english = "095 Ravana fights fiercely with monkeys"
 नास्ति नः शरणं कश्चिद्भये महति तिष्ठताम् ।  
 दवाग्निवेष्टितानां हि करेणूनां यथा वने ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पश्यामह इत्यात्मनेपदमार्षम् ॥ ३९-४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,7 +466,10 @@ title_english = "095 Ravana fights fiercely with monkeys"
 विषेदुरार्ता भयभारपीडिता विनेदुरुच्चैश्च तदा सुदारुणम् ॥ ४२ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 प्राप्तकालं उचितं । पौलस्त्येनविभीषणेन । इतः परं तस्यैव पौलस्त्यकुलप्रतिष्ठा -पकत्वात्तच्छब्दप्रयोगः । अत्र पितामहादिवरप्रदानवृत्तान्तो राक्षसीभिर्मन्दोदरीसकाशाच्छ्रुत इति ज्ञेयं । सा च ज्ञानवृद्धेति वक्ष्यते ॥ ४१-४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

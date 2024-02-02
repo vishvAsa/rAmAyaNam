@@ -41,7 +41,10 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 यद्यस्ति श्रवणे श्रद्धा शृणुष्वेहापरां कथाम् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 इह राजापराधविषये ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

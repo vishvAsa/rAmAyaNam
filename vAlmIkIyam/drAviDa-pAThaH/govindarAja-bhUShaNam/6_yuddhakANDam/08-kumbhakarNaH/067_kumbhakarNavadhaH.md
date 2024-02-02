@@ -44,7 +44,10 @@ title_english = "067 Kumbhakarna was slain in battle"
 वानरास्तूर्णमुद्यम्य कुम्भकर्णमभिद्रुताः ॥ ४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 ते निवृत्ता इत्यादि, वानरास्त्यक्तजीविता इत्यन्तमेकं वाक्यम् ॥ नैष्ठिकीं निष्ठा नाशः तत्संबन्धिनीं । मरणव्यवसायिनीमित्यर्थः । समुदीरितवीर्याः कथितात्मपराक्रमाः । समारोपितविक्रमाः समवलम्बितपराक्रमाः । मरणनिश्चयहेतुमाह-यक्तजीविता इति । जीवनाशारहिता इत्यर्थः ॥ १-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,8 +60,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स कुम्भकर्णः संक्रुद्धो गदामुद्यम्य वीर्यवान् ।  
 अर्दयन्सुमहाकायः समन्ताद्व्याक्षिपद्रिपून् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्याक्षिपत् अपातयत् ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,8 +77,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 शतानि सप्त चाष्टौ च सहस्राणि च वानराः ।  
 प्रकीर्णाः शेरते भूमौ कुम्भकर्णेन पोथिताः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रकीर्णाः शिथिलावयवाः । पोथिताः हिंसिताः । कुम्भकर्णस्यैकेन व्यापारेण शतादिसंघरूपेण पतिता इत्यर्थः ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +96,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 परिक्षिप्य च बाहुभ्यां खादन्विपरिधावति ।  
 भक्षयन्भृशसंक्रुद्धो गरुडः पन्नगानिव ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिक्षिप्य परिगृह्य खादन् भक्षयन् । पन्नगान् भक्षयन्निवेति गरुडविशेषणम् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +113,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 कृच्छ्रेण च समाश्वस्ताः संगम्य च ततस्ततः ।  
 वृक्षाद्रिहस्ता हरयस्तस्थुः संग्राममूर्धनि ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हरयः बलवन्त इति शेषः । संगम्य संभूय ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +130,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततः पर्वतम्रुत्पाट्य द्विविदः प्लवगर्षभः ।  
 दुद्राव गिरिशृङ्गामं विलम्ब इव तोयदः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विशेषेण लम्बत इति विलम्बः । पचाद्यच् । गिरिशृङ्गाभं गिरिशृङ्गवदुन्नतम् ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,8 +147,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तं समुत्पत्य चिक्षेप कुम्भकर्णस्य वानरः ।  
 तमप्राप्तो महाकायं तस्य सैन्येऽपतत्तदा ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तं कुम्भकर्णं । समुत्पत्य समीपमागत्य । कुम्भकर्णस्य कुम्भकर्णाय ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,8 +164,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ममर्दाश्वान्गजांश्चापि रथांश्चैव नगोत्तमः ।  
 तानि चान्यानि रक्षांसि पुनश्चान्यगिरेः शिरः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ममर्देत्यादि त्रिपादश्लोकः ॥ तानि प्रसिद्धानि । रक्षांसि ममर्देति पूर्वेणान्वयः । पुनश्चेति पादश्लोकः । अन्यत् गिरेःशृङ्गं चिक्षेपेति योज्यम् ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +181,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तच्छैलशृङ्गाभिहतं हताश्वं हतसारथि ।  
 रक्षसां रुधिरक्लिन्नं बभ्रुवायोधनं महत् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तच्छेलशृङ्गाभिहतं अनन्तरप्रयुक्तशैलशृङ्गाभिहतसैन्यं । आयोधनं युद्धम् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +198,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 रथिनो वानरेन्द्राणां शरैः कालान्तकोपमैः ।  
 शिरांसि नदतां जह्रुः सहसा भीमनिस्खनाः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालान्तकः प्रलयकालरुद्रः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,8 +223,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तानि पर्वतशृङ्गाणि शूलेन स बिभेद ह ।  
 बभञ्ज वृक्षवर्षं च कुम्भकर्णो महाबलः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभ्यसूदयन् अघ्नन् ॥ १४-१६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -207,8 +240,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततो हरीणां तदनीकमुग्रं दुद्राव शूलं निशितं प्रगृह्य ।  
 तस्थौ ततोस्यापततः पुरस्तान्महीधराग्रं हनुमान्प्रगृह्य ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दुद्राव द्रावयामास ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,8 +257,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स कुम्भकर्णं कुपितो जघान वेगेन शैलोत्तमभीमकायम् ।  
 स चुक्षुभे तेन तदाऽभिभूतो मेदार्द्रगात्रो रुधिरावसिक्तः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मेदार्द्रेत्यत्र संघिरार्षः ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,8 +274,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स शूलमाविध्य तडित्प्रकाशं गिरिं यथा प्रज्वलिताग्रशृङ्गम् ।  
 बाह्वन्तरे मारुतिमाजघान गुहोचलं क्रौञ्चमिवोग्रशक्त्या ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आविध्य भ्रामयित्वा । गुहः स्कन्दः ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,8 +291,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स शूलनिर्भिन्नमहाभुजान्तरः प्रविह्वलः शोणितमुद्वमन्मुखात् ।  
 ननाद भीमं हनुमान्महाहवे युगान्तमेघस्तनितस्वनोपमम् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रविह्वलः प्रमुह्यन् । युगान्तेति । युगान्तमेघस्य स्तनितरूपो यः स्वनः तत्तुल्यमिति क्रियाविशेषणम् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,8 +308,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततो विनेदुः सहसा प्रहृष्टा रक्षोगणास्तं व्यथितं समीक्ष्य ॥  
 प्लवङ्गमास्तु व्यथिता भयार्ताः प्रदुद्रुवुः संयति कुम्भकर्णात् ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कुम्भकर्णात् भयार्ता इत्यन्वयः । संयति युद्धे ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,8 +325,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततस्तु नीलो बलवान्पर्यवस्थापयन्चलम् ।  
 प्रेविचिक्षेप शैलाग्रं कुम्भकर्णाय धीमते ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पर्यवस्थापयन्बलमिति । पलायमानान् सन्निवर्तयन्नित्यर्थः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -297,8 +348,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ऋषभः शरभो नीलो गवाक्षो गन्धमादनः ।  
 पञ्च वानरशार्दूलाः कुम्भकर्णमुपाद्रवन् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यशीर्यत शीर्णमभूत् ॥ २३–२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -311,8 +365,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 शैलैर्वृक्षैस्तलैः पादैर्मुष्टिभिश्च महाबलाः ।  
 कुम्भकर्णं महाकायं सर्वतोऽभिप्रदुद्रुवुः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पादैः प्रहारोद्यतैः । सर्वत्रोपलक्षणे तृतीया ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,8 +382,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स्पर्शानिव प्रहारांस्तान्वेदयानो न विव्यथे ।  
 ऋषभं तु महावेगं बाहुभ्यां परिषस्वजे ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्पर्शानिव सुखस्पर्शनिव । सुखमर्दनमिव जानन्नित्यर्थः ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,8 +413,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तेषु वानरमुख्येषु पतितेषु महात्मसु ॥  
 वानराणां सहस्राणि कुम्भकर्णं प्रदुद्रुवुः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रेति छेदः । मुखात् वान्तशोणितः प्रणिपपातेत्यन्वयः। व्यवहिताश्च इत्युपसर्गस्य व्यवहितप्रयोगः । वान्तशोणितः उद्गीर्णरक्तः ॥ २८-३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,8 +434,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तं नखैर्दशनैश्चापि मुष्टिभिर्जानुभिस्तथा ।  
 कुम्भकर्णं महाकायं ते जघ्नुः प्लवगर्षभाः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समारुह्य समुत्पत्य । समुत्पत्य समारुह्येति क्रमः ॥ ३२-३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -393,8 +459,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 प्रक्षिप्ताः कुम्भकर्णेन वक्रे पातालसन्निभे ।  
 नासापुटाभ्यां निर्जग्मुः कर्णाभ्यां चैव वानराः ॥ ३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आचितः व्याप्तः । आत्मरुहैः वृक्षैः ॥ ३४–३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -407,8 +476,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 भक्षयन्भृशसंक्रुद्धो हरीन्पर्वतसन्निभः ।  
 बभञ्ज वानरान्सर्वान्संक्रुद्धो राक्षसोत्तमः ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भक्षयन् बभञ्ज । भक्षणार्थं बभञ्जेत्यर्थः ॥ ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -425,8 +497,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 वज्रहस्तो यथा शक्रः पाशहस्त इवान्तकः ।  
 शूलहस्तो बभौ संख्ये कुम्भकर्णो महाबलः ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मांसशोणितसंक्लेदां मांसशोणितसंसिक्तामित्यर्थः ॥ ३८-३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -439,8 +514,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 यथा शुष्कान्यरण्यानि ग्रीष्मे दहति पावकः ।  
 तथा वानरसैन्यानि कुम्भकर्णो विनिर्दहत् ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विनिर्दहत् विनिरदहत् ॥ ४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -501,8 +579,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 पर्वताग्रं समुत्क्षिप्य समाविध्य महाकपिः ।  
 अभिदुद्राव वेगेन कुम्भकर्णं महाबलम् ॥ ५३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विनायकाः विगतनायकाः ॥ ४१-५३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -531,8 +612,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तद्वाक्यं हरिराजस्य सत्त्वधैर्यसमन्वितम् ।  
 श्रुत्वा राक्षसशार्दूलः कुम्भकर्णोऽब्रवीद्वचः ॥ ५८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समुन्मुखः अभिमुखः ॥ ५४–५८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -545,8 +629,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 प्रजापतेस्तु पौत्रस्त्वं तथैवर्क्षरजः सुतः ।  
 श्रुतपौरूषसंपन्नः कस्माद्गर्जसि वानर ॥ ५९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रजापतेरिति । इदमत्रैतिह्यमनुसंधेयं । पुरा किल ब्रह्मणो जृम्भमाणस्य वदनादृक्षरजा नाम वानरो जातः । स कदाचित्पर्यटन् ब्रह्मलोकेप्सरोरूपकारिणि निमज्याप्सरोरूपमभजत् । तां दृष्ट्वा काममोहिताविन्द्रादित्यौ हस्तेन युगपद्गृह्णीतां । तत्रान्तरे तयोः क्षुभितं रेतोऽपतत् । तत्र द्वौकुमारावभवतां । वाले पतनाद्वाली ग्रीवायां पतनात्सुग्रीवः । तं दृष्ट्वा प्रहस्य ब्रह्मा अप्सरोरूपधारिणमृक्षरजसं यथापूर्वरूपप्राप्तये कुमारौ गृहीत्वा अन्यस्मिन्वानररूपकारिणि सरसि निमज्जेत्यभ्यधात् । सोपि तथा कृत्वा कुमाराभ्यां सह वानररूपमभजदृक्षरजाः । तत्पुत्रौ वालिसुग्रीवाविति । तदनेन प्रकारेण सुग्रीवः प्रजापतेः पौत्रः ऋक्षरजसः पुत्रश्च । काश्यपात्प्रजापतेर्विवस्वान् विवस्वतः सुग्रीव इत्यन्ये ॥ ५९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -571,8 +658,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तत्कुम्भकर्णस्य भुजप्रविद्धं शूलं शितं काञ्चनधामजुष्टम् ।  
 क्षिप्रं समुत्पत्य निगृह्य दोर्भ्यां बभञ्ज वेगेन सुतोऽनिलस्य ॥ ६३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्याविध्य तोलयित्वा ॥ ६० – ६३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,8 +675,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 कृतं भारसहस्रस्य शूलं कालायसं महत् ।  
 बभञ्ज जानुन्यारोप्य प्रहृष्टः प्लवगर्षभः ॥ ६४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भारसहस्रस्य भारसहस्रेण कृतं जानुन्यारोप्य बभञ्जेत्यन्वयः ॥ ६४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -605,8 +698,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 सिंहनादं च ते चक्रुः प्रहृष्टा वनगोचराः ।  
 मारुतिं पूंजायांचक्रुर्दृष्ट्वा शूलं तथागतम् ॥ ६६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्वतः सर्वस्मात्प्रदेशात् । दुद्रुवे आजगाम ॥ ६५-६६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -627,8 +723,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तमभ्युपेत्याद्भुतघोरवीर्यं स कुम्भकर्णो युधि वानरेन्द्रम् ।  
 जहार सुग्रीवमभिप्रगृह्य यथाऽनिलो मेघेमतिप्रचण्डः ॥ ६९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुग्रीवमुपेत्य तेन शृङ्गेण जघान । त्रिकूटशिखरस्थलङ्काद्वारे स्थित्वा युध्यतः कुम्भकर्णस्य प्रदेशान्तरस्थलङ्कामलयशृङ्गोत्पाटनं कथमुपपद्यत इति चेत् तदनुगुणप्रमाणशरीरत्वान्न दोषः । लङ्कामलयशब्देन त्रिकूटं वोपचर्यते ॥ ६७-६९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -641,8 +740,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स तं महामेघनिकाशरूपमुत्पाट्य गच्छन्युधि कुम्भकर्णः ।  
 रराज मेरुप्रतिमानरूपो मेरुर्यथाभ्युच्छ्रितघोरशृङ्गः ॥ ७० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभ्युच्छ्रितं उन्नतं । स्वाकारसादृश्याय प्रथमं मेरुपादानं । द्वितीयं तु सुग्रीवधारणकालिकसादृश्याय ॥ ७० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -655,8 +757,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततस्तमुत्पाट्य जगाम वीरः संस्तूयमानो युधि राक्षसेन्द्रैः ।  
 शृण्वन्निनादं त्रिदशालयानां प्लवङ्गराजग्रहविस्मितानाम् ॥ ७१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्पाट्य उद्धृत्य । त्रिशालयानां स्वर्गिणाम् ॥ ७१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -685,8 +790,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 मया हते संयति कुम्भकर्णे महाबले मुष्टिविकीर्णदेहे ।  
 विमोचिते वानरपार्थिवे च भवन्तु हृष्टाः प्लवगाः समस्ताः ॥ ७६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बलवान्कुंभकर्णो युद्धे पतितं सुग्रीवं किमर्थं हृतवानित्यत्राह-ततस्तमादायेति ॥ ७२–७६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -699,8 +807,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 अथवा स्वयमप्येष मोक्षं प्राप्स्यति पार्थिवः ।  
 गृहीतोऽयं यदि भवेस्त्रिदशैः सासुरोरगैः ॥ ७७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सासुरोरगैः सुरैः गृहीतोप्ययं मोक्षं प्राप्तुं शक्नोति । किं पुनरनेन राक्षसापसदेनेति भावः ॥ ७७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -717,8 +828,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 अयं मुहूर्तात्सुग्रीवो लब्धसंज्ञो महाहवे ।  
 आत्मनो वानराणां च यत्पथ्यं तत्करिष्यति ॥ ७९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तर्हि मोचयित्वात्मानं किमिति न निवर्तत इत्यत्राह – मन्य इत्यादिना तावदित्यवधारणे । आत्मानमेव न बुध्यतइत्यर्थः । पथ्यं हितम् ॥ ७८–७९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -731,8 +845,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 मया तु मोक्षितस्यास्य सुग्रीवस्य महात्मनः ।  
 अप्रीतिश्च भवेत्कष्टा कीर्तिनाशश्च शाश्वतः ॥ ८० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृच्छ्रगतः स्वामी भृत्येनावश्यं मोचनीय एवेत्याशङ्क्याह-मया त्विति ॥ ८० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -745,8 +862,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तस्मान्मुहूर्तं काङ्क्षिष्ये विक्रमं पार्थिवस्य तु ।  
 भिन्नं च वानरानीकं तावदाश्वासयाम्यहम् ॥ ८१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तावत् सुग्रीवागमनपर्यन्तम् ॥ ८१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -759,8 +879,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 इत्येवं चिन्तयित्वा तु हनुमान्मारुतात्मजः ।  
 भूयः संस्तम्भयामास वानराणां महाचमूम् ॥ ८२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संस्तम्भयामास गमनान्निवर्तयामास ॥ ८२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -781,8 +904,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततः स संज्ञामुपलभ्य कृच्छ्राद्वलीयसस्तस्य भुजान्तरस्थः ।  
 अवेक्षमाणः पुरराजमार्गं विचिन्तयामास मुहुर्महात्मा ॥ ८५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पुष्पाग्र्यवर्षैः श्लाध्यपुष्पवृष्टिभिः॥ ८३—८५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -795,8 +921,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 एवं गृहीतेन कथं नु नाम शक्यं मया संप्रतिकर्तुमद्य ।  
 तथा करिष्यामि यथा हरीणां भविष्यतीष्टं च हितं च कार्यम् ॥ ८६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संप्रतिकर्तुं सम्यक् प्रतिकर्तुं अन्यथा अद्येति पुनरुक्तिः स्यात् ॥ ८६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -809,8 +938,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततः कराग्रैः सहसा समेत्य राजा हरीणाममरेन्द्रशत्रुम् ।  
 खरैश्च केर्णौ दशनैश्च नासां ददंश पार्श्वेषु च कुम्भकर्णम् ॥ ८७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 खरैः तीक्ष्णैः । कराग्रैः कर्णौ समेत्य संहृत्य दशनैः नासांचदंश । पार्श्वेषु कपोलयोरंसयोरुदरान्तरयोश्च पादाभ्यां विददारेति शेषः ॥ ८७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -827,8 +959,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स भूतले भीमवलाभिपिष्टः सुरारिभिस्तैरभिहन्यमानः ।  
 जगाम खं वेगवदभ्युपेत्य पुनश्च रामेण समाजगाम ॥ ८९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विमर्दितः संपीडितः ॥ ८८-८९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -841,8 +976,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 कर्णनासाविहीनस्तु कुम्भकर्णो महाबलः ।  
 रराज शोणितैः सिक्तो गिरिः प्रस्रवणैरिव ॥ ९० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रस्रवणैः निर्दरैः ॥ ९० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,8 +1011,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 बुभुक्षितः शोणितमांसगृध्नुः प्रविश्य तद्वानरसैन्यमुग्रम् ।  
 चखाद रक्षांसि हरीन्पिशाचानृक्षांश्च मोहायुधि कुम्भकर्णः ॥ ९५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभिमुखः सन् युद्धाय मनश्चक्र इति संबन्धः ॥ ९१-९५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,8 +1030,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 एकं द्वे त्रीन्बहून्क्रुद्धो वानरान्सह राक्षसैः ।  
 समादायैकहस्तेन प्रचिक्षेप त्वरन्मुखे ॥ ९७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शोणितमांसगृध्रुः शोणितमांसलोलुपः ॥ ९६-९७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -903,8 +1047,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 संप्रस्रवंस्तदा मेदः शोणितं च महाबलः ।  
 वध्यमानो नगेन्द्रायैर्भक्षयामास वानरान् ॥ ९८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संप्रस्रवन् तालुभ्यामुद्वमन् । शोणितं मेदश्च भक्षितवानरसंबन्धि ॥ ९८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -915,8 +1062,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 
 ते भक्ष्यमाणा हरयो रामं जग्मुस्तदा गतिम् ॥ ९९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त इत्यर्थम् ॥ गतिं शरणम् ॥ ९९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1003,8 +1153,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 अथ दाशरथी रामो रौद्रमस्त्रं प्रयोजयन् ।  
 कुम्भकर्णस्य हृदये ससर्ज निशिताञ्शरान् ॥ ११९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कुम्भकर्ण इत्यर्धम् ॥ प्रधावति प्राधावत् । उत्तरश्लोकेप्येवमेव ॥ १०० – ११९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1021,8 +1174,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 रामास्त्रविद्धो घोरं वै नदन्राक्षसपुङ्गवः ।  
 अभ्यधावत संक्रुद्धो हरीन्विद्रावयन्रणे ॥ १२१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अर्चिषः ज्वालाः ॥ १२० – १२१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1035,8 +1191,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तस्योरसि निमनाश्च शरा बर्हिणवाससः ।  
 \[ रेजुर्नीलाद्रिकटके नृत्यन्त इव बहिणः \] ॥ १२२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बर्हिणवाससः बर्हिणं बर्हिपत्रं वासो वासस्थानं येषां ते तथोक्ताः ॥ १२२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1049,8 +1208,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 हस्ताच्चापि परिभ्रष्टा पपतोर्व्यां महागदा ।  
 आयुधानि च सर्वाणि विप्राकीर्यन्त भूतले ॥ १२३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आयुधानि खड्गादीनि ॥ १२३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1067,8 +1229,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स बाणैरतिविद्धाङ्गः क्षतजेन समुक्षितः ।  
 रुधिरं प्रतिसुस्राव गिरिः प्रस्रवणं यथा ॥ १२५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कदनं वानराणामिति शेषः ॥ १२४-१२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1089,8 +1254,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 अप्राप्तमन्तरा रामः सप्तभिस्तैरजिह्मगैः ।  
 शरैः काञ्चनचित्राङ्गैश्चिच्छेद पुरुषर्षभः ॥ १२८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मूर्च्छितः व्याप्तः ॥ १२६–१२८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1103,8 +1271,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तन्मेरुशिखराकारं द्योतमानमिव श्रिया ।  
 द्वे शते वानरेन्द्राणां पतमानमपातयत् ॥ १२९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 द्वे शते उद्दिश्य पतमानं गच्छन्तं । अपातयत् । शरैरिति शेषः ॥ १२९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1121,8 +1292,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 नैवायं वानरान्राजन्नापि जानाति राक्षसान् ।  
 मत्तः शोणितगन्धेन स्वान्परांश्चैव खादति ॥ १३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 योगान् परिमृशन् उपायान् विचारयन् ॥ १३०-१३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1135,8 +1309,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 साध्वेनमधिरोहन्तु सर्वे ते वानरर्षभाः ।  
 यूथपाश्च यथा मुख्यास्तिष्ठन्त्वस्य समन्ततः ॥ १३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यथा यथायोग्यम् ॥ १३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1157,8 +1334,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 कुम्भकर्णस्तु संक्रुद्धः समारूढः प्लवङ्गमैः ।  
 व्यधूनयत्तान्वेगेन दुष्टहस्तीव हस्तिपान् ॥ १३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भारः वानरारोहणरूपः ॥ १३३–१३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1171,8 +1351,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तान्दृष्ट्वा निर्धुतान्रामो दुष्टोऽयमिति राक्षसः ।  
 समुत्पपात वेगेन धनुरुत्तममाददे ॥ १३६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निर्धुतानिति ह्रस्व आर्षः ॥ १३६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1187,8 +1370,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 राघवो राक्षसं रोषादभिदुद्राव वेगितः ।  
 यूथपान्हर्षयन्सर्वान्कुम्भकर्णभयार्दितान् ॥ १३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्रोधताम्रेत्यादिसार्धश्लोकमेकं वाक्यम् ॥ १३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1205,8 +1391,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स वानरगणैस्तैस्तु वृतः परमर्दुर्जयः ।  
 लक्ष्मणानुचरो रामः संप्रतस्थे महाबलः ॥ १३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निबद्धोत्तमतूणबाणः निबद्धोत्तमबाणतूण इत्यर्थः ॥ १३८-१३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1227,8 +1416,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 विन्ध्यमन्दरसंकाशं काञ्चनाङ्गदभूषणम् ।  
 स्रवन्तं रुधिरं वक्राद्वर्षमेघमिवोत्थितम् ॥ १४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स दर्शेत्यादिचतुःश्लोक्येकान्वया ॥ १४० – १४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1253,8 +1445,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततस्तु बातोद्धतमेघकल्पं भुजङ्गराजोत्तमभोगबाहुम् ।  
 तमापतन्तं धरणीधराभमुवाच रामो युधि कुम्भकर्णम् ॥ १४६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालान्तकयमोपमं । रुद्रस्त्रिनेत्रस्त्रिपुरान्तको वेतिवदेकस्यैवावस्थाभेदात्काला -दिनामभेदः । यद्वा काले युगान्तकाले अन्तको नाशको यमः उपमा यस्य स तथोक्तः ॥ १४३-१४६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1273,8 +1468,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 अभ्यधावत संक्रुद्धो हरीन्विद्रावयन्त्रणे ।  
 पातयन्निव सर्वेषां हृदयानि वनौकसाम् ॥ १४८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मा मां । अविषादं आगच्छेत्यन्वयः । यद्वा विषादं मा गच्छ । मरणेन शरीरभरणक्केशं त्यजेत्यर्थः । आङ् उपसर्गमात्रम् ॥ १४७-१४८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1291,8 +1489,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 नाहं विराधो विज्ञेयो न कबन्धः खरो न च ।  
 न वाली न च मारीचः कुम्भकर्णोऽहमागतः ॥ १५० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विकृतमित्यादिविशेषणत्रयं क्रियाविशेषणम् ॥ १४९-१५० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1309,8 +1510,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 विकर्णनास इति मां नावज्ञातुं त्वमर्हसि ।  
 स्वल्पाऽपि हि न मे पीडा कर्णनासाविनाशनात् ॥ १५२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पश्य मे मुद्गरमिति । यद्यपि निरायुधत्वं पूर्वमुक्तं तथाप्यद्य मुद्गरं गृहीतवानिति ज्ञेयं । सर्वकालायसं बहुलायसमयमित्यर्थः ॥ १५१–१५२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1323,8 +1527,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 दर्शयेक्ष्वाकुशार्दूल वीर्यं गात्रेषु मे लघु ।  
 ततस्त्वां भक्षयिष्यामि दृष्टपौरुषविक्रमम् ॥ १५३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लघु क्षिप्रं । दृष्टपौरुषविक्रमं दृष्टबलपराक्रमम् ॥ १५३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1337,8 +1544,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स कुम्भकर्णस्य वचो निशम्य रामः सुपुङ्खान्विससर्ज बाणान् ।  
 तैराहतो वज्रसमग्रवेगैर्न चुक्षुभे न व्यथते सुरारिः ॥ १५४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चुक्षुभ इति । क्षोभोत्र मानसः ॥ १५४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1351,8 +1561,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 यैः सायकैः सालवरा निकृत्ता वाली हतो वानरपुङ्गवश्च ।  
 ते कुम्भकर्णस्य तदा शैरीरे वज्रोपमा न व्यथयां प्रचक्रुः ॥ १५५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यैः सायकैरिति । सालभेदकस्य वालिविनाशकस्य च बाणस्यैकत्वेपि बहुवचनं तद्वर्ग्याणामनेकत्वादुपपद्यते ॥ १५५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1365,8 +1578,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स वारिधारा इव सायकांस्तान्पिबञ्शरीरेण महेन्द्रशत्रुः ।  
 जधान रामस्य शरप्रवेगं व्याविध्य तं मुद्गरमुग्रवेगम् ॥ १५६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरीरेण पिबन् । शरीरनिमग्नबाण इत्यर्थः । जधान मोघीचकार ॥ १५६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1387,8 +1603,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स तस्य बाहुगिरिशृङ्गकल्पः समुद्गरो राघवबाणकृत्तः ।  
 पपात तस्मिन्हरिराजसैन्ये जधान तां वानरवाहिनीं च ॥ १५९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विव्याध अचालयत् ॥ १५७–१५९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1405,8 +1624,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स कुम्भकर्णोस्रनिकृत्तबाहुर्महानिकृत्ताग्र इवाचलेन्द्रः ।  
 उत्पाटयामास करेण वृक्षं ततोऽभिदुद्राव रणे नरेन्द्रम् ॥ १६१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सन्निपातं द्वन्द्वयुद्धम् ॥ १६०-१६१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1419,8 +1641,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 से तस्य बाहुं सहसालवृक्षं समुद्यतं पन्नगभोगकल्पम् ।  
 ऐन्द्रास्त्रयुक्तेन जधान रामो बाणेन जाम्बूनदचित्रितेन ॥ १६२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ऐन्द्रास्त्रयुक्तेन ऐन्द्रास्त्रमन्त्राभिमन्त्रितेन ॥ १६२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1433,8 +1658,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स कुम्भकर्णस्य भुजो निकृत्तः पपात भूमौ गिरिसन्निकाशः ।  
 विवेष्टमानोऽभिजघान वृक्षाशैलान्शिला वानरराक्षसांश्च ॥ १६३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विवेष्टमानः विवर्तमानः ॥ १६३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1447,8 +1675,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तं छिन्नबाहुं समवेक्ष्य रामः समापतन्तं सहसा नदन्तम् ।  
 द्वावर्धचन्द्रौ निशितौ प्रगृह्य चिच्छेद पादौ युधि राक्षसस्य ॥ १६४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रगृह्य युगपत्संधाय ॥ १६४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1461,8 +1692,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तौ तस्य पादौ प्रदिशो दिशश्च गिरीन्गुहाश्चैव महार्णवं च ।  
 लङ्कां च सेनां कपिराक्षसानां विनादयन्तौ विनिषेततुश्च ॥ १६५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विनाशयन्तौ दिगादीन् प्रतिध्वनयन्तौ ॥ १६५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1479,8 +1713,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 अपूरयत्तस्य मुखं शिताग्रै रामः शरैर्हेमपिनद्धपुङ्खैः ।  
 स पूर्णवक्रो न शशाक वक्तुं चुकूज कृच्छ्रेग मुमोह चापि ॥ १६७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दुद्राव राममिति । ऊरुशेषाभ्यामिदं । अन्यथेदं गमनं वक्ष्यमाणं पतनं च न संभवतः । राहुर्यथेति । चन्द्रमिव स्थितं रामं राहुर्यथा तथा कुम्भकर्ण इत्यर्थः ॥ १६६ – १६७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1497,8 +1734,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तं वज्रजाम्बूनदचारुपुङ्खं प्रदीप्तसूर्यज्वलनप्रकाशम् ।  
 महेन्द्रवज्राशनितुल्यवेगं रामः प्रचिक्षेप निशाचराय ॥ १६९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अरिष्टं रिपूणामशुभप्रदं । अरिष्टे तु शुभाशुभे इत्यमरः ॥ १६८-१६९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1515,8 +1755,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स तन्महापर्वतकूटसन्निभं विवृत्तदंष्ट्रं चलचारुक्कुण्डलम् ।  
 चकर्त रक्षोधिपतेः शिरस्तथा यथैव वृत्रस्य पुरा पुरंदरः ॥ १७१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वैश्वानरः अग्निः ॥ १७०-१७१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1529,8 +1772,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 कुम्भकर्णशिरो भाति कुण्डलालङ्कृतं महत् ।  
 आदित्येऽभ्युदिते रात्रौ मध्यस्थ इव चन्द्रमाः ॥ १७२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कुंभकर्णेति । कर्तनवेगादुद्गतं गगने स्थितं । रात्रौ आदित्ये अदितिदेवताके पुनर्वसुनक्षत्रे तारकाद्वयात्मके । अभ्युदिते तन्मध्यगतश्चन्द्रमा इव बभावित्यर्थः ॥ १७२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1543,8 +1789,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 तद्रामबाणाभिहतं पपात रक्षःशिरः पर्वतसन्निकाशम् ।  
 बभज्ज चर्यागृहगोपुराणि प्राकारमुच्चं तमपातयच्च ॥ १७३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चर्याः प्राकारोपान्तकृप्तभटसंचारार्हप्रदेशाः ॥ १७३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1557,8 +1806,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 न्यपतत्कुम्भकर्णोथ स्वकायेन निपातयन् ।  
 लवङ्गमानां कोट्यञ्च परितः संप्रधावताम् ॥ १७४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कोट्यः कोटीः ॥ १७४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1583,8 +1835,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 ततस्तु ते तस्य वधेन भूरिणा मनस्विनो नैर्ऋतराजबान्धवाः ।  
 विनेदुरुच्चैर्व्यथिता रघूत्तमं हरिं समीक्ष्यैव यथा सुरार्दिताः ॥ १७८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रक्षः कबन्धरूपं । भूमिं तदा विवेश । भूमिमस्पृशदित्यर्थः ॥ १७५–१७८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1597,8 +1852,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 स देवलोकस्य तमो निहत्य सूर्यो यथा राहुमुखाद्विमुक्तः ।  
 तथा व्यभासीद्भुवि वानरौघे निहत्य रामो युधि कुम्भकर्णम् ॥ १७९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वानरौघे वानरौघमध्ये ॥ १७९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1611,8 +1869,11 @@ title_english = "067 Kumbhakarna was slain in battle"
 प्रहर्षमीयुर्बहवस्तु वानराः प्रबुद्धपद्मप्रतिमैरिवाननैः ।  
 अपूजयन्राघवमिष्टभागिनं हते रिपौ भीमबले दुरासदे ॥ १८० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रबुद्धपद्मप्रतिमैरिति । प्रतिमाशब्दोत्र रूपवचनः नतु सदृशवचनः इवशब्दप्रयोगात् । इष्टभागिनं जयरूपेष्टभाजम् ॥ १८० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1626,7 +1887,10 @@ title_english = "067 Kumbhakarna was slain in battle"
 ननन्द हत्वा भरताग्रजो रणे महासुरं वृत्रमिवामराधिपः ॥ १८१ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 पराजितश्रमं व्यक्तश्रमं । अत्र सर्गे अधिकाः केचन श्लोकाः क्वापि क्वापि दृश्यन्ते ते न व्याख्याताः । अस्मिन्सर्गे सार्धषट्षष्ट्युत्तरशतश्लोकाः ॥ १८१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

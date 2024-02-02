@@ -36,7 +36,10 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 नीलाञ्जनचयाकारैर्मातङ्गैरिव यूथपः ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथेन्द्रजिद्वधोपायदर्शनं – राममाश्वासयान इत्यादि ॥ आश्वासयाने आश्वासयमाने । आगमशासनस्यानित्यत्वान्मुगभावः । अनेन पूर्वोक्तवादा भ्रातृवात्सल्यात्तदाश्वासनार्था नतु परमार्था इत्युक्तं । पूर्वोक्तयुक्तिपरिहारस्तु, हैतुकान्बकवृत्तींश्च वाड्मात्रेणापि नार्चयेत् इति मनूक्तरीत्या प्रेक्षणीयः । गुल्मान् सेनासन्निवेशान् । स्वस्थाने स्वकार्यकरणार्थम् ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 राघवं च महात्मानमिक्ष्वाकुकुलनन्दनम् ।  
 ददर्श मोहमापन्नं लक्ष्मणस्याङ्कमासितम् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सोभिगम्येति । अत्र राघवपदं लक्ष्मणपरं । उत्तरश्लोके रामदर्शनस्य वक्ष्यमाणत्वात् । ददृशे ददर्श ॥ ३-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 व्रीडितं शोकसंतप्तं दृष्ट्वा रामं विभीषणः ।  
 अन्तर्दुःखेन दीनात्मा किमेतदिति सोब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सः विभीषणः रामं दृष्ट्वा दीनात्मा दीनमनस्कःसन् । अन्तर्दुःखेन अबहिः प्रकटितदुःखविकारेण उपलक्षितःसन् अब्रवीत् ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 हतामिन्द्रजिता सीतामिह श्रुत्वैव राघवः ।  
 हनुमद्वचनात्सौम्य ततो मोहमुपागतः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लक्ष्मणोवाचेत्यत्र छान्दसः सुलोपः । मन्दार्थं अल्पार्थं संगृहीतार्थमित्यर्थः ॥ ६-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 मनुजेन्द्रार्तरूपेण यदुक्तं च हनूमता ।  
 तदयुक्तमहं मन्ये सागरस्येव शोषणम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथयन्तमित्यर्धम् ॥ मध्ये निवारणोक्तिः सर्वस्य वृत्तान्तस्य स्वेनावगतत्वात् । विभीषणः उवाचेति शेषः ॥ ८-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,8 +132,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 अभिप्रायं तु जानामि रावणस्य दुरात्मनः ।  
 सीतां प्रति महाबाहो न च घातं करिष्यति ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 करिष्यति । रावण इति शेषः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +149,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 याच्यमानस्तु बहुशो मया हितचिकीर्षुणा ।  
 वैदेहीमुत्सृजस्वेति न च तत्कृतवान्वचः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्र हेतुमाह-याच्यमान इत्यादिना ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +166,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 नैव साम्ना न दानेन न भेदेन कुतो युधा ।  
 सा द्रष्टुमपि शक्येत नैव चान्येन केनचित् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सा साम्रा द्रष्टुमपि नैव शक्येत । दानेनापि द्रष्टुं न शक्येत । भेदेनापि द्रष्टुं न शक्येत । युधा दण्डेन कुतो द्रष्टुमपि शक्येत । अन्येन मायोपायेन केनचिद्रष्टुमपि नैव शक्येत ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,8 +189,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 हुतवानुपयातो हि देवैरपि सवासवैः ।  
 दुराधर्षो भवत्येव सङ्ग्रामे रावणात्मजः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कथं तर्हिन्द्रजिता हतेत्याशङ्क्य मायेयमित्याह – वानरानित्यादिना ॥ मोहयित्वा । लङ्कायां स्वव्यतिरिक्तस्य योद्धुरभावात् स्वस्मिन्कर्मव्याकुले वानराः प्रहरेयुः यज्ञश्च विच्छिद्येत । विच्छिन्ने च तस्मिन् ब्रह्मवरानुसारेण स्वस्य विनाशो भविष्यतीति मत्वा वञ्चनमितिभावः ॥ १३-१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,8 +206,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 तेन मोहयता नूनमेषा माया प्रयोजिता ।  
 विघ्नमन्विच्छता तत्र वानराणां पराक्रमे ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्विच्छता चिन्तयता ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,8 +225,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 त्येजेमं नरशार्दूल मिथ्या सन्तापमागतम् ।  
 सीदते हि बलं सर्वे दृष्ट्वा त्वां शोककर्शितम् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत् होमरूपं कर्म ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +242,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 इह त्वं स्वस्थहृदयस्तिष्ठ सत्वसमुच्छ्रितः ।  
 लक्ष्मणं प्रेषयास्माभिः सह सैन्यानुकर्षिभिः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सैन्यानुकर्षिभिः सैन्यपालैः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,8 +259,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 एष तं नरशार्दूलो रावणिं निशितैः शरैः ।  
 त्याजयिष्यति तत्कर्म ततो वध्यो भविष्यति ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत्कर्म होमकर्म । णिजन्तत्वाद्विकर्मकत्वम् ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +280,11 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 तं सन्दिश महाबाहो लक्ष्मणं शुभलक्षणम् ।  
 राक्षसस्य विनाशाय वज्रं वज्रधरो यथा ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एते लक्षणीयाः । पत्रिपन्त्राणि पक्षिपक्षाः, तेषामङ्गानि बर्हाणि, तैः वाजिनः वेगवन्तः ॥ १९ – २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -260,7 +302,10 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 युयुत्सता तेन समाप्तकर्मणा भवेत्सुराणामपि संशयो महान् ॥ २२ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 यद्यस्मात्कारणात् रिपुनिधनं प्रति कालविप्रकर्षः कालविलम्बः । अद्य कर्तुं न क्षमः । तत्तस्मात् । त्वं रिपुवधाय वाणीमतिसृज । आज्ञापयेत्यर्थः । यथा महेन्द्र इत्यापन्मात्रेदृष्टान्तः ॥ २१ – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

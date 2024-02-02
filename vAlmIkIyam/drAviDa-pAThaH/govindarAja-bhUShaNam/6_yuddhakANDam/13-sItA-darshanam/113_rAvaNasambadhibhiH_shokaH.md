@@ -36,7 +36,10 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 विमुक्तकेश्यो दुःखार्ता गावो वत्सहता इव ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ रावणान्तः पुरस्त्रीविलापःरावणमित्यादिश्लोकद्वयमेकान्वयम् ॥ वत्सहताः हृतवत्साः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 राजपुत्रेतिवादिन्यो हा नाथेति च सर्वशः ।  
 परिपेतुः कबन्धाङ्कां महीं शोणितकर्दमाम् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उत्तरेणेत्यादिश्लोकद्वयमेकान्वयम् ॥ शोणितैः कर्दमो यस्यास्तां शोणितकर्दमाम् ॥ ३-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,8 +81,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 ताः पतिं सहसा दृष्ट्वा शयानं रणपांसुषु ।  
 निपेतुस्तस्य गात्रेषु च्छिन्ना वनलता इव ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हतयूथपा इति । करेणुविशेषणं । अतएव नर्दन्त्यः करेण्व इव विनेदुरित्यन्वयः ॥ ५-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,8 +106,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 काचिदङ्के शिरः कृत्वा रुरोद मुखमीक्षती ।  
 स्नापयन्ती मुखं बाष्पैस्तुषारैरिव पङ्कजम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 बहुमानादित्यादिश्लोकत्रयमेकान्वयम् ॥ परिवर्तते वेष्टते । ईक्षती ईक्षमाणा ॥ ८-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +131,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 गन्धर्वाणामृषीणां च सुराणां च महात्मनाम् ।  
 भयं येन महद्दत्तं सोयं शेते रणे हतः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चुक्रुशुरिति । क्रोशः निरक्षरध्वनिः । परिदेवनं साक्षरशब्दः ॥ ११-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,8 +152,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 अवध्यो देवतानां यस्तथा दानवरक्षसाम् ।  
 हतः सोयं रणे शेते मानुषेण पदातिना ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मानुषाद्भयं । जातमिति शेषः ॥ १४-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,8 +173,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 एवं वदन्त्यो बहुधा रुरुदुस्तस्य ताः स्त्रियः ।  
 भूय एव च दुःखार्ता विलेपुश्च पुनः पुनः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कश्चिदि वयः कश्चित्पुरुष इव लम्भितः प्रापितः ॥ १६-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,8 +190,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 अशृण्वता च सुहृदां सततं हितवादिनाम् ।  
 मरणायाहृता सीता घातिताश्च निशाचराः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुहृदां सुहृद्भ्यः । पञ्चम्यर्थे षष्ठी । वचनमितिवाशेषः । अश्रृण्वता त्वया ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +209,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 ब्रुवाणोपि हितं वाक्यमिष्टो आता विभीषणः ॥  
 धृष्टं परुषितो मोहान्त्वयाऽऽत्मवधकाङ्क्षिणा ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एताः वयं ते राक्षसाः आत्मा च समं युगपत् इदानीं पातिताः । मारिताइत्यर्थः । इष्टः प्रीतिमान् ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +230,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 वृत्तकामो भवेद्भ्राता रामो मित्रकुलं भवेत् ।  
 वयं चाविधवाः सर्वाः सकामा न च शत्रवः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यदीत्यादिश्लोकद्वयमेकान्वयम् ॥ ते त्वया । निर्यातिता प्रत्यर्पिता । मूलहरं मूलभूतत्वत्पर्यन्तहरं । यदि सीता निर्यातिता स्यात्तदा भ्राता विभीषणो वृत्तकामः निष्पन्नमनोरथः भवेत् । स्ववाक्यकरणादिति भावः । तथा रामः मित्रकुलं कुलमित्रं । शत्रवः देवादयः ॥ २०-२१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +247,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 त्वया पुनर्नृशंसेन सीतां संरुन्धता बलात् ।  
 राक्षसा वयमात्मा च त्रयं तुल्यं निपातितम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तुल्यमिति । युगपदित्यर्थः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,8 +268,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 वानराणां विनाशोऽयं रक्षसां च महाहवे ।  
 तव चैव महाबाहो दैवयोगादुपागतः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 एवं रावणस्वेच्छाचरणस्य राक्षसनाशहेतुतामभिधाय संप्रति तन्निरासपूर्वकं दैवकारितत्वं दर्शयति-न कामकार इति ॥ कामकारः स्वच्छन्दकरणं कामं प्रकामं । नास्ति । कुतः दैवं चेष्टयते सर्वं हतं दैवेन हन्यते । दैवेन हतमन्येन हन्यते ॥ २३-२४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,8 +285,11 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 नैवार्थेन न कामेन विक्रमेण न चाज्ञया ।  
 शक्या दैवगतिर्लोके निवर्तयितुमुद्यता ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उद्यता कार्योन्मुखी दैवगतिः अर्थादिना न निवर्तयितुं शक्या । कामेन स्वेच्छया ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -264,7 +303,10 @@ title_english = "113 Hanuma informs Seetha about Rama s victory"
 कुरर्य इव दुःखार्ता बाष्पपर्याकुलेक्षणाः ॥ २६ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 कुरर्यः क्रौञ्च्यः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

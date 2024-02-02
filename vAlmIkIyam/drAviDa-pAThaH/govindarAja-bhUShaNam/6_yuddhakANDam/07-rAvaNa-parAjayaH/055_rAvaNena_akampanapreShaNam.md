@@ -36,7 +36,10 @@ title_english = "055 Ravana next sends Akampana"
 अकम्पनं पुरस्कृत्य सर्वशस्त्रप्रकोविदम् ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथाकम्पनयुद्धं पञ्चपञ्चाशे – वज्रदंष्ट्रमित्यादि ॥ बलाध्यक्ष प्रहस्तम् ॥ १ – २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +57,10 @@ title_english = "055 Ravana next sends Akampana"
 वानरांश्चापरान्घोरान्हनिष्यति परंतपः ॥ ४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 शास्ता परसैन्यनिग्राहक । गोप्ता स्वबलरक्षकः । नेता नायकः । सेनापतिरित्यर्थः । संमतः प्रसिद्धः ॥ ३-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

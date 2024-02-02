@@ -32,7 +32,10 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 किंचिद्दीनमुखश्चापि सचिवांस्तानुदैक्षत ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ युद्धाय प्रहस्तनिर्याणं सप्तपञ्चाशे – अकम्पनवधमित्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,7 +55,10 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 ददर्श नगरीं लङ्कां पताकाध्वजमालिनीम् ॥ ३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 स वित्यादिसार्धश्लोक एकान्वयः ॥ ततः स रावणः पुरीं परिययौ । पूर्वदिवसे दिवसस्य पूर्वभागे । पूर्वाह्न इत्यर्थः । गुल्मान् सेनाव्यूहान् ॥ २-३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

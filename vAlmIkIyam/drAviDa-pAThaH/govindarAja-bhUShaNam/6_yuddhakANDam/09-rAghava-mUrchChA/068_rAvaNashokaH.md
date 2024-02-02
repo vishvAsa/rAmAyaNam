@@ -32,7 +32,10 @@ title_english = "068 Ravana s grief over the deaths"
 राक्षसा राक्षसेन्द्राय रावणाय न्यवेदयन् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 कुम्भकर्णवधश्रवणेन रावणस्य प्रलापः- कुम्भकर्णमित्यादि ॥ अत्र रावणायेत्यत्र यकारो गायत्र्या अष्टादशाक्षरं । सप्तदशसहस्रश्लोका गताः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "068 Ravana s grief over the deaths"
 राजन्स कालसंकाशः संयुक्तः कालकर्मणा ।  
 विद्राव्य वानरीं सेनां भक्षयित्वा च वानरान् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कालकर्मणा कालस्य मृत्योः कर्मणा । मरणरूपक्रिययेति यावत् । यद्वा काले कर्मणा कालकर्मणा । परिपक्चकर्मणेत्यर्थः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +93,11 @@ title_english = "068 Ravana s grief over the deaths"
 हा वीर रिपुदर्पघ्न कुम्भकर्णं महाबल ।  
 त्वं मां विहाय वै दैवाद्यातोसि यमसादनम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रतपित्वा पराक्रम्य, एतदारभ्य श्लोकत्रयमेकान्वयम् ॥ अर्धप्रविष्टेन अर्धेन कबन्धमात्रेण प्रविष्टेन । कायेन समुद्रं रुद्ध्वा । शरीरेण उन्तमाङ्गेन । द्वारं रुद्ध्वा । लगण्डभूतः पिण्डीभूतः । लगण्डोऽजगर इत्येके । विकृतः विकृतशरीरः । रामतेजसा प्रशान्त इत्यन्वयः ॥ ३–१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +110,11 @@ title_english = "068 Ravana s grief over the deaths"
 मम शल्यमनुद्धृत्य बान्धवानां महाबल ।  
 शत्रुसैन्यं प्रताप्यैकस्त्वं मां संत्यज्य गच्छसि ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मम बान्धवानां च शल्यं शोकमित्यर्थः ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,8 +139,11 @@ title_english = "068 Ravana s grief over the deaths"
 एते देवगणाः सार्धमृषिभिर्गगने स्थिताः ।  
 निहतं त्वां रणे दृष्ट्वा निनदन्ति प्रहर्षिताः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुरासुरात् सुरासुरेभ्यः ॥ १२-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +160,11 @@ title_english = "068 Ravana s grief over the deaths"
 राज्येन नास्ति मे कार्यं किं करिष्यामि सीतया ।  
 कुम्भकर्णविहीनस्य जीविते नास्ति मे रतिः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लब्धलक्षाः लब्धावसराः ॥ १६–१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +177,11 @@ title_english = "068 Ravana s grief over the deaths"
 यद्यहं भातृहन्तारं न हन्मि युधि राघवम् ।  
 ननु मे मरणं श्रेयो न चेदं व्यर्थजीवितम् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भ्रातृहन्तारं न हन्मि यदि तदा इदं व्यर्थजीवितं श्रेयःनच । नैवेत्यर्थः । किंतु मरणमेव श्रेयो नन्विति संबन्धः ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,8 +202,11 @@ title_english = "068 Ravana s grief over the deaths"
 तदिदं मामनुप्राप्तं विभीषणवचः शुभम् ।  
 यदज्ञानान्मया तस्य न गृहीतं महात्मनः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भ्रातृनिति बहुवचनं पूजार्थ ॥ १९ – २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,7 +232,10 @@ title_english = "068 Ravana s grief over the deaths"
 तदाऽपतद्भ्रातृविनाशनार्तो मुहुर्मुहुश्चैव विनिश्वसन्बली ॥ २५ ॥\]
 </details>
 
+<details><summary>व्याख्या</summary>
+
 कुम्भकर्णप्रहस्तयोरयं दारुणो विनाशः यावत् यदा समुत्पन्नः ततआरभ्य विभीषणवचो मां व्रीडयतिपीडयतीत्यर्थः ॥ २२ – २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

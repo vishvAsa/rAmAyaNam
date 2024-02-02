@@ -36,7 +36,10 @@ title_english = "102 Ravana gets severely hurt"
 विसृजन्नेव बाणौघान्सुषेणं वाक्यमब्रवीत् ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ लक्ष्मणसंजीवनं द्विशततमे – शक्त्या विनिहतमित्यादिश्लोकद्वयमेकं वाक्यम् ॥ विसृजन्नेवेत्यादिवर्तमाननिर्देशन रावणपलायनानन्तरं लक्ष्मणयोगक्षेमानुसंधाने अविलम्बः सूचितः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "102 Ravana gets severely hurt"
 एष रावणवेगेन लक्ष्मणः पतितः क्षितौ ।  
 सर्पवद्वेष्टते वीरो मम शोकमुदीरयन् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उदीरयन् जनयन् ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "102 Ravana gets severely hurt"
 अयं स समरश्लाघी भ्राता मे शुभलक्षणः ।  
 यदि पञ्चत्वमापन्नः प्राणैर्मे किं सुखेन च ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्राणैः प्राणेभ्यः ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +96,11 @@ title_english = "102 Ravana gets severely hurt"
 चिन्ता मे वर्धते तीव्रा मुमूर्षा चोपजायते ।  
 भ्रातरं निहतं दृष्ट्वा रावणेन दुरात्मना ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लज्जतीवेत्यादिसार्धश्लोकद्वयमेकान्वयम् ॥ लज्जतीव । आर्षं परस्मैपदं । स्वप्नयाने स्वप्नगमने । स्वप्ने हि गच्छतां पुरुषाणां पादाः पश्चादाकृष्टा भवन्ति । भ्रातरं निहतं दृष्ट्वेति पूर्वशेषः ॥ ६–७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "102 Ravana gets severely hurt"
 राघवो भ्रातरं दृष्ट्वा प्रियं प्राणं बहिश्चरम् ।  
 दुःखेन महताविष्टो ध्यानशोकपरायणः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विनिष्टनन्तमित्यादिसार्धश्लोकमेकं वाक्यम् ॥ विनिष्टनन्तं निश्वसन्तं । ध्यानशोकपरायणः अभूदिति शेषः ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +130,11 @@ title_english = "102 Ravana gets severely hurt"
 
 परं विषादमापन्नो विललापाकुलेन्द्रियः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परं विषादमित्यर्धम् ॥ राघव इत्यनुषञ्जनीयम् ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,8 +147,11 @@ title_english = "102 Ravana gets severely hurt"
 न हि युद्धेन मे कार्यं नैव प्राणैर्न सीतया ।  
 भ्रातरं निहतं दृष्ट्वा लक्ष्मणं रणपांसुषु ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दृष्ट्वा स्थितस्येति शेषः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +204,11 @@ title_english = "102 Ravana gets severely hurt"
 विवेष्टमानं करुणमुच्छ्रसन्तं पुनः पुनः ॥  
 राममाश्वासयन्वीरः सुषेणो वाक्यमब्रवीत् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत्र यतः ॥ ११–२० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +233,11 @@ title_english = "102 Ravana gets severely hurt"
 नायं प्रेतत्वमापन्नो लक्ष्मणो लक्ष्मिवर्धनः ।  
 मा विषादं कृथा वीर सप्राणोऽयमरिन्दमः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 श्यावं कपिशं । विवर्णमिति यावत् । श्यावः स्यात्कपिशः इत्यमरः ॥ २१ – २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -228,7 +255,10 @@ title_english = "102 Ravana gets severely hurt"
 हनुमन्तमुवाचेदं हनूमन्तमभित्वरन् ॥ २६ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 मुहुर्मुहुः कम्पमानं हृदयमेनं सोच्छ्रासं सप्राणं । आख्यास्यते आचष्टे । लङर्थे लट् ॥ २५-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

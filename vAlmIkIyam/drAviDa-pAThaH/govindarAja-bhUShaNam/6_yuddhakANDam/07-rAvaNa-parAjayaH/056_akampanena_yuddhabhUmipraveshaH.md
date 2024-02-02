@@ -40,7 +40,10 @@ title_english = "056 Akampana enters the battle field"
 यत्रैते बहवो घ्नन्ति सुबहून्राक्षसान्रणे ॥ ३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथाकम्पनवधः षट्पञ्चाशे–तद्दृष्ट्वेत्यादि ॥ १-३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,8 +60,11 @@ title_english = "056 Akampana enters the battle field"
 एतान्निहन्तुमिच्छामि समरश्लाघिनो ह्यहम् ।  
 एतैः प्रमथितं सर्वें दृश्यते राक्षसं बलम् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रमुखे अग्रे ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,8 +81,11 @@ title_english = "056 Akampana enters the battle field"
 न स्थातुं वानराः शेकुः किं पुनर्योद्धुमाहवे ।  
 अकम्पनशरैर्भग्नाः सर्व एव विदुद्रुवुः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रजवनाश्वेन वेगवदश्वेन ॥ ६-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +110,11 @@ title_english = "056 Akampana enters the battle field"
 अकम्पनस्तु शैलाभं हनूमन्तमवस्थितम् ।  
 महेन्द्र इव धाराभिः शरैरभिववर्ष ह ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उपतस्थे अकम्पनसमीपमाजगाम ॥ ८-११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +131,11 @@ title_english = "056 Akampana enters the battle field"
 स प्रसह्य महातेजा हनूमान्मारुतात्मजः ।  
 अभिदुद्राव तद्रक्षः कम्पयन्निव मेदिनीम् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अकम्पनवधार्थाय अकम्पनवधरूपप्रयोजनाय ॥ १२-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +148,11 @@ title_english = "056 Akampana enters the battle field"
 तस्याभिनर्दमानस्य दीप्यमानस्य तेजसा ।  
 बभूव रूपं दुर्धर्षं दीप्तस्येव विभावसोः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्य हनुमतः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +165,11 @@ title_english = "056 Akampana enters the battle field"
 आत्मानमग्रहरणं ज्ञात्वा क्रोधसमन्वितः ।  
 शैलमुत्पाटयामास वेगेन हरिपुङ्गवः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अप्रहरणं अनायुधम् ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +182,11 @@ title_english = "056 Akampana enters the battle field"
 तं गृहीत्वा महाशैलं पाणिनैकेन मारुतिः ।  
 स विनद्य महानादं भ्रामयामास वीर्यवान् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महानादं विनद्य महानादं कृत्वेत्यर्थः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,8 +203,11 @@ title_english = "056 Akampana enters the battle field"
 अकम्पनस्तु तद्दृष्ट्वा गिरिशृङ्गं समुद्यतम् ।  
 दूरादेव महाबाणैरर्धचन्द्रैर्व्यदारयत् ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इति । तत्र सः शैलेनेत्यध्याहार्यं । सहनुमान् अकम्पनं पुरन्दरो नमुचिं यथा तथा शैलेन वज्रेणेवाभिदुद्राव ॥ १७-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,8 +228,11 @@ title_english = "056 Akampana enters the battle field"
 तं गृहीत्वा महास्कन्धं सोश्चकर्णं महाद्युतिः ।  
 प्रहस्य परया प्रीत्या भ्रामयामास संयुगे ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्रोधमूर्च्छितः अभूदितिशेषः ॥ १९–२१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,8 +245,11 @@ title_english = "056 Akampana enters the battle field"
 प्रधावन्नूरुवेगेन प्रभञ्जंस्तरसा द्रुमान् ।  
 हनुमान्परमक्रुद्धचरणैर्दारयत्क्षितिम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चरणैः चरणन्यासैः । दारयत् अदास्यत् ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,8 +274,11 @@ title_english = "056 Akampana enters the battle field"
 स चतुर्दशभिर्बाणैः शितैर्देहविदारणैः ।  
 निर्विभेद हनूमन्तं महावीर्यमकम्पनः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पदातितया गच्छन्तीति पदातिगाः तान् ॥ २३-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,8 +299,11 @@ title_english = "056 Akampana enters the battle field"
 ततोऽन्यं वृक्षमुत्पाट्य कृत्वा वेगमनुत्तमम् ।  
 शिरस्यभिजघानाशु राक्षसेन्द्रमकम्पनम् ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्ररूढः प्ररूढवृक्षः ॥ २७–२९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,8 +316,11 @@ title_english = "056 Akampana enters the battle field"
 स वृक्षेण हतस्तेन सक्रोधेन महात्मना ।  
 राक्षसो वानरेन्द्रेण पपात च ममार च ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वानरेन्द्रेण कर्त्रा । तेन वृक्षेणहत इत्यन्वयः ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,8 +349,11 @@ title_english = "056 Akampana enters the battle field"
 तेषु लङ्कां प्रविष्टेषु राक्षसेषु महाबलाः ।  
 समेत्य हरयः सर्वे हनुमन्तमपूजयन् ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 क्षितिकम्पे भूकम्पे ॥ ३१-३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -334,7 +379,10 @@ title_english = "056 Akampana enters the battle field"
 तथैव सुग्रीवमुखाः प्लवङ्गमा विभीषणश्चैव महाबलस्तथा ॥ ३९ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 प्रत्यभ्यपूजयत् भवत्साहाय्येनैव मया जितमित्येवमिति भावः ॥ ३६-३९ ॥ चतुर्थ्यामकम्पनवधः ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

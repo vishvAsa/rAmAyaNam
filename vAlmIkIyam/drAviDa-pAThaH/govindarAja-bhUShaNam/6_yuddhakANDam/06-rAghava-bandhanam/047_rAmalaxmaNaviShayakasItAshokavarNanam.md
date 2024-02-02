@@ -32,7 +32,10 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 राघवं परिवार्यार्ता ररक्षुर्वानरर्षभाः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ सीतायै वीरशयनस्थरामलक्ष्मणप्रदर्शनं सप्तचत्वारिंशे – प्रतिप्रविष्ट इत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -47,8 +50,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 गजो गवाक्षो गवयः शरभो गन्धमादनः ।  
 जाम्बवानृषभः स्कन्धो रम्भः शतबलिः पृथुः ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ये ररक्षुस्तानाह – हनुमानित्यादिना ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,8 +77,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 राक्षस्यस्त्रिजटा चैव शासनात्समुपस्थिताः ।  
 ता उवाच ततो हृष्टो राक्षसी राक्षसाधिपः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अन्यान्वानरानाहव्यूढानीकाश्चेति ॥ व्यूढानीकाः कृतव्यूहसेनावन्तः। चेष्टत्सु चेष्टमानेषु ॥ ३ –५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 हताविन्द्रजिताऽऽख्यात वैदेह्या रामलक्ष्मणौ ।  
 पुष्पकं च समारोप्य दर्शयध्वं हतौ रणे ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आख्यात कथयत ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 निर्विशङ्का निरूद्विग्ना निरपेक्षा च मैथिली ।  
 मामुपस्थास्यते सीता सर्वाभरणभूषिता ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अवष्टब्धा गर्विता । निर्विशङ्का निर्विचारा । निरुद्विग्ना निःशोका । भावे निष्ठा । निरपेक्षा रामः समेष्यतीत्याशारहिता ॥ ७-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +146,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 तामादाय तु राक्षस्यो भर्तृशोकपराजिताम् ।  
 सीतामारोपयामासुर्विमानं पुष्पकं तदा ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अद्येत्यादिसार्धश्लोक एकान्वयः ॥ अन्यां गतिं चापश्यती । आगमशासनस्यानित्यत्वान्नुमभावः । अन्यां मत्तोन्यां । गम्यत इति गतिः प्राप्यं । विनिवृत्ताशा रामाद्विनिवृत्तभावा ॥ ९-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +163,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 ततः पुष्पकमारोप्य सीतां त्रिजटया सह ।  
 जग्मुर्दर्शयितुं तस्यै राक्षस्यो रामलक्ष्मणौ ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्रिजटया सह सीतामारोप्य । उभयोरेव विमानारोहणमनुज्ञायेत्यर्थः । पुत्रीत्वान्निपुणतया च त्रिजटाया विमानारोहणानुज्ञा ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,8 +190,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 प्रहृष्टमनसश्चापि ददर्श पिशिताशनान् ।  
 वानरांश्चापि दुःखार्तान्रामलक्ष्मणपार्श्वतः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इन्द्रजिता रण इत्यनन्तरमितिकरणं बोध्यम् ॥ १४–१६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +211,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 विध्वस्तकवचौ वीरौ विप्रविद्धरासनौ ।  
 सायकैश्छिन्नसर्वाङ्गौ शरस्तम्बमयौ क्षितौ ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ततः सीतेत्यादिश्लोकद्वयम् ॥ विप्रविद्धशरासनौ भ्रष्टचापौ । सायकैश्छिन्नसर्वाङ्गौ अतएव शरस्तम्बमयौ शरगुल्ममयौ । स्तम्बः समूह इत्येके । क्षितौ शरतल्पयोः शयानाविति संबन्धः ॥ १७-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +236,11 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 भर्तारमनवद्याङ्गी लक्ष्मणं चासितेक्षणा ।  
 प्रेक्ष्य पांसुषु वेष्टन्तौ रुरोद जनकात्मजा ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तावित्यादिश्लोकद्वयम् ॥ पावकी पावकपुत्रौ स्कन्दविशाखौ । अत्रोत्तरो वीरशब्दः कुमारावित्यस्य विशेषणम् ॥ १९-२१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -224,7 +254,10 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 वितर्कयन्ती निधनं तयोः सा दुःखान्विता वाक्यमिदं जगाद ॥ २२ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 सेति अत्र वीक्षणगदरूपक्रियाभेदात्तच्छब्दद्वयम् ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

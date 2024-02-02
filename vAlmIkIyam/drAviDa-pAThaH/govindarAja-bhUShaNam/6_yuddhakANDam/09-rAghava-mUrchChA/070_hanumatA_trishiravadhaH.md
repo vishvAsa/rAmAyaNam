@@ -36,7 +36,10 @@ title_english = "070 Hanuma kills Trishira"
 वालिपुत्रं महावीर्यमभिदुद्राव वीर्यवान् ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 पौलस्त्य इति त्रिमूर्धविशेषणं । न तु महोदरस्य । देवान्तकादयस्त्रयश्चुक्रुशुरिति संबन्धः ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,8 +80,11 @@ title_english = "070 Hanuma kills Trishira"
 गजेन समभिद्रुत्य वालिपुत्रं महोदरः ।  
 जघानोरसि संक्रुद्धस्तोमरैर्वज्रसन्निभैः ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समभिद्रवत् समभ्यद्रवत् ॥ ३-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,8 +101,11 @@ title_english = "070 Hanuma kills Trishira"
 स त्रिभिनैर्ऋतश्रेष्ठैर्युगपत्समभिद्रुतः ।  
 न विव्यथे महातेजा वालिपुत्रः प्रतापवान् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यपचक्राम पश्चादाजगाम ॥ ११-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -109,8 +118,11 @@ title_english = "070 Hanuma kills Trishira"
 स वेगवान्महावेगं कृत्वा परमदुर्जयः ।  
 तलेन भृशमुत्पत्य जघानास्य महागजम् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्य महोदरस्य ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,8 +135,11 @@ title_english = "070 Hanuma kills Trishira"
 तस्य तेन प्रहारेण नागराजस्य संयुगे ।  
 पेततुर्लोचने तस्य विननाद स वारणः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्य अङ्गदस्य । तस्य नागराजस्येति द्वितीयतच्छब्दान्वयः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,8 +180,11 @@ title_english = "070 Hanuma kills Trishira"
 तद्बाणशतनिर्भिन्नं विदारितशिलातलम् ।  
 सविस्फुलिङ्गं सज्वालं निपपात गिरेः शिरः ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महाबलः वालिपुत्रः अस्य महोदरवाहनस्य गजस्य विषाणं निष्कृष्य अभिप्लुत्य वेगेन सन्निपत्य । देवान्तकं ताडयामासेति संबन्धः ॥ १५-२२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +221,11 @@ title_english = "070 Hanuma kills Trishira"
 ततो बाणमयं वर्ष नीलस्योरस्यपातयत् ।  
 गिरौ वर्षं तडिचक्रचापवानिव तोयदः ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जृम्भितं भग्नमिति यावत् । जृम्भितं तद्धनुर्दृष्ट्वेत्यादिवत् ॥ २३ – २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,8 +242,11 @@ title_english = "070 Hanuma kills Trishira"
 ततस्तु नीलः प्रतिलभ्य संज्ञां शैलं समुत्पाट्य सवृक्षषण्डम् ।  
 ततः समुत्पत्य भृशोग्रवेगो महोदरं तेन जघान मूर्ध्नि ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निसृष्टगात्रः शिथिलगात्रः । विष्टम्भितः स्तब्धीकृतः । एतन्निसृष्टत्वे हेतुः ॥ ३०-३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,8 +287,11 @@ title_english = "070 Hanuma kills Trishira"
 दिवः क्षिप्तामिवोल्कां तां शक्तिं क्षिप्तामसंगताम् ।  
 गृहीत्वा हरिशार्दूलो बभञ्ज च ननाद च ॥ ३९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विपोथितः हिंसितः ॥ ३२-३९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,8 +304,11 @@ title_english = "070 Hanuma kills Trishira"
 तां दृष्ट्वा घोरसंकाशां शक्तिं भग्नां हनूमता ।  
 प्रहृष्टा वानरगणा विनेदुर्जलदा इव ॥ ४० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 घोरसंकाशां भयंकरप्रकाशाम् ॥ ४० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -295,8 +325,11 @@ title_english = "070 Hanuma kills Trishira"
 खड्गप्रहारामिहतो हनूमान्मारुतात्मजः ।  
 आजधान त्रिशिरसं तलेनोरसि वीर्यवान् ॥ ४२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यूढे विशाले ॥ ४१–४२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +356,11 @@ title_english = "070 Hanuma kills Trishira"
 कुपितश्च निजग्राह किरीटे राक्षसर्षभम् ।  
 \[ हनुमान्रोषताम्राक्षो राक्षसं परवीरहा \] ॥ ४६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यक्तचेतनः मूर्च्छित इत्यर्थः ॥ ४३-४६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,8 +373,11 @@ title_english = "070 Hanuma kills Trishira"
 स तस्य शीर्षाण्यसिना शितेन किरीटजुष्टानि सकुण्डलानि ।  
 क्रुद्धः प्रचिच्छेद सुतोऽनिलस्य त्वष्टुः सुतस्येव शिरांसि शक्रः ॥ ४७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्वष्टुः सुतः विश्वरूपः। विश्वरूपो वै त्वाष्ट्रः पुरोहितः इत्यादि श्रुतिप्रसिद्धः ॥ ४७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,8 +394,11 @@ title_english = "070 Hanuma kills Trishira"
 तस्मिन्हते देवरिपौ त्रिशीर्षे हनूमता शक्रपराक्रमेण ।  
 नेदुः प्लवङ्गाः प्रचचाल भूमी रक्षांस्यथो दुद्रुविरे समन्तात् ॥ ४९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मुक्तानि अनुभूतपुण्यफलानि । अर्कमार्गात् आकाशात् ॥ ४८-४९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -385,8 +427,11 @@ title_english = "070 Hanuma kills Trishira"
 गदामादाय संक्रुद्धो मत्तो राक्षसपुङ्गवः ।  
 हरीन्समभिदुद्राव युगान्ताग्निरिव ज्वलन् ॥ ५४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हतं त्रिशिरसमित्यादि चतुश्लोक्येकान्वया । मत्तः महापार्श्वः । मत्त इति महापार्श्वस्य नामान्तरं । मांसशोणितफेनिलामिति युद्धकालिकरूपं । शत्रुशोणितरञ्जितामिति पूर्वकालिकरूपं । महापद्मः पुण्डरीकाह्वयदिग्गजः ॥ ५०-५४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -403,8 +448,11 @@ title_english = "070 Hanuma kills Trishira"
 तं पुरस्तात्स्थितं दृष्ट्वा वानरं पर्वतोपमम् ।  
 आजघानोरसि क्रुद्धो गदया वज्रकल्पया ॥ ५६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मत्तानीकं मत्तानीक इति च महापार्श्वस्य नामान्तरम् ॥ ५५-५६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -441,8 +489,11 @@ title_english = "070 Hanuma kills Trishira"
 सा तस्य रौद्रा समुपेत्य देहं रौद्रस्य देवाध्वरविप्रशत्रोः ।  
 बिभेद वक्षः क्षतजं च भूरि सुस्राव धात्वंभ इवाद्रिराजः\] ॥ ६३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समाधूतः कम्पितः ॥ ५७–६३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,8 +556,11 @@ title_english = "070 Hanuma kills Trishira"
 वित्रस्तदन्तनयनो निपपात महीतले ।  
 सुस्राव रुधिरं सोष्णं गतासुश्च ततोऽभवत् \] ॥ ७७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गदामभिदुद्राव गदां ग्रहीतुं दुद्रावेत्यर्थः ॥ ६४-७७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -520,7 +574,10 @@ title_english = "070 Hanuma kills Trishira"
 त्यक्तायुधं केवलजीवितार्थं दुद्राव भिन्नार्णवसन्निकाशम् ॥ ७८ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 केवलजीविवार्थ यशोरहितजीवनार्थं । भिन्नार्णवसन्निकाशमिति क्रियाविशेषणम् ॥ ७८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

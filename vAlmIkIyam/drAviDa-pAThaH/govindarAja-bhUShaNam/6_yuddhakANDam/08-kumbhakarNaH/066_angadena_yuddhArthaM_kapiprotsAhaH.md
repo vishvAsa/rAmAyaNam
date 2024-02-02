@@ -32,7 +32,10 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 निर्ययौ नगरात्तूर्णं कुम्भकर्णो महाबलः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ कुम्भकर्णयुद्धप्रवृत्तिः – स इत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +56,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 तांस्तु विप्रद्रुतान्दृष्ट्वा वालिपुत्रोऽङ्गदोऽब्रवीत् ।  
 नलं नीलं गवाक्षं च कुमुदं च महाबलम् ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विधमन् दुहुन् ॥ २-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,8 +73,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 आत्मानमत्र विस्मृत्य वीर्याण्यभिजनानि च ।  
 क्व गच्छत भयत्रस्ताः प्राकृता हरयो यथा ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अभिजनानि प्रशस्तकुलानि ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +98,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 कृच्छ्रेण तु समाश्वस्य संगम्य च ततस्ततः ।  
 वृक्षाद्रिहस्ता हरयः संप्रतस्थू रणाजिरम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विभीषिका भयजनकः कृत्रिमपुरुषवेषः ॥ ६-८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,8 +115,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 ते निवृत्य तु संक्रुद्धाः कुम्भकर्णं वनौकसः ।  
 निजघ्नुः परमक्रुद्धाः समदा इव कुञ्जराः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परमक्रुद्धा इति कुञ्जरविशेषणम् ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,8 +136,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 तस्य गात्रेषु पतिता भिद्यन्ते शतशः शिलाः ।  
 पादपाः पुष्पिताग्राश्च भग्नाः पेतुर्महीतले ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रांशुभिः उन्नतैः । महाबलः कुम्भकर्णः ॥ १०- ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,8 +153,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 सोपि सैन्यानि संक्रुद्धो वानराणां महौजसाम् ।  
 ममन्थ परमायत्तो वनान्यग्निरिवोत्थितः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ममन्थ । ददाहेत्यर्थः ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,8 +170,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 लोहितार्द्रास्तु बहवः शेरते वानरर्षभाः ।  
 निरस्ताः पतिता भूमौ ताम्रपुष्पा इव द्रुमाः ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निरस्ताः उत्क्षिप्ताः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,8 +185,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 
 लङ्घयन्तः प्रधावन्तो वानरा नावलोकयन् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लङ्घयन्त इत्यर्धम् ॥ नावलोकयन् नावालोकयन् । पृष्ठदेशमित्यर्थः ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,8 +202,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 केचित्समुद्रे पतिताः केचिद्गगनमाश्रिताः ।  
 वध्यमानास्तु ते वीरा राक्षसेन बलीयसा ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 केचित्ते वानरा इति योजना ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +217,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 
 सागरं येन ते तीर्णाः पथा तेन प्रदुद्रुवुः ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सागरमित्यर्धम् ॥ ते वानराः ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,8 +234,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 ते स्थलानि तथा निम्नं विषण्णवदना भयात् ।  
 ऋक्षा वृक्षान्समारूढाः केचित्पर्वतमाश्रिताः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स्थलानि अतिधावनयोग्यान्देशान् उन्नतप्रदेशान्वा । आश्रिता इत्यन्वयः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -219,8 +255,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 \[ केचिद्भूमौ निपतिताः केचित्सुप्ता मृता इव \] ।  
 तान्समीक्ष्याङ्गदो भग्नान्वानरानिदमब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निषेदुः भूमौ पतिता इव तस्थुः ॥ १८-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,8 +274,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 भग्नानां वो न पश्यामि परिगम्य महीमिमाम् ।  
 स्थानं सर्वे निवर्तध्वं किं प्राणान्परिरक्षथ ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 परिगम्य प्रदक्षिणीकृत्येत्यर्थः । स्थानं न पश्यामीत्यन्वयः ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,8 +291,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 निरायुधानां द्रवतामसङ्गगतिपौरुषाः ।  
 दारा ह्येपहसिष्यन्ति स वै घातस्तु जीविनाम् ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 असङ्गगतिपौरुषाः अप्रतिबद्धपराक्रमा इति वानरसंबोधनं । निरायुधानां द्रवतां निरायुधेषु द्रवत्सु । यद्वा निरायुधानां द्रवतां दारास्तान् अपहसिष्यन्तीति । सः अपहास ः घातः मृतिः ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,8 +308,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 कुलेषु जाताः सर्वे स्म विस्तीर्णेषु महत्सु च ।  
 क्व गच्छथ भयत्रस्ता हरयः प्राकृता यथा ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्वे । वयमिति शेषः । विस्तीर्णेषु ज्ञातिपरम्परयां विततेषु । महत्सु प्रशस्तेषु ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,8 +323,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 
 अनार्याः खलु यद्भीतास्त्यक्त्वा वीर्यं प्रधावत ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनार्या इत्यर्धं । यद्यस्मात् भीताः प्रधावत पलायथ । तस्मादनार्याः खलु ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -289,8 +340,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 विकत्थनानि वो यानि तदा वै जनसंसदि ।  
 तानि वः क्व नु यातानि सोदग्राणि महान्ति च ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सोदग्राणि उदग्रतायुक्तानि । महान्ति भूयांसीत्यर्थः ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,8 +357,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 भीरुप्रवादाः श्रूयन्ते यस्तु जीवति धिक्कृतः ।  
 मार्गः सत्पुरुषैर्जुष्टः सेव्यतां त्यज्यतां भयम् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यस्तु धिक्कृतो जीवति तद्विषये भीरुप्रवादाः । भीरुत्वापवादाः । श्रूयन्ते । सत्पुरुषैः शूरैः । जुष्टः सेवितः ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -321,8 +378,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 संप्राप्नुयामः कीर्तिं वा निहत्वा शत्रुमाहवे ।  
 जीवितं वीरलोकस्य मोक्ष्यामो वसु वानराः ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सत्पुरुषजुष्टो मार्गः क इत्यपेक्षायामाह—शयामह इत्यादि । युद्धमरणं हि सत्पुरुषजुष्टो मार्ग इत्यर्थः । समरान्निवृत्य पलायितानामपि मरणस्यावश्यंभावित्वप्रदर्शनार्थमल्पजीविता इत्युक्तं । समरानिवर्तिनां वीराणां तु मरणजीवनयोरुभयोरपि श्रेयस्करत्वं प्रतिपादयति- दुष्प्रापमिति । निहत्वा निहत्य । जीवितमिति । वीरलोकस्य वीराणां लोको ब्रह्मलोकः तस्य वसु मूल्यभूतं जीवितं मोक्ष्यामः ॥ २६-२७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -335,8 +395,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 न कुम्भकर्णः काकुत्स्थं दृष्ट्वा जीवन्गमिष्यति ।  
 दीप्यमानमिवासाद्य पतङ्गो ज्वलनं यथा ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दीप्यमानं ज्वलनमिव राममासाद्य कुम्भकर्णः पतङ्गो यथेति यथेवशब्दयोर्निर्वाहः ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,8 +412,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 पलायनेन चोद्दिष्टाः प्राणान्रक्षामहे वयम् ।  
 एकेन बहवो भग्ना यशो नाशं गमिष्यति ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उद्दिष्टाः व्यपदिष्टाः । बहवो वयमनेन कुम्भकर्णेन भग्नाः पलायनेन प्राणान् रक्षामहे यदि ततो यशो नाशं गमिष्यतीति योजना ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,8 +429,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 एवं ब्रुवाणं तं शूरमङ्गदं कनकाङ्गदम् ।  
 द्रवमाणास्ततो वाक्यमूचुः शूरविगर्हितम् ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शूरं पराक्रमवन्तं । कनकाङ्गदं उत्साहातिशयेन प्रकाशितस्वर्णाङ्गदम् ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -381,8 +450,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 एतावदुक्त्वा वचनं सर्वे ते भेजिरे दिशः ।  
 भीमं भीमाक्षमायान्तं दृष्ट्वा वानरयूथपाः ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कदनं मर्दनं । दयितमिष्टम् ॥ ३१ – ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,8 +467,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 द्रवमाणास्तु ते वीरा अङ्गदेन वलीमुखाः ।  
 सान्त्वैश्चैवानुमानैश्च ततः सर्वे निवर्तिताः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनुमानैः सालगिरिभेद्नादिदृष्टान्तपुरस्कृतैर्युक्तिविशेषैः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -409,8 +484,11 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 प्रहर्षमुपनीताश्च वालिपुत्रेण धीमता ।  
 आज्ञाप्रतीक्षास्तस्थुश्च सर्वे वानरयूथपाः ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आज्ञाप्रतीक्षाः सुग्रीवाद्याज्ञाप्रतीक्षाः ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -424,7 +502,10 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 द्विविदपनसवायुपुत्रमुख्यास्त्वरिततराभिमुखं रणं प्रयाताः ॥ ३५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 त्वरिततराभिमुखं त्वरिततरं अभिमुखं चेति क्रियाविशेषणं । अत्र वायुपुत्रस्तु न पलाय्य निवृत्तः । किंतु ऋषभादिभिर्मिलित्वा कुम्भकर्णेन सह युद्धार्थं निवृत्त इति ज्ञेयम् ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

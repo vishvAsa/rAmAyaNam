@@ -32,7 +32,10 @@ title_english = "092 Ravana feels distressed over his son s death"
 बभूव हृष्टस्तं हत्वा शक्रजेतारमाहवे ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ लक्ष्मणश्लाघनं– रुधिरक्लिन्नगात्रेत्यादि ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 आजगाम ततस्तीव्रं यत्र सुग्रीवराघवौ ।  
 विभीषणमवष्टभ्य हनूमन्तं च लक्ष्मणः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिश्लोकद्वयमेकान्वयम् ॥ सन्निहत्य संघीभूय । अवष्टभ्य युद्धपारवश्यादवलम्ब्य ॥ २-३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +69,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 ततो राममभिक्रम्य सौमित्रिरभिवाद्य च ।  
 तस्थौ भ्रातृसंमीपस्थ इन्द्रस्येव बृहस्पतिः ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इन्द्रस्येव बृहस्पतिरिति पारतनेत्र्यमात्रे साम्यम् ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,8 +86,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 निष्टनन्निव चागम्य राघवाय महात्मने ।  
 आचचक्षे तदा वीरो घोरमिन्द्रजितो वधम् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निष्टनन् अव्यक्ताक्षरंवदन्नित्यर्थः । इवशब्दो वाक्यालंकारे । आयासस्याभिनयनमात्रेणा -लीकत्वद्योतनाय वा ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,8 +103,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 रावणेस्तु शिरश्छिन्नं लक्ष्मणेन महात्मना ।  
 न्यवेदयत रामाय तदा हृष्टो विभीषणः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 रामसन्निधौ संकोचवता लक्ष्मणेनाविशेषेणेन्द्रजिद्वधकथनाद्विभीषणः स्पष्टतयाह-रावणेरिति ॥ यद्वा लक्ष्मणेन सूचनयोक्तावपि हर्षप्रकर्षेण विभीषणः पुनराह – रावणेरिति ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,8 +120,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 श्रुत्वैतत्तु महावीर्यो लक्ष्मणेनेन्द्रजिद्वधम् ।  
 प्रहर्षमतुलं लेभे रामो वाक्यमुवाच ह ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 महावीर्यो राम इत्यन्वयः ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +137,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 साधु लक्ष्मण तुष्टोसि कर्मणा सुकृतं कृतम् ।  
 रावणेर्हि विनाशेन जितमित्युपधारय ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुकृतं कृतं सुकर्तव्यं कृतं । कर्मणा युद्धकर्मणा ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,8 +158,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 उपवेश्य तमुत्सङ्गे परिष्वज्यावपीडितम् ।  
 भ्रातरं लक्ष्मणं स्निग्धं पुनःपुनरुदैक्षत ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स तमित्यादिश्लोकद्वयमेकान्वयम् ॥ आरोग्य आरोपणायाकृष्य । अवपीडितं शल्यपीडितं । गाढं यथा भवति तथेति वा । क्रियाभेदात्तमिति द्विरुक्तिः ॥ ९-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,8 +179,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 मूर्ध्नि चैनमुपाघ्राय भूयः संस्पृश्य च त्वरन् ।  
 उवाच लक्ष्मणं वाक्यमाश्वास्य पुरुषर्षभः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शल्यसंपीडितमित्यादिश्लोकद्वयमेकान्वयम् ॥ शस्तं प्रहृतं । निश्वसितः स्वयंकृतनिश्वासः । त्वरन् संस्पृश्य । त्वरा च प्रहारव्यथापनयनायेति भावः ॥ ११-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +198,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 अद्य मन्ये हते पुत्रे रावणं निहतं युधि ।  
 अद्याहं विजयी शत्रौ हते तस्मिन् दुरात्मनि ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कृतमित्यादिसार्धश्लोकः ॥ दुष्करकर्मणा त्वयेति शेषः ॥ १३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,8 +215,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 रावणस्य नृशंसस्य दिष्ट्या वीर त्वया रणे ।  
 छिन्नो हि दक्षिणो बाहुः स हि तस्य व्यपाश्रयः ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यपाश्रयः आलम्बनम् ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,8 +232,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 विभीषणहनुमद्भ्यां कृतं कर्म महद्रणे ।  
 अहोरात्रैस्त्रिभिर्वीरः कथंचिद्विनिपातितः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अहोरात्रैस्त्रिभिरिति । एकादशीद्वादशीत्रयोदशीभिरित्यर्थः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,8 +253,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 तं पुत्रवधसंतप्तं निर्यान्तं राक्षसाधिपम् ।  
 बलेनावृत्य महता निहनिष्यामि दुर्जयम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निरमित्र इत्यादि श्लोकद्वयमेकान्वयम् ॥ १६-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -231,8 +270,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 त्वया लक्ष्मण नाथेन सीता च पृथिवी च मे ।  
 न दुष्प्रापा हते त्वद्य शक्रजेतरि चाहवे ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नाथेन याचमानेन । नाथृयाच्ञायां इत्यस्मात्पचाद्यच् ॥ १८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,8 +287,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 स भ्रातरमाश्वास्य परिष्वज्य च राघवः ।  
 रामः सुषेणं मुदितः समाभाष्येदमब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समाभाष्य आमन्त्र्य ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -259,8 +304,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 सशल्योयं महाप्राज्ञ सौमित्रिर्मित्रवत्सलः ।  
 यथा भवति सुस्वस्थस्तथा त्वं समुपाचर ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समुपाचर चिकित्सां कुरु ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,8 +325,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 ये चाप्यन्येऽत्र युध्यन्ति सशल्या व्रणिनस्तथा ।  
 तेऽपि सर्वे प्रयत्नेन क्रियन्तां सुखिनस्त्वया ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विशल्य इति श्लोकद्वयमेकान्वयम् ॥ ऋक्षवानरसैन्यानामिति निर्धारणे षष्ठी ॥ २१ – २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,8 +342,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 एवमुक्तस्तु रामेण महात्मा हरियूथपः ।  
 लक्ष्मणाय ददौ नस्तः सुपेणः परमौषधिम् ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नस्तः नासिकायाम् ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,8 +367,11 @@ title_english = "092 Ravana feels distressed over his son s death"
 ततः प्रकृतिमापनो हृतशल्यो गतव्यथः ।  
 सौमित्रिर्मुदितस्तत्र क्षणेन विगतज्वरः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निर्वेदनः वेदनारहितः ॥ २४-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -332,7 +389,10 @@ title_english = "092 Ravana feels distressed over his son s death"
 हृष्टा बभूवुर्युधि यूथपेन्द्रा निपातितं शक्रजितं निशम्य ॥ २८ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 मुदा युक्तमिति शेषः । मुदा युक्तं सौमित्रिमवेक्ष्य इति जहर्षिर इति संबन्धः । जहर्षिर इत्यत्र गुण आर्षः ॥ २७ – २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

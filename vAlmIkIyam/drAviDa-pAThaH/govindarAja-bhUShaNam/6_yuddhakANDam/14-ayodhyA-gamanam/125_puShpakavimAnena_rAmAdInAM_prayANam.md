@@ -32,7 +32,10 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 अविदूरस्थितो रामं प्रत्युवाच विभीषणः ॥ १॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ वानरसेनासंमाननं – उपस्थितमित्यादि ॥ तं दृष्ट्वा दर्शयित्वा । तत्कृत्वेति वा पाठः । प्रत्युवाच विमानमागतमितीति शेषः । स त्विति द्वितीयश्लोकसंग्रहो वायं श्लोकः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 स तु बद्धाञ्जलिः प्रह्वो विनीतो राक्षसेश्वरः ।  
 अब्रवीत्वरयोपेतः किं करोमीति राघवम् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्वरयोपेतः आदरोपेत इत्यर्थः । किं करोमीति । इतः परं किं करवाणीत्यर्थः ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,8 +65,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 तमब्रवीन्महातेजा लक्ष्मणस्योपशृण्वतः ।  
 विमृश्य राघवो वाक्यमिदं स्नेहपुरस्कृतम् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लक्ष्मणस्योपशृण्वतः लक्ष्मणसंमतिपूर्वकमित्यर्थः ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +82,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 कृतप्रयत्नकर्माणो विभीषण वनौकसः ।  
 रत्नैरर्थैश्च विविधैर्भूषणैश्चापि पूजय ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रयत्नकर्म प्रयत्नसाध्यं कर्मेत्यर्थः । अर्थैः प्रयोजनैः वस्त्रादिभिरित्यर्थः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +99,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 सहैभिरजिता लङ्का निर्जिता राक्षसेश्वर ।  
 हृष्टैः प्राणभयं त्यक्त्वा संग्रामेष्वनिवर्तिभिः ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अजिता पूर्वं सुरादिभिरप्यजिता । तव लङ्काराज्यप्राप्तिरेव तदधीत्यर्थः । हृष्टैः मयि प्रीतिमद्भिरित्यर्थः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +116,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 त इमे कृतकर्माणः पूज्यन्तां सर्ववानराः ।  
 धनरत्नप्रदानेन कर्मैषां सफलं कुरु ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त इम इत्यर्धोक्तं भङ्ग्यन्तरेणाह- धनरत्नेति ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +133,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 एवं संमानिताश्चैते मानार्हा मानद त्वया ।  
 भविष्यन्ति कृतज्ञेन निर्वृता हरियूथपाः ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निर्वृताः सुखिताः । निर्वृत्ता इति पाठे निष्पन्नाः । परिपूर्णा इति यावत् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,8 +150,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 त्यागिनं संग्रहीतारं सानुक्रोशं यशस्विनम् ।  
 सर्वे त्वामवगच्छन्ति ततः संबोधयाम्यहम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अर्थव्ययेन खेदो मा भूदित्याह- त्यागिनमिति ॥ संग्रहीतारं घनप्रदानेन मित्रसंग्रहकारिणमित्यर्थः । संग्रहार्थं त्यागित्वमुक्त्वा दयया त्यागित्वमाह – सानुक्रोशमिति । यशस्विनं त्यागकृतयशोवन्तं । संबोधयामि न तु चोदयामीत्यर्थः ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,8 +167,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 हीनं रतिगुणैः सर्वैरभिहन्तारमाहवे ।  
 त्यजन्ति नृपतिं सैन्याः संविग्नास्तं नरेश्वरम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सैनिकसंमानाकरणे दोषमाह – हीनमिति ॥ नृपतिं स्वामिनमपि । रतिगुणैः प्रीतिकरैरौदार्यादिगुणैः हीनं । अभिहन्तारं हिंसनशीलं । प्रसादं विना क्रोधैकनिरतमिति यावत् । तं नरेश्वरं सैन्याः संविग्नाः आहवे त्यजन्तीति योजना ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -157,8 +184,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 एवमुक्तस्तु रामेण वानरांस्तान्विभीषणः ।  
 रत्नार्थैः संविभागेन सर्वानेवाभ्यपूजयत् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संविभागेन यथार्हमंशकल्पनया । समतया प्रदाने अधिकानां कोपप्रसङ्गादिति भावः ॥ १० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,8 +209,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 अब्रवीच्च विमानस्थः पूजयन्सर्ववानरान् ।  
 सुग्रीवं च महावीर्यं काकुत्स्थः सविभीषणम् ॥ १३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत इत्यादिश्लोकद्वयमेकान्वयम् ॥ ततः पूजानन्तरं ततः पूजादर्शनादेव हेतोरिति ततःशब्दद्वययोजना । लज्जमानां सदस्यङ्कारोहणाय लज्जन्तीं । रामेणाङ्कारोपणं च स्त्रीसहायरहितत्वात् । धनुष्मता रामधनुर्धारिणा ॥ ११-१३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,8 +226,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 मित्रकार्यं कृतमिदं भवद्भिर्वानरोत्तमाः ।  
 अनुज्ञाता मया सर्वे यथेष्टं प्रतिगच्छत ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अब्रवीच्चेत्यत्र संग्रहेणोक्तं विवृणोति – मित्रेत्यादिना ॥ वानरान्प्रत्याह – मित्रेति ॥ १४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +245,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 कृतं सुग्रीव तत्सर्वं भवताऽधर्मभीरुणा ॥  
 किष्किन्धां प्रतियाह्याशु स्वसैन्येनाभिसंवृतः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सुग्रीवं प्रत्याह- यत्त्वित्यादिना ॥ सुहृदा शोभनहृदयेन । वाशब्द एवकारार्थः । अधर्मभीरुणेति च्छेदः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -231,8 +270,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 एवमुक्तास्तु रामेण वानरास्ते महाबलाः ।  
 ऊचुः प्राञ्जलयो रामं राक्षसञ्च विभीषणः ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विभीषणं प्रत्याह- स्वेति ॥ स्वराज्ये वस । न तु परकीयं रावणवदाक्रमितव्यं । अतो जनस्थानरक्षिणः समानेतव्या इति भावः ॥ १६-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,8 +295,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 एवमुक्तस्तु धर्मात्मा वानरैः सविभीषणैः ।  
 अब्रवीद्राघवः श्रीमान्ससुग्रीवविभीषणान् ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उद्युक्ताः सावधानाः । जनपदपीडामकुर्वन्त इत्यर्थः ॥ १९ – २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,8 +316,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 क्षिप्रमारोह सुग्रीव विमानं वानरैः सह ।  
 त्वमध्यारोह सामात्यो राक्षसेन्द्र विभीषण ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रियात्प्रियतरमिति ॥ सीतालाभः प्रियं । भरतदर्शनं प्रियात्प्रियं । भवद्भिः सह पुरप्रवेशः प्रियात्प्रियतरमित्यर्थः ॥ २२-२३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,8 +333,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 ततस्तत्पुष्पकं दिव्यं सुग्रीवः सह सेनया ।  
 अध्यारोहत्त्वरञ्शीघ्रं सामात्यश्च विभीषणः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शीघ्रं शीघ्रगमिति विमानविशेषणं । त्वरन्निति सुग्रीवविशेषणात् ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,8 +350,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 तेष्वारूढेषु सर्वेषु कौबेरं परमासनम् ।  
 राघवेणाभ्यनुज्ञातमुत्पपात विहायसम् ॥ २५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आसनं वाहनम् ॥ २५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,8 +367,11 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 ययौ तेन विमानेन हंसयुक्तेन भास्वता ।  
 प्रहृष्टश्च प्रतीतश्च बभौ रामः कुबेरवत् ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हंसयुक्तेन प्रतिमारूपहंसयुक्तेन । प्रतीतः श्लाघितः ॥ २६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -328,7 +385,10 @@ title_english = "125 Hanuma informs Bharata about Ramaâ s return"
 यथासुखमसंबाधं दिव्ये तस्मिन्नुपाविशन् ॥ २७ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 यथासुखमसंबाधमिति पदद्वयेन दिव्यस्य पुष्पकस्य अपेक्षितावकाशप्रदत्वं गम्यते ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

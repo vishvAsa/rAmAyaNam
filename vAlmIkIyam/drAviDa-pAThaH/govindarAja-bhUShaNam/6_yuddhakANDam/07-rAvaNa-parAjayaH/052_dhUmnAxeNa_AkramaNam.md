@@ -36,7 +36,10 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 अन्योन्यं पादपैर्घोरं निघ्नतां शूलमुद्गरैः ॥ २ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ धूम्राक्षवधो द्विपञ्चाशे – धूम्राक्षमित्यादि ॥ १-२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,8 +52,11 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 घोरैश्च परिघैश्चित्रैस्त्रिशूलैश्चापि संहतैः ।  
 राक्षसैर्वानरा घोरैर्विनिकृत्ताः समन्ततः ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 संहतैः संगतैः । राक्षसविशेषणमेतत् ॥ ३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -65,8 +71,11 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 राक्षसाचापि संक्रुद्धा वानरान्निशितैः शरैः ॥  
 विव्यधुर्घोरसंकाशैः कङ्कपत्रैरजिह्मगैः ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समीकृताः पातिताः । घोरसंकाशैः घोरकालाभ्यादितुल्यैः । अजिह्मगैः अवक्रगैः । कङ्कपत्रैः कङ्कपत्राण्येव पत्राणि येषां ते कङ्कपत्राः तैः ॥ ४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,8 +90,11 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 विदार्यमाणा रक्षोभिर्वानरास्ते महाबलाः ।  
 अमर्षाज्जनितोद्धर्षाश्चक्रुः कर्माण्यभीतवत् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जनितोद्धर्षाः जनितोत्साहाः ॥ ५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,8 +107,11 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 शरनिर्भिन्नगात्रास्ते शूलनिर्भिन्नदेहिनः ।  
 जगृहुस्ते द्रुमांस्तत्र शिलाश्च हरियूथपाः ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शूलनिर्भिन्नदेहिनः । कर्मधारयादिनिरार्षः ॥ ६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,8 +140,11 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 ध्वजैर्विमथितैर्भग्नैः खरैश्च विनिपातितैः ।  
 रथैर्विध्वंसितैश्चापि पतितै रजनीचरैः ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 नामानि स्वनामानि ॥ ७-११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +157,11 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 गजेन्द्रैः पर्वताकारैः पर्वताग्रैर्वनौकसाम् ।  
 मथितैर्वाजिभिः कीर्ण सारोह्रैर्वसुधातलम् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वनौकसां पर्वताग्रैः वानरप्रेरितपर्वताग्रैः । तैर्मथितैः गजेन्द्रैः । सारोहैः साधिष्ठातृभिः । वसुधातलं कीर्णमभूत् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -158,7 +179,10 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 मूढाः शोणितगन्धेन निपेतुर्धरणीतले ॥ १४ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 भीमविक्रान्तैः भीमविक्रमैः । वेगितैः संजातवेगैः । वानरैः कर्तृभिः । करजैः नखैः करणैः । आक्रम्याक्रम्य मुखेषु विनिकर्तिताः खण्डिताः । मूढाः मूर्च्छिताः ॥ १३-१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

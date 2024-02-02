@@ -42,7 +42,10 @@ title_english = "098 Angada kills Mahaparsva"
 उवाच च समीपस्थं महोदरमरिंदमम् ॥ ३ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ महोदरवधः – हन्यमान इत्यादि । सरसी इवेति वक्तव्ये सरसीवेति संधिरार्षः ॥ १-३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -61,8 +64,11 @@ title_english = "098 Angada kills Mahaparsva"
 एवमुक्तस्तथेत्युक्त्वा राक्षसेन्द्रो महोदरः ।  
 प्रविवेशारिसेनां तां पतङ्ग इव पावकम् ॥ ५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अस्मिन्काल इत्यादिसार्धश्लोक एकान्वयः ॥ भर्तृपिण्डस्येति संबन्धमात्रे षष्ठी । भर्तृपिण्डस्य निर्देष्टुं स्वामिदत्तवेतनमपाकर्तुमित्यर्थः ॥ ४-५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,8 +85,11 @@ title_english = "098 Angada kills Mahaparsva"
 वानराश्च महासत्वाः प्रगृह्य विपुलाः शिलाः ।  
 प्रविश्यारिबलं भीमं जघ्नुस्ते रजनीचरान् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भर्तृवाक्येन चोदितः सन् स्वेन वीर्येण कदनं चक्र इत्यन्वयः ॥ ६-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,8 +106,11 @@ title_english = "098 Angada kills Mahaparsva"
 ततस्ते वानराः सर्वे राक्षसैरर्दिता भृशम् ।  
 दिशो दश द्रुताः केचित्केचित्सुग्रीवमाश्रिताः ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पाणिपादोरूनिति । एकवद्भावाभाव आर्षः ॥ ८-९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +131,11 @@ title_english = "098 Angada kills Mahaparsva"
 तामापतन्तीं सहसा शिलां दृष्ट्वा महोदरः ।  
 असंभ्रान्तस्ततो बाणैनिर्विभेद दुरासदाम् ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनन्तरं समीपस्थम् ॥ १०-१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,8 +152,11 @@ title_english = "098 Angada kills Mahaparsva"
 तां तु भिन्नां शिलां दृष्ट्वा सुग्रीवः क्रोधमूर्च्छितः ।  
 सालमुत्पाट्य चिक्षेप राक्षसे रणमूर्धनि ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गृधचक्रं गृध्रसमूहः ॥ १३-१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,8 +167,11 @@ title_english = "098 Angada kills Mahaparsva"
 
 शरैश्च विददारैनं शूरः परपुरंजयः ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शरैरित्यर्धम् ॥ शूरः महोदरः एनं च सालं च शरैः विददारेत्यन्वयः ॥ १५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +194,11 @@ title_english = "098 Angada kills Mahaparsva"
 गदापरिघहस्तौ तौ युधि वीरौ समीयतुः ।  
 नर्दन्तौ गोवृषप्रख्यौ घनाविव सविद्युतौ ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सः सुग्रीवः । आविध्येति । आदायेति शेषः । तस्य महोदरस्य दर्शयन् । पाणिलाघवमिति शेषः ॥ १६-१८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +211,11 @@ title_english = "098 Angada kills Mahaparsva"
 ततः क्रुद्धो गदां तस्मै चिक्षेप रजनीचरः ।  
 ज्वलन्तीं भास्कराभासां सुग्रीवाय महोदरः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 भास्कराभासां भास्करवद्भासमानाम् ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,8 +230,11 @@ title_english = "098 Angada kills Mahaparsva"
 सुग्रीवो रोषताम्राक्षः समुद्यम्य महाहवे ।  
 आजधान गदां तस्य परिषेण हरीश्वरः ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गदां दृष्ट्वेति शेषः । समुद्यम्य । परिघमिति सिद्धम् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,8 +279,11 @@ title_english = "098 Angada kills Mahaparsva"
 तौ तु रोषपरीताङ्गौ नर्दन्तावभ्यधावताम् ।  
 उद्यतासी रण हृष्टौ युधि शस्त्रविशारदौ ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पपात स गदोद्भिन्न इत्यर्धम् ॥ उभावपि परस्पराभिहतौ विशीर्णौ पेततुरिति भावः ॥ २१-२९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,8 +296,11 @@ title_english = "098 Angada kills Mahaparsva"
 दक्षिणं मण्डलं चोभौ सुतूर्णं संपरीयतुः ।  
 अन्योन्यमभिसंक्रुद्धौ जये प्रणिहितावुभौ ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 दक्षिणं प्रदक्षिणं चकारात् सव्यं च । सुतूर्णं संपरीयतुः अकुर्वताम् ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,8 +313,11 @@ title_english = "098 Angada kills Mahaparsva"
 स तु शूरो महावेगो वीर्यश्लाघी महोदरः ।  
 महाचर्मणि तं खङ्गं पातयामास दुर्मतिः ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वीर्येण श्लाघत इति वीर्यश्लाघी ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,8 +330,11 @@ title_english = "098 Angada kills Mahaparsva"
 लग्नमुत्कर्षतः खङ्गं खड्गेन कपिकुञ्जरः ।  
 जहार सशिरस्त्राणं कुण्डलोपहितं शिरः ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लग्नं चर्मलग्नं । उत्कर्षतः महोदरस्येति शेषः ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,8 +351,11 @@ title_english = "098 Angada kills Mahaparsva"
 हत्वा तं वानरैः सार्धं ननाद मुदितो हरिः ।  
 चुक्रोध च दशग्रीवो बभौ हृष्टश्च राघवः ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तत् शिरः । न तिष्ठते नातिष्ठत ॥ ३३-३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,8 +368,11 @@ title_english = "098 Angada kills Mahaparsva"
 विषण्णवदनाः सर्वे राक्षसा दीनचेतसः ।  
 विद्रवन्ति ततः सर्वे भयवित्रस्तचेतसः ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विषण्णवदनाः अभवन्निति शेषः । अतः सर्वशब्दापौनरुत्त्यम् ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -342,7 +390,10 @@ title_english = "098 Angada kills Mahaparsva"
 अवनितलगतैश्च भूतसङ्घैर्हरुषसमांकुलितैः स्तुतो महात्मा ॥ ३७ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 लक्ष्म्या जयलक्ष्म्या ॥ ३६-३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -58,7 +58,10 @@ title_english = "099 The battle between Rama and Ravana"
 ससूतः स्यन्दनात्तस्माद्विसंज्ञः प्रापतद्भुवि ॥ ७ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ महापार्श्ववधः-महोदरेत्वित्यादि ॥ महोदरे सुग्रीवेण निहत इत्यन्वयः ॥ १-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,8 +82,11 @@ title_english = "099 The battle between Rama and Ravana"
 मुहूर्ताल्लब्धसंज्ञस्तु महापार्श्वो महाबलः ।  
 अङ्गदं बहुभिर्वाणैर्भूयस्तं प्रत्यविध्यत ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सर्क्षराजस्त्वित्यादिश्लोकद्वयमेकान्वयम् ॥ ऋक्षराजः जाम्बवान् तेन सहितः सर्क्षराजः गवाक्षः । जाम्बवन्तं गवाक्षं चेत्युत्तर वक्ष्यमाणत्वात् ॥ ८-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,8 +103,11 @@ title_english = "099 The battle between Rama and Ravana"
 जाम्बवन्तं गवाक्षं च स दृष्ट्वा शरपीडितौ ।  
 जग्राह परिघं घोरमङ्गदः क्रोधमूर्च्छितः ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 ऋक्षराजं जाम्बवन्तं त्रिभिर्बाणैराजघान । गवाक्षं च बहुभिः शरैर्जघानेत्यन्वयः ॥ ११ -१२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,8 +136,11 @@ title_english = "099 The battle between Rama and Ravana"
 स तु क्रुद्धो महावेगो महापार्श्वो महाद्युतिः ।  
 करेणैकेन जग्राह सुमहान्तं परश्वधम् ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्याङ्गद इत्यादिश्लोकद्वयमेकान्वयम् ॥ दूरस्थितस्य तस्य वधार्थमित्यन्वयः ॥ १३-१७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +157,11 @@ title_english = "099 The battle between Rama and Ravana"
 तेन वामांसफलके भृशं प्रत्यवपादितम् ।  
 अङ्गदो मोक्षयामास सरोषः स परश्वधम् ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तैलधौतं प्रतिदिनं तैलसेचनान्निष्कल्मषं । शैलसारमयं तद्वत्कठिनमित्यर्थः । दृढं अशिथिलम् ॥ १८-१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,8 +186,11 @@ title_english = "099 The battle between Rama and Ravana"
 तस्मिन्निपतिते भूमौ तत्सैन्यं संप्रचुक्षुभे ।  
 अभवच्च महान्क्रोधः समरे रावणस्य तु ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आत्मन इत्यस्य । पितुस्तुल्यपराक्रम इत्यनेन संबन्धः । संवर्तयत् समवर्तयत् । भ्रामयामासेत्यर्थः ॥ २०-२३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,7 +210,10 @@ title_english = "099 The battle between Rama and Ravana"
 श्रुत्वा सरोषं युधि राक्षसेन्द्रः पुनश्च युद्धाभिमुखोऽवतस्थे ॥ २५ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 स्फोटयन् दलयन् । वानराणां च सिंहनादः समभवत् । महेन्द्रेण सह देवानां नाद इव वानराणां च देवानां च नादः समभवदित्यर्थः । एतच्चानन्तरश्लोके स्फुटीभविष्यति ॥ २४-२५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

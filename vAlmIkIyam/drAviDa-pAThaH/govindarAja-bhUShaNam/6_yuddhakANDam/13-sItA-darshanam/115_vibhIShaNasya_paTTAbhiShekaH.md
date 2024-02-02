@@ -32,7 +32,10 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 जग्मुः स्वैःस्वैर्विमानैस्ते कथयन्तः शुभाः कथाः ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ विभीषणाभिषेकः – ते रावणवधमित्यादि ॥ अत्र क्रियाभेदात्तच्छब्दद्वयम् ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -51,8 +54,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 \[ पतिव्रतात्वं सीताया हनूमति पराक्रमम् ॥\]  
 कथयन्तो महाभागा जग्मुर्हृष्टा यथागतम् ॥ ३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शुभाः कथाः कथयन्त इत्यस्यैव विवरणं- रावणस्य वधमित्यादि । मन्त्रितं मन्त्रं । सौमित्रेरिति तन्मातुः श्लाघनव्यञ्जनाय अस्य जननी हि भाग्यवतीति ॥ २-३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +79,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 तस्मिंस्तु दिवमारूढे सुरसारथिसत्तमे ।  
 राघवः परमप्रीतः सुग्रीवं परिषस्वजे ॥ ६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इन्द्रदत्तं इन्द्रप्रेरितं । शिखिप्रभं अग्निप्रभं । प्रत्यपूजयत् उपचचार ॥ ४-६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,8 +96,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 परिष्वज्य च सुग्रीवं लैक्ष्मणेन प्रचोदितः ।  
 पूज्यमानो हरिश्रेष्ठैराजगाम बलालयम् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रचोदितः विज्ञप्तः । बलालयं शिबिरम् ॥ ७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,8 +113,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 अब्रवीच्च तदा रामः समीपपरिवर्तिनम् ।  
 सौमित्रिं सत्यसंपन्नं लक्ष्मणं दीप्ततेजसम् ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 सत्यसंपन्नत्वादिविशेषणं यथोक्तकारित्वद्योतनाय ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,8 +134,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 एष मे परमः कामो यदीमं रावणानुजम् ।  
 लङ्कायां सौम्य पश्येयमभिषिक्तं विभीषणम् ॥ १० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विभीषणमित्यादिश्लोकद्वयमेकान्वयं । लङ्कायामभिषेचय लङ्कायां गत्वाऽभिषेचय । समुद्रतीरएव लङ्काराज्याभिषेके कृतेपि पुनर्विधानं रावणसिंहासनेभिषेकार्थं । अनुरक्तमित्यनेन मित्रकृत्यमुक्तं । भक्तमित्यनेन दास्यकृत्यं । उपकारिणमित्यनेनानुरागभक्त्योः कार्यपर्यवसानमुक्तं । परमःकाम इत्यनेन शरणागत विभीषणाभिमतपरिपूरणमेव विजयस्य प्रधानप्रयोजनमित्यवगम्यते ॥ ९-१० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +151,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 एवमुक्तस्तु सौमित्री राघवेण महात्मना ।  
 तथेत्युक्त्वा तु संहृष्टः सौवर्णं घटमाददे ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 घटमिति जात्येकवचनम् ॥ ११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,8 +168,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 तं घटं वानरेन्द्राणां हस्ते दत्त्वा मनोजवान् ।  
 आदिदेश महासत्त्वान्समुद्रसलिलानये ॥ १२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 आनये आनयने । हस्त इत्यत्रापि जात्येकवचनं । वानरेन्द्राणामिति बहुवचनप्रयोगात् ॥ १२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,8 +189,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 ततस्त्वेकं घटं गृह्य संस्थाप्य परमासने ।  
 घटेन तेन सौमित्रिरभ्यषिञ्चद्विभीषणम् ॥ १४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 इतीति । आदेशाद्धेतोरित्यर्थः । इति हेतुप्रकरणप्रकारादिसमाप्तिषु इत्यमरः । वानरा वानरोत्तमा इति वचनं वानरोत्तमत्वेपि मानुषत्वव्यावर्तनाय । समुद्रात् समुद्रेभ्यः ॥ १३-१४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +218,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 दृष्ट्वाऽभिषिक्तं लङ्कायां राक्षसेन्द्रं विभीषणम् ॥  
 \[ राघवः परमां प्रीतिमाजगाम सलक्ष्मणः\] ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लङ्कायामित्यादिसार्धश्लोक एकान्वयः । अनेन रामनिदेशानन्तरमेव लक्ष्मणो विभीषणादिभिः सह लङ्कां प्रविष्टवानित्यवगम्यते । मन्त्रदृष्टेन मन्त्रेषु वेदेषु दृष्टेन स्पष्टमवगम्यमानेन विधिना प्रकारेण । शुद्धामानमित्यनेन रामाज्ञया अभिषेकमङ्गीकृतवान् । परमार्थस्तु रामकैङ्कर्य एवासक्तोभूदित्यवगम्यते । आज्ञाकैङ्कर्य हि कर्तव्यम् ॥ १५ – १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +239,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 अक्षतान्मोद काँल्लाजान्दिव्याः सुमनसस्तदा ।  
 आजह्नुरथ संहृष्टाः पौरास्तस्मै निशाचराः ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रकृतीः अमात्यप्रभृतीन् । सान्त्वयित्वा पुत्रमित्रादिविनाशजशोकापनोदनं कृत्वा । राममुपागमत् । लक्ष्मणेन सहेति शेषः ॥ १८–१९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,8 +256,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 स तान्गृहीत्वा दुर्धर्षो राघवाय न्यवेदयत् ।  
 मङ्गल्यं मङ्गलं सर्वं लक्ष्मणाय च वीर्यवान् ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मङ्गलमर्हतीति मङ्गस्यं । मङ्गलप्रयोजनमित्यर्थः । मङ्गलं हरिद्रादिमङ्गलद्रव्यं । सर्वे उक्ताक्षतादिभिन्नं । रामाय लक्ष्मणाय च न्यवेदयत् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,8 +279,11 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 ततः शैलोपमं वीरं प्राञ्जलिं पार्श्वतः स्थितम् ।  
 अब्रवीद्राघवो वाक्यं हनुमन्तं प्लवङ्गमम् ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्यैव प्रियकाम्यया न तु स्वभोगेच्छया ॥ २१-२२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -270,7 +309,10 @@ title_english = "115 Rama disowns her and asks her to seek shelter elsewhere"
 प्रतिगृह्य च संदेशमुपावर्तितुमर्हसि ॥ २६ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अनुमान्येत्यादिसार्धश्लोकत्रयमैकान्वयं । विभीषणमनुमान्य लङ्कां गच्छ । विभीषणमनुज्ञाप्य रावणगृहं प्रविश्य । विजयेन विजयकथनेन । अभिनन्द्य सीतां तोषयित्वा । वैदेह्यै मां कुशलिनमाचक्ष्वेति संबन्धः । संदेशं सीतावाचिकम् ॥ २३-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

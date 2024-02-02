@@ -32,7 +32,10 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 सुवेले राघवं शैले निविष्टं प्रत्यवेदयन् ॥ १ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 अथ सीतामोहनमेकत्रिंशे । कथासंघटनाय पूर्व सर्गोक्तमनुवदति – तत इति ॥ स्पष्टः ॥ १ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,8 +48,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम् ।  
 जातोद्वेगोऽभवत्किंचित्सचिवानिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 चाराणां चारेभ्यः । जातोद्वेग जातसंभ्रमः । सचिवान् मन्त्रिणः समीपस्थान् ॥ २ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +69,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 तस्य तच्छासनं श्रुत्वा मन्त्रिणोऽभ्यागमन्द्रुतम् ।  
 ततः स मन्त्रयामास सचिवै राक्षसैः सह ॥ ४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 हे राक्षसाः अयं नो मन्त्रकालः संप्राप्तः इति हेतोः मन्त्रिणः समायान्त्विति इदं वाक्यमब्रवीदिति पूर्वेण संबन्धः । यद्वा इदमब्रवीदित्यस्य वाक्यान्तस्थेनेतिशब्देन संबन्धः । राक्षसा इत्युत्तरशेषः । अथवा हे मन्त्रिणः भवन्तः आयान्तु समीपमिति सचिवानब्रवीत् । राक्षसा इति मन्त्रिविशेषणं । सचिवै राक्षसैरित्यनुवादात् । सुसमाहिताः नीतिकुशला इत्यर्थः ॥ ३-४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,8 +94,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 विद्युज्जिह्वं च मायाज्ञमब्रवीद्राक्षसाधिपः ।  
 मोहयिष्यामहे सीतां मायया जनकात्मजाम् ॥ ७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समनन्तरं रामस्य समीपागमनानन्तरं । यत् क्षमं कर्तुमुचितं तन्मन्त्रयित्वेति योजना ॥ ५-७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,8 +111,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 शिरो मायामयं गृह्य राघवस्य निशाचर ।  
 त्वं मां समुपतिष्ठस्व महच्च सशरं धनुः ॥ ८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 गृह्य गृहीत्वा ॥ ८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,8 +130,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 \[दर्शयामास तां मायां सुप्रयुक्तां स रावणे ।\]  
 तस्य तुष्टोऽभवद्राजा प्रददौ च विभूषणम् ॥ ९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 तस्य तस्मिन् ॥ ९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,8 +151,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 ततो दीनामदैन्यार्हां ददर्श धनदानुजः ।  
 अधोमुखीं शोकपरामुपविष्टां महीतले ॥ ११ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 लालसः साभिलाषः ॥ १०-११ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,8 +180,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 हर्षशोकान्तरे मग्नां विषादस्य विलक्षणाम् ।  
 स्तिमितामिव गाम्भीर्यान्नदीं भागीरथीमिव ॥ १५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 उपास्यमानां अनुव्रताम् ॥ १२-१५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,8 +197,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 उपसृत्य ततः सीतां प्रहर्षन्नाम कीर्तयन् ।  
 इदं च वचनं धृष्टमुवाच जनकात्मजाम् ॥ १६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रहर्ष नाम कीर्तयन् प्रहर्षवात कीर्तयन्निव । नामेत्यपरमार्थे ॥ १६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,8 +214,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 सान्त्व्यमाना मया भद्रे यमुपाश्रित्य वल्गसे ।  
 खरहन्ता स ते भर्ता राघवः समरे हतः ॥ १७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 वल्गसे जल्पसि । मां निष्ठुरमवद इत्यर्थः ॥ १७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,8 +231,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 छिन्नं ते सर्वतो मूलं दर्पस्ते निहतो मया ।  
 व्यसनेनात्मनः सीते मम भार्या भविष्यसि ॥ १८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मूलं आधारभूतं । सर्वतः कार्येन व्यसनेन निमित्तेन । प्रार्थनां विनेत्यर्थः ॥१८॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,8 +248,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 विसृजेमां मतिं मूढे किं मृतेन करिष्यसि ।  
 भवस्व भद्रे भार्याणां सर्वासामीश्वरी मम ॥ १९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 मृतेन रामेण । भवस्वेत्यात्मनेपदमार्षम् ॥ १९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,8 +265,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 अल्पपुण्ये निवृत्तार्थे मूढे पण्डितमानिनि   
 शृणु भर्तृबधं सीते घोरं वृत्रवधं यथा ॥ २० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निवृत्तार्थे एतावत्पर्यन्तं निवृत्तपुरुषार्थे । पण्डितमानिनि । क्यङ्मानिनोश्च इति ह्रस्वत्वम् ॥ २० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,8 +282,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 समायातः समुद्रान्तं मां हन्तुं किल राघवः ।  
 वानरेन्द्रप्रणीतेन बलेन महता वृतः ॥ २१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 समुद्रान्तं समुद्रतीरं । प्रणीतेन आनीतेन ॥ २१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,8 +299,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 स निविष्टः समुद्रस्य पीड्य तीरमथोत्तरम् ।  
 बलेन महता रामो व्रजत्यस्तं दिवाकरे ॥ २२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 स रामः समुद्रस्योत्तरं तीरं महता बलेन पीड्य पीडयित्वा । दिवाकरे अस्तं प्रयाति सति निविष्टः ॥ २२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,8 +316,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 अथाध्वनि परिश्रान्तमर्धरात्रे स्थितं बलम् ।  
 सुखसंसुप्तमासाद्य चारितं प्रथमं चरैः ॥ २३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 कार्त्स्न्येऽथशब्दः । अध्वनि परिश्रान्तं अतएव स्थितं । अर्धरात्रे सुखसंसुप्तं बलं प्रथममासाद्य चारैश्चारितमभूत् ॥ २३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,8 +333,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 तत्प्रहस्तप्रणीतेन बलेन महता मम ।  
 बलमस्य हतं रात्रौ यत्र रामः सुलक्ष्मणः ॥ २४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 यत्र बले । रामः सलक्ष्मणोवस्थितः । तदस्य बलं प्रहस्तप्रणीतेन महता बलेन हतम् ॥ २४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,8 +354,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 यष्टीश्च तोमराञ्शक्तीश्चक्राणि मुसलानि च ।  
 उद्यम्योद्यम्य रक्षोभिर्वानरेषु निपातिताः ॥ २६ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 पट्टिशानित्यादिश्लोकद्वयम् ॥ पट्टिशान् असिविशेषान् । परिधान् अर्गलानि । चक्रान् क्षुद्रचक्राणि । महायसान् महायसनिर्मितान् । दण्डविशेषणमेतत् । कूटमुद्गरान् अयः कीलकीलितगदाः । यष्टीः केवलदण्डान् । तोमरान् स्थूलाग्रगदाः । प्रासान् क्षेपणीः । चक्राणि महाचक्राणि । पट्टिशादीनुद्यम्योद्यम्य वानरेषु निपातिताः । त इति शेषः ॥ २५-२६ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -317,8 +371,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 अथ सुप्तस्य रामस्य प्रहस्तेन प्रमाथिना ।  
 असक्तं कृतहस्तेन शिरश्छिन्नं महासिना ॥ २७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 प्रमथ्नाति प्रहरतीति प्रमाथिः तेन । कृतहस्तेन शिक्षितहस्तेन कर्त्रा । महासिना करणेन । असक्तं अविलम्बितंयथा भवति तथा । छिन्नमित्यन्वयः ॥ २७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -331,8 +388,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 विभीषणः समुत्पत्य निगृहीतो यदृच्छया ।  
 दिशः प्रव्राजितः सर्वैर्लक्ष्मणः प्लवगैः सह ॥ २८ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 विभीषणः समुत्पत्य गतोपि निगृहीत इत्यर्थः । प्रव्राजितः पलायितः ॥ २८ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -345,8 +405,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 सुग्रीवो ग्रीवया सीते भग्नया प्लवगाधिपः ।  
 निरस्तहनुकः शेते हनूमान्राक्षसैर्हतः ॥ २९ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 श्रीवया उपलक्षित इति शेषः ॥ २९ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -359,8 +422,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 जाम्बवानथ जानुभ्यामुत्पतन्निहतो युधि ।  
 पट्टिसैर्बहुभिश्छिन्नो निकृत्तः पादपो यथा ॥ ३० ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 जानुभ्यां जानुनोः । निहतः । अथ पट्टिशैश्छिन्न ः जाम्बवान् निकृत्तः पादपइवाभूत् ॥ ३० ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -375,8 +441,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 निश्वसन्तौ रुदन्तौ च रुधिरेण परिप्लुतौ ।  
 असिना व्यायतौ छिन्नौ मध्ये ह्यरिनिषूदनौ ॥ ३१ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 व्यायतौ दीर्घशरीरौ । मध्ये कटिस्थाने ॥ ३१ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,8 +456,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 
 अनुतिष्ठति मेदिन्यां पनसः पनसो यथा ॥ ३२ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 अनुतिष्ठति शेते । पनसः पनसफलं । तथा खण्डित इत्यर्थः ॥ ३२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,8 +473,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 नाराचैर्बहुभिश्छिन्नः शेते दर्यां दरीमुखः ।  
 कुमुदस्तु महातेजा निष्कूजः सायकैः कृतः ॥ ३३ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 निष्कूजः निश्शब्दः ॥ ३३ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -415,8 +490,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 अङ्गदो बहुभिश्छिन्नः शरैरासाद्य राक्षसैः ।  
 पातितो रुधिरोद्गारी क्षितौ निपतिताऽङ्गदः ॥ ३४ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 राक्षसैरासाद्य शरैश्छिन्नः निपतिताङ्गदोङ्गदः क्षितौ पतितः ॥ ३४ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -429,8 +507,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 हरयो मथिता नागै रथजातैस्तथापरे ।  
 शायिता मृदिताश्चाश्वैर्वायुवेगैरिवाम्बुदाः ॥ ३५ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 शायिताः शयानाः । अपरे हरयः वायुवेगैरम्बुदा इव नागै रथजातैश्च मृदिताः ॥ ३५ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -447,8 +528,11 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 सागरे पतिताः केचित्केचिद्गगनमाश्रिताः ।  
 ऋक्षा वृक्षानुपारूढा वानरीं वृत्तिमाश्रिताः ॥ ३७ ॥
 </details>
+
+<details><summary>व्याख्या</summary>
 
 त्रस्ताः अत एवाभिद्रुताः । जघन्यतः पृष्ठतः । हन्य मानाः अपरे हरयः सिंहैः द्विपा इव प्रहृताः ॥ ३६ – ३७ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -466,7 +550,10 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 क्षतजार्द्रं रजोध्वस्तमिदं चास्याहृतं शिरः ॥ ३९ ॥
 </details>
 
+<details><summary>व्याख्या</summary>
+
 पिङ्गलाः वानराः । विरूपाक्षैः वानरैः ॥ ३८-३९ ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
