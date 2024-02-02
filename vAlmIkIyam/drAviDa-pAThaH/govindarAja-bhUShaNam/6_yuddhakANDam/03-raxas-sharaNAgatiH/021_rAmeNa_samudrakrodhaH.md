@@ -3,8 +3,16 @@ title = "०२१ रामेण समुद्रक्रोधः"
 title_english = "021 Rama becomes angry at the ocean"
 
 +++
-**श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकविंशः सर्गः**
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकविंशः सर्गः
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकविंशः सर्गः
+</details>
 
 <details><summary>विषयाः</summary>
 
