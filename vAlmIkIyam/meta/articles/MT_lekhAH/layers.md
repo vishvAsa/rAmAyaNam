@@ -37,6 +37,27 @@ In this process both the rAmAyaNA and the mahAbhArata were extensively co-opted 
 
 This redaction of the rAmAyaNa firmly followed the vaishnavite norms, casting rAma as vishNu born on Earth for the liberation of his worshipper from the rakshas. This was effected through insertions throughout the text, especially so in the bAlakANDa and uttarakANDa. This more or less crystallized this valmikian tradition of the rAmAyaNa.
 
+
+## Transmutation mechanism
+### prajApati illustration
+Source: [TW](https://twitter.com/blog_supplement/status/1756915469850755365)
+
+
+R^ik for for wealth
+
+यन् नो अग्निर् अखनद् यन् न इन्द्रो  
+विश्वे यद् देवा मरुतः स्वर्का ।  
+तद् अस्मभ्यं सविता सत्यधर्मा  
+सरस्वत्य् अनुमतिर् नि यच्छात् ॥  
+
+यन् न इन्द्रो अखनद् यद् अग्निर्  
+विश्वे देवा मरुतो यत् स्वर्काः ।  
+तद् अस्मभ्यं सविता सत्यधर्मा  
+*प्रजापतिर्* अनुमतिर् नि यछात् ॥  
+
+These R^ik-s for wealth (usually understood as mined) are respectively from AV-paippalAda & AV-vulgate. In AV-P the deities invoked are agni, indra, marut-s, savitR^i, sarasvati& anumati. In AV-vul sarasvatI is replaced by prajApati. This is the phenomenon of "prAjApatyization" wherein in multiple instances a distinct deity from the older standard pantheon in the AV-P is replaced by prajApati in the AV-vul. It illustrates how old R^ik-s can be changed in situ to incorporate a new religious trend. Now think of this process in the rAmAyaNa.
+
+
 ## Regional versions
 All later developments were seen in the form of regional versions of the epics like those in Tamil by kamban, tulsi in Hindi and an unknown author in Indonesian. 
 
