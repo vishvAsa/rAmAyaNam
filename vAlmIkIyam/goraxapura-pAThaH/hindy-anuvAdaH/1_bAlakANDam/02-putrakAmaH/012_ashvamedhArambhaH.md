@@ -273,8 +273,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ।  
-शान्तयश्चाभिवर्धन्तां यथाकल्पं यथाविधि ॥ १६ ॥
+सरय्वाश्चोत्तरे तीरे  
+यज्ञभूमिर् **विधीयताम्** ।  
+शान्तयश् **चाभिवर्धन्तां**  
+यथाकल्पं यथाविधि ॥ १६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -290,8 +292,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्यः कर्तुमयं यज्ञः सर्वेणापि महीक्षिता ।  
-नापराधो भवेत् कष्टो यद्यस्मिन् क्रतुसत्तमे ॥ १७ ॥
+**शक्यः** कर्तुम् अयं यज्ञः  
+सर्वेणापि महीक्षिता ।  
+नापराधो भवेत् कष्टो  
+यद्य् अस्मिन् क्रतुसत्तमे ॥ १७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -307,8 +311,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छिद्रं हि मृगयन्त्येते विद्वांसो ब्रह्मराक्षसाः ।  
-विधिहीनस्य यज्ञस्य सद्यः कर्ता विनश्यति ॥ १८ ॥
+छिद्रं हि **मृगयन्त्य्** एते  
+विद्वांसो ब्रह्मराक्षसाः ।  
+विधिहीनस्य यज्ञस्य  
+सद्यः कर्ता **विनश्यति** ॥ १८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -324,8 +330,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् यथा विधिपूर्वं मे क्रतुरेष समाप्यते ।  
-तथा विधानं क्रियतां समर्थाः करणेष्विह ॥ १९ ॥
+तद् यथा **विधिपूर्वं** मे  
+क्रतुर् एष **समाप्यते** ।  
+तथा **विधानं क्रियतां**  
+समर्थाः करणेष्व् इह ॥ १९ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -341,8 +349,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथेति च ततः सर्वे मन्त्रिणः प्रत्यपूजयन् ।  
-पार्थिवेन्द्रस्य तद् वाक्यं यथाज्ञप्तमकुर्वत ॥ २० ॥
+तथेति च ततः सर्वे  
+मन्त्रिणः **प्रत्यपूजयन्** ।  
+पार्थिवेन्द्रस्य तद् वाक्यं  
+यथाज्ञप्तम् **अकुर्वत** ॥ २० ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -358,8 +368,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो द्विजास्ते धर्मज्ञमस्तुवन् पार्थिवर्षभम् ।  
-अनुज्ञातास्ततः सर्वे पुनर्जग्मुर्यथागतम् ॥ २१ ॥
+ततो द्विजास्ते धर्मज्ञम्  
+**अस्तुवन्** पार्थिवर्षभम् ।  
+अनुज्ञातास् ततः सर्वे  
+पुनर् **जग्मुर्** यथागतम् ॥ २१ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -375,8 +387,10 @@ title_english = "012 dasaratha readies to perform asvamedha ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गतेषु तेषु विप्रेषु मन्त्रिणस्तान् नराधिपः ।  
-विसर्जयित्वा स्वं वेश्म प्रविवेश महामतिः ॥ २२ ॥
+गतेषु तेषु विप्रेषु  
+मन्त्रिणस्तान् नराधिपः ।  
+**विसर्जयित्वा** स्वं वेश्म  
+**प्रविवेश** महामतिः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
