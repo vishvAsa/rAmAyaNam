@@ -112,9 +112,9 @@ title_english = "038 Dasaratha is enraged"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजीवनार्हेण मया नृशंसा  
-कृता प्रतिज्ञा नियमेन तावत् ।  
-त्वया हि बाल्यात् प्रतिपन्नमेतत्  
-तन्मा दहेद् वेणुमिवात्मपुष्पम् ॥ ७ ॥
+**कृता प्रतिज्ञा** नियमेन तावत् ।  
+त्वया हि बाल्यात् **प्रतिपन्नम्** एतत्  
+तन् मा **दहेद्** वेणुम् इवात्म-पुष्पम् ॥ ७ ॥+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -129,6 +129,48 @@ title_english = "038 Dasaratha is enraged"
 
 ‘मैं जीवित रहनेयोग्य नहीं हूँ । मैंने तेरे वचनोंमें बँधकर एक तो यों ही नियम (शपथ) पूर्वक बड़ी क्रूर प्रतिज्ञा कर डाली है, दूसरे तूने अपनी नादानीके कारण सीताको इस तरह चीर पहनाना प्रारम्भ कर दिया । जिस प्रकार बाँसका फूल उसीको सुखा डालता है, उसी प्रकार मेरी की हुई प्रतिज्ञा मुझीको भस्म किये डालती है ॥ ७ ॥
 </details>
+
+<details><summary>jaTAyu-blr - comment</summary>
+
+I was struck by this phrase  'bamboo burnt by its own flowers' दहेद्वेणुमिवात्मपुष्पम्  during today's Valmiki Ramayana study.
+Dasharatha to Kaikeyi - 
+
+> "By giving this cruel promise through importunity, I have rendered myself unfit to live. This promise was made as a child's play and it (now) destroys me like a bamboo burnt by its own flowers."
+
+Bamboo Flowering is a very mysterious natural phenomenon, perhaps well known to forest dwellers and botanists, but not much to common people, including me. It is indeed a great poetic genius to use such a metaphor in a very appropriate moment in the Kavya. The power of the metaphor grows, once you get to know finer details. 
+
+> "Bamboos exhibit monocarpic flowering behaviour. This means, 
+the bamboo dies after flowering. Like other grass, bamboo flowers are tiny and borne on compound inflorescences. Fertilisation takes place after pollination and results in the formation of the seed.
+> 
+> Bamboo flowering is a peculiar phenomenon. Bamboos grow vegetatively for a species-specific period before flowering, seeding and dying. Most bamboo plants flower only once in their life cycle. Some species of bamboo flower only once every 40 to 50 years.
+> 
+> There is something mysterious about bamboo flowering. All members of a species or at least of a particular clone, wherever they happen to be, will flower simultaneously. This means forests of bamboo separated by hundreds of kilometres will flower simultaneously. Scientists are not sure how or why this happens. 
+
+> They theorise that the rhizomes of the bamboo have some kind of "memory" or an imperturbable inner clock ticking away until the preset alarm goes off simultaneously. In this quiet cacophony, all the bamboo plants burst into bloom simultaneously. After flowering, they all die in some kind of a "mass suicide." Dying after flowering is a characteristic phenomenon of monocarpic flowering, which bamboos share as a member of the grass family.." 
+
+- from http://www.downtoearth.org.in/cove.../bamboo-flowering-14755
+
+</details>
+
+<details><summary>गणेशोऽवधानी</summary>
+
+ಸೀತೆ ನಾರುಮಡಿಯನ್ನ್ ಉಟ್ಟು ಸಂಕಟದಿಂದ  
+ಕೈಕೇಯಿಯನ್ನು ಹಳಿಯುತ್ತಾನೆ:  
+
+ನನಗೆ ಸಾವು ಸನ್ನಿಹಿತವಾದುದರಿಂದಲೇ  
+ಇಂಥ ಕ್ರೂರವಾದ ವರವನ್ನು ನಿನಗೆ ಪ್ರತಿಜ್ಞಾರೂಪದಿಂದ ಕೊಟ್ಟೆ,  
+ನೀನೀಗ ಅದನ್ನೇ ಬಳಸಿಕೊಂಡು ಅಪ್ರಬುದ್ಧತೆಯಿಂದ ವರ್ತಿಸುತ್ತಿದ್ದೀಯೆ.  
+ಬಿದಿರಿನ ಹೂವು ಬಿದಿರನ್ನೇ ನಾಶಮಾಡುವಂತೆ ನನ್ನ ಮಾತು ನನ್ನನೇ ಸುಟ್ಟುಹಾಕುತ್ತಿದೆ!+++(5)+++
+
+ಇಲ್ಲಿ ಬಿದಿರಿನ ಹೂವನ್ನು ಉಪಮಾನವಾಗಿ ಬಳಸಿಕೊಂಡ ಬಗೆ ತುಂಬ ರಸಾವಹವಾಗಿದೆ. ಇದು ಗಾಢವಾದ ಪ್ರಕೃತಿಪರಿಶೀಲನವಿಲ್ಲದೆ ಹೊಳೆಯುವಂಥದ್ದಲ್ಲ. ಬಿದಿರು ತನ್ನ ಅವಸಾನಕಾಲದಲ್ಲಿ ಹೂವನ್ನು ತಳೆಯುತ್ತದೆ. ಹೀಗೆ ಹೂಬಿಟ್ಟ ಬಳಿಕ ಬಿದಿರಕ್ಕಿಯು ಹುಟ್ಟಿ ಅನಂತರ ಬಿದಿರಿನ ಮಳೆಯೆಲ್ಲ ಒಣಗಿಹೋಗುವುದು. 
+
+ತನ್ನ ಮಾತೇ ತನಗೆ ಮುಳುವಾದುದನ್ನು ದಶರಥನು ಈ ಹೋಲಿಕೆಯ ಮೂಲಕ ಹೇಳುವಲ್ಲಿ  
+ನಿರತಿಶಯವಾದ ಸೌಂದರ್ಯವಿದೆ, ಅದ್ಭುತವಾದ ಪರಿಣಾಮವಿದೆ.  
+ಬಿದಿರಿನ ಉನ್ನತಿ, ಋಜುತ್ವ, ಸಮೂಹಸಮೃದ್ಧಿಗಳೇ ಮುಂತಾದ ಗುಣಗಳನ್ನು ಪರಿಭಾವಿಸಿದಾಗ  
+ದಶರಥನ ವ್ಯಕ್ತಿತ್ವವೂ ಈ ಮೂಲಕ ಧ್ವನಿಸಿ ಹೋಲಿಕೆಯನ್ನು ಮತ್ತಷ್ಟು ರಸಮಯವಾಗಿಸದಿರದು.+++(5)+++
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
