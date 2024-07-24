@@ -31,8 +31,10 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स भ्रातुश्चरणौ गाढं निपीड्य रघुनन्दनः ।  
-सीतामुवाचातियशां राघवं च महाव्रतम् ॥ २ ॥
+स भ्रातुश् चरणौ गाढं  
+निपीड्य रघुनन्दनः ।  
+सीताम् उवाचातियशां  
+राघवं च महाव्रतम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -430,8 +432,10 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भवांस्तु सह वैदेह्या गिरिसानुषु रंस्यसे ।  
-अहं सर्वं करिष्यामि जाग्रतः स्वपतश्च ते ॥ २७ ॥
+भवांस्तु सह वैदेह्या  
+गिरिसानुषु रंस्यसे ।  
+अहं सर्वं करिष्यामि  
+जाग्रतः स्वपतश्च ते ॥ २७ ॥+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
