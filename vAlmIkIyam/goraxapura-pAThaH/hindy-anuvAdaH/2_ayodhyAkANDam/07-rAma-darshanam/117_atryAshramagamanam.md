@@ -401,7 +401,7 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वेवमनुगच्छन्ति  
-गुणदोषमसत्स्त्रियः ।  
+गुणदोषम् असत्स्त्रियः ।  
 कामवक्तव्यहृदया  
 भर्तृ-नाथाश्+++(←तत्पुरुषः)+++ चरन्ति याः ॥ २६ ॥
 </details>
