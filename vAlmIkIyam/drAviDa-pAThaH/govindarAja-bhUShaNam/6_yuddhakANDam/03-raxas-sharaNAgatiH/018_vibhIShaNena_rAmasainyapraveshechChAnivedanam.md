@@ -39,8 +39,10 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ममापि तु विवक्षाऽस्ति का चित्प्रति विभीषणम् ।  
-श्रुतमिच्छामि तत्सर्वं भवद्भिः श्रेयसि स्थितैः ॥ २ ॥
+ममापि तु विवक्षाऽस्ति  
+का चित्प्रति विभीषणम् ।  
+श्रुतमिच्छामि तत्सर्वं  
+भवद्भिः श्रेयसि स्थितैः ॥ २ ॥
 </details>
 
 <details><summary>मूलम्</summary>
