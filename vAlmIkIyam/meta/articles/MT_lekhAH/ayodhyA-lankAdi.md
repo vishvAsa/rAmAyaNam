@@ -1,5 +1,5 @@
 +++
-title = "AyodhyA significance"
+title = "AyodhyA-lankAdi"
 +++
 
 Source: [TW](https://twitter.com/blog_supplement/status/1743124565281096051)
@@ -23,3 +23,6 @@ I don't know what religious ceremonies are slated for performance in ayodhya but
 ## mathurA
 I view the celebration of vIra-s devakIputra & balabhadra in a similar sense. However, here I see the situation as more complex. I'd like a sAttvata restoration of the vyUha-s as pA~ncharAtrika divinities at mathurA. 
 I'm fine with two parallel restorations/prAsAda-s: one of the yaduvIra-s, including sAmba& sAtyaki & another of the divinities the 4 vyUha-s and ekAnaMshA
+
+## lankA
+I have not written at any length on this hypothesis. But the genetic and historical record suggest that the Indo-Aryans reached lankA  of today much later than the rAmAyaNa period. Taking together the evidence, I favor the gujarAt coast though I don't know how this guy reached that conclusion. The genetic evidence suggests that Indo-Aryan speakers from the Guj-Mh border zone populated lankA. Hence, they could have carried the name of a local lankA to the new shrIlankA.
