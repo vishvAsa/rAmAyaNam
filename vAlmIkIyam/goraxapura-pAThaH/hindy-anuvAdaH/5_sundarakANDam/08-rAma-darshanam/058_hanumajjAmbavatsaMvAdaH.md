@@ -1380,7 +1380,8 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details><summary>मूलम्</summary>
 
 प्रणिपातप्रसन्ना हि मैथिली जनकात्मजा ॥ ९० ॥  
-अलमेषा परित्रातुं राक्षस्यो महतो भयात् ।
+अलमेषा परित्रातुं राक्षस्यो महतो भयात् ।  
+(अलमेषा परित्रातुं राघवाद् राक्षसी-गणम्।)
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
