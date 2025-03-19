@@ -622,7 +622,7 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् क्षिप्रं सहास्माभिस्तुल्यो भवतु राघव ।  
-विभीषणो महाप्राज्ञः सखित्वं चाभ्युपैतु नः ॥ ३८ ॥
+विभीषणो महाप्राज्ञः+++(=महा-प्रज्ञः)+++ सखित्वं चाभ्युपैतु नः ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम्</summary>

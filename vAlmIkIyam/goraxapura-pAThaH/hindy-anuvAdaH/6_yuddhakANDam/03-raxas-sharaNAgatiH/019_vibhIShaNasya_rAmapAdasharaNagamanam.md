@@ -15,7 +15,7 @@ title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवेणाभये दत्ते सन्नतो रावणानुजः ।  
-विभीषणो महाप्राज्ञो भूमिं समवलोकयत् ॥ १ ॥
+विभीषणो महाप्राज्ञो+++(=महा-प्रज्ञः)+++ भूमिं समवलोकयत् ॥ १ ॥
 </details>
 
 <details><summary>मूलम्</summary>

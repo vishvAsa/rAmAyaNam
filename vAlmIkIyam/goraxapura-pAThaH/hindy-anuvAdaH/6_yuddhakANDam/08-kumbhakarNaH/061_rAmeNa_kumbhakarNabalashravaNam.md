@@ -121,7 +121,7 @@ title_english = "061 Rama enquires about Kumbhakarna"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पृष्टो राजपुत्रेण रामेणाक्लिष्टकर्मणा ।  
-विभीषणो महाप्राज्ञः काकुत्स्थमिदमब्रवीत् ॥ ८ ॥
+विभीषणो महाप्राज्ञः+++(=महा-प्रज्ञः)+++ काकुत्स्थमिदमब्रवीत् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम्</summary>

@@ -490,6 +490,15 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 प्रदीयतां दाशरथाय मैथिली ॥ ३३ ॥
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> दाशरथयय् इति नोक्तम्, दाशरथायेत्य् एव।  
+तेन रामस्याप्राकृतत्वं विभिषणेन ज्ञातम् इत्य् ऊह्यम्।  
+
+इति केचित्।  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 प्रहृष्टयोधा ध्वजिनी महात्मनां  
