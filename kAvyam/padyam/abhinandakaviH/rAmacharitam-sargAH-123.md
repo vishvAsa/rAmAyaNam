@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA1NzQ0Nzkx
 
 
 
-
+## १
 प्रथमः सर्गः
 
 
@@ -594,8 +594,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA1NzQ0Nzkx
 
 
 
-.
-
+## २ सन्ध्यातमश्चन्द्रोदयवर्णनः
 द्वितीयः सर्गः
 
 
@@ -1153,20 +1152,3 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA1NzQ0Nzkx
 
 
 
-
-
-
-
-
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
-
-.
-
-\]
