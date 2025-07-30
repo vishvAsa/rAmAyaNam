@@ -2,9 +2,7 @@ vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/_index.md
 
 @@ -1,190 +1,290 @@
 +++
-title = "1 b Ala"
 
-+++
 
 
 # DHARMAKUTAM
