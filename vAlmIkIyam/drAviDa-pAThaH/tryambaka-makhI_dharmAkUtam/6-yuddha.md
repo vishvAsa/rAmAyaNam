@@ -32,8 +32,8 @@ Price: Rs. 30/-
 PRINTED AT THE   
 SRI VANI VILAS PRESS, SRIRANGAM,   
 PREFACE.   
-As announced in the preface to Kishkindakanda of Dharmakuta we are happy to place the last volume of Dharmakuta Yuddhakanda before the Scholars. With the publication of this Kanda of Dharmakuta of Tryambakarayamakhi the work is completely printed, the first two Kandas namely Bala Kanda and Ayodya Kanda having been published by Sri Vani Vilas Syndicate Ltd, Srirangam   
-Srirangam and the remaining four kandas by Saraswathi Mahal Library. Uttarakanda evidently had not been commented upon by Tryambakarayamakhi.   
+As announced in the preface to Kishkindakanda of Dharmakuta we are happy to place the last volume of Dharmakuta Yuddhakanda before the Scholars. With the publication of this Kanda of Dharmakuta of Tryambakarâyamakhi the work is completely printed, the first two Kandas namely Bala Kanda and Ayodya Kanda having been published by Sri Vani Vilas Syndicate Ltd, Srirangam   
+Srirangam and the remaining four kandas by Saraswathi Mahal Library. Uttarakanda evidently had not been commented upon by Tryambakarâyamakhi.   
 Through the five Kandas of this literary feat Tryambakaraya has been sufficiently known to the Scholarly world; hence it is needless to repeat what had been stated in the introduction to the previous volumes about our Makhi. He was a contemporary of Shahaji, Serfoji and Tulajaji and was minister of Ekoji His last days were spent in peace in Swamimalai.   
 With the index of verses from Ramayana and verses quoted by the commentator, index of authors and works quoted, references are made easy.   
 We are thankful and grateful to the Union Government and State Government for their liberal and timely financial help, but for which it would not have been possible for us to bring out this useful work.   
