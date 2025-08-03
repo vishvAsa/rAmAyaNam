@@ -65,6 +65,8 @@ title = "राम की शिव-पूजा"
 > प्रकरण वश प्रत्येक स्थान पर “महादेव” का असंदिग्ध अर्थ “शिव” ही है।
 
 यह वचन निराधार है। महादेव एक विशेषण है। उसी प्रकर इस का प्रयोग हर इस स्थान पर निष्प्रत्यूह है। यह आग्रहमात्र है कि - विशेष्य रूप मेँ ही यह शब्द रामायण मेँ प्रयुक्त है। 
+
+> Shri Maheshvara Tirtha , the advaita commentator in his tattvadipika himself tells mahAdeva refers to samudra. Cant tell he had shiva dwesha.
 </details>
 
 
