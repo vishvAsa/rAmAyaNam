@@ -3,6 +3,8 @@ title = "+गोविन्द-राज-भूषणम्"
 
 +++
 
+Source: [TW](https://archive.org/details/ValmikiRamayana-YuddhaKandaWithGovindarajaCommentary/page/136/mode/2up)
+
 श्रीमद्वाल्मीकीयरामायणम्  ॥
 
 श्रीसीतालक्ष्मणहनुमत्-समेत-श्रीरामचन्द्रपरब्रह्मणे नमः  ॥   ॥
