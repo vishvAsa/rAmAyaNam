@@ -280,6 +280,12 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 <details><summary>मूलम्</summary>
 
+तस्येत्थं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः ।  
+शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
+
 तस्यैवं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः ।  
 शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया ॥ १६ ॥
 </details>
@@ -421,6 +427,12 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 <details><summary>मूलम्</summary>
 
+वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः ।  
+प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः ॥ २४ ॥
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
+
 वाल्मीकिरपि तं दृष्ट्वा सहसोत्थाय वाग्यतः ।  
 प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः ॥ २४ ॥
 </details>
@@ -437,6 +449,12 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 </details>
 
 <details><summary>मूलम्</summary>
+
+पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः ।  
+प्रणम्य विधिवच्चैनं पृष्ट्वा चैव निरामयम् ॥ २५ ॥
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
 
 पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः ।  
 प्रणम्य विधिवच्चैनं पृष्ट्वानामयम्  अव्ययम् ॥ २५ ॥
@@ -506,6 +524,12 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 <details><summary>मूलम्</summary>
 
 शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ ॥ २९ ॥  
+पुनरन्तर्गतमना भूत्वा शोकपरायणः ।
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
+
+शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ ॥ २९ ॥  
 जगावन्तर्गतमना भूत्वा शोकपरायणः ।
 </details>
 
@@ -546,6 +570,13 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 </details>
 
 <details><summary>मूलम्</summary>
+
+रामस्य चरितं कृत्स्नं कुरु त्वमृषिसत्तम ।  
+धर्मात्मनो भगवतो लोके रामस्य धीमतः ॥ ३२ ॥  
+वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम् ।
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
 
 रामस्य चरितं सर्वं कुरु त्वमृषिसत्तम ।  
 धर्मात्मनो भगवतो लोके रामस्य धीमतः ॥ ३२ ॥  
@@ -746,6 +777,14 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 </details>
 
 <details><summary>मूलम्</summary>
+
+उदारवृत्तार्थपदैर्मनोरमै-  
+स्तदास्य रामस्य चकार कीर्तिमान् ।  
+समाक्षरैः श्लोकशतैर्यशस्विनो  
+यशस्करं काव्यमुदारदर्शनः ॥ ४२ ॥
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
 
 उदारवृत्तार्थपदैर्मनोरमै-  
 स्तदास्य रामस्य चकार कीर्तिमान् ।  
