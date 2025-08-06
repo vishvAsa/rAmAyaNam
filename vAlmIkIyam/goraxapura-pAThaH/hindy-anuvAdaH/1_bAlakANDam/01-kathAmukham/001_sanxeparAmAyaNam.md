@@ -1521,7 +1521,6 @@ unicode_script = "devanagari"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वेदोंके समान पवित्र, पापनाशक और पुण्यमय इस रामचरितको जो पढ़ेगा, वह सब पापोंसे मुक्त हो जायगा ॥
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
