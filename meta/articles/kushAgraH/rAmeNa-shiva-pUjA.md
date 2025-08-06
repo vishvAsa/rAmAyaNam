@@ -11,6 +11,14 @@ https://x.com/agnimaan/status/1951842728800854109
 https://x.com/agnimaan/status/1951831968037093395  
 https://x.com/agnimaan/status/1952242823446790545  
 https://x.com/agnimaan/status/1952343681379479812  
+
+- It would be remiss if rAma's review failed to even mention (ever so gently) samudra's cooperation and the bridge , which were so critical to the rescue.
+- It is not appropriate to thrust stuff from a separate works (which are anyway mutually inconsistent) on to vAlmIki at the cost of internally suggested, valuable meaning.
+- महादेव is pure visheShaNa in rAmAyaNa, not necessarily visheShya
+  - It has strong "rUDhi-shakti" in the former sense as well, given that the components mahA and deva are well known.
+  - It's been known to refer to (=has minor rUDhi in) samudra since atleast nirukta composition. It is indeed far more commonly used for shiva than samudra (though the latter meaning was well known to vaidikas from nirukta). The main contention however is that the meaning as an adjective is quite common too (more so among the learned).
+  - It has been used in to refer to samudra by an advaitin commentator. 
+- vAlmIki is quite capable of using the same word in multiple meanings - this applies to प्रसाद and महादेव as well.
 </details>
 
 
