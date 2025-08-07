@@ -17,10 +17,12 @@ https://x.com/agnimaan/status/1953420410168463678
 - It would be remiss if rAma's review failed to even mention (ever so gently) samudra's astounding cooperation, which were so critical to the rescue.
 - It is not appropriate to thrust stuff from a separate works (which are anyway mutually inconsistent) on to vAlmIki at the cost of internally suggested, valuable meaning.
 - महादेव is pure visheShaNa in rAmAyaNa, not necessarily visheShya. Applies to जगन्नाथ as well.
-  - It has strong "rUDhi-shakti" in the former sense as well, given that the components mahA and deva are well known.
-  - It's been known to refer to (=has minor rUDhi in) samudra since atleast nirukta composition. It is indeed far more commonly used for shiva than samudra (though the latter meaning was well known to vaidikas from nirukta). The main contention however is that the meaning as an adjective is quite common too (more so among the learned). For example, महादेव is used for viShNu in the sahasranAmastotra of MBh.
-  - It has been used in to refer to samudra by an advaitin commentator. 
+  - It has strong "rUDhi-shakti" in the former sense as well, given that the components mahA and deva are well known. This is the main contention - that the meaning as an adjective is quite common too (more so among the learned). For example, महादेव is used for viShNu in the sahasranAmastotra of MBh.
+  - As an aside - It's been known to refer to (=has minor rUDhi in) samudra since atleast nirukta composition. It is indeed far more commonly used for shiva than samudra (though the latter meaning was well known to vaidikas from nirukta). It has been used in to refer to samudra by an advaitin commentator. 
 - vAlmIki is quite capable of using the same word in multiple meanings - this applies to प्रसाद and महादेव as well.
+- vAlmIki's rAmAyaNa, in it's available form, is an unequivocally vaiShNava work, presumably written by a vaiShNava for (pre-)vaiShNava-s. Here, viShNu is clearly depicted as being separate from and superior to other Gods. There is a strong tendency towards exclusive worship of viShNu in vaiShNava traditions and texts.
+- rAma's and his mother's vaiShNavatva is depicted clearly, apart from routine offerings to other deities. 
+
 
 विश्वासे च कुशाग्रे च  
 यावान् भेदो ऽक्ष-गः स्थितः।  
