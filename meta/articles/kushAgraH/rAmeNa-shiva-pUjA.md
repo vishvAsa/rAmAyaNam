@@ -21,8 +21,8 @@ https://x.com/agnimaan/status/1953420410168463678
   - As an aside - It's been known to refer to (=has minor rUDhi in) samudra since atleast nirukta composition. It is indeed far more commonly used for shiva than samudra (though the latter meaning was well known to vaidikas from nirukta). It has been used in to refer to samudra by an advaitin commentator. 
 - vAlmIki is quite capable of using the same word in multiple meanings - this applies to प्रसाद and महादेव as well.
 - vAlmIki's rAmAyaNa, in it's available form, is an unequivocally vaiShNava work, presumably written by a vaiShNava for (pre-)vaiShNava-s. Here, viShNu is clearly depicted as being separate from and superior to other Gods. There is a strong tendency towards exclusive worship of viShNu in vaiShNava traditions and texts.
+- When shiva himself is depicted as requesting viShNu's help to defeat rAvaNa ("षडर्धनयनः श्रीमान्महादेवो वृषध्वजः") why would it make sense for viShNu (even in rAma form) request his "invaluable" help in defeating rAvaNa? Circularity.
 - rAma's and his mother's vaiShNavatva is depicted clearly, apart from routine offerings to other deities. 
-
 
 विश्वासे च कुशाग्रे च  
 यावान् भेदो ऽक्ष-गः स्थितः।  
@@ -71,7 +71,7 @@ https://x.com/agnimaan/status/1953420410168463678
 तो वह भी उस के क्षुद्र स्तर पर अत्यन्त अनुचित नहि है।  
 भगवान् का उन के उपर भी करुणा है, और उन को भी उन के प्रकृति के अनुसार मार्ग-दर्शन देना चाहते हैँ।  
 (अर्थात्, एक ही वृत्तान्त से दो प्रकार के लोगोँ को यथोचित उपदेश देने मे भगवान् निपुण हैँ।)  
-किन्तु यदि वह उल्टा वैष्णवोँ पर ही आक्षेप करे कि वह शास्त्रार्थ को न जानते व्याख्यान करते हैँ, वह परिहास्य होगा। 
+किन्तु यदि वह उल्टा वैष्णवोँ पर ही आक्षेप करे कि वह शास्त्रार्थ को न जानते व्याख्यान करते हैँ, वह परिहास्य होगा।  
 </details>
 
 
