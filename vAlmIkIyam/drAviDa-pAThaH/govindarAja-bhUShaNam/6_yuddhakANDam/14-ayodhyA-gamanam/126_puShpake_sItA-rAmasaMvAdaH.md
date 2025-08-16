@@ -263,12 +263,12 @@ title_english = "126 Hanuma recounts to Bharata about Rama in the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र पूर्व महादेवः प्रसादमकरोत्प्रभुः ॥ २२ ॥
+अत्र पूर्वं महादेवः प्रसादमकरोत्प्रभुः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत्र पूर्व महादेवः प्रसादमकरोत्प्रभुः ॥ २२ ॥
+अत्र पूर्वं महादेवः प्रसादमकरोत्प्रभुः ॥ २२ ॥
 </details>
 
 <details><summary>व्याख्या</summary>
