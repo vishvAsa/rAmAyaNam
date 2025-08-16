@@ -466,7 +466,7 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवर्षिगन्धर्वाः सरुद्राः साप्सरोगणाः ।  
-स्तुतिभिर्दिव्यरूपाभिस्तुष्टुवुर्मधुसूदनम् ॥ ३२ ॥
+स्तुतिभिर्दिव्यरूपाभिस् तुष्टुवुर् मधुसूदनम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
