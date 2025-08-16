@@ -6,12 +6,12 @@ title = "राम की शिव-पूजा"
 
 **प्रत्याख्यान-सूत्र-सङ्ग्रहः** -
 
-https://x.com/agnimaan/status/1951842728800854109  
-https://x.com/agnimaan/status/1951831968037093395  
-https://x.com/agnimaan/status/1952242823446790545  
-https://x.com/agnimaan/status/1952343681379479812  
-https://x.com/agnimaan/status/1953406247606383011  
-https://x.com/agnimaan/status/1953420410168463678
+[TW](https://x.com/agnimaan/status/1951842728800854109)
+[TW](https://x.com/agnimaan/status/1951831968037093395)
+[TW](https://x.com/agnimaan/status/1952242823446790545)
+[TW](https://x.com/agnimaan/status/1952343681379479812)
+[TW](https://x.com/agnimaan/status/1953406247606383011)
+[TW](https://x.com/agnimaan/status/1953420410168463678)
 </details>
 
 
@@ -19,7 +19,7 @@ https://x.com/agnimaan/status/1953420410168463678
 
 कुशाग्र से गोविन्दराजटीका का खण्डन करने का आयास बहुत भागोँ मेँ वाट्साप्-आदियोँ मेँ प्रकाशित हुआ। बहुत हि दोषजुष्ट पाया गया। यहाँ उन दोषोँ का सङ्ग्रह समूल किया गया है। 
 
-गोविन्दराजटीका [ऽत्र](rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) सुलभा।  
+गोविन्दराजटीका [ऽत्र](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) सुलभा।  
 
 
 **English summary**
@@ -977,8 +977,8 @@ https://x.com/agnimaan/status/1953420410168463678
 
 > पूर्वपक्षी की व्याख्या के अनुसार … “पूर्वम्” अधिक पद है।
 
-यहाँ तो इन शब्दोँ का योजन उचित है - "कुशाग्र के कल्पना के अनुसार",  
-क्योँ कि पूर्वपक्षि न तो उस शब्द को व्यर्थ नहि कहा।  
+यहाँ तो इन शब्दोँ का योजन उचित है - "कुशाग्र की कल्पना के अनुसार",  
+क्योँ कि पूर्वपक्षि ने तो उस शब्द को व्यर्थ नहि कहा।  
 यहाँ भी यथासाधारण कुशाग्र अनुक्त के निराकरण से चमत्कार निकालने का कष्ट करते हैँ।  
 </details>
 
