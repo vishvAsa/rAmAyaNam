@@ -2,6 +2,8 @@
 title = "रामेण लिङ्गपूजा?"
 +++
 
+विस्तारो ऽन्यत्र द्रष्टव्यः - कुशाग्र-[प्रतिवचने](/rAmAyaNam/meta/articles/kushAgraH/rAmeNa-shiva-pUjA)  । 
+
 ## लिङ्ग-पूजा-पक्षः
 रामेण रामेश्वर-सेतु-स्थले लिङ्ग-पूजा कृतेति,  
 तत्-कारणं रावण-वध-रूप-ब्रह्म-हत्या-निवृत्तिर्  
@@ -110,7 +112,7 @@ title = "रामेण लिङ्गपूजा?"
 ### प्रामाण्य-विचारः
 > All these are authoritative Arsha sources of the Rama-katha, which have been widely quoted by writers across sampradayas: The Ramayana of Valmiki, Yoga-Vasishtha, Agastya-Ramayana, Adhyatma-Ramayana, the Rama-katha in the Padma-Purana, Bhushundi-Ramayana, the Rama-katha in Skanda-Purana, Adbhuta-Ramayana, Ramopakhyana of the Mahabharata, and Ananda Ramayana. This set of Sanskrit Ramayana is sufficient to resolve all questions about the Rama-katha, without reference to vernacular authors such as Tulsi, Kamban etc. 
 
-
+एवं प्रामाण्यकल्पनं शाठ्यम् एव। 
 
 
 ## देवतान्तर-पूजौचित्यम्

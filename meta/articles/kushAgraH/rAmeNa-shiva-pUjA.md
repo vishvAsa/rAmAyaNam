@@ -2,9 +2,7 @@
 title = "राम की शिव-पूजा"
 +++
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-गोविन्दराजटीका [ऽत्र](rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) सुलभा।  
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **प्रत्याख्यान-सूत्र-सङ्ग्रहः** -
 
@@ -14,6 +12,15 @@ https://x.com/agnimaan/status/1952242823446790545
 https://x.com/agnimaan/status/1952343681379479812  
 https://x.com/agnimaan/status/1953406247606383011  
 https://x.com/agnimaan/status/1953420410168463678
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कुशाग्र से गोविन्दराजटीका का खण्डन करने का आयास बहुत भागोँ मेँ वाट्साप्-आदियोँ मेँ प्रकाशित हुआ। बहुत हि दोषजुष्ट पाया गया। यहाँ उन दोषोँ का सङ्ग्रह समूल किया गया है। 
+
+गोविन्दराजटीका [ऽत्र](rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) सुलभा।  
+
 
 **English summary**
 
@@ -965,7 +972,8 @@ https://x.com/agnimaan/status/1953420410168463678
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-**"पूर्वं" न व्यर्थः**
+**(भाग १०)**  
+**"पूर्वं" न व्यर्थम्॥**
 
 > पूर्वपक्षी की व्याख्या के अनुसार … “पूर्वम्” अधिक पद है।
 
