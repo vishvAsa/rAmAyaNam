@@ -26,20 +26,21 @@ title = "राम की शिव-पूजा"
 
 **English summary**
 
-Kushagra Aniket's attempted refutation of Govindaraja's explanation of "अत्र पूर्वं महादेवः प्रसादमकरोत्प्रभुः॥" falls flat for several objective reasons (besides his apparent incomprehension of Govindaraja's commentary) -
+Kushagra Aniket's attempted refutation of Govindaraja's explanation of "अत्र पूर्वं महादेवः प्रसादमकरोत्प्रभुः॥" falls flat for several objective reasons (besides his occassionally apparent incomprehension of Govindaraja's commentary) -
 
 - It would be remiss if rAma's review failed to even mention (ever so gently) samudra's astounding cooperation, which were so critical to the rescue.
 - It is not appropriate to thrust stuff from a separate works (which are anyway mutually inconsistent) on to vAlmIki at the cost of internally suggested, valuable meaning.
 - महादेव is pure visheShaNa in rAmAyaNa, not necessarily visheShya. Applies to जगन्नाथ as well.
   - It has strong "rUDhi-shakti" in the former sense as well, given that the components mahA and deva are well known. This is the main contention - that the meaning as an adjective is quite common too (more so among the learned). For example, महादेव is used for viShNu in the sahasranAmastotra of MBh.
   - As an aside - It's been known to refer to (=has minor rUDhi in) samudra since atleast nirukta composition. It is indeed far more commonly used for shiva than samudra (though the latter meaning was well known to vaidikas from nirukta). It has been used in to refer to samudra by an advaitin commentator maheshvara-tIrtha. 
+  - samudra is very much considered a deva in vAlmIki rAmAyaNa, as in earlier vedas.
 - vAlmIki is quite capable of using the same word in multiple meanings - this applies to प्रसाद and महादेव as well.
 
 There was no cause for rAma to specially do shiva-pUjA. When shiva himself is depicted as requesting viShNu's help (भयं तस्माद् … ततो देवर्षिगन्धर्वाः सरुद्राः … तुष्टुवुः) to defeat rAvaNa why would it make sense for viShNu (even in rAma form) request his "invaluable" help in defeating rAvaNa? Circularity.
 
 rAma's and his family's vaiShNavatva is depicted clearly, apart from routine offerings to other deities (as practiced by vaiShNavas in general). 
 
-vAlmIki's rAmAyaNa, in it's available form, is an unequivocally vaiShNava work, presumably written by a vaiShNava for (pre-)vaiShNava-s. Here, viShNu is clearly depicted as being separate from and superior to other Gods. vaiShNava traditions are ancient, and can be traced back to the Adhvaryava tradition, which succeeded the indra centric hautra and prAjApatya cults. This evolved into the hoary vaikhAnasa branch of kRShNa yajurveda and pAncharAtra from shukla yajurveda; which are roughly of the same time period of rAmAyaNa. [MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/) There is a strong tendency towards exclusive worship of viShNu (especially for kAmya karmas) in vaiShNava traditions and texts.
+vAlmIki's rAmAyaNa, in it's available form, is an unequivocally vaiShNava work, presumably written by a vaiShNava for (pre-)vaiShNava-s. Here, viShNu is clearly depicted as being separate from and superior to other Gods. vaiShNava traditions are ancient, and can be traced back to the Adhvaryava tradition, which succeeded the indra centric hautra and prAjApatya cults. This evolved into the hoary vaikhAnasa branch of kRShNa yajurveda and pAncharAtra from shukla yajurveda; which are roughly contemporaneous with rAmAyaNa. [MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/) There is a strong tendency towards exclusive worship of viShNu (especially for kAmya karmas) in vaiShNava traditions and texts.
 
 It is wrong to argue that in vAlmIki's opinion, all deities (particularly shiva and viShNu) were identical. The author has expressed such sentiment. Such an opinion may be thrust upon vAlmIki's work, but is not natural to it, as may be verified by providing the work to a simpleton. 
 
