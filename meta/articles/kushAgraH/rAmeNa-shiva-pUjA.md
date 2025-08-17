@@ -26,6 +26,8 @@ title = "राम की शिव-पूजा"
 
 **English summary**
 
+Kushagra Aniket's attempted refutation of Govindaraja's explanation of "अत्र पूर्वं महादेवः प्रसादमकरोत्प्रभुः॥" falls flat for several objective reasons (besides his apparent incomprehension of Govindaraja's commentary) -
+
 - It would be remiss if rAma's review failed to even mention (ever so gently) samudra's astounding cooperation, which were so critical to the rescue.
 - It is not appropriate to thrust stuff from a separate works (which are anyway mutually inconsistent) on to vAlmIki at the cost of internally suggested, valuable meaning.
 - महादेव is pure visheShaNa in rAmAyaNa, not necessarily visheShya. Applies to जगन्नाथ as well.
