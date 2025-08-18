@@ -98,10 +98,7 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 > वर्धयन्न् इह धर्मार्थौ सेवितौ सद्भिरादरात् ।  
 > निगृहीतेन्द्रिय-ग्रामः कुर्वीत गुरु-सेवनम् । 
 
-इति । ततो राघवौ गङ्गा-सरयू-संगमे ऋष्याश्रमं दृष्ट्वा विश्वामित्रं पप्रच्छतुः । स च —
-
-> तयोस् तद्-वचनं श्रुत्वा प्रहस्य मुनि-पुंगवः ।  
-> अब्रवीच् छ्रूयतां राम यस्यायं पूर्व आश्रमः ॥  
+इति । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +167,11 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भगवन्! यह किसका पवित्र आश्रम है? और इसमें कौन पुरुष निवास करता है? यह हम दोनों सुनना चाहते हैं । इसके लिये हमारे मनमें बड़ी उत्कण्ठा है’ ॥ ८ ॥
+</details>
+
+<details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
+
+ततो राघवौ गङ्गा-सरयू-संगमे ऋष्याश्रमं दृष्ट्वा विश्वामित्रं पप्रच्छतुः । स च —
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,8 +405,8 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
-> तत्रत्य ऋषिभिः पूजिताः 
-> न्यवसन् सुसुखं तत्र स्थाण्व्-आश्रम-पदे तदा ।
+तत्रत्य ऋषिभिः पूजिताः 
+न्यवसन् सुसुखं तत्र स्थाण्व्-आश्रम-पदे तदा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
