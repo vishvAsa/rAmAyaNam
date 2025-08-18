@@ -12,6 +12,11 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 8. राजाका पुत्रके लिये अश्वमेधयज्ञ करनेका प्रस्ताव और मन्त्रियों तथा ब्राह्मणोंद्वारा उनका अनुमोदन
 </details>
 
+<details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
+
+एतादृशः पुत्रो नास्तीति अष्टम-सर्गे उक्तम् -  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चैवम्प्रभावस्य धर्मज्ञस्य महात्मनः ।  
