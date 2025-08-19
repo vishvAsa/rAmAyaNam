@@ -12,6 +12,11 @@ title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 11. सुमन्त्रके कहनेसे राजा दशरथका सपरिवार अंगराजके यहाँ जाकर वहाँसे शान्ता और ऋष्यशृंगको अपने घर ले आना
 </details>
 
+<details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
+
+एकादशे सर्गे-
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूय एव हि राजेन्द्र शृणु मे वचनं हितम् ।  
@@ -143,6 +148,12 @@ title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 वंशप्रतिष्ठानकराः सर्वभूतेषु विश्रुताः ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - त्र्यम्बकः</summary>
+
+पुत्राश् चास्य भविष्यन्ति चत्वारो ऽमित-विक्रमाः ।  
+वंश-प्रतिष्ठान-करास् त्रिषु लोकेषु विश्रुताः ॥
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘राजाके चार पुत्र होंगे, जो अप्रमेय पराक्रमी, वंशकी मर्यादा बढ़ानेवाले और सर्वत्र विख्यात होंगे ॥
@@ -175,6 +186,12 @@ title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 
 स त्वं पुरुषशार्दूल समानय सुसत्कृतम् ।  
 स्वयमेव महाराज गत्वा सबलवाहनः ॥ १२ ॥
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
+
+स त्वं पुरुष-शार्दूल तम् आनय सुसत्कृतम् ।
+स्वयम् एव महाराज गत्वा स-बल-वाहनः । 
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
