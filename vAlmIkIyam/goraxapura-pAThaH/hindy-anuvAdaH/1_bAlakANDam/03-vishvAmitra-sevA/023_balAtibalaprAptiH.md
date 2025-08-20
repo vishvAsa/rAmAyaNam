@@ -12,6 +12,11 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 23. विश्वामित्रसहित श्रीराम और लक्ष्मणका सरयू-गंगासंगमके समीप पुण्य आश्रममें रातको ठहरना
 </details>
 
+<details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
+
+त्रयोविंशे —
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां विश्वामित्रो महामुनिः ।  
@@ -46,6 +51,11 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 ‘नरश्रेष्ठ राम! तुम्हारे-जैसे पुत्रको पाकर महारानी कौसल्या सुपुत्रजननी कही जाती हैं । यह देखो, प्रातःकालकी संध्याका समय हो रहा है; उठो और प्रतिदिन किये जानेवाले देवसम्बन्धी कार्योंको पूर्ण करो’ ॥ २ ॥
 </details>
 
+<details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
+
+अनेन ' पूर्वोत्था' इति स्मृतिसिद्धं पूर्वोत्थानादिकमध्वश्रमेणाकुर्वन्नपि शिष्यः आचार्येण प्रबोध्य नित्यकर्मसु नियोज्य इति सूचितम् ॥   
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यर्षेः परमोदारं वचः श्रुत्वा नरोत्तमौ ।  
@@ -78,7 +88,7 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
 कृताह्निकौ महा-वीर्यौ विश्वामित्रं तपोधनम् ।  
-> अभिवाद्याभिसंहृष्टौ गमनायोपतस्थतुः ॥
+अभिवाद्याभिसंहृष्टौ गमनायोपतस्थतुः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>

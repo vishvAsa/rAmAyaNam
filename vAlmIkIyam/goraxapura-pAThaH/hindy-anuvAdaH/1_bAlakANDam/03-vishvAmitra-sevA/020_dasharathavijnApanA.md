@@ -12,6 +12,11 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 20. राजा दशरथका विश्वामित्रको अपना पुत्र देनेसे इनकार करना और विश्वामित्रका कुपित होना
 </details>
 
+<details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
+
+विंशैकविंशयोः — 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम् ।  
@@ -164,6 +169,12 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 
 षष्टिर्वर्षसहस्राणि जातस्य मम कौशिक ॥ १० ॥  
 कृच्छ्रेणोत्पादितश्चायं न रामं नेतुमर्हसि ।
+</details>
+
+<details><summary>मूलम् - त्र्यम्बकः</summary>
+
+षष्टिर् वर्ष-सहस्राणि जातस्य मम कौशिक ।  
+दुःखेनोत्पादितश् चायं न रामं नेतुम् अर्हसि ॥ 
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
