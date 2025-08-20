@@ -12,17 +12,14 @@ title = "राम की शिव-पूजा"
 [TW](https://x.com/agnimaan/status/1952343681379479812)
 [TW](https://x.com/agnimaan/status/1953406247606383011)
 [TW](https://x.com/agnimaan/status/1953420410168463678)
+
+[Exp](https://vishvasa.github.io/rAmAyaNam/meta/articles/kushAgraH/rAmeNa-shiva-pUjA/?expandDetails=.*&collectDetails=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8.*&printCols=2&bodyFontSize=0.5cm&includeStyle=on)
+
+गोविन्दराजटीका [ऽत्र](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) सुलभा।  
 </details>
 
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-कुशाग्र से गोविन्दराजटीका का खण्डन करने का आयास कर  
-बहुत भागोँ मेँ वाट्साप्-ट्विट्टर्-आदियोँ मेँ प्रकाशित किया। बहुत हि दोषजुष्ट पाया गया।  
-यहाँ उन दोषोँ का समूल सङ्ग्रह किया गया है। 
-
-गोविन्दराजटीका [ऽत्र](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) सुलभा।  
-
+<details><summary>विश्वास-टिप्पनी - English summary</summary>
 
 **English summary**
 
@@ -48,6 +45,16 @@ It is wrong to argue that in vAlmIki's opinion, all deities (particularly shiva 
 यावान् भेदो ऽक्ष-गः स्थितः।  
 विष्णौ स वैष्णवे रुद्रे  
 वाल्मीकीये प्रतिस्फुटः॥
+</details>
+
+
+<div class="AutoCollection" target="^विश्वास-टिप्पनी$"/>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कुशाग्र से गोविन्दराजटीका का खण्डन करने का आयास कर  
+बहुत भागोँ मेँ वाट्साप्-ट्विट्टर्-आदियोँ मेँ प्रकाशित किया। बहुत हि दोषजुष्ट पाया गया।  
+यहाँ उन दोषोँ का समूल सङ्ग्रह किया गया है। 
 </details>
 
 
