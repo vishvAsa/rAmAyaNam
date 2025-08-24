@@ -80,3 +80,7 @@ title = "रावणो न ब्राह्मणः"
 न तस्य वधाद् ब्रह्महत्यादोषः।  
 
 
+> Śrī Rāma did not incur the doṣa of brahmahatyā in killing Rāvaṇa. The evidence from the Dharmaśāstras is simply overwhelming. There is no brahmahatyā in killing an aggressor. Even as purusha, he does not incur the doṣa of brahmahatyā, per the opinion of Baudhayana, Vasishtha, Vyasa, Manu, et al.  - कुशाग्रः
+
+### सेतुमाहात्म्यार्थवादाः
+> Valmiki is THE Pramana for Ramayana, so many distortions and additions to Rama-Katha episodes and story in the Puranas, as per the theological orientations of the Purana writers. Skanda Purana Kshetra Mahatmya (extolling pilgrimage spots) portions add too much exaggerations and hype all the time. Not just Rama's sin of killing Brahmana Ravana, but Krishna's sin of killing uncle Kamsa, and 5-6 more such sins are listed in the Setu Mahatmaya and it is said that expiation for all those sins is through visiting and worshiping at the Setu. - jaTAyuSh
