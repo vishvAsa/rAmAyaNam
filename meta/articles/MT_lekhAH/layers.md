@@ -81,10 +81,16 @@ More precisely, there is a separate orthogonal element here. To establish the ai
 
 Some speculate -
 
-> rAvaNa was tirishas tvAShTra, hence a brAhmaNa;  
+> rAvaNa was tirishas tvAShTra, hence a brAhmaNa (matching rAma as indra);  
 > so rAma's paurANika prAyashchitta makes sense. 
 
-But, considering closely associated shaiva sectarian goals (eg. shiva dhanuSh as the setu, the setu shiva temple), this is more likely explained as a shaiva coping reaction to the (then) vaiShNava epic (which involved breaking a shaiva bow).
+But, considering 
+
+- total absence of any such hint in vAlmIkIya
+- later time-frame of purANas
+- closely associated shaiva sectarian goals (eg. shiva dhanuSh as the setu, the setu shiva temple), 
+
+this is more likely explained as a shaiva coping reaction to the (then) solidly vaiShNava epic (which involved breaking a shaiva bow).
 </details>
 
 
@@ -124,33 +130,17 @@ They then took up rAma, the ikshvAku hero of the rAmAyaNa, rAma of the axe, the 
 
 This redaction of the rAmAyaNa firmly followed the vaishnavite norms, casting rAma as vishNu born on Earth for the liberation of his worshipper from the rakshas. This was effected through insertions throughout the text, especially so in the bAlakANDa and uttarakANDa. This more or less crystallized this +++(bhAgavata-bhArgava-)+++ valmikian tradition of the rAmAyaNa.
 
-
-## Transmutation mechanism
-### prajApati illustration
-Source: [TW](https://twitter.com/blog_supplement/status/1756915469850755365)
-
-
-R^ik for for wealth
-
-यन् नो अग्निर् अखनद् यन् न इन्द्रो  
-विश्वे यद् देवा मरुतः स्वर्का ।  
-तद् अस्मभ्यं सविता सत्यधर्मा  
-सरस्वत्य् अनुमतिर् नि यच्छात् ॥  
-
-यन् न इन्द्रो अखनद् यद् अग्निर्  
-विश्वे देवा मरुतो यत् स्वर्काः ।  
-तद् अस्मभ्यं सविता सत्यधर्मा  
-*प्रजापतिर्* अनुमतिर् नि यछात् ॥  
-
-These R^ik-s for wealth (usually understood as mined) are respectively from AV-paippalAda & AV-vulgate. In AV-P the deities invoked are agni, indra, marut-s, savitR^i, sarasvati & anumati.  
-In AV-vul sarasvatI is replaced by prajApati. 
-
-This is the phenomenon of "prAjApatyization" wherein in multiple instances a distinct deity from the older standard pantheon in the AV-P is replaced by prajApati in the AV-vul. It illustrates how old R^ik-s can be changed in situ to incorporate a new religious trend. Now think of this process in the rAmAyaNa.
-
-
 ## Regional versions
 All later developments were seen in the form of regional versions of the epics like those in Tamil by kamban, tulsi in Hindi and an unknown author in Indonesian. 
 
 In Tamil Nad and Kerala there are ancient Sanskrit palm leaf manuscripts of some thing called the vyAsa rAmAyaNa. This is said to be a parallel version of the epic. Sadly the apathy of the modern Indian educational institutions has resulted in these texts not being critically edited, printed or translated. 
 
-Only much later during the Tulsidas period in the north, Ramdas in the middle and Tygaraja in the south did rAma gain acceptance as a god in the brahminical society. +++(नैतद् एवम् इति मन्ये। )+++
+~~Only much later during the Tulsidas period in the north, Ramdas in the middle and Tygaraja in the south did rAma gain acceptance as a god in the brahminical society.~~ 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> Only much later during the Tulsidas period in the north, Ramdas in the middle and Tygaraja in the south did rAma gain acceptance as a god in the brahminical society.
+
+नैतद् एवम् इति मन्ये। 
+</details>
+
