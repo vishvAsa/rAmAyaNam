@@ -43,15 +43,15 @@ in the statement, "One should supplement the Vedas with itihāsa and purāṇa,"
 If the **Purāṇas** are your authority,
 then the classification of Purāṇas into **Rājasa and Tāmasa** (vs superior sAttvika) mentioned therein should also be accepted.
 
-Otherwise, even if we simply consider the natural authoritativeness for a discerning reader who seeks to grasp the **author's intention** -  
+Otherwise, even if we simply consider the natural concern of a discerning reader who simply seeks to grasp the **author's intention** -  
 Vālmīki's [Rāmāyaṇa] alone is the supreme authority for the narrative of Rāma.  
 It is not dependent on other narratives.  
-On the contrary, it is easily understood that other Purāṇas are dependent on Vālmīki's work.
+On the contrary, it is easily understood that other Purāṇas depend on Vālmīki's work.
 
-Or if the robustness of authenticity is to be measured by the rarity of **interpolations**, as is agreed by all -  
+Or if the authenticity is to be measured by the rarity of **interpolations**, as is agreed by all -  
 even then - where stands Vālmīki's work, and where stand the other Purāṇas - and even among them, the Skanda Purāṇa :-).
 
-Thus, the independent and supreme authority of Vālmīki's work in the narrative of Rāma is accepted by honest seekers holding a variety of perspectives. That is to say, in case of a mutual contradiction, the meaning of Vālmīki's work should not be distorted to conform to the Purāṇas; rather, the intended purport of the Purāṇas should be understood in accordance with Vālmīki's work.
+Thus, the independent and supreme authority of Vālmīki's work in the narrative of Rāma is accepted by honest seekers holding a variety of perspectives. That is to say, in case of a mutual contradiction, the meaning of Vālmīki's work should **not be distorted** to conform to the Purāṇas; rather, the intended purport of the Purāṇas should be understood in accordance with Vālmīki's work.
 </details>
 
 ## सात्त्विक-शास्त्र-प्राधान्यम्
