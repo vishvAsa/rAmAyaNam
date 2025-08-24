@@ -35,10 +35,10 @@ title = "रामाख्याने परमं प्रमाणम्"
 
 <details><summary>English</summary>
 
-If you consider the **Vedas** as the ultimate authority,
-then in the compound word "+**itihāsa-purāṇa**," due to the prior placement of "itihāsa" (history/epics) which has more syllables, the prominence of itihāsa should be accepted.
-Similarly, elsewhere too -
-in the statement, "One should supplement the Vedas with itihāsa and purāṇa," the greater strength of itihāsa is understood by its prior placement, as stated in the rules of **Pāṇini**.
+If you consider the **Vedas** as the ultimate authority,  
+then in the compound word "+**itihāsa-purāṇa**," due to the prior placement of "itihāsa" (history/epics) which has more syllables, the prominence of itihāsa should be accepted, as per the rules of **Pāṇini**.  
+Similarly, elsewhere too -  
+in the statement, "One should supplement the Vedas with itihāsa and purāṇa," the greater strength of itihāsa is understood by its prior placement.
 
 If the **Purāṇas** are your authority,
 then the classification of Purāṇas into **Rājasa and Tāmasa** (vs superior sAttvika) mentioned therein should also be accepted.
