@@ -81,16 +81,16 @@ More precisely, there is a separate orthogonal element here. To establish the ai
 
 Some speculate -
 
-> rAvaNa was tirishas tvAShTra, hence a brAhmaNa (matching rAma as indra);  
+> In the aindra layer, rAvaNa was tirishas tvAShTra, hence a brAhmaNa (matching rAma as indra);  
 > so rAma's paurANika prAyashchitta makes sense. 
 
 But, considering 
 
-- total absence of any such hint in vAlmIkIya
+- total absence of any such hint in vAlmIkIya (besides just being son of a v1) - doesn't show trishiras type v1 traits/ ambivalence/ death by deceit (and vRtra doesn't give indra brahmahatyA).
 - later time-frame of purANas
 - closely associated shaiva sectarian goals (eg. shiva dhanuSh as the setu, the setu shiva temple), 
 
-this is more likely explained as a shaiva coping reaction to the (then) solidly vaiShNava epic (which involved breaking a shaiva bow).
+this is more likely explained as a shaiva coping reaction to the (then) solidly vaiShNava epic (which involved breaking a shaiva bow, having shiva strongly subordinate and dependent on viShNu).
 </details>
 
 
