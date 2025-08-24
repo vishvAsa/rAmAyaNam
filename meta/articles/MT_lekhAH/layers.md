@@ -2,7 +2,13 @@
 title = "Layers"
 +++
 
-Source: [TW](https://www.oocities.org/somasushma/ram.html)
+Source: [OO](https://www.oocities.org/somasushma/ram.html) with addenda
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+The below comments by mAnasatarangiNIkAra throw light on the connection between niyoga and ashvamedha – with particular reference to the birth of rAma. Also note ancillary remarks about how the epics can be interpreted as mirrors of the shruti; and how besides that, they must be read at many levels. And note the (very credible) theory that the current rAmAyaNa is a vaiShNava recasting of an aindra epic.
+</details>
+
 
 The layers of the vAlmIki rAmAyaNa
 
@@ -10,7 +16,39 @@ Comparative mythological studies suggest that the essential themes of the rAmAya
 
 ## Aindra layer
 
-The core of the rAmAyaNa contains a conscious identification of rAma with indra and unlike the paurANic age productions, indra is referred to in positive light in the core of the rAmAyaNa. Most analogies of rAma's valor and regal splendor are to indra with lakshmaNa serving as the equivalent of vishNu- the younger brother of indra. LaskhmaNa serves rAma in the battle against the rakshas, just as vishNu aids indra in battle against vRtra. The hordes of maruts, who are the sons of rudra are indra?s warriors in the great battles with vRtra. The rAmAyaNa contains their thinly veiled equivalents in the form the vAnara armies with the chief amidst them even very transparently named mAruti (meaning marut-like). The two other brothers of rAma remain behind taking care of the homestead very much like the role of the vedic divinities bhaga and pUshhaN who are frequently invoked to guard the home and hearth, progeny, cattle and horses. An ancient mythologem of the peculiar conflict of indra and sUrya as evidenced in the Rgvedic mantra of vAmadeva gotama as: 
+The core of the rAmAyaNa contains a conscious identification of rAma with indra and unlike the paurANic age productions, indra is referred to in positive light in the core of the rAmAyaNa. 
+
+### Indra's army
+Most analogies of rAma's valor and regal splendor are to indra with lakshmaNa serving as the equivalent of vishNu- the younger brother of indra. LaskhmaNa serves rAma in the battle against the rakshas, just as vishNu aids indra in battle against vRtra. The hordes of maruts, who are the sons of rudra are indra's warriors in the great battles with vRtra. The rAmAyaNa contains their thinly veiled equivalents in the form the vAnara armies with the chief amidst them even very transparently named mAruti (meaning marut-like). 
+
+### bhaga & co
+The two other brothers of rAma remain behind taking care of the homestead very much like the role of the vedic divinities bhaga and pUshhaN who are frequently invoked to guard the home and hearth, progeny, cattle and horses. 
+
+### udgAtR bringing the Gods
+... I’ve said that an epic can be read at many levels
+
+That is my intention of itihAsa-s read in the divine sense as a mirror of the shruti. In that type of reading rishyashR^i~Nga is like the udgAtR^i coming from the forest reciting the shakvarI sAman to generate rain. that’s for romapAda.
+
+In the same way like the udgAtR^i in the somayAga he brings indra (and other deva-s) to the ikShkvAku-s in the rAmAyaNa; laksh being viShNu, bharata being probably bhaga and shatrughna being aryaman.+++(5)+++
+
+### 7 trees
+What is the shruti cognate of rAma piercing the 7 trees?
+
+>  (KYV-TŚ) the story of Indra piercing 7 mountains to kill a boar-asura.
+
+There is an RV reflex too.
+
+> विश्वेत्ता विष्णु॒राभ॑रदुरुक्र॒मस्त्वेषि॑तः ।  
+श॒तं म॑हि॒षान्क्षी॑रपा॒कमो॑द॒नं व॑रा॒हमिन्द्र॑ एमु॒षम् ॥
+
+dyutAna mAruta - mArutiH?
+
+
+
+
+
+### Indra vs sUrya
+An ancient mythologem of the peculiar conflict of indra and sUrya as evidenced in the Rgvedic mantra of vAmadeva gotama as: 
 
 > yatrota badhitebhyashchakraM kutsAya yudhyate | mUshAya indra suryaM ||.  
 > 
@@ -18,24 +56,73 @@ The core of the rAmAyaNa contains a conscious identification of rAma with indra 
 
 A descendent of this mythologem re-occurs in the rAmAyaNa in the backdrop of the conflict between vAli (son of Indra) and sugrIva (sun of sUrya). These connections with the vedic mythological frame places the genesis of the rAmAyaNa in an age when the Aryan religion had a much wider following amidst the general Indian populace.
 
+### vAli-vadha
+Source: [TW](https://threadreaderapp.com/thread/1621049814115917825.html)
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+वलस्यापत्यम् इति वालिः।
+</details>
+
+
+There has been a lot of discussion about the deceitful killing of vAlin by rAma. Despite the justifications which rAma offers they seem hollow. However, after some thought I concluded that vAlmIki purposefully presented it that way. As we have seen he closely follows the shruti & repeatedly tries to illustrate the indra-nature of the ikShvAku prince by paralleling the acts of indra in the shruti. This I believe represents that side of indra which is hard to grasp for the unrealized:
+
+> बह्वीः सन्धा अतिक्रम्य  
+> दिवि प्रह्लादीयान् अतृण्  
+> अहम् अन्तरिक्षे पौलोमान्  
+> पृथिव्यां कालकाञ्जान् ।  
+> तस्य मे तत्र न लोम चनामीयत ।
+
+I guess a later day votary felt similarly about the slaying of vAlin as an Arya of yore might have felt when he heard the above shruti-vAkya-s: perhaps, even a sense of awe.
+
+More precisely, there is a separate orthogonal element here. To establish the aindra nature of rAma, vAlmIki has him supersede the otherwise most powerful character in the epic vAlin (perhaps even most powerful in direct combat) who is the prior occupant of the aindra status.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Some speculate -
+
+> rAvaNa was tirishas tvAShTra, hence a brAhmaNa;  
+> so rAma's paurANika prAyashchitta makes sense. 
+
+But, considering closely associated shaiva sectarian goals (eg. shiva dhanuSh as the setu, the setu shiva temple), this is more likely explained as a shaiva coping reaction to the (then) vaiShNava epic (which involved breaking a shaiva bow).
+</details>
+
+
 ## Epic tradition
 The core of the rAmAyaNa in most respects conforms to the archaic formats of Indo-European epic poetry: whether it was vAlmIki, or vyAsa in India, Homer or Teiriseas in Greece or Saxo Grammaticus in Scandinavia describing the Aryan conquerors, the Trojan war or the founding fathers of the kingdoms of Sweden and Denmark, a common set of templates were used by all. Into these templates the Indo-European poets from these far flung lands vastly separate from each other in time cast their historical narrative to give rise to the epics of their cultures. 
 
 ## Distinction from bhArata
-This said the rAmAyaNa has a distinct tenor from the productions of the sUtas epicists of the bhArata mainstream. The wordy prose with a never ending windowing system branching off from the main storyline (the "hypertext style") was clearly avoided by the rAmAyaNa. This suggests that in the ikshvAku realms unlike in their bhArata neighbors, there were the true poet bards distinct from the sUta variety. Thus we see the ikshvAku bard, vAlmiki representing a rare Aryan poetic style that probably was not common in the zone of the bhArata-panchAla culture that later came to domainate the Indo-Aryan scene. The core composed by vAlmiki appears to have had two sub-epics named the **sItAcharita** covering the first half and **paulatsya** vadha covering the second half.
+This said the rAmAyaNa has a distinct tenor from the productions of the sUtas epicists of the bhArata mainstream. The wordy prose with a never ending windowing system branching off from the main storyline (the "hypertext style") was clearly avoided by the rAmAyaNa. 
+
+This suggests that in the ikshvAku realms unlike in their bhArata neighbors, there were the true poet bards distinct from the sUta variety. Thus we see the ikshvAku bard, vAlmiki representing a rare Aryan poetic style that probably was not common in the zone of the bhArata-panchAla culture that later came to domainate the Indo-Aryan scene. 
+
+The core composed by +++(aindra-)+++ vAlmiki appears to have had two sub-epics named the **sItAcharita** covering the first half and **paulatsya-vadha** covering the second half.
 
 ## bhArgava redaction
-Then next palpable phase of redaction of the rAmAyaNa was the bhArgava redaction carried out by the bhRgus, in all likelihood in the late post-janamejayan kuru-panchala realm. Not only did they insert various portions into the original epic but also probably injected it for the first time into the bhArata (kuru-panchala) mainstream. This phase was characterized by the typical insertion of the bhRgu myths into the rAmAyaNa, including the cover up job on the shunashepa story.+++(4)+++ Real core of what we have today is most likely product of the bhArgava redaction and it was condensation of this that gave rise to the mini-rAmAyaNa inserted into the vana parva of the mahAbhArata.
+Then next palpable phase of redaction of the rAmAyaNa was the bhArgava redaction carried out by the bhRgus, in all likelihood in the late post-janamejayan kuru-panchala realm. Not only did they insert various portions into the original epic but also probably injected it for the first time into the bhArata (kuru-panchala) mainstream. 
+
+This phase was characterized by the typical insertion of the bhRgu myths into the rAmAyaNa, including the cover up job on the shunashepa story.+++(4)+++ Real core of what we have today is most likely product of the bhArgava redaction and it was condensation of this that gave rise to the mini-rAmAyaNa inserted into the vana parva of the mahAbhArata.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Call this "author" the bhArgava vAlmIki.
+</details>
 
 ## Anti-bauddha layer
-This was followed much later by the generic brAhminical redaction during the low point of the vedic religion at the hand of the buddhists. This was when the uttara khANDa and the corruptions explicitly condemning the buddhist got inserted into the rAmAyaNa. If one examines these, it is seen that these corruptions expressed hostility to the buddha himself: these markedly differ from the pAurANic mentions of buddha where he is already an incarnation of nArAyaNa and his negative activities are merely seen as a way of deluding the asuras. So these insertions in the rAmAyaNa were well before the hindu resurgence seen in the purANas (also reflected clearly in the spirit of the final product of this phase shri shankarAchArya). Hence we can place the finger around 200BC, prior to the shunga reign as the possible date when this took place.
+This was followed much later by the generic brAhminical redaction during the low point of the vedic religion at the hand of the buddhists. This was when the uttara khANDa and the corruptions explicitly condemning the buddhist got inserted into the rAmAyaNa. 
 
-## Final redaction
+If one examines these, it is seen that these corruptions expressed hostility to the buddha himself: these markedly differ from the pAurANic mentions of buddha where he is already an incarnation of nArAyaNa and his negative activities are merely seen as a way of deluding the asuras. So these insertions in the rAmAyaNa were well before the hindu resurgence seen in the purANas (also reflected clearly in the spirit of the final product of this phase shri shankarAchArya).+++(4)+++ Hence we can place the finger around 200BC, prior to the shunga reign as the possible date when this took place.
+
+## Final vaiShNava redaction
 By the onset of the classical-pauraNic phase (proceeding through shunga-kushAna-gupta dynasties) marked the final redaction of the rAmAyaNa. The main stream Hindu religion had emerged resurgent from the eclipse of Jainism and Buddhism sideshows; but this victory was a pyrrhic one as the religion had remodeled itself and already diversified into its sectarian forms, chiefly represent by the shaiva and vaishnava branches. These branches in the process of consolidating their victory over the masses began recasting the Indo-European mythological material into new structure that resulted in the classical purANas. 
 
-In this process both the rAmAyaNA and the mahAbhArata were extensively co-opted and used. The vaishnavas seeing their success with their experiment of extending cultic hero-worship to avatAr-hood began vigorously appropriating all Indo-Aryan heros and sages for the purpose.+++(5)+++ Their original experiment was centered around the kRshNa cult where they had identified kRshNa with the great vedic deity vishNu and made him his avatara. They then took up rAma, the ikshvAku hero of the rAmAyaNa, rAma of the axe, the hero of the jAmadgnya bhArgava clan that was the earlier custodian of the mythologies, and the buddha himself, ironically, against whose followers the vaishnavas had scored a major victory. 
+In this process both the rAmAyaNA and the mahAbhArata were extensively co-opted and used. The vaishnavas seeing their success with their experiment of extending cultic hero-worship to avatAra-hood began vigorously appropriating all Indo-Aryan heros and sages for the purpose.+++(5)+++ 
 
-This redaction of the rAmAyaNa firmly followed the vaishnavite norms, casting rAma as vishNu born on Earth for the liberation of his worshipper from the rakshas. This was effected through insertions throughout the text, especially so in the bAlakANDa and uttarakANDa. This more or less crystallized this valmikian tradition of the rAmAyaNa.
+Their original experiment was centered around the kRshNa cult where they had identified kRshNa with the great vedic deity vishNu and made him his avatara. 
+
+They then took up rAma, the ikshvAku hero of the rAmAyaNa, rAma of the axe, the hero of the jAmadgnya bhArgava clan that was the earlier custodian of the mythologies, and the buddha himself, ironically, against whose followers the vaishnavas had scored a major victory. 
+
+This redaction of the rAmAyaNa firmly followed the vaishnavite norms, casting rAma as vishNu born on Earth for the liberation of his worshipper from the rakshas. This was effected through insertions throughout the text, especially so in the bAlakANDa and uttarakANDa. This more or less crystallized this +++(bhAgavata-bhArgava-)+++ valmikian tradition of the rAmAyaNa.
 
 
 ## Transmutation mechanism
@@ -55,7 +142,10 @@ R^ik for for wealth
 तद् अस्मभ्यं सविता सत्यधर्मा  
 *प्रजापतिर्* अनुमतिर् नि यछात् ॥  
 
-These R^ik-s for wealth (usually understood as mined) are respectively from AV-paippalAda & AV-vulgate. In AV-P the deities invoked are agni, indra, marut-s, savitR^i, sarasvati& anumati. In AV-vul sarasvatI is replaced by prajApati. This is the phenomenon of "prAjApatyization" wherein in multiple instances a distinct deity from the older standard pantheon in the AV-P is replaced by prajApati in the AV-vul. It illustrates how old R^ik-s can be changed in situ to incorporate a new religious trend. Now think of this process in the rAmAyaNa.
+These R^ik-s for wealth (usually understood as mined) are respectively from AV-paippalAda & AV-vulgate. In AV-P the deities invoked are agni, indra, marut-s, savitR^i, sarasvati & anumati.  
+In AV-vul sarasvatI is replaced by prajApati. 
+
+This is the phenomenon of "prAjApatyization" wherein in multiple instances a distinct deity from the older standard pantheon in the AV-P is replaced by prajApati in the AV-vul. It illustrates how old R^ik-s can be changed in situ to incorporate a new religious trend. Now think of this process in the rAmAyaNa.
 
 
 ## Regional versions
