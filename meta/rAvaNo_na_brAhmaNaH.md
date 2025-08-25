@@ -31,22 +31,22 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 ## वाल्मीकेर् मतम्
 वाल्मीकि-रामायणे रामेण रावणः क्षत्र-धर्म-व्यवस्थितो मतः -
 
-> वदन्तं हेतुमद् वाक्यं  
-परिदृष्टार्थ-निश्चयम् ।  
-रामः शोक-समाविष्टम्  
-इत्य् **उवाच** विभीषणम् ॥ १३ ॥
->
-> **नायं विनष्टो** निश्चेष्टः  
-समरे चण्ड-विक्रमः ।  
-अत्युन्नत-महोत्साहः  
-पतितो ऽयम् अशङ्कितः ॥ १४ ॥
->
 > नैवं विनष्टाः शोचन्ते  
 क्षत्र-धर्म-व्यवस्थिताः ।  
-वृद्धिम् **आशंसमाना** ये  
-निपतन्ति रणाजिरे ॥ १५ ॥
+वृद्धिम् आशंसमाना ये  
+निपतन्ति रणाजिरे ॥ १५ ॥ …  
+इयं हि पूर्वैः सन्दिष्टा  
+गतिः **क्षत्रिय**-सम्मता ।  
+**क्षत्रियो** निहतः सङ्ख्ये  
+न शोच्य इति निश्चयः ॥ १८ ॥
 
 कथं रामस्य ब्राह्मण्यं वाल्मीकीयतो ज्ञेयम्? तत्र खलु क्षत्रिय इत्येव व्यपदिष्टः - रावणकलेवरदाहप्रसङ्गे विशिष्य।  
+
+<details><summary>English</summary>
+
+R can't be both a kShatriya and a brAhmaNa at the same time (no varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP, or understand intent of skAnda-purANa as per vAlmIki - your choice.
+</details>
+
 
 ## अध्यात्मरामायणे
 यदि चाध्यात्मरामायणम् प्रमाणं वः, तत्रापि मण्दोदरी-वचनम् - 
