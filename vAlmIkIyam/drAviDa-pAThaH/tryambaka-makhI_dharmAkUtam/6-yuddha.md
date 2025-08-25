@@ -15,7 +15,7 @@ O. A. NARAYANASWAMI, B. A., B. L.,
 Honorary Secretary,   
 TM S S M Library, Thanjavur.   
 A. D. 1964   
-Price: Rs. 30/-   
+Price:  Rs. 30/-   
 "This book is published under the scheme of editing and publication of rare manuscripts F. No. 18/60/C-2 of the Government of India, Ministry of Education, NEW DELHI ”.   
 समष्टि व्यष्टि राष्ट्रसञ्चालक मन्त्रिमण्डल- विश्राणितानल्पवित्तोपकारेण मुद्राप्य प्रकाशितो- ऽयं ग्रन्थ. विजयते ।   
 सरखतीमहाल ग्रन्थमालायाः पुष्पम् - १११   
