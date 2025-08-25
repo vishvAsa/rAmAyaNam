@@ -2,6 +2,32 @@
 title = "रावणो न ब्राह्मणः"
 +++
 
+## पौलस्त्यत्व-मात्रान् न ब्राह्मण्यम्
+इतिहास-पुराणेषु क्वचिद् एव ब्राह्मणस्य वर्णान्तर-स्त्रियाम् उद्भूतः पुत्रो ब्राह्मण उच्यते, बहुत्र न।  
+
+अब्राह्मणापत्योद्भवस्योदाहरणानि -  
+व्यासात् क्षत्रियायाम् अम्बिकायां क्षत्रियो धृतराष्ट्रः, क्षत्रियायाम् अम्बालिकायां क्षत्रियः पाण्डुः, शूद्रदास्याः शूद्रो विदुरः। 
+
+ब्राह्मणापत्योद्भवय् उदाहरणानि - पराशरात् क्षत्रियायां सत्यवत्यां व्यासः, जमदग्ने क्षत्रियायां रामः। 
+
+एवं पौलस्त्यत्व-मात्रान् न राक्षस-राज-कुमारी-सूनो रावणस्य ब्राह्मण्यं निश्चेतुं शक्यम्। 
+
+<details><summary>English</summary>
+
+**Brahminhood is not determined merely by inter-jAti descent from a Brahmana male.**
+
+In the Itihasas and Puranas, it is only in some instances that a son born to a Brahmin from a woman of another varna is called a Brahmin; in many places, he is not.
+
+Examples of the birth of non-Brahmin offspring:  
+- From Vyasa, the Kshatriya Dhritarashtra was born to the Kshatriya Ambika, the Kshatriya Pandu to the Kshatriya Ambalika, and the Shudra Vidura from a Shudra maidservant.
+
+Examples of the birth of Brahmin offspring:  
+- From Parashara, Vyasa was born to the Kshatriya Satyavati; from Jamadagni, Rama (Parashurama) was born to a Kshatriya woman.
+
+Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descendant of the brAhmaNa Pulastya and a rAxasa princess.
+</details>
+
+
 ## वाल्मीकेर् मतम्
 वाल्मीकि-रामायणे रामेण रावणः क्षत्र-धर्म-व्यवस्थितो मतः -
 
@@ -80,7 +106,14 @@ title = "रावणो न ब्राह्मणः"
 न तस्य वधाद् ब्रह्महत्यादोषः।  
 
 
+<details><summary>English</summary>
+
 > Śrī Rāma did not incur the doṣa of brahmahatyā in killing Rāvaṇa. The evidence from the Dharmaśāstras is simply overwhelming. There is no brahmahatyā in killing an aggressor. Even as purusha, he does not incur the doṣa of brahmahatyā, per the opinion of Baudhayana, Vasishtha, Vyasa, Manu, et al. All great commentators of the Vālmīki-Rāmāyaṇan agree with this position in the case of strī-hatyā regarding the killing of Tāṭakā. Their argument can be applied mutatis mutandis to the case of the killing of Rāvaṇa. - कुशाग्रः
+</details>
+
 
 ### सेतुमाहात्म्यार्थवादाः
+<details><summary>English</summary>
+
 > Valmiki is THE Pramana for Ramayana, so many distortions and additions to Rama-Katha episodes and story in the Puranas, as per the theological orientations of the Purana writers. Skanda Purana Kshetra Mahatmya (extolling pilgrimage spots) portions add too much exaggerations and hype all the time. Not just Rama's sin of killing Brahmana Ravana, but Krishna's sin of killing uncle Kamsa, and 5-6 more such sins are listed in the Setu Mahatmaya and it is said that expiation for all those sins is through visiting and worshiping at the Setu. - jaTAyuSh
+</details>
