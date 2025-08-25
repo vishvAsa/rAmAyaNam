@@ -10,7 +10,9 @@ title = "रावणो न ब्राह्मणः"
 
 ब्राह्मणापत्योद्भवय् उदाहरणानि - पराशरात् क्षत्रियायां सत्यवत्यां व्यासः, जमदग्ने क्षत्रियायां रामः। 
 
-एवं पौलस्त्यत्व-मात्रान् न राक्षस-राज-कुमारी-सूनो रावणस्य ब्राह्मण्यं निश्चेतुं शक्यम्। 
+एवं पौलस्त्यत्व-मात्रान् न राक्षस-राज-कुमारी-सूनोर् वैश्वरवसो रावणस्य ब्राह्मण्यं निश्चेतुं शक्यम्।  
+उत्तरकाण्डे तु विश्रवसो भारद्वाज-ब्राह्मण्यां जातं "सर्वैर् ब्रह्म-गुणैर् वृतम्" धनाध्यक्षम् आह।  
+रावणादौ तु तद्-विपरीतम् - "दारुणान् … प्रसविष्यसि राक्षसान् क्रूरकर्मणः; जनयामास बीभत्सम्" इत्य् उक्तम्। 
 
 <details><summary>English</summary>
 
@@ -24,7 +26,7 @@ Examples of the birth of non-Brahmin offspring:
 Examples of the birth of Brahmin offspring:  
 - From Parashara, Vyasa was born to the Kshatriya Satyavati; from Jamadagni, Rama (Parashurama) was born to a Kshatriya woman.
 
-Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descendant of the brAhmaNa Pulastya and a rAxasa princess.
+Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descendant of the brAhmaRShi pulastya and a rAxasa princess. However, in the Uttara Kanda, it describes the Lord of Wealth (Kubera), who was born to Vishravas from a Brahmin woman of the Bharadwaja clan, as being "endowed with all brahminical qualities," but nowhere does it say this about Ravana.
 </details>
 
 
@@ -46,6 +48,17 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 
 rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP and call rAma a liar/ confused person, or understand intent of skAnda-purANa as per vAlmIki - your choice.
 </details>
+
+### राक्षस-साधारणस्य क्षत्रियत्वम्
+उत्तरकाण्डे राक्षसाणां च स्वाभाविकं क्षत्रियत्वं सूचितम् प्रजापतिना - 
+
+> **रक्षाम** इति यैरुक्तं  
+राक्षसास् ते भवन्तु वः ।
+
+राक्षसास् सर्वे दुष्टा इत्य् अपि न । अवर्तत हि विभीषणः साधुः, सुकेशश् च। एवं चोच्यते - 
+
+> सुकेशं धार्मिकं दृष्ट्वा … ग्रामणीर्नाम गन्धर्वो (स्वसुतां) धर्मात्मा ददौ। 
+
 
 
 ## अध्यात्मरामायणे
