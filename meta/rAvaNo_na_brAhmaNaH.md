@@ -14,12 +14,12 @@ title = "रावणो न ब्राह्मणः"
 
 <details><summary>English</summary>
 
-**Brahminhood is not determined merely by inter-jAti descent from a Brahmana male.**
+**Brahminhood from inter-jAti union with a Brahmana male?**
 
 In the Itihasas and Puranas, it is only in some instances that a son born to a Brahmin from a woman of another varna is called a Brahmin; in many places, he is not.
 
 Examples of the birth of non-Brahmin offspring:  
-- From Vyasa, the Kshatriya Dhritarashtra was born to the Kshatriya Ambika, the Kshatriya Pandu to the Kshatriya Ambalika, and the Shudra Vidura from a Shudra maidservant.
+- From Vyasa, the Kshatriya Dhritarashtra was born to the Kshatriya Ambika, the Kshatriya Pandu to the Kshatriya Ambalika, and the Shudra Vidura to a Shudra maid.
 
 Examples of the birth of Brahmin offspring:  
 - From Parashara, Vyasa was born to the Kshatriya Satyavati; from Jamadagni, Rama (Parashurama) was born to a Kshatriya woman.
@@ -44,7 +44,7 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 
 <details><summary>English</summary>
 
-R can't be both a kShatriya and a brAhmaNa at the same time (no varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP, or understand intent of skAnda-purANa as per vAlmIki - your choice.
+rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP and call rAma a liar/ confused person, or understand intent of skAnda-purANa as per vAlmIki - your choice.
 </details>
 
 
