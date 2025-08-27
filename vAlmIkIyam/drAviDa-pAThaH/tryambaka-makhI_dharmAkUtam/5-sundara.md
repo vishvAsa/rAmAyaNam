@@ -4970,7 +4970,7 @@ D. 10७४
 > न च तत्र रावणस्याधिकारः संभवति,  
 सकल-वर्ण-बहिर्भूतस्य +अनुलोम-बहिर्भूतस्य च होमाधिकारासंभवात् ।  
 > 
-> साधारण-विचारः [पृथक्](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_006_varNa-vRtty-utkarShAdi) ।
+> साधारण-विचारः [पृथक्](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_sundarakANDam/006_varNa-vRtty-utkarShAdi) ।
 > 
 > इत्थं प्रतिपादितेषु जातिषु  
 नायं रावणो ब्राह्मणः, ब्राह्मण्याम् उत्पन्नत्वाभावात् ।  
@@ -4990,7 +4990,7 @@ D. 10७४
 राक्षस्यां विश्रवस उत्पन्नस्यापि  
 मूर्धावसिक्तत्वेन कर्माधिकार-संभवात् । +++(5)+++  
 
-<div class="js_include" url="/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_006_rAxasa-xatriyatA" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_sundarakANDam/006_rAxasa-xatriyatA" newLevelForH1="5" includeTitle="false"> </div>
 
 
 
@@ -5045,7 +5045,7 @@ D. 10७४
 ब्राह्मणात् क्षत्रियायाम् उत्पन्नानाम् अपि ब्राह्मणत्व-संभवात् ।  
 
 
-<div class="js_include" url="/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_006_Apadi_jAtyantarAyAm_utpattiH" newLevelForH1="b[]" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_sundarakANDam/006_Apadi_jAtyantarAyAm_utpattiH" newLevelForH1="b[]" includeTitle="false"> </div>
 
 
 
