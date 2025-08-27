@@ -5045,8 +5045,7 @@ D. 10७४
 ब्राह्मणात् क्षत्रियायाम् उत्पन्नानाम् अपि ब्राह्मणत्व-संभवात् ।  
 
 
-<div class="js_include" url="/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_006_Apadi_jAtyantarAyAm_utpattiH" newLevelForH1="5" includeTitle="false"> </div>
-
+<div class="js_include" url="/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_006_Apadi_jAtyantarAyAm_utpattiH" newLevelForH1="b[]" includeTitle="false"> </div>
 
 
 
