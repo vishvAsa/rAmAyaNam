@@ -415,7 +415,7 @@ It is wrong to argue that in vAlmIki's opinion, all deities (particularly shiva 
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-**समुद्रप्रसादोल्लेखौचित्यम्**  
+**समुद्रप्रसादोल्लेखौचित्यम्॥**  
 अन्यत्र प्रकरण की बात करने वाले यहाँ प्रकरण को ही भूलकर औचित्य और काव्य-शैली की बात करने लगे - यह स्मयनीय बात है। प्रकरण से भी औचित्य सिद्ध होता है - यह बात भूल गये कुशाग्र।  
 
 प्रकरण से तो सिद्ध है कि राम समुद्रको भयभीत करके  
@@ -427,6 +427,12 @@ It is wrong to argue that in vAlmIki's opinion, all deities (particularly shiva 
 
 और रहि काव्यशैली की बात - वाम्लीकि कि शैली इतना भी दर्दिद्र मानना नहि चाहिए कि वह एक शब्द का एक ही अर्थ मेँ प्रयोग करेँ। निस्सन्देह इस बात के अनेक उदाहरण कुशाग्र को भी ढूण्ढने पर मिलेँगे।  
 तो सिद्ध है कि गोविन्दराज के प्रसाद-शब्द-व्याख्यान सुग्राह्य है। 
+
+**अदीनता॥**  
+There is no dIna-vANI to be suspected here on the part of rAma just because he graciously admits samudra's ultimate cooperation. This is just noble behavior, shod of arrogance. Look at how laxmaNa apologizes to sugriva after threatening him with death, once sugrIva realizes his mistake -  
+
+> यच्च शोकाभिभूतस्य श्रुत्वा रामस्य भाषितम् ।    
+मया त्वं परुषाण्युक्तस्तत् क्षमस्व सखे मम ॥
 </details>
 
 
