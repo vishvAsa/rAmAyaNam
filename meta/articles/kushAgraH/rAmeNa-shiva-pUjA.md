@@ -23,13 +23,15 @@ title = "राम की शिव-पूजा"
 
 **English summary**
 
+To clarify, a honest simpleton (eg. a foreigner) with just vAlmIki rAmAyaNa and nothing else, would conclude that mAhAdeva refers to samudra only. Only when one feels compelled to reconcile myriad purANas (and kAvyas), one would begin to foist various other tropes such as shiva-pUjA, brahma-hatyA, mAyA sItA and so on.
+
 Kushagra Aniket's attempted refutation of Govindaraja's explanation of "अत्र पूर्वं महादेवः प्रसादमकरोत्प्रभुः॥" falls flat for several objective reasons (besides his occassionally apparent incomprehension of Govindaraja's commentary) -
 
 - It would be remiss if rAma's review failed to even mention (ever so gently) samudra's astounding cooperation, which were so critical to the rescue.
 - It is not appropriate to thrust stuff from a separate works (which are anyway mutually inconsistent) on to vAlmIki at the cost of internally suggested, valuable meaning.
 - महादेव is pure visheShaNa in rAmAyaNa, not necessarily visheShya. Applies to जगन्नाथ as well.
   - It has strong "rUDhi-shakti" in the former sense as well, given that the components mahA and deva are well known. This is the main contention - that the meaning as an adjective is quite common too (more so among the learned). For example, महादेव is used for viShNu in the sahasranAmastotra of MBh.
-  - As an aside - It's been known to refer to (=has minor rUDhi in) samudra since atleast nirukta composition. It is indeed far more commonly used for shiva than samudra (though the latter meaning was well known to vaidikas from nirukta). It has been used in to refer to samudra by an advaitin commentator maheshvara-tIrtha. 
+  - As an aside - It has been used in to refer to samudra by an advaitin commentator maheshvara-tIrtha, based on nirukta definition of mahat, and the vedic association of mahAdeva with a water body. We don't need to resort to it though.
   - samudra is very much considered a deva in vAlmIki rAmAyaNa, as in earlier vedas.
 - vAlmIki is quite capable of using the same word in multiple meanings - this applies to प्रसाद and महादेव as well.
 
