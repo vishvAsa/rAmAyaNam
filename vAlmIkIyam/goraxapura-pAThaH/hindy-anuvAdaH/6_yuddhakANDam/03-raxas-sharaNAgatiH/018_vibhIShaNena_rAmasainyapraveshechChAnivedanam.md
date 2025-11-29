@@ -48,8 +48,10 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मित्रभावेन सम्प्राप्तं न त्यजेयं कथञ्चन ।  
-दोषो यद्यपि तस्य स्यात् सतामेतदगर्हितम् ॥ ३ ॥
+मित्रभावेन सम्प्राप्तं  
+न त्यजेयं कथञ्चन ।  
+दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अ-गर्हितम् ॥ ३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -553,8 +555,10 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आनयैनं हरिश्रेष्ठ दत्तमस्याभयं मया ।  
-विभीषणो वा सुग्रीव यदि वा रावणः स्वयम् ॥ ३४ ॥
+आनयैनं हरिश्रेष्ठ  
+दत्तम् अस्याभयं मया ।  
+विभीषणो वा सुग्रीव  
+यदि वा रावणः स्वयम् ॥ ३४ ॥ +++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
