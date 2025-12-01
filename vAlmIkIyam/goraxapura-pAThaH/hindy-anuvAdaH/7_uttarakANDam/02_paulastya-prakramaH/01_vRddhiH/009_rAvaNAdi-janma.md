@@ -417,17 +417,30 @@ title = "००९ रावणादि-जन्म"
 ‘शुभानने! तुम्हारा जो सबसे छोटा एवं अन्तिम पुत्र होगा, वह मेरे वंशके अनुरूप धर्मात्मा होगा; इसमें संशय नहीं है’ ॥ २७ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The birth of the king of the Rakṣas. While the Rakṣa-es are repeatedly mentioned in the śruti, we do not have a clear iconography therein. We believe the account of the birth of the lord of Lankā captures the early visualization of Rakṣa-es. While his birth name was Daśagrīva, he received his famous moniker Rāvaṇa later from Rudra.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्ता तु सा कन्या  
+एवम् उक्ता तु सा कन्या  
 राम कालेन केनचित् ।  
-जनयामास बीभत्सं  
+जनयाम् आस बीभत्सं  
 रक्षोरूपं सुदारुणम् ॥ २८ ॥  
 दशग्रीवं महादंष्ट्रं  
-नीलाञ्जनचयोपमम् ।  
+नीलाञ्जन-चयोपमम् ।  
 ताम्रोष्ठं विंशतिभुजं  
-महास्यं दीप्तमूर्धजम् ॥ २९ ॥
+महास्यं दीप्त-मूर्ध-जम् ॥ २९ ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+After some time, o Rāma, the girl (Kaikasi), who had been addressed thus, gave birth to a fearsome and very terrible one having the form of a Rakṣas.  
+He had ten heads, huge fangs, and resembled a heap of dark collyrium. He had coppery lips, twenty arms, huge mouths, and glowing hair.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -444,9 +457,17 @@ title = "००९ रावणादि-जन्म"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिञ्जाते ततस्तस्मिन् सज्वालकवलाः शिवाः ।  
-क्रव्यादाश्चापसव्यानि मण्डलानि प्रचक्रमुः ॥ ३० ॥
+तस्मिञ् जाते ततस् तस्मिन्  
+स-ज्वाल-कवलाः शिवाः ।  
+क्रव्यादाश् चापसव्यानि  
+मण्डलानि प्रचक्रमुः ॥ ३० ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+At the moment of his birth, jackals, with mouths emitting flames, and other predators circled in a counter-clockwise manner.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -461,30 +482,63 @@ title = "००९ रावणादि-जन्म"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ववर्ष रुधिरं देवो मेघाश्च खरनिःस्वनाः ।  
-प्रबभौ न च सूर्यो वै महोल्काश्चापतन् भुवि ॥ ३१ ॥  
-चकम्पे जगती चैव ववुर्वाताः सुदारुणाः ।  
-अक्षोभ्यः क्षुभितश्चैव समुद्रः सरितां पतिः ॥ ३२ ॥
+ववर्ष रुधिरं देवो  
+मेघाश्च खरनिःस्वनाः ।  
+प्रबभौ न च सूर्यो वै  
+महोल्काश् चापतन् भुवि ॥ ३१ ॥  
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The god rained down blood, and the clouds resounded like asses. The sun disappeared from the
+sky, and great meteors fell on the earth.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ववर्ष रुधिरं देवो मेघाश्च खरनिःस्वनाः ।  
-प्रबभौ न च सूर्यो वै महोल्काश्चापतन् भुवि ॥ ३१ ॥  
+प्रबभौ न च सूर्यो वै महोल्काश्चापतन् भुवि ॥ ३१ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी)</summary>
+
+इन्द्रदेव रुधिरकी वर्षा करने लगे, मेघ भयंकर स्वरमें गर्जने लगे, सूर्यकी प्रभा फीकी पड़ गयी, पृथ्वीपर उल्कापात होने लगा, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**चकम्पे** जगती चैव  
+ववुर्वाताः सुदारुणाः ।  
+अक्षोभ्यः **क्षुभितश्** चैव  
+समुद्रः सरितां पतिः ॥ ३२ ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
 चकम्पे जगती चैव ववुर्वाताः सुदारुणाः ।  
 अक्षोभ्यः क्षुभितश्चैव समुद्रः सरितां पतिः ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-इन्द्रदेव रुधिरकी वर्षा करने लगे, मेघ भयंकर स्वरमें गर्जने लगे, सूर्यकी प्रभा फीकी पड़ गयी, पृथ्वीपर उल्कापात होने लगा, धरती काँप उठी, भयानक आँधी चलने लगी तथा जो किसीके द्वारा क्षुब्ध नहीं किया जा सकता, वह सरिताओंका स्वामी समुद्र विक्षुब्ध हो उठा ॥ ३१-३२ ॥
+धरती काँप उठी, भयानक आँधी चलने लगी तथा जो किसीके द्वारा क्षुब्ध नहीं किया जा सकता, वह सरिताओंका स्वामी समुद्र विक्षुब्ध हो उठा ॥ ३१-३२ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ नामाकरोत् तस्य पितामहसमः पिता ।  
-दशग्रीवः प्रसूतोऽयं दशग्रीवो भविष्यति ॥ ३३ ॥
+अथ नामाकरोत् तस्य  
+पितामहसमः पिता ।  
+दशग्रीवः प्रसूतोऽयं  
+दशग्रीवो भविष्यति ॥ ३३ ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Then his father, who was like the grandfather (Brahmā), gave him his name: ‘He was born with ten heads; hence, he shall be called Daśagrīva.
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
