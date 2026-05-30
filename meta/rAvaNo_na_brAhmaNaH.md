@@ -97,7 +97,7 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 
 
 
-## अध्यात्मरामायणे
+## अध्यात्म-रामायणे
 यदि चाध्यात्मरामायणम् प्रमाणं वः, तत्रापि मण्दोदरी-वचनम् - 
 
 > राक्षसाः क्षत्रियाकारा  
@@ -112,13 +112,13 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 ## स्कन्दपुराण-प्रक्षेपः
 स्कन्दपुराणम् - 3.1.47.40: 
 
-> अतो दशग्रीववधात्  
+> अतो दश-ग्रीव-वधात्  
 कुम्भकर्णवधाद् अपि ।  
 ब्रह्महत्या समभवद्  
 रामस्याक्लिष्टकर्मणः ॥ ४० ॥  
 > अतस् तच्-छान्तये रामो  
 लिङ्गं रामेश्वराभिधम् ।  
-स्थापयामास विधिना  
+स्थापयाम् आम्-आस विधिना  
 वैदिकेन द्विजोत्तमाः ॥ ४१ ॥
 
 तत्रोक्तं पौलस्त्यत्वाद् रावण-ब्राह्मण्यं पूर्वम् एव निराकृतम्।  
@@ -154,7 +154,7 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 इत्यस्माद् रावणस्याततायित्वम् अवगम्यते।  
 पुनश्च  
 
-> “आततायिनमायान्तं…न तेन ब्रह्महा भवेत्” 
+> “आततायिनम् आयान्तं…न तेन ब्रह्म-हा भवेत्” 
 
 इत्यादिभिः स्मृतिप्रसिद्धवचनैर्  
 न तस्य वधाद् ब्रह्महत्यादोषः।  
@@ -162,9 +162,16 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 
 <details><summary>English</summary>
 
-> Śrī Rāma did not incur the doṣa of brahmahatyā in killing Rāvaṇa. The evidence from the Dharmaśāstras is simply overwhelming. There is no brahmahatyā in killing an aggressor. Even as purusha, he does not incur the doṣa of brahmahatyā, per the opinion of Baudhayana, Vasishtha, Vyasa, Manu, et al. All great commentators of the Vālmīki-Rāmāyaṇan agree with this position in the case of strī-hatyā regarding the killing of Tāṭakā. Their argument can be applied mutatis mutandis to the case of the killing of Rāvaṇa. - कुशाग्रः
+> Śrī Rāma did not incur the doṣa of brahmahatyā in killing Rāvaṇa. The evidence from the Dharmaśāstras is simply overwhelming. There is no brahmahatyā in killing an aggressor. Even as purusha, he does not incur the doṣa of brahmahatyā, per the opinion of Baudhayana, Vasishtha, Vyasa, Manu, et al. 
+> 
+> All great commentators of the Vālmīki-Rāmāyaṇan agree with this position in the case of strī-hatyā regarding the killing of Tāṭakā. 
+> 
+> Their argument can be applied mutatis mutandis to the case of the killing of Rāvaṇa. - कुशाग्रः
 </details>
 
+
+## Verdict
+rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP and call rAma a liar/ confused person, or understand intent of skAnda-purANa as per vAlmIki - your choice.
 
 ## विरोध-परिहारः
 सत्य् एवम्, कथं निगूह्येत विरोधो रामायण-पुराणयोः?  
@@ -180,7 +187,8 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 ### सेतुमाहात्म्यार्थवादाः
 > यत्र स्नात्वा पुरा कृष्णो लोकसङ्ग्रहणेच्छया ॥ ३२ ॥  
 मातुलस्य तु कंसस्य वधदोषाद्विमोचितः ॥  
-तस्य वै कोटितीर्थस्य महिमा केन कथ्यते ॥ ३३ ॥
+तस्य वै कोटितीर्थस्य महिमा केन कथ्यते ॥ ३३ ॥  
+> SkandaP
 
 
 <details><summary>English</summary>
@@ -188,5 +196,3 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 > Valmiki is THE Pramana for Ramayana, so many distortions and additions to Rama-Katha episodes and story in the Puranas, as per the theological orientations of the Purana writers. Skanda Purana Kshetra Mahatmya (extolling pilgrimage spots) portions add too much exaggerations and hype all the time. Not just Rama's sin of killing Brahmana Ravana, but Krishna's sin of killing uncle Kamsa, and 5-6 more such sins are listed in the Setu Mahatmaya and it is said that expiation for all those sins is through visiting and worshiping at the Setu. - jaTAyuSh
 </details>
 
-## Verdict
-rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP and call rAma a liar/ confused person, or understand intent of skAnda-purANa as per vAlmIki - your choice.
