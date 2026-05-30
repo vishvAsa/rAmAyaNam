@@ -46,18 +46,16 @@ Thus, Ravana's Brahminhood cannot be ascertained merely from his being a descend
 **क्षत्रियो** निहतः सङ्ख्ये  
 न शोच्य इति निश्चयः ॥ १८ ॥
 
-कथं रामस्य ब्राह्मण्यं वाल्मीकीयतो ज्ञेयम्? तत्र खलु क्षत्रिय इत्येव व्यपदिष्टः - रावणकलेवरदाहप्रसङ्गे विशिष्य।  
+कथं रावणस्य ब्राह्मण्यं वाल्मीकीयतो ज्ञेयम्?  
+तत्र खलु क्षत्रिय इत्येव व्यपदिष्टः -  
+रावणकलेवरदाहप्रसङ्गे विशिष्य।  
 
-<details><summary>English</summary>
-
-rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP and call rAma a liar/ confused person, or understand intent of skAnda-purANa as per vAlmIki - your choice.
-</details>
 
 ### धर्माकूत-मतम्
 
 अनुलोमजत्वेन पर्वणि होमे ऽधिकारं प्रतिपादयति धर्माकूतकृत् सुन्दरकाण्डे -
 
-> > ननु मूर्धावसिक्तादीनां वर्ण-बहिर्भूतत्वेन जात्य्-अन्तरत्वम् उक्तम् ;  
+> ननु मूर्धावसिक्तादीनां वर्ण-बहिर्भूतत्वेन जात्य्-अन्तरत्वम् उक्तम् ;  
 तन् न सङ्गतम्,  
 अनुलोम-जातानां मातृ-जातीयत्वात् ।  
 तद् आह विष्णुः-  
@@ -76,7 +74,7 @@ rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific va
 >
 > इति 
 >
->> — नैष दोषः ।  
+> — नैष दोषः ।  
 अनयोर् वचनयोर् मातृ-जात्य्-उचित-धर्म-प्राप्त्य्-अर्थत्वात् ।  
 
 धर्माकूतकृद् यद् विभीषणस्य १०-दिनाशौचाभावम् उल्लिख्य सद्यःशौचं वर्णयति -  
@@ -139,21 +137,10 @@ rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific va
 
 इदम् अप्य् आख्यानं केनादाव् उद्धृतम् इत्य् अन्वेष्टव्यम्। 
 
-## विरोध-परिहारः
-सत्य् एवम्, कथं निगूह्येत विरोधो रामायण-पुराणयोः?  
-यदि च विरोधो, तत्रार्थवादतया ग्रहणेन परिहारस् समुचित एव।  
-
-प्रमाण-तारतम्यम् अन्यत्र [विचारितम्](/rAmAyaNam/meta/rAmAkhyAne_parama-pramANam) । 
-
-> वाल्मीकीये अनुक्तत्वात् तद्विरोधत्वाच् च स्कन्दपुराणवचनं तीर्थप्रंशसापरमेव मन्तव्यम्,  
-न तु श्रीरामस्य ब्रह्महत्यादोषप्रतिपादनपरम्।
-
-इति कुशाग्रः। 
-
 
 ## आचारतो ऽपि न
 न हि रावणस्य राक्षसाधिपतेः पुलस्त्यपुत्रस्याप्य् ऋषि-विद्वेषिणो ब्राह्मण्यं सम्भवति -  
-यथा न कुबेरस्य। 
+यथा न कुबेरस्य।
 
 >  Ravana is called as lokakantaka as well as a man-eater  and to claim that killing him begets brahmahatya flies against logic.  Two - one cannot do praayashchitta for the sin before even committing it. - रविलोचनः
 
@@ -179,8 +166,27 @@ rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific va
 </details>
 
 
+## विरोध-परिहारः
+सत्य् एवम्, कथं निगूह्येत विरोधो रामायण-पुराणयोः?  
+यदि च विरोधो, तत्रार्थवादतया ग्रहणेन परिहारस् समुचित एव।
+
+प्रमाण-तारतम्यम् अन्यत्र [विचारितम्](/rAmAyaNam/meta/rAmAkhyAne_parama-pramANam) ।
+
+> वाल्मीकीये अनुक्तत्वात् तद्विरोधत्वाच् च स्कन्दपुराणवचनं तीर्थप्रंशसापरमेव मन्तव्यम्,  
+न तु श्रीरामस्य ब्रह्महत्यादोषप्रतिपादनपरम्।
+
+इति कुशाग्रः।
+
 ### सेतुमाहात्म्यार्थवादाः
+> यत्र स्नात्वा पुरा कृष्णो लोकसङ्ग्रहणेच्छया ॥ ३२ ॥  
+मातुलस्य तु कंसस्य वधदोषाद्विमोचितः ॥  
+तस्य वै कोटितीर्थस्य महिमा केन कथ्यते ॥ ३३ ॥
+
+
 <details><summary>English</summary>
 
 > Valmiki is THE Pramana for Ramayana, so many distortions and additions to Rama-Katha episodes and story in the Puranas, as per the theological orientations of the Purana writers. Skanda Purana Kshetra Mahatmya (extolling pilgrimage spots) portions add too much exaggerations and hype all the time. Not just Rama's sin of killing Brahmana Ravana, but Krishna's sin of killing uncle Kamsa, and 5-6 more such sins are listed in the Setu Mahatmaya and it is said that expiation for all those sins is through visiting and worshiping at the Setu. - jaTAyuSh
 </details>
+
+## Verdict
+rAvaNa can't be both a kShatriya and a brAhmaNa at the same time (no specific varNa-change lore). rAma of vAlmIki clearly says "kShatriya", skAnda-purANa says "brAhmaNa". Either twist vAlmIki as per SP and call rAma a liar/ confused person, or understand intent of skAnda-purANa as per vAlmIki - your choice.
