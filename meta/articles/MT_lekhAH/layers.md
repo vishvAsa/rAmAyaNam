@@ -93,6 +93,8 @@ But, considering
 this is more likely explained as a shaiva coping reaction to the (then) solidly vaiShNava epic (which involved breaking a shaiva bow, having shiva strongly subordinate and dependent on viShNu).
 </details>
 
+### vAyu
+While the god vAyu is experienced by all daily, most H who have not studied the depths of the shruti and the also the Iranian religion cannot connect to his deeper essence or that of his dvandva with indra. In order to remedy that, the sage vAlmIki has placed that essence in the rAmAyaNa and it can be accessed by a wider audience.
 
 ## Epic tradition
 The core of the rAmAyaNa in most respects conforms to the archaic formats of Indo-European epic poetry: whether it was vAlmIki, or vyAsa in India, Homer or Teiriseas in Greece or Saxo Grammaticus in Scandinavia describing the Aryan conquerors, the Trojan war or the founding fathers of the kingdoms of Sweden and Denmark, a common set of templates were used by all. Into these templates the Indo-European poets from these far flung lands vastly separate from each other in time cast their historical narrative to give rise to the epics of their cultures. 
