@@ -67,8 +67,10 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मया समेतोऽरण्यानि रम्याणि विचरिष्यसि ।  
-पक्षिभिर्मृगयूथैश्च सङ्घुष्टानि समन्ततः ॥ ४ ॥
+मया समेतोऽरण्यानि  
+रम्याणि विचरिष्यसि ।  
+पक्षिभिर् मृगयूथैश् च  
+सङ्घुष्टानि समन्ततः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -79,7 +81,7 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-‘आप मेरे साथ पक्षियोंके कलरव और भ्रमर-समूहोंके गुञ्जारवसे गूँजते हुए रमणीय वनोंमें सब ओर विचरण कीजियेगा ॥ ४ ॥
+‘आप मेरे साथ पक्षियोंके कलरव और भ्रमर[??]-समूहोंके गुञ्जारवसे गूँजते हुए रमणीय वनोंमें सब ओर विचरण कीजियेगा ॥ ४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
