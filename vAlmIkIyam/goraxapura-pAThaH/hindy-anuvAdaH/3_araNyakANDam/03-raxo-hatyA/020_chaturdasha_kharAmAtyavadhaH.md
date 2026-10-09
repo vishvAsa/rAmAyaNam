@@ -2,6 +2,17 @@
 title = "०२० चतुर्दश खरामात्यवधः"
 title_english = "020 Rama eliminates Khara s demons"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book III : Aranya Kanda - The Forest Trek**
+
+The fourteen demons arrive at Rama's cottage guided by Shuurpanakha and they wage a war with Rama in
+which Rama destructs all their weaponry and eliminates them all. Seeing this defeat Shuurpanakha rushes
+back to her brother to report the defeat.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-020-Chaturdhasha_Rakshasa_Samharaha.mp3"></div>
 </details>
@@ -26,6 +37,12 @@ _________________
 रक्षसामाचचक्षे तौ भ्रातरौ सह सीतया ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः शूर्पणखा घोरा राघव आश्रमम् आगता ।
+रक्षसान् आचचक्षे तौ भ्रातरौ सह सीतया ॥ ३-२०-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर भयानक राक्षसी शूर्पणखा श्रीरामचन्द्रजीके आश्रमपर आयी । उसने सीतासहित उन दोनों भाइयोंका उन राक्षसोंको परिचय दिया ॥ १ ॥
@@ -34,6 +51,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर भयानक राक्षसि शूर्पणखियु श्रीरामचन्द्रन आश्रमक्कॆ बन्दु, सीतासहित आ इब्बरु सहोदरर परिचयवन्नु आ राक्षसरिगॆ माडिसिदळु.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+1. tataH ghoraa shuurpaNakhaa = then, ghastly, Shuurpanakha; raaghava aashramam aagataa
+= Raghava's, hermitage, on arriving; rakSasaan = to [fourteen] demons; saha siitayaa
+= with, Seetha; bhraatarau tau aacacakSe = brothers, them two, said - has shown.
+
+**अनुवादः**
+
+Then on arriving at Raghava's hermitage that ghastly Shuurpanakha has shown the brothers, Rama and Lakshmana,
+along with Seetha to the fourteen demons. [3-20-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -46,6 +79,12 @@ _________________
 
 ते रामं पर्णशालायामुपविष्टं महाबलम् ।  
 ददृशुः सीतया सार्धं लक्ष्मणेनापि सेवितम् ॥ २ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ते रामम् पर्ण शालायाम् उपविष्टम् महाबलम् ।
+ददृशुः सीतया सार्धम् लक्ष्मणेन अपि सेवितम् ॥ ३-२०-२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -58,6 +97,22 @@ _________________
 महाबलि श्रीरामनु सीतॆयॊन्दिगॆ पर्णशालॆयल्लि कुळितिरुवनु हागू लक्ष्मणनू अवन सेवॆयल्लि उपस्थितनागिरुवुदन्नु राक्षसरु नोडिदरु.॥2॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+2. te = they the demons; siitayaa saardham = with Seetha, along; lakSmaNena api
+sevitam = by Lakshmana, even, attended by; parNa shaalaayaam = in thatched leaf, cottage;
+upaviSTam mahaabalam = sitting, great mighty; raamam dadR^ishuH = Rama , they saw.
+
+**अनुवादः**
+
+They have seen the great-mighty Rama seated in the thatched cottage along with Seetha and Lakshmana
+attending to him. [3-20-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा राघवः श्रीमानागतांस्तांश्च राक्षसान् ।  
@@ -68,6 +123,13 @@ _________________
 
 तां दृष्ट्वा राघवः श्रीमानागतांस्तांश्च राक्षसान् ।  
 अब्रवीद् भ्रातरं रामो लक्ष्मणं दीप्ततेजसम् ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ताम् दृष्ट्वा राघवः श्रीमान् आगताम् ताम् च राक्षसीम् ।
+अब्रवीत् भ्रातरम् रामो लक्ष्मणम् दीप्त तेजसम्
+॥ ३-२०-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -80,6 +142,23 @@ _________________
 श्रीमान् रघुनाथनू शूर्पणखियॊन्दिगॆ बन्दिरुव आ राक्षसरन्नु नोडिदनु. नोडि अवनु उद्दीप्त तेजवुळ्ळ तन्न सहोदर लक्ष्मणनल्लि ई प्रकार हेळिदनु.॥3॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+3. shriimaan raaghavaH = magnificent one, of Raghava dynasty; aagataam taam = those
+demons, who arrived, them; taam raakSasiim ca = her, the demoness, also; dR^iSTvaa
+= on seeing; diipta tejasam bhraataram lakSmaNam = to radiantly, brilliant, brother, to Lakshmana;
+raamaH abraviit = Rama , said.
+
+**अनुवादः**
+
+On seeing the arrival of the demons, and the demoness Shuurpanakha too, that magnificent Rama of Raghava
+dynasty said to the radiantly brilliant Lakshmana. [3-20-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुहूर्तं भव सौमित्रे सीतायाः प्रत्यनन्तरः ।  
@@ -92,6 +171,12 @@ _________________
 इमानस्या वधिष्यामि पदवीमागतानिह ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मुहूर्तम् भव सौमित्रे सीतायाः प्रत्यनंतरः ।
+इमान् अस्या वधिष्यामि पदवीम् आगतान् इह ॥ ३-२०-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुमित्राकुमार! तुम थोड़ी देरतक सीताके पास खड़े हो जाओ । मैं इस राक्षसीके सहायक बनकर पीछे-पीछे आये हुए इन निशाचरोंका यहाँ अभी वध कर डालूँगा’ ॥ ४ ॥
@@ -100,6 +185,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्राकुमार! नीनु स्वल्प हॊत्तु सीतॆय बळि निन्तिरु. नानु ई राक्षसिय सहायकरागि अवळ हिन्दॆ बन्दिरुव ई निशाचररन्नु ईगले इल्ले वधिसिबिडुवॆनु.॥4॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+4. saumitre = oh, Soumitri; muhuurtam = for a moment; siitaayaaH = with Seetha;
+prati anantaraH = towards, non-distantly [close by]; bhava = you be; asyaaH
+= her [Shuurpanakha's]; padaviim = way - trailing her path; iha aagataan = here, those
+that have come; imaan vadhiSyaami = these [demons,] I wish to eliminate.
+
+**अनुवादः**
+
+"Oh, Soumitri, briefly tarry at the close of Seetha as I wish to eliminate these demons who have trailed
+the path of that demoness to here. [3-20-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +219,12 @@ _________________
 तथेति लक्ष्मणो वाक्यं रामस्य प्रपूजयन् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वाक्यम् एतत् ततः श्रुत्वा रामस्य विदित आत्मनः ।
+तथा इति लक्ष्मणो वाक्यम् रामस्य प्रत्यपूजयत् ॥ ३-२०-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अपने स्वरूपको समझनेवाले श्रीरामचन्द्रजीकी यह बात सुनकर लक्ष्मणने इसकी भूरि-भूरि सराहना करते हुए ‘तथास्तु’ कहकर उनकी आज्ञा शिरोधार्य की ॥ ५ ॥
@@ -125,6 +233,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आत्मविदनाद श्रीरामन ई मातन्नु केळि लक्ष्मणनु अवनन्नु भूरि-भूरि प्रशंसिसुत्ता ‘हागॆये आगलि’ ऎन्दु हेळि अवन आज्ञॆयन्नु शिरसावहिसिकॊण्डनु.॥5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+5. tataH lakSmaNaH = then, Lakshmana; vidita aatmanaH = clearly knowing, souled -
+nimble-souled; raamasya etat vaakyam shrutvaa = Rama 's, that, word, on hearing; tathaa
+iti = so be it, thus; raamasya vaakyam prati apuujayat = Rama 's, sentence, in turn, adored
+- honoured.
+
+**अनुवादः**
+
+On hearing that word of Rama, then the nimble-souled Lakshmana honoured the word of Rama saying "so
+be it." [3-20-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +264,12 @@ _________________
 चकार सज्यं धर्मात्मा तानि रक्षांसि चाब्रवीत् ॥ ६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+राघवो अपि महत् चापम् चामीकर विभूषितम् ।
+चकार सज्यम् धर्मात्मा तानि रक्षांसि च अब्रवीत् ॥ ३-२०-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तब धर्मात्मा रघुनाथजीने अपने सुवर्णमण्डित विशाल धनुषपर प्रत्यञ्चा चढ़ायी और उन राक्षसोंसे कहा— ॥
@@ -147,6 +278,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग धर्मात्मा रघुनाथनु तन्न सुवर्णमण्डित विशाल धनुस्सिगॆ हॆदॆयेरिसि युद्धक्कॆ सिद्धनागि राक्षसरल्लि इन्तॆन्दनु.॥6॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+6. dharmaatmaa raaghavaH api = virtue-souled, Raghava, even; caamiikara vibhuuSitam
+= gold, decorated with; mahat caapam = awful, bow; sa jyam cakaara = with, bowstring,
+made [stringed bowstring]; taani rakSaamsi abraviit ca = them, to demons, spoke [as forewarning,]
+even.
+
+**अनुवादः**
+
+On taking up his awful bow that is decorated with gold Raghava stringed it with bowstring and even spoke
+the demons as a forewarning. [3-20-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +318,14 @@ _________________
 वसन्तौ दण्डकारण्ये किमर्थमुपहिंसथ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुत्रौ दशरथस्य आवाम् भ्रातरौ राम लक्ष्मणौ ।
+प्रविष्टौ सीतया सार्धम् दुश्चरम् दण्डका वनम् ॥ ३-२०-७
+फल मूल अशनौ दांतौ तापसौ धर्म चारिणौ ।
+वसन्तौ दण्डकारण्ये किम् अर्थम् उपहिंसथ ॥ ३-२०-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हम दोनों भाई राजा दशरथके पुत्र राम और लक्ष्मण हैं तथा सीताके साथ इस दुर्गम दण्डकारण्यमें आकर फल-मूलका आहार करते हुए इन्द्रियसंयमपूर्वक तपस्यामें संलग्न हैं और ब्रह्मचर्यका पालन करते हैं । इस प्रकार दण्डकवनमें निवास करनेवाले हम दोनों भाइयोंकी तुम किसलिये हिंसा करना चाहते हो? ॥ ७-८ ॥
@@ -178,6 +334,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नावु इब्बरु दशरथ महाराजर पुत्ररु राम-लक्ष्मणरागिद्देवॆ. सीतॆयॊन्दिगॆ ई दुर्गम दण्डकारण्यक्कॆ बन्दु फल-मूलगळन्नु तिन्नुत्ता इन्द्रिय संयमपूर्वक तपस्सिनल्लि तॊडगि, ब्रह्मचर्यवन्नु पालिसुत्तिद्देवॆ. हीगॆ दण्डकारण्यदल्लि वासिसुव नम्मिब्बरु सहोदररन्नु एकॆ हिंसिसलु बयसुत्तिरुविरि.॥7-8॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+8. phala muula ashanau = fruits, tubers, eaters; daantau = dispassionate; dharma
+caariNau = virtue, treaders in; daNDaka araNye vasantau = in Dandaka, forest, residents;
+taapasau = being sages; kim artham = what, for; upa himsatha = you outrage
+us.
+
+**अनुवादः**
+
+"We the dispassionate subsist on fruits and tubers treading in the path of virtue, and we being the
+sages resident in Dandaka forest what for you outrage us. [3-20-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+7. aavaam putrau dasharathasya = we are, sons, of Dasharatha; bhraatarau raama lakSmaNau
+= brothers, Rama, Lakshmana; siitayaa saardham = Seetha, along with; duH caram daNDakaa
+vanam praviSTa = not, passable, Dandaka, forest, we entered.
+
+**अनुवादः**
+
+"We the sons of Dasharatha are brothers named Rama and Lakshmana, and we entered the impenetrable forests
+Dandaka along with Seetha. [3-20-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +384,12 @@ _________________
 ऋषीणां तु नियोगेन सम्प्राप्तः सशरासनः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+युष्मान् पाप आत्मकान् हंतुम् विप्रकारान् महाहवे ।
+ऋषीणाम् तु नियोगेन प्राप्तो अहम् सशर आसनः ॥ ३-२०-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देखो, तुम सब-के-सब पापात्मा तथा ऋषियोंका अपराध करनेवाले हो । उन ऋषि-मुनियोंकी आज्ञासे ही मैं धनुष-बाण लेकर महासमरमें तुम्हारा वध करनेके लिये यहाँ आया हूँ ॥ ९ ॥
@@ -203,6 +398,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नोडि, नीवॆल्लरू पापात्मरागिद्दु, ऋषिगळ अपराध माडुववरागिद्दीरि. आ ऋषि-मुनिगळ आज्ञॆयिन्दले नानु धनुष्य-बाणगळन्नु धरिसि महासमरदल्लि निम्मन्नु वधिसलॆन्दे इल्लिगॆ बन्दिरुवॆ.॥9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+9. paapa aatmakaan = evil, souled ones; vi prakaaraan = not, righteous ones; yuSmaan
+mahaa ahave hantum = you, in a crucial clash, to eliminate; sa shara aasanaH = with, arrows,
+bow; R^iSiiNaam tu niyogena = by sages, but, assigned; aham = I; praaptaH
+= chanced [here.]
+
+**अनुवादः**
+
+"As assigned by the sages I chanced here with bow and arrows to decimate you evil-souled and unrighteous
+beings in a crucial clash. [3-20-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,6 +427,12 @@ _________________
 
 तिष्ठतैवात्र सन्तुष्टा नोपवर्तितुमर्हथ ।  
 यदि प्राणैरिहार्थो वो निवर्तध्वं निशाचराः ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तिष्ठत एव अत्र संतुष्टा न उपवरितितुम् अर्हथ ।
+यदि प्राणैः इह अर्थो वो निवर्तध्वम् निशा चराः ॥ ३-२०-१०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -227,6 +445,23 @@ _________________
 निशाचररे! निमगॆ युद्धदिन्द सन्तोष सिगुवुदिद्दरॆ इल्लिन्द ओडि होगदॆ निन्तुकॊळ्ळिरि. निमगॆ प्राणगळ मेलॆ आसॆ इद्दरॆ मरळि होगि (ऒन्दु क्षणवू इल्लि इरबेडि).॥10॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+10. nishaa caraaH = oh, night, walkers; santuSTaaH [samduSTaaH] atra eva tiSThata
+= be satisfied [very abominable ones,] there, only, stay; upaavarititum na arhatha = to return,
+not, fit - impossible to return; vaa yadi = else, if; praaNaiH arthaH = with lives,
+purpose [if you desire your lives]; iha nivartadhvam = now, return.
+
+**अनुवादः**
+
+"Stay there obligingly or you should not be able to return, else if you desire your lives, oh, nightwalkers,
+you may return now. [3-20-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राक्षसास्ते चतुर्दश ।  
@@ -241,6 +476,14 @@ _________________
 ऊचुर्वाचं सुसङ्क्रुद्धा ब्रह्मघ्नाः शूलपाणयः ॥ ११ ॥  
 संरक्तनयना घोरा रामं संरक्तलोचनम् ।  
 परुषा मधुराभाषं हृष्टा दृष्टपराक्रमम् ॥ १२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तस्य तद् वचनम् श्रुत्वा राक्षसाः ते चतुर्दश ।
+ऊचुर् वाचम् सुसंक्रुद्धा ब्रह्मघ्नः शूल पाणयः ॥ ३-२०-११
+संरक्त नयना घोरा रामम् रक्तांत लोचनम् ।
+परुषा मधुर आभाषम् हृष्टाः अदृष्ट पराक्रमम् ॥ ३-२०-१२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -253,6 +496,28 @@ _________________
 श्रीरामन ई मातन्नु केळि आ हदिनाल्कु राक्षसरु अत्यन्त कुपितरादरु. ब्राह्मणर हत्यॆमाडुव आ घोर निशाचररु कैयल्लि शूल वन्नॆत्तिकॊण्डु क्रोधदिन्द कण्णु कॆम्पागिसि कठोरवागि हर्ष मत्तु उत्साहदिन्द ऎदुराळिय पराक्रमवन्नु मनगॊण्डिद्दवनू, स्वभावतः कॆम्पाद कण्णुगळुळ्ळ मधुरभाषियू आद श्रीरामनल्लि हेळिदरु.॥11-12॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+11, 12. tasya tat vacanam shrutvaa = his [Rama's,] that, sentence, on hearing; brahma ghnaH
+= Brahman, slayers; shuula paaNayaH = spears, handlers; te catur dasha raakSasaaH
+= those, fourteen, demons; ghoraa = ghoulish ones; sam rakta nayanaa = highly, bloodshot,
+eyed; su sam kruddhaa = very, highly, infuriated; paruSaa = with harsh [words];
+raamam rakta anta locanam = to Rama, blood streaks, at ends, eyed; madhura aabhaaSam
+= to sweet, talker; a dR^iSTa paraakramam = un, seen, [whose] valour [is, of Rama]; hR^iSTaH
+= happily [self-confidently, demons]; vaacam uucuH = words, said.
+
+**अनुवादः**
+
+On hearing that sentence of Rama they the fourteen ghoulish demons who are the slayers of Brahmans and
+handlers of spears have become highly infuriated, and they with their bloodshot eyes and with harsh
+words said these words to Rama, whose eyes are with blood streaks at their ends, and who also is a sweet
+talker, and whose valour is yet unseen by those fourteen demons. [3-20-11, 12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधमुत्पाद्य नो भर्तुः खरस्य सुमहात्मनः ।  
@@ -263,6 +528,13 @@ _________________
 
 क्रोधमुत्पाद्य नो भर्तुः खरस्य सुमहात्मनः ।  
 त्वमेव हास्यसे प्राणान् सद्योऽस्माभिर्हतो युधि ॥ १३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+क्रोधम् उत्पाद्य नो भर्तुः खरस्य सुमहात्मनः ।
+त्वम् एव हास्यसे प्राणान् अद्य अस्माभिर् हतो युधि ॥
+३-२०-१३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -275,6 +547,23 @@ _________________
 ऎलवो! नीनु नम्म ऒडॆय महाकाय खरनिगॆ क्रोधवन्नुण्टुमाडिरुवॆ. आद्दरिन्द नम्म कैगळिन्द युद्धदल्लि मडिदु नीनु स्वतः प्राणगळन्नु कळॆदुकॊळ्ळुवॆ.॥13॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+13. naH bhartuH = to our, lord; su maha aatmanaH kharasya = a very, highly, souled
+one, to Khara; krodham utpaadya = fury, on inciting; adya asmaabhiH yudhi hataH =
+now, by us, in war, when dead; tvam eva = you, alone; haasyase praaNaan = release,
+lives.
+
+**अनुवादः**
+
+"Killed in conflict by us you alone will set your lives loose as an inciter of fury in our highly great
+souled lord Khara. [3-20-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का हि ते शक्तिरेकस्य बहूनां रणमूर्धनि ।  
@@ -287,6 +576,13 @@ _________________
 अस्माकमग्रतः स्थातुं किं पुनर्योद्धुमाहवे ॥ १४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+का हि ते शक्तिर् एकस्य बहूनाम् रण मूर्धनि ।
+अस्माकम् अग्रतः स्थातुम् किम् पुनर् योद्धुम् आहवे ॥
+३-२०-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हम बहुत-से हैं और तू अकेला, तेरी क्या शक्ति है कि तू हमारे सामने रणभूमिमें खड़ा भी रह सके, फिर युद्ध करना तो दूरकी बात है ॥ १४ ॥
@@ -295,6 +591,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नावु अनेकरागिद्दु नीनु ऒब्बण्टिगनागिरुवॆ. नीनु नम्म मुन्दॆ रणभूमियल्लि निल्लुवुदक्कू निनगेनु शक्ति इदॆ? मत्तॆ युद्धमाडुवुदु दूर उळियितु.॥14॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14. bahuunaam asmaakam agrataH = many, of us, before; raNa muurdhani sthaatum = in
+forefront, of war, to stay; ekasya te kaa shaktiH hi = for lone one, to you, what, capability,
+indeed; aahave yoddhum kim punaH = in battle, [ability] to battle against, why, again.
+
+**अनुवादः**
+
+"Indeed, what capability you have as a lone one to stand against many of us in the forefront of war,
+and why tell again about your battling ability in a given battle. [3-20-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -312,6 +624,13 @@ _________________
 प्राणांस्त्यक्ष्यसि वीर्यं च धनुश्चकरपीडितम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एभिः बाहु प्रयुक्तैः नः परिघैः शूल पट्टिशैः ।
+प्राणाम् त्यक्ष्यसि वीर्यम् च धनुः च कर पीडितम् ॥
+३-२०-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हमारी भुजाओंद्वारा छोड़े गये इन परिघों, शूलों और पट्टिशोंकी मार खाकर तू अपने हाथमें दबाये हुए इस धनुषको, बल-पराक्रमके अभिमानको तथा अपने प्राणोंको भी एक साथ ही त्याग देगा’ ॥ १५ ॥
@@ -320,6 +639,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नम्म भुजगळिन्द प्रयोगिसिद परि, शूल-पट्टिशगळ एटन्नु तिन्दु नीनु निन्न कैयल्लि हिडिदिरुव ई धनुस्सिन बल पराक्रमद अभिमानवन्नु मत्तु तन्न प्राणगळन्नु ऒट्टिगॆ त्यजिसुव.॥15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+15. ebhiH naH baahu prayuktaiH = by these, by our, arms, projected - launched by our might;
+parighaiH shuula paTTishaiH = by maces, spears, broad blade swords; praaNaam viiryam ca
+= lives, mettle, also; kara piiDitam dhanuH ca = by hand, clasped, bow, also; tyakSyasi
+= you will forgo.
+
+**अनुवादः**
+
+"When we launch maces, spears and swords by our might you will forgo your lives, mettle, and even the
+bow now clasped in your hand." So said the demons to Rama. [3-20-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +668,13 @@ _________________
 
 इत्येवमुक्त्वा संरब्धा राक्षसास्ते चतुर्दश ।  
 उद्यतायुधनिस्त्रिंशा राममेवाभिदुद्रुवुः ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+इति एवम् उक्त्वा संरब्धा राक्षसाः ते चतुर्दश ।
+उद्यत आयुध निस्त्रिंशा रामम् एव अभिदुद्रुवुः ॥ ३-२०-१६
+चिक्षिपुः तानि शूलानि राघवम् प्रति दुर्जयम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -344,6 +687,24 @@ _________________
 हीगॆ हेळि क्रोधगॊण्डु आ हदिनाल्कु राक्षसरु बगॆ-बगॆय आयुधगळिन्द मत्तु खड्गगळिन्द श्रीरामन मेलॆ आक्रमिसिदरु.॥16॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+16, 17a. samrabdhaa te caturdasha raakSasaaH = clamorously, they, fourteen, demons; iti
+evam uktvaa = thus, that way, saying; nistrimshaa aayudha udyata = unhesitatingly, weapons,
+on upraising; raamam eva abhi dudruvuH = to, Rama, alone, towards, rushed; taani shuulaani
+= them, the spears; dur jayam = un, conquerable; raaghavam prati = Raghava, towards;
+cikSipuH = they hurled.
+
+**अनुवादः**
+
+Thus saying that way clamorously they the fourteen demons, upraising their weapons they unhesitatingly
+rushed towards Rama alone, and they hurled lances towards that unconquerable Raghava. [3-20-16, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिक्षिपुस्तानि शूलानि राघवं प्रति दुर्जयम् ।  
@@ -358,6 +719,12 @@ _________________
 तावद्भिरेव चिच्छेद शरैः काञ्चनभूषितैः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तानि शूलानि काकुत्स्थः समस्तानि चतुर्दश ॥ ३-२०-१७
+तावद्भिः एव चिच्छ्हेद शरैः कांचन भूषितैः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन राक्षसोंने दुर्जय वीर श्रीराघवेन्द्रपर वे शूल चलाये, परंतु ककुत्स्थकुलभूषण श्रीरामचन्द्रजीने उन समस्त चौदहों शूलोंको उतने ही सुवर्णभूषित बाणोंद्वारा काट डाला ॥ १७ १/२ ॥
@@ -366,6 +733,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राक्षसरु दुर्जय श्रीरामन मेलॆ शूलगळन्नु प्रयोगिसिदरु, आदरॆ ककुत्स्थकुल भूषण श्रीरामचन्द्रनु अवॆल्ल हदिनाल्कु शूलगळन्नु आष्टे सुवर्णभूषित बाणगळिन्द कत्तरिसिबिट्टनु.॥17½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+17b, 18a. kaakutsthaH = Rama; caturdasha taani shuulaani = fourteen, those, lances;
+samastaani = all of them; taavadbhiH eva = as many of them, only; kaancana bhuuSitaiH
+= in gold, adorned; sharaiH = with arrows; cicCheda = shredded.
+
+**अनुवादः**
+
+Rama in turn shredded all of those fourteen lances only with as many arrows that are adorned in gold.
+[3-20-17b, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +772,15 @@ _________________
 मुमोच राघवो बाणान्वज्रानिव शतक्रतुः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः पश्चात् महातेजा नाराचान् सूर्य संनिभान् ॥ ३-२०-१८
+जग्राह परम क्रुद्धः चतुर्दश शिल अशितान् ।
+गृहीत्वा धनुः आयम्य लक्ष्यान् उद्दिश्य राक्षसान् ॥ ३-२०-१९
+मुमोच राघवो बाणान् वज्रान् इव शतक्रतुः
+।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तत्पश्चात् महातेजस्वी रघुनाथजीने अत्यन्त कुपित हो शानपर चढ़ाकर तेज किये गये सूर्यतुल्य तेजस्वी चौदह नाराच हाथमें लिये । फिर धनुष लेकर उसपर उन बाणोंको रखा और कानतक खींचकर राक्षसोंको लक्ष्य करके छोड़ दिया । मानो इन्द्रने वज्रोंका प्रहार किया हो ॥ १८-१९ १/२ ॥
@@ -397,6 +789,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर महातेजस्वी रघुनाथनु अत्यन्त कुपितनागि हरितवाद सूर्यतुल्य तेजस्वी हदिनाल्कु नाराचगळन्नु कैगॆत्तिकॊण्डु धनुस्सिगॆ हूडि आकर्णान्तवागि सॆळॆदु, इन्द्रनु वज्रद प्रहार माडिदन्तॆ राक्षसरिगॆ गुरियिट्टु प्रयोगिसिदनु.॥18-19½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+19b, 20a. raaghavaH dhanuH gR^ihiitvaa = Raghava, bow, on taking; aayamya = arched
+[the bow]; lakSyaan raakSasaan uddishya = targets, demons, aiming at; shatakratuH vajraan
+iva = Indra [releasing,] thunderbolt, like; baaNaan mumoca = arrows, released.
+
+**अनुवादः**
+
+Then Raghava took up his bow, arched it, and aiming at the targeted demons released arrows as Indra
+would release his Thunderbolts. [3-20-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+18b, 19a. tataH pashcaat = there after; mahaatejaa = great resplendent Rama; parama
+kruddhaH = highly, wrathfully one; shila ashitaan = on stone, sharpened ones; suurya
+samnibhaan = sun, equalling in dazzle; caturdasha naaraacaan jagraaha = fourteen, iron
+bolts [like arrows,] took up.
+
+**अनुवादः**
+
+Next that great resplendent Rama in high wrath took up fourteen iron bolt like arrows that are whetted
+on whetstone and equalling the sun in their dazzle. [3-20-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,6 +839,13 @@ _________________
 विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ते भित्त्वा रक्षसाम् वेगात् वक्षांसि रुधिर आप्लुताः ॥ ३-२०-२०
+विनिष्पेतुः तदा भूमौ वल्मीकात् इव
+पन्नगाः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे बाण बड़े वेगसे उन राक्षसोंकी छाती छेदकर रुधिरमें डूबे हुए निकले और बाँबीसे बाहर आये हुए सर्पोंकी भाँति तत्काल पृथ्वीपर गिर पड़े ॥ २० १/२ ॥
@@ -422,6 +854,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ बाणगळु अतिवेगदिन्द आ राक्षसर ऎदॆयन्नु सीळि रक्तसिक्तवागि हुत्तदिन्द हॊरगॆ बन्द सर्पदन्तॆ तत्काल भूमिगॆ बिद्दवु.॥20½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+20b, 21a. te vegaat = they, by the [force of] speed; rakSasaam vakSaamsi bhittvaa
+= demons, in chests, on goring; rudhira aaplutaaH = with blood, bedaubed; tadaa =
+then; viniSpetuH [vi niS petuH] = swiftly coming out; bhuumau = into earth [nyamajjanta
+= subsided, penetrated into earth]; pannagaaH valmiikaat iva = snakes, from snake pit, as with.
+
+**अनुवादः**
+
+And by the force of their speed those arrows gored the chests of those demons, and then on coming out
+bedaubed with blood they swiftly penetrated into earth like snakes into snake pit. [3-20-20b, 21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +888,12 @@ _________________
 निपेतुः शोणितस्नाता विकृता विगतासवः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तैः भग्न हृदया बूमौ छ्हिन्न मूला इव द्रुमाः ॥ ३-२०-२१
+निपेतुः शोणित स्नाता विकृता विगत असवः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन नाराचोंसे हृदय विदीर्ण हो जानेके कारण वे राक्षस जड़से कटे हुए वृक्षोंकी भाँति धराशायी हो गये । वे सब-के-सब खूनसे नहा गये थे । उनके शरीर विकृत हो गये थे । उस अवस्थामें उनके प्राणपखेरू उड़ गये ॥ २१ १/२ ॥
@@ -447,6 +902,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ नाराचगळिन्द हृदय विदीर्णवाद्दरिन्द आ राक्षसरु बुडकडिद मरदन्तॆ धराशायिगळादरु. अवरॆल्लरू रक्तदिन्द तोय्दु होगिद्दरु. अवर शरीरगळु विकतवागि प्राणपक्षिगळु हारि होदव.॥21½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+21b, 22a. taiH bhagna hR^idayaa = with them [arrows,] burst, hearts; shoNita snaataa
+= in blood, bathed; vi kR^itaa = verily, mangled; vi gata asavaH = verily, gone, lives;
+Chinna muulaa drumaaH iva = cut down, at base [rooted out], trees, like; buumau nipetuH
+= on earth, fell.
+
+**अनुवादः**
+
+Those arrows bursting their hearts they are blood bathed, mangled, and utterly dead, and like the uprooted
+trees they fell onto the ground. [3-20-21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +939,14 @@ _________________
 सपात पुनरेवार्ता सनिर्यासेव वल्लकी ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तान् भूमौ पतितान् दृष्ट्वा राक्षसी क्रोध मूर्च्छ्हिता ॥ ३-२०-२२
+उपगम्य खरम् सा तु किंचित् संशुष्क
+शोणिता ।
+पपात पुनः एव आर्ता सनिर्यासा इव वल्लरी ॥ ३-२०-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन सबको पृथ्वीपर पड़ा देख वह राक्षसी क्रोधसे मूर्च्छित हो गयी और खरके पास जाकर पुनः आर्तभावसे गिर पड़ी । उसके कटे हुए कानों और नाकोंका खून सूख गया था, इसलिये गोंदयुक्त लताके समान प्रतीत होती थी ॥ २२-२३ ॥
@@ -475,6 +955,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरू भूमियल्लि बिद्दिरुवुदन्नु नोडि राक्षसियु मूर्छितळादळु मत्तॆ खरन बळिगॆ होगि पुनः आर्तभावदिन्द कुसिदु बिद्दळु. आकॆय तुण्डाद किवि मूगिन रक्तवु ऒणगि होगिद्दरिन्द, कॆम्पाद रस ऒसरुत्तिद्द लतॆयन्तॆ अवळु कण्डुबरुत्तिद्दळु.॥22-23॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+22. bhuumau patitaan taan dR^iSTvaa = on ground, fallen, them, on seeing; raakshasii krodha
+muurcChitaa = demoness, in rage, convulsed; kimcit sam shuSka shoNitaa = a little, well,
+dried out, blood [blanched aspect]; sa niryaasaa = with, exuded - with resin; vallarii
+iva = creeper, like; saa tu = she, but; aartaa = agonised; kharam upagamya
+= to Khara, going nearby; punaH eva papaata = again, like that, fell [as before.]
+
+**अनुवादः**
+
+On seeing the demons falling onto ground that demoness Shuurpanakha is convulsed in rage, and she with
+a blanched aspect returned to the near of Khara in an agonising manner like a creeper exuding resin
+on incision, and fell before him as before. [3-20-22b, 23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +986,12 @@ _________________
 
 भ्रातुः समीपे शोकार्ता ससर्ज निनदं महत् ।  
 सस्वरं मुमुचे बाष्पं विवर्णवदना तदा ॥ २४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+भ्रातुः समीपे शोक आर्ता ससर्ज निनदम् महत् ।
+सस्वरम् मुमोच बाष्पम् विवर्ण वदना तदा ॥ ३-२०-२४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -499,6 +1004,23 @@ _________________
 अण्णन बळि शोकदिन्द शूर्पणखियु जोरागि आर्तनाद माडुत्ता, बिक्कि-बिक्कि अळुत्ता कम्बनि हरिसतॊडगिदळु. आग आकॆय मुख बाडिहोगित्तु.॥24॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+24. tadaa shoka aartaa = then, by anguish, afflicted; bhraatuH samiipe = brother's,
+presence; sasarja ninadam mahat = discharged, outcry, great [outcry]; vi varNa vadanaa
+= without, colour, faced [bloodless face]; sa svaram = with, tune [attuning with the strains
+of a whiner]; baaSpam mumoca = tears, released.
+
+**अनुवादः**
+
+Then she in the presence of her brother Khara discharged a great outcry, and with a bloodless face she
+spilled tears attuning the strains of a whiner. [3-20-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपातितान् प्रेक्ष्य रणे तु राक्षसान्  
@@ -515,6 +1037,14 @@ _________________
 शशंस सर्वं भगिनी खरस्य सा ॥ २५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निपातितान् प्रेक्ष्य रणे तु राक्षसान्
+प्रधाविता शूर्पणखा पुनः ततः ।
+वधम् च तेषाम् निखिलेन रक्षसाम्
+शशंस सर्वम् भगिनी खरस्य सा ॥ ३-२०-२५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रणभूमिमें उन राक्षसोंको मारा गया देख खरकी बहिन शूर्पणखा पुनः वहाँसे भागी हुई आयी । उसने उन समस्त राक्षसोंके वधका सारा समाचार भाईसे कह सुनाया ॥ २५ ॥
@@ -523,6 +1053,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रणभूमियल्लि ऎल्ला राक्षसरु सत्तु होगिरुवुदन्नु नोडि, खरन तङ्गि शूर्पनखियु पुनः अल्लिन्द ओडुत्ता बन्दळु. आकॆयु समस्त राक्षसर वधॆय समाचारवन्नु अण्णनिगॆ तिळिसिदळु.॥25॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+25. shuurpaNakhaa raNe ni paatitaan = Shuurpanakha, in war, felled down; raakSasaan prekSya
+= demons, having seen; punaH tataH = again, from there; pra dhaavitaa = quickly, fled;
+bhaginii saa = sister, she [she being]; teSaam rakSasaam vadham = those, of demons,
+destruction; sarvam nikhilena = all about, in entirety; kharasya shashamsa = to Khara,
+reported.
+
+**अनुवादः**
+
+Shuurpanakha having seen the fall of demons quickly fled from Panchavati of Rama to trikanTaka, the
+capital of Khara, and she being the sister of Khara she reported to Khara all about the destruction
+of those demons, in its entirety. [3-20-25]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

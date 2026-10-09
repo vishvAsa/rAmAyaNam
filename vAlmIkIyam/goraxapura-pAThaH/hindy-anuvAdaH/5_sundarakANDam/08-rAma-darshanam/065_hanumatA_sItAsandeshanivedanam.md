@@ -2,6 +2,20 @@
 title = "०६५ हनुमता सीतासन्देशनिवेदनम्"
 title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book V : Sundara Kanda - Book Of Beauty**
+
+Angada, Hanuma and other monkeys approach Rama, Lakshmana and Sugreeva at Mount Prasravana.
+When monkeys start narrating the news of Seetha, Rama asks further details of Seetha. Then, the monkeys
+request Hanuma to explain the occurrences to Rama in detail. Then, Hanuma appraises Rama of Seetha's
+presence at the foot of a Simsupa tree in the midst of female-demons. After narrating the incidents
+related by her and delivering to Rama the jewel for the head, earlier handed-over by Seetha as a token,
+Hanuma conveys her message to Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
 </details>
@@ -27,6 +41,14 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 प्रवृत्तिमथ सीतायाः प्रवक्तुमुपचक्रमुः ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः प्रस्रवणम् शैलम् ते गत्वा चित्र काननम् ।
+प्रणम्य शिरसा रामम् लक्ष्मणम् च महाबलम् ॥ ५-६५-१
+युव राजम् पुरः कृत्य सुग्रीवम् अभिवाद्य च ।
+प्रवृत्तम् अथ सीतायाः प्रवक्तुम् उपचक्रमुः ॥ ५-६५-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर विचित्र काननोंसे सुशोभित प्रस्रवण पर्वतपर जाकर युवराज अङ्गदको आगे करके श्रीराम, महाबली लक्ष्मण तथा सुग्रीवको मस्तक झुकाकर प्रणाम करनेके अनन्तर सब वानरोंने सीताका समाचार बताना आरम्भ किया— ॥ १-२ ॥
@@ -35,6 +57,28 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक आ कपिनायकरॆल्लरू युवराजनाद अङ्गदन नायकत्वदल्लि चित्रतरवाद काडुगळिन्द कूडिद्द प्रस्रवण पर्वतवन्नु सेरि, अल्लि श्रीरामनिगू महाबलनाद लक्ष्मणनिगू तलॆबागि नमस्करिसि, राजनाद सुग्रीवनिगॆ वन्दिसि, सीतादेविय वृत्तान्तवन्नु हेळलु उपक्रमिसिदरु—॥1-2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+1; *2. puraH kR^itya yuva raajan* = keeping Angada the prince; in their
+front; *te* = those monkeys; *tataH* = then; *gatvaa* = going; *prasravaNam
+shailam* = to Mount Prasravana; chitra kaananam- with forests of variegated appearance; *praNamya*
+= offering their salutation; *shirasaa* = by bowing their heads; *raamam* = to Rama;
+*mahaabalam lakSmaNamcha* = and the mighty Lakshmana; *abhivaadya cha* = and respectfully
+saluting; *sugriivam* = Sugreeva; *atha* = and then; *upachakramaH* = started;
+*pravaktum* = to narrate; *pravR^ittim* = the news; *siitaayaaH* = of Seetha.
+
+**अनुवादः**
+
+Keeping Angada the prince in their forefront those monkeys, on reaching Mount Prasravana
+having forests of variegated appearance, offered their salutation by bowing their heads in reverence
+to Rama and the mighty Lakshmana, greeting Sugreeva respectfully. Then, they started narrating the news
+of Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +112,26 @@ _________________
 रावणन अन्तःपुरक्कॆ सेरिद अशोकवनदल्लि सीतॆयन्नु बन्धिसिट्टिरुवुदन्नु, राक्षसियरु अवळन्नु भयपडिसुवुदन्नु, सीतॆगॆ श्रीरामन मेलॆ इरुव अनुरागवन्नू, रावणनु तन्न वशळागलु, सीतॆगॆ कॊट्टिरुव कालद गडुवन्नू हीगॆ कपिनायकरु श्रीरामन सन्निधियल्लि अरिकॆमाडिकॊण्डरु. वैदेहियु क्षेमवागिरुवळॆन्दु केळि श्रीरामचन्द्रनु हीगॆ प्रश्निसिदनु.॥3-4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. sarve* = all; *te harayaH* = those monkeys; *aakhyaanti*
+= were narrating; *raame samnidhau* = in the presence of Rama; *etat* = all this; *
+rodham* = about restraining (Seetha); *raavaNa antaH pure* = in Ravana's gynaecium; *raakShasiibhiH*
+= by the female-demons; *tarjanam cha* = frightening her; *samanuraagamcha* = and her
+complete affection; *raame* = towards Rama; *yaH ayam samayaH kR^itaH* = and the time-limit
+(two months) given by Ravana.
+
+**अनुवादः**
+
+Those monkeys started to narrate, in the presence of Rama, about, the female-demons,
+and frightening Seetha in Ravana's gynaecium, her complete affection towards Rama and the time-limit
+of two months given by Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व सीता वर्तते देवी कथं च मयि वर्तते ।  
@@ -90,6 +154,24 @@ _________________
 ‘‘वानर श्रेष्ठरे! सीतॆयु ऎल्लिद्दाळॆ? नन्न विषयदल्लि अवळ अभिप्राय हेगिदॆ? अवळिगॆ सम्बन्धिसिद ऎल्ल विषयगळन्नु विशदवागि हेळिरि.’’॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+4; *5. shrutvaa* = hearing vaidehiim = of Seetha; *akShataam* = being
+alive; *raamatu* = Rama on his part; *uttaram abraviit* = replied; *kva* = where;
+*vartate* = is; *devii siitaa* = Seetha; the princess?; *katham* = how; *vartate*
+= is she disposed; *mayi* = towards me? vaanaraaH = O monkeys!; *aakhyaata* = tell;
+*me* = me; *sarvam* = all; *etat* = this; *vaidehiim prati* = about Seetha.
+
+**अनुवादः**
+
+Hearing of Seetha being alive, Rama on his part replied, "Where is Seetha, the princess?
+How is she disposed towards me? O monkeys! Tell me all that about Seetha."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य गदितं श्रुत्वा हरयो रामसन्निधौ ।  
@@ -102,6 +184,12 @@ _________________
 चोदयन्ति हनूमन्तं सीतावृत्तान्तकोविदम् ॥ ६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+रामस्य गदितम् श्रुत्व हरयो राम सम्निधौ ।
+चोदयन्ति हनूमन्तम् सीता वृत्त अन्त कोविदम् ॥ ५-६५-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामचन्द्रजीका यह कथन सुनकर वे वानर श्रीरामके निकट सीताके वृत्तान्तको अच्छी तरह जाननेवाले हनुमान् जी को उत्तर देनेके लिये प्रेरित करने लगे ॥ ६ ॥
@@ -110,6 +198,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन सन्निधियल्लिद्द कपिनायकरु सीतादेविय वृत्तान्तवन्नु चॆन्नागि तिळिदिद्द हनुमन्तनन्नु प्रचोदिसुत्ता ‘श्रीरामन प्रश्नॆगळिगॆ नीने विवरिसु’ ऎन्दु अवनन्नु तिविदरु.॥6॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. shrutvaa* = hearing; *gaditam* = the words; *raamasya*
+= of Rama; *harayaH* = the monkeys; *chodayanti hanumantam* = urged Hanuma to tell;
+*raama sannidhau* = in the presence of Rama; *siitaa vR^itta anta kovidam* = (since) Hanuma
+knows all the incidents about Seetha.
+
+**अनुवादः**
+
+Hearing the words of Rama, the monkeys urged Hanuma to tell, in the presence of Rama,
+all the incidents because he knew them better, about Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,9 +228,14 @@ _________________
 श्रुत्वा तु वचनं तेषां हनूमान् मारुतात्मजः ।  
 प्रणम्य शिरसा देव्यै सीतायै तां दिशं प्रति ॥ ७ ॥
 _________________
-श्रुत्वा तु वचनं तेषां हनुमान् मारुतात्मजः ।  
-प्रणम्य शिरसा देव्यै सीतायै तां दिशं प्रति ।  
-उवाच वाक्यं वाक्यज्ञः सीताया दर्शनं यथा ॥
+श्रुत्वा तु वचनं तेषां हनुमान् मारुतात्मजः ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+श्रुत्वा तु वचनम् तेषाम् हनूमान् मारुत आत्मजः ।
+प्रणम्य शिरसा देव्यै सीतायै ताम् दिशम् प्रति ॥ ५-६५-७
+उवाच वाक्यम् वाक्यज्ञः सीताया दर्शनम् यथा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,6 +246,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वानरर मातन्नु केळि, वायुपुत्रनाद हनुमन्तनु-सीतादेविगू, अवळिद्द दक्षिणदिक्किगू तलॆबागि नमस्करिसिदनु. मत्तॆ वाक्चतुरनाद आ मारुतियु तनगॆ सीतादेविय दर्शन हेगायितॆम्बुदन्नु हेळतॊडगिदनु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. shrutvaa* = hearing; *teShaam vachanam* = their words; *vaakyajJNaH*
+= eloquent; *hanumaan* = Hanuma; *maarutaatmajaH* = the son of wind-god; *praNamya*
+= saluting; *shirasaa* = with his head; *taam disham prati* = towards that direction;
+*devyai siitaayai* = of Seetha; the princess; *uvaacha* = spoke; *vaakyam* = (the
+following) words; *yathaa siitaayaaH darshanam* = how Seetha's seeing occurred.
+
+**अनुवादः**
+
+Hearing the words of those monkeys, the eloquent Hanuma, the son of wind-god saluting
+towards the direction of the Seetha the princess by bowing his head, spoke the following words, explaining
+how he saw Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +284,12 @@ _________________
 अगच्छं जानकीं सीतां मार्गमाणो दिदृक्षया ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+समुद्रम् लन्घयित्वा अहम् शत योजनम् आयतम् ॥ ५-६५-८
+अगच्छम् जानकीम् सीताम् मार्गमाणो दिदृक्षया ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 फिर बातचीतकी कलाको जाननेवाले उन वानरवीरने सीताजीका दर्शन जिस प्रकार हुआ था, वह सारा वृत्तान्त कह सुनाया । तत्पश्चात् अपने तेजसे प्रकाशित होनेवाली उस दिव्य काञ्चनमणिको भगवान् श्रीरामके हाथमें देकर हनुमान् जी  हाथ जोड़कर बोले— ॥ ८ १/२ ॥
@@ -163,6 +298,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रभुवे! नानु नूरु योजनगळष्टु विस्तारवागिद्द दक्षिणसमुद्रवन्नु लङ्घसि, जनकन मगळाद सीतादेवियन्नु नोडलोसुग अवळन्नु हुडुकुत्ता हॊरटॆनु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. didR^ikSayaa* = with a wish to see Seetha; *aham* = I; *aagachchham*
+= went; *laN^ghayitvaa* = crossing; *samudram* = the ocean; *shata yojanam aayatam*
+= of a width of one hundred Yojanas; *maargamaaNaH* = searching; *siitaam* = Seetha;
+*jaanakiim* = the daughter of Janaka.
+
+**अनुवादः**
+
+"Having gone across the ocean, a hundred Yojanas wide, I reached the southern shore looking
+in search of Seetha, Janaka's daughter, with a wish to see her."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +330,12 @@ _________________
 _________________
 तत्र लङ्केति नगरी रावणस्य दुरात्मनः ।  
 दक्षिणस्य समुद्रस्य तीरे वसति दक्षिणे ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तत्र लन्का इति नगरी रावणस्य दुरात्मनः ॥ ५-६५-९
+दक्षिणस्य समुद्रस्य तीरे वसति दक्षिणे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -200,6 +358,12 @@ _________________
 सन्न्यस्य त्वयि जीवन्ती रामा राम मनोरथम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तत्र दृष्टा मया सीता रावण अन्तः पुरे सती ॥ ५-६५-१०
+सम्न्यस्य त्वयि जीवन्ती रामा राम मनो रथम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वहीं दुरात्मा रावणकी नगरी लङ्का है । वह समुद्रके दक्षिण तटपर ही बसी हुई है ॥ १० १/२ ॥
@@ -208,6 +372,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दक्षिण समुद्रद दक्षिणतीरदल्लि दुरात्मनाद रावणन आडळितक्कॆ ऒळपट्ट ‘लङ्कॆ’ ऎम्ब ऒन्दु पट्टणविदॆ. अल्लि रावणन अन्तःपुरक्कॆ सेरिद अशोकवनदल्लिद्द साध्वियाद सीतादेवियन्नु नानु नोडिदॆनु. सीतादेवियु तन्न मनोरथगळॆल्लवन्नु, निन्नल्लिये मुडुपागिट्टु प्राणगळन्नु धरिसिरुवळु.॥9-10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. raama* = O; Rama!; *tatra* = there; *dR^iSTaa* = it was
+seen; *mayaa* = by me; *raavaNaantaH pure* = in Ravana's gynaecium; *siitaa* =
+Seetha; *raamaa* = the lady; *satii* = and the virtuous wife; *jiivantii* = living;
+*samnyasya* = placing; *mano ratham* = heart's desire; *tvayi* = in you.
+
+**अनुवादः**
+
+"O Rama! There, living in Ravana's gynaecium in the city, I saw the lady Seetha, your
+virtuous wife, centering her heart's desire in you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. tatra* = there; *dakSiNa tiire* = at the southern shore; *
+dakSiNasya samudrasya* = of the southern ocean; *vasati* = there is; *nagarii* = a
+city; *laNketi* = called Lanka; *duraatmanaH raavaNasya* = of the evil-minded Ravana.
+
+**अनुवादः**
+
+"There at the southern shore of the southern ocean, there is city called Lanka of the
+evil-minded Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +436,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु नोडिदाग अवळ सुत्तलू राक्षस स्त्रीयरु सेरि, अवळन्नु पदे-पदे भयपडिसुत्तिद्दरु. विकृताकारराद आ राक्षसियरु प्रमदावनदल्लि अवळन्नु कावलु कायुत्तिद्दारॆ.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. pramadaavane* = In the pleasure-garden; (that Seetha); *dR^iSTaa*
+= was seen; *me* = by me; *raakSasiimadhye* = in the midst of female demons; *rakSitaa*
+= guarded; *viruupaabhiH* = by ugly-faced; *raakSabhiH* = female-demon; *tarjyamaanaa*
+= and threatened; *muhuH muhuH* = again and again (by them).
+
+**अनुवादः**
+
+"In that pleasure garden, I saw Seetha sitting in the midst of female demons, guarded
+by those ugly-faced female-demons as also time and again being threatened by them."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -275,6 +489,31 @@ _________________
 सुखवागिरलु योग्यळाद अवळु निन्न वियोगदिन्दागि अत्यन्त दुःखितॆयागिद्दाळॆ. रावणान्तःपुरदल्लि बन्दियागिरुव अवळन्नु राक्षसियरु पहरॆ कायुत्तिद्दारॆ. अवळ कूदलुगळु जडॆगट्टि ऒन्दे जडॆयन्तागिदॆ. दीनळागिरुव अवळु निन्नन्ने सदाकाल चिन्तिसुत्ता इद्दाळॆ.॥12-13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+12; 13; *14. viira* = O hero!; *tvayaa sukhocitaa devii* = Seetha;
+who deserves to live happily with you; *aapadyate* = is obtaining; *duHkham* = grief;
+*kaakutthsa* = O Rama!; *kathamchit* = somehow; *maargitaa* = searched through;
+*mayaa* = by me; *devii* = that princess; *ekveNiidharaa* = wearing a single plait
+(as a mark of desolation); *diinaa* = miserable; *tvayi chintaaparaayaNaa* = remaining
+absorbed in your thought; *adaH shayyaa* = reposing n the floor; *vivarNaaNgii* = having
+discoloured limbs; *padminiiva* = like a louts; *himaagame* = in the winter-season;
+*vinivR^ittaarthaa* = turning back the wish; *raavaNaat* = from Ravana; *martavyakR^ita
+nishchayaa* = having determined to die; *tvanmanaaH* = and thinking of you.
+
+**अनुवादः**
+
+"O hero! Seetha, who deserves to live happily with you, is obtaining grief. O Rama! I
+somehow searched that princess, Seetha wearing a single plait (as a as a mark of desolation), looking
+miserable, remaining absorbed in your thought, reposing on the floor, having discoloured limbs like
+a lotus in winter, turning back the wish from Ravana, having determined to die, but thinking of you
+alone."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधःशय्या विवर्णाङ्गी पद्मिनीव हिमागमे ।  
@@ -290,6 +529,12 @@ _________________
 सा मया नरशार्दूल विश्वासमुपपादिता ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इक्ष्वाकु वंश विख्यातिम् शनैः कीर्तयत अनघ ॥ ५-६५-१५
+स मया नर शार्दूल विश्वासम् उपपादिता ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वे नीचे भूमिपर सोती हैं । जैसे जाड़ेके दिनोंमें पाला पड़नेके कारण कमलिनी सूख जाती है, उसी प्रकार उनके अङ्गोंकी कान्ति फीकी पड़ गयी है । रावणसे उनका कोई प्रयोजन नहीं है । उन्होंने प्राण त्याग देनेका निश्चय कर लिया है ॥ १५ ॥
@@ -298,6 +543,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुण्य पुरुषा! अवळिगॆ नन्नल्लि विश्वास उण्टागलु इक्ष्वाकुवंशद ख्यातियन्नु अवळिगॆ केळिसुवन्तॆ क्रमवागि हेळिदॆनु. ऎलै महापुरुषा! अदरिन्द अवळिगॆ नन्नल्लि विश्वासमूडितु.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. anagha* = O faultless; *narashaarduula* = tiger among men!;
+*saa* = that Seetha; *upapaaditaa* = was established; *vishvaasam* = confidence;
+*mayaa* = by me; *shanaiH kiirtayataa* = in slowly mentioning; *ikSvaaku kula vikhyaatim*
+= the fame of Ikshvaku dynasty.
+
+**अनुवादः**
+
+"O faultless tiger among men! Seetha established confidence in me, after I slowly described
+to her the fame of Ikshvaku dynasty."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +580,13 @@ _________________
 ततः सम्भाषिता देवी सर्वमर्थं च दर्शिता ।  
 रामसुग्रीवसख्यं च श्रुत्वा प्रीतिमुपागता ॥
 नियतः समुदाचारो भक्तिश्चास्यास्तथा त्वयि ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ततः सम्भाषिता देवी सर्वम् अर्थम् च दर्शिता ॥ ५-६५-१६
+राम सुग्रीव सख्यम् च श्रुत्वा प्रीतिम् उपागता ।
+नियतः समुदाचारो भक्तिः च अस्याः तथा त्वयि ॥ ५-६५-१७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -345,6 +614,12 @@ _________________
 उग्रेण तपसा युक्ता त्वद्भक्त्या पुरुषर्षभ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् मया महाभागा दृष्टा जनक नन्दिनी ।
+उग्रेण तपसा युक्ता त्वत् भक्त्या पुरुष ऋषभ ॥ ५-६५-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आपकी सुग्रीवके साथ मित्रताका समाचार सुनकर उन्हें बड़ा हर्ष हुआ । उनका उच्चकोटिका आचार-विचार (पातिव्रत्य) सुदृढ़ है । वे सदा आपमें ही भक्ति रखती हैं ॥ १८ ॥
@@ -353,6 +628,43 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पातिव्रत्य धर्माचरणॆयिन्द, निन्नल्लिरुव भक्ति-प्रपत्तिगळिन्द अवळु स्थिरवागिद्दाळॆ. ऎलै पुरुष श्रेष्ठा! पूज्यराद आ जनकनन्दिनियु निन्न प्राप्तिगागि उग्रवाद तपस्सन्नु आचरिसुत्ता, निन्नल्लि अत्यन्त भक्ति भावदिन्द इरुव आ साध्वियन्नु नानु दर्शिसिदॆनु.॥17-18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. puruSarSabha* = O foremost of men!; *mahaabhaagaa* = the illustrious;
+*janakanandinii* = Seetha; *dR^ShiTaa* = was seen; *evam* = thus; *mayaa*
+= by me; *(Seetha) yuktaa ugreNa tapasaa* = was endowed with severe penance; *tvadbhaktyaa*
+= and devotion towards you.
+
+**अनुवादः**
+
+"O, the foremost of men! I thus saw that illustrious Seetha, endowed with severe penance
+and devotion towards you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+16; *17. tataH* = thereafter; *devii* = Seetha the princess; *
+sambhaaSitaa* = was spoken; *darshitaa* = and explained; *sarvam artham* = about all
+the significance (of my arrival); *shrutvaa* = on hearing; *raama sugriivasakhyam* = about
+the friendship between Rama and Sugreeva; *upaagataa* = she obtained; *priitim* = satisfaction;
+*asyaaH* = her; *samudaachaaraH* = right practice of conduct; *niyataH* = is constant;
+*tathaa* = and; *bhaktishcha* = her devotion; *tvayi* = in you; is also constant.
+
+**अनुवादः**
+
+"Thereafter, I spoke and explained to Seetha, about the entire significance of my arrival
+there. On hearing about the alliance between Rama and Sugreeva, she was quite pleased. Her morality
+as well as her devotion in you are steadfast."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +682,12 @@ _________________
 चित्रकूटे महाप्राज्ञ वायसं प्रति राघव ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अभिज्ञानम् च मे दत्तम् यथा वृत्तम् तव अन्तिके ।
+चित्र कूटे महाप्राज्ञ वायसम् प्रति राघव ॥ ५-६५-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाभाग! पुरुषोत्तम! इस प्रकार जनकनन्दिनीको मैंने आपकी भक्तिसे प्रेरित होकर कठोर तपस्या करते देखा है ॥ १९ ॥
@@ -378,6 +696,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाप्राज्ञनाद श्रीरामा! अवळु चित्रकूटपर्वतदल्लि निन्नॊडनिरुवाग जरुगिद काक वृत्तान्तवन्नु नॆनपिगागि निनगॆ तिळिसलु अवळु विवरिसिरुवळु.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. raaghava* = O Rama; *mahaapraajJNa* = of great intelligence!;
+*abhijJNaanam* = a token of remembrance; *dattam* = was given; *me* = to me;
+*yathaa vR^ittam* = a previous event; *vaayasam prati* = about a crow; *tava antike*
+= at your vicinity; *chitrakuuTe* = in Mount Chitrakuta.
+
+**अनुवादः**
+
+"O Rama, of great intelligence! To me, she gave as a token of remembrance, a previous
+event of a crow occurred at your vicinity in Mount Chitrakuta."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +730,12 @@ _________________
 अखिलेनेह यद्दृष्टमिति मामाह जानकी ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+विज्ञाप्यः च नर व्याघ्रो रामो वायु सुत त्वया ।
+अखिलेन इह यत् दृष्टम् इति माम् आह जानकी ॥ ५-६५-२०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महामते! रघुनन्दन! चित्रकूटमें आपके पास देवीके रहते समय एक कौएको लेकर जो घटना घटित हुई थी, उस वृत्तान्तको उन्होंने पहचानके रूपमें मुझसे कहा था ॥ २० ॥
@@ -403,6 +744,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘‘ऎलै मारुति! नीनिल्लि नोडिरुवुदन्नॆल्ल यथावत्तागि नरोत्तमनाद श्रीरामनल्लि बिन्नविसिकॊ’’ ऎन्दु जानकि देवियु नन्नॊडनॆ हेळिरुवळु.॥20॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. jaanakii* = Seetha; *saha* = spoke; *maam* = to me;
+*iti* = saying; *vaayusut* = "O Hanuma!; *raamaH* = Rama; *nara vyaaghraH*
+= the foremost of men; *vijJNaapya* = is to be informed; *akhilena* = all; *yat*
+= of which; *dR^iShTam* = seen; *tvayaa* = by you; *iha* = here."
+
+**अनुवादः**
+
+"Seetha spoke to me saying, 'O Hanuma! Inform Rama, the foremost among men, all that
+you have seen here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,9 +775,11 @@ _________________
 विज्ञाप्यः पुनरप्येष रामो वायुसुत त्वया ।  
 अखिलेन यथा दृष्टमिति मामाह जानकी ॥ २१ ॥  
 अयं चास्मै प्रदातव्यो यत्नात् सुपरिरक्षितः ।
-_________________
-अयं चास्मै प्रदातव्यो यत्नात् सुपरिरक्षितः ।  
-ब्रुवता वचनान्येवं सुग्रीवस्योपशृण्वतः ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अयम् च अस्मै प्रदातव्यम् यत्नात् सुपरिरक्षितम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -453,14 +813,79 @@ _________________
 ऊर्ध्वं मासान्न जीवेयं रक्षसां वशमागता ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एष चूडा मणिः श्रीमान् मया ते यत्न रक्षितः ।
+मनः शिलायाः तिकलः तम् स्मरस्व इति च अब्रवीत् ॥ ५-६५-२२
+त्वया प्राष्टे तिम्के तम् किल स्मर्तुमर्हसि ।
+एष निर्यातितः श्रीमान् मया ते वारि सम्भवः ॥ ५-६५-२३
+एतम् दृष्ट्वा प्रमोदिष्ये व्यसने त्वाम् इव अनघ ।
+जीवितम् धारयिष्यामि मासम् दशरथ आत्मज ॥ ५-६५-२४
+ऊर्ध्वम् मासान् न जीवेयम् रक्षसाम् वशम् आगता ।
+ब्रुवता वचनानि एवम् सुग्रीवस्य उपशृण्वतः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ऐसे समयमें देना, जब कि सुग्रीव भी निकट बैठकर तुम्हारी कही हुई बातें सुन रहे हों । साथ ही मेरी ये बातें भी उनसे निवेदन करना—‘प्रभो! आपकी दी हुई यह कान्तिमती चूड़ामणि मैंने बड़े यत्नसे सुरक्षित रखी थी । जलसे प्रकट हुए इस दीप्तिमान् रत्नको मैंने आपकी सेवामें लौटाया है । निष्पाप रघुनन्दन! संकटके समय इसे देखकर मैं उसी प्रकार आनन्दमग्न हो जाती थी, जैसे आपके दर्शनसे आनन्दित होती हूँ । आपने मेरे ललाटमें जो मैनसिलका तिलक लगाया था, इसको स्मरण कीजिये ।’ ये बातें जानकीजीने कही थीं ॥ २२—२४ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. dasharaatmaja* = O Rama!; *dhaarayiShyaami* = I shall be sustaining;
+*jiivitam* = my life; *maasam* = for a mouth; *aagataa* = having come into; *
+vasham* = the control; *rakShasaam* = of demons; *na jiivayam* = I cannot survive;
+*uurdhvam* = above; *maasaat* = one month.
+
+**अनुवादः**
+
+"O Rama! I shall be sustaining my life for a month. Having come into the control of demons,
+I cannot survive beyond one month."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘‘ई ऎल्ल वचनगळन्नु सुग्रीवन समक्षमदल्लि श्रीरामनिगॆ हेळबेकु. ई शिरो भूषणवन्नु बहळ प्रयत्नदिन्द रक्षिसिकॊण्डु बन्दिरुवॆनु. इदन्नु श्रीरामनिगॆ कॊडबेकु’’ ऎन्दू हेळिदळु. प्रभुवे! थळ-थळिसुत्तिरुव ई चूडामणियन्नु नानु बहळ ऎच्चरिकॆयिन्द रक्षिसिकॊण्डु बन्दिद्देनॆ. इदन्नु नोडिदॊडनॆये निनगॆ नन्न स्मरणॆयुण्टागुत्तदॆ, मणिशिलॆयिन्द नन्न गल्लक्कॆ तिद्दिद तिलकवन्नु हागॆये नीनु स्मरिसिकॊ.॥21-22॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. eSaH* = this; *shriimaan* = beautiful; *chuuDaa maNiH*
+= jewel for the head; *suparirakSitaH* = has been well-guarded; *mayaa* = by me; *arhasi*
+= you ought; *smartum* = to recall; *niveshitaH kila tilakaH* = a mark indeed painted;
+*tvayaa* = by you (by a slip); *gaN^Dapaarshve* = on the curve of my cheek; orange-red;
+*tilake* = when my former mark on my forehead; *praNaShTe* = got effaced.
+
+**अनुवादः**
+
+"This beautiful jewel for the head has been well-guarded by me. You also ought to recall
+a mark indeed painted by you (by slip) on the curve of my cheek with powder of an orange-red rock, when
+my former mark on my forehead got effaced."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. sugriivasya* = (while) Sugreeva; *upashR^iNvataH* = is hearing;
+*bruvataa* = and while you are telling; *vachanaani* = the words; *evam* = in this
+way; *ayam cha* = (let) this jewel; *suparikShitaH yatnaat* = well-guarded deliberately;
+*pradaatavyaH ayam cha* = be given; *asmai* = to this Rama.
+
+**अनुवादः**
+
+"While Sugreeva is hearing nearby and while you are telling the words in this way, let
+this jewel, which is deliberately well-guarded, be given to Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -478,6 +903,12 @@ _________________
 रावणान्तःपुरे रुद्धा मृगीवोत्फुल्ललोचना ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इति माम् अब्रवीत् सीता कृश अन्गी धर्म चारिणी ॥ ५-६५-२५
+रावण अन्तः पुरे रुद्धा मृगी इव उत्फुल्ल लोचना ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उन्होंने यह भी कहा—‘दशरथनन्दन! मैं एक मास और जीवन धारण करूँगी । उसके बाद राक्षसोंके वशमें पड़कर प्राण त्याग दूँगी—किसी तरह जीवित नहीं रह सकूँगी’ ॥ २५ ॥
@@ -486,6 +917,40 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समुद्रदल्लि हुट्टिद्द, कान्तियन्नु चिम्मुत्तिरुव ई चूडामणियन्नु नानु निन्न बळिगॆ कळिसिकॊडुत्तिद्देनॆ. ऎलै पापरहितने! दुःखसमयदल्लि इदन्नु नोडुत्ता, निन्नन्नु नोडिदष्टे आनन्दपडुत्तिद्दॆ. ऎलै दाशरथिये! नानिन्नु ऒन्दु तिङ्गळु मात्रवे जीविसिरुवॆनु. मासवु कळॆयितॆन्दरॆ राक्षसर वशदल्लिरुव नानु जीविसिरलारॆनु’’ ऎन्दु धर्मचारिणियू, कृशाङ्गियू आद सीतादेवियु नन्नॊडनॆ हेळिरुवळु. हॆण्णु जिङ्कॆयन्तॆ विशाल नेत्रॆयाद सीतादेवियु रावणान्तःपुरदल्लि बन्दियागिरुवळु. ॥23-25॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. siitaa* = Seetha; *kR^isha aNgii* = with her emaciated body;
+*dharma chaariNii* = practising virtue; *ruddhaa* = confined; *raavaNaantaH pure*
+= in Ravana's gynaceium; *utphulla lochanaa* = with her wide-open eyes; *mR^igiiva* =
+like that of a doe; *abraviit* = spoke; *iti* = as following; *maam* = to me.
+
+**अनुवादः**
+
+"Seetha, with her emaciated body, practicing virtue, confined in Ravana's gynaecium and
+with her wide-open eyes like that of a doe, spoke to me the following words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. eSaH shriimaan* = this beautiful jewel; *vaari sambhavaH* =
+which has its origin in sea-water; *niryaatitaH* = has been sent; *te* = to you; *dR^iSTvaa*
+= seeing; *etam* = this vyasahe = in my grief; *pramodiShye* = I am feeling happy; *
+tvaaniiva* = as though I am seeing you.
+
+**अनुवादः**
+
+"This beautiful jewel, which has its origin in sea-water, has been sent to you. Seeing
+this in my grief, I am feeling always happy as though I am seeing you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +968,12 @@ _________________
 सर्वथा सागरजले सन्तारः प्रविधीयताम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एतत् एव मया आख्यातम् सर्वम् राघव यत् यथा ॥ ५-६५-२६
+सर्वथा सागर जले सम्तारः प्रविधीयताम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस प्रकार दुबले-पतले शरीरवाली धर्मपरायणा सीताने मुझे आपसे कहनेके लिये यह संदेश दिया था । वे रावणके अन्तःपुरमें कैद हैं और भयके मारे आँख फाड़-फाड़कर इधर-उधर देखनेवाली हरिणीके समान वे सशङ्क दृष्टिसे सब ओर देखा करती हैं ॥ २६ ॥
@@ -511,6 +982,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हे रघुवंशोत्तमा! ऎल्ल विषयगळन्नु यथावत्तागि निनगॆ हेळिरुवॆनु. समुद्रवन्नु दाटि लङ्कॆगॆ होगुव उपायवन्नु आलोचिस बेकागिदॆ. ॥26 ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. raaghava* = O Rama!; *etat* = this; *sarvam eva* = exactly
+in its entirety; *khyaatam* = has been narrated; *mayaa* = by me; *yat yathaa*
+= as it occurred; *samtaaraH pravidhiiyataam* = let a bridge by constructed; *sarvathaa*
+= by all means; *saagara jale* = in the waters of the ocean.
+
+**अनुवादः**
+
+"O Rama! I have narrated to you whatever has occurred, in its entirety. Let a bridge
+be constructed, by all means, across the waters of the ocean."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +1018,14 @@ _________________
 वाचा सम्पूर्णं वायुपुत्रः शशंस ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तौ जात आश्वासौ राज पुत्रौ विदित्वा ।
+तच् च अभिज्ञानम् राघवाय प्रदाय ।
+देव्या च आख्यातम् सर्वम् एव आनुपूर्व्यात् ।
+वाचा सम्पूर्णम् वायु पुत्रः शशंस ॥ ५-६५-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुनन्दन! यही वहाँका वृत्तान्त है, जो सब-का-सब मैंने आपकी सेवामें निवेदन कर दिया । अब सब प्रकारसे समुद्रको पार करनेका प्रयत्न कीजिये’ ॥ २७ ॥
@@ -538,6 +1034,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुसुतनाद हनुमन्तनु ई विधवागि तन्न मातिन कुरितु राम-लक्ष्मणरिगॆ विश्वासवुण्टागिदॆ ऎन्दु तिळिदुकॊण्डनु. अभिज्ञान रूपवाद चूडामणियन्नु श्रीरामनिगॆ समर्पिसिदनु. सीतादेविय सन्देशवन्नु सक्रमवागि सम्पूर्णवागि श्रीरामनिगॆ अरुहिदनु. ॥27 ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. viditvaa* = coming to know; *tau raaja putrau* = that the two
+princes; Rama and Lakshmana; *jaata aashvaasau* = have become confident; *pradaaya* =
+and having given; *tat abhijJNaanam* = that token of remembrance; *raaghavaaya* = to Rama;
+*vaayu putraH* = Hanuma; *shashamsa* = apprised; *vaachaa* = in words; *sampuurNam*
+= completely; *anupuurvyaat* = in regular succession; *sarvameva* = all that; *aakhyaatam*
+= was conveyed; *devyaa* = by Seetha the princess.
+
+**अनुवादः**
+
+Coming to know that the two princes, Rama and Lakshmana have become confident and having
+given that token of remembrance to Rama, Hanuma apprised completely in so many words, in regular succession,
+all that was conveyed by Seetha, the princess.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

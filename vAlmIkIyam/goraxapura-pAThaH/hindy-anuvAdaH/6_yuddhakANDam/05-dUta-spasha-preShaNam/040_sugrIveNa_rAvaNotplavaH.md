@@ -2,6 +2,20 @@
 title = "०४० सुग्रीवेण रावणोत्प्लवः"
 title_english = "040 On seeing Ravana Sugreeva bounces on him"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Rama together with Sugreeva and others mount to the top of Suvela mountain and see
+the city of Lanka. There, above a gate-way of the City, stands Ravana. Seeing Ravana, Sugreeva
+springs to the top of the gate where Ravana is bounces on him, pulls his thrown and throws it away
+on the ground. thereafter, Ravana and Sugreeva carry on duel for a long time without any fatigue.
+They wrestle endlessly in different postures. Finally, after reducing Ravana to exhaustion,
+Sugreeva comes back and rejoins his monkey-troops.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-040-On_seeing_Ravana_Sugreeva_bounces_on_him_0.mp3"></div>
 </details>
@@ -47,6 +61,13 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 ददर्श लङ्कां सुन्यस्तां रम्यकाननशोभिताम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स्थित्वा मुहूर्तं तत्रैव दिशो दश विलोकयन् ।
+त्रिख़ूटशिखरे रम्ये निर्मितां विश्वकर्मणा ॥ ६-४०-२
+ददर्श लङ्कां सुन्यस्तां रम्यकाननशोभिताम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वहाँ दो घड़ी ठहरकर दसों दिशाओंकी ओर दृष्टिपात करते हुए श्रीरामने त्रिकूट पर्वतके रमणीय शिखरपर सुन्दर ढंगसे बसी हुई विश्वकर्माद्वारा निर्मित लङ्कापुरीको देखा, जो मनोहर काननोंसे सुशोभित थी ॥
@@ -55,6 +76,27 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि मुहूर्तकाल निन्तु श्रीरामनु ऎल्ल दिक्कुगळन्नु अवलोकिसुत्ता त्रिकूट पर्वतद शिखरद मेलॆ नॆलॆसिद, विश्वकर्मनिन्द निर्मिसल्पट्ट मनोहर कामनॆगळिन्द शोभिसुत्तिरुव सुन्दर लङ्कापुरि यन्नु नोडिदनु.॥2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. sthitvaa* = halting; *tatraiva* = there just;
+*muhuurtam* = for a while; *vilokayan* = and looking towards; *dasha* = ten;
+*dishaH* = directions; (Rama); *dadarsha* = saw; *laN^kaam* = Lanka;
+*ramye* = which was beautifully; *nirmitaam* = constructed; *vishvakarmaNaa* =
+by Visvakarma; *the divine architecttrikuuTa shikhare* = on the top of Trikuta Mountain;
+*sunyastaam* = with nice arrangements; *ramya kaanana shobhitaam* = and ravishing
+with enchanting groves.
+
+**अनुवादः**
+
+Halting there just for a while and surveying the ten cardinal points, Rama saw the
+city of Lanka, which was beautifully constructed by Visvakarma, the divine architect on the top of
+Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +162,37 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 खरगोशके रक्तके समान लाल रंगसे रँगे हुए वस्त्रसे आच्छादित होकर वह आकाशमें संध्याकालकी धूपसे ढकी हुई मेघमालाके समान दिखायी देता था ॥ ६ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+3; 4; 5; *6. tasyaam* = there; *gopura shR^iN^gastham* = above a
+gate way stood; *duraasadam* = the invincible raakSasendram = the Lord of demons;
+*shvetachaamara paryantam* = who was being famed with white whisks on both sides;
+*vijayachchhatra shobhitam* = was graced with a triumphal parasol; *raktachandana
+samliptam* = was smeared with red sandal paste; *raktaa bharaNa bhuuSitam* = adorned
+with scarlet ornaments; *niilajumuuta samkaasham* = resembling a dark cloud; *hema
+samchhaaditaambaram* = as he was attired in raiment embroidered in gold;
+*utkR^iSTakiNavakSasam* = who bore on his breast scars of wounds; *airaavata
+viSaaNaagraiH* = inflicted on his by Airavata (the elephant who carries Indra; the Lord of
+Celestials; on his back) with his tusks; *samviitam* = wrapped; *raktavaasasaa* = in
+a cloak of red colour; *shasha lohita raageNa* = resembling the colour of hare's blood
+megharaashim iva = looked like a mass of clouds; *ambare* = in the sky; *samchhannam*
+= enveloped with samdhyaa tapena = sunshine at sunset.
+
+**अनुवादः**
+
+There above a gateway, stood the invincible Ravana the lord of demons, who was being
+fanned with white whisks on both sides, was graced with a triumphal parasol, was smeared with red
+sandal paste, adorned with scarlet ornaments, attired in raiment embroidered in gold, resembling a
+dark cloud, who bore on his breast scars of wounds inflicted on him by Airavata (the elephant who
+carries Indra the Lord of celestials, on his back) with his tusks, wrapped in a cloak of red colour
+resembling the colour of hare's blood and looked like a mass of clouds in the sky enveloped with
+sunshine at sunset.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मॊलद रक्तदन्तॆ कॆम्पाद वस्त्रगळन्नु हॊद्दुकॊण्डु, अवनु आकाशदल्लिन सन्ध्याकालद कॆम्पाद मोडगळन्तॆ कण्डु बरुत्तिद्दनु.॥.॥
@@ -147,6 +220,23 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 मुख्य मुख्य वानरर हागू श्रीरघुनाथन दृष्टियु ऎदुरिगिद्द रावणन मेलॆ बीळुत्तले सुग्रीवनु सट्टनॆ ऎद्दुनिन्तनु.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. darshanaat* = on seeing; *raakSasendrasya* = Ravana;
+*sugriivaH* = Sugreeva; *utthitaH* = got up; *sahasaa* = all at once; (while);
+*vaanarendraaNaam* = the chiefs of monkeys; *pashyataam* = were looking on;
+*raaghavasyaapi* = and even Rama; *pashyataH* = was looking on.
+
+**अनुवादः**
+
+On seeing Ravana, Sugreeva got up all at once, while Rama and the chiefs of the army
+of monkeys were looking on.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधवेगेन संयुक्तः सत्त्वेन च बलेन च ।  
@@ -167,6 +257,24 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु क्रोधगॊण्डु शारीरिक हागू मानसिक बलदिन्द प्रेरितनागि सुवेल पर्वतदिन्द रावणनु कुळितिद्द गोपुरक्कॆ नॆगॆदनु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. samyuktaH* = gathering up; *sattvema cha* = his courage;
+*balena cha* = and strength; (Sugreeva); *krodha vegena* = in an impulse of feery;
+*utthaaya* = bounded; *achalaagraat* = from the summit of the mountain; *atha*
+= and then; *pupluve* = sprang; *gopura sthale* = to the top of the gate (Where
+Ravana was).
+
+**अनुवादः**
+
+Gathering up his strength and courage, Sugreeva, in an impulse of fury, bounded from
+the summit of the mountain and then sprang to the top of the gate (where Ravana was).
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +299,24 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 अवनु अल्लि निन्तुकॊण्डु स्वल्प हॊत्तु रावणनन्नु नोडुत्तले इद्द. मत्तॆ निर्भयनागि आ राक्षसनु तृणदन्तॆ तिळिदु कठोरवागि मातन्नाडिदनु.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. muhuurtam* = for a moment; *saH* = he; *sthitvaa* =
+paused; (then); *nirbhayena* = with a fearless; *antaraatmanaa* = soul;
+*samprakSya* = (he) saw; *tat* = that; *rakSaH* = demon;
+*tR^iNiiR^itya* = whom he regarded as a mere straw; (and thereafter); *abraviit* =
+spoke; *vachaH* = (the following) words; *parusham* = harshly.
+
+**अनुवादः**
+
+For a moment, he paused and then with a fearless soul, he saw that demon, whom he
+regarded as a mere straw and thereafter spoke the following words harshly:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकनाथस्य रामस्य सखा दासोऽस्मि राक्षस ।  
@@ -201,6 +327,12 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 
 लोकनाथस्य रामस्य सखा दासोऽस्मि राक्षस ।  
 न मया मोक्ष्यसेऽद्य त्वं पार्थिवेन्द्रस्य तेजसा ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+लोकनाथस्य रामस्य सखा दासोऽस्मि राक्षस ।
+न मया मोक्यसे.द्य त्वं पार्थिवेन्द्रस्य तेजसा ॥ ६-४०-१०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -213,6 +345,24 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 राक्षसने! नानु लोकनाथ भगवान् श्रीरामन सखनू, दासनू आगिद्देनॆ. महाराजा श्रीरामन तेजदिन्द इन्दु नीनु नन्न कैयिन्द तप्पिसिकॊळ्ळलारॆ.॥10॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. raakSasa* = O; demon!; *asmi* = I am; *sakhaa* =
+friend; *daasaH* = and a servant; *raamasya* = of Rama; *lokanaathasya* = the
+Lord of the world; *tvam* = you; *na mokSyase* = will not be spared; *adya* =
+today; *mayaa* = by me; *tejasaa* = by the inspiring grace; *paarthivendrasya*
+= of Rama; the king of kings.
+
+**अनुवादः**
+
+"O, demon! I am a friend and a servant of Rama, the Lord of the world. You will not
+be spared by me today, by the inspiring grace of Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा सहसोत्पत्य पुप्लुवे तस्य चोपरि ।  
@@ -225,6 +375,12 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 आकृष्य मुकुटं चित्रं पातयामास तद् भुवि ॥ ११ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इत्युक्त्वा सहसोत्पत्य प्लुप्लुवे तस्य चोपरि ।
+आकृष्य मुकुटं चित्रं पातयामास तद्भुवि ॥ ६-४०-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ऐसा कहकर वे अकस्मात् उछलकर रावणके ऊपर जा कूदे और उसके विचित्र मुकुटोंको खींचकर उन्होंने पृथ्वीपर गिरा दिया ॥ ११ ॥
@@ -233,6 +389,24 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि अवनु तत्क्षण नॆगॆदु रावणन मेलॆ हारि अवन विचित्र किरीटगळन्नु सॆळॆदु अवनन्नु नॆलक्कॆ कॆडहिदनु.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. iti* = thus; *uktvaa* = speaking; (Sugreeva);
+*utpatya* = jumped up; *sahasaa* = all at once; *pupluve* = bounced;
+*upari* = over; *tasya* = on him; *aakR^iSya* = pulled; *chitram* = the
+brightly coloured; *mukuTam* = crown; *paatayaamaasa* = and threw; *tat* = it;
+*bhuvi* = on the ground.
+
+**अनुवादः**
+
+Thus speaking, Sugreeva jumped up all at once, bounced over on ravana, pulled his
+brightly coloured crown from his head and threw it away on the ground.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +424,12 @@ _________________
 सुग्रीवस्त्वं परोक्षं मे हीनग्रीवो भविष्यसि ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+समीक्स्य तूर्णमायान्तं बभाषे तं निशाचरः ।
+सुग्रीवस्त्वं परोक्षे मे हीनग्रीवो भविष्यसि ॥ ६-४०-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्हें इस प्रकार तीव्र गतिसे अपने ऊपर आक्रमण करते देख रावणने कहा—‘अरे! जबतक तू मेरे सामने नहीं आया था, तभीतक सुग्रीव (सुन्दर कण्ठसे युक्त) था । अब तो तू अपनी इस ग्रीवासे रहित हो जायगा’ ॥
@@ -258,6 +438,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवनु हीगॆ तीव्रगतियिन्द तन्न मेलॆ आक्रमण माडिदुदन्नु नोडि रावणनु हेळिदनु- ऎलवो! नीनु नन्न ऎदुरिगॆ बरुव तनक सुग्रीव (सुन्दर कण्ठवुळ्ळ)नागिद्द. ईग नीनु निन्न ई कण्ठरहितनागुवॆ.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. samiikSya* = seeing; *tam* = him; *aayaantam* =
+coming; *tuurNam* = quickly (once again); *nishaacharaH* = Ravana; *babhaache*
+= spoke (as follows); *tvam* = you; *sugreeva* = were Sugreeva (one who has a
+handsome neck); *me parokSe* = when you were not present before my eyes; *bhaviSyasi*
+= you will (now) become; *hiinagrivaH* = bereft of your neck.
+
+**अनुवादः**
+
+Seeing Sugreeva about to rush upon him again, Ravana spoke as follows: "You were
+Sugreeva (one who has a handsome neck), when your were not present before my eyes. But now, you
+will now become Hinagriva bereft of your neck."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +479,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि रावणनु तन्नॆरडू भुजगळिन्द अवनन्नु ऎत्ति नॆलक्कॆ अप्पळिसिदनु. मत्तॆ वानरराज सुग्रीवनु चॆण्डिनन्तॆ पुटिदु रावणनन्नु ऎरडू भुजगळिन्द ऎत्ति नॆलक्कॆ जोरागि ऒगॆदनु.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. iti* = thus; *uktvaa* = speaking; *utthaaya* =
+having raised up; (Ravana); *baahubhyaam* = with his two arms; *kSipram* = quickly;
+*aakSipat* = flung Sugreeva; *tale* = to the ground; *saH* = that;
+*hariH* = monkey; *samutthaaya* = bouncing up; *kanduvat* = like a ball;
+*aakSipat* = flung back (his adversary); baahubhyaam with his arms.
+
+**अनुवादः**
+
+Speaking thus, Ravana raised up and quickly flung Sugreeva to the ground with both
+his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +556,31 @@ _________________
 राक्षसराज मत्तु वानरराजरिब्बरू महा बलिष्ठरागिद्दरु. मुष्टिगळ गुद्दाटदिन्दलू, अङ्गैगळ प्रहारगळिन्दलू, मॊणकैगळ तिवितदिन्दलू, उगुरुगळ परचुविकॆयिन्दलू सामान्यरिन्द सहिसलागद घोरयुद्धवन्नु माडुत्तिद्दरु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+14; *15. tau* = those two; *raakSasa vaanarendrau* = Ravana and
+Sugreeva; *mahaabalau* = of great strength; *sveda vidigdha gaatrau* = with
+perspiration broke out on the limbs; *parasparam* = of one another; *shoNita rakta
+dehau* = with their bodies red with blood; *parasparam* = on one another; *parasparam
+shliSTa niruddha cheSTau* = each clung to the other; paralyzing his opponents movements;
+*shaalamali kimshukaa vira* = resembled the shalmali and Kimshuka trees; *chakratuH*
+= (They) created; *asahyaruupam* = an unbearable; *yuddham* = struggle;
+*muSTiprahaaraishcha* = with blows of fists; *talapraaharaiH* = with slaps of hands;
+*aratnighaataiH cha* = hurting with elbows; *karaagra ghaataiH* = and with blows of
+fingers.
+
+**अनुवादः**
+
+Ravana and Sugreeva of great strength carried on a duel which was unbearable, with
+perspiration broke out on their limbs, with their bodies red with blood, each clung to other other
+paralyzing his opponent's movements resembling silk-cotton and Kimshuka trees, followed by blows of
+fists, slaps of hands blows of elbows and blows of fingers on each other.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वा नियुद्धं भृशमुग्रवेगौ  
@@ -365,6 +607,26 @@ _________________
 भयङ्कर वेगवन्तराद आ इब्बरु वीररू गोपुरद जगुलिय मेलॆ बहळ हॊत्तिनवरॆगॆ मल्लयुद्ध माडुत्ता पदे पदे ऒब्बरन्नॊब्बरु बग्गिसुत्ता, तळ्ळुत्ता, कालुगळ अनेक पट्टुगळन्नु प्रयोगिसुत्ता आ जगलियिन्द सरियुत्तिद्दरु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. kR^itvaa niyuddham* = having wrestled; *chiram kaalam* =
+for a long time; *gopura vedimadhye* = in the centre of the flat roof of the gate-way;
+*utkSipya utkSipya* = repeatedly lifting; *dehau* = their bodies (each in turn);
+*vinamya* = bending; *paada kramaat* = their feet in a particular way;bhR^isham ugra
+vegau = the two combatants with very high swiftness; *gopura vedi lagnau* = remained in that
+flat roof of the gate-way.
+
+**अनुवादः**
+
+Having wrestled for a long time in the center of the flat floor of the gate way,
+each in turn repeatedly lifting their bodies and bending their feet in a particular way, the two
+highly swift combatants remained in that flat roof of the gate way.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यमापीड्य विलग्नदेहौ  
@@ -386,14 +648,60 @@ _________________
 स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अन्योन्यमापीड्य विलग्नदेहौ ।
+तौ पेतुतुः पालनिखातमध्ये ।
+उत्पेततुर्भूमितलम् स्पृशन्तौ ।
+स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥ ६-४०-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 एक-दूसरेको दबाकर परस्पर सटे हुए शरीरवाले वे दोनों योद्धा किलेके परकोटे और खाईंके बीचमें गिर गये । वहाँ हाँफते हुए दो घड़ीतक पृथ्वीका आलिङ्गन किये पड़े रहे । तत्पश्चात् उछलकर खड़े हो गये ॥ १७ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. aapiiDya* = crushing; *anyonyam* = one another; *vilagna
+dehau* = their bodies clung together; *tau* = they both; *nipetatauH* = dropped
+down; *saala nikhaata madhye* = between the defensive walls and the moat; *utpetatuH*
+= they would leap up again; *bhuumitalam* = from the ground; *spR^ishantau* = seizing
+each other; *sthitvaa* = after pausing; *muhuurtam* = an instant; *abhiniH
+shvasantau* = to regain their breath.
+
+**अनुवादः**
+
+Crushing one another and their bodies clung together, they both dropped down between
+the defensive walls and the moat. They would leap up again, seizing each other from the ground,
+after pausing an instant to regain their breath.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒब्बरु मत्तॊब्बरन्नु तळ्ळिकॊण्डु होगुवाग आ इब्बरू योधरू कोटॆ मत्तु कन्दकद नडुवॆ बिद्दुबिट्टरु. क्षणकाल भूमिय मेलॆ दीर्घवागि निट्टुसिरु बिडुत्ता, मरुक्षणदल्लि ऎद्दु निन्तरु.॥1.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. tataH* = thereafter; *raamaH* = Rama; *sasugriivaH* =
+along with Sugreeva; *samanvitaH* = together with; *hariyuuthapaiH* = the
+troop-leaders of monkeys; *upaarohat* = ascended; *suvelaagram* = the top of Suvela
+mountain; *yojanadvaya maNDalam* = having a circumference of sixteen miles (Two
+yojanas).
+
+**अनुवादः**
+
+Then, Rama along with Sugreeva, together with the troop leaders of monkeys, ascended
+the top of Suvela mountain which was having a circumference of sixteen miles.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +725,14 @@ _________________
 सुचेरतुः सम्प्रति युद्धमार्गैः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+आलिङ्ग्य चालिङ्ग़्य च बाहुयोक्त्रैः ।
+संयोजयामासतुराहवे तौ ।
+सम्रम्भशिक्षाबलसम्प्रयुक्तौ ।
+सुचेरतुः सम्प्रति युद्धमार्गे ॥ ६-४०-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 फिर वे एक-दूसरेका बार-बार आलिङ्गन करके उसे बाहुपाशमें जकड़ने लगे । दोनों ही क्रोध, शिक्षा (मल्लयुद्ध-विषयक अभ्यास) तथा शारीरिक बलसे सम्पन्न थे; अतः उस युद्धस्थलमें कुश्तीके अनेक दाँव-पेंच दिखाते हुए भ्रमण करने लगे ॥ १८ ॥
@@ -425,6 +741,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवरु तोळुगळॆम्ब पाशदिन्द ऒब्बरु मत्तॊब्बरन्नु पुनः पुनः बिगियागि बिगियुत्तिद्दरु. इब्बरू क्रोधिगळू, मल्लयुद्धद शिक्षणदल्लि परिणितरागिद्दु, शरीर बलदिन्द सम्पन्नरागिद्दरु. इदरिन्द आ युद्धस्थळदल्लि मल्लयुद्धद अनेक वरसॆगळन्नु तोरुत्ता, सुत्तलू सुत्तित्तिद्दरु.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. baahuyoktraiH* = with arms interlaced like with ropes;
+*samyojayaamaasatuH* = joined together; *tau* = they; *aaliN^gyacha
+aaliN^gyacha* = remained locked together; *aahve* = in the struggle;
+*samrambhashikSaa bala samprayuktau* = (they) who had received training in wrestling and
+were fully endowed with night; *samprati sucheratuH* = were now moving to and fro yuddha
+maarge = in the arena.
+
+**अनुवादः**
+
+With arms interlaced like with ropes joined together, they remained locked together
+in the struggle. Both of them, who had received training in wrestling and fully endowed with night,
+were now moving to and fro in the arena.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +779,14 @@ _________________
 तौ पेततुर्वै युगपद् धरायाम् ॥ १९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शार्दूलसिंहविव जातदंष्ट्रौ ।
+गजेन्द्रपोताविव संप्रयुक्तौ ।
+संहत्य संवेद्य च तौ कराभ्यां ।
+तऊ पेतुतुर्वै युगपद्धरायाम् ॥ ६-४०-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जिनके नये-नये दाँत निकले हों, ऐसे बाघ और सिंहके बच्चों तथा परस्पर लड़ते हुए गजराजके छोटे छौनोंके समान वे दोनों वीर अपने वक्षःस्थलसे एक-दूसरेको दबाते और हाथोंसे परस्पर बल आजमाते हुए एक साथ ही पृथ्वीपर गिर पड़े ॥ १९ ॥
@@ -451,6 +795,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हॊसदागि हल्लु मूडिद सिंह-शार्दूलगळ मरिगळु परस्पर कादाडुत्तिद्दन्तॆ, आनॆद मरिगळन्तॆ आ इब्बरू वीररू तम्म ऎदॆगळिन्द ऒब्बरु मत्तॊब्बनन्नु तळ्ळुत्ता, कैगळिन्द प्रहरिसुत्ता ऒट्टिगॆ नॆलक्कॆ बिद्दुबिट्टरु.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. tau* = the two heroes; *shaarduula simhaaviva* = who
+resembled a tiger and a lion; *jaata damSTrau* = having their tusks growing; *gajendra
+potaaviva* = or two young lordly elephants; *samprayuktau* = encountering in a hostile
+manner; *karaabhyaam* = with arms; *samhatya* = interlaced; *samvedya cha* =
+and having duly tired their strength; *petatuHvai* = fell; *dharaayaam* = on the
+ground; *yugapat* = together.
+
+**अनुवादः**
+
+The two heroes, who resembled a tiger and a a lion having their tusks growing or two
+young lordly elephants encountening in a hostile manner, with arms interlaced and having duly tried
+their strength, fell on the ground together.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +848,24 @@ _________________
 इब्बरू व्यायाम माडिद तरुणरागिद्दरु. मल्लयुद्धदल्लि निष्णातरागिद्दु महाबलिष्ठरागिद्दरु. आद्दरिन्द युद्धद विजयक्कागि इब्बरू होराडुत्तिद्दरु. परस्परवागि ऒब्बरु मत्तॊब्बरन्नु आक्षेपिसुत्ता मल्लयुद्धद वरसॆगळिन्द अल्लिन्दिल्लिगॆ सञ्चरिसुत्तिद्दरू आ वीररिब्बरिगू आयासवॆम्बुदे आगुत्तिरलिल्ल.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. udyamya* = Rising; *tau viirau* = those two heroes;
+*adhikSipantau* = hurled themselves; *anyonyam* = on each other; *samchakra
+maate* = circling round; *yuddhe maarge* = the arena; *bahu* = again and again;
+*vyaayaama shikSabala samprayuktau* = like skilled and mighty wrestlers; *na
+jagmatuH* = nor did they obtain; *aashu* = so quickly; *klamam* = fatigue.
+
+**अनुवादः**
+
+Thereafter rising, those two heroes hurled themselves on each other, circling around
+the arena again and again, like skilled and mighty wrestlers, nor were they easily fatigued.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहूत्तमैर्वारणवारणाभै-  
@@ -505,6 +887,14 @@ _________________
 सञ्चेरतुर्मण्डल मार्गमाशु ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+बाहुत्तमैर्वारणवारणाभै ।
+र्निवारयन्तौ परवारणाभौ।
+चिरेण कालेन भृशं प्रयुद्धौ ।
+संचेरतुर्मण्डलमार्गमाशु ॥ ६-४०-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 मतवाले हाथियोंके समान सुग्रीव और रावण गजराजके शुण्ड-दण्डकी भाँति मोटे एवं बलिष्ठ बाहुदण्डोंद्वारा एक-दूसरेके दाँवको रोकते हुए बहुत देरतक बड़े आवेशके साथ युद्ध करते और शीघ्रतापूर्वक पैंतरे बदलते रहे ॥ २१ ॥
@@ -513,6 +903,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ गजगळन्तिरुव सुग्रीव मत्तु रावणरु गजराजन शुण्डदण्डदन्तॆ इरुव बलिष्ठबाहुगळिन्द ऒब्बरु मत्तॊब्बर पट्टुगळन्नु तप्पिसिकॊळ्ळुत्ता बहळ समयदवरॆगॆ आवेशपूर्णवागि युद्धमाडुत्ता बेग बेगने मण्डलाकारवागि चलिसुत्तिद्दरु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. varavaaraNaabhau* = like unto great tuskers; *bahuuttamaiH*
+= with their enormous arms; *vaaraNa vaaraNaabhaiH* = resembling the trunks;
+*nivaarayantau* = (they were) keeping back each other; *prayuddhau* = fought;
+*bhR^isham* = vehemently; *chireNa kaalena* = for a long time; *samcheratuH* =
+and moved; *aashu* = speedily; *maNDala maargam* = in a circular path.
+
+**अनुवादः**
+
+Like unto great tuskers with their enormous arms resembling the trunks, those two
+warriors were keeping back each other, fought vehemently for a long time and moved speedily in a
+circular arena.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -535,6 +944,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒब्बरु मत्तॊब्बरन्नु हिडिदु प्रहरिसलु प्रयत्निसु त्तिद्दरु. तिण्डिगागि गुरुगुट्टुत्ता ऎदुरु बदुरागि निन्त ऎरडु बॆक्कुगळन्तॆ रावण-सुग्रीवरु परस्परवागि कॆडवि कॆळक्कॆ बिळिसलु कायुत्ता निन्तिद्दरु.॥22॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. aasaadya* = approaching; *parasparam* = each other;
+*maarjaaraaviva* = like two wild cats; *bhakSyaarthe* = fighting over a piece of
+meat; *yattau* = trying; *anyonya suudane* = to kill each other;
+*avatasthaate* = they stood; *(growling) muhurmuhuH* = again and again.
+
+**अनुवादः**
+
+Approaching each other like tow wild cats fighting over a piece of meat trying to
+kill each other, they stood growling again and again.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,6 +1021,37 @@ _________________
 अवरु कॆलवॊम्मॆ अड्डवागि चरिसिदरॆ, कॆलवॊम्मॆ ओरॆयागि ऎडक्कॆ बलक्कॆ तिरुगुत्तिद्दरु. कॆलवॊम्मॆ तन्न स्थानदिन्द सरिदु शत्रुविन एटन्नु हुसियागिसुत्तिद्दरु. कॆलवॊम्मॆ स्वतः पट्टुगळन्नु प्रयोगिसि शत्रुविन आक्रमणदिन्द तप्पिसिकॊळ्ळुत्तिद्दरु. कॆलवॊम्मॆ ऒब्ब निन्तिद्दरॆ मत्तॊब्बनु सुत्तलू ओडुत्तिद्दनु. कॆलवॊम्मॆ इब्बरू ओडि परस्पर इदिरु बदिरागि आक्रमण माडुत्तिद्दरु. कॆलवॊम्मॆ बागि, कप्पॆयन्तॆ निधानवागि नॆगॆयुत्तिद्दरु. कॆलवॊम्मॆ ऒन्दे जागदल्लि निन्तु कादाडुत्तिद्दरु. कॆलवॊम्मॆ हिन्दॆ सरिदु, तत्क्षण इदुरु बन्दु निल्लुत्तिद्दरु. कॆलवॊम्मॆ शत्रुवन्नु हिडियलु तन्न शरीरवन्नु कुग्गिसि अथवा बागि अवनॆडॆगॆ ओडुत्तिद्दरु. कॆलवॊम्मॆ प्रतिद्वन्द्विय मेलॆ कालिनिन्द प्रहरिसलु मुख तग्गिसिकॊण्डु अवन मेलॆ आक्रमण माडुत्तिद्दरु. कॆलवॊम्मॆ शत्रुविन भुजवन्नु हिडियलु तन्न भुजगळन्नु चाचुत्तिद्दरु हागू शत्रुविन हिडितवन्नु तप्पिसलु तम्म बाहुगळन्नु हिन्दक्कॆ सॆळॆदुकॊळ्ळुत्तिद्दरु. हीगॆ मल्लयुद्ध कलॆयल्लि परमप्रवीण वानरराज सुग्रीव हागू रावणनु ऒब्बरु मत्तॊब्बरिगॆ आघातमाडुत्ता मण्डलाकारवागि सञ्चरिसुत्तिद्दरु.॥24-26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+23; 24; 25; *26. tau* = the two warriors; *vaanarendrashcha* =
+Sugreeva; *raavaNaH* = and Ravana; *yuddha maarga vishaaradau* = who were skilled in
+wrestling; *vicheratuH* = executed; *vividhaani* = innumerable; *vichitraaNi*
+= and myriad; *maNDalaani* = evolutions; *anyonyam* = in mutual conflict;
+*chitraaNi* = (taking up) diverse; *sthaanaani* = postures; *gomuutrakaaNi* =
+moving in a curved line like an ox's urine; *gata pratyaagataanicha* = coming and going;
+*tirashchiinagataanyena* = stepping sideways; *tathaa* = and; *vakragataani
+cha* = having a retrograde motion; *parimokSam* = to avoid; *prahaaraaNaam* =
+blows; *paridhaavanam* = turning about; *varjanam* = abandoing the attack;
+*abhidravaNam* = dashing towards each other; *aaplaavam* = leaping;
+*avasthaanam* = standing; *savigraham* = firm and erect; *paraavR^itam* =
+retreating; *apaavR^itam* = turned sideways; *apadrutam* = rushed in a bent posture;
+*avaplutam* = ran lifting their foot to kick the opponent; *upanyastam* = by letting
+go; *apanyastam* = or stealing away.
+
+**अनुवादः**
+
+The two warriors, Sugreeva and Ravana, who were skilled in wrestling, excuted
+innumerable and myraid evolutions, taking up diverse postures, moving in a curved line like an ox's
+urine, coming and going, stepping side ways, having a retrograde motion to avoid blows, turning
+about abandoning the attack, dashing towards each other, leaping, standing firm and erect,
+retreated, turned sideways, rushed in a bent posture, ran lifting their foot to kick the opponent
+and by letting go or stealing away.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे रक्षो मायाबलमथात्मनः ।  
@@ -611,6 +1068,14 @@ _________________
 रावणः स्थित एवात्र हरिराजेन वञ्चितः ॥ २८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एतस्मिन्नन्तरे रक्षो मायाबलमथात्मनः ।
+आरब्दुमुपसम् पेदे ज्ञात्वा तम् वानराधिपः ॥ ६-४०-२७
+उत्पपात तदाकाशं जितकाशी जितक्लमः ।
+रावणः स्थित एवात्र हरिराजेन वञ्चितः ॥ ६-४०-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इसी बीचमें राक्षस रावणने अपनी मायाशक्तिसे काम लेनेका विचार किया । वानरराज सुग्रीव इस बातको ताड़ गये; इसलिये सहसा आकाशमें उछल पड़े । वे विजयोल्लाससे सुशोभित होते थे और थकावटको जीत चुके थे । वानरराज रावणको चकमा देकर निकल गये और वह खड़ा-खड़ा देखता ही रह गय ॥ २७-२८ ॥
@@ -619,6 +1084,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टरल्लि राक्षस रावणनु तन्न माया शक्तियन्नु उपयोगिसलु योचिसिदनु. वानरराजनु इदन्नु ग्रहिसि कूडले आकाशक्कॆ नॆगॆदनु. अवनु विजयोल्लासदिन्द शोभिसुत्त बळलिकॆयन्नु गॆद्दिद्दनु. वानरराजनु रावणनिगॆ सॆड्डु हॊडॆदु हॊरटुहोदनु. रावणनु निन्तु नोडुत्तले इद्दु बिट्टनु.॥27-28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+27; *28. atha* = then; *etasmin antare* = in the meanwhile;
+*rakSaH* = Ravana; the demon; *upasampede* = decided; *aarabdhum* = to
+commence; *maayaabalam* = his magic power; *jJNaatvaa* = knowing; *tam* = it;
+*vaanaraadhipaH* = Sugreeva; *utpapaata* = flew; *aakaasham* = into the sky;
+*jita kaashii* = triumphantly; *jitaklamaH* = shaking off all fatigue; (While);
+*raavaNaH* = Ravana; *vaN^chitaH* = baffled; *hariraajena* = by Sugreeva;
+*sthitaH* = stood (confounded); *atraiva* = there alone.
+
+**अनुवादः**
+
+Meanwhile, Ravana decided to common using his magic power. Knowing it, Sugreeva flew
+into the sky triumphantly shaking off all fatigue, while Ravana, baffled by Sugreeva stood
+confounded there alone.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,6 +1128,14 @@ _________________
 र्हरिगणमध्ये रामपार्श्वं जगाम ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथ हरिवरनाथः प्राप्तसंग्रामकीर्ति ।
+र्निशिचरपतिमाजौ योजयित्वा श्रमेण ।
+गगनमतिविशालं लङ्घयित्वार्कसूम ।
+र्हरिगणबलमध्ये रामपार्श्वं जगाम् ॥ ६-४०-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जिन्हें संग्राममें कीर्ति प्राप्त हुई थी, वे वानरराज सूर्यपुत्र सुग्रीव निशाचरपति रावणको युद्धमें थकाकर अत्यन्त विशाल आकाशमार्गका लङ्घन करके वानरोंकी सेनाके बीच श्रीरामचन्द्रजीके पास आ पहुँचे ॥ २९ ॥
@@ -650,6 +1144,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सङ्ग्रामदल्लि कीर्ति पडॆद वानरराज सूर्यपुत्र सुग्रीवनु रावणनन्नु युद्धदल्लि कङ्गालुपडिसि, आकाशमार्गदल्लि नॆगॆदु वानर सेनॆय नडुवॆ श्रीरामन बळिगॆ बन्दनु.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. atha* = then; *harivaranaathaH* = the Lord of the monkeys;
+*praapta samgraama kiirtiH* = acquiring fame as a warrior; *yojayitvaa* = reducing;
+*nishicharapatim* = Ravana; *shrameNa* = to exhaustion; *laNghayitvaa* =
+ascended; *ativishaalam* = into the infinite; *gaganam* = sky; *arkasuunuH* =
+and that offspring of the Sun; Sugreeva; *jagaama* = went; *raamapaarshvam* = to the
+side of Rama; *harigaNabalamadhye* = in the middle of the monkey-troops.
+
+**अनुवादः**
+
+Thus, the Lord of the monkeys, acquiring fame as a warrior, reducing Ravana to
+exhaustion, ascended into the infinite sky and the offspring of the Sun then went to the side of
+Rama, who as in the middle of the mokye-troops.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +1182,14 @@ _________________
 तरुमृगगणमुख्यैः पूज्यमानो हरीन्द्रः ॥ ३० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स इति सवितृसूनुस्तत्र तत्कर्म कृत्वा ।
+पवनगतिरनीकं प्राविशत्संप्रहृष्टः ।
+रघुवरनृपसूनोद्वर्धयन् युद्धहर्षं ।
+तरुमृगगणमुख्यैः पूज्यमानो हरीन्द्रः ॥ ६-४०-३०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार वहाँ अद्भुत कर्म करके वायुके समान शीघ्रगामी सूर्यपुत्र सुग्रीवने दशरथराजकुमार श्रीरामके युद्धविषयक उत्साहको बढ़ाते हुए बड़े हर्षके साथ वानरसेनामें प्रवेश किया । उस समय प्रधान-प्रधान वानरोंने वानरराजका अभिनन्दन किया ॥ ३० ॥
@@ -676,6 +1198,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ अल्लि अद्भुत कर्मवन्नु माडि वायुविनन्तॆ शीघ्रगामि सुग्रीवनु दशरथनन्दन श्रीरामन युद्धोत्साहवन्नु हॆच्चिसुत्ता उत्साहदिन्द वानर सैन्यवन्नु प्रवेशिसिदनु. आग मुख्य मुख्य वानररु वानरराजनन्नु अभिनन्दिसिदरु.॥30॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. saH* = that Sugreeva; *savitR^isuumuH* = the offspring of
+the Sun; *pavanagatiH* = who endowed with a speed of the wind; *kR^itvaa* = having
+accomplished; *tat karma* = that act; *tatra* = there; *vardhyan* =
+increasing; *yuddha harSam* = the joy of the battle; *raghuvaranR^ipasuunoH* = of the
+foremost of the Raghu dynasty; *puuhyamaanaH* = honoured; *tarumR^iga samprahR^iSTaH*
+= and delighted; *praavishat* = rejoined; *aniikam* = the army.
+
+**अनुवादः**
+
+That Sugreeva, the offspring of the Sun, who was endowed with a speed of the wind,
+having accomplished that feat there, increasing the military zeal of the foremost of Raghu dynasty,
+honoured by the monkey leaders and delighted, rejoined the army.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

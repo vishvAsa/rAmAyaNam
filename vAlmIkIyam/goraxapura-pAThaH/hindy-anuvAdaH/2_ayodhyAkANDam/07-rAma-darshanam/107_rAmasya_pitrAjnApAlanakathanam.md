@@ -2,6 +2,21 @@
 title = "१०७ रामस्य पित्राज्ञापालनकथनम्"
 title_english = "107 Rama tells Bharata about Dasaratha s promise of kingdom"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book II : Ayodhya Kanda - Book Of Ayodhya**
+
+Rama reveals to Bharata that Kaikey's marriage, stating that Dasaratha would confer
+the kingdom as a marriage-dowry. Rama also adds that Kaikeyi also received the promise of two boons
+from Dasaratha as a token of his pleasure and gratitude for the help Kaikeyi rendered during the
+conflict long ago between gods and demons. Rama further informs Bharata that according to that
+promise, Kaikeyi asked for the two boons, one for Bharata's throne and another for his own exile to
+the forest. Rama requests Bharata to make Dasaratha's promises true and asks him to return to
+Ayodhya and assume its rulership.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-107-Ramasya_Pitragnaa_Palana_Kathanam.mp3"></div>
 </details>
@@ -26,6 +41,12 @@ _________________
 प्रत्युवाच ततः श्रीमान् ज्ञातिमध्येसुसत्कृतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुनर् एवम् ब्रुवाणम् तु भरतम् लक्ष्मण अग्रजः ।
+प्रत्युवच ततः श्रीमान् ज्नाति मध्ये अतिसत्कृतः ॥ २-१०७-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जब भरत पुनः इस प्रकार प्रार्थना करने लगे, तब कुटुम्बीजनोंके बीचमें सत्कारपूर्वक बैठे हुए लक्ष्मणके बड़े भाई श्रीमान् रामचन्द्रजीने उन्हें इस प्रकार उत्तर दिया— ॥ १ ॥
@@ -34,6 +55,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतनु पुनः ई प्रकार प्रार्थिसिदाग परिवारद नडुवॆ सत्कारपूर्वक कुळितिरुव लक्ष्मणाग्रज श्रीमान् रामचन्द्रनु अवनिगॆ ई प्रकार उत्तरिसिदनु-॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. tataH* = thereafter; *shriimaan* = the illustrious;
+*abhisatkR^itaH* = pratyuvaacha = replied (as follows); *bharatam* = to Bharata;
+*evam* = who was thus; *bruvaaNam* = speaking; *jJNaatimadhye* = among their
+relatives.
+
+**अनुवादः**
+
+Thereafter, the illustrious Rama, highly respected among his fraternity, (as
+follows) to Bharata who was speaking as aforesaid among his relatives.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -46,6 +84,12 @@ _________________
 
 उपपन्नमिदं वाक्यं यस्त्वमेवमभाषथाः ।  
 जातः पुत्रो दशरथात् कैकेय्यां राजसत्तमात् ॥ २ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+उपपन्नम् इदम् वाक्यम् यत् त्वम् एवम् अभाषथाः ।
+जातः पुत्रो दशरथात् कैकेय्याम् राज सत्तमात् ॥ २-१०७-२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -58,6 +102,24 @@ _________________
 तम्म! नीनु नृपश्रेष्ठ दशरथ महाराजरिन्द केकयराज कन्यॆ कैकेयिय गर्भदिन्द हुट्टिरुवॆ. आद्दरिन्द नीनु हेळुव उत्तम वचनगळु सर्वथा निनगॆ योग्यवागिवॆ.॥2॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. idam* = these; *vaakyam* = words; *yat* = which;
+*abhyabhaaSathaaH* = were spoken; *evam* = thus; *tvam* = by you;
+*jaataH* = born; *putraH* = as a son; *kaikeyyaam* = in Kaikeyi;
+*dasharathaat* = through Dasartha; *raajasattamaat* = the excellent king;
+*upapannam* = are suited for the occasion.
+
+**अनुवादः**
+
+"These words, which you have spoken are worthy of you, the son of Dasaratha the
+excellent king, born through Kaikeyi."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा भ्रातः पिता नः स मातरं ते समुद्वहन् ।  
@@ -68,6 +130,12 @@ _________________
 
 पुरा भ्रातः पिता नः स मातरं ते समुद्वहन् ।  
 मातामहे समाश्रौषीद् राज्यशुल्कमनुत्तमम् ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+पुरा भ्रातः पिता नः स मातरम् ते समुद्वहन् ।
+मातामहे समाश्रौषीद् राज्य शुल्कम् अनुत्तमम् ॥ २-१०७-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -80,6 +148,24 @@ _________________
 सहोदर! इन्दिनिन्द बहळ हिन्दिन मातु, तन्दॆयवर विवाह निन्न तायियॊन्दिगॆ आदाग अवरु निन्न तातन बळि कैकेयिय पुत्रनिगॆ राज्यवन्नु कॊडुव उत्तम प्रतिज्ञॆयन्नु माडिद्दरु.॥3॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. bhraataH* = O; My brother!; *puraa* = long ago;
+*samudvahan* = while marrying; *te maataram* = your mother; *saH* = that;
+*naH pitaa* = our father; *samaashrouSiit* = promised; *anuttamam* = an
+exceptional; *raajyashulkam* = marriage dowry in the form of our kingdom;
+*maataamahe* = to you maternal grandfather.
+
+**अनुवादः**
+
+"O, My brother! Long ago, when our father married your mother, he promised your
+maternal grandfather that he would confer his kingdom as an exceptional marriage-dowry"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरे च सङ्ग्रामे जनन्यै तव पार्थिवः ।  
@@ -92,6 +178,12 @@ _________________
 सम्प्रहृष्टो ददौ राजा वरमाराधितः प्रभुः ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+देव असुरे च सम्ग्रामे जनन्यै तव पार्थिवः ।
+सम्प्रहृष्टो ददौ राजा वरम् आराधितः प्रभुः ॥ २-१०७-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसके बाद देवासुर-संग्राममें तुम्हारी माताने प्रभावशाली महाराजकी बड़ी सेवा की; इससे संतुष्ट होकर राजाने उन्हें वरदान दिया ॥ ४ ॥
@@ -100,6 +192,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर देवासुर सङ्ग्रामदल्लि निन्न तायियु प्रभावशाली महाराजर बहळ दॊड्ड सेवॆयन्नु माडिद्दळु. इदरिन्द सन्तुष्टरागि महाराजरु आकॆगॆ वरदान कॊट्टिद्दरु.॥4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. prabhuH* = the efficient; *paarthivaH* = lord of the earth;
+*raajaa* = King Dasaratha; *dadau* = bestowed; *varamcha* = a boon; *tava
+jananyai* = to your mother; *samprahR^iSTaH* = he having been overjoyed;
+*aaraadhitaH* = by your mother's service; *samgraame* = in a conflict;
+*daivaasure* = between Gods and demons.
+
+**अनुवादः**
+
+"Thereafter, in a conflict between Gods and demons, your mother received the promise
+of two boons from the efficient lord of the earth, King Dasartha, as a token of his joy and
+gratitude."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,6 +260,28 @@ _________________
 पुरुषसिंहने! ऒन्दु वरदिन्द निनगॆ राज्य वन्नु केळिदळु मत्तु इन्नॊन्दरिन्द ननगॆ वनवास. आकॆयिन्द हीगॆ प्रेरितरागि राजरु आ ऎरडु वरगळन्नु आकॆगॆ कॊट्टरु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+5; *6. naravyaaghraH* = O; Tiger among men!; *tataH* = then;
+*tava maataa* = your mother; *yashasvinii* = the illustrious woman; *vara
+varNinii* = with a beautiful complexion; *sampratishraavya* = having been made a
+promise; *narashreSTam* = by Dasaratha the chief of men; *ayaachata* = asked;
+*dvau* = two; *varau* = boons; *raajyam* = (one for giving) kingdom;
+*tava* = to you; *tathaa* = and; *pravraajanam* = (the other) the exile;
+*mama* = for me; *tadaa* = then; *niyuktaH* = the enjoined; *raajaacha*
+= king also; *pradadau* = gave; *tau varau* = those boons.
+
+**अनुवादः**
+
+"O, Tiger among men! Your illustrious mother of beautiful complexion consequently
+demanded these two boons from that cheif of men, for you the throne and for me the exile to the
+forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन पित्राहमप्यत्र नियुक्तः पुरुषर्षभ ।  
@@ -164,6 +297,12 @@ _________________
 चतुर्दश वने वासं वर्षाणि वरदानिकम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तेन पित्रा अहम् अप्य् अत्र नियुक्तः पुरुष ऋषभ ।
+चतुर्दश वने वासम् वर्षाणि वरदानिकम् ॥ २-१०७-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पुरुषप्रवर! इस प्रकार उन पिताजीने वरदानके रूपमें मुझे चौदह वर्षोंतक वनवासकी आज्ञा दी है ॥
@@ -172,6 +311,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषप्रवर! ई प्रकार आ तन्दॆयवरु वरदानद रूपदल्लि ननगॆ हदिनाल्कु वर्षगळवरॆगॆ वनवासद आज्ञॆयन्नु कॊट्टरु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. puruSarSabha* = O; excellent among men!; *ahamapi* = I too;
+*niyuktaH* = have been enjoined; *tena pitraa* = by our aforesaid father;
+*vaasam* = to live; *atra* = in this; *vane* = forest; *chaturdasha
+vaSaaNi* = for fourteen years; *varadaanikam* = in accord with the granting of boon.
+
+**अनुवादः**
+
+"O, excellent among men! I too, have been enjoined by our aforesaid father to live
+here in the forest for fourteen years, in accord iwth granting of boon."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +342,12 @@ _________________
 सीतया चाप्रतिद्वन्द्वः सत्यवादे स्थितः पितुः ॥ ८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सो अहम् वनम् इदम् प्राप्तो निर्जनम् लक्ष्मण अन्वितः ।
+शीतया च अप्रतिद्वन्द्वः सत्य वादे स्थितः पितुः ॥ २-१०७-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यही कारण है कि मैं सीता और लक्ष्मणके साथ इस निर्जन वनमें चला आया हूँ । यहाँ मेरा कोई प्रतिद्वन्द्वी नहीं है । मैं यहाँ पिताजीके सत्यकी रक्षामें स्थित रहूँगा ॥
@@ -194,6 +356,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदे कारणदिन्द नानु सीतॆ मत्तु लक्ष्मणनॊन्दिगॆ ई निर्जन वनक्कॆ बन्दिरुवॆनु. इल्लि ननगॆ यारू प्रतिद्वन्द्विगळिल्ल. नानु इल्लि तन्दॆयवर सत्यवन्नु रक्षिसलु स्थितनागिद्देनॆ.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. saH aham* = I as such; *apratidvandvaH* = without any rival;
+*idam* = nirjanam = to this lonely; *vanam* = forest; *lakSmaNaanvitaH* =
+accompanied by Lakshmana; *siitayaa cha* = and Seeta; *sthitaH* = standing firm;
+*satya vaade* = with the promise gien; *pituH* = by our father.
+
+**अनुवादः**
+
+"I as such, without any rival, have come to this lonely forest accompanied by
+Lakshmana and Seetha in order to carry out the promise given by our father."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +390,12 @@ _________________
 कर्तुमर्हति राजेन्द्र क्षिप्रमेवाभिषिञ्चनात् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भवान् अपि तथा इत्य् एव पितरम् सत्य वादिनम् ।
+कर्तुम् अर्हति राज इन्द्रम् क्षिप्रम् एव अभिषेचनात् ॥ २-१०७-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजेन्द्र! तुम भी उनकी आज्ञा मानकर शीघ्र ही राज्यपदपर अपना अभिषेक करा लो और पिताको सत्यवादी बनाओ—यही तुम्हारे लिये उचित है ॥ ९ ॥
@@ -219,6 +404,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजेन्द्रने! नीनू कूड अवर आज्ञॆयन्नु मन्निसि शीघ्रवागि राजपदवियल्लि अभिषिक्तनागु मत्तु तन्दॆयवरन्नु सत्यवादियागिसु-इदे निनगॆ उचितवागिदॆ.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. bhavaanapi* = you too; *arhati* = ought; *tathetyeva*
+= likewise; *kartum* = to make; *pitaram* = our father; *satyavaadinam* = as a
+person having given a true promise; *raajendra* = O; Indra the Lord of celestials among
+Kings!; *abhiSechanaat* = by getting anointed to the crown; *kSiprameva* = without
+delay.
+
+**अनुवादः**
+
+"You too ought, likewise, to make our father, as a person having given a true
+promise, O Indra (the Lord of Celestials) among kings, by getting yourself anointed to the crown
+without any delay.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +440,12 @@ _________________
 पितरं चापिधर्मज्ञ मातरं चाभिनन्दय ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ऋणान् मोचय राजानम् मत् कृते भरत प्रभुम् ।
+पितरम् त्राहि धर्मज्न मातरम् च अभिनन्दय ॥ २-१०७-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘धर्मज्ञ भरत! तुम मेरे लिये पूज्य पिता राजा दशरथको कैकेयीके ऋणसे मुक्त करो, उन्हें नरकमें गिरनेसे बचाओ और माताका भी आनन्द बढ़ाओ ॥ १० ॥
@@ -244,6 +454,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मज्ञ भरतने! नीनु ननगागि पूज्य तन्दॆ महाराजरन्नु कैकेयिय ऋणदिन्द मुक्तगॊळिसु, अवरु नरकदल्लि बीळुवुदन्नु तप्पिसु हागू तायिय आनन्दवन्नु हॆच्चिसु.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. bharata* = O; Bharata; *matkR^ite* = for my sake;
+*mochaya* = relive; *prabhum* = the mighty; *raajaanam* = king;
+*R^iNaat* = from the debt; *abhinandaya pitaram chappi maataram cha* = make our
+father and happy mother.
+
+**अनुवादः**
+
+"O, Bharata! For my sake relieve the mighty king from his vow and make both our
+mother and fahter happy."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +488,12 @@ _________________
 गयेन यजमानेन गयेष्वेव पितॄन् प्रति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+श्रूयते हि पुरा तात श्रुतिर् गीता यशस्विनी ।
+गयेन यजमानेन गयेषु एव पितृऋन् प्रति ॥ २-१०७-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तात! सुना जाता है कि बुद्धिमान्, यशस्वी राजा गयने गय-देशमें ही यज्ञ करते हुए पितरोंके प्रति एक कहावत कही थी ॥ ११ ॥
@@ -269,6 +502,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अप्पा! बुद्धिवन्त, यशस्वी राजनाद गयनु गयादेशदल्लि याग माडुत्तिरुवाग पितृगळन्नु उद्देशिसि ई दिव्य लोकोक्तियन्नु हेळिद्दनॆन्दु नावु केळिद्देवॆ.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. taata* = my dear brother!; *puraa* = formerly;
+*yashasvinaa* = by an illustrious king; *gayena* = named Gaya; *yajamaanena* =
+while performing a sacrifice; *gayeSvena* = in a place called Gaya; *pitR^iin prati*
+= in honour of his ancestors; *shrutiH* = a verse; *giitaa* = was changed;
+*shruuyate hi* = and indeed heard (as follows)
+
+**अनुवादः**
+
+"My dear brother! Formerly, an illustrious king named Gaya, while perfoming a
+sacrifice in a place called Gaya in honour of his ancestors, chanted the following verse:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +537,12 @@ _________________
 तस्मात्पुत्र इति प्रोक्तः पितॄन् यःपाति सर्वतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुम् नाम्ना नरकाद् यस्मात् पितरम् त्रायते सुतः ।
+तस्मात् पुत्र इति प्रोक्तः पितृऋन् यत् पाति वा सुतः ॥ २-१०७-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘(वह इस प्रकार है—) बेटा पुत् नामक नरकसे पिताका उद्धार करता है, इसलिये वह पुत्र कहा गया है । वही पुत्र है, जो पितरोंकी सब ओरसे रक्षा करता है ॥
@@ -294,6 +551,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (अदु इन्तिदॆ-) मगनु पुत् ऎम्ब नरकदिन्द तन्दॆयन्नु उद्धरिसुवनु, अदक्कागि अवनु पुत्रनॆन्दु हेळिसिकॊळ्ळुवनु. पितृगळन्नु ऎल्ल कडॆयिन्द रक्षिसुववने पुत्रनागिद्दानॆ.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. yasmaat* = since; *sutaH* = a son; *traayate* =
+delivers; *pitaram* = his father; *narakaat* = from a place of torment;
+*punnaamaH* = called 'Put'; *tasmaat* = for that reason; *protaH* = (he) is
+named; *pitra iti* = as "Putra"; *yaH* = he who; *paati* = delivers;
+*pitR^iin* = his ancestors; *sarvataH* = from all (dangers).
+
+**अनुवादः**
+
+"Since a son delivers his father from a place of torment (hell) called 'Put', he is
+named as 'Putra'- 'he who delivers his ancestors from all dangers'"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +581,12 @@ _________________
 
 एष्टव्या बहवः पुत्रा गुणवन्तो बहुश्रुताः ।  
 तेषां वै समवेतानामपि कश्चिद् गयां व्रजेत् ॥ १३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एष्टव्या बहवः पुत्रा गुणवन्तो बहु श्रुताः ।
+तेषाम् वै समवेतानाम् अपि कश्चिद् गयाम् व्रजेत् ॥ २-१०७-१३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -318,6 +599,24 @@ _________________
 गुणवन्त मत्तु बहुश्रुत अनेक मक्कळ इच्छॆ इरिसबेकु. पडॆद आ पुत्ररल्लि यावनादरॊब्बनादरू गयॆयल्लि पिण्डदान माडुवनु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. bahavaH* = many; *yuNavantaH* = viruous;
+*bahushrutaaH* = and very learned; *putraH* = sons; *eSTavyaaH* = are to be
+desired; *teSaam* = In them; *kashchidapi* = at lease one; *samavetaanaam* =
+who is intimately related; *vrajet* = may go; *gayaam* = to Gaya (to perform a
+sacrifice)
+
+**अनुवादः**
+
+"To have many virtuous and learned sons is to be desired, since one, atleast among
+them, who is intimately connected will ocme to Gaya to perform a sacrifice."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं राजर्षयः सर्वे प्रतीता रघुनन्दन ।  
@@ -328,6 +627,12 @@ _________________
 
 एवं राजर्षयः सर्वे प्रतीता रघुनन्दन ।  
 तस्मात् त्राहि नरश्रेष्ठ पितरं नरकात् प्रभो ॥ १४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एवम् राज ऋषयः सर्वे प्रतीता राज नन्दन ।
+तस्मात् त्राहि नर श्रेष्ठ पितरम् नरकात् प्रभो ॥ २-१०७-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,6 +645,24 @@ _________________
 रघुनन्दन! नरश्रेष्ठ भरतने! ई प्रकार ऎल्ल राजर्षिगळु पितृगळ उद्धारद निश्चय माडिरुवरु. आद्दरिन्द प्रभु! नीनू निन्न पितनन्नु नरकदिन्द उद्धरिसु.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. raaja nandan* = O; Prince!; *sarve* = all;
+*raajarSayaH* = the royal sages; *pratiitaaH* = the royal sages; *pratiitaaH*
+= are convinced; *evam* = in this narashreSTa = and the excellent among men!;
+*tasmaat* = for that reason; *traahi* = save; *pitaram* = our father;
+*narakaat* = from hell.
+
+**अनुवादः**
+
+"O, prince! This is the conviction of all the royal sages. O, the efficient and the
+excellent of men! Therefore, save our father from hell.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां गच्छ भरत प्रकृतीरुपरञ्जय ।  
@@ -350,6 +673,12 @@ _________________
 
 अयोध्यां गच्छ भरत प्रकृतीरुपरञ्जय ।  
 शत्रुघ्नसहितो वीर सह सर्वैर्द्विजातिभिः ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अयोध्याम् गग्च्छ भरत प्रकृतीर् अनुरन्जय ।
+शत्रुघ्न सहितो वीर सह सर्वैर् द्विजातिभिः ॥ २-१०७-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -362,6 +691,23 @@ _________________
 वीर भरत! नीनु शत्रुघ्न हागू समस्त ब्राह्मणरन्नु जॊतॆगूडि अयोध्यॆगॆ मरळि होगु हागू प्रजॆगळिगॆ सुखवन्नु कॊडु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. viiraH* = O; the valiant; *bharataH* = Bharata!;
+*gachchha* = go; *ayodhyaam* = to Ayodhya; *shatrughna sahitaH* = along with
+Shatrughna; *sarvaiH* = and all; *dvijaatibhiH saha* = the brahmanas;
+*anuraNjaya* = and give joy; *prakR^itiiH* = the people.
+
+**अनुवादः**
+
+"O, the valiant Bharata! Go to Ayodhya along with Shatrughna and all the Brahmanas
+and give joy to the people there."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवेक्ष्ये दण्डकारण्यमहमप्यविलम्बयन् ।  
@@ -372,6 +718,12 @@ _________________
 
 प्रवेक्ष्ये दण्डकारण्यमहमप्यविलम्बयन् ।  
 आभ्यां तु सहितो वीर वैदेह्या लक्ष्मणेन च ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+प्रवेक्ष्ये दण्डक अरण्यम् अहम् अप्य् अविलम्बयन् ।
+आभ्याम् तु सहितो राजन् वैदेह्या लक्ष्मणेन च ॥ २-१०७-१६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -384,6 +736,23 @@ _________________
 वीरने! ईग नानू लक्ष्मण मत्तु सीतॆयॊन्दिगॆ शीघ्रवागि दण्डकारण्यवन्नु प्रवेशिसुवॆनु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. raajan* = O; King!; *ahamapi* = I too; *avilambayan*
+= without delay; *pravekSe* = shall enter; *daNDakaaraNyam* = the forest of Dandaka;
+*sahitaH* = along with; *abhyaam* = this; *vaidehyaa* = Seetha;
+*lakSmaNena* = and Lakshmana.
+
+**अनुवादः**
+
+"O, King! I too, without delay, will proceed to Dandaka forest along with Seetha and
+Lakshaman."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं राजा भरत भव स्वयं नराणां  
@@ -400,6 +769,14 @@ _________________
 संहृष्टस्त्वहमपि दण्डकान् प्रवेक्ष्ये ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+त्वम् राजा भव भरत स्वयम् नराणाम् ।
+वन्यानाम् अहम् अपि राज राण् मृगाणाम् ।
+गग्च्छ त्वम् पुर वरम् अद्य सम्प्रहृष्टः ।
+सम्हृष्टः तु अहम् अपि दण्डकान् प्रवेक्ष्ये ॥ २-१०७-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भरत! तुम स्वयं मनुष्योंके राजा बनो और मैं जंगली पशुओंका सम्राट् बनूँगा । अब तुम अत्यन्त हर्षपूर्वक श्रेष्ठ नगर अयोध्याको जाओ और मैं भी प्रसन्नतापूर्वक दण्डक-वनमें प्रवेश करूँगा ॥ १७ ॥
@@ -408,6 +785,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतने नीनु स्वतः मनुष्यर राजनागु मत्तु नानु काडिन मृगगळ साम्राटनागुवॆनु. ईग नीनु अत्यन्त हर्षदिन्द श्रेष्ठनगर अयोध्यॆगॆ होगु हागू नानु सन्तोषवागि दण्डकारण्यवन्नु प्रवेशिसुवॆनु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. bharata* = O; Bharata!; *tvam* = you; *svayam* =
+yourself; *bhava* = become; *raajaa* = the Lord; *naraaNaam* = of men;
+*ahamapi* = I too; *raajaraaT* = (will become) the great Lord; *mR^igaaNaam* =
+of the wild beasts; *vanyaanaam* = in this forest; *tvam* = you; *gachchha* =
+proceed; *puravaram* = to the excellent city of Ayodhya; *adya* = now;
+*samprahR^iSTaH* = with joy; *ahampai* = I also; *pravekSye* = shall enter;
+daN^Dakaan; Dandaka forest; *sampraR^iSTaH* = with joy.
+
+**अनुवादः**
+
+"O, Bharata! You become the Lord of men. I will become the emperor of the wild
+beasts of the forest! Return now to the excellent city of Ayodhya full of joy and I also full of
+joy will enter Dankada Forest!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +829,14 @@ _________________
 छायां तामतिशयनीं शनैः श्रयिष्ये ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+चायाम् ते दिन कर भाः प्रबाधमानम् ।
+वर्षत्रम् भरत करोतु मूर्ध्नि शीताम् ।
+एतेषाम् अहम् अपि कानन द्रुमाणाम् ।
+चायाम् ताम् अतिशयिनीम् सुखम् श्रयिष्ये ॥ २-१०७-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भरत! सूर्यकी प्रभाको तिरोहित कर देनेवाला छत्र तुम्हारे मस्तकपर शीतल छाया करे । अब मैं भी धीरे-धीरे इन जंगली वृक्षोंकी घनी छायाका आश्रय लूँगा ॥ १८ ॥
@@ -439,6 +845,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरत! सूर्यन तापवन्नु निवारिसलु छत्रवु निन्न तलॆय मेलॆ शीतल नॆरळन्नु कॊडलि. ईग नानू निधानवागि ई काडिन दट्टवाद मरगळ नॆरळन्नु आश्रयिसुवॆनु.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. bharata* = O; Bharata!; *varSatram* = (Let) the umbrella;
+*karotu* = make; *shiitaam* = a coo; *chhaayaam* = shadow; *te
+muurdhni* = for your head; *prabaadhamaanam* = which is affected; *dinakarabhaaH*
+= by sunlight; *ahamapi* = I too; *sukhii* = comfortably; *shrayiSye* = shall
+take; shelter; *taam* = under that; *atishayaniim* = abundant; *chhaayaam* =
+shadow; *kaanana drumaaNaam* = of forest-trees.
+
+**अनुवादः**
+
+"O, Bharata! Let the (royal) white umbrella provide a cool shadow for your head,
+repulsing the rays of sunlight. I will take shelter comoftably under the abundant shadow of these
+forest-trees."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +888,14 @@ _________________
 सत्यस्थं भरत चराम मा विषीद ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शत्रुघ्नः कुशल मतिः तु ते सहायः ।
+सौमित्रिर् मम विदितः प्रधान मित्रम् ।
+चत्वारः तनय वरा वयम् नर इन्द्रम् ।
+सत्यस्थम् भरत चराम मा विषादम् ॥ २-१०७-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भरत! अतुलित बुद्धिवाले शत्रुघ्न तुम्हारी सहायतामें रहें और सुविख्यात सुमित्राकुमार लक्ष्मण मेरे प्रधान मित्र (सहायक) हैं; हम चारों पुत्र अपने पिता राजा दशरथके सत्यकी रक्षा करें । तुम विषाद मत करो’ ॥ १९ ॥
@@ -470,6 +904,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतने! अतुलित बुद्धियुळ्ळ शत्रुघ्ननु निन्न सहायक्कॆ इरलि मत्तु सुविख्यात सुमित्राकुमार लक्ष्मणनु ननगॆ प्रधान मित्र (सहायक)नागिद्दानॆ; नावु नाल्वरू पुत्ररू नम्म तन्दॆ दशरथराजर सत्यवन्नु रक्षिसुवा नीनु विषादपडबेड.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. bharata* = O; Bharata!; *kushalamatiH* = the intelligent;
+*shatrughnaH* = Shatrughna; *sahaayaH* = is helpful; *te* = to you;
+*saumitriH* = Lakshmana; *viditaH* = is known; *pradhaana mitram* = to be a
+cheif companion; *mama* = for me; *vayam* = we ; *chatvaaraH* = the four;
+*tanayavaraaH* = excellent sons; *charaama* = will make; *narendram* = the
+king; *satyastham* = true to his promise; *maa viSiida* = do not grieve.
+
+**अनुवादः**
+
+"O, Bharata! The wise Shatrughna is helpful to you. Lakshmana is known to be an
+outstanding friend for me. We, the four excellent sons, will ultimately make the king true to his
+promise. Do not get disappointed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

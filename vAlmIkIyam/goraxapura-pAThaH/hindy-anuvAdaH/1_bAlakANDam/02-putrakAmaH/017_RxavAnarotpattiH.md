@@ -2,6 +2,18 @@
 title = "०१७ ऋक्षवानरोत्पत्तिः"
 title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties**
+
+The gods become progenitors Vanara heroes at the dictate of Brahma to come to
+ the aid of Rama in annihilating Ravana. The monkey-like Vanara race is procreated
+ by numerous celestials endowing it with peculiar mighty physique and particular
+ power to come to the help of Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-017-Ruksha_Vaanarothpaththi.mp3"></div>
 </details>
@@ -38,6 +50,23 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 भगवान् महाविष्णु महात्मनाद दशरथन पुत्रनागि अवतरिसलु उद्युक्तनादाग, भगवान् ब्रह्म देवरु समस्त देवतॆगळन्नु उद्देशिसि इन्तॆन्दरु .॥1॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. viSNauH tasya raaj~naH putratvam gate* = when Vishnu attained that king's sonship;
+ *mahaatmanaH* = of great soul Dasharatha; *bhagavaan svayambhuH*
+ = self created god - Brahma; *sarvaaH devataaH idam uvaacha*
+ = said this to all gods.
+
+**अनुवादः**
+
+When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahma
+ the self-created addressed all of the gods this way. [1-17-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यसन्धस्य वीरस्य सर्वेषां नो हितैषिणः ।  
@@ -68,6 +97,24 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 देवतॆगळिरा! भगवान् विष्णु सत्यप्रतिज्ञ पराक्रमि हागू नम्मॆल्लर हितैषियागिरुवनु. नीवु अवनिगॆ सहायकराद बलिष्ठराद, इच्छानुसार रूपवन्नु धरिसबल्ल, माया विद्यॆयन्नु तिळिदिरुव, शूरवीर वायुविनन्तॆ वेगशालि, नीतिज्ञ, बुद्धिवन्त, विष्णुविनन्तॆ पराक्रमि, यारिन्दलू सोलदिरुव, बगॆ-बगॆय उपायगळन्नु बल्ल, दिव्य शरीरधारी हागू अमृतभोजी देवतॆगळन्तॆ ऎल्ल रीतिय अस्त्रविद्यॆय गुणगळिन्द कूडिद पुत्ररन्नु सृष्टिसिरि.॥2-4॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. satyasandhasya* = truth abiding; *viirasya* = valorous; *
+ sarveSaam naH* = for all, of us; *hitaiShiNaH* = desiring welfare;
+ *viSNuH* = Vishnu's; *sahaayaan* = helpmates; *balinaH* =
+ mighty ones; *kaamaruupiNaH* = guise-changers by wish; *srR^ijadhvam*
+ = be procreated.
+
+**अनुवादः**
+
+"Let mighty and guise changing helpmates be procreated to that truth abiding and
+ valorous Vishnu who is the well-wisher of all of us. [1-17-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सरस्सु च मुख्यासु गन्धर्वीणां तनूषु च ।  
@@ -94,6 +141,51 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 मुख्य मुख्य अप्सरॆयरिन्द, गन्धर्व स्त्रीयरिन्द, यक्ष मत्तु नागकन्यॆयरिन्द, करडि स्त्रीयरिन्द, विद्याधरियरिन्द, किन्नरियरिन्द, वानर स्त्रीयर गर्भदिन्द वानररूपदल्लि निम्मन्तॆ पराक्रमी पुत्ररन्नु उत्पन्न माडिरि.॥5-6॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+3. *maayaavidaH ca* = miracle knowers [wizards] also; *shuuraan cha* = audacious
+ones, too; *jave vaayuvegasamaan* = in travel, equivalent to air's speed; *nayaj~naan*
+= morals knowers; *buddhisampannaan* = bestowed with intellectual;
+*viSNutulyaparaakramaan* = equalling Vishnu in valour; *asamhaaryaan*
+= indestructible ones - ineliminable ones; *upaayaj~naan* = knowers of ideation;
+*divyasamhananaanvitaan* = along with divine bodies; *sarvaastraguNasampannaan*
+= endowed with all aspects of missiles [assaultive]; *amR^itapraashanaan iva* = like ambrosia
+drinkers; *tulyaparaakramaan* = equalling [your] valour [godly, like you hunger-less
+thirst-less gods]; *putraan* = sons; *mukhyaasu apsarassu* = in prominent, apsara-s,
+in celestial courtesans; *gandharviiNaam* = in gandharva ladies, celestial scholars;
+*tanuuSu cha* = from their bodies; *yakSapannagakanyaasu* = from yaksha pannaga girls;
+*R^ikShavidyaadhariiSu* = she-R^ikshaas and she-Vidyadharaas; *cha* = also; *kiMnariiNaam cha gaatreSu*
+= from bodies of kinnaraa-s, also; *vaanariiNaam tanuuSu cha* = from bodies of she-monkeys,
+also; *hariruupeNa* = monkey shaped; *sR^ijadhvam* = be procreated.
+
+**अनुवादः**
+
+"Let monkey-shaped progeny equalling Vishnu's valour be procreated from the physiques
+ of prominent apsara-s and gandharva-s, from the girls of yaksha-s and pannaga-s,
+ and also thus from the bodies of kinnaraa-s, she-vidyaadharaa-s, she-riksha-s
+ and she-monkeys, and they shall be wizards of miracles and audacious ones, in
+ travel they shall have air's speed, bestowed with intellect they shall be the
+ knowers of ideation, and with their divine physique they shall be ineliminable,
+ they shall be endowed with all the assaultive aspects of all missiles, and they
+ shall be untiring in their efforts, like you who thrive on amrita, the ambrosia,
+ unmindful of thirst and hunger. [1-17-3, 4, 5, 6]
+
+**टिप्पनी**
+
+Gandharva-s (Southey's Glendoveers) are celestial musicians inhabiting Indra's
+ heaven and forming the orchestra at all the banquets of the principal deities.
+ Yaksha-s, demigods attendant especially on Kubera, and employed by him in the
+ care of his garden and treasures. Kimpurusha-s, demigods attached also to the
+ service of Kubera, celestial musicians, represented like centaurs reversed with
+ human figures and horses' heads. Siddha-s, are demigods or spirits of undefined
+ attributes, occupying with the Vidyaadharaa-s the middle air or region between
+ the earth and the sun. Griffith.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमेव मया सृष्टो जाम्बवानृक्षपुङ्गवः ।  
@@ -109,6 +201,12 @@ _________________
 जृम्भमाणस्य सहसा मम वक्त्रादयत ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पूर्वमेव मया सृष्टो जांबवानृक्षपुङ्गवः ।
+जृंभमाणस्य सहसा मम वक्रादजायत ॥ १-१७-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैंने पहलेसे ही ऋक्षराज जाम्बवान् की सृष्टि कर रखी है । एक बार मैं जँभाई ले रहा था, उसी समय वह सहसा मेरे मुँहसे प्रकट हो गया’ ॥ ७ ॥
@@ -117,6 +215,28 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु मॊदले ऋक्षराज जाम्बवन्तनन्नु सृष्टिसिरुवॆनु. ऒम्मॆ नानु आकळिसुत्तिद्दाग अवनु कूडले नन्न बायिन्द प्रकटनादनु.॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. jaambavaan R^ikShapungavaH* = Jambavanta, the eminent bear; *puurvam
+ eva mayaa sR^iSTaH* = created by me in earlier times only; *jR^imbhamaaNasya*
+ = while yawing; *mama* = from my; *vakraat* = from face; *sahasaa*
+ = suddenly; *ajaayata* = came forth.
+
+**अनुवादः**
+
+"I have already created the eminent bear Jambavanta in earlier times, as he suddenly
+ came forth from my yawning face. [1-17-7]
+
+**टिप्पनी**
+
+This is to say that Brahma has already created such a typical being, namely Jambavanta,
+ prior to all the gods, as a role model in creation.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +261,30 @@ _________________
 भगवान् ब्रह्मनु हीगॆ हेळिदाग देवतॆगळु अवर आज्ञॆयन्नु शिरदल्लान्तु वानररूपगळल्लि अनेकानेक पुत्ररन्नु उत्पन्न माडिदरु.॥8॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8. bhagavataa* = by Brahma; *tathaa uktaH* = thus, addressed;
+ *te* = those gods; *tat shaasanam pratishrutya* = agreeing that order [of
+ Brahma]; *evam vaanararuupiNaH putraan* = accordingly, sons in resemblence of monkey;
+ *janayaamaasuH* = started to parent.
+
+**अनुवादः**
+
+When Brahma addressed them thus, those gods have agreed to his order and accordingly
+ started to parent sons in the resemblance of monkeys. [1-17-8]
+
+**टिप्पनी**
+
+This pedigree is not yet given the label of monkeys. They are look alike of monkeys
+ but not monkeys, *vaanararuupiNam* resembling monkeys, as said in the verse.
+ The word vanara is *vane carati iti vanaraH* because they range far and
+ wide over forests they are called vanara-s, but not exactly a monkey race.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयश्च महात्मानः सिद्धविद्याधरोरगाः ।  
@@ -163,6 +307,23 @@ _________________
 महात्मराद ऋषिगळू, सिद्धरू, विद्याधररू, नागरू मत्तु चारणरू कूड वनचरराद वानर करडिगळ रूपदल्लि वीर पुत्ररन्नु हुट्टिसिदरु.॥9॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+9. *mahaatmaanaH* = great souled beings; *R^iSayaH cha* = Sages, too;
+ *siddhavidyaadharoragaaH chaaraNaaH ca* = siddha-s vidyaadharaa-s uragaa-s and charanaas;
+ *viiraan vanachaariNaH*
+= valiant ones, forest ranging - monkey like; *sutaan sasR^ijuH* = sons, they created.
+
+**अनुवादः**
+
+The great-souled celestial groups, namely the sages, siddha-s, vidyaadharaa-s,
+ caarana-s have created valiant sons that are forest rangers. [1-17-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरेन्द्रं महेन्द्राभमिन्द्रो वालिनमात्मजम् ।  
@@ -173,6 +334,12 @@ _________________
 
 वानरेन्द्रं महेन्द्राभमिन्द्रो वालिनमात्मजम् ।  
 सुग्रीवं जनयामास तपनस्तपतां वरः ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+वानरेन्द्रं महेद्राभमिन्द्रो वालिनमात्मजम् ।
+सुग्रीवं जनयामास तपनस्तपतां वरः ॥ १-१७-१०
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -189,6 +356,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवेन्द्रनु वानरराज वालियन्नु पुत्ररूपदिन्द उत्पन्न माडिदनु अवनु महेन्द्र पर्वतदन्तॆ विशालकायनू, बलिष्ठनू आगिद्दनु. भगवान् सूर्यनु सुग्रीवनिगॆ जन्म नीडिदनु.॥10॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. IndraH janayaamaasa* = Indra, procreated; *mahendraabham*
+ = Mt. Mahendra, in sheen of body; *vaanarendram* = lord of vanara-s;
+ *vaalinam* = to Vali is; *tapataam varaH tapanaH* = the great humidifier among the humidifiers
+ [the Sun]; *sugriivam* = to Sugreeva.
+
+**अनुवादः**
+
+Indra procreated the lord of vanara-s, namely Vali, who by his physique is like
+ Mt. Mahendra, and the highest humidifier among all the humidifiers, namely the
+ Sun, procreated Sugreeva. [1-17-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +396,29 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बृहस्पतियु तारनॆम्ब हॆसरिन महाकाय वानरनन्नु उत्पन्न माडिदनु. अवनु समस्त वानर सेनॆयल्लि अत्यन्त बुद्धिवन्तनू मत्तु श्रेष्ठनू आगिद्दनु.॥11॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. bR^ihaspatiH tu* = Brihaspati, the Jupiter, but; *sarvavaanaramukhyaanaam*
+ = the important one among all Vaanaras; *anuttamam*
+ = none better than him - excellent one; *buddhimantam* = intelligent one;
+ *taaram naama* = Tara, named; *mahakapim ajanayat* = to great
+ monkey, gave rise.
+
+**अनुवादः**
+
+Brihaspati, the Jupiter, gave rise to a great monkey named Tara, who is the most
+ important one among all vanara-s, and who excels all by his intelligence. [1-17-11]
+
+**टिप्पनी**
+
+Tara here is a vanara hero but not Lady Tara, the wife of Vali. Here we have the
+ wording of *kapiH* the monkey � for these forest rangers for first time.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -250,6 +458,24 @@ _________________
 तेजस्वी वानर गन्धमादननु कुबेरन पुत्रनागिद्दनु. विश्वकर्मनु नळनॆम्ब महावानररन्नु हुट्टिसिदनु.॥12॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. shriimaan* = brilliant one; *gandhamaadanaH* = [named] Gandhamaadana;
+ *vanaraH* = Vaanara is; *dhanadasya sutaH* = wealth giver's -
+ Kubera's, son; *Vishwakarmaa tu* = divine architect, Vishvakarma, has but
+ [gave rise to]; *Nalam naama* = Nala named; *mahaakapim* = great
+ monkey; *ajanayat* = procreated.
+
+**अनुवादः**
+
+The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vishvakarma
+ procreated the great monkey called Nala. [1-17-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पावकस्य सुतः श्रीमान् नीलोऽग्निसदृशप्रभः ।  
@@ -262,6 +488,12 @@ _________________
 तेजसा यशसा वीर्यादत्यरिच्यत वीर्यवान् ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पावकस्य सुतः श्रीमान्नीलोऽग्नि सदृशप्रभः ।
+तेजसा यशसा वीर्यादत्यरिच्यत वानरान् ॥ १-१७-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अग्निके समान तेजस्वी श्रीमान् नील साक्षात् अग्निदेवका ही पुत्र था । वह पराक्रमी वानर तेज, यश और बल-वीर्यमें सबसे बढ़कर था ॥ १३ ॥
@@ -270,6 +502,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अग्नियन्तॆ तेजस्वी श्रीमान् नीलनु साक्षात् अग्निय पुत्रनागिद्दनु. आ पराक्रमि वानरनु तेज, यश मत्तु बल-वीर्यदल्लि ऎल्ल वानररन्नु मीरिसिद्दनु.॥13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. paavakasya sutaH* = son of Fire; *shriimaan* = bright one;
+ *agnisadR^ishaprabhaH* = blaze is like fire; *niilaH* = Neela
+ is; *tejasaa* = with resplendence; *yashasaa* = renown; *viiryaat*
+ = in courage; *vaanaraan* = than the other monkey; *atyarichyata*
+ = excels [others.]
+
+**अनुवादः**
+
+The bright son of Fire is Neela whose blaze is like that of fire and who excels
+ other monkeys by his resplendence, renown and courage. [1-17-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +544,25 @@ _________________
 रूप वैभव सम्पन्न, सुन्दररूपवुळ्ळ इब्बरु अश्विनिकुमाररु मैन्द मत्तु द्विविदरिगॆ जन्म नीडिदरु.॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. ruupadraviNasampannau* = having wealth called beautifulness [beauty
+ being their wealth, property]; *ashvinau* = Ashvini gods [two of them];
+ *svayam* = personally [procreated]; *ruupasammatau* = blessed with beauty;
+ *maindam* = Mainda named; *dvividam cha* = Dvivida named,
+ also; *eva* = thus; *janayaamaasatuH* = have procreated.
+
+**अनुवादः**
+
+The Ashwin twin gods whose wealth is their beautiful appearance have personally
+ procreated two vanara-s namely Mainda and Dvivida, blessing them with beautiful
+ appearance.[1-17-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरुणो जनयामास सुषेणं नाम वानरम् ।  
@@ -306,6 +575,12 @@ _________________
 शरभं जनयामास पर्जन्यस्तु महाबलः ॥ १५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वरुणो जनयामास सुषेणं नाम वानरम् ।
+शरभं जनयामास पर्जन्यस्तु महाबलम् ॥ १-१७-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वरुणने सुषेण नामक वानरको उत्पन्न किया और महाबली पर्जन्यने शरभको जन्म दिया ॥ १५ ॥
@@ -314,6 +589,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वरुणनु सुषेणनॆम्ब वानरनन्नु उत्पन्न माडिदनु. महाबलि पर्जन्यनु शरभनिगॆ जन्म नीडिदनु.॥15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. varuNaH* = Rain-god; *janayaamaasa* = procreated; *suSheNam*
+ = Sushena; *vaanaram* = the monkey; *parjanyaH tu* = Thunder-god,
+ but; *janayaamaasa* = procreated; *mahaabalam* = great mighty one;
+ *sharabham* = Sharabha.
+
+**अनुवादः**
+
+The Rain-god procreated the vanara named Sushena, and Thunder-god gave rise
+ to the great mighty Sharabha. [1-17-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +623,13 @@ _________________
 वज्रसंहननोपेतो वैनतेयसमो जवे ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मारुतस्यौरसः श्रीमान् हनुमान्नाम वानरः ।
+वज्रसंहननोपेतो वैनतेयसमो जवे ॥ १-१७-१६
+सर्ववानरमुख्येषु बुद्धिमान् बलवानपि ।
+</details>
+
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
 मारुतस्यात्मजः श्रीमान् हनूमान् नाम वानरः ।  
@@ -345,6 +644,37 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हनुमन्त ऎम्ब हॆसरुळ्ळ ऐश्वर्यशाली वानरनु वायुदेवर औरसपुत्रनागिद्दनु. अवन शरीर वज्रदन्तॆ सुदृढवागित्तु. अवनु वेगदल्लि गरुत्मन्तनन्तॆ इद्दनु.॥16॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16, 17a. shriimaan* = marvellous one; *viiryavaaan* = adventurous
+ being; *vajrasamhananopetaH* = having diamond like body [indestructible
+ bodied]; *jave* = in swiftness; *vainateyasamaH* = identical one to lady Vinata's son
+ [Garuda, the divine eagle vehicle of Vishnu];
+ *[such a] hanumaan naama* = Hanuma, named; *maarutasya aurasaH*
+ = own [direct] son of Air-god; *[he is] sarvavaanaramukhyeSu* = among
+ all monkey chiefs; *buddhimaan* = intelligent one; *balavaan api*
+ = indefatigable one, too.
+
+**अनुवादः**
+
+The direct son of Air-god is the marvellous and adventurous Hanuma with an indestructible
+ body, and one identical in the speed of lady Vinata's son, namely Garuda, the
+ divine eagle vehicle of Vishnu, and among all monkey chiefs he is the intelligent
+ and the indefatigable one too. [1-17-16, 17a]
+
+**टिप्पनी**
+
+Garuda: The bird and vehicle of Vishnu. He is generally represented as a being
+ something between a man and a bird and considered as the sovereign of the feathered
+ race. He may be compared with the Simurgh of the Persians, the Ank of the Arabs,
+ the Griffin of chivalry [without lion's body,] the Phoenix of Egypt, and the bird
+ that sits upon the ash Yggdrasil of the Edda. - Griffith.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +730,25 @@ _________________
 अवर बलक्कॆ सीमॆये इरलिल्ल. अवरु वीररु, पराक्रमिगळु, इच्छानुसार रूप धरिसुववरू आगिद्दरु. गजराजनन्तॆ मत्तु पर्वतदन्तॆ महाशूररू हागू महाबलिष्ठरागिद्दरु.॥18॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17b, 18a. dashagriivavadhe* = for elimination of ten faced one [Ravana's];
+ *udyataH* = who rose up - manifest; *aprameyabalaaH* = immeasurable
+ in strength; *vikraantaaH* = those that are braving; *kaamaruupiNaH*
+ = guise changers by their wish; *bahusaahasraa* = in many thousands;
+ *te viiraaH sR^iSTaaH* = those, valorous ones, are procreated.
+
+**अनुवादः**
+
+Thus the gods have procreated many thousands of such valorous and guise changing
+ monkeys who with their immeasurable strength and bravery are manifest for the
+ elimination of the decahedral demon Ravana. [1-17-17b, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानरगोपुच्छाः क्षिप्रमेवाभिजज्ञिरे ।  
@@ -437,6 +786,43 @@ _________________
 करडि, वानर मत्तु गोलाङ्गूल मुन्ताद वीररु शीघ्रवागि उत्पन्नरादरु. याव देवतॆय रूप, वेष, पराक्रमवित्तो अदरन्तॆ प्रत्येक-प्रत्येक पुत्ररु उत्पन्नरादरु. गोलाङ्गूलरु याव देवतॆयिन्द उत्पन्नरागिद्दरो आ देवतॆगिन्तलू हॆच्चु पराक्रमिगळागिद्दरु.॥19-20॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20a. yasya devasya yat ruupam* = which, god's, which, form; *veSaH*
+ = getup; *paraakramaH ca* = valour, also; *yaH* = which [is there];
+ *tasya tasya* = his, his [that particular god's sons]; *ajaayata*
+ = procreated; *samam tena* = equalling, them [with fathers]; *pR^ithak
+ pR^ithak* = separately, separately.
+
+**अनुवादः**
+
+Those that are procreated have attained the shape, getup and valour of the god
+ that has fathered them, and thus the monkey race is procreated separately and
+ individually. [1-17-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18b, 19a. gajaachalasamkaashaaH* = in similarity of elephants and mountains;
+ *mahaabalaaH* = great mighty ones; *vapuSmantaH* = with prodigious
+ bodies; *R^ikShavaanaragopucChaH* = bears monkeys and sacred langoors;
+ *kSipram eva* = quickly, thus; *abhijaj~nire* =
+ took birth.
+
+**अनुवादः**
+
+And they with their elephantine, mountainous and prodigious bodies quickly took
+ birth in bears, monkeys, sacred langoors. [1-17-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षीषु च तथा जाता वानराः किन्नरीषु च ।  
@@ -466,6 +852,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆलवु वानररु, करडिगळ जातिय तायियरिन्द, कॆलवरु किन्नरियरिन्द उत्पन्नरादरु. देवतॆगळु महर्षिगळु, गन्धर्वरु, गरुड, यशस्वियाद यक्षरु, नागरु, किम्पुरुषरु, सिद्धरु, विद्याधररु, सर्पजातिय अनेक व्यक्तिगळु हीगॆ अत्यन्त हर्षदिन्द साविरारु पुत्ररन्नु उत्पन्न माडिदरु.॥21-22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20b, 21a. kechit* = some; *vaanaraaH* = vanara-s; *unnatavikramaaH*
+ = with superior valour; *golaanguuliiShu utpannaH* = born in female
+ langoors; *tathaa* = like that some more; *R^ikSiiSu kinnariiSu
+ cha* = in female bears, kinnaraa-s, also; *jaataaH* = born.
+
+**अनुवादः**
+
+Some of the vanara-s endowed with superior valour are born to female langoors,
+ and like that some more to female bears and kinnaraa-s. [1-17-20b, 21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +917,35 @@ _________________
 मुख्य मुख्य अप्सरॆयर, विद्याधरियर, नागकन्यॆयर, हागू गन्धर्वर पत्नियर गर्भदिन्दलू इच्छानुरूप धरिसबल्ल, बलयुक्त, स्वेच्छानुसार ऎल्लॆडॆ सञ्चरिसलु समर्थराद वानर पुत्ररु उत्पन्नरादरु.॥24॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+21b, 22, 23, 24a, b.* devaaH maharSigandharvaaH* = gods, great sages and celestials; *taarkShyaaH*
+ = eagles; *yakShaaH* = yaksha-s; *yashaswinaH* = celebrated ones like;
+ *naagaaH kimpuruSaaH siddhavidyaadharoragaaH* = reptiles, kimpusha-s,
+ siddha-s, vidyaadharaa-s, uraga-s; *caaraNaaH ca* = caarana-s, also; *
+ bahavaH* = several of them; *hR^iSTaaH* = who are gladdened; *tatra*
+ = at that time; [started to procreate]; *mukhyaasu apsarassu* = in
+ prominent apsara-s; *tadaa* = then; *kanyaasu* = in maidens of;
+ *vidyaadhariiSu* = in she-vidyaadharaa-s; *naagakanyaasu cha* = in Naga
+ girls, also; *tathaa* = like that; *gandharviiNaam tanuuSu cha* =
+ from the bodies of female gandharva, also; *sumahaakaayaan* = very great
+ bodied ones; *vanachaariNaH* = forest moving ones; *sarvaan vaanaraan
+ viiraan sutaan* = all, vanara, valiant, sons; *sahasrashaH janayaamaasuH*
+ = started to procreate in thousands.
+
+**अनुवादः**
+
+Several of the gods, great-sages, gandharva-s, eagles, yaksha-s, and the celebrated
+ reptiles, kimpurusha-s, siddha-s, vidyaadharaa-s, uraga-s and caarana-s and even
+ the prominent maidens of apsara-s, she-vidyaadharaa-s, naaga, gandharva-s then
+ gladly procreated all of the thousands of forest-ranging and valiant vanara sons
+ from their bodies that are forest rangers. [21b, 22, 23, 24a, b]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहशार्दूलसदृशा दर्पेण च बलेन च ।  
@@ -539,6 +971,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु दर्प मत्तु बलदल्लि सिंह मत्तु हुलिगळन्तॆ इद्दरु. कल्लुबण्डॆगळन्नु हागू पर्वतगळन्नु ऎत्ति बीसि ऒगॆयुत्ता युद्ध माडुत्तिद्दरु.॥25॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+24b, 25a. [Those vanara-s are]; *kaamaruupabalopetaaH* = guise-changers by wish and endowed with might;
+ *yathaakaamam vichaariNaH*
+ = they move freely according to their wish - born free; *darpeNa cha* =
+ by their pride, and; *balena cha* = by might, as well; *simhashaarduulasadR^ishaaH*
+ = identical to lion and tiger.
+
+**अनुवादः**
+
+They are endowed with guise changing faculties, with bodily might and by their
+ pride and might are identical to lions and tigers, and they are born-free in their
+ movement in forests. [1-17-24c, 25a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +1019,37 @@ _________________
 अवरॆल्लरू उगुरु मत्तु हल्लुगळन्नु शस्त्रगळन्तॆ बळसुत्तिद्दरु. अवरॆल्लरिगॆ ऎल्ल प्रकारद अस्त्र-शस्त्रगळ अरिवु इत्तु. अवरल्लि पर्वतगळन्नु अलुगाडिसुव हागू स्थिरवागिद्द मरगळन्नु कूड मुरियुव सामर्थ्यवित्तु.॥26॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25b, 26a. sarve* = all of them; *shilaapraharaNaaH* = they assault with stones
+ ; *sarve* = all of them; *paadapayodhinaH* = combatants with with trees
+ ; *sarve* = all; *nakhadamSTraayudhaaH* = have nails claws as weapons;
+ *sarve* = all of them;
+ *sarvaastrakovidaaH* = experts in all kinds of missiles.
+
+**अनुवादः**
+
+All of them are the assaulters with stones, and all are the attackers with trees,
+ and all have their nails and claws as their weapons, yet all are experts in missiles.
+ [1-17-25b, 26a]
+
+**टिप्पनी**
+
+Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
+ final war with Ravana. The vanara soldiers use stones, trees, and their own claws
+ and nails. The golden maces or clubs handled by Hanuma, Sugreeva, and Vali usually
+ depicted in pictures are for more mythical ornamentation to glorify the characters.
+ However, these Vaanaras are well versed in the knowledge of such tactical weaponry,
+ only to save themselves from their usage against them, but do not use them necessarily.
+ In Sundara Kanda Hanuma will be tied by a magical weapon called Brahmaastra when
+ he is in Lanka. Though knowing the release from that Brahmaastra, Hanuma does
+ not utilise that knowledge there.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षोभयेयुश्च वेगेन समुद्रं सरितां पतिम् ।  
@@ -588,6 +1070,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नदिगळ ऒडॆयनाद समुद्रवन्नु कलकिबिडुव सामर्थ्यविद्दु, कालुगळिन्दले भूमियन्ने सीळुव शक्ति अवरिगॆ इत्तु. अवरु महा समुद्रवन्नू दाटि होगुत्तिद्दरु.॥27॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26b, 27a. shailendraan* = the greatest mountains; *vichaalayeyuH*
+ = they rock; *sthiraan drumaan bhedayeyuH* = they uproot firm rooted trees;
+ *vegena* = by their speed; *saritaam patim samudram* = rivers lord,
+ ocean; *kShobhayeyuH cha* = they agitate, also.
+
+**अनुवादः**
+
+They can rock greatest mountains, rip firm rooted trees, and with their speed
+ they can agitate the of lord of rivers, namely the ocean. [1-17-26b, 27a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +1117,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु बयसिदरॆ आकाशक्कॆ नॆगॆदु मोडगळन्नु कैयिन्द हिडियुत्तिद्दरु. काडिनल्लि वेगवागि नडॆयुत्ता मदभरित आनॆयन्नु सॆरॆहिडियुत्तिद्दरु.॥28॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27b, 28a. padbhyaam kShitim daarayeyuH* = they can shatter the ground with their two feet;
+ *mahaarNavam aaplaveyuH* = they leap and cross over great ocean;
+ *nabhasthalam* = surface of sky - arch of heaven; *
+ visheyuH cha* = they can enter, also; *toyadaan api gR^ihNiiyuH* =
+ they seize even clouds.
+
+**अनुवादः**
+
+They can shatter the ground with their two feet, leap and cross over great oceans,
+ and they can seize the clouds entering arch of heaven. [1-17-27b, 28a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +1168,43 @@ _________________
 घोर शब्द माडुत्ता आकाशदल्लि हारुत्तिद्द पक्षिगळन्नु अवरु तम्म सिंहनाददिन्द कॆडहुत्तिद्दरु. इन्तह बलशालि मत्तु इच्छानुसार रूपधरिसबल्ल महाकाय वानर यूथपतिगळिन्दलू श्रेष्ठरागिद्दरु.॥29-30॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*29b, 30a. kaamaruupiNaam* = guise changers at wish; *yuuthapaanaam*
+ = chiefs of warriors; *mahaatmanaam* = noble souled ones; *iidR^ishaanaam*
+ = this kind of; *hariiNaam* = monkeys; *shatam shatasahasraaNi*
+ = hundred, hundred thousand - millions of; *[te* = they, gods et al;]
+ prasuutaani = have procreated.
+
+**अनुवादः**
+
+Thus the gods and others have procreated millions of such noble souled Vaanaras
+ as the chiefs of warriors who can change their guise at their wish. [1-17-29b,
+ 30a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28b, 29a. vane pravrajataH* = verily [tumultuously] moving in the forests
+ ; *mattaan maatangaan api* = excited [ruttish,] elephants, even;
+ *gR^ihNiiyuH* = they catch; *nardamaanaaH cha* = by their blaring,
+ also; *naadena* = with sound; *vihangamaan paatayeyuH* = they make flying
+ birds fall.
+
+**अनुवादः**
+
+They can catch ruttish elephants that tumultuously move in forests, and just with
+ the sound of their blare they make sky flying birds to fall. [1-17-28b, 29a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूवुर्यूथपश्रेष्ठान् वीरांश्चाजनयन् हरीन् ।  
@@ -671,6 +1225,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यूथपतिगळल्ले श्रेष्ठ यूथपतिगळन्नु अवरु सृष्टिमाडिदरु. अवरु इन्नू अनेक प्रकारद वानररागिद्दरु. इवरु प्राकृत वानररिन्द विलक्षणरागिद्दरु. अवुगळल्लि अनेक सहस्र वानर यूथपतिगळु ऋक्षवान् पर्वत शिखरगळल्लि वासमाडुत्तिद्दरु.॥31॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30a, 31b. te* = those; *hariyuuthapaaH* = vanara generals;
+ *hariiNaam pradhaaneSu yuutheShu* = among principle battalions of monkeys;
+ *yuuthapashreSTaaH* = the prominent generals; *babhuuvuH*
+ = they became; *viiraan hariin ajanayan ca* = they procreated brave monkeys,
+ also.
+
+**अनुवादः**
+
+Those vanara generals who took birth thus became the prominent generals among
+ the principle battalions of monkeys, and they have also procreated brave monkeys
+ on their own. [1-17-30a, 31b]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +1291,62 @@ _________________
 इवरु बेरॆ-बेरॆ पर्वतगळन्नु, वनगळन्नु आश्रयिसिदरु. इन्द्रकुमार वालि मत्तु सूर्य नन्दन सुग्रीवरु सहोदररागिद्दरु. समस्त वानर यूथपतिगळु आ इब्बरु सहोदरर सेवॆयल्लि उपस्थितरागिद्दरु. हागॆये इतर वानररु नळ-नील, हनुमन्त हागू इतर वानर सरदाररन्नु आश्रयिसिद्दरु. अवरॆल्लरू गरुडनन्तॆ बलशालिगळु हागू युद्धकलॆयल्लि निपुणरागिद्दरु. अवरु वनदल्लि सञ्चरिसुवाग सिंह, हुलि मत्तु दॊड्ड दॊड्ड नाग आदि वन्यजन्तुगळन्नु हॊसकिहाकुत्तिद्दरु.॥32-34॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. taarkShyabalasampannaH* = might endowed like Divine Eagle Garuda;
+ *yuddhavishaaradaaH* = well-versed in warfare; *te sarve
+ vicharantaH* = they, all, moving about; *darpaat* = by their pride
+ - prideful subjugation as they do not kill them; *simhavyaaghramahoragaan* = lion tigers and great snakes
+ [and the like]; *ardayan*
+ = thwarted.
+
+**अनुवादः**
+
+All of those who are well-versed in warfare and endowed with the might of divine
+ eagle Garuda, used to thwart the pride of lions, tigers and great snakes just
+ by their own prideful subjugation while they move about the forests. [1-17-34]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+32b, 33. *sarve* = all of them, monkeys; *bhraatarau* = brothers; *suuryaputram sugriivam*
+ = son sun, Sugreeva; *shakraputram vaalinam* = Indra's son,
+Vali; *hariyuuthapaaH* = monkeys chiefs; like *nalam neelam hanuumantam* = Nala Neela and Hanumanta;
+*anyaan cha hariyuuthapaan* = also other monkey generals; *upatasthuH* =
+adored [stood by them.]
+
+**अनुवादः**
+
+All of the monkeys stood by the brothers, namely the son of Indra Vali, and the
+ son of sun Sugreeva, and even with the monkey generals like Nala, Neela and Hanuma
+ et al. [1-17-32b, 33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31b, 32a. anye* = some [among them]; *sahasrashaH* = in thousands;
+ *R^ikSavataH prasthaan upatasthuH* = are staying on ridges of Mt. Riskshavat;
+ *anye* = others; *naanaavidhaan* = many kinds of; *shailaan*
+ = mountains; *kaananaani ca* = forests, also; *bhejire* = reached.
+
+**अनुवादः**
+
+Some thousands of them stayed on the ridges of Mt. Rikshavat while others reached
+ many kinds of other mountains and forests. [1-17-31b, 32a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबलो महाबाहुर्वाली विपुलविक्रमः ।  
@@ -746,6 +1375,23 @@ _________________
 महाबाहु वालियु महाबल सम्पन्ननागिद्दनु हागू विशेष पराक्रमियगिद्दनु. अवनु तन्न बाहु बलदिन्द करडि, गोलाङ्गूल हागू इतर वानररन्नु रक्षिसुत्तिद्दनु.॥35॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*35. mahaabaahuH* = great armed one - adroit one; *vipulavikramaH*
+ = extremely mighty; *mahaabalaH* = highly indomitable; *valii* = Vali;
+ *bhujaviiryeNa* = arms' strength; *R^ikShagopucChavaanaraan* = bears langoors and monkeys;
+ *jugopa* = protected.**
+
+**अनुवादः**
+
+He who is adroit, extremely mighty, and highly indomitable, that Vali protected
+ bears, langoors, and monkeys just by the strength of his arms. [1-17-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैरियं पृथिवी शूरैः सपर्वतवनार्णवा ।  
@@ -766,6 +1412,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लर शरीरगळु मत्तु सार्थक्यसूचक लक्षणगळु नाना प्रकारदिन्द इद्दवु. आ शूर-वीर वानररु पर्वत, वन मत्तु समुद्र सहित समस्त भूमण्डलदल्लि हरडिकॊण्डरु.॥36॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*36. shuuraiH* = with brave ones; *vividhasamsthaanaiH* = with
+ diverse physiques; *naanaavyanjanalakShaNaiH* = many physical indications
+ [indicating their peculiar race]; *taiH* = by them; *saparvatavanaarNavaa*
+ = with mountains forests and oceans [oceanward provinces]; *
+ iyam prithivii kiirNaa* = this, earth is, overspread.
+
+**अनुवादः**
+
+The earth with its mountains, forests and oceanward places is overspread with
+ those brave ones that possess diverse physiques and peculiar indication marks
+ of their stock. [1-17-36]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +1454,14 @@ _________________
 समावृता रामसहायहेतोः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तैर्मेघबृन्दाचलकूटसंनिभैः
+महाबलैर्वानरयूथपाधिपैः ।
+बभूव भूर्भीमशरीररूपैः
+समावृता रामसहायहेतोः ॥ १-१७-३७
+</details>
+
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
 तैर् मेघ-वृन्द-अचल-कूट-कल्पैर्-  
@@ -805,6 +1478,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वानर यूथपतिगळु मेघ समूह हागू पर्वत शिखरगळन्तॆ विशालकायरागिद्दरु. अवरु महाबलशालिगळागिद्दरु. अवर शरीर मत्तु रूप भयङ्करवागित्तु. भगवान् श्रीरामन सहायक्कागि प्रकटराद आ वानर वीररिन्द इडी पृथ्वियु तुम्बिहोयितु.॥37॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*37. meghabR^iindaachalakuuTasannibhaiH* = clusters of coulds and like [resembling] mountains peaks;
+ *mahaabalaiH* = very mighty;
+ *bhiimashariiraruupaiH* = awesome body forms; *taiH* = by them;
+ *vaanarayuuthapaadhipaiH* = with Vaanara army generals; *bhuuH*
+ = earth; *raamasahaayahetoH* = reason of helping Rama; *samaaavR^itaa*
+ = spread over; *babhuuva* = became.
+
+**अनुवादः**
+
+The earth is thus suffused with those mighty army generals of Vanara race whose
+ physiques resembled the clusters of clouds and peaks of mountains, and who have
+ emerged for the reason of helping Rama. [1-17-37]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

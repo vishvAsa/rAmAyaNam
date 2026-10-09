@@ -2,6 +2,20 @@
 title = "११० वसिष्ठसूचनम्"
 title_english = "110 Vasishta gives details of the creation of the world to Sri Rama"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book II : Ayodhya Kanda - Book Of Ayodhya**
+
+Vasishta gives details of the creation of the world to Sri Rama. He says that
+Brahma, in the form of a boar caused the earth to rise from water and from Brahma is created the
+entire world. He recites the Genealogy of Rama's line. He informs that Aja and Suvrata were the two
+sons of Nabhaga and it was Aja who begot the virtuous King Dasaratha; Rama's father. Vasishta also
+informs Rama that i the whole of Ikshvaku race, only the eldest son becomes the king. He requests
+Sri Rama not to violate this tradition and take over the reins of Ayodhya.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-110-Vasista_Soochanam_.mp3"></div>
 </details>
@@ -21,6 +35,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 क्रुद्धमाज्ञाय रामं तु वसिष्ठः प्रत्युवाच ह ।  
 जाबालिरपि जानीते लोकस्यास्य गतागतिम् ॥ १ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+क्रुद्धम् आज्ञाय राम तु वसिष्ठः प्रत्युवाच ह।
+जाबालिः अपि जानीते लोकस्य अस्य गत आगतिम्॥ २-११०-१
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -45,6 +65,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 इमां लोकसमुत्पत्तिं लोकनाथ निबोध मे ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निवर्तयितु कामः तु त्वाम् एतद् वाक्यम् अब्रवीत् ।
+इमाम् लोक समुत्पत्तिम् लोक नाथ निबोध मे ॥ २-११०-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जगदीश्वर! इस समय तुम्हें लौटानेकी इच्छासे ही इन्होंने यह नास्तिकतापूर्ण बात कही थी । तुम मुझसे इस लोककी उत्पत्तिका वृत्तान्त सुनो ॥ २ ॥
@@ -67,6 +93,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 ततः समभवद् ब्रह्मा स्वयम्भूर्दैवतैः सह ॥ ३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सर्वम् सलिलम् एव आसीत् पृथिवी यत्र निर्मिता ।
+ततः समभवद् ब्रह्मा स्वयम्भूर् दैवतैः सह ॥ २-११०-३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सृष्टिके प्रारम्भकालमें सब कुछ जलमय ही था । उस जलके भीतर ही पृथ्वीका निर्माण हुआ । तदनन्तर देवताओंके साथ स्वयंभू ब्रह्मा प्रकट हुए ॥ ३ ॥
@@ -75,6 +107,24 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सृष्टिय प्रारम्भदल्लि ऎल्लवू जलमयवागित्तु. आ जलदॊळगे पृथिविय निर्माणवायितु. अनन्तर देवतॆगळॊन्दिगॆ स्वयम्भू ब्रह्मदेवरु प्रकटगॊण्डरु.॥3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. sarvam* = all; *aasiit* = was; *salilam eva* = water
+only (in the beginning); *yatra* = from which element; *pR^ittivii* = the earth;
+*nirmitaa* = was formed; *tataH* = and after that; *svayambhuuH* = the
+self-existent; *brahmaa* = Brahma; *daivataiH saha* = with all the gods;
+*sambhavat* = came into existence.
+
+**अनुवादः**
+
+"All was water only in the beginning" from which element the earth was formed. After
+that, the self-existent Brahma with all the gods came into existence."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,6 +137,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 स वराहस्ततो भूत्वा प्रोज्जहार वसुन्धराम् ।  
 असृजच्च जगत् सर्वं सह पुत्रैः कृतात्मभिः ॥ ४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स वराहः ततो भूत्वा प्रोज्जहार वसुंधराम् ।
+असृजच् च जगत् सर्वम् सह पुत्रैः कृत आत्मभिः ॥ २-११०-४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -99,6 +155,24 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 अनन्तर आ भगवान् विष्णुस्वरूप ब्रह्मने वराहरूपदिन्द प्रकटनागि जलदल्लि मुळुगिद ई पृथिवियन्नु हॊरतॆगॆदु, तन्न कृतात्मा पुत्ररॊन्दिगॆ ई समस्त जगत्तन्नु सृष्टिसिदनु.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. tataH* = thereafter; *saH* = that Brahma; *bhuutvaa*
+= assuming; *varaahaH* = the form of a boar; *projjahaara vasundharaam* = caused the
+earth to rise (from water); *putraiH saha* = and with his sons; *kR^itaatmabhiH* = of
+pure soul; *aasR^ijachcha* = created; *sarvam* = the entire; *jagat* =
+world.
+
+**अनुवादः**
+
+"Thereafter, that Brahma, assuming the form of boar, caused the earth to rise from
+water and with his sons of pure soul, created the entire world."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाशप्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः ।  
@@ -109,6 +183,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 आकाशप्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः ।  
 तस्मान्मरीचिः सञ्जज्ञे मरीचेः कश्यपः सुतः ॥ ५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+आकाश प्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः ।
+तस्मान् मरीचिः सम्जज्ने मरीचेः कश्यपः सुतः ॥ २-११०-५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -121,6 +201,24 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 आकाशस्वरूप परब्रह्म परमात्मनिन्द ब्रह्मदेवर प्रादुर्भाववायितु. अवनु नित्य, सनातन, अविनाशियागिद्दानॆ. अवरिन्द मरीचि उत्पन्नरादरु मत्तु मरिचिय पुत्र कश्यपनादनु.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. shaashvataH* = the eternal; *ityaH* = changeless;
+*avyayaH* = and imperishable; *brahmaa* = Brahma; *aakaasha prabhavaH* = was
+begotten from ether; *tasmaat* = and from him; *mariichiH* = Marichi;
+*samjajNe* = was born; *kashyapaH* = Kashyapa; *maricheH* = was Marichi's;
+*sutaH* = son.
+
+**अनुवादः**
+
+"The eternal, changeless and imperishable Brahma was begotten from ether and from
+his was born Marichi. Marichi's son was kashyapa."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवस्वान् कश्यपाज्जज्ञे मनुर्वैवस्वतः स्वयम् ।  
@@ -131,6 +229,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 विवस्वान् कश्यपाज्जज्ञे मनुर्वैवस्वतः स्वयम् ।  
 स तु प्रजापतिः पूर्वमिक्ष्वाकुस्तु मनोः सुतः ॥ ६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+विवस्वान् कश्यपाज् जज्ने मनुर् वैवस्तवः स्मृतः ।
+स तु प्रजापतिः पूर्वम् इक्ष्वाकुः तु मनोः सुतः ॥ २-११०-६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -143,6 +247,24 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 कश्यपनिन्द विवस्वानन जन्मवायितु. विवस्वन्तन पुत्र साक्षात् वैवस्वत मनु आदनु. अवनु मॊदल प्रजापतियागिद्दनु. मनुविन पुत्र इक्ष्वाकु आदनु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. kashyapaat* = from Kashyapa; *vivasvaan* = Vivasvan;
+*jajJNe* = was born; *manuH* = Manu; *vaivasvataH sutaH* = was the son of
+Vivasvan; *satu* = Manu for his part; *puurvam* = formerly; *prajaapatiH* =
+was the lord of creation; *ikSvaakuH* = Ikshvaku; *manoH* = was Manu's sutaH =
+son.
+
+**अनुवादः**
+
+"From Kashyapa, Vivasvan(sun-god) was born. manu was the son of Vivasvan. Manu for
+his part, was formerly the lord of creation. Ikshvaku was Manu' s son."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्येयं प्रथमं दत्ता समृद्धा मनुना मही ।  
@@ -153,6 +275,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 यस्येयं प्रथमं दत्ता समृद्धा मनुना मही ।  
 तमिक्ष्वाकुमयोध्यायां राजानं विद्धि पूर्वकम् ॥ ७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यस्य इयम् प्रथमम् दत्ता समृद्धा मनुना मही ।
+तम् इक्ष्वाकुम् अयोध्यायाम् राजानम् विद्धि पूर्वकम् ॥ २-११०-७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -165,6 +293,24 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 इवनिगॆ मनुवु मॊट्टमॊदलिगॆ ई पृथिविय समृद्धशालि राज्यवन्नु ऒप्पिसिद्दनु. आ इक्ष्वाकु राजनन्नु नीनु अयोध्यॆय प्रथम राजनॆन्दु तिळि.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. yasya* = to whom; *samR^iddhaa* = the fertile;
+*mahii* = earth; *prathamam* = initially; *dattaa* = was given;
+*manunaa* = by Manu; *viddhi* = know; *tam ikSvaakum* = the Iksvaku;
+*puurvakam* = as the first; *raajaanam* = king; *ayodhyaayaam* = of
+Ayodhya.
+
+**अनुवादः**
+
+"The entire fertile earth was given by Manu to Ikshvaku and know that Ikshvaku was
+thus the first king of Ayodhya!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकोस्तु सुतः श्रीमान् कुक्षिरित्येव विश्रुतः ।  
@@ -177,6 +323,12 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 कुक्षेरथात्मजो वीरो विकुक्षिरुदपद्यत ॥ ८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इक्ष्वाकोः तु सुतः श्रीमान् कुक्षिर् एव इति विश्रुतः ।
+कुक्षेर् अथ आत्मजो वीरो विकुक्षिर् उदपद्यत ॥ २-११०-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इक्ष्वाकुके पुत्र श्रीमान् कुक्षिके नामसे विख्यात हुए । कुक्षिके वीर पुत्र विकुक्षि हुए ॥ ८ ॥
@@ -185,6 +337,23 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इक्ष्वाकुविन पुत्र श्रीमान् कुक्षि ऎम्ब हॆसरिनिन्द विख्यातनादनु. कुक्षिगॆ वीरपुत्र विकुक्षियादनु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. ikSvaakoH* = Ikshvaku's; *sutaH* = son; *vishrutaH* =
+was known as; *shriimaan* = the illustrious; *kukSireveti* = Kukshi; *atha* =
+thereafter; *kukSeH* = kukshi's; *aatmajaH* = son; *viiraH* = was the valiant;
+*vikukSiH* = Vikukshi; *udapadyata* = born.
+
+**अनुवादः**
+
+"Ikshvaku's son was known as Kukshi, the illustrious king. Then, Kukshi's son was
+the valiant Vikukshi."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +371,12 @@ _________________
 बाणस्य तु महाबाहुरनरण्यो महातपाः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+विकुक्षेः तु महा तेजा बाणः पुत्रः प्रतापवान् ।
+बाणस्य तु महा बाहुर् अनरण्यो महा यशाः ॥ २-११०-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विकुक्षिके महातेजस्वी प्रतापी पुत्र बाण हुए । बाणके महाबाहु पुत्र अनरण्य हुए, जो बड़े भारी तपस्वी थे ॥
@@ -210,6 +385,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विकुक्षिय महातेजस्वी प्रतापि पुत्र बाण, बाणन पुत्र महाबाहु अनरण्यनादनु. अवनु दॊड्ड तपस्वियागिद्दनु.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. vikukSeH* = to Vikukshi (was born); *baaNaH* = Bana;
+*mahaatejaaH* = the most splendid; *prataapavaan* = and powerful; *putraH* =
+son; *baaNasya* = to Bana; (was born); *anaraNyaH* = Anaranya; *mahaabaahuH* =
+the mighty armed; *mayaayashaaH* = and the most illustrious one.
+
+**अनुवादः**
+
+"To Vikukshi was born the most splendid and powerful son, Bana. To Bana was born
+Anaranya the mighty armed and the most illustrious son."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +414,12 @@ _________________
 
 नानावृष्टिर्बभूवास्मिन् न दुर्भिक्षः सतां वरे ।  
 अनरण्ये महाराजे तस्करो वापि कश्चन ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+नाना वृष्टिर् बभूव अस्मिन् न दुर्भिक्षम् सताम् वरे ।
+अनरण्ये महा राजे तस्करो वा अपि कश्चन ॥ २-११०-१०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -234,6 +432,23 @@ _________________
 सत्पुरुषरल्लि श्रेष्ठनाद अनरण्यन राज्यदल्लि ऎन्दू अनावृष्टि आगलिल्ल, क्षाम उण्टागलिल्ल मत्तु यावुदे कळ्ळतनवू आगिरलिल्ल.॥10॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. asmin anaraNye* = (While) this Anaranya = vare = the excellent;
+*sataam* = among beings; *mahaaraaje* = was the emperor; *na babhuuva* = there
+was no; *anavR^iSThiH* = dearth of rain; *na* = nor; *durbhikSam* = drought;
+*na kashchana* = no one; *takraH* = was a thief.
+
+**अनुवादः**
+
+"While this King Anaranya, the most excellent among beings was reigning, there was
+neither dearth of rain nor a drought. No one was a thief."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनरण्यान्महाराज पृथू राजा बभूव ह ।  
@@ -244,6 +459,13 @@ _________________
 
 अनरण्यान्महाराज पृथू राजा बभूव ह ।  
 तस्मात् पृथोर्महातेजास्त्रिशङ्कुरुदपद्यत ॥ ११ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अनरण्यान् महा बाहुः पृथू राजा बभूव ह ।
+तस्मात् पृथोर् महा राजः त्रिशन्कुर् उदपद्यत ॥ २-११०-११
+स सत्य वचनाद् वीरः सशरीरो दिवम् गतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -256,6 +478,26 @@ _________________
 महाराज! अनरण्यनिन्द राजा पृथु आदनु. आ पृथुविनिन्द महातेजस्वि त्रिशङ्कु हुट्टिदनु.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. anaraNyaat* = from Anaranya; *babhuuvaha* = was born;
+*mahaabahuH* = the mighty armed; *raajaa* = king; *pR^ithuH* = Prithu;
+*tasmaat pR^ithoH* = from that Prithu; *udapadyata* = was born; *mahaaraajaH*
+= the Emperor; *trishaNkuH* = Trishanku; *saH viiraH* = that valiant man;
+*gataH* = ascended to; *divam* = heaven; *sa shariiraH* = along with his
+mortal body; *satya vachanaat* = for his true eloquence.
+
+**अनुवादः**
+
+"From Anaranya was born the mighty armed king Prithu. From Prithu was born the
+Emperor Trishanku. That valiant man ascneded to heaven along with his mortal body, because of his
+true eloquence."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सत्यवचनाद् वीरः सशरीरो दिवं गतः ।  
@@ -268,6 +510,12 @@ _________________
 त्रिशङ्कोरभवत् सूनुर्धुन्धुमारो महायशाः ॥ १२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+त्रिशन्कोर् अभवत् सूनुर् धुन्धुमारो महा यशाः ॥ २-११०-१२
+धुन्धुमारान् महा तेजा युवन अश्वो व्यजायत ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वे वीर त्रिशंकु विश्वामित्रके सत्य वचनके प्रभावसे सदेह स्वर्गलोकको चले गये थे । त्रिशंकुके महायशस्वी धुन्धुमार हुए ॥ १२ ॥
@@ -276,6 +524,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वीर त्रिशङ्कु विश्वामित्रर सत्यवचनद प्रभावदिन्द सदेह स्वर्गलोकक्कॆ हॊरटुहोगिद्दनु. त्रिशङ्कुविनिन्द महायशस्वी धुन्धुमार हुट्टिदनु.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. trishaN^koH* = to Trishanku; *abhavat* = was born;
+*suumuH* = a son; *mahaayashaaH* = the highly illustrious; *dundhumaaraH* =
+Dundhumara; *dundhumaarut* = from Dundhumara; *vyajaayata* = was born;
+*mahaatejaaH* = the hero; *yuvanaashvaH* = Yuvanasva.
+
+**अनुवादः**
+
+"To Trishanku was born a son, the highly illustrious Dundhumara. From Dundhumara was
+born the hero, Yuvanasva."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +590,27 @@ _________________
 मान्धातनिगॆ महान् तेजस्वी पुत्र सुसन्धि आदनु. सुसन्धनिगॆ ध्रुवसन्धि मत्तु प्रसेनजित् ऎम्ब इब्बरु मक्कळिद्दरु.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+13; *14. shriimaan* = the illustirous; *maandhaataa* = Mandhata;
+*sampadyata* = was born; *yuvanaaashva sutaH* = as a son to Yuvanasva;
+*mandhaatuH* = to Mandhata; *udapadyata* = was born; *mahaatejaaH* = the hero;
+*susandhiH* = Susandhi; *dvau* = (therewere) too; *putrau* = sons;
+*dhruvasandhiH* = Dhruvasandhi; *prasenajit* = and Prasenajit; *susandherapi*
+= to Susandhi; *dhruvasandheH* = from Dhruvasandhi (was born); *yashasvii* = the
+illustrious; *bharataH* = Bharata; *ripusuudanaH* = the annihilata of enemies.
+
+**अनुवादः**
+
+"The illustrious Mandhata was born as a son to Yuvanasva. To Mandhata was born the
+hero, Susandhi. There were two sons Dhruvasandhi and prasenajit to Susandhi. From Dhruvasandhi was
+born the illustrious Bharata, the annihilator of enemies."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यशस्वी ध्रुवसन्धेस्तु भरतो रिपुसूदनः ।  
@@ -372,6 +658,24 @@ _________________
 अवनिगॆ शत्रुगळाद प्रतिपक्षि हैहय, तालजङ्घ मत्तु शूर शशबिन्दु उत्पन्नरागिद्दरु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+15; *16. mahaabaahoH bharataat* = from the mighty armed Bharata;
+*jaayata* = was born; *asitonaama* = a son named Asita; *yasya* = for whom;
+*haihayaaH* = Haihayas; *taalaN^ghaashcha* = Talajanghas; *shuuraaH* = and the
+valiant; *shashibindavashcha* = shashibindavas; *upapadyanta* = became;
+*pratiraajaanaH* = royal adversaries; *shatravoH* = and enemies.
+
+**अनुवादः**
+
+"From the mighty armed Bharata was born a son named Asita, for whom his royal
+adversaries, Haihayas, Talajanghas and the valiant Shashibindavas became the enemies."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु सर्वान् प्रतिव्यूह्य युद्धे राजा प्रवासितः ।  
@@ -387,6 +691,12 @@ _________________
 स च शैलवरे रम्ये बभूवाभिरतो मुनिः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तामः तु सर्वान् प्रतिव्यूह्य युद्धे राजा प्रवासितः ।
+स च शैल वरे रम्ये बभूव अभिरतो मुनिः ॥ २-११०-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उन सबका सामना करनेके लिये सेनाका व्यूह बनाकर युद्धके लिये डटे रहनेपर भी शत्रुओंकी संख्या अधिक होनेके कारण राजा असितको हारकर परदेशकी शरण लेनी पड़ी । वे रमणीय शैल-शिखरपर प्रसन्नतापूर्वक रहकर मुनिभावसे परमात्माका मनन-चिन्तन करने लगे ॥
@@ -395,6 +705,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरन्नु ऎदुरिसलु सैन्यद व्यूहवन्नु रचिसि युद्धक्कॆ सिद्धनादनु, आदरू शत्रुगळ सङ्ख्यॆ हॆच्चिद्दरिन्द राजा असितनु सोतु परदेशवन्नु आश्रयिसिदनु. अवनु रमणीय पर्वत शिखरदल्लि आनन्ददिन्द इद्दु मुनिभावदिन्द परमात्मन मनन-चिन्तनॆयल्लि तॊडगिदनु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. prati vyuuhya* = having drawn out his battle-array against;
+*taan sarvaan* = all those kings; *yuddhe* = in a combat; *raajaa* = the king
+Asita; *pravaasitaH* = was driven away; *saH* = he; *babhuuva* = became;
+*abhirataH* = a devoted; *muniH* = sage; *ramye* = on a beautiful;
+*shailavare* = and excellent mountain.
+
+**अनुवादः**
+
+"Having drawn out his battle-array against all those kings in a combat, the king
+Asita was driven away. Asita then became a devoted sage taking asylum in an excellent and charming
+mountain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +747,15 @@ _________________
 एका गर्भविनाशाय सपत्नै गरलं ददौ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+द्वे च अस्य भार्ये गर्भिण्यौ बभूवतुर् इति श्रुतिः ।
+एका गर्भविनाशाय सपत्न्यै गरळं ददौ ॥ २-११०-१८
+भार्गवः च्यवनो नाम हिमवन्तम् उपाश्रितः ।
+तम् ऋषिम् समुपागम्य कालिन्दी तु अभ्यवादयत् ॥ २-११०-१९
+स ताम् अभ्यवदद् विप्रो वर ईप्सुम् पुत्र जन्मनि ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुना जाता है कि असितकी दो पत्नियाँ गर्भवती थीं । उनमेंसे एक महाभागा कमललोचना राजपत्नीने उत्तमपुत्र पानेकी अभिलाषा रखकर देवतुल्य तेजस्वी भृगुवंशीच्यवन मुनिके चरणोंमें वन्दना की और दूसरी रानीने अपनी सौतके गर्भका विनाश करनेके लिये उसे जहर दे दिया ॥
@@ -426,6 +764,44 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 असितन इब्बरु पत्नियरु गर्भवतियागिद्दरु. अवरल्लि ऒब्बळु महाभागा कमललोचनॆ राजपत्नियु उत्तम पुत्रनन्नु पडॆयुव इच्छॆयिन्द देवतुल्य तेजस्वी भृगुवंशी च्यवनमुनिय चरणगळल्लि वन्दिसिकॊण्डळु हागू इन्नोर्व राणियु तन्न सवतिय गर्भवन्नु नाशमाडलु आकॆगॆ विषवुणिसिदळु.॥18-19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. chayaveno naama* = A sage called Chyavana; *bhaargavaH* =
+belonging to Bhrign race; *upaashritaH* = was taking a shelter; *himavantam* = in a
+Himalayan mountain; *kaalindii* = Kalindi; *samupaagamya* = approached; *tam
+R^iSim* = that sage; *abhyavaadayat* = and offered her salutaion; *saH vipraH* =
+that brahmana; *abhyavadat* = spoke; *taam* = to her; *varepsum* = who wanted
+to get a boon; *putrajanmani* = for the birth of a son.
+
+**अनुवादः**
+
+"A sage called Chyavana, belonging to Bhrign race was staying in a Himalayan
+mountain. Kalindi (Asita's wife) approached that sage and offered her salutation. That brahmna
+spoke the following words to her, who wanted to obtain a boon for the birth of a son."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. asya* = Asita's; *dve bhaarye* = two wives;
+*babhuuvatuH* = became; *garbhiNyau* = pregnant; *iti* = this is;
+*shrutiH* = a hear-say; *ekaa* = one wife; *dadau* = gave; *garalam* =
+poison; *sapatnai* = to the other co-wife; *gabhavinaashaaya* = for the destruction
+of foetus.
+
+**अनुवादः**
+
+"Asita's two wives became pregnant. It is a hearsay that one of his wives gave
+poison to the other co-wife in order to destroy her foetus."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +816,12 @@ _________________
 तमृषिं साभ्युपागम्य कालिन्दी त्वभ्यवादयत् ॥ २० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुत्रस्ते भविता देवि महात्मा लोकविश्रुतः ॥ २-११०-२०
+धार्मिकश्च सुशीलश्च वंशकर्तारिसूदनः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उन दिनों भृगुवंशी च्यवन मुनि हिमालयपर रहते थे । राजा असितकी कालिन्दी नामवाली पत्नीने ऋषिके चरणोंमें पहुँचकर उन्हें प्रणाम किया ॥ २० ॥
@@ -448,6 +830,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ दिनगळल्लि भृगुवंशी च्यवनरु हिमालयदल्लि इरुत्तिद्दरु. असितराजन कालिन्दि ऎम्ब पत्नियु ऋषिगळ बळिगॆ होगि चरणगळिगॆ प्रणाम माडिदळु.॥20॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. devi* = O; Queen!; *putraH* = A son; *mahaatmaa* =
+with a great soul; *lokavishrutaH* = world-famous; *dhaarmikashcha* = a rightous man;
+*sushiilashcha* = of a good conduct; *vamsha kartaa* = a perpetuator of the race;
+*arisuudanaH* = and an annihilator of enemies; *bhavitaa* = will be born; *te*
+= to you.
+
+**अनुवादः**
+
+"O, Queen! A high-souled son, who will be world-famous, rightous, of a good conduct,
+a perpetuator of the race and an annihilator of enemies will be born to you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,6 +872,40 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनियु प्रसन्नरागि पुत्रन उत्पत्तिगागि वरवन्नु बयसुव राणियल्लि हीगॆ हेळिदरु-देवि! निनगॆ ऒब्ब महा मनस्वी लोकविख्यात पुत्रनागुवनु. अवनु धर्मात्म, शत्रुगळिगॆ अत्यन्त भयङ्कर, तन्न वंशवन्नु नडॆसुववनु शत्रुगळ संहारकनागुवनु.॥2½1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. uktavaan* = (He) spoke; *etat* = these; *vaakyam* =
+words; *tvaam nivartayitu kaamastu* = on account of his desire that you should return;
+*lokanaatha* = O; *Lord of the poeple! nibodha* = learn; *me* = from me;
+*lokasamutpattim* = of the creation of the world!.
+
+**अनुवादः**
+
+"He apoke in this manner, on account of his desire that you should return. O, Lord
+of the poeple! Learn from me of the creation of the world!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. aajJNaaya* = recognising; *raamam* = Rama's;
+*kruddham* = anger; *vasiSThaH* = Vasishta; *pratyuvaacha ha* = spoke as
+follows: jabaalirapi = even Jabali; *jaaniite* = is aware; *gataagatam* = of the
+going and coming; *asya lokasya* = of this world.
+
+**अनुवादः**
+
+Recognising that Rama has become angry, Vashishta spoke as follows: "Even Jabali is
+aware of the going and coming of this world."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,6 +936,44 @@ _________________
 इदन्नु केळि राणियु मुनिगॆ प्रदक्षिणॆ माडि, अवरिन्द बीळ्कॊण्डु तन्न मनॆगॆ बन्दमेलॆ आ राणियु ऒब्ब पुत्रनिगॆ जन्मनीडिदळु. अवन कान्तियु कमलकोशदन्तॆ सुन्दरवागित्तु, कण्णुगळु कमलद ऎसळिनन्तॆ मनोहरवागिद्दवु.॥22-23॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. garaH* = poison; *dattaH* = was given; *tasyaiH* =
+to her; *sapatnyaa* = by her co-wife; *garbha jighaamsayaa* = with an intention to
+kill her foetus; *jaataH* = born; *tena gareNa sahaiva* = with that poison itself;
+*saH* = he; *abhavat* = became; *sagaraH* = Sagara ( a man with poison).
+
+**अनुवादः**
+
+"Poison was given earlier by her co-wife with an intention to kill her foetus. Born
+with that poison itself, he became Sagara (a man with poison)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+21; *22. saH devii* = that Queen Kalindi; *hR^iSTaa* = delighted
+as she was; *pradakSiNam kR^iSTaa* = delighted as she was; *pradakSiNam kR^itvaa* =
+circumambulated; *tam munim* = that sage; *anumaanyacha* = took permission to leave;
+*tataH* = and thereafter; *aagamya* = on reaching; *gR^itam* = home;
+*vyajaayat* = had delivered; putram- a son; *padmapatra samaanaakSam* = having eyes
+resembling lotus-leaves; *padmagarbha samaprabham* = and having a radiance like that of
+Brahma the Lord of creation.
+
+**अनुवादः**
+
+"The delighted Queen Kalindi circumambulated that sage, took permission from him to
+leave and thereafter on reaching home, had delivered a son, having eyes resembling lotus-leaves and
+having a radiance like that of Brahama the Lord of creation."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सपत्न्या तु गरस्तस्यै दत्तो गर्भजिघांसया ।  
@@ -514,6 +986,12 @@ _________________
 गरेण सह तेनैव तस्मात् स सगरोऽभवत् ॥ २४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स राजा सगरो नाम यः समुद्रम् अखानयत् ।
+इष्ट्वा पर्वणि वेगेन त्रासयन्तम् इमाः प्रजाः ॥ २-११०-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सौतने उसके गर्भको नष्ट करनेके लिये जो गर (विष) दिया था, उस गरके साथ ही वह बालक प्रकट हुआ; इसलिये सगर नामसे प्रसिद्ध हुआ ॥ २४ ॥
@@ -522,6 +1000,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सवतियु आकॆय गर्भवन्नु नाशमाडलु उणिसिद गर (विष) सहितवे आ बालक हुट्टिदनु. अदक्कागि सगर ऎम्ब हॆसरिनिन्द प्रसिद्धनादनु.॥24॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. saH* = He; *yaH* = which; *sagaro naama raajaa* =
+king was named as Sagara; *iSTvaa* = performed sacrifices; *parvaNi* = on the day of
+the full moon; *akhaanayat* = got excavated; *samndram* = the ocean; *traasa
+yantam* = frightening; *imaam prajaaH* = these people; *vegena* = by his seed of
+digging.
+
+**अनुवादः**
+
+"It was king SAgara who excavated the ocen and who, by his sacrifice, on the day of
+the full moon, by his energy, frightened the people here by the speed of his digging."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +1035,12 @@ _________________
 इष्ट्वा पर्वणि वेगेन त्रासयान इमाः प्रजाः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+असमन्जः तु पुत्रो अभूत् सगरस्य इति नः श्रुतम् ।
+जीवन्न् एव स पित्रा तु निरस्तः पाप कर्म कृत् ॥ २-११०-२५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजा सगर वे ही हैं, जिन्होंने पर्वके दिन यज्ञकी दीक्षा ग्रहण करके खुदाईके वेगसे इन समस्त प्रजाओंको भयभीत करते हुए अपने पुत्रोंद्वारा समुद्रको खुदवाया था ॥ २५ ॥
@@ -547,6 +1049,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजासगरनु पर्वदिन यज्ञदीक्षितनागि यज्ञाश्ववन्नु हुडुकलिक्कागि नॆलवन्नु अगॆदु समस्त प्रजॆगळन्नु भय भीतगॊळिसि तन्न पुत्ररिन्द समुद्रवन्नु अगॆसिद्दनु.॥25॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. asamaNJNaH* = Asmanja; *abhuut* = was; *sagarasya* =
+Sagara's; *putraH* = son; *shrutam* = there was a hearsay; *naH* = to us;
+*iti* = that; *saH* = Asamanja; *paapakarama kR^it* = on account of his wicked
+deeds; *nirastah* = was banished; *pitraa* = by his fatehr; *jiivanneva* =
+even while living.
+
+**अनुवादः**
+
+"Asamanja was Sagara's son. There was a hearsay that on account of his wicked deeds,
+Asamanja was banished by his father even during his life time."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +1079,12 @@ _________________
 
 असमञ्जस्तु पुत्रोऽभूत् सगरस्येति नः श्रुतम् ।  
 जीवन्नेव स पित्रा तु निरस्तः पापकर्मकृत् ॥ २६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अंशुमान् इति पुत्रो अभूद् असमन्जस्य वीर्यवान् ।
+दिलीपो अंशुमतः पुत्रो दिलीपस्य भगीरथः ॥ २-११०-२६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -571,6 +1097,23 @@ _________________
 सगरन पुत्र असमञ्जसनादनु. अवनु पापकर्मदल्लि प्रवृत्तनाद कारण तन्दॆयु अवनन्नु राज्यदिन्द हॊरहाकिदनु, ऎन्दु नावु केळिद्देवॆ.॥26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. AsamaNJasya* = to asamanja; *abhuut* = was born;
+*viiryavaan* = a valiant; *putraH* = son; *amshumaaniti* = called Amshuman;
+*diliipaH* = dilipa; *amshumataH* = was Amshuman's; *putraH* = son;
+*bhagiirathaH* = Bhagiratha; *diliipasya* = was Dilipa's son.
+
+**अनुवादः**
+
+"A valiant son called amshuman was born to Asamanja. Dilipa was Amshuman's son.
+Bhagiratha was Dilipa's son.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अंशुमानपि पुत्रोऽभूदसमञ्जस्य वीर्यवान् ।  
@@ -581,6 +1124,12 @@ _________________
 
 अंशुमानपि पुत्रोऽभूदसमञ्जस्य वीर्यवान् ।  
 दिलीपोऽंशुमतः पुत्रो दिलीपस्य भगीरथः ॥ २७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+भगीरथात् ककुत्स्थः तु काकुत्स्था येन तु स्मृताः ।
+ककुत्स्थस्य तु पुत्रो अभूद् रघुर् येन तु राघवः ॥ २-११०-२७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -593,6 +1142,23 @@ _________________
 असमञ्जसन पुत्र अंशुमान् आदनु, अवनु बहळ पराक्रमियागिद्दनु. अंशुमन्तनिगॆ दिलीप हुट्टिदनु. दिलीपनिन्द भगीरथनादनु.॥27॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. bhagiirathaat* = of Bhagiratha; *kakutthsaH* = was born;
+*kaakutthaaH* = the Kakutsthas; *vishrutaaH* = take their name; *kakutthsasya
+cha* = to Kakutstha; *abhuut* = was born; *putra* = a son; *raghuH* =
+called Raghu; *yena* = from whence (spring); *raaghavaaH* = Ragahavas.
+
+**अनुवादः**
+
+"Of Bhagiratha was born kakutstha, from whom the Kakutsthas take their name. To
+Kakutsthas was born a son called Raghu, from whence spring Raghavas."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथात् ककुत्स्थश्च काकुत्स्था येन तु स्मृताः ।  
@@ -603,6 +1169,12 @@ _________________
 
 भगीरथात् ककुत्स्थश्च काकुत्स्था येन तु स्मृताः ।  
 ककुत्स्थस्य तु पुत्रोऽभूद् रघुर्येन तु राघवाः ॥ २८ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+रघोः तु पुत्रः तेजस्वी प्रवृद्धः पुरुष अदकः ।
+कल्माष पादः सौदास इत्य् एवम् प्रथितो भुवि ॥ २-११०-२८
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -615,6 +1187,23 @@ _________________
 भगीरथनिन्द ककुत्स्थन जन्मवायितु. अवनिन्द अवन वंशदवरु ‘काकुत्स्थ’रादरु. ककुत्स्थन पुत्र रघु आदनु. अवनिन्द आ वंशदवरु ‘राघव’रादरु.॥28॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. raghoH* = from Raghu (was born); *tejasvii* = a renowned;
+*putraH* = son; *pravR^iddhaH* = called Pravriddha; *prathitaH* = known;
+*bhuvi* = in the world; *ityevam* = under the names; *puruSaadakaH* =
+Purushadaka; *kalmaaSapaadaH* = Kalmashapada; *sondaasaH* = and Soudasa.
+
+**अनुवादः**
+
+"From Raghu was born a renowned son named Pravriddha, known in the world under the
+names Purushadaka, Kalmashapada and Soudasa."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रघोस्तु पुत्रस्तेजस्वी प्रवृद्धः पुरुषादकः ।  
@@ -627,6 +1216,12 @@ _________________
 कल्माषपादः सौदास इत्येवं प्रथितो भुवि ॥ २९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कल्माष पाद पुत्रो अभूत् शन्खणः तु इति विश्रुतः ।
+यः तु तद् वीर्यम् आसाद्य सह सेनो व्यनीनशत् ॥ २-११०-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुके तेजस्वी पुत्र कल्माषपाद हुए, जो बड़े होनेपर शापवश कुछ वर्षोंके लिये नरभक्षी राक्षस हो गये थे । वे इस पृथ्वीपर सौदास नामसे विख्यात थे ॥
@@ -635,6 +1230,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुविगॆ तेजस्वी पुत्र कल्माषपादनादनु. अवनु दॊड्डवनादाग शापवशदिन्द कॆलवु वर्षगळवरॆगॆ नरभक्षक राक्षसनागिद्दनु. अवनु ई पृथिवियल्लि सौदास ऎम्ब हॆसरिनिन्द विख्यातनागिद्दनु.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. kalmaSapaada putraH* = Kalmashapada's son; *abhuut* = was;
+*vishrutaH* = renowned; *iti* = as; *shaNkhaNaH* = Shankhana;
+*tadviiryam* = kalmashapada's valour; *vyaniishat* = perished; *saha sainyaH*
+= along with his army.
+
+**अनुवादः**
+
+"Kalmashapada's son was renowned as Shankhana, who, even on attaining his father's
+valour, perished (in a battle) along with his army."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +1340,36 @@ _________________
 अम्बरीषन पुत्र सत्यपराक्रमि नहुषनिद्दनु. नहुषन पुत्र नाभागनादनु, अवनु बहळ धर्मात्मनागिद्दनु.॥33॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+30; 31; 32; *33. shriiman* = the fortunate; *sadarshanaH* =
+Sudarshana; *putraH* = was the son; *shaNkhaNasya* = of Shankhana;
+*sudarshanasya* = Sudarshana's (son); (was); *agnivarNaH* = Agnivarna;
+*agnivarNasya* = and of Agnivarna (was born); *shiighragaH* = Shigraga;
+*shiighragasya* = Shighraga's' putraH = son was; *maruH* = Maru; *maroH* =
+Maru's; *putraH* = son; *prashushruvaH* = was Prashushruva; *prashushruvasya*
+= of Prashushruva; *abhuut* = was born; *putraH* = a son; *ambariiSaH* =
+Ambarisha; *ambariiSasya* = of Ambarisha; *abhuut* = was born; *putraH* = a
+son; *nahuSaH* = Nahusha; *satyavikramaH* = who was full ofvalour; *nahuSasya*
+= Nahusha's; *putraH* = son; *naabhaagaH* = Nabhaga; *parama dhaarmikaH* = of
+outstanding virtue; *ajashcha* = Aja; *su vratashchaiva* = Suvrata; *ubhau* =
+were the two; *sutau* = sons; *naabhagasya* = of Nabhaga; *ajasyaiva* = sutau
+= sons; *naabhaagasya* = of Nabhaga; *ajasyaiva* = Aja's; *sutaH* = son;
+*dharmaatmaa* = was the virtuous; *raaja dasharathaH* = king Dasaratha.
+
+**अनुवादः**
+
+The fortunate Sudarshana was the son of Shankhana. Sudarshana's son was Agnivarna;
+and of Agnivarna was born Shighraga. Shighraga begot Maru and Maru's son was Prashushruva from
+Prashushruva was born Ambarisha of that great radiance. To Ambarisha was born a son named Nahusha
+who was full of valour. Nahusha's son was Nabhaga of outstanding virtue. Aja and Suvrata were the
+two sons of Nabhaga and it was Aja who begot the virtuous King Dasartha."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजश्च सुव्रतश्चैव नाभागस्य सुतावुभौ ।  
@@ -740,6 +1382,12 @@ _________________
 अजस्य चैव धर्मात्मा राजा दशरथः सुतः ॥ ३४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य ज्येष्ठो असि दायादो राम इत्य् अभिविश्रुतः ।
+तद् गृहाण स्वकम् राज्यम् अवेक्षस्व जगन् नृप ॥ ३४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘नाभागके दो पुत्र हुए—अज और सुव्रत । अजके धर्मात्मा पुत्र राजा दशरथ थे ॥ ३४ ॥
@@ -748,6 +1396,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाभागनिगॆ अज मत्तु सुव्रतरॆम्ब इब्बरु पुत्ररादरु. अजन पुत्रने धर्मात्मा दशरथनागिद्दनु.॥34॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. asi* = you are; *jyeSThaH* = the eldest son; *tasya*
+= of that Dasaratha; *abhivishrutaH* = very well known; *raama iti* = as Rama;
+*daayaadaH* = the heir who can claim over the inheritance; *nR^ipaiH* = O; king!;
+*tat* = for that reason; *gR^ihaaNa* = take over; *svakam* = your;
+*raajyam* = kingdom; *avekSasva* = look after; *janam* = your people.
+
+**अनुवादः**
+
+"You are the eldest son of that Dasaratha, very well-known as Rama, the heir who can
+claim over the inheritance. O, King! Hence, take over your kingdom and look after your people
+there."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -765,6 +1432,12 @@ _________________
 तद्गृहणा स्वकं राज्यमवेक्षस्व जगन्नृप ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इक्ष्वाकूणाम् हि सर्वेषाम् राजा भवति पूर्वजः ।
+पूर्वजेन अवरः पुत्रो ज्येष्ठो राज्ये अभिषिच्यते ॥ २-११०-३५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दशरथके ज्येष्ठ पुत्र तुम हो, जिसकी ‘श्रीराम’ के नामसे प्रसिद्धि है । नरेश्वर! यह अयोध्याका राज्य तुम्हारा है, इसे ग्रहण करो और इसकी देखभाल करते रहो ॥ ३५ ॥
@@ -773,6 +1446,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशरथन ज्येष्ठपुत्र नीने आगिरुवॆ. श्रीराम ऎम्ब हॆसरिनिन्द प्रसिद्धनागिरुवॆ. नरेश्वर! ई अयोध्यॆय राज्य निन्नदागिदॆ, इदन्नु स्वीकरिसु हागू अदन्नु पालिसुत्ता इरु.॥35॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. puurvajaH* = the eldest son only; *bhavati* = becomes;
+*raajaa* = the king; *sarveSaam* = in the entire; *ikSvaakuuNaam* = people
+born in Ikshvaku race; *puuraje* = (when) the eldest exists; *avaraH* = the younger;
+*na* = will not (become the king); *jyeSThaH putraH* = the eldest son only;
+*abhiSichyate* = is anointed; *raajye* = to the cronw.
+
+**अनुवादः**
+
+"The eldest son only becomes the king in the entire Ikshvaku race. When the eldest
+son exists, the younger son will not become a king. The eldest son only is anointed to the
+crown.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +1479,14 @@ _________________
 पूर्वजे नावरः पुत्रो ज्येष्ठो राजाभिषिच्यते ॥ ३६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स राघवाणाम् कुल धर्मम् आत्मनः ।
+सनातनम् न अद्य विहातुम् अर्हसि ।
+प्रभूत रत्नाम् अनुशाधि मेदिनीम् ।
+प्रभूत राष्ट्राम् पितृवन् महा यशाः ॥ २-११०-३६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘समस्त इक्ष्वाकुवंशियोंके यहाँ ज्येष्ठ पुत्र ही राजा होता आया है । ज्येष्ठके होते हुए छोटा पुत्र राजा नहीं होता है । ज्येष्ठ पुत्रका ही राजाके पदपर अभिषेक होता है ॥ ३६ ॥
@@ -795,6 +1495,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समस्त इक्ष्वाकु वंशियरल्लि ज्येष्ठपुत्ररे राजरागुत्ता बन्दिरुवरु. ज्येष्ठनिरुवाग कनिष्ठनु राजनागुत्तिरलिल्ल. ज्येष्ठ पुत्रनिगॆ राजनागि पट्टाभिषेकवागुत्तित्तु.॥36॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. mahaayashaH* = O; the celebrated one!; *sanaatanam* = this
+is the eternal; *kuladharmam* = tradition of your race; *raghuvaaNaam* = those born
+in Raghu dynasty; *aatmanaH* = yours; *saH* = as such; *naarhasi* = and ought
+not; *vihantum* = to be violated by you; *adya* = now; *anushaadhi* = rule
+over; *mediniim* = the earth; *prabhuuta ratnaam* = abundant with precious metals;
+*prabhuuta raaSTraam* = and a vast kingdom; *pitR^ivat* = as did your father.
+
+**अनुवादः**
+
+"O, the celebrated one! This is the eternal tradition of your race, those born in
+Raghu dynasty and ought not to be violated by you. Rule over the earth, this vast kingdom abudant
+with precious metals, as did your father."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -2,6 +2,22 @@
 title = "०७२ रावणेन-अतिकायमरणशोकः"
 title_english = "072 Ravana s grief over Atikaya s death"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Having been informed that Atikaya, Dhumraksha, Akampana, Prahasta, Kumbhakarna and
+other mighty demons are killed in battle, Ravana felt anxious. He is surprised as to how Rama and
+Lakshmana got released from the bind of arrows, made by Indrajit, his son earlier. He feels that no
+demon is capable of defeating Rama, Lakshmana, Sugreeva and Vibhishana. He enjoins demons to
+protect the City of Lanka and even Ashoka garden, where Seetha has been kept in capture. He asks
+the army not to be indifferent to the movements of the monkey-warriors. After issuing the necessary
+instruction to his army, he enters deep into his palace and remains boarding over the loss of
+Atikaya, his son.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
 </details>
@@ -81,6 +97,34 @@ title_english = "072 Ravana s grief over Atikaya s death"
 आदरॆ अनायासदिन्द महत्कार्य माडुव रामनु नानारीतिय शस्त्रगळल्लि निपुणराद विशालकाय वीर राक्षसरन्नु सैन्य सहित संहारमाडिबिट्टनु.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+2; 3; *4. dhuumraakShaH* = Dhumraksha; *akampanaH* = Akampana;
+*paramaamarShii* = greatly impatient; *sarvashastrabhR^itaam varaH* = excellent among
+all the wielders of weapons; *prahastashcha* = Prahasta; *tathaivacha* = and;
+*kumbhakarNaH* = Kumbhakarna; *mahaabalaaH* = the mighty; *viiraaH* = and
+valiant; *raakShasaaH* = demons; *yuddhakaaNkShiNaH* = longing for battle;
+*jetaaraH* = who conquer; *parasainyaanaam* = the army of adversaries;
+*nityaaparaajitaaH* = never conquered; *pariah* = by enemies; *te viiraaH* =
+those warriors; *sasainyaaH* = along with their armies; *hataaH* = were killed;
+*raameNa* = by Rama; *akliShTa bahavaH* = many; *karmaaNaam* = unwearied in
+action; *bahavaH* = many; *anye* = other; *mahaatmanaH* = mighty;
+*shuuraaH* = warriors; *sumahaakaayaaH* = with colossal bodies;
+*naanaashastravishaaradaaH* = skilled in various kinds of weaponry; *vinipaatitaaH* =
+were struck down.
+
+**अनुवादः**
+
+"Dhumraksha, who was greatly impatient Akampana who was excellent among all wielders
+of weapons, Prahasta and Kumbhakarna were killed by Rama, who was unwearied in battle. The mighty
+and valiant demons longing for battle, who conquer the adversaries, who was never defeated in
+battle by the enemies they along with their enemies were killed. Many other mighty warriors.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ये च बहवः शूरा महात्मानो निपातिताः ।  
@@ -121,6 +165,47 @@ _________________
 इन्नू अनेक महामनस्वी शूरवीर राक्षसरु अवनिन्द हतरादरु. बल-पराक्रमदल्लि ऎल्लॆडॆ विख्यातनाद नन्न मग इन्द्रजितनु इब्बरू सहोदररन्नु नागपाशदिन्द बन्धिसिद्दनु. आ घोर बन्धनवन्नु समस्त देवतॆगळु, महाबली असुररू बिच्चलाररु. यक्ष, गन्धर्व मत्तु नागगळिगू आ बन्धनदिन्द बिडुगडॆ इल्ल. हीगिद्दरू ई सहोदर रिब्बरू आ बाण बन्धनदिन्द मुक्तरादरु. याव प्रभाववो, मायॆयो, अथवा याव मोहिनि औषधियो तिळियदु, अदर प्रयोगदिन्द अवरु बन्धनदिन्द बिडुगडॆ हॊन्दिदरु.॥5-7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+6; *7. tat* = that; *bandhanam* = bondage; *yat* = which;
+*na shakyam* = is not possible; *moktum* = to be released; *sarvaiH suraiH* =
+by all the celestials; *mahaabalaiH asurairvaa* = or by the mighty demons; *yakSha
+gandharva pannagaiH* = or by Yakshas the supernatural beings or Gandharvas the celestials
+musicians or Pannagas the serpent-demons; *ghoram* = was terrific; *raamalakShmaNau*
+= Rama and Lakshmana; *tau bhraatarau* = two brothers; *vimuktau* = were released;
+*sharabandhaat* = from that tie of arrows; *prabhaavaiH vaa* = either by their power;
+*maayayaa* = or by sorcery; *mohanenavaa* = or by stupor; *na jaane* = I do
+not know; *tat* = that.
+
+**अनुवादः**
+
+"That terrific bind of arrow cannot be released by any celestial or a mighty demon
+or by Yakshas the supernatural beings or Gandharvas the celestial musicians or Pannagas the
+serpent-demons. Rama and Lakshmana, the two brothers were released from that tie of arrows either
+by their power or by their sorcery or by their marvel I do not know that."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. tadaa* = that day; *mama patreNa indrajitaa* = by Indrajit;
+my son; *prakhyaata bala viiryeNa* = having renowned strength and prowess; *tau* =
+those two; *bhraatrau* = brothers; *baddhau* = were bound; *ghoraiH sharaiH* =
+by terrific arrows; *dattavaraiH* = on which boons had been conferred.
+
+**अनुवादः**
+
+"That day, Indrajit, my son, whose strength and prowess are renowned, bound both
+Rama and Lakshmana, the brothers with terrific arrows, on which boons had been conferred."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये योधा निर्गताः शूरा राक्षसा मम शासनात् ॥ ८ ॥  
@@ -133,6 +218,12 @@ _________________
 ते सर्वे निहता युद्धे वानरैः सुमहाबलैः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ये योधा निर्गताह् शूरा राक्षसा मम शासनात् ६-७१-८
+ते सर्वे निहता युद्धे वानरैः सुमहाबलैः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरी आज्ञासे जो-जो शूरवीर योद्धा राक्षस युद्धके लिये निकले, उन सबको समराङ्गणमें महाबली वानरोंने मार डाला ॥ ८ १/२ ॥
@@ -141,6 +232,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न आज्ञॆयिन्द युद्धक्कॆ होद शूरवीर योधरॆल्लरन्नु रणरङ्गदल्लि महाबलि वानररु कॊन्दु हाकिदरु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. ye* = which; *shuuraaH* = valiant; *yodhaaH* =
+warriors; *raakShaaH* = of demons; *mama shaasanaat* = at my command;
+*nirgataaH* = have set out; *yuddhe* = for battle; *sarve* = all of them;
+*nihataaH* = were killed; *sumahaabalaiH* = by highly mighty; *vaanaraiH* =
+monkeys.
+
+**अनुवादः**
+
+"All of those valiant demon-warriors set out for battle, at my command, were killed
+by those exceptionally mighty monkeys."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +267,12 @@ _________________
 शासयेत्सबलं वीर ससुग्रीवं विभीषणम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तं न पश्याम्यहम् युद्धे यो.द्य रामं सलक्ष्मणम् ६-७१-९
+नाशयेत्सबलम् वीरं ससुग्रीवविभीषणम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं आज ऐसे किसी वीरको नहीं देखता, जो युद्धमें लक्ष्मणसहित रामको और सेना तथा सुग्रीवसहित वीर विभीषणको नष्ट कर दे ॥ ९ १/२ ॥
@@ -166,6 +281,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 युद्धदल्लि लक्ष्मण सहित रामनन्नु मत्तु वानर सैन्यवन्नु सुग्रीव सहित विभीषणनन्नु नाश माडुव याव वीरनन्नु इन्दु नानु नोडुवुदिल्ल.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. aham* = I; *na pashyaami* = do not find; *tam* = such
+a person; *yaH naashayet* = who can destroy; *viiram* = the valiant Rama; *sa
+lakShmaNam* = along with Lakshmana; *sasugriiva vibhiiShaNam* = Sugreeva and Vibhishana;
+*sabalam* = accompanied by their army; *yuddhe* = in battle; *adya* = now.
+
+**अनुवादः**
+
+"I do not find any demon, who can destroy the valiant Rama along with Lakshmana,
+Sugreeva and Vibhishana accompanied by their army in battle now."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +322,23 @@ _________________
 निश्चयवागि रामनु बलिष्ठने सरि. अवनिगॆ महास्त्रगळ बलवू इदॆ. अवन अतुल पराक्रमदिन्द असङ्ख्य राक्षसरु कालवशरादरु.॥10॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. yasya* = by which Rama's; *vikramam* = valour;
+*raakShasaaH* = the demons; *aasaadya nidhanam gataaH* = reached past destruction;
+*raamaH* = (that) Rama; *aho* = alas!; *subalavaan* = has a great strength;
+*astra balamcha mahatvai* = and indeed has an arrow of great power too.
+
+**अनुवादः**
+
+"By Rama's valour, the demons were destroyed. Alas! How great is Rama's strength!
+How great is the power of his arrow!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मन्ये राघवं वीरं नारायणमनामयम् ॥ ११ ॥  
@@ -200,6 +349,12 @@ _________________
 
 तं मन्ये राघवं वीरं नारायणमनामयम् ॥ ११ ॥  
 तद्भयाद्धि पुरी लङ्का पिहितद्वारतोरणा ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अप्रमत्तेश्च सर्वत्रा गुल्मै रक्ष्या पुरी त्वियम् ॥ ६-७१-११
+अशोकवनिका चैव यत्र सीताभिरक्ष्यते ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -212,6 +367,23 @@ _________________
 आ वीर रघुनाथनन्नु रोग-शोकरहित साक्षात् नारायणनॆन्दे नानु तिळियुत्तेनॆ. एकॆन्दरॆ अवन भयदिन्दले लङ्कॆय ऎल्ल हॆब्बागिलुगळु, हॊरद्वारगळु मुच्चल्पट्टिरुत्तवॆ.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. gulmaiH* = by some regiments of army; *iyam* = this city;
+*ashokaianikaachaiva* = and even Ashoka garden; *yatra* = where; *siitaa* =
+Seetha; *abhirakShyate* = is being guarded; *rakShyaatu* = have to be protected;
+*apramattaiH* = vigilantly; *sarvatra* = on all sides.
+
+**अनुवादः**
+
+"Some regiments of the army have to protect this City and even Ashoka garden where
+Seetha is being guarded, vigilantly on all sides."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमत्तैश्च सर्वत्र गुल्मे रक्ष्या पुरी त्वियम् ॥ १२ ॥  
@@ -224,6 +396,12 @@ _________________
 अशोकवनिका चैव यत्र सीताभिरक्ष्यते ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निष्क्रमो वा प्रवेशो वा ज्ञात्व्यः सर्वदैव नः ॥ ६-७१-१२
+यत्र यत्र भवेद्गुल्मस्तत्र तत्र पुनः पुनः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसो! तुमलोग हर समय सावधान रहकर सैनिकोंसहित इस पुरीकी और जहाँ सीता रखी गयी हैं, उस अशोक-शिविर वाटिकाकी भी विशेषरूपसे रक्षा करो ॥ १२ १/२ ॥
@@ -232,6 +410,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसरे! नीवु ऎल्ल समयदल्लि ऎच्चरवागिद्दु पुरियन्नु रक्षिसबेकु. हॆच्चागि सीतॆयिरुव अशोकवनवन्तू विशेषवागि रक्षिसिरि.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. JNaatavyaH* = It should be known; *naH* = to us; *yatra
+yatra* = wherever; *gulmaH* = a regiment of army; *bhavet* = is there; *tatra
+tva* = in that and that place (where); *niShkramovaa* = persons are going out;
+*praveshovaa* = and where persons are entering; *sarvadaiva* = at all times;
+*punaH punaH* = again and again.
+
+**अनुवादः**
+
+"We should know the locations of army-regiments and also the places where persons
+are exiting and entering at all times, again and again.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +458,23 @@ _________________
 अशोकवनदल्लि यारु यावाग होगुत्तारॆ, यावाग हॊरगॆ बरुत्तारॆ इदन्नु सदा गमनिसुत्ता इरबेकु. सैनिकर शिबिरगळु इरुवल्लि पदे पदे कण्णिडबेकु. ऎल्लॆडॆ नम्म सैनिकरु कावलु कायबेकु.॥13-14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. nishaacharaaH* = O demons!; *tiShThadhvam* = stay;
+*sarvataH* = on all sides; *parivR^itaaH* = surrounded by; *svaiH svaiH
+balaiH* = by your respective armies; *padam teShaam vaanaraaNaam* = the position of
+those monkeys; *draShTavyam cha* = is to be watched.
+
+**अनुवादः**
+
+"O demons! Stay on all sides with your respective armies. The various positioning of
+those monkeys are to be watched."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रष्टव्यं च पदं तेषां वानराणां निशाचराः ।  
@@ -287,6 +500,27 @@ _________________
 निशाचररे! प्रदोष काल, मध्यरात्रि, प्रातःकालदल्लियू वानररु बन्दु होगुवुदन्नु गमनिसुत्तिरबेकु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+14; *15. tatra vaanareShu* = in the case of monkeys; *avaJNaa na
+kartavyaa* = disrespect should not be shown; *kadaachana* = at any time;
+*sarvashaH* = in any way; *pradoShevaa* = either at evening time;
+*ardharaatrevaa* = or at midnight; *pratyuuShevaa* = or at dawn; (You have to watch
+whether); *dviShataam balam* = the army of adversaries; *udyuktam* = is ready for
+war; *aapatat* = or appearing suddenly; *tathaa* = and ; *sthitam* =
+remaining.
+
+**अनुवादः**
+
+"Indifference should not be shown to monkeys in any way at any time, either at
+evening or at midnight or at dawn. You have watch whether the army of adversaries is fervently
+active or advancing or staying where it was."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावज्ञा तत्र कर्तव्या वानरेषु कदाचन ।  
@@ -297,6 +531,12 @@ _________________
 
 नावज्ञा तत्र कर्तव्या वानरेषु कदाचन ।  
 द्विषतां बलमुद्युक्तमापतत् किं स्थितं यथा ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ततस्ते राक्षसाह् सर्वे श्रुत्वा लङ्काधिपस्य तत् ।
+वचनं सर्वमातिष्ठन् यथावत्तु महाबलाः ॥ ६-७१-१६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -309,6 +549,23 @@ _________________
 वानररन्नु ऎन्दू उपेक्षिसबारदु. शत्रुगळ सैन्यवु युद्धक्कागि उद्यमशीलवागिल्लवल्ल ऎम्बुदर कडॆगॆ दृष्टि इडबेकु. आक्रमण माडदॆ इद्दल्ले इद्दारॆये ऎम्बुदन्नु गमनिसबेकु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. shrutvaa* = hearing; *tat vachanam* = those words;
+*laN^kaadhipasya* = of Ravana; *sarve* = all; *te mahaabalaaH* = those mighty;
+*raakShasaaH* = demons; *tataH* = then; *yathaavattu* = precisely;
+*aatiShThan* = stood by; *sarvam* = all that.
+
+**अनुवादः**
+
+Hearing those words of Ravana, all the mighty demons then precisely carried it out
+forthwith in its totality.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसाः सर्वे श्रुत्वा लङ्काधिपस्य तत् ।  
@@ -321,6 +578,12 @@ _________________
 वचनं सर्वमातिष्ठन् यथावत् तु महाबलाः ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स तान् सर्वान् हि संदिश्य रावणो राक्षसाधिपः ।
+मन्युशल्यम् वहन् दीनः प्रविवेश स्वमालयम् ॥ ६-७१-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 लङ्कापतिका यह आदेश सुनकर समस्त महाबली राक्षस उन सारी बातोंका यथावत् रूपसे पालन करने लगे ॥ १७ ॥
@@ -329,6 +592,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लङ्कापतिय ई आदेशवन्नु केळि समस्त महाबलि राक्षसरु अदॆल्लवन्नु यथावत्तागि पालिसतॊडगिदरु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. samdishya* = instructing; *taan sarvaan* = all of them;
+*saH raavaNaH* = that Ravana; *raakShasaadhipaH* = the king of demons; *vahan
+manyushalyam* = suffering from prickly sorrow; *diinaH* = and depression;
+*pravivesha* = entered; *svam aalayam* = his house.
+
+**अनुवादः**
+
+Having thus instructed all of them, Ravana the king of demons, suffering from
+prickly sorrow and depression, penetrated deeply into his palace.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +626,14 @@ _________________
 मन्युशल्यं सहन्दीनः प्रविवेश स्वमालयम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः स संदीपितकोपपह्नि ।
+र्निशाचराणामधिपो महाबलः ।
+तदेव पुत्रव्यसनम् विचिन्तयन् ।
+मुहुर्मुहुश्चैव तदा व्यनिःश्वसत् ॥ ६-७१-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन सबको पूर्वोक्त आदेश देकर राक्षसराज रावण अपने हृदयमें चुभे हुए दुःख और क्रोधरूपी काँटेकी पीड़ाका भार वहन करता हुआ दीनभावसे अपने महलमें गया ॥ १८ ॥
@@ -354,6 +642,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरिगॆ हीगॆ आदेशकॊट्टु रावणनु तन्न हृदयक्कॆ चुच्चिद दुःख मत्तु क्रोधरूपी मुळ्ळिन नोवन्नु तुम्बिकॊण्डु दीनभावदिन्द तन्न अन्तःपुरक्कॆ होदनु.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. samdiipita kopa vahniH* = blazed as he was with a fire of anger;
+*mahaabalaH* = the mighty; *adhipaH* = lord; *nishaacharaaNaam* = of demons;
+*tataH* = then; *vichintayan* = thinking; *tat puravyasanam eva* = of that
+loss of his son; *tadaa* = then muhuH muhuH = again and again; *vyaniHshvasat* =
+sighing.
+
+**अनुवादः**
+
+Blazed as he was with a fire of anger, Ravana the mighty lord of demons, then
+remained broading about the loss of his son (Atikaya) and also sighing again and again.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +686,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलि निशाचर राज रावणन क्रोदाग्नियु उरिदॆद्दितु. अवनु तन्न पुत्रन मृत्युवन्नु नॆनॆदु, पदे पदे निट्टुसिरुबिडुत्तिद्दनु.॥1.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. shrutvaa* = hearing; *atkaayam* = Atikaya; *hatam* =
+killed; *mahaatmanaa lakShmaNena* = in the hands of the high souled Lakshmana;
+*raajaa* = the king; *agamat* = got; *udvegam* = an anxiety; *abraviit*
+= and spoke; *idam* = these; *vachanam* = words:
+
+**अनुवादः**
+
+Hearing Atikaya having been killed in the hands of the great-souled Lakshmana,
+Ravana was worried and spoke as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

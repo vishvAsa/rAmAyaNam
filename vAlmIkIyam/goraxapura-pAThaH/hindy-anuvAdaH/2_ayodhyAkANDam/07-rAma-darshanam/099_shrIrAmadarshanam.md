@@ -2,6 +2,19 @@
 title = "०९९ श्रीरामदर्शनम्"
 title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book II : Ayodhya Kanda - Book Of Ayodhya**
+
+Bharata observes various signs, proving Rama's hermitage in the vicinity of his
+place of search. After proceeding for a distance, Bharata beholds Rama's hermitage and Rama too
+seated in the hut, wearing matted locks. Bharata laments on Rama's misfortune of living as an
+ascetic Bharata and Shatrughna throw themselves on Rama's feet in salutation. Rama embraces them
+both.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-099-Sri_Rama_Darshanam.mp3"></div>
 </details>
@@ -23,6 +36,12 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 जगाम भ्रातरं द्रष्टुं शत्रुघ्नमनुदर्शयन् ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निविष्टायाम् तु सेनायाम् उत्सुको भरतः तदा ।
+जगाम भ्रातरम् द्रष्टुम् शत्रुघ्नम् अनुदर्शयन् ॥ २-९९-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सेनाके ठहर जानेपर भाईके दर्शनके लिये उत्कण्ठित होकर भरत अपने छोटे भाई शत्रुघ्नको आश्रमके चिह्न दिखाते हुए उसकी ओर चले ॥ १ ॥
@@ -31,6 +50,24 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सैन्यवन्नु निल्ललु हेळि, अण्णन दर्शनक्कागि उत्कण्ठितनाद भरतनु अनुज शत्रुघ्ननिगॆ आश्रमद चिह्नॆगळन्नु तोरिसुत्ता पर्णकुटिय कडॆगॆ नडॆदनु.॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. tadaa* = then; *niviSTaayaam* = having stationed;
+*senaayaam* = his forces; *bharataH* = Bharata; *jagaama* = set out;
+*utsukaH* = eagerly; *draSTum* = to see; *bhraataram* = his brother;
+*anudarshayan* = pointing out (the sign of Rama's habitation); *shatrughnam* = to
+Shatrughna.
+
+**अनुवादः**
+
+Having stationed his forces, Bharata set out eagerly to see his brother, pointing
+out the sign of Rama's habitation to Shatrughna.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,6 +85,12 @@ _________________
 इति त्वरितमग्रे स जगाम गुरुवत्सलः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ऋषिम् वसिष्ठम् संदिश्य मातृऋर् मे शीघ्रम् आनय ।
+इति तरितम् अग्रे स जागम गुरु वत्सलः ॥ २-९९-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 गुरुभक्त भरत महर्षि वसिष्ठको यह संदेश देकर कि आप मेरी माताओंको साथ लेकर शीघ्र ही आइये, तुरंत आगे बढ़ गये ॥ २ ॥
@@ -56,6 +99,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गुरुभक्त भरतनु महर्षि वसिष्ठरल्लि - ‘नीवु नम्म तायन्दिरन्नु जॊतॆगॆ करॆदुकॊण्डु बन्नि’ ऎन्दु हेळि लगुबगॆयिन्द मुन्दुवरिदनु.॥2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. saH* = Bharata; *guruvatsalaH* = who was affectionate
+towards the elders; *samdishya* = informed; *R^iSim* = the sage; *vasiSTam* =
+Vasishta; *iti* = thus; *aanaya* = bring; *me* = my; *maatR^iiH* =
+mothers; *shiighram* = soon; *jagaama* = (and) went; *agre* = ahead;
+*tvaritam* = quickly.
+
+**अनुवादः**
+
+Bharata, who was affectionate towards the elders, asked the sage Vasishta to bring
+his mothers soon thereafter and went ahead quickly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +129,12 @@ _________________
 
 सुमन्त्रस्त्वपि शत्रुघ्नमदूरादन्वपद्यत ।  
 रामदर्शनजस्तर्षो भरतस्येव तस्य च ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सुमन्त्रः तु अपि शतुघ्नम् अदूराद् अन्वपद्यत ।
+राम दार्शनजः तर्षो भरतस्य इव तस्य च ॥ २-९९-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -80,6 +147,23 @@ _________________
 सुमन्त्रनू शत्रुघ्ननॊडनॆ हिन्दॆ-मुन्दॆ नडॆयुत्तिद्दनु. अवनिगू भरतनन्तॆये श्रीरामचन्द्रन दर्शनद तीव्र अभिलाषे इत्तु.॥3॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. sumantrastvapi* = Sumantra also; *anvapadyata* = followed;
+*aduuraat* = at a little distance; *shatrughnam* = after Shatrughna; *tarSaH*
+= an eager desire; *raama darshanajaH* = connected with seeing of Rama;
+*bharatasyeva* = like in Bharata; *tasya cha* = was there in him also.
+
+**अनुवादः**
+
+Sumantra also, equally desirous of seeing Rama; followed Shatrughna at a little
+distance.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छन्नेवाथ भरतस्तापसालयसंस्थिताम् ।  
@@ -90,6 +174,12 @@ _________________
 
 गच्छन्नेवाथ भरतस्तापसालयसंस्थिताम् ।  
 भ्रातुः पर्णकुटीं श्रीमानुटजं च ददर्श ह ॥ ४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+गग्च्छन्न् एव अथ भरतः तापस आलय संस्थिताम् ।
+भ्रातुः पर्ण कुटीम् श्रीमान् उटजम् च ददर्श ह ॥ २-९९-४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,6 +192,24 @@ _________________
 नडॆयुत्ता मुन्दक्कॆ होदाग श्रीमान् भरतनु तपस्वी जनर आश्रमदन्तॆ इरुव अण्णन पर्णकुटियन्नु मत्तु गुडिसलन्नु नोडिदनु.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. atha* = threafter; *shriimaan* = (While) the illustrious;
+*bharataH* = Bharata; *gachchhanneva* = passed on; *dadarsha ha* = (he)
+observed; *parNakuTiim* = a leafy hut; *bhraatuH* = of his brother; *uTajam
+cha* = and a (small) hut made of leaves nearby; *taapasaalaya samsthitaan* = situated in
+that wood of ascestics.
+
+**अनुवादः**
+
+While the illustrious Bharata passed on, he observed in that wood of ascetics, a
+leafy hut of his brother together with a small hut made of leaves, nearby.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शालायास्त्वग्रतस्तस्या ददर्श भरतस्तदा ।  
@@ -114,6 +222,12 @@ _________________
 काष्ठानि चावभग्नानि पुष्पाण्यपचितानि च ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शालायाः तु अग्रतः तस्या ददर्श भरतः तदा ।
+काष्टानि च अवभग्नानि पुष्पाण्य् अवचितानि च ॥ २-९९-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस पर्णशालाके सामने भरतने उस समय बहुत-से कटे हुए काष्ठके टुकड़े देखे, जो होमके लिये संगृहीत थे । साथ ही वहाँ पूजाके लिये संचित किये हुए फूल भी दृष्टिगोचर हुए ॥ ५ ॥
@@ -122,6 +236,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्णशालॆय मुम्भागदल्लि होमार्थवागि सीळि हाकिद्द कट्टिगॆगळन्नु, पूजॆगागि सङ्ग्रहिसिद पुष्पराशियन्नु भरतनु नोडिदनु.॥5॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. tadaa* = then; *bharataH* = Bharata; *dadarsha* =
+beheld; *kaaSThaami* = wood; *avabhagnaami* = that had been broken up;
+*puSpaaNicha* = and flowers; *apachitaani* = gathered; *agrataH* = in front;
+*tasyaaH* = shaalaayaaH = of that hermitage.
+
+**अनुवादः**
+
+Bharata then beheld wood that had been broken up and heaps of flowers gathered in
+front of that hermitage.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +277,26 @@ _________________
 आश्रमदिन्द हॊरगॆ होगि बरलु श्रीराम लक्ष्मणरु मार्ग सूचकवाद दर्भॆगळिन्द, वल्कलगळिन्द माडिद चिह्नॆगळन्नु मरद कॊम्बॆगळल्लि तूगु हाकिद्दरु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. abhi^Naanam* = as signs serving as a proper direction to their
+hermitage; *kR^itam* = were tied; *vR^ikSeSu* = to the trees; *kusha chiiraiH*
+= tufts of Kusha grass and strips of bark; *kvachit kvachit* = here and there;
+*raamasya* = lakSmaNasya = by Rama and Lakshmana; *saH* = (which) Bharata;
+*dadarsha* = saw; *iiyuSaH* = while coming; *aashramam* = to the
+hermitage.
+
+**अनुवादः**
+
+While coming to the hermitage, Bharata saw some signs here and there serving as a
+proper direction to that hermitage, tufts of Kusha grass and strips of bark tied to the trees by
+Rama and Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्श च वने तस्मिन् महतः सञ्चयान् कृतान् ।  
@@ -161,6 +312,12 @@ _________________
 मृगाणां महिषाणां च करिषैः शीतकारणात् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स ददर्श वने तस्मिन् महतः संचयान् कृतान् ।
+मृगाणाम् महिषाणाम् च करीषैः शीत कारणात् ॥ २-९९-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस वनमें शीत-निवारणके लिये मृगोंकी लेंडी और भैंसोंके सूखे हुए गोबरके ढेर एकत्र करके रखे गये थे, जिन्हें भरतने अपनी आँखों देखा ॥ ७ ॥
@@ -169,6 +326,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शीत परिहारक्कागि पर्णकुटिय समीपदल्ले मृगगळ मत्तु ऎम्मॆगळ सॆगणियिन्द बॆरणिगळन्नु माडि राशि-राशियागि सङ्ग्रहिसिट्टिरुवुदन्नु नोडिदनु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. saH* = He; *dadarsha* = (also) saw; *mahataH* =
+great; *samchayaan* = heaps; *kariiSaiH* = of deers; *mahiSaaNaamcha* = and
+buffaloes; *tasmin vane* = in that abode; *kR^itaan* = made ready;
+*shiitakaaraNaat* = for protection against cold.
+
+**अनुवादः**
+
+Bharata also saw in the vicinity great heaps of dried dung of deers and buffaloes,
+kept ready for protection against cold.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +360,12 @@ _________________
 शत्नुघ्नं चाब्रवीद्धृष्टस्तानमात्यांश्च सर्वशः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+गग्च्छन् एव महा बाहुर् द्युतिमान् भरतः तदा ।
+शत्रुघ्नम् च अब्रवीद्द् हृष्टः तान् अमात्यामः च सर्वशः ॥ २-९९-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय चलते-चलते ही परम कान्तिमान् महाबाहु भरतने शत्रुघ्न तथा सम्पूर्ण मन्त्रियोंसे अत्यन्त प्रसन्न होकर कहा— ॥ ८ ॥
@@ -194,6 +374,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग नडॆयुत्तिरुवाग कान्तिवन्त महाबाहु भरतनु शत्रुघ्न हागू इतर मन्त्रिगळल्लि अत्यन्त प्रसन्ननागि हेळिदनु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. tadaa* = then; *gachchhanneva* = proceeding further;
+*dyutimaan* = the valiant; *mahaabaahuH* = and the mighty armed; *bharataH* =
+Bharata; abraviit; spoke; *shatrughnam cha* = to Shatrughna; *hR^iSTaH* = in joy;
+*taan* = and those; *amaatyaamshcha* = ministers; *sarvashaH* = (who
+surrounded him) on every side.
+
+**अनुवादः**
+
+Then, proceeding further, the valiant and the mighty armed Bharata spoke to
+Shatrughna in joy, as also those ministers who surrounded him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +404,12 @@ _________________
 
 मन्ये प्राप्ताः स्म तं देशं भरद्वाजो यमब्रवीत् ।  
 नातिदूरे हि मन्येऽहं नदीं मन्दाकिनीमितः ॥ ९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+मन्ये प्राप्ताः स्म तम् देशम् भरद्वाजो यम् अब्रवीत् ।
+न अतिदूरे हि मन्ये अहम् नदीम् मन्दाकिनीम् इतः ॥ २-९९-९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -218,6 +422,23 @@ _________________
 महर्षि भरद्वाजरु हेळिद स्थानक्कॆ नावु बन्दन्तॆ अनिसुत्तदॆ. मन्दाकिनी नदियु इल्लिन्द दूरविल्ल ऎन्दु नानु तिळियुत्तेनॆ.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. manye* = I think; *praaptaaH sma* = we have reached; *tam
+desham* = that place; *yam* = about which; *bharadvaajaH* = Bharadwaja;
+*abraviit* = told (us); *aham* = I; *manye* = believe; *mandaakiniim
+nadiim* = Mandakini River; *naati duure* = is not so far; *itaH* = from here.
+
+**अनुवादः**
+
+"I think we have reached the place about which Bharadwaja directed us. I believe
+Mandakini River is not far from here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्चैर्बद्धानि चीराणि लक्ष्मणेन भवेदयम् ।  
@@ -228,6 +449,12 @@ _________________
 
 उच्चैर्बद्धानि चीराणि लक्ष्मणेन भवेदयम् ।  
 अभिज्ञानकृतः पन्था विकाले गन्तुमिच्छता ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+उच्चैर् बद्धानि चीराणि लक्ष्मणेन भवेद् अयम् ।
+अभिज्नान कृतः पन्था विकाले गन्तुम् इग्च्छता ॥ २-९९-१०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -240,6 +467,24 @@ _________________
 नोडि, ऎत्तरवागि नारुमडियन्नु कट्टिरुत्तारॆ. अकालदल्लि आश्रमदिन्द हॊरगॆ होगि बरुव लक्ष्मणनु आश्रम दारिय गुरुतिगागि ई रीति चिह्नॆ माडिरबहुदु. आश्रमक्कॆ होगुव दारियु इदे आगिरबल्लदु.॥10॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. chiiraaNi* = these pieces of bark; *baddhaami* = have been
+tied up; *uchchaiH* = from above; *ayam* = this; *bhavet* = may be;
+*panthaaH* = the path; *abhij^Naana kR^itaH* = provided as signs; *lakSmaNena*
+= by Lakshmana; *ichchhataa* = desiring; *gantum* = to find his way back;
+*akaale* = in odd hours (of darkness).
+
+**अनुवादः**
+
+"These pieces of bark have been tied up from above. This may be the path provided as
+signs by Lakshmana in order to find his way back in odd hours of darkness."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश्चोदात्तदन्तानां कुञ्जराणां तरस्विनाम् ।  
@@ -250,6 +495,12 @@ _________________
 
 इतश्चोदात्तदन्तानां कुञ्जराणां तरस्विनाम् ।  
 शैलपार्श्वे परिक्रान्तमन्योन्यमभिगर्जताम् ॥ ११ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+इदम् च उदात्त दन्तानाम् कुन्जराणाम् तरस्विनाम् ।
+शैल पार्श्वे परिक्रान्तम् अन्योन्यम् अभिगर्जताम् ॥ २-९९-११
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -262,6 +513,23 @@ _________________
 दॊड्ड-दॊड्ड दन्तगळुळ्ळ आनॆगळु वेगवागि ई कडॆयिन्द बन्दु परस्पर दूरदिन्दले गर्जिसुत्ता पर्वत पक्कदल्ले सुत्ताडुत्तिवॆ. (ई कडॆ बरलु तडॆयलॆन्दे लक्ष्मणनु ई चिह्नॆगळन्नु माडि इट्टिरुवनु.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. shailapaarshve* = at the side of the mountain; *idam* =
+this; *parikraantam* = is a roaming place; *kuN^jaraaNaam* = of elephants;
+*udaatta dantaanaam* = having huge teeth; *tarasvinaam* = violent;
+*abhigarjataam* = ferociously roaring at; *anyauyam* = each other.
+
+**अनुवादः**
+
+"At the side of the mountain, this is a roaming place of elephants, having huge
+teeth, violent as they are and ferociously roaring at each other."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमेवाधातुमिच्छन्ति तापसाः सततं वने ।  
@@ -272,6 +540,12 @@ _________________
 
 यमेवाधातुमिच्छन्ति तापसाः सततं वने ।  
 तस्यासौ दृश्यते धूमः सङ्कुलः कृष्णवर्त्मनः ॥ १२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यम् एव आधातुम् इग्च्छन्ति तापसाः सततम् वने ।
+तस्य असौ दृश्यते धूमः सम्कुलः कृष्ट वर्त्मनः ॥ २-९९-१२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -284,6 +558,23 @@ _________________
 तपस्विगळु यावातनन्नु संस्कारपूर्वक प्रतिष्ठापिसलु बयसुत्तारो अन्तह यज्ञेश्वरन दट्टवाद हॊगॆयु इल्लि कण्डुबरुत्तिदॆ.॥12॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. asau* = this; *samkulaH* = is an intense; *dhuumaH*
+= smoke; *dR^ishyate* = being seen; *tasya krishNa vartmanaH* = from that fire;
+*yameva* = which; *taapasaaH* = the sages; *vane* = in the forest;
+*satatam* = always; *ichchhanti* = desire; *aadhaatum* = to keep.
+
+**अनुवादः**
+
+"See this intense smoke coming from that fire which the sages in the forest always
+desire to keep in their hermitages."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राहं पुरुषव्याघ्रं गुरुसत्कारकारिणम् ।  
@@ -296,6 +587,12 @@ _________________
 आर्यं द्रक्ष्यामि संहृष्टं महर्षिमिव राघवम् ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अत्र अहम् पुरुष व्याघ्रम् गुरु सत्कार कारिणम् ।
+आर्यम् द्रक्ष्यामि सम्हृष्टो महर्षिम् इव राघवम् ॥ २-९९-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यहाँ मैं गुरुजनोंका सत्कार करनेवाले पुरुषसिंह आर्य रघुनन्दनका सदा आनन्दमग्न रहनेवाले महर्षिकी भाँति दर्शन करूँगा’ ॥ १३ ॥
@@ -304,6 +601,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्लि गुरु-हिरियर सत्कार माडुव पुरुष सिंह आर्य रघुनन्दननन्नु सदा आनन्दमग्ननागिरुव महर्षियन्तॆ नानु दर्शिसुवॆनु.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. atra* = here; *aham* = I; *drakSyaami* = can see;
+*samhR^ishTaH* = joyfully; *raaghavam* = Rama; *puruSavyaaghram* = the tiger
+among men; *gurusatkaarakaariNam* = who gives respect to elders; *aaryam* = as
+venerable a man; *maharSimiva* = as a sage.
+
+**अनुवादः**
+
+"Here, I can see joyfully Rama, the tiger among men, who gives respect to elders and
+is as venerable as a sage."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +635,12 @@ _________________
 मन्दाकिनीमनु प्राप्तस्तुं जनं चेदमब्रवीत् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथ गत्वा मुहूर्तम् तु चित्र कूटम् स राघवः ।
+मन्दाकिनीम् अनुप्राप्तः तम् जनम् च इदम् अब्रवीत् ॥ २-९९-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर रघुकुलभूषण भरत दो ही घड़ीमें मन्दाकिनीके तटपर विराजमान चित्रकूटके पास जा पहुँचे और अपने साथवाले लोगोंसे इस प्रकार बोले— ॥
@@ -329,6 +649,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर भरतनु मुहूर्तमात्रदल्लि मन्दाकिनि तीरदल्लि विराजमान चित्रकूटद समीप तलुपि, तन्न जॊतॆय जनरल्लि इन्तॆन्दनु.॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. atha* = thereafter; *gatvaa* = proceeding;
+*muhuurtam* = for a while ; *chitrakuuTam* = on Chitrakuta mountain;
+*anupraaptaH* = and reaching mandaakiniim = the River Mandakini; *sah raaghavaH* =
+that Bharata; *abraviit* = spoke; *idam* = these words; *tam janam* = to those
+people (his ministers and others).
+
+**अनुवादः**
+
+Proceeding for a while on Chitrakuta mountain and reaching the River Mandakini, that
+Bharata said to his ministers and others as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +684,12 @@ _________________
 जनेन्द्रो निर्जनं प्राप्य धिङ्मे जन्म सजीवितम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+जगत्याम् पुरुष व्याघ्र आस्ते वीर आसने रतः ।
+जन इन्द्रो निर्जनम् प्राप्य धिन् मे जन्म सजीवितम् ॥ २-९९-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अहो! मेरे ही कारण पुरुषसिंह महाराज श्रीरामचन्द्र इस निर्जन वनमें आकर खुली पृथ्वीके ऊपर वीरासनसे बैठते हैं; अतः मेरे जन्म और जीवनको धिक्कार है ॥ १५ ॥
@@ -354,6 +698,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्यो! नन्न कारणदिन्दले पुरुषसिंह महाराज श्रीरामनु ई निर्जन वनदल्लि बन्दु बरी नॆलदल्लि वीरासनदिन्द कुळितुकॊळ्ळुवनु. आद्दरिन्द नन्न जन्म मत्तु जीवनक्कॆ धिक्कारविरलि.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. puruSa vyaaghraH* = the foremost of men; *janendraH* = and
+the Lord of the people; *praapya* = having sought; *nirjanam* = seclusion;
+*aaste* = sat; *jagatyaam* = on the floor; *rataH* = delighted;
+*viiraasane* = in the posture of a hero (with his left foot placed on his right knee);
+*dhik* = O fie; *me* = unto my; *janma* = birth; *sajiivitam* = and
+life!.
+
+**अनुवादः**
+
+"The foremost of men and the Lord of the people, having sought seclusion, sat on the
+floor, delighted as he was in the posture of a hero (with his left foot placed on his right knee).
+O Fie unto my birth and life!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +742,24 @@ _________________
 नन्निन्दागिये महातेजस्वी लोकनाथ रघुनाथनु भारी सङ्कटदल्लि सिलुकि समस्त कामनॆगळन्नु त्यजिसि वनदल्लि वासिसुत्तिद्दानॆ.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. raaghavaH* = Rama; *lokanaathaH* = the Lord of Men;
+*mahaadyutiH* = with great lustre; *praaptaH* = has been overtaken vyasanam = by this
+msfortune; *matkR^ite* = because of me; *parityajya* = and leaving; *sarvaan*
+= all; *kaamaan* = enjoyments; *vasati* = is residing; *vane* = in the
+forest.
+
+**अनुवादः**
+
+"Rama the Lord of Men with great luster, has been overtaken by this misfortune
+because of me and leaving all enjoyments, is living in the forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति लोकसमाक्रुष्टः पादेष्वद्य प्रसादयन् ।  
@@ -390,6 +772,12 @@ _________________
 रामं तस्य पतिष्यामि सीताया लक्ष्मणस्य च ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इति लोक समाक्रुष्टः पादेषु अद्य प्रसादयन् ।
+रामस्य निपतिष्यामि सीतायाः च पुनः पुनः ॥ २-९९-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसलिये मैं सब लोगोंके द्वारा निन्दित हूँ, अतः मेरे जन्मको धिक्कार है! आज मैं श्रीरामको प्रसन्न करनेके लिये उनके चरणोंमें गिर जाऊँगा । सीता और लक्ष्मणके भी पैरों पड़ूँगा’ ॥ १७ ॥
@@ -398,6 +786,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द नानु ऎल्ल जनरिन्द निन्दितनागिद्देनॆ, नन्न जन्मक्कॆ धिक्कारविरलि. इन्दु नानु श्रीरामनन्नु प्रसन्नगॊळिसलु अवन चरणगळल्लि बीळुवॆनु. सीतॆ मत्तु लक्ष्मणर कालन्नु हिडियुवॆनु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. iti* = thus; *lokasamaakruSTaH* = abhored by the world; (I
+will); *adya* = today; *nipatiSyaami* = fall; *paadeSu* = on the feet;
+*raamasya* = of Rama; *siitaayaaH* = Seetha; *lakSmaNasya cha* = and
+Lakshmana; *prasaadayam* = and seek to regain (Rama's) grace.
+
+**अनुवादः**
+
+"Thus abhhored by the world, I will fall on the feet of Rama, Seetha and Lakshmana
+and seek to regain Rama's grace."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -535,6 +940,50 @@ _________________
 अल्लि नीरुडद चर्मदिन्द माडिद अनेक स्वर्णमय गोदाङ्गुलिगळन्नु तूगुहाकलागित्तु. सिंहद गुहॆय मेलॆ जिङ्कॆ आक्रमणमाडलागुवुदिल्लवो अन्तये आ पर्णशालॆयु शत्रुगळिगॆ अगम्य मत्तु अजेयवागित्तु.॥23॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18;19;20;21;22;23. dasharathaatmajaH* = (As) Bharata;
+*samvilapam* = was lamenting; *evam* = thus; *dadarsha* = (he) beheld;
+*tasmin vane* = in that forest; *parNashaalaam* = a leafy hut; *mahatiim* =
+splendid; *puNyam* = sacred; *manoramaam* = and charming; *aavR^itam* = which
+was covered; *bahubhiH* = with many; *mR^idubhiH* = soft; *parNaiH* = leaves;
+*saala taalaashvakarNaanaam* = of Sala; Tala and Ashvakarna trees; *tiirNaam* = and
+overspread; *kushaiH* = with blades of Kusa grass; *adhvare* = in a sacrificial
+performance; *vishaalam vedimiva* = appearing like an extensive altar; *shobhitaam* =
+and it was adorned; *kaarmukaiH* = with bows; *rukmapR^iSThaiH* = plated with gold;
+*shakraayudhanikaashaiH* = like unto the weapons of Indra the Lord of celestials; *bhaara
+saadhanaiH* = constructed for heroic exploits; *mahaa saaraiH* = having great power;
+*shatru baadhakaiH* = the torments of their foes; *shobhitaam* = graced;
+*ghoraiH* = with fearful; *sharaiH* = arrows; *tuuNiigataiH* = in their
+quivers; *arkarashmi pratiikaashaiH* = like unto the rays of the sun (bright);
+*sarpaiH* = as serpants; *diipta vadanaiH* = with shining hoods; *bhogavatiim
+iva* = in the same way of Bhogavati (the realm of Nagas); *viraajitaam* = decked;
+*asibhyaam* = with a couple of swords; *mahaa rajatavaasobhyaam* = encased in sheaths
+of gold; *shobhitaam* = and adorned; *charmabhyaam* = with two shields;
+*rukmabindu vichitraabhyaam* = decorated with flowers of gold; *godhaaN^gulitraiH* =
+finger-guards; *kaaNchana bhuuSitaiH* = embroidered with gold; *chitraiH* = in
+different colours; *aasaktaiH* = suspened on walls; *anaadhR^iSTyaam* = which hut was
+unassailable; *arisamghaiH* = by hordes of enemies; *simhaagnhamiva* = as is a lion's
+cave; *mR^igaiH* = to deer.
+
+**अनुवादः**
+
+As Bharata was lamenting thus, he beheld in that forest, a splendid and sacred leafy
+hut, which was covered with many soft leaves of Sala, Tala and Asvakarna trees, overspread with
+blades of Kusa grass in a sacrificial performance, appearing like an extensive altar and it was
+adorned with bows plated with gold, like unto the weapons of Indra the Lord of celestials,
+constructed for heroic exploits, having great power, the torments of their foes, graced with
+fearful arrows in their quivers, like unto the rays of the sun, bright as serpents with shining
+hoods, in the same way of Bhagavati (the realm of Nagas), decked with a couple of swords encased in
+sheaths of gold, adorned with two shields decorated with flowers of gold, finger-guards embroidered
+with gold and in different colours suspended on walls and which hut was unassailable by hordes of
+enemies as is a lion's cave to deer.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रागुदक्प्रवणां वेदिं विशालां दीप्तपावकाम् ।  
@@ -547,6 +996,12 @@ _________________
 ददर्श भरतस्तत्र पुण्यां रामनिवेशने ॥ २४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्राग् उदक् स्रवणाम् वेदिम् विशालाम् दीप्त पावकाम् ।
+ददर्श भरतः तत्र पुण्याम् राम निवेशने ॥ २-९९-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामके उस निवासस्थानमें भरतने एक पवित्र एवं विशाल वेदी भी देखी, जो ईशानकोणकी ओर कुछ नीची थी । उसपर अग्नि प्रज्वलित हो रही थी ॥ २४ ॥
@@ -555,6 +1010,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन आ निवास स्थानदल्लि भरतनु ऒन्दु पवित्रवू विशालवू आद वेदियन्नु नोडिदनु. अदु ईशान कोणदल्लि तग्गागिद्दु, अदर मेलॆ अग्नियु प्रज्वलिसुत्तित्तु.॥24॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. bharataH* = Bharata; *dadarsha* = saw; *tatra* =
+there; *vedim* = a sacrificial altar; *praagudakpravaNaam* = in the north-east
+corner; having a steep descent; *vishaalaam* = extensive; *diipta paavakaam* = and
+having a burned fire; *puNyaam* = and sacred; *raamaniveshane* = in the hermitage of
+Rama.
+
+**अनुवादः**
+
+Bharata saw a sacrificial altar in the north-east corner having a steep descent,
+extensive in area and having a sacred fire burned in the hermitage of Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +1056,23 @@ _________________
 मुहूर्तकाल पर्ण शालॆय कडॆगॆ नोडि भरतनु कुटिरदल्लि कुळितिरुव पूजनीय तन्नण्णनाद श्रीरामनन्नु नोडिदनु. अवनु तलॆयल्लि जटामण्डल धरिसिकॊण्डु, कृष्ण मृगचर्म मत्तु वल्कलगळन्नु धरिसिद्दनु. श्रीरामनु बळियल्ले कुळितु, प्रज्वलित अग्नियन्तॆ तन्न दिव्यप्रभॆयन्नु हरडुत्तिरुवुदन्नु भरतनु नोडिदनु.॥25-26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25.niriikSya* = looking around; *muhuurtam* = for a moment;
+*saH bharataH* = that Bharata; *dadarsha* = beheld; *gurm* = his elder
+brother; *raamam* = Rama; *aasiinam* = seated; *uTaje* = in the hut;
+*jaTaamaN^Dala dhaariNam* = wearing matted locks.
+
+**अनुवादः**
+
+Looking around for a moment, Bharata beheld his elder brother, Rama himself seated
+in the hut, wearing matted locks.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहस्कन्धं महाबाहुं पुण्डरीकनिभेक्षणम् ।  
@@ -609,6 +1099,31 @@ _________________
 समुद्राङ्कित पृथिविय ऒडॆय, धर्मात्मा महाबाहु श्रीरामनु सनातन ब्रह्मनन्तॆ दर्भॆगळन्नु हासि वेदिकॆय मेलॆ कुळितिरुवनु. अवन हॆगलु सिंहदन्तिद्दु, नेत्रगळु अरळिद कमलदन्तॆ इद्दवु. अवनु वेदिकॆय मेलॆ सीता लक्ष्मणरॊडनॆ विराजिसुत्तिद्दनु.॥27-28॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+26; 27; *28. dadarsha* = (Bharata) saw; *tam raamam* = that
+Rama; *kR^iSnaajinadharam* = clad in an antelope-skin; *chiira valkala vaasanam* =
+and robes of bark; *aasiinam* = seated closely; *paavakopamam* = resembling a fire
+(in brilliance); *simha skandham* = with the neck and shoulders of a lion; *mahaa
+baahum* = mighty arms; *puN^DariikanibhekSaNam* = and eyes resembling the lotus;
+*dharmachaariNam* = the very virtuous; *bhartaaram* = lord; *pR^ithivyaaH* =
+of the Earth; *saagaraantaayaaH* = extending upto the ocean; *shaashvatam* = the
+eternal; *brahmaaNamiva* = Brahma; *upaviSTam* = and seated; *sthaNNile* = on
+the ground; *darbhasamstiirNe* = spread with Darbha grass; *siitayaa lakSmaNena cha*
+= with Seetha and Lakshman.
+
+**अनुवादः**
+
+Bharata saw that Rama clad in an antelope-skin and robes of bark, seated close by,
+resembling a fire (in brilliance), with the neck and shoulders of a lion, mighty arms and eyes
+resembling the lotus, the very virtuous Lord of the Earth extending upto the ocean, the Eternal
+Brahma, and seated on the ground spread with Darbha grass, with Seetha and Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा भरतः श्रीमान् शोकमोहपरिप्लुतः ।  
@@ -621,6 +1136,12 @@ _________________
 अभ्यधावत धर्मात्मा भरतः केकयीसुतः ॥ २९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तम् दृष्ट्वा भरतः श्रीमान् दुह्ख मोह परिप्लुतः ।
+अभ्यधावत धर्म आत्मा भरतः कैकयी सुतः ॥ २-९९-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्हें इस अवस्थामें देख धर्मात्मा श्रीमान् कैकेयीकुमार भरत शोक और मोहमें डूब गये तथा बड़े वेगसे उनकी ओर दौड़े ॥ २९ ॥
@@ -629,6 +1150,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनन्नु ई स्थितियल्लि नोडिद धर्मात्मा श्रीमान् कैकेयिकुमार भरतनु शोक-मोहगळल्लि मुळुगि, बहळ वेगवागि अवन कडॆगॆ ओडिदनु.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. dR^iSTvaa* = beholding; *tam* = him; *shriimaan* =
+the illustrious; *dharmaatmaa* = and the high-souled; *bharataH* = Bharata;
+*kaikayiisutaH* = the son of Kaikeyi; *duHkha shoka pariplutaH* = distraught by the
+grief that passessed him; *abhyadhaavata* = rushed towards Rama.
+
+**अनुवादः**
+
+Beholding him, the illustrious and the high-souled Bharata the son of Kaikeyim
+distraught by the grief that possessed him, rushed towards Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,6 +1184,12 @@ _________________
 अशक्नुवन् वारयितुन्धैर्याद्वचनमब्रुवन् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+दृष्ट्वा च विललाप आर्तो बाष्प संदिग्धया गिरा ।
+अशक्नुवन् धारयितुम् धैर्याद् वचनम् अब्रवीत् ॥ २-९९-३०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 भाईकी ओर दृष्टि पड़ते ही भरत आर्तभावसे विलाप करने लगे । वे अपने शोकके आवेगको धैर्यसे रोक न सके और आँसू बहाते हुए गद्‍गद वाणीमें बोले— ॥ ३० ॥
@@ -654,6 +1198,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अण्णन कडॆगॆ दृष्टि बीळुत्तले भरतनु आर्तभावदिन्द विलापिस तॊडगिदनु. अवनु तन्न शोकद आवेगवन्नु धैर्यदिन्द तडॆयलारदॆ कम्बनिगरॆयुत्त गद्गद वाणियिन्द नुडिदनु .॥30॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. dR^iSTvaiva* = on seeing (his brother); *(Bharata) vilalaapa
+arto* = broke into lamentations; *giraa* = and in a voice; *baaSpa samdigdhayaa*
+= strangled with sobs; *ashaknuan* = unable; dhaarayitum- to restrain his agony;
+*dhairyaat* = with firmness; *abraviit* = spoke; *vachanam* = (those)
+words.
+
+**अनुवादः**
+
+On seeing his brother, Bharata broke into lamentations and in a voice strangled with sobs, unable to restrain his agony with firmeness, said:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -671,6 +1232,12 @@ _________________
 वन्यैमृगैरुपासीनः सोऽयमास्ते ममाग्रजः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यः संसदि प्रकृतिभिर् भवेद् युक्त उपासितुम् ।
+वन्यैर् मृगैर् उपासीनः सो अयम् आस्ते मम अग्रजः ॥ २-९९-३१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हाय! जो राजसभामें बैठकर प्रजा और मन्त्रिवर्गके द्वारा सेवा तथा सम्मान पानेके योग्य हैं, वे ही ये मेरे बड़े भ्राता श्रीराम यहाँ जंगली पशुओंसे घिरे हुए बैठे हैं ॥
@@ -679,6 +1246,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्यो! राजसभॆयल्लि कुळितु प्रजाजनरिन्द, मन्त्रिगळिन्द सेवॆ-सम्मान पडॆयलु योग्यनाद ई अण्णनाद श्रीरामनु इल्लि काडुप्राणिगळिन्द सुत्तुवरिदु कुळितिरुवनल्ल.॥31॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31Mama agrajaH* = my elder brother; *yaH* = who;
+*bhavet* = becomes; *yuktaH* = eligible; *upaasitum* = to be honoured;
+*samsadi* = in an assembly; *prakR^itibhiH* = by the body of ministers; *ayam*
+= this; *saH* = he as such; *aaste* = is; *upaasinaH* = being served;
+*mR^igaiH* = by wild beasts; *vanyaiH* = in the jungle.
+
+**अनुवादः**
+
+"My elder brother who is fit to be honoured in an assembly by a body of ministers
+around him, is now being served by a body of wild beasts around him in this jungle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -693,6 +1278,12 @@ _________________
 मृगाजिने सोऽयमिह प्रवस्ते धर्ममाचरन् ॥ ३२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वासोभिर् बहु साहस्रैर् यो महात्मा पुर उचितः ।
+मृग अजिने सो अयम् इह प्रवस्ते धर्मम् आचरन् ॥ २-९९-३२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो महात्मा पहले कई सहस्र वस्त्रोंका उपयोग करते थे, वे अब धर्माचरण करते हुए यहाँ केवल दो मृगचर्म धारण करते हैं ॥ ३२ ॥
@@ -701,6 +1292,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई महात्मनु मॊदलु साविरारु वस्त्रगळन्नु उपयोगिसुत्तिद्दवनु ईग धर्माचरणॆ माडुत्ता इल्लि केवल ऎरडु मृगचर्मगळन्नु धरिसुत्तिरुवनल्ल.॥32॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. saH* = that; *mahaatmaa* = magnanimous hero; *ayam*
+= this one; *yaH* = who; *puraa* = formerly; *aacharan* = used;
+*uchitaH* = to have fit; *bahusaharaiH* = and countless; *vaasobhiH* =
+articles of apparel; *aacharan* = and following; *dharmam* = pravaste = is wearing
+(now); *mR^igaajine* = two antelope skins.
+
+**अनुवादः**
+
+"That magnanimous hero, who formerly used to possess countless articles of apparel
+is now wearing two antelope-skins, following ascetic righteousness.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +1327,12 @@ _________________
 सोऽयं जटाभारमिमं वहते राघवः कथम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अधारयद् यो विविधाः चित्राः सुमनसः तदा ।
+सो अयम् जटा भारम् इमम् सहते राघवः कथम् ॥ २-९९-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो सदा नाना प्रकारके विचित्र फूलोंको अपने सिरपर धारण करते थे, वे ही ये श्रीरघुनाथजी इस समय इस जटाभारको कैसे सहन करते हैं? ॥ ३३ ॥
@@ -726,6 +1341,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सदाकाल नाना प्रकारद विचित्रपुष्पगळन्नु तलॆयल्लि धरिसुत्तिद्द ई रघुनाथनु ईग जटाभारवन्नु हेगॆ सहिसबल्लनु.॥33॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. katham* = how; *ayam raaghavaH* = this Rama; *yaH* =
+who; *tadaa* = then; *aadhaarayat* = donned; *vividhaaH* = various kinds;
+*chitraaH* = of colourful; *sumanasaH* = flowers; *saH* = he; *sahate*
+= bears; *imam jaTaabhaaram* = this burden of matted locks?
+
+**अनुवादः**
+
+"How this Rama, who used to wear various kinds of colourful flowers, is bearing this
+burden of matted locks now?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -738,6 +1370,12 @@ _________________
 
 यस्य यज्ञैर्यथादिष्टैर्युक्तो धर्मस्य सञ्चयः ।  
 शरीरक्लेशसम्भूतं स धर्मं परिमार्गते ॥ ३४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यस्य यज्नैर् यथा आदिष्टैर् युक्तो धर्मस्य संचयः ।
+शरीर क्लेश सम्भूतम् स धर्मम् परिमार्गते ॥ २-९९-३४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -750,6 +1388,24 @@ _________________
 शास्त्रोक्त यज्ञगळ अनुष्ठानद मूलक धर्म सङ्ग्रहमाडुत्तिद्दवने ई समयदल्लि शरीरक्कॆ कष्ट कॊट्टुगळिसुव धर्मद अनुसन्धान माडुत्तिरुवनल्ल.॥34॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. yasya* = for whom; *yuktaH* = is appropriate;
+*samchayaH* = an affluence; *dharmasya* = of righteousness; *yaj^NaiH* =
+obtained by sacrificial rites; *yathaadiSTaiH* = performed according to the prescribed
+injunctions; *saH* = that Rama; *parimaargate* = is striving after; *dharmam*
+= a righteousness; *shariirakleshasambhuutam* = obtained from bodily suffering.
+
+**अनुवादः**
+
+"He who acquired merit through countless sacrifices performed according to the
+prescribed injunctions, now follows the path of righteousness through asceticism!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनेन महार्हेण यस्याङ्गमुपसेवितम् ।  
@@ -760,6 +1416,12 @@ _________________
 
 चन्दनेन महार्हेण यस्याङ्गमुपसेवितम् ।  
 मलेन तस्याङ्गमिदं कथमार्यस्य सेव्यते ॥ ३५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+चन्दनेन महा अर्हेण यस्य अन्गम् उपसेवितम् ।
+मलेन तस्य अन्गम् इदम् कथम् आर्यस्य सेव्यते ॥ २-९९-३५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -772,6 +1434,23 @@ _________________
 अमूल्य चन्दनदिन्द यार शरीरद सेवॆ नडॆयुत्तित्तो, अदे नन्न पूज्य अण्णन शरीरवु कॊळॆयिन्द हीगॆ सेवितवागिदॆयल्ल.॥35॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. yasya tasya* = He whose; *aN^gam* = body; (was formerly);
+*upasevitam* = rendered fragrant; *chandanena* = by sandal paste; *mahaarham*
+= the white one; *katham* = how; *idam aNgam* = this body; *aaryasya* = of the
+venerable elder brother; *sevyate* = is smeared; *malena* = with dust?
+
+**अनुवादः**
+
+"He whose body was formerly rendered fragrant by white sandal paste, has only dust
+with which to smear the limbs of this venerable elder brother!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्निमित्तमिदं दुःखं प्राप्तो रामः सुखोचितः ।  
@@ -782,6 +1461,12 @@ _________________
 
 मन्निमित्तमिदं दुःखं प्राप्तो रामः सुखोचितः ।  
 धिग्जीवितं नृशंसस्य मम लोकविगर्हितम् ॥ ३६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+मन् निमित्तम् इदम् दुह्खम् प्राप्तो रामः सुख उचितः ।
+धिग् जीवितम् नृशंसस्य मम लोक विगर्हितम् ॥ २-९९-३६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -794,6 +1479,24 @@ _________________
 अय्यो! सर्वथा सुख भोगिसलु योग्यवाद श्रीरामनु नन्न कारणदिन्दले इन्तह दुःखदल्लि बिद्दिरुवनु. अय्यो! नानु ऎष्टु क्रूरियागिद्देनॆ? नन्न ई लोकनिन्दित जीवनक्कॆ धिक्कारविरलि.॥36॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. raamaH* = Rama; *sukhochitaH* = who used to have comfort;
+*praaptaH* = has got; *idam duHkham* = this unpleasantness; *mannimittam* =
+because of me; *dhik* = cursed be; *mama* = my; *nR^ishamsam* =
+reprechensible; *jiivitam* = existence; *lokavigarhitam* = that the whole world
+condemns!
+
+**अनुवादः**
+
+"Rama who used to have happiness, has fallen into this misfortune, because of me
+cursed be my reprehensive existence that the whole world condemns!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं विलपन् दीनः प्रस्विन्नमुखपङ्कजः ।  
@@ -804,6 +1507,12 @@ _________________
 
 इत्येवं विलपन् दीनः प्रस्विन्नमुखपङ्कजः ।  
 पादावप्राप्य रामस्य पपात भरतो रुदन् ॥ ३७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+इत्य् एवम् विलपन् दीनः प्रस्विन्न मुख पन्कजः ।
+पादाउ अप्राप्य रामस्य पपात भरतो रुदन् ॥ २-९९-३७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -816,6 +1525,24 @@ _________________
 ई प्रकार विलाप माडुत्ता भरतनु अत्यन्त दुःखितनागि मुखदल्लि बॆवरिन हनिगळु काणिसिकॊण्डवु. अवनु श्रीरामचन्द्रन चरणगळवरॆगॆ मुट्टुव मॊदले भूमियल्लि कुसिदुबिद्दनु.॥37॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. ityevam* = thus; (did); *diinaH* = the pitiable;
+*bharataH* = Bharata; *vilapan* = lament; *prasvinnamukha paNkajaH* =
+perspiration be-dewing his lotus-like countenance; *apraapya* = and without touching;
+*raamasya* = Rama's; *paadau* = feet; *papaata* = fell down; *rudam* =
+groaming.
+
+**अनुवादः**
+
+Thus did that pitiable Bharata lament, perspiration be-dewing his lotus-like
+countenance and, without touching Rama's feet, fell down grooming.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखाभितप्तो भरतो राजपुत्रो महाबलः ।  
@@ -828,6 +1555,12 @@ _________________
 उक्त्वाऽऽर्येति सकृद् दीनं पुनर्नोवाच किञ्चन ॥ ३८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+दुह्ख अभितप्तो भरतो राज पुत्रो महा बलः ।
+उक्त्वा आर्य इति सकृद् दीनम् पुनर् न उवाच किंचन ॥ २-९९-३८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अत्यन्त दुःखसे संतप्त होकर महाबली राजकुमार भरतने एक बार दीनवाणीमें ‘आर्य’ कहकर पुकारा । फिर वे कुछ न बोल सके ॥ ३८ ॥
@@ -836,6 +1569,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्यन्त दुःखदिन्द सन्ततप्तनागि महाबलि राजकुमार भरतनु ऒम्मॆ दीनवाणियल्लि ‘आर्यने’ ऎन्दु कूगिदनु मत्तॆ अवनिन्द मातनाडलागलिल्ल.॥38॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*38. duHkhaabhitaptaH* = overcome with grief; *mahaabalaH* = the
+highly valiant; *raajaputraH* = prince; *bharataH* = Bharata; *uktvaa* = cried
+out; *aarya iti* = O Noble one"; *sakR^it* = once; *diinam* = and in his
+distress; *novaacha* = was unable to speak; *kimchana* = a little; *punaH* =
+further.
+
+**अनुवादः**
+
+Overcome with grief, the highly valiant prince Bharata cried out "O, Noble One!"
+once and in his distress, was unable to speak anything further.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -853,6 +1604,12 @@ _________________
 आर्येत्येवाभिसुङ्क्रुश्य व्याहर्तुं नाशकत्ततः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+बाष्प अपिहित कण्ठः च प्रेक्ष्य रामम् यशस्विनम् ।
+आर्य इत्य् एव अभिसम्क्रुश्य व्याहर्तुम् न अशकत् ततः ॥ २-९९-३९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 आँसुओंसे उनका गला रुँध गया था । यशस्वी श्रीरामकी ओर देख वे ‘हा! आर्य’ कहकर चीख उठे । इससे आगे उनसे कुछ बोला न जा सका ॥ ३९ ॥
@@ -861,6 +1618,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कम्बनिगळिन्द अवन कण्ठ बिद्दुकॊण्डितु. यशस्वी श्रीरामन कडॆगॆ नोडि अवनु ‘हा! आर्य’ ऎन्दु गट्टियागि हेळिदनु. मुन्दॆ अवनु एनन्नू मातनाडदादनु.॥39॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. samkR^ishya* = crying at the top of his voice; *aaryetyeva*
+= "O Noble One" only; *prekSya* = on seeing; *yashasvinam* = the illustrious;
+*raamam* = Rama; *naashakat* = he was unable; *vyaahartum* = to speak;
+*tadaa* = then; *atha* = further; *baaSpaabhihata kaNThashcha* = his throat
+choked with tears.
+
+**अनुवादः**
+
+Crying at the top of his voice, "O, Noble One" only, on seeing the illustrious Rama,
+he was unable to speak further, his throat choked with tears.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +1653,12 @@ _________________
 तावुभौ स समालिङ्ग्य रामोऽप्यश्रूण्यवर्तयत् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शत्रुघ्नः च अपि रामस्य ववन्दे चरणौ रुदन् ।
+ताउ उभौ स समालिन्ग्य रामो अप्य् अश्रूण्य् अवर्तयत् ॥ २-९९-४०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 फिर शत्रुघ्नने भी रोते-रोते श्रीरामके चरणोंमें प्रणाम किया । श्रीरामने उन दोनोंको उठाकर छातीसे लगा लिया । फिर वे भी नेत्रोंसे आँसुओंकी धारा बहाने लगे ॥ ४० ॥
@@ -886,6 +1667,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्तर शत्रुघ्ननु अळुत्तळुत्ता श्रीरामन चरणगळल्लि वन्दिसिदनु. श्रीरामनु आ इब्बरन्नू ऎब्बिसि ऎदॆगॊत्तिकॊण्डनु मत्तॆ अवनू कम्बनिगरॆदनु.॥40॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. shatrughnashchaapi* = Shatrughna too; *rudan* = weaping;
+*vavande* = throw himself; *raamasya* = at Rama's; *charaNau* = feet; *saH
+raamashcha* = and that Rama too; *samaaliN^gya* = embracing; *tau ubhau* = them
+both; *avartayat* = could not restrain; *ashruuNi* = his tears.
+
+**अनुवादः**
+
+Shatrughna too, weeping, threw himself at Rama's feet and Rama too, embracing them
+both, allowed his tears to fall.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -909,9 +1707,35 @@ _________________
 यथाम्बरे शुक्रबृहस्पतिभ्याम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः सुमन्त्रेण गुहेन चैव ।
+समीयतू राज सुताउ अरण्ये ।
+दिवा करः चैव निशा करः च ।
+यथा अम्बरे शुक्र बृहस्पतिभ्याम् ॥ २-९९-४१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तत्पश्चात् राजकुमार श्रीराम तथा लक्ष्मण उस वनमें सुमन्त्र और निषादराज गुहसे मिले, मानो आकाशमें सूर्य और चन्द्रमा, शुक्र और बृहस्पतिसे मिल रहे हों ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. tataH* = then; *araNye* = in that forest;
+*raajasutau* = the princes Rama and Lakshmana; *samiiyataH* = were seen;
+*sumantreNa* = by Sumantra; *guhena chaiva* = and Guha; *yathaa* = as;
+*ambare* = in the sky; *divaakarashchaiva* = the sun; *nishaakarashcha* = and
+the moon (are seen in conjunction); *shukra bR^ihaspatibhyaam* = with Venus and Jupiter.
+
+**अनुवादः**
+
+Then, in that forest, the princes Rama and Lakshmana were seen by Sumantra and Guha,
+as in the sky, the sun and the moon are seen in conjunction with Venus and Jupiter.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -935,6 +1759,14 @@ _________________
 त्वश्रूण्यमुञ्चन् प्रविहाय हर्षम् ॥ ४२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तान् पार्थिवान् वारण यूथप आभान् ।
+समागतामः तत्र महत्य् अरण्ये ।
+वन ओकसः ते अपि समीक्ष्य सर्वे अप्य् ।
+अश्रूण्य् अमुन्चन् प्रविहाय हर्षम् ॥ २-९९-४२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 यूथपति गजराजपर बैठकर यात्रा करनेयोग्य उन चारों राजकुमारोंको उस विशाल वनमें आया देख समस्त वनवासी हर्ष छोड़कर शोकके आँसू बहाने लगे ॥ ४२ ॥
@@ -943,6 +1775,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यूथपति गजराजन मेलॆ कुळितु पयणिसलु योग्यराद आ नाल्वरू राजकुमाररु आ विशाल काडिगॆ बन्दिरुवुदन्नु नोडि समस्त वनवासिगळु हर्षरहितरागि शोकाश्रुगळन्नु हरिसतॊडगिदरु.॥42॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. sarve* = all; *te* = those; *vanaukasaH* = dwellers
+in the woods; *samiikSya* = seeing; *taan paarthivaan* = those princes;
+*vaaraNayuuthapaabhaan* = resembling the leaders of elephant-herbs; *samaagataan* =
+meeting together; *tatra* = there; *mahati* = in that great; *araNye* =
+forest; *pravihaaya* = losing; *harSam* = their cheerfulness; *aasmuNahan* =
+shed; *ashruuNi* = tears.
+
+**अनुवादः**
+
+All those dwellers in the woods, seeing those princes resembling leaders of
+elephant-herbs meeting together there in that great forest, losing their cheerfulness, began to
+shed tears.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -2,6 +2,17 @@
 title = "०२३ रामेण शकुनवर्णनम्"
 title_english = "023 Rama explains to Lakshmana the various portents"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Rama explains to Lakshmana the various portents, he observes around him, that signal
+a destructive war fare. He orders for formation of battalions in the army and surges forth together
+with the battalions towards Lanka.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
 </details>
@@ -23,6 +34,12 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 सौमित्रिं सम्परिष्वज्य इदं वचनमब्रवीत् ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।
+सौमित्रिम् सम्परिष्वज्य इदम् वचनम्ब्रवीत् ॥ ६-२१-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उत्पातसूचक लक्षणोंके ज्ञाता तथा लक्ष्मणके बड़े भाई श्रीरामने बहुत-से अपशकुन देखकर सुमित्राकुमार लक्ष्मणको हृदयसे लगाया और इस प्रकार कहा—
@@ -31,6 +48,23 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 उत्पात सूचकवाद लक्षणगळन्नु तिळिदिद्द लक्ष्मणाग्रज श्रीरामनु तम्मनाद लक्ष्मणनन्नु आलिङ्गिसि कॊण्डु हीगॆ हेळिदनु.॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. lakshhmaNa puurvajaH* = Rama; *nimittaj^NaH* = who was
+acquainted with omens; *dR^IshhTNaa* = on seeing; *nimittaani* = the omens;
+*samparishhvajya* = embraced; *soumitrim* = Lakshmana; *abraviit* = and spoke;
+*idam* = these; *vachanam* = words.
+
+**अनुवादः**
+
+Rama, who was well acquainted with portents, on seeing the portents around, embraced
+Lakshmana and spoke as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,6 +87,25 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! शीतलवाद नीरु मत्तु कन्द मूल-फलगळिरुव अरण्यवन्नु वासक्कागि आश्रयिसि आ सैन्य समूहवन्नु कॆलवु भागगळल्लि विङ्गडिसि अवन्नू व्यॆहक्रमदल्लि निल्लिसि अग्रभागदल्लि नावु निल्लोण.॥2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. lakshhmaNa* = O; Lakshmana; *parigR^ihya* = acquiring (this
+region provided with); *shiitam* = cold; *udakam* = water; *vanaanicha* = and
+woods; *phalavanti* = abounding in fruit; *samvibhajya* = let us speedily divide;
+*idam* = this; *balougham* = multitude of forces; (into battalions); *vyuuhya*
+= and drawing it up in battle array; *tishhThema* = we shall remain stand at attention.
+
+**अनुवादः**
+
+"O, Lakshmana! Acquiring this region endowed with cold water and woods abounding in
+fruits, let us speedily divide this multitude of forces into battalions and drawing it up in battle
+array, we shall stand attentive."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,6 +133,23 @@ _________________
 समस्तलोकगळन्नु विनाशगॊळिसुव भीषणवाद भयवु सन्निहित वागिरुवन्तॆ नानु नोडुत्तिद्देनॆ. इदु ऋक्ष्म-वानर-राक्षस वीरर विनाशद सूचकवागिदॆ.॥3॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. pashyaami* = I see; *upasthitam* = an impending;;
+*bhayam* = danger; *bhiimam* = which is terrific; *lokakshhayakaram* = causing
+destruction to the world; *prabarhaNam* = and torture; *praviiraaNaam* = the eminent
+heroes; *R^ikshha vaanara raakshhasaam* = among bears; monkeys and demons.
+
+**अनुवादः**
+
+"I perceive an impending danger which will be terrific, causing destruction to the
+world, and torture to the eminent heroes among bears monkeys and demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाताश्च कलुषा वान्ति कम्पते च वसुन्धरा ।  
@@ -92,6 +162,12 @@ _________________
 पर्वताग्राणि वेपन्ते पतन्ति च महीरुहाः ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वाताश्च कलुषा वान्ति कम्पते च वसुन्धरा ।
+पर्वताग्राणि वेपन्ते पतन्ति च महीरुःआः ॥ ६-२१-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘धूलसे भरी हुई प्रचण्ड वायु चल रही है । धरती काँपती है । पर्वतोंके शिखर हिल रहे हैं और पेड़ गिर रहे हैं ॥ ४ ॥
@@ -100,6 +176,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धूळिनिन्द कूडिद चण्डमारुत बीसुत्तिदॆ. नॆल नडुगुत्तिदॆ. पर्वत शिखरगळु अल्लाडुत्ता मरगळु उरुळि बीळुत्तिवॆ.॥4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. vaataaH* = winds; *vaanti* = are blowing; *kalushhaH*
+= with dust; *vasundharaacha* = and earth; *kampate* = is trembling;
+*parvataagraaNi* = mountain-tops; *vepanti* = are quivering; *mahiiruhaaH* =
+trees; *patanticha* = are falling down.
+
+**अनुवादः**
+
+"Winds are blowing with dust and earth is trembling. Mountain- tops are quivering
+and trees are falling down."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -124,6 +217,23 @@ _________________
 मांसभक्षि राक्षसरन्तह दट्टवाद मोडगळु आवरिसिवॆ. नोडलु क्रूर वागिरुव अवु कठोरवागि गर्जिसुत्ता, क्रूरवाद रक्तदिन्द कूडिद मळॆयन्नु सुरिसुत्तिवॆ.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. kruuraH* = ferocious; *meghaaH* = clouds; *kravyaada
+samkaashaH* = resembling wild beasts; *parushhaaH* = dirty colored; *parushha
+svanaaH* = with harsh sound; *pravarshhanti* = are raining; *kruuram* = cruelly;
+*mishram* = mixed; *shoNitabindubhiH* = with drops of blood.
+
+**अनुवादः**
+
+"Ferocious clouds resembling wild beasts were dirty colored and emit a terrific
+roaring and let loose dreadful showers mingled with drops of blood."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्तचन्दनसङ्काशा सन्ध्या परमदारुणा ।  
@@ -144,6 +254,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई सन्ध्यॆयु कॆम्पु चन्दनदन्तॆ कान्तियुक्तवागि बहळ भयङ्करवागि काणुत्तिदॆ. उरियुत्तिरुव सूर्य निन्द बॆङ्किय ज्वालॆगळु कळचिबीळुत्तिवॆ.॥6॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. samdhyaa* = evening twilight; *raktachandana samkaashaah* =
+resembling red sandalwood; *paramadaaruNaa* = is very much dreadful; *jvalatah* =
+from the blazing; *aadityaat* = sun; *etat* = this; *agnimaN^Dalam* = ball of
+fire; *patanticha* = falls.
+
+**अनुवादः**
+
+"Evening twilight resembling red sandal wood is very much dreadful. From the blazing
+sun, balls of fire fall."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +295,23 @@ _________________
 क्रूर पशु-पक्षिगळु दीनरागि सूर्यन कडॆगॆ नोडुत्ता दीन स्वरदल्लि कूगुत्ता महाभयवन्नु उण्टुमाडुत्तिवॆ.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. kruura mR^iga pakshhiNaH* = wild animals and birds;
+*vinardanti* = are roaring; *diinaaH* = pitiably; *diinasvaraaH* = with
+melancholic sound; *pratyaadityam* = facing towards the sun; *mahat* = in great;
+*bhayam* = fear.
+
+**अनुवादः**
+
+"Wild animals and birds from all sides are roaring pitiably with melancholic sound,
+facing towards the sun in great fear."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजन्यामप्रकाशस्तु सन्तापयति चन्द्रमाः ।  
@@ -190,6 +334,23 @@ _________________
 रात्रॆयल्लियू चन्द्रनु पूर्णवागि प्रकाशिसुवुदिल्ल हागू तन्न स्वभावक्कॆ विपरीतवागि उरियुत्ता इदॆ. इवनु कप्पु मत्तु कॆम्पाद किरणगळिन्द कूडिये उदयिसिद्दानॆ. जगत्तिन प्रळयद कालवे सन्निहितवादन्तॆ इदॆ.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. chandramaah* = the moon; *uditaiva* = as though rising;
+*lokakshhaye* = at the time of universal dissolution;kR^ishhNa raktaamshu paryantaH =
+invested with a black and red halo; *samtaapayati* = is tormenting(the mind);
+*aprakaashaH* = splendourless; *rajanyaam* = at night.
+
+**अनुवादः**
+
+"The splendorous moon as though rising at the time of universal dissolution,
+invested with a black and red halo is tormenting the mind this night."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रस्वो रूक्षोऽप्रशस्तश्च परिवेषस्तु लोहितः ।  
@@ -200,6 +361,12 @@ _________________
 
 ह्रस्वो रूक्षोऽप्रशस्तश्च परिवेषस्तु लोहितः ।  
 आदित्ये विमले नीलं लक्ष्म लक्ष्मण दृश्यते ॥ ९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ह्रस्वो रूक्षोऽप्रशस्तश्च परिवेषस्तु लोहितः ।
+आदित्ये विमले वीलम् लक्ष्म लक्ष्मण दृश्यते ॥ ६-२१-९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -212,6 +379,23 @@ _________________
 लक्ष्मण! निर्मल सूर्यमण्डलदल्लि नीलिचिह्नॆ कण्डुबरुत्तिदॆ. सूर्यन सुत्तलू सण्णदाद, रुक्ष अशुभ कॆम्पाद वर्तुल उण्टागिदॆ.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. lakshhmaNa* = O; *Lakshmana! Niilam* = a dark;
+*lakshhma* = stain; *dR^ishyate* = appears; *vimale aaditye pariveshhaH* = on
+the colorless solar disc; *hrasvaH* = which is diminished; *ruukshhaH* = dreary;
+*aprashastah* = inauspicious; *lohitaH* = and coppery.
+
+**अनुवादः**
+
+"O, Lakshmana! A dark stain appears on the cloudless solar disc, which is
+diminished, dreary, inauspicious and coppery."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजसा महता चापि नक्षत्राणि हतानि च ।  
@@ -224,6 +408,12 @@ _________________
 युगान्तमिव लोकानां पश्य शंसन्ति लक्ष्मण ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+रजसा महता चापि नक्षत्राणि हतानि च ।
+युगान्तमिव लोकानाम् पश्य शसन्ति लक्ष्मण ॥ ६-२१-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुमित्रानन्दन! देखो ये तारे बड़ी भारी धूलिराशिसे आच्छादित हो हतप्रभ हो गये हैं, अतएव जगत् के भावी संहारकी सूचना दे रहे हैं ॥ १० ॥
@@ -232,6 +422,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रा नन्दन! नोडु, ई नक्षत्रगळु भारी धूळिनिन्दागि मुच्चिहोगि प्रभॆयन्नु कळॆदुकॊण्डिवॆ; अदरिन्द जगत्तिन भावी संहारद सूचनॆ कॊडुत्तिवॆ.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+10. O; *lakshhmaNa* = O; *Lakshmana! Pashya* = look!
+Nakshhatraani = stars; *hataani* = enveloped; *mohataa* = in enormous;
+*rajasaa* = dust; *shamsantiiva* = appear to announce; *yugaantam* = a
+dissolution; *lokaanaam* = of the worlds.
+
+**अनुवादः**
+
+"O, Lakshmana! Look! Stars enveloped in enormous dust, appear to announce a
+dissolution of the world."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -259,6 +466,23 @@ _________________
 कागॆगळु, गिडुगगळु, अधम गृध्रगळु ऎल्लॆडॆ हाराडुत्तिवॆ. हॆण्णु नरिगळु अशुभसूचक कॆट्टदागि कूगुत्तिवॆ.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. kaakaaH* = crows; *shyenaaH* = eagles; *tathaa* =
+and; *gR^iddhaaH* = vultures; *paripatanti* = are flying; *niichaaH* = low;
+*shivaashchaapi* = jackals also; *nadanti* = are howling; *sumahaabhayaan* =
+very dreadful; *ashubhaan* = and inauspicious; *naadaan* = sounds.
+
+**अनुवादः**
+
+"Crows, eagles and vultures are flying low. Jackals too are howling very dreadful
+and inauspicious sounds."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलैः शूलैश्च खड्गैश्च विमुक्तैः कपिराक्षसैः ।  
@@ -271,6 +495,12 @@ _________________
 भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ १२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शैलैः शूलैश्च खड्गैश्च विमुकैः कपिराक्षसैः ।
+भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ ६-२१-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जान पड़ता है वानरों और राक्षसोंके चलाये हुए शिलाखण्डों, शूलों और तलवारोंसे यह सारी भूमि पट जायगी तथा यहाँ मांस और रक्तकी कीच जम जायगी ॥
@@ -279,6 +509,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानररु मत्तु राक्षसरु ऎसॆदिरुव बण्डॆगळिन्द, शूलगळिन्द, खड्गगळिन्द इडी भूमि तुम्बि होदीतु हागू इल्लि रक्त- मांसद कॆसरु तुम्बिहोदीतु ऎन्दु तोरुत्तदॆ.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. bhuumiH* = earth; *bhavishhyati* = will become;
+*aavR^itaaH* = covered by; *shailaiH* = rocks; *shuulaiH* = spears;
+*khadgaishcha* = and swords; *vimuktaiH* = hurled; *kapiraakshhsaiH* = by
+monkeys and demons; *maamsa shoNita kardamaa* = and a quagmire of flesh and blood.
+
+**अनुवादः**
+
+"Earth will become a quagmire of flesh and blood, covered with rocks spears and
+swords hurled by monkeys and demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,6 +550,23 @@ _________________
 नावु इन्दे आदष्टु बेग ई रावणनिन्द रक्षित लङ्कॆयन्नु वानररॊन्दिगॆ आक्रमण माडबेकु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. aavR^itaaH* = abounding with; *sarvaiH* = all;
+*haribhiH* = monkeys; *abhiyaama* = we shall attack; *puriim* = the city;
+*raavaNaHpaalitaam* = ruled by Ravana; *adyaiva* = now itself; *kshhipram* =
+quickly; *javenaiva* = with a speed.
+
+**अनुवादः**
+
+"Abounding with all the monkeys we shall attack the city ruled by Ravana, now itself
+at a quick pace."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा धन्वी स रामः सङ्ग्रामधर्षणः ।  
@@ -323,6 +587,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि सङ्ग्राम विजयी भगवान् श्रीरामनु कैयल्लि धनुस्सन्नॆत्तिकॊण्डु ऎल्लरिगिन्त मुन्दॆ लङ्कॆय कडॆगॆ हॊरटनु.॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. raamaH* = Rama; *vibhuH* = the Lord; *samgraama
+dharshhaNaH* = the conqueror of enemies in battle; *raamaH* = and a charming man;
+*ityevam* = thus; *uktvaa* = speaking; *dhanvii* = wielding a bow;
+*pratasthe* = and traveled; *purataH* = in front; *abhimukhaH* = facing;
+*laNkaam* = towards Lanka.
+
+**अनुवादः**
+
+Rama the lord, the conqueror of enemies and a charming man thus speaking, wielded a
+bow and sallied forth in front, facing towards Lanka.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +629,23 @@ _________________
 मत्तॆ विभीषण मत्तु सुग्रीवनॊन्दिगॆ युद्धद निश्चयवुळ्ळ आ ऎल्ल श्रेष्ठ वानररु गर्जिसुत्ता शत्रुगळन्नु वधिसलिक्कागि मुन्दुवरिदरु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. sarve-* = all; *te* = those; *vaanarshhabhaaH* =
+excellent monkeys; *savibhiishhaNasugrivaaH* = together with Vibhishana and Sugriva;
+*vinardantaH* = making roaring sounds; *pratasthire* = surged forth; *vadhe* =
+for thedestruction; *dvishhataam* = of enemies; *dhR^itaanaam* = the audacious.
+
+**अनुवादः**
+
+All those excellent monkeys, together with Vibhishana and Sugriva making roaring
+sounds surged forth for the destruction of the audacious enemies.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य प्रियार्थं तु सुतरां वीर्यशालिनाम् ।  
@@ -367,6 +666,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरू रघुनाथन प्रियवन्नु माडलु बयसुत्तिद्दरु. आ बलशाली वानरर कर्म मत्तु चेष्टॆगळिन्द रघुनन्दन श्रीरामनिगॆ बहळ सन्तोषवायितु.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. raghunandanaH* = Rama; *tutoshha* = was pleased;
+*karmacheshhTaabhiH* = by the acts and gestures; *sutaraam* = of very; *viirya
+shaalinaam* = strong; *hariiNaam* = monkeys; *priyaartham* = for the sake of
+their beloved; *raaghavasya* = Rama.
+
+**अनुवादः**
+
+Rama on his part was pleased by the act and gestures of those very strong monkeys,
+with their intention to gratify him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -1,6 +1,20 @@
 +++
 title = "१२२ पुष्पकविमानेन रामादीनां प्रयाणम्"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Rama commands Vibhishana to honour the monkeys with gold and precious stones. When
+Vibhishana has honoured them with the gifts, Rama along with Lakshmana and Seetha ascend the aerial
+car. When the monkeys and Vibhishana request Rama to permit them to accompany in the aerial car
+upto Ayodhya to witness his coronation-ceremony, Rama gladly permits them to do so. All of them
+start on their aerial journey in Pushpaka, the wonderful aerial car which can accommodate all,
+spaciously.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
 </details>
@@ -32,6 +46,23 @@ title = "१२२ पुष्पकविमानेन रामादीन
 हूवुगळिन्द सुमलङ्कृतवाद पुष्पकविमानवन्नु स्वल्प दूरदल्लि निल्लिसि विभीषणनु श्रीरामनल्लि एनो हेळलु विचारमाडिदनु.॥1॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. vihiiShaNaH* = Vibhishana; *kR^itvaa upasthitam* = keeping
+ready; *tam* = that; *puShpakam* = Pushpaka the aerial car; *puShpabhuuShitam*
+= decorated with flowers; *sthitaH* = stood; *aviduure* = not very far;
+*uvaacha* = and spoke; *iti* = thus; *raamam* = to Rama (as follows):
+
+**अनुवादः**
+
+Keeping ready Pushpaka the aerial car decorated with flowers, Vibhishana, for his
+part, standing not very far, spoke to Rama (as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु बद्धाञ्जलिपुटो विनीतो राक्षसेश्वरः ।  
@@ -54,6 +85,23 @@ title = "१२२ पुष्पकविमानेन रामादीन
 विभीषणनु कैमुगिदुकॊण्डु विनयदिन्द, अवसरदिन्द श्रीरघुनाथनल्लि- ‘प्रभो! ईगेनु सेवॆ माडली’ ऎन्दु केळिदनु.॥2॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. kim karomi* = "What (more) can I do?"; *iti* = thus;
+*abraviit* = spoke; *upetaH tvarayaa* = with haste; *saH raakShaseshvaraH* =
+that Vibhishana; *viniitaH* = endowed with modesty; *baddhaaN^jalipuTaH* = and with
+joined palms; *raaghavam* = to Rama.
+
+**अनुवादः**
+
+"What more can I do?" thus spoke with haste, Vibhishana endowed as he was with
+modesty and with joined palms, to Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रवीन्महातेजा लक्ष्मणस्योपशृण्वतः ।  
@@ -64,6 +112,12 @@ title = "१२२ पुष्पकविमानेन रामादीन
 
 तमब्रवीन्महातेजा लक्ष्मणस्योपशृण्वतः ।  
 विमृश्य राघवो वाक्यमिदं स्नेहपुरस्कृतम् ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तमब्रवीन्महातेजा लक्ष्मणस्योपशृण्वतः ।
+विमृश्य राघवो वाचमिदं स्नेहपुरस्कृतम् ॥ ६-१२२-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -76,6 +130,23 @@ title = "१२२ पुष्पकविमानेन रामादीन
 आग महातेजस्वी श्रीरघुनाथनु एनो योचिसि लक्ष्मणनु केळुवन्तॆ स्नेहदिन्द इन्तॆन्दनु.॥3॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. vimR^iShya* = after some circumspection; *raamaH* = Rama;
+*mahaatejaaH* = of great splendor; *snehapuraskR^itam* = affectionately;
+*uvaacha* = spoke; *idam* = the following words; *tam* = to him;
+*lakShmaNasya upashR^iNvataH* = while Lakshmana was listening.
+
+**अनुवादः**
+
+After some circumspection, Rama of great splendor, affectionately spoke the
+following words to him, while Lakshmana was listening:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतप्रयत्नकर्माणः सर्व एव वनौकसः ।  
@@ -88,6 +159,12 @@ title = "१२२ पुष्पकविमानेन रामादीन
 रत्नैरर्थैश्च विविधैः सम्पूज्यन्तां विभीषण ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कृतप्रयत्नकर्माणः सर्व एव वनेचराः ।
+रत्नैरर्थैश्च विविधैः संपूज्यन्तां विभीषण ॥ ६-१२२-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विभीषण! इन सारे वानरोंने युद्धमें बड़ा यत्न एवं परिश्रम किया है; अतः तुम नाना प्रकारके रत्न और धन आदिके द्वारा इन सबका सत्कार करो ॥ ४ ॥
@@ -96,6 +173,24 @@ title = "१२२ पुष्पकविमानेन रामादीन
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विभीषण! ई वानररॆल्ल युद्धदल्लि भारी प्रयत्न हागू परिश्रममाडिरुवरु; आद्दरिन्द नीनु नाना प्रकारद वस-रत्न-धनादिगळिन्द इवरॆल्लरन्नू सत्करिसु.॥4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. sarva eva vanecharaaH* = (Let) all these monkeys and bears (ie.
+Denizem of forests) kR^ita prayatna karmaaNaH = who performed tasks of exertion;
+*sampuujyantaam* = be honoured; *ratnaiH* = with precious stones; *vividhaiH
+arthaishcha* = and riches of various kinds; *vibhiiShaNa* = O Vibhishana!
+
+**अनुवादः**
+
+"Let all these monkeys and bears (ie. Denizens of forests), who performed tasks of
+exertion, be honoured with tasks of exertion, be honoured with precious stones and riches of
+various kinds, O Vibhishana!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +215,25 @@ title = "१२२ पुष्पकविमानेन रामादीन
 राक्षसेश्वरने! सङ्ग्रामदल्लि ऎन्दू हिम्मॆट्टदॆ इरुव ई वीरवानररु हर्षोत्साहदिन्द तुम्बिकॊण्डिरुवरु. प्राणद हङ्गन्नु तॊरॆदु कादाडुव ई वानरर सहायदिन्द नीनु लङ्कॆय विजय साधिसिदॆ.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. raakShaseshvara* = O Vibhishana the king of demons!; *tvaya*
+= by you; *amiibhiH saha* = in collaboration with them; *anivartibhiH* = who never
+turned their backs; *samgraameShu* = in battles; *hR^iShTaiH* = and fought joyfully;
+*tyaktvaa* = ignoring; *praaNabhayam* = all risk to their lives; *laN^kaa* =
+Lanka; *nirjitaa* = has been conquered.
+
+**अनुवादः**
+
+"O Vibhishana the king of demons! Lanka has conquered by you, in collaboration with
+these monkeys, who never turned their backs in battles and fought joyfully, ignoring all risk to
+their lives."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त इमे कृतकर्माणः सर्व एव वनौकसः ।  
@@ -130,6 +244,12 @@ title = "१२२ पुष्पकविमानेन रामादीन
 
 त इमे कृतकर्माणः सर्व एव वनौकसः ।  
 धनरत्नप्रदानैश्च कर्मैषां सफलं कुरु ॥ ६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+त इमे कृतकर्माणः सर्व एव वनौकसः ।
+धनरत्नप्रदानेन कर्मैषां सफलं कुरु ॥ ६-१२२-६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -142,6 +262,23 @@ title = "१२२ पुष्पकविमानेन रामादीन
 ई वानररॆल्लरू तम्म कार्यवन्नु पूर्णगॊळिसिरुवरु; आद्दरिन्द इवरिगॆ रत्न-धन-वाहनादिगळन्नु कॊट्टु नीनु इवर कार्यवन्नु सलगॊळिसु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. sarve eva te ime vanaukasaH* = all these mokeys without exception;
+*kR^itakarmaaNaH* = have accomplished their task; *kuru saphalam eShaam karma* =
+reward their achievement; *dhanaratna pradaanena* = with gift of gold and precious
+stones.
+
+**अनुवादः**
+
+"All these monkeys, without exceptions, have accomplished their task. Reward their
+achievement with gifts of gold and precious stones."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्मानिताश्चैते नन्द्यमाना यथा त्वया ।  
@@ -154,6 +291,12 @@ title = "१२२ पुष्पकविमानेन रामादीन
 भविष्यन्ति कृतज्ञेन निर्वृता हरियूथपाः ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् संमानिताश्चैते नन्द्यमाना यथा त्वया ।
+भविष्यन्ति कृतज्ञेन निर्विऋता हरियूथपाः ॥ ६-१२२-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम कृतज्ञ होकर जब इनका इस प्रकार सम्मान और अभिनन्दन करोगे, तब ये वानरयूथपति बहुत संतुष्ट होंगे ॥ ७ ॥
@@ -162,6 +305,23 @@ title = "१२२ पुष्पकविमानेन रामादीन
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु कृतज्ञनागि इवर सम्मान मत्तु अभिनन्दनॆ माडिदरॆ ई वानरदळपतिगळु बहळ सन्तुष्टरागुवरु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. sammanitaa* = highly honoured; *evam* = in this way;
+*yathaa nandyamaanaaH* = and duly cheered; *tvayaa* = by you; *kR^itajJNena* =
+acknowledging their services; *ete hariyuuthapaaH* = the chiefs of monkeys-troops;
+*bhaviShyanti* = will feel; *nirvR^itaaH* = happy.
+
+**अनुवादः**
+
+"Highly honoured in this way any duly cheered by you, acknowledging their services,
+the chiefs of monkey-troops, will feel happy."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +349,25 @@ _________________
 हीगॆ माडुवुदरिन्द विभीषणनु उचित सन्दर्भदल्लि धनद त्याग हागू दान माडुत्तानॆ, सरियाद समयदल्लि न्यायोचितवागि धन-रत्नादिगळ दानदिन्द मित्रर सङ्ग्रह माडुत्तानॆ; दयाळु मत्तु जितेन्द्रियनागिद्दानॆ ऎन्दु ऎल्ल जनरु हेळिकॊळ्ळुवरु. अदक्कागि निनगॆ हीगॆ माडलु तिळिसुत्तिद्देनॆ.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. sarve* = all; *abhigachchhanti* = will come nearer;
+*tvaam* = to you; *tyaaginam* = having the quality of generosity;
+*samgrahiitaaram* = and propitiating others; *saanukrosham* = showing compassion;
+*jitendriyam* = and having subjugated your senses; *tataH* = Hence;
+*sambodhayaami* = I am reminding; *te* = you.
+
+**अनुवादः**
+
+"All will come nearer to you, for having possessed this quality of generosity, for
+propitiating them, for showing compassion to them and for having subjugated your senses. Hence, I
+am reminding you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीनं रतिगुणैः सर्वैरभिहन्तारमाहवे ।  
@@ -214,6 +393,23 @@ _________________
 नरेश्वरने! याव राजनु सेवकरल्लि प्रेमवन्नुण्टुमाडुव दान-मानादि गुणगळिन्द रहितनागिरुवनो अवनन्नु युद्धद सन्दर्भदल्लि उद्विग्नवाद सैन्यवु बिट्टुहोगुत्तदॆ. इवनु व्यर्थवागि नम्मन्नु शोषिसुत्तिद्दानॆ, नम्मन्नु साकुव, नम्म योगक्षेमद चिन्तॆ इवनिगॆ इल्लवे इल्ल ऎन्दु अवरु तिळियुत्तारॆ.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. nareshvara* = O king!; *samvignaa* = feeling agitated;
+*senaa* = the army; *tyajati* = deserts; *tam nR^ipatim* = that king;
+*hiinam* = who is bereft; *sarvaiH ratiguNaiH* = of all loving qualities;
+*hantaaram* = and who orders them to kill people; *aahave* = in battle.
+
+**अनुवादः**
+
+"O king! Feeling agitated, the army deserts that king, who is bereft of all loving
+qualities and who merely orders them to kill people in battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण वानरांस्तान् विभीषणः ।  
@@ -234,6 +430,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु हीगॆ हेळिदाग विभीषणनु आ वानररॆल्लरिगॆ रत्न-धन-वाहानादिगळन्नु कॊट्टु ऎल्लरन्नु सत्करिसिदनु.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. evam* = thus uktaH = spoken; *raameNa* = by Rama;
+*vibhiiShaNaH* = Vibhishana; *abhyapuujayat* = honoured; *sarve taan
+vaanaraan* = all those monkeys; *ratnartha samvibhaagena* = by dispersing precious
+stones and gold to them.
+
+**अनुवादः**
+
+Hearing the words of Rama, Vibhishana honoured all those monkeys, by dispersing
+precious stones and gold to them.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +480,42 @@ _________________
 वानर यूथपतिगळु रत्न-धनदिन्द पूजितरादुदन्नु नोडि, आग भगवान् श्रीरामनु नाचिकॊण्ड मनस्विनी सीतॆयन्नु कङ्कुळल्लॆत्तिकॊण्डु, पराक्रमि धनुर्धर लक्ष्मणनॊन्दिगॆ आ उत्तम विमानदल्लि आरूढनादनु.॥11-12॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+12. (He mounted the aerial car); *lakShmaNena saha* = along with
+Lakshmana; *bhraatraa* = his brother; *vikraantena* = who was valiant;
+*dhanuShmataa* = wielding a bow; *aadaaya* = taking; *yashasviniim* = the
+illustrious; *vaidehiim* = Seetha; *lajjamaanaam* = who was feeling abashed;
+*aN^kena* = in his arms.
+
+**अनुवादः**
+
+He mounted the aerial car along with Lakshmana, his valiant brother wielding a bow
+and taking the illustrious Seetha, who was feeling abashed, in his arms.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. tataH* = thereafter; *dR^iShTvaa* = having seen; *taan
+hariyuuthapaan* = those commanders of monkey-troops; *puujitaan* = honoured;
+*ratnaarthaiH* = with precious stones and gold; *raamaH* = Rama; *tadaa* =
+then; *aaruroha* = mounted; *tat* = that; *anuttamam* = excellent;
+*vimaanam* = aerial car.
+
+**अनुवादः**
+
+Thereafter, having seen on that occasion all those commanders of monkey-troops
+honoured with precious stones and gold, Rama then mounted that excellent aerial car.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् स विमानस्थः पूजयन् सर्ववानरान् ।  
@@ -277,6 +526,12 @@ _________________
 
 अब्रवीत् स विमानस्थः पूजयन् सर्ववानरान् ।  
 सुग्रीवं च महावीर्यं काकुत्स्थः सविभीषणम् ॥ १३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अब्रवीत्स विमानस्थः पूजयन् सर्ववानरान् ।
+सुग्रीवं च महावीर्यम् काकुत्स्तः सविभीषणम् ॥ ६-१२२-१३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -289,6 +544,23 @@ _________________
 विमानदल्लि कुळितु समस्त वानररन्नु आदरिसुत्ता आ ककुत्स्थकुलभूषण श्रीरामनु विभीषण सहित महापराक्रमि सुग्रीवनल्लि इन्तॆन्दनु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. puujayan* = bestowing his attention; *sarva vaanaraan* = on
+all the monkeys; *savibhiiShaNam* = as well as Vibhishana; *mahaaviiryam* = and the
+mighty; *sugriivam cha* = Sugreeva; *saH kaakutthsaH* = that Rama;
+*vimaanasthaH* = remaining in the aerial car; *abraviit* = spoke (as follows):
+
+**अनुवादः**
+
+Bestowing attention on all the monkeys as well as Vibhishana and the mighty
+Sugreeva, Rama remaining in the aerial car, spoke (as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रकार्यं कृतमिदं भवद्भिर्वानरर्षभाः ।  
@@ -299,6 +571,12 @@ _________________
 
 मित्रकार्यं कृतमिदं भवद्भिर्वानरर्षभाः ।  
 अनुज्ञाता मया सर्वे यथेष्टं प्रतिगच्छत ॥ १४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+मित्रकार्यम् कृतमिदं भवद्भिद्वानरर्षभाः ।
+अनुज्ञाता मया सर्वे यथेष्टम् प्रतिगच्छत ॥ ६-१२२-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -311,6 +589,23 @@ _________________
 वानरश्रेष्ठ वीररे! नीवॆल्लरू निम्म ई मित्रन कार्यवन्नु मित्रोचित रीतियिन्द चॆन्नागिये नॆरवेरिसिद्दीरि. ईग नीवॆल्लरू निमगिष्टवाद स्थानगळिगॆ तॆरळिरि.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. vaanararShabhaaH* = O the foremost of monkeys!; *idam* =
+this; *mitrakaaryam* = work of a friend; *kR^itam* = has been accomplished;
+*bhavidbhiH* = by you; *mayaa anujJNaataaH* = permitted by me; *sarve* = all
+of you; *pratigachchhata* = can go; *yatheShTam* = where you will.
+
+**अनुवादः**
+
+"O the foremost of monkeys! This work of a friend has been accomplished by you.
+Permitted by me, all of you can go, where you will."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु कार्यं वयस्येन स्निग्धेन च हितेन च ।  
@@ -323,6 +618,13 @@ _________________
 कृतं सुग्रीव तत् सर्वं भवताधर्मभीरुणा ॥ १५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यत्तु कार्यं वयस्येन स्निग्धेन च हितेन च ।
+कृतं सुग्रीव तत्सर्वं भवता धर्मभीरुणा ॥ ६-१२२-१५
+किष्किन्धां प्रतियाह्यशु स्वसैन्येनाभिसंवृतः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सखे सुग्रीव! एक हितैषी एवं प्रेमी मित्रको जो काम करना चाहिये, वह सब तुमने पूरा-पूरा कर दिखाया; क्योंकि तुम अधर्मसे डरनेवाले हो ॥ १५ ॥
@@ -331,6 +633,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुग्रीव सखने! ऒब्ब हितैषि, प्रेमिमित्रनु माडबेकादुदॆल्लवन्नु नीनु पूर्णमाडि तोरिद्दीयॆ. एकॆन्दरॆ नीनु अधर्मदिन्द भयपडुववनागिरुवॆ.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. sugriiva* = O Sugreeva!; *bhavataa* = by you; *dharma
+bhiiruNaa* = who are trembling alive to righteousness; *sarvam tat* = and all that;
+*yat tu kaaryam* = which ought to be done; *snigdhena hitena vayasyena* = by an
+affectionate and service-minded friend; *kR^itam* = has been done; *bhavataa* = by
+you; *yaahi* = go; *aashu* = at once; *abhisamvR^itaH* = accompanied;
+*svasinyena* = by your army; *kiShkindhaam* = to Kishkindha.
+
+**अनुवादः**
+
+"O Sugreeva! All that which ought to be done by an affectionate and service-minded
+friend, has been done for your part by you, trembling alive as you are to righteousness.
+Accompanied by your army, proceed to Kishkindha at once."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +683,24 @@ _________________
 वानरराजने! ईग नीनु निन्न सैन्यदॊन्दिगॆ बेगने किष्किन्धॆगॆ तॆरळु. विभीषण! नीनू कूड नानु कॊड माडिद लङ्कॆय राज्यदल्लि स्थिरनागु. इन्नु इन्द्रादि देवतॆगळू कूड निन्नन्नु ऎदुरिसलाररु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. vibhiiShana* = O Vibhishana!; *vasa* = reside;
+*laN^kaayaam* = in Lanka; *svaraajya* = your own kingdom; *date* = conferred;
+*mayaa* = by me; *divaukasaH api* = even the celestials; *sendraaH* =
+including Indra; *na shaktaaH* = shall not be able; dharShayitum to attack; *tvaam* =
+you.
+
+**अनुवादः**
+
+"O Vibhishana! Settle down in your kingdom at Lanka, conferred by me. Even the
+celestials including Indra shall not be able to attack you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां प्रति यास्यामि राजधानीं पितुर्मम ।  
@@ -373,6 +713,12 @@ _________________
 अभ्यनुज्ञातुमिच्छामि सर्वानामन्त्रयामि वः ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अयोध्यां प्रतियास्यामि राजधानीं पितुर्मम ॥ ६-१२२-१७
+अभ्यनुज्ञातुमिच्छमि सर्वानामन्त्रयामि वः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अब इस समय मैं अपने पिताकी राजधानी अयोध्याको जाऊँगा । इसके लिये आप सब लोगोंसे पूछता हूँ और सबकी अनुमति चाहता हूँ’ ॥ १७ ॥
@@ -381,6 +727,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ईग नानु नन्न तन्दॆय राजधानी अयोध्यॆगॆ होगुवॆनु. अदक्कागि निम्मॆल्लरल्लि अनुमतियन्नु बयसुत्तिद्देनॆ.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. yaasyaami* = I am going; *ayodhyaam prati* = to Ayodhya;
+*raajadhaaniim* = seat of government; *mama pituH* = of my father;
+*ichchhaami* = I bid; *abhyanujJNaatum* = adieu (to you); *aamantrayaami* =
+and wish to take leave; *vah* = of you; *sarvaan* = all.
+
+**अनुवादः**
+
+" I am going to Ayodhya, the seat of government of my father. I bid adieu to you and
+wish to take leave of you all."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +766,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनु हीगॆ हेळिदाग ऎल्ल वानर सेनापतिगळु मत्तु राक्षस राज विभीषणनु कैमुगिदु हेळतॊडगिदनु.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. evam* = thus; *uktaaH* = spoken; *raameNa* = by
+Rama; *hariindraah* = the monkey-chiefs; *tathaa* = and; *harayaH* = the
+monkeys; *vibhiiShaNaH* = Vibhishana; *raakShasaH* = the demon; *sarve* = and
+all of them there; *uuchuH* = spoke (as follows); *praaN^jalayaH* = with their joined
+palms.
+
+**अनुवादः**
+
+Hearing the words of Rama, the monkey-chiefs, the monkeys, Vibhishana the demon and
+all of them there, with their joined palms, spoke (as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,6 +811,23 @@ _________________
 भगवन्ता! नावू अयोध्यॆगॆ बरलु बयसुत्तिद्देवॆ. नीवु नम्मन्नु जॊतॆगॆ करॆदुकॊण्डु होगिरि. अल्लि नावु सन्तोषदिन्द वन-उपवनगळल्लि सञ्चरिसुवॆवु.॥19॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. ichchhaami* = we (also) wish; *gantum* = to proceed;
+*ayodhyaam* = to Ayodhya; *bhavaan* = you; *nayatu* = take; *sarvaan
+naH* = all of us there; *vichariShyaamah* = we shall range; *vanaani* = the
+gardens; *upavanaanicha* = and groves; *mudyuktaaH* = with rejoice.
+
+**अनुवादः**
+
+"We also wish to proceed to Ayodhya. You take all of us there we shall range the
+gardens and groves there with rejoice."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा त्वामभिषेकार्द्रं कौसल्यामभिवाद्य च ।  
@@ -452,6 +850,24 @@ _________________
 नृपश्रेष्ठने! पट्टाभिषेकद समय मन्त्रपूरित जलदिन्द ऒद्दॆयाद निम्म श्रीविग्रहद दर्शन माडि, मातॆ कौसल्यॆय चरणगळल्लि तलॆबागि नावु बेगने नम्म मनॆगळिगॆ मरळुवॆवु.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. nR^ipasattama* = O the excellent king!; *dR^iShTvaa* =
+seeing; *tvaam* = you; *abhiShekaardram* = drenched with ablution (in the
+coronation-ceremony); *abhivaadya cha* = and offering our salutations; *kausalyaam* =
+to Kausalya; *achiraam aagamiShyaamaH* = we shall soon return; *svagR^ihaan* = to our
+homes.
+
+**अनुवादः**
+
+"O the excellent king! Seeing you, drench with ablution (in the coronation ceremony)
+and offering our salutations to Kausalya, we shall return to our homes."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु धर्मात्मा वानरैः सविभीषणैः ।  
@@ -462,6 +878,12 @@ _________________
 
 एवमुक्तस्तु धर्मात्मा वानरैः सविभीषणैः ।  
 अब्रवीद् वानरान् रामः ससुग्रीवविभीषणान् ॥ २१ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एवमुक्तः स धर्मात्मा वानरैः सविभीषणैः ॥ ६-१२२-२१
+अब्रवीद्वानरान्रामः ससुग्रीवविभीषणान् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -474,6 +896,23 @@ _________________
 विभीषण सहित वानररु ई प्रकार केळिकॊण्डाग श्रीरामनु सुग्रीव हागू विभीषण सहित आ वानररल्लि हेळिदनु.॥21॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. evam* = thus; *uktaH* = spoken; *vaanaraiH* = by the
+monkeys; *savibhiiShaNaiH* = and Vibhishana; *saH dharmaatmaa raamaH* = that pious
+minded Rama; *abraviit* = spoke; *vaanaraan* = to the monkeys; *sasugriiva
+vibhiiShaNaan* = Sugreeva and Vibhishana (as follows):
+
+**अनुवादः**
+
+Hearing those words of the monkeys and Vibhishana, that pious-minded Rama spoke to
+those monkeys, Sugreeva and Vibhishana as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियात् प्रियतरं लब्धं यदहं ससुहृज्जनः ।  
@@ -484,6 +923,12 @@ _________________
 
 प्रियात् प्रियतरं लब्धं यदहं ससुहृज्जनः ।  
 सर्वैर्भवद्भिः सहितः प्रीतिं लप्स्ये पुरीं गतः ॥ २२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+प्रियाअत्प्रियतरं लब्धं यदहं ससुहृज्जनः ॥ ६-१२२-२२
+सर्वैर्भवद्भिः सहितः प्रीतिं लप्स्ये पुरीं गतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -496,6 +941,23 @@ _________________
 मित्ररे! इदादरो ननगॆ अत्यन्त प्रियवागिदॆ. नानु नीवॆल्ल सुहृद रन्नु अयोध्यॆगॆ कॊण्डुहोदरॆ परमप्रिय वस्तुविन लाभवादीतु. इदरिन्द हॆच्चिन सन्तोषद सङ्गति बेरॆनिरबहुदु.॥22॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. priyataram* = something more dearer; *priyaat* = than
+everything dear; *labdham* = will be achieved (by me); *yat aham gataH puriim* = if I
+reach Ayodhya; *sasuhR^ijjanaH* = with the host of my friends; *sarvaiH bhavadbhiH
+sahitaH* = and with all of you; *priitim lapsye* = for; I shall feel delighted.
+
+**अनुवादः**
+
+"Something more dearer than everything dear will be achieved by me, if I reach
+Ayodhya with the host of my friends along with all of you, for, I shall feel delighted."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रमारोह सुग्रीव विमानं सह वानरैः ।  
@@ -506,6 +968,12 @@ _________________
 
 क्षिप्रमारोह सुग्रीव विमानं सह वानरैः ।  
 त्वमप्यारोह सामात्यो राक्षसेन्द्र विभीषण ॥ २३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+क्षिप्रमारोह सुग्रीव विमानं वानरैः सह ॥ ६-१२२-२३
+त्वमप्यारोह सामात्यो राक्षसेन्द्र विभीषण ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -518,6 +986,24 @@ _________________
 सुग्रीवने! नीनु ऎल्ल वानररॊन्दिगॆ बेगने ई विमानवन्नु एरिरि. राक्षसराजा विभीषणने! नीनू कूड मन्त्रिगळॊन्दिगॆ विमानदल्लि आरूढनागु.॥23॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. sugriiva* = O Sugreeva!; *aaroha* = Mount;
+*vimaanam* = the aerial car; *kShipram* = quickly; *vaanaraiH saha* = along
+with the monkeys; *vibhiiShana* = O Vibhishana; *raakShasendra* = the king of
+demons!; *tvam api aarhoha* = you also ascend it; *saamaatyaH* = along with your
+counsellors.
+
+**अनुवादः**
+
+"O Sugreeva! Mount the aerial cars quickly, along with the monkeys. O Vibhishana,
+the king of demons! You also ascend it, along with your counsellors."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स पुष्पकं दिव्यं सुग्रीवः सह वानरैः ।  
@@ -530,6 +1016,12 @@ _________________
 आरुरोह मुदा युक्तः सामात्यश्च विभीषणः ॥ २४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततह् स पुष्पकं दिव्यं सुग्रीवः सह वानरैः ॥ ६-१२२-२४
+आरुरोह मुदा युक्तः समात्यश्च विभीषणः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तब वानरोंसहित सुग्रीव और मन्त्रियोंसहित विभीषण बड़ी प्रसन्नताके साथ उस दिव्य पुष्पकविमानपर चढ़ गये ॥ २४ ॥
@@ -538,6 +1030,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग वानरर सहित सुग्रीव मत्तु मन्त्रिगळॊन्दिगॆ विभीषणनु बहळ सन्तोषदिन्द आ दिव्य पुष्पक विमानवन्नु हत्तिदरु.॥24॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. tataH* = thereupon; *saH sugriivaH* = that Sugreeva;
+*vaanaraiH saha* = along with the monkeys; *mudaa yuktaH* = gladly; *aaruroha*
+= ascended; *divyam* = the wonderful; *puShpakam* = Pushpaka; the aerial car;
+*vibhiShanashcha* = as also Vibhishana; *saamaatyaH* = together with his
+counsellors.
+
+**अनुवादः**
+
+Thereupon, that Sugreeva along with the monkeys gladly ascended that wonderful
+Pushpaka, the aerial car. Vibhishana together with his counselors also ascended it.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,6 +1072,23 @@ _________________
 अवरॆल्लरू हत्तिद बळिक कुबेरन आ परमासन विमानवु श्रीरघुनाथन आज्ञॆ पडॆदु आकाशक्कॆ हारितु.॥25॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. teShu sarveShu* = when all of them; *aaruuDheShu* =
+ascended; *paramaasanam* = that excellent aerial car; *kauberam* = belonging to
+Kubera; *utpapaata* = flew; *vihaayasam* = into the sky; *abhyanujJNaatam* =
+after having been duly authorized; *raaghaveNa* = by Rama.
+
+**अनुवादः**
+
+When all of them ascended, that excellent aerial car, belonging to Kubera, flew into
+the sky, after having been duly authorized by Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खगतेन विमानेन हंसयुक्तेन भास्वता ।  
@@ -572,6 +1099,12 @@ _________________
 
 खगतेन विमानेन हंसयुक्तेन भास्वता ।  
 प्रहृष्टश्च प्रतीतश्च बभौ रामः कुबेरवत् ॥ २६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+खगतेन मिवानेन हंसयुक्तेन भास्वता ॥ ६-१२२-२६
+प्रहृष्टश्चप्रतीतश्च बभौ रामः कुबेरवत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -584,6 +1117,24 @@ _________________
 आकाशक्कॆ नॆगॆयुत्तले आ हंसयुक्त तेजस्वी विमानद मूलक प्रयाण माडुत्ता पुळकित मत्तु प्रसन्नचित्तनाद श्रीरामनु साक्षात् कुबेरनन्तॆये शोभिसिदनु.॥26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. prahR^iShTashcha* = feeling greatly rejoiced;
+*pratiitashcha* = and satisfied; *bhaasvataa vimaanena* = while travelling in the
+splendid aerial car; *khagatena* = which was now in the air; *hamsayuktena* = and was
+provided with the image of swan; *raamaH* = Rama; *babhau* = shone;
+*kuberavat* = like Kubera.
+
+**अनुवादः**
+
+Feeling greatly rejoiced and satisfied while travelling in that splendid aerial car,
+which was now in the air and was provided with the image of a swan, Rama shone like Kubera.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सर्वे वानरर्क्षाश्च राक्षसाश्च महाबलाः ।  
@@ -596,6 +1147,12 @@ _________________
 यथासुखमसम्बाधं दिव्ये तस्मिन्नुपाविशन् ॥ २७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ते सर्वे वानरर्क्षश्च राक्षसाश्च महाबलाः ॥ ६-१२२-२७
+यथासुखमसंबाधं दिव्ये तस्मिन्नुपाविशन् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे सब वानर, भालू और महाबली राक्षस उस दिव्य विमानमें बड़े सुखसे फैलकर बैठे हुए थे । किसीको किसीसे धक्का नहीं खाना पड़ता था ॥ २७ ॥
@@ -604,6 +1161,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎल्ल वानररु, करडिगळु, महाबलि राक्षसरु आ दिव्यविमानदल्लि स्वल्पवू ऒत्तडविल्लदॆ सुखवागि कुळितिद्दरु.॥27॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. te sarve* = all those; *mahaabalaaH* = mighty;
+*vaanaraH* = monkeys; *R^ikShaH* = bears; *raakShasaashcha* = and demons;
+*upaavishan* = sat; *asambaadham* = spaciously; *yathaa sukham* = and
+comfortably; *divye tasmin* = in that wonderful aerial car.
+
+**अनुवादः**
+
+All those mighty monkeys, bears and demons sat comfortably and spaciously in that
+wonderful aerial car.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

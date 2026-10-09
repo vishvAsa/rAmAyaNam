@@ -2,6 +2,16 @@
 title = "०११ रावणस्य आस्थानप्रवेशः"
 title_english = "011 Ravana goes again to the assembly hall"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Ravana goes again to the assembly hall, to hold consultations with his ministers,
+othere important demons and Vibhishana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
 </details>
@@ -23,6 +33,12 @@ title_english = "011 Ravana goes again to the assembly hall"
 असन्मानाच्च सुहृदां पापः पापेन कर्मणा ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स बभुव कृशो राजा मैथिलीकाममोहितः ।
+असन्मानाच्च सुहृदाम् पापः पापेन कर्मणाः ॥ ६-११-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राक्षसोंका राजा रावण मिथिलेशकुमारी सीताके प्रति कामसे मोहित हो रहा था, उसके हितैषी सुहृद् विभीषण आदि उसका अनादर करने लगे थे—उसके कुकृत्योंकी निन्दा करते थे तथा वह सीताहरणरूपी जघन्य पाप-कर्मके कारण पापी घोषित किया गया था—इन सब कारणोंसे वह अत्यन्त कृश (चिन्तायुक्त एवं दुर्बल) हो गया था ॥ १ ॥
@@ -31,6 +47,23 @@ title_english = "011 Ravana goes again to the assembly hall"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसर राज रावणनु सीतॆय कुरितु काममोहितनागिद्दनु. अवन हितैषि सुहृद् विभीषणा दिगळु अवनन्नु अनादरिसतॊडगिद्दरु. अवन कॆट्ट कॆलसवन्नु निन्दिसुत्तिद्दरु. हागू सीतापहरणरूपी जघन्य पाप-कर्मदिन्द पापि ऎन्दु घोषिसिद्दरु. इदॆल्ल कारणदिन्द अवनु अत्यन्त कृश (चिन्तायुक्त मत्तु दुर्बल)नागिद्दनु.॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. saH* = that; *paapaH* = sinful; *raajaa* = king of
+demons; *maithiliikaamamohitaH* = infatuated by his desire for Seetha; *babhuuva* =
+became; *kR^ishaH* = emaciated; *asanmaanaacca* = despising; *suhR^idaam* =
+the kind-hearted; *paapena karmaNaa* = and by his sinful action.
+
+**अनुवादः**
+
+That sinful Ravana, infatuated by his desire for Seetha, became emaciated by his
+sinful action and by his despising of well-disposed people like Vibhishana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -49,6 +82,12 @@ _________________
 अतीव कामसम्पन्नो वैदेहीमनुचिन्तयन् ।  
 अतीवसमये काले तस्मिन् वै युधि रावणः ।  
 अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अतीतसमये काले तस्मिन्वे युधि रावणः ।
+अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥ ६-११-२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -71,6 +110,12 @@ _________________
 
 स हेमजालविततं मणिविद्रुमभूषितम् ।  
 उपगम्य विनीताश्वमारुरोह महारथम् ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स हेमजालविततम् मणिविद्रुमभूषितम् ।
+उपगम्य विनीताश्वमारुरोह महार्थम् ॥ ६-११-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -98,6 +143,12 @@ _________________
 प्रययौ राक्षसां श्रेष्ठो दशग्रीवः सभां प्रति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तमास्थाय रथश्रेष्ठो महामेघसमस्वनम् ।
+प्रययौ रक्षसाम् श्रेष्ठो दशग्रीवः सभाम् प्रति ॥ ६-११-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 महान् मेघोंकी गर्जनाके समान घर्घराहट पैदा करनेवाले उस उत्तम रथपर आरूढ़ हो राक्षसशिरोमणि दशग्रीव सभाभवनकी ओर प्रस्थित हुआ ॥ ४ ॥
@@ -106,6 +157,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महामेघगर्जनॆ यन्तॆ शब्दमाडुव आ उत्तम रथदल्लि कुळित राक्षस श्रेष्ठ दशग्रीवनु सभाभवनद कडॆगॆ हॊरटनु.॥4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. dashagriivaH* = Ravana; *shreSThaH* = the excellent;
+*rakSasaam* = among demons; *aasthaaya* = mounted; *tam* = that;
+*rathashreSTham* = most beautiful chariot; *mahaameghasmasvanam* = with a rattling
+sound resembling the rumbling of a large cloud; *prayayau* = and preceeded; *sabhaam
+prati* = towards the assembling hall.
+
+**अनुवादः**
+
+Ravana the excellent among demons ascended that most beautiful chariot, with a
+rattling sound resembling the rumbling of a large cloud and then proceeded towards the
+assembly-hall.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +203,23 @@ _________________
 आग राक्षसराज रावणन मुन्दुगडॆ कत्ति-गुराणि हागू ऎल्ल प्रकारद आयुधगळन्नु धरिसिद असङ्ख्य राक्षस योधरु नडॆयुत्तिद्दरु.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. tataH* = then; *yodhaaH* = warriors; *as
+carmadharaaH* = holding swords and shields; *raakSasaaH* = and demons;
+*sarvaayudhadharaaH* = wearing all tpes of weapons; *sampratasthire* = marched;
+*purastaat* = in front; *raakSasendrasya* = of that king of demons.
+
+**अनुवादः**
+
+Warriors holding swords and shield as well as demons wearing all types of weapons,
+marched in front of Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविकृतवेषाश्च नानाभूषणभूषिताः ।  
@@ -155,6 +242,23 @@ _________________
 इदे रीति बगॆ-बगॆय ऒडवॆगळिन्द अलङ्करिसिकॊण्ड, नाना विधद विकराळ वेषवुळ्ळ अगणित निशाचररु अवनन्नु ऎड-बल-हिन्दॆ ऎल्ल कडॆयिन्द सुत्तुवरिदु होगुत्तिद्दरु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. naanaa vikR^ita veSaashca* = 9demons) wearing all types of unusual
+dresses; *naanaabharaNa bhuushhitaaH* = and adoring various kinds of jewellery;
+*tadaa* = then; *yayuH* = marched; *parivaarya* = surrounding; *enam* =
+him; *paarshvataH* = from sides; *pR^iSThatashcaiva* = and even from behind.
+
+**अनुवादः**
+
+Demons wearing all types of unusual dresses and adoring various kinds of jewellery
+then marched, duly surrounding him from sides and even behind.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथैश्चातिरथाः शीघ्रं मत्तैश्च वरवारणैः ।  
@@ -167,6 +271,12 @@ _________________
 अनूत्पेतुर्दशग्रीवमाक्रीडद्भिश्च वाजिभिः ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+रथैश्चातिरथा शीघ्रम् मतैश्च वरवारणैः ।
+अमात्पेतुर्दशग्रीवमाक्रीडद्भिश्च वाजिभिः ॥ ६-११-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणके प्रस्थान करते ही बहुत-से अतिरथी वीर रथों, मतवाले गजराजों और खेल-खेलमें तरह-तरहकी चालें दिखानेवाले घोड़ोंपर सवार हो तुरंत उसके पीछे चल दिये ॥ ७ ॥
@@ -175,6 +285,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणनु होगुत्तिद्दाग अनेक अतिरथिवीररु रथगळल्लि, मत्तगजगळ मेलॆ, लीलाजालवागि अनेक नडॆगळन्नु तोरिसुत्तिद्द कुदुरॆगळन्नेरि अवन हिन्दॆ-हिन्दॆ सागुत्तिद्दरु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. atirathaaH* = great chariot-warriors; *rathaiH* = in
+chariots; *varavaaraNaiH* = on excellent elephants; *mattaiH* = in rut;
+*vaajibhishca* = and horses; *aakriiDadbhiH* = sportively coming in different gaits;
+*anuutpetuH dashagriivam* = rushed after Ravana; *shiighram* = quickly.
+
+**अनुवादः**
+
+Great chariot-warriors in chariots, on excellent elephants in rut and horses
+supportively coming in different gaits, rushed after Ravana quickly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,9 +322,32 @@ _________________
 ततस्तूर्यसहस्राणां सञ्जज्ञे निःस्वनो महान् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+गदापरिघहस्ताश्च शक्तितोमरपाणयः ।
+परश्वथधराश्चान्ये तथान्ये शूलपाणयः ॥ ६-११-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके हाथोंमें गदा और परिघ शोभा पा रहे थे । कोई शक्ति और तोमर लिये हुए थे । कुछ लोगोंने फरसे धारण कर रखे थे तथा अन्य राक्षसोंके हाथोंमें शूल चमक रहे थे, फिर तो वहाँ सहस्रों वाद्योंका महान् घोष होने लगा ॥ ८ ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. gadaaparigha hastaashca* = with maces and iron bars in their hands;
+*shaktitomarapaaNayaH* = with javelins and iron clubs in their hands;
+*parishvathadharaaH* = wearing axes; *anye* = some others; *shuulapaaNayaH* =
+with darts in theirs hands.
+
+**अनुवादः**
+
+Some had maces and iron bars in their hands. Some had javelins and iron clubs. Some
+were holding axes. Some others had darts in their hands.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -219,6 +369,11 @@ _________________
 राजमार्गं श्रिया जुष्टं प्रतिपेदे महारथः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तुमुलः शङ्खशब्दश्च सभाम् गच्चति रवणे ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणके सभाभवनकी ओर यात्रा करते समय तुमुल शङ्खध्वनि होने लगी । उसका वह विशाल रथ अपने पहियोंकी घर्घराहटसे सम्पूर्ण दिशाओंको प्रतिध्वनित करता हुआ सहसा शोभाशाली राजमार्गपर जा पहुँचा ॥ ९ १/२ ॥
@@ -227,6 +382,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणनु सभाभवनद कडॆगॆ प्रयाणिसुत्तिद्दाग शङ्खध्वनिय तुमुलवे आगतॊडगितु. अवन आ विशालरथवु तन्न गालिगळ घर-घर दनियिन्द ऎल्ल दिक्कुगळु प्रतिध्वनिसुत्ता शोभासम्पन्न राजबीदिगॆ बन्दु तलुपितु.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. tataH* = thereafter; *raavaNe* = as Ravana;
+*gachchhati* = was going; *sabhaam* = to the assembly hall; *mahaan* = loud;
+*niHsvanaH* = blare; *tuuryasahasraaNaam* = of thousands of trumpets = tumulaH = and
+tumultuous; *shaNkhashabdashca* = noise of couches; *samjaN^e* = were produced.
+
+**अनुवादः**
+
+As Ravana was proceeding to the assembly-hall, loud blare of thousands of trumpets
+along with tumultuous noise of conches were produced.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +426,23 @@ _________________
 आग राक्षसराज रावणन तलॆय मेलिद्द श्वेतच्छत्रवु पूर्णचन्द्रनन्तॆ शोभिसुत्तित्तु..॥10॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. saH* = that; *mahaan* = excellently; *mahaarathaH* =
+great chariot; *abhininaadayau* = making noise; *nemighoSeNa* = of the sound of the
+wheels; *sahasaa* = soon; *pratipade* = obtained; *raajamaargam* = the royal
+high way; *juSTam* = possessed; *shriyaa* = of beauty.
+
+**अनुवादः**
+
+That excellently great chariot, making noise of the sound of its wheels, soon
+entered the beautiful royal high-way.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हेममञ्जरिगर्भे च शुद्धस्फटिकविग्रहे ॥ ११ ॥  
@@ -264,6 +453,12 @@ _________________
 
 हेममञ्जरिगर्भे च शुद्धस्फटिकविग्रहे ॥ ११ ॥  
 चामरव्यजने तस्य रेजतुः सव्यदक्षिणे ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+विमलम् चातपत्रम् च पगृहीतमशोभत ।
+पाण्डुरम् राक्षसेन्द्रस्य पूर्णस्तारधिपो यथा ॥ ६-११-११
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -276,6 +471,22 @@ _________________
 अवन ऎडबलदल्लि शुद्ध स्फटिकद हिडियुळ्ळ चिन्नद मञ्जरिगळुळ्ळ चामरगळु तुम्बा शोभिसुत्तिद्दवु.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. aatapatram* = the umbrella; *vimalam* = which was
+spot-lessly; *paaNDuram* = white; *ashobhata* = shone; *puurNa
+taaraadhipoyathaa* = like a full moon; *pragR^ihiitam* = was held;
+*raakSasandraya* = (on the head) of Ravana.
+
+**अनुवादः**
+
+The spotlessly white umbrella, held on Ravana's head, shone like a full-moon.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कृताञ्जलयः सर्वे रथस्थं पृथिवीस्थिताः ॥ १२ ॥  
@@ -288,6 +499,12 @@ _________________
 राक्षसा राक्षसश्रेष्ठं शिरोभिस्तं ववन्दिरे ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+हेमञ्जरिगर्भे च शुद्धस्फटिकविग्रहे ।
+चामरव्यजने तस्य रेजतुः सव्यदक्षिणे ॥ ६-११-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 मार्गमें पृथ्वीपर खड़े हुए सभी राक्षस दोनों हाथ जोड़ रथपर बैठे हुए राक्षसशिरोमणि रावणकी सिर झुकाकर वन्दना करते थे ॥ १२ १/२ ॥
@@ -296,6 +513,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दारियल्लि इक्कॆडॆगळल्लि निन्तिरुव ऎल्ल राक्षसरु कैमुगिदु रथदल्लि कुळितिरुव राक्षस श्रेष्ठ रावणनन्नु तलॆबागि वन्दिसुत्तिद्दरु.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. tasya savyadakSiNe* = on his left and right sides;
+*chaamaravyajane* = two fans of yak's tails; *shuddha sphaTika vigrahe* = with
+crystal handles; *hemamaNjarigarbhe* = and golden fringes; *regatuH* = were
+shining.
+
+**अनुवादः**
+
+On his left and right sides, two fans of yak's tails with crystal handles and golden
+fringes were shining.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +547,12 @@ _________________
 आससाद महातेजाः सभां विरचितां तदा ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ते कृताञ्जलयः सर्वे रथस्थम् पृथिवीस्थिताः ।
+राक्ष्सा राक्षसश्रेष्ठम् शिरोभिस्तम् ववन्दिरे ॥ ६-११-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राक्षसोंद्वारा की गयी स्तुति, जय-जयकार और आशीर्वाद सुनता हुआ शत्रुदमन महातेजस्वी रावण उस समय विश्वकर्माद्वारा निर्मित राजसभामें पहुँचा ॥ १३ १/२ ॥
@@ -321,6 +561,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसरु माडुत्तिद्द जय-जयकार मत्तु आशीर्वादगळन्नु केळुत्ता शत्रुदमन महा तेजस्वी रावणनु आग विश्वकर्मनिन्द निर्मितवाद राजभवनवन्नु तलुपिदनु.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. sarve* = all; *te raakSasaaH* = those demons;
+*vavandire* = offered theri salutation; *shirobhiH* = (by bending) their heads;
+*kR^itaaNjalayaH* = and by joining their palsm; *tam* = to him;
+*raakSasashreSTam* = the best of demons; *rathastham* = mounted on the chariot.
+
+**अनुवादः**
+
+All those demons standing on ground offered their salutation by bending their heads
+and joining their palms to his the best of demons, mounted on the chariot.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +606,24 @@ _________________
 आ सभॆय नॆलदल्लि चिन्न-बॆळ्ळिय कॆत्तनॆ माडि, नडु-नडुवॆ शुद्ध स्फटिकगळन्नु जोडिसिद्दरु. अदरल्लि चिन्नद कसूति माडिद रेश्मॆवस्त्रगळन्नु हासिद्दरु. आ सभॆयु तन्नदाव प्रभॆयिन्द हॊळॆयुत्ता इत्तु. आरुनूरु पिशाचिगळु अदन्नु रक्षिसुत्तिद्दरु. विश्वकर्मनु अदन्नु बहळ सुन्दरवागिये रचिसिद्दनु. तन्न शरीर शोभॆयिन्द सुशोभितनाद महातेजस्वी रावणनु अदन्नु प्रवेशिसिदनु.॥14-15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. tadaa* = then; *arindamaH* = Ravana the harasser of
+enemies; *san* = possessing; *mahaatejaH* = great splendour; *stuuyamaanaH* =
+while being praised; *raakSasaiH* = by demons; *jayashiirbhiH* = throught cheers of
+victory; *aasasaada* = approached; *virachitaam* = the arranged; *sabhaam* =
+assembly.
+
+**अनुवादः**
+
+Ravana the harasser of enemies, possessing great splendor, while being praised by
+demons through cheers of victory, approached that organized assembly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां तु वैदूर्यमयं प्रियकाजिनसंवृतम् ॥ १६ ॥  
@@ -367,6 +642,11 @@ _________________
 ततः शशासेश्वरवद्दूतांल्लघुपराक्रमान् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः शशासेश्वरवद्दूतान् लघुपराक्रमान् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस सभाभवनमें वैदूर्यमणि (नीलम)-का बना हुआ एक विशाल और उत्तम सिंहासन था, जिसपर अत्यन्त मुलायम चमड़ेवाले ‘प्रियक’ नामक मृगका चर्म बिछा था और उसपर मसनँद भी रखा हुआ था । रावण उसीपर बैठ गया । फिर उसने अपने शीघ्रगामी दूतोंको आज्ञा दी— ॥ १६-१७ ॥
@@ -375,6 +655,46 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सभाभवनदल्लि नीलमणिगळ ऒन्दु विशाल सिंहासनवित्तु. अदर मेलॆ अत्यन्त नयवाद चर्मवुळ्ळ ‘प्रियक’ ऎम्ब मृगद चर्महासित्तु मत्तु अदर मेलॆ ऒरगुव दिम्बु इरिसलागित्तु. रावणनु अदरमेलॆ कुळितु तन्न शीघ्रगामि दूतरिगॆ आज्ञापिसिदनु.॥16-17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. saH* = that; *raavaNaH* = Ravana; *tasyaam* = in
+that hall; *bheje* = occupied; *mahat* = big; *paramaasanam* = (and) excellent
+throne; *vaiduuryamayam* = embedded with jewels (cat's eye gems);
+*priyakaajinasamvR^itam* = covered with skin of deer called Priyaka; *sopaashrayam* =
+(and) furnished with pillows.
+
+**अनुवादः**
+
+Ravana, that hall, occupied a big and excellent throne embedded with jewels (cat's
+eye gems), covered with skin of deer called Priyaka and furnished with pillows.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15;16. mahaatejaaH* = Ravana with great splendour;
+*viraajamaanaH* = with shining brightly; *napuSaa* = body; *pravivesha* =
+entered; *taam* = that assembly hall; *suvarNarajataastiirNaam* =
+viSuddhasphaTikaantaraam = whose intereior was wrought with pure crystal;
+*rukmapaTTottaraccadaam* = carpeted with skins of deer; *abhiguptaam* = guarded by
+shaaDbhiH pishaaca shataiH = six hundred evil spirits; *sadaaprabhaam* = ever shining;
+*sukR^itaam* = and well- build; *vishvakarmaNaa* = by Visvakarma.
+
+**अनुवादः**
+
+Ravana with great splendour, with his body shining brightly, entered that assembly
+hall, which was paved with gold and silver, whose interior was wrought with pure crystal, carpeted
+with skins of deer, guarded by six hundred evil spirits, ever shining and well-constructed by
+Visvakarma.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +712,12 @@ _________________
 कृत्यमस्ति महाज्जाने कर्तव्यमिति शत्रुभिः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+६-११-१८
+कृत्यमस्ति महाज्जाने कर्तव्यमिति शत्रुभिः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुमलोग शीघ्र ही यहाँ बैठनेवाले सुविख्यात राक्षसोंको मेरे पास बुला ले आओ; क्योंकि शत्रुओंके साथ करनेयोग्य महान् कार्य मुझपर आ पड़ा है । इस बातको मैं अच्छी तरह समझ रहा हूँ (अतः इसपर विचार करनेके लिये सब सभासदोंका यहाँ आना अत्यन्त आवश्यक है)’ ॥ १८ ॥
@@ -400,6 +726,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीवु बेगने इल्लि कुळितुकॊळ्ळुव सुविख्यात राक्षसरन्नु नन्न बळिगॆ करॆदुकॊण्डु बन्नि. एकॆन्दरॆ शत्रुगळॊन्दिगॆ माडुव महात्कार्यवु नन्न मेलॆ बिद्दिदॆ. इदन्नु नानु चॆन्नागि तिळियुत्तिद्देनॆ. (आद्दरिन्द इदर कुरितु विचार माडलु सभासदरु इल्लि बरुवुदु अत्यन्त आवश्यकवागिदॆ..॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. tataH* = thereafter; *iishvaravat* = as a king;
+*iti* = thus; *duutaan* = his messengers; *laghuparaakramaan* = who were
+mering fast; *asti* = there is; *mahat* = a gigantic; *kR^ityam* = work;
+*jaane* = I know; *kartvayam iti* = what is being done; *shatrubhiH* = by
+enemies; *samaanayata* = bring; *iha* = here; *etaan* = these;
+*raakSasaan* = demons; *kSipram* = quickly.
+
+**अनुवादः**
+
+Thereafter Ravana, as a king, ordered his messengers, who were moving fast as
+follows: "There is a gigantic work before us. I know what the enemies are doing. Therefore, bring
+all the demons here quickly."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +801,25 @@ _________________
 आग आ राक्षसरल्लि कॆलवरु रथगळन्नु हत्ति, कॆलवरु मत्तगजगळ मेलॆ, कॆलवरु दृढवाद कुदुरॆगळ मेलॆ हत्ति तम्म तम्म स्थानदिन्द हॊरटरु. अनेक राक्षसरु काल्नडिगॆयिन्द हॊरटरु.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+19; *20. shrutvaa* = hearing;tadvacaH = those words;
+*raakSasaaH* = the (messenger) demons; *chodayantaH* = impelling; *rakSaamsi*
+= the demons; *avasthaaya* = staying; *vihaara shayaneSu* = in entertainment or in
+places bed-rooms; *udyaaneSuca* = or in gardens; *paricakramuH* = went;
+*abhiitavat* = without fear; *anugchaam* = to every house; *laN^kaayaam* = in
+Lanka.
+
+**अनुवादः**
+
+Hearing those words, the messenger impelled the demons staying in entertainment
+places, in bedrooms or in gardens and went without fear to every house in Lanka.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।  
@@ -470,6 +835,12 @@ _________________
 सम्पतद्भिर्विरुरुचे गुरुत्मद्भिरिवाम्बरम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ते रथान् रुचिरानेके दृप्तानेके दृढान् हयान् ।
+नागनेकेऽधिरुरुहुर्जग्मुश्चैके पदातयः ॥ ६-११-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय दौड़ते हुए रथों, हाथियों और घोड़ोंसे व्याप्त हुई वह पुरी बहुसंख्यक गरुड़ोंसे आच्छादित हुए आकाशकी भाँति शोभा पा रही थी ॥ २१ ॥
@@ -478,6 +849,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ समयदल्लि ओडुत्तिरुव आनॆ-कुदुरॆगळिन्द व्याप्तवाद आ पुरियु असङ्ख्य गरुडरिन्द तुम्बिद आकाशदन्तॆ शोभिसुत्तित्तु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. adhiruruhuH* = mounted; *te* = those demons; *eke* =
+some; *ruchiraan* = beautiful; *rathaan* = chariots; *eke* = some;
+*dR^iptaan* = wild; *dR^iDhaan* = and strong hayaan = horses; *eke* = some;
+*naagaan* = elephants; *eke* = some; *jagmuh* = wnet; *padaatayaH* = by
+foot.
+
+**अनुवादः**
+
+Some of the demons mounted beautiful chariots; some mounted wild and strong horses
+and some mounted on elephants. Some others went on foot.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +879,12 @@ _________________
 
 ते वाहनान्यवस्थाय यानानि विविधानि च ।  
 सभां पद्भिः प्रविविशुः सिंहा गिरिगुहामिव ॥ २२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।
+सम्पतद्भिर्विरुरुचे गरुत्मद्चिरिवामबरम् ॥ ६-११-२२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -502,6 +897,23 @@ _________________
 गन्तव्यस्थानक्कॆ तलुपि तम्म तम्म वाहनगळन्नु हॊरगॆये बिट्टु आ ऎल्ल सभासदरु अनेक सिंहगळु पर्वतद गुहॆयन्नु हॊक्कुवन्तॆ काल्नडिगॆयिन्दले सभाभवनवन्नु प्रवेशिसिदरु.॥22॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. saa purii* = that city; *paramaakiirNaa* = extremely
+crowded; *rathaa kuNjara vaajibhiH* = with chariots; elephants and horses;
+*sampatadbhiH* = rushing togeher fast; *viruruche* = appeared; *ambaramiva* =
+like the sky; *garutmadbhiH* = by the birds.
+
+**अनुवादः**
+
+That city, extremely crowded with chariots elephants and horses rushing fast
+together, appeared like birds rushing fast in the sky.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञः पादौ गृहीत्वा तु राज्ञा ते प्रतिपूजिताः ।  
@@ -514,6 +926,12 @@ _________________
 पीठेष्वन्ये बृसीष्वन्ये भूमौ केचिदुपाविशन् ॥ २३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ते वाहनान्यवस्थाप्य यानानि विविधानि च ।
+सभाम् पद्भिः प्रविविशुः सिम्हा गिरिगुहामिव ॥ ६-११-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वहाँ पहुँचकर उन सबने राजाके पाँव पकड़े तथा राजाने भी उनका सत्कार किया । तत्पश्चात् कुछ लोग सोनेके सिंहासनोंपर, कुछ लोग कुशकी चटाइयोंपर और कुछ लोग साधारण बिछौनोंसे ढकी हुई भूमिपर ही बैठ गये ॥ २३ ॥
@@ -522,6 +940,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिगॆ होगि अवरॆल्लरू राजन कालिगॆ बिद्दरु हागू राजनू अवरन्नु सत्करिसिदनु. बळिक कॆलवरु चिन्नद सिंहासनगळल्लि कॆलवरु दर्भॆय चापॆगळल्लि कॆलवरु साधारण हासिगॆगळ मेलॆ कुळितुकॊण्डरु.॥23॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. avasthaapya* = parking; *vaahanaani* = horses; elephants;
+*vividhaani* = and various; *yaanaanicha* = kinds of vehicles like chariots;
+*te* = they; *pravivishuH* = entered; *padbhiH* = by foot; *sabhaam* =
+the assembly-hall; *giriguhaamiva* = like a mountain-cave; *simhaaH* = by lions.
+
+**अनुवादः**
+
+Parking horses, elephants and various kinds vehicles like chariots, they entered by
+foot the assembly-hall as a mountain-cave is entered by lions.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +977,24 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजाकी आज्ञासे उस सभामें एकत्र होकर वे सब राक्षस राक्षसराज रावणके आसपास यथायोग्य आसनोंपर बैठ गये ॥ २४ ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. gR^ihiitvaa* = touching; *paadau* = the feet;
+*raaN^aH* = of the king; *pratipuujitaaH* = and being greeted in turn;
+*raajJNaa* = by the king; *anye* = some; *upaavishan* = sat down;
+*piiTheSu* = on seats; *anye* = some others; *bR^iiSu* = on mats(of Kusa
+grass); *kechit* = and others; *bhuumau* = on the ground.
+
+**अनुवादः**
+
+Touching the feet of the king and greeted in turn by the king, some sat down on
+seats, some others on mats (of Kusa grass) and others on the ground.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -580,6 +1033,24 @@ _________________
 बेरॆ बेरॆ विषयगळल्लि यथायोग्य उचित सम्मतिकॊडुव मुख्य मन्त्रिगळु, कर्तव्य निश्चयदल्लि पाण्डित्यद परिचय कॊडुव सचिवरु, बुद्धिदर्शि, सर्वज्ञ, सद्गुण सम्पन्न उपमन्त्रिगळु हागू इन्नू अनेक शूरवीर समस्त अर्थगळ निश्चयक्कागि मत्तु सुखप्राप्तिय उपायद मेलॆ विचार माडलिक्कागि आ स्वर्णकान्तियुळ्ळ सभॆयॊळगॆ नूरारु सङ्ख्यॆयल्लि उपस्थितरागिद्दरु.॥25-26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. sametya* = congregating; *sabhaayaam* = in the
+assembly-hall; *raaja shaasanaat* = at the king's command; *te raakSasaaH* = those
+demons; *te* = they; *upasthuH* = took their position; *yathaarham* = (each)
+according to their rank; raavaNam (round) Ravana; *raakSasaadhipam* = the king of
+demons.
+
+**अनुवादः**
+
+Congregating in the assembly hall at the king's command, those demons took their
+position round Ravana the king of demons, each according to their rank.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो महात्मा विपुलं सुयुग्यं  
@@ -606,9 +1077,49 @@ _________________
 तत्पश्चात् यशस्वी महात्मा विभीषण भी एक सुवर्णजटित, सुन्दर अश्वोंसे युक्त, विशाल, श्रेष्ठ एवं शुभकारक रथपर आरूढ़ हो अपने बड़े भाईकी सभामें जा पहुँचे ॥ २७ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26;27. mantriNashca* = ministers; *paNditaaH* = who were
+scholars; *nishchitaartheshhu* = well-versed in deciding actions; *guNopetaaH* =
+those endowed with good qualities; *sarvajJNaaH* = those who were all-knowing;
+*amaatyaashca* = king's ministers; *buddhidarshanaaH* = who could perceive things by
+their power of intellect; *tathaa* = and; *bahuvaH* = many; *shuuraaH* =
+warriors; *shatashaH* = in hundreds; *samiiyuH* = gathered; *yathaamukhyaaH* =
+according to their importance; *sabhaayaam* = in assembly hall; hemavarNaayaam- wrapped with
+gold; *sukhaayavai* = for felicity; *sarvaarthasya* = of all actions.
+
+**अनुवादः**
+
+Ministers who were scholars well versed in deciding action those endowed with good
+qualities, those who were all-knowing, king's ministers who could perceive things by their power of
+intellect and many warriors in hundreds, gathered according to their importance in that assembly
+hall, wrapped with gold, for providing felicity in all actions.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर यशस्वी महात्मा विभीषणनू कूड ऒन्दु सुवर्णजटित, सुन्दर कुदुरॆगळन्नु हूडिद, विशाल, श्रेष्ठ हागू शुभकर रथदल्लि आरूढनागि अण्णन सभॆगॆ बन्दु तलुपिदनु.॥2.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. tasmi* = that; *kaale* = occasion; *yudhi* = for war;
+*vai* = indeed; *atiita samaye* = having gone by; *raavama* = Ravana;
+*amanyata* = thought of consultation with; *amaatyaishcha* = his ministers and;
+*suhR^idbhishca* = well-wishers; *praapta kaale* = to be a fit-time.
+
+**अनुवादः**
+
+Though the occasion for war was lacking Ravana thought of consulting with his
+ministers and well-wishers then to be a fit time.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +1148,27 @@ _________________
 तम्मनाद विभीषणनु मॊदलिगॆ तन्न हॆसरन्नु हेळिकॊण्डु अण्णन चरणगळल्लि तलॆबागिदनु. अदे रीति शुक मत्तु प्रहस्तनू वन्दिसिदरु. आग रावणनु अवरॆल्लरिगॆ यथायोग्य बेरॆ बेरॆयाद आसनगळन्नु नीडिदनु.॥28॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. tataH* = then; *vibhiiSaNaH* = Vibhishana;
+*mahaatmaa* = the hight-souled; *yashasvii* = and the inllustrious;
+*aasthaaya* = ascended; *varam* = the excellent; *ratham* = chariot;
+*vipulam* = which was spacious; *suyugyam* = yoked with good horses;
+*hemavichitritaaN^gam* = its various parts decked with gold; *shubham* = and
+auspicious; *yayau* = and drove; *samsadam* = towards assembly-hall;
+*agrajasya* = of his elder brother; Ravana.
+
+**अनुवादः**
+
+The high-souled and illustrious VibhiShana ascended an excellent auspicious and
+spacious chariot yoked with good horses with its various parts decked in gold and drove towards the
+assembly-hall of Ravana his elder brother.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्णनानामणिभूषणानां  
@@ -658,6 +1190,14 @@ _________________
 स्रजां च गन्धाः प्रववुः समन्तात् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स पूर्वजायावरजः शशंस ।
+ना माथ पश्चाच्चरणौ ववन्दे ।
+शुकः प्रहस्तश्च तथैव तेभ्यो ।
+ददौ यथार्हम् प्ऱ्^थगासनानि ॥ ६-११-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सुवर्ण एवं नाना प्रकारकी मणियोंके आभूषणोंसे विभूषित उन सुन्दर वस्त्रधारी राक्षसोंकी उस सभामें सब ओर बहुमूल्य अगुरु, चन्दन तथा पुष्पहारोंकी सुगन्ध छा रही थी ॥ २९ ॥
@@ -666,6 +1206,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुवर्ण हागू नाना विधद मणिगळ आभूषणगळिन्द अलङ्कृतराद आ सुन्दर वसधारी राक्षसर अमूल्य अगरु, चन्दन, पुष्पहारगळ परिमळवु आ सभॆयल्लि ऎल्लॆडॆ हरडित्तु.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. atha* = thereafter; *saH* = that; *avarajaH* =
+younger brogher; *shashamsa* = told; *naama* = his name; *pashchaat* = then;
+*vavande* = saluted; *charaNau* = the feet; *shukaH* = Suka;
+*prahastashcha* = and Prahasta; tathaiva; (saluted) likewise (Ravana); *dadau* =
+gave; *aasanaani* = seats; *tebhyaH* = to them; *pR^ithak* = separately;
+*yathaarham* = according to their rank.
+
+**अनुवादः**
+
+Then, that younger brother Vibhishana told Ravana his name and offered salutation to
+the feet. Suka and Prahasta followed suit. Ravana gave them suitable seats separately.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -682,6 +1241,14 @@ _________________
 सभासदो नापि जजल्पुरुच्चैः ।  
 संसिद्धार्थाः सर्व एवोग्रवीर्या  
 भर्तुः सर्वे ददृशुश्चाननं ते ॥ ३० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सुवर्णनानामणिभुषणानाम् ।
+सुवाससाम् संसदि राक्षसानाम् ।
+तेषाम् परार्थ्यगुरुचन्दनानाम् ।
+स्रजाम् च गन्धाः प्रववुः समन्तात् ॥ ६-११-३०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -694,6 +1261,25 @@ _________________
 आग आ सभॆय याव सदस्यनू सुळ्ळु हेळुत्तिरलिल्ल. आ ऎल्ल सभासदरु बॊब्बॆ हाकदॆ, जोरागि मातनाडु त्तिरलिल्ल. अवरॆल्लरू सल मनोरथरागिद्दु, भयङ्कर पराक्रमिगळागिद्दरु. ऎल्लरू तम्म स्वामि रावणन मुखद कडॆगॆ नोडुत्तिद्दरु.॥30॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. gandhaaH* = the aroma; *paraarthyaaguru chandanaanaam* = of
+the best aloe and sandal paste; *teSaam rakSasaanaam* = painted on those demons;
+*srajaamca* = and of garlands; *suvarNanaanaamaNi* = of gold and gems;
+*suvaasasaam* = and attired in good clothes; *pravavuH* = diffused;
+*samantaat* = all round; *samsadi* = in the assembly-hall.
+
+**अनुवादः**
+
+The aroma of the best aloe and sandal paste painted on the persons as also of
+garlands worn round the necks of those demons duly adorned with ornaments of gold and gems and
+attired in excellent clothes diffused all round in the assembly-hall.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रावणः शस्त्रभृतां मनस्विनां  
@@ -710,14 +1296,59 @@ _________________
 मध्ये वसूनामिव वज्रहस्तः ॥ ३१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न चुक्रुशुर्नानृतमाह कश्चि ।
+त्सभासदो नापि जजल्पुरुच्चैः ।
+संसिद्धार्थः सर्व एवोग्रवीर्या ।
+भर्तुः सर्वे ददृशुश्चाननम् ते ॥ ६-११-३१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस सभामें शस्त्रधारी महाबली मनस्वी वीरोंका समागम होनेपर उनके बीचमें बैठा हुआ मनस्वी रावण अपनी प्रभासे उसी प्रकार प्रकाशित हो रहा था, जैसे वसुओंके बीचमें वज्रधारी इन्द्र देदीप्यमान होते हैं ॥ ३१ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. sabhaasadaH* = the assembled persons; *na chukrushuH* = did
+not yell loudly; *na kashchit* = No one; *aaha* = uttered; *anR^itam* =
+untruth; *na jajulpuH api* = not even talked; *uchchaiH* = loudly; *sarve* =
+all of them; *samsiddhaarthaaH* = were ready for action; *ugraviiryaaH* = and were
+endowed with terrible energy; *te sarve* = all of them; *dadR^ishuH* = perceived;
+*bhartuH* = their lord's aanaam = face.
+
+**अनुवादः**
+
+The assembled persons there did not yell loudly. None uttered untruth or even talked
+vociferously. All of them were ready for action and were endowed with terrible energy. All of them
+sat, perceiving their lord's face.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सभॆयल्लि शस्त्रधारी महाबलि मनस्वी वीरर समागमवादाग अवर नडुवॆ कुळितिरुव मनस्वी रावणनु तन्न प्रभॆयिन्द वसुगळ नडुवॆ वज्रधारी इन्द्रनु देदीप्यनागिरुवन्तॆ प्रकाशिसुत्तिद्दनु.॥3.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. upagamya* = approaching; *mahaaratham* = a great chariot;
+*hemajaalavitatam* = covered by a golden net; *maNividruma bhuushhitam* = adorned
+with gems and corals; *viniitaashvam* = and tied with trained horses; *saH* = he;
+*aaruruha* = ascended (it).
+
+**अनुवादः**
+
+Approaching a great chariot, covered by a golden net, adorned with gems and corals
+and yoked with trained horses, Ravana mounted on it.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

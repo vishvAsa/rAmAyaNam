@@ -2,6 +2,19 @@
 title = "०३९ रामेण सुवेलपर्वतसौन्दर्यदर्शनम्"
 title_english = "039 Rama and others see the charming garden on Suvela mountain"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Rama and the monkeys see the charming gardens and groves located in Lanka, viewing
+them from the top of Suvela mountain. Some of the monkeys, thrilling with rapture, enter the
+gardens and enjoy their beauty of flowers and birds. Some others went towards Lanka; located on the
+apex of Trikuta mountain. They see the city with its large mansions and seven storied buildings,
+including the thousand-pillared mansion of Ravana with a height almost touching the skies.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-039-Rama_and_others_see_the_charming_garden_on_Suvela_mountain_0.mp3"></div>
 </details>
@@ -23,6 +36,12 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 लङ्कायां ददृशुर्वीरा वनान्युपवनानि च ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ताम् रात्रिम् उषितास् तत्र सुवेले हरि पुम्गवाः ।
+लन्कायाम् ददृशुर् वीरा वनान्य् उपवनानि च ॥ ६-३९-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वानर-यूथपतियोंने वह रात उस सुवेल पर्वतपर ही बितायी और वहाँसे उन वीरोंने लङ्काके वन और उपवन भी देखे ॥ १ ॥
@@ -31,6 +50,23 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानर सेनापतिगळु आ रात्रॆयन्नु आ सुवेल पर्वतदल्ले कळॆदु, अल्लिन्द वानर वीररु लङ्कॆय वन-उपवनगळू नोडिदरु.॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. viiraaH* = the valiant; *hariyuuthapaaH* = chief of the army
+of monkeys; *uSitaaH* = stayed; *taam* = that; *raatrim* = night;
+*suvela* = Suvela Mountain; *dadR^ishaH* = and saw; *vanaani upavanaanicha* =
+the gardens andgroves; *laN^kaayaam* = in Lanka
+
+**अनुवादः**
+
+The valiant army-chiefs of monkeys stayed on Suvela mountain for that night and saw
+the garden and groves in Lanka.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -45,6 +81,12 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 दृष्टिरम्याणि ते दृष्ट्वा बभूवुर्जातविस्मयाः ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सम सौम्यानि रम्याणि विशालान्य् आयतानि च ।
+दृष्टि रम्याणि ते दृष्ट्वा बभूवुर् जात विस्मयाः ॥ ६-३९-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे बड़े ही चौरस, शान्त, सुन्दर, विशाल और विस्तृत थे तथा देखनेमें अत्यन्त रमणीय जान पड़ते थे । उन्हें देखकर उन सब वानरोंको बड़ा विस्मय हुआ ॥ २ ॥
@@ -53,6 +95,23 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवु चौकाकारविद्दु, शान्त, सुन्दर, विशाल-विस्तृतवागिद्दवु. नोडलु अत्यन्त रमणीयवागि कण्डुबरुत्तिद्दवु. अवन्नु नोडि आ ऎल्ल वानररिगॆ बहळ विस्मयवायितु.॥2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. dR^iSTvaa* = seeing; (the gardens); *samasaumyaani* = which
+were levelled; *beautiful;vishaalaani* = spacious; *dR^iSTiramyaaNi* = and charming
+to look at; *te* = they; *babhuuvuH* = became; *jaata vismayaaaH* =
+astonished.
+
+**अनुवादः**
+
+Seeing those gardens which were levelled, beautiful, spacious, majestic and
+enchanting to look at, they became astonished.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +173,37 @@ _________________
 विचित्र हूवुगळिन्द कूडिद, कॆम्पाद तळिरुगळिन्द, हसुराद हुल्लिनिन्द, विचित्र वनश्रेणिगळिन्दलू आ पुरिय शोभॆ इन्नू हॆच्चागित्तु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+3; 4; 5; *6. champakaashoka vakula shaalataala samaakulaa* = thick with
+champaka; Ashoka; Vakula; sal and palmyra trees; *tamaala panasachchhannaa* = covered with
+groves of Tamala and Panasa trees; *naagamaalaasamaavR^itaa* = surrounded with rows of Naga
+kesara trees laN^ka = Lanka; *shushubhe* = looked splendid; *samastataH* = on all
+sides; *amaraavatii yathaa* = like the city of Amaravati indrasya = reigned by Indra the god
+of celestials; *niilaiH* = with green; *shaadvalaiH* = lawns; *chitraabhiH* =
+and variegated; *vana raajibhiH* = avenues; *tathaa* = and; *divyaiH* = with
+beautiful; *bahuvidhaiH* = trees of various kinds; *hintaalaiH* = like Hintala;
+*arjunaiH* = Arjuna; *niipaiH* = Nipa; *saptaparNaiH* = and saptaparna;
+*supuSpitaih* = full flowering; *tilakaiH* = Tilaka; *karNikaarnaisheha* =
+Karnikara; *tilakaiH* = tilaka; *karNikaaraishcha* = karnikara; *paaTalaiH* =
+and Patala; *puSipitaagraiH* = whose crests were laden with flowers; *lataa parigata
+drumaiH* = and which were intertwined with climbers; *vichitra kusumopetaiH* = which
+were laden with multi-coloured flowers; *raktakomala pallavaiH* = and red tender leaves.
+
+**अनुवादः**
+
+Thick with Champaka, Ashoka, Vakula Sala and palmyra trees, covered with groves of
+Tamala and Panasa trees, surrounded with rows of Nagakesara trees, Lanka looked splended on all
+sides like the city of Amaravati reigned by Indra the god of celestials, with green lawns and
+variegated avenues and with beautiful trees of various kinds like Hintala, Arjuna, Nipa Saptaparna
+in full flowering, Tilaka, Karnikara and Patal whose crests were laden with flowers and which were
+intertwined with climbers laden with multi-coloured flowers and red tender leaves.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धाढ्यान्यतिरम्याणि पुष्पाणि च फलानि च ।  
@@ -124,6 +214,12 @@ _________________
 
 गन्धाढ्यान्यतिरम्याणि पुष्पाणि च फलानि च ।  
 धारयन्त्यगमास्तत्र भूषणानीव मानवाः ॥ ७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+गन्ध आढ्यान्य् अभिरम्याणि पुष्पाणि च फलानि च ।
+धारयन्त्य् अगमास् तत्र भूषणानि इव मानवाः ॥ ६-३९-७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,6 +232,23 @@ _________________
 मनुष्यरु ऒडवॆगळन्नु धरिसुवन्तॆ अल्लिय वृक्षगळु सुगन्धित हूवुगळन्नु मत्तु अत्यन्त रमणीय हण्णुगळन्नु धरिसिद्दवु.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. agamaaH* = the trees; *tatra* = there; *dharayanti* =
+were laden; *gandhaaDhyaani* = with fragrant; *atiramyaaNi* = and very much
+enchanting; *puSpaaNicha* = flowers; *phaaanicha* = and fruits; *maanavaaH
+iva* = as human beings; *bhuuSaNaani* = the ornaments;
+
+**अनुवादः**
+
+The trees there were laden with fragrant and greatly enchanting flowers and fruits,
+as human beings were laden with ornaments.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चैत्ररथसङ्काशं मनोज्ञं नन्दनोपमम् ।  
@@ -146,6 +259,12 @@ _________________
 
 तच्चैत्ररथसङ्काशं मनोज्ञं नन्दनोपमम् ।  
 वनं सर्वर्तुकं रम्यं शुशुभे षट्पदायुतम् ॥ ८ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तच् चैत्र रथ सम्काशम् मनोज्नम् नन्दन उपमम् ।
+वनम् सर्व ऋतुकम् रम्यम् शुशुभे षट्पद आयुतम् ॥ ६-३९-८
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -158,6 +277,25 @@ _________________
 चैत्ररथ मत्तु नन्दन वनदन्तॆ अल्लिय मनोहर वनगळॆल्लवू ऎल्ल ऋतुगळल्लि भ्रमरगळिन्द व्याप्तवागि रमणीयवागि शोभिसुत्तिद्दवु.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. tat* = that; *vanam* = garden; *sarvartukam* = which
+bore flowers and fruits in relation to all seasons; *SaTpadaayutam* = and full of bees;
+*chaitrarathasamkaasham* = like chaitraratha (the garden of Kubera the god of riches);
+*shushubhe* = was quite charming; *nandanopamam* = resembling Nandana (the garden of
+Indra the Lord of celestials)
+
+**अनुवादः**
+
+That garden, which bore flowers and fruits in relation to all seasons and with full
+of bees, like chaitraratha (garden of Kubera, the god of riches), was quite charming, like Nandana
+(garden of Indra the Lord of celestials)
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दात्यूहकोयष्टिबकैर्नृत्यमानैश्च बर्हिणैः ।  
@@ -170,6 +308,12 @@ _________________
 रुतं परभृतानां च शुश्रुवे वननिर्झरे ॥ ९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नत्यूह कोयष्टि भकैर् नृत्यमानैश् च बर्हिभिः ।
+रुतम् पर भृतानाम् च शुश्रुवे वन निर्झरे ॥ ६-३९-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 दात्यूह, कोयष्टि, बक और नाचते हुए मोर उस वनको सुशोभित करते थे । वनमें झरनोंके आसपास कोकिलकी कूक सुनायी पड़ती थी ॥ ९ ॥
@@ -178,6 +322,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 चातकपक्षिगळिन्दलू नीरु कोळिगळिन्दलू, बकपक्षिगळू, नृत्यमाडुत्तिद्द नविलुगळिन्दलू आ वनगळु शोभिसुत्तिद्दवु. वनदल्लिद्द चिलुमॆगळ बळियल्लि कोगिलॆगळ कूजनवु केळि बरुत्तित्तु.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. vana nirjhare* = In that garden abounding in cascades;
+*rutamcha* = the songs; *daatyuuha koyaSTibhakaiH* = of gallinules and lapwings
+(small white cranes); *nR^ityamaanaiH* = and of dancing; *barhiNaiH* = pea-cocks;
+*parabhiR^itaanaam* = and cuckoos; *shushruve* = were heard.
+
+**अनुवादः**
+
+In that garden abounding in cascades, the songs of birds like gallinules,
+lapwings(small white cranes), dancing peacocks and cuckoos were heard.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +403,48 @@ _________________
 आ वीररॆल्लरू इच्छानुसार रूप धरिसुववरू, उत्साहिगळू, आनन्दमग्नरू आगिद्दरु. महातेजस्वी आ वानररु अल्लि प्रवेशिसुत्तले पुष्पगळ संसर्गदिन्द मूगिगॆ सुखकरवाद सुगन्धित मन्दमारुत बीसतॊडगितु. इतर अनेक सेनापति वानरवीररु सुग्रीवनिन्द अप्पणॆ पडॆदु, ध्वज-पताकॆगळिन्द अलङ्कृतरागि अल्लिन्द हॊरटु लङ्कापट्टणवन्नु प्रवेशिसिदरु.॥12-13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+13. (While); *teSaam* = those; *mahaujasaam* = mighty and
+splendid; *vaanarvaaNaam* = monkeys; *pravishataam* = were entering; *tatra* =
+there; *anilaH* = a breeze; *puSpasamsarga surabhiH* = sweet smelling due to contact
+with flowers; *ghraaNasukhaH* = delightful to the nose; *vavau* = blew.
+
+**अनुवादः**
+
+While those mighty and splendid monkeys were entering the groves a breeze with
+flowery fragrance, delightful to the nose, blew.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+10;11; *12. tataH* = then; *te* = those; *harayaH* =
+monkeys; *hR^iSTaaH* = thrilling with rapture; *pramuditaaH* = delighted;
+*viiraaH* = brave; *kaamaruupiNaH* = and assuming any shape at will;
+*vivushuH* = entered; *taani* = those; *vanaani* = groves;
+*upavanaanicha* = and gardens; *nityamattavihangaani* = with birds ever excited with
+joy; *bhramaraacharitaanicha* = wandered by bees; *kokulaa kula khaNDaani* = with
+clusters of trees occupied by Cuckoos; *vihangaabhirutaanicha* = having variegated sounds of
+birds; *bhR^inga raajaadhigiitaani* = with singing by the large bees; *kura rasva
+nitaanicha* = abounding with sounds of ospreys; *koNaalakavighuSTaani* = with the
+musical sounds of wag tails; *saarasaabhirutaani* = and cries of cranes.
+
+**अनुवादः**
+
+Then, those monkeys, thrilling with rapture, delighted, brave and assuming any shape
+at will, entered the aforesaid groves and gardens, with birds ever excited with joy, wandered by
+bees, with clusters of trees occupied by cuckoos, having variegated sounds of birds and song of the
+large bees, abounding with sounds of ospreys, with the music of wagtails and cries of canes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्रासयन्तो विहगान् ग्लापयन्तो मृगद्विपान् ।  
@@ -252,6 +455,12 @@ _________________
 
 वित्रासयन्तो विहगान् ग्लापयन्तो मृगद्विपान् ।  
 कम्पयन्तश्च तां लङ्कां नादैः स्वैर्नदतां वराः ॥ १४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अन्ये तु हरि वीराणाम् यूथान् निष्क्रम्य यूथपाः ।
+सुग्रीवेण अभ्यनुज्नाता लन्काम् जग्मुः पताकिनीम् ॥ ६-३९-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -264,6 +473,24 @@ _________________
 गर्जिसु ववरल्लि श्रेष्ठराद आ वानरवीररु तम्म सिंहगर्जनॆयिन्द पक्षगळन्नु हॆदरिसुत्त, मृगगळन्नु, आनॆगळन्नु आयासपडिसुत्ता, लङ्कॆयन्नु नडुगिसुत्ता मुन्दरिदरु.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. anye* = some other; *yuuthapaaH tu* = of the troop-leaders;
+*hariviiraaNaam* = of the valiant monkeys; *niSkranya* = come out; *yuuthaat*
+= of their troops; *abhyanujNaataaH* = duly permitted; *sugriiveNa* = by Sgureeva;
+*jagmu* = and went; *laN^kaam* = towards Lanka; *pataakiniim* = adorned with
+flags.
+
+**अनुवादः**
+
+Some other troop-leaders of the valiant monkeys came out of their troops with due
+permission from sugreeva and went towards Lanka, the city adorned with flags
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुर्वन्तस्ते महावेगा महीं चरणपीडिताम् ।  
@@ -276,6 +503,12 @@ _________________
 रजश्च सहसैवोर्ध्वं जगाम चरणोत्थितम् ॥ १५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वित्रासयन्तो विहगांस् त्रासयन्तो मृग द्विपान् ।
+कम्पयन्तश् च ताम् लन्काम् नादैः स्वैर् नदताम् वराः ॥ ६-३९-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे महान् वेगशाली वानर पृथ्वीको जब चरणोंसे दबाते थे, उस समय उनके पैरोंसे उठी हुई धूल सहसा ऊपरको उड़ जाती थी ॥ १५ ॥
@@ -284,6 +517,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महावेगशालि वानररु तम्म कालुगळ सङ्घट्टनॆयिन्द नडॆयुत्तिद्दाग ऎद्द धूळियु आकाशवन्नु व्यापिसितु.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. (Those monkeys) nadataam varaaH* = great in making noises;
+*vihagaan vitraasayantoH* = causing the birds to frighten; *glaapayantaH* = and
+displeaseing; *mR^iga dvipaan* = to the animals and elephants; (went) ; *taam laN^kaam
+kampayantashcha* = causing that Lanka to tremble; *svaiH* = by their; *naadaiH* =
+sounds.
+
+**अनुवादः**
+
+Those monkeys, great in making noises causing the birds to frighten and displeasing
+to the animals and elephants, went, causing that Lanka to tremble, by their noises.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,6 +552,12 @@ _________________
 तेन शब्देन वित्रस्ता जग्मुर्भीता दिशो दश ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कुर्वन्तस् ते महा वेगा महीम् चारण पीडिताम् ।
+अजश् च सहसा एव ऊर्ध्वम् जगाम चरण उद्धतम् ॥ ६-३९-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वानरोंके उस सिंहनादसे त्रस्त एवं भयभीत हुए रीछ, सिंह, भैंसे, हाथी, मृग और पक्षी दसों दिशाओंकी ओर भाग गये ॥ १६ ॥
@@ -309,6 +566,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरर आ सिंहनाददिन्द भयगॊण्ड करडिगळु, सिंहगळु, कोणगळु, आनॆगळु, जिङ्कॆगळु, पक्षिगळु दिक्कापालागि ओडिहोदुवु.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. te* = those monkesy; *mahaavegaaH* = with great speed;
+*kurvantaH* = making; *mahiim* = the earth; *charaNa piiDitaam* = flattened by
+their feet; *rajashcha* = and the dust; *charaNotthitam* = raised by their feet;
+*jagaama* = went up; *sahasaiva* = instantaneously.
+
+**अनुवादः**
+
+Those monkeys with great speed marched ahead, making the earth flattened by their
+feet and the dust thus raised by their feet went up instant aneously.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +600,12 @@ _________________
 समन्तात्पुष्पसञ्छन्नं महारजत सन्निभम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ऋक्षाः सिम्हा वराहाश् च महिषा वारणा मृगाः ।
+तेन शब्देन वित्रस्ता जग्मुर् भीता दिशो दश ॥ ६-३९-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 त्रिकूट पर्वतका एक शिखर बहुत ऊँचा था । वह ऐसा जान पड़ता था, मानो स्वर्गलोकको छू रहा हो । उसपर सब ओर पीले रंगके फूल खिले हुए थे, जिनसे वह सोनेका-सा जान पड़ता था ॥ १७ ॥
@@ -334,6 +614,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 त्रिकूट पर्वतद ऒन्दु शिखरवु आकाशवन्ने मुट्टुवष्टु ऎत्तरवागित्तु. अदर मेलॆ ऎल्लॆडॆ हळदि हूवुगळु बिट्टिद्दरिन्द अदु चिन्नदन्तॆ तोरुत्तित्तु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. vitrastaaH* = frightened; *tena shabdena* = by that sound;
+*R^ikSaaH* = bears; *simhaashcha* = lions; *mahiSaaH* = buffales;
+*vaaraNaashcha* = elephants; *mR^igaaH* = deer; *khagaaH* = birds;
+*vitrastaaH* = were trembled; *bhiitaaH* = terrified; *jagmuH* = and hastened
+toward; *dasha dishaH* = ten directions.
+
+**अनुवादः**
+
+Frightened by that sound, bears lions buffaloes elephants, deers and birds were
+trembled and terrified and hastened towards ten different directions.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +671,11 @@ _________________
 निविष्टा तस्य शिखरे लङ्का रावणपालिता ॥ १९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निविष्टा तत्र शिखरे लन्का रावण पालिता ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 लोग त्रिकूटके उस शिखरपर मनके द्वारा चढ़नेकी कल्पना भी नहीं कर सकते थे । फिर क्रियाद्वारा उसपर आरूढ़ होनेकी तो बात ही क्या है? रावणद्वारा पालित लङ्का त्रिकूटके उसी शिखरपर बसी हुई थी ॥ १९ ॥
@@ -381,6 +684,30 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सामान्यरिगॆ अदन्नु हत्तलु मनस्सिनिन्दलू साध्यवागुत्तिरलिल्ल. हीगिरुवाग प्रत्यक्षवागि हत्तुवुदु ऎल्लिन्द बन्तु? इन्तह दुर्गम त्रिकूट पर्वत शिखरद मेल्भागदल्लि रावणनु पालिसुत्तिद्द लङ्कॆयु नॆलॆसित्तु.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18;19. ekam* = the solitary; *trikuuTasya Shikharam* = peak of
+Trikuta mountain; *praamshu* = which is so high; *divispR^isham* = as touching the
+sky; *puSpasamchhannam* = enveloped by flowers; *samantaat* = all oer;
+*mahaarajata samnibham* = resembling gold; *shatayojana vistiirNam* = to an extent of
+hundred yojanas(eight hundred miles); *vimalam* = bright; *chaarudarshanam* =
+charming to look at; *shlakSTam* = beautiful; *shriimat* = glorious;
+*mahachchaiva* = magestic; *duSpraapam* = inaccessible; *shakunairapi* = even
+by birds; *duraaroham* = hard to be asecended; *janaiH* = by the mind; *kim
+punaH* = how much more; *karmaNaa* = by an act of walking.
+
+**अनुवादः**
+
+The solitary peak of Trikuta mountain, which is so high as if touching the sky, all
+over covered with flowers entirely, resembling gold; to an extent of eight hundred miles; bright;
+charming to look at, beautiful, glorious, majestic, inaccessible even by birds, hard to be ascended
+by people may, even by the mind-how much more by an act of walking?
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +722,12 @@ _________________
 दशयोजनविस्तीर्णा विंशद्योजनमायता ।  
 सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसन्निभैः ।  
 काञ्चनेन च शालेन राजतेन च शोभते ॥ २० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+६-३९-२०
+दशयोजनविस्तीर्णा विंशद्योजनमायता ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -407,6 +740,30 @@ _________________
 आ लङ्कापुरियु हत्तु योजन अगलवागियू, इप्पत्तु योजन उद्दवागियू इद्दु, बिळिय मोडगळन्तॆ काणुव ऎत्तरवाद गोपुरगळिन्द शोभिसुत्तित्तु.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. laN^kaa* = Lanka; *raavaNa paalitaa* = ruled by Ravana;
+*dashayogana istiirNaa* = with a breadth of ten yojanas (eight miles); *aayataa
+vimshadyojanam* = and a lenght of twenty yojanas (one hundred sixty miles); *niviSTaa* =
+was located; *shikhare* = on the apex of the mountain; *tatra* = there.
+
+**अनुवादः**
+
+Lanka, ruled by Ravana, with a breadth of eighty mile and a length of one hundred
+sixty miles, was located on the apex of the mountain there.
+
+**टिप्पनी**
+
+The length and breadth of the city given here varies from that given elsewhere -
+which is a hundred Yojanas wide and thirty yojanas long. This anomaly is reconciled by commentators
+by explaining the present verse as referring to the length and breadth of Lanka proper, which
+comprised the residence of Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासादैश्च विमानैश्च लङ्का परमभूषिता ।  
@@ -419,6 +776,12 @@ _________________
 घनैरिवातपापाये मध्यमं वैष्णवं पदम् ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सा पुरी गोपुरैर् उच्चैः पाण्डुर अम्बुद सम्निभैः ।
+कान्चनेन च सालेन राजतेन च शोभिता ॥ ६-३९-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जैसे ग्रीष्मके अन्तकाल—वर्षा ऋतुमें घनीभूत बादल आकाशकी शोभा बढ़ाते हैं, उसी प्रकार प्रासादों१ और विमानोंसे२ लङ्कापुरी अत्यन्त सुशोभित हो रही थी ॥
@@ -427,6 +790,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ग्रीष्म ऋतुविन कॊनॆयल्लि वर्षाकालद दट्टवाद मोडगळु आकाशद शोभॆ हॆच्चिसुवन्तॆये प्रासादगळिन्द मत्तु विमानगळिन्द लङ्कॆयु अत्यन्त शोभितवागित्तु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. saa* = that; *purii* = city; *shobhate* = looked
+beautiful; *uchchaiH gopuraiH* = with its towering City-gates; *paaNDuraambuda
+samnibhaiH* = resembling white clouds; *kaaNchanena* = and with golden;
+*raajatena* = and silver shaalena = ramparts
+
+**अनुवादः**
+
+The city of Lanka looked beautiful with its towering City-gates resembling white
+clouds as well as with golden and silver ramparts.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -447,6 +827,12 @@ _________________
 कैलासशिखराकारो दृश्यते खमिवोल्लिखन् ॥ २२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रासादैश् च विमानैश् च लन्का परम भूषिता ।
+घनैर् इव आतप अपाये मध्यमम् वैष्णवम् पदम् ॥ ६-३९-२२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस पुरीमें सहस्र खम्भोंसे अलंकृत एक चैत्यप्रासाद था, जो कैलास-शिखरके समान दिखायी देता था । वह आकाशको मापता हुआ-सा जान पड़ता था ॥ २२ ॥
@@ -455,6 +841,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पुरियल्लि साविर कम्बगळ अद्भुत ऒन्दु चैत्यप्रासादवु शोभिसुत्तित्तु. अदु कैलास शिखरदन्तॆ इद्दु, आकाशदल्लि गॆरॆयन्नु ऎळॆयुत्तिरुवुदो ऎन्दु काणुत्तित्तु.॥22॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. laN^kaa* = the city of Lanka; *parama bhuuSitaa* = greatly
+adorned by; *praasaadaishcha* = palaces; *vimaanaishcha* = and seven-storied
+mansions; *ghanaiH iva* = as clouds; *aatapaapaaye* = at the end of a summer;
+*vaiSNava padam* = are to the region of Vishnu the god of preservation; *madhyamam* =
+between (earth and heaven)
+
+**अनुवादः**
+
+The city of Lanka, greatly adorned by palaces and seven storied mansions, looked
+like the sky with clouds at the end of a summer and as a region of Vishnu (the god of preservation)
+between earth and heaven.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +904,29 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ आ पुरियु बहळ मनोहर, सुवर्णमय अनेक पर्वतगळिन्द अलङ्कृतवागिद्दु, नानाविधद विचित्र धातुगळिन्द चित्रितवागि, अनेक उद्यानवनगळिन्द शोभिसुत्तित्तु.॥24॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+23; *24. chaitya praasaadaH* = A palace; *samalaNkR^itaH* = duly
+graced; *stambha sahasreNa* = with a thousand pillars; *kailaasa shikharaakaaraH* =
+which looked like a peak of Mount Kailasa; *yasyaam* = in the city of Lanka; *yaH* =
+which was; *rakSyate* = protected by; *nityam* = always; *samagreNa* = a
+complete; *balena* = army; *rakSasaam* = of demons; *ullikhanniva* = which
+seemed to lick; *kham* = the sky; *dR^ishyate* = was to be seen; *saH* = that;
+*babhuuva* = remained; *purabhuuSaNam* = as an ornament of the city;
+*raaakSasendra* = of Ravana.
+
+**अनुवादः**
+
+A palace, duly graced with a thousand pillars, which looked like a peak of Mount
+Kailasa was three in the City of Lanka, which was always the City of Lanka, which was always
+protected by a complete army of demons. The palace seemed to be scraping the skies and was to be
+seen as an ornament to the City of Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +1001,33 @@ _________________
 दॊड्ड दॊड्ड सौधगळिन्द कूडिद्द आ स्वर्ग तुल्यनगरवन्न नोडि पराक्रमि श्रीरामनु विस्मयगॊण्डनु.॥27॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+25; 26; *27. lakshmiivaan* = the glorious; *lakSmaNaagrajaH* =
+Rama the elder brother of Lakshmana; *raamai saha* = along with monkeys; *dadarsha* =
+saw; *taam* = that; *manojJNaam* = charming; *kaaNchanavatiim* = golden;
+*raavaNasya puriim* = city of Ravana; *parvataiH* = mountains; *naanaa dhaatu
+vichitraiH* = Picturesque with various minerals; *upashobhitaam* = splendid;
+*udyaanaiH* = with gardens; *naanaa vihagasamghuSTaam* = re-echoing with songs of
+birds of every kind; *naanaa mR^iga niSevitaam* = frequented by varieties of deer;
+*naanaakusumasampannaam* = richly endowed with various kinds of flowers; *naanaa rakSasa
+sevitaam* = inhabited by demons of every degree; *samR^iddhaam* = duly flourishing;
+*samR^iddhaam* = duly flourishing; *samR^iddhaam* = duly flourishing;
+*samR^iddhaarthaam* = having increased its wealth.
+
+**अनुवादः**
+
+The glorious Rama the elder brother of Lakshmana along with monkeys saw that
+charming golden city of Ravana, graced with mountains picturesque with various minerals, splendid
+with gardens reechoing with songs of birds of every kind, frequented by varieties of deer, richly
+endowed with various kinds of flowers, inhabited by demons of every degree and duly flourishing,
+having increased its wealth.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रत्नपूर्णां बहुसंविधानां  
@@ -589,6 +1044,12 @@ _________________
 ददर्श रामो महता बलेन ॥ २८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ताम् महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।
+नगरीं त्रिदिवप्रख्यां विस्मयं प्राप वीर्यवान् ६-३९-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार अपनी विशाल सेनाके साथ श्रीरघुनाथजीने अनेक प्रकारके रत्नोंसे पूर्ण, तरह-तरहकी रचनाओंसे सुसज्जित, ऊँचे-ऊँचे महलोंकी पंक्तिसे अलंकृत और बड़े-बड़े यन्त्रोंसे युक्त मजबूत किवाड़ोंवाली वह अद्भुत पुरी देखी ॥ २८ ॥
@@ -597,6 +1058,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ तन्न विशाल सैन्यदॊन्दिगॆ श्रीरघुनाथनु अनेक रीतियिन्द रत्नगळिन्द तुम्बिद, हलवारु रचनॆगळिन्द सुसज्जितवाद, ऎत्तरवाद प्रासादगळ सालुगळिन्द समलङ्कृतवाद, दॊड्ड दॊड्ड यन्त्रगळिन्द निर्वहिसुत्तिद्द महाद्वारगळिन्द कूडिद आ अद्भुतपुरियन्नु नोडिदनु.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. dR^iSTvaa* = beholding; *taam* = that; *nagariim* =
+city; *tridivaprakhyaam* = which looks like heaven; *mahaagR^iha sambaadhaam* = and
+crammed with huge palaces; *lakSmaNa puurvajaH* = Rama; the elder brother of Lakshmana;
+*praapa* = was seized; *vismayam* = with astonishment.
+
+**अनुवादः**
+
+Beholding that City, which looks like heaven and crammed with huge palaces, the
+valiant Rama the elder brother of Lakshmana was seized with astonishment.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

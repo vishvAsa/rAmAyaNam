@@ -2,6 +2,18 @@
 title = "०५० मिथिला-गतिः"
 title_english = "050 Redemption of ahalya from her curse cont"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties**
+
+Rama arrives at Mithila along with Lakshmana led on by Vishvamitra. On hearing that Vishvamitra has
+arrived at their city Mithila, King Janaka proceeds to him welcomingly. On seeing Rama and Lakshmana
+near at Vishvamitra, Janaka inquisitively asks Vishvamitra about these two princes. Vishvamitra announces
+them as the sons of Dasharatha and informs about the adventurous deeds the boys have undertaken.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-050-Mithila_Gamanam.mp3"></div>
 </details>
@@ -31,6 +43,27 @@ title_english = "050 Redemption of ahalya from her curse cont"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक राम-लक्ष्मणरु विश्वामित्ररन्नु मुन्दिरिसिकॊण्डु महर्षि गौतमर आश्रमद ईशान्य दिक्किन कडॆगॆ नडॆदु, मिथिलानरेशन यज्ञशालॆगॆ होदरु.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. tataH* = then; *raamaH saumitriNaa saha* = Rama, along with Soumitri; *vishvaamitram
+puraskR^itya* = keeping Vishvamitra afore; *praak uttaraam gatvaa* = going to north east [direction]
+; *[janakasya] yaj~navaaTam upaagamat* = neared [Janaka's] Vedic-ritual hall.
+
+**अनुवादः**
+
+Rama then travelled along with Lakshmana towards northeast direction keeping Vishvamitra afore and neared
+the hall of Vedic ritual of Janaka in Mithila kingdom. [1-50-1]
+
+**टिप्पनी**
+
+The northeast is an auspicious direction, and even today it is held high for any ritual or in the architecture.
+This direction is presided over by *iishaana* The God.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +97,22 @@ _________________
 अल्लि लक्ष्मणसहित श्रीरामनु मुनिश्रेष्ठ विश्वामित्ररल्लि इन्तॆन्दनु- महाभागरे! महात्मा जनकन यज्ञ समारम्भवु बहळ वैभवोपेतवागि काणुत्तिदॆ. इल्लि वेदाध्ययन सम्पन्नराद नानादेशद साविरारु ब्राह्मणरु नॆरॆदिरुवरु.॥2-3॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. sahalakSmaNaH raamaH tu* = with Lakshmana, Rama, on his part; *munishaarduulam uvaaca*
+= spoke to tigerly saint - Vishvamitra; *mahaatmanaH janakasya* = of noble-souled, Janaka;
+*yaj~nasamR^iddhiH* = Vedic-ritual's bountifulness; *saadhvii hi* = is excellent, indeed.
+
+**अनुवादः**
+
+Rama who is with Lakshmana spoke to the tigerly saint Vishvamitra, " the Vedic-ritual of noble-souled
+Janaka is excellent, indeed with bountifully garnered paraphernalia of the ritual. [1-50-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिवाटाश्च दृश्यन्ते शकटीशतसङ्कुलाः ।  
@@ -89,6 +138,29 @@ _________________
 ऋषिगळु पयणिसुत्तिद्द नूरारु बण्डिगळु कण्डुबरुत्तिवॆ. ब्रह्मर्षिगळे! ईग नावु उळकॊळ्ळलु यावुदादरू स्थानवन्नु निश्चयिसिरि.॥4॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+3. *mahaabhaaga* = oh highly fortunate one [Vishvamitra]; *iha* = here - this place;
+*naanaadeshanivaasinaam* = dwellers of many provinces; *vedaadhyayanashaalinaam*
+= experts in Veda practices; *braahmaNaanaam* = of Brahmans; *sahasraaNi bahuuni* =
+thousands, many; *shakaTiishatasankulaaH* = rife with hundred carts; *R^iSivaaTaaH ca*
+= sages' cottages, also; *dR^ishyante* = are appearing; *brahman* = oh Brahman; *
+vayam yatra vatsyaamahe* = where we take lodge; such a; *deshaH* = place - campsite;
+*vidhiiyataam* = let it be decided.
+
+**अनुवादः**
+
+"Oh, highly fortunate sage, this place abounds with many thousands of Brahmans who are experts in Vedic
+practises and who seem to be the dwellers of numerous provinces, and also discernable are the cottages
+of sages rife with hundreds of carts full with their ceremonial chattels, as such oh, Brahman, a campsite
+may be decided for us too, as I discern every inch is inhabited." Thus Rama spoke to Vishvamitra. [1-50-3,
+4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा विश्वामित्रो महामुनिः ।  
@@ -101,6 +173,12 @@ _________________
 निवासमकरोद् देशे विविक्ते सलिलान्विते ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+रामस्य वचनं श्रुत्वा विश्वामित्रो महामुनिः ।
+निवेशमकरोद्देशे विविक्ते सलिलायुते ॥ १-५०-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामचन्द्रजीका यह वचन सुनकर महामुनि विश्वामित्रने एकान्त स्थानमें डेरा डाला, जहाँ पानीका सुभीता था ॥ ५ ॥
@@ -109,6 +187,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रन मातन्नु केळि महामुनि विश्वामित्ररु एकान्तवाद नीरिन सौलभ्यविरुव ऒन्दु स्थानदल्लि बिडार हूडिदरु.॥5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. mahaamuniH vishvaamitraH* = great-saint, Vishvamitra; *raamasya vacanam shrutvaa*
+= on hearing Rama's words; *salilaayute [anvite]* = having [refreshing] waters; *vivikte
+deshe* = in an unfrequented, place; *nivesham akarot* = made [arranged] camp;
+
+**अनुवादः**
+
+On hearing the words of Rama that great-saint Vishvamitra arranged a camp at an unfrequented place that
+has refreshing water. [1-50-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +220,13 @@ _________________
 शतानन्दं पुरस्कृत्य पुरोहितमनिन्दितः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+विश्वामित्रमनुप्राप्तं श्रुत्वा नृपवरस्तदा ।
+शतानन्दं पुरस्कृत्य पुरोहितमनिन्दितम् ॥ १-५०-६
+प्रत्युज्जगाम सहसा विनयेन समन्वितः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अनिन्द्य (उत्तम) आचार-विचारवाले नृपश्रेष्ठ महाराज जनकने जब सुना कि विश्वामित्रजी पधारे हैं, तब वे तुरंत अपने पुरोहित शतानन्दको आगे करके [अर्घ्य लिये विनीतभावसे उनका स्वागत करनेको चल दिये] ॥
@@ -134,6 +235,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 उत्तम आचार-विचारवुळ्ळ नृपश्रेष्ठ महाराजनु विश्वामित्ररु आगमिसिरुवरु ऎन्दु केळिदाग कूडले तन्न पुरोहितराद शतानन्दरन्नु मुन्दॆ माडि, अर्घ्य-पाद्यादिगळिन्द अवरन्नु स्वागतिसलु हॊरटनु.॥6॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6, 7a. nR^ipavaraH* = the best king - Janaka; *tadaa* = then; *vishvaamitram anupraaptam
+shrutvaa* = on hearing Vishvamitra's arrival [at Mithila] ; *aninditam* = not reprovable
+one; *purohitam* = priest; *shataanandam* = Shataananda; *puraskR^itya* = keeping
+afore; *vinayena samanvitaH* = embodied with deference [in deference to Vishvamitra];
+*sahasaa* = instantly; *pratyujjagaama* = forged ahead towards [Vishvamitra].
+
+**अनुवादः**
+
+On hearing that Vishvamitra has arrived in Mithila, then the best king Janaka instantly forged ahead
+towards Vishvamitra, keeping his unreprovable priest Shataananda afore of the team, in deference to
+Vishvamitra. [1-50-6, 7a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +270,13 @@ _________________
 विश्वामित्राय धर्मेण ददौ धर्मपुरस्कृतम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ऋत्विजोऽपि महात्मानस्त्वर्घ्यमादाय सत्वरम् ॥१-५०-७
+विश्वामित्राय धर्मेण ददौ धर्मपुरस्कृतम्
+।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनके साथ अर्घ्य लिये महात्मा ऋत्विज् भी शीघ्रतापूर्वक चले । राजाने विनीतभावसे सहसा आगे बढ़कर महर्षिकी अगवानी की तथा धर्मशास्त्रके अनुसार विश्वामित्रको धर्मयुक्त अर्घ्य समर्पित किया ॥ ७ १/२ ॥
@@ -158,6 +285,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनॊन्दिगॆ अर्घ्यवन्नॆत्तिकॊण्डु महात्मा ऋत्विजरू शीघ्रवागि हॊरटरु. राजनु विनीतभावदिन्द तत् क्षण मुन्दुवरॆदु महर्षियन्नु स्वागतिसिदनु. हागू धर्मशास्त्रक्कनुसार विश्वामित्ररिगॆ धर्मयुक्त अर्घ्यवन्नु समर्पिसिदनु.॥7½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7b, 8a. mahaatmaanaH* = of the great-souled one - Janaka's; *R^itvijaH api* = administrators
+of Vedic-ritual, even; *satvaram* = with haste; *arghyam aadaaya* = on taking water;
+*dharma[mantra]puraskR^itam* = in view of [ritualistically] ritual [sanctified] ; *dharmeNa
+vishvaamitraaya dadau* = ritually offered to Vishvamitra.
+
+**अनुवादः**
+
+Even the Ritvik-s, the administrators of that Vedic-ritual, of the great souled king Janaka arrived
+with post-haste taking holy waters, and they have ritualistically offered that sanctified water to Vishvamitra.
+[1-50-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,6 +327,23 @@ _________________
 महात्मा राजा जनकनु माडिद पूजॆयन्नु स्वीकरिसि मुनियु अवन क्षेम समाचार केळि, निरातङ्कवागि नडॆयुत्तिरुव यज्ञद कुरितु प्रश्निसिदरु.॥8½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+8b, 9a. *mahaatmanaH janakasya* = of great-souled Janaka's; *taam puujaam pratigR^ihya*
+= on receiving that veneration; Vishvamitra; *raaj~naH kushalam* = king's [Janaka's,] well-being;
+*yaj~nasya niraamayam ca* = without hindrance [unhindered proceedings] of Vedic-ritual, also;
+*papracCha* = asked after.
+
+**अनुवादः**
+
+On receiving that veneration from the great souled Janaka, Vishvamitra asked after the well-being of
+the king Janaka, as well about the unhindered proceedings of that Vedic-ritual. [1-50-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तांश्चाथ मुनीन् पृष्ट्वा सोपाध्यायपुरोधसः ॥ ९ ॥  
@@ -204,6 +366,23 @@ _________________
 राजनॊन्दिगॆ बन्दिरुव मुनि, उपाध्याय, पुरोहितरल्लियू कुशलवन्नु केळि विश्वामित्ररु बहळ सन्तोषदिन्द आ ऎल्ल महर्षिगळन्नु भॆट्टियादरु.॥9½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9b, 10a. saH* = he - Vishvamitra; *sopaadhyaayapurodhasaH taan muniin* = those saints with mentors,
+clerics; *yathaarham* = = as befitting; *[kushalam] pR^iSTvaa* = [well-being]
+on asking after; *atha* = then; *prahR^iSTavat* = as a happy-soul; *sarvaiH R^iSibhiH
+samaagacChat* = joined them with all sages.
+
+**अनुवादः**
+
+Then Vishvamitra asked after the well-being of saints, mentors, clerics, as befitting to their order,
+and joined the company of all of the sages as a happy-souled sage. [1-50-9b, 10a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजा मुनिश्रेष्ठं कृताञ्जलिरभाषत ॥ १० ॥  
@@ -219,6 +398,12 @@ _________________
 आसने भगवनास्तां सहैभिर्मुनिपुङ्गवैः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथ राजा मुनिश्रेष्ठं कृताञ्जलिरभाषत ॥ १-५०-१०
+आसने भगवानास्तां सहैभिर्मुनिसत्तमैः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इसके बाद राजा जनकने मुनिवर विश्वामित्रसे हाथ जोड़कर कहा—‘भगवन्! आप इन मुनीश्वरोंके साथ आसनपर विराजमान होइये’ ॥ १० १/२ ॥
@@ -227,6 +412,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदाद नन्तर राजाजनकनु मुनिवर विश्वामित्रनल्लि कैमुगिदु इन्तॆन्दनु - ‘महात्मरे! तावु ई मुनीश्वरर सहित आसनदल्लि विराजमानरागिरि.॥10½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10b, 11a. atha* = then; *raajaa kR^itaanjaliH* = king, with palm-fold; *munishreSTham
+abhaaSata* = spoke to eminent-sage Vishvamitra; *bhagavaan* = oh reverend sage - Vishvamitra;
+*ebhiH munisattamaiH saha* = along with these eminent saints; *aasane aastaam*
+= be seated in seat - please be seated on a high seat.
+
+**अनुवादः**
+
+The king Janaka adjoining his palms then spoke to that eminent-sage Vishvamitra, "oh, reverend sage,
+please be seated on this high seat, along with these eminent saints in their respective seats." Thus
+Janaka spoke to Vishvamitra [1-50-10b, 11a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +456,41 @@ _________________
 बळिक जनकराजनु विनन्तिसिकॊण्डाग मुनिवर विश्वामित्ररु सुखासीनरादरु. तदनन्तर पुरोहित, ऋत्विज हागू मन्त्रिगळॊन्दिगॆ राजनू कूड यथायोग्य आसनदल्लि विराजिसिदनु.॥11-12॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13a. atha* = then; *saH nR^ipatiH* = he, the king [Janaka]; *tatra* = there;
+*samantataH* = all about; *yathaanyaayam* = according to procedure [procedurally];
+*aasaneSu upaviSTaan* = who are sitting in seats; *dR^iSTvaa* = on beholding; *vishvaamitram
+abraviit* = spoke to Vishvamitra.
+
+**अनुवादः**
+
+On beholding all of them seated all about in their respective seats as demanded by procedure king Janaka
+then spoke to Vishvamitra. [1-50-12b, 13a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11b, 12a. janakasya vacaH shrutvaa* = on hearing Janaka's words; *mahaamuniH* = great-sage
+Vishvamitra; *niSasaada* = sat down [took his seat]; *purodhaa R^itvijaH caiva* = [royal]
+priest Shataananda, administers of Vedic-ritual, Ritvik-s, also thus; *mantribhiH saha* = along with ministers
+; *raajaa ca* = king, also - took seat.
+
+**अनुवादः**
+
+On hearing the words of Janaka that great-sage Vishvamitra took his seat, and king Janaka also took
+seat along with his royal priest Shataananda, and the administrators of that Vedic-ritual, namely Ritvik-s,
+and along with his ministers. [1-50-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा स नृपतिस्तत्र विश्वामित्रमथाब्रवीत् ।  
@@ -263,6 +501,12 @@ _________________
 
 दृष्ट्वा स नृपतिस्तत्र विश्वामित्रमथाब्रवीत् ।  
 अद्य यज्ञसमृद्धिर्मे सफला दैवतैः कृता ॥ १३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अद्य यज्ञसमृद्धिर्मे सफला दैवतैः कृता ॥ १-५०-१३
+अद्य यज्ञफलं प्राप्तं भगवद्दर्शनान्मया ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -275,6 +519,25 @@ _________________
 अनन्तर जनकराजनु विश्वामित्रर कडॆगॆ नोडि हेळिदनु - पूज्यरे! देवतॆगळु इन्दु नन्न यज्ञवन्नु सफलगॊळिसिदरु.॥13॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+13b, 14a. *adya* = today; *me yaj~nasamR^iddhiH* = my, Vedic-ritual is enriched; *
+saphalaa* = with fruit - as a fructified one; *daivataiH kR^itaa* = effectuated by gods
+- gods fructified the ritual; *adya* = today; *bhagavaddarshanaat* = on viewing at god [godlike
+you] ; *mayaa yaj~naphalam praaptam* = fruit [outcome] of Vedic-ritual [deemed
+to have been] obtained by me.
+
+**अनुवादः**
+
+Today my Vedic ritual is enriched with your advent, whereby I deem that gods have fructified the ritual.
+Let the ritual be like that. I deem that I have obtained the fruit of the ritual just on seeing godlike
+you here today. [1-50-13b, 14a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य यज्ञफलं प्राप्तं भगवद्दर्शनान्मया ।  
@@ -289,6 +552,13 @@ _________________
 यज्ञोपसदनं ब्रह्मन् प्राप्तोऽसि मुनिभिः सह ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गव ॥ १-५०-१४
+यज्ञोपसदनं ब्रह्मन् प्राप्तोऽसि मुनिभिः
+सह ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आज पूज्य चरणोंके दर्शनसे मैंने यज्ञका फल पा लिया । ब्रह्मन्! आप मुनियोंमें श्रेष्ठ हैं । आपने इतने महर्षियोंके साथ मेरे यज्ञमण्डपमें पदार्पण किया, इससे मैं धन्य हो गया । यह मेरे ऊपर आपका बहुत बड़ा अनुग्रह है ॥ १४ १/२ ॥
@@ -297,6 +567,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्दु निम्म पूज्य चरणगळ दर्शनदिन्द नानु यज्ञद फलवन्नु पडॆदुकॊण्डॆ. ब्रह्मर्षिगळे! नीवु मुनिगळल्लि श्रेष्ठरागिरुविरि. तावु इष्टु महर्षिगळॊन्दिगॆ नन्न यज्ञशालॆयन्नु प्रवेशिसिद्दरिन्द नानु धन्यनादॆनु. इदु नन्न मेलिन निम्म भारी अनुग्रहवागिदॆ.॥14½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14b, 15a. *munipungava* = oh eminent sage; *brahman* = oh Brahman; *munibhiH saha*
+= along with [so many] sages; *yasya me* = to which [ritual hall,] mine; *yaj~nopasadanam*
+= to Vedic-ritual hall; *praaptaH asi* = you have arrived; such as I am; *dhanyaH
+asmi anugR^ihiitaH asmi* = honoured, I am, hallowed, I am.
+
+**अनुवादः**
+
+Oh, Brahman, at which Vedic-ritual hall you have arrived along with so many sages that happens to be
+mine, whereby, oh, eminent saint, I feel that I am honoured and hallowed. [1-50-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +608,25 @@ _________________
 ब्रह्मर्षिगळे! नन्न यज्ञदीक्षॆयल्लि हन्नॆरडु दिनगळु मात्र उळिदिवॆ ऎन्दु मनिषिगळाद ऋत्विजरु हेळुत्तारॆ. आद्दरिन्द कुशिकनन्दनरे! हन्नॆरडु दिनगळ बळिक यज्ञभागवन्नु स्वीकरिसलु इल्लिगॆ बन्दिरुव देवतॆगळन्नु दर्शिसिरि.॥15½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b, 16a. brahmarSe* = oh Brahma-sage; *maniiSiNaH* = scholars; *dvaadashaaham tu*
+= twelve days, only; *diikShaam* = ritual-pledge; *[sheSam* = remaining]; *aahuH*
+= they are saying; *kaushika* = oh Kaushika; *tataH bhaagaarthinaH devaan* = then [after
+those twelve days,] gods - desirers of their due; *draSTum arhasi* = apt of you to see.
+
+**अनुवादः**
+
+"Oh, Brahma-sage, the scholarly Ritvik-s conducting my Vedic-ritual are saying that only twelve more
+days are remaining to complete the observation of ritual-pledge, and then oh, Kaushika, it will be apt
+of you to see the gods who arrive at the conclusion of this Vedic-ritual expecting their due in the
+ritual." So said king Janaka to Vishvamitra. [1-50-15b, 16a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मुनिशार्दूलं प्रहृष्टवदनस्तदा ॥ १६ ॥  
@@ -341,6 +647,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनिवर विश्वामित्ररल्लि हीगॆ हेळि सन्तोषगॊण्ड जितेन्द्रियनाद जनकराजनु पुनः कैमुगिदु अवरल्लि केळिदनु.॥16½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16b, 17a. nR^ipaH* = king; *munishaarduulam iti uktvaa* = on saying to the tigerly sage in this
+way; *tadaa prahR^iSTavadanaH* = then, with gladdened face; *praanjaliH prayataH*
+= palms-enfolded, inquisitively; *punaH tam paripapracCha* = again, pointedly asked him [Vishvamitra]
+.
+
+**अनुवादः**
+
+On speaking to that tigerly sage Vishvamitra in this way, the king again asked the sage pointedly and
+inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +715,67 @@ _________________
 महामुनिगळे! निमगॆ मङ्गळवागलि. देवतॆगळन्तॆ पराक्रमि हागू सुन्दर आयुधगळन्नु धरिसिद, आनॆयन्तॆ मन्दगतियुळ्ळ, सिंहदन्तॆ अप्रतिहत गमनवुळ्ळ, वृषभदन्तॆ उन्नत हॆगलुळ्ळ वीरराद, पद्मपत्रदन्तॆ विशाल कण्णुगळुळ्ळ, खड्गवन्नु बिल्लु बत्तळिकॆगळन्नु धरिसिरुव, अश्विनि देवतॆगळन्तॆ रूपातिशयवुळ्ळ, प्राप्तवयस्कराद, देवलोकदिन्द भूलोकक्कॆ स्वेच्छॆयिन्द बन्दिरुव देवतॆगळन्तिरुव ई इब्बरु सुकुमाररु यारु? इवरु काल्नडिगॆयल्लियू, ऒळ-हॊर व्यापारगळल्लियू, इवरिब्बरु परस्परवागि अनुरूपरागिद्दारॆ. काकपक्षधरराद ई इब्बरु वीरर परिचय हागू वृत्तान्तवन्नु तिळियुव अभिलाषॆ ननगागिदॆ.॥17-21॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20, 21. mahaamune* = oh great-saint; *varaayudhadharau viirau* = brandishing best weapons,
+valiant ones; *kasya putrau* = whose, sons are they; *candrasuuryau ambaram
+iva* = as with Moon, Sun, [brightening the] sky; *imam desham bhuuSayantau* = they are embellishing
+this province; *pramaaNengitaceSTitaiH* = by postural [language] facial [language,]
+and by body [language]; *parasparasya sadR^ishau* = clonal to each to each; *kaakapakSadharau*
+= wearing crow wing [similar jet-black curls] ; *viirau* = about valorous ones; *tattvataH
+shrotum icChaami* = I wish to listen in actuality.
+
+**अनुवादः**
+
+Oh, great-saint, whose sons are these two valiant youngsters who are brandishing best weapons? They
+are embellishing this province as the Sun and Moon doeth the sky. Each to each they are clonal by postural-language,
+by facial-language and by body language. They appear valorous but boyish in their appearance, as their
+curls are still jet-black like crow-wings. Thus, whether they are immature by age though mature by their
+valour or so, I wish to listen about them in actuality. [1-50-20, 21]
+
+**टिप्पनी**
+
+Import of verses is the same as at 1-48-5, 6, with a little difference in *anvaya* , parsing.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+17b, 18, 19. *mune* = oh saint; *te bhadram* = you, be safe; *devatulyaparaakramau*
+= matching with god Vishnu in valour; *gajasimhagatii* = with strides of [like audacious] elephant, [like
+arrogant] lion; *viirau* = two valorous ones; *shaarduulavR^iSabhopamau*= in similitude to
+[adventurous] tiger, [adamantine] Holy Bull; *padmapatravishaalaakSau* = broad eyed like lotus
+petal; *khaDgatuuNiidhanurdharau* = wielding sword, quiver and bow; *ruupeNa
+ashvinau iva* = by physique like Ashwin the Twin-god brothers; *samupasthitayauvanau*
+= in the offing youthfulness; *devalokaat* = from gods' abode; *yadR^icChayaa iva*
+= as if at their pleasure; *gaam praaptau* = chanced on earth; *amarau* =
+deathless, immortals; *iva* = as if like; *imau kumaarau* = these, youngsters;
+*iha* = here, to this place; *padbhyaam* = with two feet - by footslogging; *katham*
+= how; *kim artham* = what, for; *praaptau* = how, they chanced; *kasya vaa* =
+whose [scions,] are they.
+
+**अनुवादः**
+
+These two youngsters, oh, sage, let safety betide you, striding like audacious elephants and arrogant
+lions, bearing a similitude to adventurous tigers and adamantine bulls, and wielding quivers, swords,
+and bows, are valorous with their valour matching that of Vishnu, and with their eyes broad like lotus-petals
+and with youthfulness in the offing they look like the exceptionally beautiful twin-gods, Ashwin-brothers,
+by their physique. How these two have footslogged and chanced here as though immortals have chanced
+on earth from the abode of gods at their pleasure? What for they have come here, and whose scions are
+they? [1-50-17b, 18, 19]
+
+**टिप्पनी**
+
+These foots are the same as king Sumati's dialogue at 1-48-2, 3, 4 including *anvaya* , parsing.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा जनकस्य महात्मनः ।  
@@ -412,6 +796,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा जनकन ई प्रश्नॆयन्नु केळि अमित आत्मबलदिन्द सम्पन्न विश्वामित्ररु हेळिदरु - राजने! इवरिब्बरू दशरथ महाराजन पुत्ररागिद्दारॆ.॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. mahaatmanaH tasya janakasya tat vacanam shrutvaa* = on hearing that sentence of his great-souled Janaka
+; *ameyaatmaa* = not measurable souled [anima having, Vishvamitra];
+*tau* = them two - Rama, Lakshmana; *dasharathasya putrau* = as Dasharatha's, sons;
+*nyavedayat* = submitted - announced.
+
+**अनुवादः**
+
+On hearing the words of great-souled Janaka, Vishvamitra whose anima is immeasurable, has announced
+that those two as the sons of king Dasharatha. [1-50-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,6 +869,33 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा राजा जनकनल्लि इदॆल्ल मातुगळन्नु निवेदिसि महातेजस्वी महामुनि विश्वामित्ररु सुम्मनादरु.॥25॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. mahaatejaaH mahaamuniH vishvaamitraH* = great-resplendent one, great-saint, Vishvamitra;
+*siddhaashramanivaasam ca* = stopover in Accomplishment Hermitage, also; *tathaa*
+= like that; *raakSasaanaam vadham* = elimination of demons; *avyagram tatra aagamanam*
+= to coming there indefatigably - travelling with him; *vishaalaayaaH darshanam ca* = beholding City of
+Vishaala, also; *ahalyaadarshanam ca eva* = seeing Ahalya, also thus; *gautamena
+samaagamam* = [Ahalya's] reuniting with Gautama; *tathaa* = = likewise; *mahaadhanuSi*
+= of great bow [of Shiva]; *jij~naasaam kartum* = to know about - to have a grasp of it; *
+aagamanam* = coming [hitherward]; *etat sarvam* = all this; *mahaatmane janakaaya*
+= to great-souled, Janaka; *nivedya* = on submitting - on informing; *viraraama* = then,
+[he Vishvamitra] paused.
+
+**अनुवादः**
+
+The highly resplendent great-saint Vishvamitra has informed the high souled Janaka about the coming
+of Rama and Lakshmana to the Hermitage of Accomplishment, their stopping over there and elimination
+of demons at that place, their indefatigable travel along with him, beholding City of Vishaala, seeing
+Ahalya, her reuniting with Sage Gautama, likewise their coming hitherward to gain a grasp of great bow
+of Shiva. On informing all these incidents to Janaka as well as to Shataananda, who incidentally is
+the son of Ahalya, sage Vishvamitra paused. [1-50-23, 24, 25]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

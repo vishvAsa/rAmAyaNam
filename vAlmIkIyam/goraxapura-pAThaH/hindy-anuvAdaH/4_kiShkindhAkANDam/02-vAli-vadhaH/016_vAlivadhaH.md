@@ -2,6 +2,18 @@
 title = "०१६ वालिवधः"
 title_english = "016 Sugreeva s second fight and Vali s falling down"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
+
+Vali dismissing Tara's words, who is dissuading him to confront Rama, starts out to fight out Sugreeva.
+A ghastly fight ensues in which Vali depletes Sugreeva's strength by the boon and Indra's chest-plate,
+and thus Sugreeva seeks Rama's help. Rama shoots his arrow which hits Vali on chest, but does not render
+him dead immediately. Thus that great mighty and unassailable Vali is brought down to ground.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-016-Vali_Vadhaha.mp3"></div>
 </details>
@@ -23,6 +35,12 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 वाली निर्भर्त्सयामास वचनं चेदमब्रवीत् ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ताम् एवम् ब्रुवतीम् ताराम् ताराधिप निभ आननाम् ।
+वाली निर्भर्त्सयामास वचनम् च इदम् अब्रवीत् ॥ ४-१६-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तारापति चन्द्रमाके समान मुखवाली ताराको ऐसी बातें करती देख वालीने उसे फटकारा और इस प्रकार कहा—
@@ -31,6 +49,22 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तारापति चन्द्रनन्तॆमुखवुळ्ळ तारॆयु हीगॆ मातनाडुत्तिरुवुदन्नु नोडि वालियु आकॆयन्नु गदरिसुत्ता इन्तॆन्दनु.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. evam bruvatiim taaraa adhipa nibha aananaam* = stars', lord's [moon,] in shine, faced one;
+*taam taaraam* = to her, to Tara; *vaalii nirbhartsayaamaasa* = Vali, daunted; *idam
+vacanam abraviit* = this, word, said.
+
+**अनुवादः**
+
+While Tara with a face that shines like the lord of stars is speaking thus, Vali dauntingly spoke to
+her with these words. [4-16-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,6 +82,12 @@ _________________
 मर्षयिष्यामि केनापि कारणेन वरानने ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+गर्जतो अस्य च सुसंरब्धम् भ्रातुः शत्रोर् विशेषतः ।
+मर्षयिष्यामि केन कारणेन वरानने ॥ ४-१६-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वरानने! इस गर्जते हुए भाईकी, जो विशेषतः मेरा शत्रु है, यह उत्तेजनापूर्ण चेष्टा मैं किस कारणसे सहन करूँगा ॥ २ ॥
@@ -56,6 +96,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वरानने! नन्न शत्रुवाद ई तम्मन गर्जनॆ मत्तु उत्तेजित चेष्टॆयन्नु नानु याव कारणदिन्दलू सहिसलारॆनु.॥2॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. vara aanane* = oh, pretty, faced one - Tara; *bhraatuH* = [younger] brother; *visheSataH
+shatroH* = particularly, an adversary; *asya su samrabdham garjataH* = he, very frenetically,
+while raving; *kena api kaaraNena* = by which [by any,] even, by reason; *marSayiSyaami*
+= I can tolerate [tell me.]
+
+**अनुवादः**
+
+"He is an younger brother and an adversary in particular, oh, pretty-faced Tara, can I by any reason
+tolerate him when he kept raving on frenetically, tell me. [4-16-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +125,12 @@ _________________
 
 अधर्षितानां शूराणां समरेष्वनिवर्तिनाम् ।  
 धर्षणामर्षणं भीरु मरणादतिरिच्यते ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अधर्षितानाम् शूराणाम् समरेषु अनिवर्तिनाम् ।
+धर्षणाम् अर्षणम् भीरु मरणात् अतिरिच्यते ॥ ४-१६-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -80,6 +143,23 @@ _________________
 भीरु! ऎन्दू सोलदिरुव हागू युद्धदल्लि ऎन्दिगू बॆन्नु तोरदिरुव शूरवीररिगॆ शत्रुविन आह्वानवन्नु सहिसुवुदु साविगिन्तलू हॆच्चिन दुःखदायकवागिदॆ.॥3॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. bhiiru* = oh, shyly one; *samareSu a nivartinaam* = in battle, not, retreating ones;
+*a dharSitaanaam* = un, assailed ones [not get assailed by their incompetence]; *shuuraaNaam*
+= [to such] valorous ones; *dharSaNaam arSaNam* = confrontation [overweening calls,] endurance
+of; *maraNaat atiricyate* = death, more than.
+
+**अनुवादः**
+
+"To those valiant ones who neither give ground nor get assailed in wars, oh, shyly, endurance of a overweening
+war-whoop is more than death. [4-16-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोढुं न च समर्थोऽहं युद्धकामस्य संयुगे ।  
@@ -90,6 +170,12 @@ _________________
 
 सोढुं न च समर्थोऽहं युद्धकामस्य संयुगे ।  
 सुग्रीवस्य च संरम्भं हीनग्रीवस्य गर्जितम् ॥ ४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सोढुम् न च समर्थो अहम् युद्ध कामस्य संयुगे ।
+सुग्रीवस्य च संरंभम् हीन ग्रीवस्य गर्जतम् ॥ ४-१६-४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,6 +188,21 @@ _________________
 ई हीनग्रीव सुग्रीवनु सङ्ग्राम भूमियल्लि नन्नॊन्दिगॆ युद्धमाडलु इच्छिसुत्तिरुवनु. नानु इवन रोषावेश मत्तु गर्जनॆ-तिरस्कारवन्नु सहिसलु असमर्थनागिद्देनॆ.॥4॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. aham samyuge* = I, in duel; *yuddha kaamasya* = brawl, desiring, hiina griivasya =
+feeble, voiced [dumbly]; *garjatam* = bawling; *sugriivasya* = of Sugreeva; *samrambham*
+= commotion; *soDhum na ca samarthaH* = to withstand, not, also, I am capable.
+
+**अनुवादः**
+
+"I am incapable of withstanding that dumbly Sugreeva's bawling commotion desiring a brawling duel. [4-16-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च कार्यो विषादस्ते राघवं प्रति मत्कृते ।  
@@ -114,6 +215,12 @@ _________________
 धर्मज्ञश्च कृतज्ञश्च कथं पापं करिष्यति ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न च कार्यो विषादः ते राघवम् प्रति मत् कृते ।
+धर्मज्ञः च कृतज्ञः च कथम् पापम् करिष्यति ॥ ४-१६-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीरामचन्द्रजीकी बात सोचकर भी तुम्हें मेरे लिये विषाद नहीं करना चाहिये । क्योंकि वे धर्मके ज्ञाता तथा कर्तव्याकर्तव्यको समझनेवाले हैं । अतः पाप कैसे करेंगे ॥
@@ -122,6 +229,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन कुरितु योचिसियू नीनु ननगागि विषादिसबारदु, एकॆन्दरॆ अवनु धर्मद ज्ञानवुळ्ळवनू, कर्तव्याकर्तव्यवन्नु तिळियुववनागिद्दानॆ, हीगिरुवाग पापवन्नु हेगॆ माडबल्लनु.॥5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. mat kR^ite* = in my, respect - some harm to me; *raaghavam prati* = Raghava, about
+[running co; *te viSaadaH na ca kaaryaH* = to you, botheration, not, also, to be done - you need
+not bother; *dharmaj~naH ca kR^itaj~naH ca* = virtue-knower, diligent one; *paapam katham
+kariSyati* = sin, how, can do - I wonder.
+
+**अनुवादः**
+
+"Also, you need not bother about Raghava's doing some harm to me, as I wonder how a diligent man and
+knower of virtue can commit sin. [4-16-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,6 +269,15 @@ _________________
 दर्पं चास्य विनेष्यामि न च प्राणैर्विमोक्ष्यते ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निवर्तस्व सह स्त्रीभिः कथम् भूयो अनुगच्छसि ।
+सौहृदम् दर्शितम् तावत् मयि भक्तिः त्वया कृता ॥ ४-१६-६
+प्रति योत्स्यामि अहम् गत्वा सुग्रीवम् जहि संभ्रमम् ।
+दर्पम् च अस्य विनेष्यामि न च प्राणैर् वियोक्ष्यते
+॥ ४-१६-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम इन स्त्रियोंके साथ लौट जाओ । क्यों मेरे पीछे बार-बार आ रही हो । तुमने मेरे प्रति अपना स्नेह दिखाया । भक्तिका भी परिचय दे दिया । अब जाओ, घबराहट छोड़ो । मैं आगे बढ़कर सुग्रीवका सामना करूँगा । उसके घमण्डको चूर-चूर कर डालूँगा । किंतु प्राण नहीं लूँगा ॥ ६-७ ॥
@@ -153,6 +286,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु ई स्त्रीयरॊन्दिगॆ मरळि होगु. एकॆ नन्न हिन्दॆ पदे-पदे बरुत्तिरुवॆ? नीनु नन्न कुरितु प्रेमवन्नु प्रकटिसिदॆ. भक्तिय परिचयवन्नु माडिसिदॆ. ईग होगु, गाबरियागबेड. नानु होगि सुग्रीवनन्नु ऎदुरिसुवॆनु. अवन उद्धटतनवन्नु नुच्चु नूरागिसुवॆनु. आदरॆ प्राण तॆगॆयुवुदिल्ल.॥6-7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. aham gatvaa sugriivam prati yotsyaami* = I, on going, with Sugreeva, counter, attack - retaliate;
+*sambhramam jahi* = perplexity, do away with; *asya darpam ca vi neSyaami* = his, arrogance,
+also, I will drive out; *praaNaiH na viyokSyate* = by lives, not, [he will] be released - his
+lives will not be released.
+
+**अनुवादः**
+
+"You may do away with your perplexity as I will retaliate Sugreeva on my going there only to drive him
+and his arrogance out, but without letting his lives loose. [4-16-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. saha striibhiH nivartasva* = with, [other] females, you return; *bhuuyaH katham anugacChasi*
+= again, how, you follow me; *tvayaa sauhR^idam darshitam taavat* = by you, friendliness, is
+shown - expressed, truly; *mayi bhaktiH kR^itaa* = in me, devotion, owing to.
+
+**अनुवादः**
+
+"How do you follow me again, you return with all these females, truly you have expressed your friendliness
+owing to your devotion to me. [4-16-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +336,13 @@ _________________
 वृक्षैर्मुष्टिप्रहारैश्च पीडितः प्रतियास्यति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अहम् हि अजि स्थितस्य अस्य करिष्यामि यत् ईप्सितम् ।
+वृक्षैः मुष्टि प्रहारैः च पीडितः प्रति यास्यति
+॥ ४-१६-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘युद्धके मैदानमें खड़े हुए सुग्रीवकी जो-जो इच्छा है, उसे मैं पूर्ण करूँगा । वृक्षों और मुक्कोंकी मारसे पीड़ित होकर वह स्वयं ही भाग जायगा ॥ ८ ॥
@@ -178,6 +351,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 युद्धदल्लि निन्त सुग्रीव ऎल्ल इच्छॆगळन्नु नानु पूर्णगॊळिसुवॆनु. वृक्षगळ मत्तु मुष्ठिगळ एटिनिन्द पीडितनागि अवनु स्वतः ओडिहोगुवनु.॥8॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8. aham hi* = I, indeed; *aji sthitasya* = in combat, firmed up; *asya yat iipsitam*
+= his, which, desired; *[that* = that]; *kariSyaami* = I wish to effectuate; *vR^ikshaiH
+muSTi prahaaraiH ca* = [ by caning] with trees, fist, fights, also; *piiDitaH prati yaasyati*
+= roughed up, return, he goes.
+
+**अनुवादः**
+
+"As he is firmed up for a combat, I will indeed have to effectuate what his desire is, by caning with
+trees and fistfights, by which roughed up he returns. [4-16-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +382,12 @@ _________________
 कृतं तारे सहायत्वं दर्शितं सौहृदं मयि ॥ ९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न मे गर्वितम् आयस्तम् सहिष्यति दुरात्मवान् ।
+कृतम् तारे सहायत्वम् दर्शितम् सौहृदम् मयि ॥ ४-१६-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तारे! दुरात्मा सुग्रीव मेरे युद्धविषयक दर्प और आयास (उद्योग) को नहीं सह सकेगा । तुमने मेरी बौद्धिक सहायता अच्छी तरह कर दी और मेरे प्रति अपना सौहार्द भी दिखा दिया ॥ ९ ॥
@@ -200,6 +396,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तारॆ! दुरात्मा सुग्रीवनु नन्न युद्द विषयक दर्प मत्तु उद्योगवन्नु सहिसलारनु. नीनु बौद्धिक सहायकतॆयन्नु हागू नन्न कुरितु तन्न सौहार्दवन्नु चॆन्नागि तोरिसिरुवॆ.॥9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. dur aatmavaan* = malign minded [Sugreeva]; *me garvitam aayastam* = my, nerve, pace
+[of combat]; *na sahiSyati* = cannot, tolerate; *tare* = oh, Tara; *sahaayatvam kR^itam*
+= [intellectual] help, is done [by you]; *mayi sauhR^idam darshitam* = in me, friendliness, shown
+[by you, it is enough.]
+
+**अनुवादः**
+
+"My nerve and pace of combat will be insufferable to that malign minded Sugreeva, oh, Tara, you have
+offered your helping suggestion and you have shown all your friendliness to me, it is enough. [4-16-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +430,12 @@ _________________
 अहं जित्वा निवर्तिष्ये तमहं भ्रातरं रणे ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शापिता असि मम प्राणैः निवर्तस्व जनेन च ।
+अलम् जित्वा निवर्तिष्ये तम् अहम् भ्रातरम् रणे ॥ ४-१६-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अब मैं प्राणोंकी सौगन्ध दिलाकर कहता हूँ कि अब तुम इन स्त्रियोंके साथ लौट जाओ । अब अधिक कहनेकी आवश्यकता नहीं है, मैं युद्धमें अपने उस भाईको जीतकर लौट आऊँगा’ ॥ १० ॥
@@ -225,6 +444,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ईग नीनु ई स्त्रीयरॊन्दिगॆ मरळि होगु, ईग हॆच्चु हेळुव आवश्यकतॆ इल्ल; नानु युद्धदल्लि आ तम्मनन्नु गॆद्दु मरळुवॆनु ऎन्दु नन्न प्राणगळ मेलॆ आणॆयिट्टु हेळुत्तेनॆ.॥10॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. mama praaNaiH shaapitaa asi* = on my, lives, sworn, you are; *janena ca nivartasva*
+= with followers, also, you return; *aham* = I; *tam bhraataram* = that, brother; *
+raNe alam jitvaa nivartiSye* = in combat, easily, on defeating, I return [revert Sugreeva.]
+
+**अनुवादः**
+
+"I adjured you on my lives, return with your followers, and I shall return to you on easily defeating
+and returning that 'brother of mine." Said Vali to Tara. [4-16-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +484,23 @@ _________________
 इदन्नु केळि अत्यन्त उदार स्वभाववुळ्ळ तारॆयु वालियन्नु आलिङ्गिसि मॆल्लगॆ अळुत्ता अवन प्रदक्षिणॆ माडिदळु.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. priya vaadinii* = pleasant, articulator; *dakSiNaa* = talented one [in advising];
+*saa taaraa* = she, that Tara; *tam vaalinam pariSvajya* = him, that Vali, on hugging;
+*mandam rudatii* = repressively, moaning; *pradakSiNam cakaara* = circumambulation, made
+[round Vali.]
+
+**अनुवादः**
+
+She that pleasant articulator and talented Tara then hugged and circumabulated Vali, suppressing her
+moaning, as an honour to the braver. [4-16-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स्वस्त्ययनं कृत्वा मन्त्रविद् विजयैषिणी ।  
@@ -264,6 +516,12 @@ _________________
 अन्तःपुरं सह स्त्रीभिः प्रविष्टा शोकमोहिता ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः स्वस्त्ययनम् कृत्वा मंत्रवित् विजय एषिणी ।
+अंतःपुरम् सह स्त्रीभिः प्रविष्टा शोक मोहिता ॥ ४-१६-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वह पतिकी विजय चाहती थी और उसे मन्त्रका भी ज्ञान था । इसलिये उसने वालीकी मङ्गल-कामनासे स्वस्तिवाचन किया और शोकसे मोहित हो वह अन्य स्त्रियोंके साथ अन्तःपुरको चली गयी ॥ १२ ॥
@@ -272,6 +530,33 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवळु पतिय विजयवन्नु बयसुत्तिद्दळु मत्तु मन्त्रगळन्नु बल्लवळागिद्दळु. अदक्कागि आकॆयु वालिय मङ्गल कामनॆयिन्द स्वस्तिवाचन माडि, शोकदिन्द मोहगॊण्डु इतर स्त्रीयरिन्दॊडगूडि अन्तःपुरक्कॆ हॊरटुहोदळु.॥12॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. tataH* = then; *mantra vit* = hymn, knower - Tara; *vijaya eSiNii* = triumph,
+wishing; *svasti ayanam kR^itvaa* = blessings, for journey [bon voyage,] on making; *shoka
+mohitaa* = by sadness, disoriented; *striibhiH saha antaHpuram praviSTaa* = with, females,
+palace chambers, entered.
+
+**अनुवादः**
+
+Then she who is a hymnodist that Tara has performed a hymnal bon voyage wishing triumph to Vali, and
+entered palace chambers along with other females, disoriented by her own sadness. [4-16-12]
+
+**टिप्पनी**
+
+The *swatyayana *is a Vedic formality performed by the mothers / wives of the combating
+gallants at the time of the departure of heros to battlefields, by placing red *tilaka *on
+forehead, *aarati *, with camphor burning, *akshata *, sprinkling grain on head,
+handing him his bow or sword, all with respective Vedic hymns. The weaponry of these heroes will be
+in the custody of their wives, for they have to worship the weaponry that brings victory to their
+husbands. Seetha also gives Rama his bow and sword in Aranya Kanda, on his departure to forests from
+Suteekshna's hermitage as at 3-8-18.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +569,13 @@ _________________
 
 प्रविष्टायां तु तारायां सह स्त्रीभिः स्वमालयम् ।  
 नगर्या निर्ययौ क्रुद्धो महासर्प इव श्वसन् ॥ १३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+प्रविष्टायाम् तु तारायाम् सह स्त्रीभिः स्वम् आलयम् ।
+नगर्या निर्ययौ क्रुद्धो महा सर्प इव श्वसन् ॥
+४-१६-१३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -296,6 +588,22 @@ _________________
 स्त्रीयरसहित तारॆयु अन्तःपुरक्कॆ हॊरटुहोद बळिक वालियु क्रोधगॊण्डु महासर्पदन्तॆ दीर्घवागि निट्टुसिरु बिडुत्ता नगरदिन्द हॊरबिद्दनु.॥13॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. taaraayaam* = Tara; *striibhiH saha* = females, along with; *svam aalayam praviSTaayaam*
+= her, own chambers, on entering; *kruddhaH* = infuriated; *mahaa sarpa iva shvasan* =
+great, snake, like, hissing; *nagaryaa niryayau* = from city, came out.
+
+**अनुवादः**
+
+On Tara entering her own palace chambers along with other females, Vali emerged out of the city hissing
+like an infuriated great snake. [4-16-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निःश्वस्य महारोषो वाली परमवेगवान् ।  
@@ -306,6 +614,12 @@ _________________
 
 स निःश्वस्य महारोषो वाली परमवेगवान् ।  
 सर्वतश्चारयन् दृष्टिं शत्रुदर्शनकाङ्क्षया ॥ १४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स निःश्वस्य महारोषो वाली परम वेगवान् ।
+सर्वतः चारयन् दृष्टिम् शत्रु दर्शन कांक्षया ॥ ४-१६-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -318,6 +632,22 @@ _________________
 महारोषदिन्द कूडि, अत्यन्त वेगवागि दीर्घवागि निट्टुसिरु बिट्टु शत्रुवन्नु नोडुव इच्छॆयिन्द सुत्तलू कण्णुहायिसिदनु.॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. maha roSaH* = highly, rancorous; *saH vaalii* = he that, Vali; *parama vegavaan*
+= one with high, audacious; *niHshvasya* = suspired; *shatru darshana kaankSayaa* = enemy,
+sighting, intending to; *sarvataH dR^iSTim caarayan* = everywhere, his sight, spread out.
+
+**अनुवादः**
+
+He that highly rancorous Vali suspired with high audacity and spread his sight everywhere intending
+to sight his enemy. [4-16-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श ततः श्रीमान् सुग्रीवं हेमपिङ्गलम् ।  
@@ -328,6 +658,12 @@ _________________
 
 स ददर्श ततः श्रीमान् सुग्रीवं हेमपिङ्गलम् ।  
 सुसंवीतमवष्टब्धं दीप्यमानमिवानलम् ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स ददर्श ततः श्रीमान् सुग्रीवम् हेम पिङ्गलम् ।
+सुसंवीतम् अवष्टब्धम् दीप्यमानम् इव अनलम् ॥ ४-१६-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,6 +676,23 @@ _________________
 इष्टरल्लि श्रीमान् वालियु सुवर्णदन्तह पिङ्गळ वर्णद सुग्रीवनन्नु नोडिदनु. अवनु सॊण्टकट्टि युद्धक्कागि सिद्धनागिद्दु, प्रज्विलित अग्नियन्तॆ प्रकाशिसुत्तिद्दनु.॥15॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. tataH* = then; *shriimaan saH* = celebrated one, he [Vali]; *hema pi~Ngalam*
+= with golden, ochre [body brilliance]; *su samviitam* = well, tying up [girdle cloth]; *avaSTabdham*
+= self-confidence; *diipyamaanam iva analam* = blazing, like, fire; *sugriivam dadarsha*
+= at Sugreeva, [Vali] saw.
+
+**अनुवादः**
+
+Then that celebrated Vali saw Sugreeva who is in golden-ochre hue, whose girdle cloth is tightened for
+a fight, and who is with an air of self-confidence, blazing like fiery-fire. [4-16-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं स दृष्ट्वा महाबाहुः सुग्रीवं पर्यवस्थितम् ।  
@@ -352,6 +705,12 @@ _________________
 गाढं परिदधे वासो वाली परमकोपनः ॥ १६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तम् स दृष्ट्वा महाबाहुः सुग्रीवम् पर्यवस्थितम् ।
+गाढम् परिदधे वासो वाली परम कोपिनः ॥ ४-१६-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सुग्रीवको खड़ा देख महाबाहु वाली अत्यन्त कुपित हो उठा । उसने अपना लँगोट भी दृढ़ताके साथ बाँध लिया ॥
@@ -360,6 +719,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुग्रीवनु निन्तिरुवुदन्नु नोडि वालियु अत्यन्त कुपितनादनु. अवनु सॊण्टवन्नु बिगियागि कट्टिकॊण्डनु.॥16॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. parama kopanaH* = highly, provoked; *mahaabaahuH* = strong armed one; *saH vaalii*
+= he that, Vali; *paryavasthitam [pari ava sthitam]* = [fully, nearly, available] proximately
+available; *tam sugriivam dR^iSTvaa* = him, that Sugreeva, on seeing; *vaasaH gaaDham paridadhe*
+= cloth, tightly, he wore [tightened his own girdle cloth.]
+
+**अनुवादः**
+
+That strong armed Vali who is highly provoked has also tightened his girdle cloth on seeing proximately
+available Sugreeva. [4-16-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,6 +753,12 @@ _________________
 सुग्रीवमेवाभिमुखो ययौ योद्धुं कृतक्षणः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स वाली गाढ संवीतो मुष्टिम् उद्यम्य वीर्यवान् ।
+सुग्रीवम् एव अभिमुखो ययौ योद्धुम् कृत क्षणः ॥ ४-१६-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 लँगोटको मजबूतीके साथ कसकर पराक्रमी वाली प्रहारका अवसर देखता हुआ मुक्का तानकर सुग्रीवकी ओर चला ॥ १७ ॥
@@ -385,6 +767,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सॊण्टवन्नु गट्टियागि बिगिदु पराक्रमि वालियु प्रहारद अवकाशवन्नु नोडुत्ता मुष्ठिबिगिदु कॊण्डु सुग्रीवन कडॆगॆ हॊरटनु.॥17॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. gaaDha samviitaH* = strongly, tightening [girdle cloth]; *viiryavaan* = formidable
+one; *saH vaalii* = he, Vali; *muSTim udyamya* = fist, uplifting; *yoddhum* = to
+fight; *kR^ita kSaNaH* = made, moment [timed well]; *sugriivam eva abhimukhaH yayau* =
+Sugreeva, only, towards, proceeded.
+
+**अनुवादः**
+
+He that formidable Vali strongly tightening his girdle-cloth too, and proceeded towards Sugreeva in
+a well timed manner uplifting fists to fight him off. [4-16-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +801,12 @@ _________________
 सुग्रीवोऽपि तमुद्दिश्य वालिनं हेममालिनम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+श्लिष्टम् मुष्टिम् समुद्यम्य संरब्धतरम् आगतः ।
+सुग्रीवो अपि समुद्दिश्य वालिनम् हेम मालिनम् ॥ ४-१६-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सुग्रीव भी सुवर्णमालाधारी वालीके उद्देश्यसे बँधा हुआ मुक्का ताने बड़े आवेशके साथ उसकी ओर बढ़े ॥
@@ -410,6 +815,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुग्रीवनू कूड सुवर्ण मालाधारी वालियन्नु उद्देशिसि मुष्ठियन्नु बिगिदुकॊण्डु बहळ आवेशदॊन्दिगॆ अवन कडॆगॆ नडॆदनु.॥18॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. sugriivaH api* = Sugreeva, even; *shliSTam muSTim samudyamya* = tightening, fist,
+lifting at the ready; *hema maalinam vaalinam* = one with golden, pendent, at Vali; *samuddishya*
+= well-aiming; *samrabdha taram aagataH* = hasty, highly [hastiest imprudent Vali] has come at.
+
+**अनुवादः**
+
+Even Sugreeva has come at that imprudent Vali with golden pendant, on tightening his fists, lifting
+them up at the ready, and aiming them well at Vali. [4-16-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +845,12 @@ _________________
 आपतन्तं महावेगमिदं वचनमब्रवीत् ॥ १९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तम् वाली क्रोध ताम्राक्षः सुग्रीवम् रण कोविदम् ।
+आपतंतम् महा वेगम् इदम् वचनम् अब्रवीत् ॥ ४-१६-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 युद्धकलाके पण्डित महावेगशाली सुग्रीवको अपनी ओर आते देख वालीकी आँखें क्रोधसे लाल हो गयीं और वह इस प्रकार बोला— ॥ १९ ॥
@@ -432,6 +859,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रणकोविद महा वेगशालि सुग्रीवनु तन्न कडॆगॆ बरुत्तिरुवुदन्नु नोडि वालियु क्रोधदिन्द कण्णुगळन्नु कॆम्पागिसिकॊण्डु हेळिदनु.॥19॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. vaalii* = Vali; *krodha taamra akSaH* = by fury, reddened, eyed; *raNa kovidam*
+= fighting, expert in; *mahaa vegam* = one with great, speed - expeditious one; *aa patantam*
+= coming, falling - swooping down; *tam sugriivam* = to him Sugreeva; *idam vacanam abraviit*
+= this, word, said.
+
+**अनुवादः**
+
+Vali spoke this word to that Sugreeva who is swooping down on him, whose eyes are reddened in fury,
+and who is an expert and expeditious in fighting. [4-16-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +893,12 @@ _________________
 मया वेगविमुक्तस्ते प्राणानादाय यास्यति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एष मुष्टिर् महान् बद्धो गाढः सुनियत अंगुलिः ।
+मया वेग विमुक्तः ते प्राणान् आदाय यास्यति ॥ ४-१६-२०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुग्रीव! देख ले । यह बड़ा भारी मुक्का खूब कसकर बँधा हुआ है । इसमें सारी अङ्गुलियाँ सुनियन्त्रितरूपसे परस्पर सटी हुई हैं । मेरे द्वारा वेगपूर्वक चलाया हुआ यह मुक्का तेरे प्राण लेकर ही जायगा’ ॥ २० ॥
@@ -457,6 +907,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुग्रीवने! नोडु, बिगियागि ऎल्ल बॆरळुगळु जॊतॆ सेरिद ई भारी मुष्ठियन्नु नोडु. नानु हॊडॆयुव ई मुष्ठियिन्द निन्न प्राणगळु हारिहोगुववु.॥20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. su niyata anguliH* = well, clenching, fingers; *gaaDhaH* = firmly clenched; *eSa
+baddhaH mahaan muSTiH* = this, clenched, great, fist; *mayaa vega vi muktaH* = by me, very,
+speedily, while released [pitched]; *te praaNaan aadaaya* = you, lives, on taking; *yaasyati*
+= it goes off [unclenched.]
+
+**अनुवादः**
+
+"Properly clenching fingers this great fist of mine is firmly clenched, and it will unclench only on
+taking your lives when I pitch this on you at full speed." So said Vali threateningly to Sugreeva. [4-16-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +936,13 @@ _________________
 
 एवमुक्तस्तु सुग्रीवः क्रुद्धो वालिनमब्रवीत् ।  
 तव चैष हरन् प्राणान् मुष्टिः पततु मूर्धनि ॥ २१ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्तः तु सुग्रीवः क्रुद्धो वालिनम् अब्रवीत् ।
+तव च एष हरन् प्राणान् मुष्टिः पततु मूर्धनि ॥
+४-१६-२१
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -481,6 +955,22 @@ _________________
 वालियु हीगॆ हेळिदाग सुग्रीवनु क्रोधदिन्द अवनल्लि हेळिदनु - ‘नन्न ई मुष्ठियू निन्न प्राण तॆगॆयलु निन्न मस्तकदल्लि बीळुवुदु.॥21॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21. evam uktaH tu sugriivaH* = thus, said, but, Sugreeva; *kruddhaH* = one with high
+dudgeon; *vaalinam abraviit* = to Vali said; *eSa muSTiH* = this is, [my fist]; *tava
+praaNaan haran* = your, lives, to take; *muurdhani patatu* = on forehead, shall fall.
+
+**अनुवादः**
+
+Thus said, Sugreeva with high dudgeon said, "this fist of mine shall fall on your forehead plundering
+your lives." [4-16-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताडितस्तेन तं क्रुद्धः समभिक्रम्य वेगतः ।  
@@ -491,6 +981,12 @@ _________________
 
 ताडितस्तेन तं क्रुद्धः समभिक्रम्य वेगतः ।  
 अभवच्छोणितोद‍्गारी सापीड इव पर्वतः ॥ २२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ताडितः तेन तम् क्रुद्धः समभिक्रम्य वेगतः ।
+अभवत् शोणित उद्गारी सापीड इव पर्वतः ॥ ४-१६-२२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -503,6 +999,23 @@ _________________
 अष्टरल्लि वालियु वेगवागि आक्रमण माडि सुग्रीवनिगॆ गुद्दिदनु. आ एटिनिन्द गायगॊण्डु कुपितनाद सुग्रीवन बायिन्द झरिगळिन्द कूडिद पर्वतदन्तॆ रक्त हरियतॊडगितु.॥22॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. vegataH* = instantaneously; *samabhikramya [sam abhi kramaya]* = coming nearby;
+*tena* = by him, by Vali; *taaDitaH* = one who is hit [Sugreeva - spilled blood]; *
+kruddhaH* = is enraged; *shoNita udgaarii* = blood, streaming; *saa piiDaH* = with
+torrents; *parvataH iva* = mountain, like; *abhavat* = he became.
+
+**अनुवादः**
+
+Coming near instantaneously Vali hit him, whereby Sugreeva is enraged and became like a mountain streaming
+blood in its torrents. [4-16-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेण तु निःशङ्कं सालमुत्पाट्य तेजसा ।  
@@ -513,6 +1026,12 @@ _________________
 
 सुग्रीवेण तु निःशङ्कं सालमुत्पाट्य तेजसा ।  
 गात्रेष्वभिहतो वाली वज्रेणेव महागिरिः ॥ २३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सुग्रीवेण तु निःशंकम् सालम् उत्पाट्य तेजसा ।
+गात्रेषु अभिहतो वाली वज्रेण इव महा गिरिः ॥ ४-१६-२३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -525,6 +1044,23 @@ _________________
 अनन्तर सुग्रीवनू निःशङ्कनागि बलवागि ऒन्दु सालवृक्षवन्नु कित्तु, अदरिन्द इन्द्रनु विशाल पर्वतवन्नु वज्रदिन्द प्रहरिसुवन्तॆ वालिय मेलॆ प्रहरिसिदनु.॥23॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. sugriiveNa tu* = by Sugreeva, but; *tejasaa* = by his force; *niHshankam*
+= unhesitatingly; *saalam utpaaTya* = saala tree, on uprooting; *vaalii* = Vali is;
+*vajreNa mahaa giriH iva* = by thunderbolt, great mountain, as with; *gaatreSu abhihataH*
+= on limbs, struck.
+
+**अनुवादः**
+
+But Sugreeva unhesitatingly uprooted a saala tree with his force and thrashed the limbs of Vali as with
+the thunderbolt thrashing a great mountain. [4-16-23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु वृक्षेण निर्भग्नः सालताडनविह्वलः ।  
@@ -537,6 +1073,12 @@ _________________
 गुरुभारभराक्रान्ता नौः ससार्थेव सागरे ॥ २४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स तु वृक्षेण निर्भग्नः साल ताडन विह्वलः ।
+गुरु भार भर आक्रान्ता नौः ससार्था इव सागरे ॥ ४-१६-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस वृक्षकी चोटसे वालीके शरीरमें घाव हो गया । उस आघातसे विह्वल हुआ वाली व्यापारियोंके समूहके चढ़नेसे भारी भारके द्वारा दबकर समुद्रमें डगमगाती हुई नौकाके समान काँपने लगा ॥ २४ ॥
@@ -545,6 +1087,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वृक्षद एटिनिन्द वालियु गायगॊण्डु विह्वलनागि व्यापारिगळु हत्तिद नावॆयु भारी भारदिन्द सागर दल्लि तूगाडुवन्तॆ वालियु नडुगतॊडगिदनु.॥24॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. saala taaDana vihvalaH* = with saala tree, by thwacking, one who is staggered; *saH tu*
+= he, that Vali, but; *saagare* = in ocean; *guru bhaara bhara aakraantaa* = heavy, weight,
+filled with, brimming with; *sa saarthaa nauH iva* = with, merchants, [tossing] ship, like;
+*nirbhagnaH* = [on the brink of] wrecking.
+
+**अनुवादः**
+
+But Vali when thwacked with saala tree had staggered and looked like a tossing ship in an ocean filled
+with heavy weight of merchandise and brimming with merchants, but on the brink of wrecking. [4-16-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,6 +1121,13 @@ _________________
 प्रवृद्धौ घोरवपुक्षौ चन्द्रसूर्याविवाम्बरे ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तौ भीम बल विक्रान्तौ सुपर्ण सम वेगिनौ ।
+प्रयुद्धौ घोर वपुषौ चन्द्र सूर्यौ इव अंबरे ॥ ४-१६-२५
+परस्परम् अमित्र घ्नौ च्छिद्र अन्वेषण तत्परौ ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन दोनों भाइयोंका बल और पराक्रम भयंकर था । दोनोंके ही वेग गरुड़के समान थे । वे दोनों भयंकर रूप धारण करके बड़े जोरसे जूझ रहे थे और पूर्णिमाके आकाशमें चन्द्रमा और सूर्यके समान दिखायी देते थे ॥
@@ -570,6 +1136,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ इब्बरू सोदरर बल, पराक्रम भयङ्करवागित्तु. इब्बर वेगगळु गरुडनन्तित्तु. अवरिब्बरू भयङ्कर रूपधरिसि जोरागि कादाडुत्तिद्दरु. पूर्णिमॆय आकाशदल्लि सूर्य-चन्द्ररन्तॆ काणुत्तिद्दरु.॥25॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25, 26a. bhiima bala vikraantau* = sesational, with energy, triumphing zeal; *suparNa sama
+veginau* = Divine Eagle, Garuda, equalling, in swiftness; *ghora vapuSau* = with frightful,
+body builds; *paraH param* = one to another - each other; *cChidra anveSaNa tatparau*
+= perilous [body-parts,] in exploring, vigilant ones; *a mitra ghnau* = un, friendly ones [enemies,]
+killers of; *tau* = those two, Vali and Sugreeva; *ambare candra suuryau iva* = ] in sky,
+Moon, sun, like [which is an inconceivable fight]; *pra yuddhau* = frighteningly, fought.
+
+**अनुवादः**
+
+Those two, Vali and Sugreeva, with their sensational energy, triumphing zeal, frightful physiques, swiftness
+as good as the Divine Eagle Garuda, vigilance in exploring perilous body parts of one another, ravagement
+of their own enemies fought frighteningly, like the sun and moon in the sky, which is inconceivable.
+[4-16-25, 26a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +1171,12 @@ _________________
 परस्परममित्रघ्नौ छिद्रान्वेषणतत्परौ ।  
 ततोऽवर्धत वाली तु बलवीर्यसमन्वितः ॥ २६ ॥  
 सूर्यपुत्रो महावीर्यः सुग्रीवः परिहीयत ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ततो अवर्धत वाली तु बल वीर्य समन्वितः ॥ ४-१६-२६
+सूर्य पुत्रो महावीर्यः सुग्रीवः परिहीयत ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -596,6 +1189,22 @@ _________________
 आ शत्रुसूदन वीररु तम्म विपक्षियन्नु कॊन्दु हाकुव इच्छॆयिन्द ऒब्बरु मत्तॊब्बर दौर्बल्यवन्नु हुडुकुत्तिद्दरु. आदरॆ आ युद्धदल्लि बल-विक्रम सम्पन्न वालिय बल हॆच्चतॊडगिदरॆ, महापराक्रमि सूर्यपुत्र सुग्रीवन शक्ति क्षीणवागतॊडगितु.॥26½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26b, 27a. tataH* = afterwards; *bala viirya samanvitaH* = by might, vigour, one possessing;
+*vaalii tu* = Vali, but; *avardhata* = progressed; *mahaaviiryaH suurya putraH sugriivaH*
+= greatly, mighty, sun's, son, Sugreeva; *pari hiiyata* = totally, declined - retrogressed.
+
+**अनुवादः**
+
+But Vali being the possessor of might and vigour progressed and though greatly mighty is son of sun,
+Sugreeva, regressed. [4-16-26b, 27a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालिना भग्नदर्पस्तु सुग्रीवो मन्दविक्रमः ॥ २७ ॥  
@@ -606,6 +1215,12 @@ _________________
 
 वालिना भग्नदर्पस्तु सुग्रीवो मन्दविक्रमः ॥ २७ ॥  
 वालिनं प्रति सामर्षो दर्शयामास राघवम् ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+वालिना भग्न दर्पः तु सुग्रीवो मन्द विक्रमः ॥ ४-१६-२७
+वालिनम् प्रति सामर्षो दर्शयामास राघवम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -618,6 +1233,23 @@ _________________
 वालियु सुग्रीवन दर्पवन्नु चूरागिसिदनु. अवन पराक्रम मन्दवागतॊडगितु. आग वालिय कुरितु क्रोधगॊण्ड सुग्रीवनु श्रीरामनिगॆ तन्न स्थितिय कडॆगॆ गमन सॆळॆदनु.॥27½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27b, 28a. vaalinaa bhagna darpaH tu* = by Vali, routed, pride; *sugriivaH manda vikramaH*
+= Sugreeva, retardant, in agression; *sa a marSaH* = with, no, happiness [with exasperation];
+*vaalinam prati* = Vali, to counteract; *raaghavam* = for Raghava; *darshayaamaasa*
+= started to see.
+
+**अनुवादः**
+
+Sugreeva became retardant in aggression when Vali routed his pride and then he exasperatedly started
+searching for Raghava to counteract Vali. [4-16-27]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षैः सशाखैः शिखरैर्वज्रकोटिनिभैर्नखैः ॥ २८ ॥  
@@ -630,6 +1262,14 @@ _________________
 वृक्षैः सशाखैः शिखरैर्वज्रकोटिनिभैर्नखैः ॥ २८ ॥  
 मुष्टिभिर्जानुभिः पद्भिर्बाहुभिश्च पुनः पुनः ।  
 तयोर्युद्धमभूद‍्घोरं वृत्रवासवयोरिव ॥ २९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+वृक्षैः स शाखैः शिखरैः वज्र कोटि निभैः नखैः ॥ ४-१६-२८
+मुष्टिभिः जानुभिः पद्भिः बाहुभिः च पुनः पुनः
+।
+तयोः युद्द्धम् अभूत् घोरम् वृत्र वासवोः इव ॥ ४-१६-२९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -642,6 +1282,26 @@ _________________
 बळिक कॊम्बॆगळ सहित वृक्षगळिन्द, पर्वतगळिन्द, वज्रदन्तह भयङ्कर उगुरुगळिन्द, मुष्टिगळिन्द, मॊणकालुगळिन्द, ऒदॆगळिन्द, मुष्टिगळिन्द अवरिब्बरल्लियू इन्द्र-वृत्रासुररन्तॆ भयङ्कर सङ्ग्राम नडॆयितु.॥28-29॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28b, 29. tayoH* = among those two; *vR^ikshaiH sa shaakhaiH* = with trees, with, branches;
+*shikharaiH* = peaks [of mountains]; *vajra koTi nibhaiH nakhaiH* = thunderbolts, edges,
+similar [in sharpness,] with [edged] nails; *muSTibhiH jaanubhiH padbhiH* = with fists, with
+knees, with feet; *baahubhiH ca* = with arms, also; *vR^itra vaasavoH iva* = among demon
+Vritra, Indra, like [as has happened]; *punaH punaH* = again, again; *ghoram yudddham abhuut*
+= deadly, fight, there happened.
+
+**अनुवादः**
+
+Among those two there happened a deadly fight time and again using trees with branches, peaks of mountains,
+their own nails that are similar to the razor-sharp edges of thunderbolts, and with fists, knees, feet,
+and arms, like the fight that once chanced between demon Vritra and Indra. [4-16-28b, 29]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ शोणिताक्तौ युध्येतां वानरौ वनचारिणौ ।  
@@ -652,6 +1312,12 @@ _________________
 
 तौ शोणिताक्तौ युध्येतां वानरौ वनचारिणौ ।  
 मेघाविव महाशब्दैस्तर्जमानौ परस्परम् ॥ ३० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तौ शोणितात्कौ युध्येताम् वानारौ वन् चारिणौ ।
+मेघौ इव महा शब्दैः तर्जमानौ परस्परम् ॥ ४-१६-३०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -664,6 +1330,23 @@ _________________
 आ इब्बरू वनचर वानररु रक्तदिन्द तॊय्दु कादाडुत्तिद्दरु. ऎरडु मोडगळन्तॆ अत्यन्त भयङ्करवागि गर्जिसुत्ता ऒब्बरु मत्तॊब्बरन्नु हळियुत्तिद्दरु.॥30॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30. vana caariNau tau vaanaarau* = forest, movers, those, vanara-s; *shoNit aatkau* =
+with blood, wetted [soaked]; *parasparam tarjamaanau* = each to each, threatening; *mahaa
+shabdaiH* = with great, uproars; *meghau iva* = clouds, like; *yudhyetaam* = gone
+on fighting.
+
+**अनुवादः**
+
+Those forest moving vanara-s that are soaked in blood have gone on clashing, threatening each other,
+like two clouds clashing uproariously. [4-16-30]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीयमानमथापश्यत् सुग्रीवं वानरेश्वरम् ।  
@@ -676,6 +1359,12 @@ _________________
 प्रेक्षमाणं दिशश्चैव राघवः स मुहुर्मुहुः ॥ ३१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+हीयमानम् अथ अपश्यत् सुग्रीवम् वानरेश्वरम् ।
+प्रेक्षमाणम् दिशः च एव राघवः स मुहुर् मुहुर् ॥ ४-१६-३१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरघुनाथजीने देखा, वानरराज सुग्रीव कमजोर पड़ रहे हैं और बारंबार इधर-उधर दृष्टि दौड़ा रहे हैं ॥ ३१ ॥
@@ -684,6 +1373,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानर राज सुग्रीवनु निर्बलनागुत्तिद्दानॆ हागू पदे-पदे ईकडॆ-आकडॆ दृष्टि हरिसुत्तिरुवुदन्नु श्री रघुनाथनु नोडिदनु.॥31॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31. atha* = then; *saH raaghavaH* = he, that Raghava; *muhuH muhuH* = again, again;
+*dishaH prekshamaaNam* = directions, started seeing [for help]; *vaanara iishvaram sugriivam*
+= vanara, lord of, at Sugreeva; *hiiyamaanam eva ca* = deteriorating, even, also; *apashyat*
+= has seen.
+
+**अनुवादः**
+
+Raghava has then seen the lord of monkeys Sugreeva who is repeatedly eyeing all sides for help and who
+is even deteriorating in his enterprise. [4-16-31]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +1417,23 @@ _________________
 पीडितनाद वानरराजनन्नु नोडि महा तेजस्वी श्रीरामनु वालिय वधॆय इच्छॆयिन्द तन्न बाणद कडॆगॆ दृष्टिपात माडिदनु.॥32॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*32. tataH* = then; *mahaatejaa viiraH saH raamaH* = great, refulgent one, fearless one,
+he that Rama; *hari iishvaram* = monkey's, lord - Sugreeva; *aartam dR^iSTvaa* = in forlornness,
+on seeing; *vaalinaH vadha kaankshayaa* = for Vali's, elimination, aiming at; *sharam viikshate*
+= he [Rama,] arrow, scanned for.
+
+**अनुवादः**
+
+On seeing the lord of monkeys Sugreeva in a forlornness, then the refulgent and fearless Rama scanned
+for an arrow aiming to eliminate Vali. [4-16-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो धनुषि सन्धाय शरमाशीविषोपमम् ।  
@@ -723,6 +1446,12 @@ _________________
 पूरयामास तच्चापं कालचक्रमिवान्तकः ॥ ३३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततो धनुषि संधाय शरम् आशी विष उपमम् ।
+पूरयामास तत् चापम् काल चक्रम् इव अन्तकः ॥ ४-१६-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्होंने अपने धनुषपर विषधर सर्पके समान भयंकर बाण रखा और उसे जोरसे खींचा, मानो यमराजने कालचक्र उठा लिया हो ॥ ३३ ॥
@@ -731,6 +1460,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु तन्न धनस्सिगॆ विषधर सर्पदन्तॆ भयङ्कर बाणवन्नु हूडि यमराजनु कालचक्रवन्नु ऎत्तिदन्तॆ अदन्नु जोरागि सॆळॆदनु.॥33॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*33. tataH* = then; *aashii viSa upamam* = which has fang's, venom, in simile - venomous
+serpent like; *sharam dhanuSi sandhaaya* = arrow, in bow, on tautening; *antakaH kaala cakram
+iva* = Terminator, Time, disc, like [bow]; *puurayaamaasa tat caapam* = started to draw out
+[the string,] that, bow.
+
+**अनुवादः**
+
+Then on tautening a venomous serpent like arrow in the bow, Rama started to draw out bowstring, whereby
+that bow attained a similitude with the Time-disc of the Terminator. [4-16-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -748,6 +1494,12 @@ _________________
 प्रदुद्रुवुर्मृगाश्चैव युगान्त इव मोहिताः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य ज्यातल घोषेण त्रस्ताः पत्ररथेश्वराः ।
+प्रदुद्रुवुर् मृगाः च एव युगांत इव मोहिताः ॥ ४-१६-३४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसकी प्रत्यञ्चाकी टङ्कारध्वनिसे भयभीत हो बड़े-बड़े पक्षी और मृग भाग खड़े हुए । वे प्रलयकालके समय मोहित हुए जीवोंके समान किंकर्तव्यविमूढ़ हो गये ॥ ३४ ॥
@@ -756,6 +1508,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन धनुष्टङ्कारद ध्वनियिन्द भयभीतवागि दॊड्ड-दॊड्ड मृग-पक्षिगळु ओडि होदवु. अवु प्रळय कालदल्लि मोहितराद जीवरन्तॆ किङ्कर्तव्य मूढवादुवु.॥34॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. tasya* = that bow's; *jyaa tala ghoSeNa* = bowstring's, surface, blast; *trastaaH*
+= panicked; *patra ratha iishvaraaH* = by wings, charioting - birds, lordly ones [very big birds,
+leave alone small birds]; *mR^igaaH ca eva* = animals, also, thus; *yuga anta mohitaaH iva*
+= at era, end, those that are startled, like; *pra dudruvuH* = verily, fled.
+
+**अनुवादः**
+
+At the blast of bowstring the lordly birds and animals are panicked, like those that will be startled
+by the approach of ear ending, and they all fled. [4-16-34]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -773,6 +1542,12 @@ _________________
 राघवेण महाबाणो वालिवक्षसि पातितः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मुक्तस्तु वज्र निर्घोषः प्रदीप्त अशनि संनिभः ।
+राघवेण महा बाणो वालि वक्षसि पातितः ॥ ४-१६-३५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरघुनाथजीने वज्रकी भाँति गड़गड़ाहट और प्रज्वलित अशनिकी भाँति प्रकाश पैदा करनेवाला वह महान् बाण छोड़ दिया तथा उसके द्वारा वालीके वक्षःस्थलपर चोट पहुँचायी ॥ ३५ ॥
@@ -781,6 +1556,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरघुनाथनु वज्रदन्तॆ घोषिसुत्त, प्रज्वलित सिडिलिनन्तॆ प्रकाशबीरुव आ महाबाणवन्नु प्रयोगिसिदनु; अदु वालिय वक्षःस्थळदल्लि होगि नाटितु.॥35॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*35. raaghaveNa muktaH* = by Raghava, released; *vajra nirghoSaH* = thunderbolt's, with
+sound of - boom of thunderclap; *pradiipta ashani sannibhaH* = flashing, lightning, similar to;
+*mahaa baaNaH* = great, arrow; *vaali vakSasi paatitaH* = on Vali's, chest, fallen.
+
+**अनुवादः**
+
+The arrow released by Raghava that has the boom of thunderbolt's thunderclap and the flashes of a lightning
+fell on the chest of Vali. [4-16-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -793,6 +1584,12 @@ _________________
 
 ततस्तेन महातेजा वीर्ययुक्तः कपीश्वरः ।  
 वेगेनाभिहतो वाली निपपात महीतले ॥ ३६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ततः तेन महातेजा वीर्य युक्तः कपीश्वरः ।
+वेगेन अभिहतो वाली निपपात मही तले ॥ ४-१६-३६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -805,6 +1602,22 @@ _________________
 आ वेगवाद बाणदिन्द आहतनाद महातेजस्वी पराक्रमि वानरराज वालियु कूडले नॆलक्कॆ बिद्दुबिट्टनु.॥36॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*36. tataH* = then; *mahaatejaa* = highly, magnificent one; *viirya yuktaH* = intrepidity,
+one having; *kapi iishvaraH* = monkey's, lord [Vali]; *tena* = by it [by arrow]; *vegena
+abhihataH* = by fleetness, hit; *mahii tale nipapaata* = on earth's, plane, fell down.
+
+**अनुवादः**
+
+Hit by the fleetness of that arrow then that highly magnificent and intrepid lord of monkeys Vali fell
+onto the plane of earth. [4-16-36]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रध्वज इवोद‍्धूतः पौर्णमास्यां महीतले ।  
@@ -819,6 +1632,14 @@ _________________
 बाष्पसंरुद्धकण्ठस्तु वाली चार्तस्वरः शनैः ॥ ३७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इन्द्र ध्वज इव उद्धूत पौर्ण मास्याम् महीतले ।
+अश्वयुक् समये मासि गत सत्त्वो विचेतनः ।
+बाष्प संरुद्ध
+कण्ठस्तु वाली च आर्त स्वरः शनैः ॥ ४-१६-३७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 आश्विनकी पूर्णिमाके दिन इन्द्रध्वजोत्सवके अन्तमें ऊपर फेंका गया इन्द्रध्वज जैसे पृथ्वीपर गिर पड़ता है, उसी प्रकार वाली ग्रीष्मऋतुके अन्तमें श्रीहीन, अचेत और आँसुओंसे गद‍्गदकण्ठ हो धराशायी हो गया और धीरे-धीरे आर्तनाद करने लगा ॥ ३७ ॥
@@ -827,6 +1648,33 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आश्वयुज पौर्णमॆय दिन इन्द्रध्वजोत्सवद अन्त्यदल्लि मेलक्कॆ हारिसिद इन्द्रध्वजवु नॆलक्कॆ बीळुवन्तॆ वालियु ग्रीष्मऋतुविन कॊनॆयल्लि श्रीहीन, निश्चेष्टितनागि, कम्बनियिन्द गद्गदितनागि धराशायियादनु हागू मॆल्लगॆ आर्तनाद माडतॊडगिदनु.॥37॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*37. ashvayuk samaye* = Ashvayuja / Ashvin, period; *maasi paurNa maasyaam* = by month,
+in full-moon month [fortnight]; *mahiitale* = onto ground; *uddhuuta indra dhvaja iva*
+= thrown down, Indra's, flag, like; *vaalii* = Vali is; *gata sattvaH* = depleted, energy;
+*vi cetanaH* = without [dissipated,] vitality; *shanaiH* = slowly; *baaSpa samruddha
+kaNThaH* = tear, blocked, with throat; *aarta svaraH* = with painful, voicing - with piteous
+moan [ fell down.]
+
+**अनुवादः**
+
+Like the flag that will be raised in honour of Indra during the month of ashvin on a full-moon day,
+but thrown onto earth along with its flagstaff after the festival, Vali with depleted energy and dissipated
+vitality slowly fell onto ground, and with tears blocking throat he moaned piteously. [4-16-37]
+
+**टिप्पनी**
+
+This* indra dhvaja ustava*, festival of Indra's flagstaff will be undertaken after the sixth lunar month
+of year, usually after summer in order to appease Indra to cause rains. On full-moon day in Ashvayuja
+month [October-November] this will be performed and after the ritual the flag / flagstaff will be thrown
+to ground.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +1698,13 @@ _________________
 सधूममग्निं मुखतो यथा हरः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नरोत्तमः काल युगांतकोपमम् शरोत्तमम् कांचन रूप्यभूषितम् ।
+ससर्ज दीप्तम् तम् अमित्र मर्दनम् स धूममग्निम्
+मुखतो यथा हरः ॥ ४-१६-३८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामका वह उत्तम बाण युगान्तकालके समान भयंकर तथा सोने-चाँदीसे विभूषित था । पूर्वकालमें महादेवजीने जैसे अपने मुखसे (मुख-मण्डलके अन्तर्गत ललाटवर्ती नेत्रसे) शत्रुभूत कामदेवका नाश करनेके लिये धूमयुक्त अग्निकी सृष्टि की थी, उसी प्रकार पुरुषोत्तम श्रीरामने सुग्रीवशत्रु वालीका मर्दन करनेके लिये उस प्रज्वलित बाणको छोड़ा था ॥ ३८ ॥
@@ -858,6 +1713,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन आ उत्तम बाणवु युगान्त्यकालदन्तॆ भयङ्करवागिद्दु चिन्न-बॆळ्ळिगळिन्द विभूषितनागित्तु. हिन्दॆ महादेवनु हणॆगण्णिनिन्द शत्रुवाद कामनन्नु नाशगॊळिसलु धूमयुक्त अग्नियन्नु सृष्टिसिदन्तॆ पुरुषोत्तम श्रीरामनु सुग्रीवशत्रु वालियन्नु मर्दिसलु आ प्रज्वलित बाणवन्नु प्रयोगिसिद्दनु.॥38॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*38. nara uttamaH* = among men, best one Rama; *kaala* = at the time of era end; *yuga
+antaka upamam* = era, ender, in simile; *kaancana ruupya bhuuSitam* = in gold, silver, decorated;
+*diiptam* = glowing; *a mitra mardanam* = unfriendly ones, subduer of; *tam shara uttamam*
+= that, arrow, best one; *haraH mukhataH* = Shiva's, from face; *sa dhuumam agnim yathaa*
+= with [emitting,] smoke, fire, as with; *shara uttamam* = arrow, the best; *sasarja*
+= let go, released.
+
+**अनुवादः**
+
+That best one among men Rama released a blazing and enemy subjugating arrow which in simile is like
+an Epoch-ender at the end of era, and that best arrow decorated in gold and silver looked like the glance
+from the Third-Eye of Rudra, emitting fire with smoke. [4-16-38]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +1756,15 @@ _________________
 प्रभ्रंशितेन्द्रध्वजवत् क्षितिं गतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथ उक्षितः शोणित तोय विस्रवैः
+सुपुष्पित अशोक इव अचलोद्गतः ।
+विचेतनो वासव सूनुर् आहवे
+प्रभ्रञ्शित
+इन्द्र ध्वजवत् क्षितिम् गतः ॥ ४-१६-३९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रकुमार वालीके शरीरसे पानीके समान रक्तकी धारा बहने लगी । वह उससे नहा गया और अचेत हो वायुके उखाड़े हुए पुष्पित अशोकवृक्ष एवं आकाशसे नीचे गिरे हुए इन्द्रध्वजके समान समराङ्गणमें पृथ्वीपर गिर पड़ा ॥ ३९ ॥
@@ -889,6 +1773,32 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रकुमार वालिय शरीरदिन्द नीरिनन्तॆ रक्तद धारॆ हरियतॊडगितु. अदरिन्द अवनु मिन्दु होगिद्दनु. अचेतननागि वायुवु कित्तिरुव पुष्पित अशोक वृक्षदन्तॆ, आकाशदिन्द कॆळगॆ बिद्द इद्र ध्वजदन्तॆ वालियु समराङ्गणदल्लि बिद्दु बिट्टनु.॥39॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*39. atha* = then; *vaasava suunuH* = Indra's, son; *aahave* = in battle [battlefield];
+*shoNita toya visravaiH* = blood, water [sweat,] with streams of; *ukSitaH* = dampened;
+*acala udgataH* = on mountain, stemmed up [standing high on mountain]; *[anila uddhata*
+= by wind, felled]; *su puSpita ashoka iva* = well, bloomed, Ashoka tree, like; *vi cetanaH*
+= without, vigour - anima is undone; *pra bhra~nshita* = altogether, dislodged; *indra dhvaja
+vat* = Indra's, flagstaff, like; *kSitim gataH* = onto earth, gone [abandoned.]
+
+**अनुवादः**
+
+That Indra's son Vali, dampened with blood and sweat, then looked like just felled Ashoka tree which
+has stemmed up and so far standing high on a mountain with fully bloomed clusters of its blood-red flowers,
+and when his anima is undone he even looked like the flagstaff on which a flag is raised in honour of
+Indra, but which is altogether dislodged and abandoned on the ground. [4-16-39]
+
+**टिप्पनी**
+
+Ashoka tree by itself stands high and stout with its blood red flowers, and by virtue of its growing
+on high of mountains it is more gloriously standing till now, like Vali, but that is felled too suddenly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

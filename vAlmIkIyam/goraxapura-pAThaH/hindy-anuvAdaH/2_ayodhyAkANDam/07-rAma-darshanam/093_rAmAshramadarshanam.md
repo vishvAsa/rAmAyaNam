@@ -2,6 +2,21 @@
 title = "०९३ रामाश्रमदर्शनम्"
 title_english = "093 Bharata and his army reach Chitrakuta mountain"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book II : Ayodhya Kanda - Book Of Ayodhya**
+
+Travelling for a long time, Bharata and his army reach Chitrakuta mountain. Bharata
+Chitrakuta mountain. Bharata appreciates the beauty of that place and identifies it as an abode of
+ascetics. He instructs his soldiers to explore the woods and find out where Rama and Lakshmana are
+living. Valiant men penetrate into the forest and pursuing their search, they observe a plume of
+smoke rising at some distance and concluding the site to be the hermitage of Rama. Bharata commands
+his army to halt and decides to walk with Sumantra and Dhriti his spiritual preceptor to Rama's
+hermitage.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-093-Rama_Shrama_Darshanam.mp3"></div>
 </details>
@@ -33,6 +48,23 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 प्रयाणिसुत्तिरुव आ विशाल वाहिनियिन्द पीडितवाद काडिन यूथपति मत्तु गजगळु तम्म गुम्पिनॊन्दिगॆ ओडिहोगुत्तिद्दवु.॥1॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. tayaa mahatyaa dhvajinyaa* = By that large army; *yaayinyaa*
+= on the march; *mattaaH* = the intoxicated; *yuuthapaaH* = leaders of the herds of
+beasts; *vanavaasinaH* = the denizens of the woods; *ardhitaaH* = were frightened;
+*sampradudruvuH* = and ran away together; *sayuuthaaH* = with their troops.
+
+**अनुवादः**
+
+Seeing that large army on the march, the herds of beasts with their leaders, the
+denizens of the woods were frightened and ran away together.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाः पृषतमुख्याश्च रुरवश्च समन्ततः ।  
@@ -43,6 +75,12 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 ऋक्षाः पृषतमुख्याश्च रुरवश्च समन्ततः ।  
 दृश्यन्ते वनवाटेषु गिरिष्वपि नदीषु च ॥ २ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ऋक्षाः पृषत सम्घाः च रुरवः च समन्ततः ।
+दृश्यन्ते वन राजीषु गिरिषु अपि नदीषु च ॥ २-९३-२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -55,6 +93,23 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 करडिगळु, चुक्कॆगळिद्द पृषत जिङ्कॆगळु, चुक्कॆगळिल्लद रुरु जिङ्कॆगळु अरण्यगळल्लि, पर्वतगळल्लि नदि तीरगळल्लि ऎल्लॆडॆ आ सैन्यदिन्द भयगॊण्डवरन्तॆ कण्डु बरुत्तिद्दवु.॥2॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. R^ikSaaH* = bears; *pR^iSatasaN^ghaashcha* = dappled deer;
+*ruravashcha* = and antelopes; *dR^ishyante* = could be seen; *samantataH* =
+everywhere; *vana raajiiSu* = on the tracks of the forest; *giriSvapi* = on the
+hills; *nadiiSu* = and by the rivers.
+
+**अनुवादः**
+
+Bears, dappled deer and antelopes could be seen every where, on the tracks of the
+forest, on the hills and by the rivers.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्रतस्थे धर्मात्मा प्रीतो दशरथात्मजः ।  
@@ -65,6 +120,12 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 स सम्प्रतस्थे धर्मात्मा प्रीतो दशरथात्मजः ।  
 वृतो महत्या नादिन्या सेनया चतुरङ्गया ॥ ३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स सम्प्रतस्थे धर्म आत्मा प्रीतो दशरथ आत्मजः ।
+वृतो महत्या नादिन्या सेनया चतुर् अन्गया ॥ २-९३-३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -77,6 +138,24 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 महा कोलाहल माडुव आ विशाल चतुरङ्गिणी सेनॆयिन्द सुत्तुवरिद धर्मात्मा दशरथनन्दन भरतनु बहळ सन्तोषदिन्द प्रयाणिसुत्तिद्दनु.॥3॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. saH* = that; *dharmaatmaa* = pious minded;
+*dasharathaatmajaH* = Bharata; *priitaH* = greacefully; *sampratastha* =
+marched ahead; *vR^itaH* = surrounded; *naadinyaa* = by the clamorous;
+*mahatyaa* = large; *senayaa* = army; *ChaturaN^gayaa* = of four
+divisions.
+
+**अनुवादः**
+
+That pious minded Bharata gracefully marched ahead, surrounded by that clamorous
+army of four divisions.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरौघनिभा सेना भरतस्य महात्मनः ।  
@@ -87,6 +166,12 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 सागरौघनिभा सेना भरतस्य महात्मनः ।  
 महीं सञ्छादयामास प्रावृषि द्यामिवाम्बुदः ॥ ४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सागर ओघ निभा सेना भरतस्य महात्मनः ।
+महीम् संचादयाम् आस प्रावृषि द्याम् इव अम्बुदः ॥ २-९३-४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -99,6 +184,23 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 मळॆगालदल्लि मोडगळिन्द आकाशवु मुच्चिहोगुवन्तॆ महात्मा भरतन समुद्रदन्तह आ विशाल सैन्यवु दूरदवरॆगिन भूभागवन्नु आवरिसिबिट्टित्तु.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. senaa* = the army; *mahaatmanaH* = of the magnanimous;
+*bharatasya* = Bharata; *saagraughanibha* = which resembled the high tide of an
+ocean; *samchhaadayaamaasa* = covered; *mahiim* = the earth; *ambudaH iva* =
+as clouds; *dyaam* = the sky; *praavR^iSi* = in a rainy season.
+
+**अनुवादः**
+
+The army, of the magnanimous Bharata, which resembled the high tide of an ocean,
+covered the earth as clouds cover the sky in a rainy season.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुरङ्गौघैरवतता वारणैश्च महाबलैः ।  
@@ -109,6 +211,12 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 तुरङ्गौघैरवतता वारणैश्च महाबलैः ।  
 अनालक्ष्या चिरं कालं तस्मिन् काले बभूव सा ॥ ५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तुरम्ग ओघैर् अवतता वारणैः च महा जवैः ।
+अनालक्ष्या चिरम् कालम् तस्मिन् काले बभूव भूः ॥ २-९३-५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -121,6 +229,23 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 कुदुरॆगळ, महा बलशालि आनॆगळिन्द तुम्बिरुव हागू दूरदवरॆगॆ व्यापिसिद आ सैन्यवन्नु मॊदलिनिन्द कडॆयवरॆगॆ नोडलु हॆच्चु कालवे बेकागुत्तित्तु.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. avatataa* = Submerged; *turaNgoghaiH* = by the waves of
+horses; *vaaraNaishcha* = and elephants; *mahaajavaiH* = of great speed;
+*tasminkaale* = at that time; *bhuuH* = the earth; *babhuuva* = became;
+*anaalakSyaa* = invisible; *Chirakaalam* = for a long time.
+
+**अनुवादः**
+
+Submerged by the waves of horses and elephants of great speed at that time, the
+earth became invisible for a long time.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा दूरमध्वानं सम्परिश्रान्तवाहनः ।  
@@ -133,6 +258,12 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 उवाच वचनं श्रीमान् वसिष्ठं मन्त्रिणां वरम् ॥ ६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स यात्वा दूरम् अध्वानम् सुपरिश्रान्त वाहनः ।
+उवाच भरतः श्रीमान् वसिष्ठम् मन्त्रिणाम् वरम् ॥ २-९३-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 दूरतकका रास्ता तै कर लेनेपर जब भरतकी सवारियाँ बहुत थक गयीं, तब श्रीमान् भरतने मन्त्रियोंमें श्रेष्ठ वसिष्ठजीसे कहा— ॥ ६ ॥
@@ -141,6 +272,24 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बहुदूर सागिद बळिक भरतन वाहनगळु बळलिदाग श्रीमान् भरतनु मन्त्रिगळल्लि श्रेष्ठराद वसिष्ठरल्लि इन्तॆन्दनु .॥6॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. yaatvaa* = Having travelled; *duuram* = for a long adhvaanam
+= distance; *sah* = that shriimaan = glorious; *bhaarataH* = Bharata;
+*suparishraanta vaahanaH* = whose animals were fully exhausted; *uvaacha* = said;
+*vasiSTham* = to Vasishta; *varam* = the most segacious; *mantriNaam* = of his
+counsellors.
+
+**अनुवादः**
+
+Having travelled for a long distance, that glorious Bharata, whose animals were now
+fully exhausted, said to Vasishta, the most segaceios of his counsellors (as follows)
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +307,12 @@ _________________
 व्यक्तं प्राप्ताः स्म तं देशं भरद्वाजो यमब्रवीत् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यादृशम् लक्ष्यते रूपम् यथा चैव श्रुतम् मया ।
+व्यक्तम् प्राप्ताः स्म तम् देशम् भरद्वाजो यम् अब्रवीत् ॥ २-९३-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ब्रह्मन्! मैंने जैसा सुन रखा था और जैसा इस देशका स्वरूप दिखायी देता है, इससे स्पष्ट जान पड़ता है कि भरद्वाजजीने जहाँ पहुँचनेका आदेश दिया था, उस देशमें हमलोग आ पहुँचे हैं ॥ ७ ॥
@@ -166,6 +321,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्राह्मणोत्तमरे! नानु केळिदन्तॆ ई प्रदेशद स्वरूप कण्डुबरुत्तिदॆ. भरद्वाजरु आदेशिसिदन्तॆ आ प्रदेशक्कॆ नावु बन्दु तलुपिरुवन्तॆ स्पष्टवागि अनिसुत्तिदॆ.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. yaadR^isham* = Whatever; *ruupam* = feature;
+*lakSyate* = is observed; *yathaa* = and from what; *shrutamchaiva* = has been
+heard; *mayaa* = by me; *yam* = about which area; *bharadvaajaH* = Bharadwaja;
+*abraviit* = spoke; *vyaktam* = it is clear; *praaptaaH sma* = we reached;
+*desham* = that area.
+
+**अनुवादः**
+
+"Looking at the features of the pace and from what has been heard by me, it is clear
+that we reached that area of which Bharadwaja spoke."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,11 +357,14 @@ _________________
 ‘जान पड़ता है यही चित्रकूट पर्वत है तथा वह मन्दाकिनी नदी बह रही है । यह पर्वतके आस-पासका वन दूरसे नील मेघके समान प्रकाशित हो रहा है ॥ ८ ॥  
 गिरेः सानूनि रम्याणि चित्रकूटस्य सम्प्रति ।  
 वारणैरवमृद्यन्ते मामकैः पर्वतोपमैः ॥ ९ ॥
-_________________
-अयं गिरिश्चित्रकूट स्तथा मन्दाकिनी नदी ।  
-एतत् प्रकाशते दूरान्नीलमेघनिभं वनम् ॥
-गिरेः सानूनि रम्याणि चित्रकूटस्य सम्प्रति ।  
-वारणैरवमृद्यन्ते मामकैः पर्वतोपमैः ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अयम् गिरिः चित्र कूटः तथा मन्दाकिनी नदी ।
+एतत् प्रकाशते दूरान् नील मेघ निभम् वनम् ॥ २-९३-८
+गिरेः सानूनि रम्याणि चित्र कूटस्य सम्प्रति ।
+वारणैर् अवमृद्यन्ते मामकैः पर्वत उपमैः ॥ २-९३-९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -201,9 +377,43 @@ _________________
 पर्वतोपमयवाद नम्म आनॆगळु चित्रकूटद रम्यवाद तप्पलु प्रदेशगळन्नु ध्वंस माडुत्तिवॆ.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. samprati* = Now; *maamakaiH vaaraNaiH* = by my elephants;
+*parvatopamaiH* = appearing like mountains; *ramyaaNi* = the lovely;
+*saanuuni* = peaks; *gireH* = of the moutain; *chitrakuuTasya* = Chitrakuta;
+*avamR^idyante* = are being trampled.
+
+**अनुवादः**
+
+"By my elephants appearing themselves like mountains, the lovely peaks of Chitrakuta
+mountain are being trampled."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदे चित्रकूट पर्वत हागू हरियुत्तिरुव नदियु मन्दाकिनी ऎन्दु तिळियुत्तदॆ. ई पर्वतद सुत्तल वनवु नीलमेघदन्तॆ प्रकाशिसुत्ता इदॆ.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. ayam* = this; *giriH* = mountain; *chitrakuuTaH* = is
+Chitrakuta; *iyam nadii* = this river; *mandaakinii* = is Mandakini; *etat* =
+this; *vanam* = forest; *prakaashate* = is appearing; *niila meghanibham* =
+like a blue cloud; *duuraat* = from a distance.
+
+**अनुवादः**
+
+"This mountain is Chitrakuta. This river is Mandakini. This forest is appearing like
+a blue cloud from a distance."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +428,12 @@ _________________
 नीला इवातपापाये तोयं तोयधरा घनाः ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मुन्चन्ति कुसुमान्य् एते नगाः पर्वत सानुषु ।
+नीला इव आतप अपाये तोयम् तोय धरा घनाः ॥ २-९३-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ये वृक्ष पर्वतशिखरोंपर उसी प्रकार फूलोंकी वर्षा कर रहे हैं, जैसे वर्षाकालमें नील जलधर  मेघ उनपर जलकी वृष्टि करते हैं’ ॥ १० ॥
@@ -226,6 +442,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वर्षाकालद नीलमेघगळु पर्वत शिखरगळ मेलॆ मळॆगरॆयुवन्तॆ, ई वृक्षगळु पर्वतद मेलॆ हूविन मळॆगरॆयुत्तिवॆ.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. ete* = these; *nagaaH* = trees; *parvata saanuSu* =
+on the peaks of the mountain; *muN^chaanti* = are showering; *kusumaani* = flowers;
+*iva* = like; *niilaa* = black; *ghanaaH* = and intense; *toyadharaaH*
+= clouds; *toyam iva* = (Pour) water; *aatapaapaaye* = in a rainy season.
+
+**अनुवादः**
+
+"These trees on the peaks of the mountain are shedding flowers, as black and intense
+clouds shower water in a rainy season."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +476,12 @@ _________________
 हयैः समन्तादाकीर्णं मकरैरिव सागरम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+किन्नर आचरित उद्देशम् पश्य शत्रुघ्न पर्वतम् ।
+हयैः समन्ताद् आकीर्णम् मकरैर् इव सागरम् ॥ २-९३-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 (इसके बाद भरत शत्रुघ्नसे कहने लगे—) ‘शत्रुघ्न! देखो, इस पर्वतकी उपत्यकामें जो देश है, जहाँ पर किन्नर विचरा करते हैं, वही प्रदेश हमारी सेनाके घोड़ोंसे व्याप्त होकर मगरोंसे भरे हुए समुद्रके समान प्रतीत होता है ॥
@@ -251,6 +490,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (बळिक भरतनु शत्रुघ्ननल्लि हेळिदनु-) शत्रुघ्नने! नोडु ई पर्वतद तप्पलुगळल्लि किन्नररु सञ्चरिसुत्तिरुवरु. अदे प्रदेशवन्नु नम्म सैन्यद कुदुरॆगळिन्द व्याप्तवागि मॊसळॆगळिन्द तुम्बिद समुद्रदन्तॆ कण्डुबरुत्तिदॆ.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. pashya* = Behold; *shatraghna* = O; Shatraghna!;
+*parvatam* = (this) mountain; *kinnaraacharitam* = frequented by Kinnaras;
+*aakiirNam* = teaming with; *hayaiH* = horses; *samantaat* = on every side;
+*saagaram iva* = as a sea; (is infested); *makaraiH* = by allegators.
+
+**अनुवादः**
+
+"Behold, O Shatrughna, this mountain, (hitherto) frequented by Kinnaras, now teaming
+with horses on every side, as a sea is infested by allegators."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +521,12 @@ _________________
 वायुप्रविद्धाः शरदि मेघजाला इवाम्बरे ॥ १२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एते मृग गणा भान्ति शीघ्र वेगाः प्रचोदिताः ।
+वायु प्रविद्धाः शरदि मेघ राज्य इव अम्बरे ॥ २-९३-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सैनिकोंके खदेड़े हुए ये मृगोंके झुंड तीव्र वेगसे भागते हुए वैसी ही शोभा पा रहे हैं, जैसे शरत्-कालके आकाशमें हवासे उड़ाये गये बादलोंके समूह सुशोभित होते हैं ॥ १२ ॥
@@ -273,6 +535,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शरत्कालद आकाशदल्लि गाळियु हारिसिकॊण्डु होगुव मेघगळ समूहदन्तॆ सैनिकरु ओडिसुव मृगगळ गुम्पुगळु तीव्रवेगदिन्द ओडुत्तिरुवाग शोभिसुत्तिवॆ.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. ete* = these; *mR^igagaNaaH* = herds of antelopes;
+*shiighravegaaH* = having a rapid speed; *prachoditaaH* = as incited(by the troops);
+*bhaanti* = appear; *megharaajiriva* = like a mass of clouds;
+*vaayupraviddhaa* = driven before the wind; *ambare* = in the sky; *sharadi* =
+in autumn.
+
+**अनुवादः**
+
+"These herds of antelopes, having a rapid speed, as urged forward (by the troops)
+appear like a mass of clouds driven by the wind in the sky in antumn."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +570,12 @@ _________________
 मेघप्रकाशैः फलकैर्दाक्षिणात्या नरा यथा ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कुर्वन्ति कुसुम आपीडान् शिरह्सु सुरभीन् अमी ।
+मेघ प्रकाशैः फलकैर् दाक्षिणात्या यथा नराः ॥ २-९३-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ये सैनिक अथवा वृक्ष मेघके समान कान्तिवाली ढालोंसे उपलक्षित होनेवाले दक्षिण भारतीय मनुष्योंके समान अपने मस्तकों अथवा शाखाओंपर सुगन्धित पुष्प गुच्छमय आभूषणोंको धारण करते हैं ॥ १३ ॥
@@ -298,6 +584,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मोडगळन्तॆ हॊळॆयुव पुष्पगुच्छगळन्नु तलॆयल्लि हॊत्त ई वृक्षगळु, तलॆगळल्लि फलक (दुण्डाद) गळन्तॆ काणुव हॆरळुगळन्नु हूविन दण्डॆगळिन्द अलङ्करिसिकॊण्डिरुव दक्षिण देशद हॆङ्गसरन्तॆ काणुत्तिवॆ.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. amii* = these trees; *phalakaiH* = with their leaves;
+*megha prakaashaiH* = in multitude dazzling; *shirassu* = crowned; *surabhiin*
+= with fragrant; *kusuma piiDaan* = Chaplets of flowers; *naraaH yathaa* = resemble
+the people; *daakSinaatyaaH* = of the south.
+
+**अनुवादः**
+
+"Those tree, with their leaves in multitude dazzling, crowned with fragrant chaplets
+of flowers, resemble the people of the south."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,6 +613,12 @@ _________________
 
 निष्कूजमिव भूत्वेदं वनं घोरप्रदर्शनम् ।  
 अयोध्येव जनाकीर्णा सम्प्रति प्रतिभाति मे ॥ १४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+निष्कूजम् इव भूत्वा इदम् वनम् घोर प्रदर्शनम् ।
+अयोध्या इव जन आकीर्णा सम्प्रति प्रतिभाति मा ॥ २-९३-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -322,6 +631,23 @@ _________________
 मॊदलु ई वनवु निश्शब्दवाद कारण अत्यन्त भयङ्करवागि काणुत्तित्तु, आदरॆ अदे वनवु ईग नम्म जॊतॆगॆ बन्दिरुव जनरिन्द व्याप्तवागि ननगॆ अयोध्यॆयन्तॆ कण्डुबरुत्तिदॆ.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. idam vanam* = this forest; *bhuutvaa* = which was
+niSkuujaniva = silent; *ghora pradarshanam* = and wore a terrifying look (till now);
+*samprati* = now; *pratibhaati* = appears; *me* = to me; *ayodhyeva* =
+like Ayodhya; *janaakiirNaa* = swarming with people.
+
+**अनुवादः**
+
+"This forest, which was silent and wore a terrifying look till now, appears to me
+like Ayodhya, swarning with people."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खुरैरुदीरितो रेणुर्दिवं प्रच्छाद्य तिष्ठति ।  
@@ -332,6 +658,12 @@ _________________
 
 खुरैरुदीरितो रेणुर्दिवं प्रच्छाद्य तिष्ठति ।  
 तं वहत्यनिलः शीघ्रं कुर्वन्निव मम प्रियम् ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+खुरैर् उदीरितो रेणुर् दिवम् प्रग्च्छाद्य तिष्ठति ।
+तम् वहत्य् अनिलः शीघ्रम् कुर्वन्न् इव मम प्रियम् ॥ २-९३-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -344,6 +676,24 @@ _________________
 कुदुरॆगळ खुरपुटगळिन्द ऎद्दिरुव धूळु आकाशवन्नु मुच्चिबिडुत्तिदॆ, आदरॆ अदन्नु गाळियु ननगॆ प्रियवन्नुण्टु माडुत्ता अदन्नु शीघ्रवागि बेरॆडॆगॆ हारिसिकॊण्डु होगुत्तिदॆ.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. reNuH* = the dust; *udiiritaH* = raised; *khuraiH* =
+from the hooves of the horses; *prachchhaadya tiSThati* = blots out; *divam* = the
+heavens; *anilah* = but the winds; *tam vahati* = carries it away; *shiighram*
+= immediately; *kurvam iva* = as if to give; *mama* = me; *priyam* =
+pleasure.
+
+**अनुवादः**
+
+"The dust raised from the hooves of the horses blots out the heavens, but the wind
+carries it away immediately as if to give me pleasure."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्यन्दनांस्तुरगोपेतान् सूतमुख्यैरधिष्ठितान् ।  
@@ -356,6 +706,12 @@ _________________
 एतान् सम्पततः शीघ्रं पश्य शत्रुघ्न कानने ॥ १६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स्यन्दनामः तुरग उपेतान् सूत मुख्यैर् अधिष्ठितान् ।
+एतान् सम्पततः शीघ्रम् पश्य शत्रुघ्न कानने ॥ २-९३-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘शत्रुघ्न! देखो, इस वनमें घोड़ोंसे जुते हुए और श्रेष्ठ सारथियोंद्वारा संचालित हुए ये रथ कितनी शीघ्रतासे आगे बढ़ रहे हैं ॥ १६ ॥
@@ -364,6 +720,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुघ्न! नोडु, ई वनदल्लि कुदुरॆगळु हूडिद, श्रेष्ठ सारथिगळिन्द नडॆसुत्तिद्द ई रथगळु ऎष्टु वेगवागि मुन्दुवरियुत्तिवॆ.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. pashya* = Behold; *shatrughna* = O; Shatrughna!;
+*etaan* = these; *syandanaan* = chariots; *turagopetaan* = yoked with horses;
+*adhiSThitaan* = and mounted; *suutamukhyaiH* = by the chief charioteers;
+*sampatataH* = are rushing together; *shiighram* = rapidly; *kaanane* = in the
+forest.
+
+**अनुवादः**
+
+"Behold, O Shatrughna, these chariots yoked with horses and mounted by the chief
+charioteers are rushing together rapidly in the forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,6 +753,12 @@ _________________
 _________________
 एतान् वित्रासितान् पश्य बर्हिणः प्रियदर्शनान् ।  
 एवमापततः शैलमधिवासं पतत्रिणः ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एतान् वित्रासितान् पश्य बर्हिणः प्रिय दर्शनान् ।
+एतम् आविशतः शैलम् अधिवासम् पतत्रिणाम् ॥ २-९३-१७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -398,6 +778,12 @@ _________________
 तापसानां निवासोऽयं व्यक्तं स्वर्गपथोऽनघ ॥ १८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अतिमात्रम् अयम् देशो मनोज्नः प्रतिभाति मा ।
+तापसानाम् निवासो अयम् व्यक्तम् स्वर्ग पथो यथा ॥ २-९३-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘निष्पाप शत्रुघ्न! यह देश मुझे बड़ा ही मनोहर प्रतीत होता है । तपस्वी जनोंका यह निवासस्थान वास्तवमें स्वर्गीय पथ है ॥ १८ ॥
@@ -406,6 +792,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निष्पाप शत्रुघ्नने! ई देशवु ननगॆ बहळ मनोहरवागि कण्डु बरुत्तिदॆ. तपस्विगळ निवासस्थानवाद इदु निजवागि स्वर्गीय पथवे आगिदॆ.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. ayam deshaH* = this place; *pratibhaati* = is appearing;
+*atimaatram* = very much; *manojN^aH* = beautiful; *me* = to me; *svarga
+pathoyathaa* = Resembling in every way like a threshold of heaven; *ayam* = it;
+*vyaktam* = is clearly; *niraasaH* = an abode; *taapasaanaam* = of
+asceics.
+
+**अनुवादः**
+
+"This place to me is appearing very much lovely. Resembling in every way like a
+threshold of heaven, it is clearly an abode of ascetics."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +824,12 @@ _________________
 मनोज्ञरूपा लक्ष्यन्ते कुसुमैरिव चित्रिताः ॥ १९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मृगा मृगीभिः सहिता बहवः पृषता वने ।
+मनोज्न रूपा लक्ष्यन्ते कुसुमैर् इव चित्रितः ॥ २-९३-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस वनमें मृगियोंके साथ विचरनेवाले बहुत-से चितकबरे मृग ऐसे मनोहर दिखायी देते हैं, मानो इन्हें फूलोंसे चित्रित—सुसज्जित किया गया हो ॥ १९ ॥
@@ -428,6 +838,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई वनदल्लि हॆण्णु जिङ्कॆगळॊन्दिगॆ सञ्चरिसुव अनेक चुक्कॆगळिद्द जिङ्कॆगळु हूवुगळिन्द अलङ्करिसि चित्रितवागिसिदन्तॆ मनोहरवागि कण्डु बरुत्तिवॆ.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. vane* = In this forest; *bahavaH* = many;
+*vR^iSataaH* = dappled; *mR^igaaH* = deer; *sahitaaH* = with;
+*mR^igiibhiH* = their hinds; *manojJNaruupaaH* = endowed with enchanting forms;
+*lakSyante* = are seen; *chitritaa iva* = as if studded; *kusumaiH* = with
+flowers.
+
+**अनुवादः**
+
+"In this forest, many dappled deer with their hinds, endowed with enchanting forms,
+are seen as if studded with flowers."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +883,23 @@ _________________
 नन्न सैनिकरु यथोचितवागि मुन्दुवरिदु पुरुषसिंह श्रीरामलक्ष्मणरिब्बरू इरुव आश्रमवन्नु काडिनल्लॆल्ल हुडुकलि.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. sainyaaH* = (Let) the soldiers; *pratiSThantaam* = proceed;
+*saadhu* = well; *yathaa* = as; *vichinvantu cha* = to explore;
+*kaanane* = the woods; *dR^ishyate* = to find; *tau puruSa vyaaghrau* = those
+tigers among men; *raamalakSmaNau* = Rama and Lakshmana.
+
+**अनुवादः**
+
+"Let the soldiers proceed quickly to explore the woods to find those tigers among
+men, Rama and Lakshamana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्य वचः श्रुत्वा पुरुषाः शस्त्रपाणयः ।  
@@ -470,6 +915,12 @@ _________________
 विविशुस्तद्वनं शूरा धूमाग्रं ददृशुस्तुतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भरतस्य वचः श्रुत्वा पुरुषाः शस्त्र पाणयः ।
+विविशुः तद् वनम् शूरा धूमम् च ददृशुः ततः ॥ २-९३-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 भरतका यह वचन सुनकर बहुत-से शूरवीर पुरुषोंने हाथोंमें हथियार लेकर उस वनमें प्रवेश किया । तदनन्तर आगे जानेपर उन्हें कुछ दूरपर ऊपरको धुआँ उठता दिखायी दिया ॥ २१ ॥
@@ -478,6 +929,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतन मातन्नु केळि अनेक शूर-वीर पुरुषरु कैयल्लि आयुधगळन्नु हिडिदुकॊण्डु आ वनवन्नु प्रवेशिसिदरु. बळिक मुन्दॆ होदाग अवरिगॆ स्वल्प दूरदल्लि मेलक्केळुत्तिद्द हॊगॆयु काणिसितु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. shrutvaa* = hearing; *vachaH* = the words;
+*bharatasya* = of Bharata; *shuuraaH* = valiant; *puruSaaH* = men; *shastra
+paaNayaH* = wearing weapons in their hands; *vivishuH* = entered; *tat* = that;
+*vanam* = forest; *tataH* = and then; *dadhR^ishushcha* = also saw;
+*dhuumam* = and smoke.
+
+**अनुवादः**
+
+Hearing the words of Bharata, valiant men wearing weapons in their hands, penetrated
+into the forest suddenly they observed a plume of smoke rising.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +959,12 @@ _________________
 
 ते समालोक्य धूमाग्रमूचुर्भरतमागताः ।  
 नामनुष्ये भवत्यग्निर्व्यक्तमत्रैव राघवौ ॥ २२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ते समालोक्य धूम अग्रम् ऊचुर् भरतम् आगताः ।
+न अमनुष्ये भवत्य् अग्निर् व्यक्तम् अत्र एव राघवौ ॥ २-९३-२२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -502,6 +977,24 @@ _________________
 आ धूमशिखॆयन्नु नोडि अवरु मरळि बन्दु भरतनल्लि हेळिदरु - प्रभो! मनुष्यरिल्लद कडॆ हॊगॆ इरुवुदिल्ल. आद्दरिन्द श्रीराम लक्ष्मणरु खण्डितवागि इल्ले इरुवरु.॥22॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. samaalokya* = seeing; *dhuumaagram* = that spiral of smoke;
+*te* = they; *aagataaH* = returned; *bharatam* = to Bharata; *uuchuH* =
+and said; *na bhavati* = there can be no; *agniH* = fire; *amanuSye* = in a
+deserted place; *vyaktam* = Assuredly; *raaghavau* = Rama and Lakshmana;
+*atraiva* = are there.
+
+**अनुवादः**
+
+Seeing that spiral of smoke, they returned to bharata and said; "There can be no
+fire in a deserted place. Assuredly, Rama and Lakshmana are there."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ नात्र नरव्याघ्रौ राजपुत्रौ परन्तपौ ।  
@@ -512,6 +1005,12 @@ _________________
 
 अथ नात्र नरव्याघ्रौ राजपुत्रौ परन्तपौ ।  
 अन्ये रामोपमाः सन्ति व्यक्तमत्र तपस्विनः ॥ २३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अथ न अत्र नर व्याघ्रौ राज पुत्रौ परम् तपौ ।
+अन्ये राम उपमाः सन्ति व्यक्तम् अत्र तपस्विनः ॥ २-९३-२३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -524,6 +1023,24 @@ _________________
 परन्तपनाद पुरुषसिंह राजकुमाररु श्रीराम-लक्ष्मणरु इल्लि इल्लदिद्दरू, श्रीरामनन्तह तेजस्वी बेरॆ यारो तपस्विगळु अवश्यवागि इरुवरु.॥23॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. atha* = If it be; *na* = not; *naravyaaghrau* =
+those two tigers among men; *raajaputrau* = the two princes; *paramtapau* = the
+scourges of their foes; *atra* = here; *vyaktam* = obviously; *samti* = there
+are; *anye* = other; *tapasvinaH* = ascetics; *raamopamaaH* = like Rama;
+*atra* = here.
+
+**अनुवादः**
+
+"If it be not those two tigers among men, the two princes, the scourger of their
+foes here, obviously there are other ascetics like Rama here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भरतस्तेषां वचनं साधुसम्मतम् ।  
@@ -534,6 +1051,12 @@ _________________
 
 तच्छ्रुत्वा भरतस्तेषां वचनं साधुसम्मतम् ।  
 सैन्यानुवाच सर्वांस्तानमित्रबलमर्दनः ॥ २४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तत् श्रुत्वा भरतः तेषाम् वचनम् साधु सम्मतम् ।
+सैन्यान् उवाच सर्वामः तान् अमित्र बल मर्दनः ॥ २-९३-२४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -546,6 +1069,23 @@ _________________
 श्रेष्ठ पुरुषरु ऒप्पिकॊळ्ळुवन्तह अवर मातन्नु केळि शत्रुसैन्यवन्नु मर्दिसुव भरतनु आ समस्त सैनिकरल्लि हेळिदनु.॥24॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. shrttvaa* = hearing; *tat vachanam* = those words;
+*saadhu sammatam* = concurred even by pious men; *bharataH* = Bharata; *amitra
+bala mardanaH* = the destroyer of enemy's forces; *uvaacha* = spoke; *taan* =
+sarvaan sainyaan = to that entire army (as follows)
+
+**अनुवादः**
+
+Hearing those words concurred even by pious men, Bharata the destroyer of enemy's
+forces, spoke to the entire army (as follows)
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्ता भवन्तस्तिष्ठन्तु नेतो गन्तव्यमग्रतः ।  
@@ -556,6 +1096,12 @@ _________________
 
 यत्ता भवन्तस्तिष्ठन्तु नेतो गन्तव्यमग्रतः ।  
 अहमेव गमिष्यामि सुमन्त्रो धृतिरेव च ॥ २५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यत् ता भवन्तः तिष्ठन्तु न इतो गन्तव्यम् अग्रतः ।
+अहम् एव गमिष्यामि सुमन्त्रो गुरुर् एव च ॥ २-९३-२५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -568,6 +1114,24 @@ _________________
 नीवॆल्लरू ऎच्चरवागि इल्ले इरि. इल्लिन्द मुन्दॆ होगबेडि. ईग नानु सुमन्त्र मत्तु धृतियरॊन्दिगॆ अल्लिगॆ होगुवॆनु.॥25॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. 25. tiSThantu* = stay(here); *bhavantaH* = you;
+*yathaaH* = vigilantly; *na gantavyam* = do no proceed; *agrataH* = any
+further; *itaH* = from here; *aharneva* = I alone; *gamiSyaami* = will go;
+*sumantraH* = (along with) Sumantra; *dhR^itrireva cha* = and also my spiritual
+preceptor; Driti.
+
+**अनुवादः**
+
+"You stay here vigilantly. Do no proceed any further. I alone will go along with
+Sumantra and also Dhriti, my spiritual preceptor."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्ततः सैन्यास्तत्र तस्थुः समन्ततः ।  
@@ -578,6 +1142,12 @@ _________________
 
 एवमुक्तास्ततः सैन्यास्तत्र तस्थुः समन्ततः ।  
 भरतो यत्र धूमाग्रं तत्र दृष्टिं समादधत् ॥ २६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्ताः ततः सर्वे तत्र तस्थुः समन्ततः ।
+भरतो यत्र धूम अग्रम् तत्र दृष्टिम् समादधत् ॥ २-९३-२६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -590,6 +1160,24 @@ _________________
 अवन आज्ञॆयन्नु पडॆदु समस्त सैनिकरु अल्ले ऎल्लॆडॆ हरडिकॊण्डु निन्तुबिट्टरु. भरतनु हॊगॆ एळुत्तिरुव कडॆ तन्न दृष्टियन्नु स्थिरगॊळिसिदनु.॥26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. uktaaH* = spoken; *evam* = thus; *sarve* = all of
+them; *tasthuH* = stayed; *tatra* = there; *tataH* = then; (and);
+*bharataH* = Bharata; *dR^iSTim* = his gaze; *samaadadhaat* = fixed;
+*tatra* = there; *yatra* = where; *dhuumaagram* = there is column of
+smoke.
+
+**अनुवादः**
+
+On this command, all the troops halted there and Bharat with his gaze fixed on the
+column of smoke, went forward.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यवस्थिता या भरतेन सा चमू-  
@@ -606,6 +1194,14 @@ _________________
 प्रियस्य रामस्य समागमं तदा ॥ २७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+व्यवस्थिता या भरतेन सा चमूर् ।
+निरीक्षमाणा अपि च धूमम् अग्रतः ।
+बभूव हृष्टा नचिरेण जानती ।
+प्रियस्य रामस्य समागमम् तदा ॥ २-९३-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 भरतके द्वारा वहाँ ठहरायी गयी वह सेना आगेकी भूमिका निरीक्षण करती हुई भी वहाँ हर्षपूर्वक खड़ी रही; क्योंकि उस समय उसे मालूम हो गया था कि अब शीघ्र ही श्रीरामचन्द्रजीसे मिलनेका अवसर आनेवाला है ॥ १७ ॥
@@ -616,9 +1212,45 @@ _________________
 भरतनिन्द निल्लिसल्पट्ट आ सैन्यवु मुन्दिन जागवन्नु निरीक्षिसुत्ता अल्ले हर्षदिन्द निन्तुकॊण्डितु. एकॆन्दरॆ ईग शीघ्रवागिये श्रीरामचन्द्रनन्नु दर्शिसुव अवकाश बरुवुदु ऎन्दु अवरु तिळिदुकॊण्डरु.॥27॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. chaamuH* = the army; *yaa* = which; *vyaavasthitaa*
+= was ordered to remain(there); *bharatena* = by Bharata; *niriikSa maaNaapi* = even
+though perceiving bhuumi = the place; *agrataH* = before them; *babhuuva* = felt;
+*tadaa* = then; *hR^iSTaa* = rejoiced; *jaanatii* = in the thought;
+*samaagamam* = of return; *priyasya raamasya* = of their beloved Rama;
+*nachireNa* = soon.
+
+**अनुवादः**
+
+The army, which was held up there by Bharata, eventhough perceiving the place ahead,
+felt rejoiced in the thought of meeting their beloved Rama soon.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नोडलु प्रियवागिरुव ई नविलुगळन्नु नोडु, इवु नम्म सैनिकर भयदिन्द ऎष्टु अञ्जिकॊण्डिवॆ. हीगॆये तम्म वासस्थानवाद पर्वतद कडॆगॆ हारिहोगुव इतर पक्षिगळन्नु नोडु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. pashya* = behold; *etaan* = these; *barhiNaH* =
+peacocks; *patatriNaH* = and birds; *priya darshanaan* = which are pleasant to the
+sight; *vitraasitaan* = are frightedned; *aavishataH* = and are entering;
+*etam* = these; *adhivaasam* = dwelling places; *shiighram* = hastily.
+
+**अनुवादः**
+
+"Behold these peacocks and birds, which are pleasant to the sight, are frightened
+and are entering their dwelling places hastily."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -2,6 +2,17 @@
 title = "०२४ रामं प्रति कौसल्योपदेशः"
 title_english = "024 Rama obtains Kausalya s permission"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book II : Ayodhya Kanda - Book Of Ayodhya**
+
+In this chapter Kausalya requests Rama to take her to forest also. But Rama stops
+Kausalya saying that service of husband is the ultimate dharma of wife and he obtains her
+permission for him to go to forest.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-024-Ramasya_Kousalyopadeshaha.mp3"></div>
 </details>
@@ -23,6 +34,12 @@ title_english = "024 Rama obtains Kausalya s permission"
 कौसल्या बाष्पसंरुद्धा वचो धर्मिष्ठमब्रवीत् ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तम् समीक्ष्य तु अवहितम् पितुर् निर्देश पालने ।
+कौसल्या बाष्प सम्रुद्धा वचो धर्मिष्ठम् अब्रवीत् ॥ २-२४-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कौसल्याने जब देखा कि श्रीरामने पिताकी आज्ञाके पालनका ही दृढ़ निश्चय कर लिया है, तब वे आँसुओंसे रुँधी हुई गद्‍गद वाणीमें धर्मात्मा श्रीरामसे इस प्रकार बोलीं— ॥ १ ॥
@@ -31,6 +48,23 @@ title_english = "024 Rama obtains Kausalya s permission"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु पितृवाक्यपालनॆयल्ले दृढनिश्चयिसिरुवनु ऎन्दु नोडिदाग कौसल्यॆयु कण्णीर सुरिसुत्ता गद्गद वाणियिन्द श्रीरामनल्लि हीगॆ हेळिदळु.॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. samiikshhya* = seeing; *tam* = him; *avahatam* = firm
+minded; *nirdeshapaalane* = in protecting the command; *pituH* = of father;
+*bhaashhpa samruddaa* = in a choked voice; *abraviit* = spoke; *vachaH* =
+words; *dharmishhTham* = which are righteous.
+
+**अनुवादः**
+
+Seeing him firm minded in protecting the command of his father, Kausalya in a choked
+voice spoke these righteous words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -45,6 +79,12 @@ title_english = "024 Rama obtains Kausalya s permission"
 मयि जातो दशरथात् कथमुञ्छेन वर्तयेत् ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अदृष्ट दुह्खो धर्मात्मा सर्व भूत प्रियम् वदः ।
+मयि जातः दशरथात् कथम् उन्चेन वर्तयेत् ॥ २-२४-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हाय! जिसने जीवनमें कभी दुःख नहीं देखा है, जो समस्त प्राणियोंसे सदा प्रिय वचन बोलता है, जिसका जन्म महाराज दशरथसे मेरे द्वारा हुआ है, वह मेरा धर्मात्मा पुत्र उञ्छवृत्तिसे—खेतमें गिरे हुए अनाजके एक-एक दानेको बीनकर कैसे जीवन-निर्वाह कर सकेगा? ॥ २ ॥
@@ -53,6 +93,25 @@ title_english = "024 Rama obtains Kausalya s permission"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु! नीनु दुःखवन्ने अरियदवनु, धर्मात्मनु, सकल प्राणिगळ विषयदल्लियू प्रियवागि मातनाडुववनु, दशरथरिन्द नन्नल्लि हुट्टिरुव राजकुमारनागिरुवॆ. नीनिन्दु उञ्छवृत्तियिन्द (हॊलदल्लि बिद्दिरुव ऒन्दॊन्दु काळन्नु हॆक्कितन्दु जीवन निर्वाह माडुवुदु) हेगॆ जीविसुवॆ.॥2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. jaataH* = Rama who is born; *mayi* = in me;
+*dasharathaat* = and Dasharatha; *dharmaatmaa* = is a righteous person;
+*sarvabhuutapriyamvada* = who speaks lovingly to all beings; *adR^ishhTa duHkhah* =
+who has not seen sorrow ; *katham* = how; *vartayet* = can he live; *uNchena*
+= by gathering grains fallen on floor ?
+
+**अनुवादः**
+
+�Rama who is born in me and Dasaratha, is a righteous person. He speaks lovingly to
+all beings. He has not faced grief at any time. How can such a person live in a forest, by
+gathering grains ?'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,6 +129,12 @@ _________________
 कथं न भोक्ष्यते रामो वने मूलफलान्ययम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यस्य भृत्याः च दासाः च मृष्टानि अन्नानि भुन्जते ।
+कथम् स भोक्ष्यते नाथो वने मूल फलानि अयम् ॥ २-२४-३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिनके भृत्य और दास भी शुद्ध, स्वादिष्ट अन्न खाते हैं, वे ही श्रीराम वनमें फल-मूलका आहार कैसे करेंगे? ॥ ३ ॥
@@ -78,6 +143,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न भृत्यरु, दास-दासियरू कूड शुद्ध स्वादिष्टवागि भोजन माडुत्तारॆ. हीगिरुवाग अवरिगॆ ऒडॆयनाद नीनु वनदल्लि फल-मूलगळन्नु तिन्दु हेगॆ जीविसुवॆ.॥3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. yasya* = whose bhR^ityaashcha = dependants and;
+*daasaashcha* = servants bhuNJjate = eat; *mR^ishTaani* = pleasant or tasty annaani =
+foods ; *katham* = how ayam = such Rama naatha = the lord ; *bhokshhyate* = can eat
+muulaphalaani = roots and fruits vane = in forest ?
+
+**अनुवादः**
+
+"While the dependants and the servants of Lord Rama eat pleasant foods all the
+while, how can he eat roots and fruits himself in the forest ?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,6 +174,12 @@ _________________
 गुणवान् दयितो राज्ञः काकुत्स्थो यद् विवास्यते ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+क एतत् श्रद्दधेत् श्रुत्वा कस्य वा न भवेद् भयम् ।
+गुणवान् दयितः राज्ञो राघवो यद् विवास्यते ॥ २-२४-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो सद्‍गुणसम्पन्न और महाराज दशरथके प्रिय हैं, उन्हीं ककुत्स्थ-कुल-भूषण श्रीरामको जो वनवास दिया जा रहा है, इसे सुनकर कौन इसपर विश्वास करेगा? अथवा ऐसी बात सुनकर किसको भय नहीं होगा? ॥ ४ ॥
@@ -100,6 +188,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सद्गुणसम्पन्न मत्तु दशरथन प्रियपुत्र, ककुत्स्थ कुलभूषण श्रीरामनिगॆ विधिसिद वनवासवन्नु केळि यारु इदन्नु नम्बुवरु? अथवा इन्तह मातु केळि यारिगॆ ताने भयवागदु.॥4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. srutvaa* = hearing; *etat* = that; *raghavaH* = Rama;
+*dayitaH* = the beloved; *guNavaan* = the virtuous; *vivaasyate itivat* = is
+being sent to exile thus; *rajJNaa* = by king; *kaH* = who; *shraddadhet* =
+will believe ? kasyavaa = to whom; *bhayam* = fear; *nabhavet* = is not created ?
+
+**अनुवादः**
+
+"Hearing that Rama the beloved and virtuous is being thus sent to exile by the king
+, who will believe these words? Who will not develop fear ?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +224,12 @@ _________________
 लोके रामाभिरामस्त्वं वनं यत्र गमिष्यसि ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नूनम् तु बलवान् लोके कृतान्तः सर्वमादिशन् ।
+लोके रामाभिरामस्त्वम् वनम् यत्र गमिष्यसि ॥ २-२४-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीराम! निश्चय ही इस जगत् में दैव सबसे बड़ा बलवान् है । उसकी आज्ञा सबके ऊपर चलती है—वही सबको सुख-दुःखसे संयुक्त करता है; क्योंकि उसीके प्रभावमें आकर तुम्हारे-जैसा लोकप्रिय मनुष्य भी वनमें जानेको उद्यत है ॥ ५ ॥
@@ -127,6 +238,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! निश्चयवागि ई जगत्तिनल्लि दैववे ऎल्लरिगिन्त हॆच्चु बलवत्तरवागिदॆ. अवन आज्ञॆये ऎल्लर मेलॆ नडॆयुत्तदॆ. अवने सुख-दुःखगळन्नु तन्दिडुवनु; एकॆन्दरॆ अवन प्रभावक्कॆ ऒळगागिये निन्नन्तह लोकप्रिय मनुष्यनू कूड काडिगॆ होगलु हॊरटिरुवॆ.॥5॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. raamaH* = oh; *Rama ! tvam* = you; *loke abhiraamaH*
+= the charming in the world; *yatra gamishhyati* = that you are going ; *vanam* = to
+forest; *sarvam* = everything; *aadishan* = is ordered by; *kR^itaantaH* =
+destiny; *nunaam* = certainly; *balavaan* = having ;strength .
+
+**अनुवादः**
+
+�Oh, Rama ! If you , the charming in the world are to go to exile , then it can be
+certainly said that everything is ordered by a strong destiny'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,6 +290,16 @@ _________________
 प्रधक्ष्यति यथा कक्षं चित्रभानुर्हिमात्यये ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अयम् तु मामात्मभवस्तवादर्शनमारुतः ।
+विलापदुःखसमिधो रुदिताश्रुहुताहुतिः ॥ २-२४-६
+चिन्ताबाष्पमहाधूस्तवागमनचिन्तजः ।
+कर्शयित्वा भृशम् पुत्र निश्वासायाससम्भवः ॥ २-२४-७
+त्वया विहीनाम् इह माम् शोक अग्निर् अतुलो महान् ।
+प्रधक्ष्यति यथा कक्षम् चित्र भानुर् हिम अत्यये ॥ २-२४-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘परंतु बेटा! तुमसे बिछुड़ जानेपर यहाँ मुझे शोककी अनुपम एवं बहुत बढ़ी हुई आग उसी तरह जलाकर भस्म कर डालेगी, जैसे ग्रीष्मऋतुमें दावानल सूखी लकड़ियों और घास-फूसको जला डालता है । शोककी यह आग मेरे अपने ही मनमें प्रकट हुई है । तुम्हें न देख पानेकी सम्भावना ही वायु बनकर इस अग्निको उद्दीप्त कर रही है । विलापजनित दुःख ही इसमें ईंधनका काम कर रहे हैं । रोनेसे जो अश्रुपात होते हैं, वे ही मानो इसमें दी हुई घीकी आहुति हैं । चिन्ताके कारण जो गरम-गरम उच्छ्वास उठ रहा है, वही इसका महान् धूम है । तुम दूर देशमें जाकर फिर किस तरह आओगे—इस प्रकारकी चिंता ही इस शोकाग्निको जन्म दे रही है । साँस लेनेका जो प्रयत्न है, उसीसे इस आगकी प्रतिक्षण वृद्धि हो रही है । तुम्हीं इसे बुझानेके लिये जल हो । तुम्हारे बिना यह आग मुझे अधिक सुखाकर जला डालेगी ॥ ६—८ ॥
@@ -170,6 +308,34 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ मगु! निन्निन्द अगलिद बळिक इल्लि नन्नन्नु शोकद अनुपम हागू धगधगनॆ उरियुत्तिरुव बॆङ्कियु - ग्रीष्मऋतुविनल्लि दावानलवु कट्टिगॆ मत्तु हुल्लन्नु सुट्टुबिडुवन्तॆ, बूदिमाडि बिडुवुदु. ई शोकाग्नियु नन्न मनस्सिनल्ले प्रकटगॊण्डिदॆ. निन्नन्नु नोडदिरुव वायुवे ई अग्नियन्नु उद्दीपनगॊळिसुवुदु. विलापजनित दुःखवे इदरल्लि कट्टिगॆगळु. कण्णुगळिन्द हरियुव कण्णीरे इदरल्लि कॊडुव आहुतिगळु. चिन्तॆयिन्द बिडुव बिसिय उसिरे इदर हॊगॆयागिदॆ. नीनु दूर देशक्कॆ होगि मत्तॆ हेगॆ बरुवॆ? ऎम्ब चिन्तॆये ई शोकाग्निगॆ जन्मनीडुत्तिदॆ. उसिराडुव प्रयत्नदिन्दले ई बॆङ्कियु प्रतिक्षण वृद्धियागुत्ता इदॆ. इदन्नु आरिसलु नीने नीरु आगिरुवॆ. नीनिल्लदॆ ई बॆङ्कियु नन्नन्नु ऒणगिसि सुट्टुबिडुवुदु.॥6-8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6;7;8. kumaaraa* = Oh; *Son ! ayam shokaagni* = this fire of my
+sorrow; *atulaH* = which is unique; *mahaan* = great ; *aatmabhavaaH* = which
+is originating in the whole body; *tava adarshana maarutaH* = having wind of your not being
+seen; *vilaapa duHkha samidhaH* = having fire - twigs of lamentation and grief;
+*ruditaashru hutaahutiH* = having offering of wailing tears as oblation to fire ;
+*chinthaa bhaashpa mahaa dhumaaH* = having great smoke of choking caused by anxiety ;
+*tavaa aagamana chinthajaH* = generated out of the thought of your return ;
+*nishvaasaayasa sambhavaH* = created out of sigh and fatigue; *maam karshayitvaa* =
+makes me emaciated; *bhR^isham* = much; *iha* = here; *vihiinaam* = isolated;
+*tvayaa* = with you; *pradhakshhyati* = can burn; *kakshham yathaa* = like dry
+wood ; *chitra bhaanuH* = by fire ; *himaatyaye* = in winter .'
+
+**अनुवादः**
+
+"Oh, Son! Soon after your departure to a distant forest, a great and incomparable
+fire of sorrow will generate in my whole body. The wind which flares it up is your not being seen
+here. My lamentation and grief are the fire-sticks. My wailing tears will be the offerings as an
+oblation to fire. The choking and anxiety will be a great smoke .The thought that when you would
+return, will generate smoke again. Such a fire of grief will make me emaciated completely and will
+burn like dry wood by fire in winter.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,6 +348,12 @@ _________________
 
 कथं हि धेनुः स्वं वत्सं गच्छन्तमनुगच्छति ।  
 अहं त्वानुगमिष्यामि यत्र वत्स गमिष्यसि ॥ ९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कथम् हि धेनुः स्वम् वत्सम् गच्चन्तम् न अनुगच्चति ।
+अहम् त्वा अनुगमिष्यामि यत्र पुत्र गमिष्यसि ॥ २-२४-९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -194,6 +366,23 @@ _________________
 वत्स! तन्न करुवु मुन्दॆ होगुत्तिरुवुदन्नु नोडि हसुवु अदर हिन्दॆ-हिन्दॆ होगुवन्तॆये नानू नीनु होगुवल्लिगॆ निन्न हिन्दॆ-हिन्दॆ बरुत्तेनॆ.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. putraH* = Oh; Son; *kathamhi* = how indeed; *dhenuH*
+= a cow; *naanugachhati* = will not follow; *svam vatsam* = its calf;
+*gachhantam* = going ? aham = I; *anugamishhyaami* = shall follow; *yatra* =
+where; *tvaa* = you; *gamishhyaasi* = will go."
+
+**अनुवादः**
+
+"Oh, Son! A cow follows its calf wherever it goes. So also, I shall come with you
+wherever you go."'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा निगदितं मात्रा तद् वाक्यं पुरुषर्षभः ।  
@@ -204,6 +393,13 @@ _________________
 
 यथा निगदितं मात्रा तद् वाक्यं पुरुषर्षभः ।  
 श्रुत्वा रामोऽब्रवीद् वाक्यं मातरं भृशदुःखिताम् ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तथा निगदितम् मात्रा तत् वाक्यम् पुरुष ऱ्षभः ।
+श्रुत्वा रामः अब्रवीद् वाक्यम् मातरम् भृश दुह्खिताम् ॥
+२-२४-१०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -216,6 +412,22 @@ _________________
 मातॆ कौसल्यॆयु हेळिदुदन्नु केळि पुरषोत्तम श्रीरामनु अत्यन्त दुःखदल्लि मुळुगिद्द तन्न तायियल्लि पुनः हेळिदनु.॥10॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. raajaa* = king; *vaNch^itaH* = deceived; *kaikeyyaa*
+= by Kaikeyi; *mayi* = I ; *aashrite* = having recourse to; *araNyam* =
+forest; *parityaktaH* = abandoned; *bhavatyaapi* = by you also; *na
+vartayishhyati* = he will not be alive; *nuunam* = certain."
+
+**अनुवादः**
+
+"Oh, son! A cow follows its calf wherever it goes. So also, I shall come with you wherever you go."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या वञ्चितो राजा मयि चारण्यमाश्रिते ।  
@@ -226,6 +438,12 @@ _________________
 
 कैकेय्या वञ्चितो राजा मयि चारण्यमाश्रिते ।  
 भवत्या च परित्यक्तो न नूनं वर्तयिष्यति ॥ ११ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कैकेय्या वन्चितः राजा मयि च अरण्यम् आश्रिते ।
+भवत्या च परित्यक्तः न नूनम् वर्तयिष्यति ॥ २-२४-११
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,6 +456,23 @@ _________________
 अम्मा! कैकॆयियिन्द राजनु वञ्चितनागिरुवनु. इत्त नानू काडिगॆ होगुत्तिद्देनॆ. इन्तह स्थितियल्लि नीनू अवनन्नु परित्यजिसिदरॆ निश्चयवागि अवनु बदुकिरलारनु.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. raajaa* = king; *vaNch^itaH* = deceived; *kaikeyyaa*
+= by Kaikeyi; *mayi* = I ; *aashrite* = having recourse to; *araNyam* =
+forest; *parityaktaH* = abandoned; *bhavatyaapi* = by you also; *na
+vartayishhyati* = he will not be alive; *nuunam* = certain !'
+
+**अनुवादः**
+
+"Kaikeyi already deceived the king .He will not be alive, when I leave for the
+forest and you also leave him .It is certain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुः किल परित्यागो नृशंसः केवलं स्त्रियाः ।  
@@ -250,6 +485,12 @@ _________________
 स भवत्या न कर्तव्यो मनसापि विगर्हितः ॥ १२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भर्तुः किल परित्यागो नृशंसः केवलम् स्त्रियाः ।
+स भवत्या न कर्तव्यो मनसा अपि विगर्हितः ॥ २-२४-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पतिका परित्याग नारीके लिये बड़ा ही क्रूरतापूर्ण कर्म है । सत्पुरुषोंने इसकी बड़ी निन्दा की है; अतः तुम्हें तो ऐसी बात कभी मनमें भी नहीं लानी चाहिये ॥ १२ ॥
@@ -258,6 +499,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पतियन्नु त्यजिसुवुदु हॆण्णिगॆ बहळ दॊड्ड क्रूर कर्मवागिदॆ. सत्पुरुषरु इदन्नु निन्दिसिरुवरु; आद्दरिन्द नीनु इन्तह मातन्नु ऎन्दू मनस्सिगू तरबारदु.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. striyaaH* = to a woman; *parityaagaH* = abandonment;
+*bhartuH* = of husband; *nR^ishamsaH kila* = is indeed cruel act; *kevalam* =
+entirely; *saH* = that; *vigarhitaH* = bad act; *na KartavyaH* = is not to be
+done; *bhavatyaa* = by you; *manasaapi* = even by mind.
+
+**अनुवादः**
+
+"To a woman, abandonment of husband is entirely a cruel act. That bad act is not to
+be perceived even by mind."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,6 +540,23 @@ _________________
 नम्म तन्दॆ ककुत्स्थकुलभूषण महाराजरु जीवन्तवागिरुववरॆगॆ नीनु अवन सेवॆ माडबेकु. पतिय सेवॆये स्त्रीयरिगॆ सनातन धर्मवागिदॆ.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. yaavat* = Till which time; *kaakutsaH* = Dasaratha; *me
+pitaa* = my father; *jagatiipatiH* = the lord of earth; *jiivati* = is alive;
+*tavaat* = till such time; *kriyataam shushruushaa* = he ;should be served;
+*saH* = that ; *SanaatanaH dharmaH hi* = is indeed eternal justice .'
+
+**अनुवादः**
+
+"Till Dasaratha, my father and the great king is alive, you should serve him well.
+It is eternal justice."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु रामेण  
@@ -296,6 +571,12 @@ _________________
 तथेत्युवाच सुप्रीता राममक्लिष्टकारिणम् ॥ १४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्ता तु रामेण कौसल्या शुभ दर्शना ।
+तथा इति उवाच सुप्रीता रामम् अक्लिष्ट कारिणम् ॥ २-२४-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामके ऐसा कहनेपर शुभ कर्मोंपर दृष्टि रखनेवाली देवी कौसल्याने अत्यन्त प्रसन्न होकर अनायास ही महान् कर्म करनेवाले श्रीरामसे कहा—‘अच्छा बेटा! ऐसा ही करूँगी’ ॥ १४ ॥
@@ -304,6 +585,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु हीगॆ हेळिदाग शुभकर्मगळन्नु नोडुव देवी कौसल्यॆयु अत्यन्त प्रसन्नळागि आयासविल्लदॆ महाकर्म माडुव श्रीरामनल्लि- ‘सरि, हागे माडुवॆनु’ ऎन्दु हेळिदळु.॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. evam* = thus; *uktaa* = spoken; *raameva* = by Rama;
+*kausalyaa* = kausalya; *shubhadarshanaa* = with auspicious appearance;
+*supriitaa* = is very much pleased ; *uvaacha* = spoke; *raama* = to Rama;
+*aklishhTakaariNam* = who performs undefatigable actions; *tatheti* = showing
+concurrance.
+
+**अनुवादः**
+
+After Rama spoke thus, Kausalya with auspicious appearance, was very much pleased
+and spoke to Rama, who performs indefatigable actions, in consent.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +619,12 @@ _________________
 भूयस्तामब्रवीद् वाक्यं मातरं भृशदुःखिताम् ॥ १५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्तः तु वचनम् रामः धर्मभ्ऱ्ताम् वरः ।
+भूयः ताम् अब्रवीद् वाक्यम् मातरम् भृश दुह्खिताम् ॥ २-२४-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 माँके इस प्रकार स्वीकृतिसूचक बात कहनेपर धर्मात्माओंमें श्रेष्ठ श्रीरामने अत्यन्त दुःखमें पड़ी हुई अपनी मातासे पुनः इस प्रकार कहा— ॥ १५ ॥
@@ -328,6 +633,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तायियु हीगॆ स्वीकृतिसूचक मातन्नु हेळिदाग धर्मात्मरल्लि श्रेष्ठनाद श्रीरामनु अत्यन्त दुःखितॆयाद मातॆयल्लि पुनः हीगॆ हेळिदनु.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. raamaH* = Rama; *dharmabhR^itaam varaH* = the best among
+upholders of righteousness; *uktaH* = having been spoken; *evam* = thus ;
+*vachanam* = the words; *abraviit* = spoke; *bhuuyaH* = again; *taa
+maataram* = to that mother; *bhR^isha duHKhitaam* = who was very much distressed .
+
+**अनुवादः**
+
+That Rama, the best among upholders of righteousness, after hearing the words of his
+mother ,spoke again to her who was very much distressed.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +666,12 @@ _________________
 राजा भर्ता गुरुः श्रेष्ठः सर्वेषामीश्वरः प्रभुः ॥ १६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मया चैव भवत्या च कर्तव्यम् वचनम् पितुः ।
+राजा भर्ता गुरुः श्रेष्ठः सर्वेषाम् ईश्वरः प्रभुः ॥ २-२४-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘माँ! पिताजीकी आज्ञाका पालन करना मेरा और तुम्हारा—दोनोंका कर्तव्य है; क्योंकि राजा हम सब लोगोंके स्वामी, श्रेष्ठ गुरु, ईश्वर एवं प्रभु हैं ॥ १६ ॥
@@ -352,6 +680,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अम्मा! तन्दॆय आज्ञॆयन्नु पालिसुवुदु ननगॆ मत्तु निनगॆ इब्बरिगू कर्तव्यवागिदॆ; एकॆन्दरॆ राजनु नम्मॆल्लरिगॆ स्वामि, श्रेष्ठ गुरु, देवरु हागू ऒडॆयनागिद्दानॆ.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. vachanam* = words; *pituH* = of father; *kartavyam*
+= are fit to be done; *mayaachaiva* = by me; *bhavatyaacha* = and by you;
+*sarveshhaam* = for all; *raajaa* = king; *bhartaa* = nourisher;
+*guruH* = venerable man; *shreshhTaH* = the best man; *iishvaraH* = lord;
+*prabhuH* = ruler.'
+
+**अनुवादः**
+
+"The words of father are to be followed by you and me. For all, he is the king, the
+nourished, a venerable man, the best among men, the lord and the ruler."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +714,12 @@ _________________
 वर्षाणि परमप्रीत्या स्थास्यामि वचने तव ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इमानि तु महा अरण्ये विह्ऱ्त्य नव पन्च च ।
+वर्षाणि परम प्रीतः स्थास्यामि वचने तव ॥ २-२४-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इन चौदह वर्षोंतक मैं विशाल वनमें घूम-फिरकर लौट आऊँगा और बड़े प्रेमसे तुम्हारी आज्ञाका पालन करता रहूँगा’ ॥ १७ ॥
@@ -376,6 +728,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई हदिनाल्कु वर्ष नानु विशालवनदल्लि सुत्ताडि मरळि बन्दु प्रेमदिन्द निन्न आज्ञॆयन्नु पालिसुवॆनु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. "vihR^itya* = after roaming; *mahaaraNye* = in great
+forest; *imaani* = these; *nava paNchacha* = fourteen; *varshhaaNi* = years;
+*sthaasyaami* = I shall stand by; *tava* = your; *vachane* = words; *parama
+priitaH* = very gladly".
+
+**अनुवादः**
+
+"After roaming in the great forest for fourteen years, I shall come back and very
+gladly stand by your command."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +761,12 @@ _________________
 उवाच परमार्ता तु कौसल्या सुतवत्सला ॥ १८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्ता प्रियम् पुत्रम् बाष्प पूर्ण आनना तदा ।
+उवाच परम आर्ता तु कौसल्या पुत्र वत्सला ॥ २-२४-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनके ऐसा कहनेपर पुत्रवत्सला कौसल्याके मुखपर पुनः आँसुओंकी धारा बह चली । वे उस समय अत्यन्त आर्त होकर अपने प्रिय पुत्रसे बोलीं— ॥ १८ ॥
@@ -400,6 +775,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु हीगॆ हेळिदाग पुत्रवत्सलॆ कौसल्यॆय मुखदल्लि पुनः कण्णीर कोडिये हरियितु. आकॆ अत्यन्त आर्तळागि तन्न प्रियपुत्रनल्लि इन्तॆन्दळु.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. tadaa* = then; *kausalyaa* = Kausalya; *putra
+vatsalaa* = who is affectionate to her son; *uktaa* = having been spoken; *ivam*
+= thus; *uvaacha* = spoke; *priyam putram* = to beloved son;
+*bhaashhpapuurNaananaa* = with her face ;filled with tears; *paramaartaa* = in great
+sorrow .
+
+**अनुवादः**
+
+After hearing the words of Rama, Kausalya who was affectionate to her son , was in
+great sorrow with her face filled with tears and spoke thus to her beloved son Rama .
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +813,13 @@ _________________
 यदि ते गमने बुद्धिः कृता पितुरपेक्षया ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+आसाम् राम सपत्नीनाम् वस्तुम् मध्ये न मे क्षमम् ।
+नय माम् अपि काकुत्स्थ वनम् वन्यम् म्ऱ्गीम् यथा ॥ २-२४-१९
+यदि ते गमने बुद्धिः कृता पितुर् अपेक्षया ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘बेटा राम! अब मुझसे इन सौतोंके बीचमें नहीं रहा जायगा । काकुत्स्थ! यदि पिताकी आज्ञाका पालन करनेकी इच्छासे तुमने वनमें जानेका ही निश्चय किया है तो मुझे भी वनवासिनी हरिणीकी भाँति वनमें ही ले चलो’ ॥ १९ १/२ ॥
@@ -428,6 +828,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु रामा! ई सवतियर नडुवॆ नन्निन्द इरलागदु. काकुत्स्थने! पितृवाक्यपरिपालनॆ माडुव इच्छॆयिन्द नीनु काडिगॆ होगुवुदन्नु निश्चयिसिरुवॆयादरॆ नन्नन्नू कूड वनवासिनी हॆण्णु जिङ्कॆयन्तॆ काडिगॆ करॆदुकॊण्डु होगु.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. "ramaa* = Oh; *Rama! na khhamam* = it is not capable;
+*me* = of me; *vastum* = to reside; *madhye* = in the middle of;
+*aasaam* = these; *sapathniinaam* = step wives; *kaakutthsa* = oh; *Rama !
+kR^itaayadi* = If it is made; *te buddhiH* = of your mind; *gamane* = to go to
+forest; *apekshhayaa* = by wish; *pituH* = of father ; *naya* = take;
+*maamapi* = also me; *mR^igiim yathaa* = like female deer vanyaam = belonging to
+forest; *vanam* = to forest"
+
+**अनुवादः**
+
+"Oh, Rama! I can not reside in the middle of these step-wives. If you have made up
+your mind to go to forest as per your father's wish ,also take me, like taking a female deer of the
+forest ,to the woods ''
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +863,14 @@ _________________
 तां तथा रुदतीं रामो रुदन् वचनमब्रवीत् ॥ २० ॥  
 जीवन्त्या हि स्त्रिया भर्ता दैवतं प्रभुरेव च ।  
 भवत्या मम चैवाद्य राजा प्रभवति प्रभुः ॥ २१ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ताम् तथा रुदतीम् रामः रुदन् वचनम् अब्रवीत् ॥ २-२४-२०
+जीवन्त्या हि स्त्रिया भर्ता दैवतम् प्रभुर् एव च ।
+भवत्या मम चैवाद्य राजा प्रभवति प्रभुः ।।२-२४-२१
+न ह्यनाथा वयं राज्ज्ञा लोकनाथेन धीम ता ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -454,6 +883,42 @@ _________________
 हीगॆ हेळि कौसल्यॆयु अळतॊडगिदळु. आकॆयु हीगॆ अळुत्तिरुवुदन्नु कण्डु श्रीरामनू कूड अत्तुबिट्टनु हागू आकॆयन्नु समाधानपडिसुत्ता हेळिदनु - अम्मा! स्त्रीयु बदुकिरुवाग आकॆय पतिये आकॆगॆ देवरन्तॆ इद्दानॆ. महाराजरु निनगॆ मत्तु ननगॆ स्वामियागिरुवरु.॥20-21॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. "raajaa* = king Dasaratha; *prabhuH* = the supreme
+commander; *adya* = now; *prabhavati* = has authority; *bhavatya* = over you;
+*mamacha* = and me also ; *vayam* = we; *nahi anaathaaH* = are not indeed
+without master; *raajJNaa* = by way of king ; *lokanaathena* = lord of the earth
+dhiimataa = the wise man''.
+
+**अनुवादः**
+
+"King Dasaratha, supreme commander has authority over you and me also now. when
+king, the lord of the earth and the wise man is there , we are not indeed master-less.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. ramaaH* = Rama; *abraviit* = spoke ; *tathaa* =
+thus; *vachanam* = these words; *rudan* = bemoaningly; *taan* = to her;
+*rudatiim* = who was weeping; *stryaaH* = to woman; *jiivantyaaH* = who is
+living; *bhartaa* = husband; *daivatam* = is god; *prabhurevacha* = and
+master.
+
+**अनुवादः**
+
+"Rama spoke thus these words bemoaningly to her, who was weeping= "as long as a
+woman is alive ,her husband is god and master to her".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्यनाथा वयं राज्ञा लोकनाथेन धीमता ।  
@@ -468,6 +933,12 @@ _________________
 भवतीमनुवर्तेत स हि धर्मरतः सदा ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भरतश्चापि धर्मात्मा सर्वभूतप्रियंवदः ।।२-२४-२२
+भवतीमनुवर्तेत स हिधर्मरतः सदा ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जबतक बुद्धिमान् जगदीश्वर महाराज दशरथ जीवित हैं, तबतक हमें अपनेको अनाथ नहीं समझना चाहिये । भरत भी बड़े धर्मात्मा हैं । वे समस्त प्राणियोंके प्रति प्रिय वचन बोलनेवाले और सदा ही धर्ममें तत्पर रहनेवाले हैं; अतः वे तुम्हारा अनुसरण—तुम्हारी सेवा करेंगे ॥ २२ १/२ ॥
@@ -476,6 +947,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बुद्धिवन्त जगदीश्वर महाराजरु जीविसि इरुववरॆगॆ नम्मन्नु नावु अनाथरॆन्दु तिळियबारदु. भरतनू बहळ धर्मात्मनागिरुवनु. अवनु समस्त प्राणिगळ कुरितु प्रियवागि मातनाडुववनू, सदा धर्मतत्परनू आगिद्दानॆ. आद्दरिन्द अवनु निन्नन्नु अनुसरिसि, निन्न सेवॆ माडुवनु.॥22॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. bharatashchaapi* = Bharata also; *dharmaatmaa* = who is a
+righteous person; *sarva bhuuta priyamvadaH* = who speaks lovingly to all beings ;
+*anuvarteta* = will be obliging ; *bhavatiim* = to you ; *saH* = He ;
+*sadaa* = always; *dharmarataH hi* = indeed is devoted to righteousness ."
+
+**अनुवादः**
+
+"Bharata also, who is a righteous person and who speaks lovingly to all beings will
+be obliging to you. He is indeed always devoted to righteousness.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +980,12 @@ _________________
 श्रमं नावाप्नुयात् किञ्चिदप्रमत्ता तथा कुरु ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यथा मयि तु निष्क्रान्ते पुत्रशोकेन पार्थिवः ॥ २-२४-२३
+श्रमम् न अवाप्नुयात् किंचित् अप्रमत्ता तथा कुरु ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरे चले जानेपर जिस तरह भी महाराजको पुत्रशोकके कारण कोई विशेष कष्ट न हो, तुम सावधानीके साथ वैसा ही प्रयत्न करना ॥ २३ १/२ ॥
@@ -500,6 +994,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु हॊरटुहोदाग याव रीतियिन्दलू महाराजरिगॆ पुत्रशोकदिन्दागि विशेष कष्टवागदन्तॆ नीनु ऎच्चरिकॆयिन्द प्रयत्न माडबेकु.॥23½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. mayi nishhkraante* = while I take leave; *yathaa* = how ;
+*paarthivaH* = the king; *na avaapnuyaat* = will not get; *kinchit* = even a
+little ; *shrmam* = fatigue; *putra shokena* = with grief over the son;
+*tathaa* = in that manner; *kuru* = act; *apramattaa* = attentively ."
+
+**अनुवादः**
+
+"While I take leave, take care of the king attentively so that he will not get
+fatigued even a little with grief over his son."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +1035,23 @@ _________________
 ई दारुणशोकवु इवर जीवनलीलॆये समाप्तवागुवन्तॆ आगदिरलि. याव रीतियिन्दलादरू नीनु सदा जागरूकळागिद्दु मुदुक तन्दॆय हितसाधनॆयल्लि तॊडगिरबेकु.॥24½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. yathaa* = how; *ayam shokaH* = this grief;
+*daaruNaH* = which is terrible; *na vinaashayet* = will not destroy in that way;
+*evam* = him ; *chara* = act; *satatam* = always; *samaahitaa* =
+soothingly; *hitam* = well being; *raajJNaH* = of king vR^iddhasya = who is aged'
+
+**अनुवादः**
+
+"Act always soothingly for a well-being of the aged king, seeing that his terrible
+grief will not destroy him ."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रतोपवासनिरता या नारी परमोत्तमा ॥ २५ ॥  
@@ -536,6 +1064,12 @@ _________________
 भर्तारं नानुवर्तेत सा च पापगतिर्भवेत् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+व्रत उपवास निरता या नारी परम उत्तमा ॥ २-२४-२५
+भर्तारम् न अनुवर्तेत सा च पाप गतिर् भवेत् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उत्कृष्ट गुण और जाति आदिकी दृष्टिसे परम उत्तम तथा व्रत-उपवासमें तत्पर होकर भी जो नारी पतिकी सेवा नहीं करती है, उसे पापियोंको मिलनेवाली गति (नरक आदि)- की प्राप्ति होती है ॥ २५ १/२ ॥
@@ -544,6 +1078,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 उत्कृष्ट गुण मत्तु जातिय दृष्टियिन्द परमोत्तम व्रत-उपवासगळल्लि तत्परळागिद्दरू पतिय सेवॆ माडदिरुव नारिगॆ पापिगळिगॆ सिगुव गति (नरकादिगळु) प्राप्तवागुत्तवॆ.॥25½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. �yaa naarii* = which woman vratopavaasanirataa = who is interested
+in voes and fastings paramothamaa = being the best of the excellent; *naanuvarateta* = will
+not attend to bhartaaram = husband saa = she; *bhavet* = will become papagatiH =
+ill-fated.'
+
+**अनुवादः**
+
+�Even if a woman is interested in religious vows and fastings in addition to being
+the best of the excellent ;if she does not obey her husband she will become ill-fated !''
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +1119,24 @@ _________________
 इतर देवतॆगळ वन्दनॆ-पूजॆयिन्द दूरविरुव स्त्रीयू कूड केवल पतिय सेवाव्रतदिन्द उत्तम स्वर्गलोकवन्नु पडॆयुवळु.॥26½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. yaa* = which woman; *nivR^ittaa* = abstains from ; *deva
+puujanaat* = worship of gods; *nirnamaskaaraa* = does not offer salutation such ;
+*naariiapi* = woman also; *labhate* = will attain ; *uttamam* = highest ;
+*svargam* = heaven ; *shushrushhayaa* = by service; *bhartuH* = to husband
+''.
+
+**अनुवादः**
+
+�Even if a woman does not offer salutation to celestials and does not worship the
+gods, she will attain the highest heaven by service to her husband ."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रूषामेव कुर्वीत भर्तुः प्रियहिते रता ॥ २७ ॥  
@@ -578,6 +1147,12 @@ _________________
 
 शुश्रूषामेव कुर्वीत भर्तुः प्रियहिते रता ॥ २७ ॥  
 एष धर्मः स्त्रिया नित्यो वेदे लोके श्रुतः स्मृतः ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+शुश्रूषम् एव कुर्वीत भर्तुः प्रिय हिते रता ॥ २-२४-२७
+एष धर्मः पुरा द्ऱ्ष्टः लोके वेदे श्रुतः स्म्ऱ्तः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -590,6 +1165,24 @@ _________________
 आद्दरिन्द नारियु पतिय प्रिय हागू हित साधनॆयल्ले तत्परळागिद्दु सदा अवन सेवॆयन्ने माडुवुदु स्त्रीगॆ वेद मत्तु लोकदल्लि प्रसिद्ध सनातन धर्मवागिदॆ. इदन्ने श्रुति-स्मृतिगळु वर्णिसिवॆ.॥27½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. �rataa* = devoted in priyahite = love and welfare bhartuH of
+husband kurviita = she has to do sushruushhameva = service truly eshhaH = This dR^ishhTaH = is seen
+loke = in the world pure = before ; *shrutaH* = was heard vede = in Vedas (ancient texts)
+smR^itaH = was told as dharmaH = righteousness.'
+
+**अनुवादः**
+
+�She has to do service, truly devoted in love and welfare of her husband. This is
+seen in the world from the beginning, was heard from ancient texts and mentioned as
+righteousness.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निकार्येषु च सदा सुमनोभिश्च देवताः ॥ २८ ॥  
@@ -602,6 +1195,12 @@ _________________
 पूज्यास्ते मत्कृते देवि ब्राह्मणाश्चैव सत्कृताः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अग्निकार्येषु च सदा सुमनोभिश्च देवताः ॥ २-२४-२८
+पूज्याः ते मत् क्ऱ्ते देवि ब्राह्मणाः चैव सुव्रताः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देवि! तुम्हें मेरी मङ्गल-कामनासे सदा अग्निहोत्रके अवसरोंपर पुष्पोंसे देवताओंका तथा सत्कारपूर्वक ब्राह्मणोंका भी पूजन करते रहना चाहिये ॥ २८ १/२ ॥
@@ -610,6 +1209,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! नीनु नन्न मङ्गल कामनॆयिन्द सदा अग्निहोत्रद सन्दर्भ पुष्पगळिन्द देवतॆगळ मत्तु सत्कारपूर्वक ब्राह्मणरन्नु पूजॆ माडुत्ता इरबेकु.॥28½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. devii* = Oh; *Mother ! matkR^ite* = for my sake;
+*devataaH* = gods; *puujyaaH* = are worthy of worship; *te* = to you ;
+*agnikaaryeshhu* = by sacrificial fire; *sumanobhishcha* = and by flowers;
+*sadaa* = always ; *braahmaNaashchaiva* = brahmans also; *suvrataaH* = with
+right voes'.
+
+**अनुवादः**
+
+Oh, Mother! You always worship gods by sacrificial fire and by flowers for my sake .
+Brahmanas also with right voes are to be worshipped .'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +1241,12 @@ _________________
 नियता नियताहारा भर्तृशुश्रूषणे रता ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् कालम् प्रतीक्षस्व मम आगमन कान्क्षिणी ॥ २-२४-२९
+प्राप्स्यसे परमम् कामम् मयि प्रत्यागते सति ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस प्रकार तुम नियमित आहार करके नियमोंका पालन करती हुई स्वामीकी सेवामें लगी रहो और मेरे आगमनकी इच्छा रखकर समयकी प्रतीक्षा करो ॥ २९ १/२ ॥
@@ -632,6 +1255,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ नीनु नियमित आहार-नियमगळन्नु पालिसुत्ता स्वामिय सेवॆयल्लि तॊडगिरु हागू नन्न आगमनद इच्छॆयिन्द प्रतीक्षॆ माडुत्ता इरु.॥29½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. pratiikshhasva* = look forward ; *kaalam* = for time ;
+*mama aagamana kaaNkshhiNii* = desiring my return; *evam* = in such a manner ;
+*viyataa* = with restraint; *niyataahaara* = being temperate in food ; *rate*
+= devoted in ; *bhartashushruushhaNe* = service of husband.
+
+**अनुवादः**
+
+"Look forward for the time of my return in such a manner with restraint, being
+temperate in food and being devoted in the service of your husband."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +1289,12 @@ _________________
 यदि धर्मभृतां श्रेष्ठो धारयिष्यति जीवितम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्राप्स्यसे परमम् कामम् मयि प्रत्यागते सति ॥ २-२४-३०
+यदि धर्मभ्ऱ्ताम् श्रेष्ठो धारयिष्यति जीवितम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि धर्मात्माओंमें श्रेष्ठ महाराज जीवित रहेंगे तो मेरे लौट आनेपर तुम्हारी भी शुभ कामना पूर्ण होगी’ ॥
@@ -657,6 +1303,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मात्मरल्लि श्रेष्ठराद महाराजरु जीविसिद्दरॆ नानु मरळि बन्दमेलॆ निन्न शुभकामनॆयू पूर्णवागुवुदु.॥30½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. mayi* = I; *pratyaagate sati* = having come back;
+*dhrmabhR^itaam shreshhTaH* = our father; the best of protectors of righteousness;
+*dhaaraayishhyati yadi* = if he sustains; *jiivitam* = life; *praapsyase* =
+you will acquire; *paramam* = the best; *kaamam* = desire .
+
+**अनुवादः**
+
+"After my return, your best desire will be fulfilled if our father the best among
+protectors of righteousness ,is still alive till then."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -671,6 +1334,12 @@ _________________
 कौसल्या पुत्रशोकार्ता रामं वचनमब्रवीत् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्ता तु रामेण बाष्प पर्याकुल ईक्षणा ॥ २-२४-३१
+कौसल्या पुत्र शोक आर्ता रामम् वचनम् अब्रवीत् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामके ऐसा कहनेपर कौसल्याके नेत्रोंमें आँसू छलक आये । वे पुत्रशोकसे पीड़ित होकर श्रीरामचन्द्रजीसे बोलीं— ॥ ३१ १/२ ॥
@@ -679,6 +1348,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु हीगॆ हेळिदाग कौसल्यॆय कण्णुगळिन्द कण्णीरु चिम्मितु. अवळु पुत्रशोकदिन्द पीडितळागि श्रीरामचन्द्रनल्लि हेळिदळु.॥31½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. kausalyaa* = kausalya; *putra shokaartaa* = who is
+afflicted over her son ; *uktaa* = having been spoken ; *evam* = thus;
+*raameNa* = by Rama; *bhaashhpaparyaakulekshhaNaa* = with eyes full of tears;
+*abraviit* = spoke; *vachanam* = these words; *raamam* = to Rama.
+
+**अनुवादः**
+
+Kausalya who was afflicted with grief over her son, was with eyes full of tears
+after hearing Rama's utterances and spoke thus to Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +1389,23 @@ _________________
 मगु! काडिगॆ होगुव निन्न निश्चयवन्नु नानु बदलिसलारॆनु. वीरने! निश्चयवागियू कालन आज्ञॆयन्नु उल्लङ्घिसुवुदु अत्यन्त कठिणवागिदॆ.॥32½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. viira putraka* = Oh; *Brave son! na shaknomi* = I am not
+able to; *Vinivartayitum* = avert ; *te buddhim* = your mind; *sukrutaam* =
+which is well made; *gamane* = in the matter of your going; *nuunanam* = certainly;
+*kaalaH* = time; *duratyayaH* = is inscrutable."
+
+**अनुवादः**
+
+"Oh, Brave son! I am not able to avert your well-made resolution, in the matter of
+your going to forest. Time is inscrutable .It is certain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **गच्छ** पुत्र त्वमेकाग्रो  
@@ -717,6 +1420,12 @@ _________________
 पुनस्त्वयि निवृत्ते तु भविष्यामि गतक्लमा ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+गच्च पुत्र त्वम् एक अग्रः भद्रम् ते अस्तु सदा विभो ॥ २-२४-३३
+पुनस्त्वयि निवृत्ते तु भविष्यामि गतक्लमा ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सामर्थ्यशाली पुत्र! अब तुम निश्चिन्त होकर वनको जाओ, तुम्हारा सदा ही कल्याण हो । जब फिर तुम वनसे लौट आओगे, उस समय मेरे सारे क्लेश—सब संताप दूर हो जायँगे ॥ ३३ १/२ ॥
@@ -725,6 +1434,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समर्थपुत्रने! ईग नीनु निश्चिन्तनागि काडिगॆ होगु, निनगॆ सदा श्रेयस्सागली. मत्तॆ नीनु वनदिन्द मरळि बन्दाग नन्न ऎल्ल क्लेशगळु सन्तापगळु दूरवागुववु.॥33½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. putraH* = Oh ;son! tvam = You; *gachchha* = go;
+*ekaagraH* = un disturbed; *vibho* = Oh; the mighty; *astu* = let there be ;
+*bhadram* = auspiciousness; *sadaa* = always; *te* = to you;
+*bhavishhyaami* = I shall become; *gata klamaa* = refreshed; *tvayi
+nivR^ittetu* = when you return; *punaH* = again."
+
+**अनुवादः**
+
+"Oh, son! You go undisturbed. Let there be auspiciousness always to you .I shall
+become refreshed, when you return again."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,6 +1466,12 @@ _________________
 पितुरानृण्यतां प्राप्ते स्वपिष्ये परमं सुखम् ॥ ३४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रत्यागते महाभागे कृतार्थे चरितव्रते ॥ २-२४-३४
+पितुरानृण्यताम् प्राप्तेत्वयि लप्स्ये परम् सुखम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘बेटा! जब तुम वनवासका महान् व्रत पूर्ण करके कृतार्थ एवं महान् सौभाग्यशाली होकर लौट आओगे और ऐसा करके पिताके ऋणसे उऋण हो जाओगे, तभी मैं उत्तम सुखकी नींद सो सकूँगी ॥ ३४ ॥
@@ -747,6 +1480,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु! नीनु वनवासद महाव्रतवन्नु पूर्णगॊळिसि कृतार्थ मत्तु महासौभाग्यशालियागि मरळि बन्दाग हागू हीगॆ माडि पितृऋणदिन्द मुक्तनादाग नानु चॆन्नागि सुखद निद्दॆ माडबल्लॆनु.॥34॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. tvayi* = You �mahaabhaage = the illustrious kR^itaarthe = who
+accomplished a purpose; *charitavrate* = who observed a vow ; *praapte* = who
+attained anR^iNyataam = freedom from debt pituH = to father ; *pratyaagate* = having come
+again lapsye = Ishall get varam = great sukham = happiness.
+
+**अनुवादः**
+
+"You, the illustrious after accomplishing a purpose, having observed a vow and
+having attained freedom from debt to your father, after having come again, I shall get great
+happiness".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +1512,12 @@ _________________
 यस्त्वां सञ्चोदयति मे वच आविध्य राघव ॥ ३५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि ॥ २-२४-३५
+यस्त्वा संचोदयति मे वच आच्चिद्य राघव ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘बेटा रघुनन्दन! इस भूतलपर दैवकी गतिको समझना बहुत ही कठिन है, जो मेरी बात काटकर तुम्हें वन जानेके लिये प्रेरित कर रहा है ॥ ३५ ॥
@@ -769,6 +1526,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु रघुनन्दन! ई भूतळदल्लि दैवद गतियन्नु तिळियुवुदु बहळ कठिणवागिदॆ. नन्न मातन्नु मीरि निनगॆ काडिगॆ होगलु प्रेरेपिसुवुदु आ दैववे आगिदॆ.॥35॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. putra* = Oh;son raaghava = Oh; *Rama! YaH* = which destiny
+Aachchhidya = extingvishes me = my vachaH = word sanchodayati = impels tvaa = you gatiH = the path
+kR^itaantasya = of such destiny sadaa = always durvibhaavyaa = is unimaginable bhuvii = on
+earth.
+
+**अनुवादः**
+
+"The path of the destiny, which extinguishes my words and impels you to go to the
+forest ,is ever not imaginable on this earth"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -783,6 +1557,12 @@ _________________
 नन्दयिष्यसि मां पुत्र साम्ना श्लक्ष्णेन चारुणा ॥ ३६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+गच्छेदानीम् महाबाहो क्षेमेण पुनरागतः ॥ २-२४-३६
+नन्दयिष्यसि माम् पुत्रः साम्ना वाक्येन चारुणा ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘बेटा! महाबाहो! इस समय जाओ, फिर कुशलपूर्वक लौटकर सान्त्वना भरे मधुर एवं मनोहर वचनोंसे मुझे आनन्दित करना ॥ ३६ ॥
@@ -791,6 +1571,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहु मगने! ईग होगु, मत्तॆ क्षेमवागि मरळि बन्दु सान्त्वन पूर्ण मधुर हागू मनोहर मातुगळिन्द नन्नन्नु आनन्दगॊळिसु.॥36॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. mahaabaaho* = Oh Rama; *long armed ! gachchha* = go;
+*idaaniim* = just now; *Putra* = Oh; *son! punaH aagataH* = having come again;
+*kshhemeNa* = safely; *nandayishhyasi* = you will rejoice; *maam* = me;
+*saamnaa* = with unanimity; *vaakyena* = with words; *chaaruNaa* = which are
+pleasing.
+
+**अनुवादः**
+
+"Oh, Rama the valiant !Go just now and come again safely, when you will rejoice me
+with your pleasing and tranquillising words ."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -807,6 +1605,12 @@ _________________
 यत् त्वां पुत्रक पश्येयं जटावल्कलधारिणम् ॥ ३७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अपीदानीम् स कालः स्स्याद्वनात्प्रत्यागतम् पुनः ॥ २-२४-३७
+यत्त्वाम् पुत्रकः पश्येयम् जटावल्कधारिणम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वत्स! क्या वह समय अभी आ सकता है, जब कि जटा-वल्कल धारण किये वनसे लौटकर आये हुए तुमको फिर देख सकूँगी’ ॥ ३७ ॥
@@ -815,6 +1619,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वत्स! जटा-वल्कलधारियागि काडिनिन्द मरळि बन्द निन्नन्नु पुनः नोडुवन्तह समय ईगले बरबल्लुदे.॥37॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. putraka* = Oh; *son! Pratyaagatam* = after returning;
+*PunaH* = again; *vanaat* = from forest; *yat* = when; *pashyeyaat* =
+shall I see; *tvaam* = you; *jataavalkadhaariNam* = wearing twisted hair and garment
+made of bark? saH kaalaH = That time; *api syaat* = may it be; *idaaniim* = just now
+'
+
+**अनुवादः**
+
+"How good it will be, if today itself is the day of your returning from the forest,
+wearing twisted hair and garment made of bark."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -833,6 +1655,14 @@ _________________
 **बभूव** च स्वस्त्ययनाभिकाङ्क्षिणी ॥ ३८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तथा हि रामम् वन वास निश्चितम् ।
+ददर्श देवी परमेण चेतसा ।
+उवाच रामम् शुभ लक्षणम् वचो।
+बभूव च स्वस्त्ययन अभिकान्क्षिणी ॥ २-२४-३८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 देवी कौसल्याने जब देखा कि इस प्रकार श्रीराम वनवासका दृढ़ निश्चय कर चुके हैं, तब वे परम आदरयुक्त हृदयसे उनको शुभसूचक आशीर्वाद देने और उनके लिये स्वस्तिवाचन करानेकी इच्छा करने लगीं ॥ ३८ ॥
@@ -841,6 +1671,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवी कौसल्यॆयु श्रीरामनु हीगॆ वनवासद दृढनिश्चय माडिरुवुदन्नु नोडिदाग अवळु परम आदरयुक्त हृदयदिन्द अवनिगॆ शुभाशीर्वाद कॊडलु मत्तु स्वस्तिवाचन माडलु बयसिदळु.॥38॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*38. devii* = The queen kausalya; *dadarsha* = saw;
+*tathaa* = thus; *raama* = Rama; *vanavaasa mishchitam* = who decided to stay
+in forest; *uvaacha* = spoke; *vachaH* = words; *chetasaa* = with mind;
+*paramiNa* = most exellent; *raamam* = to Rama; *subhalakshhaNam* = having
+auspicious qualities; *babhuuva* = become; *svatyayanaabhikaaNkshhiNii* = desirous of
+averting evil by recitation of auspicious words; Thus completes twenty fourth canto of Ayodhya
+Kanda.
+
+**अनुवादः**
+
+"The queen kausalya thus saw Rama who decided to go to forest .She spoke these words
+with most excellent mind to Rama having auspicious qualities, being desirous of averting evil by
+recitation of auspicious words."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

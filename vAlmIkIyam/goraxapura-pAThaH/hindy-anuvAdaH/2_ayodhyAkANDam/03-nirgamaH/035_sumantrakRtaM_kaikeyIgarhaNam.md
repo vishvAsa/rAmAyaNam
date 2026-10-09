@@ -81,6 +81,35 @@ _________________
 तन्न अशुभ हागू अनुपम वाग् वज्रदिन्द कैकेयिय ऎल्ल मर्मस्थानगळन्नु विदीर्णगॊळिसुत्ता सुमन्त्रनु ई प्रकार हेळलुपक्रमिसिदनु.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1;2;3;4. tataH* = then; *sumantraH* = Sumantra; *suutaH*
+= the charioteer; *nirduuya* = moving; *shiraH* = his head; *sahasaa* = all of
+a sudden; *niHshvasya* = sighing; *asakR^it* = agan and again;
+*vinishhpishhya* = rubbing; *paaNim* = in hand; *katakataayyacha* = grinding;
+*dantaan* = his teeth; *lochane kopasamrakte* = turning his eyes red with anger;
+*jahat* = shedding; *puurvochitam* = his former; *varNam* = colour;
+*kopaabhibuutaH* = overwhelmed with; *sahasaa* = suddenly; *gataH* = getting;
+*samtaapam* = grief; *ashubham* = the evil; *samiikshhamaaNashcha* = carefully
+reading; *dasharathasya* = Dasaratha's; *manaH* = mind; *pratyabhaashhata* =
+spoke(as follows) kampayanniva = spoke(as follows); *kaikeyyaaH* = Kaikeyi's;
+*hR^idyam* = heart; *shitaiH vaakchharaiH* = with sharp arrows; *vaakya
+vajraiH* = in the form of thunderbolting words; *ashugaiH* = speedily;
+*bhindanniva* = piercing; *sarva marmaaNi* = all her vitals.
+
+**अनुवादः**
+
+Then, moving his head all of a sudden sighing again and again, rubbing his hand in
+hand, grinding his teeth, turning his eyes red with anger shedding his normal colour, overwhelmed
+with wrath, suddenly getting the evil grief, carefully reading Dasaratha's mind, sumantra the
+charioteer spoke(as follows) as though shaking Kaikeyi's heart with sharp arrows, in the form of
+thunderbolting words speedily peircing all her vitals.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यास् तव पतिस् त्यक्तो  
@@ -111,6 +140,26 @@ _________________
 ‘‘देवि! नीनु चराचर सम्पूर्ण जगत्तिन स्वामि स्वयं निन्न पति महराजा दशरथनन्ने त्याग माडिदाग ई जगत्तिनल्लि नीनु माडदे इरुव यावुदे कुकर्मविल्ल. नीनु पतिय हत्यॆ माडुववळे अल्ल, कॊनॆगॆ कुलघातिनियू आगिरुवॆ’’ ऎन्दे नानु तिळियुत्तेनॆ.॥5-6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. devi* = Oh; *Kaikeyi! yasyaaH tava* = which your;
+*patiH* = husband; *raajaa dasharathaH* = king Dasaratha; *bhartaa* = the
+supporter; *sarvasya jagataH* = of entire creation; *sthaavarasya* = the unmoving;
+*tyaktaH* = = is betrayed; *svayam* = on your own; *tava* = such of you;
+*nahi vidyate* = there is indeed nothing; *iha* = oh earth; *kimchit* =
+anything; *akaaryatamam* = which is most disgraceful.
+
+**अनुवादः**
+
+"There is nothing on earth, anything which is most disgraceful for you by whom your
+husband king Dasaratha the supporter of the entire creation the unmoving and the moving, is
+betrayed, Oh, Kaikeyi!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्महेन्द्रम् इवाजय्यं  
@@ -133,6 +182,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्यो! देवेन्द्रनन्तॆ अजेयनू, पर्वतदन्तॆ स्थिरनू, महासागरदन्तॆ क्षोभरहितनू आद दशरथनन्नु नीनु तन्न कर्मगळिन्द सन्तप्तगॊळिसुत्तिरुवॆ.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6;7. aham* = I; *manye* = consider; *tvam* = you;
+*patighniim* = as murderers of your husband; *antataH* = ultimately;
+*kulaghniimapicha* = the exterminator of your race too; *yat* = for which reason;
+*karmabhiH* = by your actions; *santaapayasi* = you are causing grief(to your
+husband) ajayyam = who is unconquerable; *mahendramiva* = as great Indra;
+*dushhkampyam* = who cannot be moved; *achalamiva* = as a mountain;
+*akshhobhyam* = who is imperturbable; *mahodadhimiva* = as a great ocean.
+
+**अनुवादः**
+
+"King Dasaratha is unconquerable as great Indra, unshakable as mountain and
+imperturbable as a great ocean. By tormenting him with your actions, you are considered by me as
+murderess of your husband and ultimately the exterminator of your race too."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +229,23 @@ _________________
 दशरथ महाराजरु निनगॆ पति, पालक मत्तु वरदाता आगिद्दारॆ. नीनु अवर अपमानमाडबेड. नारियरिगॆ पतिय इच्छॆय महत्व कोटि पुत्ररिगिन्त हॆच्चागिदॆ.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. maavamamsthaaH* = do not despise; *dasharatham* = Dasaratha;
+*bhartaaram* = the supporter; *varadam* = the bestower of boon; *patim* = and
+your husband; *naariiNaam* = for women; *bhartaH* = husband's; *ichchhaa* =
+will; *vishishhyate* = is superior; *putrakotyaaH* = to ten million sons.
+
+**अनुवादः**
+
+"Do not despise Dasaratha the supporter, the bestower of boons and your husband. For
+women, will of the husband is superior to that of ten million sons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथावयो हि राज्यानि  
@@ -173,6 +260,12 @@ _________________
 इक्ष्वाकुकुलनाथेऽस्मिंस्तं लोपयितुमिच्छसि ॥ ९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यथावयो हि राज्यानि प्राप्नुवन्ति नृपक्षये ।
+इक्ष्वाकुकुलनाथेऽस्मिंस्तल्लोपयितुमिच्छसि ॥ २-३५-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस कुलमें राजाका परलोकवास हो जानेपर उसके पुत्रोंकी अवस्थाका विचार करके जो ज्येष्ठ पुत्र होते हैं, वे ही राज्य पाते हैं । राजकुलके इस परम्परागत आचारको तुम इन इक्ष्वाकुवंशके स्वामी महाराज दशरथके जीते-जी ही मिटा देना चाहती हो ॥ ९ ॥
@@ -181,6 +274,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई कुलदल्लि राजनु परलोकवासियादाग अवन पुत्रर वयस्सिन विचारमाडि ज्येष्ठपुत्रने राज्यवन्नु पडॆयुत्तानॆ. राजकुलद ई परम्परागत पद्धतियन्नु नीनु ई इक्ष्वाकु वंशद ऒडॆय महाराजरु जीविसि इरुवागले अळिसिबिडलु बयसुत्तियल्ल.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. nR^ipakshhaye* = after the death of a king; *raajyaani* =
+kingdoms; *prapnuvantihi* = are indeed obtained; *yathaavayaH* = as per the age(of
+princes) ichchhasi = you want; *lopayitum* = to deprive; *tat* = it; *asmin
+ikshhvaakukulanaathe* = in this lord Ikshvaku dynasty; Rama.
+
+**अनुवादः**
+
+"After death of a king, kingdoms are obtained as per the age of the princes. But,
+you want to deprive this condition in the case of Rama the lord of Ikshvaku dynasty."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,6 +307,12 @@ _________________
 वयं तत्र गमिष्यामो यत्र रामो गमिष्यति ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+राजा भवतु ते पुत्रो भरतश्शास्तु मेदिनीम् ।
+वयम् तत्र गमिष्यामो रामो यत्र गमिष्यति ॥ २-३५-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम्हारे पुत्र भरत राजा हो जायँ और इस पृथ्वीका शासन करें; किंतु हमलोग तो वहीं चले जायँगे जहाँ श्रीराम जायँगे ॥ १० ॥
@@ -205,6 +321,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न पुत्र भरतनु राजनागि ई राज्यवन्नु आळलि; आदरॆ नावादरो श्रीरामनिरुवल्लिगॆ हॊरटुहोगुवॆवु.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. te putraH* = "(Let) your son; *bhartaH* = Bharata;
+*bhavatu* = become; *raajaa* = the king; *shastu* = let him rule;
+*madiniim* = the earth; *yatra* = wherever; *raamaH* = Rama;
+*gamishhyati* = goes; *vayam* = we; *gamishhyaamaH* = shall go; *tatra*
+= there."
+
+**अनुवादः**
+
+"Let your son Bharata become the king and rule the earth. wherever Rama goes, we (on
+our part) shall go there".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +358,12 @@ _________________
 नूनं सर्वे गमिष्यामो मार्गं रामनिषेवितम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न हि ते विषये कश्चिद्ब्राह्मणो वस्तुमर्हति ।
+तादृशम् त्वममर्यादमद्य कर्म चिकीर्षसि ॥ २-३५-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम्हारे राज्यमें कोई भी ब्राह्मण निवास नहीं करेगा; यदि तुम आज वैसा मर्यादाहीन कर्म करोगी तो निश्चय ही हम सब लोग उसी मार्गपर चले जायँगे, जिसका श्रीरामने सेवन किया है ॥ ११ १/२ ॥
@@ -232,6 +372,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न राज्यदल्लि याव ब्राह्मणनू वासिसलारनु; नीनु इन्दु इन्तह मर्यादाहीन कार्यमाडुवॆयादरॆ निश्चयवागि नावॆल्लरू श्रीरामनु सेविसुवल्लिगे हॊरटुहोगुवॆवु.॥11½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. te vishhaye* = In your kingdom; *kashchit braahmaNaH* =
+even any brahmana; *na arhati hi* = cannot indeed; *vastum* = dwell; *tvam* =
+you; *chikiirshhasi* = want to do; *taadR^isham* = such; *karma* = act;
+*adya* = now; *amaryaadam* = transgressing due limits.
+
+**अनुवादः**
+
+"Now any brahmana cannot indeed dwell in your kigdom as now you want to do such an
+act, transgressing the due limits."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +408,12 @@ _________________
 तादृशं त्वममर्यादं कर्म कर्तुं चिकीर्षसि ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+२-३५-१२
+का प्रीती राज्यलाभेन तव देवि भविष्यति ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सम्पूर्ण बन्धु-बान्धव और सदाचारी ब्राह्मण भी तुम्हारा त्याग कर देंगे । देवि! फिर इस राज्यको पाकर तुम्हें क्या आनन्द मिलेगा । ओह! तुम ऐसा मर्यादाहीन कर्म करना चाहती हो ॥ १२-१३ ॥
@@ -259,6 +422,29 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समस्त बन्धु-बान्धवरु हागू सदाचारी ब्राह्मणरू कूड निन्नन्नु त्यजिसुवरु. देवि! मत्तॆ ई राज्यवन्नु पडॆदु निनगॆ याव आनन्दसिगबल्लदु? अय्यो! नीनु इन्तह मर्यादॆगॆट्ट कर्म माडलु बयसुत्तिरुवॆयल्ल.॥12-13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12;13. nuunam* = certainly; *sarve* = all of us;
+*gamishhyaami* = will go; *maargam* = in the way; *raamanishhevitam* =
+followed by Rama; *devi* = Oh queen Kaikeyi! yaa = which you; *sadaa* = forever;
+*tyaktaa* = deserted; *baandhanvaiH* = by relatives; *sarvaiH* = by all;
+*brahmaNaiH* = brahmanas; *saadubhiH* = by pious souls; *tava* = such of you;
+*kaa* = what; *priitiH* = pleasure; *bhavishhyati* = will be derived;
+*raajya laabhena* = through attainment of sovereignity; *tvam* = you;
+*chikiirshhasi* = want; *kartum* = to do; *taadR^isham* = such; *karma*
+= an act; *amaryaadam* = of impropriety.
+
+**अनुवादः**
+
+"Certainly, all of us will proceed in the path followed by Rama. Oh, queen Kaikeyi!
+What pleasure will be derived through attainment of soverignity, when your relatives, all brahmanas
+and pious souls desert you forever? Now, you want to do such an act of impropriety"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +474,24 @@ _________________
 इदन्नु नोडि ननगॆ आश्चर्यवागुत्तिदॆ-नीनु इष्टु अत्याचार माडिदरू पृथियु कूडले एकॆ बिरिदुहोगुवुदिल्ल ऎन्दु.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. yasyaaH* = while you; *te* = as such;
+*aacharantyaaH* = conduct yourself; *iidR^isham* = such of this; *vR^ittam* =
+act; *pashyaami* = I am looking; *aashcharyamiva* = with only surprise;
+*medinii* = (why) earth; *na bhavati* = is not; *sadya* = immediately;
+*vidR^itaa* = rent asunder.
+
+**अनुवादः**
+
+"I am looking only with surprise, why the earth is not immediately rent asunder,
+while you conduct yourself with such an act"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाब्रह्मर्षिसृष्टा वा  
@@ -302,6 +506,12 @@ _________________
 धिग्वाग्दण्डा न हिंसन्ति रामप्रव्राजने स्थिताम् ॥ १५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+महाब्रह्मर्षिसृष्टा वा ज्वलन्तो भीमदर्शना ।
+धिग्वाग्दण्डणा न हिंसन्ति रामप्रव्राजने स्थिताम् ॥ २-३५-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अथवा बड़े-बड़े ब्रह्मर्षियोंके धिक्कारपूर्ण वाग्दण्ड (शाप) जो देखनेमें भयंकर और जलाकर भस्म कर देनेवाले होते हैं, श्रीरामको घरसे निकालनेके लिये तैयार खड़ी हुई तुम-जैसी पाषाणहृदयाका सर्वनाश क्यों नहीं कर डालते हैं? ॥ १५ ॥
@@ -310,6 +520,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अथवा दॊड्ड-दॊड्ड ब्रह्मर्षिगळ धिक्कारपूर्ण वाग्दण्ड(शाप)वु नोडलु भयङ्कर हागू सुट्टु बिडुवन्तहुदागिदॆ. श्रीरामनन्नु मनॆयिन्द हॊरहाकलु हॊरटिरुव निन्नन्तह पाषाण हृदयिय अदु सर्वनाश एकॆ माडिबिडुवुदिल्ल.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. dhikvaagdanNdaaH vaa* = rods of reproaching words;
+*jvalantaH* = which are burning with fire; *bhiima darshanaaH* = and fearful to look
+at; *mahaabrahmarshhi sR^ishhTaaH* = uttered by great brahmana sages; *na himsanti* =
+are not killing; *sthitaam* = you; who have decided; *raamapravraajane* = to send
+Rama to exile.
+
+**अनुवादः**
+
+"It is also surprising me why rods of reproaching words fiery and fearful to look at
+uttered by great brahmana sages are not killing you, who are bent on sending Rama to exile."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +557,12 @@ _________________
 यश्चैनं पयसा सिञ्चेन्नैवास्य मधुरो भवेत् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+आम्रम् चित्वा कुठारेन निम्बम् परिचरेत्तु यः ।
+यश्चेनम् पयसा सिञ्चेन्नैवास्य मधुरो भवेत् ॥ २-३५-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भला आमको कुल्हाड़ीसे काटकर उसकी जगह नीमका सेवन कौन करेगा? जो आमकी जगह नीमको ही दूधसे सींचता है, उसके लिये भी यह नीम मीठा फल देनेवाला नहीं हो सकता (अतः वरदानके बहाने श्रीरामको वनवास देकर कैकेयीके चित्तको संतुष्ट करना राजाके लिये कभी सुखद परिणामका जनक नहीं हो सकता) ॥ १६ ॥
@@ -337,6 +571,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 माविनमरवन्नु कडिदु अल्लि कहिबेवन्नु यारु सेविसुवरु? आ कहिबेविगॆ हालॆरॆदरॆ अदु सिहि फल नीडबल्लदे? (आद्दरिन्द वरदानद नॆपदिन्द श्रीरामनिगॆ वनवास विधिसि कैकेयिय मनस्सन्नु सन्तोषपडिसुवुदु राजरिगॆ ऎन्दू सुखमय परिणाम आगलारदु.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. yaH* = who; *chhitraa* = while cutting down;
+*aamram* = a mango tree; *kuThaareNa* = with axe; *paricharettu* = nurtures;
+*nimbam* = a neem tree; *yashcha* = who; *siNchet* = will wet; *enam* =
+this neem tree; *payasaa* = sweet; *asya* = to him.
+
+**अनुवादः**
+
+"Who will nurture a neem tree, cutting down a mango tree with an axe? And a neem
+tree will not turn sweet for him who nourishes it with milk."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +604,12 @@ _________________
 न हि निम्बात् स्रवेत् क्षौद्रं लोके निगदितं वचः ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अभिजात्यम् हि ते मन्ये यथा मातुस्तथैव च ।
+न हि निम्बात्स्रवेत्क्षौद्रम् लोके निगदितम् वचः ॥ २-३५-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘कैकेयि! मैं समझता हूँ कि तुम्हारी माताका अपने कुलके अनुरूप जैसा स्वभाव था, वैसा ही तुम्हारा भी है । लोकमें कही जानेवाली यह कहावत सत्य ही है कि नीमसे मधु नहीं टपकता ॥ १७ ॥
@@ -361,6 +618,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कैकेयि! निन्न तायिय वर्तनॆ तन्न कुलक्कनु रूपवागिरुवन्तॆ निन्न वर्तनॆयागिदॆ ऎन्दु नानु तिळियुत्तेनॆ. ‘बेविनहण्णिनिन्द जेनुतुप्पवु सुरियुवुदिल्ल’ ऎम्ब गादॆयु सत्यवागिदॆ.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. manye* = I think; *abhijaatyam* = your nature; by birth;
+*yathaa tathaivacha* = is as exactly as; *maatuH* = a proverb; *nigaditam* =
+is quoted; *loke* = in the world; *kshhaudram* = "honey; *na sraveti hi* =
+does not ooze surely; *nimbaat* = from a neem tree."
+
+**अनुवादः**
+
+"I think, by birth your nature is as exactly as that of your mother. a proverb is
+quoted in the world saying that honey does not ooze from a neem tree."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,6 +685,29 @@ _________________
 आ वर प्रभावदिन्द केकेय नरेशनु समस्त प्राणिगळ मातन्नु तिळियतॊडगिदनु. तिर्यक् योनिय प्राणिगळ भाषॆयन्नु अवनु अरियुत्तिद्दनु.॥19॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18;19. vidmaH* = we know; *yathaashR^itam* = as heard of;
+*puurvam* = in the past; *tava maataH* = your mother's; *asadgraaham* = evil
+satisfaction; *kashchit* = someone; *varadaH* = capable of giving boons;
+*dadau* = bestowed; *anuttamam varam* = a great boon; *te pituH* = your
+father; *tasmaat* = by it; *vasudhaadhipaH* = that king; *samjaJNe* = could
+identify; *sarva bhuutarutam* = the language of all created beings; *tena* = by him;
+*vachaH* = the talk bhuutaanaam = of those beings; *tiryaggataanaam* = belonging to
+sub-human species; *viditam* = could be known.
+
+**अनुवादः**
+
+"We know, as heard of in the past, your mother's conduct of evil satisfaction.
+Someone capable of giving boons, granted a great boon to your father. By that boon he could
+identify the language of all created beings. The talk of those beings belonging to sub human
+species could be known by him."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो जृम्भस्य शयने  
@@ -425,6 +722,12 @@ _________________
 पितुस्ते विदितो भावः स तत्र बहुधाहसत् ॥ २० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततो जृम्भस्य शयने विरुताद्भूरिवर्चसा ।
+पितुस्ते विदितो भावः स तत्र बहुधाऽहसत् ॥ २-३५-२०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘एक दिन तुम्हारे महातेजस्वी पिता शय्यापर लेटे हुए थे । उसी समय जृम्भ नामक पक्षीकी आवाज उनके कानोंमें पड़ी । उसकी बोलीका अभिप्राय उनकी समझमें आ गया । अतः वे वहाँ कई बार हँसे ॥ २० ॥
@@ -433,6 +736,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒन्दु दिन महातेजस्वी निन्न तन्दॆ शय्यॆयल्लि ऒरगिद्दरु. अदे समय जृम्भ ऎम्ब पक्षिय शब्द अवन किविगॆ बित्तु. अदर मातिन अभिप्राय तिळिदु, अनेक बारि नगतॊडगिदनु.॥20॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. tataH* = then; *virutaat* = from the sound;
+*jR^imbhasya* = of an ant called Jrimbha; *shayane* = near the bed; *bhaavaH*
+= its meaning; *viditaH* = was deciphered; *te pituH* = by your father;
+*ahasat* = langhed; *bahudhaa* = repeatedly; *tatra* = over it.
+
+**अनुवादः**
+
+"From the sound of an ant called Jrimbha near his bed, the meaning of that sound was
+deciphered by your exceedingly brilliant father and he laughed over it repeatedly."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +769,12 @@ _________________
 हासं ते नृपते सौम्य जिज्ञासामीति चाब्रवीत् ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तत्र ते जननी क्रुद्धा मृत्युपाशमभीप्सती ।
+हासम् ते नृपते सौम्य जिज्ञासामीति भाब्रवीत् ॥ २-३५-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उसी शय्यापर तुम्हारी माँ भी सोयी थी । वह यह समझकर कि राजा मेरी ही हँसी उड़ा रहे हैं, कुपित हो उठी और गलेमें मौतकी फाँसी लगानेकी इच्छा रखती हुई बोली—‘सौम्य! नरेश्वर! तुम्हारे हँसनेका क्या कारण है, यह मैं जानना चाहती हूँ’ ॥ २१ ॥
@@ -457,6 +783,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदे शय्यॆयल्लि निन्न तायियू मलगिद्दळु. राजनु नन्न कुरितु नगुत्तिद्दानॆ ऎन्दु तिळिदु कुपितळागि कत्तिगॆ मृत्युविन उरुलन्नु हाकिकॊळ्ळुव इच्छॆयिन्द केळिदळु - सौम्य! नरेश्वर! नीवु नक्किरुव कारणवेनु? इदन्नु तिळियलु नानु बयसुत्तिरुवॆनु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. te jananii* = your mother; *kR^iddhaa* = becoming angry;
+*tatra* = over his laugh; *abhiipsatii* = wishing to; *mR^ityupaasham* = hang
+him to death; *abraviit* = spoke; *iti* = thus; *nR^ipate* = "Oh; king;
+*saumya* = the gentle sir! jiJNaasaami = I want to know; *te haasam* = about your
+laugh.
+
+**अनुवादः**
+
+Your mother, becoming angry over his laugh, wishing even to hand him to death(in
+case he refuses to disclose the reason for his laughter), spoke thus: "Oh king, the gentle sir! I
+want to know the meaning of your laughter."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +818,12 @@ _________________
 ततो मे मरणं सद्यो भविष्यति न संशयः ॥ २२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नृपश्चोवाच ताम् देवीम् देवि शंसामि ते यदि ।
+ततो मे मरणम् सद्यो भविष्यति न संशयः ॥ २-३५-२२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तब राजाने उस देवीसे कहा—‘रानी! यदि मैं अपने हँसनेका कारण बता दूँ तो उसी क्षण मेरी मृत्यु हो जायगी, इसमें संशय नहीं है’ ॥ २२ ॥
@@ -481,6 +832,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग राजनु हेळिदनु - राणी! नानु नन्न नगुविन कारणवन्नु हेळिदरॆ तत्क्षण नन्न मृत्यु आगुवुदु. इदरल्लि संशयवे इल्ल.॥22॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. nR^ipaschcha* = that king; *uvaacha* = replied; *taam
+deviim* = to that queen(as follows): devi = Oh; *queen! shamsaamiyadii* = If I tell;
+*te* = you; *maraNam* = death; *bhavishhyati* = will come; *me* = to
+me; *sadyaH* = immediately; *tataH* = thereafter; *na* = there is no;
+*samshayaH* = doubt.
+
+**अनुवादः**
+
+"The king replied to that queen as follows: "Oh, royal lady! If I tell you the
+reason of my laughter, my death will immediately follow thereafter. There is no doubt about
+it."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +867,12 @@ _________________
 शंस मे जीव वा मा वा न मां त्वं प्रहसिष्यसि ॥ २३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+माता ते पितरम् देवि ततह् केकयमब्रवीत् ।
+शंस मे जीव वा मा वा न मामपहसिष्यसि ॥ २-३५-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देवि! यह सुनकर तुम्हारी रानी माताने तुम्हारे पिता केकयराजसे फिर कहा—‘तुम जीओ या मरो, मुझे कारण बता दो । भविष्यमें तुम फिर मेरी हँसी नहीं उड़ा सकोगे’ ॥ २३ ॥
@@ -505,6 +881,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! इदन्नु केळि निन्न तायियु निन्न तन्दॆ केकॆयराजनल्लि पुनः हेळिदळु - नीनु बदुकिरु अथवा सायि, ननगॆ कारणवन्नु हेळु. भविष्यदल्लि नीनु पुनः नन्नन्नु हास्य माडलारॆ.॥23॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. devi* = Oh Kaikeyi! tataH = then; *te maataa* = your
+mother; *abraviit* = spoke; *kekayam* = Kekaya king; *pituram* = your
+father(thus); *jiiva vaa* = either live; *maavaa* = or die; *shamsa* = tell;
+*me* = me; *na apahisishhasi* = do not ridicule; *maam* = me.
+
+**अनुवादः**
+
+"Your mother then said to your father, the king of Kekayas, Live or die as you will.
+tell me the laughter. Do not ridicule me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,6 +914,12 @@ _________________
 तस्मै तं वरदायार्थं कथयामास तत्त्वतः ॥ २४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रियया च तथोक्तः सन् केकयः पृथीवीपतिः ।
+तस्मै तम् वरदायार्थम् कथयामास तत्त्वतः ॥ २-३५-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अपनी प्यारी रानीके ऐसा कहनेपर केकयनरेशने उस वर देनेवाले साधुके पास जाकर सारा समाचार ठीक-ठीक कह सुनाया ॥ २४ ॥
@@ -529,6 +928,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न प्रियराणियु हीगॆ हेळिदाग केकॆय नरेशनु आ वर कॊट्ट साधुविन बळिगॆ होगि ऎल्ल वृत्तान्तवन्नु तिळिसिदनु.॥24॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. uktaH san* = having been spoken; *tathaa* = thus;
+*priyayaa* = by his beloved consort; *kekayaH prithvii patiH* = the ruler of Kekaya
+kingdom; *kathayaamaasa* = reported; *tasmai* = to that; *varadaaya* =
+bestower of boon; *tattvataH* = correctly; *tam artham* = that matter.
+
+**अनुवादः**
+
+Having been spoken thus by his beloved consort, the said king of the Kekayas on his
+part correctly reported the matter to the sage who had bestowed the boon on him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +961,12 @@ _________________
 **मा शंसीस्** त्वं महीपते ॥ २५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः स वरदह् साधु राजानम् प्रत्यभाषत ।
+म्रियताम् ध्वंसताम् वेयम् मा कृथास्त्वम् महीपते ॥ २-३५-२५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तब उस वर देनेवाले साधुने राजाको उत्तर दिया— ‘महाराज! रानी मरे या घरसे निकल जाय; तुम कदापि यह बात उसे न बताना’ ॥ २५ ॥
@@ -553,6 +975,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग आ वर कॊट्ट साधु राजनिगॆ तिळिसिदनु - महाराजा! राणियु सायलि अथवा मनॆ बिट्टुहोगलि, आदरू नीनु ई मातन्नु ऎन्दू आकॆगॆ हेळबेड.॥25॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. tataH* = then; *saH saadhuH* = that sage; *varadaH*
+= who had bestowed the boon; *pratyabhaashhataH* = replied; *rajaanam* = to the
+king(as follows): mahiipate = "Oh; *king! iyam* = let her; *mriyataam* = die;
+*dhamsataam vaa* = or ruin; *tvam* = you; *maakR^ithaaH* = do not persue that
+course.
+
+**अनुवादः**
+
+Then the sage who had bestowed the boon replied to the king as follows: "Oh, lord of
+the earth! Let her die or ruin. Do not reveal the reason to her."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +1019,23 @@ _________________
 प्रसन्नचित्तवुळ्ळ आ साधुविन ई मातन्नु केळि केकेय नरेशनु निन्न तायियन्नु कूडले मनॆयिन्द हॊरगॆहाकिदनु हागू कुबेरनन्तॆ विहरिसतॊडगिदनु.॥26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. shrutvaa* = having heard; *tat vachaH* = the word;
+*tasya* = of him; *prasanna manasaH* = who was pure-minded; *saH nR^ipaH* =
+that king; *nirasya* = repudiated; *maataram* = your mother; *vijahaara* =
+lived happily; *kuberavat* = like Kubera; the lord of riches.
+
+**अनुवादः**
+
+"Having heard the words of that sage who was pure-minded, the king repudiated your
+mother and lived happily like Kubera the Lord of riches."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा त्वमपि राजानं  
@@ -593,6 +1050,12 @@ _________________
 असद्‍ग्राहमिमं मोहात् कुरुषे पापदर्शिनी ॥ २७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तथा त्वमपि राजानम् दुर्जनाचरिते पथि ।
+असद्ग्राहमिमम् मोहात्कुरुषे पापदर्शिनि ॥ २-३५-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम भी इसी प्रकार दुर्जनोंके मार्गपर स्थित हो पापपर ही दृष्टि रखकर मोहवश राजासे यह अनुचित आग्रह कर रही हो ॥ २७ ॥
@@ -601,6 +1064,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनू इदे प्रकार दुर्जनर मार्गदल्लि स्थितळागि पापदृष्टियन्ने इट्टुकॊण्डु मोहवश राजनल्लि इन्तह अनुचित आग्रहवन्नु माडुत्तिरुवॆ.॥27॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. paapadarshini* = Oh; Kaikeyi; *seeing evil(everywhere)
+tvamapi* = you too; *tathaa* = thus; *pathi* = in the path;
+*durjanaacharite* = trodden by wicked men; *kurushhe* = are making; *imam* =
+this; *asadgraaham* = bad resolution; *mohaat* = by igonorance.
+
+**अनुवादः**
+
+"Oh, Kaikeyi, seeing evil everywhere! You, too, thus following the path trodden by
+wicked men, are making this bad resolution by ignorance."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +1100,12 @@ _________________
 पितृ न् समनुजायन्ते नरा मातरमङ्गनाः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सत्यश्चाद्य प्रवादोऽयम् लौकिकः प्रतिभाति मा ।
+पित्ऱ्^ऊन् समनुजायन्ते नरा मातरमङ्गनाः ॥ २-३५-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आज मुझे यह लोकोक्ति सोलह आने सच मालूम होती है कि पुत्र पिताके समान होते हैं और कन्याएँ माताके समान ॥ २८ ॥
@@ -628,6 +1114,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘पुत्रनु तन्दॆयन्तॆयू, कन्यॆयु तायियन्तॆ’ ऎम्ब ई गादॆयु नूरक्कॆ नूरु सरियादुदु.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. pratibhaat* = It is occuring; *maa* = about me;
+*adya* = now; *ayam* = this; *pravaadaH* = saying; *laukikaH* = which
+is popular; *satyaH* = has become true; *naraaH* = males; *samamjaayante* =
+are born; conforming; *pitR^iin* = to their fathers; *aNganaaH* = females;
+*maataram* = to their mothers.
+
+**अनुवादः**
+
+"The popular saying that males are born confirming to their fathers and females to
+their mothers, occurs to me as true."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -644,6 +1148,12 @@ _________________
 भर्तुरिच्छामुपास्वेह जनस्यास्य गतिर्भव ॥ २९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नैवम् भव ग़ृहाणेदम् यदाह वसुधाधिपः ।
+भर्तुरिच्चामुपास्वेह जनस्यास्य गतिर्भव ॥ २-३५-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम ऐसी न बनो—इस लोकोक्तिको अपने जीवनमें चरितार्थ न करो । राजाने जो कुछ कहा है, उसे स्वीकार करो (श्रीरामका राज्याभिषेक होने दो) । अपने पतिकी इच्छाका अनुसरण करके इस जन-समुदायको यहाँ शरण देनेवाली बनो ॥ २९ ॥
@@ -652,6 +1162,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु हीगागबेड. ई गादॆयन्नु निन्न जीवनदल्लि सार्थकपडिसबेड. राजनु हेळिदन्तॆ स्वीकरिसिको (श्रीरामनिगॆ पट्टाभिषेक नडॆयलि). तन्न पतिय इच्छॆयन्नु अनुसरिसि, ई जनसमुदायक्कॆ शरण्यळागु.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. na bhava* = do not become; *evam* = like this;
+*gR^ihaaNa* = understand; *idam* = that; *aha* = which is said;
+*vasudhaadhipaH* = by the king; *upaasva* = following; *ichchaam* = the
+desire; *bhartuH* = of your husband; *bhava* = be; *gatiH* = a protectress;
+*asya janasya* = to these people; *iha* = here.
+
+**अनुवादः**
+
+Do not conform to the traits of your mother. Understand that which is said by the
+king. following the desire of your husband, be a protectress to these people here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +1209,25 @@ _________________
 पापपूर्ण विचारवुळ्ळ जनर कुतन्त्रक्कॆ तुत्तागि नीनु देवेन्द्रनन्तह तेजस्वी नम्म लोकप्रतिपालक ऒडॆयनन्नु अनुचित कर्मदल्लि तॊडगिसबेड.॥30॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. protsaahitaa* = Incited; *paapaiH* = by the evil minded;
+*tvam* = you; *maa upaadadhaaH* = do not put before the public; *asaddhaarmam*
+= an improper course of conduct; *bhartaaram* = of your husband; *devaraaja
+samprabham* = whose splendour is equal to the king Devendra; *lokabhartaaram* = and who
+is a protector of this world.
+
+**अनुवादः**
+
+"Incitedby the evil minded, do not put before the public an improper course of
+conduct of your husband who spendour is equal to that of king Devendra and who is a protector of
+this world.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** हि मिथ्या प्रतिज्ञातं  
@@ -705,6 +1252,23 @@ _________________
 देवि! कमलनयन श्रीमान् दशरथराजरु पापदिन्द दूरविरुत्तारॆ. अवरु तम्म प्रतिज्ञॆयन्नु सुळ्ळागिसलाररु.॥31॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. devii* = Oh; *queen! dasharathaH* = Dasaratha;
+*anagaH* = the faultless man; *shriimaan* = the Majesty; *raajiivalochanaH* =
+the lotus-eyed man; *raajaa* = the king; *nakarishhyati hi* = cannot indeed make;
+*mithyaa* = untrue; *pratiJNaatam* = the promise given; *tava* = to you.
+
+**अनुवादः**
+
+"Oh, Kaikeyi! Dasaratha the faultless man, the majesty, the lotus-eyed man and the
+king cannot indeed belie the promise given to you(Hence, you alone has to change your opinion)"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठो वदान्यः कर्मण्यः  
@@ -719,6 +1283,12 @@ _________________
 रक्षिता जीवलोकस्य बली रामोऽभिषिच्यताम् ॥ ३२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ज्येष्ठो वदान्यः कर्मण्यः स्वधर्मपरिरक्षिता ।
+रक्षिता जीवलोकस्य बली रामोऽभिषिच्यताम् ॥ २-३५-३२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीरामचन्द्रजी अपने भाइयोंमें ज्येष्ठ, उदार, कर्मठ, स्वधर्मके पालक, जीवजगत् के रक्षक और बलवान् हैं । इनका इस राज्यपर अभिषेक होने दो ॥ ३२ ॥
@@ -727,6 +1297,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनु ज्येष्ठनू, उदारनू, कर्मठनू, स्वधर्मपालकनू, जीव जगत्तिन रक्षकनू, बलिष्ठनू आगिरुवनु. अवन ई राज्यदल्लि पट्टाभिषेकवागलि.॥32॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. raamaH* = Rama; *jyeshhTaH* = the eldest;
+*vadaanyaH* = the generous; *karmaNyaH* = the skilled; *svadharma
+parirakshhitaa* = the saviour of one's own righteousness; *jiivalokasya* = of the world
+of living being; *balii* = the strong; *abhishhichyataam* = be installed on the
+throne(of Ayodhya).
+
+**अनुवादः**
+
+"Let Rama the eldest(of the sons) who is generous strong skilled, capable of
+protecting his own duty as Kshatriya but also of protecting the world of living beings, be
+installed on the throne of Ayodhya"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +1335,12 @@ _________________
 यदि रामो वनं याति विहाय पितरं नृपम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+परिवादो हि ते देवि महान्लोके चरिष्यति ।
+यदि रामो वनम् याति विहाय पितरम् नृपम् ॥ २-३५-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देवि! यदि श्रीराम अपने पिता राजा दशरथको छोड़कर वनको चले जायँगे तो संसारमें तुम्हारी बड़ी निन्दा होगी ॥ ३३ ॥
@@ -754,6 +1349,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! श्रीरामनु तन्न तन्दॆयन्नु बिट्टु वनवासक्कॆ हॊरटुहोदरॆ जगत्तिनल्लि निन्न भारी निन्दनॆयागुवुदु.॥33॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. devi* = Oh; *Kaikeyi! raamaH* = Rama; *vihaaya* =
+leaving; *pitaram* = his father; *nR^ipam* = the king; *yaati yadi* = and in
+case goes; *vanam* = to the forest; *mahaan* = a great; *parivaadaH* =
+accusation; *charishhyati* = will surely roam; *te* = about you;
+*charishhyati* = in the world.
+
+**अनुवादः**
+
+"Oh, Kaikeyi! A great accusation will surely roam about you in the world, if Rama
+leaving his royal father goes to the forest.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +1383,12 @@ _________________
 नहि ते राघवादन्यः क्षमः पुरवरे वसन् ॥ ३४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स राज्यम् राघवः पातु भवत्वम् विगतज्वरा ।
+न हि ते राघवादन्यः क्षमः पुरवरे वसेत् ॥ २-३५-३४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अतः श्रीरामचन्द्रजी ही अपने राज्यका पालन करें और तुम निश्चिन्त होकर बैठो । श्रीरामके सिवा दूसरा कोई राजा इस श्रेष्ठ नगरमें रहकर तुम्हारे अनुकूल आचरण नहीं कर सकता ॥ ३४ ॥
@@ -778,6 +1397,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द श्रीरामचन्द्रने नम्म राज्यवन्नु पालिसलि हागू नीनु निश्चिन्तळागि कुळितुको. श्रीरामनल्लदॆ बेरॆ यारू ई श्रेष्ठ नगरदल्लि इद्दु निनगॆ अनुकूल आचरण माडलाररु.॥34॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. saH raama* = Rama of that king; *paatu* = should protect;
+*raajyam* = the kingdom; *bhava* = be; *tvam* = you; *vigata jvaraa* =
+free from distres; *na vaset* = there is no one existing; *puravare* = in this
+excellent city; *te* = of yours; *anyaH* = other; *raamavaat* = then Rama;
+*samardhaH* = who is competent.
+
+**अनुवादः**
+
+"Let Rama of that character protect this kingdom! Be you free from distress. There
+is none other than Rama living in your excellent city who is competent to rule this Ayodhya"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -804,6 +1441,25 @@ _________________
 श्रीरामनु युवराज पदवियल्लि प्रतिष्ठितनाद बळिक महाधनुर्धर दशरथराजरु पूर्वजर वृत्तान्तवन्नु स्मरिसि स्वतः वनक्कॆ होगुवरु.॥35॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. raame* = Rama; *yauvaraajyasthe* = being installed in the
+office of Price Regent; *dasarathaH* = Dasaratha; *raajaa* = the king;
+*maheshhvaasaH* = the wielder of the great bow; *pravekshhyati hi* = will surely have
+recourse; *vanam* = to the forest; *anusmaran* = cherishly recollecting; *puurva
+vR^ittam* = the conduct of his forebears.
+
+**अनुवादः**
+
+"In the event of Rama being installe din the office of the prince Regent, King
+Dasaratha wielder of the great bow will surely have recourse to the forest, cherishly recollecting
+the conduct of his forebears"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सान्त्वैश् च तीक्ष्णैश् च  
@@ -824,6 +1480,14 @@ _________________
 न चास्या मुखवर्णस्य लक्ष्यते विक्रिया तदा ॥ ३७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इति सान्वैश्च तीक्ष्णै कैकेयीम् राजसंसदि ।
+सुवन्त्रः क्षोभयामास भूय एव कृताञ्जलिः ॥ २-३५-३६
+नैवसाक्षुभ्यते देवी न च स्म परिदूयते ।
+न चास्या मुखवर्णस्य विक्रिया लक्ष्यते तदा ॥ २-३५-३७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार सुमन्त्रने हाथ जोड़कर कैकेयीको उस राजभवनमें सान्त्वनापूर्ण तथा तीखे वचनोंसे भी बारम्बार विचलित करनेकी चेष्टा की; किंतु वह टस-से-मस न हुई । देवी कैकेयीके मनमें न तो क्षोभ हुआ और न दुःख ही । उस समय उसके चेहरेके रंगमें भी कोई फर्क पड़ता नहीं दिखायी दिया ॥ ३६-३७ ॥
@@ -832,6 +1496,41 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार सुमन्त्रनु कैमुगिदु कैकेयिगॆ आ राज भवनदल्लि सान्त्वनपूर्वक हागू तीक्ष्णवाद मातुगळिन्द पदे-पदे विचलितगॊळिसलु प्रयत्निसिदनु. आदरॆ आकॆयू तन्न निर्धारदिन्द कदललिल्ल. कैकेयिय मनस्सिनल्लि क्षोभवागली, दुःखवागली आगलिल्ल. आग आकॆय मुखभावदल्लियू यावुदे बदलावणॆ आगलिल्ल.॥36-37॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. saa devii* = that queen Kaikeyi; *naiva kshhubhyate* = did
+not get excted; *na pariduuyatesma* = was not reapented in her heart; *na lakshhyate*
+= nor was seen; *vikrayaacha* = even change in; *asyaaH* = her;
+*mukhavarNasya* = colour of the face; *tada* = then.
+
+**अनुवादः**
+
+That queen Kaikeyi, however, was neither excited nor repented in her heart nor was
+any change observed in the colour of her face.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. iti* = Thus; *sumantraH* = Sumantra;
+*kshhobhaayamaasa* = caused a shaking; *kaikeyiim* = to Kaikeyi;
+*raajasamsadi* = in the royal assemble; *saantvaishcha* = by his kind words;
+*tikshhNaishcha* = as well as his bitter words; *bhuuya eva* = repeatedly;
+*kR^itaaNjaliH* = with joined palms.
+
+**अनुवादः**
+
+Thus, Sumantra repeatedly with joint palms, caused a shaking to Kaikeyi in the royal
+assmebly, by his kind words as well as bitter words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -2,6 +2,19 @@
 title = "०६३ कुम्भकर्णेन रावणाश्वासनम्"
 title_english = "063 Kumbhakarna reassures Ravana"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Kumbhakarna abuses Ravana for his utter disregard of the earlier advices given by his
+well-wishers like Vibhishana, due to his sheer arrogance and neglect of the scriptures which enumerate
+the king's duties. Ravana replies to Kumbhakarna that bygone is a bygone and asks him to proceed to
+the battle-front. Then, Kumbhakarna reassures Ravana and promises him that all the adversaries would
+be destroyed by him in the ensuing battle.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-063-Kumbhakarna_reassures_Ravana_0.mp3"></div>
 </details>
@@ -73,6 +86,12 @@ _________________
 निरयेष्वेन पतनं यथा दुष्कृतकर्मणः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+श्रीघ्रम् खल्वभ्युपेतम् त्वाम् फलम् पापस्य कर्मणः ।
+निरयेष्वेव पतनम् यथा दुष्कृतकर्मणः ॥ ६-६३-३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम्हें शीघ्र ही अपने पापकर्मका फल मिल गया । जैसे कुकर्मी पुरुषोंका नरकोंमें पड़ना निश्चित है, उसी प्रकार तुम्हें भी अपने दुष्कर्मका फल मिलना अवश्यम्भावी था ॥ ३ ॥
@@ -81,6 +100,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निनगॆ बेगने तन्न पाप कर्मद फल दॊरकिदॆ. कॆट्ट कार्यमाडुववनु नरकदल्लि बीळुवुदु निश्चितविरुवन्तॆ निनगू कूड तन्न दुष्कर्मद फल सिगुवुदु खण्डित.॥3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. yathaa* = how; *duSkR^itakarmaNaH* = a performer of wicked deeds;
+*patanameva* = indeed falls; *nirayeSu* = into hells; (so also); *phalam paapasya karmaNaH*
+= a punishment for your sinful act; *upetam khalu* = has indeed reached; *tvaam* = you;
+*shiighram* = fast.
+
+**अनुवादः**
+
+"How a doer of wicked deeds indeed falls into damnation, so also a punishment for your
+sinful act has indeed reached your fast."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,6 +131,12 @@ _________________
 केवलं वीर्यदर्पेण नानुबन्धो विचारितः ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रथमम् वै महाराज कृत्यमेतदचिन्तितम् ।
+केवलम् वीर्यदर्पेणनानुबन्धो विचिन्तितः ॥ ६-६३-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाराज! केवल बलके घमंडसे तुमने पहले इस पापकर्मकी कोई परवा नहीं की । इसके परिणामका कुछ भी विचार नहीं किया था ॥ ४ ॥
@@ -103,6 +145,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजा! केवल बलगर्वदिन्द नीनु ई पापकर्मद परिवॆ माडलिल्ल. इदर परिणामवन्नु योचिसिये इल्ल.॥4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. mahaaraaja* = O emperor!; *etat* = this; *kR^ityam* =
+course of action; *achintitam* = was not expected; (by you); *prathamam* = at first;
+*anubandhaH* = the consequence; *na vichintitaH* = was not conceived; *kevalam viirya
+darpeNa* = only because of your arrogance of power.
+
+**अनुवादः**
+
+"O emperor! This course of action was not excepted by you at first. You did not conceive
+this consequence, only because of your sheer arrogance of power."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +186,24 @@ _________________
 ऐश्वर्यद अभिमानदिन्द मॊदलु माडबेकाद कार्यवन्नु कडॆगू, कडॆगॆ माडबेकाद कार्यवन्नु मॊदलिगॆ माडुववनु नीति-अनीतिगळन्नु तिळियुवुदिल्ल.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. yaH* = he who; *aasthitaH* = abiding in; *aishvaryam*
+= power; *kurvaat* = performs; *purvakaaryaaNi* = duties to be done at first; *pashchaat*
+= at a later stage; *uttarakaaryaaNi* = and duties to be done later; *puurvamcha* = at
+the first instance; *saH* = he; *na veda* = does not know; *nayaanayau* = the right
+course and the wrong course.
+
+**अनुवादः**
+
+"He who, abiding in power, performs duties to be done earlier at a later stage and duties
+to be done later, at an early stage, does not know what is a right course and what is a wrong course."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देशकालविहीनानि कर्माणि विपरीतवत् ।  
@@ -149,6 +226,22 @@ _________________
 याव कार्यवु उचितवाद देश-कालविल्लदिद्दरू विपरीत स्थितियल्लि माडलागुवुदो, अदु संस्कारहीन अग्नियल्लि होमिसिद हविस्सिनन्तॆ निष्फलवागि केवल दुःखक्कॆ कारणवागुत्तदॆ.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. karmaaNi* = action; *kriyamaaNaani* = done; vipariitavat- perversely;
+*deshakaala vihiinaani* = regardless of space and time; *duSyanti* = get spoiled; *
+haviimSiva* = like offering oblations; *aprayateSu* = without making the fire well-prepared.
+
+**अनुवादः**
+
+"Action done perversely, regardless of space and time, get spoiled like offering oblations
+without properly making the fire well-prepared."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणां पञ्चधा योगं कर्मणां यः प्रपद्यते ।  
@@ -161,6 +254,12 @@ _________________
 सचिवैः समयं कृत्वा स सम्यग् वर्तते पथि ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+त्रयाणाम् पञ्चधा योगम् कर्मणाम् यः प्रपद्यते ।
+सचिवैः समयम् कृत्वा स सम्यगभिवर्तते ॥ ६-६३-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो राजा सचिवोंके साथ विचार करके क्षय, वृद्धि और स्थानरूपसे उपलक्षित साम, दान और दण्ड—इन तीनों कर्मोंके पाँच* प्रकारके प्रयोगको काममें लाता है, वही उत्तम नीति-मार्गपर विद्यमान है, ऐसा समझना चाहिये ॥ ७ ॥
@@ -169,6 +268,31 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 याव राजनु सचिवरॊन्दिगॆ विचार माडि क्षय, वृद्धि मत्तु स्थानरूपदिन्द उपलक्षितनाद साम, दान, दण्ड ई मूरु कर्मगळ ऐदु1 रीतियिन्द प्रयोगदल्लि तरुवनो, अवने उत्तम नीति मार्गदल्लि इद्दानॆ ऎन्दु तिळियबेकु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. yaH* = he; who; *kR^itvaa* = acts; *samaam* = according
+to an agreement; *sachivaiH* = with his counsellors; *prapadyate* = attains; *trayaanaam*
+= three types; *karmaNaam* = of duties; *yogam* = by harnessing; *paN^chadhaa*
+= five types of means; *sah* = he; *vartate* = abides; *samyak* = well; *pathi*
+= in a (right) course.
+
+**अनुवादः**
+
+"He, who acts according to an agreement done with his counsellors, considering three
+types of duties*, by harassing five types of means**, moves along a right course."
+
+**टिप्पनी**
+
+*1). Conclusion of peace through conciliation. 2) acceptance of allegiance through
+gift. 3) invasion, as a method of coercion. **1) The method of initiating an actions. 2) Personality
+and material to be worked upon. 3) Time and place of action. 4) Provision against mischance and 5) chances
+of success.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -201,6 +325,23 @@ _________________
 याव अरसनु नीतिशास्त्रक्कनुसार मन्त्रिगळॊन्दगॆ क्षया2दिगळ कुरितु उपयुक्त समयद विचार माडि अदरन्तॆ कार्यमाडुवनो, तन्न बुद्धियिन्द सहृदरन्नु गुरुतिसुत्तानो, अवने कर्तव्य-अकर्तव्यवन्नु तिळियबल्लनु.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. yaH* = which; *raajaa* = king; *chikiirSati* = intends
+to do; *samayamcha* = an agreement; *yathaagamanam cha* = according to law; *budhyate*
+= and understands; *buddhyaa* = through intellect; *sachivaiH* = and counsellors; *
+anupashyati* = and discovers; *suhR^idashcha* = through his friends; (he is on a right course).
+
+**अनुवादः**
+
+"A king who wishes to execute am agreement as per law, understands it through his own
+intellect as well as the counsellors and discovers it through his friends, is on a right course."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details><summary>पादटिप्पनी</summary>
 
 * जब अपनी वृद्धि और शत्रुकी हानिका समय हो तब दण्डोपयोगी यान (युद्धयात्रा) उचित है । अपनी और शत्रुकी समान स्थिति हो तो सामपूर्वक संधि कर लेना उचित है । तथा जब अपनी हानि और शत्रुकी वृद्धिका समय हो, तब उसे कुछ देकर उसका आश्रय ग्रहण करना उचित होता है ।
@@ -218,6 +359,12 @@ _________________
 भजेत पुरुषः काले त्रीणि द्वन्द्वानि वा पुनः ॥ ९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+धर्ममर्थम् च कामम् च सर्वान्वा रक्षसाम् पते ।
+भजते पुरुषः काले त्रिणि द्वन्द्वानि वा पुनः ॥ ६-६३-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसराज! नीतिज्ञ पुरुषको चाहिये कि धर्म,अर्थ या कामका अथवा सबका अपने समयपर सेवन करे अथवा तीनों द्वन्द्वोंका—धर्म-अर्थ, अर्थ-धर्म और काम-अर्थ इन सबका भी उपयुक्त समयमें ही सेवन करे* ॥
@@ -226,6 +373,30 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! नीतिज्ञ पुरुषनु धर्मा, अर्थ, काम अथवा ऎल्लवन्नू समयक्कनुसार सेविसबेकु. इल्लवे मूरु द्वन्द्वगळन्नु-धर्म-अधर्म, अर्थ-धर्म मत्तु काम-अर्थ इवॆल्लवन्नु उपयुक्त समयदल्ले सेविसबेकु..॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. rakSasaampate* = O king of demons!; *puruSaH* = a man; *bhajate*
+= resorts to; *dharmam* = virtue; *artham cha* = or wealth; *kaamam cha* = or pleasure;
+*sarvaanvaa* = or all; *triiNi* = three; *punaH dvandvaanivaa* = or again a twin
+combination of virtue and wealth or virtue and pleasure or wealth and pleasure; *kaale* = according
+to suitability of time.
+
+**अनुवादः**
+
+"O king of demons! A man resorts to virtue or worldly gain or pleasure or all the three
+together or a twin combination of virtue and worldly gain or virtue and pleasure or worldly gain and
+pleasure or worldly gain and pleasure, according to an appointed time*."
+
+**टिप्पनी**
+
+*The scriptures lay down that virtue should be pursued in the morning, worldly gain
+in the afternoon and sensuous pleasure at night. As an alternative, one is called upon to pursue
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -253,9 +424,42 @@ _________________
 ‘धर्म, अर्थ और काम—इन तीनोंमें धर्म ही श्रेष्ठ है; अतः विशेष अवसरोंपर अर्थ और कामकी उपेक्षा करके भी धर्मका ही सेवन करना चाहिये—इस बातको विश्वसनीय पुरुषोंसे सुनकर भी जो राजा या राजपुरुष नहीं समझता अथवा समझकर भी स्वीकार नहीं करता, उसका अनेक शास्त्रोंका अध्ययन व्यर्थ ही है ॥ १० ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. raajaavaa* = which sovereign king; *raajamaatro vaa* = or a
+crown price; *shrutvaa* = having heard; *yat* = which one; *shreSTham* = is the
+best; *eteSu triSu* = out of these three; *tat na avabudhyate* = does not keep it in mind;
+*tasya* = his; *bahushrutam* = extensive learning; *vyartham* = is in vain.
+
+**अनुवादः**
+
+"That sovereign king or crown prince, who, having heard which one is the best out of
+these three but does not keep it in mind, his extensive learning would be in vain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्म, अर्थ मत्तु काम ई मूररल्लि धर्मवे श्रेष्ठवागिदॆ. आद्दरिन्द विशेष सन्दर्भगळल्लि अर्थ मत्तु कामवन्नु उपेक्षॆ माडि धर्मवन्ने सेवन माडबेकु. इदन्नु विश्वासक्कॆ योग्यरादवरिन्द केळियू याव राजनु अथवा राजपुरुषनु तिळिदुकॊळ्ळुवुदिल्लवो, अथवा तिळिदरू स्वीकार माडुवुदिल्लवो अवनु माडिद अनेक शास्त्रगळ अध्ययन व्यर्थवागिदॆ.॥1.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. nishamya* = hearing; *paridevitam* = the lamentation; *tasya
+raakSasaraajasya* = of that Ravana; *kumbhakarNaH* = Kumbhakarna; *babhaaSe* = spoke;
+*idam vachanam* = these words; *prajahaasacha* = after laughing at a full volume.
+
+**अनुवादः**
+
+Hearing the lamentation of Ravana, Kumbhakarna laughed at a full volume and spoke as
+follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,6 +483,14 @@ _________________
 निषेवेतात्मवान्ल्लोके न स व्यसनमाप्नुयात् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+उपप्रदानम् सान्त्वम् च भेदम् काले च विक्रमम् ।
+योगम् च रक्षसाम् श्रेष्ठ तावुभौ च नयानयौ ॥ ६-६३-११
+काले धर्मार्थकामान्यः सम्मन्त्य्र सचिवैह् सह ।
+निषेवेतात्मवान् लोके न स व्यसनमाप्नुयात् ॥ ६-६३-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसशिरोमणे! जो मनस्वी राजा मन्त्रियोंसे अच्छी तरह सलाह करके समयके अनुसार दान, भेद और पराक्रमका, इनके पूर्वोक्त पाँच प्रकारके योगका, नय और अनयका तथा ठीक समयपर धर्म, अर्थ और कामका सेवन करता है, वह इस लोकमें कभी दुःख या विपत्तिका भागी नहीं होता ॥ ११-१२ ॥
@@ -287,6 +499,31 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसश्रेष्ठने ! याव राजनु मन्त्रिगळिन्द चॆन्नाद सलहॆ पडॆदु समयानुसार दान, भेद मत्तु पराक्रमगळन्नु हिन्दॆ हेळिद ऐदु प्रकारद योगगळन्नु आचरणॆयल्लि इरिसुवनो, नीति-अनीति तिळिदु आया कालगळल्लि धर्म, अर्थ कामगळन्नु सेविसुवनो, अवनु ई लोकदल्लि ऎन्दिगू दुःख अथवा विपत्तिगॆ भागियागुवुदिल्ल.॥11-12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+11; *12. shreSTha raakSasaam* = O the foremost of demons!; *yaH*
+= whoever; *sammantrya* = deliberates; *sachivaiH saha* = with his counsellors; *niSeveta*
+= and resorts to; *upapradaanam* = an act of giving away; *saantvam cha* = or conciliation;
+*bhedamcha* = or sowing dissension; *kaale* = at suitable occasion; *vikramamcha*
+= or exhibits valour; *yogamcha* = or resorts to them al together; *ubhau tau* = or takes
+recourse to both; *nayaanayau* = right action and the reverse of it; *kaale* = at the
+right time; *dharmaartha kaamaan* = or pursues virtue or worldly gain or pleasure; (at the appropriate
+occasion); *saH aatmavaan* = that intelligent man; *naapuuyaat* = never confronts; *
+vyasanam* = a misfortune; *loke* = in the world.
+
+**अनुवादः**
+
+"O the foremost of demons! Whosoever deliberates with his counsellors and resorts to
+an act of with his counsellors and resorts to an act of bestowing gifts or conciliation or sowing dissension
+at appropriate occasion or exhibits valour or resorts to them all together or takes recourse to both
+right action and the reverse of it at the right time or pursues virtue or worldly gain or pleasure at
+the appropriate time, that intelligent person never confronts a misfortune in this world."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -311,6 +548,25 @@ _________________
 राजनु अर्थतत्त्वज्ञ हागू बुद्धिजीविगळाद मन्त्रिगळिन्द सलहॆ पडॆदु, तनगॆ परिणामदल्लि हितकरवागि काणुव कार्यवन्ने माडबेकु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. raajaa* = a king; *kuryaat* = has to do; *kaaryam* =
+an act; *iha* = here; *aalokya* = looking into; *aatmanaH hitaanubandham* = his
+welfare as a consequence; *sachivaiH saha* = along with his counsellors; *buddhi jiivibhiH*
+= subsisting by their intelligence; *artha tattvaJNaiH* = and understanding the true state of
+the things.
+
+**अनुवादः**
+
+"A sovereign has to do an act here, looking into his welfare as a consequence along with
+his counsellors who make their subsistence by their intelligence and who understand the true state of
+the things."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनभिज्ञाय शास्त्रार्थान् पुरुषाः पशुबुद्धयः ।  
@@ -326,6 +582,12 @@ _________________
 प्रागल्ब्याद्वक्तु मिच्छन्ति मन्त्रिष्वभ्यन्तरीकृताः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अनभिज्ज़्नाय शास्त्रार्थान् पुरुषाः पशुबुद्धयः ।
+प्रागल्भ्याद्वक्त्मिच्छिन्ति मन्त्रेष्वभ्यन्तरीकृताः ॥ ६-६३-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो पशुके समान बुद्धिवाले किसी तरह मन्त्रियोंके भीतर सम्मिलित कर लिये गये हैं, वे शास्त्रके अर्थको तो जानते नहीं, केवल धृष्टतावश बातें बनाना चाहते हैं ॥
@@ -334,6 +596,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पशुविनन्तॆ बुद्धियुळ्ळ, पुरुषरु शास्त्रार्थवन्नु सरियागि तिळियदॆ मन्त्रालोचनॆ यल्लि दिट्टतनदिन्द बेकाद हागॆ मातनाडुत्तारॆ.॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. puruSaaH* = men; *pashubuddhayaH* = with brutal ideas; *abhyantariikR^itaaH*
+= initiated in; *mantreSu* = consultations; *ichchhanti* = desire; *vaktum* = to
+tell; *praagalbhyaat* = haughty things; *anabhiJNaaya* = without knowing; *shaastraarthaan*
+= the precepts of the scriptures.
+
+**अनुवादः**
+
+"Men with brutal ideas, who are initiated in discussions, aspire to tell haughty things,
+without fully knowing the precepts of the scriptures."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +640,23 @@ _________________
 शास्त्रज्ञानशून्यराद, अर्थशास्त्रवन्नु तिळियद, हेरळ सम्पत्तन्नु बयसुव अयोग्यमन्त्रिगळु हेळिद मातन्नु ऎन्दू केळबारदु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. vachaH* = the words; *abhihitam* = spoken by; *teSaam*
+= them; *ashaastra viduSaam* = who do not know the scriptures; *artha shaastraanabhiJNaanaam*
+= who do not recollect the books dealing with practical life; *ichchhaataam* = and who covet
+for; *vipulaam* = abundant; *shriyam* = wealth; *na kaaryam* = are not to be implemented.
+
+**अनुवादः**
+
+"The words spoken by those who did not know the scriptures, who do not recollect the
+books dealing with practical life and who covet for abundant wealth are not to be implemented."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहितं च हिताकारं धार्ष्ट्याज्जल्पन्ति ये नराः ।  
@@ -386,6 +682,23 @@ _________________
 यारु नाचिकॆयिल्लदॆ अहितवादुदन्ने हितवॆन्दू हेळुववरु निश्चयवागि सलहॆ कॊडलु योग्यरल्ल. आद्दरिन्द अवरन्नु ई राजकार्यदिन्द दूरविडबेकु. अवरिन्द कार्यहानिये आगुवुदु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. ye* = whoever; *naraaH* = men; *jalpanti* = talk; *
+dhaarSTyaat* = with audacity; *aitam* = inimical things; *hitaakaaram* = in a friendly
+form; *kartavyaaH* = are to be kept; *mantrabaahyaaH* = out of deliberations; *te*
+= (as) they; *avashyam* = certainly; *kR^itya duuSakaaH* = spoil the work to be done.
+
+**अनुवादः**
+
+"Those men who talk with audacity, some inimical things in a friendly way, are to be
+kept out of deliberations, as they certainly spoil the work to be done."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनाशयन्तो भर्तारं सहिताः शत्रुभिर्बुधैः ।  
@@ -406,6 +719,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆलवु कॆट्टमन्त्रिगळु साम-दानादि उपायगळन्नु तिळिद शत्रुगळॊन्दिगॆ सेरि, तन्न ऒडॆयन विनाशमाडलॆन्दे अवनिन्द विपरीतवाद कार्यगळन्नु माडिसुत्तारॆ.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. iha* = here; *mantriNaH* = (some) counsellors; *sahitaH*
+= joined with; *budhaiH* = learned; *shatrubhiH* = adversaries; *vinaashayantaH*
+= spoil; *bhartaaram* = their king; *kaarayanti* = and make them do; *vipariitaani
+kR^ityaani* = wrong deeds.
+
+**अनुवादः**
+
+"Some counsellors, colluding with some learned adversaries, spoil their king and make
+them do wrong deeds."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +763,25 @@ _________________
 यावुदे वस्तुविन अथवा कार्यद निश्चयक्कागि मन्त्रिगळ सलहॆ पडॆयुवाग राजनु व्यावहारिकवागियो, अवनु लञ्च पडॆदु शत्रुगळॊन्दिगॆ सेरिद्दानो, राजन मित्रनन्तॆ इद्दु वास्तववागि शत्रुविन कॆलस माडुत्तिरुवनो ऎन्दु तिळिदुकॊळ्ळबेकु.॥18॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. bhartaa* = the king; *jaaniiyaat* = should make out; *vyavahaareNa*
+= during deals; *mantra nirNaye* = when a final settlement is taken after deliberation; *taan*
+= such of those; *sachivaan* = counsellors; *upa samhitaan* = who were transformed by
+bribery and other things; *amitraan* = (those) enemies; *mitrasamkaashaan* = looking like
+friends.
+
+**अनुवादः**
+
+"The king should make-out those ministers who have been transformed by the enemy to their
+side (through bribery and other things) and are enemies though looking like friends, through their conduct
+when a final decision is being taken after deliberation."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चपलस्येह कृत्यानि सहसानुप्रधावतः ।  
@@ -443,6 +792,12 @@ _________________
 
 चपलस्येह कृत्यानि सहसानुप्रधावतः ।  
 छिद्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः ॥ १९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+चपलस्येह कृत्यानि सहसानुप्रधावतः ।
+चिद्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः ॥ ६-६३-१९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -455,6 +810,25 @@ _________________
 चञ्चल चित्तनाद राजनु बण्णद मातन्नु केळि सन्तुष्टनागुवनो, यावुदे विचार माडदॆ ऒम्मॆगॆ यावुदादरू कार्यक्कागि ओडुवनो, अवन आ छिद्र (दौर्बल्य)वन्नु, क्रौञ्चपर्वतद छिद्रवन्नु, पक्षिगळु तिळियुवन्तॆ, शत्रुगळु तिळिदुकॊळ्ळुवरु. (क्रौञ्चपर्वद छेददिन्द पक्षिगळु आ कडॆ ई कडॆ बन्दु होगुवन्तॆ शत्रुवू कूड राजन छिद्रद अथवा दौर्बल्यद लाभ पडॆयुवरु.॥19॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. anye* = outsiders; *prapadyante* = find out; *chapalasya*
+= the fickleness (of a ruler) anupradhaavataH = who is led away by false appearances; *sahasaa*
+= and quickly; *kR^ityaani* = performs the acts; *dvijaaH iva* = as birds; *kham*
+= (discover) the hole (made by the arrow of Skanda; the Commander-in-chief of the gods); *krounchasya*
+= in the Krauncha mountain.
+
+**अनुवादः**
+
+"Outsiders find out the fickleness of a ruler, who is led away by false appearances and
+quickly performs the acts, as birds discover the hole (made by the arrow of Skanda, the commander-in-chief
+of gods) in the Kruancha mountain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि शत्रुमवज्ञाय आत्मानं नाभिरक्षति ।  
@@ -465,6 +839,12 @@ _________________
 
 यो हि शत्रुमवज्ञाय आत्मानं नाभिरक्षति ।  
 अवाप्नोति हि सोऽनर्थान् स्थानाच्च व्यवरोप्यते ॥ २० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यो हि शत्रुमवज्ञाय नात्मानमभिरक्षति ।
+अवाप्नोति हि सोऽनर्थान् स्थानाच्च व्यवरोप्यते ॥ ६-६३-२०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -477,6 +857,23 @@ _________________
 याव राजनु शत्रुविन अवहेळन माडि, तन्न रक्षणॆय व्यवस्थॆ माडिकॊळ्ळुवुदिल्लवो, अवनु अनेक अनर्थगळिगॆ गुरियागि, तन्न राज्यवन्नु कळॆदुकॊळ्ळुत्तानॆ.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. yaH* = He who; *avaJNaaya* = disregards; *shatrum* =
+an enemy; *naabhirakSati* = and does not protect; *aatmaanam* = himself; *saH*
+= he; *avaaproti hi* = indeed faces; *anarthaan* = disappointing occurrences; *vyavaropyate*
+= and would be removed; *sthaanaat* = from his position.
+
+**अनुवादः**
+
+"A king who disregards an enemy and does not protect himself, indeed faces disappointing
+occurrences and would be removed from his position."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदुक्तमिह ते पूर्वं प्रियया मेऽनुजेन च ।  
@@ -489,6 +886,12 @@ _________________
 तदेव नो हितं वाक्यं यथेच्छसि तथा कुरु ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यदुक्तमिह ते पूर्वम् क्रियतामनुजेन च ।
+तदेव नो हितम् वाक्यम् यदिच्छसि च तत्कुरु ॥ ६-६३-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम्हारी प्रिय पत्नी मन्दोदरी और मेरे छोटे भाई विभीषणने पहले तुमसे जो कुछ कहा था, वही हमारे लिये हितकर था । यों तुम्हारी जैसी इच्छा हो, वैसा करो’ ॥
@@ -497,6 +900,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न प्रिय पत्नि मन्दोदरी मत्तु तम्म विभीषणनु हिन्दॆ निन्नल्लि हेळिदुदे नमगागि हितकरवागित्तु. इन्नु निन्न इच्छॆ इद्दन्तॆ माडु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. yat* = whichever (advice); *uktam* = was tendered; *anujena*
+= by Vibhishana; *puurvam* = earlier; *kriyataam* = let it be done; *tat vaakyameva*
+= that advice alone; *hitam* = is beneficial; *naH* = to us; *kuru* = (otherwise)
+do; *tat* = it; *yat* = whatever; *ichchhasi* = you wish.
+
+**अनुवादः**
+
+"That advice which was tendered to you earlier by vibhishana is beneficial to us. Do
+whatever you wish to do."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +944,23 @@ _________________
 कुम्भकर्णन मातन्नु केळि दशग्रीव रावणनु हुब्बेरिसिकॊण्डु कुपितनागि नुडिदनु.॥22॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. shrutvaa* = on hearing; *tat bhaaSitam* = those words; *kumbhakarNasya*
+= of Kumbhakarna; *dashagriivaH tu* = Ravana; on his part; *samchakre* = twisted; *
+bhrukuTim* = his eye-brows; *abhaaSata* = and spoke; *enam* = this; *kruddhasheha*
+= with anger.
+
+**अनुवादः**
+
+On hearing those words of Kumbhakarna, Ravana, on his part, twisted his eye-brows in
+anger and spoke the following words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान्यो गुरुरिवाचार्यः किं मां त्वमनुशाससे ।  
@@ -539,6 +976,12 @@ _________________
 किमेवं वाक्श्रमं कृत्वा यद् युक्तं विधीयताम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मन्यो गुरुरिवाचार्यः कि माम् त्वमनुशाससे ।
+किमेवम् वाक्ष्रमम् कृत्वा काले युक्तम् विधीयताम् ॥ ६-६३-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम माननीय गुरु और आचार्यकी भाँति मुझे उपदेश क्यों दे रहे हो? इस तरह भाषण देनेका परिश्रम करनेसे क्या लाभ होगा? इस समय जो उचित और आवश्यक हो, वह काम करो ॥ २३ ॥
@@ -547,6 +990,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु मान्य गुरु, आचार्यनन्तॆ ननगॆ उपदेश एकॆ कॊडुत्तिरुवॆ? ईरीति भाषण माडुवुदरिन्द एनु लाभविदॆ? ईग उचितवाद हागू आवश्यकवाद कार्यवन्नु माडु.॥23॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. kim* = why; *tvam* = are you; *anushaasate* = advising;
+*maam* = me; *maanyaH iva* = like a venerable; *guruH aachaaryaH* = great teacher?;
+*kim* = what is the use; *kR^itvaa* = in getting; *vaakshramam* = weariness of
+speech?; *yuktam* = let a befitting work; *kaale* = appropriate to the time; *vidhiiyataam*
+= be done.
+
+**अनुवादः**
+
+"Why are you advising me like a venerable great teacher? What is the use in getting wearied
+of your speech? Let a work, most befitting of time, be performed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +1035,23 @@ _________________
 नानु भ्रमॆयिन्द, मोहपरवशतॆयिन्द, बल-पराक्रमद भरवसॆयिन्द, निम्म मातन्नु मान्यमाडलिल्लवॆम्बुदु निज. अदन्नु पुनः पुनः चर्चिसुवुदु व्यर्थवागिदॆ.॥24॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. idaaniim* = now; *vyarthaa* = it is a waste; *punaH kathaa*
+= to tell again; *tasya* = of that; *yat* = which; *naabhipannam* = was wrongly
+done; (before); *vibramaat* = by mistake; *chittamohaadvaa* = or by illusion of mind;
+*balaviiryaashrayeNa vaa* = or by taking shelter in strength or prowess.
+
+**अनुवादः**
+
+"Now, it is a waste to tell again of that act which was wrongly done before, either by
+mistake or by an illusion of mind or by taking shelter in strength and prowess."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् काले तु यद् युक्तं तदिदानीं विचिन्त्यताम् ।  
@@ -588,6 +1066,11 @@ _________________
 ममापनयजं दोषं विक्रमेण समीकुरु ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ममापनयजं दुःखम् विक्रमेण समीकुरु ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो बात बीत गयी, सो तो बीत ही गयी । बुद्धिमान् लोग बीती बातके लिये बारंबार शोक नहीं करते हैं । अब इस समय हमें क्या करना चाहिये, इसका विचार करो । अपने पराक्रमसे मेरे अनीतिजनित दुःखको शान्त कर दो ॥ २५ ॥
@@ -596,6 +1079,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कळॆदुहोद मातु मरॆतुबिडु. कळॆदुहोद मातिगागि बुद्धिवन्तरु शोकिसुवुदिल्ल. ईग नावु एनु माडबेकॆम्बुदन्नु योचिसु. निन्न पराक्रमदिन्द नन्न अनीति जनित दुःखवन्नु शान्तगॊळिसु.॥25॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. yat* = (Let) whatever; *yuktam* = be appropriate; *asmin*
+= at this; *kaale* = point of time; *vichintyataam* = be thought of; *idaaniim*
+= now; *na anushochanti* = (wise men) do not repent over; *gatam* = the past; *gatam
+tu* = past still; *gatameva hi* = is indeed the past.
+
+**अनुवादः**
+
+"Let whatever be appropriate at this moment be thought of now. Wise men do not repent
+over the past. Past is indeed but the past."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,6 +1113,12 @@ _________________
 यदि वा कार्यम्ममैतत्ते हृदि कार्यतमं मतम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+६-६३-२६
+यदि कार्यम् ममैतत्ते हृदि कार्यतमम् मतम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि मुझपर तुम्हारा स्नेह है, यदि अपने भीतर यथेष्ट पराक्रम समझते हो और यदि मेरे इस कार्यको परम कर्तव्य समझकर हृदयमें स्थान देते हो तो युद्ध करो ॥
@@ -621,6 +1127,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न मेलॆ निनगॆ स्नेहविद्दरॆ, निन्नॊळगॆ यथेष्ट पराक्रमविदॆ ऎन्दु तिळियुत्तिरुवॆयादरॆ, नन्न ई कार्यवन्नु परम कर्तव्यवॆन्दु तिळियुवॆयादरॆ, युद्धमाडु.॥26॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. snehaH asti khalu yadi* = If you have affection indeed; *me*
+= for me; *adhigachchhasi vaa* = or if you discover; *vikramam* = (your own) prowess;
+*matam yadi* = and if you think fit; *etat* = this; *te hR^idi* = in your heart;
+(that); *mama* = my; *kaaryam* = work; *kaaryatamam* = very much is to be done;
+*samiikuru* = nullify; *vikrameNa* = with your prowess; *duHkham* = the hardship;
+*mama apanayajam* = born out of my wicked conduct.
+
+**अनुवादः**
+
+"If you have affection indeed for me or if you discover your own prowess and if you think
+it fit in your heart that my work is to be done very much, you nullify the hardship, born out of my
+wicked conduct, by your prowess."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -648,6 +1174,24 @@ _________________
 ऎल्ल कार्यनाशवादाग दुःखितनाद स्वजनन मेलॆ अनुग्रह बुद्धियिन्द सहाय माडुववने सुहृदनु. अनीतियिन्द सङ्कटदल्लि बिद्दिरुववनिगॆ सहाय माडुववने बन्धु आगिद्दानॆ.॥27॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. yaH* = he; who; *abhyupadyate* = rescues; *diinam* =
+an afflicted soul; *vipannaartham* = whose fortune is ruined; *saH* = he; *suhR^it*
+= is the real friend; *yaH* = he; who; *upakalpate* = is ready at hand; *saahaayyaaya*
+= to help; *apaniiteSu* = those who have deviated from the right course; *saH* = he;
+*bandhuH* = is kinsman.
+
+**अनुवादः**
+
+"He who rescues an afflicted soul, whose fortune is ruined, he is the real friend. He
+who is ready at hand to help those who have deviated from the right course, is a kinsman."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमथैवं ब्रुवाणं स वचनं धीरदारुणम् ॥ २८ ॥  
@@ -663,6 +1207,12 @@ _________________
 रुष्टोऽयमिति विज्ञाय शनैः श्लक्ष्ण मुवाच ह ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तमथैवम् ब्रुवाणम् स वचनम् धीरदारुणम् ॥ ६-६३-२८
+रुष्ट्ऽयमिति विज्ञाय शनैः श्लक्ष्णमुवाच ह ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणको इस प्रकार धीर एवं दारुण वचन बोलते देख उसे रुष्ट समझकर कुम्भकर्ण धीरे-धीरे मधुर वाणीमें कुछ कहनेको उद्यत हुआ ॥ २८ १/२ ॥
@@ -671,6 +1221,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणनु हीगॆ दारुणवाद मातुगळन्नाडुवुदन्नु नोडि, अण्णनिगॆ सिट्टु बन्दिदॆ ऎन्दु तिळिदु कुम्भकर्णनु मॆल्लनॆ मधुरवाणियिन्द हेळतॊडगिदनु.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. atha* = thereupon; (hearing); *vachanam* = the words; *dhiiradaaruNam*
+= which were deeply harsh; *evam* = thus; *bruvaaNam* = spoken; *tam* = by Ravana;
+*viJNaaya* = and understanding; *ayam iti* = that he; *ruSTaH* = is enraged;
+*saH* = Kumbhakarna; *uvaacha ha* = spoke; *shanaiH* = slowly; *shlakSNam*
+= as and smoothly.
+
+**अनुवादः**
+
+Thereupon, hearing those deeply harsh words spoken by Ravana and understanding that he
+is quite enraged, Kumbhakarna spoke slowly and smoothly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -690,9 +1258,45 @@ _________________
 उसने देखा मेरे भाईकी सारी इन्द्रियाँ अत्यन्त विक्षुब्ध हो उठी हैं; अतः कुम्भकर्णने धीरे-धीरे उसे सान्त्वना देते हुए कहा— ॥ २९ १/२ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. samaalakSya* = observing; *bhraataram* = that his brother;
+*atiiva* = is highly; *kSubhitendriyam* = perturbed and excited of is senses; *kumbhakarNaH*
+= Kumbhakarna; *pari saantvayan* = consoling (him); *babhaaSe* = spoke; *vaakyam*
+= the following words; *shanaiH* = gently.
+
+**अनुवादः**
+
+Observing that his brother is highly perturbed and excited of his senses, Kumbhakarna,
+while consoling him, gently spoke the following words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अण्णन इन्द्रियवॆल्ल अत्यन्त क्षुब्धवागिरुवुदन्नु नोडि, कुम्भकर्णनु निधानवागि अवनिगॆ स्वान्तन नीडुत्ता हेळिदनु.॥2.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. yaH* = which; *doSaH* = bad consequence; *dR^iStaH* =
+was imagined; *asmaabhiH* = by us; *mantranirNaye* = at a settlement of our counsel;
+*puraa* = earlier; *saH ayam* = this same one; *aasaaditaH* = is obtained; *
+tvayaa* = by you; *hiteSu anabhiyuktena* = due to the disregard of well-wishers; *tvayaa*
+= by you.
+
+**अनुवादः**
+
+"The same bad consequence, which was imagined by us earlier while taking the final decision
+after our consultation, is faced by you now, due to your utter disregard of the words spoken by your
+well-wishers."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +1313,13 @@ _________________
 रोषं च सम्परित्यज्य स्वस्थो भवितुमर्हसि ॥ ३१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शृणु राजन्नवहितो मम वाक्यमरिंदम ॥ ६-६३-३०
+अलम् राक्षसराजेन्द्र सम्तापमुपपद्य ते ।
+रोषम् च सम्परित्यज्य स्वस्थो चवितुमर्हसि ॥ ६-६३-३१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘शत्रुदमन महाराज! सावधान होकर मेरी बात सुनो । राक्षसराज! संताप करना व्यर्थ है । अब तुम्हें रोष त्यागकर स्वस्थ हो जाना चाहिये ॥ ३०-३१ ॥
@@ -717,6 +1328,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुदमन महाराजने! सावधानवागि नन्न मातन्नु केळु. सन्तापपडुवुदु व्यर्थवागिदॆ. ईग नीनु रोषवन्नु त्यजिसि स्वस्थनागबेकु..॥30-31॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+30; *31. raajan* = O king; arimdama; the annihilator of adversaries!;
+*shruNu* = listen to; *mama* = my; *vaakyam* = words; *avahitaH* = attentively;
+*raakSasaraajendra* = O emperor of demons!; *alam* = enough; *upapadya* = of obtaining;
+*samtaapam* = the anguish; *samparityajya* = abandoning; *roSamcha* = your anger;
+*arhasi* = you ought; *bhavitum* = to be svasthaH = your normal self.
+
+**अनुवादः**
+
+"O king, the annihilator of adversaries! Listen to my words attentively. O emperor of
+demons! Enough of your giving way to the anguish. Abandoning your anger completely, you ought to be
+your normal self again."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -734,6 +1364,12 @@ _________________
 तमहं नाशयिष्यामि यत्कृते परितप्यसे ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नैतन्मनसि कर्तव्यम् मयि जीवति पार्थिव ।
+तमहम् नाशयिष्यामि यत्कृते परितप्येते ॥ ६-६३-३२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पृथ्वीनाथ! मेरे जीते-जी तुम्हें मनमें ऐसा भाव नहीं लाना चाहिये । तुम्हें जिसके कारण संतप्त होना पड़ रहा है, उसे मैं नष्ट कर दूँगा ॥ ३२ ॥
@@ -742,6 +1378,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पृथिवीपते! नानु बदुकिरुवाग इन्तह भावनॆ इरबारदु. नीनु यारिगागि सन्तप्तनागिरुवॆयो अवनन्नु नानु नाशमाडिबिडुवॆनु.॥32॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. paarthiva* = O king; *mayi jiivati* = until I live; *etat*
+= this; *na kartavyam* = is not to be formed; *manasi* = in your mind; *aham* =
+I; *naashayiSyaami* = shall destroy; *tam* = him; *yatkR^ite* = for whose account;
+*paritapyate* = you are feeling anguished.
+
+**अनुवादः**
+
+"O king! Until I live, this idea should not be formed in your mind. I shall destroy him,
+for whose account, you are feeling anguished."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,6 +1409,12 @@ _________________
 बन्धुभावादभिहितं भ्रातृस्नेहाच्च पार्थिव ॥ ३३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अवश्यम् च हितम् वाच्यम् सर्वावस्थाम् गतम् मया ।
+बन्धुभावादभिहितम् भ्रातृस्नेहाच्च पार्थिव ॥ ६-६३-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाराज! अवश्य ही सब अवस्थाओंमें मुझे तुम्हारे हितकी बात कहनी चाहिये । अतः मैंने बन्धुभाव और भ्रातृ-स्नेहके कारण ही ये बातें कही हैं ॥ ३३ ॥
@@ -764,6 +1423,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजने! ऎल्ल अवस्थॆगळल्लि निन्न हितद मातन्नु हेळुवुदु ननगॆ आवश्यकवागिदॆ. आद्दरिन्द बन्धुभावदिन्द मत्तु भ्रातृस्नेहदिन्दागिये ई मातन्नु नानु हेळिदॆ.॥33॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. paarthiva* = O; king!; *hitam* = a good advice; *vaachyam*
+= is to be given; *mayaa* = by me; *avashyam* = certainly; *sarvaavasthaam gatam*
+= to you; who got this situation of all sorts; *abhi hitam* = it was told; *bandhubhaavaat*
+= because of our relation; *bhraatR^i snchaashcha* = and brotherly affection.
+
+**अनुवादः**
+
+"O king! In whatever situation you are placed, I have to give certainly a good advice
+to you. I gave this advice, because of our relation and brotherly affection."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -791,6 +1467,23 @@ _________________
 ईग ऒब्ब सहोदरनु स्नेहवशवागि एनु माडुवुदु उचितवो अदन्ने माडुवॆनु. इन्नु रणभूमियल्लि नानु माडुव शत्रुसंहारवन्नु नोडुवॆ.॥34॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. asmin kaale* = at this juncture; *yat* = whatever; *sadR^isham*
+= is fit; *kartum* = to be done; *bandhunaa* = by a relative; *snehena* = by way
+of affection; *kriyamaaNam* = is being done; *mayaa* = by me; *raNe* = in battle;
+*shatruuNaam kadanam* = the destruction of adversaries; *pashya* = see it.
+
+**अनुवादः**
+
+"See that which is to be done and this juncture, out of affection by a brother, viz.
+the destruction of adversaries in battle, will be done by me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य पश्य महाबाहो मया समरमूर्धनि ।  
@@ -813,6 +1506,23 @@ _________________
 महाबाहो! इन्दु युद्धरङ्गदल्लि सहोदर सहित श्रीरामनन्नु नानु कॊन्दुहाकिदाग वानरसैन्यवु हेगॆ ओडिहोगुवुदो अदन्नु नीनु नोडुवॆयन्तॆ.॥35॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. pashya* = see; *mahaabaaho* = O mighty armed king!; *dravantiim*
+= the fleeing; *harivaahiniim* = army of monkeys; *adya* = today; *raame* = with
+Rama; *bhraatraasaha* = along with his brother; *hate* = being killed; *mayaa*
+= by me; *samara uurdhani* = in the forefront of battle-field.
+
+**अनुवादः**
+
+"See today, O mighty armed king, the fleeing army of monkeys and Rama along with his
+brother being killed by me in the fore-front of the battle-field."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य रामस्य तद् दृष्ट्वा मयाऽऽनीतं रणाच्छिरः ।  
@@ -825,6 +1535,12 @@ _________________
 सुखी भव महाबाहो सीता भवतु दुःखिता ॥ ३६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अद्य रामस्य तद्दृष्ट्वा मयानीतम् रणाच्छिरः ।
+सुखि भव महाबाहो सीता भवतु दुःखिता ॥ ६-६३-३६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाबाहो! आज मैं संग्रामभूमिमें रामका सिर काट लाऊँगा । उसे देखकर तुम सुखी होना और सीता दुःखमें डूब जायगी ॥ ३६ ॥
@@ -833,6 +1549,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्दु नानु सङ्ग्रामभूमियल्लि रामन तलॆ कत्तरिसि तरुवॆनु. अदन्नु नोडि नीनु सुखीयागुवॆ हागू सीतॆ दुःखदल्लि मुळुगिहोगुवळु.॥36॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. mahaabaaho* = O the mighty armed!; *dR^iSTvaa* = On seeing;
+*tat* = that; *raamasya shiraH* = Rama's head; *aaniitam* = being brought; *
+adya* = today; *raNaat* = from the battle; *bhava sukhii* = become pleased; *siitaa*
+= (Let) Seetha; *bhavatu* = be; *duHkhitaa* = unhappy.
+
+**अनुवादः**
+
+"O the mighty armed! Be happy by seeing that Rama's head, which I shall bring today from
+the battle. Let Seetha be unhappy."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -857,6 +1590,23 @@ _________________
 लङ्कॆयल्लि याव राक्षसर बन्धुगळु सत्तुहोगिरुवरो, अवरू कूड इन्दु रामन मृत्युवन्नु नोडलि. इदु अवरिगॆ बहळ प्रियवादीतु.॥37॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. ye* = which; *raakSasaaH* = demons; *laN^kaayaam* = in
+Lanka; *nihata baandhavaaH* = who lost their relative; *te sarve* = let all of them;
+*pashyantu* = see; *nidhanam* = the death; *raamasya* = of Rama; *sumahat priyat*
+= the most beloved; *adya* = today.
+
+**अनुवादः**
+
+"Let all those demons in Lanka, whose relatives have died in battle, witness the death
+of the most beloved Rama today."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य शोकपरीतानां स्वबन्धुवधशोचिनाम् ।  
@@ -877,6 +1627,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तम्म सहोदर बन्धुगळु सत्तुहोगिरुवुदरिन्द याव जनरु अत्यन्त शोकदल्लि मुळुगिरुवरो, इन्दु युद्धदल्लि शत्रुविन नाशगॊळिसि अवर कण्णीरु ऒरॆसुवॆनु.॥38॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*38. karomi* = I shall do; *adya* = today; *ashrupramaarjanam*
+= the act of wiping off tears; *shoka pariitaanaam* = of demons who are afflicted with grief;
+*svabandhu vadha shochinaam* = lamenting by the annihilation of their relatives; *shatroH
+vinaashena* = due to destroyable by the adversaries; *yudhi* = in combat.
+
+**अनुवादः**
+
+"Today, I shall do the act of wiping off tears of demons, who have been afflicted with
+grief and lamenting because of the destruction of their relatives in combat by the adversaries."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +1668,23 @@ _________________
 इन्दु पर्वतदन्तॆ विशालकाय वानरराज सुग्रीवनु समराङ्गणदल्लि रक्तदिन्द तॊय्दु नरळुत्ता इरुवुदन्नु सूर्यनॊड गूडिद मेघदन्तॆ काणुवुदन्नु नोडुवॆ.॥39॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. pashya* = see; *adya* = today; *samare* = in battle;
+*parvatasamkaasham* = the mountain-like; *sugriivam* = Sugreeva; *plavageshvaram*
+= the king of monkeys; *todaydam iva* = looking like a cloud; *sasuuryam* = (illuminated
+by) the sun; *prakiirNam* = thrown about; dissipated.
+
+**अनुवादः**
+
+"See today in battle, the mountain-like Sugreeva, the king of monkeys, looking like a
+cloud illuminated by the sun, thrown about, dissipated."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं च राक्षसैरेभिर्मया च परिसान्त्वितः ।  
@@ -913,6 +1697,12 @@ _________________
 जिघांसुभिर्दाशरथिं व्यथसे त्वं सदानघ ॥ ४० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कथम् च राक्षसैरेभिर्मया च परिसान्त्वितः ।
+जिघांसुभिर्दाशरथिम् व्यथसे त्वमिहानघ ॥ ६-६३-४०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘निष्पाप निशाचरराज! ये राक्षस तथा मैं—सब लोग दशरथपुत्र रामको मार डालनेकी इच्छा रखते हैं और तुम्हें इस बातके लिये आश्वासन देते हैं तो भी तुम सदा व्यथित क्यों रहते हो? ॥ ४० ॥
@@ -921,6 +1711,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनघने ई राक्षसरॆल्लरू हागू नानु दशरथ पुत्ररामनन्नु संहरिसुव इच्छॆयुळ्ळवरागिद्देवॆ. निनगॆ ई विषयदल्लि आश्वासनॆ कॊडुत्तिद्देवॆ, हीगिद्दरू नीनु एकॆ व्यथितनागिरुवॆ.॥40॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. anagha* = O faultless Ravana!; *katham cha* = why; *tvam*
+= are you; *vyathase* = agitated; *iha* = now; *parisaantvitaH* = when you are
+being consoled; *ebhiH raakSasaiH* = by these demons; *mayaa cha* = and by me; *jighaamsubhiH*
+= who are desirous of killing; *daasarathim* = Rama.
+
+**अनुवादः**
+
+"O faultless Ravana! Why are you agitated now, when you are being consoled by those demons
+and by me, who are desirous of killing Rama?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -938,6 +1745,12 @@ _________________
 नाहमात्मनि सन्तापं गच्छेयं राक्षसाधिप ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+माम् निहत्य किल त्वाम् हि निहनिष्यति राघवः ।
+नाहामात्मनि सम्तापम् गच्छेयम् राक्षसाधिप ॥ ६-६३-४१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसराज! पहले मेरा वध करके ही राम तुम्हें मार सकेंगे; किंतु मैं अपने विषयमें रामसे संताप या भय नहीं मानता ॥ ४१ ॥
@@ -946,6 +1759,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! मॊदलु नन्नन्नु वधिसिये रामनु निन्नन्नु कॊल्ल बल्लनु. आदरॆ नन्न विषयदल्लि रामनिन्द नानु भयपडुवुदिल्ल.॥41॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. raakSasaadhipa* = O king of demons!; *raaghavaH* = Rama; *
+nihatya* = after killing; *maam* = me; *nihaniSyati kila hi* = will indeed kill;
+*tvaam* = you; *aham* = I; *nagachchheyam* = do not undergo; *samtaapam*
+= regret; *aatmani* = for myself (on that account).
+
+**अनुवादः**
+
+"O king of demons! Rama will indeed kill you, only after killing me. On that account,
+I do not regret for myself."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -968,6 +1798,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 परन्तप पराक्रमी वीरने! ईग नीनु निन्न इच्छॆगनुसार युद्धक्कागि ननगॆ अप्पणॆ कॊडु. शत्रुगळॊडनॆ कादाडलु बेरॆ यार कडॆगू नोडुव आवश्यकतॆ ईगिल्ल.॥42॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. paramtapa* = O annihilator of enemies; *atula vikrama* = having
+unequal prowess!; *idaniimapi* = even now; *tvam vyaadisha* = you command; *maam*
+= me; *kaamam* = as you wish; *na paraH* = no other person; *prekSaNiiyaH* = need
+be sought; *yuddhaaya* = (for dispatch) to battle.
+
+**अनुवादः**
+
+"O Ravana, having unequal prowess and the annihilator of enemies! You can command me,
+even now, as you wish. No other person need be sought, for a dispatch to the battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,6 +1841,24 @@ _________________
 निन्न महाबलि शत्रु इन्द्र, यम, अग्नि, वायु, कुबेर, वरुण मॊदलादवरागिद्दरू नानु अवरॊडनॆ युद्धमाडुवॆनु हागू अवरॆल्लरन्नु कित्तु ऎसॆदुबिडुवॆनु.॥43½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*43. aham* = I; *utsaadayiSyaami* = can distroy; *tava shatruun*
+= your enemies; *mahaabalaan* = who have great strength; *aham* = I; *yodhayiSyaami*
+= can engage in combat; *taan* = those; *shakraH yadi* = whether Indra; *yamaH yadi*
+= or Yama; *paavaka maarutau yadi* = or the fire god or the wind-god; *kubera varuNaa vapi*
+= or Kubera or even Varuna.
+
+**अनुवादः**
+
+"I can destroy your enemies, who have a great strength. I can engage in combat with all
+those persons, whether he is Indra or Yama or the fire-god to the wind-god or even Varuna."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिमात्रशरीरस्य शितशूलधरस्य मे ॥ ४४ ॥  
@@ -1014,6 +1879,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्वतदन्तॆ ननगॆ विशाल शरीरविद्दु, कैयल्लि हरितवाद त्रिशूलवन्नु धरिसिरुवॆनु. नन्न कोरॆदाडॆगळू तीक्ष्णवागिवॆ. नन्न सिंहनाददिन्द इन्द्रनु भयदिन्द नडुगि होगुत्तानॆ.॥44½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*44. puramdaraH* = Indra also; *bibhiiyaatvai* = gets frightened;
+*me* = of me; *girimaatra shariirasya* = having a mountain-sized body; *shitashuula
+dharasya* = wielding a sharpened pike; *tiikSNa damSTrasya* = having pointed tusks; *nardataH*
+= and even as I roar.
+
+**अनुवादः**
+
+"Indra also gets frightened of me, having a mountain-sized body wielding a sharpened
+pike, having pointed tusks and even as I roar."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1041,6 +1923,23 @@ _________________
 नानु शस्त्रत्यागमाडि वेगदिन्द शत्रु गळन्नु अरॆयुत्ता सञ्चरिसतॊडगिदरॆ, बदुकुळियुव इच्छॆयुळ्ळ याव प्राणियू ऎदुरिगॆ निल्ललारनु.॥45½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. athavaa* = even otherwise; *me* = to me; *tyakta shastrasya*
+= who has given up all weapons; *mR^idnataH* = and who is smashing; *ripuun* = the enemies;
+*tarasaa* = by strength alone; *na kashchit* = no one; *shaktaH* = is able; *
+sthaatum* = to stand; *pratimukhaH* = in front (of me); *jijiivSuH* = alive.
+
+**अनुवादः**
+
+"Even otherwise, no one can stand alive in front of me, who is even weaponless and smashing
+the enemies by me strength alone."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव शक्त्या न गदया नासिना निशितैः शरैः ॥ ४६ ॥  
@@ -1053,6 +1952,12 @@ _________________
 हस्ताभ्यामेव संरभ्य हनिष्यामि सवज्रिणम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नैव शक्त्या न गदया नासिना निशितैः शरैः ॥ ६-६३-४६
+हस्ताभ्यामेव सम्रब्धो हनिष्याम्यपि वज्रिणम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं न तो शक्तिसे, न गदासे, न तलवारसे और न पैने बाणोंसे ही काम लूँगा । रोषसे भरकर केवल दोनों हाथोंसे ही वज्रधारी इन्द्र-जैसे शत्रुको भी मौतके घाट उतार दूँगा ॥ ४६ १/२ ॥
@@ -1061,6 +1966,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु गदॆयिन्द, शक्तियिन्द, खड्गदिन्द, हरित बाणगळिन्द युद्ध माडुवुदिल्ल. रोषगॊण्डु केवल ऎरडे कैगळिन्दले वज्रधारी इन्द्रनन्तह शत्रुवन्नु संहरिसिबिडुवॆनु.॥46½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*46. naiva* = not even; *shaktyaa* = javelin; *na gadayaa*
+= nor with a mace; *asinaa* = nor with a sword; *nishitaiH sharaiH* = nor with sharp arrows;
+*samrabdhaH* = getting excited; *haniSyaami* = I can kill; *vajriNamapi* = even
+Indra; *hastaabhyamaiva* = with my hands only.
+
+**अनुवादः**
+
+"Without using a javelin or a mace or a sword or sharp arrows, I myself, on getting excited,
+can kill even Indra, with my bare hands."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +2007,23 @@ _________________
 इन्दु रामनु नन्न मुष्टिय वेगवन्नु सहिसिकॊण्डरॆ नन्न बाण समूहगळु अवश्यवागि अवन रक्तपान माडुवुवु.॥47½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*47. raaghavaH yadi* = If Rama; *adya* = today; *sahiSyati*
+= endures; *me muSTi vegam* = the rapid blows of my fists; *tataH* = then; *me*
+= my; *baaNaaghau* = flood of arrows; *paasyanti* = will drink; *rudhiram* = the
+blood; *raaghavasya* = of Rama.
+
+**अनुवादः**
+
+"If Rama today survives even after facing the rapid blows of my fists, then my flood
+of arrows will drink the blood of Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तया तप्यसे राजन् किमर्थं मयि तिष्ठति ॥ ४८ ॥  
@@ -1105,6 +2044,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! नानिरुवाग नीनु एकॆ चिन्तॆय बॆङ्कियिन्द सुडुत्तिरुवॆ? नानु निन्न शत्रुवन्नु विनाश माडलिक्कागि ईगले रणभूमिगॆ हॊरडुवॆनु.॥48½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*48. raajan* = O king!; *mayi tiSThati* = when I exist; *kimartham*
+= why; *tapyase* = do you suffer; *chintayaa* = from anxiety?; *saH aham* = I as
+such; *udyataH* = am ready; *niryaatum* = to sally forth; *tava shatruvinaashaaya*
+= for the destroyable of your enemies.
+
+**अनुवादः**
+
+"O king! When I exist, why do you suffer from anxiety? Here, I am ready to sally forth
+for the destruction of your enemies."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1157,6 +2113,41 @@ _________________
 युद्ध उपस्थितवादाग राक्षसरन्नु संहारमाडुव, लङ्कॆयन्नु सुट्टिरुव आ हनुमन्तनन्नु नानु जीवन्तवागि बिडलारॆनु. जॊतॆगॆ इतर वानररन्नु तिन्दुहाकुवॆनु. इन्दु नानु निनगॆ अलौकिक हागू महायशस्सन्नु तन्दुकॊडलु बयसुत्तेनॆ.॥50-51॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*51. bhakSayiSyaami* = I shall devour; *hariincha* = the monkeys;
+*samyuge* = in battle; *samupasthite* = which is near at hand; *ichchhaami* = I
+wish; *daatum* = to contribute; *mahat* = a tremendous; *asaadhaaraNam* = and extra
+ordinary; *yashaH* = reputation; *tava* = for you.
+
+**अनुवादः**
+
+"I shall devour the monkeys in battle, which is near at hand. I wish to contribute a
+tremendous and extraordinary reputation for you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+49; *50. muNcha* = be free; *ghoram bhayam raamaat* = from the terrific
+fear of Rama; *samyuge* = In the battle; *nihaniSaami* = i will kill; *raaghavam*
+= Rama; *lakSmaNamchaiva* = Lakshmana = mahaabalam = the mighty; *sugriivam cha* = Sugreeva;
+*hanuumantam cha* = and even Hanuma; *yena* = by whom; *laN^kaa* = Lanka; *pradiipitaa*
+= was burnt off; *rakSoghnam* = and the demons were killed.
+
+**अनुवादः**
+
+"Be free from the terrific fear of Rama. In the battle, I will kill Rama, Lakshmana,
+the mighty Sugreeva and even Hanuma, by whom the city of Lanka was burnt off and the demons were killed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि चेन्द्राद् भयं राजन् यदि चापि स्वयम्भुवः ।  
@@ -1167,6 +2158,13 @@ _________________
 
 यदि चेन्द्राद् भयं राजन् यदि चापि स्वयम्भुवः ।  
 ततोऽहं नाशयिष्यामि नैशं तम इवांशुमान् ॥ ५२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यदिचेन्द्राद्भयम् राजन्यदि चापि स्वयम्भुवः ।
+ततोऽहम् नाशयिष्यामि नैशम् तम इवांशुमान् ॥ ६-६३-५२
+अपि देवाः शयिष्यान्ते मयि क्रुद्धे महीतले ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1179,6 +2177,24 @@ _________________
 राजने! निनगॆ इन्द्र अथवा स्वयम्भू ब्रह्मनिन्दलू भय विद्दरॆ, आ भयवन्नु सूर्यनु अन्धकारवन्नु नाशमाडुवन्तॆ नानु नाशमाडिबिडुवॆनु.॥52॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*52. raajan* = O king!; *bhayam yadi* = If you have a fear; *indraat*
+= for Indra; *svayabhuvaH api* = or even for Brahma; *naashayiSyaami* = I shall remove
+(it); *tataH* = then; *amshu maaniva* = as the sun (removes); *tamaH* = darkness;
+*naisham* = of the night; *mayi kruddhe* = when I am enraged; *devaah api* = even
+celestials; *shayiSyante* = lay down; *mahiitale* = on the floor.
+
+**अनुवादः**
+
+'O king! If you have a fear for Indra or even for Brahma, I shall remove it then, as
+the sun removes darkness of the night. When I am enraged, even celestials will lay down on the floor."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि देवाः शयिष्यन्ते मयि क्रुद्धे महीतले ।  
@@ -1189,6 +2205,12 @@ _________________
 
 अपि देवाः शयिष्यन्ते मयि क्रुद्धे महीतले ।  
 यमं च शमयिष्यामि भक्षयिष्यामि पावकम् ॥ ५३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यमम् च शमयिष्यामि भक्षयिष्यामि पावकम् ॥ ६-६३-५३
+आदित्यम् पातयिष्यामि सनक्षत्रम् महीतले ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1201,6 +2223,23 @@ _________________
 नानु कुपितनादरॆ देवतॆगळू धराशायियागुवरु. हागिरुवाग मनुष्यर, वानरर मातेनिदॆ? नानु यमराजनन्नु कॊन्दुबिडुवॆनु. सर्वभक्षि अग्नियन्नु तिन्दु बिडुवॆनु.॥53॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*53. shamayiSyaami* = I shall extinguish; *yamam cha* = even Yama
+the god of death; *bhakSayiSyaami* = I shall devour; *paavakam* = the fire-god; *aadityam
+paatayiSyaami sanakSatram* = I shall cause the sun along with the stars to fall asunder; *mahiitale*
+= on the floor.
+
+**अनुवादः**
+
+"I shall extinguish even Yama the god of death. I shall devour the fire-god. I shall
+cause the sun along with the stars to fall asunder on the floor."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यं पातयिष्यामि सनक्षत्रं महीतले ।  
@@ -1213,6 +2252,12 @@ _________________
 शतक्रतुं वधिष्यामि पास्यामि वरुणालयम् ॥ ५४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शतक्रतुम् वधिष्यामि पास्यामि वरुणालयम् ॥ ६-६३-५४
+पर्वतांश्चूर्णयिष्यामि दारयिष्यामि मेदिनीम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘नक्षत्रोंसहित सूर्यको भी पृथ्वीपर मार गिराऊँगा, इन्द्रका भी वध कर डालूँगा और समुद्रको भी पी जाऊँगा ॥ ५४ ॥
@@ -1221,6 +2266,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नक्षत्रगळ सहित सूर्यनन्नु भूमिगॆ कॆडहुवॆनु. इन्द्रनन्नू वधिसिबिडुवॆनु. समुद्रवन्नु कुडिदु बिडुवॆनु.॥54॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*54. vadhiSyaami* = I shall kill; *shatakratum* = Indra; *paasyaami*
+= I shall drink away; *varuNaalayam* = the ocean; *chuurNayiSyaami parvataan* = I shall
+crush the mountains into a powder; *daarayiSyaami* = I shall tear up; *mediniim* = the
+earth.
+
+**अनुवादः**
+
+"I shall kill Indra. I shall drink away the ocean. I shall crush the mountains into a
+powder. I shall tear up the earth."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1244,6 +2306,13 @@ _________________
 न त्विदं त्रिदिवं सर्वमाहारो मम पूर्यते ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+दीर्घकालम् प्रसुप्तस्य कुम्भकर्णस्य विक्रमम् ॥ ६-६३-५५
+अद्य पश्यन्तु भूतानि भक्ष्यमाणानि सर्वशः ।
+नन्विदम् त्रिदिवम् सर्वमाहारस्य न पूर्यते ॥ ६-६३-५६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पर्वतोंको चूर-चूर कर दूँगा । भूमण्डलको विदीर्ण कर डालूँगा । आज मेरे द्वारा खाये जानेवाले सब प्राणी दीर्घकालतक सोकर उठे हुए मुझ कुम्भकर्णका पराक्रम देखें । यह सारी त्रिलोकी आहार बन जाय तो भी मेरा पेट नहीं भर सकता ॥ ५५-५६ ॥
@@ -1252,6 +2321,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्वतगळन्नु नुच्चुनूरागिसुवॆनु. भूमण्डलवन्नु सीळि हाकुवॆनु. इन्दु नानु तिन्दु हाकुव ऎल्ल प्राणिगळु दीर्घकाल मलगि ऎद्द कुम्भकर्णनाद नन्न पराक्रम नोडलि. इडी त्रिलोकवे आहारवादरू नन्न हॊट्टॆ तुम्बलारदु.॥55-56॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+55; *56. bhuutaani* = (Let) all the living beings; *bhakSyamaaNaani*
+= being devoured; *sarvashaH* = from all sides; *adya* = today; *pashyantu* = see;
+*vikramam* = the prowess; *kumbhakarNasya* = of Kumbhakarna; *prasuptasya* = who
+slept; *diirghakaalam* = for a long time; *idam* = this; *sarvam* = entire; *
+tridivam* = heaven; *na puuryate nanu* = does not indeed satisfy; *aahaarasya* = my
+eating.
+
+**अनुवादः**
+
+"Let all the living beings, being devoured from all sides see today the prowess of Kumbhakarna,
+who slept for a long time. The entire heaven is not enough for my food."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1285,6 +2373,24 @@ _________________
 दशरथकुमार श्रीरामनन्नु वधिसि नानु निनगॆ उत्तरोत्तर सुखद प्राप्तिमाडुवन्तह सुख-सौभाग्यवन्नु कॊडलु बयसुत्तिरुवॆ. लक्ष्मण सहित रामनन्नु वधिसि ऎल्ल मुख्य मुख्य वानर सेनापतिगळन्नु तिन्दुहाकुवॆनु.॥57॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*57. aham vrajaami* = I am going; *aahartum* = to fetch; *te*
+= you; *sukham* = happiness; *sukhaavaham* = conferring you a delight; *vadhena daasharatheH*
+= by destroyal of Rama; delight; *nihatya* = killing; *raamam* = Rama; *lakSmaNena
+saha* = along with Lakshmana; *khaadaami* = I shall devour; *sarvaan* = all; *hariyuuthamukhyaan*
+= the chiefs of army of monkeys.
+
+**अनुवादः**
+
+"I am going to bring you happiness, conferring you a delight by the destroyal of Rama.
+Having killed Rama along with Lakshmana, I shall devour all the chiefs of army of monkeys."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रमस्व राजन् पिब चाद्य वारुणीं  
@@ -1314,6 +2420,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! इन्दु नीनु यथेच्छवागि विहरिसु, मद्य कुडि. मानसिक दुःखवन्नु मरॆतु बिडु. इन्दु नानु राम-लक्ष्मणरन्नु यमलोकक्कॆ कळिसिबिडुवॆ. मत्तॆ सीतॆ चिरकाल निन्न अधीनवागुवळु.॥58॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*58. raajan* = O king; *raamasva* = you make merry; *pibacha*
+= and drink; *vaaruNiim* = wine; *adya* = today; *viniiya* = throw away; *duHkham*
+= your agony; *kuruSva* = and do; *kR^ityaani* = your duties; *raame* = while Rama;
+*gamite* = is sent; *yamakSayam* = to the world of Yama the god of death; *siitaa*
+= Seetha; *bhaviSyati* = will be; *vashagaa* = subservient to you; *chiraaya* =
+after a long time.
+
+**अनुवादः**
+
+"O king! You make merry today and drink wine. Throw away your agony and perform your
+usual duties. While I send Rama to the world of Yama, the god of death, Seetha will be subservient to
+your after a log time."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

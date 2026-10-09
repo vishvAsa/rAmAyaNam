@@ -2,6 +2,16 @@
 title = "०११ ऋष्यशृङ्गागमनम्"
 title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties**
+
+On the advice of his minister Sumantra, Dasharatha proceeds to Anga kingdom to
+ fetch Sage Rishyasringa and his wife Shanta to his capital Ayodhya.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-011-Rushya_Shrungaagamanam.mp3"></div>
 </details>
@@ -31,6 +41,12 @@ _________________
 यथा स देवप्रवरः कथायास बुद्धिमान् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भूय एव हि राजेन्द्र शृणु मे वचनं हितम् ।
+यथा स देवप्रवरः कथयामेवमब्रवीत् ॥ १-११-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर सुमन्त्रने फिर कहा—‘‘राजेन्द्र! आप पुनः मुझसे अपने हितकी वह बात सुनिये, जिसे देवताओंमें श्रेष्ठ बुद्धिमान् सनत्कुमारजीने ऋषियोंको सुनाया था ॥
@@ -39,6 +55,30 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर सुमन्त्रनु पुनः हेळिदनु - राजेन्द्रने! देवतॆगळल्लि श्रेष्ठराद बुद्धिवन्त सनत्कुवाररु ऋषिगळिगॆ हेळिदुदन्नु तम्म हितद मातन्नु पुनः केळिरि.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. raajendra* = oh king of kings; *saH devapravaraH* = he, that best one
+among deities [Sage Sanat Kumara]; *yathaa* = as to how; *kathaayaam* = in narration;
+*abraviit* = has said; *evam* = that way; *me vachanam* = my words;
+*hitam* = favourable; *bhuyaH eva hi* = again, thus, only; *shruNu* =
+listen.
+
+**अनुवादः**
+
+Minister Sumantra continued, "oh, the great king, I will further narrate all that has been
+said by Sanat Kumara, the best one among all deities, kindly listen to these favourable words."
+[1-11-1.]
+
+**टिप्पनी**
+
+Sage Sanat Kumara belongs to the bygone era of Ikshvaku dynasty. Please refer to the account
+regarding the era-system of ancient India at endnote.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +101,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु हेळिद्दरु - इक्वाक्षु वंशदल्लि दशरथनॆम्ब प्रसिद्ध, परमधार्मिक सत्यप्रतिज्ञ, राजनॊब्बनु आगुवनु.॥2॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+2. *shriimaan* = resplendent one; *satyapratishravaH* = truthful to his vow;
+*naamnaa* = by his name; *dasharathaH naama* = named Dasaratha; *sudhaarmikaH*
+= very virtuous one; *ikShwaakuuNaam* = in Ikshwaku; *kule jaataH [bhaviSyati]*
+= dynasty, born in; [he will be].
+
+**अनुवादः**
+
+"A king named Dasharatha will be born into Ikshwaku dynasty who will be very virtuous,
+resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,9 +145,66 @@ _________________
 ‘‘उनकी अंगराजके साथ मित्रता होगी । दशरथके एक परम सौभाग्यशालिनी कन्या होगी, जिसका नाम होगा ‘शान्ता’* । अंगदेशके राजकुमारका नाम होगा ‘रोमपाद’ । महायशस्वी राजा दशरथ उनके पास जायँगे और कहेंगे—‘धर्मात्मन्! मैं संतानहीन हूँ । यदि आप आज्ञा दें तो शान्ताके पति ऋष्यशृंग मुनि चलकर मेरा यज्ञ करा दें । इससे मुझे पुत्रकी प्राप्ति होगी और मेरे वंशकी रक्षा हो जायगी’ ॥ ३—५ ॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. saH putraH tu angaraajasya* = son of king of Anga; *romapaadaH iti shrutaH*
+= thus heard as Romapada; *mahaayashaaH raajaa dasharathaH* = well renowned, king, Dasharatha;
+*tam* = to him [to Romapada]; *gamiSyati* = will approach.
+
+**अनुवादः**
+
+The son of the king of Anga, the earlier king of Anga kingdom, will be known as Romapada,
+or also know as Chitraratha, and the highly renowned king Dasharatha approaches Romapada.
+[1-11-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनिगॆ अङ्गराजनॊन्दिगॆ स्नेह उण्टादीतु. अङ्गराजनिगॆ ओर्वळु परम सौभाग्यशालिनि शान्ता ऎम्ब कन्यॆ हुट्टुवळु. अङ्गदेशद राजकुमारन हॆसरु ‘रोमपाद’ ऎन्दिरुवुदु. महायशस्वी दशरथराजनु अवन बळिगॆ होगि हेळुवनु - धर्मात्मा! नानु सन्तानहीननागिद्देनॆ, नीवु अप्पणॆ कॊट्टरॆ शान्ताळ पति ऋष्यशृङ्ग मुनियु नम्मल्लिगॆ बन्दु यज्ञमाडिसलि. इदरिन्द ननगॆ पुत्रप्राप्तियागुवुदु हागू नन्न वंशद रक्षणॆ आगुवुदु.॥3-5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. dharmaatman* = oh virtuous-soul; *anapatyaH asmi* = childless, I am; *
+shaantaabhartaa tvayaa aaj~naptaH* = instructed by you, the husband of Shanta; *mama kulasya
+santaanaartham* = for the sake of progeny of my dynasty; *kratum aahareta*
+= Vedic ritual, will preside over.
+
+**अनुवादः**
+
+Then king Dasharatha says to king of Anga "oh, righteous one, I am childless and hence I intend
+to perform a Vedic ritual. Let the husband of your daughter Shanta, Sage Rishyasringa, preside
+over that Vedic ritual at you behest, for the sake of progeny in my dynasty. [1-11-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+3. *tasya raaj~naH* = to that, king [to Dasharatha]; *angaraajena* = with king of Anga;
+*sakhyam bhaviSyati* = friendship, will happen; *asya* = his [for king
+of Anga]; *mahaabhaagaa* = fortunate woman; *shaantaa; *naama kanyaa bhaviSyati*
+= named, daughter, will be there.*
+
+**अनुवादः**
+
+"King Dasharatha will befriend the king of Anga and the king of Anga will beget a fortunate
+girl named Shanta. [1-11-3]
+
+**टिप्पनी**
+
+Shanta is said to be the daughter of Dasharatha and given to Romapada in adoption, and Rishyasringa
+marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -120,6 +234,34 @@ _________________
 राजन मातन्नु केळि मनस्सिनल्ले विचारमाडि महात्मनाद रोमपाद राजनु सपुत्रकनाद शान्ताळ पति ऋष्यशृङ्गरन्नु अवरॊन्दिगॆ कळिसिकॊडुत्तानॆ.॥6॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. aatmavaan* = benevolent soul - Romapada; *raaj~naH tat vaakyam shrutvaa*
+= king's[Dasharatha's], on hearing that word; *manasaa vichintya* = considered at heart;
+*atha* = then; *putravantam* = one who has son / or, one who endows sons;
+*shaantaabhartaaram* = Shanta's husband; *pradaasyate* = will give - agrees.
+
+**अनुवादः**
+
+"On hearing those words of king Dasharatha that benevolent soul Romapada, the king of Anga,
+considers heartily and agrees to send the one who endows progeny by rituals, namely Sage Rishyasringa
+his son-in-law. [1-11-6]
+
+**टिप्पनी**
+
+The words *pradaasyate putravantam* are read in some translations as 'Rishyasringa
+who already has a son...' while others read it as 'a sage who endows progeny by *putrakameSTi*
+ ritual...' But in Maha Bharata father Vibhandaka says to Rishyasringa to comeback
+after begetting a son, which Rishyasringa did not concede. So taking this some say Rishyasringa
+has a son. But it is generally accepted that *putravantam* as *aahitaagni*,
+Vedic ritualist of eminence, according to: *jaataputraH kR^ishNakesho
+agniin adhiita... *according to *shruti* scripture.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य च तं विप्रं स राजा विगतज्वरः ।  
@@ -142,6 +284,24 @@ _________________
 ब्राह्मण ऋष्यशृङ्गरन्नु पडॆदु दशरथन ऎल्ल चिन्तॆ दूरवागुवुदु. सन्तोषभरितनागि अवनु आ यज्ञद अनुष्ठान माडुवनु.॥7॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. saH raajaa* = he, that king [Dasharatha]; *pratigR^ihya tam vipram* = on
+receiving, him, Brahman [Rishyasringa]; *vigatajwaraH* = rid of fever - uneasiness;
+*prahR^iSTena antaraatmanaa* = very felicitousness, in depths of heart; *tam yaj~nam*
+= that, Vedic ritual; *aahariSyati* = will accomplish.
+
+**अनुवादः**
+
+"On receiving that Brahman, Sage Rishyasringa, at the behest of his father-in-law, that king
+Dasharatha gets rid of his febrile condition and will accomplish that Vedic ritual, feeling
+very felicitous in the depths of his heart. [1-11-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं च राजा दशरथो यशस्कामः कृताञ्जलिः ।  
@@ -158,6 +318,14 @@ _________________
 लभते च स तं कामं द्विजमुख्याद् विशाम्पतिः ॥ ९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तं च राजा दशरथो यष्टुकामः कृतांजलिः ।
+ऋष्यशृङ्गं द्विजश्रेष्ठं वरयिष्यति धर्मवित् ॥ १-११-८
+यज्ञार्थं प्रसवार्थं च स्वर्गार्थं च नरेश्वरः ।
+लभते च स तं कामं द्विजमुख्याद्विशांपतिः ॥ १-११-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘यशकी इच्छा रखनेवाले धर्मज्ञ राजा दशरथ हाथ जोड़कर द्विजश्रेष्ठ ऋष्यशृंगका यज्ञ, पुत्र और स्वर्गके लिये वरण करेंगे तथा वे प्रजापालक नरेश उन श्रेष्ठ ब्रह्मर्षिसे अपनी अभीष्ट वस्तु प्राप्त कर लेंगे ॥ ८-९ ॥
@@ -166,6 +334,36 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यशोकामियाद धर्मज्ञ दशरथनु कैमुगिदु द्विज श्रेष्ठ ऋष्यशृङ्गरन्नु तन्न यज्ञक्कागि वरण माडुवनु. आ प्रजापालक अरसु आ श्रेष्ठ ब्रह्मर्षिगळ मूलक तन्न अभीष्टवाद स्वर्ग हागू पुत्ररन्नु पडॆदुकॊळ्ळुवनु.॥8-9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8,9. raajaa* = that king; *yaSTukaamaH* = desiring to permorm vedic ritual; *dharamavit*
+= knower of virtue; *nareshwaraH* = peoples' lord; *dasharathaH*
+= king Dasharatha; *kR^itaanjaliH* = with adjoined-palms; *dwijashreSTam* =
+the best Brahman - Rishyasringa; *yajnaartham* = intending for ritual; *prasavaartham cha*
+= intending also for progeny; *svargaartham cha* = for heavenly
+abodes, also; *varayiShyati* = he is inclined to request; *saH vishaampatiH*
+= he that, to [all the] quarters of earth, king of - king [Dasharatha]; *dvijamukhyaat*
+= by eminent Brahman; *labhate tam kaamam cha* = accomplishes, those, desires, also.
+
+**अनुवादः**
+
+"That king, the desirer of performing vedic ritual, the knower of virtue and the lord of people, namely Dasharatha
+will be requesting that best Brahman Rishyasringa with his palms adjoined in supplication
+for the conduct of ritual, for progeny and even for his heavenly abodes, and that king of
+all the quarters of earth will accomplish those desires from that eminent Brahman Rishyasringa.
+[1-11-8,9]
+
+**टिप्पनी**
+
+Heavenly abodes are dependent on begetting sons:* aputrasya gatirnaasti
+svargo naiva ca naiva ca* There is no way out [in other worlds] for those without sons...
+*shruti* scripture. Hence the request of Dasharatha is that way.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -199,6 +397,30 @@ _________________
 दशरथनिगॆ नाल्कु पुत्ररु आगुवरु. अवरु अप्रमेय पराक्रमी, वंशद कीर्तियन्नु हॆच्चिसुववरू, ऎल्लॆडॆ विख्यातरू आगुवरु.॥10॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. putraaH cha asya bhaviSyanti* = sons, also, to him [Dasharatha,] will be; *
+chatvaaraH amitavikramaaH* = four [in all,] abounding in valour; *vamshapratiShThaanakaraaH*
+ = enriching dynasty's reputation; *sarvabhuuteSu vishrutaaH* =
+ renowned among all beings.
+
+**अनुवादः**
+
+"There will be four sons to king Dasharatha that abound with valour, enrich dynasty's reputation
+and they will be renowned among all beings." Thus said Sage Sanat Kumara to other sages. [1-11-10]
+
+**टिप्पनी**
+
+'Sons and Paradise are intimately connected in Indian belief. A man desires above every thing
+to have a son to perpetuate his race, and to assist with sacrifices and funeral rites to make
+him worthy to obtain a lofty seat in heaven or to preserve that which he has already obtained.'
+Gorresio via Ralph T. H. Griffith [1870-1874].
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स देवप्रवरः पूर्वं कथितवान् कथाम् ।  
@@ -221,6 +443,28 @@ _________________
 महाराजा! मॊदलु कृतयुगदल्लि देवश्रेष्ठराद, पूज्यराद, समर्थराद सनत्कुवाररु ऋषिगळ मुन्दॆ हीगॆ हेळिद्दरु.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. devapravaraH* = the best god; *bhagavaan* = one who is effectual; *
+prabhuH* = the godly one; *saH sanatkumaaraH* = he, that Sage Sanatkumaara; *
+puraa devayuge kathaam kathitavaan* = earlier, in previous, Divine Era, [krita yuga,]
+narration, he narrated.
+
+**अनुवादः**
+
+"This way he that ancient and godly Sage Sanatkumaara, who is also Brahma's brain-child like
+Narada, said this legend in earlier Divine Era, called krita yuga..." thus Sumantra continued
+his narration to Dasharatha. [1-11-11]
+
+**टिप्पनी**
+
+Please refer endnote for *yuga* / era classification.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं पुरुषशार्दूल समानय सुसत्कृतम् ।  
@@ -231,6 +475,12 @@ _________________
 
 स त्वं पुरुषशार्दूल समानय सुसत्कृतम् ।  
 स्वयमेव महाराज गत्वा सबलवाहनः ॥ १२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स त्वं पुरुषशार्दूल तमानय सुसत्कृतम् ।
+स्वयमेव महाराज गत्वा सबलवाहनः ॥ १-११-१२
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -247,6 +497,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषसिंह महाराजने! आद्दरिन्द नीवु स्वतः परिवार सहित अङ्गदेशक्कॆ होगि मुनिकुवार ऋष्यशङ्गरन्नु सत्कार पूर्वक इल्लिगॆ करॆदुकॊण्डु बन्नि.॥12॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. puruSashaarduula* = tigerly man; *mahaaraaja* = oh great king; *saH
+tvam* = such as, you are; *sabalavaahanaH svayam eva gatvaa* = on proceeding in person with staff,
+transport, only; *tam aanaya susatkR^itam* = he be brought,
+well adored.
+
+**अनुवादः**
+
+" Oh, great king the tigerly-man, he that Sage Rishyasringa be led here on your proceeding
+in person with staff and transport and on adoring him well personally." Thus Sumantra concluded
+his narration. [1-11-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +535,13 @@ _________________
 सान्तःपुरः सहामात्यः प्रययौ यत्र स द्विजः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सुमंत्रस्य वचः श्रुत्वा हृष्टो दशरथोऽभवत् ।
+अनुमान्य वसिष्ठं च सूतवाक्यं निशम्य च ॥ १-११-१३
+सान्तःपुरः सहामात्यः प्रययौ यत्र स द्विजः ।
+</details>
+
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
 वसिष्ठेनाभ्यनुज्ञातो राजा संपूर्ण-मानसः ।  
@@ -281,6 +556,35 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमन्त्रन मातिनिन्द दशरथनिगॆ अतीव हर्षवायितु. अवनु मुनिवर वसिष्ठरिगू ई मातन्नु तिळिसि, अवर अनुमतियन्नु पडॆदु पट्टद राणियरॊन्दिगॆ हागू मन्त्रिगळॊन्दिगॆ ऋष्यशृङ्गनिद्द अङ्ग देशक्कॆ प्रयाण माडिदनु.॥13½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13, 14a. sumantrasya vachaH shrutvaa* = on hearing Sumantra's words [of advise];
+*dasharathaH hR^iSTaH abhavat* = Dasharatha, became gladsome; *suutavaakyam*
+= charioteer's words; *vasiSTham* = to Vashishta; *nishamya ca* = on getting
+those words listened by Vashishta from Sumantra - on reporting, also; *anumaanya ca*
+= making [Vashishta ] agreeable [to the words of Sumantra,] even; *saantaHpuraH* =
+with inmates of palace chambers; *saha amaatyaH* = with, ministers; *prayayau yatra
+saH dvijaH* = travelled to, where, that, Brahman is there.**
+
+**अनुवादः**
+
+On hearing the word of advise from charioteer, Dasharatha became gladsome and made Sumantra
+to reiterate to that sage also, for his approval, then Dasharatha travelled to the place where
+that Brahman Rishyasringa is, along with the inmates of palace-chambers and ministers too.
+[1-11-13, 14a]
+
+**टिप्पनी**
+
+While the chief priest Vashishta is officiator of all rituals no king can invite another priest
+to perform something without the consent of the officiating priest. Hence the consent of Vasishta
+is obtained, after asking Sumantra to reiterate what all was said, to sage Vashishta also.
+*anena praaciina R^itvigabhyanuj~nayaa naiva anyaaaneyaH -- dharmaakuutam*
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -416,6 +720,22 @@ _________________
 मार्गदल्लि अनेकानेक वनगळ, नदि-वनगळ सॊबगन्नु नोडुत्ता, निधानवागि नडॆयुत्ता मुनिवर ऋष्यशृङ्ग विराजिसुत्तिद्द देशक्कॆ तलुपिदनु.॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14b, 15a. shanaiH shanaiH* = slowly, slowly; *vanaani saritaH cha eva* = forests,
+rivers, also, thus; *vyatikramya* = crossing over; *yatra vai munipu~ngavaH* = where,
+that, eminent Brahman is; *tam desham* = in that, kingdom; *abhicakraama*= entered.
+
+**अनुवादः**
+
+On crossing over the rivers and forests slowly and steadily Dasharatha entered that kingdom
+where that eminent Brahman is there. [1-11-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसाद्य तं द्विजश्रेष्ठं रोमपादसमीपगम् ॥ १५ ॥  
@@ -444,6 +764,22 @@ _________________
 अल्लिगॆ होगि अवनु द्विजश्रेष्ठ प्रज्वलित अग्नियन्तॆ तेजस्वियाद ऋषिकुमारनु रोमपादन बळि कुळितिरुवुदन्नु नोडिदनु.॥15॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+15b, 16a.* atha* = then; *romapadasamiipagam* = one who is
+nearby Romapada; *diipyamaanam iva analam* = resplendent, like, ritual fire; *dvijashreSTham*
+= the best Brahman; *tam aasaadya* = drew nigh of; *dadarsha* = he saw.
+
+**अनुवादः**
+
+Then Dasharatha saw that best Brahman who he is nearby king Romapada, and who is resplendent
+like ritual fire. [1-11-15b, 16a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राजा यथायोग्यं पूजां चक्रे विशेषतः ॥ १६ ॥  
@@ -470,6 +806,41 @@ _________________
 बळिक रोमपाद राजनु मित्रनाद्दरिन्द अत्यन्त सन्तोषदिन्द महाराजा दशरथनन्नु शास्त्रोक्तविधियिन्द विशेषवागि पूजिसिदनु. बुद्धिवन्त ऋषिकुमार ऋष्यशङ्गनिगॆ दशरथनॊन्दिगॆ तन्न मित्रतॆयन्नु तिळिसिदनु. आग अवनू कूड राजनन्नु सन्मानिसिदनु.॥16-17½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17b, 18a. romapaadena* = by Romapada; *sakhyam saMbandhakam ca eva* = friendship,
+relation, also thus; *dhiimate R^iSiputraaya aakhyaatam* = informed to the wise one, sage's
+son Rishyasringa, ; *tadaa tam pratyapuujayat* = then, him[Rishyasringa],
+in return adored [ Dasharatha.]
+
+**अनुवादः**
+
+Then Romapada informed the wise sage Rishyasringa about the friendship and relation with Dasharatha,
+and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16b, 17a. tataH raajaa* = then, the king [here Romapada]; *prahR^isTena* =
+very gladdened; *antaraatmanaa* = with inner self; *yathaayogyam* = as befitting;
+*sakhitwaat* = in view of friendship; *visheShataH* = in an excelling manner;
+*tasya raaj~naH vai* = to that, king [Dasharatha,] indeed; *puujaam cakre* =
+respects, he paid.
+
+**अनुवादः**
+
+Then king Romapada gladdened at heart of hearts paid excellent respects to king Dasharatha
+procedurally and in view of their friendship.[1-11-16b, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सुसत्कृतस्तेन सहोषित्वा नरर्षभः ॥ १८ ॥  
@@ -494,6 +865,42 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ चॆन्नाद आदर सत्कार पडॆदु नरश्रेष्ठ दशरथनु रोमपादनल्लि एळॆण्टु दिन उळिदु कॊण्डनु. अनन्तर अवनु अङ्गराजनल्लि - प्रजापालक नरेशने! निन्न पुत्री शान्ताळ पतियॊन्दिगॆ नन्न नगरक्कॆ पदार्पण माडबेकु; एकॆन्दरॆ अल्लि ऒन्दु महत्तर कार्य ऎदुरागिदॆ, ऎन्दु हेळिदनु.॥18-19½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20a. vishaampate* = oh lord of subjects; *tava sutaa* = your, daughter;
+*shaantaa* = Princess Shanta; *saha bhartraa* = along with, her husband; *
+madiiyam nagaram yaatu* = she may go over my city; *raajan* = oh king; *mahat
+kaaryam udyatam hi* = a great, deed - the ritual, is contemplated by me, indeed.
+
+**अनुवादः**
+
+"Oh, lord of subjects, your daughter Princess Shanta may go over my city Ayodhya along with
+her husband Rishyasringa, as oh, king, I am contemplating to perform a great Vedic ritual,
+indeed." So said Dasharatha to Romapada. [1-11-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18b, 19a. evam* = that way; *susatkritaH* = well received; *nararSabhaH
+raajaa* = sacred bull like man, king - Dasharatha; *tena saha* = with him; *
+saptaaSTadivasaan* = seven eight days; *uShitwaa* = having
+spent time; *raajaanam* = to king Romapada; *idam* = this; *abraviit*
+= spoken.
+
+**अनुवादः**
+
+Thus well received by king Romapada, king Dasharatha spent seven to eight days with him, and
+then spoke this to king Romapada. [1-11-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -525,6 +932,51 @@ _________________
 रोमपाद राजनु बहळ ऒळ्ळॆयदु ऎन्दु हेळि बुद्धिवन्त महर्षियु होगलु ऒप्पि कॊण्डु ऋष्यशृङ्गनल्लि हेळिदनु - विप्रवर्यरे! तावु शान्ताळॊन्दिगॆ दशरथनल्लिगॆ बिजयङ्गैयिरि. राजन अप्पणॆ पडॆदु आ ऋषिपुत्रनु ‘हागॆये आगलि’ ऎन्दु हेळि दशरथनॊन्दिगॆ होगलु सम्मतिसिदनु.॥20-21॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21b, 22a. tadaa* = then; *R^iShiputraH* = Sage's son - Rishyasringa; *pratishrutya*
+= replied - agreeing; *tathaa iti aaha* = 'like, that only',
+said; *nR^ipam* = to the king; *saH* = he; *nR^ipeNa* = by the king;
+*abhyanujnaataH* = permitted; *saha bhaaryayaa* = along with his wife; *prayayau*
+= set-forth.
+
+**अनुवादः**
+
+Then Rishyasringa agreed and replied to the king Romapada "So it will be done" and then having
+been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20b, 21a. raajaa* = the king; *tathaa iti* = so it be; *dhiimataH tasya
+gamanam* = travel of that intellectual one, his - Rishyasringa's ; *samshrutya*
+= agreeing; *twam bhaaryayaa saha gacCha* = = you shall proceed along with your wife;
+*[iti* = thus]; *vipram* = to the Brahman; *vachanam* = the words;
+*uvaacha* = addressed.
+
+**अनुवादः**
+
+"So it shall be" said king Romapada agreeing to their travel with king Dasharatha, and addressed
+these words to that Brahman sage and his son-in-law, Sage Rishyasringa "You may proceed along
+with your wife." [1-11-20b, 21a]
+
+**टिप्पनी**
+
+Here Ralph T. H. Griffith's translation [1870-1874] has that Shanta is the daughter of Dasharatha:
+'This king,' he said, 'from days of old / A well beloved friend I hold. / To me this pearl
+of dames he gave / From childless woe mine age to save, / The daughter whom he loved so much,
+/ Moved by compassion's gentle touch. / In him thy S'anta's father see: / As I am even so
+is he...
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नृपेणाभ्यनुज्ञातः प्रययौ सह भार्यया ।  
@@ -551,6 +1003,42 @@ _________________
 रोमपादन अनुमति पडॆदु ऋष्यशङ्गनु पत्नियॊन्दिगॆ अल्लिन्द हॊरटनु. आग रोमपाद राजनु हागू दशरथराजनु परस्पर स्नेहदिन्द ऎदॆगॊत्तिकॊण्डरु हागू अभिवन्दिसिदरु. मत्तॆ मित्रनिन्द बीळ्कॊट्टु रघुकुलद भूषण दशरथनु अल्लिन्द हॊरटनु.॥22-23॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23b, 24a. tataH* = then; *raghunandanaH* = Ragu's descendent - Dasharatha;
+*suhR^idam* = good-hearted one, the friend; *aapricChya* = having asked - bid
+farewell; *prasthitaH* = set-forth; *shiighragaaminaH duutaan* = quick stepped
+ones, messengers; *paurebhyaH* = to citizens [of Ayodhya]; *preSayaamaasa* =
+started to send.
+
+**अनुवादः**
+
+Then king Dasharatha who set forth to Ayodhya bade farewell to his friend king Romapada, and
+he firstly sent quick-footed messengers to Ayodhya to inform his citizens about his arrival
+along with Sage Rishyasringa. [1-11-23b, 24a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+22b, 23a. *tau viiryavaan* = those two - Dasharatha and Romapada, valiant kings;
+*anyonyaanjalim* = with thanksgiving palm-fold; *kritwaa* =
+having performed; *snehaat* = by friendship; *urasaa* = with their bosoms;
+*samshliShya cha* = embraced, also; *nanandatuH* = gladdened.
+
+**अनुवादः**
+
+Those valiant kings greeted each other with thanksgiving palm-fold, and in friendship they
+embraced each other and gladdened. [1-11-22b, 23a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौरेषु प्रेषयामास दूतान् वै शीघ्रगामिनः ।  
@@ -575,6 +1063,25 @@ _________________
 दशरथनु पुरवासियर बळिगॆ तन्न शीघ्रगामि दूतरन्नु कळिसि - ‘ऎल्ल नागरिकरु शीघ्रवागि स्वागतक्कॆ सिद्धवागलि, ऎल्लॆडॆ सुगन्धित धूपवन्नु हाकलि. नगरद राजबीदिगळन्नु गुडिसि, सुगन्धित नीरन्नु चिमुकिसलि हागू ध्वज-पताकॆगळिन्द नगरवॆल्लवन्नु अलङ्करिसलि’ ऎन्दु हेळि कळिसिदनु.॥24½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24b, 25a. sarvam nagaram* = entire, city Ayodhya; *kShipram eva* = very quickly,
+thus; *swalankR^itam* = well decorated; *dhuupitam* = well incensed; *siktasammR^iSTam*
+= [streets be] water sprinkled well, and then swept; *pataakaabhiH*
+= with flags of welcome; *alankR^itam* = be decorated, hoisted; *kriyataam*
+= shall be done.
+
+**अनुवादः**
+
+"Let the entire city of Ayodhya be well decorated very quickly, let her streets be sprinkled
+with water and then swept, let the flags of welcome be hoisted.." Thus, king Dasharatha ordered
+messengers that are sent beforehand. [1-11-24b, 25a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टाः पौरास्ते श्रुत्वा राजानमागतम् ॥ २५ ॥  
@@ -587,6 +1094,12 @@ _________________
 तथा चक्रुश्च तत् सर्वं राज्ञा यत् प्रेषितं तदा ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः प्रहृष्टाः पौरास्ते श्रुत्वा राजानमागतम् ॥ १-११-२५
+तथा प्रचक्रुस्तत्सर्वं राज्ञा यत्प्रेषितं तदा ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजाका आगमन सुनकर पुरवासी बड़े प्रसन्न हुए । महाराजने उनके लिये जो संदेश भेजा था, उसका उन्होंने उस समय पूर्णरूपसे पालन किया ॥ २५ १/२ ॥
@@ -595,6 +1108,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजन आगमनवन्नु केळि प्रजाजनरु सन्तोषगॊण्डरु. महाराजनु हेळिकळिसिदन्तॆये ऎल्ल व्यवस्थॆयन्नु माडिदरु.॥25½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25b, 26a. tataH* = then; *raajaanam aagatam* = arrival of kings; *shrutwaa*
+= on hearing; *te pouraaH* = those, citizens; *prahR^iSTaaH* = felt very happy;
+*raajnaa* = by the king; *yat yathaa preSitam* = which, in which way, ordered;
+*tat sarvam* = that, all; *tathaa* = that way; *prachakru* = readily
+performed.
+
+**अनुवादः**
+
+Then on hearing the arrival of their king all the citizens felt very happy and readily performed
+all those works exactly as ordered by their king. [1-11-25b, 26a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +1143,12 @@ _________________
 शङ्खदुन्दुभिनिर्घोषैः पुरस्कृत्वा द्विजर्षभम् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः स्वलंकृतं राजा नगरं प्रविवेश ह ॥ १-११-२६
+शङ्खदुन्दुभिनिर्घोषैः पुरस्कृत्य द्विजर्षभम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर राजा दशरथने शङ्ख और दुन्दुभि आदि वाद्योंकी ध्वनिके साथ विप्रवर ऋष्यशृंगको आगे करके अपने सजे-सजाये नगरमें प्रवेश किया ॥ २६ १/२ ॥
@@ -620,6 +1157,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर दशरथ राजनु शङ्ख-दुन्दुभि मॊदलाद वाद्यगळ ध्वनिगळॊन्दिगॆ विप्रवर ऋष्यशृङ्गनन्नु मुन्दिट्टुकॊण्डु, अलङ्कृतवाद तन्न नगरवन्नु प्रवेशिसिदनु.॥26½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26b, 27a. tataH* = then; *raajaa* = king Dasharatha; *dwijarSabham*
+= Sacred Bull like Brahman - Rishyasringa; *puraskritya* = keeping before him; *
+swalankR^itam nagaram* = well-decorated, city; *shankhadundubhinirghoShaiH* = full sounding of conch-shells and drumbeats;
+*pravivesha ha* = entered, verily.
+
+**अनुवादः**
+
+Then king Dasharatha keeping Rishyasringa before him entered the well-decorated city Ayodhya
+amidst the full sounding of conch shells and drumbeats. [1-11-26b, 27a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +1190,13 @@ _________________
 यथा दिवि सुरेन्द्रेण सहस्राक्षेण काश्यपम् ॥ २८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः प्रमुदिताः सर्वे दृष्ट्वा तं नागरा द्विजम् ॥ १-११-२७
+प्रवेश्यमानं सत्कृत्य नरेन्द्रेणेन्द्रकर्मणा ।
+यथा दिवि सुरेन्द्रेण सहस्राक्षेण काश्यपम् ॥ १-११-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन द्विजकुमारका दर्शन करके सभी नगरनिवासी बहुत प्रसन्न हुए । उन्होंने इन्द्रके समान पराक्रमी नरेन्द्र दशरथके साथ पुरीमें प्रवेश करते हुए ऋष्यशृंगका उसी प्रकार सत्कार किया, जैसे देवताओंने स्वर्गमें सहस्राक्ष इन्द्रके साथ प्रवेश करते हुए कश्यपनन्दन वामनजीका समादर किया था ॥ २७-२८ ॥
@@ -644,6 +1205,44 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ द्विजकुमारनन्नु दर्शिसि ऎल्ल नगरवासिगळु बहळ सन्तसगॊण्डरु. अवरु इन्द्रनन्तह पराक्रमि नरेन्द्र दशरथनॊन्दिगॆ पुरप्रवेश माडिदरु. देवतॆगळु सहस्राक्ष इन्द्रनॊन्दिगॆ कश्यपनन्दन भगवान् वामननन्नु आदरिसिदन्तॆ, ऋष्यशृङ्गरन्नु नागरीकरु सत्करिसिदरु.॥27-28॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27b, 28. tataH sarve naagaraaH* = then, all, citizens; *indrakarmaNaa* = one
+who has exploits like that of Indra; *narendreNa* = by people's, lord Dasharatha;
+*satkritya praveshyamaanam* = well honoured, and being entered; *yathaa* = as
+with; *kaashyapam* = sage Kashyapa's son, namely Vamana, the dwarf boy incarnation
+of Vishnu; *sahasraakSheNa surendreNa* = by thousand eyed, lord of gods, namely Indra;
+*divi* = in heaven [while entered]; *tam dvijam* = him, at that Brahman; *
+dR^iSTvaa pramuditaaH* = highly gladdened on seeing.
+
+**अनुवादः**
+
+Then all the citizens are very happy on seeing that Brahman, Sage Rishyasringa, who is well
+honoured and being entered into the city by their king Dasharatha, as has been done once by
+Indra when he entered sage Kashyapa's son Vamana, the dwarfish boy and the incarnation of
+Vishnu, into heavens, and thus those citizens felt that their human lord Dasharatha vies with
+divine lord Indra. [1-11-27b, 28]
+
+**टिप्पनी**
+
+The simile of Indra to king Dasharatha is in two ways. Dasharatha ruled kingdom like Indra
+who rules Heavens. The word Indra *karmaNa* also refers to the deeds of Dasharatha,
+in helping the gods' forces combating the demonic forces. Thus the deeds performed by Dasharatha
+are like those of Indra's. Here Dasharatha is bringing Sage Rishyasringa to Ayodhya. Earlier
+Indra led Vamana, the dwarf-boy to heavens. Vamana is the incarnation of Vishnu in early ages
+and after Vamana suppressed Bali, the Emperor to netherworlds, Indra took Vamana to heavens.
+Thus Dasharatha is like Indra on earth, both by his virtue and deed. Incidentally, Vamana
+i.e., Vishnu, is the son-incarnate to Sage Kaashyapa, while sage Rishyasringa is the grandson
+of the same Kaashyapa. Thus Sage Kaashyapa is instrumental to these two incarnations. Through
+the divine grace of Sage Rishyasringa, the same Vishnu is going to take birth as Rama, while
+Sage Kashyapa is a grandparent of Rama in this era, and while he alone was Vishnu's father
+when Vishnu incarnated as Dwarf boy Vamana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -677,6 +1276,25 @@ _________________
 ऋषियन्नु अन्तःपुरक्कॆ करॆदुकॊण्डु होगि राजनु शास्त्रविधियिन्द अवरन्नु पूजिसिदनु. अवरु तन्नल्लिगॆ बन्दिरुवुदरिन्द तानु कृतकृत्यनॆन्दु तिळिसिदनु.॥29॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*29. enam* = him; *antaHpuram* = palace-chambers; *praveshya* = having
+entered; *shaastrataH* = as per scriptures; *puujaam cha* = worshipped, too;
+*tadaa* = then; *tasya* = his [for Rishyasringa]; *upavaahanat* = by
+bringing here; *aatmaanam* = for himself; *kR^itakrityam* = one with his desire
+fulfilled; *mene* = beleived.
+
+**अनुवादः**
+
+Dasharatha entered the sage into the palace chambers and worshipped him there as ordained
+in the scriptures, and in bringing the Sage here into his country, king Dasharatha believed
+that his desired is fulfilled. [1-11-28]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुराणि सर्वाणि शान्तां दृष्ट्वा तथागताम् ।  
@@ -692,6 +1310,12 @@ _________________
 सह भर्ता विशालाक्षीं प्रीत्यानन्दमुपागमन् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अन्तःपुरस्त्रियः सर्वाः शांतां दृष्ट्वा तथागताम् ।
+सह भर्त्रा विशालाक्षीं प्रीत्यानंदमुपागमन् ॥ १-११-३०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 विशाललोचना शान्ताको इस प्रकार अपने पतिके साथ उपस्थित देख अन्तःपुरकी सभी रानियोंको बड़ी प्रसन्नता हुई । वे आनन्दमग्न हो गयीं ॥ ३० ॥
@@ -700,6 +1324,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विशालाक्षियाद शान्ताळु हीगॆ तन्न पतियॊन्दिगॆ कुळितिरुवुदन्नु कण्डु अन्तःपुरद राणियरॆल्लरिगू बहळ सन्तोषवागि आनन्दमग्नरादरु.॥30॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30. antaHpurastriyaH sarvaaH* = palace ladies, all of them; *tathaa* = thus;
+*bhartraa saha aagataam* = one who arrived along with her husband; *vishaalaakShiim*
+= broad-eyed lady; *shaantaam* = at Shanta; *driSTwaa* = on seeing; *priityaa*
+= with affection; *aanandam* = happiness; *upaagaman* = they derived.
+
+**अनुवादः**
+
+On seeing her, the broad-eyed Shanta, who came there along with her husband all the ladies
+of palace derived happiness for the homecoming of their own daughter, as it were. [1-11-29]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +1358,12 @@ _________________
 उवास तत्र सुखिता कञ्चित्कालं सहद्विजा ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पूज्यमाना तु ताभिः सा राज्ञा चैव विशेषतः ।
+उवास तत्र सुखिता कञ्चित्कालं सहर्त्विजा ॥ १-११-३१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 शान्ता भी उन रानियोंसे तथा विशेषतः महाराज दशरथके द्वारा आदर-सत्कार पाकर वहाँ कुछ कालतक अपने पति विप्रवर ऋष्यशृंगके साथ बड़े सुखसे रही ॥
@@ -725,6 +1372,33 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शान्ताळू कूड राणियरिन्द हागू विशेषवागि दशरथनिन्द आदर सत्कार पडॆदु, कॆलवु कालदवरॆगॆ तन्न पतियाद ऋष्यशृङ्गरॊन्दिगॆ बहळ सुखवागि अल्लिद्दळु.॥31॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31. saa* = she, Shanta; *taabhiH* = by them; *[by far] visheShataH*
+= in an exceptional manner; *raaj~naa cha eva* = by king, also, thus; *puujyamaanaa*
+= while being admired; *sukhitaa* = comfortably; *R^itwijaa saha* = along with that Vedic
+scholar - her husband; *kamchit kaalam* = for some time; *tatra*
+= there; *uvaasa* = resided.
+
+**अनुवादः**
+
+Shanta thus being admired by all of them, and in an exceptional manner by Dasharatha, comfortably
+resided there along with her husband, the Vedic scholar Rishyasringa. [1-11-31]
+
+**टिप्पनी**
+
+The Riwik is not just a reciter of Veda-s but more a director or conductor of whole orchestration
+of the Vedic ritual, which involves lots of rules, in reciting hymns, in performing deeds
+and all in their exactness. The whole lots of works that need be performed have the order
+of precedence like prime, auxiliary or adjunctive in their ordinance. A Ritwik is the elated
+scholar who keeps track of these activities while other scholars recite hymns as directed
+by these Ritwik-s. Hence, Ritwik-hood is the highest.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

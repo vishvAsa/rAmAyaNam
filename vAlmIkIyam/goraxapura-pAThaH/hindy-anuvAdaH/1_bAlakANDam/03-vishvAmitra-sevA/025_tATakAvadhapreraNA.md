@@ -2,6 +2,17 @@
 title = "०२५ ताटकावधप्रेरणा"
 title_english = "025 The legend of deomoness tATaka contd"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties**
+
+Sage Vishvamitra narrates the birth, marriage and curse of demoness Tataka, and bids Rama
+to eliminate her menace without any hesitation of killing a female, for she is atrocious towards
+the society.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-025-ThaataKaavadha_Preranaa.mp3"></div>
 </details>
@@ -50,6 +61,23 @@ title_english = "025 The legend of deomoness tATaka contd"
 अप्रमेयराद विश्वामित्र महर्षिगळ मातन्नु केळि नरपुङ्गवनाद श्रीरामनु महर्षिगळल्लि ई शुभदायकवाद मातन्नु केळिदनु.॥1॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. aprameyasya* = with inestimable power; *tasya muneH uttamam vachanam shrutvaa*
+= on hearing worthy words of that sage; *puruSashaarduulaH* = tigerly man - Rama; *tataH*
+= then; *shubhaam giram* = with estimable, words; *pratyuvaacha* = in turn
+said - replied.
+
+**अनुवादः**
+
+On hearing the worthy words of that sage with inestimable power, then the tigerly man Rama
+replied him with estimable words. [1-25-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पवीर्या यदा यक्षी श्रूयते मुनिपुङ्गव ।  
@@ -72,6 +100,24 @@ title_english = "025 The legend of deomoness tATaka contd"
 मुनिश्रेष्ठरे! ई यक्षिणियु ओर्व अबलॆ ऎन्दु हेळलागुत्तदॆ, आग अवळ शक्तियु स्वल्पवे आगिरबेकल्ल! हागिरुवाग अवळु ऒन्दु साविर आनॆगळ बलवन्नु हेगॆ पडॆदळु.॥2॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. munipungava* = oh the eminent sage; *yakShii [yakShaaH] alpaviiryaa*
+= female-yakshii [all yaksha-s,] trivial in strength; *yadaa shruuyate [shruuyante]*
+= while, we hear so - it is said; *abalaa* = without strength - woman frail by nature;
+*naagasahasrasya balam* = strength of thousands of elephants; *katham dhaarayati*
+= how, she exerts.
+
+**अनुवादः**
+
+"It is said that yaksha's strength is trivial, and this is an yakshii, more so a female, how
+then this yakshii frail by her femineity can exert the strength of a thousand elephants? [1-25-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तं वचनं श्रुत्वा राघवस्यामितौजसः ।  
@@ -88,6 +134,14 @@ title_english = "025 The legend of deomoness tATaka contd"
 वरदानकृतं वीर्यं धारयत्यबला बलम् ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इत्युक्तं वचनं श्रुत्वा राघवस्यामितोजसा ।
+हर्षयन् श्लक्ष्णया वाचा सलक्ष्मणमरिन्दमम् ॥ १-२५-३
+विश्वामित्रोऽब्रवीद्वाक्यं शृणु येन बलोत्कटा ।
+वरदानकृतं वीर्यं धारयत्यबला बलम् ॥ १-२५-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अमित तेजस्वी श्रीरघुनाथके कहे हुए इस वचनको सुनकर विश्वामित्रजी अपनी मधुर वाणीद्वारा लक्ष्मणसहित शत्रुदमन श्रीरामको हर्ष प्रदान करते हुए बोले—‘रघुनन्दन! जिस कारणसे ताटका अधिक बलशालिनी हो गयी है, वह बताता हूँ, सुनो । उसमें वरदानजनित बलका उदय हुआ है; अतः वह अबला होकर भी बल धारण करती है (सबला हो गयी है) ॥ ३-४ ॥
@@ -96,6 +150,29 @@ title_english = "025 The legend of deomoness tATaka contd"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अमित तेजस्वी श्री रघुनाथनु हेळिद मातन्नु केळि विश्वामित्ररु मधुर वाणियिन्द लक्ष्मण सहित शत्रुदमन श्रीरामनिगॆ हर्षवन्नुण्टु माडुत्ता नुडिदरु - रघुनन्दन! ताटकॆयु इष्टु बलशालि हेगादळु अदन्नु हेळुत्तेनॆ केळु. आकॆयल्लि वरबलदिन्द इन्तह बलविदॆ. आद्दरिन्द आकॆयु अबलॆयागिद्दरू सबलळागिद्दाळॆ.॥3-4॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+3, 4. *iti uktvaa* = thus, one who is spoken -Vishvamitra; *amitojasaa raaghavasya*
+= one with illimitable dynamism, of Raghava; *vacanam shrutvaa* = sentence, on hearing;
+Vishvamitra; *harSayan* = cheering them up; *abraviit vaakyam* = said, sentence;
+*arindamam salakShmaNam* = to enemy-subduer [Rama,] along with Lakshmana; *shlakShNayaa
+vaacaa* = with pleasant, words; *abalaa* = female; *yena balotkaTaa* =
+by which, [as to how] outstanding by strength; *shruNu* = you listen; *varadaanakR^itam
+viiryam* = made - obtained by bestowal of boon; *balam dhaarayati* = strength,
+she assumes.
+
+**अनुवादः**
+
+On hearing the sentence of Raghava with illimitable dynamism, Vishvamitra said this sentence
+to the enemy subduer Rama along with Lakshmana, cheering them up with his pleasant words,
+"Listen by which a female became outstanding by her strength... she assumes strength by the
+bestowal of a boon. [1-25-3, 4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +197,23 @@ title_english = "025 The legend of deomoness tATaka contd"
 हिन्दिन कालदल्लि सुकेतु ऎम्ब प्रसिद्ध महा यक्षनॊब्बनु इद्दनु. अवनु बहळ पराक्रमि मत्तु सदाचारियागिद्दनु. आदरॆ अवनिगॆ सन्तान इरलिल्ल. अदक्कागि अवनु भारी तपस्सुमाडिदनु.॥5॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+5. *puurvam* = once upon a time; *sukethuH naama viiryavaan* = Suketu, named,
+formidable one; *mahaayakshaH aasiit* = great yaksha, was there; *anapatyaH saH*
+childless, he; *subhaachaaraH* = with devout conduct; *mahat tapaH tepe*
+= great, ascesis, he performed.
+
+**अनुवादः**
+
+"Once there was a formidable yaksha named Suketu, but he was childless, and he who had devout
+conduct performed a great ascesis. [1-25-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहस्तु सुप्रीतस्तस्य यक्षपतेस्तदा ।  
@@ -142,6 +236,22 @@ title_english = "025 The legend of deomoness tATaka contd"
 श्रीरामा! यक्षराज सुकेतुविन तपस्सिगॆ ब्रह्मदेवरु ऒलिदु, आ सुकेतुविगॆ ऒन्दु कन्यारत्नवन्नु करुणिसिदनु. आकॆय हॆसरु ताटका ऎन्दित्तु.॥6॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+6. Rama; *tadaa* = then; *pitaamahaH supriitaH* = Forefather Brahma, is gladdened;
+*tasya yakShapateH* = to him, yaksha's lord; *naamataH taaTakaam nama* = by
+name renowned as Tataka; *kanyaaratnam dadau* = gave gemlike girl.
+
+**अनुवादः**
+
+"Gladdening at his ascesis, Rama, then the Forefather Brahma gave him a gemlike daughter who
+is renowned by the name of Tataka. [1-25-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ नागसहस्रस्य बलं चास्याः पितामहः ।  
@@ -154,6 +264,12 @@ title_english = "025 The legend of deomoness tATaka contd"
 न त्वेव पुत्रं यक्षाय ददौ चासौ महायशाः ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ददौ नागसहस्रस्य बलं चास्याः पितामहः ।
+न त्वेव पुत्रं यक्षाय ददौ ब्रह्मा महायशाः ॥ १-२५-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ब्रह्माजीने ही उस कन्याको एक हजार हाथियोंके समान बल दे दिया; परंतु उन महायशस्वी पितामहने उस यक्षको पुत्र नहीं ही दिया (उसके संकल्पके अनुसार पुत्र प्राप्त हो जानेपर उसके द्वारा जनताका अत्यधिक उत्पीड़न होता, यही सोचकर ब्रह्माजीने पुत्र नहीं दिया) ॥ ७ ॥
@@ -162,6 +278,24 @@ title_english = "025 The legend of deomoness tATaka contd"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मदेवरु आकॆगॆ ऒन्दु साविर आनॆगळ बलवन्नु कॊट्टरु. आदरॆ आ महायशस्वी पितामहनु आ यक्षनिगॆ पुत्रनन्नु कॊडलिल्ल. (पुत्ररादरॆ अवरिन्द जनतॆयु पीडितवादीतु ऎन्दु योचिसि ब्रह्म देवरु पुत्रनन्नु करुणिसलिल्ल).॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+7. *pitaamahaH* = Forefather Brahma; *asyaaH* = to her; *naagasahasrasya
+balam cha* = strength of thousand elephants, also; *dadau* = gave; *brahmaa mahaayashaaH*
+= highly remarkable Brahma; *asau yakShaaya putram tu* = to that, yaksha, son, but;
+*na eva dadau ca* = not, that way, given, also; [as male child will be more hazardous.]
+
+**अनुवादः**
+
+"Forefather Brahma also gave the strength of a thousand elephants to her, but he that highly
+remarkable Brahma did not give a son to that yaksha, anticipating male to be more hazardous.
+[1-25-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +323,23 @@ _________________
 दिनकळॆदन्तॆ आ यक्षकन्यॆयु बॆळॆदु रूप-यौवनदिन्द सुशोभितळादळु. आग आ तरुणियन्नु सुकेतुवु तन्न यशस्वी पुत्रियन्नु जम्भपुत्र सुन्दनिगॆ मदुवॆ माडिकॊट्टनु.॥8॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+8. *baalaam vivardhantiim* = girl, well growing up; *ruupayauvanashaaliniim*
+= one having beauty and youth; *yashasviniim* = bright one; *taam* = her;
+*jambhaputraaya* = to Jambha's son; *sundaaya* = to Sunda; *bhaaryaam dadau*
+= as wife, [her father Suketu] gave.
+
+**अनुवादः**
+
+"When that bright girl is growing up into a youthful beauty her father Suketu gave her to
+Jambha's son Sunda as wife. [1-25-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित्त्वथ कालस्य यक्षी पुत्रं व्यजायत ।  
@@ -209,6 +360,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆल कालान्तरदल्लि यक्षि ताटकॆयु मारीचनॆम्ब प्रसिद्ध दुर्जय पुत्रनिगॆ जन्मनीडिदळु. अवनु अगस्त्यमुनिय शापदिन्द राक्षसनादनु.॥9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. atha kasyachit kaalasya* = then, after some time; *yakShii* = that yakshii,
+Tataka; *maariicam naama putram* = Mareecha, named, son; *durdharSam* = indomitable
+one; *vyajaayata* = delivered; *yaH shaapaat raakShasaH abhavat* = who became demon by curse.
+
+**अनुवादः**
+
+"Then after sometime that yakshii Tataka delivered an indomitable son named Mareecha, who
+by curse became a demon. [1-25-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +401,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! अगस्त्यरु शापवन्नु कॊट्टु ताटकापति सुन्दनन्नु कॊन्दुहाकिदरु. पतियु सत्तुहोदाग ताटकॆयु पुत्रनॊन्दिगॆ होगि मुनिवर्य अगस्त्यरन्ने कॊल्ललु मुन्दादळु.॥10॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. sunde tu nihate* = when Sunda is eliminated; *raama*
+= oh Rama; *saa taaTakaa saha putreNa* = she Tataka along with son;
+*agasthyam R^iSisattamam* = the eminent sage Agastya; *pradharSayitum icChati*
+= wishes to retaliate.
+
+**अनुवादः**
+
+"But when Sunda is eliminated by sage Agastya's curse, she that Tataka wished to retaliate
+that eminent sage along with her son Mareecha. [1-25-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +448,26 @@ _________________
 अवळु कुपितळागि गर्जिसुत्ता मुनियन्नु तिन्दुहाकलु ओडिदळु. आकॆयु बरुत्तिद्दन्नु नोडि पूज्यराद अगस्त्य मुनिगळु मारीचनिगॆ ‘नीनु देवयोनि रूपवन्नु त्यजिसि राक्षसनागु’ ऎन्दु शपिसिदरु.॥11½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11, 12a. saa garjantii* = she, roaring; *jaatasamrambhaa* = caused hastiness
+- with brewing desperation; *bhakShaartham abhyadhaavata* =
+she rushed towards [sage] aiming [as though] to eat away; *bhagavaan R^iSiH agastyaH* = godly, saint,
+Agastya; *aapatantiim* = coming and falling upon - rushing to attack; *taam dR^iSTvaa*
+= on seeing her; *raakShasatvam bhajasva* = you attain demon-hood; *iti saH mariicham
+vyaajahaara* = thus, he said to Mareecha.
+
+**अनुवादः**
+
+"With desperation brewing in her she roaringly rushed towards the sage as though to eat him
+away, and on seeing her rushing along with her son Mareecha towards him, the godly saint Agastya
+firstly cursed Mareecha saying, 'you will attain demon-hood.' [1-25-11, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगस्त्यः परमामर्षस्ताटकामपि शप्तवान् ॥ १२ ॥  
@@ -278,6 +482,13 @@ _________________
 इदं रूपं विहायाशु दारुणं रूपमस्तु ते ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अगस्त्यः परमामर्षस्ताटकामपि शप्तवान् ॥ १-२५-१२
+पुरुषादी महायक्षी विरूपा विकृतानना ।
+इदं रूपं विहायाशु दारुणं रूपमस्तु ते ॥ १-२५-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘फिर अत्यन्त अमर्षमें भरे हुए ऋषिने ताटकाको भी शाप दे दिया—‘तू विकराल मुखवाली नरभक्षिणी राक्षसी हो जा । तू है तो महायक्षी; परंतु अब शीघ्र ही इस रूपको त्यागकर तेरा भयङ्कर रूप हो जाय’ ॥ १२-१३ ॥
@@ -286,6 +497,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ कुपितराद ऋषिगळु ताटकॆगू ‘‘नीनु विकराळ मुखवुळ्ळ नरभक्षकि राक्षसियागु, नीनादरो महायक्षियागिरुवॆ, आदरॆ ई निन्न रूपवन्नु त्यजिसि भयङ्कर रूपिणियागु’’ ऎन्दु शाप कॊट्टरु.॥12-13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13. paramaamarSaH agastyaH* = highly infuriated, Agastya; *taaTakaam api
+shaptavaan* = even cursed Tataka; *aashu idam ruupam vihaaya* = forthwith, divested of this
+form; *viruupaa* = with distorted form; *vikR^itaananaa* = with
+contorted faced; *puruSaadii* = one who eats man; *mahaayakShii* = oh great
+yakshii; *te daaruNam ruupam astu* = monstrous form shall be to you.
+
+**अनुवादः**
+
+"Highly infuriated sage Agastya even cursed Tataka saying, 'forthwith divested of this form
+of a beautiful female, oh, great yakshii, you shall become a man eater with your form distorted,
+face contorted, and shape monstrous.' [1-25-12b, 13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -311,6 +541,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ शाप दॊरॆताग ताटकॆय क्रॊधवु इन्नू हॆच्चायितु. आकॆय क्रोधदिन्द मूर्छितळादळु. आग अगस्त्यरु वासिसुत्तिद्द सुन्दर देशवन्नु मूलोत्पाटनॆ माडतॊडगिदळु.॥14॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14. *shaapakR^itaamarSaa* = frenzy caused by curse; *saa eSaa* = she,
+thus; that Tataka; *krodhamuurcChitaa* = convulsed in fury; *agastyaacharitam*
+= sage Agastya, sauntered; *shubham enam desham* = this auspicious province;
+*utsaadayati* = is vandalizing.
+
+**अनुवादः**
+
+"Frenzied by the curse and convulsed in fury she that Tataka is thus vandalising this auspicious
+province, in which sage Agastya once sauntered. [1-25-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -340,6 +587,23 @@ _________________
 रघुनन्दना! नीनु गो मत्तु ब्राह्मणर हितक्कागि दुष्ट पराक्रमवुळ्ळ ई परम भयङ्कर दुराचारिणी यक्षिणियन्नु संहार माडु.॥15॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+15. Raghava; *durvR^ittaam* = one with horrific behaviour; *paramadaaruNaam*
+= highly atrocious one; *duSTaparaakramaam* = one with malefic valour; *enaam
+yakShiim* = this, yakshii be; *gobraahmaNahitaarthaaya* = for welfare of cows and Brahmins;
+*jahi* = you eliminate [her.]
+
+**अनुवादः**
+
+"She that highly atrocious one is with horrific behaviour and malefic valour, hence you shall
+eliminate this yakshii for the welfare of Brahmans and cows. [1-25-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्येनां शापसंसृष्टां कश्चिदुत्सहते पुमान् ।  
@@ -363,6 +627,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुकुलवन्नु आनन्दगॊळिसुव रामा! ई शापग्रस्त ताटकॆयन्नु कॊल्ललु नीनल्लदॆ मूरु लोकगळल्लियू समर्थ पुरुषनु यारू इल्ल.॥16॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. raghunandana* = oh Raghu's legatee; *shaapasamsR^iSTaam* =
+sheathed - indomitable in curse; *enaam nihantum* = to completely eliminate her; *tvaam
+R^ite* = you, excepting; *kashchit pumaan* = some man; *triSu lokeSu*
+= in three, worlds; *na utsahate hi* = not, braves her, indeed - possibly.
+
+**अनुवादः**
+
+"Excepting you there is none to eliminate her who is indomitably sheathed in a curse, oh,
+Raghu's legatee, and none in the three worlds can possibly brave her. [1-25-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +674,23 @@ _________________
 नरश्रेष्ठने! नीनु स्त्रीहत्यॆय विचार माडि ईकॆय कुरितु दयॆ तोरबेड. ऒब्ब राजपुत्रनिगॆ नाल्कु वर्णगळ हितक्कागि स्त्री हत्यॆयन्नु माडलु बन्दरॆ अदरिन्द हिन्दॆगॆयबारदु.॥17॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. narottama* = the best among men, Rama; *striivadhakR^ite* = regarding female killing;
+*ghR^iNaa* = compassion; *na kaaryaa* = no, to be done not,
+germane; *raajasuununa* = by king's son; *chaaturvarNyahitaarthaaya* =
+intending welfare of four caste-system; *kartavyam* = is to be done effectuated.
+
+**अनुवादः**
+
+"Compassion regarding the elimination of a female is ungermane, oh, best one among men, since
+a prince has to effectuate it intending the welfare of four categories of society. [1-25-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृशंसमनृशंसं वा प्रजारक्षणकारणात् ।  
@@ -415,6 +713,23 @@ _________________
 प्रजापालक नरेशनु प्रजॆगळ रक्षणॆगागि क्रूरतापूर्ण अथवा क्रूरतारहित, पापयुक्त अथवा दोषयुक्त कर्मवन्नु माडबेकागुवुदु. इदन्नु अवनु सदा गमनदल्लिरिसबेकु.॥18॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. rakShataa* = [to a king] who is protector [of subjects]; *prajaarakShaNakaaraNaat*
+= for the reason of guarding people; *nR^ishamsam vaa* = ruthless, either; *anR^ishamsam vaa*
+= humane, or; *paatakam vaa* = sinful, or; *sadoSam vaa*
+= with vilification, or; that deed; *sadaa kartavyam* = always, is to be done.
+
+**अनुवादः**
+
+"For the reason of protecting people, a protector always has to execute such deed, either
+it is ruthless or humane, sinful or vilifying. [1-25-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यभारनियुक्तानामेष धर्मः सनातनः ।  
@@ -435,6 +750,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राज्यपालनॆय भार हॊत्तिरुववनिगॆ इदादरो सनातन धर्मवागिदॆ. काकुत्स्थने! ताटकॆ महापापिनियागिद्दाळॆ. आकॆयल्लि धर्मवु लेशमात्रवू इल्ल. आद्दरिन्द आकॆयन्नु कॊन्दुहाकु.॥19॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. raajyabhaaraniyuktaanaam* = to those that are nominated to bear the burde of kingdom;
+*eSaH sanaatanaH dharmaH* = this is, age-old, duty; *kaakutstha* = Rama; *adharmyaam
+jahi* = eliminate the one with infamy; *asyaam dharmaH na vidyate hi* =
+goodness not evident in her, isn't it.
+
+**अनुवादः**
+
+"To the nominee who bears the burden of kingdom this is the age-old duty, and hence oh, Rama,
+the legatee of Kakutstha, eliminate this infamy, as goodness is inevident in her, isn't it.
+[1-25-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -462,6 +795,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्वरने! हिन्दिन कालदल्लि विरोचनन पुत्री मन्थरॆयु इडी पृथ्वियन्नु नाशमाडिबिडलु बयसुत्तिद्दळु. आकॆय विचारवन्नु तिळिद इन्द्रनु आकॆयन्नु वधिसिबिट्टनु ऎन्दु केळिद्देवॆ.॥20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. nR^ipa* = oh protector of people; *puraa pR^ithiviim hantum icChantiim*
+= once, she who wished to annihilate the Earth; *virochanasutaam mantharaam* = Virochana's
+daughter, Manthara [namesake of this epic's Manthara]; *shakraH abhyasuudayat* = Indra,
+eliminated; *shruuyate hi* = thus heard, isn't it.
+
+**अनुवादः**
+
+"Oh, Rama, the protector of people, we have heard that Indra once eliminated Manthara, the
+daughter of Virochana, when she wished to annihilate earth, haven't we. [1-25-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +842,23 @@ _________________
 श्रीरामा! प्राचीन कालदल्लि शुक्राचार्यर मातॆ, भृगुविन पतिव्रता पत्नियु त्रिभुवनवन्नु इन्द्र शून्यनागिसबेकॆन्दु बयसुत्तिद्दळु. इदन्नु तिळिदु भगवान् विष्णु आकॆयन्नु कॊन्दु हाकिदनु.॥21॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+21. Rama; *puraa* = once; *lokam* = world; *anindram* = without Indra;
+*icChantii* = she who wished; *pativrataa bR^rigupatnii* = husband-devote,
+sage Bhrigu's wife; *kaavyamaataa api* = sage Shukra's mother, even; *viSNunaa
+niShuuditaa* = she is wiped out by Vishnu.
+
+**अनुवादः**
+
+"And Rama, once Vishnu wiped out even the wife of sage Bhrigu and sage Shukracarya's mother
+when she wished the world to become one without a governing factor, namely Indra. [1-25-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतैश्चान्यैश्च बहुभी राजपुत्रैर्महात्मभिः ।  
@@ -504,6 +871,13 @@ _________________
 एतैश्चान्यैश्च बहुभी राजपुत्रैर्महात्मभिः ।  
 अधर्मसहिता नार्यो हताः पुरुषसत्तमैः ।  
 तस्मादेनां घृणां त्यक्त्वा जहि मच्छासनान्नृप ॥ २२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एतैरन्यैश्च बहुभी राजपुत्रैर्महात्मभिः ।
+अधर्मसहिता नार्यो हताः पुरुषसत्तमैः ।
+तस्मादेनां घृणां त्यक्त्वा जहि मच्छासनान्नृप ॥ १-२५-२२
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -520,6 +894,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरु हागू बेरॆ अनेक महात्मा पुरुष पुङ्गव राजकुमाररु पापचारिणियराद स्त्रीयरन्नु वधिसिरुववरु. नरेश्वरने! आद्दरिन्द नीनू कूड नन्न अप्पणॆयन्तॆ दयॆ अथवा करुणॆयन्नु त्यजिसि ई राक्षसियन्नु कॊन्दुहाकु.॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. raajaputraiH* = by princes; *etaiH mahaatmabhiH* = by these, great souls;
+*anyaiH cha* = by others, also; *puruSasattamaiH* = by celebrated personalities
+; *bahubhiH adharmasahitaaH naaryaH* = many of the females having unrighteousness
+; *hataaH* = were eliminated; *tasmaat* = therefore; *nR^ipa*
+= oh people protector; *mat shaasanaat* = by my, decree; *ghR^iNaam tyaktvaa*
+= leaving off compassion; *enaam jahi* = you eliminate her.
+
+**अनुवादः**
+
+"Oh, prince, these great souls and many other celebrated personalities have eliminated females
+who deported themselves with unrighteousness, and hence, oh, Rama, the protector of people,
+by my decree you leave off compassion and eliminate her." Thus said sage Vishvamitra to Rama
+regarding Tataka's elimination. [1-25-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

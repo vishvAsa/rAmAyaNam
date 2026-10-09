@@ -2,6 +2,19 @@
 title = "००६ रामस्य रक्षोवधप्रतिज्ञा"
 title_english = "006 Approach of Sages and Hermits"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book III : Aranya Kanda - The Forest Trek**
+
+After the heavenward journey of Sage Sharabhanga, Rama is approached by
+ others sages and hermits. They inform him about the atrocities of demons around that
+ place. They all ask Rama to eradicate the menace and Rama avows to do so, in order to
+ keep up the tranquillity of those hermitages, and also to obliterate the menace of demons
+ from earth.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-006-Ramasya_Rakshovadha_Prathignaa.mp3"></div>
 </details>
@@ -31,6 +44,25 @@ title_english = "006 Approach of Sages and Hermits"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शरभङ्ग मुनिगळु ब्रह्मलोकक्कॆ हॊरटुहोद मेलॆ प्रज्वलित तेजवुळ्ळ ककुत्स्थवंशी श्रीरामचन्द्रन बळिगॆ अनेक मुनिगळ समुदाय आगमिसितु.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 1. sharabhange divam praapte*
+ = Sage Sharabhanga, heaven, on
+ attaining; *muni sanghaaH samaagataaH* = sages, groups, assembled; *abhyagacChanta*
+ = approached; *kaakutstham* = the one from Kakutstha dynasty; *raamam* = Rama;
+ *jvalita tejasam* = glowing with resplendence.
+
+**अनुवादः**
+
+On Sage Sharabhanga attaining heaven, groups of sages assembled and approached
+ Rama of Kakutstha dynasty, who is glowing with resplendence. [3-6-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,14 +98,124 @@ _________________
 सजपाश्च तपोनिष्ठा स्तथा पञ्चतपोन्विताः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वैखानसा वालखिल्याः संप्रक्षाला मरीचिपाः ।
+अश्म कुट्टाः च बहवः पत्र आहाराः च तापसाः ॥ ३-६-२
+दन्त उलूखलिनः च एव तथा एव उन्मज्जकाः परे ।
+गात्र शय्या अशय्याः च तथा एव अनवकाशिकाः ॥ ३-६-३
+मुनयः सलिल आहारा वायु भक्षाः तथा अपरे ।
+आकाश निलयाः च एव तथा स्थण्डिल शायिनः ॥ ३-६-४
+तथा ऊर्थ्व वासिनः दान्ताः तथा आर्द्र पट वाससः ।
+स जपाः च तपो नित्याः तथा पंच तपोऽन्विताः ॥ ३-६-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनमें वैखानस१, वालखिल्य२, सम्प्रक्षाल३, मरीचिप४, बहुसंख्यक अश्मकुट्ट५, पत्राहार६, दन्तोलूखली७, उन्मज्जक८, गात्रशय्य९, अशय्य१०, अनवकाशिक११, सलिलाहार१२, वायुभक्ष१३, आकाशनिलय१४, स्थण्डिलशायी१५, ऊर्ध्ववासी१६, दान्त१७, आर्द्रपटवासा१८, सजप१९, तपोनिष्ठ२० और पञ्चाग्निसेवी२१—इन सभी श्रेणियोंके तपस्वी मुनि थे ॥ २—५ ॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 4. munayaH*
+ = sages; *
+ salila aahaaraa*
+ = water, as food;
+ *vaayu bhakshaaH* = air, as food; *tathaa* = like that; *apare* = and some
+ more; *aakaasha nilayaaH ca* = in air, standing, also; *eva tathaa* = thus, then;
+ *sthandila shaayinaH* = on ground, sleeping.
+
+**अनुवादः**
+
+And some sages whose food is water alone, or air alone to some, like that some who
+ meditate staying in sky and some who sleep on bare ground itself. [3-6-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 3. danta uluukhalinaH ca eva*
+ = teeth, grind-stones, like [use their
+ own teeth to grind the grain]; *tatha eva* = like that; *unmajjakaaH* = neck deep
+ in water [they perform ascesis]; *pare* = others; *gaatra shayyaa* = sleeper on
+ their own shoulders or chest; *a shayyaaH ca* = no, beds, also; *tathaa eva* = like
+ that; *an avakaashakaaH* = sages without any repose.
+
+**अनुवादः**
+
+Some of them use their own teeth to grid the grain they eat, and some who perform
+ ascesis in neck-deep water, and some who sleep with their head resting on their shoulders or on
+ chests without using any kind of bed, and some who do not use any kind of beds either, and some
+ who meditate without any repose sitting in an enclosure without any leg-space. [3-6-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरल्लि वैखानस1, वालखिल्य2, सम्प्रक्षाल3, मरीचिप4, अनेक सङ्ख्यॆय अश्मकुट्ट5, पत्राहार6, दन्तोलूखली7, उन्मज्जक8, गात्रशय्य9, अशय्य10, अनवकाशिक11, सलिलाहार12, वायुभक्ष13, आकाश निलय14, स्थण्डिलशायी15, ऊर्ध्ववासी16, दान्त17, आर्द्रपटवास18, सजप19, तपोनिष्ठ20, मत्तु पञ्चाग्नि सेवि21. ई ऎल्ला श्रेणिय तपस्वी मुनिगळिद्दरु.॥2-5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 5. tathaa*
+ = thus; *
+ uurthva vaasinaH*
+ = high-peak, dwellers;
+ *daantaaH* = controlled senses; *tathaa* = thus; *aardra paTa vaasasaH* =
+ wet, cloths, wearers; *sa japaaH ca* = with, recitation, also; *tapaH nityaaH* =
+ meditate, always; *tathaa* = like that; *panca tapaH anvitaaH* = in five kinds of
+ fire, meditating.
+
+**अनुवादः**
+
+Thus some are dwellers on high-peaked places with their senses controlled, and
+ some are wearers of wet cloths, always reciting name or hymn japa and like that some who meditate
+ with five kinds of fire around them. [3-6-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 2. vaikhaanasaa*
+ = sages born out of the nails of Prajaapati;
+ *vaalakhilyaaH* = born from Prajaapati's hair; *sam prakshaalaa* = from His
+ feet-wash; *mariichi paaH* = rays of sun and moon, drinkers; *ashma kuTTaaH ca* =
+ by stone, pound grains, also; *bahavaH* = many of them; *patra aahaaraaH ca* =
+ leave-eaters, also; *taapasaaH* = sages.
+
+**अनुवादः**
+
+The sages called Vaikahanasa-s, [who are born out of the nails of Prajaapati, the
+ first ruler of mankind,] also Vaalakhilyaa-s, [those born from His hair,] and those from the
+ water of His feet-wash, and those that thrive on drinking rays of sun and moon alone, and those
+ that pound with stones and others who thrive on leaves alone, are those sages... [3-6-2]
+
+**टिप्पनी**
+
+The *
+ samprakshaala*
+ are kind of sages said be washing their interior
+ body with water, a yogic measure called *dhouli prakriya* , and also otherwise attributed
+ to wash their vessels after a meal, without preserving any food for the next meal, for god would
+ automatically give their daily bread. The sages called *ashma kuTTa*, are that kind of
+ sages who pound their bodies with stones, and thus they pound grain with stones.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -96,6 +238,12 @@ _________________
 शरभङ्गाश्रमे राममभिजग्मुश्च तापसाः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सर्वे ब्राह्ंया श्रिया ज्युक्ता दृढ योग समाहिताः ।
+शरभंग आश्रमे रामम् अभिजग्मुः च तापसाः ॥ ३-६-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे सभी तपस्वी ब्रह्मतेजसे सम्पन्न थे और सुदृढ़ योगके अभ्याससे उन सबका चित्त एकाग्र हो गया था । वे सब-के-सब शरभङ्ग मुनिके आश्रमपर श्रीरामचन्द्रजीके समीप आये ॥ ६ ॥
@@ -104,6 +252,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मतेजदिन्द सम्पन्नराद आ ऎल्ल तपस्विगळु, सुदृढयोगद मूलक चित्त एकाग्रवागिद्दु, अवरॆल्लरू शरभङ्गमुनिय आश्रमदल्लि श्रीरामचन्द्रन बळिगॆ बन्दरु.॥6॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 6. sarve*
+ = all; *
+ braahmyaa*
+ = of Brahma, i.e., of Vedic;
+ *shriyaa yuktaa* = resplendence, with; *dR^iDha yoga samaahitaaH* = firm, yogic
+ control, having; *sharabhanga aashrame* = in Sharabhanga hermitage; *raamam* = for
+ Rama; *abhijagmuH ca* = arrived, also; *taapasaaH* = sages.
+
+**अनुवादः**
+
+All have Vedic resplendence and firm yogic control, and they have arrived at the
+ hermitage of Sage Sharabhanga for Rama. [3-6-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +287,12 @@ _________________
 ऊचुः परमधर्मज्ञमृषिसङ्घाः समागताः ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अभिगंय च धर्मज्ञा रामम् धर्म भृताम् वरम् ।
+ऊचुः परम धर्मज्ञम् ऋषि संघाः समागताः ॥ ३-६-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 धर्मात्माओंमें श्रेष्ठ परम धर्मज्ञ श्रीरामचन्द्रजीके पास आकर वे धर्मके ज्ञाता समागत ऋषिसमुदाय उनसे बोले— ॥ ७ ॥
@@ -126,6 +301,37 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मात्मरल्लि श्रेष्ठनाद परम धर्मज्ञ श्रीरामन बळिगॆ बन्दिरुव आ धर्मज्ञ ऋषिसमुदायवु अवनल्लि हीगॆ नुडिदरु.॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 7. dharmaGYaaH*
+ = virtuous sages; *
+ R^iSi sanghaaH*
+ = sage,
+ groups;. samaahitaaH = coming together; *dharma bhR^itaam varam* = virtue beholder, the
+ best, at Rama [also dharma = bow; *bhR^itam* = wielder; *varam* = the best];
+ *parama dharmaGYam* = the supreme in virtue; *raamam* = at Rama; *abhi gamya
+ ca* = nearly approaching, also; *uucuH* = said;
+
+**अनुवादः**
+
+Those virtuous sages coming together in groups neared Rama, the best beholder of
+ virtue, and said to that supreme one in virtue. [3-6-7]
+
+**टिप्पनी**
+
+The word *
+ abhi gamya*
+ is nearly approaching, coming nearby, at a
+ destination that is Rama. The Omni-Luminescent, , emerged in Kakutstha dynasty as Rama. Knowing
+ that, all the sages of higher knowledge have arrived at their 'destination' in this mortal world
+ itself... Maheshvara Tirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +349,13 @@ _________________
 प्रधानश्चासि नाथश्च देवानां मघवानिव ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+त्वम् इक्ष्वाकु कुलस्य अस्य पृथिव्याः च महारथः ।
+प्रधानः च अपि नाथः च देवानाम् मघवान् इव ॥ ३-६-८
+ओर्
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुनन्दन! आप इस इक्ष्वाकुवंशके साथ ही समस्त भूमण्डलके भी स्वामी, संरक्षक एवं प्रधान महारथी वीर हैं । जैसे इन्द्र देवताओंके रक्षक हैं, उसी प्रकार आप मनुष्यलोककी रक्षा करनेवाले हैं ॥ ८ ॥
@@ -151,6 +364,46 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! नीनु ई इक्वाक्षु वंशदॊन्दिगॆ समस्त भूमण्डलक्कू स्वामियू, संरक्षकनू, प्रधान महारथियू आगिरुवि. इन्द्रनु देवतॆगळ रक्षकनिरुवन्तॆये नीनु मनुष्यलोकद रक्षकनागिरुवॆ.॥8॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 8. mahaarathaH*
+ = being great charioteer in battlefields / Supreme
+ Charioteer of Universe; *tvam ikSvaaku kulasya naathaH* = you are, Ikshvaku, dynasty, [not
+ only] the protector; *asya pR^ithivyaaH ca* = to this, earth, also; *devaanaam
+ maghavaan iva* = for gods, Indra, as with; *[tvam* = you are]; *pradh[but also the]
+ aanaH api ca* = leader / protector, shelterer, even, also.
+
+**अनुवादः**
+
+"You are the supreme charioteer born in Ikshvaku dynasty hence you are the
+ protector of earth under your control. As with Indra, the ruler of divinities you are a similar
+ ruler for us. [3-6-8]
+
+Though born in Ikshvaku dynasty you are the Supreme Charioteer, hence you are the
+ same Supreme Charioteer of this Earth and earthlings too, as with Indra who protects divinities,
+ you are our protector.
+
+**टिप्पनी**
+
+We have not heard of any chariot or horse being utilised by Rama, let alone in
+ some episodes of his student days, because he is more a foot soldier than a horse/chariot rider.
+ How these sages suddenly say that Rama is a speedy charioteer, is the question. This *mahaa
+ rathaH* concept is on the analogy of Krishna the charioteer in Bharata. In Vedanta, the human
+ body is frequently referred as *ratha*, as in *ashva kraante rathaH kraante
+ vishNukraante vasu.ndharaa...* , Sec. I-37 Mahanaaraayano panishad: 'O, earth that is
+ traversed by a horse [in Vedic rituals,] a chariot, [great souls, why they all when] Vishnu
+ himself treaded on you as Trivikrama... hence I pray you...' Hence the chariot, drawn by the
+ five-senses as its horses, and the earth are also brought and said here by sages.
+ Krishna-Arjuna's chariot too had five-horses. Here the sages with controlled senses, namely
+ horses, are asking the one who chariots/spins the earth and earthlings, to take off the children
+ of lesser gods, namely demons, far away from humans where humans are god controlled species.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +421,12 @@ _________________
 पितृव्रतत्तं सत्यं च त्वयि धर्मश्च पुष्कलः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+विश्रुतः त्रिषु लोकेषु यशसा विक्रमेण च ।
+पितृ व्रतत्वम् सत्यम् च त्वयि धर्मः च पुष्कलः ॥ ३-६-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आप अपने यश और पराक्रमसे तीनों लोकोंमें विख्यात हैं । आपमें पिताकी आज्ञाके पालनका व्रत, सत्य भाषण तथा सम्पूर्ण धर्म विद्यमान हैं ॥ ९ ॥
@@ -176,6 +435,38 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु तन्न यश मत्तु पराक्रमदिन्द मूरु लोकगळल्लियू प्रख्यातनागिरुवॆ. निन्नल्लि पितृवाक्य पालनॆय व्रत, सत्यभाषण, समस्त धर्मगळु विद्यमानवागिवॆ.॥9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 9. [tvam*
+ = you are]; *
+ triSu lokeshu yashasaa vikrameNa ca
+ vishrutaH* = in three, worlds, by your repute and valour well, renowned; *tvayi* = in
+ you; *pitR^iu vratatvam satyam ca* = to father, devotion, truthfulness, also;
+ *pushkalaH* = abounding; *dharmaH ca* = righteousness, even [is there].
+
+**अनुवादः**
+
+"You are well renowned in all the three worlds by your repute and valour, and in
+ you abounding are the virtues like truthfulness and devotion to your father, and even
+ righteousness too, is there. [3-6-9]
+
+**टिप्पनी**
+
+The above is the apparent meaning. The subtext is "Are you, the supreme
+ charioteer of Ikshvaku dynasty alone, like Indra for celestial beings? And are you the supreme
+ charioteer of this earth and earthlings alone? Not so...you are the Supreme of the whole
+ Universe, therefore your reputation is well known in all the three worlds. Thus you the
+ Omni-Luminescent entered in Ikshvaku dynasty in the form of Rama, to perform your duties like
+ abiding by father's word, with your usual qualities like abounding virtuousness, safeguarding
+ dharma in respect of your own creation/ maintenance..." Thus this is the confrontation-like-
+ addressing of the enlightened sages. Maheshvara Tirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +479,12 @@ _________________
 
 त्वामासाद्य महात्मानं धर्मज्ञं धर्मवत्सलम् ।  
 अर्थित्वान्नाथ वक्ष्यामस्तच्च नः क्षन्तुमर्हसि ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+त्वाम् आसाद्य महात्मानम् धर्मज्ञम् धर्म वत्सलम् ।
+अर्थित्वात् नाथ वक्ष्यामः तत् च नः क्षन्तुम् अर्हसि ॥ ३-६-१०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -200,6 +497,39 @@ _________________
 नाथा! नीनु महात्मनू, धर्मज्ञनू, धर्मवत्सलनू आगिरुवॆ. नावु याचकरागि स्वार्थद मातन्नु निवेदिसलु बयसुत्तिद्देवॆ. इदक्कागि नीनु क्षमिसबेकु.॥10॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 10. mahaatmaanam*
+ = great soul; *
+ dharmaGYam*
+ = knower of
+ righteousness; *dharma vatsalam* = virtue, patron of; *tvaam arthitvaat aasaadya* =
+ you, like begging, on getting at [we beg to state as we have come across you];
+ *vakshyaamaH* = we can tell you [petition to you]; *naatha* = oh, protector;
+ *naH* = our; *that* = that [special or personal] begging; *kshantum arhasi*
+ = to pardon, will be apt of you.
+
+**अनुवादः**
+
+"You are the great-souled one, knower of righteousness and a patron of virtue...
+ such as you are, on approaching you we beg to state something for which we may please be
+ excused... [3-6-10]
+
+**टिप्पनी**
+
+Special supplication to god is a waste. His mercy has to flows on its own
+ accord. Why beg him to perform his own duty? If by mistake, an appeal is made to god to alleviate
+ a personal problem, his pardon may to be begged, but he is not be begged to do favours. Here the
+ sages on one hand say that 'you have come here in the incarnation of Rama to eradicate evil...'
+ At the same time, they say 'we have an appeal for the same...' This begging off, is as per social
+ custom, made to the apparent ruler of the kingdom, not to the innate Divine.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मः सुमहान् नाथ भवेत् तस्य तु भूपतेः ।  
@@ -210,6 +540,12 @@ _________________
 
 अधर्मः सुमहान् नाथ भवेत् तस्य तु भूपतेः ।  
 यो हरेद् बलिषड्भागं न च रक्षति पुत्रवत् ॥ ११ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अधार्मः सुमहान् नाथ भवेत् तस्य तु भूपतेः ।
+यो हरेत् बलि षड् भागम् न च रक्षति पुत्रवत् ॥ ३-६-११
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -222,6 +558,40 @@ _________________
 स्वामी! प्रजॆगळ आदायदल्लि आरनॆय ऒन्दु भागवन्नु कन्दाय रूपदल्लि पडॆदु राजनु प्रजॆगळन्नु मक्कळन्तॆ पालिसदिद्दरॆ अवनिगॆ अधर्मद भागियागबेकागुत्तदॆ.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 11. naatha*
+ = oh, protector; *
+ yaH*
+ = which king;
+ *bali* = cess; *shaT bhaagam* = sixth part; *haret* = who takes; *putra
+ vat* = like sons; *na ca rakshati* = who does not, also, guard; *tasya mahii
+ pateH* = to such a king; *a dhaarmaH* = non-virtue [wrongness,]; *su mahaan* =
+ very, great; *bhavet* = will fall upon him.
+
+**अनुवादः**
+
+"Oh! , very great a-dharma, wrongness, will occur to that king who takes the sixth
+ part of the country's produce as cess, but does not safeguard his subjects like his own sons...
+ [3-6-11]
+
+**टिप्पनी**
+
+"Protection of subjects is but natural to all kings, but some kings do so for
+ a particular reason, hence this appeal of ours" thus say the sages...Govindaraja. "Though you
+ incarnated yourself to protect the entire universe, so you have to protect us too...but why a
+ special appeal of ours when you are duty bound... that means, we with an unbearable angst of ours
+ make this appeal according to the social custom, but not to harass you. Hence we remind you,
+ Rama, of your kingly duties to safeguard us..." Maheshvara Tirtha. atra a
+ pramaadena prajaaH samrakShaNiiyaaH - rakShaNaat uttama loka avaaptiH - arakShaNe doShaH ca
+ bhavati iti suucitam - dharmaakuutam
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युञ्जानः स्वानिव प्राणान् प्राणैरिष्टान् सुतानिव ।  
@@ -238,6 +608,14 @@ _________________
 ब्रह्मणः स्थानमासाद्य तत्र चापि महीयते ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+युंजानः स्वान् इव प्राणान् प्राणैः इष्टान् सुतान् इव ।
+नित्य युक्तः सदा रक्षन् सर्वान् विषय वासिनः ॥ ३-६-१२
+प्राप्नोति शाश्वतीम् राम कीर्तिम् स बहु वार्षिकीम् ।
+ब्रह्मणः स्थानम् आसाद्य तत्र च अपि महीयते ॥ ३-६-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीराम! जो भूपाल प्रजाकी रक्षाके कार्यमें संलग्न हो अपने राज्यमें निवास करनेवाले सब लोगोंको प्राणोंके समान अथवा प्राणोंसे भी अधिक प्रिय पुत्रोंके समान समझकर सदा सावधानीके साथ उनकी रक्षा करता है, वह बहुत वर्षोंतक स्थिर रहनेवाली अक्षय कीर्ति पाता है और अन्तमें ब्रह्मलोकमें जाकर वहाँ भी विशेष सम्मानका भागी होता है ॥ १२-१३ ॥
@@ -246,6 +624,32 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! प्रजा रक्षणॆय कार्यदल्लि संलग्ननाद राजनु तन्न राज्यदल्लि वासिसुव ऎल्ल जनरन्नु प्राणगळन्तॆ अथवा प्राणगळिगिन्त हॆच्चु प्रियपुत्ररन्तॆ तिळिदु सदा ऎच्चरिकॆयिन्द, अवरन्नु रक्षिसुववनु अनेक काल इरुव अक्षय कीर्ति मत्तु अन्त्यदल्लि ब्रह्मलोकक्कॆ होगि अल्लियू विशेष सम्मानक्कॆ भागियागुत्तानॆ.॥12-13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 12, 13. sarvaan vishaya vaasinaH*
+ = all, country, dwellers
+ [subjects]; *praanaiH iSTaan sutaan iva* = than life, dearer, sons, like; *svaan
+ praanaan yunjaanah iva* = his own, lives, give away, as though; *nitya yuktaH sadaa
+ rakshan* = always, endeavouring, always, protecting; *saH* = he that king;
+ *praapnoti* = will attain; *shaashvatiim kiirtim* = permanent, renown; *bahu
+ vaarSikiim* = lasting for many years; *brahmaNaH sthaanam aasaadya* = in Brahma's
+ abode, a place, on getting; *tatra ca api mahiiyate* = there, also, even, will
+ prosper.
+
+**अनुवादः**
+
+"A king shall treat all the subjects of kingdom as his own sons, and he shall
+ protect them as though he is ready to save them at the cost of his own lives, and he who will
+ always be endeavouring in that manner will attain permanent renown lasting for many for many
+ years to come, and thereby he attains a prosperous place even in Brahma's abode... [3-6-12,
+ 3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +667,12 @@ _________________
 तत्र राज्ञश्च तुर्भागः प्रजा धर्मेण रक्षतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यत् करोति परम् धर्मम् मुनिः मूल फल अशनः ।
+तत्र राज्ञः चतुर् भागः प्रजा धर्मेण रक्षतः ॥ ३-६-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजाके राज्यमें मुनि फल-मूलका आहार करके जिस उत्तम धर्मका अनुष्ठान करता है, उसका चौथा भाग धर्मके अनुसार प्रजाकी रक्षा करनेवाले उस राजाको प्राप्त हो जाता है ॥ १४ ॥
@@ -271,6 +681,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 फलमूलगळन्नु तिन्दु याव राजन राज्यदल्लि मुनिगळु उत्तम धर्मानुष्ठान माडुत्ता इरुवरो, अदर पुण्यदल्लि नाल्कनॆय ऒन्दु अंशवन्नु धर्मानुसार प्रजॆयन्नु रक्षिसुव राजनिगॆ दॊरॆयुत्तदॆ.॥14॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 14. prajaa dharmeNa rakshataH*
+ = people, virtuously, he who
+ protects; *raaGYaH* = for that king; *muula phala ashanaH* = tubers, fruits, eater;
+ *muniH* = sage; *yat* = which; *param dharmam* = great, duty-bound deeds;
+ *karoti* = performs; *tatra catur bhaagaH* = there [from sage,] to that king,
+ fourth, part; *[labhati* = he gets.]
+
+**अनुवादः**
+
+"He who righteously protects his subjects will get one fourth of the merit of
+ great duty-bound deeds performed by each individual sage, say yajna-s, ascesis, meditation etc.
+ performances. [3-6-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +714,12 @@ _________________
 
 सोऽयं ब्राह्मणभूयिष्ठो वानप्रस्थगणो महान् ।  
 त्वन्नाथोऽनाथवद् राम राक्षसैर्हन्यते भृशम् ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सो अयम् ब्राह्मण भूयिष्ठो वानप्रस्थ गणो महान् ।
+त्वम् नाथो अनाथवत् राम राक्षसैः हन्यते भृशम् ॥ ३-६-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -295,6 +732,28 @@ _________________
 श्रीराम! ई वनदल्लि इरुव वानप्रस्थ महात्मर दॊड्ड समुदायदल्लि ब्राह्मणर सङ्ख्यॆये हॆच्चागिदॆ. इवर रक्षक नीने आगिरुवॆ. राक्षसरिन्द अनाथरन्तॆ संहारवागि ई मुनिगळ समुदायवु हॆच्चिन सङ्ख्यॆयल्लि सायुत्तिद्दारॆ.॥15॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 15. O, Rama; *
+ tvam naathaH*
+ = while you are, there as protector;
+ *braahmaNa bhuuyiSThaH* = with Brahmans, are there numerously; *mahaan* = most
+ reverent ones; *saH yam* = that, this one [suchlike]; *vaanaprastha gaNaH* =
+ hermitages, groups of; *a naatha vat* = forsaken ones, as though; *raakshasaiH
+ bhR^isham hanyate* = by the demons, devastatingly, demolished.*
+
+**अनुवादः**
+
+"O, Rama, though you are there as protector for the hermitages, suchlike this one,
+ where the most reverent Brahmans are there numerously, they look as though forsaken, for they are
+ being demolished by demons, devastatingly... [3-6-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एहि पश्य शरीराणि मुनीनां भावितात्मनाम् ।  
@@ -305,6 +764,12 @@ _________________
 
 एहि पश्य शरीराणि मुनीनां भावितात्मनाम् ।  
 हतानां राक्षसैर्घोरैर्बहूनां बहुधा वने ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एहि पश्य शरीराणि मुनीनाम् भावित आत्मनाम् ।
+हतानाम् राक्षसैः घोरैः बहूनाम् बहुधा वने ॥ ३-६-१६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -317,6 +782,26 @@ _________________
 राघव! भयङ्कर राक्षसरिन्द हतरागिरुव ध्यानासक्तराद अनेक मुनिगळ शरीरगळु (शवगळु अथवा ऎलुबुगळ राशि) अरण्यदल्लि सुत्तलू बिद्दिरुवुदन्नु नीने बन्दु प्रत्यक्षवागि नोडु.॥16॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 16. ehi pashya*
+ = come and see; *
+ vane ghoraiH raakshasaiH
+ bahudhaa hataanaam* = in forest, by ghastly, demons, variously, killed; *muniinaam
+ bhaavita aatmanaam* = of sages, contemplative, souls; *bahuunaam* = many of them;
+ *shariiraaNi* = bodies.
+
+**अनुवादः**
+
+"Come and see many of the bodies of the sages, the contemplative souls, that are
+ variously killed by ghastly demons in the forest... [3-6-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पम्पानदीनिवासानामनुमन्दाकिनीमपि ।  
@@ -327,6 +812,12 @@ _________________
 
 पम्पानदीनिवासानामनुमन्दाकिनीमपि ।  
 चित्रकूटालयानां च क्रियते कदनं महत् ॥ १७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+पंपा नदी निवासानाम् अनुमन्दाकिनीम् अपि ।
+चित्रकूट आलयानाम् च क्रियते कदनम् महत् ॥ ३-६-१७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -339,6 +830,25 @@ _________________
 पम्पासरोवर मत्तु अदर हत्तिर हरियुव तुङ्गभद्रानदी तीरदल्लि वासिसुव, मन्दाकिनी तीरदल्लि इरुव, चित्रकूटद तप्पलल्लि निवासस्थान माडिकॊण्ड ऎल्ल ऋषि-महर्षिगळन्नु राक्षसरु महासंहार माडि बिट्टिद्दारॆ.॥17॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 17. pampaa nadii nivaasaanaam*
+ = Pampa, riverside, dwelling; *
+ anu
+ mandaakiniim api* = along, Mandakini river, even; *chitrakuuTa aalayaanaam ca* = at
+ Mt.Chitrkuuta, surrounds, also; *kriyate kadanam mahat* = does, warfare, hideous one.
+
+**अनुवादः**
+
+"At Pampa riverside, and alongside of River Mandakini, and at the surroundings of
+ Mt. Chitrakuta also, this hideous warfare is being done... [3-6-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वयं न मृष्यामो विप्रकारं तपस्विनाम् ।  
@@ -349,6 +859,12 @@ _________________
 
 एवं वयं न मृष्यामो विप्रकारं तपस्विनाम् ।  
 क्रियमाणं वने घोरं रक्षोभिर्भीमकर्मभिः ॥ १८ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एवम् वयम् न मृष्यामो विप्रकारम् तपस्विनाम् ।
+क्रियमाणम् वने घोरम् रक्षोभिः भीम कर्मभिः ॥ ३-६-१८
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -361,6 +877,25 @@ _________________
 ई भयानक कर्ममाडुव राक्षसरु ई वनदल्लि तपस्वी मुनिगळिगॆ कॊडुव भयङ्कर घोरवाद हिंसॆयन्नु नावु सहिसिकॊण्डिरलारॆवु.॥18॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 18. evam vayam na mR^iSyaamaH*
+ = thus, we, not able to tolerate;
+ *vi prakaaram* = not, orderliness [injustice]; *tapasvinaam* = for sages;
+ *kriyamaaNam vane ghoram* = being executed by, in forest, in a ghastly manner;
+ *rakshobhiH bhiima karmabhiH* = by demons, with fiendish, deeds.
+
+**अनुवादः**
+
+"Thus. we are not able to tolerate this injustice to the sages, being executed in
+ this forest by the demons with fiendish deeds, in a ghastly manner... [3-6-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वां शरणार्थं च शरण्यं समुपस्थिताः ।  
@@ -371,6 +906,12 @@ _________________
 
 ततस्त्वां शरणार्थं च शरण्यं समुपस्थिताः ।  
 परिपालय नो राम वध्यमानान् निशाचरैः ॥ १९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ततः त्वाम् शरणार्थम् च शरण्यम् समुपस्थिताः ।
+परिपालय नः राम वध्यमानान् निशाचरैः ॥ ३-६-१९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -383,6 +924,43 @@ _________________
 आद्दरिन्द ई राक्षसरिन्द बदुकुळियलु निन्नल्लि शरणागि बळिगॆ बन्दिरुवॆवु. श्रीरामा! शरणागत वत्सलनाद नीनु ई निशाचररिन्द हिंसिसल्पडुव नम्मन्नु रक्षिसु.॥19॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 19. tataH*
+ = therefore; *
+ O, Rama; *
+ sharaNyam tvaam sharaNa
+ artham* = a protecting one, a you, for protection, for the purpose of; *sam
+ upasthitaaH* = we present before you; *nishaa caraiH* = by night-walkers;
+ *vadhyamaanaan* = being killed; *naH pari paalaya* = protect* = us, you
+ safeguard.
+
+**अनुवादः**
+
+"Therefore we present ourselves before you as you are our protector, for the
+ purpose of your protecting us that are being killed by nightwalkers... please safe guard us...
+ [3-6-19]
+
+**टिप्पनी**
+
+It is said as 'you are the only refuge' because there is no pre or post verbs
+ for this *sharaNyam*, thus you aare the protector of all worlds. *sharaNa artham*
+ is taken as to 'place us at our appropriate place,' namely in the abode after total salvation;
+ *sam upasthitaa or sam upaagamaa* as in other versions, we have come here with
+ *vishvaasa*, faithfulness, *sharaNaagati* , servitude, *kainkarya* ,
+ surrender etc.; *naH paripaalaya* protect us and with this word, it is again repeated in
+ next verse as *paripaalaya naH* ; and later in the verse the request - from what to be
+ protected is said. That is *aniSTa nivR^itti ruupa phala praarthana*, 'removal of that
+ which is undesirable.' That is to say: 'we better be given total salvation rather than killed by
+ these demons, which is half way through our exercise to attain total salvation.' is the subtext
+ of the speech of sages.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परा त्वत्तो गतिर्वीर पृथिव्यां नोपपद्यते ।  
@@ -393,6 +971,12 @@ _________________
 
 परा त्वत्तो गतिर्वीर पृथिव्यां नोपपद्यते ।  
 परिपालय नः सर्वान् राक्षसेभ्यो नृपात्मज ॥ २० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+परा त्वत्तः गतिः वीर पृधिव्यम् न उपपद्यते ।
+परिपालय नः सर्वान् राक्षसेभ्यो नृपात्मजः ॥ ३-६-२०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -405,6 +989,39 @@ _________________
 राजकुमारने! ई भूमण्डलदल्लि निनगिन्त मिगिलाद आसरॆ नमगॆ बेरॆ यावुदू इल्ल. नीनु ई राक्षसरिन्द नम्मॆल्लरन्नू रक्षिसु.॥20॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 20. viiraH*
+ = oh! Valiant one; *
+ tvattaH*
+ = than you;
+ *paraa gatiH* = other, way out; *pR^idhivyam na upapadyate* = on the earth, not,
+ deducible; *nR^ipa atmajaH* = king's, son �oh, prince; *paripaalaya naH* = protect
+ us; *sarvaan* = all; *raakshasebhyaH* = from demons.
+
+**अनुवादः**
+
+"Other than you, oh, valorous Rama, no way-out is deducible on this earth, hence
+ oh, prince, protect all of us from the demons... [3-6-20]
+
+**टिप्पनी**
+
+There is no way-out on this earth, for that matter of fact in all the
+ universe, when the 'earth' becomes *upa lakshNa* for all worlds. This is in consonance
+ with the scripture's saying, *na anyaH panthaa vidyate ayanaaya...puruSa suukta* R.V. X-90
+ and thus those sages say 'we are contaminated with limited fruition of our practices *parimita
+ phalatva*, and other suchlike limitations. But you are evident here...before our naked
+ eyes...so protect us from the demons...' where the demons, *raakshsebhyaH* comes to mean
+ *sarva aniSTaaH*, all earthly undesirables. Again coupled with the vocation of 'Oh
+ Prince...' it is said as: "you have come here like a prince of Ayodhya, unlike a wild boar, or a
+ fish or a man-lion, your earlier incarnations, so remember us and give us salvation...
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा तु काकुत्स्थस्तापसानां तपस्विनाम् ।  
@@ -417,6 +1034,12 @@ _________________
 इदं प्रोवाच धर्मात्मा सर्वानेव तपस्विनः ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एतत् श्रुत्वा तु काकुत्स्थः तापसानाम् तपस्विनाम् ।
+इदम् प्रोवाच धर्मात्मा सर्वान् एव तपस्विनः ॥ ३-६-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तपस्यामें लगे रहनेवाले उन तपस्वी मुनियोंकी ये बातें सुनकर ककुत्स्थकुलभूषण धर्मात्मा श्रीरामने उन सबसे कहा— ॥ २१ ॥
@@ -425,6 +1048,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तपस्सिनल्लि तॊडगिरुव आ तपस्वीमुनिगळ ई मातन्नु केळि ककुत्स्थकुलभूषण धर्मात्मा श्रीरामनु अवरॆल्लरल्लि हेळिदनु.॥21॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 21. dharmaatmaa*
+ = virtuous soul; *
+ kaakutsthaH*
+ = Kakutstha
+ scion Rama; *taapasaanaam* = of great penance; *etat shrutvaa tu* = all that, on
+ hearing; *tapasvinaam* = sages; *idam provaaca* = this, said; *sarvaan eva
+ tapasvinaH* = all of the, thus, sages.
+
+**अनुवादः**
+
+On hearing all that is said by the sages of great penance, he that virtue souled
+ Rama said this unto all of the sages. [3-6-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +1086,12 @@ _________________
 केवलेनस्वकार्येण प्रविष्टव्यंवनं मया ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न एवम् अर्हथ माम् वक्तुम् आज्ञाप्यः अहम् तपस्विनाम् ।
+केवलेन स्व कार्येण प्रवेष्टव्यम् वनम् मया ॥ ३-६-२२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मुनिवरो! आपलोग मुझसे इस प्रकार प्रार्थना न करें । मैं तो तपस्वी महात्माओंका आज्ञापालक हूँ । मुझे केवल अपने ही कार्यसे वनमें तो प्रवेश करना ही है (इसके साथ ही आपलोगोंकी सेवाका सौभाग्य भी मुझे प्राप्त हो जायगा) ॥ २२ ॥
@@ -450,6 +1100,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनिवर्यरे! नीवु नन्नल्लि हीगॆ प्रार्थिसबेडि. नानादरो तपस्वी महात्मर आज्ञापालकनागिद्देनॆ. नानु केवल कार्यक्कागिये वनप्रदेशवन्नु प्रवेशिसिरुवॆनु. (इवरॊन्दिगॆ निम्म सेवॆय सौभाग्यवू ननगॆ प्राप्तवागुवुदु..॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 22. evam maam vaktum na arhatha*
+ = this way, to me, to speak, not,
+ apt of you; *aham tapasvinaam aaGYaapyaH* = I, sages, can be ordered; *kevalena aatma
+ kaaryeNa [sva kaaryeNa] mayaa vanam praveSTavyam* = just for, personal purpose, by me, forest
+ had to be entered.
+
+**अनुवादः**
+
+"Unapt is this way of speaking to me...command me, for I am at your behest... just
+ for my personal purpose I had to enter the forests.... [3-6-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +1133,12 @@ _________________
 पितुस्तु निर्देशकरः प्रविष्टोऽहमिदं वनम् ॥ २३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+विप्रकारम् अपाक्रष्टुम् राक्षसैः भवताम् इमम् ।
+पितुः तु निर्देशकरः प्रविष्टो अहम् इदम् वनम् ॥ ३-६-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसोंके द्वारा जो आपको यह कष्ट पहुँच रहा है, इसे दूर करनेके लिये ही मैं पिताके आदेशका पालन करता हुआ इस वनमें आया हूँ ॥ २३ ॥
@@ -472,6 +1147,51 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसरिन्द निमगॆ उण्टाद कष्टवन्नु दूरमाडलिक्कागिये नानु पितृवाक्यवन्नु पालिसुत्ता ई अरण्यक्कॆ बन्दिरुवॆनु.॥23॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 23. aham*
+ = I am; *
+ raakshasaiH*
+ = owing to demons;
+ *bhavataam* = in your respect; *imam* = all this; *vi prakaaram* =
+ unconscionable state; *apaakraSTum* = to obliterate; *pituH tu* = by father;
+ *nirdeshakaraH* = as ordered; *idam vanam* = this forest; *praviSTaH* =
+ entered.
+
+**अनुवादः**
+
+"I entered this forest as ordered by my father and even to obliterate the
+ unconscionable state of yours owing to the misdeeds of demons. [3-6-23]
+
+**टिप्पनी**
+
+Rama's saying that 'I am at your command, oh sages...' is indicative of his
+ nature of *bhakta jana vashya*... in the control of his ardent devotees, so no special
+ prayer for salvation is needed. In the expression *kevalene aatma/sva kaaryeNa*... the
+ word *kevala* is not a *kevala pada* ... just a word... it indicates a radical
+ sense, like 'for that purpose only' meaning to eradicate demonic menace only, I entered the
+ forest...' Because the *sheSin* has to come to the rescue of *sheSi*, the servant.
+ So 'safeguarding my own servants is my own responsibility and also pleasure, that is why I
+ entered the forests, where my father's orders are *nimitta*, a concomitant factor, and not
+ that I entered these forest due to my karma, or misfortune...' Govindaraja. According to
+ Maheshvara Tirtha 'My coming to forests at the orders of my father is a fact but concomitant
+ factor in this forest trek is your request to eliminate the demons, which I will do...' This is
+ evident meaning. The latent one is "I have entered these forests only at my own desire to
+ eradicate demons, for they are doing wrong to you, my servants *sheSin*-s, and I abide by
+ you, my devotees...' c.f.,
+
+**टिप्पनी**
+
+Griffit's Translit: I wait the hests of all of you. / I by mine own
+ occasion led / This mighty forest needs must tread, / And while I keep my sire's decree / Your
+ lives from threatening foes will free.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +1209,12 @@ _________________
 तस्य मेऽयं वने वासो भविष्यति महाफलः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भवताम् अर्थ सिद्ध्यर्थम् आगतोऽहम् यदृच्छया ।
+तस्य मे अयम् वने वासो भविष्यति महाफलः । ३-६-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आपलोगोंके प्रयोजनकी सिद्धिके लिये मैं दैवात् यहाँ आ पहुँचा हूँ । आपकी सेवाका अवसर मिलनेसे मेरे लिये यह वनवास महान् फलदायक होगा ॥ २४ ॥
@@ -497,6 +1223,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्म प्रयोजन सिद्धिगागिये नानु दैवयोगदिन्द इल्लिगॆ बन्दिरुवॆनु. निम्म सेवॆयिन्दागि नन्न ई वनवासवु महाफलदायक आगुवुदु.॥24॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 24. aham*
+ = I; *
+ bhavataam artha siddhyartham*
+ = for your,
+ purpose, achievement; *yard^icChayaa* = perchance; *aagataH* = have come; *tasya
+ me* = such as I am, for me; *ayam vane vaasaH* = in this forest, dwelling; *mahaa
+ phalaH* = immensely, fruitful; *bhavishyati* = it will be.
+
+**अनुवादः**
+
+"Perchance I have come for the achievement of your purpose, such as I am, dwelling
+ in this forest will immensely be fruitful to me... [3-6-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -509,6 +1256,12 @@ _________________
 
 तपस्विनां रणे शत्रून् हन्तुमिच्छामि राक्षसान् ।  
 पश्यन्तु वीर्यमृषयः सभ्रातुर्मे तपोधनाः ॥ २५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तपस्विनाम् रणे शत्रून् हन्तुम् इच्छामि राक्षसान् ।
+पश्यन्तु वीर्यम् ऋषयः सः ब्रातुर् मे तपोधनाः ॥ ३-६-२५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -521,6 +1274,25 @@ _________________
 तपोधनरे! तपस्वी मुनिगळॊन्दिगॆ शत्रुत्वविरिसिकॊण्ड आ राक्षसरन्नु युद्धदल्लि नानु संहार माडलु बयसुत्तिद्देनॆ. महर्षिगळाद नीवॆल्लरू लक्ष्मणसहित नन्न पराक्रमवन्नु नोडिरि.॥25॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 25. tapasvinaam shatruun raakshasaan raNe hantum icChaami*
+ = of
+ sages, enemies, demons, in war, to eliminate, I wish to; *tapaH dhanaaH R^ishayaH* = by
+ penance, rich, sages; *pashyantu* = may behold; *sa bhraatuH me viiryam* = with,
+ brother, my, valour.
+
+**अनुवादः**
+
+"I wish to eliminate demons, the enemies of sages, in war... let the sages behold
+ my valour, and my brother's valour in doing so..." Thus Rama promised the sages. [3-6-25]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्त्वा वरं चापि तपोधनानां  
@@ -537,6 +1309,14 @@ _________________
 सुतीक्ष्णमेवाभिजगाम वीरः ॥ २६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+दत्त्वा अभयम् च अपि तपो धनानाम्
+धर्मे धृइत आत्मा सह लक्ष्मणेन ।
+तपो धनैः च अपि सह आर्य दत्तः
+सुतीक्ष्णम् एव अभिजगाम वीरः ॥ ३-६-२६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार उन तपोधनोंको वर देकर धर्ममें मन लगानेवाले तथा श्रेष्ठ दान देनेवाले वीर श्रीरामचन्द्रजी लक्ष्मण तथा तपस्वी महात्माओंके साथ सुतीक्ष्ण मुनिके पास गये ॥ २६ ॥
@@ -545,6 +1325,28 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मदल्ले नियतवाद मनस्सुळ्ळ, वीरनाद श्रीरामनु ई विधवागि अभयवन्नित्तु, सीता-लक्ष्मण सहित अनेक तपस्वी महात्मरॊन्दिगॆ सुतीक्ष्ण मुनिय बळिगॆ प्रयाण माडिदनु.॥26॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 26. dharme dhR^ita atmaa*
+ = in virtue, one who is firm, soulfully;
+ *viiraH* = valiant Rama; *tapaH dhanaanaam* = to sages; *dattvaa abhayam* =
+ on giving, aegis; *saha lakshmaNena* = with, Lakshmana; *tapodhanaiH ca api* =
+ sages, also; *saha* = along with; *aarya datta* = by Arya, given [by honourable
+ Janaka given - Seetha]; *sutiixkshNam eva abhi jagaama* = to Sage Suteekshna alone,
+ journeyed forward.
+
+**अनुवादः**
+
+Thus giving his aegis to the sages, that valiant Rama who is firmly virtue-souled,
+ journeyed towards Sage Suteekshna with Lakshmana and the sages, and along with the one given by
+ Honourable Janaka, namely Seetha. [3-6-26]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

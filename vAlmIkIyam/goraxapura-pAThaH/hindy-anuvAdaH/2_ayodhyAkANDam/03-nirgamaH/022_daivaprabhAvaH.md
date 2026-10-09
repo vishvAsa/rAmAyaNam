@@ -2,6 +2,16 @@
 title = "०२२ दैवप्रभावः"
 title_english = "022 Rama tries to pacify Lakshmana further"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book II : Ayodhya Kanda - Book Of Ayodhya**
+
+In this chapter Rama further tries to pacify Lakshmana and tells him that his stay in
+forest is the will of gods. He also wants all the celebration for his coronation to be stopped.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-022-Daiva_Prabhavaha.mp3"></div>
 </details>
@@ -27,6 +37,14 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 उवाचेदं स धैर्येण धारयन् सत्त्वमात्मवान् ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथ तम् व्यथया दीनम् सविशेषम् अमर्षितम् ।
+श्वसन्तम् इव नाग इन्द्रम् रोष विस्फारित ईक्षणम् ॥ २-२२-१
+आसद्य रामः सौमित्रिम् सुह्ऱ्दम् भ्रातरम् प्रियम् ।
+उवाच इदम् स धैर्येण धारयन् सत्त्वम् आत्मवान् ॥ २-२२-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 (श्रीरामके राज्याभिषेकमें विघ्न पड़नेके कारण) सुमित्राकुमार लक्ष्मण मानसिक व्यथासे बहुत दुःखी थे । उनके मनमें विशेष अमर्ष भरा हुआ था । वे रोषसे भरे हुए गजराजकी भाँति क्रोधसे आँखें फाड़-फाड़कर देख रहे थे । अपने मनको वशमें रखनेवाले श्रीराम धैर्यपूर्वक चित्तको निर्विकाररूपसे काबूमें रखते हुए अपने हितैषी सुहृद् प्रिय भाई लक्ष्मणके पास जाकर इस प्रकार बोले— ॥ १-२ ॥
@@ -35,6 +53,27 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन पट्टाभिषेकदल्लि विघ्नवुण्टाद कारण सुमित्राकुमार लक्ष्मणनु मानसिक व्यथॆयिन्द बहळ दुःखितनागिद्दनु. अवन मनस्सिनल्लि कोपगॊण्डिद्दु, रोषगॊण्ड गजराजनन्तॆ क्रोधदिन्द कण्णुगळन्नु दॊड्डदागिसि नोडुत्तिद्दनु. तन्न मनस्सन्नु हतोटियल्लिट्टुकॊण्डिद्द श्रीरामनु धैर्यदिन्द, निर्विकारचित्तनागि तन्न हितैषि सुहृद् प्रिय तम्मनाद लक्ष्मणन बळिगॆ होगि इन्तॆन्दनु.॥1-2॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1;2. atha* = afterwards; *aatmavaan* = the self composed; *saH
+ramaH* = that Rama; *dhaarayan* = by controlling; *sattvam* = mind dhairyeNa = with
+courage; *aasaadya* = approached; *suhR^idam* = the kind hearted; *priyam bhraataram*
+= and affectionate brother; *soumitrim* = Lakshmana; *diinam* = who was distressed with
+agony; *savisheshham* = very much; *amarishhitam* = angry; *naagendramiva* = like
+king cobra; *shvasantam* = doing hissing; *roshha visphaaritatekshhaNam* = having eyes
+dilated with wrath; *uvaacha* = spoke; *idayam* = these words.
+
+**अनुवादः**
+
+Afterwards ,the self composed Rama by controlling his thoughts with courage ,approached
+the kind -hearted and affectionate brother Lakshmana who was distressed with agony who was very much
+angry like a hissing king cobra ,with his eyes dilated with wrath and spoke the following words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,6 +92,14 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 सर्वं निवर्तय क्षिप्रं कुरु कार्यं निरव्ययम् ॥ ४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+निगृह्य रोषं शोकं च खैर्यमाश्रित्य केवलम् ।
+अवमानम् निरस्येमम् गृहीत्वा हर्षमुत्तमम् ॥ २-२२-३
+उपक्लुप्तम् हि यत्किंचिदभिषेकार्थमद्य मे ।
+स्र्वम् विसर्जय क्षिप्रम् कुरु कार्यम् निरत्ययम् ॥ २-२२-४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लक्ष्मण! केवल धैर्यका आश्रय लेकर अपने मनके क्रोध और शोकको दूर करो, चित्तसे अपमानकी भावना निकाल दो और हृदयमें भलीभाँति हर्ष भरकर मेरे अभिषेकके लिये यह जो उत्तम सामग्री एकत्र की गयी है, इसे शीघ्र हटा दो और ऐसा कार्य करो, जिससे मेरे वनगमनमें बाधा उपस्थित न हो ॥ ३-४ ॥
@@ -61,6 +108,27 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणा! केवल धैर्यवन्नु तन्दुकॊण्डु तन्न मनस्सिन क्रोधवन्नु, शोकवन्नु दूरगॊळिसु. चित्तदिन्द अपमानद भावनॆयन्नु तॆगॆदु हाकु. हृदयदल्लि चॆन्नागि हर्षवन्नु तुम्बिकॊण्डु नन्न अभिषेकक्कागि अणिगॊळिसिद उत्तम सामग्रिगळन्नु बदिगिरिसु. नन्न वनगमनदल्लि बाधॆ उण्टागदिरुवन्तह कार्यवन्नु माडु.॥3-4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3;4. nigR^iyya* = Having held back; *rosham* = anger; *shokamcha*
+= and grief; *aashritya* = take refuge; *dhairyam* = in courage; *kavalam* = alone;
+*nirasya* = Having expelled; *imani* = this; *avamaanam* = insult; *gR^ihiitvaa*
+= receive; *uttamam* = great; *harshham* = joy ! visarjaya = Abandon; *sarvam*
+= all; *yatkinchit* = that is; *upakluptam* = arranged; *adya* = today; *me
+abhishhekaartham* = for my coronation; *kuru* = Do; *kshhipram* = immediately; *
+kaaryam* = action; *nirtyayam* = that is faultless."
+
+**अनुवादः**
+
+" Hold back grief and anger. Forget this insult, by taking refuge in courage alone. Obtain
+great joy! Abandon all these arrangements made today for my coronation and immediately take up action
+that is faultless ."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -78,6 +146,12 @@ _________________
 अभिषेकनिवृत्यर्थे सोऽस्तु सम्भारसम्भ्रमः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सौमित्रे यो अभिषेक अर्थे मम सम्भार सम्भ्रमः ।
+अभिषेक निवृत्ति अर्थे सो अस्तु सम्भार सम्भ्रमः ॥ २-२२-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुमित्रानन्दन! अबतक अभिषेकके लिये सामग्री जुटानेमें जो तुम्हारा उत्साह था, वह इसे रोकने और मेरे वन जानेकी तैयारी करनेमें होना चाहिये ॥ ५ ॥
@@ -86,6 +160,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रा नन्दनने! इष्टरवरॆगॆ अभिषेकक्कागि सामग्रि ऒट्टुगूडिसलु इद्द निन्न उत्साहवन्नु, ईग वनवासक्कॆ होगुव सिद्धतॆयल्लि मत्तु नानु वनवासक्कॆ होगुव सिद्धतॆयल्लि तॊडगिसु.॥5॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. soumitre* = Oh;Lakshmana; *yaH* = which; *sambhaara sambhramaH*
+= zeal for preparations; *mama abhishhekaarthe* = for my coronation; *saH* = that; *
+sambhaara sambhramaH* = zeal for preparations; *astu* = be ; *abhishheka nivR^ittyarthe*
+= for terminating coronation."
+
+**अनुवादः**
+
+"Oh, Lakshmana! Show the same zeal now in terminating my coronation as the zeal shown
+earlier in preparations for my coronation."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,6 +189,12 @@ _________________
 
 यस्या मदभिषेकार्थे मानसं परितप्यते ।  
 माता नः सा यथा न स्यात् सविशङ्का तथा कुरु ॥ ६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यस्या मद् अभिषेक अर्थम् मानसम् परितप्यते ।
+माता नः सा यथा न स्यात् सविशन्का तथा कुरु ॥ २-२२-६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -110,6 +207,23 @@ _________________
 नन्न पट्टाभिषेकद कारण चित्तदल्लि सन्तापपडुत्तिरुव नम्म तायि कैकॆयिगॆ यावुदे विधद शङ्कॆ उळियदन्तह कार्यवन्नु माडु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. yasyaaH* = which mother's; *maanasam* = mind ; *paritapyate*
+= is angvished; *madabhishhekaarthe* = about my coronation; *saa* = such; *me mataa*
+= my mother (Kaikeyi); *savishaNkaa* = having apprehension; *yathaa* = in which manner;
+*nasyaat* = it should not occur; *tathaa* = in that matter ; *kuru* = do it ."
+
+**अनुवादः**
+
+"My mother Kaikeyi is still agonized about my coronation. Behave in such a way that no
+apprehension comes to her mind on this matter."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः शङ्कामयं दुःखं मुहूर्तमपि नोत्सहे ।  
@@ -120,6 +234,12 @@ _________________
 
 तस्याः शङ्कामयं दुःखं मुहूर्तमपि नोत्सहे ।  
 मनसि प्रतिसञ्जातं सौमित्रेऽहमुपेक्षितुम् ॥ ७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तस्याः शन्कामयम् दुह्खम् मुहूर्तम् अपि न उत्सहे ।
+मनसि प्रतिसम्जातम् सौमित्रे अहम् उपेक्षितुम् ॥ २-२२-७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -132,6 +252,22 @@ _________________
 लक्ष्मण! आकॆय मनस्सिनल्लि सन्देह उण्टागि दुःख उत्पन्नवागुवुदन्नु नानु ऒन्दु क्षणवादरू सहिसुवुदिल्ल. आकॆय उपेक्षॆयन्नु माडलारॆनु.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. "soumitre* = Oh; *Lakshmana! aham* = I ; *notsahe* = do
+not wish; *upekshhitum* = to disregard ; *duHkham* = pain; *shaNkaamayam* = in
+the form of suspision; *pratisanjaatamapi* = created; *manasi* = in mind ; *tasyaaH*
+= of her; *muhuurtamapi* = even for a moment."
+
+**अनुवादः**
+
+"Oh, Lakshmana! I do not wish to disregard the painful doubt in her mind even for a moment".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न बुद्धिपूर्वं नाबुद्धं स्मरामीह कदाचन ।  
@@ -142,6 +278,12 @@ _________________
 
 न बुद्धिपूर्वं नाबुद्धं स्मरामीह कदाचन ।  
 मातॄणां वा पितुर्वाहं कृतमल्पं च विप्रियम् ॥ ८ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+न बुद्धि पूर्वम् न अबुद्धम् स्मरामि इह कदाचन ।
+मातृणाम् वा पितुर् वाहम् कृतम् अल्पम् च विप्रियम् ॥ २-२२-८
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -154,6 +296,24 @@ _________________
 नानु इल्लि ऎन्दु तिळिदू-तिळिदू अथवा तिळियदॆ तायन्दिर अथवा तन्दॆयवर यावुदे सण्णदाद अपराधवन्नु माडिदुदु नॆनपिल्ल.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. "aham* = I; *na smaraami* = do not remember; *kR^itam*
+= to have done; *alpam* = small; *vipriyam cha* = offensive thing indeed; *iha*
+= here ; *kadaachana* = at any time; *buddhipuurvam* = intentionally; *maatR^iiNaamvaa*
+= either to mothers; *piturvaa* = or to fathers; *na* = nor do I remember; *abuddham*
+= even un intentional action.
+
+**अनुवादः**
+
+"I do not remember to have done even a small disagreeable thing here at any time to my
+mothers or to my father, either intentionally or unintentionally."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यः सत्याभिसन्धश्च नित्यं सत्यपराक्रमः ।  
@@ -164,6 +324,12 @@ _________________
 
 सत्यः सत्याभिसन्धश्च नित्यं सत्यपराक्रमः ।  
 परलोकभयाद् भीतो निर्भयोऽस्तु पिता मम ॥ ९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सत्यः सत्य अभिसंधः च नित्यम् सत्य पराक्रमः ।
+पर लोक भयात् भीतः निर्भयो अस्तु पिता मम ॥ २-२२-९
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -176,6 +342,23 @@ _________________
 तन्दॆयवरु सदा सत्यवादिगळु मत्तु सत्य पराक्रमिगळागिद्दारॆ. अवरु परलोकद भयदिन्द हॆदरुत्तारॆ; अदक्कागि नन्न तन्दॆय पारलौकिक भयवु दूरागुवन्तह कार्यवन्ने नानु माडबेकु.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. astu* = Let it be ; *mama pitaa* = my father; *satyaH*
+= who is truthfull; *satya paraakramaH* = who is truly mighty; *bhiitaH* = who is afraid
+of; *paralokabhayaat* = the fear of the other world; *nityam* = always; *satyaabhisandhaH*
+= true to his promise; *nirbhayaH* = fearless".
+
+**अनुवादः**
+
+"Let the promise made by my father ,who is truthful, who is truly mighty and who is afraid
+of the fear of the other world, become true .Let him be fearless."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापि हि भवेदस्मिन् कर्मण्यप्रतिसंहृते ।  
@@ -188,6 +371,12 @@ _________________
 सत्यं नेति मनस्तापस्तस्य तापस्तपेच्च माम् ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य अपि हि भवेद् अस्मिन् कर्मणि अप्रतिसम्ह्ऱ्ते ।
+सत्यम् न इति मनः तापः तस्य तापः तपेच् च माम् ॥ २-२२-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि इस अभिषेकसम्बन्धी कार्यको रोक नहीं दिया गया तो पिताजीको भी मन-ही-मन यह सोचकर संताप होगा कि मेरी बात सच्ची नहीं हुई और उनका वह मनस्ताप मुझे सदा संतप्त करता रहेगा ॥ १० ॥
@@ -196,6 +385,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई अभिषेक सम्बन्धी कार्यवु तडॆयदिद्दरॆ नन्न मातु निजवागलिल्लवल्ल ऎम्ब सन्ताप मनस्सिगॆ उण्टागि आ मनस्तापवु नन्नन्नु सदा सन्तप्तमाडुत्ता इद्दीतु.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. tasyaapi* = To him also; *manastaapaH* = anguish; *bhavet*
+= will arise; *iti* = that; *satyam na* = his word has not come true; *asmin karmaNi
+apasamhR^ite* = if this coronation is not with drawn; *tasya* = his; *tapaaH* = anguish;
+*tapechcha* = will pain; *maam* = me."
+
+**अनुवादः**
+
+"Our father will feel anguished that his word has not come true ,if this coronation is
+not withdrawn. His distress will cause pain to me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +419,12 @@ _________________
 अन्वगेवाहमिच्छामि वनं गन्तुमितः पुनः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अभिषेक विधानम् तु तस्मात् सम्हृत्य लक्ष्मण ।
+अन्वग् एव अहम् इच्चामि वनम् गन्तुम् इतः पुनः ॥ २-२२-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लक्ष्मण! इन्हीं सब कारणोंसे मैं अपने अभिषेकका कार्य रोककर शीघ्र ही इस नगरसे वनको चला जाना चाहता हूँ ॥ ११ ॥
@@ -221,6 +433,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! इवॆल्ल कारणगळिन्द नानु नन्न पट्टाभिषेकद कार्यवन्नु तडॆदु, शीघ्रवागिये ई नगरदिन्द हॊरटु वनक्कॆ होगलु बयसुत्तिरुवॆनु.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. lakshhmana* = "Oh; Lakshmana; *tasmaat* = for that reason;
+*aham* = I; *ichchaami* = wish; *gantum* = to go ; *vanam* = to forest;
+*anvageva* = immediately; *itaH* = from here; *samhR^itya* = by withdrawing;
+*abhishheka vidhaanam* = coronation arrangement."
+
+**अनुवादः**
+
+"Oh, Lakshmana for that reason, I wish to go to forest immediately from her, by withdrawing,
+coronation arrangement."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +467,12 @@ _________________
 सुतं भरतमव्यग्रमभिषेचयितां ततः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मम प्रव्राजनात् अद्य कृत कृत्या नृपात्मजा ।
+सुतम् भरतम् अव्यग्रम् अभिषेचयिता ततः ॥ २-२२-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आज मेरे चले जानेसे कृतकृत्य हुई राजकुमारी कैकेयी अपने पुत्र भरतका निर्भय एवं निश्चिन्त होकर अभिषेक करावे ॥ १२ ॥
@@ -246,6 +481,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्दु नानु हॊरटु होदद्दरिन्द कृतकृत्यळाद कैकॆयियु तन्न पुत्र भरतनिगॆ निर्भय हागू निश्चिन्तळागि पट्टाभिषेक माडिसलि.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. adya* = Now; *mama pravrajanaat* = due to my exile to forest;
+*nR^itakrityaa* = having; accomplished her purpose; *sutam bharatam abhishhechayitaa*
+= will get son Bharata coronated; *avyagram* = coolly; *tataH* = afterwards ."
+
+**अनुवादः**
+
+"Soon after my departure to the forest now, Kaikeyi having accomplished her purpose,
+will coolly get her son coronated."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +511,12 @@ _________________
 गतेऽरण्यं च कैकेय्या भविष्यति मनः सुखम् ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+मयि चीर अजिन धरे जटा मण्डल धारिणि ।
+गते अरण्यम् च कैकेय्या भविष्यति मनः सुखम् ॥ २-२२-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं वल्कल और मृगचर्म धारण करके सिरपर जटाजूट बाँधे जब वनको चला जाऊँगा, तभी कैकेयीके मनको सुख प्राप्त होगा ॥ १३ ॥
@@ -268,6 +525,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु वल्कल-मृगचर्म धरिसि, तलॆयल्लि जटाजूट कट्टि वनवासक्कॆ होदागले कैकॆयिय मनस्सिगॆ सुख प्राप्तवादीतु.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. mayi gate* = If I go; *araNyam* = to forest; *chiiraajina
+dhare* = wearing deer skin rags; *jaaTaamaNdale dhaariNi* = wearing twisted locks of hair;
+*kakeyyaa* = Kaikeyi; *bhavishhyato* = will become ; *manassukham* = mentally pleasant."
+
+**अनुवादः**
+
+"If go to forest , wearing deer -skin rags and with my hair twisted together Kaikeyi
+will have mental peace."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -287,6 +560,12 @@ _________________
 तं तु नार्हा सङ्क्लेष्टुं प्रव्रजिष्यामि मा चिरम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+बुद्धिः प्रणीता येन इयम् मनः च सुसमाहितम् ।
+तत् तु न अर्हामि सम्क्लेष्टुम् प्रव्रजिष्यामि माचिरम् ॥ २-२२-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिस विधाताने कैकेयीको ऐसी बुद्धि प्रदान की है तथा जिसकी प्रेरणासे उसका मन मुझे वन भेजनेमें अत्यन्त दृढ़ हो गया है, उसे विफलमनोरथ करके कष्ट देना मेरे लिये उचित नहीं है ॥ १४ ॥
@@ -295,6 +574,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 याव विधातनु कैकॆयिगॆ इन्तह बुद्धिकॊट्टिरुवुदो हागू यार प्रेरणॆयिन्द आकॆय मनस्सु नन्नन्नु काडिगॆ कळिसुवुदरल्लि दृढवागिदॆयो, आकॆयन्नु विफल मनोरथळन्नागि माडि कष्टकॊडुवुदु ननगॆ उचितवल्ल.॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. na arhaami* = to cause trouble tam = to such father yena = by whom
+iyam = this buddhiH = decision praNiitam = was taken susamaahitam = with well composed manascha = mind
+maa = without chiram = delay."
+
+**अनुवादः**
+
+"I do not want to create trouble to my father, who has taken this hard decision in his
+mind . Hence, I will go to the forest at once
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +602,12 @@ _________________
 
 कृतान्त एव सौमित्रे द्रष्टव्यो मत्प्रवासने ।  
 राज्यस्य च वितीर्णस्य पुनरेव निवर्तने ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कृत अन्तः तु एव सौमित्रे द्रष्टव्यो मत् प्रवासने ।
+राज्यस्य च वितीर्णस्य पुनर् एव निवर्तने ॥ २-२२-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -319,6 +620,22 @@ _________________
 सुमित्राकुमार! नन्न ई वनवासदल्लि हागू तन्दॆयवरु कॊट्टिरुव राज्यवु कैतप्पि होगुवुदरल्लि दैववे कारणवॆन्दु तिळियबेकु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. soumitre* = Oh;Lakshmana! drashhTavyaH = It is perceivable kR^itaantastyaiva
+= as destiny mivartanecha = in taking back punaraiva = again raajyasya = of kingdom vitiirNasya = given.
+Matpravaasane = and in sending me to exile".
+
+**अनुवादः**
+
+"Oh, Lakshmana! Look at it as destiny which has taken back kingdom given to me and which
+is sending me to exile"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्याः प्रतिपत्तिर्हि कथं स्यान्मम वेदने ।  
@@ -329,6 +646,12 @@ _________________
 
 कैकेय्याः प्रतिपत्तिर्हि कथं स्यान्मम वेदने ।  
 यदि तस्या न भावोऽयं कृतान्तविहितो भवेत् ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कैकेय्याः प्रतिपत्तिर् हि कथम् स्यान् मम पीडने ।
+यदि भावो न दैवो अयम् कृत अन्त विहितः भवेत् ॥ २-२२-१६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -341,6 +664,22 @@ _________________
 नानु तिळिदन्तॆ कैकॆयम्मन ई विपरीत मनोभाववु दैवद विधानवे आगिदॆ. हीगल्लदिद्दरॆ आकॆयु नन्नन्नु काडिगॆ कळिसि दुःख कॊडुव विचार एकॆ माडुत्तिद्दळु.॥16॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. na bhavet yati* = If not for kR^itaanta vihitaH = making of destiny;
+*ayam* = this bhaavaH = thought tasyaaH = in her; *katham* = how syaat = perhaps pratipattiH
+= resolution kaikeyyaaH = to Kaikeyi piidane = to herass mama = me
+
+**अनुवादः**
+
+-"If not making of destiny to create such a thought in Kaikeyi, how come she resolved
+to harass?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानासि हि यथा सौम्य न मातृषु ममान्तरम् ।  
@@ -351,6 +690,12 @@ _________________
 
 जानासि हि यथा सौम्य न मातृषु ममान्तरम् ।  
 भूतपूर्वं विशेषो वा तस्या मयि सुतेऽपि वा ॥ १७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+जानासि हि यथा सौम्य न मातृषु मम अन्तरम् ।
+भूत पूर्वम् विशेषो वा तस्या मयि सुते अपि वा ॥ २-२२-१७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -363,6 +708,23 @@ _________________
 सौम्य! नन्न मनस्सिनल्लि मॊदलिनिन्दलू तायन्दिर कुरितु भेदभाव इरलिल्ल हागू कैकॆयियू कूड नन्नल्लि अथवा तन्न पुत्रनल्लि यावुदे अन्तर तिळियुत्तिरलिल्ल.॥17॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. soumya* = Oh; *gentleman jaanaasi* = you know ; *yathaa*
+= how na bhuutapuurvam = that in the past; *there was no antaram* = discrimination mama = to
+me maatR^ishu = among mothers. tasyaaH = to her; *visheshhaH* = particularly mayi = either in
+me sute api vaa = or in her son Bharata."
+
+**अनुवादः**
+
+"You know that I had no discrimination among mothers and Kaikeyi also in the past had
+no discrimination between me and her son Bharata"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिषेकनिवृत्त्यर्थैः प्रवासार्थैश्च दुर्वचैः ।  
@@ -375,6 +737,12 @@ _________________
 उग्रैर्वाक्यैरहं तस्या नान्यद् दैवात् समर्थये ॥ १८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सो अभिषेक निवृत्ति अर्थैः प्रवास अर्थैः च दुर्वचैः ।
+उग्रैः वाक्यैः अहम् तस्या न अन्यद् दैवात् समर्थये ॥ २-२२-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरे अभिषेकको रोकने और मुझे वनमें भेजनेके लिये उसने राजाको प्रेरित करनेके निमित्त जिन भयंकर और कटुवचनोंका प्रयोग किया है, उन्हें साधारण मनुष्योंके लिये भी मुँहसे निकालना कठिन है । उसकी ऐसी चेष्टामें मैं दैवके सिवा दूसरे किसी कारणका समर्थन नहीं करता ॥ १८ ॥
@@ -383,6 +751,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न पट्टाभिषेकवन्नु तडॆयलु हागू नन्नन्नु काडिगॆ कळिसलु महाराजरन्नु प्रेरितगॊळिसुव निमित्त प्रयोगिसिद कटुवचनगळु साधारण मनुष्यन बायियिन्द बरुवुदु कठिणवागिदॆ. आकॆय इन्तह चेष्टॆयल्लि नानु दैववल्लदॆ बेरॆ यावुदे कारणवन्नु समर्थिसुवुदिल्ल.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. aham* = I na samarthaye = do not perceive anyat = any other thing daivaat
+= than an accident tasyaaH vaakyaiH = for her words; *abhishheka nivR^ittyarthaiH* = intended
+for abolishion of my coronation ; *pravaasaarthaishena* = desirous of sending me to exile;
+*ugraiH* = which are ferocious; *durvachaiH* = and are not to be talked about."
+
+**अनुवादः**
+
+"I do not perceive any other reason than an accident that made Kaikeyi to abolish my
+coronation , to send me to exile ,and to speak ferocious words ,not to be talked about."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +785,12 @@ _________________
 ब्रूहात् सा प्राकृतेव स्त्रीमत्पीड्यां भर्तृसन्निधौ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कथम् प्रकृति सम्पन्ना राज पुत्री तथा अगुणा ।
+ब्रूयात् सा प्राकृता इव स्त्री मत् पीडाम् भर्तृ सम्निधौ ॥ २-२२-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि ऐसी बात न होती तो वैसे उत्तम स्वभाव और श्रेष्ठ गुणोंसे युक्त राजकुमारी कैकेयी एक साधारण स्त्रीकी भाँति अपने पतिके समीप मुझे पीड़ा देनेवाली बात कैसे कहती—मुझे कष्ट देनेके लिये रामको वनमें भेजनेका प्रस्ताव कैसे उपस्थित करती ॥ १९ ॥
@@ -408,6 +799,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगल्लदिद्दरॆ अन्तह उत्तम स्वभावद, श्रेष्ठगुण सम्पन्न राजकुमारि कैकॆयियु ओर्व साधारण स्त्रीयन्तॆ तन्न पतिय बळि ननगॆ अनिष्टकर मातन्नु हेगॆ आडुत्तिद्दळु.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. katham* = How saa = she prakR^itisampannaa = who is of a perfect nature
+tathaaguNaa = and such good qualities; *raajaputrii* = who was princess bruuyaat = can tell praakR^itaa
+atriiva = like common woman; *bhartR^I sannidhou* = before husband matpiidaam = for my trouble?"
+
+**अनुवादः**
+
+"If it is for not an accidental reason, how Kaikeyi who is of a perfect temperament and
+who is born in a royal family can tell like a common woman to her husband to create trouble for me ?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +827,12 @@ _________________
 
 यदचिन्त्यं तु तद् दैवं भूतेष्वपि न हन्यते ।  
 व्यक्तं मयि च तस्यां च पतितो हि विपर्ययः ॥ २० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यद् अचिन्त्यम् तु तत् दैवम् भूतेष्व् अपि न हन्यते ।
+व्यक्तम् मयि च तस्याम् च पतितः हि विपर्ययः ॥ २-२२-२०
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -432,6 +845,22 @@ _________________
 नम्म चिन्तनॆगॆ यावाग एनू निलुकुवुदिल्लवो अदे दैवविधानवागिदॆ. प्राणिगळ अधिष्ठातृगळाद ब्रह्मादिगळल्लियू विधियु पराभव हॊन्दुवुदिल्ल. ननगॆ प्राप्तवाद वनवास मत्तु कैकॆयिय बुद्धियल्लि उण्टाद विपर्यास - इवुगळिन्दले विधिय प्रभाव व्यक्तवागुत्तदॆ.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. "yat* = which daivam = destiny achintyam = is unimaginable tat = that
+na hanyete = can not be counteracted bhuuteshhvapi = by any living beings viparyayaH = adverse fate
+patitaH = befall; *mayicha* = in me tasyaamcha = and in her vyaktam = It is clear."
+
+**अनुवादः**
+
+"The influence of destiny is un imaginable. No living being can counteract its influence.
+An adverse fate has befallen on me and on her .It is clear now ."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च दैवेन सौमित्रे योद्धुमुत्सहते पुमान् ।  
@@ -442,6 +871,12 @@ _________________
 
 कश्च दैवेन सौमित्रे योद्धुमुत्सहते पुमान् ।  
 यस्य नु ग्रहणं किञ्चित् कर्मणोऽन्यन्न दृश्यते ॥ २१ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कश्चित् दैवेन सौमित्रे योद्धुम् उत्सहते पुमान् ।
+यस्य न ग्रहणम् किंचित् कर्मणो अन्यत्र दृश्यते ॥ २-२२-२१
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -454,6 +889,22 @@ _________________
 सुमित्रानन्दन! कर्मगळ सुख-दुःखरूपी फलवु प्राप्तवादागले अदर ज्ञान उण्टागुत्तदॆ. कर्मफल बिट्टु बेरॆ ऎल्लियू इदर सुळिवु सिगुवुदिल्ल. अन्तह दैवदॊन्दिगॆ यारु ताने कादाडबल्लनु.॥21॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. "soumitre* = Oh ;Lakshmana! Pumaan kaH = which man utsahate = will
+be able yoddhum = to fight against daivena = destiny? kanchit = whatever anyatra = other thing na dR^ishyate
+= is not being seen karmaNaH = that to follow its course grahaNam = accepting yasya = of which destiny."
+
+**अनुवादः**
+
+"Oh, Lakshmana! There is no means whatsoever to abstain from it otherwise than to follow
+the course of destiny. Who will be able to fight against the destiny. ?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखदुःखे भयक्रोधौ लाभालाभौ भवाभवौ ।  
@@ -464,6 +915,12 @@ _________________
 
 सुखदुःखे भयक्रोधौ लाभालाभौ भवाभवौ ।  
 यस्य किञ्चित् तथाभूतं ननु दैवस्य कर्म तत् ॥ २२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सुख दुह्खे भय क्रोधौ लाभ अलाभौ भव अभवौ ।
+यस्य किंचित् तथा भूतम् ननु दैवस्य कर्म तत् ॥ २-२२-२२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -476,6 +933,22 @@ _________________
 सुख-दुःख, भय-क्रोध, (क्षोभ) लाभ-हानि, उत्पत्ति-विनाश हागू इन्तहुदे बेरॆ ऎष्टो परिणामगळु प्राप्तवागुत्तवॆ. अदर यावुदे कारण अरिविगॆ बरुवुदिल्ल, अदॆल्ल दैवद्दे कार्यवागिदॆ.॥22॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. sukha duHkhe* = pleasure and pain. bhaya krodhou = fear and anger labhaalabhou
+= gain and loss; *bhaabhaavon* = birth and death; *yachcha kimchit* = what ever other
+thing tathaabhuutam = of such nature tat = that karmanamu = indeed is action daivasya = of destiny
+
+**अनुवादः**
+
+"Pleasure and pain, fear and anger, gain and loss, birth and death and such other things
+are all the acts of destiny"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयोऽप्युग्रतपसो दैवेनाभिप्रचोदिताः ।  
@@ -486,6 +959,12 @@ _________________
 
 ऋषयोऽप्युग्रतपसो दैवेनाभिप्रचोदिताः ।  
 उत्सृज्य नियमांस्तीव्रान् भ्रश्यन्ते काममन्युभिः ॥ २३ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ऋषयो प्युग्रतपसो दैवेनाभिप्रपीडिताः ।
+उत्सृज्य नियमाम् स्तीव्रान् भ्रश्यन्ते काममन्युभिः ॥ २-२२-२३
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -498,6 +977,22 @@ _________________
 उग्र तपस्वी ऋषिगळू कूड दैवदिन्द प्रेरणॆगॊण्डु तम्म तीव्र नियमगळन्नु बिट्टुबिडुत्तारॆ. काम-क्रोधदिन्द विवशरागि मेरॆ मीरि भ्रष्टरागुत्तारॆ.॥23॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. "R^ishhayo api* = Even sages; *ugra tasaH* = with severe penance;
+*abhiprapiiditaa* = having harassed daivena = by destiny; *utsR^ijya* = leave aside niyamaan
+= restraint; *bhrashyante* = get ruined kaamamanyubhiH = by lust and anger."
+
+**अनुवादः**
+
+"Even sages, who performed sever penance, having been harassed by destiny leave aside
+restraint and get ruined by lust and anger."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असङ्कल्पितमेवेह यदकस्मात् प्रवर्तते ।  
@@ -508,6 +1003,12 @@ _________________
 
 असङ्कल्पितमेवेह यदकस्मात् प्रवर्तते ।  
 निवर्त्यारब्धमारम्भैर्ननु दैवस्य कर्म तत् ॥ २४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+असम्क्ल्पितमेवेह यदकस्मात् प्रवर्तते ।
+निवर्त्यारम्भमारब्धम् ननु दैवस्य कर्म तत् ॥ २-२२-२४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -520,6 +1021,22 @@ _________________
 यावुदन्नु विचार माडदॆयू, योचिसदॆयू ऒम्मिन्दॊम्मॆले यावुदो विपत्तु नम्म मेलॆ ऎरगुत्तदॆ. हागॆये नावु आरम्भिसिद कार्य मध्यदल्लिये निन्तुहोगबहुदु इदु दैवद कार्यवल्लदॆ मत्तेनु.॥24॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. "tat* = It daivasya karmananu = is indeed act of destiny; *nivartya*
+= which prevents aarambham = effort aarabdham = undertaken iha = in this world yat = which pravartate
+;is going on; *akasmaat* = suddenly asamkalpitam iva = and unimaginably."
+
+**अनुवादः**
+
+"It is indeed an act of destiny which suddenly and unimaginably obstructs an action,
+undertaken in the world ,at the starting point itself."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना ।  
@@ -530,6 +1047,12 @@ _________________
 
 एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना ।  
 व्याहतेऽप्यभिषेके मे परितापो न विद्यते ॥ २५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना ।
+व्याहते अपि अभिषेके मे परितापो न विद्यते ॥ २-२२-२५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -542,6 +1065,22 @@ _________________
 ई तात्त्विक बुद्धिय मूलक स्वतः मनस्सन्नु स्थिरगॊळिसिद कारण ननगॆ अभिषेकदल्लि विघ्न उण्टादरू दुःख, सन्ताप आगुत्तिल्ल.॥25॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. vyaahate api abhishheke* = Even if coronation is obstructed; *navidyate*
+= There is no paritaapaH = grief me = to me samtabhyaatmaanamaat manaa = since I have restrained the
+self by the self; *etayaa buddyaa* = with this intellect tattvayaa = which is real."
+
+**अनुवादः**
+
+"Although my coronation is obstructed, I have no grief since I have restrained the self
+by myself with real consciousness."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादपरितापः संस्त्वमप्यनुविधाय माम् ।  
@@ -554,6 +1093,12 @@ _________________
 प्रतिसंहारय क्षिप्रमाभिषेचनिकीं क्रियाम् ॥ २६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्मात् अपरितापः संस् त्वम् अपि अनुविधाय माम् ।
+प्रतिसम्हारय क्षिप्रम् आभिषेचनिकीम् क्रियाम् ॥ २-२२-२६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसी प्रकार तुम भी मेरे विचारका अनुसरण करके संतापशून्य हो राज्याभिषेकके इस आयोजनको शीघ्र बंद करा दो ॥ २६ ॥
@@ -562,6 +1107,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकारवे नीनू कूड नन्न विचारवन्नु अनुसरिसुत्ता सन्तापशून्यनागि पट्टाभिषेकद ई आयोजनवन्नु बेगने निल्लिसिबिडु.॥26॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. "tasmaat* = Hence tvamapi = you also; *anuvidhaayi* = in obedience
+maam = to me; *pratisamhaaraaya* = get withdrawn kriyaam = the execution abhishhechanikiim =
+relating to coronation kshhipram = immediately aparitaapaH = without agony."
+
+**अनुवादः**
+
+"Hence ,you also ,like me, get the arrangements for coronation withdrawn immediately
+without any anguish"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +1140,12 @@ _________________
 मम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एभिरेव घटैः सर्वैरभिषेचनसम्भृतैः ।
+मम लक्स्मण तापस्ये व्रतस्नानम् भविष्यति ॥ २-२२-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लक्ष्मण! राज्याभिषेकके लिये सँजोकर रखे गये इन्हीं सब कलशोंद्वारा मेरा तापस-व्रतके संकल्पके लिये आवश्यक स्नान होगा ॥ २७ ॥
@@ -587,6 +1154,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! पट्टाभिषेकक्कागि सिद्धगॊळिसिट्टिरुव ई ऎल्ल कलशगळिन्द नन्न तापस व्रतद सङ्कल्पक्कागि आगबेकाद स्नान नडॆयुवुदु.॥27॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. lakshhmana* = Oh; *Lakshmana! sarvaiH* = All eohiH = these ghataireva
+= very pots abhishhechana sambR^itaiH = arranged for coronation bhavishhyati = become vratasnaanam =
+bath after completing religious vow taapasye = of asceticism mama = to me."
+
+**अनुवादः**
+
+Oh, Lakshmana! Let all these very pots of water arranged for coronation be used by me
+for my bath after completing the religious vow of asceticism."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +1189,12 @@ _________________
 उद्धृतं मे स्वयं तोयं व्रतादेशं करिष्यति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथवा किम् ममैतेन राजद्रव्यमयेन तु ।
+उद्धृतम् मे स्वयम् तो यम् व्रतादेशम् करिष्यति ॥ २-२२-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अथवा राज्याभिषेकसम्बन्धी मङ्गल द्रव्यमय इस कलशजलकी मुझे क्या आवश्यकता है? स्वयं मेरे द्वारा अपने हाथसे निकाला हुआ जल ही मेरे व्रतादेशका साधक होगा ॥ २८ ॥
@@ -614,6 +1203,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अथवा राज्याभिषेक सम्बन्धी मङ्गलद्रव्यमय ई कलशजलद आवश्यकतॆ ननगेनिदॆ? स्वतः नानु कैयिन्दले सेदिद नीरे नन्न व्रतादेशक्कॆ साधनवागुवुदु.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. "athavaa* = Otherwise; *kim* = what use mama = to me etena =
+this water in pots raajadravyena = which is royal property? toyam = the water uddhR^itam = drawn out
+svayam = by myself karishhyati = will do vrataadesham = imposition of the vow me = to me."
+
+**अनुवादः**
+
+"Otherwise ,why to me this water in these pots ,which is royal property? The water drawn
+out by myself ,will be used for my bath after completing the religious vow."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,6 +1246,23 @@ _________________
 लक्ष्मण! राज्यलक्ष्मियु सिक्कुव बदलु, वनलक्ष्मियु सिक्कि दुदक्कागि सन्तापपडबेड. राज्यलक्ष्मियादरेनु? नन्न अभिप्रायदल्लि इन्दु ननगॆ वनवासवे अभ्युदयकारकवागिदॆ.॥29॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. lakshhmaNa* = Oh;Lakshmana! maakaarshhiiH = do not cultivate santaapam
+= repentence viparyaye = about perverseness lakshhmajaaH = of Lakshmi;the goddess of wealth raajyam
+vaa = kingdom or vanavaasovaa = dwelling in forest; *vanavaasaH* = forest dwelling is indeed
+mahodayaH = final beautitude."
+
+**अनुवादः**
+
+"Oh, Lakshmana! Do not repent about this perverseness of Lakshmi, the goddess of wealth.
+When you talk of kingdom or dwelling in the forest, this is the final beautitude."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न लक्ष्मणास्मिन् मम राज्यविघ्ने  
@@ -662,6 +1284,14 @@ _________________
 ज्ञानासि दैवं च तथा प्रभावम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न लक्ष्मण अस्मिन् मम राज्य विघ्ने ।
+माता यवीयस्य् अतिशन्कनीया ।
+दैव अभिपन्ना हि वदन्ति अनिष्टम् ।
+जानासि दैवम् च तथा प्रभावम् ॥ २-२२-३०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लक्ष्मण! मेरे राज्याभिषेकमें जो विघ्न आया है, इसमें मेरी सबसे छोटी माता कारण है, ऐसी शङ्का नहीं करनी चाहिये; क्योंकि वह दैवके अधीन थी । इसी प्रकार पिताजी भी किसी तरह इसमें कारण नहीं हैं । तुम तो दैव और उसके अद्भुत प्रभावको जानते ही हो, वही कारण है’ ॥ ३० ॥
@@ -670,6 +1300,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणा! नन्न राज्याभिषेकदल्लि उण्टाद विघ्नक्कॆ चिक्कम्म कारणळॆन्दु शङ्किसबेड; एकॆन्दरॆ दैवदिन्द प्रचोदितळागि आकॆयु हीगॆ माडुत्तिद्दाळॆ. नम्म तन्दॆयू इदक्कॆ कारणरल्ल. इवरिब्बरू दैवदिन्द प्रेरितरागिद्दारॆ. विधिविलासवु ऎष्टॊन्दु प्रभावयुतवादुदॆम्ब विचार निनगॆ तिळियदुदेनल्ल इदु अदे कारण.॥30॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. "lakshmaNa* = Oh; *Lakshmana! yaviiyasii maataa* = our younger
+mother na atisaNkaniiyaa = is not worthy of suspicion asmin karmavighne = in this obstruction of ceremony.
+vadatiHi = she is indeed uttering amishhTam = the evil daivaabhipaunaa = being over powered by destiny.
+jaanaasi = You know daivamcha = also the destiny; *tathaa prabhaavam* = which has such influence."
+
+**अनुवादः**
+
+"Oh, Lakshmana! Do not suspect our mother for obstruction of coronation ceremony. She
+is uttering evil words, being overpowered by destiny. You are aware of this destiny, which has such
+influence."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

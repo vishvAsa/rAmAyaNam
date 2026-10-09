@@ -2,6 +2,19 @@
 title = "०७८ रावणेन मकराक्षप्रेषणम्"
 title_english = "078 Ravana orders Makaraksha"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+Ravana orders Makaraksha to proceed to the battle-field with an army and to kill
+Rama, Lakshmana and the monkeys. Makaraksha, surrounded by his army of demons, set out for the
+encounter. Makaraksha's whip and flag staff fall down all of a sudden, by the will of providence
+and a dust-storm ensued. Ignoring those portents, Makaraskha's army march forward in the
+battle-field, to reach Rama and Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-078-Ravana_orders_Makaraksha_0.mp3"></div>
 </details>
@@ -51,6 +64,12 @@ _________________
 खरपुत्रं विशालाक्षं मकराक्षमचोदयत् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नैरृतः क्रोधशोकाभ्यां द्वाभ्यां तु परिमूर्चितः ।
+खरपुत्र विशालाक्षं मकराक्षमचोदयत् ॥ ६-७८-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणने क्रोध और शोक दोनोंसे व्याकुल हो विशाल नेत्रोंवाले खरपुत्र मकराक्षसे कहा— ॥ २ ॥
@@ -86,6 +105,24 @@ _________________
 मगु! नन्न आज्ञॆयन्तॆ विशाल सैन्यदॊन्दिगॆ युद्धक्कॆ होगि वानरर सहित राम-लक्ष्मणरिब्बरन्नू कॊन्दु हाकु.॥3॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. aaJNaptaH* = commanded; *mayaa* = by me;
+*abhisamanvitaH* = and accompanied; *balena* = by an army; *gachchha* = go;
+*putra* = my son; *jahi* = and kill; *tau* = those; *raaghavam* = Rama;
+*lakShmaNam chaiva* = and even Lakshmana; *savanaukasau* = together with the
+monkeys.
+
+**अनुवादः**
+
+"I am commanding you! Accompanied by an army, go my son! Kill Rama, Lakshmana and
+the monkeys."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य वचः श्रुत्वा शूरमानी खरात्मजः ।  
@@ -117,6 +154,41 @@ _________________
 रावणन मातन्नु केळि तन्नन्नु महाशूरनॆन्दु तिळिद खरपुत्र मकराक्षनु हागॆये आगलि ऎन्दु हेळि आ वीर निशाचरनु रावणनिगॆ प्रणामगैदु, अवनिगॆ प्रदक्षिणॆ बन्दु अवनिन्द बीळ्कॊण्डु अवनु उज्वल अरमनॆयिन्द हॊरटनु.॥4-5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. abhivaadya* = having respectfully saluted; *pradakShiNam
+kR^itvaa chaapi* = even by performing circumambulation; *balii* = the mighty;
+*saH* = Makaraksha; *aaJNayaa dashagriivam* = by the orders of Ravana;
+*nirjagaama* = came forth; *shubhraat gR^ihaat* = from the shining palace (of
+Ravana).
+
+**अनुवादः**
+
+Having respectfully saluted, even by performing circumambulation, the mighty
+Makaraksha, by the orders of Ravana, came forth from these shining palace of Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. shrutvaa* = hearing; *raavaNasya vachah* = Ravana's words;
+*makaraakShaH* = Makaraksha; *kharaatmajaH* = the son of Khara; *shuuramaanii*
+= thinking himself as a hero; *hR^iShTaH* = was please; *abraviit* = and spoke;
+*nishaacharam* = to Ravana; *baaDham iti* = that (he would do it) certainly.
+
+**अनुवादः**
+
+Hearing Ravana's words, Makaraksha, the son of Khara, thinking himself as a hero,
+was rejoiced and assured Ravana that he would do it certainly as commanded.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीपस्थं बलाध्यक्षं खरपुत्रोऽब्रवीद् वचः ।  
@@ -137,6 +209,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पक्कदल्ले निन्तिद्द सेनापतियबळि सेनापतिये ! बेगनॆ रथवन्नु तॆगॆदुकॊण्डु बा हागू कूडले सैन्यवन्नु करॆसु ऎन्दु हेळिदनु.॥6॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. kharaputraH* = Makaraksha the son of Khara; *abraviit* =
+spoke; *vachaH* = the following words; *balaadhyakSham* = to the commander of an
+army; *samiipastham* = who was in the vicinity (as follows); *ratham aaniiyataam* =
+let a chariot be brought; *tuurNam* = quickly; *sainyam* = and the army;
+*aaniiyataam* = be arranged; *tvaraat* = swiftly.
+
+**अनुवादः**
+
+Makaraksha the son of Khara asked the commander of an army who was in the vicinity
+to bring a chariot and the army swiftly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +251,23 @@ _________________
 मकराक्षन मातन्नु केळि निशाचर सेनापतियु रथ मत्तु सैन्यवन्नु अवन बळि करॆतन्दनु.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. shrutvaa* = hearing; *tasya tadvachanam* = his words;
+*nishaacharaH* = a demons; *balaadhyakShaH* = being the commander of an army;
+*pratyapaadayat* = brought; *syandavamcha* = the chariot; *balamchaiva* = and
+the army; *samiipam* = to his proximity.
+
+**अनुवादः**
+
+Hearing his words, the army-commander of the demons brought the chariot and the army
+to his proximity.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदक्षिणं रथं कृत्वा समारुह्य निशाचरः ।  
@@ -176,6 +283,12 @@ _________________
 सूतं सञ्चोदयामास शीघ्रं मे रथमावह ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रदक्षिणं रथं कृत्वा समाहूय निशाचरः ।
+सूतं संचोदयामास शीग्रं वै रथ मावह ॥ ६-७८-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तब मकराक्षने रथकी प्रदक्षिणा की और उसपर आरूढ़ होकर सारथिको आदेश दिया—‘रथको शीघ्रता-पूर्वक ले चलो’ ॥ ८ ॥
@@ -184,6 +297,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग मकराक्षनु रथक्कॆ प्रदक्षिणॆ बन्दु, रथारूढनागि सारथिगॆ. रथवन्नु शीघ्रवागि कॊण्डु होगु ऎन्दु आदेशकॊट्टनु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. pradakShiNam kR^itvaa* = walking clockwise round; *ratham* =
+the chariot; *samuuhaaya* = and calling; *suutam* = the charioteer;
+*nishaacharaH* = Makaraksha; *samchodayaamaasa* = incited him; *aavaha* = to
+drive; *ratham* = the chariot; *shiighram* = quickly.
+
+**अनुवादः**
+
+Walking clockwise round the chariot and ascending it, Makaraksha asked the
+charioteer to drive forward the chariot quickly to the battle-field.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +338,23 @@ _________________
 बळिक समस्त राक्षसरिगॆ - ‘निशाचररे! नीवु नन्न मुन्दॆ निन्तु युद्धमाडिरि’ ऎन्दु हेळिदनु.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*.9. atha* = then; *makarakShaH* = Makaraksha; *abraviit*
+= spoke; *idam* = these words; *sarvaan* = to all; *raakShasaan* = demons;
+*sarve* = all; *yuuyam* = of you; *prayudhyadhvam* = begin to fight; *mama
+purastaat* = in my presence; *raakShasaaH* = O; demons!.
+
+**अनुवादः**
+
+Then Makaraksha spoke the following words to those demons, "O demons! All of you
+begin your fight before my presence."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं राक्षसराजेन रावणेन महात्मना ।  
@@ -220,6 +367,12 @@ _________________
 आज्ञप्तः समरे हन्तुं तावुभौ रामलक्ष्मणौ ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अहं राक्षसराजेन रावणेन महात्मना ।
+आज्ञ्प्तः समरे हन्तुं रावुभौ रामल्क्ष्मणौ ॥ ६-७८-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मुझे महामना राक्षसराज रावणने समरभूमिमें राम और लक्ष्मण दोनों भाइयोंको मारनेकी आज्ञा दी है ॥
@@ -228,6 +381,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महामना राक्षस राजा रावणनु युद्धदल्लि राम-लक्ष्मणरिब्बरन्नू कॊल्लुवन्तॆ ननगॆ आज्ञापिसिरुवनु.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. aham* = I; *aJNaptaH* = was commanded; *mahaatmanaa
+raavaNena* = by the mighty Ravana; *raakShasa raajena* = the king of demons;
+*hantum* = to kill; *tau raamalakShmaNau* = both Rama and Lakshmana; *samara*
+= in battle.
+
+**अनुवादः**
+
+"The mighty Ravana, the king of demons commanded me to kill both Rama and Lakshmana
+in battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -252,6 +422,23 @@ _________________
 राक्षसरे इन्दु नानु राम-लक्ष्मण, वानर राज सुग्रीव हागू इतर वानररन्नु उत्तम बाणगळिन्द वधिसिबिडुवॆनु.॥11॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. adya* = today; *vadhiShyaami* = I will kill;
+*raamam* = Rama; *lakShmaNam cha* = Lakshmana; *sugriivam cha* = Sugreeva;
+*shaakhaamR^igam* = the monkey; *vaanaraan cha* = and the (other) monkeys;
+*sharottamaiH* = with my excellent arrows; *nishaacharaaH* = O; demons!.
+
+**अनुवादः**
+
+"Today, I will kill Rama, Lakshmana, Sugreeva the monkey and the other monkeys with
+my excellent arrows, O demons!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य शूलनिपातैश्च वानराणां महाचमूम् ।  
@@ -272,6 +459,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बॆङ्कियु ऒणगिद कट्टिगॆयन्नु सुडुवन्तॆ इन्दु नानु शूलगळिन्द ऎदुरिगॆ बन्द वानरर विशालवाहिनियन्नु बूदि माडिबिडुवॆनु.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. shuulanipaataiH* = by the hurlings of spears;
+*pradahiShyaami* = I will completely destroy; *mahaachamuum* = the huge army;
+*vaanaraaNaam* = of monkeys; *sampraaptaam* = who arrived ; *adya* = today;
+*analaH iva* = like when the fire; *shuShkendhanam* = destroys dry wood.
+
+**अनुवादः**
+
+"By hurling the spears, I will destroy completely the huge army of monkeys who
+arrived today to the battle-field, as the fire destroys the dry wood."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +500,23 @@ _________________
 मकराक्षन मातन्नु केळि नाना रीतिय अस्त्र-शस्त्रगळिन्द कूडिद समस्त बलिष्ठ राक्षसरु युद्धक्कागि सिद्धरादरु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. shrutvaa* = hearing; *tat vachanam* = those words;
+*makaraakShasya* = of Makaraksha; *sarve* = all; *te* = those;
+*balavantaH* = strong; *nishaacharaaH* = demons; *naanaayudhopetaaH* =
+wielding various kinds of weapons; *samaahitaaH* = were steadfast (to fight).
+
+**अनुवादः**
+
+Hearing those words of Makaraksha, all those strong demons, wielding various kinds
+of weapons, were steadfast to fight.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कामरूपिणः क्रूरा दंष्ट्रिणः पिङ्गलेक्षणाः ।  
@@ -310,6 +531,14 @@ _________________
 मातङ्गा इव नर्दन्तो ध्वस्तकेशा भयावहाः ॥ १४ ॥  
 परिवार्य महाकाया महाकायं खरात्मजम् ।  
 अभिजग्मुस्ततो हृष्टाश्चालयन्तो वसुन्धराम् ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ते कामरूपिणः क्रूरा दंष्ट्रिणः पिङ्गलेक्षणाः ।
+मातङ्ग इव नर्दन्तो ध्वस्तकेशा भयावहाः ॥ ६-७८-१४
+परिवार्य महाकाया महाकायं खरात्मजम् ।
+अभिजघ्नस्ततो हृष्टाश्चलयन्तो नभस्तलम् ॥ ६-७८-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -322,6 +551,29 @@ _________________
 अवरॆल्लरू काम रूपियागिद्दु, क्रूरस्वभावदवरागिद्दरु. अवर कॊरॆदाडॆगळु दॊड्ड दॊड्डदागिद्दु, पिङ्गळवर्णद कण्णुगळिद्दु, कूदलु कॆदरिकॊण्डिद्दवु, इदरिन्द अवरु भयानकरागि काणुत्तिद्दरु. आनॆयन्तॆ अरचुत्ता आ विशालकाय निशाचररु खरपुत्र महाकाय मकराक्षनन्नु सुत्तुवरिदु भूमियन्नु नडुगिसुत्ता हर्षदिन्द रणरङ्गद कडॆगॆ हॊरटरु.॥14-15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+14; *15. te kruuraaH* = the cruel demons; *kaamaruupiNah* = who
+can change their forms at will; *damShTriNaH* = with their protruding tusks;
+*piN^galekShaNaaH* = with tawny coloured eyes; *dhvantakeshaaH* = with their
+disheveled hair; *bhayaavahaaH* = creating terror; *mahaakaayaaH* = with their
+colossal bodies; *tataH* = then; *nardantaH* = roaring; *maataNgaaH iva* =
+like elephants; *parivaarya* = having surrounded; *mahaakaayam kharaatmajam* = the
+huge-bodied Makaraksha; *hR^iShTaaH* = were overjoyed; *abhijaghnuH* = and marched
+forward; *chaalayantaH* = shaking; *nabhastalam* = the firmament.
+
+**अनुवादः**
+
+Those cruel demons, who can change their forms at will, who had protruding tusks,
+had tawny coloured eyes, had their disheveled hair, creating terror with their colossal bodies,
+then marched forward like roaring elephants, shaking the firmament and surrounded the huge-bodied
+Makaraksha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्खभेरीसहस्राणामाहतानां समन्ततः ।  
@@ -334,14 +586,54 @@ _________________
 क्ष्वेलितास्फोटितानां च तत्र शब्दो महानभूत् ॥ १६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शङ्खभेरीसहस्राणामाहतानां समन्ततः ।
+क्ष्वेलितास्फोटितानां च तत्र महानभूत् ॥ ६-७८-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय चारों ओर सहस्रों शङ्खोंकी ध्वनि हो रही थी । हजारों डंके पीटे जाते थे । योद्धाओंके गर्जने और ताल ठोंकनेकी आवाज भी उनके साथ मिली हुई थी । इस प्रकार वहाँ बड़ा भारी कोलाहल मच गया था ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. tatra abhuut* = there arose; *aahataanaam* = sounded;
+*samantataH* = on all sides; *mahaan* = a great; *shabdaH* = tumult;
+*shaN^kha bherii sahasraaNaam* = of thousands of couches and kettle-drums;
+*kShvelitaasphoTitaanaam cha* = leonine roars and clapping of arms.
+
+**अनुवादः**
+
+There arose a great tumult sounded, on all sides, of thousands of couches and
+kettle-drums including leonine roars and clapping of arms.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग ऎल्लॆडॆ शङ्खध्वनिगळु मॊळगुत्तिद्दवु. साविरारु भेरि निनादगळॊन्दिगॆ, ताळतट्टुत्ता योधर गर्जनॆय शब्दवु सेरिकॊण्डित्तु. हीगॆ भारी कोलाहल उण्टायितु.॥1.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. shrutvaa* = hearing; *nikumbham* = Nikumbha;
+*nihatam* = was killed; *kumbham cha* = and Kumbha also; *vinipaatitam* = was
+lost; *raavaNaH* = Ravana; *paramaamarShii* = was very much enraged;
+*prajajvaala* = fiercely analoyathaa = like fire.
+
+**अनुवादः**
+
+On hearing of Nikumbha and Kumbha having been killed, Ravana was very much flared up
+like fire.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,6 +656,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग मकराक्षसन सारथिय चावटिगॆ कॆळगॆ बित्तु, दैववश आ राक्षसन ध्वज मुरिदु बिद्दु नॆलसमवायितु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. atha* = thereupon; *tasya saarathaH karaat* = from that
+charioteers hand; *pratodaH* = the long whip; *tadaa* = then; *prabhraShTaH* =
+fell down; *dhvajaH* = and the flag-staff; *tasya rakShasaH* = of that demon;
+*sahasaa* = suddenly; *papaata* = fell down; *daivaat* = by the will of the
+province.
+
+**अनुवादः**
+
+The long whip then slipped down from the hands of Makaraksha's charioteer and the
+flag-staff of that demon also suddenly fell down by the will of the province.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +701,23 @@ _________________
 अवन रथक्कॆ हूडिद कुदुरॆगळु निरुत्साहिगळागि सरियागि नडॆयदादवु. मॊदलिगॆ स्वल्प दूर ऎडवुत्ता तडुवुत्ता नडॆदु, मत्तॆ सरियागि नडॆयतॊडगिदवु. आदरू अवु बहळ दुःखितरागि कण्णीरु हरिसुत्तिद्दवु.॥18॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. te hayaaH* = those horses; *tasya ratha samyuktaaH* = yoked
+to his chariot; *vikramavarjitaaH* = deprived of their diversified gait; *gatvaa* =
+were walking; *aakulaiH charaNaiH* = with flurried feet; *yuyuH* = and went;
+*dinaaH* = timidly; *sasrumukhaaH* = with tears in their eyes.
+
+**अनुवादः**
+
+Those horses, yoked to his chariot, deprived of their diversified gait, were walking
+with flurried feet and went timidly, with tears in their eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवाति पवनस्तस्मिन् सपांसुः खरदारुणः ।  
@@ -416,6 +743,24 @@ _________________
 दुष्टबुद्धियुळ्ळ आ भयङ्कर राक्षस मकराक्षस प्रयाणद समय धूळु तुम्बिद दारुण प्रचण्ड गाळि बीसुत्तित्तु.॥19॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. tasmin niryaaNe* = at the time of marching; *tasya
+makaraakShasya* = of that Makaraksha; *raudrasya* = of dreadful appearance;
+*durmateH* = and of bad disposition of mind; *pavanaH* = the wind; *sapaamsuH*
+= with dust; *khara daaruNaH* = which was dreadfully harsh; *pravaati* = blew
+forth.
+
+**अनुवादः**
+
+At the time of marching of that dreadful and evil-minded Makaraksha, a harsh and
+fearful dust-storm blew forth.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि दृष्ट्वा निमित्तानि राक्षसा वीर्यवत्तमाः ।  
@@ -438,6 +783,23 @@ _________________
 अवॆल्ल अपशकुनगळु नोडियू महाबल शालि राक्षसनु अदर परिवॆ इल्लदॆ ऎल्लरू श्रीराम-लक्ष्मणरिद्दल्लिगॆ होदरु.॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. dR^iShTvaa* = (Though) seeing; *taani* = all those;
+*raakShasaaH* = demons; *viiryavattamaaH* = of high prowess; *achintya* =
+ignoring (them); *nirgataaH* = set out; *yatra* = where; *raamalakShmaNau* =
+those Rama and Lakshmana (were there).
+
+**अनुवादः**
+
+Though seeing those portents, all those highly valiant demons ignored them and set
+out to the place, where both Rama and Lakshmana were there.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घनगजमहिषाङ्गतुल्यवर्णाः  
@@ -454,14 +816,61 @@ _________________
 रजनिचराः परिबभ्रमुर्मुहुस्ते ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+घनगजमहिषाङ्गतुल्यवर्णाः ।
+समरमुखेष्वसकृद्गदासिभिन्नाः ।
+अहमहमिति युद्धकौशलास्ते ।
+रजनिचराः परिबभ्रामुर्नदन्तः ॥ ६-७८-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन राक्षसोंकी अङ्गकान्ति मेघ, हाथी और भैंसोंके समान काली थी । वे युद्धके मुहानेपर अनेक बार गदाओं और तलवारोंकी चोटसे घायल हो चुके थे । उनमें युद्धविषयक कौशल विद्यमान था । वे निशाचर ‘पहले मैं युद्ध करूँगा, पहले मैं युद्ध करूँगा’ ऐसा बारंबार कहते हुए वहाँ सब ओर चक्कर लगाने लगे ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. nadantaH* = saying thunderously; *aham aham iti* = "I shall
+take the lead; I shall take the lead"; *te rajaniicharaaH* = those demons;
+*ghanagajamahiShaaN^ga tulya varNaaH* = who resembled black clouds; elephants and buffaloes
+in hue; *gadaasi bhinnaaH asakR^it* = who had been wounded with a pointed weapon more than
+once by maces and swords; *samara mukheShu* = in the battle-front; *yuddha
+kaushalaaH* = and who were skilled in martial art; *paribabhramuH* = moved hither and
+thither (in the battle-field).
+
+**अनुवादः**
+
+Saying thunderously, "I shall take the lead", those demons who resembled black
+clouds, elephants and buffaloes in hue, who had been wounded pointedly more than once by maces and
+swords in the battle-front and who were skilled in martial art, moved hither and thither in the
+battle-field.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राक्षसरु मोड, आनॆ, कोणदन्तॆ कप्पाद शरीरदवरागिद्दरु. अवरु युद्धदल्लि अनेक सल गदॆ-खड्गगळिन्द गायगॊण्डिद्दरु. अवरल्लि युद्धकौशल्य तुम्बित्तु. आ निशाचररु नानु मॊदलु काडुवॆ, मॊदलु युद्ध नानु माडुवॆ ऎन्दु पदे पदे हेळुत्ता ऎल्लॆडॆ सञ्चरिसतॊडगिदरु.॥2.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. parimuurchchhitaH* = pervaded with; *dvaabhyaam krodha
+shokaabhyaam* = both anger and sorrow; *nairR^itaH* = Ravana; *achodayat* =
+impelled; *vishaalaakSham* = the wide-eyed; *makaraakSham* = Makaraksha;
+*kharaputram* = the son of Khara (as follows):
+
+**अनुवादः**
+
+Engulfed with both anger and sorrow, Ravana ordered the wide-eyed Makaraksha, the
+son of Khara (as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -2,6 +2,15 @@
 title = "०२६ सीतायाः प्राणत्यागनिश्चयः"
 title_english = "026 Seetha decides to give up life"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book V : Sundara Kanda - Book Of Beauty**
+
+In this chapter Seetha ponders a lot and decides to give up life without Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-026-Seetha_decides_to_give_up_life.mp3"></div>
 </details>
@@ -42,9 +51,42 @@ _________________
 कॆलवॊम्मॆ उन्मत्तळन्तॆ, मत्तॊम्मॆ मत्तेरिदवळन्तॆ, मगदॊम्मॆ चित्तभ्रमॆगॊण्डवळन्तॆ शोकिसुत्तिद्दळु. बळलिकॆय परिहारक्कागि नॆलदमेलॆ हॊरळाडुव हॆण्णुकुदुरॆ मरियन्तॆ कॆलवॊम्मॆ हॊरळाडुत्तिद्दळु.॥2॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. unmatteva* = like a mad one; *pramatteva* = like an intoxicated one;
+*bhraantachitteva* = with a deluded mind; *shochatii* = (Seetha was) crying; *kishoriiva*
+= like a female horse; *upaavR^ittaa* = rolling on ground; *viveshhTantii* = (Seetha) rolled;
+*mahiitale* = on the ground.
+
+**अनुवादः**
+
+Seetha was crying like a mad one, like an intoxicated one, with a deluded mind. Like a female horse
+rolling on ground, Seetha rolled on the ground.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कण्णीरिनिन्द तॊय्दुहोगिद्द मुखदिन्द कूडिद्दु दयनीयळाद जानकिदेवियु हीगॆ हेळिकॊळ्ळुत्ता तलॆयन्नु तग्गिसिकॊण्डु अळतॊडगिदळु.॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. prasaktaashrumukhii* = with a face continually shedding tears; *jankaatmajaa*
+= Seetha; *balaa* = an young woman; *evam* = thus; *bruvatii* = speaking; *adhogatamukhii*
+= with downward face; *upachakrame* = started; *vilaptum* = to weep.
+
+**अनुवादः**
+
+With a face continually shedding tears, Seetha an young woman, thus speaking with a downward face,
+started to weep.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,6 +109,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु बङ्गारद जिङ्कॆय कोरिकॆयन्तॆ दूर होदाग, कामरूपियाद, मायावियाद रावणनु कूगिकॊळ्ळुत्तिद्दरू बलात्कारदिन्द नन्नन्नु इल्लिगॆ सॆळॆदु तन्दनु.॥3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. raaghavasya* = (while) Rama; *pramattasya* = was heedless; *aham*
+= I; *kroshatii* = who have been crying; *balaat aaniitaa* = (was) forcibly brought; *pramathya*
+= overpowered; *rakshasaa* = by the ogre; *raavaNena* = Ravana; *kaamaruupiNaa* = who can
+wear desired form.
+
+**अनुवादः**
+
+"While Rama was heedless (taken away by Mareecha), I who have been crying was forcibly brought
+overpowered by the ogre Ravana who can wear desired form."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,6 +153,22 @@ _________________
 ईग राक्षसस्त्रीयरु नन्नन्नु वशदल्लिरिसिकॊण्डु क्रूरवाद रीतियिन्द बॆदरिसुत्तिद्दारॆ. महा दुःखदल्लि मुळुगिरुव ननगॆ चिन्ताव्याकुलदिन्दॊडगॊण्ड ई जीवितद मेलॆ याव आशॆयू इल्ल.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. aapannaa* = obtaining; *raaskasii vasham* = control by ogresses; *bartsyamaanaa*
+= being frightened; *sudaaruNam* = very horribly; *chintayantii* = thinking; *suduHkhaartaa*
+= being tormented by grief; *aham* = I; *na utsahe* = do not desire; *jiivitum* = to live.
+
+**अनुवादः**
+
+"Being under the control of ogresses, being frightened very horribly, thinking and being tormented
+by grief, I do not desire to live."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवितेनार्थो नैवार्थैर्न च भूषणैः ।  
@@ -116,6 +191,23 @@ _________________
 महारथियू, प्राणनाथनू आद श्रीरामनिन्द दूरवागि ई राक्षसियर नडुवॆ सिक्किकॊण्डिरुव ननगॆ सम्पत्तुगळेकॆ? भूषणगळू एकॆ? कॊनॆगॆ ई स्थितियल्लिरुव नानु जीविसिरुवुदु एतक्कागि?॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. vinaa* = without; *raamaM* = Rama; *mahaaratham* = a great car-warrior;
+*vasantyaaH* = living; *raakshasii madhye* = in the midst of ogresses; *arthaH na* = there
+is no use; *jiivitena* = with life; *me* = to me; *na arthaiH* = not with wealth; *na
+bhushhaNaishcha* = not with ornaments.
+
+**अनुवादः**
+
+"Without Rama, a great car-warrior, living in the midst of ogresses, there is no use with life
+to me; not with wealth, not with ornaments."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्मसारमिदं नूनमथवाप्यजरामरम् ।  
@@ -131,6 +223,12 @@ _________________
 हृदयं मम येनेदं न दुःखेनावशीर्यते ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अश्मसारमिदं नूनथवाप्यजरामरम् ।
+हृदयं मम येनेदं न दुःखेनावशीर्यते ॥ ५-२६-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अवश्य ही मेरा यह हृदय लोहेका बना हुआ है अथवा अजर-अमर है, जिससे इस महान् दुःखमें पड़कर भी यह फटता नहीं है ॥ ६ ॥
@@ -139,6 +237,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न हृदयवु निजवागि कब्बिणद्दागिरबेकु अथवा मुप्पु-सावुगळिल्लद्दागिरबेकु. एकॆन्दरॆ इन्तह दारुणवाद दुःखवन्नु अनुभविसुत्तिद्दरू सीळि हॊगुत्तिल्लवल्ल!॥6॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. athavaa* = or; *mama* = my; *idam* = this; *hR^idayam* =
+heart; *nuunam* = truly; *ashmasaaram* = (is made of) iron; *ajaraamaramapi* = is undecaying
+and without death; *yena* = by what reason; *naavashiiryate* = is it not destroying; *duHkhena*
+= with sorrow.
+
+**अनुवादः**
+
+"Or my this heart truly is made of iron. It is undecaying and without death. By what reason is
+it not destroying with sorrow?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +271,12 @@ _________________
 मुहूर्तमपि रक्षामि जीवितं पापजीविता ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+धिङ्मामनार्यामसतीं याहं तेन विना कृता ।
+मुहूर्तमपि रक्षामि जीवितं पापजीविता ॥ ५-२६-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं बड़ी ही अनार्य और असती हूँ, मुझे धिक्कार है, जो उनसे अलग होकर मैं एक मुहूर्त भी इस पापी जीवनको धारण किये हूँ । अब तो यह जीवन केवल दुःख देनेके लिये ही है ॥ ७ ॥
@@ -164,6 +285,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषोत्तमनाद श्रीरामनिन्द रहितळागिरुव नानु इन्नू जीविसिरुवॆनल्ल! अनार्यॆयन्तॆयू, पतितॆयन्तॆयू, परपुरुषन मनॆयल्लिरुव ननगॆ धिक्कारविरलि! इदु निश्चयवागियू पापजीविकॆये सरि!॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. yaa* = whoever; *aham* = I; *paapajiivitaa* = with a sinful life;
+*kR^itaa* = made; *tena vinaa* = (to be) without Rama; *rakshaami* = protecting; *jiivitam*
+= life; *muhuurtamapi* = even for a moment; *maam* = to such me; *anaaryaam* = who am ignoble;
+*asatiim* = who am bad wife; *dhik* = shame (on me).
+
+**अनुवादः**
+
+"Whoever I with a sinful life made to be without Rama, protecting life even for a moment, to such
+me who am ignoble, who am bad wife, shame on me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +329,23 @@ _________________
 समुद्रदिन्द आवृतवाद ई भूमण्डलक्कॆ ऒडॆयनाद नन्न पति श्रीरामनु. अवनु प्रियभाषि, अन्तह प्राणप्रियनिन्द दूरविरुव ननगॆ सुखगळल्लि, जीवितदल्लि आसक्ति एकॆ?॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. priyam vinaa* = without husband Rama;bhartaaram = (who is) lord; *vasudhaayaaH*
+= of the earth; *saagaraantaayaaH* = with ocean at the end; *priyaMvadam* = a pleasant talker;
+*kaa* = what (is); *shradhhaa* = interest; *me* = to me; *jiivite* = in life; *
+sukhe vaa* = or in comfort.
+
+**अनुवादः**
+
+"Without husband Rama who is the lord of the earth with ocean at the end, a pleasant talker, what
+is the interest to me in life or in comfort."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्यानं न जानाति नात्मानं नात्मनः कुलम् ।  
@@ -206,6 +361,13 @@ _________________
 न चाप्यहं चिरं दुःखं सहेयं प्रियवर्जिता ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भिद्यतां भक्ष्यतां वापि शरीरं विसृजाम्यहम् ।
+न चाप्यहं चिरं कुःखं सहेयं प्रियवर्जिता ॥
+५-२६-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यह राक्षस अपने क्रूर स्वभावके कारण न तो मेरे इनकारपर ध्यान देता है, न अपने महत्त्वको समझता है और न अपने कुलकी प्रतिष्ठाका ही विचार करता है । बारम्बार मुझे प्राप्त करनेकी ही इच्छा करता है ॥ ९ ॥
@@ -214,6 +376,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई राक्षसस्त्रीयरु नाशवुळ्ळ ई शरीरवन्नु तुण्डु-तुण्डु माडिदरू, तिन्दु हाकिदरू ननगॆ सम्मतवे. इदन्नु त्यजिसलिक्कागि नानु सिद्धळे आगिद्देनॆ. प्रियनिगॆ दूरवागिद्दु अन्त्यविल्लद ई दुःखगळन्नु इन्नु याव रीतियिन्दलू सहिसलारॆनु.॥9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. aham* = I; *visR^ijaami* = will leave; *shariiram* = the body;
+*bhidyataam* = let it be split (into pieces); *bhakshyataam vaapi* = or let it be eaten; *aham*
+= I; *priyavarjitaa* = without husband; *na cha saheyam* = will not tolerate; *duHkham* =
+sorrow; *chiram* = for a long time.
+
+**अनुवादः**
+
+"I will leave the body. Let it be split into pieces or let it be eaten. I without husband will
+not tolerate sorrow for a long time."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +410,12 @@ _________________
 रावणं किं पुनरहं कामयेयं विगर्हितम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+चरणेनापि सव्येन न स्पृशेयं निशाचरम् ।
+रावणं किं पुनरहं कावयेयं विगर्हतम् ॥ ५-२६-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसियो! तुम्हारे देरतक बकवाद करनेसे क्या लाभ? तुम मुझे छेदो, चीरो, टुकड़े-टुकड़े कर डालो, आगमें सेंक दो अथवा सर्वथा जलाकर भस्म कर डालो तो भी मैं रावणके पास नहीं फटक सकती ॥ १० ॥
@@ -239,6 +424,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निकृष्टवाद आ निशाचरनन्नु नानु ऎडगालिनिन्दलू मुट्टुवुदिल्ल. हीगिरुवाग आ रावणन कोरिकॆगळन्नु ईडेरिसुवॆने?॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. aham* = I; *na spR^isheyam* = will not touch; *savyena charaNenaapi*
+= even with my left foot; *raavaNam* = Ravana; *nishaacharam* = ogre; *vigarhitam* = of reprehensible
+conduct; *kaamayeyam kiM punaH* = what to say of desiring (him).
+
+**अनुवादः**
+
+"I will not touch even with my left foot Ravana an ogre of reprehensible conduct. What to say of
+desiring him."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +457,13 @@ _________________
 यो नृशंसस्वभावेन मां प्रार्थयितुमिच्छति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रत्याख्यातं न जानाति नात्मानं नात्मनः कुलम् ।
+यो नृशंसस्वभावेन मां प्रार्थयितुमिच्छति
+॥ ५-२६-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीरघुनाथजी विश्वविख्यात ज्ञानी, कृतज्ञ, सदाचारी और परम दयालु हैं तथापि मुझे संदेह हो रहा है कि कहीं वे मेरे भाग्यके नष्ट हो जानेसे मेरे प्रति निर्दय तो नहीं हो गये? ॥ ११ ॥
@@ -264,6 +472,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 क्रूरवाद स्वभावदिन्द नन्नन्नु पडॆदुकॊळ्ळलु बयसिरुव आ रावणनु तन्न स्वरूपवन्नागली, कुलवन्नागली, नानु माडुत्तिरुव तिरस्कारवन्नागली तिळियुवुदे इल्लवल्ल!॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. yaH* = whoever (Ravana); *nR^ishaMsa svabhaavena* = with a cruel nature;
+*icchhati* = is desiring; *praarthayitum* = to solicit; *maam* = me (that Ravana); *na
+jaanaati* = does not know; *aatmaanam* = him; *pratyaakhyaatam* = to be refused; *na*
+= (he does) not (know); *aatmanaH* = his; *kulam* = race.
+
+**अनुवादः**
+
+"Whoever Ravana with a cruel nature is desiring to solicit me, that Ravana does not know him to
+be refused; he does not know his race."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +506,13 @@ _________________
 रावणं नोपतिष्ठेयं किं प्रलापेन वश्चिरम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+चिन्ना भिन्ना विभक्ता वा दीप्तेवाग्नौ प्रदीपिता ।
+रावणं नोपतिष्ठेयं किं प्रलापेन वश्चिरम्
+॥ ५-२६-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अन्यथा जिन्होंने जनस्थानमें अकेले ही चौदह हजार राक्षसोंको कालके गालमें डाल दिया, वे मेरे पास क्यों नहीं आ रहे हैं? ॥ १२ ॥
@@ -289,6 +521,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसियरे! नीवु नन्नन्नु चूरु-चूरागि कत्तिरिसिरि, जज्जिरि, अथवा अङ्गाङ्गगळन्नु बेर्पडिसिरि; उरियुत्तिरुव बॆङ्कियल्लि सुट्टुबिडिरि. आदरॆ नानु मात्र रावणन बळिगॆ सेरॆनु. नीवु हीगॆ हगलु - रात्रिगळहुत्तिद्दरू व्यर्थवे.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. chhinna vaa* = (even) if cut; *bhinna vaa* = or if divided into parts;
+*pradiipitaa vaa* = or (even) if burnt; *agnau* = in fire; *diipte* = which is blazing;
+*nopatishhTeyam* = I will not reach; *raavaNam* = Ravana; *kim* = what is the use; *vaH
+pralaapena* = with your prattling; *chiram* = for a long time.
+
+**अनुवादः**
+
+"Even if cut or if divided into parts in blazing fire, I will not reach Ravana. What is the use
+with your prattling for a long time?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +555,12 @@ _________________
 सद्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसङ्क्षयात् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ख्यातः प्राज्ञः कृतज्ञ्शश्च राघवः ।
+सद्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसंक्षयात् ॥ ५-२६-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस अल्प बलवाले राक्षस रावणने मुझे कैद कर रखा है । निश्चय ही मेरे पतिदेव समरांगणमें इस रावणका वध करनेमें समर्थ हैं ॥ १३ ॥
@@ -314,6 +569,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ननगनिसुत्तदॆ विश्वविख्यातनू, ज्ञानियू, कृतज्ञनू, सदाचारियू, परम दयाळुवू आद श्रीरघुनाथनु नन्न कुरितु निष्ठुरनागिरुवनल्ल! इदु नन्न दुरदृष्टवे आगिदॆ.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. raaghavaH* = Rama; *khyaataH* = is famous; *praajJNaH* = is a wise
+man; *saanulroshashcha* = is compassionate; *sadvR^ittaH* = with a good conduct; *madbhaagya
+saMkshayaat* = due to deterioration of my fortune; *saN^ke* = I doubt; *niranukroshaH* = (He
+became) hard hearted.
+
+**अनुवादः**
+
+"Rama is famous, is a wise man, is compassionate with a good conduct. Due to the deterioration
+of my fortune, I doubt He became hard hearted."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +603,12 @@ _________________
 येनैकेन निरस्तानि स मां किं नाभिपद्यते ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+राक्षसानां सहस्राणि जनस्थाने चतुर्दश ।
+येनैकेन निरस्तानि स मां किं नाभिपद्यते ॥ ५-२६-१४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिन श्रीरामने दण्डकारण्यके भीतर राक्षसशिरोमणि विराधको युद्धमें मार डाला था, वे मेरी रक्षा करनेके लिये यहाँ क्यों नहीं आ रहे हैं? ॥ १४ ॥
@@ -339,6 +617,21 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु तानॊब्बने दण्डकारण्यदल्लि हदिनाल्कु साविर राक्षसरन्नु ध्वंसमाडिदनु. अन्तह महानुभावनु नन्नन्नु पुनः पडॆयलारने?॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. yena ekena* = by whom alone; *chaturdasa saharaaNi* = fourteen thousand;
+*raakshsaanaam* = of ogres; *nirastaani* = have been destroyed; *kim* = why; *saH*
+= (is) that Rama; *naabhipadyaH* = not saving; *maam* = me.
+
+**अनुवादः**
+
+"By whom alone fourteen thousand of ogres have been destroyed, why is that Rama not saving me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +659,22 @@ _________________
 अल्पवीर्यनाद, राक्षसनाद रावणनु नन्नन्नु इन्दु बन्धिसिट्टिरुवनु. आदरॆ युद्धदल्लि नन्न पतियु इवनन्नु संहरिसलु खण्डितवागि समर्थनागिद्दानॆ.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. aham* = I; *niruddhaa* = am withheld; *rakshasaa raavaNena* = by
+the ogre Ravana; *alpaviiryeNa* = with little strength; *me bhartaa* = my husband; *samarthaH
+khalu* = is indeed capable; *hantum* = to kill; *raavaNam* = Ravana; *ahave* = in a war.
+
+**अनुवादः**
+
+"I am withheld by the ogre Ravana with little strength. My husband is indeed capable of killing
+Ravana in a war."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु तत् कारणं येन रामो दृढपराक्रमः ।  
@@ -389,6 +698,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दण्डकारण्यदल्लि नडॆद युद्धदल्लि नन्न पतियु विराधने मॊदलाद प्रमुख राक्षसरन्नु संहरिसिदनु. अन्तह महावीरनु नन्नन्नु रक्षिसलु एकॆ बरुवुदिल्ल?॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. yena raameNa* = By which Rama; *viraadhaH* = Viradha; *raakshasa puN^gavaH*
+= best among ogres; *nihataH* = has been killed; *daNDakaaraNye* = in Dandaka forest; *raNe*
+= in a war; *kim* = why; *saH* = (is) that He; *naabhipadyate* = not saving; *maam*
+= me.
+
+**अनुवादः**
+
+"By which Rama Viradha, best among ogres, has been killed in Dandaka forest in a war, why is that
+He not saving me?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -416,6 +742,23 @@ _________________
 समुद्रद मध्यदल्लिरुव ई लङ्का पट्टणवु इतररिगॆ दुर्भेद्यवागिरबहुदु. आदरॆ श्रीरामन बाणगळिगॆ ऎल्लियू याव विधवाद अडॆतडॆयू इरुवुदिल्ल.॥17॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. iyam laN^kaa* = this city of Lanka; *samudrsya madhye* = being in the
+middle of ocean; *dushhpR^idharshhaNaa kaamam* = is difficult to be attacked; *tu* = but; *na
+bhavishhyati* = there will not be; *gatirodhaH* = an obstacle to flying; *raaghava baanaaNaam*
+= of Rama's arrows;
+
+**अनुवादः**
+
+"This city of Lanka being in the middle of ocean is difficult to be attacked. But there will not
+be an obstacle to flying of Rama's arrows."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृतेति मां योऽधिगत्य राघवाय निवेदयेत् ।  
@@ -431,6 +774,12 @@ _________________
 रक्षसापहृतां भार्यां इष्टां नाभ्यवपद्यते ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+किं नु तत्कारणं येन रामो दृढपराक्रमः ।
+रक्षसापहृतां भार्यामिष्टां नाभ्यवपद्यते ॥ ५-२६-१८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो श्रीरघुनाथजीको मेरे हरे जानेकी सूचना दे सकते थे, उन गृध्रराज जटायुको भी रावणने युद्धमें मार गिराया था ॥ १८ ॥
@@ -439,6 +788,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दृढपराक्रमियाद श्रीरामनु राक्षसनिन्द अपहृतळागिरुव, तनगॆ इष्टवाद भार्यॆयागिरुव नन्नन्नु पुनः पडॆयलु प्रयत्निसदिरुवुदक्कॆ कारणवादरू एनिरबहुदु?॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. kim nu* = what now; *tat kaaraNam* = is that reason; *yena* = by
+which; *raamaH* = Rama; *dR^iDha paraakramaH* = with a firm courage; *naabhyavapadyate* =
+is not protecting; *ishhTaam bhaaryaam* = His dear wife; *apahR^itaam* = stolen; *rakshasaa*
+= by an ogre.
+
+**अनुवादः**
+
+"What now is that reason by which Rama with a firm courage is not protecting His dear wife stolen
+by an ogre."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +822,12 @@ _________________
 जानन्न पि हि तेजस्वी धर्षणं मर्षयिष्यति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+इहस्थां मां न जानीते शङ्के लक्ष्मणपूर्वजः ।
+जानन्नपि स तेजस्वी धर्षणं मर्षयिष्यति ॥ ५-२६-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जटायु यद्यपि बूढ़े थे तो भी मुझपर अनुग्रह करके रावणका वध करनेके लिये उद्यत हो उन्होंने बहुत बड़ा पुरुषार्थ किया था ॥ १९ ॥
@@ -464,6 +836,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणाग्रजनु नानिल्लिरुवुदन्नु तिळियलारनॆन्दे अरियुत्तेनॆ. ऒन्दु वेळॆ तिळिदिद्दरॆ तेजस्वियाद श्रीरामनु रावणन ई दुराक्रमणवन्नु सहिसिकॊण्डिरुवने? ऎन्दिगू इल्ल.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. shaN^ke* = I doubt that; *lakshmana puurvajaH* = Rama elder to Lakshmana;
+*na jaanite* = does not know; *maam* = me; *ihasthaam* = to be here; *jaanannapi*
+= after knowing; *saH tejasvii* = (will) that glorious Rama; *marshhyishhyati* = tolerate; *dharshhaNam*
+= (this) outrage.
+
+**अनुवादः**
+
+"I doubt that Rama elder to Laksmana does not know me to be here. After knowing will that glorious
+Rama tolerate this outrage?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +870,12 @@ _________________
 गृध्रराजोऽपि स रणे रावणेन निपातितः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+हृतेति योऽधिगत्वा मां राघवाय निवेदयेत् ।
+गृध्रारजोऽपि स रणे रावणेन निपातितः ॥ ५-२६-२०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि श्रीरघुनाथजीको मेरे यहाँ रहनेका पता लग जाता तो वे आज ही कुपित होकर सारे संसारको राक्षसोंसे शून्य कर डालते ॥ २० ॥
@@ -489,6 +884,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन बळिगॆ होगि ‘सीतादेवियन्नु रावणनु अपहरिसिरुवनु’ ऎम्ब वार्तॆयन्नु तिळिसलु अवकाशवुळ्ळवनु जटायुवु ऒब्बने. आदरॆ अवनू कूड युद्धदल्लि रावणनिन्द हतनादनु.॥20॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. yaH* = whoever Jatayu; *adhigatvaa* = nearing (Rama); *nivedayat*
+= will have let known; *raaghavaaya* = to Rama; *hR^iteti* = (that Seetha) was stolen; *saH gR^idhra
+raajaH api* = that king of vultures; *hataH* = has been killed; *raavaNena* = by Ravana; *
+raNe* = in war.
+
+**अनुवादः**
+
+"Whoever Jatayu nearing Rama will have let known to Rama that Seetha was stolen, that king of vultures
+has been killed by Ravana in war."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +926,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जटायुवु वृद्धनादरू नन्नन्नु रक्षिसलिक्कागि द्वन्द्वयुद्धदल्लि रावणनन्नु ऎदुरिसिदनु. अवनु माडिद आ ऒन्दु महत्कार्यवु श्लाघनीयवु.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. mahat karma* = a great deed; *kR^itam* = has been done; *tena jaTaayushhaa*
+= by that Jatayu; *tathaa* = thus; *abhyavapadyataa* = protecting; *maam* = me; *vR^iddhenaapi*
+= although of old age; *tishhThataa* = standing; *raavaNa dvandve* = in a dual combat with Ravana.
+
+**अनुवादः**
+
+"A great deed has been done by that Jatayu, thus protecting me, although of old age, standing in
+a dual combat with Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -570,6 +998,12 @@ _________________
 यथाहमेवं रुदती तथा भूयो न ससंशयः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततो निहतनाथानां राक्षसीनां गृहे गृहे ।
+यथाहमेवं रुदती तथा भुयो न संशयः ॥ ५-२६-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अब थोड़े ही समयमें यह लङ्कापुरी श्मशान-भूमिके समान हो जायगी । यहाँकी सड़कोंपर चिताका धुआँ फैल रहा होगा और गीधोंकी जमातें इस भूमिकी शोभा बढ़ाती होंगी ॥ २४ ॥
@@ -580,9 +1014,59 @@ _________________
 ईग नानु अळुत्तिरुवन्तॆ लङ्कॆय प्रतियॊन्दु मनॆगळल्लियू अनाथराद राक्षसियरु ऎदॆ बडिदुकॊण्डु अळुवरु. इदरल्लि सन्देहवे इल्ल.॥24॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. tataH* = thereafter; *yathaa* = how; *aham* = I ; *evam rudatii*
+= am crying in this way; *tathaa* = in the same way; *gR^ihe gR^ihe* = in house and house; *raakshasiinaam*
+= ogresses; *nihatanaadhaanaam* = with killed husbands (will cry); *bhuuyaH* = again and again;
+*na saMshayaH* = there is no doubt.
+
+**अनुवादः**
+
+"Thereafter how I am crying in this way, in the same way, in very house, ogresses with killed husbands
+will cry again and again. There is no doubt in this."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु इल्लिरुवुदन्नु राघवनु एनादरू तिळिदरॆ, क्रुद्धनाद अवनु क्षणमात्रदल्लि तीक्ष्णवाद बाणगळिन्द ई लोकदल्लि राक्षसरिल्लदन्तॆ माडियानु. अष्टे अल्ल ई लङ्कॆयन्नु बूदिमाडि बिडुवनु. ई महा समुद्रवन्नु इङ्गिसिबिडुवनु. ई नीच रावणन नाम-रूपगळु उळियदन्तॆ अळिसिबिडुवनु.॥22-23॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. vidhamechcha* = (Rama will) blow away laN^kaaM puriim = the city of Lanka;
+*shoshhayechcha* = will dry up; *mahodadhim* = the great ocean; *naashayet* = will destroy;
+*kiirtim* = the fame; *naama cha* = and name; *raavaNasya* = of Ravana.
+
+**अनुवादः**
+
+"Rama will blow away the city of Lanka, will dry up the great ocean, will destroy the name and
+fame of Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. saH raaghavaH* = that Rama; *jaaniiyaadyadi* = if He knows; *maam*
+= me; *iha vartamaanaam* = to be living here; *abhikruddhaH* = with anger; *kuryaat* = will
+make; *lokam* = the world; *araakshasam* = to be without ogres; *baaNaiH* = with (His) arrows;
+*adya* = now.
+
+**अनुवादः**
+
+"If that Rama knows me to be living here, with anger He will make the world to be without ogres
+with His arrows now."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -610,6 +1094,23 @@ _________________
 लक्ष्मणनॊडगूडिद श्रीरामनु राक्षसर ई लङ्कॆयन्नु हुडुकि, शत्रुगळन्नु वधिसुवनु. अवर कण्णिगॆ बिद्द शत्रुवु यारे आगिरली क्षणकालवू कूड प्राण सहित उळियलारनु.॥25॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. raamaH* = Rama; *salakshmaNaH* = together will Lakshmana; *anvishhya*
+= will search; *laN^kaam* = Lanka; *rakshasaam* = of ogres; *kuryaat* = will do (destruction);
+*ripuH* = an enemy; *dR^ishhTaH* = seen; *taabhyaam* = by those two; *na jiivati hi*
+= will indeed not live; *muhuurtamapi* = even for a moment.
+
+**अनुवादः**
+
+"Rama together will Lakshmana will search the city of Lanka belonging to ogres. An enemy seen by
+those two will indeed not live even for a moment."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशानि तु दृश्यन्ते लङ्कायामशुभानि तु ।  
@@ -625,6 +1126,12 @@ _________________
 अचिरेण तु लङ्केयं श्मशानसदृशी भवेत् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+चिताधुमाकुलपथा गृध्रमण्डलसंकुला ।
+अचिरेण तु लङ्केयं श्मशानसदृशी भवेत् ॥ ५-२६-२६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लङ्कामें जैसे-जैसे अशुभ लक्षण दिखायी दे रहे हैं, उनसे जान पड़ता है कि अब शीघ्र ही इसकी चमक-दमक नष्ट हो जायगी ॥ २६ ॥
@@ -633,6 +1140,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्यल्पकालदल्ले ई लङ्कापट्टणवु स्मशानदन्तागुत्तदॆ. चितॆगळिन्द हॊरडुव हॊगॆयु लङ्कॆय ऎल्लॆडॆ तुम्बि होगुवुदु. रणहद्दुगळु गुम्पु-गुम्पागि आवरिसिकॊळ्ळुववु.॥26॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. iyam* = this; *lan^kaa* = Lanka; *achireNa* = shortly; *bhavet*
+= will become; *shmashaana sadR^ishii* = like a graveyard; *chitaadhuumakulapathaa* = with paths
+agitated with smoke of funeral pyres; *gR^idhramaNDalasaMkulaa* = crowded with a group of vultures.
+
+**अनुवादः**
+
+"This Lanka shortly will become like a graveyard, with paths agitated with smoke of funeral pyres,
+crowded with a group of vultures."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +1173,13 @@ _________________
 दुष्प्रस्थानोऽयमाभाति सर्वेषां वो विपर्ययः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अचिरेणैव कालेन प्राप्स्याम्येव मनोरथम् ।
+दुष्प्रस्थानोऽयमाख्याति सर्वेषाम् वो विपर्ययम्
+॥ ५-२६-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पापाचारी राक्षसराज रावणके मारे जानेपर यह दुर्धर्ष लङ्कापुरी भी निश्चय ही विधवा युवतीकी भाँति सूख जायगी, नष्ट हो जायगी ॥ २७ ॥
@@ -658,6 +1188,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्वल्पकालदल्ले नन्न मनोरथवु ईडेरिये तीरुवुदु. राक्षसियरे! निम्म दुराचारवु निमगॆ विपरीतवाद परिणामवन्नुण्टुमाडुत्तदॆ. ऎम्बुदु स्पष्टवागि कण्डु बरुत्तदॆ.॥27॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. achireNa kaalenaiva* = in a short time only; *praapsyaameva* = I will
+attain; *manoratham* = (my) desire; *ayam* = this; *dushhprasthaanaH* = evil course; *
+aakhyaati* = is telling; *sarveshhaam* = all; *vaH* = of your; *viparyayam* = destruction.
+
+**अनुवादः**
+
+"In a short time only I will attain my desire. This evil course is telling of destruction of you
+all."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,6 +1221,12 @@ _________________
 अचिरेणैव कालेन भविष्यति हतप्रभा ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यादृशानीह दृशन्ते लङ्कायामशुभानि वै ।
+अचिरेणैव कालेन भविष्यति हतप्रभा ॥ ५-२६-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आज जिस लङ्कामें पुण्यमय उत्सव होते हैं, वह राक्षसोंके सहित अपने स्वामीके नष्ट हो जानेपर विधवा स्त्रीके समान श्रीहीन हो जायगी ॥ २८ ॥
@@ -683,6 +1235,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई लङ्कॆयल्लि कण्डुबरुव अपशकुनगळिन्द इदु बहुबेगने खण्डितवागि पाळु बीळुत्तदॆ ऎम्बुदु सूचिसुत्तदॆ.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. iha* = here; *laN^kaayaam* = in Lanka; *yaadR^ishaani* = whatever;
+*ashubhaani* = inauspicious things; *dR^ishyante* = are being seen; *achireNaiva kaalena*
+= (from those) in a short while; *bhavishhyati* = (Lanka) will become; *hataprabhaa* = deprived
+of glory.
+
+**अनुवादः**
+
+"Here in Lanka whatever inauspicious things are being seen, from those, in a short while Lanka
+will become deprived of glory."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +1269,12 @@ _________________
 शोषं यास्यति दुर्धर्षा प्रमदा विधवा यथा ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नूनं लङ्का हते पापे रावणे राक्षसाधमे ।
+शोषं यास्यति दुर्धर्षा प्रमदा विधव यथा ॥ ५-२६-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘निश्चय ही मैं बहुत शीघ्र लङ्काके घर-घरमें दुःखसे आतुर होकर रोती हुई राक्षस कन्याओंकी क्रन्दन-ध्वनि सुनूँगी ॥ २९ ॥
@@ -708,6 +1283,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसाधिपतियाद पापिष्ठनाद रावणनु हतनागुत्तले इष्टरवरॆगॆ दुर्भेद्यवागिद्द ई लङ्कॆयु गण्ड सत्त विधवॆयन्तॆ कळाहीनवागुत्तदॆ. इदु निश्चय.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. paape* = sinful; *raakshasaadhame* = vile ogre; *raavaNe* = Ravana;
+*hate* = while being killed; *laN^kaa* = Lanka; *durdharshhaa* = which is unconquerable;
+*nuunam* = definitely; *yaasyati* = will get; *shoshham* = drying up; *pramadaa yathaa*
+= like a woman; *vidhavaa* = who lost husband.
+
+**अनुवादः**
+
+"While the sinful, vile ogre Ravana is being killed, Lanka which is unconquerable till now, definitely
+will get drying up like a woman who lost husband."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +1317,13 @@ _________________
 भविष्यति पुरी लङ्का नष्टभर्त्री यथाङ्गना ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुण्योत्सव समृद्धा च नष्टभर्र्ती सराक्षसी ।
+भविष्यति पुरी लङ्का नष्टभर्त्री यथाङ्गना ॥
+५-२६-३०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीरामचन्द्रजीके सायकोंसे दग्ध हो जानेके कारण लङ्कापुरीकी प्रभा नष्ट हो जायगी । इसमें अन्धकार छा जायगा और यहाँके सभी प्रमुख राक्षस कालके गालमें चले जायँगे ॥ ३० ॥
@@ -733,6 +1332,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसरिन्द तुम्बिरुव, मङ्गळोत्सवगळिन्द समृद्धवाद ई लङ्कापट्टणवु अत्यल्पकालदल्ले ऒडॆयनन्नु कळॆदुकॊण्डु गण्डनिल्लद हॆङ्गसिनन्तागुत्तदॆ.॥30॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. puNyotsava samR^iddhaa* = (now) abounding in pious festivities; *laN^kaapurii*
+= the city of Lanka; *nashhTa bhartrii* = with lost lord; *saraakshasii* = together with ogresses;
+*bhavishhyati* = will become; *aN^ganaa yathaa* = like a woman; *nashhTa bhartrii* = with
+lost husband;.
+
+**अनुवादः**
+
+"Now abounding in pious festivities, the city of Lanka with lost lord together with ogresses will
+become like a woman with lost husband."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +1374,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रतियॊन्दु मनॆयल्लू पतिवियोग दुःखदिन्द पीडितरागि रोदिसुव राक्षसकन्यॆयर अळुविन ध्वनियन्नु नानु बहु बेगने केळलिद्देनॆ.॥31॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. nachiraadeva* = in a short while; *iha* = here; *gR^ihe gR^ihe*
+= in every house; *nuunam shroshhyaami* = I can definitely hear; *dhvanim* = the sound; *raakshasakanyaanaam*
+= of ogresses; *rudantiinaam* = crying; *duHkhaartaanaam* = being tormented by grief.
+
+**अनुवादः**
+
+"In a short while here in every house I can definitely hear the sound of ogresses crying being
+tormented by grief."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -795,6 +1427,12 @@ _________________
 जानियाद्वर्तमानां हि रावणस्य निवेशने ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यदि नाम स शूरो मां रामो रक्तान्तालोचनः ।
+जानीयद्वर्तमानां हि रावणस्य निवेशने ॥ ५-२६-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उसी समय दुष्ट रावणने मेरे वधका निश्चय किया है । ये पापाचारी राक्षस इतना भी नहीं जानते हैं कि क्या करना चाहिये और क्या नहीं ॥ ३३ ॥
@@ -803,6 +1441,37 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रक्तान्तलोचननाद हागू शूरनाद श्रीरामनु नानु राक्षसनाद रावणन मनॆयल्लिरुवॆनॆम्ब वार्तॆयन्नु तिळिदनादरॆ, अवन निश्चितवाद बाणगळिन्द ई लङ्कापट्टणवु क्षणमात्रदल्लि दग्धवागि अन्धकारमयवागुत्तदॆ. कान्तिहीनवागुत्तदॆ. लङ्कॆयल्लिरुव ऎल्ल राक्षस श्रेष्ठरु हतरागुत्तारॆ.॥32-33॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. saH raamaH* = that Rama; *shuuraH* = a strong man; *raktaanta lochanaH*
+= with red eye corners; *yadi naama jaaniiyaat* = will he know; *maam* = me; *vartamaanaam*
+= to be living; *niveshane* = in the house; *raavaNasya* = of Ravana.
+
+**अनुवादः**
+
+"Will that Rama who is a strong man with red eye corners know me to be in the house of Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. la~Nkaa purii* = the city of Lanka; *bhavishhyati* = will become; *
+nirdagdhaa* = burnt; *raamasaayakaiH* = by Rama's arrows; *saandhakaaraa* = together with darkness;
+*hadadyotaa* = with destroyed lustre; *hata raakshasa pu~Ngavaa* = with killed best ogres.
+
+**अनुवादः**
+
+"The city of Lanka will become burnt by Rama's arrows together with darkness, with destroyed luster
+with killed best ogres."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -818,6 +1487,15 @@ _________________
 _________________
 अनेन तु नृ शंसेन रावणेनाधमेन मे ।  
 समयो यस्तु निर्दिष्टः तस्य कालोऽयमागतः ॥
+स च मे विहितो मृत्युरस्मिन् दुष्टेन वर्तते ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अनेन तु नृशंसेन रावणेनाधमेन मे ।
+समयो यस्तु निर्दिष्टस्तस्य कालोऽयमागतः ॥ ५-२६-३४
+स
+च मे विहितो मृत्युरस्मिन् दुष्टे न वर्तते ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -836,8 +1514,7 @@ _________________
 ध्रुवं मां प्रातराशार्थं राक्षसः कल्पयिष्यति ।  
 साहं कथं करिष्यामि तं विना प्रियदर्शनम् ॥ ३५ ॥
 _________________
-स च मे विहितो मृत्युरस्मिन् दुष्टेन वर्तते ।  
-अकार्यं ये न जानन्ति नैर्ऋताः पापकारिणः ॥
+अकार्यं ये न जानन्ति नैर्ऋताः पापकारिणः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -870,6 +1547,42 @@ _________________
 क्रूरियाद, अधमनाद रावणनु नन्नन्नु संहरिसलु निगदिपडिसिद कालवीग अवनिगे सन्निहितवागिदॆ. आ दुष्टनु ननगॆ विधिसिद मृत्युवु अवनिगे वर्तिसुत्तदॆ. पापकर्मनिरतराद राक्षसरु माडलु हॊरट कार्यवन्नु तिळियरु. हसिमांसवन्नु तिन्नुव ई राक्षसरु धर्मवन्नु अरियरु. परस्त्रीय अपहरणवॆम्ब अधर्म कार्यदिन्दागि ई पट्टणदल्लि बेगने दॊड्डदाद अनर्थवे सम्भविसुत्तदॆ.॥34-36॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+35; *36. ye nairR^itaaH* = Whoever ogres; *paapakaariNaH* = who are sinners;
+*naa jaanati* = do not know; *akaaryam* = what should not be done; *adharmaattu* = due to
+their unrighteousness; *saaMpratam* = now; *bhavishhyati* = there will be; *mahotpaataH*
+= a great calamity; *ete* = these; *raakshasaaH* = ogres; *pishitanaashanaaH* = who are meat
+eaters; *na jaanati* = do not know; *dharmam* = virtue.
+
+**अनुवादः**
+
+"Whoever sinful ogres who do not know what should not be done, due to their unrighteousness now
+there will be a great calamity. These meat eating ogres do not know virtue."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. yaH* = whatever; *samayaH* = time; *nirdishhTa* = ordered; *
+anena raavaNena* = by this Ravana; *nR^ishaMsena* = who is cruel; *adhamena* = (and) vilest
+of men; *ayam* = this; *kaalaH* = time; *aagataH* = has come; *me* = to me; *saH
+mR^ityuH* = that death; *vihitaH* = decreed; *me* = to me; *na vartate* = does not hold
+good; *asmin dushhTe* = in the matter of this evil one.
+
+**अनुवादः**
+
+"Whatever time has been ordered by this cruel and vilest of men Ravana, this time has come to me.
+That death decreed to me does not hold good to this evil one (Ravana)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाजानाज्जीवतीं रामः स मां भरतपूर्वजः ।  
@@ -883,6 +1596,15 @@ _________________
 _________________
 ध्रुवं मां प्रातराशार्थे राक्षसः कल्पयिष्यति ।  
 साहं कथं करिष्यामि तं विना प्रियदर्शनम् ॥
+रामं रक्तान्तनयनमपश्यन्ती सुदुःखिता ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ध्रुवं मां प्रातराशार्थे राक्षसः कल्पयिस्यति ।
+साहं कथं करिष्यामि तं विना प्रियदर्शनम्
+॥ ५-२६-३७
+रामम् रक्तान्तनयनमपश्यन्ती सुकुःखिता ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -901,8 +1623,15 @@ _________________
 नूनं ममैव शोकेन स वीरो लक्ष्मणाग्रजः ।  
 देवलोकमितो यातस्त्यक्त्वा देहं महीतले ॥ ३८ ॥
 _________________
-रामं रक्तान्तनयनमपश्यन्ती सुदुःखिता ।  
-यदि कश्चित् प्रदाता मे विषस्याद्य भवेदिह ॥
+यदि कश्चित् प्रदाता मे विषस्याद्य भवेदिह ।
+क्षिप्रं वैवस्वतं देवं पश्येयं पतिना विना ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+यदि कश्चित् प्रदाता मे विषस्याद्य भवेदिह ॥ ५-२६-३८
+क्षिप्रं वैवस्वतं देवं पश्येयं पतिना
+विना ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -915,6 +1644,41 @@ _________________
 आ राक्षसनाद रावणनु प्रातःकालद भोजनक्कागि नन्नन्नु वधिसिये तीरुवनु. आग प्रियदर्शननाद रामनिल्लदॆ अबलॆयाद नानु एनु ताने माडलु साध्यवागुत्तदॆ. अन्दवाद कण्णुगळुळ्ळ श्रीरामन दर्शन भाग्यवु इल्लदॆ दुःखार्तळागि पतिवियोगवन्नु पडॆदिरुवॆ. ननगॆ यारादरू स्वल्प विषवन्नु कॊडुव महानुभावनु सिक्किदरॆ चॆन्नागित्तु. आग बेगने नानु पतियन्नु नोडदॆ यमनन्नु दर्शिसुत्तिद्दॆ. ॥37-38॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*38. adya* = now; *kashchit bhavedyadi* = if there exists any one; *praadaataa*
+= (who is a) giver; *vishhasya* = of poison; *iha* = here; *patinaa vinaa* = (I) without
+husband; *kshipram* = quickly; *pashyeyam* = will see; *devam* = the god; *vaivasvatam*
+= Yama.
+
+**अनुवादः**
+
+"Now if there exists any one who is a giver of poison here, I without husband quickly will see
+the god Yama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. raakshsaH* = an ogre; *dhruvam* = will definitely; *kalpayishhyati*
+= make; *maam* = me; *praataraashaarthe* = for breakfast; *saa aham* = such I; *katham
+karishhyaami* = what should do; *tam vinaa* = without Rama; *priyadarshanam* = with pleasing
+appearance; *suduHkhitaa* = I am grieving a lot; *apashyantii* = not seeing; *raamam* = Rama;
+*raktaantanayanam* = with red eye corners.
+
+**अनुवादः**
+
+"An ogre will definitely eat me for breakfast. What should such I do without Rama with pleasing
+appearance? I am grieving a lot not seeing Rama with red eye corners."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्या देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
@@ -926,8 +1690,15 @@ _________________
 धन्या देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 मम पश्यन्ति ये वीरं रामं राजीवलोचनम् ॥ ३९ ॥
 _________________
-क्षिप्रं वैवस्वतं देवं पश्येयं पतिना विना ।  
-नाजानाज्जीवतीं रामः स मां लक्ष्मणपूर्वजः ॥
+नाजानाज्जीवतीं रामः स मां लक्ष्मणपूर्वजः ।
+जानन्तौ तौ न कुर्यातां नोर्व्यां हि मम मार्गणम् ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+नाजानाज्जिवतीं रामः स मां लक्ष्मणपूर्वजः ॥ ५-२६-३९
+जानन्तौ तौ न कुर्यातां नोर्य्वां हि
+मम मार्गणम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -940,6 +1711,23 @@ _________________
 लक्ष्मणाग्रजनाद श्रीरामनिगॆ नानिन्नु जीविसिरुवॆनॆन्दु बहुशः तिळियलारदु. हागेनादरू तिळिदिद्दरॆ ई पृथ्वियल्लि ननगागि हुडुकदे इरुत्तिरलिल्ल. तप्पदॆ हुडुकिये तीरुवनु.॥39॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. saH raamaH* = that Rama; *lakshmaNa puurvajaH* = elder to Lakshmana;
+*naajaanaat* = (may) not know; *maam* = me; *jiivatiim* = to be alive; *tau* = those
+two; *jaanantau* = knowing (me to be alive); *na kuryataam iti na* = it cannot be said that they
+will not do; *mama maargaNam* = my search; *uurdhvaam* = on earth;
+
+**अनुवादः**
+
+"That Rama elder to Lakshmana may not know me to be alive. If those two know me to be alive, then
+it cannot be said that they will not do my search on earth."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नहि तस्यार्थो धर्मकामस्य धीमतः ।  
@@ -951,8 +1739,14 @@ _________________
 अथवा नहि तस्यार्थो धर्मकामस्य धीमतः ।  
 मया रामस्य राजर्षेर्भार्यया परमात्मनः ॥ ४० ॥
 _________________
-जानन्तौ तौ न कुर्यातां नोर्व्यां हि मम मार्गणम् ।  
-नूनं ममैव शोकेन स वीरो लक्ष्मणाग्रजः ॥
+नूनं ममैव शोकेन स वीरो लक्ष्मणाग्रजः ।
+देवलोकमितो यातस्त्यक्त्वा देहं महीतले ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+नूनं ममैव शोकेन स नीरो लक्ष्मणाग्रजः ॥ ५-२६-४०
+देवलोकमितो यातस्त्यक्त्वा देहं महीतले ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -965,6 +1759,23 @@ _________________
 लक्ष्मणनिगॆ अण्णनाद, वीरनाद रामनु नन्न विरह बाधॆयिन्द मनुष्यदेहवन्नु त्यागमाडि खण्डितवागि देवलोकक्कॆ होगिबिट्टिरबहुदु.॥40॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. lakshmaNaagrajaH* = the elder brother of LakshmaNa; *saH* = that Rama;
+*viiraaH* = who is valiant; *mama shokenaiva* = due to grief of me; *tyaktvaa* = leaving;
+*deham* = the body; *mahiitale* = on earth; *yaataH* = has gone; *itaH* = from here;
+*devalokam* = to celestial world; *nuunam* = this is certain.
+
+**अनुवादः**
+
+"That valiant Rama who is the elder brother of Lakshmana due to grief of me, leaving the body on
+earth has gone to celestial world. This is certain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृश्यमाने भवेत् प्रीतिः सौहृदं नास्त्यदृश्यतः ।  
@@ -976,8 +1787,15 @@ _________________
 दृश्यमाने भवेत् प्रीतिः सौहृदं नास्त्यदृश्यतः ।  
 नाशयन्ति कृतघ्नास्तु न रामो नाशयिष्यति ॥ ४१ ॥
 _________________
-देवलोकमितो यातस्त्यक्त्वा देहं महीतले ।  
-धन्या देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ॥
+धन्या देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।
+मम पश्यन्ति ये नाथं रामं राजीवलोचनम् ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+धन्या देवाह् सगन्धर्वाः सिद्धाश्च परमर्षयः ॥ ५-२६-४१
+मम पश्यन्ति ये नाथं रामं राजीवलोचनम्
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -990,6 +1808,23 @@ _________________
 देवलोकदल्लिरुव देवतॆगळू, गन्धर्वरू, सिद्धरू, महर्षिगळू, राजीवलोचननाद नन्न रामचन्द्रप्रभुवन्नु दर्शिसि धन्यरागुवरु.॥41॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. ye* = whoever;pashyanti = is seeing; *mama* = my; *naatham* = husband;
+*raamam* = Rama; *raajiiva lochanam* = with eyes resembling a lotus flower; *devaaH* = (such)
+Devas; *siddhaashcha* = Siddhas; *sagandhravaaH* = together with Gandharvas; *parmarshhayaH*
+= and great sages; *dhanyaaH* = are fortunate.
+
+**अनुवादः**
+
+"Whoever is seeing my husband Rama with eyes resembling a lotus flower such Devas, Siddhas together
+with Gandharvas and great sages are fortunate."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वा मय्यगुणाः केचित् किं वा भाग्यक्षयो हि मे ।  
@@ -1001,8 +1836,15 @@ _________________
 किं वा मय्यगुणाः केचित् किं वा भाग्यक्षयो हि मे ।  
 या हि सीता वरार्हेण हीना रामेण भामिनी ॥ ४२ ॥
 _________________
-मम पश्यन्ति ये नाथं रामं राजीवलोचनम् ।  
-अथवा न हि तस्यार्थो धर्मकामस्य धीमतः ॥
+अथवा न हि तस्यार्थो धर्मकामस्य धीमतः ।
+मया रामस्य राजर्षेर्भार्यया परमात्मनः ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अथवा न हि तस्यार्थो द्कर्मकामस्य धीमतः ॥ ५-२६-४२
+मया रामस्य राजर्षेर्भार्यया परमात्मनः
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1015,6 +1857,23 @@ _________________
 आ रामचन्द्रप्रभुवु धर्मैकदृष्टियुळ्ळवनु, ज्ञाननिधि. अष्टे अल्ल, अवनु राजर्षि. वस्तुतः परमात्मनु. अन्तह महानुभावनिगॆ भार्यॆयिन्द एनागबेकु?॥42॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. athavaa* = or; *tasya raamasya* = to that Rama; *dharmakaamasya*
+= with a desire in virtuousness; *dhiimataH* = who is intelligent; *raajarshheH* = sage-king;
+*paramaatmanaH* = the supreme spirit; *artham na* = there is no use; *mayaa* = with me;
+*bhaaryayaa* = his wife.
+
+**अनुवादः**
+
+"Or to that Rama with a desire in virtuousness, who is intelligent, a sage-king, the supreme spirit,
+there is no use with me, his wife."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रेयो मे जीवितान्मर्तुं विहीनाया महात्मना ।  
@@ -1026,8 +1885,15 @@ _________________
 श्रेयो मे जीवितान्मर्तुं विहीनाया महात्मना ।  
 रामादक्लिष्टचारित्राच्छूराच्छत्रुनिबर्हणात् ॥ ४३ ॥
 _________________
-मया रामस्य राजर्षेर्भार्यया परमात्मनः ।  
-दृश्यमाने भवेत् प्रीतिः सौहृदं नास्त्यपश्यतः ॥
+दृश्यमाने भवेत् प्रीतिः सौहृदं नास्त्यपश्यतः ।
+नाशयन्ति कृतघ्नास्तु न रामो नाशयिष्यति ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+दृश्यमाने भवेत्प्रीतिः सौहृदं नास्त्यपश्यतः ॥ ५-२६-४३
+नाशयन्ति कृतघ्नास्तु न रामो नाशयिष्यति
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1040,6 +1906,23 @@ _________________
 सामान्यवागि लोकदल्लि जनरिगॆ कण्णॆदुरिगॆ इद्दरेने प्रेम, सौहार्दवु उळियुवुदु. अवरु काणदिद्दरॆ अवर मेलिन प्रेमवु मुगिदुहोगुत्तदॆ. इदु कृतघ्नर लक्षणवु. आदरॆ श्रीरामनु कृतज्ञनु. आदुदरिन्द आ स्वामियु नन्नन्नु मरॆयतक्कवनल्ल.॥43॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*43. priitiH bhavet* = friendly disposition will occur; *dR^ishyamaane* = in
+what is being seen; *naasti* = there is no; *sauhR^idam* = friendship; *apashyataH* = to
+one who does not see; *kR^itaghnaaH* = ungreatful ones; *naashayanti* = destroy (friendship);
+*raamaH tu* = but Rama; *na naashayishhyati* = will not destroy friendship.
+
+**अनुवादः**
+
+"Friendly disposition will occur in what is being seen. There is no friendship to one who does
+not see. Ungrateful ones destroy frindship. But Rama will not destroy friendship."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा न्यस्तशस्त्रौ तौ वने मूलफलाशनौ ।  
@@ -1051,8 +1934,15 @@ _________________
 अथवा न्यस्तशस्त्रौ तौ वने मूलफलाशनौ ।  
 भ्रातरौ हि नरश्रेष्ठौ चरन्तौ वनगोचरौ ॥ ४४ ॥
 _________________
-नाशयन्ति कृतघ्नास्तु न रामो नाशयिष्यति ।  
-किं नु मे न गुणाः केचित् किं वा भाग्यक्षयो मम ॥
+किं नु मे न गुणाः केचित् किं वा भाग्यक्षयो मम ।
+याहं सीदामि रामेण हीना मुख्येन भामिनी ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+किं नु मे न गुणाः केचित्किं वा भाग्यक्षयो मम ॥ ५-२६-४४
+याहं सीदामि रामेण हीना मुख्येन
+भामिनी ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1065,6 +1955,23 @@ _________________
 जगन्नाथनाद श्रीरामनिगॆ पत्नियागिद्दरू नानु ई दुरवस्थॆगॆ गुरियागलु कारणवेनु? नन्नल्लि याव सद्गुणगळू इल्लवे? अथवा नन्न सौभाग्यवॆल्लवू नाशवागि होयिते?॥44॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*44. aham* = I; *yaa* = who; *bhaaminii* = is a woman; *siidaami*
+= (who is) perishing; *mukhyena raameNa vinaa* = without the chief Rama; *me* = to (such) me;
+*na kiM nu* = are there no; *kechit guNaaH* = good qualities; *kiM vaa* = or; *mama*
+= (has) my; *bhaagyakshayaH* = fortune diminished.
+
+**अनुवादः**
+
+"I who is a woman who is perishing without the chief Rama to such me are there no good qualities
+or has my fortune diminished."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा राक्षसेन्द्रेण रावणेन दुरात्मना ।  
@@ -1076,8 +1983,15 @@ _________________
 अथवा राक्षसेन्द्रेण रावणेन दुरात्मना ।  
 छद्मना घातितौ शूरौ भ्रातरौ रामलक्ष्मणौ ॥ ४५ ॥
 _________________
-याहं सीदामि रामेण हीना मुख्येन भामिनी ।  
-श्रेयो मे जीवितान्मर्तुं विहीनाया महात्मनः ॥
+श्रेयो मे जीवितान्मर्तुं विहीनाया महात्मनः ।
+रामादक्लिष्टचारित्राच्छूराच्छत्रुनिबर्हणात् ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+श्र्यो हि हीवितान्मर्तुं विहीनाया महात्मनः ॥ ५-२६-४५
+रामादक्लिष्टचारित्राच्छूराच्छत्रुनिबर्हणात्
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1090,6 +2004,23 @@ _________________
 नन्न रामनु उदात्त चरितनु, शत्रुगळन्नु निर्मूलनगॊळिसुवल्लि एकैक वीरनु. महात्मनाद नन्न प्रभुविगॆ दूरवागिद्दु जीविसिरुवुदक्किन्त ई तनुवन्नु त्यजिसुवुदे मेलु.॥45॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. vihiinaayaaH* = deprived; *raamaat* = from Rama; *aklishhTa chaaritraat*
+= with untroubled reputation; *shuuraat* = a warrior; *shatrunibarhaNaat* = annihilator of enemies;
+*mahaatmanaH* = a great soul; *me* = to (such) me; *jiivitaat* = more than living; *martuH*
+= death; *shreyaH* = is good.
+
+**अनुवादः**
+
+"To me who is deprived of Rama with untroubled reputation, a warrior, annihilator of enemies, a
+great soul, more than living, death is good."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहमेवंविधे काले मर्तुमिच्छामि सर्वतः ।  
@@ -1101,8 +2032,15 @@ _________________
 साहमेवंविधे काले मर्तुमिच्छामि सर्वतः ।  
 न च मे विहितो मृत्युरस्मिन् दुःखेऽतिवर्तति ॥ ४६ ॥
 _________________
-रामादक्लिष्टचारित्राच्छूराच्छत्रुनिबर्हणात् ।  
-अथवा न्यस्तशस्त्रौ तौ वने मूलफलाशिनौ ॥
+अथवा न्यस्तशस्त्रौ तौ वने मूलफलाशिनौ ।
+भ्रातरौ हि नरश्रेष्ठौ संवृत्तौ वनगोचरौ ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अथवा न्यस्तशस्त्रौ तौ वने मूलफलाशिनौ ॥ ५-२६-४६
+भ्रातरौ हि नरश्रेष्ठौ संवृत्तौ वनगोचरौ
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1115,6 +2053,23 @@ _________________
 अथवा महापुरुषराद सोदररीर्वरू, अस्त्र-शस्त्रगळन्नु बदिगिरिसि, वनदल्लि कन्द-मूलगळन्नु तिन्नुत्ता मुनिवृत्तियन्नु अवलम्बिसिरुवरो एनो?॥46॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*46. athavaa* = or; *tau bhraatarau* = those two brothers; *narashresThau*
+= best among men; *nyasta shastrau* = giving up weapons; *vane* = in the forest; *saMvR^ittau*
+= (may have) become; *vanagocharau* = dwellers of forest; *muulaphalaashanau* = eating roots and
+fruits.
+
+**अनुवादः**
+
+"Or those two brothers who are best among men giving up weapons in the forest may have become dwellers
+of forest eating roots and fruits."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्याः खलु महात्मानो मुनयः सत्यसम्मताः ।  
@@ -1126,8 +2081,14 @@ _________________
 धन्याः खलु महात्मानो मुनयः सत्यसम्मताः ।  
 जितात्मानो महाभागा येषां न स्तः प्रियाप्रिये ॥ ४७ ॥
 _________________
-भ्रातरौ हि नरश्रेष्ठौ संवृत्तौ वनगोचरौ ।  
-अथवा राक्षसेन्द्रेण रावणेन दुरात्मना ॥
+अथवा राक्षसेन्द्रेण रावणेन दुरात्मना ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अथवा राक्षसेन्द्रेण रावणेन दुरात्मना ॥ ५-२६-४७
+चद्मना घातितौ शूरौ भ्रातरौ रामलक्ष्मणौ
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1138,6 +2099,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शूररू, सोदररू, आद आ राम-लक्ष्मणरन्नु दुर्मार्गियाद राक्षसराजनाद रावणनु कपटोपायदिन्द संहरिसिबिट्टिरबहुदे? (‘‘अति प्रेमःपापशङ्कि’’ अल्लवे?)॥47॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*47. athavaa* = or; *raamalakshmaNau* = Rama and Lakshmana; *shuurau bhraatarau*
+= the warrior brothers;ghaatitau = (may have been) killed; *duraatmanaa* = by the evil soul; *raakshsendreNa
+raavaNena* = by king of ogres Ravana; *chadmanaa* = by deceit;
+
+**अनुवादः**
+
+"Or Rama and Lakshmana the warrior brothers may have been killed by the evil soul king of ogres
+Ravana by deceit."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1153,6 +2130,14 @@ _________________
 _________________
 छद्मना सादितौ शूरौ भ्रातरौ रामलक्ष्मणौ ।  
 साहमेवं गते काले मर्तुमिच्छामि सर्वथा ॥
+न च मे विहितो मृत्युरस्मिन् दुःखेऽपि वर्तति ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+साहमेवंगते काले मर्तुमिच्छामि सर्वथा ॥ ५-२६-४८
+न च मे विहितो मृत्युरस्मिन् दुःखेऽपि वर्तते
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1163,6 +2148,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्यन्त दुर्भाग्यळागिरुव ननगॆ इन्तह आपत्कालदल्लि सर्वथा सायुव इच्छॆये उण्टागुत्तदॆ. आदरॆ इन्तह दुःखद समयदल्लियू ननगॆ मरणवु बरुवुदिल्लवल्ल?॥48॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*48. evam gate* = under such circumstances; *kaale* = (and time); *saa*
+= such; *aham* = I; *sarvathaa* = in all ways; *ichchhaami* = am desiring; *martum*
+= to die; *asmin dukhaH api* = even in this grief; *mR^ityuH* = death; *vihitaH na vartate*
+= is not bestowed (on me).
+
+**अनुवादः**
+
+"Under such circumstances and time, such I in all ways am desiring to die. Even in this grief,
+death is not bestowed on me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1176,8 +2178,14 @@ _________________
 साहं त्यक्ता प्रियेणैव रामेण विदितात्मना ।  
 प्राणांस्त्यक्ष्यामि पापस्य रावणस्य गता वशम् ॥ ४९ ॥
 _________________
-न च मे विहितो मृत्युरस्मिन् दुःखेऽपि वर्तति ।  
-धन्याः खलु महात्मानो मुनयस्त्यक्त किल्बिषाः ॥
+धन्याः खलु महात्मानो मुनयस्त्यक्त किल्बिषाः ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+धन्याः खलु महात्मानो मुनयस्त्यक्तकिल्बिषाः ॥ ५-२६-४९
+जितात्मनो महाभागा येषां न स्तः प्रियाप्रिये
+।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1188,6 +2196,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनीश्वररू, पुण्यपुरुषरू, जितेन्द्रियरू, महानुभावरू, आद महात्मरू निजवागि धन्यरु. अवरिगॆ ‘‘इदु प्रियवु, इदु अप्रियवु’’ ऎन्नुव ध्यासवे इरुवुदिल्ल.*॥49॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*49. mahaatmanaH* = great souled ones; *tyakta kilbishhaaH* = with abandoned
+sins; *jittatmanaH* = with a conquered mind; *mahaabhaagaaH* = those with great fortune; *munayaH*
+= sages; *dhanyaaH khalu* = are indeed fortunate; *yeshhaam* = to whom; *na staH* = there
+is no; *priyaapriye* = pleasure or displeasure.
+
+**अनुवादः**
+
+"Great souled ones with abandoned sins, with a conquered mind, those with great fortune, sages
+are indeed fortunate to whom there is no pleasure and displeasure."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

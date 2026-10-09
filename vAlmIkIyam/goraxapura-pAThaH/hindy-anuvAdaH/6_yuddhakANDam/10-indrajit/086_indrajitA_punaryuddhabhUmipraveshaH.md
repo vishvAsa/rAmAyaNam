@@ -2,6 +2,19 @@
 title = "०८६ इन्द्रजिता पुनर्युद्धभूमिप्रवेशः"
 title_english = "086 Indrajit enters the battle filed again"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+On the advice of Vibhishana, Lakshmana releases a multiple of arrows towards
+Indrajit. A fight ensues between bears monkeys and demons. Hearing the terrible noise of the
+battle, Indrajit discontinues his sacrificial rite and enters the battle-field. Hanuma with trees
+as weapons, plays havoc among the demons and challenges Indrajit to a duel. Lakshmana catches sight
+of Indrajit, coming in his chariot.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-086-Indrajit_enters_the_battle-filed_again_0.mp3"></div>
 </details>
@@ -33,6 +46,23 @@ title_english = "086 Indrajit enters the battle filed again"
 आ समयदल्लि विभीषणनु शत्रुगळिगॆ अहितकरवाद हागू लक्ष्मणन अर्थसिद्धिगॆ कारणवाद मातन्नु हेळिदनु.॥1॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. tasyaam avasthaayaam* = In that situation; *raavaNaanujaH* =
+Vibhishana; *atha* = then; *abraviit* = spoke; *vaakyam* = (the following)
+words; *ahitam* = which were hostile; *pareShaam* = to the enemies; *artha
+saadhakam* = and which promoted an advantage (to Lakshmana).
+
+**अनुवादः**
+
+In that situation, Vibhishana then spoke the following words, which were hostile to
+the enemies and advantageous to Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदेतद् राक्षसानीकं मेघश्यामं विलोक्यते ।  
@@ -49,6 +79,14 @@ title_english = "086 Indrajit enters the battle filed again"
 राक्षसेन्द्रसुतोऽप्यत्र भिन्ने दृश्यो भविष्यति ॥ ३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+यदेतद्राक्षसानीकं मेघश्यामं विलोक्यते ।
+एतदायोध्यतां शीग्रम्ं कपिभिश्च शिलायुधैः ॥ ६-८६-२
+अस्यानीकस्य महतो भेदने यतलक्ष्मण ।
+राक्षसेन्द्रसुतोऽप्यत्र भिन्ने दृश्यो भविष्यति ॥ ६-८६-३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे बोले—‘लक्ष्मण! यह सामने जो मेघोंकी काली घटाके समान राक्षसोंकी सेना दिखायी देती है, उसके साथ शिलारूपी आयुध धारण करनेवाले वानरवीर शीघ्र ही युद्ध छेड़ दें और आप भी इस विशाल वाहिनीके व्यूहका भेदन करनेका प्रयत्न करें । इसका मोर्चा टूटनेपर राक्षसराजका पुत्र इन्द्रजित् भी हमें यहीं दिखायी देगा ॥
@@ -57,6 +95,23 @@ title_english = "086 Indrajit enters the battle filed again"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! कप्पाद मोडगळन्तॆ ऎदुरिगॆ काणुव राक्षसर सैन्यदॊन्दिगॆ शिलारूपी आयुध धरिसिद वानरवीररु शीघ्रवागि युद्ध माडलि मत्तु नीनू ई विशालवाहिनिय व्यॆहवन्नु भेदिसुव प्रयत्नमाडु. अदन्नु भेदिसिदागले इन्द्रजितु नमगॆ काणिसुवनु.॥2-3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. yat yetat raakShasaaniikam* = = Let this army of demons;
+*vilokyate* = which is seen here; *meghashyaamam* = dark as a cloud; *shiighram
+etat aayodhyataam* = be quickly engaged in this battle; *kapibhiH* = by the monkeys;
+*shilaayudhaiH* = using rocks as their weapons.
+
+**अनुवादः**
+
+"Let this army of demons which is seen here, dark as a cloud, be quickly engaged in
+battle, by the monkeys using rocks as thier weapons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -81,6 +136,25 @@ title_english = "086 Indrajit enters the battle filed again"
 आद्दरिन्द नीनु ई होमकार्य मुगियुव मॊदले वज्रदन्तह बाणगळ मळॆयन्नु सुरिसुत्ता शत्रुगळ मेलॆ आक्रमण माडु.॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. saH tvam* = you as such; *abhidrava vai* = rush forward;
+*aashu* = quickly; *avakiran* = gushing out; *sharaiH* = arrows;
+*indraashaniprakhyaiH* = equal to Indra's thunderbolt; *paraan* = on the enemies;
+*etat* = so long as; *etat* = this; *karma* = sacrificial act; *na
+samaapyate* = is not carried through.
+
+**अनुवादः**
+
+"You as such, rush forward quickly, gushing out arrows, equal to Indra's
+thunderbolt, on the enemies, so long as this sacrificial act of Indrajit is not actually carried
+through."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जहि वीर दुरात्मानं मायापरमधार्मिकम् ।  
@@ -103,6 +177,24 @@ title_english = "086 Indrajit enters the battle filed again"
 वीरने! ई दुरात्म रावणकुमारनु भारी मायावियू, अधर्मियू, क्रूरकर्म माडुववनू, सर्व लोकगळिगॆ भयङ्करनू आगिद्दानॆ. आद्दरिन्द इवनन्नु वधिसु.॥5॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. viira* = O hero!; *jahi* = kill; *raavaNim* =
+Indrajit; *duraatmanam* = the evil-minded; *maayaaparam* = who is interested in doing
+conjuring tricks; *adharmikam* = who is unjust; *kruura karmaaNam* = engaged in cruel
+acts; *sarvaloka bhayaavaham* = and who brings fear to all the worlds.
+
+**अनुवादः**
+
+"O hero! Make a short work of Indrajit, the evil minded, who is interested in
+performing conjuring tricks, who is unjust, engaged in cruel acts and who brings fear to all the
+worlds."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा लक्ष्मणः शुभलक्षणः ।  
@@ -113,6 +205,12 @@ title_english = "086 Indrajit enters the battle filed again"
 
 विभीषणवचः श्रुत्वा लक्ष्मणः शुभलक्षणः ।  
 ववर्ष शरवर्षेण राक्षसेन्द्रसुतं प्रति ॥ ६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+विभीषणवचः श्रुत्वा लक्ष्मणः शुभलक्षणः ।
+ववर्ष शरवर्षाणि राक्षसेन्द्रसुतं प्रति ॥ ६-८६-६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -125,6 +223,23 @@ title_english = "086 Indrajit enters the battle filed again"
 विभीषणन मातन्नु केळि शुभलक्ष सम्पन्न लक्ष्मणनु राक्षसराजन पुत्रनन्नु गुरियिट्टु बाणगळ वर्षवन्नु प्रारम्भिसिदनु.॥6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. shrutvaa* = hearing; *vibhiiShaNa vachaH* = the words of
+Vibhishana; *lakShmaNaH* = Lakshmana; *shubhalakShaNaH* = having auspicious marks;
+*vavarSha* = showered frth; *sharavarShaaNi* = streams of arrows;
+*raakShasendrasutam prati* = towards Indrajit.
+
+**अनुवादः**
+
+Hearing the words of Vibhishana, Lakshmana, having auspicious marks, showered forth
+streams of arrows in the direction of Indrajit.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाः शाखामृगाश्चैव द्रुमप्रवरयोधिनः ।  
@@ -137,6 +252,12 @@ title_english = "086 Indrajit enters the battle filed again"
 अभ्यधावन्त सहितास्तदनीकमवस्थितम् ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ऋक्षाः शाखामृगाश्चैव द्रुमाद्रिवरयोधिनः ।
+अभ्यधावन्त सहितास्तदनीकमवस्थितम् ॥ ६-८६-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 साथ ही बड़े-बड़े वृक्ष लेकर युद्ध करनेवाले वानर और भालू भी वहाँ खड़ी हुई राक्षस-सेनापर एक साथ ही टूट पड़े ॥ ७ ॥
@@ -145,6 +266,23 @@ title_english = "086 Indrajit enters the battle filed again"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जॊतॆगॆ दॊड्ड दॊड्ड वृक्षवन्नॆत्तिकॊण्ड वानररू हागू करडिगळू अल्लि निन्तिरुव राक्षस सैन्यद मेलॆ ऒट्टिगॆ आक्रमिसिदरु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. R^ikShaaH* = bears; *shaakhaamR^igaishchaiva* = and monkeys;
+*druma pravara yodhinaH* = who fight with gigantic trees; *abhyadhaavanta* = rushed
+towards; *tat aaniikam* = that army (of demons); *avasthitam* = who were drawn up in
+battle-array; *sahitaaH* = together.
+
+**अनुवादः**
+
+Bears and monkeys, who fight was gigantic trees, rushed towards that army of demons,
+drawn up in battle-array.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,6 +300,12 @@ _________________
 अभ्यर्वतन्त समरे कपिसैन्यजिघांसवः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+राक्षसाश्च शितैर्बाणैरसिभिः शक्तितोमरैः ।
+अभ्यवर्तन्त समवरे कपिसैन्यजिघांसवः ॥ ६-८६-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उधरसे राक्षस भी वानरसेनाको नष्ट करनेकी इच्छासे समराङ्गणमें तीखे बाणों, तलवारों, शक्तियों और तोमरोंका प्रहार करते हुए उनका सामना करने लगे ॥ ८ ॥
@@ -170,6 +314,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्तकडॆयिन्द राक्षसरू वानर सैन्यवन्नु नाशमाडुव इच्छॆयिन्द युद्धदल्लि हरितवाद बाणगळिन्द, खड्गगळिन्द, शक्ति-तोमरगळिन्द प्रहार माडुत्ता ऎदुरिसुत्तिद्दरु.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. raakShasaaH cha* = Demons also; *kapisainya jighaamsavaH* =
+with an intent to kill the monkeys; *samare* = in battle; *abhyavartanta* = attacked;
+*shitaiH baaNaiH* = with sharp arrows; *asibhiH* = swords; *shaktitomaraiH* =
+spears and javelins.
+
+**अनुवादः**
+
+The demons too, with an intent to kill the monkeys in battle, attacked them with
+sharp arrows, sowrds, spears and javelins.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +355,23 @@ _________________
 हीगॆ वानररिगू, राक्षसरिगू, घनघोर सङ्ग्राम नडॆयतॊडगितु. अदर महा कोलाहलवु इडी लङ्कॆय ऎल्लॆडॆ प्रतिध्वनिसितु.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. mahataa shabdena* = with a great uproar; *saH* = that;
+*tumulaH* = tumultuous; *samprahaaraH* = battle; *samjaJNe* = occured;
+*kapiraakShasaam* = between the monkeys and the demons; *naadayantvai* =
+reverberating; *laN^kaam* = Lanka; *samantataH* = on all sides.
+
+**अनुवादः**
+
+That tumultuous battle between the monkeys and the demons rendered Lanka noisy on
+all sides with its great uproar.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शस्त्रैश्च विविधाकारैः शितैर्बाणैश्च पादपैः ।  
@@ -209,6 +387,12 @@ _________________
 उद्यतैर्गिरिशृङ्गैश्च घोरैराकाशमावृतम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शस्त्रैर्बहुविधाकारैः शितैर्बाणैश्च पादपैः ।
+उद्यतैर्गिरिशृङ्गैश्च घोरैराकाशमावृतम् ॥ ६-८६-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 नाना प्रकारके शस्त्रों, पैने बाणों, उठे हुए वृक्षों और भयानक पर्वत-शिखरोंसे वहाँका आकाश आच्छादित हो गया ॥ १० ॥
@@ -217,6 +401,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना प्रकारद शस्त्रगळिन्द, हरितवाद बाणगळिन्द, ऎसॆदिरुव वृक्षगळिन्द, भयानक पर्वतगळिन्द अल्लिय आकाश तुम्बिहोयितु.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. aakaasham* = the sky; *aavR^itam* = was covered;
+*shastraiH* = with weapons; *vividhaakaaraiH* = of various shapes; *shitaiH
+baaNaishcha* = with sharp arrows; *paadapaiH* = with trees; *ghoraiH udyataiH
+girishR^ingaishcha* = and with tossed mountain-tops.
+
+**अनुवादः**
+
+The sky was covered with weapons of various shapes, sharp arrows, trees and tossed
+mountain tops.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +435,12 @@ _________________
 निवेशयन्तः शस्त्राणि चक्रुस्ते सुमहद्भयम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ते राक्षसा वानरेषु विकृताननबाहवः ।
+निवेशयन्तः शस्त्राणि चक्रुस्ते सुमहद्भयम् ॥ ६-८६-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 विकट मुँह और बाँहोंवाले राक्षसोंने वानर-यूथपतियोंपर (नाना प्रकारके) शस्त्रोंका प्रहार करते हुए उनके लिये महान् भय उपस्थित कर दिया ॥ ११ ॥
@@ -242,6 +449,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विकटमुख-बाहुगळुळ्ळ राक्षसरु वानर यूथपतिगळ मेलॆ नाना रीतिय शस्त्रगळन्नु प्रहरिसुत्ता अवरिगॆ महा भयवन्नु तन्दॊड्डितु.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. te raakShasaaH* = those demons; *vikR^itaanana baahavaH* =
+of ugly faces and arms; *niveshayantaH* = hurling; *shastraaNi* = weapons;
+*vaanareShu* = on monkeys; *chakruH sumahat bhayam* = created a great fear.
+
+**अनुवादः**
+
+Those demons of ugly faces and arms, hurling weapons on the monkeys, created a great
+fear.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +479,12 @@ _________________
 अभिजघ्नुर्निजघ्नुश्च समरे सर्वराक्षसान् ॥ १२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तथैव सकलैर्वृक्षैर्गिरिशृङ्गैश्च वानराः ।
+अभिजघ्नुर्निजघ्नुश्च समरे राक्षसर्षभान् ॥ ६-८६-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसी प्रकार वानर भी समराङ्गणमें सम्पूर्ण वृक्षों और पर्वतशिखरोंद्वारा समस्त राक्षसोंको मारने एवं हताहत करने लगे ॥ १२ ॥
@@ -264,6 +493,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हागॆये वानररू समराङ्गणदल्लि वृक्षगळिन्द मत्तु पर्वत शिखरगळिन्द समस्त राक्षसरन्नु कॊल्ल तॊडगिदरु.॥12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. vaanaraashcha tathaiva* = even monkeys too; *abhijaghnuH* =
+struck; *jaghnuH* = and killed; *sarva raakShasaan* = all the demons; *samare*
+= in the battle; *sakalaiH* = with all types; *vR^ikShaiH* = trees;
+*girishR^iNgaishcha* = and mountain-peaks.
+
+**अनुवादः**
+
+Even the monkeys too struck and killed all the demons in the battle, with various
+types of trees and mountain-peaks.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +537,23 @@ _________________
 मुख्य मुख्य महाकाय महाबलि करडिगळु मत्तु वानररु कादाडुत्ति रुवाग राक्षसरिगॆ महाभय आवरिसितु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. mahat* = a great; *bhayam* = fear; *ajaayata* =
+developed; *rakShasaam* = among the demons; *yudhyamaanaanaam* = who were fighting;
+*mahaabalaiH* = with mighty; *R^ikSha vaanara mukhyaiH* = leaders of bears and
+monkeys; *mahaakaayaiH* = possessing collosal bodies.
+
+**अनुवादः**
+
+A great fear developed among the demons who were fighting with mighty leaders of
+bears and monkeys endowed with colossal bodies.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वमनीकं विषण्णं तु श्रुत्वा शत्रुभिरर्दितम् ।  
@@ -301,6 +564,12 @@ _________________
 
 स्वमनीकं विषण्णं तु श्रुत्वा शत्रुभिरर्दितम् ।  
 उदतिष्ठत दुर्धर्षः स कर्मण्यननुष्ठिते ॥ १४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स्वमनीकं विषण्णं तु श्रुत्वा शत्रुभिरर्दितम् ।
+उदतिष्ठत दुर्धर्षस्तत्कर्मण्यननुष्ठिते ॥ ६-८६-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -313,6 +582,23 @@ _________________
 इन्द्रजितु भारी दुर्धर्षवीरनागिद्दनु. तन्न सैन्यवु शत्रुगळिन्द पीडितवागि दुःखितवागिरुवुदन्नु केळिदाग अवनु अनुष्ठान मुगियुव मॊदले अवनु युद्धक्कागि ऎद्दु निन्तनु.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. shrutvaa* = hearing; *svam aniikam* = that his own army;
+*arditam* = tormented; *shatrubhiH* = by the enemies; *viShaNNam* = was
+dejected; *saH durdharShaH* = that unconquerable Indrajit; *udatiShThata* = left off;
+*ananuShThite* = without performing; *karmaNi* = the sacrificial rite.
+
+**अनुवादः**
+
+Hearing that his own army being tormented by the enemies, was dejected; that
+unconquerable Indrajit left off, without performing the sacrificial rite.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षान्धकारान्निर्गत्य जातक्रोधः स रावणिः ।  
@@ -323,6 +609,12 @@ _________________
 
 वृक्षान्धकारान्निर्गत्य जातक्रोधः स रावणिः ।  
 आरुरोह रथं सज्जं पूर्वयुक्तं सुसंयतम् ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+वृक्षान्धकारान्निष्क्रम्य जातक्रोधः स रावणिः ।
+आरुरोह रथं सज्जं पूर्वयुक्तं स राक्षसः ॥ ६-८६-१५
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -335,6 +627,23 @@ _________________
 आग अवनु अत्यन्त क्रोधगॊण्डिद्दनु. अवनु वृक्षगळ अन्धकारदिन्द हॊरबन्दु ऒन्दु सुसज्जित मॊदले सिद्धपडिसिद्द, बहळ सुदृढवाद रथारूढनादनु.॥15॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. saH* = that; *jaatakrodhaH* = enraged; *raavaNiH* =
+Indrajit; *nirgamya* = coming out; *vR^ikShaandhakaraat* = from the gloominess of the
+trees; *aaruroha* = ascended; *ratham* = his chariot; *sajjam* = kept ready;
+*susamyatam* = and well-fastened; *puurvayuktam* = with horss; before hand.
+
+**अनुवादः**
+
+That enraged Indrajit, coming out from the gloominess of the trees, ascended his
+firmly yoked chariot which had already been united
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भीमकार्मुकशरः कृष्णाञ्जनचयोपमः ।  
@@ -347,6 +656,12 @@ _________________
 रक्तास्यनयनो भीमो बभौ मृत्युरिवान्तकः ॥ १६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स भीमकार्मुकशरः कृष्णाञ्जनचयोपमः ।
+रक्तास्यनयनः क्रूरो बभौ मृत्युरिवान्तकः ॥ ६-८६-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रजित् के हाथमें भयंकर धनुष और बाण थे । वह काले कोयलेके ढेर-सा जान पड़ता था । उसके मुँह और नेत्र लाल थे । वह भयंकर राक्षस विनाशकारी मृत्युके समान प्रतीत होता था ॥ १६ ॥
@@ -355,6 +670,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कैयल्लि भयङ्कर धनुस्सन्नु धरिसिद इन्द्रजितु काडिगॆय बॆट्टदन्तॆ कण्डुबरुत्तिद्दनु. आ भयङ्कर राक्षसन कण्णु-मुख कॆम्पागिद्दु, विनाशकारी मृत्यु विनन्तॆ कण्डुबरुत्तिद्दनु.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. saH bhiimaH* = that awful Indrajit; *bhiima kaarmuka
+sharaH* = armed with terrific bow and arrows; *kR^iShNaaN^jana chayopamaH* = equal to a
+mass of black collyrium; *raktaasyanayanaH* = with his blood-red eyes; *babhau* =
+shone; *antakaH mR^ityuriva* = like the destructive Death.
+
+**अनुवादः**
+
+That awful Indrajit, armed with terrific bow and arrows, looking like a mass of
+black collyrium with his blood-red eyes, appeared like the destructive Death.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,6 +709,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रजितनु रथदल्लि कुळितिरुवनॆन्दु नोडुत्तले लक्ष्मणनॊन्दिगॆ युद्धद इच्छॆयुळ्ळ भयङ्कर वेगशालि राक्षसर सैन्यवु अवन सुत्तलू बन्दु निन्तुकॊण्डितु.॥17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. dR^iShTvaiva* = just on seeing; *tam* = him;
+*rathastham* = being on a chariot; *tat balam* = that army; *rakShasaam* = of
+demons; *bhiima vegaanaam* = with a terrific speed; *paryavartata* = turned back;
+*lakShmaNena yuyutsataam* = wishing to fight with Lakshmana.
+
+**अनुवादः**
+
+Just on seeing Indrajit being on a chariot, that army of demons with a terrific
+speed, turned back, wishing to fight with Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +772,29 @@ _________________
 मत्तॆ आ वानर वीरनु प्रळयाग्नियन्तॆ प्रज्वलितनागि, रणरङ्गदल्लि राक्षसर आ सैन्यवन्नु दग्धगॊळिसुत्ता असङ्ख्य वृक्षगळ हॊडॆतदिन्द निश्चेष्टितगॊळिसिदनु.॥19॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+18; *19. tasmin kaale* = At that time; *hanumaan* = Hanuma;
+*arimdamaH* = the destroyer of enemies = dharaNiidhara samkaashaH = looking like a mountain;
+*udyamya* = uplifting; *suduraasadam* = an absolutely unparalleled;
+*mahaavR^ikSham* = large tree; *nirdahan* = consuming; *tat* = taht;
+*sainyam* = army; *raakShasaanaam* = of demon; *kaalaagniriva* = like the fire
+at the time of dissolution of the world; *saH vaanaraH* = and that aforesaid monkey
+(Hanuma); *chakaara niHsamJNam* = made unconscious (the army); *bahubhiH vR^ikShaiH*
+= with many trees; *yudhi* = in the battle.
+
+**अनुवादः**
+
+At that time, Hanuma the destroyer of enemies looking like a mountain, uplifted an
+absolutely unpaalleled large tree. Consuming that army of demons, as a fire at the time of
+universal dissolution, the aforesaid monkey made that army unconscious on the battle field, with
+many trees.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विध्वंसयन्तं तरसा दृष्ट्वैव पवनात्मजम् ।  
@@ -443,6 +815,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पवन कुमारनु वेगवागि राक्षस सैन्यवन्नु विध्वंसगॊळिसुत्तिरुवुदन्नु नोडुत्तले साविरारु राक्षसरु अवन मेलॆ अस्त्र-शस्त्रगळन्नु मळॆगरॆदरु.॥20॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. dR^iShTvaiva* = immediately on seeing; *pavanaatmajam* =
+Hanuma; *vidhvamsayantam* = destroying; *tavasaa* = (their army) rapidly;
+*sahasraaNi* = thousands; *raakShasaanaam* = of demons; *avaakiran* = hurled
+weapons.
+
+**अनुवादः**
+
+Immediately on seeing Hanuma destroying thier army rapidly, thousands of demons
+hurled weapons on him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +889,39 @@ _________________
 अनेक परिघगळिन्द, गदॆगळिन्द, भल्लॆगळिन्द, नूरारु शतघ्निगळिन्द लोह मुद्गरगळिन्द भयानक गण्डुकॊडलिगळिन्द, भिन्दिपालगळिन्द, वज्रसदृश मुष्टिगळिन्द, सिडिलिनन्तह अङ्गै एटुगळिन्द समस्त राक्षसरु हत्तिर बन्दु सुत्तलिनिन्द पर्वताकार हनुमन्तन मेलॆ प्रहार माडतॊडगिदरु. मारुतियु कुपितनागि अवरॆल्लरन्नु संहरिसिबिट्टनु.॥22-24॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+21; 22; 23; *24. samaasaadya* = approaching; *parvatopamam* =
+Hanuma looking like a mountain; *raakShasaaH shta shuuladharaaH* = demons bearing pointed
+pikes; *abhiaghnuH* = struck him; *samantataat* = from all sides; *shuulaaH* =
+with pikes; *asi paaNayaH* = those = carrying swords in hands; *asibhiH cha* = with
+swords; *shaktihastaaH* = those carrying javelins in their hands; *shaktiibhiH cha* =
+with javelin; *parighaishcha gadaabhishcha* = with iron rods and maces;
+*paTTishaayudhaaH* = those armed with sharp-edged spears; *paTTishaiH* = with spears;
+*shubhadarshanaiH* = with bright-looking; *kuntaiH cha* = spears; *shatashaH*
+= with hundreds; *shataghniibhiH* = of cylindrical pieces of wood studded with iron spikes;
+*aayasaiH mudgarairapi* = with steel hammers; *gharaiH parashubhishchaiva* = with
+awful axes; *bhindi paalaishcha* = with slings for throwing stones; *vajrakalpaiH
+muShTibhiH* = with their thunderbolt-like fists; *talaiH* = and slaps; *ashani
+samnibhaiH* = which fell like flashes of lightning; *samkruddhaH* = the enraged Hanuma;
+*chakaara* = made; *mahat kadanam* = a colossal destruction; *teShaam* = of
+those demons.
+
+**अनुवादः**
+
+Approaching Hanuma looking like a mountain, the demons bearing pointed pikes struck
+him from all sides with pkes, those carrying swords in their hands with swords, those carring
+javelins in their hands with jalins, with iron rods with maces; those armed with sharp-edged spears
+with spears, as also with bright-looking spears, with hundreds of cylindrical wooden pieces studded
+with iron spikes, with steel hammers, ,with awful axes, with slings for the rwing stones, with
+their thunderbolt-like fists and slaps which fell like flashes of lighning. Then, the enraged
+Hanuma made a colossal destruction of those demons.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श कपिश्रेष्ठमचलोपममिन्द्रजित् ।  
@@ -512,6 +934,12 @@ _________________
 सूदमानमसन्त्रस्तममित्रान् पवनात्मजम् ॥ २५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स ददर्श कपिश्रेष्ठमचलोपममिन्द्रजित् ।
+सूदयानममित्रघ्नममित्रान्पवनात्मजम् ॥ ६-८६-२५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रजित् ने देखा, कपिवर पवनकुमार हनुमान् पर्वतके समान अचल हो निःशङ्कभावसे अपने शत्रुओंका संहार कर रहे हैं ॥ २५ ॥
@@ -520,6 +948,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कपिवर पवनकुमार हनुमन्तनु पर्वतदन्तॆ अचलनागि निःशङ्कभावदिन्द तन्न शत्रु गळन्नु संहरिसुवुदन्नु इन्द्रजितु नोडिदनु.॥25॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. saH indrajit* = that Indrajit; *dadarsha* = saw;
+*pavanaatmajam* = that Hanuma; *kapishreShTham* = the foremost of monkeys;
+*achalopamam* = looking like a mountain; *asantrastam* = not at all fearing;
+*suudamaanam* = and killing; *amitraan* = the enemies.
+
+**अनुवादः**
+
+That Indrajit saw Hanuma, the foremost of monkeys, looking like a mountain,
+fearlessly killing his enemies.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -544,6 +989,24 @@ _________________
 आग तन्न सारथियल्लि ई वानरनु युद्ध माडुवल्लिगॆ नडॆ, ऎन्दु हेळिदनु. इवनन्नु उपेक्षॆमाडिदरॆ इवनु नम्मॆल्ल राक्षसर विनाशमाडिबिडुवनु.॥26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. saH* = He; *uvaacha* = spoke; *idam* = the following
+words; *saarathim* = to his charioterr; *yaahi* = proceed; *yatra* = where;
+*eShaH* = this; *vaanaraH* = monkey (is); *upekShataH* = if he is neglected;
+*kuryaadeva hi* = he will indeed do; *kShayam* = the destruction; *naH
+raakShasaam* = of our demons.
+
+**अनुवादः**
+
+He spoke the following words tohis charioteer: "Take the chariot to the place where
+that monkey is standing. If we neglect him, he will surely destroy our demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः सारथिस्तेन ययौ यत्र स मारुतिः ।  
@@ -566,6 +1029,24 @@ _________________
 हीगॆ हेळिदाग सारथियु अत्यन्त दुर्जय वीर इन्द्रजितुवन्नु पवनकुमार हनुमन्तनु विराजिसुत्तिद्दल्लिगॆ कॊण्डुहोदनु.॥27॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. saarathiH* = the charioteer; *iti* = thus; *uktaH* =
+spoken; *tena* = by him; *yayau* = went; *vahan* = carrying; *parama
+durdharSham* = that unusually unconquerable; *indrajitam* = Indrajit; *sthitam
+rathe* = sitting in the chariot; *yatra* = to the place where; *maarutiH* =
+Hanuma (was there).
+
+**अनुवादः**
+
+Hearing the words of that Indrajit, the charioteer went, carrying that very
+unconquerable Indrajit sitting in the chariot, to the place where Hanuma was there.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभ्युपेत्य शरान् खड्गान् पट्टिशांश्च परश्वधान् ।  
@@ -581,6 +1062,12 @@ _________________
 अभ्यवर्षत दुर्धर्षः कपिमूर्ध्ननि राक्षसः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सोऽभ्युपेत्य शरान्खड्गान्पट्टसासिपरश्वधान् ।
+अभ्यवर्षत दुर्धर्षः कपिमूर्ध्नि स राक्षसः ॥ ६-८६-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वहाँ पहुँचकर उस दुर्जय राक्षसने हनुमान् जी के मस्तकपर बाणों, तलवारों, पट्टिशों और फरसोंकी वर्षा आरम्भ कर दी ॥ २८ ॥
@@ -589,6 +1076,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिगॆ होगुत्तले आ दुर्जय राक्षसनु हनुमन्तन मस्तकदल्लि बाणगळिन्द, खड्गगळिन्द, पट्टिशगळिन्द, कॊडलिगळिन्द मळॆगरॆयलु प्रारम्भिसिदनु.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. abhyupetya* = coming close (to Hanuma); *saH raakShasaH* =
+that demon; *durdharShaH* = who was unconquerable; *abhyavarShata* = hurled;
+*sharaan* = arrows; *khaDgaan* = swords; *pathishaasi parashvadhaan* =
+sharp-edged spears and axes; *kapimuurdhaani* = on the head of Hanuma.
+
+**अनुवादः**
+
+Coming close to Hanuma, that unconquerable Indrajit hurled swords, sharp-edged
+spears and axes on the head of Hanuma.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +1110,12 @@ _________________
 रोषेण महताविष्णो वाक्यं चेदमुवाच ह ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तानि शस्त्राणि घोराणि प्रतिगृह्य स मारुतिः ।
+रोषेण महताविषो वाक्यं चेदमुवाच ह ॥ ६-८६-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन भयानक शस्त्रोंको अपने शरीरपर झेलकर पवनपुत्र हनुमान् जी महान् रोषसे भर गये और इस प्रकार बोले— ॥ २९ ॥
@@ -614,6 +1124,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ भयानक शस्त्रगळु तन्न शरीरद मेलॆ बीळुवुदन्नु नोडि हनुमन्तनु महारोषगॊण्डु, हीगॆ हेळिदनु.॥29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. pratigR^ihya* = receiving; *taani ghoraaNi* = shastraani =
+those terrible weapons; *saH maarutiH* = that Hanuma; *uvaacha* = spoke; *idam
+vaakyam* = the following words; *mahataa roSheNa aaviShTo* = wrapped with a great
+rage.
+
+**अनुवादः**
+
+Receiving those terrible weapons, that Hanuma spoke, seized as he was, with great
+rage, the following words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +1165,22 @@ _________________
 दुर्बुद्धि रावणकुमारने! नीनु दॊड्ड शूरनागिद्दरॆ बा, नन्नॊडनॆ मल्लयुद्ध माडु. ई वायुपुत्रनॊन्दिगॆ सॆणसाडि बदुकि होगलारॆ.॥30॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. durmate raavaNaatmaja* = O evil-minded Indrajit!; *asi yadi
+shuuraH* = if you are valiant; *yudhyasva* = you fight (with me); *samaasaadya* =
+to Hanuma; *na pratiyaasyasi* = you will not return; *jiivan* = alive.
+
+**अनुवादः**
+
+"O evil-minded Indrajit! If you are valiant, fight with me. Coming nearer to Hanuma,
+you will not return alive."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुभ्यां सम्प्रयुध्यस्व यदि मे द्वन्द्वमाहवे ।  
@@ -660,6 +1203,24 @@ _________________
 दुर्मतिये! निन्न भुजगळिन्द नन्नॊडनॆ युद्ध माडु. ई बाहुयुद्धदल्लि नन्न वेगवन्नु सहिसिदॆ यादरॆ निन्नन्नु राक्षसरल्लि श्रेष्ठनॆन्दु तिळियुवॆनु.॥31॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. durbuddhe* = O foolish fellow!; *dvandvam yadi* = If you
+enter into a duel; *me* = with me; *samprayudhyasva* = fight; *baahubhyaam* =
+with arms; *sahasva* = withstand; *vegam* = my force; *aahave* = in the
+battle-field; *tataH* = then; *tvam* = you; *varaH* = will be considered as
+the best; *rakShasaam* = among the demons.
+
+**अनुवादः**
+
+"O foolish fellow! If you enter into a duel with me, fight with your arms. Withstand
+my force in the battle-field. Then you will be considered as the best among the demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमन्तं जिघांसन्तं समुद्यतशरासनम् ।  
@@ -680,6 +1241,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणकुमार इन्द्रजितु धनस्सु ऎत्ति हनुमन्तनन्नु वधिसलु बयसुत्तिद्दानॆ. ई स्थितियल्लि विभीषणनु लक्ष्मणनिगॆ अवन परिचयवन्नु माडिदनु.॥32॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. vibhiShaNaH* = Vibhishana; *aachaShTe* = told;
+*lakShmaNaaya* = lakshmana (in the following words); *samudyata sharaasanam* = while
+with bow upraised; *raavaNaatmajam hanuumantam jighaamsantam* = Indrajit was seeking to kill
+Hanuma.
+
+**अनुवादः**
+
+Vibhishana told Lakshmana in the following words that while with bow upraised,
+Indrajit sought to kill Hanuma.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -713,6 +1291,40 @@ _________________
 सुमित्रानन्दन! इन्द्रनन्नु गॆद्दिरुव रावणन पुत्रने रथदल्लि कुळितु हनुमन्तनन्नु वधिसलु इच्छिसुत्तिद्दानॆ. आद्दरिन्द नीनु शत्रुगळन्नु विदारणगॊळिसुव, अनुपम आकारप्रकारगळिन्द कूडिद, प्राणान्तकारी भयङ्कर बाणगळिन्द ई रावणियन्नु कॊन्दुबिडु.॥33-34॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. saumitra* = O Lakshmana!; *jahi* = kill; *tam* =
+that; *raavaNim* = Indrajit; *ghoraiH sharaiH* = with terrific arrows; *apratima
+samsthaanaiH* = in incomparable workmanship; *shatrunivaaraNaiH* = which ward off
+enemies; *jiivitaanta karaiH* = and putting an end to their lives.
+
+**अनुवादः**
+
+"O Lakshmana! Kill that Indrajit with your terrific arrows of incomparable
+workmanship, which ward off the enemies and putting an end to their lives."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. aasthaaya* = having seated; *ratham* = in a chariot;
+*saH* = he; *yaH* = who; *raavasya sambhavah* = was born to Ravana (Indrajit);
+*vaasavanirjetaa* = who conquered Indra; *jighaamsati* = is seeking to kill;
+*hanuumantam* = Hanuma.
+
+**अनुवादः**
+
+"Having seated in a chariot, Indrajit, who conquered Indra, is seeking to kill
+Hanuma."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्तस्तु तदा महात्मा  
@@ -739,9 +1351,46 @@ _________________
 शत्रुओंको भयभीत करनेवाले विभीषणके ऐसा कहनेपर उस समय महात्मा लक्ष्मणने रथपर बैठे हुए उस भयंकर बलशाली पर्वताकार दुर्जय राक्षसको देखा ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. ityevam* = thus; *uktaH* = spoken to; *tadaa* =
+then; *vibhiiShaNena* = by Vibhishana; *arivibhiiShaNena* = who was fearful to the
+adversaries; *mahaatmaa* = the great souled Lakshmana; *dadarsha* = saw; *tam*
+= Indrajit; *parvata samnikaasham* = who closely resembled a mountain; *rathasthitam*
+= seated in a chariot; *bhiima balam* = of terrific strength; *duraasadam* = and who
+was difficult to approach.
+
+**अनुवादः**
+
+Hearing the words of Vibhishana, who was fearful to his adversaries, the
+great-souled Lakshmana saw Indrajit, who closely resembled a mountain, seated in a chariot, of
+terrific strength and who was difficult to approach.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रु गळन्नु भयगॊळिसुव विभीषणनु हीगॆ हेळिदाग महात्मा लक्ष्मणनु रथदल्लि कुळितिरुव आ भयङ्कर बलशाली पर्वताकार दुर्जय राक्षसनन्नु नोडिदनु.॥3.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. lakShmaNa* = O Lakshmana!; *yata* = make an effort;
+*bhedane* = to break; *asya mahataH aniikasya* = this mighty army; *atra
+bhinne* = while this army is borken; *raakShasendra sutaH.api* = Indrajit also;
+*dR^ishyaH bhaviShyati* = will become visible.
+
+**अनुवादः**
+
+"O Lakshmana! Make an effort to break this mighty army. When this army is destroyed,
+Indrajit also will become visible."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

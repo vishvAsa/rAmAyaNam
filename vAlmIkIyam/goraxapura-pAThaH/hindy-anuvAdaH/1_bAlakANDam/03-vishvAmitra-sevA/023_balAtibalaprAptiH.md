@@ -2,6 +2,17 @@
 title = "०२३ बलातिबलप्राप्तिः"
 title_english = "023 Their sojourn at the confluence of the rivers ganga and sarayu"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties**
+
+Rama and Lakshmana proceeding with Vishvamitra sojourn in a hermitage at a place where River
+Ganga and River Sarayu are confluent. Once god Shiva with his third eye burnt down the physical
+entity of Manmatha, the Love-god, at this place.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-023-Balaathi_balaa_Prapthihi.mp3"></div>
 </details>
@@ -38,6 +49,23 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 रात्रि कळॆदु सुप्रभातवादाग महामुनि विश्वामित्ररु हुल्लु तरगॆलॆगळ हासिगॆयल्लि मलगिद्द राम-लक्ष्मणरल्लि इन्तॆन्दरु.॥1॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. sharvaryaam prabhaataayaam tu* = after night, at dawn; *mahaamuniH* = great
+saint; Vishvamitra; *kaakutsthau* = to the legatees of Kakutstha - Rama and Lakshmana;
+*parNasamstare shayaanau* = sleeping on the grass bed; *abhyabhaaSata*
+= spoke.
+
+**अनुवादः**
+
+At dawn after that night the great saint Vishvamitra spoke to the legatees of Kakutstha, Rama
+and Lakshmana, those that are sleeping on a grass bed. [1-23-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।  
@@ -58,6 +86,50 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठ श्रीरामा! निन्निन्दागि कौसल्यॆयु सुपुत्रवतियादळु. मगु! नोडु प्रातः सन्ध्यॆयु उदयिसिदॆ. दैवसम्बन्धवाद आह्निकवन्नु माडबेकागिदॆ. रामा! हासिगॆयिन्द मेलेळु.॥2॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. kausalya supraajaa* = Kausalya, the lucky begetter [Kausalya is fortunate because
+she begot you, such as you are]; *raama* = oh Rama; *puurva sandhyaa* = eastern,
+aurora; *pravartate* = verily emerging; *uttiSTha* = get up; *narashaarduula*
+= tigerly man; *daivam* = to gods; *aahnikam* = daytime tasks; *kartavyam*
+= is to be performed.
+
+**अनुवादः**
+
+"Fortunate is Kausalya to beget you as her son Rama... get up oh, tigerly-man, eastern aurora
+is emerging, daytime tasks towards gods are to be performed." [1-23-2]
+
+**टिप्पनी**
+
+This is another celebrated verse chanted even today. So far Rama is a dear prince to his parents.
+But here, no less than Sage Vishvamitra said to have deified Rama in asking him to 'get up'
+from divine trance to undertake the human duties to eliminate evil, like the dawn of the sun
+eliminating the evil darkness. In other ancient manuscripts the same verse obtains as:
+
+**टिप्पनी**
+
+This early morning 'awakening' of Vishnu or his incarnates from divine trance is a common
+practice in Vaishnavaite tradition, and is followed even today, called *suprabhaata sevaa*
+, morning service to wake up.
+
+**टिप्पनी**
+
+At the rising of the sun as well as at noon certain observances, invocations, and prayers
+were prescribed which might under no circumstances be omitted. One of these observances was
+the recitation of the sAvitri, [Gayatri, so to say,] a Vedic hymn to the Sun of wonderful
+beauty - Gorresio.
+
+**टिप्पनी**
+
+For *kausalyaa suprajaa raama* Griffith says: 'High fate is hers who calls thee son:
+/ Arise, 'tis break of day /. And Gita Press has it as: Kausalya is blessed with a worthy
+son [in you.]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -87,6 +159,33 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 महर्षिय ई परमोदार मातन्नु केळि नरश्रेष्ठराद वीररिब्बरू स्नानमाडि कुलदेवतॆगॆ अर्घ्यवन्नित्तु परमोत्तम गायत्री मन्त्रवन्नु जपिसतॊडगिदरु.॥3॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. viirau* = valorous ones; *narottamau* = best among people - Rama Lakshmana;
+*tasya R^iSeH* = that, sage's; *paramodaaram vachaH* = very benign, words;
+*shrutvaa* = on listening; *they got up snaatwaa* = bathed; *kR^itodakau*
+= having performed water oblation; *paramam japam jepatuH* = meditated upon supreme hymn.
+
+**अनुवादः**
+
+On hearing the benign words of the sage those valorous and best ones among men got up, bathed,
+and on offering water oblation they meditated upon the supreme hymn, namely Gayatri. [1-23-3]
+
+**टिप्पनी**
+
+Rama and Lakshmana meditated upon *Gayatri* hymn as there is no hymn superior to it;
+*na gaayatryaaH param japyam* and this is also the usual hymn for water oblation at
+dawn or dusk: *sandhyaa vandana* . *sandhyaa* is the time between the day and
+night when the stars or the sun are not visible.
+*aho raatrasya yaH sandhiH suuryanakShatravarjitaH* Then this hymn is
+to be meditated placing her in ones own heart or amid the solar system.
+*gaayatriim samsmaret dhiimaan hR^idi vaa suuryamaNDale*.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृताह्निकौ महावीर्यौ विश्वामित्रं तपोधनम् ।  
@@ -113,6 +212,24 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नित्याह्निकवन्नु मुगिसि महापराक्रमि श्रीराम-लक्ष्मणरु अत्यन्त प्रसन्नरागि तपोधन विश्वामित्ररिगॆ अभिवादन माडि मुन्दिन प्रयाणक्कॆ सिद्धरादरु.॥4॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. mahaaviirau* = great stalwarts; *kR^itaahnikau* = after performing
+duties of dawn; *atisamhR^iSTau* = very enthusiastically; *vishvaamitram tapodhanam*
+= to Vishvamitra, whose ascesis is his wealth; *abhivaadya* = venerated;
+*gamanaaya abhitasthatuH* = to travel, they presented themselves [before the sage.]
+
+**अनुवादः**
+
+On performing their dawn time duties those two stalwarts, Rama and Lakshmana, enthusiastically
+presented themselves before the ascetically rich sage Vishvamitra for further journey, duly
+venerating him. [1-23-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -152,6 +269,31 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 दारि नडॆयुत्ता आ महाबलि राजकुमाररु गङ्गा सरयू शुभ सङ्गमक्कॆ तलुपि, अल्लि दिव्य त्रिपथगॆ देवनदी गङ्गॆयन्नु दर्शिसिदरु.॥5॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. tataH* = then; *tau mahaaviiryau* = those two, great valiant ones; *
+prayaantau* = on travelling [some distance]; *te* = they; *tatra shubhe sarayvaaH
+sangame* = there, at auspicious, Sarayu, confluence; *divyaam* = divine; *tripathagaam
+nadiim* = three way going [coursing]; river [namely Ganga]; *dadR^ishaate*
+= they have seen.
+
+**अनुवादः**
+
+Then on travelling some more distance those two great valiant ones, there they have seen the
+divine river that courses in three ways, namely Ganga, at the auspicious confluence of River
+Sarayu. [1-23-5]
+
+**टिप्पनी**
+
+River Ganga follows three courses, firstly in heavens, second on earth, and third into nether
+worlds. These episodes on the descent of Ganga to earth are narrated in the later part of
+this book, Bala Kanda.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राश्रमपदं पुण्यमृषीणां भावितात्मनाम् ।  
@@ -164,6 +306,12 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 बहुवर्षसहस्राणि तप्यतां परमं तपः ॥ ६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तत्राश्रमपदं पुण्यं ऋषीणां भावितात्मनाम् ।
+बहुवर्षसहस्राणि तप्यतां परमं तपः ॥ १-२३-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 संगमके पास ही शुद्ध अन्तःकरणवाले महर्षियोंका एक पवित्र आश्रम था, जहाँ वे कई हजार वर्षोंसे तीव्र तपस्या करते थे ॥ ६ ॥
@@ -172,6 +320,23 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सङ्गमद बळियल्ले शुद्धान्तःकरणवुळ्ळ महर्षिगळ ऒन्दु पवित्र आश्रमवित्तु. अल्लि अवरु अनेक साविर वर्षगळिन्द तीव्रवाद तपस्सन्नाचरिसुत्तिद्दरु.॥6॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. tatra* = there; *bahuvarSasahasraaNi* = many thousands of years; *
+paramam tapaH tapyataam* = practising supreme ascesis; *bhaavitaatmanaam R^iShiiNaam*
+= contemplated souls, of sages; *puNyam aashramapadam* = merited, hermitage [they
+have seen.]
+
+**अनुवादः**
+
+There they have seen the merited hermitage of sages with contemplative souls, and who are
+practising supreme ascesis for many thousand years. [1-23-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +359,23 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पवित्र आश्रमवन्नु नोडि रघुकुलतिलक श्रीराम लक्ष्मणरु बहळ सन्तस हॊन्दिदरु. अवरु महात्मा विश्वामित्ररल्लि इन्तॆन्दरु.॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. tam puNyam aashramam dR^iSTvaa* = on seeing that merited hermitage; *paramapriitau*
+= highly pleased; *raaghavau* = Raaghava-s [Rama and Lakshmana]; *mahaatmaanam*
+= great soul; *tam vishwaamitram idam vachaH* = this word to him, Vishvamitra; *uchatuH*
+= said.
+
+**अनुवादः**
+
+On seeing that merited hermitage Rama and Lakshmana are highly pleased and said this word
+to that great-soul Sage Vishvamitra. [1-23-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +403,24 @@ _________________
 पूज्यरे! इदु यार आश्रमवागिदॆ? इदरल्लि यारु वासिसुत्तारॆ? इदन्नु नाविब्बरू केळलु बयसुत्तिरुवॆवु. इदर कुरितु नम्म मनस्सिनल्लि उत्कण्ठतॆ उण्टागिदॆ.॥8॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8. bhagavan* = oh god; *ayam puNyaH aashramaH kasya* = whose is this merited hermitage
+; *asmin kaH nu pumaan vasate* = indeed who celebrity dwells in this;
+*shrotum icChaavaH* = we are interested to listen; *nau param kautuuhalam hi*
+= truly much inquisitiveness to us.
+
+**अनुवादः**
+
+"Whose hermitage is this merited one? Indeed who is the celebrity that lives therein? Oh,
+godly sage, we are interested to listen, and we are truly inquisitive about it." Thus they
+asked. [1-23-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
 
 ततो राघवौ गङ्गा-सरयू-संगमे ऋष्याश्रमं दृष्ट्वा विश्वामित्रं पप्रच्छतुः । स च —
@@ -238,6 +438,12 @@ _________________
 अब्रवीच्छ्रूयतां राम यस्यायं पूर्व आश्रमः ॥ ९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तयोस्तद्वचनं श्रुत्वा प्रहस्य मुनिपुंगवः ।
+अब्रवीच्छ्रूयतां राम कस्यायं पूर्व आश्रमः ॥ १-२३-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन दोनोंका यह वचन सुनकर मुनिश्रेष्ठ विश्वामित्र हँसते हुए बोले—‘राम! यह आश्रम पहले जिसके अधिकारमें रहा है, उसका परिचय देता हूँ, सुनो ॥ ९ ॥
@@ -246,6 +452,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरिब्बर मातन्नु केळि मुनिश्रेष्ठ विश्वामित्ररु नगुत्ता - ‘रामा! ई आश्रमवु यार अधीनदल्लित्तु’ इदर परिचय केळिरि हेळुत्तेनॆ.॥9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. munipungavaH* = the eminent sage; *tayoH tat vachanam shrutvaa* = on hearing their
+that word; *prahasya* = smiled; *abraviit* = said; *puurva*
+= in earlier times; *ayam aashramaH* = this, hermitage; *kasya* = whose is;
+*shruuyataam* = may be listened.
+
+**अनुवादः**
+
+On hearing their words the eminent sage Viswamitra said smilingly, " whose hermitage is this
+in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-23-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +515,48 @@ _________________
 ऒन्दु दिन समाधियिन्द ऎद्द देवेश्वर शिवनु मरुद्गणगळॊन्दिगॆ ऎल्लॊ होगुत्तिद्दनु. आगले दुर्बुद्धियाद कामनु अवन मेलॆ आक्रमण माडिदनु. इदन्नु नोडिद शिवनु हुङ्कारदिन्द अवनन्नु तडॆदनु.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10, 11. kandarpaH* = Manmatha [Love-god]; *muurtimaan aasiit* = was there with body
+; *budhaiH kaamaH iti ucyate* = thus is called as Kama by wise men; *durmedhaaH*
+= with naughty intent [Love-god]; *iha* = here, at this place; *tapasyantam*
+= one who is practising ascesis; *niyamena samaahitam* = observantly, concentrating;
+*kR^itodvaaham* = having been married; *samarudgaNam* = along with Wind-gods;
+*gacChantam* = while going [returning]; *devesham* = god's god [ Shiva];
+*sthaaNum* = Shiva is; *dharSayaamaasa* = braved; *mahaatmanaa* = by
+great souled [Shiva]; *humkR^itaH cha* = he made [disapproving] roar, also - Shiva
+roared at Love-god.
+
+**अनुवादः**
+
+"When Love-god was with his body wise men used to call him Kama, the passion. At this place,
+that Love-god with his naughty intent braved god of gods Shiva who had been practising ascesis
+and who concentrated observantly, and who was returning after his marriage along with his
+followers, namely the Wind-gods, and that great soul Shiva disapprovingly roared at Love-god.
+[1-23-10, 11]
+
+**टिप्पनी**
+
+The meaning of *kandarpa* is one who is carnally prideful, i.e., he who takes pride
+in arousing lecherousness. And *kaama* is 'desire' the natural basic instinct of any
+animal, and the one which the sages and saints want to overcome, so they named Love-god from
+their point of view. In these verses the two words *kR^itodvaaham* , and their meaning
+as on marrying Parvati and going this way with his coterie etc., is held incongruous to other
+mythological episodes of Shiva's marriage with Parvati, and Manmatha's effort to enkindle
+love in Shiva. After marriage with Parvati, some argue, where is the question of Love-god's
+interference to inculcate love in Shiva. It is clear in RamaCharitaMaanas how this Shiva-Parvati
+marriage occurs. And some give the meaning like this: *kR^ita* where *kR^i= karaNe
+udvaaham tu devesham* = to actualise, marriage, only, of Shiva; *gacChantam* on
+going there, Love-god, *samarudgaNam* with Wind-gods and other deities; *dharSayaamaasa*
+started to attack Shiva. The Love-god on going there to that hermitage that is being described
+by Vishvamitra along with Wind-gods et al, with an intention to get the marriage of Shiva
+performed, assailed Shiva.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवध्यातश्च रुद्रेण चक्षुषा रघुनन्दन ।  
@@ -305,6 +570,12 @@ _________________
 _________________
 अवध्यातश्च रुद्रेण चक्षुषा रघुनन्दनः ।  
 व्यशीर्यन्त शरीरात् स्वात् सर्वगात्राणि दुर्मते ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अवध्यतश्च रौद्रेण चक्षुषा रघुनन्दन ।
+व्यशीर्यन्त शरीरात् स्वात् सर्वगात्राणि दुर्मतेः ॥ १-२३-१२
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -321,6 +592,30 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! भगवान् रुद्रनु रोष तुम्बिद दृष्टियिन्द तिरस्कारपूर्वक अवन कडॆ नोडिदनु, मत्तॆ आ दुर्बुद्धिय शरीरवु शिवन नेत्राग्नियिन्द सुट्टुहोयितु.॥12॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. raghunandana* = Raghu's legatee - Rama; *raudreNa chakShuShaa avadhyataH*
+= one who is destroyed with wrathful eye [third eye]; *durmateH* = lewd-minded one's;
+*svaat* = from his own; *shariiraat sarvagaatraaNi* = body, all limbs; *
+vyashiiryanta* = fall down.
+
+**अनुवादः**
+
+"And Rama, the wrathful third-eye of Shiva destroyed the lewd-minded Love-god making all his
+limbs to fall down from his body. [1-23-12]
+
+**टिप्पनी**
+
+The word *avadhyataH* is otherwise said in other texts as *avadagdhasya raudreNa cakShuSaa*,
+to derive a clear meaning of 'burnt down,' because *avadhyataH* is just killing, slaying,
+whereas Shiva's third-eye truly burns down anything where even ashes do not remain. The critical
+editions have this as *dagdhasya tasya raudreNa chakShuShA*
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +640,29 @@ _________________
 अल्लि दग्धनाद मनस्वी कन्दर्पन शरीर नाशवायितु. देवेश्वर रुद्रनु तन्न क्रोधदिन्द कामनन्नु अङ्गहीननन्नागिसिदनु.॥13॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. mahaatmanaH* = by great soul [ Shiva]; *nirdagdhasya* = completely burnt
+down; *tasya gaatram* = his, body; *tatra hatam* = there, dissipated; *deveshvareNa krodhaat*
+= by god of gods - Shiva, by his anger; *kaamaH ashariiraH kR^itaH*
+= made Love-god as body less one.
+
+**अनुवादः**
+
+"There the body of Love-god is evanesced when that great soul Shiva burnt it down, and by
+the anger of that god of gods Shiva, Love-god is rendered as a bodiless entity. [1-23-13]
+
+**टिप्पनी**
+
+Manmatha and his wife Rati will have supremely exquisite physiques. At the very sight of Manmatha
+everybody used to become a prey to lasciviousness. So Shiva had to completely burn down that
+physical form of love, whereby only kaama, the mental desire, is remaining.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनङ्ग इति विख्यातस्तदाप्रभृति राघव ।  
@@ -367,6 +685,23 @@ _________________
 राम! अन्दिनिन्द अवनु अनङ्गनॆन्दु विख्यातनादनु. शोभामय कन्दर्पनु तन्न अङ्गवन्नु बिट्ट प्रदेशवु अङ्गदेशवॆन्दु विख्यातवायितु.॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14. *tadaaprabhR^iti* = from then onwards; Raghava; *anangaH* = without
+body - Love-god; *iti vikhyaataH* = thus, renowned as; *yatra angam pramumocha ha*
+= where gave up body, indeed; *saH cha* = that, also; *shriimaan* = prosperous
+one - Love-god; *angaviSayaH* = [that is] Anga, province.
+
+**अनुवादः**
+
+Then onwards Love-god is renowned as Ananga, as he is without body, and where his body is
+given up that is renowned as Anga province. [1-23-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यायमाश्रमः पुण्यस्तस्येमे मुनयः पुरा ।  
@@ -387,6 +722,35 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्लि अदे महादेवन पुण्य आश्रमविदॆ. वीरने! ई मुनिगळु आ स्थाणु महादेवन धर्मपरायण शिष्यरागिद्दरु. इवर पापवॆल्ल नाशवागि होगिदॆ.॥15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. viira* = oh brave one [Rama]; *ayam tasya punyaH aashramaH* = this is,
+his [Shiva's,] merited, hermitage; *puraa tasya shiShyaaH ime munayaH* = at one time,
+his [Shiva's,] disciples, these, sages are; *dharmaparaaH* = abiding in virtue;
+*teSaam paapam na vidyate* = sin is not evident [sinless] with them.
+
+**अनुवादः**
+
+"This merited hermitage thus belongs to Shiva and, oh, brave Rama, these sages abiding in
+virtue are Shiva's disciples at one time, thus sin is unverifiable with them. [1-23-15]
+
+**टिप्पनी**
+
+This hermitage belongs to Love God or Shiva, *tasya kaamasya sthaaNorvaa*. Because
+Shiva is a god who controls Love-god, *kaameshvara*, this is Shiva's hermitage. The
+last verse again says it is Kaama's hermitage. And the sages practising ascesis in this hermitage,
+*puraa shiSyaa* , are the old time disciples of Shiva. *puurvakaalam aarabhya...santaanaparamparayaa
+shiSyaa*. These sages are the progeny of the sages who long time back were
+the direct disciples of Shiva. Because these are the direct grandchildren of the direct disciples
+of Shiva, sin cannot touch them. *ata
+eva paapam teShaam na vidyate | puurvam rudrashiShyaa api samprati tat shiShyakR^itam paapam
+na vidyate ityarthaH||* Govindaraja.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -416,6 +780,23 @@ _________________
 शुभदर्शन राम! इन्दिन रात्रियल्लि नावु ई पुण्य सलिल-सरितॆगळ नडुवॆ वासिसोण. नाळॆ बॆळग्गॆ इदन्नु दाटि मुन्दॆ पयणिसुवा.॥16॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. shubhadarshana* = oh auspicious one in mien; Rama; *vayam* = we;
+*adya rajaniim* = today, night; *iha puNyayoH saritoH madhye* = here in between meritorious
+rivers; *vasema* = we will stay; *shvaH* = tomorrow; *
+tariSyaamahe* = we will cross over [River Ganga.]
+
+**अनुवादः**
+
+"Let us stay for this night in this hermitage situated in between two meritorious rivers Ganga
+and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River Ganga. [1-23-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिगच्छामहे सर्वे शुचयः पुण्यमाश्रमम् ।  
@@ -430,6 +811,13 @@ _________________
 स्नाताश्च कृतजप्याश्च हुतहव्या नरोत्तम ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अभिगच्छामहे सर्वे शुचयः पुण्यमाश्रमम् ।
+इह वासः परोऽस्माकं सुखं वस्त्यामहे वयम् ॥ १-२३-१७
+स्नाताश्च कृतजप्याश्च हुतहव्या नरोत्तम ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हम सब लोग पवित्र होकर इस पुण्य आश्रममें चलें । यहाँ रहना हमारे लिये बहुत उत्तम होगा । नरश्रेष्ठ! यहाँ स्नान करके जप और हवन करनेके बाद हम रातमें बड़े सुखसे रहेंगे’ ॥ १७ १/२ ॥
@@ -438,6 +826,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ईग नावॆल्लरू पवित्ररागि ई पुण्याश्रमक्कॆ होगोण. इल्लि इरुवुदु नमगॆ बहळ ऒळ्ळॆयदागबहुदु. नरश्रेष्ठने! इल्लि स्नान माडि जप मत्तु सायं अग्निकार्य मुगिसि बळिक रात्रि सुखवागि निद्रिसोण.॥17½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17, 18a. narottama* = oh best one among men, Rama; *sarve* = we all; *snaataaH
+cha* = taking a bath, also; *kR^itajapyaaH cha* = performing meditations, also;
+*hutahavyaaH cha* = enkindling oblations into fire, also; *shuchayaH* = purifying
+ourselves; *puNyam aashramam abhigacChaamahe* = let us enter meritorious hermitage;
+*iha vaasaH paraH* = here, staying; *asmaakam sukham* = for us, comforting;
+*vastyaamahe vayam* = we will stay.
+
+**अनुवादः**
+
+"Let us all purify ourselves by taking our bath, performing our meditations, offering our
+daily oblations, and then let us enter this meritorious hermitage, thus our stay in here will
+be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +892,27 @@ _________________
 अवरु विश्वामित्ररिगॆ अर्घ्य, पाद्यादि अतिथि सत्कारवन्नु अर्पिसिद बळिक राम-लक्ष्मणरिगू आतिथ्य नीडिदरु.॥19½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+18b, 19. *tatra* = there; *teSaam* = them; *samvadataam* = when discussing;
+*munayaH* = saints; *tapodiirgheNa chakShuSaa* = by the extent of asceticism's of
+[inner] eye [by sixth-sense]; *vij~naaya* = on perceiving; *paramapriitaaH*
+= highly gladdened; *harSam aagaman* = they obtained enchantment; on approaching
+them; *arghyam* = water for hand-wash; *paadyam* = water for feet-wash; *
+tathaa* = then; *aathithyam* = hospitality; *kushikaatmaje* = Kushi's
+son, Viswamitra; *nivedya* = [firstly] offered.
+
+**अनुवादः**
+
+When they are discussing there the sages of that hermitage are highly gladdened to perceive
+them with their sixth-sense, and on approaching them enchantedly they offered water for hands
+and feet wash and then offered hospitality firstly to Sage Vishvamitra. [1-23-18, 19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्कारं समनुप्राप्य कथाभिरभिरञ्जयन् ॥ २० ॥  
@@ -506,6 +935,24 @@ _________________
 यथोचित सत्कार माडि आ मुनिगळु ई अतिथिगळिगॆ बगॆ-बगॆय कथॆगळन्नु हेळि मनोरञ्जनॆ माडिदरु. मत्तॆ आ महर्षिगळु एकाग्रचित्तरागि सन्ध्यावन्दनॆ-जप-होम माडिदरु.॥20½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. pashchaat* = afterwards; *raaamalakShmaNayoH* = to Rama, Lakshmana; *
+akurvan atithikriyaam* = accorded, guest's works [reception]; *satkaaram samanupraapya*
+= compliments, on obtaining; *[munayaH* = saints of that hermitage]; *kathaabhiH*
+= with [myths and] legends; *abhiranjayan* = delighted, [entertained the guests.]
+
+**अनुवादः**
+
+Afterwards those sages of that hermitage have accorded reception to Rama and Lakshmana, and
+applauded by Vishvamitra for their hospitality those sages have entertained Rama and other
+guests with myths and legends. [1-23-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र वासिभिरानीता मुनिभिः सुव्रतैः सह ॥ २१ ॥  
@@ -515,6 +962,12 @@ _________________
 <details><summary>मूलम्</summary>
 
 तत्र वासिभिरानीता मुनिभिः सुव्रतैः सह ॥ २१ ॥  
+न्यवसन् सुसुखं तत्र कामाश्रमपदे तथा ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+१-२३-२१
 न्यवसन् सुसुखं तत्र कामाश्रमपदे तथा ।
 </details>
 
@@ -534,6 +987,29 @@ _________________
 अनन्तर अल्लिरुव मुनिगळु उत्तम व्रतधारि मुनिगळॊन्दिगॆ विश्वामित्रादिगळिगॆ शयनक्कागि व्यवस्थॆ माडिकॊट्टरु. समस्त कामनॆगळन्नु पूर्तिगॊळिसुव आ पुण्याश्रमदल्लि विश्वामित्रादिगळु सुखवागि कळॆदरु.॥21½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+21. *te R^iShayaH samaahitaaH* = those, sages, concentrating their minds; *yathaarham*
+= according to their aptitude; *sandhyaam ajapan* = meditated upon deity at sunset - Gayatri
+; [whom Rama and others have followed]; *tatra vaasibhiH* = there,
+who are dwelling [Rama and others]; *suvrataiH* = [sages] with pious commitments;
+*munibhiH saha* = along with sages; *aaniitaaH* = those [guests] that are led
+forth [into hermitage]; *tathaa tatra* = that way, there; *kaamaashramapade*
+= in Kaama - Shiva's hermitage's precincts; *susukham nyavasan* = very comfortably,
+they stayed.
+
+**अनुवादः**
+
+Those sages with concentrated minds and according to one's own aptitude have meditated upon
+the deity of sunset when it is sundown, followed by Rama and others. Then led into hermitage
+by those sages who are with pious commitments and who are dwelling there, Rama and others
+have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथाभिरभिरामाभिरभिरामौ नृपात्मजौ ।  
@@ -546,6 +1022,12 @@ _________________
 रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः ॥ २२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कथाभिरभिरामभिरभिरामौ नृपात्मजौ । -
+रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः ॥ १-२३-२२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 धर्मात्मा मुनिश्रेष्ठ विश्वामित्रने उन मनोहर राजकुमारोंका सुन्दर कथाओंद्वारा मनोरञ्जन किया ॥ २२ ॥
@@ -554,6 +1036,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मात्मा मुनिश्रेष्ठ विश्वामित्ररु आ मनोहर राजकुमाररिगॆ सुन्दर कथॆगळन्नु हेळुत्ता मनोरञ्जनॆ माडिदरु.॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. dharmaatmaa* = virtue-souled one; *munipungavaH* = the eminent saint;
+*kaushikaH* = Viswamitra; *abhiraamau* = delightful ones; *nR^ipaatmajau*
+= king's sons; *abhiraamabhiH kathaabhiH* = with delightful, stories; *ramayaamaasa*
+= delighted [later in the night.]
+
+**अनुवादः**
+
+Staying very comfortably in the precincts of Kaama hermitage,
+then that virtuous sage Vishvamitra, saint the eminent, delighted the delightful princes with delighting stories.....[1-23-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

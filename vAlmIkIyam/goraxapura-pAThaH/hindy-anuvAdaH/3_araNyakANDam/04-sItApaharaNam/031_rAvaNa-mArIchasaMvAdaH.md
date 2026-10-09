@@ -2,6 +2,24 @@
 title = "०३१ रावण-मारीचसंवादः"
 title_english = "031 Akampana s repot to Ravana"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book III : Aranya Kanda- The Forest Trek**
+
+A spy of Ravana named Akampana rushes to him to break the news of annihilation of Janasthaana
+ by Rama. He suggests Ravana to abduct Seetha. Because parting with Seetha causes grief to
+ Rama and thereby he dies. On thinking for while, Ravana goes to Mareecha seeking his help
+ in abducting Seetha. Mareecha while explaining Rama's capabilities, reminds us of the incarnations
+ of Vishnu, and advises Ravana to be content with what he has.
+
+This chapter is removed from the critical edition and retained by traditional versions There
+ are discussions on this chapter whether it is the original work or an interpolated one.
+ Some more details are given in the endnote. Akampana's character inevitably has continuity
+ in the war scene at the end.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-031-Ravana_Maaricha_Samvadhaha.mp3"></div>
 </details>
@@ -23,6 +41,12 @@ title_english = "031 Akampana s repot to Ravana"
 प्रविश्य लङ्कां वेगेन रावणं वाक्यमब्रवीत् ॥ १ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+त्वरमणः ततो गत्वा जनस्थानात् अकंपनः ।
+प्रविश्य लंकाम् वेगेन रावणम् वाक्यम् अब्रवीत् ॥ ३-३१-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर जनस्थानसे अकम्पन नामक राक्षस बड़ी उतावलीके साथ लङ्काकी ओर गया और शीघ्र ही उस पुरीमें प्रवेश करके रावणसे इस प्रकार बोला— ॥ १ ॥
@@ -31,6 +55,22 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर अकम्पन ऎम्ब राक्षसनु जनस्थानदिन्द हॊरटु बहळ आतुरवागि लङ्कॆय कडॆगॆ हॊरटु, शीघ्रवागि आ पुरियन्नु प्रवेशिसि रावणनल्लि हीगॆ हेळिदनु.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. tataH* = then; *akampanaH tvaramaNaH* = Akampana, hurriedly; *janasthaanaat gatvaa*
+= from Janasthaana, on going; *vegena lankaam pravishya* = speedily, Lanka, entering; *raavaNam
+vaakyam abraviit* = to Ravana, word, spoke.
+
+**अनुवादः**
+
+Then on going hurriedly from Janasthaana and on speedily entering Lanka Akampana spoke these words to
+Ravana. [3-31-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -45,6 +85,12 @@ title_english = "031 Akampana s repot to Ravana"
 खरश्च निहतः सङ्ख्ये कथञ्चिदहमागतः ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+जनस्थान स्थिता राजन् रक्षसा बहवो हताः ।
+खरः च निहतः संख्ये क्थंचित् अहम् आगतः ॥ ३-३१-२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! जनस्थानमें जो बहुत-से राक्षस रहते थे, वे मार डाले गये । खर युद्धमें मारा गया । मैं किसी तरह जान बचाकर यहाँ आया हूँ’ ॥ २ ॥
@@ -53,6 +99,32 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! जनस्थानदल्लिद्द अनेक राक्षसरु हतरादरु. खरनू युद्धदल्लि सत्तुहोदनु. नानु हेगो जीव उळिसिकॊण्डु इल्लिगॆ बन्दिरुवॆनु.॥2॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. raajan* = oh, king; *janasthaana sthitaa* = in Janasthaana, positioned; *bahavaH
+rakshasaa hataaH* = many, demons, are killed; *samkhye kharaH ca nihataH* = in war, Khara,
+also, killed; *aham kathamcit aagataH* = I have, somehow, come here.
+
+**अनुवादः**
+
+"Oh, king, many demons positioned in Janasthaana are killed, Khara is also killed in war, and somehow
+I have come here. [3-31-2]
+
+**टिप्पनी**
+
+dhvani/allusion: Janasthaana is the castle-gateway to Lanka. Lanka is a city built within its castle-walls
+and it has no countrysides or villages at least, annexing it. If Janasthaana is ruined, Lanka is also
+going ruin soon, because none can crossover the bulwark-like-Janasthaana. raajan 'oh, king of demons...'
+'when demons in Janasthaana are ruined, your kingship gets ruined...' bahavaH 'many...' 'not one or
+two, many demons that are guarding Lanka from Janasthaana are hataaH 'dead...' Then Ravana may ask 'what
+is it Khara doing then?' kharaH ca 'Khara, also' is dead. By this ca 'also' Trishira, Duushana etc.,
+are also reported as dead.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,6 +139,12 @@ title_english = "031 Akampana s repot to Ravana"
 अकम्पनमुवाचेदं निर्दहन्निव तेजसा ॥ ३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्तो दशग्रीवः क्रुद्धः सम्‌रक्त लोचनः ।
+अकंपनम् उवाच इदम् निर्दहन् इव तेजसा ॥ ३-३१-३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अकम्पनके ऐसा कहते ही दशमुख रावण क्रोधसे जल उठा और लाल आँखें करके उससे इस तरह बोला, मानो उसे अपने तेजसे जलाकर भस्म कर डालेगा ॥ ३ ॥
@@ -75,6 +153,23 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अकम्पनु हीगॆ हेळुत्तले रावणनु क्रोधदिन्द उरिदॆद्दनु. कण्णु कॆम्पागिसि अवनु तन्न तेजदिन्द सुट्टुबिडुवनो ऎम्बन्तॆ नोडि, केळिदनु.॥3॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. evam uktaH dasha griivaH* = thus, said to, ten, faced [ten-voiced, ten-headed] one [Ravana];
+*kruddhaH samrakata locanaH* = infuriated, with bloodshot, eyes; *akampanam uvaaca idam*
+= to Akampana, spoke, this; *[cakshuSaa] tejasaa nirdahan iva* = with his [eyes,] radiance, to
+burn down [whole world,] as though.
+
+**अनुवादः**
+
+Thus said, then that ten-faced Ravana is infuriated with bloodshot eyes, and as though to burn down
+whole world with his radiance he spoke this to Akampana. [3-31-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,6 +182,12 @@ title_english = "031 Akampana s repot to Ravana"
 
 केन भीमं जनस्थानं हतं मम परासुना ।  
 को हि सर्वेषु लोकेषु गतिं नाधिगमिष्यति ॥ ४ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+केन भीमम् जनस्थानम् हतम् मम परासुना ।
+को हि सर्वेषु लोकेषु गतिम् न अधिगमिष्यति ॥ ३-३१-४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -99,6 +200,23 @@ title_english = "031 Akampana s repot to Ravana"
 साविन मुखदल्लि बीळलु यारु ताने बयसुत्तारॆ? नन्न भयङ्करवाद जनस्थानवन्नु यारु विनाश माडिदरु? अन्तह दुःसाहसियु यारु? अवनिगॆ लोकगळल्लि ऎल्लू ठावु दॊरॆयलारदु.॥4॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. para asunaa* = by one with gone, lives [one whose lives are gone, ci-devant, dead and gone];
+*kena* = by whom; *mama bhiimam janasthaanam* = my, indomitable, Janasthaana; *hatam*
+= is destroyed; *sarveSu lokeSu* = in all, worlds; *kaH* = who is it; *gatim na adhigamiSyati
+hi* = recourse, not, attains, indeed - who chose not to survive in any world.
+
+**अनुवादः**
+
+"Who is that dead-and-gone that has destroyed my indomitable Janasthaana? Who is it that has indeed
+opted for no recourse in all of the worlds? [3-31-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि मे विप्रियं कृत्वा शक्यं मघवता सुखम् ।  
@@ -111,6 +229,12 @@ title_english = "031 Akampana s repot to Ravana"
 प्राप्तुं वैश्रवणेनापि न यमेन च विष्णुना ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न हि मे विप्रियम् कृता शक्यम् मघवता सुखम् ।
+प्रप्तुम् वैश्रवणेन अपि न यमेन च विष्णुना ॥ ३-३१-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरा अपराध करके इन्द्र, यम, कुबेर और विष्णु भी चैनसे नहीं रह सकेंगे ॥ ५ ॥
@@ -119,6 +243,23 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ननगॆ अपराधमाडि इन्द्र, यम, कुबेर मत्तु विष्णु कूड नॆम्मदियागि इरलाररु.॥5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. me vi priyam kR^itaa* = to me, against, appreciable [unappreciative deed,] on doing - evoking
+indignation ; *maghavataa sukham praptum* = by Indra, happiness; *na shakyam hi* = to
+get, not, possible, really; *vaishravaNena api* = by Kubera, even; *na* = not [possible];
+*yamena na* = by Yama, no; *na ca viSNunaa* = not, even, by Vishnu.
+
+**अनुवादः**
+
+"Evoking indignation in me it is really impossible for Indra to be happy; even for Kubera - no; for
+Yama - no; why them, even Vishnu cannot be happy. [3-31-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +274,12 @@ title_english = "031 Akampana s repot to Ravana"
 मृत्युं मरणधर्मेण संयोजयितुमुत्सहे ॥ ६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कालस्य च अपि अहम् कलो दहेयम् अपि पावकम् ।
+मृत्युम् मरण धर्मेण संयोजयितुम् उत्सहे ॥ ३-३१-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं कालका भी काल हूँ, आगको भी जला सकता हूँ तथा मौतको भी मृत्युके मुखमें डाल सकता हूँ ॥ ६ ॥
@@ -141,6 +288,23 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु कालक्कू कालनागिद्देनॆ. बॆङ्कियन्नु सुट्टु हाकबल्लॆ. सावन्नू कूड मृत्युमुखवागिसबल्लॆनु.॥6॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. aham kaalasya ca api kalaH* = I am, of Time-god, also, even, the [end] Time; *paavakam
+api daheyam* = Fire-god, even, I will burn down; *mR^ityum maraNa dharmeNa* = Death, deathliness,
+with the virtue of; *sam yojayitum* = to conjoin with; *utsahe* = I enthuse - capable
+of.
+
+**अनुवादः**
+
+"I am the End-Time for the Time-god himself, I will burn down the Fire-god, and I am capable of conjoining
+Death with the virtue of deathliness. [3-31-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +319,12 @@ title_english = "031 Akampana s repot to Ravana"
 दहेयमपि सङ्क्रुद्धस्तेजसाऽऽदित्यपावकौ ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वातस्य तरसा वेगम् निहन्तुम् अपि च उत्सहे ।
+दहेयम् अपि संक्रुद्धः तेजसा आदित्य पावकौ ॥ ३-३१-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि मैं क्रोधमें भर जाऊँ तो अपने वेगसे वायुकी गतिको भी रोक सकता हूँ तथा अपने तेजसे सूर्य और अग्निको भी जलाकर भस्म कर सकता हूँ’ ॥ ७ ॥
@@ -163,6 +333,23 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु क्रोधगॊण्डरॆ नन्न वेगदिन्द वायुविन गतियन्नु तडॆयबल्लॆनु हागू तन्न तेजदिन्द सूर्य मत्तु अग्नियन्नु सुट्टु बूदिमाडिबिडबल्लॆ.॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. samkruddhaH* = if enraged; *tejasaa* = with my radiance; *aaditya paavakau api*
+= Sun-god, Fire-god, even; *daheyam* = I will incinerate; *tarasaa* = by my speed - impetuosity;
+*vaatasya vegam api ca* = Air-god's, speed, also, even; *nihantum utsahe* = to kill [
+to halt,] I am excited to.
+
+**अनुवादः**
+
+"If I am enraged I will incinerate Sun-god or Fire-god just with my radiance, I will halt even the impetuosity
+of Wind-god with that of mine." Thus Ravana said about himself. [3-31-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -177,6 +364,12 @@ title_english = "031 Akampana s repot to Ravana"
 भयात् सन्दिग्धया वाचा रावणं याचतेऽभयम् ॥ ८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तथा क्रुद्धम् दशग्रीवम् कृतांजलिः अकंपनः ।
+भयात् संदिग्धया वचा रावणम् याचते अभयम् ॥ ३-३१-८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणको इस प्रकार क्रोधसे भरा देख भयके मारे अकम्पनकी बोलती बंद हो गयी । उसने हाथ जोड़कर संशययुक्त वाणीमें रावणसे अभयकी याचना की ॥ ८ ॥
@@ -185,6 +378,27 @@ title_english = "031 Akampana s repot to Ravana"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणनु ई प्रकार क्रोधगॊण्डिरुवुदन्नु नोडि बड अकम्पनन मातु निन्तुहोयितु. अवनिगॆ कैमुगिदु संशययुक्त वाणियिन्द रावणनल्लि अभयवन्नु योचिसिदनु.॥8॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8. akampanaH kR^ita anjaliH* = Akampana, with adjoined-palms; *tathaa kruddham dashagriivam*
+= in that way, at the enraged, decahedral demon [Ravana]; *bhayaat samdigdhayaa vacaa* = with
+fear, hesitant, with voice; *raavaNam a bhayam yaacate* = with Ravana, no, fear [clemency,] besought.
+
+**अनुवादः**
+
+Akampana with his palms adjoined and voice hesitant with fear sought for the clemency of that decahedral
+demon Ravana who is enraged in that way. [3-31-8]
+
+**टिप्पनी**
+
+The words decahedron, decahedral - a solid figure with ten faces - are the fancied usage for Ten-Throated
+or Ten-Faced demon. Ravana has also got the name of dashagriiva, and he is a 'solid' demon.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +416,12 @@ _________________
 स वप्रब्धोऽब्रवीद् वाक्यमसन्दिग्धमकम्पनः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+दशग्रीवो अभयम् तस्मै प्रददौ रक्षसाम् वरः ।
+स विस्रब्धो अब्रवीत् वाक्यम् असंदिग्धम् अकंपनः ॥ ३-३१-९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तब राक्षसोंमें श्रेष्ठ दशग्रीवने उसे अभयदान दिया । इससे अकम्पनको अपने प्राण बचनेका विश्वास हुआ और वह संशयरहित होकर बोला— ॥ ९ ॥
@@ -210,6 +430,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग राक्षस श्रेष्ठ दशग्रीवनु अवनिगॆ अभयदान नीडिदनु. इदरिन्द अकम्पनिगॆ बदुकिदॆ ऎम्ब विश्वास उण्टागि अवनु संशयरहितनागि हेळिदनु.॥9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. rakshasaam varaH* = among demons, the supreme; *dashagriivaH* = ten headed Ravana;
+*tasmai abhayam pradadau* = to him [to Akampana,] pardon, gave; *saH akampanaH* = he that,
+Akampana; *visrabdhaH* = trusting in; *a sandigdham* = not, falteringly; *vaakyam abraviit*
+= sentence, said.
+
+**अनुवादः**
+
+When the supremo of demons Dasha-griiva pardoned him then that Akampana spoke these words, unfalteringly
+and trustfully. [3-31-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +465,14 @@ _________________
 हतस्तेन जनस्थाने खरश्च सहदूषणः ॥ ११ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुत्रो दशरथः ते सिंह संहननो युवा ।
+रामो नाम महास्कंधो वृत्त आयत महाभुजः ॥ ३-३१-१०
+श्यामः पृथुयशाः श्रीमान् अतुल्य बल विक्रमः ।
+हतः तेन जनस्थाने खरः च सह दूषणः ॥ ३-३१-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसराज! राजा दशरथके नवयुवक पुत्र श्रीराम पञ्चवटीमें रहते हैं । उनके शरीरकी गठन सिंहके समान है, कंधे मोटे और भुजाएँ गोल तथा लम्बी हैं, शरीरका रंग साँवला है । वे बड़े यशस्वी और तेजस्वी दिखायी देते हैं । उनके बल और पराक्रमकी कहीं तुलना नहीं है । उन्होंने जनस्थानमें रहनेवाले खर और दूषण आदिका वध किया है’ ॥ १०-११ ॥
@@ -236,6 +481,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! दशरथ राजन नवयुवक पुत्र श्रीरामनु पञ्चवटियल्लि इरुत्तानॆ. अवनु सुन्दरवाद शरीरवुळ्ळवनू, ऎत्तरवाद हॆगलुगळुळ्ळवनू, नीळवागियू दुण्डागियू इरुव तोळुगळुळ्ळवनु. श्यामलवर्णनागिद्दानॆ. अवनु महायशस्वियू, तेजस्वियू आगि कण्डु बरुत्तानॆ. अवन बल मत्तु पराक्रमक्कॆ तुलनॆये इल्ल. अवने जनस्थानदल्लि इद्द खर मत्तु दूषणादिगळन्नु वधिसिबिट्टिरुवनु.॥10-11॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. That Rama is - shyaamaH* = blue-black - in complexion; *pR^ithu yashaaH* = highly,
+renowned one; *a tulya bala vikramaH* = not, matching, in might, in valour; *shriimaan*
+= a magnificent one; *tena* = by him; *janasthaane* = in Janasthaana; *saha duuSaNaH
+kharaH ca* = with, Duushana, Khara, is also; *hataH* = killed.
+
+**अनुवादः**
+
+"He is blue-black in complexion, a highly renowned one with matchless might and valour, a magnificent
+one such as he is he slew Duushana along with Khara in Janasthaana." [3-31-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. simha samhananaH* = lion like, in built; *yuvaa* = youthful one; *putraH dasharathaH*
+= son, of Dasharatha; *mahaa skandhaH* = with mighty shoulders; *vR^itta aayata mahaa bhujaH*
+= round, lengthy, with great arms; *raamaH naama* = Rama, one known as; *[asti* = is there.]
+
+**अनुवादः**
+
+"He is a youth whose shoulders are mighty, arms round and lengthy, built like that a lion, who is the
+son of Dasharatha and known as Rama. [3-31-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +528,12 @@ _________________
 नागेन्द्र इव निःश्वस्य इदं वचनमब्रवीत् ॥ १२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अकंपन वचः श्रुत्वा रावणो राक्षसाधिप ।
+नागेन्द्र इव निःश्वस्य इदम् वचनम् अब्रवीत् ॥ ३-३१-१२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अकम्पनकी यह बात सुनकर राक्षसराज रावणने नागराज (महान् सर्प) की भाँति लम्बी साँस खींचकर इस प्रकार कहा— ॥ १२ ॥
@@ -258,6 +542,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अकम्पन ई मातन्नु केळि राक्षसराज रावणनु महासर्पदन्तॆ दीर्घवागि निट्टुसिरु बिट्टु हीगॆ हेळिदनु.॥12॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. raakshasa adhipa raavaNaH* = demon's, chief, Ravana; *akampana vacaH shrutvaa* =
+Akampana's, words, on hearing; *naaga indra iva niHshvasya* = serpent, kingly, like, hissing;
+*idam vacanam abraviit* = this, words, spoke.
+
+**अनुवादः**
+
+On hearing the words of Akampana, the chief of demons Ravana, spoke these words hissing like a kingly
+serpent. [3-31-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -275,6 +575,12 @@ _________________
 उपयातो जनस्थानं ब्रूहि कच्चिदकम्पन ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स सुरेन्द्रेण संयुक्तो रामः सर्व अमरैः सह ।
+उपयातो जनस्थानम् ब्रूहि कच्चित् अकंपन ॥ ३-३१-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अकम्पन! बताओ तो सही क्या राम सम्पूर्ण देवताओं तथा देवराज इन्द्रके साथ जनस्थानमें आये हैं?’ ॥ १३ ॥
@@ -283,6 +589,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अकम्पनने! रामनु समस्त देवतॆगळॊन्दिगॆ मत्तु देवेन्द्रनॊन्दिगॆ जनस्थानक्कॆ बन्दिरुवनो? हेळु.॥13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. akampana* = oh, Akampana; *saH raamaH* = that one, Rama; *sura indreNa* =
+with, Indra; *sarva amaraiH saha* = all, immortals - gods, along with; *samyuktaH* = associated
+by; *janasthaanam upayaataH kaccit* = to Janasthaana, arrived, whether - that is the question;
+*bruuhi* = you tell.
+
+**अनुवादः**
+
+"The question is whether that Rama arrived at Janasthaana associated with Indra and along with all of
+the immortal gods? Oh, Akampana, speak about it. [3-31-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +630,22 @@ _________________
 रावणनु ई प्रश्नॆ केळि अकम्पननु महात्मा श्रीरामन बल-पराक्रमवन्नु पुनः हीगॆ वर्णिसिदनु .॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. akampanaH* = Akampana; *raavaNasya tat vaakyam nishamya* = Ravana's, that, sentence,
+on hearing; *mahaa aatmanaH tasya* = of great-souled one, his - Rama's; *balam vikramam ca*
+= about might, valour, also; *punaH aacacakshe* = again, detailed.
+
+**अनुवादः**
+
+Akampana again detailed about the might and valour of that great souled Rama on hearing that sentence
+of Ravana. [3-31-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो नाम महा-तेजाः श्रेष्ठः सर्व-धनुष्मताम् ।  
@@ -319,6 +658,12 @@ _________________
 दिव्यास्त्रगुणसम्पन्नः परं धर्मं गतो युधि ॥ १५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+रामो नाम महातेजाः श्रेष्टः सर्व धनुष्मताम् ।
+दिव्य अस्त्र गुण संपन्नः परंधर्म गतो युधि ॥ ३-३१-१५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लङ्केश्वर! जिनका नाम राम है, वे संसारके समस्त धनुर्धरोंमें श्रेष्ठ और अत्यन्त तेजस्वी हैं । दिव्यास्त्रोंके प्रयोगका जो गुण है, उससे भी वे पूर्णतः सम्पन्न हैं । युद्धकी कलामें तो वे पराकाष्ठाको पहुँचे हुए हैं ॥ १५ ॥
@@ -327,6 +672,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लङ्केश्वरने! रामनु जगत्तिन समस्त धनुर्धररल्लि श्रेष्ठ मत्तु अत्यन्त तेजस्वियागिद्दानॆ. दिव्यासगळ प्रयोगद गुणगळिन्द पूर्ण सम्पन्ननागिद्दानॆ. युद्ध कलॆयल्लादरो अवनु पराकाष्ठॆयन्नु तलुपिरुवनु.॥15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. raamaH naama* = Rama, means [not named as]; *mahaatejaaH* = great-resplendent;
+*sarva dhanuS mataam shreSTaH* = among all, archers, ablest one; *divya astra guNa sampannaH*
+= divine, missiles, attributes, endowed with; *yudhi* = in warfare; *param dharma gataH*
+= supreme, in conduct, he has got [conducts himself, or, purandara samaH = Indra, equalling.]
+
+**अनुवादः**
+
+"Rama means someone who is highly resplendent, an ablest archer among all archers, one who is endowed
+with divine missiles and divine attributes, and he is the one who conducts warfare with a supreme conduct.
+[3-31-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +707,12 @@ _________________
 कनीयान् ल्लक्ष्मणो भ्राता राकाशशिनिभाननः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य अनुरूपो बलब्वान् रक्ताक्षो दुन्दुभि स्वनः ।
+कनीयान् लक्ष्मणो भ्राता राका शशि निभ आननः ॥ ३-३१-१६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीरामके साथ उनके छोटे भाई लक्ष्मण भी हैं, जो उन्हींके समान बलवान् हैं । उनका मुख पूर्णिमाके चन्द्रमाकी भाँति मनोहर है । उनकी आँखें कुछ-कुछ लाल हैं और स्वर दुन्दुभिके समान गम्भीर है ॥ १६ ॥
@@ -352,6 +721,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनॊडनॆ अवनष्टे बलवन्तनाद सहोदर लक्ष्मणनू इद्दानॆ अवन मुख पूर्णचन्द्रनन्तॆ मनोहरवागिदॆ. अवन कण्णुगळु स्वल्प कॆम्पागिद्दु, स्वर दुन्दुबियन्तॆ गम्भीरवागिदॆ.॥16॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. balavaan* = a mighty one; *rakta akshaH* = redly, eyed one; *dundubhi svanaH*
+= like drumbeat, with a voice; *raakaa shashi nibha aananaH* = full-moon, in shine, one with
+a face; *lakshmaNaH [naama]* = Lakshmana [known as]; *tasya* = his [Rama's]; *anuruupaH
+kaniiyaan bhraataa* = selfsame, younger, brother.
+
+**अनुवादः**
+
+"And a mighty one with redly eyes and drumbeat like voice, and whose face is shiny like the full-moon
+is Rama's selfsame younger brother known as Lakshmana. [3-31-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +752,12 @@ _________________
 श्रीमान् राजवरस्तेन जनस्थानं निपातितम् ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स तेन सह संयुक्तः पावकेन अनिलो यथा ।
+श्रीमान् राज वरः तेन जनस्थानम् निपातितम् ॥ ३-३१-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जैसे अग्निके साथ वायु हों, उसी प्रकार अपने भाईके साथ संयुक्त हुए राजाधिराज श्रीमान् राम बड़े प्रबल हैं । उन्होंने ही जनस्थानको उजाड़ डाला है ॥ १७ ॥
@@ -374,6 +766,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अग्नि यॊन्दिगॆ वायु इरुवन्तॆ तन्न तम्मनॊडनॆ इरुव राजाधिराज श्रीमान् रामनु बहळ प्रबलनागिद्दानॆ. अवने जनस्थानदवन्नु हाळुगॆडहिदनु.॥17॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. shriimaan raaja varaH* = glorious one, among princes, best - the nonpareil prince; *saH*
+= he that Rama; *anilaH paavakena yathaa* = wind, with fire, as with; *tena saha samyuktaH*
+= with him [with Lakshmana,] along with, associated with; *tena janasthaanam nipaatitam* = by
+such a [Rama,] Janasthaana, is destroyed.
+
+**अनुवादः**
+
+"Alike the wind associating with fire this Lakshmana is associated with that glorious and nonpareil
+prince Rama, and that firestorm, namely Rama, destroyed Janasthaana. [3-31-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,6 +803,13 @@ _________________
 सर्पाः पञ्चानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न एव देवा महत्मनो न अत्र कार्या विचारणा ।
+शरा रामेण तु उत्सृष्टा रुक्मपुंखाः पतत्रिणः ॥ ३-३१-१८
+सर्पाः पंचानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उनके साथ न कोई देवता हैं, न महात्मा मुनि । इस विषयमें आप कोई विचार न करें । श्रीरामके छोड़े हुए सोनेकी पाँखवाले बाण पाँच मुखवाले सर्प बनकर राक्षसोंको खा जाते थे ॥ १८ १/२ ॥
@@ -402,6 +818,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनॊडनॆ यावुदे देवतॆयागली, महात्मा मुनियागली इल्ल. ई विषयदल्लि नीनु एनन्नु योचिसबेड. श्रीरामनु बिट्ट स्वर्णरॆक्कॆगळुळ्ळ बाणगळु ऐदु मुखद सर्पगळागि राक्षसरन्नु तिन्दुबिडुवनु.॥18॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18, 19a. mahatmanaH devaa na eva* = great-souled, gods, they are not, that way; *atra*
+= in that matter; *vicaaraNaa na kaaryaa* = doubt, need not, be done; *raameNa utsR^iSTaa*
+= by Rama, unloosened; *rukma punkhaaH tu patatriNaH sharaa* = gold, finned, feather-winged,
+arrows, are but; *panca aananaa sarpaaH bhuutvaa* = five, faced, serpents, on becoming; *raakshasaan
+bhakshayanti sma* = demons, to consume, they have started to.
+
+**अनुवादः**
+
+"They are not any great souled gods or any heavenly beings as such, hence there is no need to doubt
+about it. Rama unloosened his gold-finned and feather-winged arrows, which on becoming five-faced serpents
+started consuming the demons. [3-31-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +857,13 @@ _________________
 इत्थं विनाशितं तेन जनस्थानं तवानघ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+येन येन च गच्छन्ति राक्षसा भय कर्शिताः ॥ ३-३१-१९
+तेन तेन स्म पश्यन्ति रामम् एव अग्रतः स्थितम् ।
+इत्थम् विनाशितम् जनस्थानम् तेन तव अनघ ॥ ३-३१-२०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भयसे कातर हुए राक्षस जिस-जिस मार्गसे भागते थे, वहाँ-वहाँ वे श्रीरामको ही अपने सामने खड़ा देखते थे । अनघ! इस प्रकार अकेले श्रीरामने ही आपके जनस्थानका विनाश किया है’ ॥ १९-२० ॥
@@ -430,6 +872,35 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भयदिन्द कातरराद राक्षसरु ओडिदल्लॆल्ला श्रीरामनन्ने तन्न ऎदुरिगॆ निन्तन्तॆ नोडुत्तिद्दरु. अनघने! ई प्रकार ऒब्बण्टिगनाद श्रीरामने निन्न जनस्थानवन्नु नाशमाडिदनु.॥19-20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20. bhaya karshitaaH raakshasaa* = by fear, smitten, demons; *yena yena gacChanti ca*
+= by which, by which p way, in whichever pathway, are going, while; *tena tena* = in that, in
+that - pathway [everywhere]; *agrataH sthitam* = afore, standing; *raamam eva pashyanti sma*
+= at Rama, alone, are seeing, they became so; *anagha* = oh, merited Ravana; *tena* =
+by him; *ittham* = in this way; *tava janasthaanam vi naashitam* = your, Janasthaana,
+totally, ruined.
+
+**अनुवादः**
+
+"To whichever nook those demons smitten by fear of those serpent-like are fleeing, they have seeing
+Rama alone standing afore them in that corner, and oh, merited king Ravana, in this way your Janasthaana
+is totally ruined by that Rama. [3-31-19b, 20] [3-31-19]
+
+**टिप्पनी**
+
+Rama appeared to have assumed fourteen-thousand forms of one Rama svecChaa gR^ihiita dehaiH, and appeared
+confronting on the path of each and every demon who is trying to take shelter in a corner. Rama further
+appeared in each of the objects the demons wanted to pick up and fight back, say trees, boulders etc.
+*raamam eva agrataH sthitam pashyanti* - Tiirtha. Because the demons are smitten by fear, that fear reflected
+one Rama as fourteen thousand Rama-s, and it is not any divine trick or magic done by Rama. - Govindaraja.
+It is same with Kamsa in Bhaagavata when he sees one Krishna as many Krishna-s in his fear.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +915,12 @@ _________________
 गमिष्यामि जनस्थानं रामं हन्तुं सलक्ष्मणम् ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अकंपन अचः श्रुत्वा रावणो वाक्यम् अब्रवीत् ।
+गमिष्यामि जनस्थनम् रामम् हन्तुम् स लक्ष्मणम् ॥ ३-३१-२१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अकम्पनकी यह बात सुनकर रावणने कहा—‘मैं अभी लक्ष्मणसहित रामका वध करनेके लिये जनस्थानको जाऊँगा’ ॥ २१ ॥
@@ -452,6 +929,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अकम्पन ई मातन्नु केळि रावणनु - ‘नानु ईगले लक्ष्मण सहित रामनन्नु वधिसलु जनस्थानक्कॆ होगुत्तेनॆ’ ऎन्दु हेळिदनु.॥21॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21. akampana vacaH shrutvaa* = Akampana's, words, on hearing; *raavaNaH vaakyam abraviit*
+= Ravana, sentence, said; *sa lakshmaNam raamam hantum* = with, Lakshmana, Rama, to kill; *
+janasthanam gamiSyaami* = to Janasthaana I wish to go.
+
+**अनुवादः**
+
+On hearing the words of Akampana Ravana said these words, "I will to go to Janasthaana to kill Rama
+along with Lakshmana." [3-31-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +959,12 @@ _________________
 शृणु राजन् यथावृत्तं रामस्य बलपौरुषम् ॥ २२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अथ एवम् उक्ते वचने प्रोवाच इदम् अकंपनः ।
+श्रुणु राजन् यथा वृत्तम् रामस्य बल पौरुषम् ॥ ३-३१-२२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसके ऐसा कहनेपर अकम्पन बोला—‘राजन्! श्रीरामका बल और पुरुषार्थ जैसा है, उसका यथावत् वर्णन मुझसे सुनिये ॥ २२ ॥
@@ -474,6 +973,35 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळिदाग अकम्पनु नुडिदनु-राजने! श्रीरामन बल मत्तु पुरुषार्थ हेगिदॆ ऎम्बुदर यथार्थ वर्णनॆ नन्निन्द केळिरि.॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. evam vacane ukte* = this way, sentence, while being said; *tataH* = then; *akampanaH
+idam pra uvaaca* = Akampana, this, said; *raajan* = oh, king; *yathaa vR^ittam* =
+as, happened [ in actuality]; *raamasya bala pauruSam* = Rama's, spirit, grit; *shruNu*
+= you listen.
+
+**अनुवादः**
+
+When Ravana said so then Akampana said these words in reply, " listen, oh, king, what all has happened,
+and of what in actuality is Rama's spirit and grit. [3-31-22]
+
+**टिप्पनी**
+
+Akampana is saying that what all has happened to the dead demons is in accordance with their deeds done
+when they are alive *yathaa vR^ittam* 'as they have done inhuman deeds thus they got punishment.' These
+dead demons are the actual troublemakers to the sages at the behest of Ravana.
+*yadaa na
+khalu yaj~nasya vighna kartaa mahaabalaH || 1-20-18* As said by Sage Vishvamitra, Ravana
+does not cause any hindrances to ritual, but these hench-demons do. So, they reaped the fruits of their
+actions. Or, *raamasya vR^ittam: itihaasa puraaNa prakiirtita vR^ittam* 'that which is enshrined in legends
+and mythology, I will tell those aspects of Rama.' yathaa vat balam pauruSam 'as it is his might and
+grit...' 'I will let you know about them...' So said Akampana to Ravana. - Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,6 +1022,13 @@ _________________
 सताराग्रहनक्षत्रं नभश्चाप्यवसादयेत् ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+असाध्यः कुपितो रामो विक्रमेण महायशाः ।
+आप गायाः तु पूर्णाया वेगम् परिहरेत् शरैः ॥ ३-३१-२३
+स तारा ग्रह नक्षत्रम् नभः च अपि अवसादयेत् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महायशस्वी श्रीराम यदि कुपित हो जायँ तो उन्हें अपने पराक्रमके द्वारा कोई भी काबूमें नहीं कर सकता । वे अपने बाणोंसे भरी हुई नदीके वेगको भी पलट सकते हैं तथा तारा, ग्रह और नक्षत्रोंसहित सम्पूर्ण आकाशमण्डलको पीड़ा दे सकते हैं ॥ २३ १/२ ॥
@@ -502,6 +1037,38 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महायशस्वी श्रीरामनु कुपितनादरॆ अवनन्नु पराक्रमदिन्द यारू नियन्त्रिसलाररु. अवनु तन्न बाणगळिन्द तुम्बिद नदिय वेगवन्नु तिरुगिसबल्लनु. तारा ग्रह-नक्षत्रगळिन्द कूडिद सम्पूर्ण आकाशवन्नु आक्रान्तवागिसबल्लनु.॥23॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. mahaa yashaaH raamaH* = highly renowned, Rama; *vikrameNa a saadhyaH* = by braving
+against, not, conquerable; *kupitaH [raamaH]* = when infuriated; *puurNaayaa* = plethoric;
+*aapa gaayaaH* = with waters, coursing - of river; *vegam* = onrush; *sharaiH pariharet*
+= with arrows, will curb.
+
+**अनुवादः**
+
+"Rama, the highly renolwned, is invincible just by braving against him, for that Rama in fury can stall
+the onrush of a plethoric river with his arrows. [3-31-23]
+
+**टिप्पनी**
+
+Rama does not tolerate the upheaval of the system thus he becomes infuriated *kupitaH* as and when anything
+unwarranted occurs. And this fury is a getup to Rama, but it is not his innate nature because *ramayate
+iti raamaH* 'he who delights is Rama...' Thus he cannot always become furious. He is invincible just by
+brute-force *vikrameNa a+saadhyaH* . Thus he is approachable only in accordance with a set system
+conduct. Further, the word *a+saadhya* is not coupled with any other sub-words *upapada,* so he is invincible
+even to Brahma, Rudra, Indra et al. By this Vishnu's *trivikrama* incarnation is indicated. He can stop,
+or bifurcate the plethoric river stream just by his intention, leave alone arrows.
+*bhayaanaka
+aavarta shataakulaa nadii maargam dadau sindhuH iha shriyaH pateH -- bhaagavata *In Bhaagavata
+the tumultuous river gave way to carry Krishna to go to the other side. Thus the incarnation of Krishna, in
+earlier times, or in the forthcoming eras, is suggested. - Tiirtha. As a river gives way to fishes to
+swim, his *matsya* 'Fish...' incarnation is also suggested.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -518,6 +1085,14 @@ _________________
 वेगं वापि समुद्रस्य वायुं वा विधमेच्छरैः ॥ २५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+असौ रामः तु सीदन्तीम् श्रीमान् अभ्युद्धरेत् महीम् ।
+वेगम् वा अपि समुद्रस्य वाअयुम् वा विधमेत् शरैः ।
+३-३१-२४
+भित्वा वेलाम् समुद्रस्य लोकान् आप्लावयेत् विभुः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वे श्रीमान् भगवान् राम समुद्रमें डूबती हुई पृथ्वीको ऊपर उठा सकते हैं, महासागरकी मर्यादाका भेदन करके समस्त लोकोंको उसके जलसे आप्लावित कर सकते हैं तथा अपने बाणोंसे समुद्रके वेग अथवा वायुको भी नष्ट कर सकते हैं ॥ २४-२५ ॥
@@ -526,6 +1101,57 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीमान् रामनु समुद्रदल्लि मुळुगिद पृथ्वियन्नु मेलॆत्तबल्लनु. महासागरद मेरॆयन्नु भेदिसि समस्त लोकगळन्नु मुळुगिसबल्लनु. तन्न बाणगळिन्द समुद्रदवेग अथवा वायुवन्नू कूड नाशमाडबल्लनु.॥24-25॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25. vibhuH* = lord Rama; *bhitvaa samudrasya velaam* = breaching, ocean's, shoreline;
+*lokaan aaplaavayet* = worlds, he will deluge; *samudrasya vegam vaa api* = of ocean,
+speed [turbulence,] or, even; *vaaayum vaa* = [or that causer of turbulence,] wind, even if;
+*sharaiH vi dhamet* = with arrows, verily, stalls.
+
+**अनुवादः**
+
+"On breaching the shoreline of the ocean with his arrows that lord Rama can deluge worlds, and he can
+stem the tide of turbulent ocean, or can even stall the agent of that turbulence, namely the wind. [3-31-25]
+
+**टिप्पनी**
+
+The deluging worlds suggest s*amkarSaNa* aspect. Govindaraja. Because he deluges all the worlds, he is
+*yuga antakaH* 'the epoch-ender...' The said 'Air' suggests other elements also, like Fire, Water etc.,
+as said in *pR^idvii apsu liiyate, aapaH tejasa liiyate* 'earth merges in waters, waters merges in fire...'
+thus he can stem the tide of all the elements, taking *samhR^itya* from the next verse. Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. shriimaan asau raamaH tu* = magnificent one, that, Rama, on his part; *sa taaraa graha
+nakshatram* = with, starlets, planets, stars; *nabhaH ca api* = firmament, also, even that
+also; he can; *ava saadayet* = to down, he collapses; *siidantiim mahiim abhi uddharet*
+= one that is sinking, earth, to up, he elevates.
+
+**अनुवादः**
+
+"That magnificent Rama can collapse even the firmament along with its starlets, stars and planets, and
+he even can elevate the earth if it were to collapse. [3-31-24]
+
+**टिप्पनी**
+
+By the attributes of stars and planets to the firmament, the Golden-Egg *hiraNya garbha* is suggested.
+So, he is the Originator. In the incarnation as *vikrama* 'Dwarf-boy...' he set one of his feet on the
+yonder blue, hence the firmament has no value for him. *siidantii mahiim uddharet* Raising the sinking
+earth is suggestive of *varaaha *'Wild Boar...' incarnation, where he uplifted drowning earth on the snoot
+of a wild boar. And again *siidantii mahiim uddharet* where *mahi* is taken as people, and it is said 'when
+people on earth are sinking/collapsing under tyranny, he uplifts them...' as he is the ultimate absolver
+and terminator of the creation. Govindaraja and Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +1166,12 @@ _________________
 शक्तः श्रेष्ठः स पुरुषः स्रष्टुं पुनरपि प्रजाः ॥ २६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+संहृत्य वा पुनर् लोकान् विक्रमेण महायशाः ।
+शकतः श्रेष्ठः स पुरुषः स्रष्टुम् पुनर् अपि प्रजाः ॥ ३-३१-२६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वे महायशस्वी पुरुषोत्तम अपने पराक्रमसे सम्पूर्ण लोकोंका संहार करके पुनः नये सिरेसे प्रजाकी सृष्टि करनेमें समर्थ हैं ॥ २६ ॥
@@ -548,6 +1180,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ महायशस्वी पुरुषोत्तमनु तन्न पराक्रमदिन्द समस्त लोकगळन्नु संहार माडि पुनः हॊसदागि प्रजॆगळन्नु सृष्टिसलु समर्थनागिद्दानॆ.॥26॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26. vaa* = or; *mahaa yashaaH* = great-glorious one; *saH puruSaH shreSThaH* =
+he that, among men, ablest one; *punaH lokaan* = again, worlds; *vikrameNa* = by his valour;
+*samhR^itya* = on destroying [dissolving]; *prajaaH punaH api sraSTum shakataH* = people
+[creation,] again, even, to create, he is capable.
+
+**अनुवादः**
+
+"That great valorous and the ablest among humans is capable to destroy all the worlds with his valour,
+and even capable of creating the people again.
+
+Or, again dissolving all the worlds into himself, that great contemplator who transcends all is even
+capable of creating the creation again from out of him. [3-31-26]
+
+**टिप्पनी**
+
+The word *shR^STi *does not mean crafting anything anew. It is from *sR^ij* 'releasing out...' The innate
+souls jiiva are not created anew, they are ever there. But they emerge out of Brahman and resolve in
+Him according to their karmic cycle. This is Gita's concept. He 'creates worlds again...' indicates
+that in earlier eras also he is the Creator. *vikrameNa* is not always 'by valorousness' but 'just by
+contemplation...' He can create, rather evolve from his within, because he is *mahaa yashaH* 'glorious...'
+since Veda-s say *eko ha vai naaraayaNa, paraa asya shakti, etasya vaa a ksharasya* How a
+single being can do all
+these thing? For this it is said *saH shreSThaH puruSaH* 'he is more than, better than, transcendent,
+to humans...' but not 'best among men' as routinely said above. The word *punaH* 'again' is used twice,
+one belongs to the earlier dissolutions and creations and another to the forthcoming ones. Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,6 +1227,12 @@ _________________
 रक्षसां वापि लोकेन स्वर्गः पापजनैरिव ॥ २७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न हि रामो दशग्रीव शक्यो जेतुम् रणे त्वया ।
+रक्षसाम् वा अपि लोकेन स्वर्गः पाप जनैः इव ॥ ३-३१-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दशग्रीव! जैसे पापी पुरुष स्वर्गपर अधिकार नहीं प्राप्त कर सकते, उसी प्रकार आप अथवा समस्त राक्षस-जगत् भी युद्धमें श्रीरामको नहीं जीत सकते ॥ २७ ॥
@@ -570,6 +1241,35 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशग्रीवने! पापियु स्वर्गद मेलॆ अधिकार पडॆयलारदवनन्तॆ नीवु अथवा समस्त राक्षस जगत्तू कूड युद्धदल्लि श्रीरामनन्नु गॆल्ललारदु.॥27॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. dashagriiva* = oh, Dashagriiva; *raamaH raNe tvayaa [vaa]* = Rama, in war, by you,
+[either]; *rakshasaam lokena vaa api* = with demons, with the hosts of demons [not world,] or,
+even; *jetum* = to conquer; *svargaH paapa janaiH iva* = heavens, by sinning, people,
+like [as if conquered]; *na shakyaH hi* = not, possible, indeed.
+
+**अनुवादः**
+
+"Oh, Dashagriiva, it is impossible to conquer that Rama in war for your, either singly or along with
+the hosts of the demon-supporters of yours, as one heaven cannot be won by many sinners. [3-31-27]
+
+**टिप्पनी**
+
+Ravana may question this spy as, 'When I am a ten-headed-demon, and he is single headed-human, why cannot
+I conquer him? The reply is 'you cannot, because you have only ten heads whereas each of the two brothers
+has *sahasra shiirSaa puruSa, sahasra aksha...* 'thousands of heads and thousands of eyes...' They are
+invincible whether you attack him singly or along with hosts of other sinister demons of your like,
+namely Namuchi, Hiranayakashyapa, Shambara et al. No one can conquer him. The analogy is like this.
+Though there are many sinners in many worlds, all put together are not able to conquer one single heaven.
+Tiirtha. *anena paapiShThaiH
+svargaH praaptum na shakyata iti uktam - - *anena sukR^itinaam svargaH paapiShThaanaam naraka iti suucitam
+- dk* *.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +1284,12 @@ _________________
 अयं तस्य वधोपायस्तन्ममैकमनाः शृणु ॥ २८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न तम् वध्यम् अहम् मन्ये सर्वैः देव असुरैः अपि ।
+अयम् अस्य वध उपाय तत् एकमनाः शृउणु ॥ ३-३१-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरी समझमें सम्पूर्ण देवता और असुर मिलकर भी उनका वध नहीं कर सकते । उनके वधका यह एक उपाय मुझे सूझा है, उसे आप मेरे मुखसे एकचित्त होकर सुनिये ॥ २८ ॥
@@ -592,6 +1298,37 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु तिळिदन्तॆ समस्त देवतॆगळु मत्तु असुररु सेरियू अवनन्नु वधिसलाररु. अवन वधॆय ऒन्दु उपाय ननगॆ हॊळॆदिदॆ, अदन्नु एकाग्रवागि केळु.॥28॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28. sarvaiH deva asuraiH api* = by all, gods, demons, even; *tam* = him, Rama; *vadhyam*
+= as killable; *aham na manye* = I, do not, think; *asya vadha upaaya* = him, to kill,
+idea; *ayam* = is this one; *tat [mama]* = that, from me; *eka manaaH shR^iuNu*
+= that, single, minded [attentively,] you listen.
+
+**अनुवादः**
+
+"I do not think that he is killable even for all god and demons, and this is the idea to kill him, and
+to this you may listen attentively. [3-31-28]
+
+**टिप्पनी**
+
+The 'gods and demons...' is said in plural, *deva asuraiH* even then sarva 'all' is also incorporated.
+This is to say that even in the forthcoming eras also he is invincible. Then the spy says an unasked
+for opinion, *aham manye: ---- * 'I admit... that he is unkillable... though I belong to the clan of demons,
+on seeing Rama's valour in person, some wisdom dawned on me by the merit of my earlier births, but you
+are not able to open your eyes as yet, because you are still a stupid...' *aasuriim yonim aapanaa muuDhaa
+janmani janmani... Gita 16-20*. Tirtha.
+
+**टिप्पनी**
+
+Sage Valmiki is speaking through the tongue of this Akampana, the spy, about the invincibility of Rama.
+Govindaraja.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +1346,12 @@ _________________
 श्यामा समविभक्ताङ्गी स्त्रीरत्नं रत्नभूषिता ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+भार्या तस्य उत्तमा लोके सीता नाम सुमध्यमा ।
+श्यामा सम विभक्त अंगी स्त्री रत्नम् रत्न बूषिता ॥ ३-३१-२९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीरामकी पत्नी सीता संसारकी सर्वोत्तम सुन्दरी है । उसने यौवनके मध्यमें पदार्पण किया है । उसके अङ्ग-प्रत्यङ्ग सुन्दर और सुडौल हैं । वह रत्नमय आभूषणोंसे विभूषित रहती है । सीता सम्पूर्ण स्त्रियोंमें एक रत्न है ॥ २९ ॥
@@ -617,6 +1360,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन पत्नी सीतॆयु जगत्तिन सर्वोत्तम सुन्दरियागिद्दाळॆ. आकॆ नडुजव्वनॆयागिद्दाळॆ. आकॆय सर्वाङ्गगळू सुन्दरवागिद्दु, रत्नमय आ भूषणगळिन्द अलङ्कृतळागिरुत्ताळॆ. सीतॆयु समस्त स्त्रीयरल्लि रत्नप्रायळागिद्दाळॆ.॥29॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*29. loke* = in world; *uttamaa* = an excellent [woman]; *shyaamaa* = youthful;
+*sama vibhakta angii* = well, divided [symmetrical,] limbed; *strii ratnam* = lady, jewle-like;
+*ratna buuSitaa* = with jewels [jewellery,] adorned with; *siitaa naama* = Seetha, known
+as; *su madhyamaa* = slender, waisted one; *tasya bhaaryaa* = is his, wife.
+
+**अनुवादः**
+
+"An excellent woman in the world is there, a youthful one with symmetrical limbs, a jewel-like lady
+adorned with jewellery, that slender-waisted one who is known as Seetha is his wife. [3-31-29]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +1391,12 @@ _________________
 तुल्या सीमन्तिनी तस्या मानुषी तु कुतो भवेत् ॥ ३० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+न एव देवी न गन्धर्वी न अप्सरा न च पन्नगी ।
+तुल्या सीमन्तिनी तस्या मानुषी तु कुतो भवेत् ॥ ३-३१-३०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देवकन्या, गन्धर्वकन्या, अप्सरा अथवा नागकन्या कोई भी रूपमें उसकी समानता नहीं कर सकती, फिर मनुष्य-जातिकी दूसरी कोई नारी उसके समान कैसे हो सकती है ॥ ३० ॥
@@ -639,6 +1405,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवकन्यॆ, गन्धर्वकन्यॆ, अप्सरॆ अथवा नागकन्यॆ यारू कूड आकॆगॆ समानरागलाररु, हागिरुवाग मनुष्य जातिय बेरॆ यावुदादरू नारियु हेगॆ समानवागबल्लळु.॥30॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30. tasyaaH tulyaa siimantinii* = her, equalling - liken to, mature one; *devii na eva*
+= goddess, not, thus; *gandharvii na* = gandharva-female, no; *apsaraa na* = apsara-female,
+no; *pannagii na ca* = pannaga-female, not, even; *maanuSii tu kutaH bhavet* = woman,
+but, where, will be.
+
+**अनुवादः**
+
+"No goddess can be likened to that mature lady; a gandharva female - no; a apsara female - no; a pannaga
+female -no, then how can there be a woman of her like? [3-31-30]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -653,6 +1436,12 @@ _________________
 सीतया रहितो रामो न चैव हि भविष्यति ॥ ३१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य अपहर भार्याम् त्वम् तम् प्रमथ्य महावने ।
+सीताया रहितो रामो न च एव हि भविष्यति ॥ ३-३१-३१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उस विशाल वनमें जिस किसी भी उपायसे श्रीरामको धोखेमें डालकर आप उनकी पत्नीका अपहरण कर लें । सीतासे बिछुड़ जानेपर श्रीराम कदापि जीवित नहीं रहेंगे’ ॥ ३१ ॥
@@ -661,6 +1450,47 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ विशाल वनदल्लि यावुदादरू उपायदिन्द श्रीरामनिगॆ मोसगॊळिसि नीनु अवन पत्नियन्नु अपहरणमाडु. सीतॆयिन्द अगलिद श्रीरामनु ऎन्दिगू जीविसलारनु.॥31॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31. tvam* = you; *mahaavane* = in great-forest - in wilderness, solitude; pramathya forcefully;
+*tasya bhaaryaam apahara* = his, wife, you steal - abduct; *raamaH siitaayaa rahitaH*
+= Rama, Seetha, reft of; *na bhaviSyati eva hi* = not, exists, that way, indeed.
+
+**अनुवादः**
+
+"You forcefully abduct his wife when she is in solitude, and indeed Rama will not exist reft of Seetha."
+Akampana advised Ravana in this way. [3-31-31]
+
+**टिप्पनी**
+
+Govindaraja says that this Akampana is talking like an enlightened sage, and Maheshvara Tiirtha says
+that a divine wisdom has dawned on this spy just now. Then the question that arises is: How a sagacious
+spy prompted Ravana to abduct Seetha? There are two answers for this.
+
+**टिप्पनी**
+
+1. Any employee is a half-slave to his master, *artha daasaa janaaH sarve* as the money paid makes one
+a slave of the payer. This spy prompted Ravana in that way because he knows that Ravana is womaniser.
+Like-king-like-subjects *yathaa raajaa tathaa prajaaH* thus great-demons think alike. Further Ravana did
+not ask for the triggering point for the elimination of these many demons. If Ravana questions about
+it, Akampana had to say that Ravana's own sister Shuurpanakha wanted to debauch. Then Ravana's rage
+multiplies and he may even kill Akampana.
+
+**टिप्पनी**
+
+2. All the sages, including Agastya, have declared to Rama that they have planned to bring Rama to Janasthaana
+only to eliminate the demons at Janasthaana and going further from Janasthaana to Lanka and eliminating
+Ravana is Rama's headache. Which happens owing to Seetha.* aaniitaH
+tvam imam desham upaayena maharShibhiH || 3-30-35* Thus this sagacious Akampana is plotting
+to bring Seetha firstly, for whom Rama comes conquering Ravana, and then the demons on earth will be
+eradicated. Without Janasthaana Lanka is nothing but an open-door castle. So, the sages paved way for
+Rama through Janasthaana to Lanka.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,6 +1505,12 @@ _________________
 चिन्तयित्वा महाबाहुरकम्पनमुवाच ह ॥ ३२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अरोचयत् तद् वाक्यम् रावणो राक्षस अधिपः ।
+चिंतयित्वा महाबाहुः अकंपनम् उवाच ॥ ३-३१-३२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राक्षसराज रावणको अकम्पनकी वह बात पसंद आ गयी । उस महाबाहु दशग्रीवने कुछ सोचकर अकम्पनसे कहा— ॥ ३२ ॥
@@ -683,6 +1519,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराज रावणनिगॆ अकम्पन मातु मॆच्चिकॆयायितु. आ महाबाहु दशग्रीवनु स्वल्प योचिसि अकम्पनल्लि हेळिदनु.॥32॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*32. raakshasa adhipaH raavaNaH* = demons, chief, Ravana; *tat vaakyam arocayat* = that,
+word [idea,] favoured; *mahaa baahuH* = mighty armed Ravana; *cintayitvaa* = thought of
+it; *akampanam uvaaca* = to Akampana, spoke.
+
+**अनुवादः**
+
+The chief of demons Ravana favouring that idea thought of it and that mighty armed Ravana then spoke
+to Akampana. [3-31-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +1552,12 @@ _________________
 आनयिष्यामि वैदेहिमिमां हृष्टो महापुरीम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+बाढम् कल्यम् गमिष्यामि हि एकः सारथिना सह ।
+आनेष्यामि च वैदेहीम् इमाम् हृष्टो महा पुरीम् ॥ ३-३१-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ठीक है, कल प्रातःकाल सारथिके साथ मैं अकेला ही जाऊँगा और विदेहकुमारी सीताको प्रसन्नतापूर्वक इस महापुरीमें ले आऊँगा’ ॥ ३३ ॥
@@ -708,6 +1566,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सरि, नाळॆ प्रातःकालवे सारथियॊन्दिगॆ नानु ऒब्बने होगि विदेहकुमारी, सीतॆयन्नु सन्तोषवागि ई लङ्कापुरिगॆ करॆदुकॊण्डु बरुवॆनु.॥33॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*33. baaDham* = Agreed!; *kalyam* = in early morning; *ekaH* = alone; *saarathinaa
+saha* = charioteer, with; *gamiSyaami hi* = i will go, indeed; *hR^iSTaH* = delightedly;
+*vaidehiim imaam mahaa puriim* = Vaidehi, to this, great, city - elegant Lanka; *aaneSyaami
+ca* = I wish to lead her in, also.
+
+**अनुवादः**
+
+"Agreed! I wish to go alone early in the morning with a charioteer and I delightfully wish to lead Vaidehi
+into the elegant city Lanka." Ravana declared that way. [3-31-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +1597,12 @@ _________________
 रथेनादित्यवर्णेन दिशः सर्वाः प्रकाशयन् ॥ ३४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तत् एवम् उक्त्वा प्रययौ खर युक्तेन रावणः ।
+रथेन आदित्य वर्णेन दिशः सर्वाः प्रकाशयन् ॥ ३-३१-३४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ऐसा कहकर रावण गधोंसे जुते हुए सूर्यतुल्य तेजस्वी रथपर आरूढ़ हो सम्पूर्ण दिशाओंको प्रकाशित करता हुआ वहाँसे चला ॥ ३४ ॥
@@ -730,6 +1611,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि रावणनु कत्तॆगळन्नु हूडिद सूर्यनन्तह तेजस्वी रथारूढनागि ऎल्ल दिक्कुगळन्नु बॆळगुत्ता अल्लिन्द हॊरटनु.॥34॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. raavaNaH tat evam uktvaa* = Ravana, that, that way, on saying; *khara yuktena* =
+mules [like animals,] yoked with; *aaditya varNena* = sun-like, in dazzle; *rathena* =
+with chariot; *sarvaaH* = dishaH prakaashayan = all, directions, making to glitter; *prayayau*
+= journeyed.
+
+**अनुवादः**
+
+Saying so Ravana journeyed in a chariot that is yoked with mule-like horses, and that has the dazzling
+of the sun, whereby all the directions are made to glitter. [3-31-34]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +1645,12 @@ _________________
 सञ्चूर्यमाणः शुशुभे जलदे चन्द्रमा इव ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स रथो राक्षस इंद्रस्य नक्षत्र पथगो महान् ।
+चंचूर्यमानः शुशुभे जलदे चंद्रमा इव ॥ ३-३१-३५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 नक्षत्रोंके मार्गपर विचरता हुआ राक्षसराजका वह विशाल रथ बादलोंकी आड़में प्रकाशित होनेवाले चन्द्रमाके समान शोभा पा रहा था ॥ ३५ ॥
@@ -755,6 +1659,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नक्षत्रगळ मार्गदिन्द सागुत्तिद्द राक्षसराजन आ विशालरथवु मोडगळ मरॆयल्लि प्रकाशिसुत्तिरुव चन्द्रनन्तॆ शोभिसुत्तित्तु.॥35॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*35. raakshasa indrasya* = of demon, lord; *cancuuryamaanaH [sancaaryamaaNaH]* = while
+speedily progressing; *nakshatra patha gaH* = on starry, way, while going; mahaan great one [opalescent
+chariot - French opale or Latin opalus, probably ultimately from Sanskrit upalas -- precious stone'];
+*saH rathaH* = that, chariot; *jalade candramaa iva* = in clouds, moon, as with; *shu
+shubhe* = verily, shone forth.
+
+**अनुवादः**
+
+That opalescent chariot of the lord of demons while speedily progressing through starry way shone forth
+as if it is the moon in clouds. [3-31-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,6 +1691,12 @@ _________________
 मारीचेनार्चितो राजा भक्ष्यभोज्यैरमानुषैः ॥ ३६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स दूरे च आश्रमम् गत्वा ताटकेयम् उपागतम् ।
+मारीचेन अर्चितो राजा भक्ष्य भोज्यैः अमानुषैः ॥ ३-३१-३६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कुछ दूरपर स्थित एक आश्रममें जाकर वह ताटकापुत्र मारीचसे मिला । मारीचने अलौकिक भक्ष्य-भोज्य अर्पित करके राजा रावणका स्वागत-सत्कार किया ॥ ३६ ॥
@@ -777,6 +1705,30 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्वल्पदूरदल्लिद्द ऒन्दु आश्रमक्कॆ होगि अवनु ताटका पुत्र मारीचनन्नु भॆट्टियादनु. मारीचनु अलौकिक भक्ष्य-भोज्यगळन्नु अर्पिसि रावणनन्नु स्वागतिसिदनु.॥36॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*36. saH* = he that Ravana; *duure* = at a distant place; *[maareecha] aashramam gatvaa*
+= [Maareecha's,] to hermitage, on going; *taaTakeyam upaagatam* = by Taka's son, approached -
+received; *a maanuSaiH bhakshya bhojyaiH* = unavailable, to humans, with sweetmeats, savouries;
+*maariicena* = by Maareecha; *raajaa* = king; *arcitaH* = is venerated.
+
+**अनुवादः**
+
+On going to the hermitage of Maareecha which is at a distant place Maareecha the son of Tataka received
+Ravana and venerated that king of demons with sweetmeats and savouries that are unavailable to humans.
+[3-31-36]
+
+**टिप्पनी**
+
+The food items bhakshya are the supplementary items like laddu-s, jilebi, etc., and the like, whereas
+the bhojya items are boiled-rice, wheat-bread etc., the staple food items. The word a+maanuSaiH may
+also mean 'inhuman' but nowhere we find Ravana taking such a lowly food.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -791,6 +1743,12 @@ _________________
 अर्थोपहितया वाचा मारीचो वाक्यमब्रवीत् ॥ ३७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तम् स्वयम् पूजयित्वा तु आसनेन उदकेन च ।
+अर्थ उपहितया वाचा मारीचो वाक्यम् अब्रवीत् ॥ ३-३१-३७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 आसन और जल आदिके द्वारा स्वयं ही उसका पूजन करके मारीचने अर्थयुक्त वाणीमें पूछा— ॥ ३७ ॥
@@ -799,6 +1757,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आसन, नीरु मुन्तादवुगळिन्द स्वतः अवनन्नु पूजिसि मारीचनु अर्थयुक्तवागि इन्तॆन्दनु.॥37॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*37. maariicaH tam aasanena udakena ca* = Maareecha, him - Ravana, with [proper] seat, by water,
+also; *svayam puujayitvaa tu* = in person, on worshipping [attending to]; *artha upahitayaa
+vaacaa* = meaning, inclusive, words; *vaakyam abraviit* = , sentence, spoke.
+
+**अनुवादः**
+
+Offering proper seat and water for washing feet and hands Maareecha personally attended Ravana and spoke
+to him this sentence that is worded meaningfully. [3-31-37]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +1790,12 @@ _________________
 आशङ्के नाधिजाने त्वं यतस्तूर्णमुपागतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कश्चित् सुकुशलम् राजन् लोकानाम् राक्षसाधिप ।
+आशंके न अथ जाने त्वम् यतः तूर्णम् उपागतम् ॥ ३-३१-३८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसराज! तुम्हारे राज्यमें लोगोंकी कुशल तो है न? तुम बड़ी उतावलीके साथ आ रहे हो, इसलिये मेरे मनमें कुछ खटका हुआ है । मैं समझता हूँ, तुम्हारे यहाँका अच्छा हाल नहीं है’ ॥ ३८ ॥
@@ -824,6 +1804,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! निन्न राज्यदल्लि क्षेम ताने? नीनु बहळ अवसरदिन्द बन्दन्तिदॆ, अदक्कागि नन्न मनस्सिनल्लि अशङ्कॆ उण्टागिदॆ. निन्नल्लिय स्थिति चॆन्नागिल्ल ऎन्दु नानु तिळियुत्तिद्देनॆ.॥38॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*38. raakshasa adhipa raajan* = to demons, being the supremo, oh, king; *lokaanaam su kushalam
+kashcit* = for subjects, verily, safe somehow - is everything well with your subjects, namely demons;
+*atha* = now; *yataH* = for what [reason]; *tvam tuurNam upaagatam* = you, rushingly,
+neared - came here; thereby; *aashanke* = I am anxious; *na jaane* = I do not, know.
+
+**अनुवादः**
+
+"Oh, king and supremo of demons, I am anxious to know whether everything safe and secure to the inhabitants
+of your kingdom, for I am not in the know of the reason by which now you have come here rushingly. [3-31-38]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +1835,12 @@ _________________
 ततः पश्चादिदं वाक्यमब्रवीद् वाक्यकोविदः ॥ ३९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्तो महातेजा मारीचेन स रावण ।
+ततः पश्चात् इदम् वाक्यम् अब्रवीत् वाक्य कोविदः ॥ ३-३१-३९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 मारीचके इस प्रकार पूछनेपर बातचीतकी कलाको जाननेवाले महातेजस्वी रावणने इस प्रकार कहा— ॥ ३९ ॥
@@ -846,6 +1849,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मारीचनु हीगॆ हेळिदाग वाक्यकोविदनाद महातेजस्वी रावणनु हीगॆ हेळिदनु.॥39॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*39. maariicena evam uktaH* = by Maareecha, thus, one who is said; *mahaatejaa* = great-radiant
+one; *vaakya kovidaH* = sentence, expert in making; *saH raavaNa* = he that, Ravana;
+*tataH pashcaat* = then, after - thereafter; *idam vaakyam abraviit* = this, sentence,
+spoke.
+
+**अनुवादः**
+
+When Maareecha said so to him that greatly radiant one who is a sententious speaker that Ravana thereafter
+spoke this sentence. [3-31-39]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -860,6 +1880,13 @@ _________________
 जनस्थानमवध्यं तत् सर्वं युधि निपातितम् ॥ ४० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+आरक्षो मे हतः तात रामेण अक्लिष्ट कारिणा ।
+जनस्थानम् अवध्यम् तत् सर्वम् युधि निपातितम् ॥ ३-३१-४०
+तस्य मे कुरु साचिव्यम् तस्य भार्य अपहरणे ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तात! अनायास ही महान् पराक्रम दिखानेवाले श्रीरामने मेरे राज्यकी सीमाके रक्षक खर-दूषण आदिको मार डाला है तथा जो जनस्थान अवध्य समझा जाता था, वहाँके सारे राक्षसोंको उन्होंने युद्धमें मार गिराया है ॥ ४० ॥
@@ -868,6 +1895,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्या! महान् पराक्रम तोरिसुव श्रीरामनु आयासविल्लदॆ नन्न राज्यद सीमॆय रक्षकराद खर-दूषणादिगळन्नु कॊन्दुहाकिदनु हागू अवध्यवॆन्दु तिळिदिरुव जनस्थानदल्लिन ऎल्ल राक्षसरन्नु अवनु युद्धदल्लि वधिसिबिट्टनु.॥40॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*40. taata* = oh, sire - Maareecha; *a kliSTa kaariNaa raameNa* = without, tiring, making
+[warring, indefatigable one,] by Rama; *me* = my; *aarakshaH* = one that safeguards -
+the army at Janasthaana; *hataH* = is ruined; *tat sarvam* = that, all of it; *[so
+far] a vadhyam* = un, defeatable; *janasthaanam* = Janasthaana; *yudhi nipaatitam*
+= in war, down, brought - brought down, ruined; *tasya me* = such as I am; *tasya* = of
+that one - Rama's; *bhaarya apaharaNe* = wife's, in kidnapping; *saacivyam kuru* = friendly
+help, you render.
+
+**अनुवादः**
+
+"Oh, sire, Rama who is indefatigable in warring has ruined my security stationed at Janasthaana, and
+in war he even brought down all of Janasthaana which is undefeatable so far, such as I am, to me you
+have to render friendly help in kidnapping Rama's wife." [3-31-40]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -917,6 +1965,26 @@ _________________
 निशाचर शिरोमणिये! निनगॆ सीतॆयन्नु कद्दु तरुव सलहॆ कॊट्ट आ मित्र रूपी शत्रुवु यारागिद्दानॆ? निन्निन्द सुख मत्तु आदर पडॆदरू सन्तोषवागिरदॆ निन्न कॆडुकन्नु माडुव आ पुरुषनु यारु.॥42॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*41a, 42. raakshasa indra vacaH shrutvaa* = demon's, chief's, words, on hearing; *maariicaH
+vaakyam abraviit* = Maareecha, words, spoke; *mitra ruupeNa shatruNaa* = friend, in aspect
+[in fakery,] by enemy; *kena* = by whom; *saa siitaa* = she that, [topic of] Seetha;
+*aakhyaataa* = is broached; *raakshasa shaarduula* = oh, among demons, tiger; *vaa*
+= or else; *ninditaH* = a censurable one; *kaH tvayaa na nandati* = who is, not, happy
+[with you, for he is giving such a self-ruinous advise.]
+
+**अनुवादः**
+
+On hearing the words of that chief of demons, Maareecha spoke these words, "who broached the subject
+of Seetha with you, an enemy in the fakery of a friend? Oh, tigerly demon, who is that censurable one
+that is unhappy with you, since he is giving such a self-ruinous advise? [3-31-42]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताम् इहानयस्वेति को ब्रवीति ब्रवीहि मे ।  
@@ -929,6 +1997,12 @@ _________________
 रक्षोलोकस्य सर्वस्य कः शृङ्गं छेत्तुमिच्छति ॥ ४३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सीताम् इह आनस्व इति को ब्रवीति ब्रवीहि मे ।
+रक्षो लोकस्य सर्वस्य कः शृंगम् च्छेत्तुम् इच्छति ॥ ३-३१-४३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘कौन कहता है कि तुम सीताको यहाँ हर ले आओ? मुझे उसका नाम बताओ । वह कौन है, जो समस्त राक्षस-जगत् का सींग काट लेना चाहता है? ॥
@@ -937,6 +2011,29 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु सीतॆयन्नु कद्दुकॊण्डु बा ऎन्दु यारु हेळिदरु? ननगॆ अवन हॆसरु हेळु. समस्त राक्षस जगत्तिन कॊम्बन्नु कत्तरिसलु बयसुववनु यारवनु.॥43॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*43. siitaam iha aanasva iti* = Seetha, here, be brought, thus as; *kaH braviiti* = who,
+says; *me braviihi* = that you say it, to me; *kaH* = who is; *sarvasya rakshaH lokasya*
+= all of the, demons, to the throng of; *shR^ingam [shR^ingam praadhaanyaso... amara kosha]*
+= peak [prominent one]; *cChettum icChati* = who, to cut off, desiring to.
+
+**अनुवादः**
+
+" 'Seetha may be brought to Lanka...' who said it, say him to me, who is that one desiring to cut off
+the prominence of all the demons in all worlds in saying so?
+
+"Who is desirous of getting a zenithal demon ruling all the three worlds to be cut-off when he said
+that Seetha shall be brought to Lanka?
+
+"Who is saying that Seetha is to be brought to Lanka with a desire to get your apogeal ten-heads that
+are prominent among all the clansmen of demons to be cut-off? [3-31-43]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,6 +2048,12 @@ _________________
 आशीविषमुखाद् दंष्ट्रामुद्धर्तुं चेच्छति त्वया ॥ ४४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रोत्साहयति यः च त्वम् स च शत्रुः असंशयम् ।
+आशी मुखात् दंष्ट्राम् उद्धर्तुम् च इच्छति त्वया ॥ ३-३१-४४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो इस कार्यमें तुम्हें प्रोत्साहन दे रहा है, वह तुम्हारा शत्रु है, इसमें संशय नहीं है । वह तुम्हारे हाथों विषधर सर्पके मुखसे उसके दाँत उखड़वाना चाहता है ॥ ४४ ॥
@@ -959,6 +2062,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई कार्यदल्लि निनगॆ प्रोत्साहिसुववनु निन्न शत्रुवे आगिद्दानॆ, इदरल्लि संशयवे इल्ल. अवनु निन्न कैयिन्द विषसर्पद बायियिन्द अदर हल्लन्नु कीळलु बयसुत्तिरुवनु.॥44॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*44. yaH tvam protsaahayati* = he who is, you, encouraging; *saH shatruH* = he is, an
+enemy; *a samshayam* = without, doubt; *tvayaa* = by you; *aashii mukhaat* = from
+snake's, mouth, damSTraam = fangs; *uddhartum icChati ca* = to extricate, desiring, also, [through
+you.]
+
+**अनुवादः**
+
+"Also, he who has motivated you in this way is an undoubted enemy of yours, for he wanted to extricate
+the fangs of a snake from its mouth, of course, through you. [3-31-44]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,6 +2093,12 @@ _________________
 सुखसुप्तस्य ते राजन् प्रहृतं केन मूर्धनि ॥ ४५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+कर्मणा अनेन केन असि कापथम् प्रतिपादितः ।
+सुख सुप्तस्य ते राजन् प्रहृतम् केन मूर्धनि ॥ ३-३१-४५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! किसने तुम्हें ऐसी खोटी सलाह देकर कुमार्गपर पहुँचाया है? किसने सुखपूर्वक सोते समय तुम्हारे मस्तकपर लात मारी है ॥ ४५ ॥
@@ -981,6 +2107,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! यारु निनगॆ इन्तह तप्पु सलहॆयन्नु कॊट्टु कॆट्ट दारिगॆ हच्चिरुवनु? सुखवागि मलगिरुव निन्न तलॆगॆ यारु ऒद्दिरुवनु.॥45॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*45. kena* = by whom; *kena karmaNaa* = by which, for [which] purpose; *kaa patham
+pratipaaditaH asi* = awry, path, attained [blundered upon,] you have; *raajan* = oh, king;
+*sukha suptasya* = comfortably, sleeping - fast asleep; *te muurdhani* = on your, forehead;
+*anena pra hR^itam* = by him, well, hit.
+
+**अनुवादः**
+
+"By whom and by which purpose of his you are made to blunder upon this awry path, oh, king, it is as
+good as his hitting hard on your head while you are fast asleep. [3-31-45]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -999,6 +2142,14 @@ _________________
 स संयुगे राघवगन्धहस्ती ॥ ४६ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+विशुद्ध वंश अभिजना अग्र हस्तः
+तेजो मदः संस्थित दोर् विषाणः ।
+उदीक्षितुम् रावण न इह युक्तः
+स संयुगे राघव गन्धि हस्ती ॥ ३-३१-४६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रावण! राघवेन्द्र श्रीराम वह गन्धयुक्त गजराज हैं, जिसकी गन्ध सूँघकर ही गजरूपी योद्धा दूर भाग जाते हैं । विशुद्ध कुलमें जन्म ग्रहण करना ही उस राघवरूपी गजराजका शुण्डदण्ड है, प्रताप ही मद है और सुडौल बाँहें ही दोनों दाँत हैं । युद्धस्थलमें उनकी ओर देखना भी तुम्हारे लिये उचित नहीं है; फिर जूझनेकी तो बात ही क्या है ॥ ४६ ॥
@@ -1007,6 +2158,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणने! रावेन्द्र श्रीरामनु गन्धयुक्त गजराजनागिद्दानॆ. अवन वासनॆयिन्दले गजरूपी योधरु दूर ओडिहोगुवरु. विशुद्ध कुलदल्लि हुट्टिदुदे रामरूपी गजद सॊण्डिलागिदॆ. प्रतापवे मदवागिदॆ, नीळवाद तोळुगळे ऎरडु दन्तगळागिवॆ. युद्ध स्थळदल्लि अवन कडॆगॆ नोडुवुदू कूड निनगॆ उचितवल्ल, मत्तॆ कादाडुव मातु ऎल्लि उळियितु.॥46॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*46. raavaNa* = oh, Ravana; *vi shuddha vamsha abhi janaa agra hastaH* = very, pure, dynasty
+close, people, fore, hand - one which has a impeccable dynasty and a good bloodline as its trunk;
+*tejaH madaH* = brilliance, as its rut - one that has radiance as its might; *samsthita dor
+viSaaNaH* = very firm, arms, as its tusks - one that has two tusks as firm arms; *saH* =
+he that; *raaghava gandhi hastii* = Raghava, redolent, elephant; *samyuge* = in war;
+*udiikshitum* = to raise eye and see; *iha* = now; *na yuktaH* = not, befitting.
+
+**अनुवादः**
+
+"Oh, Ravana, it will be unbefitting to raise an eye to see Rama in war, who will be then like a majestic
+elephant that has an impeccable dynasty and bloodline as its mammoth trunk, personal radiance as its
+indomitable might, very firm pair of arms as its pernicious tusks, more so, who will be with the redolence
+of the irrepressible lineage of Raghava-s. [3-31-46]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1030,6 +2202,14 @@ _________________
 शराङ्गपूर्णो निशितासिदंष्ट्रः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+असौ रण अन्तः स्थिति संधि वालः
+विदग्ध रक्षो मृग हा नृसिंहः ।
+सुप्तः त्वया बोधयितुम् न शक्यः
+शारांग पूणो निशित असि दम्ष्ट्रः ॥ ३-३१-४७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वे श्रीराम मनुष्यके रूपमें एक सिंह हैं । रणभूमिके भीतर स्थित होना ही उनके अङ्गोंकी संधियाँ तथा बाल हैं । वह सिंह चतुर राक्षसरूपी मृगोंका वध करनेवाला है, बाणरूपी अङ्गोंसे परिपूर्ण है तथा तलवारें ही उसकी तीखी दाढ़ें हैं । उस सोते हुए सिंहको तुम नहीं जगा सकते ॥ ४७ ॥
@@ -1038,6 +2218,33 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ श्रीरामनु मनुष्य रूपदल्लि सिंहनागिरुवनु. रणरङ्गदल्लि स्थितनागुवुदे अवन शरीरद सन्धिगळु मत्तु कूदलागिदॆ. आ सिंहवु चतुर राक्षसरूपी मृगगळन्नु वधिसुववनागिद्दानॆ. बाणरूपी अङ्गगळिन्द परिपूर्णवागिद्दु, खड्गवे अवन तीक्ष्ण कॊरॆदाडॆयागिदॆ. आ मलगिरुव सिंहनन्नु नीनु ऎच्चरिसबेड.॥47॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*47. raNa antaH sthiti sandhi vaalaH* = in war, being in midst, on trunk, touching, tail - to
+be in the midst of war itself is the fury of that lion, by which its tail raises and touches the back
+of its trunk; *vidagdha rakshaH mR^iga haa* = expert, demon, deer, killer - that lion is the
+killer of the expert killers, namely the demons; *shaara anga purNaH* = arrows, as it limbs,
+full-fledged with, accomplished with; that lion's sturdy limbs are its arrows; *nishita asi damSTRaH*
+= sharp, sword, fanged with; that lion's fangs are its swords; *suptaH asau nR^i simhaH* = sleeping
+one, man, lion; *tvayaa bodhayitum na shakyaH* = by you, to become aware of [to awaken,] not,
+possible - do not dare to rouse it.
+
+**अनुवादः**
+
+"To be in the midst of war itself is the fury of that lion called Rama, by which that lion raises its
+tail touching the back of its trunk, that lion is all-inclusive with forelegs, paws, and claws that
+are included in arrows, while its fangs are swords, and it is the killer of the deer called the expert
+killer-demons, and mind you, do not dare to rouse that sleeping man-lion. [3-31-47]
+
+**टिप्पनी**
+
+The nara-simha, man-lion incarnation is suggested here.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,6 +2263,15 @@ _________________
 प्रस्कन्दितुं राक्षसराज युक्तम् ॥ ४८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+चापापहारे भुज वेग पंके
+शर ऊर्मिमाले सु महा आहव ओघे ।
+न राम पाताल मुखे अति घोरे
+प्रस्कन्दितुम्
+राक्षस राज युक्तम् ॥ ३-३१-४८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसराज! श्रीराम एक पातालतलव्यापी महासागर हैं, धनुष ही उस समुद्रके भीतर रहनेवाला ग्राह है, भुजाओंका वेग ही कीचड़ है, बाण ही तरंगमालाएँ हैं और महान् युद्ध ही उसकी अगाध जलराशि है । उसके अत्यन्त भयंकर मुख अर्थात् बड़वानलमें कूद पड़ना तुम्हारे लिये कदापि उचित नहीं है ॥ ४८ ॥
@@ -1064,6 +2280,33 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! श्रीरामनु पाताळतलव्यापी वहासमुद्रनागिद्दानॆ, धनुस्से आ समुद्रदॊळगॆ इरुव मॊसळॆयागिदॆ, भुजगळ वेगवे कॆसरागिदॆ, बाणगळे तरङ्गगळागिवॆ, महायुद्धवे अदर अगाध जलराशियागिदॆ. अवन अत्यन्त भयङ्कर मुखदल्लि अर्थात् वडवानलदल्लि हारुवुदु निनगॆ ऎन्दिगू उचितवल्ल.॥48॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*48. raakshasa raaja* = oh, demons, king; *caapa apahaare* = bow, as crocodile; *bhuja
+vega panke* = arm's, speed, as slough [quagmire]; *shara uurmimaale* = arrows, as tides;
+*su mahaa aahava oghe* = with great, immensity, war, called tideland; *ati ghore* = very,
+dangerous; in such a; *raama paataala mukhe* = in Rama [named,] netherworld - abyssal ocean,
+in mouth of; *pra skanditum =*verily, to slide - fall in the mouth of such a nether world;
+*na yuktam* = not, apt of you.em
+
+**अनुवादः**
+
+"His bow is crocodilian, his shoulder-speed is quagmire, his arrows are tidal, and the great immensity
+of his war itself is a tideland, and oh, king of demons, it is inapt of you to slide down into the much-ghoulish
+mouth of that abyssal ocean, called Rama. [3-31-48]
+
+**टिप्पनी**
+
+The crocodile catches at the very moment of falling of its prey, the arrows make one to sink into a
+quagmire without any hope of coming up, and when the arrows once discharged tidally, the battlefield
+becomes a tideland inundated with his arrows. Thus, it is impossible to crossover that oceanic netherworld,
+called Rama. Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1097,6 +2340,29 @@ _________________
 लङ्केश्वरने! प्रसन्ननागु, राक्षसराजने! आनन्दवागि इरु मत्तु क्षेमवागि लङ्कॆगॆ मरळि होगु. नीनु सदा पुरियल्लि तन्न पत्नियरॊन्दिगॆ रमिसुत्ता इरु मत्तु रामनु तन्न पत्नियॊन्दिगॆ वनदल्लि विहरिसलि.॥49॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*49. lankeshvara raakshasendra* = lord of Lanka, demon-king; *prasiida* = be appeased
+[towards Rama]; *saadhu lankaam gacCha* = gently, to Lanka, you proceed; *prasannaH bhava*
+= be quietened, you be; *tvam nityam sveSu daareSu ramasva* = you, always, in your, wives, you
+take delight; *raamaH sa bhaarya vaneSu ramataam* = Rama, with his, wife, in forest, let him
+be delighting.
+
+**अनुवादः**
+
+"Oh, lord of Lanka, be appeased towards Rama, be quietened and gently proceed to Lanka. You take delight
+in your wives, and let Rama be delighting with wife in forests." Thus Mareecha spoke to Ravana. [3-31-49]
+
+**टिप्पनी**
+
+Suffix: 'forgive what has happened, remit a disastrous war on Lanka, be pleased with what you have and
+be content with it, holdback your greediness...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् उक्तो दश-ग्रीवो मारीचेन स रावणः ।  
@@ -1109,6 +2375,12 @@ _________________
 न्यवर्तत पुरीं लङ्कां विवेश च गृहोत्तमम् ॥ ५० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवम् उक्तो दशग्रीवो मारीचेन स रावणः ।
+न्यवर्तत पुरीम् लंकाम् विवेश च गृह उत्तमम् ॥ ३-३१-५०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 मारीचके ऐसा कहनेपर दशमुख रावण लंकाको लौटा और अपने सुन्दर महलमें चला गया ॥ ५० ॥
@@ -1117,6 +2389,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मारीचनु हीगॆ हेळिदाग दशमुख रावणनु लङ्कॆगॆ मरळिदनु हागू तन्न सुन्दर भवनवन्नु हॊक्कनु.॥50॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*50. maariicena evam uktaH* = by Maareecha, this way, who is spoken dashagriivaH saH raavaNaH
+= ten faced, he that, Ravana; *lankaam puriim nyavartata* = to Lanka, city, returned; *gR^iha
+uttamam vivesha ca* = house - palace, best one, entered, also.
+
+**अनुवादः**
+
+When thus said by Maareecha that ten faced Ravana returned to his city Lanka and entered his best house
+and home. [3-31-50]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

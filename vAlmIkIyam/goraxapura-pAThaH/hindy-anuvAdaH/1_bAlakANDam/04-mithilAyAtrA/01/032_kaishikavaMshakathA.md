@@ -2,6 +2,20 @@
 title = "०३२ कैशिकवंशकथा"
 title_english = "032 Story of vishvAmitra"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties**
+
+Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
+ offspring of Kusha's dynasty. Brahma gives boon to Kusha to beget four
+ sons and one among them is Kushanaabha. Kushanabha begets a hundred daughters
+ of excellent beauty. When Vayu, Air-god cherishes them all, those girls
+ refuse him, as they prefer an arranged marriage by their father. Then
+ Air-god in his indignation disfigures them all.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-032-Koushika_Vamsha_Katha.mp3"></div>
 </details>
@@ -38,6 +52,28 @@ title_english = "032 Story of vishvAmitra"
 विश्वामित्ररु हेळुत्तारॆ - श्रीरामा! हिन्दॆ ब्रह्मदेवर पुत्रनाद कुशनॆम्ब महातपस्वी प्रसिद्ध राजनॊब्बनिद्दनु. अवनु व्रतनिष्ठनू, धर्मज्ञनू आगिद्दनु. धर्मात्मरन्नू, महात्मरन्नू सदा आदरिसुत्ता सत्करिसुत्तिद्दनु.॥1॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. brahmayoniH* = Brahma as causation - Brahma's brainchild;
+ *mahaatapaaH* = ascesis on with higher order; *akliSTavratadharmaj~naH*
+ = one who has - without hampered vows and knower of their
+ virtue - who has never flouted the rules of rituals and vows;
+ *sajjanapratipuujakaH* = knowers of virtue and one who reveres virtue knowers;
+ *mahaan* = highly righteous - kingly sage; *kushaH naama* = Kusha, named;
+ *aasiit* = [once upon a time] was there.
+
+**अनुवादः**
+
+"Once there was a highly righteous kingly sage who is the brainchild
+ of Brahma, whose ascesis is of higher order, who has never flouted the
+ rules of rituals or his vows, and who revered the knowers of virtue
+ by name Kusha." Thus Sage Vishvamitra commenced narration. [1-32-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।  
@@ -50,6 +86,13 @@ title_english = "032 Story of vishvAmitra"
 वैदर्भ्यां जनयामास चतुरः सदृशान् सुतान् ॥ २ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।
+वैदर्भ्यां जनयामास चतुरः सदृशान् सुतान् ॥ १-३२-२
+कुशाम्बं कुशनाभं च अधूर्तरजसं वसुम् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उत्तम कुलमें उत्पन्न विदर्भदेशकी राजकुमारी उनकी पत्नी थी । उसके गर्भसे उन महात्मा नरेशने चार पुत्र उत्पन्न किये, जो उन्हींके समान थे ॥ २ ॥
@@ -58,6 +101,27 @@ title_english = "032 Story of vishvAmitra"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सत्कुल प्रसूतॆयाद विदर्भ राजकुमारि वैदर्भि ऎम्ब भार्यॆयल्लि महात्मनाद नरेशनु तनगॆ अनुरूपराद नाल्कु पुत्ररन्नु पडॆदनु.॥2॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2, 3a. saH mahaatmaa* = he, great soul; *kuliinaayaam*
+ = one with noble birth; *yuktaayaam* = an eligible one [as wife];
+ *vaidarbhyaam* = in the princess from Vidarbha; *kushaambam
+ kushanaabham adhuurtarajasam vasum* = Kushamba, Kushanaabha, Adhuurtarajasa,
+ Vasu; *sumahaabalaan* = very great mighty ones; *sadR^ishaan*
+ = selfsame ones; *caturaH sutaan janayaamaasa* = he begot four sons.
+
+**अनुवादः**
+
+"That great-souled Kusha begot four selfsame and mighty sons, namely
+ Kushamba, Kushanaabha, Adhuurtarajasa also called as Asuurtarajasa,
+ and Vasu through the princess of Vidarbha, which princess is of noble
+ birth and an eligible wife of Kusha. [1-32-2, 3a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,6 +160,29 @@ _________________
 कुशाम्ब, कुशनाभ, अमूर्तरजस हागू वसु ऎम्ब ई नाल्वरु तेजस्विगळू, महा उत्साहिगळू आगिद्दरु. राजा कुशनु प्रजारक्षण रूपी, क्षात्रधर्म पालिसुव इच्छॆयिन्द तन्न धर्मिष्ठरू सत्यवादिगळू आद पुत्ररल्लि - मक्कळिरा! प्रजॆयन्नु पालिसिरि, इदरिन्द निमगॆ धर्मद पूर्णफल सिगुवुदु ऎन्दु हेळिदरु.॥3-4॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3b, 4. kushaH* = Kusha; *diiptiyuktaan* = having brilliance
+ ; *mahotsaahaan* = highly enthusiastic ones; *dharmiSThaan*
+ = virtue abiding; *satyavaadinaH* = advocators of truth;
+ *taan putraan* = to those, sons; *kSatradharmacikiirSayaa*
+ = with an aspiration to uphold principles of Kshatriya-s; *uvaaca*
+ = spoke to them; *putraa* = oh sons; *paalanam kriyataam*
+ = let it be done ruling over [kingdom] - establish your rulership;
+ *puSkalam dharmam praapsyatha* = you achieve righteousness in abundance.
+
+**अनुवादः**
+
+"With an aspiration that his sons shall uphold the principles of Kshatriya-s,
+ Kusha spoke to them who are brilliant, highly enthusiastic, virtue abiding,
+ and the advocators of truth saying, 'establish your rulership, sons,
+ and achieve righteousness abundantly.' [1-32-3b, 4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details><summary>पादटिप्पनी</summary>
 
 १. रामायणशिरोमणि नामक व्याख्याके निर्माताने ‘अमूर्तिरजसम्’ पाठ माना है । महाभारतके अनुसार इनका नाम ‘अमूर्तरयस्’ या ‘अमूर्तरया’ था (वन ९५ ।१७) । यहाँ इनके द्वारा धर्मारण्य नामक नगर बसानेका उल्लेख है । यह नगर धर्मारण्य नामक तीर्थभूत वनमें था । यह वन गयाके आस-पासका ही प्रदेश है । अमूर्तरयाके पुत्र गयने ही गया नामक नगर बसाया था । अतः धर्मारण्य और गयाकी एकता सिद्ध होती है । महाभारत वनपर्व (८४ ।८५) में गयाके ब्रह्मसरोवरको धर्मारण्यसे सुशोभित बताया गया है । (वन० ८२ ।४७) धर्मारण्यमें पितृ-पूजनकी महत्ता बतायी गयी है ।
@@ -129,6 +216,25 @@ _________________
 तन्न पितनाद महाराजा कुशन ई मातन्नु केळि लोकोत्तरराद आ नाल्वरु नरश्रेष्ठ राजकुमाररु आग तम-तमगागि बेरॆ बेरॆ नगरगळन्नु निर्मिसिकॊण्डरु.॥5॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. tadaa* = then; *kushasya vacanam shrutvaa* = on hearing Kusha's
+ words; *lokasattamaaH* = formidable ones in world;
+ *catvaaraH* = four of them; *nR^ivaraaH* = best ones among people
+ ; *sarve* = all of them; *puraaNaam nivesham cakrire*
+ = initiation of building cities - they started to do.
+
+**अनुवादः**
+
+"On hearing the words of Kusha those four sons that are the formidable
+ ones in the world and the best men among people initiated to build four
+ cities. [1-32-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशाम्बस्तु महातेजाः कौशाम्बीमकरोत् पुरीम् ।  
@@ -151,6 +257,24 @@ _________________
 महातेजस्वी कुशाम्बनु ‘कौशाम्बि’ ऎम्ब पुरवन्नु नॆलॆगॊळिसिदनु. (अदन्नु इन्दु ‘कोसल’ ऎन्दु हेळुत्तारॆ.) धर्मात्मा कुशनाभनु ‘महोदय’ ऎम्ब नगरवन्नु निर्माण माडिदनु.॥6॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. mahaatejaaH kushaambaH tu* = great-resplendent one, Kushamba,
+ for his part; *kaushaambiim puriim akarot* = built the city Kaushaambi
+ ; *dharmaatmaa kushanaabhaH tu* = virtue-souled, Kushanaatha,
+ for his part; *mahodayam puram cakre* = built Mahodaya [named] city.
+
+**अनुवादः**
+
+"Great-resplendent Kushamba built the city named Kaushambii for his
+ part, and for his part the virtue-souled Kushanaabha built a city named
+ Mahodaya. [1-32-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असूर्तरजसो नाम धर्मारण्यं महामतिः ।  
@@ -161,6 +285,12 @@ _________________
 
 असूर्तरजसो नाम धर्मारण्यं महामतिः ।  
 चक्रे पुरवरं राजा वसुनाम गिरिव्रजम् ॥ ७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अधूर्तरजसो राम धर्मारण्यं महामतिः ।
+चक्रे पुरवरं राजा वसुर्नाम गिरिव्रजम् ॥ १-३२-७
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -177,6 +307,29 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 परम बुद्धिवन्तनाद अमूर्त रजस्सनु ‘धर्मारण्य’ ऎम्ब ऒन्दु श्रेष्ठनगरवन्नु नॆलॆगॊळिसिदनु हागू वसुवु ‘गिरिव्रज’ ऎम्ब नगरवन्नु स्थापिसिदनु.॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. raama* = oh Rama; *mahaamatiH adhuurtarajasaH* = noble-minded,
+ Asuurtarajasa; *dharmaaraNyam* = DharmaaraNya - namely; *puravaram*
+ = the best city; *cakre* = built; *raajaa vasuH*
+ = king, Vasu; *girivrajam naama* = Girivraja named -
+ city he built.
+
+**अनुवादः**
+
+"Oh, Rama, noble-minded Adhuurtarajasa built a city named Dharmaaranya,
+ and king Vasu built a city in the name of Girivraja. [1-32-7]
+
+**टिप्पनी**
+
+It is believed that the city Kaushambii is the present day Kannauj and
+ Girivraja the present day Rajgir.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -270,6 +423,25 @@ _________________
 महात्मा वसुविन ई ‘गिरिव्रज’ ऎम्ब राजधानियु वसुमति ऎम्ब हॆसरिनिन्द प्रसिद्धवायितु. इदर सुत्तलू (विपुल, वराह, ऋषभ, ऋषगिरि मत्तु चैत्यक ऎम्ब ऐदु श्रेष्ठपर्वतगळु सुशोभितवागिवॆ.॥8॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8. eSaa* = this one; *tasya mahaatmanaH vasoH* = of that,
+ virtue-souled one, Vasu's; *vasumatii naama* = land, known as;
+ *samantataH* = all around; *ete panca shailavaraaH* =
+ these, five best mountains; *prakaashante* = shine forth
+ - standing high.
+
+**अनुवादः**
+
+"This land on which we are presently staying is known as the land of
+ virtue-souled Vasu, all around which these five best mountains are standing
+ high. [1-32-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details><summary>पादटिप्पनी</summary>
 
 * महाभारत सभापर्व (२१ । १—१०) में इन पाँचों पर्वतोंके नाम इस प्रकार वर्णित हैं—(१) विपुल, (२) वराह, (३) वृषभ (ऋषभ), (४) ऋषिगिरि (मातङ्ग) तथा (५) चैत्यक ।
@@ -297,6 +469,32 @@ _________________
 ई रमणीय (सोना) नदियु दक्षिण पश्चिमवागि हरियुत्ता मगध देशक्कॆ बन्दिदॆ. अदक्कागि इल्लि ‘सुवागधी’ ऎम्ब हॆसरिनिन्द विख्यातवागिदॆ. इदु ई ऐदु श्रेष्ठ पर्वतगळ नडुवॆ मालॆयन्तॆ सुशोभितवागिदॆ.॥9॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. ramyaa* = charming one; *vishrutaa* = well known;
+ *sumaagadhii nadii* = Maagadhii river;
+ - worthy River Sona which took birth in Magadha country; *maagadhaan*
+ = into Magadha country; *aayayau* = coming, going - on entering
+ and exiting; *pancaanaam shailamukhyaanaam madhye* = five of,
+ important mountains - elevated ones, amid; *maalaa iva shobhate*
+ = shines forth like garland.
+
+**अनुवादः**
+
+"This charming river that enters and exits Magadha province is well
+ known as the worthy River Maagadhi, and flowing amid the five of these
+ elevated mountains it shines forth like a garland enwreathing them.
+ [1-32-9]
+
+**टिप्पनी**
+
+This river is said to be the present day River Son
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैषा हि मागधी राम वसोस्तस्य महात्मनः ।  
@@ -309,6 +507,12 @@ _________________
 पूर्वाभिचरिता राम सुक्षेत्रा सस्यमालिनी ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+धनुषस्तस्य वीर्यं हि जिज्ञासन्तो महीक्षितः ।
+न शेकुरारोपयितुं राजपुत्रा महाबलाः ॥
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीराम! इस प्रकार ‘मागधी’ नामसे प्रसिद्ध हुई यह सोन नदी पूर्वोक्त महात्मा वसुसे सम्बन्ध रखती है । रघुनन्दन! यह दक्षिण-पश्चिमसे आकर पूर्वोत्तर दिशाकी ओर प्रवाहित हुई है । इसके दोनों तटोंपर सुन्दर क्षेत्र (उपजाऊ खेत) हैं, अतः यह सदा सस्य-मालाओंसे अलंकृत (हरी-भरी खेतीसे सुशोभित) रहती है ॥ १० ॥
@@ -317,6 +521,49 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! हीगॆ ‘मागधी’ ऎन्दु प्रसिद्धवाद ई सोनानदियु हिन्दॆ हेळिद वसुविनॊन्दिगॆ सम्बन्धिसिदॆ. रघुनन्दन! इदु दक्षिण-पश्चिमदिन्द बन्दु पूर्वोत्तर दिक्किनत्त प्रवहिसुत्तदॆ. इदर इक्कॆलगळल्लियू फलवत्ताद भूमि इदॆ. आद्दरिन्द इदु सदा सस्यशामलॆयागि हसुरागिद्दु, अलङ्कृतवागिरुत्तदॆ.॥10॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. raama* = oh Rama; *saa eSaa maagadhii* = this, that,
+ river Maagadhi; *mahaatmanaH tasya vasoH* = of his the great-souled
+ one Vasu [this is that river which pertains to the developmental
+ works of king Vasu]; *puurvaabhicaritaa* = while going - flowing towards east
+ ; *sukSetraa* = she has best farmlands;
+ *sasyamaalinii* = garland of crops.
+
+**अनुवादः**
+
+"This Maagadhi is that river which pertains to the developmental works
+ of the great-souled king Vasu and oh, Rama, flowing towards east to
+ its confluence in Ganga, this river garlands best farmlands and their
+ crops on its way. [1-32-10]
+
+**टिप्पनी**
+
+The confluence of this river with Ganga is said as the one now available
+ near at Patna, Bihar.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*. [bahavaH* = many]; *raajaputraaH mahaabalaaH* = king's sons, great mighty ones;
+ *mahiikSitaH* = kings; *tasya dhanuSaH* = of that, bow's; *viiryam jij~naasantaH*
+ = inquisitive about power; *[te sarve* = all of them]; *aaropayitum na shekuH*
+ = not capable to string bowstring.
+
+**अनुवादः**
+
+"Though many kings were inquisitive about the power of that bow, all of those great mighty princes
+ are rendered incapable to string its bowstring.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +588,31 @@ _________________
 रघुकुलनन्दन! राम! धर्मात्मा राजर्षि कुशनाभनिन्द घृताचि अप्सरॆय गर्भदिन्द परमॊत्तमराद नूरु कन्यॆयरु हुट्टिदरु.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. raghunandana* = oh Raghu's descendent; *dharmaatmaa
+ raajarSiH* = virtue-souled one, kingly saint; *kushanaabhaH tu*
+ = Kushanaabha, but; *ghR^itaacyaam* = through [celestial maiden]
+ Ghritaachi; *anuttamam* = unexcelling; *kanyaashatam*
+ = hundred maids; *janayaamaasa* = engendered.
+
+**अनुवादः**
+
+"The virtue-souled kingly saint Kushanaabha gave birth to a hundred
+ daughters with unexcelled beauty through a celestial female called Ghritaachi.
+ [1-32-11]
+
+**टिप्पनी**
+
+Children begotten through celestial maidens are of superior nature for
+ further procreating a divine generation, like Shakuntala, who begot
+ Bharata, the earliest dynastic king.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तास्तु यौवनशालिन्यो रूपवत्यः स्वलङ्कृताः ।  
@@ -357,6 +629,14 @@ _________________
 आमोदं परमं जग्मुर्वराभरणभूषिताः ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तास्तु यौवनशालिन्यो रूपवत्यः स्वलंकृताः ।
+उद्यानभूमिमागम्य प्रावृषीव शतह्रदाः ॥ १-३२-१२
+गायन्त्यो नृत्यमानाश्च वादयन्त्यश्च राघव ।
+आमोदं परमं जग्मुर्वराभरणभूषिताः ॥ १-३२-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे सब-की-सब सुन्दर रूप-लावण्यसे सुशोभित थीं । धीरे-धीरे युवावस्थाने आकर उनके सौन्दर्यको और भी बढ़ा दिया । रघुवीर! एक दिन वस्त्र और आभूषणोंसे विभूषित हो वे सभी राजकन्याएँ उद्यान-भूमिमें आकर वर्षाऋतुमें प्रकाशित होनेवाली विद्युन्मालाओंकी भाँति शोभा पाने लगीं । सुन्दर अलंकारोंसे अलंकृत हुई वे अंगनाएँ गाती, बजाती और नृत्य करती हुई वहाँ परम आमोद-प्रमोदमें मग्न हो गयीं ॥ १२-१३ ॥
@@ -365,6 +645,31 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरू रूपलावण्यदिन्द सुन्दररागि शोभिसुत्तिद्दरु. युवतियरादाग अवर सौन्दर्य इन्नू हॆच्चितु. ऒन्दु दिन वस्त्राभरणगळिन्द अलङ्कृतराद आ राजकन्यॆयरु अन्दवाद उद्यानवनक्कॆ बन्दु वर्षऋतुविनल्लि प्रकाशिसुव विद्युल्लतॆगळन्तॆ शोभिसुत्तिद्दरु. सुन्दराङ्गियराद आ अङ्गनॆ यरु हाडुत्ता-कुणियुत्ता आमोद-प्रमोददल्लि मुळुगिदरु.॥12-13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+12. *raaghava* = oh, Raghava; *yauvanashaalinyaH* = having youthfulness
+ ; *ruupavatyaH* = having loveliness; *taaH* = those
+ girls; *svaalankR^itaaH* = decorating well themselves; *
+ udyaanabhuumim aagamya* = arriving at park lands; *praavR^iSi*
+ = in rainy season; *shatahradaaH iva* = flowing in hundred way
+ - like hundred streaked lightning; *gaayantyaH nR^ityamaanaaH ca
+ vaadayantyaH ca* = singing, dancing, also, playing instruments;
+ *varaabharaNabhuuSitaaH* = decorated with selected ornaments;
+ *paramam aamodam jagmuH* = they went into fantastic felicity.
+
+**अनुवादः**
+
+"Those girls when attained youthfulness they are lovely and on an occasion
+ they have gone to gardens and moved there about like one lightning with
+ a hundred streaks during rainy season, and while those girls that are
+ decorated with select ornaments are singing, dancing and playing musical
+ instruments, they got into a fantastic felicity. [1-32-12, 13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +694,25 @@ _________________
 अवर सर्वाङ्गगळु सुमनोहरवागिद्दवु. ई भूतळदल्लि इवर रूप-सौन्दर्यक्कॆ ऎणॆये इरलिल्ल. आ उद्यान वनदल्लि-मोडगळल्लि कण्णुमुच्चालॆयाडुव नक्षत्रगळन्तॆ अवरु शोभिसुत्तिद्दरु.॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14. *atha* = then; *caarusarvaangyaH* = whose all limbs are pretty;
+ *ruupeNa bhuvi apratimaa* = unparalleled on earth by aspect; *taaH* = those girls;
+ *udyaanabhuumim aagamya* = on coming to park lands; *ghanaantare*
+ = amid in clouds; *taaraa iva* = stars, like;
+ they shone forth among thick bushes.
+
+**अनुवादः**
+
+"On their coming to parklands those girls whose all limbs are pretty
+ and whose looks are unparalleled on earth, they looked like stars amid
+ clouds within the cloudy thickets of garden bushes. [1-32-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः सर्वा गुणसम्पन्ना रूपयौवनसंयुताः ।  
@@ -399,6 +723,12 @@ _________________
 
 ताः सर्वा गुणसम्पन्ना रूपयौवनसंयुताः ।  
 दृष्ट्वा सर्वात्मको वायुरिदं वचनमब्रवीत् ॥ १५ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ताः सर्वगुणसंपन्ना रूपयौवनसंयुताः ।
+दृष्ट्वा सर्वात्मको वायुरिदं वचनमब्रवीत् ॥ १-३२-१५
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -415,6 +745,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग उत्तम गुणसम्पन्न, रूप यौवनदिन्द शोभिसुव आ ऎल्ल राजकन्यॆयन्नु नोडि सर्वात्मनाद वायुदेवरु ई प्रकार हेळिदरु-॥15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+15. *sarvaatmakaH vaayuH* = all pervading, Air-god;
+ *sarvaguNasampannaaH* = well off in all aspects; *ruupayauvanasamyutaaH*
+ = together with comeliness and ripeness; *taaH*
+ = them; *dR^iSTvaa* = on seeing; *idam vacanam abraviit*
+ = spoke this word.
+
+**अनुवादः**
+
+"On seeing them who are flourishing with all their aspects together
+ with comeliness and ripeness, the all pervading Air-god, Vayu, spoke
+ this word to them. [1-32-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +788,25 @@ _________________
 सुन्दरियरिरा! नानु निम्मॆल्लरन्नु नन्न प्रेयसियरागि पडॆयबेकॆन्दु बयसुत्तिरुवॆनु. नीवॆल्लरू नन्न भार्यॆयरागुविरि. ईग मनुष्य भाववन्नु त्यजिसि मत्तु नन्नन्नु स्वीकरिसि देवाङ्गनॆयरन्तॆ दीर्घायुवन्नु हॊन्दिरि.॥16॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. aham vaH sarvaaH kaamaye* = I have a desire for all of you;
+ *mama bhaaryaaH bhaviSyatha* = you become my wives; *maanuSaH
+ tyajyataam bhaavaH* = leave off notion pertaining to humans;
+ *diirgham aayuH avaapsyatha* = long, life, you acquire - like
+ divinities.
+
+**अनुवादः**
+
+" 'I have a desire for you all, hence leaving off the notions pertaining
+ to human beings you all become my wives, thereby you too will acquire
+ longevity like divinities. [1-32-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चलं हि यौवनं नित्यं मानुषेषु विशेषतः ।  
@@ -451,6 +819,12 @@ _________________
 अक्षयं यौवनं प्राप्ता अमर्यश्च भविष्यथ ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+चलं हि यौवनं नित्यं मानुषेषु विशेषतः ।
+अक्षय्यं यौवनं प्राप्ता अमर्यश्च भविष्य्थ ॥ १-३२-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विशेषतः मानव-शरीरमें जवानी कभी स्थिर नहीं रहती—प्रतिक्षण क्षीण होती जाती है । मेरे साथ सम्बन्ध हो जानेपर तुमलोग अक्षय यौवन प्राप्त करके अमर हो जाओगी’ ॥ १७ ॥
@@ -459,6 +833,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 साधारणवागि मानव शरीरदल्लि तारुण्यवु ऎन्दू स्थिरवागि इरुवुदिल्ल प्रतिक्षण क्षीणवागुत्ता इरुत्तदॆ. नन्न सम्बन्ध पडॆदरॆ नीवॆल्ल अक्षय यौवन पडॆदु अमररागुविरि.॥17॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. nityam yauvanam calam hi* = always, teenage, is moving,
+ indeed; *maanuSeSu visheSataH* = expressly in humans; *akShayyam yauvanam praaptaaH*
+ = on achieving undiminishing youthfulness;
+ *amaryaH ca bhaviSyatha* = you can also become as immortal females.
+
+**अनुवादः**
+
+" 'Teenage is always transitory, expressly in humans, but on marrying
+ me you will achieve undiminished youthfulness and forever you can be
+ youthful like immortal females.' Thus Air-god said to those girls. [1-32-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -483,6 +875,25 @@ _________________
 निरातङ्कवागि महाकार्यवन्नु माडुव वायुदेवर मातन्नु केळि आ नूरु कन्यॆयरु अपहास्यमाडि नगुत्ता नुडिदरु .॥18॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. tataH* = then; *akliSTakarmaNaH* = one with un
+ impeded strives; *tasya vaayoH* = of that, Air-god; *tat
+ vacanam shrutvaa* = that, sentence - proposal, on hearing; *apahaasya*
+ = laughing off - his proposal; *kanyaashatam* = hundred maidens;
+ *atha vaakyam abraviit* = then, spoke sentence.
+
+**अनुवादः**
+
+"On hearing that proposal of Vayu, the Air-god whose strives are unimpeded,
+ then those hundred girls spoke this sentence laughing off his proposal.
+ [1-32-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तश्चरसि भूतानां सर्वेषां सुरसत्तम ।  
@@ -493,6 +904,12 @@ _________________
 
 अन्तश्चरसि भूतानां सर्वेषां सुरसत्तम ।  
 प्रभावज्ञाश्च ते सर्वाः किमर्थमवमन्यसे ॥ १९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+अन्तश्चरसि भूतानां सर्वेषां त्वं सुरसत्तम ।
+प्रभावज्ञाश्च ते सर्वाः किमर्थमवमन्यसे ॥ १-३२-१९
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -511,6 +928,26 @@ _________________
 सुरश्रेष्ठने! नीनु प्राणवायुवागि समस्त प्राणिगळ ऒळगॆ सञ्चरिसुत्तिरुवॆ. नम्मल्लियू नीनु व्याप्तनागिरुवॆ. हागिरुवाग नम्मॆल्लर मनस्सिनल्लि निन्न कुरिताद आकर्षणॆ इल्लवॆम्बुदु तिळियलारॆया? नमगॆ निन्न कुरितु अनुरागविल्लवॆन्दु तिळिदिद्दरू इन्तह अनुचित प्रस्तापवन्नु माडि नम्मन्नु एकॆ अपमानपडिसुत्तिरुवॆ.॥19॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. surasattama* = oh the ablest divinity; *tvam sarveSaam
+ bhuutaanaam* = you, in all of the beings; *antaH carasi*
+ = inside, you move - you inspirit; *sarvaaH te prabhaavaj~naaH ca*
+ = all of us, knowers of your uniqueness, also; *[asmaan* = us];
+ *kimartham avamanyase* = for what reason,
+ you dishonour us.
+
+**अनुवादः**
+
+" 'we are aware that you inspirit all the living beings from inside,
+ oh, the ablest divinity, we are also aware of your uniqueness. But,
+ what for you are dishonouring all of us. [1-32-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशनाभसुता देव समस्ताः सुरसत्तम ।  
@@ -524,6 +961,12 @@ _________________
 _________________
 कुशनाभसुताः देव समस्ताः सुरसत्तम ।  
 स्थानाच्च्यावयितुं देवं रक्षामस्तु तपोवयम् ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कुशनाभसुताः देवं समस्ता सुरसत्तम ।
+स्थानाच्च्यावयितुं देवं रक्षामस्तु तपो वयम् ॥ १-३२-२०
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -540,6 +983,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुरश्रेष्ठ देवने! नावॆल्लरू राजर्षि कुशनाभन कन्यॆयरु. देवतॆयागिद्दरू शापकॊट्टु निन्नन्नु वायुपदवियिन्द भ्रष्टपडिसबल्लॆवु. आदरू हीगॆ माडलु बयसुवुदिल्ल; एकॆन्दरॆ नावु नम्म तपस्सन्नु सुरक्षितवागि इडुवॆवु.॥20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. surasattama* = oh the best divinity; *samastaaH vayam*
+ = all, of us are; *kushanaabhasutaaH* = Kushanaabha's daughters;
+ *devam* = as god; *sthaanaat cyaavayitum* = to displace from your
+ realm; *samarthaaH* = we are capable]; *deva*
+ = oh god; *tu* = but we are; *tapaH rakSaamaH* = we are conserving [our]
+ asceticism.
+
+**अनुवादः**
+
+" 'We are the daughters of Kushanaabha, oh, best divinity, and we are
+ all capable of displacing you from your realm, but oh, god, we are restraining
+ ourselves in doing so only to conserve our ascetic values. [1-32-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +1027,26 @@ _________________
 दुर्मतिये! नावु नम्म सत्यवादी तन्दॆयन्नु अवहेळन माडि कामवश अथवा अत्यन्त अधर्म पूर्वक स्वतः वरनन्नु हुडुकिकॊळ्ळुव समय ऎन्दिगू बरदिरलि.॥21॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21. durmedhaH* = evil minded one - god with sordid thinking;
+ *satyavaadinam* = advocate of truth - veracious; *pitaram*
+ = father; *avamanya* = disregarding - overlooking; *svadharmeNa*
+ = at our liberty; *svayamvaram upaasmahe* = independently selecting
+ groom, [at which time we] look up; *saH kaalaH maa bhuut* = that,
+ time, not, to come.
+
+**अनुवादः**
+
+" 'That time shall never come, oh, god with sordid thinking, when we,
+ at our liberty, may look up for our grooms overlooking our veracious
+ father.' [1-32-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता हि प्रभुरस्माकं दैवतं परमं च सः ।  
@@ -584,6 +1067,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नम्म मेलॆ तन्दॆयदे प्रभुत्ववागिरुवुदु, अवरे नमगॆ सर्वश्रेष्ठ देवतॆयागिरुवरु. नम्म पितनु नम्मन्नु यार कैगॊप्पिसुवनो अवने नमगॆ पतियागुवनु.॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. asmaakam* = for us; *pitaa prabhuH hi* = father [alone
+ is,] lord, indeed; *saH paramam daivatam ca* = he [alone,] ultimate,
+ god, also; *pitaa* = father; *naH yasya daasyati* = us,
+ to whom [he] gives; *saH naH bhartaa bhaviSyati* = he [alone,] becomes
+ our husband.
+
+**अनुवादः**
+
+" 'Our father is indeed our lord and for us he is the ultimate god too.
+ To whomever we are offered by our father in marriage he alone becomes
+ our husband.' So said hundred girls to Air-god. [1-32-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -631,6 +1133,24 @@ _________________
 अवर ई मातन्नु केळि वायुदेवरु अत्यन्त कुपितरादरु. आ ऐश्वर्यशालि प्रभुवु अवरॊळगॆ प्रवेशिसि अवर ऎल्ल अवयवगळन्नु अङ्कु डॊङ्कागिसिदनु. शरीरवु मुदुडिहोदद्दरिन्द अवरु कुळ्ळियरादरु. अवर आकृति मुष्ठिबिगिद कैयष्टु आयितु. अवरु भयदिन्द व्याकुलरादरु.॥23½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. taasaam tu vacanam shrutvaa* = but on hearing their sentence
+ ; *bhagavaan prabhuH* = god, who has high impact; *
+ hariH [vaayuH] paramakopanaH* = Air god, very angrily; *sarvagaatraaNi pravishya*
+ = on entering all body-parts; *babhanja* = crooked [disfigured].
+
+**अनुवादः**
+
+On hearing their sentence of rejection, Vayu, the Air-god whose impact
+ is powerful, very angrily entered into all of the limbs of those girls
+ only to disfigure them. [1-32-23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम् ।  
@@ -644,6 +1164,12 @@ _________________
 _________________
 ताः कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम् ।  
 प्रविश्च च सम्भ्रान्ताः सलज्जाः सास्रलोचनाः ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ताः कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम् ।
+प्रविश्य च सुसंभ्रान्ताः सलज्जाः साश्रुलोचनाः ॥ १-३२-२४
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -660,6 +1186,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुदेवरिन्द कुब्जॆयराद आ कन्यॆयरु अरमनॆयन्नु प्रवेशिसि नाचिकॆयिन्द उद्विग्नरादरु. अवर कण्णुगळिन्द नीरु धाराकारावागि हरियतॊडगितु.॥24॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. vaayunaa bhagnaaH* = disfigured by Air-god; *taaH kanyaaH*
+ = those, girls; *nR^ipateH gR^iham vivishuH* = entered king's house
+ [palace] ; *susambhraantaaH* = very highly diffident;
+ *salajjaaH* = with embarrassment; *saashrulocanaaH* =
+ with tears in eyes; *pravishya* = entered.
+
+**अनुवादः**
+
+"Those girls whom Air-god disfigured in that way have entered palace-chambers
+ of the king, but they have entered diffidently, embarrassedly, and tearfully.
+ [1-32-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +1229,25 @@ _________________
 परम सुन्दरियराद प्रीतिय तन्न पुत्रियर ई विरूपवन्नु कण्डु राजा कुशनाभनु गाबरिगॊण्डु हीगॆ नुडिदनु.॥25॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25. saH raajaa* = he, the king; *tadaa* = then; *dayitaaH*
+ = dear ones; *diinaaH* = despondent ones; *paramashobhanaaH*
+ = [once] very attractive ones; *taaH kanyaaH* = those, girls;
+ *bhagnaaH* = disfigured; *dR^iSTvaa* = on seeing; *
+ sambhraantaH* = he is highly perturbed; *idam abraviit*
+ = said this.
+
+**अनुवादः**
+
+"That king on seeing his dear and attractive daughters as disfigured
+ and despondent girls he is highly perturbed and said this. [1-32-25]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमिदं कथ्यतां पुत्र्यः को धर्ममवमन्यते ।  
@@ -702,6 +1266,13 @@ _________________
 एवं राजा विनिःश्वस्य समाधिं समाधिं ततः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+किमिदं कथ्यतां पुत्र्यः को धर्ममवमन्यते ।
+कुब्जाः केन कृताः सर्वा चेष्टन्त्यो नाभिभाषथ ।
+एवं राजा विनिःश्वस्य समाधिं संदधे ततः ॥ १-३२-२६
+</details>
+
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
 दृष्ट्वा भग्नास् तदा राजा संभ्रान्त इदम् अब्रवीत् ।  
@@ -717,6 +1288,30 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुत्रियरिरा! इदेनायितु? तिळिसिरि. याव प्राणियु धर्मवन्नु अवहेळन माडिदुदु? यारु निम्मन्नु कुळ्ळियरागिसिदरु? इदरिन्द नीवु ऒद्दाडुत्तिरुविरि. नीवु एनन्नू एकॆ हेळुवुदिल्ल? ऎन्दु हेळुत्ता निट्टुसिरुबिट्टनु. अवरु उत्तर हेळुवरॆन्दु गमनिसुत्ता कुळितनु.॥26॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26. putryaH* = oh daughters; *idam kim* = what is this
+ ; *kaH dharmam avamanyate* = who is not regarding probity;
+ *kathyataam* = let it be said; *sarvaaH kubjaaH* = all
+ of you, dwarfed [with hunchbacks, disfigured]; *kena kR^itaaH*
+ = by whom, made; *ceSTantyaH na abhibhaaSatha* = you gesticulate,
+ not saying; *raajaa evam* = king, this way [on saying]; *
+ tataH* = then; *viniHshvasya* = sighed; *samaadhim samdadhe*
+ = imposed upon himself rumination - remained silent for
+ their reply.
+
+**अनुवादः**
+
+" 'Oh, daughters, what all is this? Who disregarded probity? Who disfigured
+ you all? Let it be said! Why you gesticulate saying nothing.' asking
+ thus that king sighed and quietened down waiting for a reply." Thus
+ Sage Vishvamitra continued his narration. [1-32-26]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -2,6 +2,15 @@
 title = "०२३ राक्षसीकृतसीताभीषणम्"
 title_english = "023 Ogres frighten Seetha"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book V : Sundara Kanda - Book Of Beauty**
+
+This chapter describes the ogre women speaking to Seetha about her marrying Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-023-Ogres_frighten_Seetha.mp3"></div>
 </details>
@@ -33,6 +42,23 @@ title_english = "023 Ogres frighten Seetha"
 शत्रुगळन्नु हा हा ऎन्दु कूगिकॊळ्ळुवन्तॆ माडलु समर्थनाद रावणनु सीतॆगॆ हीगॆ हेळि अवळन्नु बहळ बेग तन्न वशळागुवन्तॆ माडबेकॆन्दु ऎल्ल रक्कसियरिगॆ आज्ञापिसि अशोकवनदिन्द निर्गमिसिदनु.॥1॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. raajaa* = the king; *raavaNaH* = Ravana; *shatruraavaNaH* = who
+makes enemies to cry; *iti uktvaa* = thus speaking; *maithiliim* = to Seetha; *tataH* = thereafter;
+*saMdishya* = also ordering; *sarvaaH* = all; *raakshasiiH* = ogre women; *nirjagaama*
+= went away.
+
+**अनुवादः**
+
+The king Ravana who makes enemies to cry thus speaking to Seetha thereafter also ordering all ogre
+women went away.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्क्रान्ते राक्षसेन्द्रे तु पुनरन्तःपुरं गते ।  
@@ -43,6 +69,13 @@ title_english = "023 Ogres frighten Seetha"
 
 निष्क्रान्ते राक्षसेन्द्रे तु पुनरन्तःपुरं गते ।  
 राक्षस्यो भीमरूपास्ताः सीतां समभिदुद्रुवुः ॥ २ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+निष्क्रन्ते राक्षसेन्द्र तु पुनरन्तःपुरं गते ।
+राक्षस्यो भीमरूपास्ताः सीतां समभिदुद्रुवुः
+॥ ५-२३-२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -65,6 +98,12 @@ _________________
 परं परुषया वाचा वैदेहीमिदमब्रुवन् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततः सीतामुपागम्य राक्षस्यः क्रोधमूर्चिताः ।
+परं पुरुषया वाचा वैदेहीमिदमब्रवन् ॥ ५-२३-३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 विदेहकुमारी सीताके समीप आकर क्रोधसे व्याकुल हुई उन राक्षसियोंने अत्यन्त कठोर वाणीद्वारा उनसे इस प्रकार कहना आरम्भ किया— ॥ ३ ॥
@@ -73,6 +112,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसेन्द्रनु अन्तःपुरक्कॆ हॊरटु होद बळिक भयङ्कर आकृतिय राक्षस स्त्रीयरु सीतॆय बळिगॆ वेगवागि धाविसि बन्दरु. सीतॆय बळिगॆ बन्दु क्रोधाभिभूतॆयराद आ रक्कसियरु अत्यन्त कठोरवागि हीगॆ हेळिदरु.॥2-3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. tataH* = thereafter; *upaagamya* = reaching; *siitaam* = Seetha;
+*raakshasyaH* = ogre women; *krodhamuurchitaaH* = swooned with anger; *vaachaa* = (with a)
+speech; *param* = (which was) very; *parushhayaa* = harsh; *abruvan* = spoke; *idam*
+= this (word); *vaidehiim* = to Seetha.
+
+**अनुवादः**
+
+Thereafter reaching Seetha ogre women swooned with anger and with a very harsh speech spoke these
+words to Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. raakshasendre* = Ravana; *nishhkraante* = leaving; *gate* = obtaining;
+*punaH* = again; *antaHpuram* = gynaeceum; *taaH raakshasyaH* = those ogres; *bhiimaruupaaH*
+= with horrible appearances; *samabhidudruvuH* = went running; *siitaam* = to Seetha.
+
+**अनुवादः**
+
+After Ravana left and obtained gynaeceum, those ogres with horrible appearances went running to
+Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -100,6 +172,22 @@ _________________
 ‘‘ऎलै सीतॆ! रावणनु पुलस्त्य वंशजनू, महात्मनू, श्रेष्ठनू आगिद्दानॆ. अन्तह दशकण्ठनिगॆ भार्यॆयागुवुदन्नु नीनु ऒन्दु दॊड्ड पुरस्कारवॆन्दु एकॆ भाविसुत्तिल्ल? इदु निन्न मौढ्यवे सरि’’॥4॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. siite* = O Seetha!; *na bahumanyase* = you are not respecting; *bhaaryaatvam*
+= becoming wife; *raavaNAsya* = of Ravana; *paulastasya* = born in the family of Paulastya; *
+varidhhThasya* = best among men; *mahaatmanaH* = a great soul; *dashagrrivasya* = with ten heads;
+
+**अनुवादः**
+
+"O Seetha! You are not respscting becoming wife of Ravana born in the family of Paulastya, best
+among men, a great soul with ten heads."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वेकजटा नाम राक्षसी वाक्यमब्रवीत् ।  
@@ -112,6 +200,12 @@ _________________
 आमन्त्र्य क्रोधताम्राक्षी सीतां करतलोदरीम् ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततस्वएकजटा नाम राक्षसी वाक्यमब्रवीत् ।
+अमन्त्य्र क्रोधताम्राक्षी सीतां करतलोदरीम् ॥ ५-२३-५
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तत्पश्चात् एकजटा नामवाली राक्षसीने क्रोधसे लाल आँखें करके कृशोदरी सीताको पुकारकर कहा— ॥ ५ ॥
@@ -120,6 +214,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसियरॆल्लरू ऒट्टागि हीगॆ हेळिद नन्तर आ राक्षसियरल्लि ऒब्बॊब्बरु ऒन्दॊन्दु रीतियिन्द हेळतॊडगिदरु. क्रोधदिन्द कॆङ्गण्णळागिद्द ‘एकजटा’ ऎम्ब रक्कसियु सण्णनडुवुळ्ळ सीतादेविगॆ सम्बोधिसि हीगॆ हेळिदळु.॥5॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. tataH* = Thereafter; *raakshasii* = an ogre woman; *ekajaTaa naama*
+= named Ekajata; *krodhataamraakshii* = with red eyes due to anger; *aamantrya* = calling; *siitaam*
+= Seetha; *karatalodariim* = with stomach that can be held by a palm of the hand; *abraviit* = spoke;
+*vaakyam* = (these) words.
+
+**अनुवादः**
+
+Thereafter an ogre woman named Ekajata with red eyes sue to anger calling Seetha with stomach that
+can be held by palm of the hand, spoke these words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,6 +248,13 @@ _________________
 मानसो ब्रह्मणः पुत्रः पुलस्त्य इति विश्रुतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+प्रजापतीनाम् षण्णं तु चतुर्थो यः प्रजापतिः ।
+मानसो ब्रह्मणः पुत्रः पुलस्त्य इति विश्रुतः
+॥ ५-२३-६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विदेहकुमारी! पुलस्त्यजी छः* प्रजापतियोंमें चौथे हैं और ब्रह्माजीके मानस पुत्र हैं । इस रूपमें उनकी सर्वत्र ख्याति है ॥ ६ ॥
@@ -145,6 +263,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎलॆगॆ सीतॆ! मरिचि, अत्रि, अङ्गीरस, पुलस्त्य, पुलह, क्रतु ऎम्ब आरु मन्दि प्रजापतिगळल्लि पुलस्त्यनु नाल्कनॆयवनु. अवनु ब्रह्ममानस पुत्रनू, विख्यातनू आगिरुवनु.॥6॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. aNNaam prajaapatiinaam* = among the six Prajapathis; *yaH* = whichever;
+*putraH* = son;chaturthaH prajapatiH = the fourth Prajapati; *maanasaH* = born by the thought;
+*brahmaNaH* = of Lord Brahma; *vishrutaH* = (he is) famous; *pulastyaH iti* = as Pulastya.
+
+**अनुवादः**
+
+"Among th six Prajapatis, whichever son, the fourth Prajapati, born by the thought of Lord Brahma
+,he is famous as Paulastya."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -164,6 +298,12 @@ _________________
 नाम्ना स विश्रवा नाम प्रजापतिसमप्रभः ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+पुलस्त्यस्य तु तेजस्वी महार्षिर्मानसः सुतः ।
+नाम्ना स विश्रवा नाम प्रजापतिसमप्रभः ॥ ५-२३-७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पुलस्त्यजीके मानस पुत्र तेजस्वी महर्षि विश्रवा हैं । वे भी प्रजापतिके समान ही प्रकाशित होते हैं ॥ ७ ॥
@@ -172,6 +312,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तेजस्वियाद विश्रवसनु महर्षि पुलस्त्यनिगॆ मानसपुत्रनु. अवनु तेजस्सिनल्लि ब्रह्मनन्तॆ इरुववनु.॥7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. naamnaa* = By the name; *vishravaa naama* = famous as Visrava; *prajaapati
+samaprabhaH* = with a radiance equalling that of Lord Brahma; *saH tejasvii maharshhiH* = that glorious
+sage; *sutaH* = is the son; *maanasaH* = (born) from the thought; *pulastasya* = of Pulastya.
+
+**अनुवादः**
+
+By the name, famous as Visrava, with a radiance equalling that of Lord Brahmathat glorious sage
+is the son born from the thought of Pulastya.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +342,16 @@ _________________
 तस्य पुत्रो विशालाक्षि रावणः शत्रुरावणः ।  
 तस्य त्वं राक्षसेन्द्रस्य भार्या भवितुमर्हसि ॥ ८ ॥  
 मयोक्तं चारुसर्वाङ्गि वाक्यं किं नानुमन्यसे ।
+_________________
+मयोक्तं चारुसर्वाङ्गि वाक्य किं नानुमन्यसे ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+तस्य पुत्रो विशालाक्षि रावणः शत्रुरावणः ।
+तस्य त्वं राक्षसेन्द्रस्य भार्या भवितुमर्हसि
+॥ ५-२३-८
+मयोक्तं चारुसर्वाङ्गि वाक्यम् किं नाममन्यसे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -196,6 +362,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎलै विशालाक्षिये! सुप्रसिद्धनाद विश्रवसुविन मगने रावणनु. अवनु अतिवीर भयङ्करनू, राक्षसरिगॆल्ल प्रभुवू आद अवनिगॆ भार्यॆयागलु नीनु योग्यळागिरुवॆ.॥8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. vishaakshii* = O wide eyed one!; *raavaNaH* = Ravana; *shatruraavaNaH*
+= who makes enemies to cry; *tasya* = is his (Visrava's); *putraH* = son; *tvam* = you;
+*arhasi* = are suited; *bhavitum* = to become; *tasya* = Ravana's; *bhaaryaa* = wife;
+*chaarusarvaaNgii* = O one with all beautiful limbs!; *kim* = why; *naanumanyase* = will
+you not agree; *vaakyam* = words; *uktam* = spoken; *mayaa* = by me.
+
+**अनुवादः**
+
+"O wide eyed one! Ravana who makes enemies to cry, is Visrava's son. You are suited to become Ravana's
+wife. O one with all beautiful limbs! Why will you not agree words spoken by me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,15 +397,30 @@ _________________
 येन देवास्त्रयस्त्रिंशद् देवराजश्च निर्जितः ॥ १० ॥  
 तस्य त्वं राक्षसेन्द्रस्य भार्या भवितुमर्हसि ।
 _________________
-मयोक्तं चारुसर्वाङ्गि वाक्य किं नानुमन्यसे ।  
-ततो हरिजटा नाम राक्षसी वाक्यमब्रवीत् ॥
-विवर्त्य नयने कोपान्मार्जारसदृशेक्षणा ।  
-येन देवास्त्रयस्त्रिंशद्देवराजश्च निर्जिताः ॥
+विवर्त्य नयने कोपान्मार्जारसदृशेक्षणा ।
+येन देवास्त्रयस्त्रिंशद्देवराजश्च निर्जिताः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इसके बाद बिल्लीके समान भूरे आँखोंवाली हरिजटा नामकी राक्षसीने क्रोधसे आँखें फाड़कर कहना आरम्भ किया—‘अरी! जिन्होंने तैंतीसों* देवताओं तथा देवराज इन्द्रको भी परास्त कर दिया है, उन राक्षसराज रावणकी रानी तो तुम्हें अवश्य बन जाना चाहिये ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. yena* = by whom; *trastriMshat* = thirty three; *devaaH* = Devas;
+*devaraajashcha* = and the king of Devas; *nirjitaaH* = have been conquered; *tvam* = you;
+*arhasi* = are suited; *bhavitum* = to become; *bhaaryaa* = the wife; *tasya raakshasendrasya*
+= of that lord of ogres.
+
+**अनुवादः**
+
+"By whom thirty three Devas and the king of Devas have been conquered, you are suited to become
+the wife of that lord of ogres.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>पादटिप्पनी</summary>
@@ -240,8 +439,13 @@ _________________
 वीर्योत्सिक्तस्य शूरस्य सङ्ग्रामेष्वनिवर्तिनः ।  
 बलिनो वीर्ययुक्तस्य भार्यात्वं किं न लिप्ससे ॥ ११ ॥
 _________________
-तस्य त्वं राक्षसेन्द्रस्य भार्या भवितुमर्हसि ।  
-ततस्तु प्रघसा नाम राक्षसी क्रोधमूर्छिता ॥
+ततस्तु प्रघसा नाम राक्षसी क्रोधमूर्छिता ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+ततस्तु प्रघसा नाम राक्षसी क्रोधमूर्छिता ॥ ५-२३-११
+भर्त्सयनी तदा घोरमिदं वचनमब्रवीत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -252,6 +456,39 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दराङ्गिये! नन्न ई मातन्नु नीनु एकॆ अनुमोदिसुवुदिल्ल? आग सीतॆयु उत्तरिसदिद्दाग, बॆक्किन कण्णिनवळाद ‘हरिजटा’ ऎम्ब राक्षसियु कोपदिन्द कण्णुगळन्नु अरळिसिकॊण्डु हीगॆ नुडिदळु-रावणनु देवेन्द्रन सहित मूवत्तमूरु कोटि प्रमुख देवतॆगळन्नु तन्न अतुल पराक्रमदिन्द जयिसिरुवनु. अन्तह राक्षसेन्द्रनिगॆ मडदियागलु नीनु अर्हळागिरुवॆ. रावणनु गर्वदिन्द उब्बि होद महापराक्रमियु. शूरनू, युद्धदल्लि ऎन्दू बॆन्नुतोरदिरुववनू, महाबलशालियू, महावीर्यवन्तनू आद अवनिगॆ भार्यॆयागलु नीनेकॆ अपेक्षिसुवुदिल्ल?॥9-11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. tataH* = Thereafter; *raakshasii* = an ogre woman; *praghasaa naama*
+= named Praghasa; *krodhamuurchhitaa* = swooning with anger; *tadaa* = then; *bhartsayantii*
+= frightening (Seetha) ; *abraviit* = spoke; *idam* = this; *ghoram* = horrible (word).
+
+**अनुवादः**
+
+Thereafter an ogre named Praghasa swooning with anger and then frightening Seetha, spoke this horrible
+word.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. tataH* = Thereafter;raakshasii = an ogre woman; *harijaTaa naama* = named
+Harijata; *maarjaarasadR^ishekshaNaa* = with eyes like those of a cat; *vivartya* = turned around;
+*nayane* = eyes; *kopaat* = due to anger; *abraviit* = (and) spoke; *vaakyam* = (these)
+words.
+
+**अनुवादः**
+
+Thereafter an ogre woman named Harijata with eyes like those of a cat turned around eyes due to
+anger and spoke these words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +522,40 @@ _________________
 आगलू सीतादेवियु मौनदिन्दिरुवाग - ‘प्रघसा’ ऎम्ब राक्षसियु कोपोद्रिक्तळागि सीतॆयन्नु बॆदरिसुत्ता कठोरवाद ई मातन्नु हेळिदळु — ऎल्ल श्रेष्ठ नारियरल्लि अत्यन्त प्रियळाद, ऎल्लरिन्द गौरविसल्पडुत्तिरुव, महाभाग्यशालिनियाद मन्दोदरियन्नु कूड परित्यजिसि महाबलनाद रावणनु निन्नन्नु पडॆयलु अपेक्षिसिद्दानॆ.॥12-13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. raavaNaH* = Ravana; *mahaabalaH* = with great might; *tyaktvaa*
+= leaving;priyaam = dear; *bahumataam* = respectable; *bhaaryaam* = wife; *sarvaasaam* =
+who among all wives; *mahaabhaagaam* = is most fortunate; *upaishhyati* = can obtain; *tvaam*
+= you.
+
+**अनुवादः**
+
+"The mighty Ravana can leave dear respectable wife who among all wives is most fortunate and can
+obtain you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. kim* = why; *na lapsyase* = (you) will not get; *bharyaatvam* =
+wife-hood (of Ravana); *viiryotsiktasya* = (who is) proud of his might; *shuurasya* = valiant;
+*anivartinaH* = who will not turn back; *saMgraameshhu* = in wars; *balinaH* = strong;
+*viiryayuktasya* = together with valour.
+
+**अनुवादः**
+
+"Why will you not get wifehood of Ravana who is proud of his might, valiant, who will not turn
+back in wars, who is strong together with valour."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्या तु विकटा नाम राक्षसी वाक्यमब्रवीत् ।  
@@ -316,6 +587,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अमूल्यवाद रत्नगळिन्द शोभिसुत्तिरुव साविरारु कान्तॆयरु रावणन अन्तःपुरदल्लि इद्दारॆ. अन्तह तरुणीमणिगळन्नु कडॆगणिसिद रावणनु निन्नन्नु सेरलु तवकिसुत्तिद्दानॆ.॥14॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. raavaNaH* = Ravana; *samutsR^ijya* = leaving; *antaHpuram* = gynaeceum;
+*samR^iddham* = filled; *strii sahasreNa* = with thousand women; *naanaa ratnopashobhitam*
+= shone by various best things; *upaishhyati* = can obtain; *tvaam* = you.
+
+**अनुवादः**
+
+"Ravana leaving gynaeceum filled with thousand women and shone by various best things can obtain
+you.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +648,15 @@ _________________
 यस्य सूर्यो न तपति भीतो यस्य च मारुतः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य सर्वसमृद्धस्य रावणस्य महात्मनः ।
+किमद्य राक्षसेन्द्रस्य भार्यात्वं नेच्छऽधमे ॥ ५-२३-१७
+ततस्तु दुर्मुखी नाम राक्षसी वाक्यमब्रवीत् ।
+यस्य सूर्यो न तपति भीतो यस्य च मारुतः ॥ ५-२३-१८
+न वाति स्मायतापाङ्गे किं त्वं तस्य न तिष्ठसि ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भामिनि! जिनके भयसे वृक्ष फूल बरसाने लगते हैं और जो जब इच्छा करते हैं, तभी पर्वत तथा मेघ जलका स्रोत बहाने लगते हैं । उन्हीं राजाधिराज राक्षसराज रावणकी भार्या बननेके लिये तुम्हारे मनमें क्यों नहीं विचार होता है? ॥ १७-१८ ॥
@@ -369,6 +665,40 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु हेळुत्तिद्दुदन्नु, केळुत्ता सुम्मनॆ कुळितिरुव सीतॆगॆ ‘विकटा’ ऎम्ब मत्तोर्व रक्कसियु हीगॆ हेळुत्ताळॆ रावणनु समराङ्गणदल्लि देवतॆगळन्नु नागरन्नु, गन्धर्वरन्नु, हलवारु बारि पराभवगॊळिसिरुवनु. अन्तह महाभयङ्कर पराक्रमियाद, महाशूरनाद, रावणेश्वरनु प्रणयभिक्षॆयन्नु बेडुत्ता निन्न बळिगॆ बन्दिरुवनु. सर्व समृद्धियन्नु हॊन्दिरुव महात्मनाद राक्षसेन्द्रनिगॆ भार्यॆयागलु बयसदॆ इरुव नीनु निजवागि अधमळागिरुवॆ.॥15-17॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. adhame* = O vile one; *kim* = why; *adya* = now; *nechchhase*
+= are you not desring; *bhaaryaatvam* = wifehood; *tasya raavaNasya* = of such Ravana; *sarvasamR^iddhasya*
+= fulfilled in all respects; *mahaatmanaH* = great soul; *raakshasendrasya* = lord of ogres.
+
+**अनुवादः**
+
+"O vile one! Why are you not desiring wifehood of such Ravana, fulfilled in all respects, who is
+a great soul and lord of ogres.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+15; *16. anyaa* = another; *raakshasii tu* = ogre woman; *vikaTaa naama*
+= named Vikata; *abraviit* = spoke; *vaakyam* = (these) words; *yena* = by whom; *asakR^it*
+= a number of times; *yuddhe* = in war; *devataaH* = Devas; *samare* = in war; *naagagandharvadaanavaaH*
+= Nagas; Gandharvas and Danavas; *nirjiaaH* = have been conquered; *saH* = that Ravana; *aagataH*
+= has come; *te paarsvam* = to your side.
+
+**अनुवादः**
+
+Another ogre woman named Vikata spoke these words: "By whom a number of times in war Devas, in
+war Nagas, Gandharvas and Danavas have been conquered that Ravana has come to your side."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,6 +724,45 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक ‘दुर्मुखि’ ऎम्ब राक्षसियु सीतॆगॆ हीगॆ उपदेशिसतॊडगिदळु ऎलै सुन्दरी! रावणनिगॆ भयपट्टु सूर्यनु कूड तीक्ष्णवाद किरणगळन्नु पसरिसुवुदिल्ल. वायुवु मन्दवागि बीसुत्तिरुवनु. ओ विशालाक्षि! अन्तह प्रभुविन बळियल्लिरलु नीनेकॆ बयसुत्तिल्ल? अवनिगॆ भयपट्टु वृक्षगळू कूड अवन बयकॆयन्तॆ हूवुगळन्नु सुरिसुत्तवॆ. हागॆये पर्वतगळू, मेघगळू, कूड अवनु बयसिदाग मधुर जलवन्नु सुरिसुत्तवॆ. ऎलै भामिनी! अन्तह राक्षस चक्रवर्तियाद रावणेश्वरन भार्यॆयागलु नीनेकॆ मनस्सु माडुत्तिल्ल? अवन पत्नियागलु एकॆ सिद्धळागुवुदिल्ल?॥18-20॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+19; *20. subhru* = O one with good eyebrows!; *bhaminii* = O Seetha!; *bhayaat*
+= by the fear; *yasya* = of whom; *taravaH* = trees; *mumuchuH* = shed; *pushhpavR^ishhTim*
+= a shower of flowers; *yadaa ichchhati* = whenever desired; *shailaashcha* = mountains; *jaladaashcha*
+= and clouds; *paniiyam* = (will shed) water;kim = why; *tvam* = you; *na kurushhe* = are
+not making; *buddhim* = mind; *baaryaardhe* = to be the wife; *tasya raavaNasya* = of such
+Ravana; *nairR^ita raajasya* = king of ogres; *raajaraajasya* = (and) king of kings;
+
+**अनुवादः**
+
+"O one with good eyebrows! O Seetha! By the fear of whom trees shed a shower of flowers, whenever
+Ravana desired mountains and clouds will shed water, why you are not making mind to be the wife of such Ravana,
+who is the king of ogres and king of kings."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. tataH* = Thereafter; *raakshasii* = an ogre woman; *durmukhii naama*
+= named Durmuukhi; *abraviit* = spoke; *vaakyam* = (these) words; *aayataa paaN^ge* = O one
+with long cornered eyes! bhiitaH = fearing; *yasya* = whom; *suuryaH* = sun; *na tapati*
+= will not consume by heat; *bhiitaH* = fearing; *yasya* = whom; *maarutaH* = wind; *na
+vaati sma* = will not blow; *tasya* = to that one; *kim* = why; *tvam* = are you; *
+na tiShThasi* = not favourable.
+
+**अनुवादः**
+
+Thereafter an ogre woman named Durmukhi spoke these words: " O one with long eyes! Fearing whom
+the sun will not comsume by heat, fearing whom the win will not blow, to that one why are you not favourable."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

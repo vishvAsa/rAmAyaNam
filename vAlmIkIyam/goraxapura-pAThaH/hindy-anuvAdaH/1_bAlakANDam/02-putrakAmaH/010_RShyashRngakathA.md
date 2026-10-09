@@ -2,6 +2,18 @@
 title = "०१० ऋष्यशृङ्गकथा"
 title_english = "010 Rishyasringa enticed and brought from woods"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala Kanda - The Youthful Majesties
+Verses converted to UTF_8 Sept, 09**
+
+Sumantra, the minister continues his narration to his king Dasharatha, about Rishyashringa's
+arrival at Anga kingdom of King Romapaada and his marriage with Princess Shantha, the daughter
+of Romapada.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-010-Rushya_Shrunga_Kathaa.mp3"></div>
 </details>
@@ -29,6 +41,13 @@ _________________
 तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सुमंत्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा ।
+यथर्ऋष्यशृङ्गस्त्वानीतो येनोपायेन मंत्रिभिः
+तन्मे निगदितं सर्वं शृणु मे मंत्रिभिः सह ॥ १-१०-१
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजाकी आज्ञा पाकर उस समय सुमन्त्रने इस प्रकार कहना आरम्भ किया—‘‘राजन्! रोमपादके मन्त्रियोंने ऋष्यशृंगको वहाँ जिस प्रकार और जिस उपायसे बुलाया था, वह सब मैं बता रहा हूँ । आप मन्त्रियोंसहित मेरी बात सुनिये ॥ १ ॥
@@ -37,6 +56,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजन अप्पणॆ पडॆदु सुमन्त्रनु हीगॆ हेळलु प्रारम्भिसिदनु - महाराजा! रोमपादन मन्त्रिगळु ऋष्यशृङ्गरन्नु याव उपायदिन्द करॆसिद्दनु? अदॆल्लवन्नु नानु तिळिसुवॆनु. तावु मन्त्रिगळॊन्दिगॆ नन्न मातन्नु केळिरि.॥1॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. sumantraH choditaH raaj~naa* = Sumantra, motivated, by king; *tadaa idam vachaH
+provaacha* = then, this, word, said; *yathaa R^iShyasR^i~ngaH tu aaniitaH* =
+as to how, Rishyasringa, is brought; *yena upaayena mantribhiH* = by which, idea, by
+ministers; *shR^iNu me mantribhiH saha* = all, listen, from me, with ministers; *
+tat me nigaditam sarvam* = that all spoken by me.
+
+**अनुवादः**
+
+Sumantra thus motivated by King Dasharatha, said these words to king "Oh! King, how and with
+which idea Sage Rishyasringa is brought by the ministers of Romapada, all that will be spoken...
+that may please be listened from me along with ministers... [1-10-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +99,22 @@ _________________
 आग अमात्यरॊन्दिगॆ पुरोहितरु रोमपादनल्लि - महाराजने! नावु ऒन्दु उपायवन्नु योचिसिरुवॆवु. अदन्नु उपयोगिसिद्दरिन्द यावुदे विघ्न-बाधॆ बरुव सम्भववे इल्ल.॥2॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. saha amaatyaH purohitaH* = along with ministers, clergyman; *romapaadam uvaacha
+idam* = said this to king Romapaada; *upaayaH nirapaayaH ayam* = this one is a non-harmful plan;
+*asmaabhiH abhichintitaH* = well thought over by us.
+
+**अनुवादः**
+
+"The ministers along with clergyman have spoken this way to King Romapaada, "this is a non-harmful
+plan, well thought over by us..." [1-10-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः ।  
@@ -83,6 +137,23 @@ _________________
 ऋष्यशृङ्ग मुनियु सदा काडिनल्ले इरुत्ता तपस्सु मत्तु स्वाध्यायदल्ले तॊडगिरुववरु. अवरिगॆ स्त्रीयर परिचयवे इल्ल मत्तु विषयसुखद अनुभववे इल्ल.॥3॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. R^iShyashR^i~ngaH vanacharaH* = Rishyasringa, forest-dweller; *tapaHsvaadhyaayasamyutaH*
+= absorbed in ascesis and in Vedic reading; *naariiNaam viSayaaNaam sukhasya
+cha* = in women, of worldly-matters, of pleasure, also; *anabhij~naH tu* = not aware
+of.
+
+**अनुवादः**
+
+"Rishyasringa is a forest-dweller absorbed in ascesis and self-study of Vedic scriptures,
+and he is not aware of women, or of worldly-matters or of even worldly-pleasures...[1-10-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः ।  
@@ -103,6 +174,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नावु मनस्सन्नु कदडुव मनोवाञ्छित विषयगळ प्रलोभनॆ तोरिसि अवरन्नु नम्म नगरक्कॆ करॆतरुवॆवु. आद्दरिन्द इदक्कागि बेगने प्रयत्नमाडोण.॥4॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. narachittapramaathibhiH* = disquieting men's mind; *abhimataiH indriyaarthaiH*
+= with much desired, sense pleasing objects; *puram aanaayayiShyaamaH* = to city, we
+wish to bring; *kShipram ca adhyavasiiyataam* = immediately, let be decided.
+
+**अनुवादः**
+
+"With much desired sense-pleasing objects that will be disquieting the minds of men, we wish
+bring him to the city... Let it be decided quickly... [1-10-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -130,6 +217,23 @@ _________________
 सुन्दर आभूषणगळिन्द अलङ्कृतराद मनोहर रूपवुळ्ळ वेश्यॆयरु अल्लिगॆ होदरॆ, अवरु बगॆ बगॆय उपायगळिन्द अवरन्नु मरुळुगॊळिसि नगरक्कॆ करॆतरुवरु. आद्दरिन्द अवरन्नु सत्कारपूर्वक कळिसु.॥5॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. ruupavatyaH svalankR^itaaH* = beautiful ones, well decorated ones; *gaN^ikaaH
+tatra gacChantu satkR^itaaH* = courtesans, there, they go, amply gifted [by you]; *
+pralobhya vividhopaayaiH* = tempting, by many idea; *iha aaneSyanti* = bring
+him, hither.
+
+**अनुवादः**
+
+"Beautiful and well decorated courtesans will go there to bring him hither by tempting with
+many a feint, and let the courtesans be given ample gifts... [1-10-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम् ।  
@@ -140,6 +244,12 @@ _________________
 
 श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम् ।  
 पुरोहितो मन्त्रिणश्च तदा चक्रुश्च ते तथा ॥ ६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम् ।
+पुरोहितो मंत्रिणश्च तथा चक्रुश्च ते तदा ॥ १-१०-६
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -152,6 +262,22 @@ _________________
 इदन्नु केळि राजनु पुरोहितरल्लि - ‘बहळ ऒळ्ळॆयदु नीवु हागॆये माडिरि’ ऎन्दु हेळिदनु. अप्पणॆ पडॆदु पुरोहितरु मत्तु मन्त्रिगळु हागॆये व्यवस्थॆ माडिदरु.॥6॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. shrutvaa tathaa iti* = hearing, let it be, so; *raajaa ca pratyuvaacha purohitam*
+= king, also, replied, to priest; *purohitaH* = priests; *te mantriNaH cha*
+= those, ministers, also; *tadaa chakruH tathaa* = then, carried out, that way.
+
+**अनुवादः**
+
+"Hearing that the King replied the priest, "Let it be so..." and then the priests and ministers
+have carried out the plan that way... [1-10-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत् ।  
@@ -164,6 +290,13 @@ _________________
 आश्रमस्याविदूरेऽस्मिन् यत्नं कुर्वन्ति दर्शने ॥ ७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत् ।
+आश्रमस्याविदूरेऽस्मिन्यत्नं कुर्वन्ति दर्शने ॥ १-१०-७
+ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘तब नगरकी मुख्य-मुख्य वेश्याएँ राजाका आदेश सुनकर उस महान् वनमें गयीं और मुनिके आश्रमसे थोड़ी ही दूरपर ठहरकर उनके दर्शनका उद्योग करने लगीं ॥ ७ ॥
@@ -172,6 +305,38 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग नगरद मुख्य-मुख्य वेश्यॆयरु राजन आदेश पडॆदु आ वनक्कॆ तॆरळिदरु. अल्लि मुनिय आश्रमद स्वल्प दूरदल्लि तङ्गिद्दु, अवर दर्शनक्कागि प्रयत्निसतॊडगिदरु.॥7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7, 8a. tat shrutvaa vaaramukhyaaH tu* = hearing that, best courtesans;
+*mahat vanam pravivishuH* = entered great forests; *aashramasya asmin
+aviduure* = not very far from hermitage; *darshane* = to catch a glance [to
+show themselves to sage]; *dhiirasya* = of that highly intelligent sage; *nityam
+aashramavaasinaH* = always dwelling in hermitage; *R^iSheH putrsya* = Sage',
+son; *yatnam kurvanti* = trials, they made.
+
+**अनुवादः**
+
+"On hearing that order of the king those best courtesans have entered that great forest, and
+they camped not very far from that hermitage, making all the trials for showing themselves
+off to a glance of that sage. [1-10-7]
+
+**टिप्पनी**
+
+Any dictionary would give the meaning of courtesan as 'whore' or as 'court mistress'. But
+in Indian context, the courtesan is not to be taken in such a lowly way as just a prostitute
+or a whore. They belong to a caste/class of artists. Juxtaposed to the Four-Caste system there
+was a *devadasi* Temple Dancers system, which is the artist's class. On their receiving
+enough education and skills in the performing arts and as per their capabilities, they will
+be nominated as Court Dancers or Temple Dancers and the like. Ancients recognized sixty-four
+arts *chatuSSaSThi-kalaa* , which include right from music, dance, and drama, sculpture,
+painting etc., up to the art of thievery. Kings in their political or sovereign pursuits variedly
+used these Deva Daasis, the courtesans.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +389,31 @@ _________________
 आ तपस्वी ऋषिकुमारनु हुट्टिदन्दिनिन्द इन्दिनवरॆगॆ यावुदे स्त्रीयन्नु नोडिरलिल्ल हागू तन्दॆयल्लदॆ बेरॆ पुरुषनन्नु नोडिरलिल्ल. नगरदल्लि अथवा हळ्ळिगळल्लि वासिसुव बेरॆ-बेरॆ प्राणिगळन्नू सह नोडिरलिल्ल.॥9॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8b, 9. nityasantuShTaH* = always satisfied; *saH* = he Rishyasringa; *
+pituH aashramaat* = his father's, hermitage; *na ati chakraama* = not, out of way,
+stirred out; *tapasvinaa* = by hermit; *tena janmaprabhR^iti* = by him, birth
+onwards; *strii vaa pumaan* = female, or, male; *nagararaaSTrajam* = of city
+or of countryside; *yat anyat* = that which, any other; *sattvam* = being;
+*na dR^iShTapuurvam* = not seen earlier.
+
+**अनुवादः**
+
+"Always satisfied is sage Rishyasringa to be in hermitage, thus he never stirred out of that
+hermitage, and thus he has not seen any female, or a male, or even any other objects of pleasure,
+either of city or of countryside from the time of birth onwards... [1-10-8b, 9]
+
+**टिप्पनी**
+
+Rishyasringa is thus not aware of gender differentiation or exposed to any other object of
+pleasure, and thus his father conditioned him to achieve some supreme ritual ideal.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कदाचित् तं देशमाजगाम यदृच्छया ।  
@@ -244,6 +434,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर ऒन्दु दिन विभाण्डक कुमार ऋष्यशृङ्गनु अकस्मात् तिरुगाडुत्ता वेश्यॆयरु तङ्गिद्द स्थानक्कॆ बन्दनु. अल्लि अवनु आ सुन्दर वनितॆयरन्नु नोडिदनु.॥10॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. tataH kadaachit* = then, at one time; *vibhaaNDakasutaH* = Vibhandaka's
+son Rishyasringa; *yadR^icChayaa tam desham aajagaama* = casually came to that place;
+*tatra taaH varaanganaaH apashyat* = there has seen them comely females.
+
+**अनुवादः**
+
+"Then at one time Rishyasringa casually arrived at that place, and has seen those comely females.
+[1-10-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +474,22 @@ _________________
 आ प्रमदॆयर वेष-भूषणगळु सुन्दर मत्तु अद्भुतवागित्तु. अवरु मधुरवागि हाडुत्तिद्दरु. अल्लिगॆ बन्द ऋषिकुमारनन्नु नोडि अवरॆल्लरू अवन बळिगॆ बन्दु सुत्तुवरॆदु निन्तु हीगॆ केळतॊडगिदरु.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. chitraveSaaH taaH pramadaaH* = they, amazingly attired, lustful women; *madhurasvaram gaayantyaH*
+= singing with melodious tone; *sarvaaH R^iSiputram upaagamya*
+= all of them, nearing at Sage's son, ; *vachanam abraviit* = words, spoke.
+
+**अनुवादः**
+
+"They the lustful women are amazingly attired and singing melodious tunes, all of them neared
+the sage's son and spoke these words... [1-10-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम् ।  
@@ -278,6 +500,12 @@ _________________
 
 कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम् ।  
 एकस्त्वं विजने दूरे वने चरसि शंस नः ॥ १२ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम् ।
+एकस्त्वं विजने घोरे वने चरसि शंस नः ॥ १-१०-१२
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -290,6 +518,23 @@ _________________
 विप्रोत्तमने! नीनु यारु? एनु माडुत्तिरुवे? ई निर्जन वनदल्लि आश्रमदिन्द हॊरगॆ इष्टु दूर बन्दु ऒब्बने एनु विचार माडुत्तिरुवॆ? इदन्नु नमगॆ हेळु. नावु इदन्नु तिळियलु बयसुत्तिरुवॆवु.॥12॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. brahman* = oh Brahman; *tvam kaH* = who, you are; *ekaH vijane ghore
+vane* = lonely, devoid of people [desolate,] in deep, forests; *[kim] charasi*
+= why you move; *kim vartase* = why, you conduct yourself; *vayam j~natum icChaamahe*
+= we are interested to know; *shamsa naH* = you move, tell us.
+
+**अनुवादः**
+
+"Who you are? Why you move lonely in these deep and desolate forests, why you conduct yourself
+like this? Oh! Brahman, we are interested to know... please tell us..." [1-10-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः ।  
@@ -302,6 +547,12 @@ _________________
 हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम् ॥ १३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः ।
+हार्दात्तस्य मतिर्जाता ह्याख्यातुं पितरं स्वकम् ॥ १-१०-१३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘ऋष्यशृंगने वनमें कभी स्त्रियोंका रूप नहीं देखा था और वे स्त्रियाँ तो अत्यन्त कमनीय रूपसे सुशोभित थीं; अतः उन्हें देखकर उनके मनमें स्नेह उत्पन्न हो गया । इसलिये उन्होंने उनसे अपने पिताका परिचय देनेका विचार किया ॥ १३ ॥
@@ -310,6 +561,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऋष्यशृङ्गनु काडिनल्लि ऎन्दू स्त्रीयन्नु नोडिरलिल्ल. आ स्त्रीयरु अत्यन्त कमनीय रूपवतियरागिद्दरु. आद्दरिन्द अवरन्नु नोडि अवन मनस्सिनल्लि स्नेह उण्टायितु. आद्दरिन्द अवनु तन्न मत्तु तन्दॆय परिचय माडिसलु विचार माडिदनु.॥13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. kaamyaruupaaH taaH striyaH* = those women are most desirable in form; *
+tena vane* = by him, in forest; *adR^iSTaruupaaH* = un seen are such forms;
+*haardaat* = [thereby a sort of friendship is peeping out,] friendlily; *svakam pitaram
+hi aakhyaatum* = to detail about his, father; *tasya matiH jaataa* = his, mind, born [he is
+inclined to.]
+
+**अनुवादः**
+
+"Those women are in most desirable form and hitherto he has not seen such forms in that forest,
+hence a kind of friendship spouted, with which he is inclined to detail about his father...
+[1-10-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -334,6 +604,29 @@ _________________
 अवनु हेळुत्तानॆ - नन्न तन्दॆ विभाण्डक मुनिगळु. नानु अवर औरस पुत्रनु. नन्न हॆसरु ऋष्यशृङ्ग. नन्न नित्य नैमित्तिक तपस्सु इत्यादि कर्मगळु ई वनदल्ले नडॆयुत्तिवॆ.॥14॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. VibhandakaH asmaakam pitaa* = Vibhandaka is our, father; *aham tasya aurasaH sutaH* =
+I am, his, true descent, son; *me* = mine; *RiShyashringaH iti* = Rishyashringa- thus; *
+naamakarma* = name [ used here to indicate his birth time even of horn on
+head]; *bhuvi khyaatam* = renowned on earth.
+
+**अनुवादः**
+
+"My father is Sage Vibhandaka and I am his true descent son. I am known as Rishyasringa, by
+my name and by an event on my birth, and thus renowned on earth..."
+
+**टिप्पनी**
+
+The birth-event associated with his name is that he is born with a horn on the crown of his
+head. Thus he is named as Rishyasringa, i.e., *R^iSi*= the Sage; *sR^i~Nga*= horn; a Sage with
+a horn, and this here he recalls his birth time event.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः ।  
@@ -354,6 +647,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्लि सनिहदल्ले नन्न आश्रमविदॆ. नीवु नोडलु परम सुन्दररागिद्दीरि. नीवु नन्न आश्रमक्कॆ नडॆयिरि. अल्लि नानु निम्मॆल्लरन्नु विधिवत्तागि पूजिसुवॆनु.॥15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. shubhadarshanaaH* = oh august ones in appearance; *asmaakam aashramapadaH
+iha samiipe* = our, hermitage, is here only; *atra vaH sarveSaam* = there, to you,
+all; *vidhipuurvakam puujaam kariSye* = I wish to worship according to scriptures.
+
+**अनुवादः**
+
+"Our hermitage is here only, oh, august ones, I wish to perform scripturally worship to you
+all verily there..." thus said the sage to the courtesans. [1-10-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +687,23 @@ _________________
 ऋषिकुमारन मातन्नु केळि अवरॆल्लरू ऒप्पिकॊण्डरु मत्तॆ आ ऎल्ल सुन्दरियरु अवन आश्रमवन्नु नोडलु हॊरटरु.॥16॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. R^iShiputravachaH shrutvaa* = Sage's son's words, on hearing; *sarvaasaam*
+= to all of them [courtesans]; *tat aashramapadam draSTum* = to see that hermitage's threshold;
+*matiH aasa vai* = inclination, having got, verily; *tataH sarvaaH anganaaH
+jagmuH* = thereby, all, women went.
+
+**अनुवादः**
+
+"On hearing the words of sage's son, all those courtesans are verily inclined to see the threshold
+of that hermitage, then all the women went to hermitage. [1-10-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतानां तु ततः पूजामृषिपुत्रश्चकार ह ।  
@@ -390,6 +716,12 @@ _________________
 इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः ॥ १७ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+गतानां तु ततः पूजां ऋषिपुत्रश्चकार ह ।
+इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः ॥ १-१०-१७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘वहाँ जानेपर ऋषिकुमारने ‘यह अर्घ्य है, यह पाद्य है तथा यह भोजनके लिये फल-मूल प्रस्तुत है’ ऐसा कहते हुए उन सबका विधिवत् पूजन किया ॥ १७ ॥
@@ -398,6 +730,32 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिगॆ होद मेलॆ ऋषिकुमाररु इदो अर्घ्य, इदो पाद्य, इदु भोजनक्कागि फल-मूलगळु सिद्धवागिवॆ, ऎन्दु हेळुत्ता अवरॆल्लरन्नु विधिवत्तागि पूजिसिदनु.॥17॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. tataH R^iShiputraH* = then, sage's son; *gataanaam tu* = then, on going
+there; *puujaam chakaara ha* = sage's son has performed worship verily; *idam
+naH arghyam* = here is, our, hand-wash; *idam naH paadyam* = here is, our, foot-wash;
+*idam naH muulam* = this is, our, tuber fruits; *phalam cha naH* = juicy fruits,
+also, of ours.
+
+**अनुवादः**
+
+"On going there, then the Sage's son performed worship saying "Here is our hand-wash, here
+is our feet-wash, here are our tuber fruits, here are the juicy fruits of ours... " [1-10-17]
+
+**टिप्पनी**
+
+This portrays the exclusion of the sage's son from the rest of the world by his father. He
+worshipped the courtesans, as he would worship some super-natural deities by saying the above
+words, which will usually be used in ritual worship of Hindu deities. He being a fruitarian
+has offered the courtesans the tuber fruits like sweet potatoes etc., which are ridiculous
+to urbanites, that too to the pleasure-taking courtesans.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +780,23 @@ _________________
 ऋषिकुमारन पूजॆयन्नु स्वीकरिसि अवरॆल्लरू हॊरटुहोगलु उत्सुकरादरु. अवरिगॆ विभाण्डक मुनिय भयवित्तु. अदक्कागि अवरु शीघ्रवागि अल्लिन्द होगलु विचार माडिदरु.॥18॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. taaH sarvaaH samutsukaaH taam puujaam pratigR^ihya* = they all having received that worship enthusiastically;
+*R^iSheH bhiitaaH ca* = dread by Sage[Vibhandaka],
+also; *shiighram gamanaaya eva matim dadhuH* = quickly made-up in
+mind to make away that way.
+
+**अनुवादः**
+
+"All of them have received that kind of worship much enthusiastically, but dread at the arrival
+of the sage Vibhandaka, they quickly made-up their mind to make away from there. [1-10-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माकमपि मुख्यानि फलानीमानि हे द्विज ।  
@@ -434,6 +809,12 @@ _________________
 गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम् ॥ १९ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अस्माकमपि मुख्यानि फलानीमानि वै द्विज ।
+गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम् ॥ १-१०-१९
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘वे बोलीं—‘ब्रह्मन्! हमारे पास भी ये उत्तम-उत्तम फल हैं । विप्रवर! इन्हें ग्रहण कीजिये । आपका कल्याण हो । इन फलोंको शीघ्र ही खा लीजिये, विलम्ब न कीजिये’ ॥ १९ ॥
@@ -442,6 +823,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु हेळिदरु - विप्ररे! नम्म बळियू इन्तह उत्तमोत्तम फलगळिवॆ. इवन्नु स्वीकरिसिरि. निम्म कल्याणवागली ई फलगळन्नु बेगने तिन्दुबिडि, तडमाडबेडि.॥19॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. dvija* = oh Brahman; *asmaakam mukhyaani imaani phalaani api* = these are important fruits of ours
+,indeed; *gR^ihaaNa* = take them; *vipra* = oh
+holy One; *bhadram te* = safe be you; *bhakShayasva* = eat them; *chiram*
+= long after; *maa* = not.
+
+**अनुवादः**
+
+" 'Take these important fruits of ours, oh, Brahman, you be safe, oh, holy one... eat them
+before long....' Said courtesans to Rishyasringa.] [1-10-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,6 +857,12 @@ _________________
 मोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधान् शुभान् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ततस्तास्तं समालिंग्य सर्वा हर्षसमन्विताः ।
+मोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधान् शुभान् ॥ १-१०-२०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘ऐसा कहकर उन सबने हर्षमें भरकर ऋषिका आलिंगन किया और उन्हें खानेयोग्य भाँति-भाँतिके उत्तम पदार्थ तथा बहुत-सी मिठाइयाँ दीं ॥ २० ॥
@@ -467,6 +871,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि अवरॆल्लरू हर्षगॊण्डु ऋषियन्नु आलिङ्गिसि, अवरिगॆ तिन्नलु योग्यवाद बगॆबगॆय ऒळ्ळॆय पदार्थ हागू बहळष्टु सिहि तिनिसुगळन्नु नीडिदरु.॥20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. tataH taaH sarvaaH tam samaaliN^gya* = then, they, all, on embracing him; *
+harSasamanvitaaH* = having with mirthfulness; *modakaan* = sweet-balls [laddu-s];
+*bhakSyaan cha* = other sweetmeats, also; *vividhaan shubhaan* = in variety,
+of best ones; *pradaduH tasmai* = well presented, to him.
+
+**अनुवादः**
+
+"Then all of the courtesans have embraced him and all of them with a kind of mirthfulness
+in the offing, presented sweet-balls and other varieties of best sweetmeats to him. [1-10-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +912,22 @@ _________________
 अवन्नु सवियुत्ता तेजस्वी ऋषियु इवुगळू फलगळॆन्दे तिळिदनु, एकॆन्दरॆ इदक्किन्त मॊदलु ऎन्दू अवनु अन्तह पदार्थगळन्नु तिन्दिरलिल्ल. सदा वनदल्ले इरुववरिगॆ इन्तह वस्तुगळ रुचि सवियुव अवकाशवादरू ऎल्लि ताने इरुवुदु.॥21॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21. tejasvii vane nityanivaasinaam* = self-luminous one, always dwelling in forests
+[therefore]; *anaasvaaditapuurvaaNi* = not tasted earlier; *taani aasvaadya*
+= them [sweets,] relishing; *phalaani iti sma manyate* = resplendent one, supposed them to be fruits only.
+
+**अनुवादः**
+
+"Having relished the sweets, that resplendent sage supposed them to be fruits only, for he
+did not taste sweets earlier, as he is always forest-bound. [1-10-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च ।  
@@ -503,6 +940,12 @@ _________________
 गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः ॥ २२ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च ।
+गच्छन्ति स्मापदेशात्ताः भीतास्तस्य पितुः स्त्रियः ॥ १-१०-२२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘तत्पश्चात् उनके पिता विभाण्डक मुनिके डरसे डरी हुई वे स्त्रियाँ व्रत और अनुष्ठानकी बात बता उन ब्राह्मणकुमारसे पूछकर उसी बहाने वहाँसे चली गयी ॥ २२ ॥
@@ -511,6 +954,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर विभाण्डक मुनिय भयदिन्द आ स्त्रीयरु व्रत मत्तु अनुष्ठानद मातन्नु हेळि ब्राह्मण कुमारनल्लि आ नॆपवन्नॊड्डि अल्लिन्द हॊरटुहोदरु.॥22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. tadaa taaH striyaH* = then, those, women; *vipram aapR^icChya* = with Brahman,
+on asking [for leave]; *vratacharyaam nivedya cha* = on informing devotional duties;
+*bhiitaaH tasya pituH* = fearing, his, father; *apadeshaat* = on pretence of
+[their daily worships]; *gacChanti sma* = they went away.
+
+**अनुवादः**
+
+"Taking leave of the Sage Rishyasringa on pretence that they also have to perform devotional
+duties, they the courtesans departed from there on the pretext of their daily worship, while
+they actually feared for the arrival of Rishyasringa's father who may hurl curses on his arrival...
+[1-10-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +995,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरू हॊरटु होद बळिक काश्यप कुमार ऋष्यशृङ्गनु मनस्सिनल्लि व्याकुलगॊण्डनु मत्तु बहळ दुःखदिन्द अत्त-इत्त अलॆयतॊडगिदनु.॥23॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. taasu sarvaasu gataasu* = departure of all of them;
+*kaashyapasya aatmajaH dvijaH* = of Sage Kashyapa's, descendent [grandson,] Brahman;
+*asvasthahR^idayaH cha aasiit* = became disturbed at heart, also; *duHkhaat cha
+parivartate* = he behaved in sadness, even.
+
+**अनुवादः**
+
+"After the departure of all them the courtesans, that Brahman Rishyasringa, the grandson of
+Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +1038,26 @@ _________________
 अनन्तर मरुदिन पुनः मनस्सिनल्लि अवरन्ने चिन्तिसुत्ता शक्तिशालि विभाण्डक कुमार ऋष्यशृङ्गनु हिन्दिन दिन वस्त्राभरण भूषणगळिन्द अलङ्कृतराद आ सुन्दर रूपवुळ्ळ वेश्यॆयरन्नु नोडिदल्लिगॆ होदनु.॥24½॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24, 25a. tataH* = then; *viiryavaan* = sage with ascetic power; *saH apare
+dyuH* = he, on next day; *vibhaaNDakasutaH* = Vibhaandaka's son; *shriimaan*
+= prosperous one; *manasaa vichintayan muhuH* = in mind, recollecting, repetitively
+manoj~naaH = delightful ones [women]; *vaaramukhyaaH* = courtesans; *svalaMkR^itaaH*
+= well decorated ones; *yatra taaH dR^iShTaaH* = where, they, were seen; *tam desham
+aajagaama* = arrived at that place.
+
+**अनुवादः**
+
+"Then on the next day Rishyasringa, son of Vibhandaka and the prosperous sage with ascetic
+power has arrived at that place where he saw well-decorated and delightful courtesans recollecting
+in mind repetitively about them alone. [1-10-24, 25a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वैव च ततो विप्रमायान्तं हृष्टमानसाः ॥ २५ ॥  
@@ -577,6 +1076,13 @@ _________________
 एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+दृष्टैव च ततो विप्रमायान्तं हृष्टमानसाः ॥ १-१०-२५
+उपसृत्य ततः सर्वास्तास्तमूचुरिदं वचः ।
+एह्याश्रमपदं सौम्य ह्यस्माकमिति चाब्रुवन् ॥ १-१०-२६
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘ब्राह्मण ऋष्यशृंगको आते देख तुरंत ही उन वेश्याओंका हृदय प्रसन्नतासे खिल उठा । वे सब-की-सब उनके पास जाकर उनसे इस प्रकार कहने लगीं—‘सौम्य! आओ, आज हमारे आश्रमपर चलो ॥ २५-२६ ॥
@@ -585,6 +1091,26 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्राह्मण ऋष्यशृङ्गनु बन्दिरुवुदन्नु नोडि कूडले आ वेश्यॆयर मनस्सु हर्षगॊण्डितु. अवरॆल्लरू अवन बळिगॆ होगि अवनल्लि सौम्य! बन्नि, इन्दु नम्म आश्रमक्कॆ नडॆयिरि ऎन्दु हेळिदरु.॥25-26॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25b, 26. tataH vipram dR^iSTvaa eva aayaantam* = then, on seeing the arrival of that brahman;
+*hR^iShTamaanasaaH* = with happiness at heart; *taaH sarvaaH tataH
+upasR^itya* = they, all, then, on surrounding him; *tam uuchuH idam vachaH* = said these words to
+him; *soumya* = oh gentle one; *asmaakam aashramapadam*
+= towards our, hermitage's threshold; *ehi* = please come; *iti cha* = thus,
+also; *abruvan* = they have said.
+
+**अनुवादः**
+
+" Then on seeing the arrival of that Brahman, the courtesans felt happy at heart, and all
+of those courtesans on surrounding him said, "oh, gentle one, welcome to the threshold of
+our hermitage... [1-10-25b, 26]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +1123,12 @@ _________________
 
 चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च ।  
 तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम् ॥ २७ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+चित्राण्यत्र बहूनि स्युर्मूलानि च फलनि च ।
+तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम् ॥ १-१०-२७
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -609,6 +1141,23 @@ _________________
 इल्लि नाना विधद फल-मूल बहळ सिगुत्तिद्दरू, अल्लियू निश्चयवागि विशेष रूपदिन्द सिगबल्लदु. नडॆयिरि ऎन्दु हेळिदरु.॥27॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. atra chitraaNi bahuuni muulaani ca phalaani syuH* = there, excellent, tubers, fruits,
+also, are there; *tatra eSaH visheSeNa api* = there, this very distinctive way; *
+vidhiH bhavitaa* = manner [hospitality,] will be there; *dhruvam hi* = definitely,
+indeed.
+
+**अनुवादः**
+
+"There are excellent tuber fruits and fruits and there will be a very distinctive hospitality...
+definitely indeed..." So said the courtesans.[1-10-27]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम् ।  
@@ -621,6 +1170,12 @@ _________________
 गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः ॥ २८ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम् ।
+गमनाय मतिं चक्रे तं च निन्युस्तदा स्त्रियः ॥ १-१०-२८
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘उन सबके मनोहर वचन सुनकर ऋष्यशृंग उनके साथ जानेको तैयार हो गये और वे स्त्रियाँ उन्हें अंगदेशमें ले गयीं ॥ २८ ॥
@@ -629,6 +1184,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लर मनोहर मातन्नु केळि ऋष्यशृङ्गनु अवरॊन्दिगॆ हॊरडलु सिद्धनादनु. आ स्त्रीयरॆल्ल अवनन्नु अङ्गदेशक्कॆ करॆदुकॊण्डु होदरु.॥28॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28. taasaam sarvaasaam* = all of their; *hR^idaya~ngamam* = heart
+pleasing; *vachanam shrutvaa* = words, on hearing; *gamanaaya matim chakre*
+= made up his mind to go there; *tadaa striyaH tam ninyuH* = then, those women
+took away him.
+
+**अनुवादः**
+
+"On hearing the heart-pleasing words of all those courtesans, Rishyasringa made up his mind
+to go over there, and then those women took him away [to their place in Anga Kingdom.] [1-10-28]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +1223,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ महात्म ब्राह्मणनु अङ्गदेशक्कॆ बरुत्तले इन्द्रनु समस्त जगत्तन्नु सन्तोषगॊळिसुत्ता कूडले मळॆगरॆयलु प्रारम्भिसिदनु.॥29॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*29. mahaatmani tasmin vipre* = great-soul, that, Brahman; *aaniiyamane tu*
+= while being brought; *tadaa devaH jagat prahlaadayan* = then god [Rain-god,]
+to gladden world; *sahasaa tatra vavarSha* = quickly, in there [in Anga kingdom], showered
+rain.
+
+**अनुवादः**
+
+"While that great soul ad Brahman Rishyasringa while being brought into Anga Kingdom, then
+the Rain-god quickly showered rain in Anga kingdom to the delight of the world. [1-10-29]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +1286,37 @@ _________________
 मत्तॆ सन्तुष्टनाद रोमपादनु ऋषिगॆ अर्घ्य-पाद्यादिगळन्नु निवेदिसि आ विप्रशिरोमणियल्लि ‘स्वामि! तम्म मत्तु तम्म पितन कृपाप्रसाद ननगॆ सिगलि’ ऎन्दु वरवन्नु बेडिदनु. ऎल्लादरू कपट पूर्वक इल्लिगॆ करॆदुतन्द रहस्यवन्नु तिळिदाग विप्रवर ऋष्यशृङ्ग अथवा विभाण्डक मुनिय मनस्सिनल्लि नन्न कुरितु क्रोध उण्टागदिरलॆन्दु हीगॆ माडिदनु.॥31॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30, 31. naraadhipaH* = king[Romapaada]; *varSeNa eva* = with specialty [of rain
+showers]; *svam viShayam aagatam* = arrived into his own country; *vipram munim*
+= to Brahman, saint; *prati udgamya* = gone towards [welcomingly]; *prahvaH*
+= bowed his head; *shirasaa mahiim gataH* = touched head to ground; *susamaahitaH*
+= self-composedly; *tasmai* = to him; *nyaayataH arghyam pradadau* = as a rule, offered
+water; *viprendraat* = from best sage [ Vibhandaka]; *prasaadam vavre*
+= boon [indemnity,] sought; *vipram manyuH maa aavishet* = let that Brahman be possessed
+by anger.
+
+**अनुवादः**
+
+"The king Romapada personally proceeded towards that Brahman Rishyasring who is now
+entering Anga kingdom along with rains, made prostratiion before him, offered water
+customarily with dedication, and then the king Romapada besought beneficence
+of the best sage Rishyasringa to save him and his kingdom from the fury of his father Sage Vibhandaka,
+if sage Vibhandaka were to know about this pursuit of bringing Rishyasringa to Anga
+country, at a later time ... [1-10-30, 31]
+
+**टिप्पनी**
+
+The salutation in prostration on the ground is usually performed before Gods or Deities, in
+reverence. It is called *saaSTaanga-praNaamam = sa aSTa anga praNaamam* , i.e., saluting
+with eight body parts touching the ground, indicating his absolute surrender to the worshipped.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुरं प्रवेश्यास्मै कन्यां दत्त्वा यथाविधि ।  
@@ -712,6 +1332,12 @@ _________________
 शान्तां शान्तेन मनसा राजा हर्षमवाप सः ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि ।
+शांतां शान्तेन मनसा राजा हर्षमवाप सः ॥ १-१०-३२
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘तत्पश्चात् ऋष्यशृंगको अन्तःपुरमें ले जाकर उन्होंने शान्तचित्तसे अपनी कन्या शान्ताका उनके साथ विधिपूर्वक विवाह कर दिया । ऐसा करके राजाको बड़ी प्रसन्नता हुई ॥ ३२ ॥
@@ -720,6 +1346,22 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर ऋष्यशृङ्गरन्नु अन्तःपुरक्कॆ करॆदुकॊण्डु होगि राजनु शान्तचित्तदिन्द शान्ताळन्नु अवरॊन्दिगॆ विधिवत्तागि मदुवॆ माडिकॊट्टनु.॥32॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*32. saH raajaa* = he that king; *antaHpuram pravishya* = on entering palace [or inside
+city]; *kanyaam shantaam asmai yathaavidhi datvaa* = on giving bride Shanta customarily to him;
+*shaantena manasaa harSam avaapa* = he obtained rejoice with peaceful mind.
+
+**अनुवादः**
+
+"On entering the palace princess Shanta is given to Rishyasringa in customary marriage, and
+then that King Romapada obtained rejoice with a peaceful mind. [1-10-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -734,6 +1376,12 @@ _________________
 ऋष्यशृङ्गो महातेजाः शान्तया सह भार्यया ॥ ३३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एवं स न्यवसत्तत्र सर्वकामैः सुपूजितः ।
+ऋष्यशृङ्गो महातेजाः शन्तया सह भार्यया ॥ १-१०-३३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘इस प्रकार महातेजस्वी ऋष्यशृंग राजासे पूजित हो सम्पूर्ण मनोवाञ्छित भोग प्राप्त कर अपनी धर्मपत्नी शान्ताके साथ वहाँ रहने लगे’ ॥ ३३ ॥
@@ -742,6 +1390,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ महातेजस्वि ऋष्यशृङ्गनु राजनिन्द पूजितनागि समस्त मनोवाञ्छित भोगगळन्नु पडॆदु तन्न धर्मपत्नी शान्ताळॊन्दिगॆ अल्ले इरलु तॊडगिदनु.॥33॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+33.*evam* = this way; *saH R^iSyashR^iNgaH mahaatejaaH* = he, Rishyasringa, greatly
+fulgent sage; *shantayaa saha bhaaryayaa* = along with his wife Shanta; *sarvakaamaiH supuujitaH*
+= well worshipped [fulfilled] with all desires; *tatra nyavasat*
+= there, he lived.
+
+**अनुवादः**
+
+" Thus that great fulgent Rishyasringa lived in Anga kingdom along with his wife Shanta, and
+with all his desires fulfilled and also well worshipped" [Thus Sumantra said the legend of
+Rishyasringa to King Dasharatha.] [1-10-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -2,6 +2,18 @@
 title = "००७ मन्त्रिगुणगौरवम्"
 title_english = "007 Estimable nature of king dasharatha s ministers"
 +++
+<details><summary>Desiraju Hanumanta Rao - Intro</summary>
+
+**Book I : Bala
+ Kanda - The Youthful Majesties**
+
+The truthful and upright characters of the ministers of Dasharatha are portrayed,
+ who make the rulership meaningful with their virtuous, skilful and efficient administration.
+ Along with the political ministers, the religious ministry is also portrayed.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-007-Mantriguna_Gouravam.mp3"></div>
 </details>
@@ -56,6 +68,44 @@ _________________
 महात्मनाद इक्वाक्षुवंश सम्भूत दशरथनिगॆ मन्त्रालोचनॆयल्लि समर्थराद कार्य विचार परराद, परेङ्गितज्ञराद ऎण्टु मन्त्रिगळिद्दरु. अवरु सदाकाल राजन हितरक्षणॆयल्ले निरतरागिद्दु, कीर्तिशालिगळाद अवरॆल्लरू शुद्ध आचार-विचारगळिन्द युक्तरागिद्दरु. यशस्विगळाद आ मन्त्रि मण्डलवु राजकीय कार्यगळल्लि निरन्तर तत्परवागित्तु.॥1-2॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. viirasya* = of the valiant one; *yashasvinaH* = glorious king;
+ *tasya* = his; *shuchayaH* = clean at heart; *nityashaH* =
+ all time; *raajakR^ityeSu* = in king' s works; *anuraktaaH cha*
+ = involved in, also; *amaatyaaH* = ministers; *aSTau bhabhuuvuH*
+ = eight, are there.
+
+**अनुवादः**
+
+Eight ministers are there for that valiant and glorious King Dasharatha, who are
+ clean at heart and are involved in the works of the king and kingdom at all time.
+ [1-7-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*1. mahaaatmanaH tasya ikShwaakoH tu* = for the great soul from Ikshvaku kings, Dasharatha;
+ *guNaiH* = those with epitomised attribute;
+ *mantraj~naaH cha* = tactful, also; *iN^gitaj~naaH cha* = adroit ones,
+ also; *nityam priyahite rataH* = always, obliged to undertake welfare alone;
+ *amaatyaaH* = ministers; *aasan* = are there.
+
+**अनुवादः**
+
+The misters for the great soul from Ikshvaku kings of Emperor Dasharatha, are
+ epitomised ones of their tactfulness, adroitness and are always obliged to undertake
+ welfare activities of their king and the kingdom. [1-7-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धृष्टिर्जयन्तो विजयः सुराष्ट्रो राष्ट्रवर्धनः ।  
@@ -69,6 +119,12 @@ _________________
 _________________
 धृष्टिर्जयन्तो विजयः सुराष्ट्रो राष्ट्रवधनः ।  
 अकोपो धर्मपालश्च सुमन्त्रश्चाष्टमोऽर्थवित् ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+धृष्टिर्जयन्तो विजयो सुराष्ट्रो राष्ट्रवर्धनः ।
+अकोपो धर्मपालश्च सुमंत्रश्चाष्टमोऽभवत् ॥ १-७-३
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -87,6 +143,23 @@ _________________
 दृष्टि, जयन्त, विजय, सुराष्ट्र, राष्ट्रवर्धन, अकोप, धर्मपाल, अर्थशास्त्र निपुणनाद ऎण्टनॆय सुमन्त्र हीगॆ आ अमात्यर हॆसरुगळागिद्दवु.॥3॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. dhR^iSTiH* = Dhristi; *jayantaH* = Jayantha; *vijayaH*
+ = Vijaya; *suraaSTraH* = Suraashtra; *raaSTravardhanaH* = Raashtravardhana;
+ *akopaH* = Akopa; *dharmapaalaH cha* = Dharmapaala, also; *SumantraH*
+ = Sumantra; *aSTamaH* = eighth; *abhavat* = will be.
+
+**अनुवादः**
+
+Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are
+ seven, and Sumantra is the eighth one. [1-7-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ ।  
@@ -103,6 +176,15 @@ _________________
 मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ ।
+वशिष्ठो वामदेवश्च मंत्रिणश्च तथापरे ॥ १-७-४
+सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः ।
+मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः ॥ १-७-५
+एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ऋषियोंमें श्रेष्ठतम वसिष्ठ और वामदेव—ये दो महर्षि राजाके माननीय ऋत्विज् (पुरोहित) थे । इनके सिवा सुयज्ञ, जाबालि, काश्यप, गौतम, दीर्घायु मार्कण्डेय और विप्रवर कात्यायन भी महाराजके मन्त्री थे ॥ ४-५ ॥
@@ -111,6 +193,48 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऋषिगळल्लि श्रेष्ठराद वसिष्ठ मत्तु वामदेवरु इवरिब्बरु दशरथनिगॆ मान्य पुरोहितरागिद्दरु. इवरल्लदॆ सुयज्ञ, जाबालि, काश्यप, गौतम, दीर्घायु मार्कण्डेय हागू द्विजवर्य कात्यायनरु महाराजन मन्त्रिगळागिद्दरु.॥4-5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5, 6a. suyaj~naH api* = Suyajna, also; *atha jaabaaliH* = then,
+ Jaabaali; *kaashaypaH api* = Kashyapa, also; *atha gautamaH* = then,
+ Gautama; *maarkaNDeyaH tu* = Maarkandeya, also; *diirghaayuH tathaa*
+ = Deerghaayu, like that; *kaatyaayanaH* = Kaatyayana; *dvijaH* =
+ Brahman; *etaiH* = along with them; *brahmarSibhiH* = Brahma-sages;
+ *nityam* = always; *R^itvijaH* = ritual scholars; *tasya paurvakaaH*
+ = his ancestral pundits.
+
+**अनुवादः**
+
+Suyajna, Jabaali, Kaashyapa, Gautama, Maarkandeya, Deerghaayu, and then Kaatyayana
+ are the scholarly Brahmans acting as religious ministers, and along with them
+ there are also Brahma-sages who are always the ancestral ritual scholars for Dasharatha's
+ family. [1-7-5, 6a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. tasya* = to him, Dasharatha; *vashiSTaH* = Vashishta; *
+ vaamadevaH cha* = Vamadeva, also; *dvau* = two; *aastaam R^iSisattamau*
+ = eminent saints were there; *abhimatau* = acquiescent; *R^itwijau*
+ = Vedic ritual-authorities; *tathaa apare* = like that, furthermore;
+ *mantriNaH cha* = ministers, also [are there.]
+
+**अनुवादः**
+
+Two venerable saints of eminence are religious ministers for they are authorities
+ in Vedic rituals, namely Vashishta and Vamadeva, who are the acquiescent with
+ religious matters, and apart from these two some more religious ministers are
+ also there to King Dasharatha. [1-7-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +280,30 @@ _________________
 ई ब्रह्मर्षिगळ जॊतॆगॆ राजन वंशपरम्परागत ऋत्विजरू सदा मन्त्रालोचनॆय कार्यदल्लि नॆरवागुत्तिद्दरु. इवरॆल्लरू विद्वांसराद्दरिन्द विनयशीलरू, अकार्य माडलु नाचुत्तिद्दवरू, कार्यकुशलरू, जितेन्द्रियरू, श्रीसम्पन्नरू, महात्मरू, शस्त्रविद्यॆयन्नु बल्ल महापराक्रमिगळू, यशस्विगळू, समस्त राजकार्यगळल्लि कुशलरू, राजन अप्पणॆयन्तॆ कार्यमाडुववरू तेजस्विगळू, क्षमाशीलरू, कीर्तिवन्तरू, बेरॆयवरु मातनाडिसुव मॊदले मुगळ्नक्कु मातनाडववरू आगिद्दरु. अवरॆल्लरू काम, क्रोध, स्वार्थक्कॆ वशरागि ऎन्दू सुळ्ळु हेळुत्तिरलिल्ल.॥6-8॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6b, 8a vidyaaviniitaaH* = well-versed in scriptures; *hriimantaH*
+ = shun bad deeds; *kushalaaH* = skilful; *niyatendriyaaH* = with
+ regulated senses; *shriimantaH cha* = affluent ones; *mahaaatmaanaH*
+ = great souls; *shaastraj~naaH* = knowers of sciences; *dhR^iDhavikramaaH*
+ = firmly courageous; *kiirtimantaH* = distinguished ones; *praNihitaaH*
+ = quiet souls; *yathaavachanakaariNaH* = doers as per their word,
+ [true to their word]; *tejaHkShamaayashaHpraaptaaH* = having magnificence,
+ patience, fame; *smitapuurvaabhibhaaShiNaH* = smile afore while they converse.
+
+**अनुवादः**
+
+All the ministers are well versed in scriptures, they shun bad deeds, skilful
+ ones in their duties with their senses regulated. Those great souls are affluent,
+ knowers of all sciences, firmly courageous, and they are distinguished and quiet-souls,
+ and those ministers are true to their word. They are magnificent, patient and
+ famed ones and they smile afore they converse. [1-7-6b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामविदितं किञ्चित् स्वेषु नास्ति परेषु वा ।  
@@ -178,6 +326,29 @@ _________________
 तम्म राजन अथवा शत्रुपक्षद राजर ऎल्ल मातुगळू मत्तु कार्यगळू अवरिगॆ तिळिदिरुत्तिद्दवु. बेरॆ राजरु एनु माडुत्तिद्दारॆ, एनु माडिद्दरु, मुन्दॆ एनु माडलिद्दारॆ मुन्ताद ऎल्ल विषयगळन्नु गुप्तचाररिन्द तिळिदुकॊळ्ळुत्तिद्दरु.॥9॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8b, 9. krodhaat kaamaarthahetoH vaa* = in anger, in greed, for monetary
+ reason, either; *anR^itam* = untruthful; *vachaH* = words;
+ *na bruuyuH* = never, they speak; *teShaam* = to them; *aviditam*
+ = unknown; *kimchit* = a little; *sveSu* = in their own [country];
+ *naasti* = not there; *pareSu vaa* = in other [countries,] either;
+ *kriyamaaNam* = that is happening; *kR^ritam* = already happened;
+ *vaa api* = either, that too; *chaareNa* = through agents; *chikiirSitam*
+ = that is going to be undertaken [by others, is not there].
+
+**अनुवादः**
+
+They never speak untruthful words in anger or in greed or for monetary reasons
+ either. There is nothing unknown to them, even a little, in their own country
+ or in the others either, or about everything that is happening or has happened,
+ or that is going to happen, for they know them through agents. [1-7-8b, 9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशला व्यवहारेषु सौहृदेषु परीक्षिताः ।  
@@ -198,6 +369,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरू व्यवहार कुशलरागिद्दरु. अवर सौहार्दवन्नु अनेक सन्दर्भगळल्लि परीक्षिसलागित्तु, अवरु अवकाश बन्दरॆ तम्म पुत्ररिगू दण्डनॆ माडलु हिञ्जरियुत्तिरलिल्ल.॥10॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. vyavahaareSu* = in administration; *kushalaaH* = efficient;
+ *sauhR^ideSu* = in their friendships; *pariikShitaaH* = well examined
+ [by the king]; *suteSu api* = to their sons, even; *praaptakaalam yathaa*
+ = according to time[if situation demands]; *daNDam dhaarayeyuH*
+ = they impose punishment.
+
+**अनुवादः**
+
+They are efficient in administration and their friendships are well examined by
+ the king, and those ministers impose punishment even on their own sons, if situation
+ demands it. [1-7-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +418,24 @@ _________________
 राज भण्डारवन्नु समृद्धवागिसलु, चतुरङ्ग सैन्यद सङ्ग्रहणॆयल्लि सदा तॊडगिरुत्तिद्दरु. अपराध माडदिद्दाग शत्रुगळन्नु हिंसिसुत्तिरलिल्ल.॥11॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. koshasamgrahaNe yuktaaH* = dutiful in collecting treasury; *
+ balasya cha parigrahe* = militarising of armies, also; *ahitam cha api
+ puruSam* = even unfriendly person also; *aviduuShakam* = not
+ really blameworthy; *na himsyuH* = do not, torture.
+
+**अनुवादः**
+
+In collections to their treasury and to militarise their armies they are dutiful,
+ even an unfriendly person will not be tortured, if he were not really blameworthy.
+ [1-7-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः ।  
@@ -256,6 +464,25 @@ _________________
 अवरॆल्लरल्लि सदाकाल शौर्य हागू उत्साह तुम्बिरुत्तित्तु. अवरु राजनीतिगनुसार कार्य माडुत्ता राज्यदल्लि इरुव सत्पुरुषरन्नु सदा काल रक्षिसुत्तिद्दरु.॥12॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. viiraaH* = valiant; *niyatotsaahaaH* = engineered enthusiasm;
+ *raajashaastram* = political science; *anuSTitaaH* = administrators
+ of; *viSayavaasinaam* = dwelling in kingdom[subjects of kingdom];
+ *shuchiinaam* = clean persons; *nityam* = at all times; *rakShitaaraH*
+ = protectors.
+
+**अनुवादः**
+
+They are valiant ones with engineered enthusiasm, administrators of political
+ science, clean persons and protectors of subjects of their kingdom at all times.
+ [1-7-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन् ।  
@@ -276,6 +503,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्राह्मणरिगॆ मत्तु क्षत्रियरिगॆ कष्टकॊडदॆ न्याय सम्मतवाद धनदिन्द राजन खजानॆ तुम्बुत्तिद्दरु. अवरु अपराधिय बलाबलवन्नु नोडि अवर कुरितु तीक्ष्ण अथवा मृदुदण्डवन्नु विधिसुत्तिद्दरु.॥13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. brahma kShatram* = Brahmans, Kshatriya-s; *te ahimsantaH*
+ = they, do not persecute; *kosham samapuurayan* = fill up treasury;
+ *puruSasya* = person's; *balaabalam* = strength, weakness; *
+ samprekShya* = after assessing; *sutiikShNadanDaaH* = high degree
+ punishment givers.
+
+**अनुवादः**
+
+They do not persecute Brahman-s and Kshatriya-s to fill-up the treasury, and high
+ degree punishments will be given on assessing that person's, or the offender's
+ strength and weakness. [1-7-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +555,44 @@ _________________
 ऎल्लर भावगळु शुद्धवागिद्दु, विचार ऒन्दे आगिद्दवु. अयोध्यॆयल्लि अथवा कोसल राज्यदल्लि अवर अरिविनल्लि सुळ्ळुहेळुववरु, दुष्टरु, परस्त्री लम्पटरु यारू इरलिल्ल. नगरदल्लि शान्ति नॆलॆसित्तु.॥14-15॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. tatra* = there; *duSTaH* = evil-minded; *paradaararataH
+ naraH* = man who is interested in other's wife ; *kashchit na aasiit* = anyone,
+ none, is there; *sarvam raaSTram* = all, kingdom; *tat puravaram cha*
+ = that, capital, also; *prashaantam eva aasiit* = undisturbed, only, it
+ is there.
+
+**अनुवादः**
+
+None with an evil-mind or with an interest in other man's wife is there, and thus
+ on whole in the kingdom and also like that in the capital, there is an undisturbed
+ society. [1-7-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. shuchiinaam* = decent ones; *ekabuddhiinaam* = one minded [in
+ league with]; *sarveSaam* = all of them; *samprajaanataam* = administering;
+ *kwachit* = anywhere; *pure vaa raaSTre vaa* = in capital, or, in
+ kingdom, either; *mR^iSaavaadii naraH* = person speaking lies[liar];
+ *na aasiit* = is not, there.
+
+**अनुवादः**
+
+All of those ministers are clean administrators of kingdom, and are in league
+ with each other, as such there is none anywhere, either in capital or in country,
+ a liar. [1-7-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः ।  
@@ -319,6 +603,12 @@ _________________
 
 सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः ।  
 हितार्थाश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा ॥ १६ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः ।
+हितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा ॥ १-७-१६
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -337,6 +627,24 @@ _________________
 आ ऎल्ल मन्त्रिगळ बट्टॆ, वेष स्वच्छ हागू सुन्दरवागित्तु. अवरॆल्लरू उत्तम व्रतवन्नु पालिसुववरु हागू राजन हितैषियागिद्दरु. नीतिरूपी चक्षुगळिन्द नोडुत्ता सदा ऎच्चरवागिद्दरु.॥16॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. te cha sarve* = they, also, all; *suvaasasaH* = well dressed;
+ *suveShaaH cha* = well decorated, also; *shuchivrataaH* = observing decency;
+ *narendrasya hitaartham cha* = in the interest of king
+ also; *nayachakShuSaa* = truthful-eyed; *jaagrataH* = are diligent.
+
+**अनुवादः**
+
+Well-dressed and well-decorated and they the ministers of King Dasharatha, observe
+ decency in the interest of the king and also of the kingdom, with diligence and
+ with a truthful-eye. [1-7-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः ।  
@@ -350,6 +658,12 @@ _________________
 _________________
 गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः ।  
 विदेशेष्वपि विख्याताः सर्वतो बुद्धि निश्चयाः ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमे ।
+विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः ॥ १-७-१७
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -366,6 +680,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ मन्त्रिगळु तम्म सद्गुणगळिन्द गुरुगळन्तॆ आदरणियरागिद्दु, राजन अनुग्रहक्कॆ पात्ररागिद्दरु. तम्म पराक्रमदिन्द अवरु ऎल्लॆडॆ ख्यातरागिद्दरु. विदेशगळल्लियू अवरन्नु ऎल्लरू अरितिद्दरु. अवरु ऎल्ल मातुगळन्नु बुद्धियिन्द चॆन्नागि विचार माडि निश्चयक्कॆ बरुत्तिद्दरु.॥17॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. guroH* = from their mentor (mother, father and teachers); *guNagR^ihiitaaH*
+ = acquired good qualities; *paraakrame* = expertise;
+ *prakhyaataaH* = renowned; *sarvataH* = in all affairs; *buddhinishchayaaH*
+ = intellectual determinations; *videsheSu api* = in foreign
+ countries, also; *vij~naataaH* = famous.
+
+**अनुवादः**
+
+They acquired good qualities from their mentors and they are renowned by their
+ expertise, and even in foreign countries they are famous for their intellectual
+ determinations in all affairs. [1-7-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +721,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎल्ल देशगळल्लि, कालगळल्लि अवरु गुणवन्तरु ऎन्दु प्रसिद्धरागिद्दरु. सन्धि मत्तु विग्रहगळ कुरितु अवरिगॆ ऒळ्ळॆय ज्ञानवित्तु. अवरु स्वभावतः दैवीसम्पत्तिनिन्द कूडिद्दरु.॥18॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. abhitaH* = versatile; *guNavantaH cha* = virtuous ones, also;
+ *na cha aasan* = not, also, there is; *guNavarjitaaH* = virtue
+ discarded ones; *sandhivigrahatattvaj~naaH* = determiners of truce or war;
+ *prakR^ityaa* = by nature; *sampadaanvitaaH* = possessing opulence.
+
+**अनुवादः**
+
+Versatile and virtuous are they the ministers and there is none who discarded
+ his virtuosity, and they are the determiners of truce or war, and by their nature
+ they possess opulence. [1-7-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +768,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनीतिय रहस्यगळन्नु गुप्तवागिडुव क्षमतॆ अवरल्लि पूर्णवागित्तु. सूक्ष्मविषयगळल्लियू कुशलरागिद्दरु. नीतिशास्त्रदल्लि हॆच्चिन परिणति इद्दु, यावागलू प्रिय मत्तु सत्यवन्ने मातनाडुत्तिद्दरु.॥19॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. mantrasamvaraNe shaktaaH* = capable to keep confidentiality of strategies;
+ *shaktaaH* = capable of; *suukShmaasu* = micro-affairs; *
+ buddhiSu* = applying mind; *niitishaastravisheShaj~naaH* = comprehensively known moral
+ science; *satatam priyavaadinaH* = always, gentle
+ articulators.
+
+**अनुवादः**
+
+They are capable to keep up the confidentialities of strategies, and also capable
+ to apply their mind even in micro-affairs, and they know moral science comprehensively,
+ and above all, they are gentle articulators. [1-7-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -464,6 +834,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्तह सद्गुणसम्पन्न मन्त्रिगळॊन्दिगॆ पुण्यात्मनाद दशरथ राजनु भूमण्डलवन्नु आळुत्तिद्दनु.॥20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. anaghaH* = exalted - [here, not sinless, but exalted king]; *dasharathaH*
+ = Dasharatha; *guNopetaiH* = good-natured; *iidR^ishaiH* = suchlike
+ [that efficacious]; *taiH amaatyaiH cha* = with those, ministers, also;
+ *upapannaH* = accompanied with; *vasundharaam* = the earth; *
+ anvashaasat* = ruled.
+
+**अनुवादः**
+
+Accompanied with such of those effectual and good-natured ministers the exalted
+ king Dasharatha ruled the earth. [1-7-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,6 +907,29 @@ _________________
 मूरु लोकगळल्लियू अवनु प्रसिद्धनागिद्दनु. राजनु सत्यप्रतिज्ञ हागू उदारनागिद्दनु. पुरुषसिंह दशरथ राजनु अयोध्यॆयल्लि इद्दुकॊण्डे पृथ्वियन्नु आळुत्तिद्दनु.॥22॥
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20-21. puruSavyaaghraH* = tigerly man [most generous among people];
+ *chaareNa avekShyamaaNaH* = observing by spies; *prajaaH* = people;
+ *rakShayan* = to protect; *dharmeNa* = virtuously; *prajaanaam paalanam
+ kurvan* = to give good rule to people; *adharmam parivarjayan*
+ = entirely giving up unrighteousness; *vadaanyaH* = generous; *satyasangaraH* = avowedly truthful;
+ *triSu lokeSu vishrutaH* = renowned in three worlds; *saH*
+ = he, Dasharatha; *tatra* = from there; *shashaasa* = ruled.
+
+**अनुवादः**
+
+He that most generous one among men, Dasharatha, while observing through spies,
+ and to protect people righteously, and to give a good governance to them, he forsook
+ unrighteousness and became a generous king avowed to truthfulness alone, and thus
+ he that Dasharatha ruled the earth, which rulership is renowned in all the three
+ worlds. [1-7-21,22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाध्यगच्छद्विशिष्टं वा तुल्यं वा शत्रुमात्मनः ।  
@@ -537,6 +948,13 @@ _________________
 स शशास जगद्राजा दिविं देवपतिर्यथा ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+नाध्यगच्छद्विशिष्टं वा तुल्यं वा शत्रुमात्मनः ।
+मित्रवान्नतसामन्तः प्रतापहतकण्टकः ।
+स शशास जगद्राजा दिवं देवपतिर्यथा ॥ १-७-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्हें कभी अपनेसे बड़ा अथवा अपने समान भी कोई शत्रु नहीं मिला । उनके मित्रोंकी संख्या बहुत थी । सभी सामन्त उनके चरणोंमें मस्तक झुकाते थे । उनके प्रतापसे राज्यके सारे कण्टक (शत्रु एवं चोर आदि) नष्ट हो गये थे । जैसे देवराज इन्द्र स्वर्गमें रहकर तीनों लोकोंका पालन करते हैं, उसी प्रकार राजा दशरथ अयोध्यामें रहकर सम्पूर्ण जगत् का शासन करते थे ॥ २३ ॥
@@ -545,6 +963,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनिगॆ तन्निन्द बलशालि अथवा तनगॆ समानराद शत्रुगळु यारू इरलिल्ल. ऎल्ल सामन्त राजरु मित्ररागिद्दु, दशरथन चरणगळल्लि तलॆ बागुत्तिद्दरु. अवन प्रतापदिन्द राज्यद ऎल्ल कण्टकगळु, शत्रुगळु, कळ्ळरु नाशवागि होगिद्दरु. देवेन्द्रनु स्वर्गदल्लि इद्दु मूरु लोकगळन्नु पालिसिदन्तॆ, दशरथनु अयोध्यॆयल्लि इद्दुकॊण्डु इडी जगत्तन्नु आळुत्तिद्दनु.॥23॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. mitravaan* = one who has many friends; *natasaamantaH* = subdued
+ provincial kings; *prataapahatakanTakaH* = eliminated thorniness by valour;
+ *aatmanaH* = to himsef; *vishiSTam vaa* = a superior one, either;
+ *tulyam vaa* = equal one, or; *shatrum* = an enemy; *na adhyagacChat*
+ = not encountered; *divam devapatiH yathaa* = in Heaven, like Indra;
+ *saH shashaasa jagat* = he, ruled, the world.
+
+**अनुवादः**
+
+Emperor Dasharatha has not encountered either a superior or an equal in his kingship,
+ and to him there are many friends, subdued are his provincial kings and eliminated
+ is thorniness by his own valour. He thus ruled the world like Indra would in Heaven.
+ [1-7-23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +1002,14 @@ _________________
 स्तेजोमयैर्गोभिरिवोदितोऽर्कः ॥ २४ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तैर्मंत्रिभिर्मंत्रहिते निविष्टैः
+वृतोऽनुरक्तैः कुशलैः समर्थैः ।
+स पार्थिवो दीप्तिमवाप युक्तः
+तेजोमयैर्गोभिरिवोदितोऽर्कः ॥ १-७-२४
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनके मन्त्री मन्त्रणाको गुप्त रखने तथा राज्यके हित-साधनमें संलग्न रहते थे । वे राजाके प्रति अनुरक्त, कार्यकुशल और शक्तिशाली थे । जैसे सूर्य अपनी तेजोमयी किरणोंके साथ उदित होकर प्रकाशित होते हैं, उसी प्रकार राजा दशरथ उन तेजस्वी मन्त्रियोंसे घिरे रहकर बड़ी शोभा पाते थे ॥ २४ ॥
@@ -571,6 +1018,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन मन्त्रिगळु राजकीय रहस्यवन्नु गुप्तवागिडलु हागू राज्यद हितसाधनॆयल्लि तॊडगिरुत्तिद्दरु. अवरु राजन कुरितु अनुरागिगळागिद्दु, कार्यकुशलरू, शक्तिशालिगळू आगिद्दरु. सूर्यनु तन्न तेजोमय किरणगळिन्द जगत्तन्नु प्रकाशिसुवन्तॆये, दशरथराजनु आ तेजस्वि मन्त्रिगळिन्द सुत्तुवरिदु बहळ शोभिसुत्तिद्दनु.॥24॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. mantrahite niviSTaiH* = conducive to strategies, concerned; *anuraktaiH*
+ = interested in; *kushalaiH* = well skilled; *samarthaiH* = efficient;
+ *taiH mantribhiH* = with those, ministers; *vR^itaH* = surrounded
+ by, in the company of; *saH* = he; *paarthivaH* = king; *uditaH
+ arkaH [yathaa]* = rising, Sun [as with]; *yuktaH tejomayaiH gobhiH*
+ = having resplendent sunrays; *diiptim avaapa* = brilliance,
+ obtained.
+
+**अनुवादः**
+
+In the company of those ministers, who are conducive to the strategies, interested
+ in the king and subjects as well, skilful and efficient ones, he that King Dasharatha
+ obtained brilliance, like the rising Sun along with resplendent sunrays. [1-7-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

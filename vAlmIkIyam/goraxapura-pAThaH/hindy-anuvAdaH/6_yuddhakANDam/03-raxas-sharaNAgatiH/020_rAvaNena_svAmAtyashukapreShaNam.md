@@ -2,6 +2,18 @@
 title = "०२० रावणेन स्वामात्यशुकप्रेषणम्"
 title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 +++
+<details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
+
+**Book VI : Yuddha Kanda - Book Of War**
+
+As per the advice of Sardula, Ravana sends Shuka to Sugriva as an ambassador. The
+monkeys harass him, who came to their place as a spy. But because of Rama's gracefulness, Shuka
+comes out of danger. Sugriva gives a fitting reply to Ravana's message sent through Shuka. When
+monkeys again try to bind him and harass him, Rama prevents them from killing him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
 </details>
@@ -45,6 +57,23 @@ _________________
 दुरात्मा रावणन गुप्तचर पराक्रमि राक्षस शार्दूलनु सागर तीरदल्लि सुग्रीवनिन्द रक्षितवाद वानर सैन्यवु बीडुबिट्टिरुवुदन्नु नोडिदनु. ऎल्ल कडॆयिन्द शान्तभावदिन्द स्थितवाद आ विशाल सैन्यवन्नु नोडि, अवनु अवसरवागि लङ्कॆगॆ होगि रावणनल्लि हेळिदनु.॥1-2½॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*1. tataH* = thereafter; *viiryavaan* = an energic;;
+*raakshhasaH* = demon; *shaarduulo naama* = named Shardula; *abhyetya* = came;
+*dadarsha* = and saw; *dhvajiniim* = army; *abhipaalitam* = ruled;
+*sugriveNa* = by Sugriva; *nivishhTaam* = which was drawn up in battle array.
+
+**अनुवादः**
+
+Thereafter, an energetic demon named Shardula came and saw the army, commanded by
+Sugriva, which was drawn up in a battle array.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष वै वानरर्क्षौघो लङ्कां समभिवर्तते ॥ ३ ॥  
@@ -57,6 +86,12 @@ _________________
 अगाधश्चाप्रमेयश्च द्वितीय इव सागरः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+एष वै वानरर्क्षघो लङ्काम् समभिवर्तते ॥ ६-२०-३
+अगाधश्चाप्रमेयश्च द्वितीय इव सागरः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाराज! लङ्काकी ओर वानरों और भालुओंका एक प्रवाह-सा बढ़ा चला आ रहा है । वह दूसरे समुद्रके समान अगाध और असीम है ॥ ३ १/२ ॥
@@ -65,6 +100,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराज! लङ्कॆय कडॆगॆ वानरर मत्तु करडिगळ सैन्यवु प्रवाहदन्तॆ बरुत्ता इदॆ. अदु इन्नॊन्दु समुद्रदन्तॆ अगाध मत्तु असीमवागिदॆ.॥3½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. agaadhashcha* = boundless; *aprameyashcha* = and
+immeasurable; *dvitiiyaH saagaraH iva* = like a second ocean; *eshhaH* = this;
+*vaanararkshhoughaH* = multitude of monkeys and bears; *samabhivartate* = is
+approaching ; *laNkaam* = Lanka.
+
+**अनुवादः**
+
+"Boundless and immeasurable like another ocean, this multitude of monkeys and bears
+is approaching Lanka.".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +165,44 @@ _________________
 महातेजस्वी महाराजा! रघुवंशि सहोदर इवरिब्बरू ईग समुद्रतीरक्कॆ बन्दु निन्तिरुवरु. वानरर आ सैन्यवु हत्तु योजनदवरॆगॆ स्थळवन्नु आक्रमिसि अल्लि नॆलॆसिदॆ. इदु खण्डितवागि सरियागिदॆ. नीवु बेगने ई विषयदल्लि विशेष तिळिवळिकॆयन्नु पडॆयिरि.॥5-6॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. mahaaraaja* = O; *monarch! Balamcha* = the army;
+*aavR^itya* = is employed around; *aakaasham* = a space; *aayatam* =
+measuring; *sarvataH* = on all sides; *dashayojanam* = ten yojanas(ten miles);archasi
+= you are fit; *veditum* = to ascertain; *kshhipram* = quickly;
+*tattvabhuutam* = this truth.
+
+**अनुवादः**
+
+"O, monarch! Their army is employed around a radius of ten yojanas (eighty miles)on
+all sides. You have to ascertain this truth quickly"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+4; *5. imou* = these; *bhraatarou* = brothers;
+*raamalakshhmaNou* = Rama and Lakshmana; *putrou* = the sons; *dasharathasya*
+= of Dasaratha; *uttamou* = the excellent men; *ruupasampannou* = endowed with
+beauty; *mahaadyuti* = very much dignified men; *aagatou* = have come; *padam*
+= in the cause; *siitaayaaH* = of sita; *sannivishhTaa* = and settled in camp;
+*aasadya* = after reaching; *saagaram* = the sea.
+
+**अनुवादः**
+
+"These brothers Rama and Lakshmana, the sons of Dasaratha, the excellent and the
+most dignified men endowed with beauty have arrived in the cause of Sita and settled in a camp
+after reaching the sea shore" .
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव दूता महाराज क्षिप्रमर्हन्ति वेदितुम् ।  
@@ -138,6 +228,25 @@ _________________
 राक्षस साम्राटने! निम्म दूतरु बेगनॆ ऎल्ल सङ्गतिगळन्नु तिळियलु योग्यरागिद्दारॆ. आद्दरिन्द अवरन्नु कळिसिरि. बळिक उचितवॆनिसिन्तॆ माडिरि. बेकादरॆ सीतॆयन्नु मरळिसिरि, बेकादरॆ सुग्रीवनल्लि मधुर मातुगळन्नाडि अवनन्नु नम्म पक्षक्कॆ सेरिसिकॊळ्ळि अथवा सुग्रीव मत्तु रामनल्लि ऒडकु उण्टुमाडिरि.॥7॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. mahaarajaH* = O; *monarch! Tava* = your; *duutaaH* =
+spies; *arhanti* = are fit; *veditum* = to know; *kshhipram* = quickly;
+*atra* = under such circumstances; *saantvamvaa* = either conciliation;upapradaanam =
+or an act of giving away;bhedovaa = or sowing dissention (in the enemy's ranks);
+*prayujyataam* = may be employed.
+
+**अनुवादः**
+
+"O, monarch! Your other spies also ought to ascertain the fact quickly. Under such
+circumstances, either conciliation or an act of giving away or sowing dissention (in the enemy's
+ranks) may be employed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्दूलस्य वचः श्रुत्वा रावणो राक्षसेश्वरः ।  
@@ -150,6 +259,13 @@ _________________
 शार्दूलस्य वचः श्रुत्वा रावणो राक्षसेश्वरः ।  
 उवाच सहसा व्यग्रः सम्प्रधार्यार्थमात्मनः ।  
 शुकं साधु तदा रक्षो वाक्यमर्थविदां वरम् ॥ ८ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+शार्दूलस्य वचः श्रुत्वा रावणो राक्षसेश्वरः ।
+उवाच सहसा व्यग्रः सम्प्रधार्यार्थमात्मनः ॥ ६-२०-८
+शुकम् नाम तदा रक्षो वाक्यमर्थविदाम् वरम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -162,6 +278,27 @@ _________________
 शार्दूलन मातन्नु केळि राक्षसराज रावणनु तत्क्षण व्यग्रवागि, तन्न कर्तव्यवन्नु निश्चयिसि, अर्थवेत्तरल्लि श्रेष्ठनाद शुकनॆम्ब राक्षसनल्लि हीगॆ नुडिदनु.॥8॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. shrutvaa* = hearing; *shaarduulasya* = shardula's;
+*vachaH* = words; *raavaNaH* = Ravana; *raakshhaseshvaraH* = the lord of
+demons; *sahasaa* = immediately; *vyaaghraH* = disturbed; *sampradhaarya* =
+determined; *aatmaanaH* = his; *artham* = course of action; *tadaa* = and
+then; *uvaacha* = spoke; *vaakyam* = words; *rakshhaH* = to a demon;
+*shukam naama* = by name Suka; *varam* = the foremost among; *arthavidaam* =
+those who know their duty.
+
+**अनुवादः**
+
+Hearing Shardula's words Ravana the lord of demons was perturbed and immediately
+determined his cause of action. Then he spoke the following words to a demon by name, Shuka the
+foremost among those who know their duty.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवं ब्रूहि गत्वाऽऽशु राजानं वचनान्मम ।  
@@ -172,6 +309,12 @@ _________________
 
 सुग्रीवं ब्रूहि गत्वाऽऽशु राजानं वचनान्मम ।  
 यथासन्देशमक्लीबं श्लक्ष्णया परया गिरा ॥ ९ ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+सुग्रीवम् ब्रूहि गत्वाशु राजानम् वचनान्मनु ॥ ६-२०-९
+यथासंदेशमक्लीबम् शल्क्स्णया परया गिरा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -184,6 +327,24 @@ _________________
 दूतने! नीनु नानु हेळिदन्तॆ बेगने सुग्रीवन बळिगॆ होगि, मधुर हागू उत्तम मातुगळिन्द निर्भयवागि अवनिगॆ नन्न ई सन्देशवन्नु तिळिसु.॥9॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. gatvaa* = going; *aashu* = quickly; *bruuhi* = speak;
+*akliibam* = fearlessly; *raajaanam* = to the king; *sugriivam* = Sugriva;
+*mama* = as my; *vachanaat* = words; *yatha samdesham* = according to my
+command; *parayaa* = in an excellent; *shlakshhNayaa* = and gentle; *giraa* =
+voice:
+
+**अनुवादः**
+
+"Going quickly, speak fearlessly to king Sugriva on my behalf, according to my
+command, in an excellent and gentle voice, as follows:"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं वै महाराजकुलप्रसूतो  
@@ -200,6 +361,14 @@ _________________
 स्तथापि मे भ्रातृसमो हरीश ॥ १० ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+त्वम् वै महारज कुलप्रसूतो ।
+महाबलश्चर्क्षरजःसुतश्च ।
+न कश्चनार्थस्तव वास्त्यनर्थ ।
+स्तथापि मे भ्रातृसमो हरीश ॥ ६-२०-१०
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वानरराज! आप वानरोंके महाराजके कुलमें उत्पन्न हुए हैं । आदरणीय ऋक्षरजाके पुत्र हैं और स्वयं भी बड़े बलवान् हैं । मैं आपको अपने भाईके समान समझता हूँ । यदि मुझसे आपका कोई लाभ नहीं हुआ है तो मेरे द्वारा आपकी कोई हानि भी नहीं हुई है ॥ १० ॥
@@ -208,6 +377,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरराजने! नीनु वानर महाराजर कुलदल्लि हुट्टिरुवॆ. आदरणीय ऋक्षराजन पुत्रनागिरुवॆ हागू स्वतः बहळ बलिष्ठनागिरुवॆ. नानु निन्नन्नु तम्मनन्तॆ तिळियुत्तेनॆ. नन्निन्द निनगॆ यावुदे लाभ आगदिद्दरू, यावुदे हानियन्तू आगलिल्ल.॥10॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. mahaaraaja* = O; *great king! tvam* = you;
+*kulaprasuutaH vai* = are indeed born in a noble family; *mahaabalashcha* =
+possessing great strength; *rikshharajaH sutashcha* = are a son of Riksharaja;
+*naasti* = no; *arthaH* = gain; *kashchana* = whatsoever; *anarthaH* =
+nor any harm; *tava* = to you(from this battle); *hariisha* = O; lord of monkeys;
+*tathaapi* = nevertheless; *bhraatrusamah* = you are like a brother; *me* = to
+me.
+
+**अनुवादः**
+
+O, great king! You are indeed born in a noble family, possessor of a great strength
+and are a son of Riksharaja. No gain whatsoever or any harm will accrue to you (from this battle)
+.O, lord of monkeys! Nevertheless, you are like a brother to me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +415,12 @@ _________________
 किं तत्र तव सुग्रीव किष्किन्धां प्रति गम्यताम् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अहम् यद्यहरम् भार्याम् राजपुत्रस्य धीमतः ।
+किम् तत्र तव सुग्रीव किश्किन्धाम् प्रति गम्यताम् ॥ ६-२०-११
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सुग्रीव! यदि मैं बुद्धिमान् राजपुत्र रामकी स्त्रीको हर लाया हूँ तो इसमें आपकी क्या हानि है? अतः आप किष्किन्धाको लौट जाइये ॥ ११ ॥
@@ -233,6 +429,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुग्रीवने! नानु बुद्धिवन्त राजपुत्र रामन पत्नियन्नु कद्दु तन्दरॆ ननगॆ एनु हानियागिदॆ. आद्दरिन्द नीनु किष्किन्धॆगॆ मरळिहोगु.॥11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. sugriva* = O; Sugriva; *kim* = what (does it matter);
+*tava* = to you; *tatra* = there; *aham aharamyadi* = if I have embezzled;
+*bhaaryaam* = the wife ; *raajaputrasya* = of prince Rama; *dhiimataH* = the
+wise? Gamyataam = return; *kishhkindhaam prati* = to Kishkinda.
+
+**अनुवादः**
+
+"What does it matter to you, if I have embezzled the wife of a wise prince?
+(Therefore) return to Kishkindha"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +473,24 @@ _________________
 नम्म ई लङ्कॆयल्लि वानररु याव रीतियिन्दलू प्रवेशिसलाररु. इल्लि देवतॆगळु मत्तु गन्धर्वरू बरुवुदु असम्भववागिदॆ. हागिरुवाग मनुष्यरु हागू वानरर मातेनिदॆ.॥12॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. iyam laNkaa* = this Lanka; *na shakyaahi* = cannot indeed;
+*praaptum* = be acquired; *haribhiH* = by monkeys; *kathamchana* = in any way.
+(It cannot be reached) devairapi = even by celestials; *sagandharvaiH* = together with
+Gandharvas; *kim punaH* = what to tell; *nara vaanaraiH* = of reaching by men and
+monkeys?
+
+**अनुवादः**
+
+"This Lanka cannot be reached by monkeys in any way. It cannot be acquired even by
+celestials and Gandharvas (celestial musicians), why to talk about men and monkeys?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा राक्षसेन्द्रेण सन्दिष्टो रजनीचरः ।  
@@ -282,6 +513,23 @@ _________________
 राक्षसराज रावणन ई प्रकारद सन्देशवन्नु केळि आग निशाचर शुकनु गिळिय रूपवन्नु धरिसि कूडले आकाशक्कॆ हारिहोदनु.॥13॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. tadaa* = then; *shukaH* = Shuka; *sah* = that;
+*rajaniicharaH* = demon; *samdishhTah* = heralded; *raakshhasendreNa* = by
+Ravana; *bhuutvaa* = become; *vihaNgamaH* = a bird; *aaplutyacha* = and flew;
+*tuurNam* = quickly; *ambaram* = into the sky.
+
+**अनुवादः**
+
+Then Shuka the demon heralded by Ravana turned himself into the form of a bird and
+quickly flew into the sky.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा दूरमध्वानमुपर्युपरि सागरम् ।  
@@ -294,6 +542,12 @@ _________________
 स गत्वा दूरमध्वानमुपर्युपरि सागरम् ।  
 संस्थितो ह्यम्बरे वाक्यं सुग्रीवमिदमब्रवीत् ॥ १४ ॥  
 सर्वमुक्तं यथाऽऽदिष्टं रावणेन दुरात्मना ।
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स गत्वा दूरमध्वानमुपर्युपरि सागरम् ।
+संस्थितो ह्यम्बरे वाक्यम् सुग्रीव मदिमब्रवीत् ॥ ६-२०-१४
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -306,6 +560,23 @@ _________________
 समुद्रद मेलिनिन्द बहळ दूरद दारियन्नु सागि सुग्रीवन बळिगॆ तलुपि, आकाशदल्ले निन्तु अवनु दुरात्मा रावणन आज्ञॆगनुसार आ ऎल्ल मातुगळन्नु सुग्रीवनिगॆ हेळिदनु.॥14॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. saH* = that Shuka; *gatvaa* = going; *adhvaanam* =
+in the sky; *duuram* = for a distance; *uparyupari saagaram* = continuously over the
+ocean; *samsthitaH* = and stationed; *ambare* = in the sky(itself); *abraviit*
+= spoke; *idam* = these; *vaakyam* = words; *sugriivam* = to Sugriva.
+
+**अनुवादः**
+
+Proceeding in the sky for a distance continuously over the ocean, Shuka then stood
+up in the sky itself and spoke these words to Sugriva:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् प्रापयन्तं वचनं तूर्णमाप्लुत्य वानराः ॥ १५ ॥  
@@ -318,6 +589,13 @@ _________________
 प्रापद्यन्त तदा क्षिप्रं लोप्तुं हन्तुं च मुष्टिभिः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तत्प्रपयन्तम् वचनम् तूर्णमाप्लुत्य वानराः ।
+६-२०-१५
+प्रापद्यन्त तदा क्षिप्रम् लोप्तुम् हन्तुम् च मुष्टिभिः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जिस समय वह संदेश सुना रहा था, उसी समय वानर उछलकर तुरंत उसके पास जा पहुँचे । वे चाहते थे कि हम शीघ्र ही इसकी पाँखें नोच लें और इसे घूसोंसे ही मार डालें ॥ १५ १/२ ॥
@@ -326,6 +604,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सन्देशवन्नु तिळिसुत्तिरुवागले वानररु नॆगॆदु अवन बळिगॆ तलुपि, बेगने इवन रॆक्कॆकित्तु, अवनन्नु गुद्दि कॊल्ललु बयसुत्तिद्दरु.॥15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. yathaa* = As was ; *aadishhTam* = directed;
+*raavaNena* = by Ravana; *duraatmanaa* = the wicked; *sarvam* = all that;
+*uktam* = was told; *praapayantam* = while receiving ; *tat* = those;
+*vachanam* = words; *vaanaraaH* = the monkeys; *aaplutya* = jumped up;
+*praapadyanta* = reached him; *tadaa* = at that moment; *kshhipram* = quickly;
+*tuurNam* = and speedily; *loptum* = to tear off his wings; *hantumcha* = and
+to strike him; *mushhTibhiH* = by their fists.
+
+**अनुवादः**
+
+Shuka repeated all the words the wicked Ravana had told him to say to Sugriva. As he
+was still speaking, the monkeys bounded into the air to reach him at that moment quickly to tear
+off his wings and to smite him by their fists.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +642,12 @@ _________________
 गगनाद्भूतले चाशु परिगृह्यावतारितः ।
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सर्वैः प्लवण्गैः प्रसभम् निगृहीतो निशाचरह् ॥ ६-२०-१६
+गगनाद्भूतले चाशु प्रतिगृह्यावतारितः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस निश्चयके साथ सारे वानरोंने उस निशाचरको बलपूर्वक पकड़ लिया और उसे कैद करके तुरंत आकाशसे भूतलपर उतारा ॥ १६ १/२ ॥
@@ -351,6 +656,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ निश्चयिसि ऎल्ल वानररु आ निशाचरनन्नु बलवन्तवागि सॆरॆ हिडिदु आकाशदिन्द भूमिगॆ इळिदरु.॥16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. nigR^ihiitaH* = the attacked; *nishhaacharaH* = demon;
+*prasabham* = was forcibly; *pratigR^ihya* = seized; *sarvaiH* = by all;
+*plavaNgaiH* = monkeys; *aashu* = and immediately; *avataaritaH* = brought
+down; *bhuutale* = to the ground; *gaganaat* = from the sky.
+
+**अनुवादः**
+
+The demon thus attacked was forcibly seized by all the monkeys and immediately
+brought down to the ground from the sky.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,6 +696,14 @@ _________________
 अनुक्तवादी दूतः सन्स दूतोवधर्महति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+वानरैः पीड्यमानस्तु शुको वचनमब्रवीत् ॥ ६-२०-१७
+न दूतान् घ्नन्ति काकुत्थ्स वार्यन्ताम् साधु वानराः ।
+यस्तु हित्वा मतम् भर्तुः स्वमतम् सम्प्रभाषते ॥ ६-२०-१८
+अनुक्तवादी दूतः सन्न् स दूतो वधमर्हति ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार वानरोंके पीड़ा देनेपर शुक पुकार उठा—‘रघुनन्दन! राजालोग दूतोंका वध नहीं करते हैं, अतः आप इन वानरोंको भलीभाँति रोकिये । जो स्वामीके अभिप्रायको छोड़कर अपना मत प्रकट करने लगता है, वह दूत बिना कही हुई बात कहनेका अपराधी है; अतः वही वधके योग्य होता है’ ॥ १७-१८ ॥
@@ -382,6 +712,43 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार वानररु पीडिसुत्तिरुवाग शुकनु कूगिकॊण्डनु - रघुनन्दन! राजरु दूतरन्नु कॊल्लुवुदिल्ल; आद्दरिन्द ई वानररन्नु सरियागि तडॆयिरि. ऒडॆयन अभिप्रायवन्नु बिट्टु, तन्न मतवन्नु प्रकटिसिद दूतनु हेळदिरुव मातन्नु हेळिद अपराधियागिद्दानॆ. आद्दरिन्द अवने वधॆगॆ योग्यनागिद्दानॆ.॥17-18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. yaH* = who; *hitvaa* = abandon; *matam* = the
+intent; *bhartuH* = of his lord; *samprabhaashhate* = will speak; *svamatam* =
+about his own intent; *duutaH sau* = through being a messenger; *saH duutaH* = that
+messenger; *anukta vaadii* = who speaks which was not told; *arhati* = is fit;
+*vadham* = for killing
+
+**अनुवादः**
+
+"That messenger, who by abandoning the opinion of his king will speak about his own
+opinion though he being a messenger and he who on the other hand speaks that which was not told to
+him, that messenger is indeed fit to be killed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. shukaH* = Shuka; *piiDyamaanaH* = being harassed;
+*vaanaraiH* = by monkeys; *abraviit* = spoke; *vachanam* = these words;
+*kakutthsa* = O; *Rama! Duutaan* = messengers; *naghnanti* = are not killed;
+*vaanaraaH* = let the monkeys; *vaaryantaam* = be restrained; *saadhu* =
+properly.
+
+**अनुवादः**
+
+Shuka being harassed by monkeys spoke the following words: "O, Rama! Messengers are
+not to be killed. Let your monkeys be restrained properly."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +766,12 @@ _________________
 उवाच मावधिष्टेति घ्नतः शाखामृगर्षभान् ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+शुकस्य वचनम् रामः श्रुत्वा तु परिदेवितम् ॥ ६-२०-१९
+उवाच मा वधिस्टेति घ्नतः शाखामृगर्षभान् ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 शुकके वचन और विलापको सुनकर भगवान् श्रीरामने उसे पीटनेवाले प्रमुख वानरोंको पुकारकर कहा—‘इसे मत मारो’ ॥ १९ ॥
@@ -407,6 +780,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुकन मातु मत्तु विलापवन्नु केळि भगवान् श्रीरामनु अवनन्नु हॊडॆयुत्तिरुव मुख्य वानररन्नु करॆदु - ‘इवनन्नु हॊडॆयदिरि’ ऎन्दु हेळिदनु.॥19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. shrutvaa* = hearing; *shukasya* = Shuka's;
+*vachanam* = words; *paridevitam* = and his complaint; *raamaH* =
+Rama;uvaachaam = spoke; *iti* = thus; *shakhaa mR^igarshhabhaan* = to the foremost of
+monkeys; *ghnatah* = who were beating; *maa vadhishhTa* = "do not kill."
+
+**अनुवादः**
+
+Hearing Shuka's complaining words, Rama spoke to the foremost of monkeys, who were
+beating him as aforesaid, saying "Do not kill him"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,6 +809,12 @@ _________________
 
 स च पत्रलघुर्भूत्वा हरिभिर्दर्शितेऽभये ।  
 अन्तरिक्षे स्थितो भूत्वा पुनर्वचनमब्रवीत् ॥ २० ॥
+</details>
+
+<details><summary>मूलम् - VR</summary>
+
+स च पत्रलघुद्भूत्वा हरिभिर्दर्शितेऽभये ॥ ६-२०-२०
+अन्तरिक्षे स्थितो भूत्वा पुनर्वचन मब्रवीत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -431,6 +827,24 @@ _________________
 आग शुकन रॆक्कॆगळ भार स्वल्प कडिमॆयागित्तु. (एकॆन्दरॆ वानररु अवन्नु कित्तुबिट्टिद्दरु.) मत्तॆ अवनिगॆ अभय कॊट्ट मेलॆ शुकनु आकाशदल्लि निन्तु पुनः हेळिदनु .॥20॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. darshite* = perceiving; *abhaye* = no fear;
+*haribhiH* = from the monkeys; *saH cha* = he; *bhuutvaa* = became; *patra
+laghuH* = light winged; *bhuutvaa* = virtually; *sthitaH* = standing;
+*antarikshhe* = in the sky; *abraviit* = and spoke; *vachanam* = these words;
+*punaH* = again:
+
+**अनुवादः**
+
+Perceiving no fear from monkeys, Shuka became light winged, virtually standing in
+the sky and spoke again the following words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीव सत्त्वसम्पन्न महाबलपराक्रम ।  
@@ -443,6 +857,12 @@ _________________
 किं मया खलु वक्तव्यो रावणो लोकरावणः ॥ २१ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+सुग्रीव सत्त्वसम्पन्न महाबलपराक्रम ॥ ६-२०-२१
+किम् मया खलु नक्तव्यो रावणो लोकरावणः ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महान् बल और पराक्रमसे युक्त शक्तिशाली सुग्रीव! समस्त लोकोंको रुलानेवाले रावणको मुझे आपकी ओरसे क्या उत्तर देना चाहिये’ ॥ २१ ॥
@@ -451,6 +871,23 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबल मत्तु पराक्रमदिन्द कूडिद शक्तिशालि सुग्रीवने! समस्त लोकगळन्नु अळुवन्तॆ माडुव रावणनिगॆ निन्न कडॆयिन्द याव उत्तरवन्नु कॊडलु बयसुत्तिरुवॆ.॥21॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. sugriiva* = O;Sugriva; *sattvasampannaH* = rich in courage;
+*mahaabalaparaakrama* = possessing strength and great valor; *kim* = what;
+*raavaNaH* = Ravana; *lokaraavaNah* = who causes the world to cry; *vaktvyaH*
+= is to be told; *mayaa* = by me?
+
+**अनुवादः**
+
+"O, Sugriva, rich in courage and possessing great strength and valor! What am I to
+tell Ravana, whose nature is to cause world to cry?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,6 +916,26 @@ _________________
 शुकके इस प्रकार पूछनेपर उस समय कपिशिरोमणि महाबली उदारचेता वानरराज सुग्रीवने उस निशाचरके दूतसे यह स्पष्ट एवं निश्छल बात कही— ॥ २२ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. evam* = thus; *uktvaa* = being told; *mahaabalaH* =
+the mighty strong; *saH* = Sugriva; *plavagaadhipaH* = the king of monkeys;
+*plavaNgamaanaam RishhabhaH* = and the foremost among the monkeys; *tadaa* = then;
+*adiina sattvaH* = with a merciless mind; *uvaacha* = spoke; *vaakyam* = these
+words; *shuddham shukam* = to the blame less Shuka; *rajaniicharasya* = Ravana's;
+*chaaram* = spy:
+
+**अनुवादः**
+
+Hearing the aforesaid words, the mightily strong Sugriva the king of monkeys and the
+foremost among them, with a merciless mind then spoke to the blame less Shuka, Ravana's spy, as
+follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुकनु ई प्रकार केळिदाग कपिशिरोमणि महाबली उदारचेता वानरराज सुग्रीवनु आ निशाचर दूतनल्लि हागॆ स्पष्ट हागू निश्चल मातन्नु हेळिदनु .॥2.॥
@@ -500,14 +957,62 @@ _________________
 स्ततोऽसि वालीव वधार्ह वध्यः ॥ २३ ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+स मेऽसि मित्रम् व तथानुकम्प्यो ।
+न चोपकर्तासि न मे प्रियोऽपि ।
+अरिश्च रामस्य सहानुबन्ध ।
+स्ततोऽसि वालीव वधार्ह वध्यः ॥ ६-२०-२३
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘(दूत! तुम रावणसे इस प्रकार कहना—)वधके योग्य दशानन! तुम न तो मेरे मित्र हो, न दयाके पात्र हो, न मेरे उपकारी हो और न मेरे प्रिय व्यक्तियोंमेंसे ही कोई हो । भगवान् श्रीरामके शत्रु हो, इस कारण अपने सगे-सम्बन्धियोंसहित तुम वालीकी भाँति ही मेरे लिये वध्य हो ॥ २३ ॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. vadhaarha* = O; Ravana; *worthy of killing! Na asi* = you
+are not; *me* = my; *mitram* = friend; *tathaa* = and; *na* = you are
+not; *anukampyaH* = worthy of sympathy; *na asi* = you are not; *upakartaacha*
+= the person who helps; *na api* = you are not; *priyaH* = beloved; *me* = to
+me; (you are); *raamasya* = Rama's; *ariH* = enemy; *tataH* = therefore;
+*asi* = you are; *vadhyaH* = enemy to be killed; *sahaanubandhaH* = along with
+your associates; *vaalina* = like Vali.
+
+**अनुवादः**
+
+"O, Ravana, worthy of killing! You are not my companion. You are not worthy of
+sympathy. You are not the person who helped me in any way. I do not like you, as you are Rama's
+enemy. Hence, You are worthy to be killed like Vali, along with your associates"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (दूतने! नीनु रावणनल्लि हीगॆ हेळु-) वधॆगॆ योग्य दशाननने! नीनु नन्न मित्रनू अल्ल, दयापात्रनू अल्ल, नीनु ननगॆ उपकारियू अल्ल, नन्न प्रियव्यक्तिगळल्लि यारू अल्ल. भगवान् श्रीरामन शत्रु आगिरुवॆ, ई कारणदिन्द तन्न नॆण्टरिष्टरिन्द सहित नीनु वालियन्तॆ ननगॆ वध्यनागिरुवॆ.॥2.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. saH raakshhasaH* = that demon; *chaaraH* = a spy;
+*raavaNasya* = of Ravana; *raakshhasaraajasya* = the king of demons;
+*duraatmanaH* = the evil natured; *avyagraH* = coolly; *dR^ishhTvaa* = seeing;
+*tam* = that army; *sarvataH* = from all sides; *pratigamya* = returned;
+*vegena* = speedily; *aavishya* = entered; *laNkaam* = Lanka;
+*abraviit* = and spoke; *idam* = these words; *raajaanam* = to the king.
+
+**अनुवादः**
+
+That demon, the spy of Ravana the evil natured king of ogres, coolly observed that
+army from all sides, speedily returned to Lanka and spoke to their king as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +1039,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निशाचर राजने ! निन्न पुत्ररु, बन्धु-कुटुम्बिगळ सहित नानु निन्नन्नु संहरिसुवॆनु हागू भारी दॊड्ड सैन्यदॊन्दिगॆ बन्दु समस्त लङ्कॆयन्नु भस्ममाडिबिडुवॆनु.॥24॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. rajaniicharesha* = O; *the king of demons! aham* = I;
+*nihanmi* = am killing; *tvaam* = you; *sasutam* = along with your sons;
+*sabandhum* = along with your relatives; *sa jN^aati vargam* = along with your
+kinsfolk; *sametya* = together; *mahataa balena* = with my great army;
+*karishhyaami* = I will make; *sarvaam* = the entire; *laNkaam* = Lanka;
+*sarvaH* = along with all of you; *bhasma* = to ashes.
+
+**अनुवादः**
+
+"O, the king of demons! I am killing you along with your sons, relatives and other
+kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of you to ashes."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,6 +1119,30 @@ _________________
 मूरु लोकगळल्लि पिशाच, राक्षस, गन्धर्व, असुर इवरल्लि यारू निन्नन्न रक्षिसबल्लवरु ननगॆ कण्डुबरुवुदिल्ल.॥26॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+25; *26. raavaNa* = O; Ravana; *muuDha* = the stupid! Tvam =
+you; *na mokshhyase* = will not be left; *sahaanujaH* = along with your younger
+brother; *raaghavasya* = by Rama; *guptaH api* = even if protected; *sarvaiH*
+= by all; *sahendraiH* = including Indra; *antarhitaH* = even if disappeared;
+*gatovaa* = or obtained; *suuryapatham* = the solar path; *tathaiva* = and so
+also; *anupravishhTaH* = if you entered; *paatalam* = the nethermost subterranean
+region; *giiriisha paadaammbuja sangatovaa* = or even if approached the lotus feet of Shiva(
+the lord of Kailasa mountain).
+
+**अनुवादः**
+
+"O, stupid Ravana! You along with your younger brother will not be left unkilled by
+Rama, even if you are protected by all including Indra (the lord of celestials) or even if you have
+disappeared (by virtue of conjuring trick) or obtained, the solar orbit or entered the nethermost
+subterranean region or even if approached the lotus feet of Shiva (the lord of Kailasa
+mountain)"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवधीस्त्वं जरावृद्धं गृध्रराजं जटायुषम् ।  
@@ -613,6 +1161,12 @@ _________________
 हृता सीता विशालाक्षी यां त्वं गृह्य न बुध्यसे ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+तस्य ते त्रिषु लोकेषु न पिशाचम् न राक्षसम् ।
+त्रातारमनुपश्यामि न गन्धर्वम् न चासुरम् ॥ ६-२०-२७
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘चिरकालके बूढ़े गृध्रराज जटायुको तुमने क्यों मारा? यदि तुममें बड़ा बल था तो श्रीराम और लक्ष्मणके पाससे तुमने विशाललोचना सीताका अपहरण क्यों नहीं किया? तुम सीताजीको ले जाकर अपने सिरपर आयी हुई विपत्तिको क्यों नहीं समझ रहे हो? ॥ २७ ॥
@@ -621,6 +1175,25 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुदुकनाद गृद्धराज जटायुवन्नु नीनु एकॆ कॊन्दॆ? निन्नल्लि बलविद्दिद्दरॆ श्रीराम मत्तु लक्ष्मणन बळियिन्द नीनु विशाललोचनॆ सीतॆयन्नु एकॆ अपहरिसलिल्ल? नीनु सीतॆयन्नु कॊण्डुहोगि तन्न तलॆय मेलॆ बन्दिरुव विपत्तन्नु एकॆ तिळियुत्तिल्ल.॥27॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. na anupashyaami* = I do not see; *traataaram* = any
+protector; *te* = to you; *tasya* = as such; *trishhu lokeshhu* = in the three
+worlds; *na* = nor do I see; *pishaacham* = a devilish being; *na* = nor;
+*raakshhasam* = a demon; *na* = nor; *gandharvam* = a Gandhrva (celestial
+musician); *na* = nor; *asuramcha* = an ogre.
+
+**अनुवादः**
+
+"I do not see any protector to you as such in the three worlds, nor do I see any
+devilish being or a demon or a Gandharva (celestial musician) or an ogre coming forward to protect
+you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +1211,13 @@ _________________
 न बुध्यसे रघुश्रेष्ठं यस्ते प्राणान् हरिष्यति ॥
 </details>
 
+<details><summary>मूलम् - VR</summary>
+
+अवधीस्त्वम् जरावृद्धम् गृध्राराजम् जटायुषम् ।
+किम् मते रामसाम्निध्ये सकाशे लक्ष्मणस्य च ॥ ६-२०-२८
+हृता सीता विशालाक्षि याम् त्वम् गृह्य न बुध्यसे ।
+</details>
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुकुलतिलक श्रीराम महाबली, महात्मा और देवताओंके लिये भी दुर्जय हैं, किंतु तुम उन्हें अभीतक समझ नहीं सके । (तुमने छिपकर सीताका हरण किया है, परंतु) वे (सामने आकर) तुम्हारे प्राणोंका अपहरण करेंगे’ ॥ २८ ॥
@@ -646,6 +1226,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुकुल तिलक श्रीरामनु महाबली, महात्मा मत्तु देवतॆगळिगू दुर्जयनागिरुवुदन्नु नीनु इष्टरवरॆगॆ अरियदादॆ (नीनु अडगिकॊण्डु सीतॆयन्नु अपहरिसिदॆ, आदरॆ) अवनु निनगॆ ऎदुरागि निन्न प्राणगळन्नु अपहरिसुवनु.॥28॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. tvam* = you; *avadhiiH* = killed; *jaTaayushham* =
+Jatayu; *gR^idhraraajam* = the king of vultures; *jaraavR^iddham* = and who was
+senior due to old age; *kimnu* = why; *visaalaakshhii* = the wide eyed;
+*siitaa* = Sita; *nahR^itaa* = was not taken away; *raama saannidhye* = in the
+presence of Rama; *sakaashe* = and in the presence; *lakshhmaNa* = of Lakshmana;
+*tvam* = you; *gR^ihya* = having seized her; *na budhyase* = do not recognize
+her; *yaam* = what she is.
+
+**अनुवादः**
+
+"You killed Jatayu, the king of vultures and who was senior to you in old age. Why
+the wide-eyed Sita was not taken away in the presence of Rama and Lakshmana? Having made her
+captive, you do not recognize her for what she is."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -679,6 +1280,42 @@ _________________
 अनन्तर वानर शिरोमणि वालिकुमार अङ्गदनु हेळिदनु- महाराजने! ननगादरो इवनु दूतनन्तॆ काणदॆ गुप्तचरनन्तॆ कण्डुबरुत्तिद्दानॆ. इवनु इल्लि निन्तुकॊण्डे निन्न ऎल्ल सैन्यद पूर्ण बला-बलवन्नु तिळिदुकॊण्डिरुवनु. आदुदरिन्द लङ्कॆगॆ होगदन्तॆ इवनन्नु इल्लिये बन्धनदल्लिडुवुदु ननगॆ उचितवागि काणुत्तदॆ.॥29-30॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. tataH* = thereafter; *angadaH* = Angada;
+*vaalisutaH* = the son of Vali; *harisattamaH* = and the foremost of the monkeys;
+*abraviit* = spoke; *(as follows) mahaa prajN^a* = O; *Sugriva the highly
+intelligent! ayam* = He; *na* = is not; *duutaH* = an ambassador;
+*pratibhaati* = he appears; *me* = to me; *chaarakaH* = as a spy.
+
+**अनुवादः**
+
+Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as follows:
+"O, Sugriva the highly intelligent! He is not an ambassador. He appears to me as a spy."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. na budhyase* = you are unaware; *mahaabalam* = how much
+strong; *mahaatmaanam* = high soled; *duraadarshham* = and irresistible; *surai
+rapi* = even to celestials; *Raghu shreshhTam* = is this excellent man of Raghu dynasty;
+*yaH* = who; *harishhyati* = shall deprive; *te* = you; *praaNaan* = of
+your lives.
+
+**अनुवादः**
+
+"You are unaware how strong, high soled and irresistible even to celestials, is this
+Rama the excellent man of Raghu dynasty, who shall deprive you of your life."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राज्ञा समादिष्टाः समुत्पत्य वलीमुखाः ।  
@@ -699,6 +1336,24 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ राजा सुग्रीवन आदेश दन्तॆ वानररु नॆगॆदु अवनन्नु हिडिदु कट्टिहाकिदरु. आ बडपायि अनाथनन्तॆ विलापिसतॊडगिदनु.॥31॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. sarvam* = all; *balam* = our army; *tulitam hi* =
+indeed has been evaluated; *anena* = by him; *tishhThataa* = standing here;
+*gRi^hyataam* = let him be made captive; *maa gamaat* = le him not return;
+*laNkaam* = to Lanka; *etat hi* = this indeed; *rochate* = finds favor;
+*mama* = with me.
+
+**अनुवादः**
+
+"All our army has been indeed evaluated by him, standing here. Let him be made
+captive. Let him not return to Lanka. This indeed finds favor with me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +1386,40 @@ _________________
 आ प्रचण्ड वानररिन्द पीडितनाद शुकनु दशरथनन्दन महात्मा श्रीरामनन्नु जोरागि कूगि हेळिदनु - प्रभो! बलवन्तवागि नन्न रॆक्कॆगळन्नु कित्तरु, कण्णु ऒडॆदु हाकिदरु. इन्दु नानु प्राण त्याग माडिदरॆ- नानु हुट्टिद रात्रियिन्द सायुव रात्रियवरॆगॆ नानु माडिद पापगळॆल्लवन्नू नीने भरिसबेकागुवुदु.॥32-33॥
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. samprapiiDitaah* = harassed; *taiH vaanaraiH* = by those
+monkeys; *chaN^DaiH* = who were fierce; *tatra* = there; *shukastu* = Shuka on
+his part; *vyaachukrosha* = cried loudly; *raamam* = to Rama; *mahaatmaanam* =
+the high soled; *dasharathaatmajam* = son of Dasaratha(as follows):
+
+**अनुवादः**
+
+Harassed by those monkeys there, Shuka on his part cried loudly towards Rama, the
+high soled son of Dasaratha as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. tataH* = then; *samaadishhTaaH* = commanded;
+*raajN^aa* = by the king Sugriva; *valiimukhaaH* = the monkeys; *samutpatya* =
+jumped up; *jagR^ihushcha* = seized; *babandhushcha* = and bound him;
+*anaathavat* = who without defence; *vilapantam* = wailed loudly.
+
+**अनुवादः**
+
+Commanded then by the king Sugriva, the monkeys jumped up, seized and bound him, who
+without defence, wailed loudly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाघातयत् तदा रामः श्रुत्वा तत्परिदेवितम् ।  
@@ -751,6 +1440,27 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग अवन आ विलापवन्नु केळि श्रीरामनु अवनन्नु वधिसलु बिडलिल्ल. अवनु वानररल्लि इवनन्नु बिट्टुबिडि. इवनु दूतनागिये बन्दिरुवनु ऎन्दु हेळिदनु.॥34॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34;35. me* = my; *pakshhou* = wings; *lupyete* = are
+being pulled out; *balata* = forcibly; *tathaa* = and; *me akshhiNii* = my
+eyes; *bhidyete* = are being pierced; *jahyaam chedyadi* = if I abandon;
+*jiivitam* = my life; *yat* = which; *ashhubham* = sin; *kR^itam* =
+done; *mayaa* = by me; *ekasmin antare kale* = between this period; *aham* =
+I; *jaaye* = was born; *yaamcha* = on which; *raatrim* = night;
+*yaamcha* = and on which; *raatrim* = night; *marishhyaami* = I shall die;
+*tat sarvam* = all that; *upapadyethaaH* = would fall to your share.
+
+**अनुवादः**
+
+"My wings are being pulled out forcibly. My eyes are being pierced. If I die, all
+the sins incurred by me between my birth and my death would fall to your share."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>
