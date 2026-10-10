@@ -2,6 +2,8 @@
 title = "००२ ब्रह्मागमनम्"
 title_english = "002 vAlmIki gets divine guidance to compile the epic"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - Book Of Youthful Majesties**
@@ -23,12 +25,15 @@ of Rama, for which purpose alone he gave such divine meter and grammar to him.
 
 2. रामायणकाव्यका उपक्रम—तमसाके तटपर क्रौञ्चवधसे संतप्त हुए महर्षि वाल्मीकिके शोकका श्लोक-रूपमें प्रकट होना तथा ब्रह्माजीका उन्हें रामचरित्रमय काव्यके निर्माणका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारदस्य तु तद् वाक्यं श्रुत्वा वाक्यविशारदः ।  
 पूजयामास धर्मात्मा सहशिष्यो महामुनिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ Then, the great sage Valmiki, a skilled orator and a virtue-minded one, having h
 
 अत्र धर्मात्मा महा-मुनिः इति विशेषण-द्वयेन कर्तुः सत्-पुरुषत्वम् उक्तम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथावत् पूजितस्तेन देवर्षिर्नारदस्तथा ।  
 आपृच्छ्येवाभ्यनुज्ञातः स जगाम विहायसम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ permission of Valmiki to leave and having been permitted by Valmiki, went away h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुहूर्तं गते तस्मिन् देवलोकं मुनिस्तदा ।  
 जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ Then, on Narada's going to the world of gods in a trice, that sage Valmiki went 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तीरं समासाद्य तमसाया मुनिस्तदा ।  
 शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकर्दममिदं तीर्थं भरद्वाज निशामय ।  
 रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यस्यतां कलशस्तात दीयतां वल्कलं मम ।  
 इदमेवावगाहिष्ये तमसातीर्थमुत्तमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ ford of Tamasa only... [1-2-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो भरद्वाजो वाल्मीकेन महात्मना ।  
 प्रायच्छत मुनेस्तस्य वल्कलं नियतो गुरोः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +335,15 @@ Thus being said by the great-souled Valmiki, Bharadwaaja who was obedient to his
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः ।  
 विचचार ह पश्यंस्तत् सर्वतो विपुलं वनम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,12 +378,15 @@ wide expanse of forest. [1-2-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम् ।  
 ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +421,15 @@ foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् तु मिथुनादेकं पुमांसं पापनिश्चयः ।  
 जघान वैरनिलयो निषादस्तस्य पश्यतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,12 +462,15 @@ one among the couple of birds, while Valmiki was looking on. [1-2-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शोणितपरीताङ्गं चेष्टमानं महीतले ।  
 भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +487,15 @@ one among the couple of birds, while Valmiki was looking on. [1-2-10]
 
 आ पक्षियु रक्तसिक्तवागि मरणासन्न स्थितियल्लि नॆलदल्लि हॊरळाडुत्तिरुवुदन्नु कण्डु हॆण्णु पक्षियु करुणाजनक ध्वनियिन्द रोदिसतॊडगितु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वियुक्ता पतिना तेन द्विजेन सहचारिणा ।  
 ताम्रशीर्षेण मत्तेन पत्त्रिणा सहितेन वै ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +534,15 @@ husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम् ।  
 ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,12 +575,15 @@ saintly sage Valmiki. [1-2-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः करुणवेदित्वादधर्मोऽयमिति द्विजः ।  
 निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +620,15 @@ the killing of male bird as unjust, the sage uttered this sentence... [1-2-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः ।  
 यत् क्रौञ्चमिथुनादेकमवधीः काममोहितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +797,15 @@ suggested.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्येत्थं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः ।  
 शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +844,15 @@ Thus speaking and pondering in his heart, he became thoughtful: "What is this ut
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयन् स महाप्राज्ञश्चकार मतिमान्मतिम् ।  
 शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुङ्गवः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,12 +886,15 @@ disciple... [1-2-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः ।  
 शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,12 +946,15 @@ kiirti
 
 पूर्वं पाद-बद्ध-अक्षरः श्लोको न स्थितः । श्री-राम-स्वामि-चरित-वर्णनं पाद-बद्ध-अक्षर-श्लोकैर् वाल्मीकिना कारयितव्यम् इति भगवतश् चतुर्मुखस्यच् छन्दात् शोक-निमित्तेन पाद-बद्धाक्षरः श्लोको वाल्मीकेर् वदनारविन्दान् निःसृतः । एतदारभ्यच् छन्दोबद्धानि काव्यानि जातानि । अनेन रामायणस्यादि-काव्यत्वं वाल्मीकिर् अपि सर्वेषां कवीनां मार्ग-दर्शीति च सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम् ।  
 प्रतिजग्राह सन्तुष्टस्तस्य तुष्टोऽभवन्मुनिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,12 +994,15 @@ by which the saint too, was delighted. [1-2-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन् यथाविधि ।  
 तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -983,12 +1045,15 @@ on him are on the analogy of poetic verses of Ramayana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान् गुरोः ।  
 कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,12 +1088,15 @@ his mentor. [1-2-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्याश्रमपदं शिष्येण सह धर्मवित् ।  
 उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1063,12 +1131,15 @@ is preoccupied in cogitation on the verse. [1-2-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः ।  
 चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुङ्गवम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,12 +1187,15 @@ i.e. authoring the epic, Ramayana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः ।  
 प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1161,12 +1235,15 @@ up from his seat with his palms adjoined humbly, he stood aside, as he is spellb
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः ।  
 प्रणम्य विधिवच्चैनं पृष्ट्वा चैव निरामयम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,12 +1303,15 @@ now arrives to ordain Valmiki to author Ramayana.
 
 अत्र ब्रह्मणः स्वयम् एवागमनेन वाल्मीकेर् माहात्म्यं तपसश् च सिद्धिर् व्यक्तीकृता ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोपविश्य भगवानासने परमार्चिते ।  
 वाल्मीकये च ऋषये सन्दिदेशासनं ततः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,6 +1344,7 @@ at Valmiki to take a seat. [1-2-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1273,6 +1354,8 @@ at Valmiki to take a seat. [1-2-26]
 पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना ॥ २८ ॥  
 यत् तादृशं चारुरवं क्रौञ्चं हन्यादकारणात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,12 +1427,15 @@ occurred on that day have recurred on his mind. [1-2-27-28a]
 
 अनेन ब्रह्मणा आसने अवस्थानस्याभ्यनुज्ञानात् सर्व-ऋषि-श्रेष्ठत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ ॥ २९ ॥  
 पुनरन्तर्गतमना भूत्वा शोकपरायणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1402,6 +1488,7 @@ jaguryashaH *
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1409,6 +1496,8 @@ jaguryashaH *
 श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा ।  
 मच्छन्दादेव ते ब्रह्मन् प्रवृत्तेयं सरस्वती ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1472,6 +1561,7 @@ a verse only... and there is no need to think through... [1-2-30]
 
 अनेनच् छन्दो-बद्ध-श्लोको वाल्मीकिना कृतः । तद् अङ्गीकृत्य श्लोक एव नाम स्थापितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1479,6 +1569,8 @@ a verse only... and there is no need to think through... [1-2-30]
 धर्मात्मनो भगवतो लोके रामस्य धीमतः ॥ ३२ ॥  
 वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1534,6 +1626,7 @@ a godlike person in this world as well, as you have heard it from sage Narada. [
 
 अस्य काव्यस्य श्री-राम-स्वामी नायकः । अत्र अनन्त-गुणाभिरामस्यापि रामस्य धर्मवत्त्वादि-गुण-चतुष्टय-वर्णनं ब्रह्मणो मुख-चतुष्टय-साफल्य-द्योतनार्थम् । एवं च राम-कथां कुर्वत एव मुखं सफलम् इति द्योतितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1542,6 +1635,8 @@ a godlike person in this world as well, as you have heard it from sage Narada. [
 वैदेह्याश्चैव यद् वृत्तं प्रकाशं यदि वा रहः ॥ ३४ ॥  
 तच्चाप्यविदितं सर्वं विदितं ते भविष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,12 +1697,15 @@ it were to be unknown, as yet... [1-2-33-34]
 
 अनेन रहस्यार्थ-वेदन-रूप-वर-दानम् उक्तम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते वागनृता काव्ये काचिदत्र भविष्यति ॥ ३५ ॥  
 कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1648,6 +1746,7 @@ word of yours will not be false in this epic... [1-2-35]
 
 अनेन न केवलं दोषाभावः, अपि तु वक्तुः श्रोतुश् च पुण्याधायकम् इति सूचितम् ॥
 </details>
+</details>
 
 </details>
 
@@ -1656,6 +1755,8 @@ word of yours will not be false in this epic... [1-2-35]
 यावत् स्थास्यन्ति गिरयः सरितश्च महीतले ॥ ३६ ॥  
 तावद् रामायणकथा लोकेषु प्रचरिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1672,12 +1773,15 @@ word of yours will not be false in this epic... [1-2-35]
 
 अनेन धार्मिकेण पुरुषेण कृतं धर्म-प्रधान-पुरुष-चरित्र-वर्णनं चिर-कालं सर्वोपादेयतयावतिष्ठत इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावद् रामस्य च कथा त्वत्कृता प्रचरिष्यति ॥ ३७ ॥  
 तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1735,12 +1839,15 @@ legend of Ramayana will flourish in this world... [1-2-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा भगवान् ब्रह्मा तत्रैवान्तरधीयत ।  
 ततः सशिष्यो भगवान् मुनिर्विस्मयमाययौ ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1779,12 +1886,15 @@ Valmiki came by astonishment, along with his disciples. [1-2-38]
 
 अनेन कर्तुर् भगवतो वाल्मीकेः परम-पुरुषार्थ-सिद्धिर् अप्य् उक्ता भवति, "तस्य सर्वेषु लोकेषु काम-चारो भवति" इति श्रुति-वचनात् । एवं च अन्यस्यापि महा-पुरुष-चरित-वर्णन-कर्तुर् महा-फल-प्राप्तिः सूचिता । एवम् अनेक-वरान् प्रदाय ब्रह्मा तत्रैवान्तरधीयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः ।  
 मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1825,12 +1935,15 @@ much astonished they also recited this verse, reciprocally. [1-2-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा ।  
 सोऽनुव्याहरणाद् भूयः शोकः श्लोकत्वमागतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1888,12 +2001,15 @@ being sung by the disciples, thus anyone can recite it.
 
 * काव्य या यशरूप ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः ।  
 कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1927,6 +2043,7 @@ entire Ramayana, the epic, in suchlike verses...' [1-2-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1935,6 +2052,8 @@ entire Ramayana, the epic, in suchlike verses...' [1-2-41]
 समाक्षरैः श्लोकशतैर्यशस्विनो  
 यशस्करं काव्यमुदारदर्शनः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1999,6 +2118,7 @@ meanings semantically, prosody free-flowing, and with hundreds of such verses. [
 
 अनेन ब्रह्मणो लब्ध-वरस्य कीर्तिमतो वाल्मीकेस् तत्-कृत-यशस्कर-काव्यस्य तत्-प्रतिपाद्यस्य यशस्विनः सकल-कल्याण-गुणाभिरामस्य रामस्य च महिमातिशयः प्रतिपादितः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2007,6 +2127,8 @@ meanings semantically, prosody free-flowing, and with hundreds of such verses. [
 रघुवरचरितं मुनिप्रणीतं  
 दशशिरसश्च वधं निशामयध्वम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2066,5 +2188,6 @@ attentively.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎरडनॆय सर्ग पूर्णवायितु. ॥2॥
+</details>
 </details>
 

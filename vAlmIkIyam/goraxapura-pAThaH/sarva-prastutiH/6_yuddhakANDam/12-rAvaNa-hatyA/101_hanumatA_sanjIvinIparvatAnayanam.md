@@ -1,6 +1,8 @@
 +++
 title = "१०१ हनुमता सञ्जीविनीपर्वतानयनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,6 +26,7 @@ Sushena.
 101. श्रीरामका विलाप तथा हनुमान् जी की लायी हुई ओषधिके सुषेणद्वारा  
 किये गये प्रयोगसे लक्ष्मणका सचेत हो उठना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ Sushena.
 स दत्त्वा तुमुलं युद्धं रावणस्य दुरात्मनः ।  
 विसृजन्नेव बाणौघान् सुषेणमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +85,15 @@ Rama spoke as follows to Sushena, even while releasing a multitude of arrows (at
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष रावणवीर्येण लक्ष्मणः पतितो भुवि ।  
 सर्पवच्चेष्टते वीरो मम शोकमुदीरयन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ wiggling like a serpent, causing an increase in grief to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोणितार्द्रमिमं वीरं प्राणैः प्रियतरं मम ।  
 पश्यतो मम का शक्तिर्योद‍्धुं पर्याकुलात्मनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,12 +183,15 @@ to me than life, bathed in blood, my mind being greatly disturbed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं स समरश्लाघी भ्राता मे शुभलक्षणः ।  
 यदि पञ्चत्वमापन्नः प्राणैर्मे किं सुखेन वा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ to me than life, bathed in blood, my mind being greatly disturbed."
 
 शुभ लक्ष्मण नन्न तम्मनु सदा काल युद्धोत्साहदिन्द इरुत्तिद्दनु. इवनु सत्तु होदरॆ ननगॆ ई प्राणगळन्नु इरिसिकॊण्डु, सुख अनुभविसुव प्रयोजनवेनिदॆ.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लज्जतीव हि मे वीर्यं भ्रश्यतीव कराद् धनुः ।  
 सायका व्यवसीदन्ति दृष्टिर्बाष्पवशं गता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +254,7 @@ arrows are dropping down. My vision has been overcome with tears."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,6 +263,8 @@ arrows are dropping down. My vision has been overcome with tears."
 भ्रातरं निहतं दृष्ट्वा रावणेन दुरात्मना ।  
 विष्टनन्तं तु दुःखार्तं मर्मण्यभिहतं भृशम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ growing in me. I even wish to die."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवो भ्रातरं दृष्ट्वा प्रियं प्राणं बहिश्चरम् ।  
 दुःखेन महताविष्टो ध्यानशोकपरायणः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +374,15 @@ afflicted with excessive agony and gave himself up to anxiety and grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परं विषादमापन्नो विललापाकुलेन्द्रियः ।  
 भ्रातरं निहतं दृष्ट्वा लक्ष्मणं रणपांसुषु ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +423,15 @@ into extreme despondency and lamented (as follows), confused in mind, as he was:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विजयोऽपि हि मे शूर न प्रियायोपकल्पते ।  
 अचक्षुर्विषयश्चन्द्रः कां प्रीतिं जनयिष्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +465,15 @@ pleasure can the moon create for a man who has lost his vision?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं मे युद्धेन किं प्राणैर्युद्धकार्यं न विद्यते ।  
 यत्रायं निहतः शेते रणमूर्धनि लक्ष्मणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +510,15 @@ lies killed in the forefront of battle here, I have no use for the war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव मां वनं यान्तमनुयाति महाद्युतिः ।  
 अहमप्यनुयास्यामि तथैवैनं यमक्षयम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +559,15 @@ forest, I too will in the same way follow him to the abode of Yama the lord of D
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टबन्धुजनो नित्यं मां स नित्यमनुव्रतः ।  
 इमामवस्थां गमितो राक्षसैः कूटयोधिभिः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,12 +608,15 @@ his relatives and who was ardently devoted forever to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देशे देशे कलत्राणि देशे देशे च बान्धवाः ।  
 तं तु देशं न पश्यामि यत्र भ्राता सहोदरः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +650,15 @@ not find a brother, born of the same womb, at such a place whatesoever."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु राज्येन दुर्धर्षलक्ष्मणेन विना मम ।  
 कथं वक्ष्याम्यहं त्वम्बां सुमित्रां पुत्रवत्सलाम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +701,15 @@ grief and pitiably sighing his breath repeatedly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपालम्भं न शक्ष्यामि सोढुं दत्तं सुमित्रया ।  
 किं नु वक्ष्यामि कौसल्यां मातरं किं नु कैकयीम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +749,15 @@ power? What can I tell to Sumitra, the mother who was so fond of her son?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतं किं नु वक्ष्यामि शत्रुघ्नं च महाबलम् ।  
 सह तेन वनं यातो विना तेनागतः कथम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,6 +792,7 @@ shall I pay to kausalya the mother or what shall I say to Kaikeya?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -749,6 +800,8 @@ shall I pay to kausalya the mother or what shall I say to Kaikeya?"
 किं मया दुष्कृतं कर्म कृतमन्यत्र जन्मनि ॥ १९ ॥  
 येन मे धार्मिको भ्राता निहतश्चाग्रतः स्थितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +837,15 @@ came back without Lakshmana even though I went to the forest along with him?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा भ्रातर्मनुजश्रेष्ठ शूराणां प्रवर प्रभो ॥ २० ॥  
 एकाकी किं नु मां त्यक्त्वा परलोकाय गच्छसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +882,15 @@ lies killed before me?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलपन्तं च मां भ्रातः किमर्थं नावभाषसे ॥ २१ ॥  
 उत्तिष्ठ पश्य किं शेषे दीनं मां पश्य चक्षुषा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,12 +925,15 @@ men! Why are you going to the other world, deserting me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकार्तस्य प्रमत्तस्य पर्वतेषु वनेषु च ॥ २२ ॥  
 विषण्णस्य महाबाहो समाश्वासयिता मम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +968,15 @@ are you lying down? See me, by opening your own eyes, miserable as I am."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राममेवं ब्रुवाणं तु शोकव्याकुलितेन्द्रियम् ॥ २३ ॥  
 आश्वासयन्नुवाचेदं सुषेणः परमं वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1010,15 @@ grief, I roamed listlessly among mountains and forests or felt low-spirited."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यजेमां नरशार्दूल बुद्धिं वैक्लव्यकारिणीम् ॥ २४ ॥  
 शोकसञ्जननीं चिन्तां तुल्यां बाणैश्चमूमुखे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -984,6 +1052,7 @@ for his part, addressed the following excellent words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -991,6 +1060,8 @@ for his part, addressed the following excellent words:
 नह्यस्य विकृतं वक्त्रं न च श्यामत्वमागतम् ।  
 सुप्रभं च प्रसन्नं च मुखमस्य निरीक्ष्यताम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,12 +1124,15 @@ battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मपत्रतलौ हस्तौ सुप्रसन्ने च लोचने ।  
 नेदृशं दृश्यते रूपं गतासूनां विशां पते ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,6 +1172,7 @@ hands are resembling the petals of a lotus. His eyes too are very bright."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1105,6 +1180,8 @@ hands are resembling the petals of a lotus. His eyes too are very bright."
 आख्याति तु प्रसुप्तस्य स्रस्तगात्रस्य भूतले ॥ २८ ॥  
 सोच्छ्वासं हृदयं वीर कम्पमानं मुहुर्मुहुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1150,12 +1227,15 @@ of enemies! He is all with his life. Do not worry."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाप्राज्ञः सुषेणो राघवं वचः ॥ २९ ॥  
 समीपस्थमुवाचेदं हनूमन्तं महाकपिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1190,6 +1270,7 @@ earth's surface, fast asleep, with his limbs relaxed are telling it, O the galla
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1200,6 +1281,8 @@ earth's surface, fast asleep, with his limbs relaxed are telling it, O the galla
 सञ्जीवकरणीं वीर सन्धानीं च महौषधीम् ॥ ३२ ॥  
 सञ्जीवनार्थं वीरस्य लक्ष्मणस्य त्वमानय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1243,12 +1326,15 @@ following words to Hanuma the great monkey, who was standing nearby:
 
 १. शरीरमें धँसे हुए बाण आदिको निकालकर घाव भरने और पीड़ा दूर करनेवाली । २. शरीरमें पहलेकी-सी रंगत लानेवाली । ३. मूर्च्छा दूर कर चेतना प्रदान करनेवाली । ४. टूटी हुई हड्डियोंको जोड़नेवाली ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्तो हनुमान् गत्वा चौषधिपर्वतम् ।  
 चिन्तामभ्यगमच्छ्रीमानजानंस्ता महौषधीः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,12 +1391,15 @@ with the property of joining a fractured bone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिः समुत्पन्ना मारुतेरमितौजसः ।  
 इदमेव गमिष्यामि गृहीत्वा शिखरं गिरेः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1351,12 +1440,15 @@ those precious herbs and became thoughtful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिंस्तु शिखरे जातामोषधीं तां सुखावहाम् ।  
 प्रतर्केणावगच्छामि सुषेणो ह्येवमब्रवीत् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1390,12 +1482,15 @@ back, taking this mountain-peak itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगृह्य यदि गच्छामि विशल्यकरणीमहम् ।  
 कालात्ययेन दोषः स्याद् वैक्लव्यं च महद्भवेत् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1435,6 +1530,7 @@ mountain-peak. Sushena indeed has said so."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1443,6 +1539,8 @@ mountain-peak. Sushena indeed has said so."
 फुल्लनानातरुगणं समुत्पाट्य महाबलः ।  
 गृहीत्वा हरिशार्दूलो हस्ताभ्यां समतोलयत् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1483,12 +1581,15 @@ great perplexity may arise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नीलमिव जीमूतं तोयपूर्णं नभस्तलात् ।  
 उत्पपात गृहीत्वा तु हनूमान् शिखरं गिरेः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1528,12 +1629,15 @@ it up, so mighty as he was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समागम्य महावेगः सन्न्यस्य शिखरं गिरेः ।  
 विश्रम्य किञ्चिद्धनुमान् सुषेणमिदमब्रवीत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1567,12 +1671,15 @@ up into the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औषधीर्नावगच्छामि ता अहं हरिपुङ्गव ।  
 तदिदं शिखरं कृत्स्नं गिरेस्तस्याहृतं मया ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,12 +1716,15 @@ while, spoke the following words to Sushena:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कथयमानं तु प्रशस्य पवनात्मजम् ।  
 सुषेणो वानरश्रेष्ठो जग्राहोत्पाट्य चौषधीः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1654,12 +1764,15 @@ identify those herbs."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्मितास्तु बभूवुस्ते सर्वे वानरपुङ्गवाः ।  
 दृष्ट्वा तु हनुमत्कर्म सुरैरपि सुदुष्करम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1702,12 +1815,15 @@ monkeys, pulling out the herbs, took hold off them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सङ्क्षोदयित्वा तामोषधीं वानरोत्तमः ।  
 लक्ष्मणस्य ददौ नस्तः सुषेणः सुमहाद्युतिः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1747,12 +1863,15 @@ feat of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सशल्यः स समाघ्राय लक्ष्मणः परवीरहा ।  
 विशल्यो विरुजः शीघ्रमुदतिष्ठन्महीतलात् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1792,12 +1911,15 @@ splendour, administered it through Lakshmana's nose.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुत्थितं तु हरयो भूतलात् प्रेक्ष्य लक्ष्मणम् ।  
 साधुसाध्विति सुप्रीता लक्ष्मणं प्रत्यपूजयन् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1833,12 +1955,15 @@ his pain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एह्येहीत्यब्रवीद् रामो लक्ष्मणं परवीरहा ।  
 सस्वजे गाढमालिङ्गय बाष्पपर्याकुलेक्षणः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1881,12 +2006,15 @@ applauded Lakshmana, saying, "Excellent, excellent!".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च परिष्वज्य सौमित्रिं राघवस्तदा ।  
 दिष्ट्या त्वां वीर पश्यामि मरणात् पुनरागतम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1929,12 +2057,15 @@ firmly with affection, with his eyes clouded with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवितेनार्थः सीतया च जयेन वा ।  
 को हि मे जीवितेनार्थस्त्वयि पञ्चत्वमागते ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1971,12 +2102,15 @@ here, returned from death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं ब्रुवतस्तस्य राघवस्य महात्मनः ।  
 खिन्नः शिथिलया वाचा लक्ष्मणो वाक्यमब्रवीत् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2011,12 +2145,15 @@ have attained demise, tell me what significnace is there for it to me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां प्रतिज्ञां प्रतिज्ञाय पुरा सत्यपराक्रम ।  
 लघुः कश्चिदिवासत्त्वो नैवं त्वं वक्तुमर्हसि ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2056,6 +2193,7 @@ tone, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2064,6 +2202,8 @@ tone, spoke the following words:
 नैराश्यमुपगन्तुं च नालं ते मत्कृतेऽनघ ।  
 वधेन रावणस्याद्य प्रतिज्ञामनुपालय ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2125,12 +2265,15 @@ your promise, you ought not to speak as you have done like a weak and courageles
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न जीवन् यास्यते शत्रुस्तव बाणपथं गतः ।  
 नर्दतस्तीक्ष्णदंष्ट्रस्य सिंहस्येव महागजः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2171,12 +2314,15 @@ Fulfill your promise now, by killing Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु वधमच्छामि शीघ्रमस्य दुरात्मनः ।  
 यावदस्तं न यात्येष कृतकर्मा दिवाकरः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2214,6 +2360,7 @@ which gets into the path of a roaring lion possessing terrible tusks."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2222,6 +2369,8 @@ which gets into the path of a roaring lion possessing terrible tusks."
 यदि तव राजसुताभिलाष आर्य  
 कुरु च वचो मम शीघ्रमद्य वीर ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2287,5 +2436,6 @@ death?"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरऒन्दनॆय सर्ग पूर्णवायितु.॥101॥
+</details>
 </details>
 

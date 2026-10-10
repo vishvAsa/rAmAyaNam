@@ -2,6 +2,8 @@
 title = "०३८ रामेण दशरथप्रार्थना"
 title_english = "038 Dasaratha is enraged"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-038-_Ramena_Dashratha_Prathana.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "038 Dasaratha is enraged"
 
 38. राजा दशरथका सीताको वल्कल धारण कराना अनुचित बताकर कैकेयीको फटकारना और श्रीरामका उनसे कौसल्यापर कृपादृष्टि रखनेके लिये अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां चीरं वसानायां नाथवत्यामनाथवत् ।  
 प्रचुक्रोश जनः सर्वो धिक् त्वां दशरथं त्विति ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,6 +61,7 @@ by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -64,6 +70,8 @@ by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
 स निःश्वस्योष्णमैक्ष्वाकस्तां भार्यामिदमब्रवीत् ।  
 कैकेयि कुशचीरेण न सीता गन्तुमर्हति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ merit and esteem.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकुमारी च बाला च सततं च सुखोचिता ।  
 नेयं वनस्य योग्येति सत्यमाह गुरुर्मम ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +175,7 @@ comforts, is not fit for forest-life"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -172,6 +184,8 @@ comforts, is not fit for forest-life"
 या चीरमासाद्य जनस्य मध्ये  
 स्थिता विसञ्ज्ञा श्रमणीव काचित् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,6 +232,7 @@ men?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -226,6 +241,8 @@ men?"
 यथासुखं गच्छतु राजपुत्री  
 वनं समग्रा सह सर्वरत्नैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,6 +294,7 @@ all valuable possesssions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,6 +303,8 @@ all valuable possesssions."
 त्वया हि बाल्यात् **प्रतिपन्नम्** एतत्  
 तन् मा **दहेद्** वेणुम् इवात्म-पुष्पम् ॥ ७ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +397,15 @@ the bamboo dies after flowering. Like other grass, bamboo flowers are tiny and b
 ಬಿದಿರಿನ ಉನ್ನತಿ, ಋಜುತ್ವ, ಸಮೂಹಸಮೃದ್ಧಿಗಳೇ ಮುಂತಾದ ಗುಣಗಳನ್ನು ಪರಿಭಾವಿಸಿದಾಗ  
 ದಶರಥನ ವ್ಯಕ್ತಿತ್ವವೂ ಈ ಮೂಲಕ ಧ್ವನಿಸಿ ಹೋಲಿಕೆಯನ್ನು ಮತ್ತಷ್ಟು ರಸಮಯವಾಗಿಸದಿರದು.+++(5)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामेण यदि ते पापे किञ्चित्कृतमशोभनम् ।  
 अपकारः क इह ते वैदेह्या दर्शितोऽधमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,12 +440,15 @@ was displayed to you here by Seetha? Oh, mean woman!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगीवोत्फुल्लनयना मृदुशीला मनस्विनी ।  
 अपकारं कमिव ते करोति जनकात्मजा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,12 +488,15 @@ of a female deer, soft in disposition a practiser of penance?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु पर्याप्तमेवं ते पापे रामविवासनम् ।  
 किमेभिः कृपणैर्भूयः पातकैरपि ते कृतैः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -511,12 +540,15 @@ is there for you in further doing these wretched, sinful acts too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिज्ञातं मया तावत् त्वयोक्तं देवि शृण्वता ।  
 रामं यदभिषेकाय त्वमिहागतमब्रवीः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +589,15 @@ was acceded by me, Oh queen!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वेतत् समतिक्रम्य निरयं गन्तुमिच्छसि ।  
 मैथिलीमपि या हि त्वमीक्षसे चीरवासिनीम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +631,15 @@ Seetha also clad in bark of trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवन्तं पितरं रामः सम्प्रस्थितो वनम् ।  
 अवाक्शिरसमासीनमिदं वचनमब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -646,6 +684,7 @@ the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -654,6 +693,8 @@ the ground.
 मया विहीनां वरद प्रपन्नां शोकसागरम् ।  
 अदृष्टपूर्वव्यसनां भूयः सम्मन्तुमर्हसि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,12 +755,15 @@ speaking thus bowing down his head, sitting there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रशोकं यथा नर्च्छेत् त्वया पूज्येन पूजिता ।  
 मां हि सञ्चिन्तयन्ती सा त्वयि जीवेत् तपस्विनी ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,6 +804,7 @@ of me, who is immersed in an ocean of sorrow and who has not see such an afflict
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -768,6 +813,8 @@ of me, who is immersed in an ocean of sorrow and who has not see such an afflict
 यथा वनस्थे मयि शोककर्शिता  
 न जीवितं न्यस्य यमक्षयं व्रजेत् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,5 +867,6 @@ such a grief for her son, thinking of me alone and she will draw breath in you."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥38॥
+</details>
 </details>
 

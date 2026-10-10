@@ -2,6 +2,8 @@
 title = "०७१ कबन्धेन स्ववृत्तान्तकथनम्"
 title_english = "071 Kabandha requestes for incineration"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ occurs among these two, as each is distrustful of the other.
 
 71. कबन्धकी आत्मकथा, अपने शरीरका दाह हो जानेपर उसका श्रीरामको सीताके अन्वेषणमें सहायता देनेका आश्वासन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा राम महाबाहो महाबलपराक्रमम् ।  
 रूपमासीन्ममाचिन्त्यं त्रिषु लोकेषु विश्रुतम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ in all the three worlds... [3-71-1, 2a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,6 +85,8 @@ in all the three worlds... [3-71-1, 2a]
 सोऽहं रूपमिदं कृत्वा लोकवित्रासनं महत् ॥ २ ॥  
 ऋषीन् वनगतान् राम त्रासयामि ततस्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +127,7 @@ dreadful to the world, I was scaring the forest living sages, there and there...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +135,8 @@ dreadful to the world, I was scaring the forest living sages, there and there...
 स चिन्वन् विविधं वन्यं रूपेणानेन धर्षितः ।  
 तेनाहमुक्तः प्रेक्ष्यैवं घोरशापाभिधायिना ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,6 +197,7 @@ I scared him with this ugly form and I even exasperated him... [3-71-3b, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,6 +205,8 @@ I scared him with this ugly form and I even exasperated him... [3-71-3b, 4a]
 स मया याचितः क्रुद्धः शापस्यान्तो भवेदिति ॥ ५ ॥  
 अभिशापकृतस्येति तेनेदं भाषितं वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,6 +252,7 @@ me... [3-71-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,6 +260,8 @@ me... [3-71-5b, 6a]
 तदा त्वं प्राप्स्यसे रूपं स्वमेव विपुलं शुभम् ।  
 श्रिया विराजितं पुत्रं दनोस्त्वं विद्धि लक्ष्मण ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,6 +329,7 @@ regain your own grand and auspicious form...' So said the sage to me... [3-71-6b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -320,6 +338,8 @@ regain your own grand and auspicious form...' So said the sage to me... [3-71-6b
 दीर्घमायुः स मे प्रादात् ततो मां विभ्रमोऽस्पृशत् ।  
 दीर्घमायुर्मया प्राप्तं किं मां शक्रः करिष्यति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,6 +406,7 @@ kind of recalcitrance touched off in my mind... [3-71-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -393,6 +414,8 @@ kind of recalcitrance touched off in my mind... [3-71-8b, 9a]
 तस्य बाहुप्रमुक्तेन वज्रेण शतपर्वणा ॥ १० ॥  
 सक्थिनी च शिरश्चैव शरीरे सम्प्रवेशितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +459,15 @@ rammed by head and thighs into my body... [3-71-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मया याच्यमानः सन् नानयद् यमसादनम् ॥ ११ ॥  
 पितामहवचः सत्यं तदस्त्विति ममाब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +508,15 @@ true...' Thus Indra spared me to me... [3-71-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाहारः कथं शक्तो भग्नसक्थिशिरोमुखः ॥ १२ ॥  
 वज्रेणाभिहतः कालं सुदीर्घमपि जीवितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +558,15 @@ a time...' [3-71-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवमुक्तः शक्रो मे बाहू योजनमायतौ ॥ १३ ॥  
 तदा चास्यं च मे कुक्षौ तीक्ष्णदंष्ट्रमकल्पयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +607,15 @@ mouth in my paunch... [3-71-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं भुजाभ्यां दीर्घाभ्यां सङ्क्षिप्यास्मिन् वनेचरान् ॥ १४ ॥  
 सिंहद्वीपिमृगव्याघ्रान् भक्षयामि समन्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +659,15 @@ this forest, hauling them in with both of my overlong arms... [3-71-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु मामब्रवीदिन्द्रो यदा रामः सलक्ष्मणः ॥ १५ ॥  
 छेत्स्यते समरे बाहू तदा स्वर्गं गमिष्यसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +707,15 @@ then you can go to heaven...' Thus Indra said to me and vanished. [3-71-15b, 16a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन वपुषा तात वनेऽस्मिन् राजसत्तम ॥ १६ ॥  
 यद् यत् पश्यामि सर्वस्य ग्रहणं साधु रोचये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +754,15 @@ as I feel it meetly and a must for me... [3-71-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं ग्रहणं रामो मन्येऽहं समुपैष्यति ॥ १७ ॥  
 इमां बुद्धिं पुरस्कृत्य देहन्यासकृतश्रमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +804,15 @@ determination, presaged by sage Sthuulashira, as well... I have been toiling to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं रामोऽसि भद्रं ते नाहमन्येन राघव ॥ १८ ॥  
 शक्यो हन्तुं यथा तत्त्वमेवमुक्तं महर्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +854,15 @@ mangle me... [3-71-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि मतिसाचिव्यं करिष्यामि नरर्षभ ॥ १९ ॥  
 मित्रं चैवोपदेक्ष्यामि युवाभ्यां संस्कृतोऽग्निना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +904,15 @@ So said Kabandha to Rama. [3-71-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु धर्मात्मा दनुना तेन राघवः ॥ २० ॥  
 इदं जगाद वचनं लक्ष्मणस्य च पश्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +960,7 @@ mms, in wording, but not in its meaning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -914,6 +968,8 @@ mms, in wording, but not in its meaning.
 निष्क्रान्तस्य जनस्थानात् सह भ्रात्रा यथासुखम् ।  
 नाममात्रं तु जानामि न रूपं तस्य रक्षसः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -988,6 +1044,7 @@ Seetha; *raavaNena yathaa sukham hR^itaa* = by Ravana, as per, convenience [conv
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -995,6 +1052,8 @@ Seetha; *raavaNena yathaa sukham hR^itaa* = by Ravana, as per, convenience [conv
 शोकार्तानामनाथानामेवं विपरिधावताम् ॥ २३ ॥  
 कारुण्यं सदृशं कर्तुमुपकारेण वर्तताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,12 +1099,15 @@ like unsheltered ones, and we who will be compliant for your restitution... [3-7
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काष्ठान्यानीय भग्नानि काले शुष्काणि कुञ्जरैः ॥ २४ ॥  
 धक्ष्यामस्त्वां वयं वीर श्वभ्रे महति कल्पिते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,12 +1148,15 @@ a large trench, we will incinerate you in it... [3-71-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं सीतां समाचक्ष्व येन वा यत्र वा हृता ॥ २५ ॥  
 कुरु कल्याणमत्यर्थं यदि जानासि तत्त्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1136,12 +1201,15 @@ Thus Rama made clear of his case. [3-71-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण वाक्यं दनुरनुत्तमम् ॥ २६ ॥  
 प्रोवाच कुशलो वक्ता वक्तारमपि राघवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,6 +1251,7 @@ with expedient words. [3-71-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1190,6 +1259,8 @@ with expedient words. [3-71-26b, 27a]
 यस्तां वक्ष्यति तं वक्ष्ये दग्धः स्वं रूपमास्थितः ।  
 योऽभिजानाति तद्रक्षस्तद् वक्ष्ये राम तत्परम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1229,12 +1300,15 @@ I assume my own original divine form, and then I will be able tell about him, wh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदग्धस्य हि विज्ञातुं शक्तिरस्ति न मे प्रभो ।  
 राक्षसं तु महावीर्यं सीता येन हृता तव ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1274,12 +1348,15 @@ is stolen, only after that incineration... [3-71-28b, 29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानं हि महद् भ्रष्टं शापदोषेण राघव ।  
 स्वकृतेन मया प्राप्तं रूपं लोकविगर्हितम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,12 +1393,15 @@ is despicable to world has bechanced only because of my own antics... [3-71-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तु यावन्न यात्यस्तं सविता श्रान्तवाहनः ।  
 तावन्मामवटे क्षिप्त्वा दह राम यथाविधि ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1445,15 @@ incineration, as a vehicular messenger for Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दग्धस्त्वयाहमवटे न्यायेन रघुनन्दन ।  
 वक्ष्यामि तं महावीर यस्तं वेत्स्यति राक्षसम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1407,12 +1490,15 @@ Rama, for sure, I will tell of him, who can quiet fathom that demon... [3-71-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन सख्यं च कर्तव्यं न्याय्यवृत्तेन राघव ।  
 कल्पयिष्यति ते वीर साहाय्यं लघुविक्रम ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,12 +1532,15 @@ one will be gladdened by the sequel of your friendship, and he will evolve a suc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तस्यास्त्यविज्ञातं त्रिषु लोकेषु राघव ।  
 सर्वान् परिवृतो लोकान् पुरा वै कारणान्तरे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1504,5 +1593,6 @@ to burn him down, perforce.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥71॥
+</details>
 </details>
 

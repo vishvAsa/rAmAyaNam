@@ -2,6 +2,8 @@
 title = "०१३ रावण-महापार्श्वसंवादः"
 title_english = "013 Mahaparsva s advise to Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ past. Ravana then boasts of his own prowess.
 
 13. महापार्श्वका रावणको सीतापर बलात्कारके लिये उकसाना और रावणका शापके कारण अपनेको ऐसा करनेमें असमर्थ बताना तथा अपने पराक्रमके गीत गाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं क्रुद्धमाज्ञाय महापार्श्वो महाबलः ।  
 मुहूर्तमनुसञ्चिन्त्य प्राञ्जलिर्वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ and with joined palms, spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः खल्वपि वनं प्राप्य मृगव्यालनिषेवितम् ।  
 न पिबेन्मधु सम्प्राप्य स नरो बालिशो भवेत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ vicious elephants and having duly found honey, does not drink it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरस्येश्वरः कोऽस्ति तव शत्रुनिबर्हण ।  
 रमस्व सह वैदेह्या शत्रूनाक्रम्य मूर्धसु ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,12 +159,15 @@ foot upon the heads of your enemies, take pleasure with Sita."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलात् कुक्कुटवृत्तेन प्रवर्तस्व महाबल ।  
 आक्रम्याक्रम्य सीतां वै तां भुङ्क्ष्व च रमस्व च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,12 +210,15 @@ her. Enjoy that Sita, by charging on her again and again and revel with her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लब्धकामस्य ते पश्चादागमिष्यति किं भयम् ।  
 प्राप्तमप्राप्तकालं वा सर्वं प्रतिविधास्यसे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,12 +258,15 @@ to come will be prevented (by us)."
 
 निम्म मनोरथवु सफलवादाग मत्तॆ निम्म मेलॆ याव भय बन्दितु? वर्तमान हागू भविष्यदल्लि यावुदादरू भयबन्दरू आ ऎल्ल भयद यथोचित प्रतीकार माडलागुवुदु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णः सहास्माभिरिन्द्रजिच्च महाबलः ।  
 प्रतिषेधयितुं शक्तौ सवज्रमपि वज्रिणम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +300,15 @@ even Devendra (god of celestials), wielding the weapon of a thunderbolt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपप्रदानं सान्त्वं वा भेदं वा कुशलैः कृतम् ।  
 समतिक्रम्य दण्डेन सिद्धिमर्थेषु रोचये ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +347,15 @@ means."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह प्राप्तान् वयं सर्वाञ्छत्रूंस्तव महाबल ।  
 वशे शस्त्रप्रतापेन करिष्यामो न संशयः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +393,15 @@ surrender, by the power of our weapons. There is no doubt about it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तदा राजा महापार्श्वेन रावणः ।  
 तस्य सम्पूजयन् वाक्यमिदं वचनमब्रवीत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +441,15 @@ words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महापार्श्व निबोध त्वं रहस्यं किञ्चिदात्मनः ।  
 चिरवृत्तं तदाख्यास्ये यदवाप्तं पुरा मया ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ occurred to me long ago."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहस्य भवनं गच्छन्तीं पुञ्जिकस्थलाम् ।  
 चञ्चूर्यमाणामद्राक्षमाकाशेऽग्निशिखामिव ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +532,15 @@ concealing herself in the sky and proceeding towards the abode of Brahma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्रसह्य मया भुक्ता कृता विवसना ततः ।  
 स्वयम्भूभवनं प्राप्ता लोलिता नलिनी यथा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,12 +574,15 @@ crumpled lotus, she went to the abode of Brahma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च तस्य तथा मन्ये ज्ञातमासीन्महात्मनः ।  
 अथ सङ्कुपितो वेधा मामिदं वाक्यमब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +626,15 @@ enraged Brahma spoke to me the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यप्रभृति यामन्यां बलान्नारीं गमिष्यसि ।  
 तदा ते शतधा मूर्धा फलिष्यति न संशयः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +675,15 @@ undoubtedly will break asunder into a hundred pieces."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यहं तस्य शापस्य भीतः प्रसभमेव ताम् ।  
 नारोहये बलात् सीतां वैदेहीं शयने शुभे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +723,15 @@ the daughter of Videha, to mount on my beautiful bed forcibly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरस्येव मे वेगो मारुतस्येव मे गतिः ।  
 नैतद् दाशरथिर्वेद ह्यासादयति तेन माम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +772,15 @@ does not know this and hence he is indeed having an encounter with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को हि सिंहमिवासीनं सुप्तं गिरिगुहाशये ।  
 क्रुद्धं मृत्युमिवासीनं प्रबोधयितुमिच्छति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +820,15 @@ asleep, sitting at a place in a mountain cave or arouse into activity an enraged
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मत्तो निर्गतान् बाणान् द्विजिह्वान् पन्नगानिव ।  
 रामः पश्यति सङ्ग्रामे तेन मामभिगच्छति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +869,15 @@ me. That is why he is marching against me for a battle"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं वज्रसमैर्बाणैः शतधा कार्मुकच्युतैः ।  
 राममादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +920,15 @@ discharged from my bow, like tormenting an elephant with fire brands."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चास्य बलमादास्ये बलेन महता वृतः ।  
 उदितः सविता काले नक्षत्राणां प्रभामिव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,6 +962,7 @@ at dawn takes away radiance of the stars."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -908,6 +971,8 @@ at dawn takes away radiance of the stars."
 मया त्वियं बाहुबलेन निर्जिता  
 पुरा पुरी वैश्रवणेन पालिता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,5 +1021,6 @@ of riches) was conquered by me with the power of my arms."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिमूरनॆय सर्ग पूर्णवायितु.॥13॥
+</details>
 </details>
 

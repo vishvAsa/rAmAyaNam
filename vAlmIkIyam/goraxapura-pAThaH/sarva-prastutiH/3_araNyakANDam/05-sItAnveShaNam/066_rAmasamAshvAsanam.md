@@ -2,6 +2,8 @@
 title = "०६६ रामसमाश्वासनम्"
 title_english = "066 Lakshmana s advisory words to Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,6 +24,7 @@ Bhagavad Gita, as its terse version.
 
 66. लक्ष्मणका श्रीरामको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ Bhagavad Gita, as its terse version.
 ततः सौमित्रिराश्वस्य मुहूर्तादिव लक्ष्मणः ।  
 रामं सम्बोधयामास चरणौ चाभिपीडयन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -82,12 +87,15 @@ Sumitra, suppliantly gripped his feet and started to address him. [4-66-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महता तपसा चापि महता चापि कर्मणा ।  
 राज्ञा दशरथेनासील्लब्धोऽमृतमिवामरैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +150,15 @@ on...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव चैव गुणैर्बद्धस्त्वद्वियोगान्महीपतिः ।  
 राजा देवत्वमापन्नो भरतस्य यथा श्रुतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +208,15 @@ that of demons, what will he say of you...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि दुःखमिदं प्राप्तं काकुत्स्थ न सहिष्यसे ।  
 प्राकृतश्चाल्पसत्त्वश्च इतरः कः सहिष्यति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +265,15 @@ situation...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्वसिहि नरश्रेष्ठ प्राणिनः कस्य नापदः ।  
 संस्पृशन्त्यग्निवद् राजन् क्षणेन व्यपयान्ति च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +326,15 @@ mutable...' but think yourself, what to do next, in a human way...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखितो हि भवाल्ँ लोकांस्तेजसा यदि धक्ष्यते ।  
 आर्ताः प्रजा नरव्याघ्र क्व नु यास्यन्ति निर्वृतिम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +386,15 @@ inmates of worlds...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकस्वभाव एवैष ययातिर्नहुषात्मजः ।  
 गतः शक्रेण सालोक्यमनयस्तं समस्पृशत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -427,12 +450,15 @@ order...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महर्षिर्यो वसिष्ठस्तु यः पितुर्नः पुरोहितः ।  
 अह्ना पुत्रशतं जज्ञे तथैवास्य पुनर्हतम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,12 +507,15 @@ undertaking humanly effort... is this befitting...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या चेयं जगतो माता सर्वलोकनमस्कृता ।  
 अस्याश्च चलनं भूमेर्दृश्यते कोसलेश्वर ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +569,15 @@ it, lest it boomerangs...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यौ धर्मौ जगतो नेत्रौ यत्र सर्वं प्रतिष्ठितम् ।  
 आदित्यचन्द्रौ ग्रहणमभ्युपेतौ महाबलौ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,12 +632,15 @@ eclipses you, temporarily...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमहान्त्यपि भूतानि देवाश्च पुरुषर्षभ ।  
 न दैवस्य प्रमुञ्चन्ति सर्वभूतानि देहिनः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +690,15 @@ Absolute...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्रादिष्वपि देवेषु वर्तमानौ नयानयौ ।  
 श्रूयेते नरशार्दूल न त्वं शोचितुमर्हसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +745,15 @@ psalm in The Bible: 'Fret not thyself because of the ungodly...' Psalm 37, v 1.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृतायामपि वैदेह्यां नष्टायामपि राघव ।  
 शोचितुं नार्हसे वीर यथान्यः प्राकृतस्तथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +793,15 @@ like this as with any other commoner without tracking her whereabouts... [4-66-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वद्विधा नहि शोचन्ति सततं सर्वदर्शनाः ।  
 सुमहत्स्वपि कृच्छ्रेषु रामानिर्विण्णदर्शनाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +846,15 @@ like this... [4-66-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वतो हि नरश्रेष्ठ बुद्ध्या समनुचिन्तय ।  
 बुद्ध्या युक्ता महाप्राज्ञा विजानन्ति शुभाशुभे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +896,15 @@ brainily, and great brains will comprehend good and bad in subtlety with their b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टगुणदोषाणामध्रुवाणां तु कर्मणाम् ।  
 नान्तरेण क्रियां तेषां फलमिष्टं च वर्तते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -937,12 +987,15 @@ Bhagavad Gita.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मामेवं हि पुरा वीर त्वमेव बहुशोक्तवान् ।  
 अनुशिष्याद्धि को नु त्वामपि साक्षाद् बृहस्पतिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,12 +1039,15 @@ repeatedly, who really can profess you even he were to be professedly the Jupite
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धिश्च ते महाप्राज्ञ देवैरपि दुरन्वया ।  
 शोकेनाभिप्रसुप्तं ते ज्ञानं सम्बोधयाम्यहम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,12 +1091,15 @@ addressing your percipience and this is no schoolteaching... [4-66-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यं च मानुषं चैवमात्मनश्च पराक्रमम् ।  
 इक्ष्वाकुवृषभावेक्ष्य यतस्व द्विषतां वधे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,12 +1158,15 @@ the abuser...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ते सर्वविनाशेन कृतेन पुरुषर्षभ ।  
 तमेव तु रिपुं पापं विज्ञायोद्धर्तुमर्हसि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,5 +1218,6 @@ and it will be apt of you to uproot him... him alone... [4-66-21]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥66॥
+</details>
 </details>
 

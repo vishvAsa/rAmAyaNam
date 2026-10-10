@@ -2,6 +2,8 @@
 title = "०३५ मारीचं प्रति पुनः रावणागमनम्"
 title_english = "035 Ravana proceeds to Mareecha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ of Maareecha.
 
 35. रावणका समुद्रतटवर्ती प्रान्तकी शोभा देखते हुए पुनः मारीचके पास जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखावाक्यं तच्छ्रुत्वा रोमहर्षणम् ।  
 सचिवानभ्यनुज्ञाय कार्यं बुद्‍ध्वा जगाम ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ his further task he proceeded to his personal palace chambers. [3-35-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ his further task he proceeded to his personal palace chambers. [3-35-1]
 इति कर्तव्यमित्येव कृत्वा निश्चयमात्मनः ।  
 स्थिरबुद्धिस्ततो रम्यां यानशालां जगाम ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ to his excellent vehicle-garage. [3-35-2, 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानशालां ततो गत्वा प्रच्छन्नं राक्षसाधिपः ।  
 सूतं सञ्चोदयामास रथः संयुज्यतामिति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +219,15 @@ not remain a secret, soon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः क्षणेनैव सारथिर्लघुविक्रमः ।  
 रथं संयोजयामास तस्याभिमतमुत्तमम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +267,15 @@ chariot of Ravana with horses and got it ready. [3-35-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामगं रथमास्थाय काञ्चनं रत्नभूषितम् ।  
 पिशाचवदनैर्युक्तं खरैः कनकभूषणैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +292,15 @@ chariot of Ravana with horses and got it ready. [3-35-5]
 
 आ सुवर्णमय रथवु इच्छानुसार सञ्चरिसुवुदागित्तु. अदन्नु रत्नगळिन्द अलङ्करिसलागित्तु. अदक्कॆ चिन्नद ऒडवॆगळिन्द अलङ्कृतवाद पिशाचिगळन्तॆ मुखवुळ्ळ कत्तॆगळन्नु हूडलागित्तु. रावणनु आ रथारूढनागि हॊरटनु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघप्रतिमनादेन स तेन धनदानुजः ।  
 राक्षसाधिपतिः श्रीमान् ययौ नदनदीपतिम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,6 +341,7 @@ of Kubera and the lord of demons, travelled towards the lord of rivers and rivul
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +350,8 @@ of Kubera and the lord of demons, travelled towards the lord of rivers and rivul
 दशग्रीवो विंशतिभुजो दर्शनीयपरिच्छदः ।  
 त्रिदशारिर्मुनीन्द्रघ्नो दशशीर्ष इवाद्रिराट् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,12 +375,15 @@ _________________
 
 आग अवनिगॆ बिळिय चामर बीसुत्तिद्दरु. तलॆय मेलॆ श्वेतच्छत्रवित्तु. अवन अङ्गकान्तियु स्निग्ध वैडूर्यमणियन्तॆ नीलि अथवा कप्पागित्तु. अवनु पुटक्किट्ट चिन्नद आभूषणगळिन्द अलङ्कृतनागिद्दनु. अवनिगॆ हत्तु तलॆ, इप्पत्तु तोळुगळिद्दवु. अवन वस्त्राभूणादिगळु इतर उपकरणगळू नोडलु योग्यवागिद्दवु. देवतॆगळ शत्रु मत्तु मुनीश्वरर हत्यॆमाडुववनू आद निशाचरनु हत्तु शिखरवुळ्ळ पर्वतदन्तॆ कण्डुबरुत्तिद्दनु.॥8-9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामगं रथमास्थाय शुशुभे राक्षसाधिपः ।  
 विद्युन्मण्डलवान् मेघः सबलाक इवाम्बरे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,6 +434,7 @@ and the decorated chariot with the flight of cranes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -416,6 +443,8 @@ and the decorated chariot with the flight of cranes.
 शीतमङ्गलतोयाभिः पद्मिनीभिः समन्ततः ।  
 विशालैराश्रमपदैर्वेदिमद्भिरलङ्कृतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +509,15 @@ with thousands of mountains and which is with variously flowered and fruited tre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदल्यटविसंशोभं नारिकेलोपशोभितम् ।  
 सालैस्तालैस्तमालैश्च तरुभिश्च सुपुष्पितैः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -527,12 +559,15 @@ and tamaala trees are also in full blossom. [3-35-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यन्तनियताहारैः शोभितं परमर्षिभिः ।  
 नागैः सुपर्णैर्गन्धर्वैः किन्नरैश्च सहस्रशः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +587,15 @@ _________________
 
 नियमित आहार सेविसुव दॊड्ड-दॊड्ड महर्षिगळिन्द, नागगळिन्द सुपर्ण (गरुड)गळिन्द, गन्धर्वरिन्द साविरारु किन्नररिन्द आ स्थानवु बहळ शोभिसुत्तित्तु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जितकामैश्च सिद्धैश्च चारणैश्चोपशोभितम् ।  
 आजैर्वैखानसैर्माषैर्वालखिल्यैर्मरीचिपैः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,6 +640,7 @@ of sages meet Rama requesting protection from demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -610,6 +649,8 @@ of sages meet Rama requesting protection from demons.
 सेवितं देवपत्नीभिः श्रीमतीभिरुपासितम् ।  
 देवदानवसङ्घैश्च चरितं त्वमृताशिभिः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +718,15 @@ ornaments and garlands, and who are also the experts in the methodical sex-games
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंसक्रौञ्चप्लवाकीर्णं सारसैः सम्प्रसादितम् ।  
 वैदूर्यप्रस्तरं स्निग्धं सान्द्रं सागरतेजसा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,6 +774,7 @@ and sludgy. [3-35-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -738,6 +783,8 @@ and sludgy. [3-35-18]
 तपसा जितलोकानां कामगान्यभिसम्पतन् ।  
 गन्धर्वाप्सरसश्चैव ददर्श धनदानुजः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +835,15 @@ is resonating, and gandharva-s are singing and apsara-s are dancing in them. [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्यासरसमूलानां चन्दनानां सहस्रशः ।  
 वनानि पश्यन् सौम्यानि घ्राणतृप्तिकराणि च ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,6 +877,7 @@ satisfying the sense of smell, and that oozed sweet-smelling resin at their base
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -840,6 +891,8 @@ satisfying the sense of smell, and that oozed sweet-smelling resin at their base
 धनधान्योपपन्नानि स्त्रीरत्नैरावृतानि च ॥ २५ ॥  
 हस्त्यश्वरथगाढानि नगराणि विलोकयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -943,12 +996,15 @@ trees, and the nutmeg trees that are with fruits and aromatic, as well. [3-35-22
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समं सर्वतः स्निग्धं मृदुसंस्पर्शमारुतम् ॥ २६ ॥  
 अनूपे सिन्धुराजस्य ददर्श त्रिदिवोपमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,12 +1052,15 @@ coasts along with gods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रापश्यत् स मेघाभं न्यग्रोधं मुनिभिर्वृतम् ॥ २७ ॥  
 समन्ताद् यस्य ताः शाखाः शतयोजनमायताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1104,15 @@ ascesis. [3-35-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य हस्तिनमादाय महाकायं च कच्छपम् ॥ २८ ॥  
 भक्षार्थं गरुडः शाखामाजगाम महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,12 +1164,15 @@ branch.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तां सहसा शाखां भारेण पतगोत्तमः ॥ २९ ॥  
 सुपर्णः पर्णबहुलां बभञ्जाथ महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1148,12 +1213,15 @@ is full with leaves, owing to the impact of his high impetuosity. [3-35-29b, 30a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र वैखानसा माषा वालखिल्या मरीचिपाः ॥ ३० ॥  
 आजा बभूवुर्धूम्राश्च सङ्गताः परमर्षयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1194,6 +1262,7 @@ collectively practising asceticism upside down while clasping branches with thei
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1203,6 +1272,8 @@ collectively practising asceticism upside down while clasping branches with thei
 निषादविषयं हत्वा शाखया पतगोत्तमः ।  
 प्रहर्षमतुलं लेभे मोक्षयित्वा महामुनीन् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1361,15 @@ and tortoise with both of his claws. [3-35-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहर्षेण द्विगुणीकृतविक्रमः ।  
 अमृतानयनार्थं वै चकार मतिमान् मतिम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1336,12 +1410,15 @@ bring ambrosia from heaven. [3-35-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोजालानि निर्मथ्य भित्त्वा रत्नगृहं वरम् ।  
 महेन्द्रभवनाद् गुप्तमाजहारामृतं ततः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1381,12 +1458,15 @@ which the ambrosia is safeguarded, then Garuda carried off ambrosia from the pal
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं महर्षिगणैर्जुष्टं सुपर्णकृतलक्षणम् ।  
 नाम्ना सुभद्रं न्यग्रोधं ददर्श धनदानुजः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1426,12 +1506,15 @@ of great sages, and which betokens the deeds of that best-winged Garuda. [3-35-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु गत्वा परं पारं समुद्रस्य नदीपतेः ।  
 ददर्शाश्रममेकान्ते पुण्ये रम्ये वनान्तरे ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1471,12 +1554,15 @@ sacred and scenic interior of the forest. [3-35-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र कृष्णाजिनधरं जटामण्डलधारिणम् ।  
 ददर्श नियताहारं मारीचं नाम राक्षसम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1519,12 +1605,15 @@ of hairs, and the one with regulated diet. [3-35-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रावणः समागम्य विधिवत् तेन रक्षसा ।  
 मारीचेनार्चितो राजा सर्वकामैरमानुषैः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1564,12 +1653,15 @@ that are beyond the scope of humans. [3-35-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं स्वयं पूजयित्वा च भोजनेनोदकेन च ।  
 अर्थोपहितया वाचा मारीचो वाक्यमब्रवीत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,12 +1701,15 @@ to Ravana which is connotative of significance. [3-35-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित्ते कुशलं राजन् लङ्कायां राक्षसेश्वर ।  
 केनार्थेन पुनस्त्वं वै तूर्णमेव इहागतः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1684,12 +1779,15 @@ kur¨n paþyan paþyan caiva nagottam˜n | deva d˜nava sanghai× ca sevitam hi 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महातेजा मारीचेन स रावणः ।  
 ततः पश्चादिदं वाक्यमब्रवीद् वाक्यकोविदः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1739,5 +1837,6 @@ sentence to Maareecha. [3-35-42]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥35॥
+</details>
 </details>
 

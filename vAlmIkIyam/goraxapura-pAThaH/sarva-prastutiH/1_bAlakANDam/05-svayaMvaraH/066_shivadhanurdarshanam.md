@@ -2,6 +2,8 @@
 title = "०६६ शिवधनुर्दर्शनम्"
 title_english = "066 Legend of shiva s bow"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -27,6 +29,7 @@ endnote.
 
 66. राजा जनकका विश्वामित्र और राम-लक्ष्मणका सत्कार करके उन्हें अपने यहाँ रखे हुए धनुषका परिचय देना और धनुष चढ़ा देनेपर श्रीरामके साथ उनके ब्याहका निश्चय प्रकट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ endnote.
 तमर्चयित्वा धर्मात्मा शास्त्रदृष्टेन कर्मणा ।  
 राघवौ च महात्मानौ तदा वाक्यमुवाच ह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -53,12 +58,15 @@ endnote.
 
 मरुदिन विमल प्रभातकाल उदयिसिदाग धर्मात्मा जनकनु तन्न नित्यकर्मवन्नु पूरैसि श्रीराम-लक्ष्मण सहित विश्वामित्ररन्नु करॆसि, शास्त्रक्कनुसार मुनियन्नु हागू महात्मराद इब्बरू राजकुमाररन्नु पूजिसि ई प्रकार हेळिदनु.॥1-2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् स्वागतं तेऽस्तु किं करोमि तवानघ ।  
 भवानाज्ञापयतु मामाज्ञाप्यो भवता ह्यहम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,12 +103,15 @@ I am biddable by you, indeed... [1-66-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स धर्मात्मा जनकेन महात्मना ।  
 प्रत्युवाच मुनिश्रेष्ठो वाक्यं वाक्यविशारदः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +153,15 @@ done next,] said these words in reply to that valiant king Janaka. [1-66-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रौ दशरथस्येमौ क्षत्रियौ लोकविश्रुतौ ।  
 द्रष्टुकामौ धनुःश्रेष्ठं यदेतत्त्वयि तिष्ठति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,12 +198,15 @@ are desirous to see that marvellous bow which has a place with you... [1-66-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् दर्शय भद्रं ते कृतकामौ नृपात्मजौ ।  
 दर्शनादस्य धनुषो यथेष्टं प्रतियास्यतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -223,12 +240,15 @@ these two princes will come true, and they will go back as they like... [1-66-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु जनकः प्रत्युवाच महामुनिम् ।  
 श्रूयतामस्य धनुषो यदर्थमिह तिष्ठति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +282,15 @@ But Janaka replied the great sage Vishvamitra when he was addressed thus, "I sha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवरात इति ख्यातो निमेर्ज्येष्ठो महीपतिः ।  
 न्यासोऽयं तस्य भगवन् हस्ते दत्तो महात्मनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,6 +342,7 @@ the sixth one from Nimi, the originator of Janaka's lineage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,6 +351,8 @@ the sixth one from Nimi, the originator of Janaka's lineage.
 यस्माद् भागार्थिनो भागं नाकल्पयत मे सुराः ।  
 वराङ्गानि महार्हाणि धनुषा शातयामि वः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +422,15 @@ gods, superciliously... [1-66-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विमनसः सर्वे देवा वै मुनिपुङ्गव ।  
 प्रसादयन्त देवेशं तेषां प्रीतोऽभवद् भवः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,6 +473,7 @@ Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -451,6 +481,8 @@ Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
 तदेतद् देवदेवस्य धनूरत्नं महात्मनः ॥ १२ ॥  
 न्यासभूतं तदा न्यस्तमस्माकं पूर्वजे विभौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,6 +527,7 @@ the God of Gods, to our ancestor [Devaraata,] for custodial care... [1-66-12, 13
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -502,6 +535,8 @@ the God of Gods, to our ancestor [Devaraata,] for custodial care... [1-66-12, 13
 क्षेत्रं शोधयता लब्धा नाम्ना सीतेति विश्रुता ।  
 भूतलादुत्थिता सा तु व्यवर्धत ममात्मजा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,6 +614,7 @@ she is named as Seetha, and thus she is renowned... [1-66-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -586,6 +622,8 @@ she is named as Seetha, and thus she is renowned... [1-66-13b, 14a]
 भूतलादुत्थितां तां तु वर्धमानां ममात्मजाम् ॥ १५ ॥  
 वरयामासुरागत्य राजानो मुनिपुङ्गव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,12 +667,15 @@ is boldness alone,] have come and besought for her... [1-66-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां वरयतां कन्यां सर्वेषां पृथिवीक्षिताम् ॥ १६ ॥  
 वीर्यशुल्केति भगवन् न ददामि सुतामहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +709,15 @@ saying that she will be given for a bounty of boldness... [1-6-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वे नृपतयः समेत्य मुनिपुङ्गव ॥ १७ ॥  
 मिथिलामप्युपागम्य वीर्यं जिज्ञासवस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +759,15 @@ the calibre [of the bow, vis-a-vis their own...] [1-66-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां जिज्ञासमानानां शैवं धनुरुपाहृतम् ॥ १८ ॥  
 न शेकुर्ग्रहणे तस्य धनुषस्तोलनेऽपि वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,12 +819,15 @@ So says the tradition.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां वीर्यवतां वीर्यमल्पं ज्ञात्वा महामुने ॥ १९ ॥  
 प्रत्याख्याता नृपतयस्तन्निबोध तपोधन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +866,15 @@ it...] [1-66-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमकोपेन राजानो मुनिपुङ्गव ॥ २० ॥  
 अरुन्धन् मिथिलां सर्वे वीर्यसन्देहमागताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +908,15 @@ a self-mistrust bechanced among them all, about their own valour... [1-66-20b, 2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानमवधूतं मे विज्ञाय नृपपुङ्गवाः ॥ २१ ॥  
 रोषेण महताविष्टाः पीडयन् मिथिलां पुरीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +995,15 @@ invited great souled Vishvamitra, along with Raghava-s. [1-66-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः संवत्सरे पूर्णे क्षयं यातानि सर्वशः ॥ २२ ॥  
 साधनानि मुनिश्रेष्ठ ततोऽहं भृशदुःखितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1040,15 @@ a decline, oh, eminent sage, thereby I am highly anguished [1-66-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवगणान् सर्वांस्तपसाहं प्रसादयम् ॥ २३ ॥  
 ददुश्च परमप्रीताश्चतुरङ्गबलं सुराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1025,12 +1087,15 @@ and chariot-warriors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भग्ना नृपतयो हन्यमाना दिशो ययुः ॥ २४ ॥  
 अवीर्या वीर्यसन्दिग्धाः सामात्याः पापकारिणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1131,15 @@ army, they have become] vigourless and broken, and they beat a hasty retreat...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतन्मुनिशार्दूल धनुः परमभास्वरम् ॥ २५ ॥  
 रामलक्ष्मणयोश्चापि दर्शयिष्यामि सुव्रत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,12 +1183,15 @@ of Rama's capability or otherwise. Hence, the next verse starts with the clause
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यस्य धनुषो रामः कुर्यादारोपणं मुने ।  
 सुतामयोनिजां सीतां दद्यां दाशरथेरहम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1166,5 +1237,6 @@ whose birth is non-uterine, to Dasharatha's Rama..." [So said Janaka to Vishvami
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तारनॆय सर्ग पूर्णवायितु.॥66॥
+</details>
 </details>
 

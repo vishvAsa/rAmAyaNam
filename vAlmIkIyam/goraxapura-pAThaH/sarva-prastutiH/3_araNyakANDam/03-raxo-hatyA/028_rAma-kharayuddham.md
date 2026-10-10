@@ -2,6 +2,8 @@
 title = "०२८ राम-खरयुद्धम्"
 title_english = "028 Khara s war with Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The
@@ -22,12 +24,15 @@ arrows. The combat of Rama and Khara takes a longer time, as Khara is not easy-t
 
 28. खरके साथ श्रीरामका घोर युद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहतं दूषणं दृष्ट्वा रणे त्रिशिरसा सह ।  
 खरस्याप्यभवत् त्रासो दृष्ट्वा रामस्य विक्रमम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,6 +71,7 @@ of Rama is concerned. [4-28-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -74,6 +80,8 @@ of Rama is concerned. [4-28-1]
 तद‍्बलं हतभूयिष्ठं विमनाः प्रेक्ष्य राक्षसः ।  
 आससाद खरो रामं नमुचिर्वासवं यथा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,12 +136,15 @@ Khara became apprehensive, and then he lunged at Rama, as with demon Namuchi who
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकृष्य बलवच्चापं नाराचान् रक्तभोजनान् ।  
 खरश्चिक्षेप रामाय क्रुद्धानाशीविषानिव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,12 +162,15 @@ Khara became apprehensive, and then he lunged at Rama, as with demon Namuchi who
 
 खरने एक प्रबल धनुषको खींचकर श्रीरामके प्रति बहुत-से नाराच चलाये, जो रक्त पीनेवाले थे । वे समस्त नाराच रोषमें भरे हुए विषधर सर्पोंके समान प्रतीत होते थे ॥ ४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यां विधुन्वन् सुबहुशः शिक्षयास्त्राणि दर्शयन् ।  
 चचार समरे मार्गान् शरै रथगतः खरः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +231,15 @@ ingesting only blood, Khara discharged them on Rama. [4-28-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सर्वाश्च दिशो बाणैः प्रदिशश्च महारथः ।  
 पूरयामास तं दृष्ट्वा रामोऽपि सुमहद् धनुः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,12 +256,15 @@ ingesting only blood, Khara discharged them on Rama. [4-28-4]
 
 आ महारथि वीरनु तन्न बाणगळिन्द ऎल्ल दिक्कुगळन्नु मुच्चिबिट्टनु. इदन्नु नोडिद श्रीरामनु तन्न विशाल धनुस्सन्नॆत्तिकॊण्डु समस्त दिक्कुगळन्नु तन्न बाणगळिन्द आवरिसिबिट्टनु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सायकैर्दुर्विषहैर्विस्फुलिङ्गैरिवाग्निभिः ।  
 नभश्चकाराविवरं पर्जन्य इव वृष्टिभिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +304,15 @@ with Rain-god chocking the sky with torrents, less of latitude. [4-28-6, 7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् बभूव शितैर्बाणैः खररामविसर्जितैः ।  
 पर्याकाशमनाकाशं सर्वतः शरसङ्कुलम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +352,15 @@ by Rama and Khara from everywhere. [4-28-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरजालावृतः सूर्यो न तदा स्म प्रकाशते ।  
 अन्योन्यवधसंरम्भादुभयोः सम्प्रयुध्यतोः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +400,15 @@ of arrows has not shined. [4-28-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नालीकनाराचैस्तीक्ष्णाग्रैश्च विकर्णिभिः ।  
 आजघान रणे रामं तोत्रैरिव महाद्विपम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +451,15 @@ as a great elephant will be swatted with a goad. [4-28-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रथस्थं धनुष्पाणिं राक्षसं पर्यवस्थितम् ।  
 ददृशुः सर्वभूतानि पाशहस्तमिवान्तकम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +499,15 @@ demon appeared to all beings as the Terminator handling his noose. [4-28-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्तारं सर्वसैन्यस्य पौरुषे पर्यवस्थितम् ।  
 परिश्रान्तं महासत्त्वं मेने रामं खरस्तदा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -512,12 +547,15 @@ of boldness in eliminating all of the demonic forces, all the while. [4-28-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं सिंहमिव विक्रान्तं सिंहविक्रान्तगामिनम् ।  
 दृष्ट्वा नोद्विजते रामः सिंहः क्षुद्रमृगं यथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +602,15 @@ mR^iga* 'petty animal...' is not found aesthetic by some scholars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सूर्यनिकाशेन रथेन महता खरः ।  
 आससादाथ तं रामं पतङ्ग इव पावकम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +648,15 @@ In a chariot that equals the sun in its radiance then Khara reached Rama as a mo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽस्य सशरं चापं मुष्टिदेशे महात्मनः ।  
 खरश्चिच्छेद रामस्य दर्शयन् हस्तलाघवम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ an arrow fitted on it. [4-28-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुनस्त्वपरान् सप्त शरानादाय मर्मणि ।  
 निजघान रणे क्रुद्धः शक्राशनिसमप्रभान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ hit Rama's armour in that war. [4-28-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरसहस्रेण राममप्रतिमौजसम् ।  
 अर्दयित्वा महानादं ननाद समरे खरः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +794,15 @@ a loud blare. [4-28-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तत्प्रहतं बाणैः खरमुक्तैः सुपर्वभिः ।  
 पपात कवचं भूमौ रामस्यादित्यवर्चसम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +845,15 @@ resplendence is completely destroyed and fell on the field. [4-28-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरैरर्पितः क्रुद्धः सर्वगात्रेषु राघवः ।  
 रराज समरे रामो विधूमोऽग्निरिव ज्वलन् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,12 +893,15 @@ flaring fire. [4-28-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गम्भीरनिर्ह्रादं रामः शत्रुनिबर्हणः ।  
 चकारान्ताय स रिपोः सज्यमन्यन्महद्धनुः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,12 +941,15 @@ enemy. [4-28-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमहद् वैष्णवं यत् तदतिसृष्टं महर्षिणा ।  
 वरं तद् धनुरुद्यम्य खरं समभिधावत ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +989,15 @@ that choicest bow Rama rushed towards Khara. [4-28-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कनकपुङ्खैस्तु शरैः सन्नतपर्वभिः ।  
 चिच्छेद रामः सङ्क्रुद्धः खरस्य समरे ध्वजम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1036,15 @@ flagstaff with flag in that war. [4-28-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दर्शनीयो बहुधा विच्छिन्नः काञ्चनो ध्वजः ।  
 जगाम धरणीं सूर्यो देवतानामिवाज्ञया ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1019,12 +1087,15 @@ god-damned sun fallen on earth. [4-28-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं चतुर्भिः खरः क्रुद्धो रामं गात्रेषु मार्गणैः ।  
 विव्याध हृदि मर्मज्ञो मातङ्गमिव तोमरैः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ the chest of Rama with four arrows, and even on other limbs, as one would prod a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामो बहुभिर्बाणैः खरकार्मुकनिःसृतैः ।  
 विद्धो रुधिरसिक्ताङ्गो बभूव रुषितो भृशम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,12 +1190,15 @@ he became highly indignant. [4-28-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स धनुर्धन्विनां श्रेष्ठः सङ्गृह्य परमाहवे ।  
 मुमोच परमेष्वासः षट् शरानभिलक्षितान् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1161,12 +1238,15 @@ targeting pointedly. [4-28-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरस्येकेन बाणेन द्वाभ्यां बाह्वोरथार्पयत् ।  
 त्रिभिश्चन्द्रार्धवक्त्रैश्च वक्षस्यभिजघान ह ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1210,12 +1290,15 @@ arrows he hit his chest. [4-28-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पश्चान्महातेजा नाराचान् भास्करोपमान् ।  
 जघान राक्षसं क्रुद्धस्त्रयोदश शिलाशितान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1258,12 +1341,15 @@ thirteen iron arrows that are sharply whetted and similar to the dazzle of sun. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथस्य युगमेकेन चतुर्भिः शबलान् हयान् ।  
 षष्ठेन च शिरः सङ्ख्ये चिच्छेद खरसारथेः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1283,6 +1369,7 @@ _________________
 
 ऒन्दु बाणदिन्द अवन रथद नॊगवन्नु तुण्डरिसि, नाल्कु बाणगळिन्द नाल्कु कुदुरॆगळन्नु कॊन्दुहाकि, आरनॆय बाणदिन्द खरन सारथिय तलॆयन्नु कत्तरिसिबिट्टनु.॥29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1291,6 +1378,8 @@ _________________
 छित्त्वा वज्रनिकाशेन राघवः प्रहसन्निव ।  
 त्रयोदशेनेन्द्रसमो बिभेद समरे खरम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1342,12 +1431,15 @@ twelfth, that mighty one Rama impaled Khara with the thirteenth arrow that is si
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभग्नधन्वा विरथो हताश्वो हतसारथिः ।  
 गदापाणिरवप्लुत्य तस्थौ भूमौ खरस्तदा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1387,6 +1479,7 @@ then hopped down to ground from the dilapidated chariot wielding a mace, and sto
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1395,6 +1488,8 @@ then hopped down to ground from the dilapidated chariot wielding a mace, and sto
 अपूजयन् प्राञ्जलयः प्रहृष्टा-  
 स्तदा विमानाग्रगताः समेताः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1451,5 +1546,6 @@ and they worshipped him with their adjoined palms. [4-28-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥28॥
+</details>
 </details>
 

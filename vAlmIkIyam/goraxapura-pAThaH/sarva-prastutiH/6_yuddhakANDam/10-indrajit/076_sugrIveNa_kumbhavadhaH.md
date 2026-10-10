@@ -2,6 +2,8 @@
 title = "०७६ सुग्रीवेण कुम्भवधः"
 title_english = "076 Sugreeva kills Kumbha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ kills him.
 
 76. अङ्गदके द्वारा कम्पन और प्रजङ्घका, द्विविदके द्वारा शोणिताक्षका, मैन्दके द्वारा यूपाक्षका और सुग्रीवके द्वारा कुम्भका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृत्ते सङ्कुले तस्मिन् घोरे वीरजनक्षये ।  
 अङ्गदः कम्पनं वीरमाससाद रणोत्सुकः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ Angada, who was eager to fight, attacked the valiant Kampana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आहूय सोऽङ्गदं कोपात् ताडयामास वेगितः ।  
 गदया कम्पनः पूर्वं स चचाल भृशाहतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -103,12 +111,15 @@ anticipation. Violently hit by him, Angada was reeled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सञ्ज्ञां प्राप्य तेजस्वी चिक्षेप शिखरं गिरेः ।  
 अर्दितश्च प्रहारेण कम्पनः पतितो भुवि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +153,15 @@ that stroke, Kampana fell down on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु कम्पनं दृष्ट्वा शोणिताक्षो हतं रणे ।  
 रथेनाभ्यपतत् क्षिप्रं तत्राङ्गदमभीतवत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,12 +198,15 @@ Angada quickly in a chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽङ्गदं निशितैर्बाणैस्तदा विव्याध वेगितः ।  
 शरीरदारणैस्तीक्ष्णैः कालाग्निसमविग्रहैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,6 +223,7 @@ Angada quickly in a chariot.
 
 अवनु शरीरवन्नु विदीर्णगॊळिसुव, कालाग्नियन्तॆ आकारवुळ्ळ तीक्ष्ण बाणगळिन्द वेगवागि अङ्गदनन्नु गायगॊळिसिदनु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -214,6 +232,8 @@ Angada quickly in a chariot.
 अङ्गदः प्रतिविद्धाङ्गो वालिपुत्रः प्रतापवान् ।  
 धनुरुग्रं रथं बाणान् ममर्द तरसा बली ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +300,15 @@ of Kshura, Kshurapra, Naaraacha, Vatsatanta, Shilimukha, Karni, Shalya and Vipat
 
 १. जिसका अग्रभाग नाईके छुरेके समान हो, उसे ‘क्षुर’ कहते हैं । २. अर्द्धचन्द्राकार बाण । ३. पूर्णतः लोहेके बने हुए बाणका नाम ‘नाराच’ है । उसमें नीचेसे ऊपरतक सब-का-सब लोहा ही होता है । ४. बछड़ेके दाँतके समान जिसका अग्रभाग हो, उसे ‘वत्सदन्त’ कहा गया है । ५. जिसका मुखभाग कङ्क (वकविशेष)-की पाँखोंके समान हो, उस बाणको ‘शिलीमुख’ कहते हैं । ६. जिस बाणके दोनों पार्श्वभागोंमें कानका-सा आकार बना हो, वह ‘कर्णी’ कहलाता है । ७. जिसका फाल या अग्रभाग बड़ा हो, वह ‘शल्य’ है । किसी-किसीके मतमें आधे नाराचको ‘शल्य’ कहते हैं । ८. कनेरके पत्तेके अग्रभागके समान आकारवाले बाणका नाम ‘विपाठ’ है । (रामायणतिलकसे)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोणिताक्षस्ततः क्षिप्रमसिचर्म समाददे ।  
 उत्पपात तदा क्रुद्धो वेगवानविचारयन् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +345,15 @@ jumped down (from his chariot) unhesitatingly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं क्षिप्रतरमाप्लुत्य परामृश्याङ्गदो बली ।  
 करेण तस्य तं खड्गं समाच्छिद्य ननाद च ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +393,15 @@ the sword, the strong Angada made a lion's roar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यांसफलके खड्गं निजघान ततोऽङ्गदः ।  
 यज्ञोपवीतवच्चैनं चिच्छेद कपिकुञ्जरः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +441,15 @@ cut him from left to right diagonally.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रगृह्य महाखड्गं विनद्य च पुनः पुनः ।  
 वालिपुत्रोऽभिदुद्राव रणशीर्षे परानरीन् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +489,15 @@ other surviving enemies in the battle-front.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजङ्घसहितो वीरो यूपाक्षस्तु ततो बली ।  
 रथेनाभिययौ क्रुद्धो वालिपुत्रं महाबलम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +531,15 @@ other surviving enemies in the battle-front.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयसीं तु गदां गृह्य स वीरः कनकाङ्गदः ।  
 शोणिताक्षः समाश्वस्य तमेवानुपपात ह ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +576,15 @@ an iron mace and rushed quickly towards the same Angada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजङ्घस्तु महावीरो यूपाक्षसहितो बली ।  
 गदयाभिययौ क्रुद्धो वालिपुत्रं महाबलम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +618,15 @@ enraged and rushed towards the mighty Angada with his mace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोर्मध्ये कपिश्रेष्ठः शोणिताक्षप्रजङ्घयोः ।  
 विशाखयोर्मध्यगतः पूर्णचन्द्र इवाबभौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -616,12 +660,15 @@ shone like a full moon between the two asterisms known as Vishakhas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदं परिरक्षन्तौ मैन्दो द्विविद एव च ।  
 तस्य तस्थतुरभ्याशे परस्परदिदृक्षया ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +708,15 @@ intent to exhibit each of their own martial skill.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिपेतुर्महाकायाः प्रतियत्ता महाबलाः ।  
 राक्षसा वानरान् रोषादसिबाणगदाधराः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +750,15 @@ wielding swords, arrows and maces, towards the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणां वानरेन्द्राणां त्रिभी राक्षसपुङ्गवैः ।  
 संसक्तानां महद् युद्धमभवद् रोमहर्षणम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +799,15 @@ who encountered the three excellent demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु वृक्षान् समादाय सम्प्रचिक्षिपुराहवे ।  
 खड्गेन प्रतिचिक्षेप तान् प्रजङ्घो महाबलः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +847,15 @@ demon-chiefs. The mighty Prajangha, however, cut them down with his sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथानश्वान् द्रुमाञ्छैलान् प्रतिचिक्षिपुराहवे ।  
 शरौघैः प्रतिचिच्छेद तान् यूपाक्षो महाबलः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,12 +899,15 @@ The mighty Yupaksha chopped them off with a flood of arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृष्टान् द्विविदमैन्दाभ्यां द्रुमानुत्पाट्य वीर्यवान् ।  
 बभञ्ज गदया मध्ये शोणिताक्षः प्रतापवान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +948,15 @@ hurled by Dvivida and Mainda with his mace in the midway itself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यम्य विपुलं खड्गं परमर्मविदारणम् ।  
 प्रजङ्घो वालिपुत्राय अभिदुद्राव वेगितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,6 +990,7 @@ rushed swiftly towards Angada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -933,6 +999,8 @@ rushed swiftly towards Angada.
 बाहुं चास्य सनिस्त्रिंशमाजघान स मुष्टिना ।  
 वालिपुत्रस्य घातेन स पपात क्षितावसिः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1053,15 @@ him with an Ashvakarna tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा पतितं भूमौ खड्गं मुसलसन्निभम् ।  
 मुष्टिं संवर्तयामास वज्रकल्पं महाबलः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1025,12 +1096,15 @@ mighty Prajangha tightened his thunderbolt like fist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ललाटे महावीर्यमङ्गदं वानरर्षभम् ।  
 आजघान महातेजाः स मुहूर्तं चचाल ह ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,12 +1145,15 @@ great strength on his forehead, Angada shuddered for a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सञ्ज्ञां प्राप्य तेजस्वी वालिपुत्रः प्रतापवान् ।  
 प्रजङ्घस्य शिरः कायात् पातयामास मुष्टिना ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,12 +1187,15 @@ fist and shattered Prajangha's head off his trunk.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स यूपाक्षोऽश्रुपूर्णाक्षः पितृव्ये निहते रणे ।  
 अवरुह्य रथात् क्षिप्रं क्षीणेषुः खड्गमाददे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1237,15 @@ chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं सम्प्रेक्ष्य यूपाक्षं द्विविदस्त्वरन् ।  
 आजघानोरसि क्रुद्धो जग्राह च बलाद् बली ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,12 +1279,15 @@ and with a rage, forcibly caught hold of him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतं भ्रातरं दृष्ट्वा शोणिताक्षो महाबलः ।  
 आजघान महातेजा वक्षसि द्विविदं ततः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,12 +1327,15 @@ Dvivida on his chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ततोऽभिहतस्तेन चचाल च महाबलः ।  
 उद्यतां च पुनस्तस्य जहार द्विविदो गदाम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1369,15 @@ platter's mace when lifted again on him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे मैन्दो द्विविदाभ्याशमागमत् ।  
 यूपाक्षं ताडयामास तलेनोरसि वीर्यवान् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1325,12 +1417,15 @@ palm.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ शोणिताक्षयूपाक्षौ प्लवङ्गाभ्यां तरस्विनौ ।  
 चक्रतुः समरे तीव्रमाकर्षोत्पाटनं भृशम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1460,15 @@ and severely.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विविदः शोणिताक्षं तु विददार नखैर्मुखे ।  
 निष्पिपेष स वीर्येण क्षितावाविध्य वीर्यवान् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1408,12 +1506,15 @@ him down on the floor by his strength and crushed him down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यूपाक्षमभिसङ्क्रुद्धो मैन्दो वानरपुङ्गवः ।  
 पीडयामास बाहुभ्यां पपात स हतः क्षितौ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1447,12 +1548,15 @@ Yupaksha fell down dead on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतप्रवीरा व्यथिता राक्षसेन्द्रचमूस्तथा ।  
 जगामाभिमुखी सा तु कुम्भकर्णात्मजो यतः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1494,12 +1598,15 @@ battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपतन्तीं च वेगेन कुम्भस्तां सान्त्वयच्चमूम् ।  
 अथोत्कृष्टं महावीर्यैर्लब्धलक्षैः प्लवङ्गमैः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1516,12 +1623,15 @@ battle.
 
 वेगवागि बरुत्तिद्द आ सैन्यक्कॆ सान्त्वन नीडिदनु. इन्नॊन्दॆडॆ महापराक्रमि वानररु युद्धदल्लि सफलराद्दरिन्द जोरागि गर्जिसुत्तिद्दरु.॥37॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपातितमहावीरां दृष्ट्वा रक्षश्चमूं तदा ।  
 कुम्भः प्रचक्रे तेजस्वी रणे कर्म सुदुष्करम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1561,12 +1671,15 @@ difficult to do in a battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स धनुर्धन्विनां श्रेष्ठः प्रगृह्य सुसमाहितः ।  
 मुमोचाशीविषप्रख्याञ्छरान् देहविदारणान् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1604,12 +1717,15 @@ composed, released serpentine arrows which can split open the bodies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तच्छुशुभे भूयः सशरं धनुरुत्तमम् ।  
 विद्युदैरावतार्चिष्मद‍‍्द्वितीयेन्द्रधनुर्यथा ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1648,12 +1764,15 @@ carrying Indra on its back).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकर्णकृष्टमुक्तेन जघान द्विविदं तदा ।  
 तेन हाटकपुङ्खेन पत्रिणा पत्रवाससा ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1687,12 +1806,15 @@ discharged, he then struck Dvivida.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहसाभिहतस्तेन विप्रमुक्तपदः स्फुरन् ।  
 निपपात त्रिकूटाभो विह्वलन् प्लवगोत्तमः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1733,12 +1855,15 @@ Trikuta, was perturbed, with his feet swaying to and fro and fell down throbbing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैन्दस्तु भ्रातरं तत्र भग्नं दृष्ट्वा महाहवे ।  
 अभिदुद्राव वेगेन प्रगृह्य विपुलां शिलाम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1779,12 +1904,15 @@ taking a large rock, rushed with speed to attack the demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां शिलां तु प्रचिक्षेप राक्षसाय महाबलः ।  
 बिभेद तां शिलां कुम्भः प्रसन्नैः पञ्चभिः शरैः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1818,12 +1946,15 @@ into pieces with his five shining arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्धाय चान्यं सुमुखं शरमाशीविषोपमम् ।  
 आजघान महातेजा वक्षसि द्विविदाग्रजम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1858,12 +1989,15 @@ a great splendour, struck it on the chest of Mainda the brother of Dvivida.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण मैन्दो वानरयूथपः ।  
 मर्मण्यभिहतस्तेन पपात भुवि मूर्च्छितः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1900,12 +2034,15 @@ parts, he fell unconscious on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदो मातुलौ दृष्ट्वा मथितौ तु महाबलौ ।  
 अभिदुद्राव वेगेन कुम्भमुद्यतकार्मुकम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1945,6 +2082,7 @@ Kumbha, who was standing with his bow uplifted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1952,6 +2090,8 @@ Kumbha, who was standing with his bow uplifted.
 त्रिभिश्चान्यैः शितैर्बाणैर्मातङ्गमिव तोमरैः ।  
 सोऽङ्गदं बहुभिर्बाणैः कुम्भो विव्याध वीर्यवान् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1991,12 +2131,15 @@ Angada advancing towards him, as on would pierce an elephant with goads.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकुण्ठधारैर्निशितैस्तीक्ष्णैः कनकभूषणैः ।  
 अङ्गदः प्रतिविद्धाङ्गो वालिपुत्रो न कम्पते ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2031,6 +2174,7 @@ with edges which were harsh and sharp.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2038,6 +2182,8 @@ with edges which were harsh and sharp.
 स प्रचिच्छेद तान् सर्वान् बिभेद च पुनः शिलाः ॥ ५० ॥  
 कुम्भकर्णात्मजः श्रीमान् वालिपुत्रसमीरितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2072,12 +2218,15 @@ however not shaken. He showered a rain of rocks and trees on Kumbha's head.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपतन्तं च सम्प्रेक्ष्य कुम्भो वानरयूथपम् ॥ ५१ ॥  
 भ्रुवौ विव्याध बाणाभ्यामुल्काभ्यामिव कुञ्जरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2111,6 +2260,7 @@ Angada and burst off the rocks further.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2120,6 +2270,8 @@ Angada and burst off the rocks further.
 सम्पीड्योरसि सस्कन्धं करेणाभिनिवेश्य च ।  
 किञ्चिदभ्यवनम्यैनमुन्ममाथ महारणे ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2200,12 +2352,15 @@ brows with his arrows, as an elephant would be struck with flaming torches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमिन्द्रकेतुप्रतिमं वृक्षं मन्दरसन्निभम् ।  
 समुत्सृजत वेगेन मिषतां सर्वरक्षसाम् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2245,12 +2400,15 @@ Indra's banner and resembled Mount Mandara in size.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चिच्छेद शितैर्बाणैः सप्तभिः कायभेदनैः ।  
 अङ्गदो विव्यथेऽभीक्ष्णं स पपात मुमोह च ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2291,12 +2449,15 @@ splitting asunder the body. That Angada was very much perturbed and fell down, s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदं पतितं दृष्ट्वा सीदन्तमिव सागरे ।  
 दुरासदं हरिश्रेष्ठा राघवाय न्यवेदयन् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2336,12 +2497,15 @@ an ocean, the monkey-chiefs informed the matter to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्तु व्यथितं श्रुत्वा वालिपुत्रं महाहवे ।  
 व्यादिदेश हरिश्रेष्ठाञ्जाम्बवत्प्रमुखांस्ततः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2376,12 +2540,15 @@ help, leaders of monkeys, headed by Jambavan.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु वानरशार्दूलाः श्रुत्वा रामस्य शासनम् ।  
 अभिपेतुः सुसङ्क्रुद्धाः कुम्भमुद्यतकार्मुकम् ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2415,12 +2582,15 @@ rushed towards Kumbha who was wielding a bow in his hand.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो द्रुमशिलाहस्ताः कोपसंरक्तलोचनाः ।  
 रिरक्षिषन्तोऽभ्यपतन्नङ्गदं वानरर्षभाः ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2454,12 +2624,15 @@ their hands and with their furious blood-red eyes, rushed on.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ।  
 कुम्भकर्णात्मजं वीरं क्रुद्धाः समभिदुद्रुवुः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2493,12 +2666,15 @@ son of Kumbhakarna to attack him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीक्ष्यापततस्तांस्तु वानरेन्द्रान् महाबलान् ।  
 आववार शरौघेण नगेनेव जलाशयम् ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2538,12 +2714,15 @@ flood of arrows, as one would obstruct the course of a stream by means of a rock
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बाणपथं प्राप्य न शेकुरपि वीक्षितुम् ।  
 वानरेन्द्रा महात्मानो वेलामिव महोदधिः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2585,6 +2764,7 @@ shore.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2593,6 +2773,8 @@ shore.
 अभिदुद्राव सुग्रीवः कुम्भकर्णात्मजं रणे ।  
 शैलसानुचरं नागं वेगवानिव केसरी ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2642,12 +2824,15 @@ mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पाट्य च महावृक्षानश्वकर्णादिकान् बहून् ।  
 अन्यांश्च विविधान् वृक्षांश्चिक्षेप स महाकपिः ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2687,12 +2872,15 @@ Sugreeva the king of monkeys hurled them on Kumbha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां छादयन्तीमाकाशं वृक्षवृष्टिं दुरासदाम् ।  
 कुम्भकर्णात्मजः श्रीमांश्चिच्छेद स्वशरैः शितैः ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2733,6 +2921,7 @@ that down pour of trees, which was obscuring the sky and which was difficult to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2741,6 +2930,8 @@ that down pour of trees, which was obscuring the sky and which was difficult to 
 द्रुमवर्षं तु तद् भिन्नं दृष्ट्वा कुम्भेन वीर्यवान् ॥ ६८ ॥  
 वानराधिपतिः श्रीमान् महासत्त्वो न विव्यथे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2789,6 +2980,7 @@ with iron spikes).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2797,6 +2989,8 @@ with iron spikes).
 अवप्लुत्य ततः शीघ्रं कृत्वा कर्म सुदुष्करम् ॥ ७० ॥  
 अब्रवीत् कुपितः कुम्भं भग्नशृङ्गमिव द्विपम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2862,6 +3056,7 @@ Sugreeva of valour was not disturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2869,6 +3064,8 @@ Sugreeva of valour was not disturbed.
 सन्नतिश्च प्रभावश्च तव वा रावणस्य वा ।  
 प्रह्लादबलिवृत्रघ्नकुबेरवरुणोपम ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2923,6 +3120,7 @@ Thus bouncing swiftly and doing that most difficult task, the enraged Sugreeva s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2931,6 +3129,8 @@ Thus bouncing swiftly and doing that most difficult task, the enraged Sugreeva s
 त्रिदशा नातिवर्तन्ते जितेन्द्रियमिवाधयः ।  
 विक्रमस्व महाबुद्धे कर्माणि मम पश्य च ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2967,12 +3167,15 @@ your father (Kumbhakarna) who was exceedingly strong."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरदानात् पितृव्यस्ते सहते देवदानवान् ।  
 कुम्भकर्णस्तु वीर्येण सहते च सुरासुरान् ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3009,12 +3212,15 @@ Hence, exhibit your prowess, O demon of great intellect and see my exploits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुषीन्द्रजितस्तुल्यः प्रतापे रावणस्य च ।  
 त्वमद्य रक्षसां लोके श्रेष्ठोऽसि बलवीर्यतः ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3049,12 +3255,15 @@ demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाविमर्दं समरे मया सह तवाद्भुतम् ।  
 अद्य भूतानि पश्यन्तु शक्रशम्बरयोरिव ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3089,12 +3298,15 @@ the foremost in strength and heroism among the demon-folk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतमप्रतिमं कर्म दर्शितं चास्त्रकौशलम् ।  
 पतिता हरिवीराश्च त्वयैते भीमविक्रमाः ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3131,12 +3343,15 @@ today, as they saw that fight between Indra and Shambara, the demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपालम्भभयाच्चैव नासि वीर मया हतः ।  
 कृतकर्मपरिश्रान्तो विश्रान्तः पश्य मे बलम् ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3171,12 +3386,15 @@ weaponry. You have struck down these monkey-heroes possessing a terrific prowess
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन सुग्रीववाक्येन सावमानेन मानितः ।  
 अग्नेराज्यहुतस्येव तेजस्तस्याभ्यवर्धत ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3216,6 +3434,7 @@ kill you, with a fear of public censure. Identify my strength, after taking some
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3224,6 +3443,8 @@ kill you, with a fear of public censure. Identify my strength, after taking some
 अन्योन्यगात्रग्रथितौ घर्षन्तावितरेतरम् ।  
 सधूमां मुखतो ज्वालां विसृजन्तौ परिश्रमात् ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3261,12 +3482,15 @@ an oblation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः पादाभिघाताच्च निमग्ना चाभवन्मही ।  
 व्याघूर्णिततरङ्गश्च चुक्षुभे वरुणालयः ॥ ८३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3309,12 +3533,15 @@ their fatigue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुम्भं समुत्क्षिप्य सुग्रीवो लवणाम्भसि ।  
 पातयामास वेगेन दर्शयन्नुदधेस्तलम् ॥ ८४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3348,12 +3575,15 @@ about, the ocean became turbulent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुम्भनिपातेन जलराशिः समुत्थितः ।  
 विन्ध्यमन्दरसङ्काशो विससर्प समन्ततः ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3393,12 +3623,15 @@ the bottom of the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुम्भः समुत्पत्य सुग्रीवमभिपात्य च ।  
 आजघानोरसि क्रुद्धो वज्रकल्पेन मुष्टिना ॥ ८६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3432,12 +3665,15 @@ that of Mount Vindhya, diffused on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वर्म च पुस्फोट सञ्जज्ञे चापि शोणितम् ।  
 तस्य मुष्टिर्महावेगः प्रतिजघ्नेऽस्थिमण्डले ॥ ८७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3480,12 +3716,15 @@ chest with his thunderbolt-like fist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वेगेन तत्रासीत् तेजः प्रज्वलितं महत् ।  
 वज्रनिष्पेषसञ्जाता ज्वाला मेरोर्यथा गिरेः ॥ ८८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3528,6 +3767,7 @@ His cage of bones gave a counter-strike to that awfully forceful fist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3536,6 +3776,8 @@ His cage of bones gave a counter-strike to that awfully forceful fist.
 अर्चिःसहस्रविकचरविमण्डलवर्चसम् ।  
 स मुष्टिं पातयामास कुम्भस्योरसि वीर्यवान् ॥ ९० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3571,12 +3813,15 @@ that bursts up on Mount Meru, was born out of a stroke of lightning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण विह्वलो भृशपीडितः ।  
 निपपात तदा कुम्भो गतार्चिरिव पावकः ॥ ९१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3633,12 +3878,15 @@ his fist which appeared like a thunderbolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुष्टिनाभिहतस्तेन निपपाताशु राक्षसः ।  
 लोहिताङ्ग इवाकाशाद् दीप्तरश्मिर्यदृच्छया ॥ ९२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3672,12 +3920,15 @@ fire whose flame has extinguished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भस्य पततो रूपं भग्नस्योरसि मुष्टिना ।  
 बभौ रुद्राभिपन्नस्य यथा रूपं गवां पतेः ॥ ९३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3712,6 +3963,7 @@ of splendid rays, would drop down from the sky accidentally.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3720,6 +3972,8 @@ of splendid rays, would drop down from the sky accidentally.
 मही सशैला सवना चचाल  
 भयं च रक्षांस्यधिकं विवेश ॥ ९४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3768,5 +4022,6 @@ demons.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तारनॆय सर्ग पूर्णवायितु.॥76॥
+</details>
 </details>
 

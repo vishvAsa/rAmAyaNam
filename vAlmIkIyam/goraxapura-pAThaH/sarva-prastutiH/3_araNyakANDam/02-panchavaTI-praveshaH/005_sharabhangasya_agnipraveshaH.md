@@ -2,6 +2,8 @@
 title = "००५ शरभङ्गस्य अग्निप्रवेशः"
 title_english = "005 Hermitage of Sage Sharabhanga"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,6 +24,7 @@ Rama after killing demon Viradha enters the hermitage of Sage Sharabhanga, as ad
 
 5. श्रीराम, लक्ष्मण और सीताका शरभङ्ग मुनिके आश्रमपर जाना, देवताओंका दर्शन करना और मुनिसे सम्मानित होना तथा शरभङ्ग मुनिका ब्रह्मलोक-गमन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ Rama after killing demon Viradha enters the hermitage of Sage Sharabhanga, as ad
 अभिगच्छामहे शीघ्रं शरभङ्गं तपोधनम् ।  
 आश्रमं शरभङ्गस्य राघवोऽभिजगाम ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -85,12 +90,15 @@ brother Lakshmana who is beaming forth with resplendence. [3-5-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य देवप्रभावस्य तपसा भावितात्मनः ।  
 समीपे शरभङ्गस्य ददर्श महदद्भुतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,6 +135,7 @@ a great wonder at the nearby of that hermitage of Sharabhanga.[3-5-3b, 4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,6 +144,8 @@ a great wonder at the nearby of that hermitage of Sharabhanga.[3-5-3b, 4]
 असंस्पृशन्तं वसुधां ददर्श विबुधेश्वरम् ।  
 सम्प्रभाभरणं देवं विरजोऽम्बरधारिणम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,6 +193,7 @@ the other divinities are attending, and many more selfsame great-souls are worsh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -189,6 +201,8 @@ the other divinities are attending, and many more selfsame great-souls are worsh
 हरितैर्वाजिभिर्युक्तमन्तरिक्षगतं रथम् ॥ ७ ॥  
 ददर्शादूरतस्तस्य तरुणादित्यसन्निभम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ _________________
 
 अवनन्तॆ वेषभूषणगळुळ्ळ बेरॆ अनेक महात्मरु देवेन्द्रनन्नु पूजिसुत्तिद्दरु. अवर रथगळु आकाशदल्लि निन्तिद्दवु. रथगळिगॆ हसिरु बण्णद कुदुरॆगळन्नु हूडिद्दरु. श्रीरामनु आग ताने उदयिसिद सूर्यनन्तॆ प्रकाशिसुत्तिद्द रथवन्नु हत्तिरदिन्द नोडिदनु.॥7½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुराभ्रघनप्रख्यं चन्द्रमण्डलसन्निभम् ॥ ८ ॥  
 अपश्यद् विमलं छत्रं चित्रमाल्योपशोभितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +271,15 @@ like the noontime sun, or a cluster of silver clouds, or like the silvern sphere
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चामरव्यजने चाग्र्ये रुक्मदण्डे महाधने ॥ ९ ॥  
 गृहीते वरनारीभ्यां धूयमाने च मूर्धनि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +329,7 @@ but they are royal insignias.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -318,6 +339,8 @@ but they are royal insignias.
 दृष्ट्वा शतक्रतुं तत्र रामो लक्ष्मणमब्रवीत् ।  
 रामोऽथ रथमुद्दिश्य भ्रातुर्दर्शयताद्भुतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +397,15 @@ in firmament. [3-5-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्चिष्मन्तं श्रिया जुष्टमद्भुतं पश्य लक्ष्मण ।  
 प्रतपन्तमिवादित्यमन्तरिक्षगतं रथम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,12 +442,15 @@ effulgence and auspiciousness as well, and that abides in firmament, and highly 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये हयाः पुरुहूतस्य पुरा शक्रस्य नः श्रुताः ।  
 अन्तरिक्षगता दिव्यास्त इमे हरयो ध्रुवम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,6 +492,7 @@ they are these divinely green horses that now abide in the firmament, and defini
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -471,6 +501,8 @@ they are these divinely green horses that now abide in the firmament, and defini
 विस्तीर्णविपुलोरस्काः परिघायतबाहवः ।  
 शोणांशुवसनाः सर्वे व्याघ्रा इव दुरासदाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +521,15 @@ they are these divinely green horses that now abide in the firmament, and defini
 
 पुरुषसिंहने! ई रथद इक्कॆलगळल्लि कैगळल्लि खड्ग वन्नु हिडिदु कुण्डलदारी नूरु-नूरु युवकरु निन्तिरुवरु. अवर वक्षस्थळवु उब्बिकॊण्डु विशालवागिवॆ. भुजगळु परिघगळन्तॆ सुदृढ हागू दष्टपुष्टवागिदॆ. इवरॆल्लरू कॆम्पुवस्त्रगळन्नु धरिसिकॊण्डिद्दु, हुलिगळन्तॆ दुर्जयरागिरुवरु.॥15-16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरोदेशेषु सर्वेषां हारा ज्वलनसन्निभाः ।  
 रूपं बिभ्रति सौमित्रे पञ्चविंशतिवार्षिकम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ to flaring fires, and in their appearance, Soumitri, they always bear a look of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद्धि किल देवानां वयो भवति नित्यदा ।  
 यथेमे पुरुषव्याघ्रा दृश्यन्ते प्रियदर्शनाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +619,15 @@ for gods are immortals and they will be ever young... [3-5-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव सह वैदेह्या मुहूर्तं तिष्ठ लक्ष्मण ।  
 यावज्जानाम्यहं व्यक्तं क एष द्युतिमान् रथे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +665,15 @@ a resplendent one, on chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा सौमित्रिमिहैव स्थीयतामिति ।  
 अभिचक्राम काकुत्स्थः शरभङ्गाश्रमं प्रति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +711,15 @@ On saying to Lakshmana stay there only...' Rama proceeded towards the hermitage 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समभिगच्छन्तं प्रेक्ष्य रामं शचीपतिः ।  
 शरभङ्गमनुज्ञाप्य विबुधानिदमब्रवीत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,12 +758,15 @@ him. [3-5-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहोपयात्यसौ रामो यावन्मां नाभिभाषते ।  
 निष्ठां नयत तावत् तु ततो माद्रष्टुमर्हति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +783,15 @@ him. [3-5-21]
 
 श्रीरामचन्द्रनु इल्लिगॆ बरुत्तिरुवनु, अवनु नन्नॊन्दिगॆ एनादरू मातनाडुव मॊदले नीवु नन्नन्नु इल्लिन्द बेरॆ कडॆगॆ ऒय्यिरि. ईग श्रीरामनॊन्दिगॆ नन्न सन्दर्शन आगबारदु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जितवन्तं कृतार्थं हि तदाहमचिरादिमम् ।  
 कर्म ह्यनेन कर्तव्यं महदन्यैः सुदुष्करम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +844,15 @@ i.e., elimination of Ravana, then only he can see me..."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वज्री तमामन्त्र्य मानयित्वा च तापसम् ।  
 रथेन हययुक्तेन ययौ दिवमरिन्दमः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -844,12 +900,15 @@ can be ended only by Rama, but not by others. Hence, Indra departed from there b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाते तु सहस्राक्षे राघवः सपरिच्छदः ।  
 अग्निहोत्रमुपासीनं शरभङ्गमुपागमत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +954,15 @@ environ is the presence of Seetha, near at Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पादौ च सङ्गृह्य रामः सीता च लक्ष्मणः ।  
 निषेदुस्तदनुज्ञाता लब्धवासा निमन्त्रिताः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1001,15 @@ Sage Sharabhanga they sat there, as they obtained a shelter. [3-5-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शक्रोपयानं तु पर्यपृच्छत राघवः ।  
 शरभङ्गश्च तत् सर्वं राघवाय न्यवेदयत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -982,12 +1047,15 @@ Then, Raghava enquired with sage about the arrival of Indra and Sage Sharabhanga
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मामेष वरदो राम ब्रह्मलोकं निनीषति ।  
 जितमुग्रेण तपसा दुष्प्रापमकृतात्मभिः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,12 +1097,15 @@ that which is unattainable for them with their souls unconquered... [3-5-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं ज्ञात्वा नरव्याघ्र वर्तमानमदूरतः ।  
 ब्रह्मलोकं न गच्छामि त्वामदृष्ट्वा प्रियातिथिम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,12 +1155,15 @@ seeing and receiving Rama is his priority now.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयाहं पुरुषव्याघ्र धार्मिकेण महात्मना ।  
 समागम्य गमिष्यामि त्रिदिवं चावरं परम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,12 +1216,15 @@ in any of the said heavens, than having a glance at you. Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षया नरशार्दूल जिता लोका मया शुभाः ।  
 ब्राह्म्याश्च नाकपृष्ठ्याश्च प्रतिगृह्णीष्व मामकान् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1199,12 +1276,15 @@ is his wealth. So the heavenly abodes are his only wealth as of now, and they al
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो नरव्याघ्रः सर्वशास्त्रविशारदः ।  
 ऋषिणा शरभङ्गेन राघवो वाक्यमब्रवीत् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1243,12 +1323,15 @@ to that sage. [3-5-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेवाहरिष्यामि सर्वाल्ँ लोकान् महामुने ।  
 आवासं त्वहमिच्छामि प्रदिष्टमिह कानने ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1311,12 +1394,15 @@ work...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवेणैवमुक्तस्तु शक्रतुल्यबलेन वै ।  
 शरभङ्गो महाप्राज्ञः पुनरेवाब्रवीद् वचः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,12 +1441,15 @@ this way. [3-5-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह राम महातेजाः सुतीक्ष्णो नाम धार्मिकः ।  
 वसत्यरण्ये नियतः स ते श्रेयो विधास्यति ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1402,12 +1491,15 @@ and he will do something benignant to you... [3-5-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतीक्ष्णमभिगच्छ त्वं शुचौ देशे तपस्विनम् ।  
 रमणीये वनोद्देशे स ते वासं विधास्यति ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1449,12 +1541,15 @@ vidhaasyati* = he, to you, housing, arranges.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां मन्दाकिनीं राम प्रतिस्रोतामनुव्रज ।  
 नदीं पुष्पोडुपवहां ततस्तत्र गमिष्यसि ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1499,12 +1594,15 @@ also River Pampa is called Mandakini, at times.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष पन्था नरव्याघ्र मुहूर्तं पश्य तात माम् ।  
 यावज्जहामि गात्राणि जीर्णां त्वचमिवोरगः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1558,12 +1656,15 @@ towards the evil side of the earth, for all of the sages know about Rama's desti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽग्निं स समाधाय हुत्वा चाज्येन मन्त्रवत् ।  
 शरभङ्गो महातेजाः प्रविवेश हुताशनम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,12 +1703,15 @@ entered that sacred fire. [3-5-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य रोमाणि केशांश्च तदा वह्निर्महात्मनः ।  
 जीर्णां त्वचं तदस्थीनि यच्च मांसं च शोणितम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1665,12 +1769,15 @@ said in Dharmaakuutam:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च पावकसङ्काशः कुमारः समपद्यत ।  
 उत्थायाग्निचयात् तस्माच्छरभङ्गो व्यरोचत ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1713,12 +1820,15 @@ Comment: The age of celestial is always constant like twenty-five-year-olds, as 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लोकानाहिताग्नीनामृषीणां च महात्मनाम् ।  
 देवानां च व्यतिक्रम्य ब्रह्मलोकं व्यरोहत ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1757,6 +1867,7 @@ has ascended to Brahma's abode. [3-5-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1765,6 +1876,8 @@ has ascended to Brahma's abode. [3-5-42]
 पितामहश्चापि समीक्ष्य तं द्विजं  
 ननन्द सुस्वागतमित्युवाच ह ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1818,5 +1931,6 @@ happily spoke to him... "Welcome..." [3-5-43]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐदनॆय सर्ग सम्पूर्णवायितु.॥5॥
+</details>
 </details>
 

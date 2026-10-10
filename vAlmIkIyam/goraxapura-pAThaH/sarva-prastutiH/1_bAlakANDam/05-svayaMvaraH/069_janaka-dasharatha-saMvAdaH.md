@@ -2,6 +2,8 @@
 title = "०६९ जनक-दशरथ-संवादः"
 title_english = "069 dasharatha arrives at mithila"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -21,12 +23,15 @@ pleasantries and protocol, all of them stay in Mithila comfortably.
 
 69. दल-बलसहित राजा दशरथकी मिथिला-यात्रा और वहाँ राजा जनकके द्वारा उनका स्वागत-सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रात्र्यां व्यतीतायां सोपाध्यायः सबान्धवः ।  
 राजा दशरथो हृष्टः सुमन्त्रमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ relatives then said this to his minister Sumantra. [1-69-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य सर्वे धनाध्यक्षा धनमादाय पुष्कलम् ।  
 व्रजन्त्वग्रे सुविहिता नानारत्नसमन्विताः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ let them travel in advance and let them be well-prepared for any exigency... [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुरङ्गबलं चापि शीघ्रं निर्यातु सर्वशः ।  
 ममाज्ञासमकालं च यानं युग्यमनुत्तमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,6 +174,7 @@ gold and gems in bright array
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,6 +183,8 @@ gold and gems in bright array
 एते द्विजाः प्रयान्त्वग्रे स्यन्दनं योजयस्व मे ।  
 यथा कालात्ययो न स्याद् दूता हि त्वरयन्ति माम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +240,15 @@ for the travel without time lapse..." Thus Dasharatha ordered. [1-69-4, 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचनाच्च नरेन्द्रस्य सेना च चतुरङ्गिणी ।  
 राजानमृषिभिः सार्धं व्रजन्तं पृष्ठतोऽन्वयात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +289,15 @@ are going afore of him. [1-69-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गत्वा चतुरहं मार्गं विदेहानभ्युपेयिवान् ।  
 राजा च जनकः श्रीमान् श्रुत्वा पूजामकल्पयत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +347,15 @@ of bride like, 'meet a party halfway...' type protocol. This is other than *bara
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राजानमासाद्य वृद्धं दशरथं नृपम् ।  
 मुदितो जनको राजा प्रहर्षं परमं ययौ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +400,15 @@ of Dasharatha. [1-69-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच वचनं श्रेष्ठो नरश्रेष्ठं मुदान्वितम् ।  
 स्वागतं ते नरश्रेष्ठ दिष्ट्या प्राप्तोऽसि राघव ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,6 +464,7 @@ to have done, and even both are said to have done that act.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -445,6 +472,8 @@ to have done, and even both are said to have done that act.
 दिष्ट्या प्राप्तो महातेजा वसिष्ठो भगवानृषिः ॥ १० ॥  
 सह सर्वैर्द्विजश्रेष्ठैर्देवैरिव शतक्रतुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,12 +510,15 @@ with all gods... [1-69-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या मे निर्जिता विघ्ना दिष्ट्या मे पूजितं कुलम् ॥ ११ ॥  
 राघवैः सह सम्बन्धाद् वीर्यश्रेष्ठैर्महाबलैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +561,15 @@ noble-souled Raghava-s, who are the most valorous among all the valorous people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वः प्रभाते नरेन्द्र त्वं संवर्तयितुमर्हसि ॥ १२ ॥  
 यज्ञस्यान्ते नरश्रेष्ठ विवाहमृषिसत्तमैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +618,15 @@ paishaaca* and this topic can be discussed at a later time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा ऋषिमध्ये नराधिपः ॥ १३ ॥  
 वाक्यं वाक्यविदां श्रेष्ठः प्रत्युवाच महीपतिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,12 +661,15 @@ the king Janaka from amongst the sages. [1-69-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिग्रहो दातृवशः श्रुतमेतन्मया पुरा ॥ १४ ॥  
 यथा वक्ष्यसि धर्मज्ञ तत् करिष्यामहे वयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +711,15 @@ giver's bounty...' for this expression.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् धर्मिष्ठं यशस्यं च वचनं सत्यवादिनः ॥ १५ ॥  
 श्रुत्वा विदेहाधिपतिः परं विस्मयमागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,12 +762,15 @@ of marriages etc., and for which Janaka is surprised.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वे मुनिगणाः परस्परसमागमे ॥ १६ ॥  
 हर्षेण महता युक्तास्तां रात्रिमवसन् सुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +816,15 @@ all the sages have attained extreme joy and they spent that night happily. [1-69
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामो महातेजा लक्ष्मणेन समं ययौ ॥ १७ ॥  
 विश्वामित्रं पुरस्कृत्य पितुः पादावुपस्पृशन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +861,15 @@ with Lakshmana, strutted to touch the feet of his father Dasharatha. [1-69-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा च राघवौ पुत्रौ निशाम्य परिहर्षितः ॥ १८ ॥  
 उवास परमप्रीतो जनकेनाभिपूजितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +916,15 @@ odd. So an explanation to this is furnished in the endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकोऽपि महातेजाः क्रिया धर्मेण तत्त्ववित् ।  
 यज्ञस्य च सुताभ्यां च कृत्वा रात्रिमुवास ह ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,5 +981,6 @@ life of the newly wed.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥69॥
+</details>
 </details>
 

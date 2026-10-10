@@ -2,6 +2,8 @@
 title = "०१७ शूर्पणखा-आगमनम्"
 title_english = "017 Surpanakha s entry into legend"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ Seetha off.
 
 17. श्रीरामके आश्रममें शूर्पणखाका आना, उनका परिचय जानना और अपना परिचय देकर उनसे अपनेको भार्याके रूपमें ग्रहण करनेके लिये अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृताभिषेको रामस्तु सीता सौमित्रिरेव च ।  
 तस्माद् गोदावरीतीरात् ततो जग्मुः स्वमाश्रमम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ Godavari. [3-17-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रमं तमुपागम्य राघवः सहलक्ष्मणः ।  
 कृत्वा पौर्वाह्णिकं कर्म पर्णशालामुपागमत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,6 +118,7 @@ the cottage. [3-17-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +127,8 @@ the cottage. [3-17-2]
 विरराज महाबाहुश्चित्रया चन्द्रमा इव ।  
 लक्ष्मणेन सह भ्रात्रा चकार विविधाः कथाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,6 +147,7 @@ the cottage. [3-17-2]
 
 अल्लि सीतॆयॊन्दिगॆ अवरु सुखवागि इरतॊडगिदरु. आग दॊड्ड-दॊड्ड ऋषिमुनिगळु अल्लिगॆ बन्दु अवरन्नु सत्करिसुत्तिद्दरु. पर्णशालॆयल्लि सीतॆयॊन्दिगॆ कुळितिरुव महाबाहु श्रीरामचन्द्रनु चित्रा नक्षत्रदॊन्दिगॆ विराजिसुव चन्द्रनन्तॆ शोभिसुत्तिद्दनु. अल्लि अवनु लक्ष्मणनॊडनॆ बगॆ-बगॆ मातुगळन्नाडुत्ता इद्दनु.॥3-4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -144,6 +156,8 @@ the cottage. [3-17-2]
 सा तु शूर्पणखा नाम दशग्रीवस्य रक्षसः ।  
 भगिनी राममासाद्य ददर्श त्रिदशोपमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ arrived at that place, fortuitously. [3-17-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्तास्यं च महाबाहुं पद्मपत्रायतेक्षणम् ।  
 गजविक्रान्तगमनं जटामण्डलधारिणम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,6 +267,7 @@ moon while pearl white Seetha is pearl white Chitra star.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,6 +275,8 @@ moon while pearl white Seetha is pearl white Chitra star.
 राममिन्दीवरश्यामं कन्दर्पसदृशप्रभम् ॥ ८ ॥  
 बभूवेन्द्रोपमं दृष्ट्वा राक्षसी काममोहिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,6 +298,7 @@ _________________
 
 परम सुकुमार, महाबलशालि, राजोचित लक्षणगळिन्द कूडिद, नीलकमलदन्तॆ श्यामल कान्तियिन्द सुशोभित, कामदेवनन्तॆ सौन्दर्यशालि हागू इन्द्रनन्तॆ तेजस्वियाद श्रीरामनन्नु नोडुत्तले आ राक्षसियु काममोहितळादळु.॥8½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,6 +306,8 @@ _________________
 विशालाक्षं विरूपाक्षी सुकेशं ताम्रमूर्धजा ।  
 प्रियरूपं विरूपा सा सुस्वरं भैरवस्वना ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,12 +348,15 @@ seen such a Rama and became lovesick. [3-17-7, 8, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणं दारुणा वृद्धा दक्षिणं वामभाषिणी ।  
 न्यायवृत्तं सुदुर्वृत्ता प्रियमप्रियदर्शना ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,6 +404,7 @@ by Love-god. [3-17-9b, 11, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -386,6 +413,8 @@ by Love-god. [3-17-9b, 11, 12a]
 आगतस्त्वमिमं देशं कथं राक्षससेवितम् ।  
 किमागमनकृत्यं ते तत्त्वमाख्यातुमर्हसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +461,15 @@ coming here, in actuality " [3-17-12b, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु राक्षस्या शूर्पणख्या परन्तपः ।  
 ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +509,15 @@ Thus asked by demoness Shuurpanakha that enemy-scorcher Rama started to inform a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीद् दशरथो नाम राजा त्रिदशविक्रमः ।  
 तस्याहमग्रजः पुत्रो रामो नाम जनैः श्रुतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +556,15 @@ me by name Rama. [3-17-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातायं लक्ष्मणो नाम यवीयान् मामनुव्रतः ।  
 इयं भार्या च वैदेही मम सीतेति विश्रुता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,12 +607,15 @@ daughter of Videha's king, well-known as Seetha. [3-17-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियोगात् तु नरेन्द्रस्य पितुर्मातुश्च यन्त्रितः ।  
 धर्मार्थं धर्मकाङ्क्षी च वनं वस्तुमिहागतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -616,6 +657,7 @@ king and my father, and by my mother, as well. [3-17-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -623,6 +665,8 @@ king and my father, and by my mother, as well. [3-17-17]
 त्वं हि तावन्मनोज्ञाङ्गी राक्षसी प्रतिभासि मे ॥ १८ ॥  
 इह वा किन्निमित्तं त्वमागता ब्रूहि तत्त्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,6 +728,7 @@ in a fashionable getup or as an old female is another point that remained inconc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -691,6 +736,8 @@ in a fashionable getup or as an old female is another point that remained inconc
 श्रूयतां राम तत्त्वार्थं वक्ष्यामि वचनं मम ।  
 अहं शूर्पणखा नाम राक्षसी कामरूपिणी ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +799,15 @@ of Rama she that demoness wetted with love said these words. [3-17-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरण्यं विचरामीदमेका सर्वभयङ्करा ।  
 रावणो नाम मे भ्राता यदि ते श्रोत्रमागतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -797,12 +847,15 @@ have heard of him. [3-17-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीरो विश्रवसः पुत्रो यदि ते श्रोत्रमागतः ।  
 प्रवृद्धनिद्रश्च सदा कुम्भकर्णो महाबलः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -819,12 +872,15 @@ have heard of him. [3-17-21b, 22a]
 
 रावणनु विश्रवस्सु मुनिय वीर पुत्रनागिद्दानॆ, इदन्नु नीनु केळिरबहुदु. नन्न इन्नॊब्ब अण्ण महाबलि कुम्भकर्णनु, अवनु सदा निद्दॆ माडुत्ता इरुत्तानॆ.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणस्तु धर्मात्मा न तु राक्षसचेष्टितः ।  
 प्रख्यातवीर्यौ च रणे भ्रातरौ खरदूषणौ ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -860,12 +916,15 @@ Khara and Duushana who are renowned for their bravery in war. [3-17-22b, 23
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानहं समतिक्रान्तां राम त्वापूर्वदर्शनात् ।  
 समुपेतास्मि भावेन भर्तारं पुरुषोत्तमम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,12 +964,15 @@ that you being the choicest among men you alone are my husband, hence I neared y
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं प्रभावसम्पन्ना स्वच्छन्दबलगामिनी ।  
 चिराय भव भर्ता मे सीतया किं करिष्यसि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1012,15 @@ my everlasting husband by the way, what can you bring off with Seetha. [3-17-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकृता च विरूपा च न सेयं सदृशी तव ।  
 अहमेवानुरूपा ते भार्यारूपेण पश्य माम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,12 +1060,15 @@ am the lone one worthy to be your wife, hence treat me as your wife. [3-17-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां विरूपामसतीं करालां निर्णतोदरीम् ।  
 अनेन सह ते भ्रात्रा भक्षयिष्यामि मानुषीम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1113,15 @@ Lakshmana will use the very same wording in the next chapter when retorting Shuu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पर्वतशृङ्गाणि वनानि विविधानि च ।  
 पश्यन् सह मया कामी दण्डकान् विचरिष्यसि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1092,12 +1163,15 @@ mountaintops in the sky and in forests on the earth." So Shuurpanakha said to Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्तः काकुत्स्थः प्रहस्य मदिरेक्षणाम् ।  
 इदं वचनमारेभे वक्तुं वाक्यविशारदः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1147,5 +1221,6 @@ in lovesickness with this sentence. [3-17-29]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनेळनॆय सर्ग सम्पूर्णवायितु.॥17॥
+</details>
 </details>
 

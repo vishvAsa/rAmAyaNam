@@ -2,6 +2,8 @@
 title = "०२४ सुग्रीवविलापः-तारासान्त्वनं च"
 title_english = "024 Tara Sugreeva s resolve to die with Valii"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -32,6 +34,7 @@ uttered by Tara, which is included here also.
 
 24. सुग्रीवका शोकमग्न होकर श्रीरामसे प्राणत्यागके लिये आज्ञा माँगना, ताराका श्रीरामसे अपने वधके लिये प्रार्थना करना और श्रीरामका उसे समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -40,6 +43,8 @@ uttered by Tara, which is included here also.
 पश्यंस्तदा वाल्यनुजस्तरस्वी  
 भ्रातुर्वधेनाप्रतिमेन तेपे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,6 +88,7 @@ mighty brother Sugreeva regretted for the killing of his matchless brother. [4-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,6 +97,8 @@ mighty brother Sugreeva regretted for the killing of his matchless brother. [4-2
 जगाम रामस्य शनैः समीपं  
 भृत्यैर्वृतः सम्परिदूयमानः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,6 +147,7 @@ face, and lamenting very much he slowly paced to the near of Rama, surrounded by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,6 +156,8 @@ face, and lamenting very much he slowly paced to the near of Rama, surrounded by
 यशस्विनं लक्षणलक्षिताङ्ग-  
 मवस्थितं राघवमित्युवाच ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +207,7 @@ confront any hopping of any monkey at him, with indignation for killing Vali.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +216,8 @@ confront any hopping of any monkey at him, with indignation for killing Vali.
 ममाद्य भोगेषु नरेन्द्रसूनो  
 मनो निवृत्तं हतजीवितेन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,6 +266,7 @@ and kingship, as my life itself is rendered despicable, for I got my brother kil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -260,6 +275,8 @@ and kingship, as my life itself is rendered despicable, for I got my brother kil
 हते नृपे संशयितेऽङ्गदे च  
 न राम राज्ये रमते मनो मे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +321,7 @@ such oh, Rama, my heart is not taking delight in kingdom. [4-24-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -312,6 +330,8 @@ such oh, Rama, my heart is not taking delight in kingdom. [4-24-5]
 हते त्विदानीं हरियूथपेऽस्मिन्  
 सुतीक्ष्णमिक्ष्वाकुवर प्रतप्स्ये ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,6 +376,7 @@ monkeys Vali is put to death, I am painfully remorseful. [4-24-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -364,6 +385,8 @@ monkeys Vali is put to death, I am painfully remorseful. [4-24-6]
 यथा तथा वर्तयतः स्ववृत्त्या  
 नेमं निहत्य त्रिदिवस्य लाभः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,6 +436,7 @@ is of no good. [4-24-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,6 +445,8 @@ is of no good. [4-24-7]
 तस्यैव तद् राम वचोऽनुरूप-  
 मिदं वचः कर्म च मेऽनुरूपम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,6 +491,7 @@ in getting him killed are befitting to me, as an irrational vanara. [4-24-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,6 +500,8 @@ in getting him killed are befitting to me, as an irrational vanara. [4-24-8]
 राज्यस्य दुःखस्य च वीर सारं  
 विचिन्तयन् कामपुरस्कृतोऽपि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +547,15 @@ he that is going to take pleasure in killing his own highly honoured brother? Ex
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधो हि मे मतो नासीत् स्वमाहात्म्यव्यतिक्रमात् ।  
 ममासीद् बुद्धिदौरात्म्यात् प्राणहारी व्यतिक्रमः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +596,15 @@ taking, violating my own probity. [4-24-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रुमशाखावभग्नोऽहं मुहूर्तं परिनिष्टनन् ।  
 सान्त्वयित्वा त्वनेनोक्तो न पुनः कर्तुमर्हसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,12 +646,15 @@ but later on comforting me he said this to me, 'do not do this again, this darin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातृत्वमार्यभावश्च धर्मश्चानेन रक्षितः ।  
 मया क्रोधश्च कामश्च कपित्वं च प्रदर्शितम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,6 +694,7 @@ and also naughtiness of a monkey. [4-24-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -664,6 +703,8 @@ and also naughtiness of a monkey. [4-24-12]
 प्राप्तोऽस्मि पाप्मानमिदं वयस्य  
 भ्रातुर्वधात् त्वाष्ट्रवधादिवेन्द्रः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -724,6 +765,7 @@ slaying a Brahman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -732,6 +774,8 @@ slaying a Brahman.
 को नाम पाप्मानमिमं सहेत  
 शाखामृगस्य प्रतिपत्तुमिच्छेत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,6 +829,7 @@ puraNa *, sixth canto.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -793,6 +838,8 @@ puraNa *, sixth canto.
 अधर्मयुक्तं कुलनाशयुक्त-  
 मेवंविधं राघव कर्म कृत्वा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,6 +884,7 @@ the price regent of this kingdom, wherefore to become its regent? [4-24-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -845,6 +893,8 @@ the price regent of this kingdom, wherefore to become its regent? [4-24-15]
 शोको महान् मामभिवर्ततेऽयं  
 वृष्टेर्यथा निम्नमिवाम्बुवेगः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,6 +940,7 @@ towards a declivity. [4-24-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -898,6 +949,8 @@ towards a declivity. [4-24-16]
 एनोमयो मामभिहन्ति हस्ती  
 दृप्तो नदीकूलमिव प्रवृद्धः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -943,6 +996,7 @@ sin, is goring me as it would gore a riverbed. [4-24- 17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -951,6 +1005,8 @@ sin, is goring me as it would gore a riverbed. [4-24- 17]
 अग्नौ विवर्णं परितप्यमानं  
 किट्टं यथा राघव जातरूपम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,6 +1057,7 @@ is unshed. [4-24-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1009,6 +1066,8 @@ is unshed. [4-24-18]
 अस्याङ्गदस्यापि च शोकतापा-  
 दर्धस्थितप्राणमितीव मन्ये ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,6 +1112,7 @@ Vali. [4-24-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1061,6 +1121,8 @@ Vali. [4-24-19]
 न चापि विद्येत स वीर देशो  
 यस्मिन् भवेत् सोदरसन्निकर्षः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1122,6 +1184,7 @@ own brothers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1130,6 +1193,8 @@ own brothers.
 विना तु पुत्रं परितापदीना  
 सा नैव जीवेदिति निश्चितं मे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1178,6 +1243,7 @@ son her misery will become miserable, and then she too may not live... this is m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1186,6 +1252,8 @@ son her misery will become miserable, and then she too may not live... this is m
 इमे विचेष्यन्ति हरिप्रवीराः  
 सीतां निदेशे परिवर्तमानाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1237,6 +1305,7 @@ your control. [4-24-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1245,6 +1314,8 @@ your control. [4-24-22]
 कुलस्य हन्तारमजीवनार्हं  
 रामानुजानीहि कृतागसं माम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,6 +1365,7 @@ one to live, and hence permit me to commit myself to fire..." Thus Sugreeva said
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1302,6 +1374,8 @@ one to live, and hence permit me to commit myself to fire..." Thus Sugreeva said
 सञ्जातबाष्पः परवीरहन्ता  
 रामो मुहूर्तं विमना बभूव ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1356,6 +1430,7 @@ of Sugreeva to self-immolate with his dead brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1364,6 +1439,8 @@ of Sugreeva to self-immolate with his dead brother.
 रामो रुदन्तीं व्यसने निमग्नां  
 समुत्सुकः सोऽथ ददर्श ताराम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1413,6 +1490,7 @@ with all his concernedness Rama paced towards her. [4-24-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1421,6 +1499,8 @@ with all his concernedness Rama paced towards her. [4-24-25]
 उत्थापयामासुरदीनसत्त्वां  
 मन्त्रिप्रधानाः कपिराजपत्नीम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1465,6 +1545,7 @@ husband. [4-24-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1473,6 +1554,8 @@ husband. [4-24-26]
 ददर्श रामं शरचापपाणिं  
 स्वतेजसा सूर्यमिव ज्वलन्तम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1528,6 +1611,7 @@ padma puraaNa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1536,6 +1620,8 @@ padma puraaNa*
 अदृष्टपूर्वं पुरुषप्रधान-  
 मयं स काकुत्स्थ इति प्रजज्ञे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,6 +1678,7 @@ vidavad jana parishrama*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1600,6 +1687,8 @@ vidavad jana parishrama*
 आर्तातितूर्णं व्यसनं प्रपन्ना  
 जगाम तारा परिविह्वलन्ती ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1649,6 +1738,7 @@ demanded of the noblemen/women when dealing with higher beings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1657,6 +1747,8 @@ demanded of the noblemen/women when dealing with higher beings.
 मनस्विनी वाक्यमुवाच तारा  
 रामं रणोत्कर्षणलब्धलक्ष्यम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1715,6 +1807,7 @@ pure being automatically provides a serene mind to anyone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1723,6 +1816,8 @@ pure being automatically provides a serene mind to anyone.
 अक्षीणकीर्तिश्च विचक्षणश्च  
 क्षितिक्षमावान् क्षतजोपमाक्षः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1928,6 +2023,7 @@ have their own stunning effects.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1936,6 +2032,8 @@ have their own stunning effects.
 मनुष्यदेहाभ्युदयं विहाय  
 दिव्येन देहाभ्युदयेन युक्तः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1994,6 +2092,7 @@ have their own stunning effects.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2002,6 +2101,8 @@ have their own stunning effects.
 हता गमिष्यामि समीपमस्य  
 न मां विना वीर रमेत वाली ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2022,6 +2123,7 @@ have their own stunning effects.
 
 (‘अतः मैं प्रार्थना करती हूँ कि) आपने जिस बाणसे मेरे प्रियतम पतिका वध किया है, उसी बाणसे आप मुझे भी मार डालिये । मैं मरकर उनके समीप चली जाऊँगी । वीर! मेरे बिना वाली कहीं भी सुखी नहीं रह सकेंगे ॥ ३३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2030,6 +2132,8 @@ have their own stunning effects.
 न ह्येष उच्चावचताम्रचूडा  
 विचित्रवेषाप्सरसोऽभजिष्यत् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2095,6 +2199,7 @@ killed at your hand I wish to reach his near, as Vali takes no delight without m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2103,6 +2208,8 @@ killed at your hand I wish to reach his near, as Vali takes no delight without m
 रम्ये नगेन्द्रस्य तटावकाशे  
 विदेहकन्यारहितो यथा त्वम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2148,6 +2255,7 @@ as you are without Seetha. [4-24-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2156,6 +2264,8 @@ as you are without Seetha. [4-24-35]
 तत् त्वं प्रजानञ्जहि मां न वाली  
 दुःखं ममादर्शनजं भजेत ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2206,6 +2316,7 @@ are aware of it, you kill me; let not Vali get any discomfort when he does not f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2214,6 +2325,8 @@ are aware of it, you kill me; let not Vali get any discomfort when he does not f
 आत्मेयमस्येति हि मां जहि त्वं  
 न स्त्रीवधः स्यान्मनुजेन्द्रपुत्र ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2265,6 +2378,7 @@ me, then there will not be any blemish of woman killing. [4-24-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2273,6 +2387,8 @@ me, then there will not be any blemish of woman killing. [4-24-37]
 दारप्रदानाद्धि न दानमन्यत्  
 प्रदृश्यते ज्ञानवतां हि लोके ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2332,6 +2448,7 @@ the wife.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2340,6 +2457,8 @@ the wife.'
 अनेन दानेन न लप्स्यसे त्व-  
 मधर्मयोगं मम वीर घातात् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2384,6 +2503,7 @@ husband, you too will not get any touch of sin. [4-24-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2394,6 +2514,8 @@ husband, you too will not get any touch of sin. [4-24-39]
 विना वरार्होत्तमहेममालिना  
 चिरं न शक्ष्यामि नरेन्द्र जीवितुम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2446,6 +2568,7 @@ one, and who wears a precious and exquisite golden pendant..." Thus Tara pleaded
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2454,6 +2577,8 @@ one, and who wears a precious and exquisite golden pendant..." Thus Tara pleaded
 मा वीरभार्ये विमतिं कुरुष्व  
 लोको हि सर्वो विहितो विधात्रा ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2498,6 +2623,7 @@ world to be in this way, isn't so! [4-24-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2506,6 +2632,8 @@ world to be in this way, isn't so! [4-24-41]
 त्रयोऽपि लोका विहितं विधानं  
 नातिक्रमन्ते वशगा हि तस्य ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2555,6 +2683,7 @@ foreordained predestination. [4-24-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2563,6 +2692,8 @@ foreordained predestination. [4-24-42]
 धात्रा विधानं विहितं तथैव  
 न शूरपत्न्यः परिदेवयन्ति ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2636,6 +2767,7 @@ Ahalya, and listening their episodes is said to remove any evil-visualisations, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2644,6 +2776,8 @@ Ahalya, and listening their episodes is said to remove any evil-visualisations, 
 सा वीरपत्नी ध्वनता मुखेन  
 सुवेषरूपा विरराम तारा ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2697,5 +2831,6 @@ is fair and whose attire is proper, she paused her plaint, but with a puling exp
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥24॥
+</details>
 </details>
 

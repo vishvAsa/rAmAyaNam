@@ -2,6 +2,8 @@
 title = "०३९ सगराश्वमेधः"
 title_english = "039 sagara s sons dig earth in search of ritual hose"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -26,12 +28,15 @@ The ritual horse released by Emperor Sagara is snatched away by Indra
 
 39. इन्द्रके द्वारा राजा सगरके यज्ञसम्बन्धी अश्वका अपहरण, सगरपुत्रोंद्वारा सारी पृथ्वीका भेदन तथा देवताओंका ब्रह्माजीको यह सब समाचार बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा कथान्ते रघुनन्दनः ।  
 उवाच परमप्रीतो मुनिं दीप्तमिवानलम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ On listening the narration of Vishvamitra, Rama, the delighter of Raghu's
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोतुमिच्छामि भद्रं ते विस्तरेण कथामिमाम् ।  
 पूर्वजो मे कथं ब्रह्मन् यज्ञं वै समुपाहरत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ I am interested to listen this episode exhaustively, oh, Brahman, let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा कौतूहलसमन्वितः ।  
 विश्वामित्रस्तु काकुत्स्थमुवाच प्रहसन्निव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +177,7 @@ On listening the words of Rama that are inclusive of his inquisitiveness,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -174,6 +186,8 @@ On listening the words of Rama that are inclusive of his inquisitiveness,
 विन्ध्यपर्वतमासाद्य निरीक्षेते परस्परम् ।  
 तयोर्मध्ये समभवद् यज्ञः स पुरुषोत्तम ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +255,7 @@ The father-in-law of god Shankara who is well-known by the name of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -248,6 +263,8 @@ The father-in-law of god Shankara who is well-known by the name of
 तस्याश्वचर्यां काकुत्स्थ दृढधन्वा महारथः ॥ ६ ॥  
 अंशुमानकरोत् तात सगरस्य मते स्थितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +308,15 @@ Details regarding the release of horse are at Bala Kanda 1-14-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पर्वणि तं यज्ञं यजमानस्य वासवः ॥ ७ ॥  
 राक्षसीं तनुमास्थाय यज्ञियाश्वमपाहरत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +356,7 @@ And on the day of a sacred function called ukthyam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -346,6 +367,8 @@ And on the day of a sacred function called ukthyam
 यज्ञच्छिद्रं भवत्येतत् सर्वेषामशिवाय नः ॥ १० ॥  
 तत् तथा क्रियतां राजन् यज्ञोऽच्छिद्रः कृतो भवेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,6 +457,7 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -442,6 +466,8 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
 गतिं पुत्रा न पश्यामि रक्षसां पुरुषर्षभाः ॥ १२ ॥  
 मन्त्रपूतैर्महाभागैरास्थितो हि महाक्रतुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,6 +531,7 @@ On hearing the words of religious-teachers that king Sagara indeed
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -514,6 +541,8 @@ On hearing the words of religious-teachers that king Sagara indeed
 यावत् तुरगसन्दर्शस्तावत् खनत मेदिनीम् ।  
 तमेव हयहर्तारं मार्गमाणा ममाज्ञया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +609,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षितः पौत्रसहितः सोपाध्यायगणस्त्वहम् ।  
 इह स्थास्यामि भद्रं वो यावत् तुरगदर्शनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +654,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सर्वे हृष्टमनसो राजपुत्रा महाबलाः ।  
 जग्मुर्महीतलं राम पितुर्वचनयन्त्रिताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,6 +698,7 @@ Animated by their father's words those great-mighty princes enthusiastically
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -670,6 +706,8 @@ Animated by their father's words those great-mighty princes enthusiastically
 योजनायामविस्तारमेकैको धरणीतलम् ।  
 बिभिदुः पुरुषव्याघ्रा वज्रस्पर्शसमैर्भुजैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +761,15 @@ But, oh, tigerly-man Rama, on going round the earth in its entirety
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूलैरशनिकल्पैश्च हलैश्चापि सुदारुणैः ।  
 भिद्यमाना वसुमती ननाद रघुनन्दन ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -763,12 +804,15 @@ Mother Earth bewailed while she is ruptured with spears also that are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नागानां वध्यमानानामसुराणां च राघव ।  
 राक्षसानां दुराधर्षं सत्त्वानां निनदोऽभवत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +857,15 @@ Oh, Raghava, there emerged an unbearable rumpus from the serpents,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योजनानां सहस्राणि षष्टिं तु रघुनन्दन ।  
 बिभिदुर्धरणीं राम रसातलमनुत्तमम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +902,15 @@ Oh, Rama, the legatee of Raghu's dynasty, thus sixty thousand square
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पर्वतसम्बाधं जम्बूद्वीपं नृपात्मजाः ।  
 खनन्तो नृपशार्दूल सर्वतः परिचक्रमुः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +956,15 @@ The *jambudwiipa* is a continent according to Hindu mythology
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सासुराः सहपन्नगाः ।  
 सम्भ्रान्तमनसः सर्वे पितामहमुपागमन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1003,15 @@ All the gods along with gandharva-s, asura-s, and reptiles who are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रसाद्य महात्मानं विषण्णवदनास्तदा ।  
 ऊचुः परमसन्त्रस्ताः पितामहमिदं वचः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1047,15 @@ They the gods who are very highly scared, and who are chap-fallen,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् पृथिवी सर्वा खन्यते सगरात्मजैः ।  
 बहवश्च महात्मानो वध्यन्ते जलचारिणः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,12 +1091,15 @@ They the gods who are very highly scared, and who are chap-fallen,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं यज्ञहरोऽस्माकमनेनाश्वोऽपनीयते ।  
 इति ते सर्वभूतानि हिंसन्ति सगरात्मजाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,5 +1146,6 @@ They the gods who are very highly scared, and who are chap-fallen,
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॊम्भत्तने सर्ग पूर्णवायितु.॥39॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००७ राम-सुग्रीवयोः परस्परं साहाय्यप्रतिज्ञा"
 title_english = "007 Friendly discourse"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ Sugreeva. And Sugreeva also promises to make all his efforts to search for Seeth
 
 7. सुग्रीवका श्रीरामको समझाना तथा श्रीरामका सुग्रीवको उनकी कार्यसिद्धिका विश्वास दिलाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सुग्रीवो रामेणार्तेन वानरः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं सबाष्पं बाष्पगद‍्गदः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ tears rolling in eyes and also voice trembling with tears said this to Rama. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न जाने निलयं तस्य सर्वथा पापरक्षसः ।  
 सामर्थ्यं विक्रमं वापि दौष्कुलेयस्य वा कुलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ demon from a sinister dynasty, in any wise... [4-7-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यं तु प्रतिजानामि त्यज शोकमरिन्दम ।  
 करिष्यामि तथा यत्नं यथा प्राप्स्यसि मैथिलीम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ Maithili therefor I strive to make effort, let anguish be discarded... [4-7-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं सगणं हत्वा परितोष्यात्मपौरुषम् ।  
 तथास्मि कर्ता नचिराद् यथा प्रीतो भविष्यसि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ as to how to you pride yourself thereby, I will make it happen in that way in no
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलं वैक्लव्यमालम्ब्य धैर्यमात्मगतं स्मर ।  
 त्वद्विधानां न सदृशमीदृशं बुद्धिलाघवम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ unseemly for persons of your sort to have this kind of mental ineptness... [4-7-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयापि व्यसनं प्राप्तं भार्याविरहजं महत् ।  
 नाहमेवं हि शोचामि धैर्यं न च परित्यजे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ not despair this way, nor I have forsaken my courage... [4-7-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं तामनुशोचामि प्राकृतो वानरोऽपि सन् ।  
 महात्मा च विनीतश्च किं पुनर्धृतिमान् महान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +371,15 @@ wife, why tell about a great soul like you who are well read and courageous... [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पमापतितं धैर्यान्निग्रहीतुं त्वमर्हसि ।  
 मर्यादां सत्त्वयुक्तानां धृतिं नोत्स्रष्टुमर्हसि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ of you to discard the courage and propriety of self-controlled people... [4-7-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यसने वार्थकृच्छ्रे वा भये वा जीवितान्तगे ।  
 विमृशंश्च स्वयाबुद्ध्या धृतिमान् नावसीदति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +468,15 @@ courageous one does not sink down, but indeed introspects in his own mind... [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालिशस्तु नरो नित्यं वैक्लव्यं योऽनुवर्तते ।  
 स मज्जत्यवशः शोके भाराक्रान्तेव नौर्जले ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +517,15 @@ himself, and he drowns down in that melancholy like a overweighing ship in water
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषोऽञ्जलिर्मया बद्धः प्रणयात् त्वां प्रसादये ।  
 पौरुषं श्रय शोकस्य नान्तरं दातुमर्हसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -530,12 +565,15 @@ self-esteem and you should not give any leeway to sadness... [4-7-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये शोकमनुवर्तन्ते न तेषां विद्यते सुखम् ।  
 तेजश्च क्षीयते तेषां न त्वं शोचितुमर्हसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +613,15 @@ brilliance too dwindles, thus saddening is inapt on your part... [4-7-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकेनाभिप्रपन्नस्य जीविते चापि संशयः ।  
 स शोकं त्यज राजेन्द्र धैर्यमाश्रय केवलम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +661,15 @@ that sadness and just hold on to courage...[4-7-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हितं वयस्यभावेन ब्रूहि नोपदिशामि ते ।  
 वयस्यतां पूजयन्मे न त्वं शोचितुमर्हसि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,12 +709,15 @@ regard my friendship then your saddening is inapt..." [Thus said Sugreeva to Ram
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मधुरं सान्त्वितस्तेन सुग्रीवेण स राघवः ।  
 मुखमश्रुपरिक्लिन्नं वस्त्रान्तेन प्रमार्जयत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +760,15 @@ which is covered fully with tears. [4-7-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृतिस्थस्तु काकुत्स्थः सुग्रीवचनात् प्रभुः ।  
 सम्परिष्वज्य सुग्रीवमिदं वचनमब्रवीत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +811,15 @@ embracing him Rama said this sentence to him. [4-7-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्तव्यं यद् वयस्येन स्निग्धेन च हितेन च ।  
 अनुरूपं च युक्तं च कृतं सुग्रीव तत् त्वया ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +859,15 @@ and a timely one too, is what you have performed with your friendly advise... [4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष च प्रकृतिस्थोऽहमनुनीतस्त्वया सखे ।  
 दुर्लभो हीदृशो बन्धुरस्मिन् काले विशेषतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,12 +907,15 @@ impossible to get this kind of friend, especially at these times... [4-7-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तु यत्नस्त्वया कार्यो मैथिल्याः परिमार्गणे ।  
 राक्षसस्य च रौद्रस्य रावणस्य दुरात्मनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +954,15 @@ your endeavour... [4-7-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया च यदनुष्ठेयं विस्रब्धेन तदुच्यताम् ।  
 वर्षास्विव च सुक्षेत्रे सर्वं सम्पद्यते तव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,12 +1002,15 @@ will reap like the crops planted during rainy season in good lands... [4-7-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया च यदिदं वाक्यमभिमानात् समीरितम् ।  
 तत्त्वया हरिशार्दूल तत्त्वमित्युपधार्यताम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1050,15 @@ tigerly-monkey, deem them as doubtless facts... [4-7-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतं नोक्तपूर्वं मे न च वक्ष्ये कदाचन ।  
 एतत्ते प्रतिजानामि सत्येनैव शपाम्यहम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,12 +1098,15 @@ I am promising you taking oath on that truthfulness alone.. [4-7-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टः सुग्रीवो वानरैः सचिवैः सह ।  
 राघवस्य वचः श्रुत्वा प्रतिज्ञातं विशेषतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1075,12 +1146,15 @@ gladdened, especially of Rama promise. [4-7-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेकान्तसम्पृक्तौ ततस्तौ नरवानरौ ।  
 उभावन्योन्यसदृशं सुखं दुःखमभाषताम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,6 +1194,7 @@ mutually befitting manner about their pleasures and pains. [4-7-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1128,6 +1203,8 @@ mutually befitting manner about their pleasures and pains. [4-7-24]
 कृतं स मेने हरिवीरमुख्य-  
 स्तदा च कार्यं हृदयेन विद्वान् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,5 +1261,6 @@ manoeuvre to surpass his dominant brother Vali is accomplished. [4-7-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद एळनॆय सर्ग सम्पूर्णवायितु.॥7॥
+</details>
 </details>
 

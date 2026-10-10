@@ -2,6 +2,8 @@
 title = "०५५ विश्वामित्रास्त्रमोक्षणम्"
 title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -23,12 +25,15 @@ infuriated Sage Vashishta resorts to his Brahma-baton to confront Vishvamitra.
 
 55. अपने सौ पुत्रों और सारी सेनाके नष्ट हो जानेपर विश्वामित्रका तपस्या करके महादेवजीसे दिव्यास्त्र पाना तथा उनका वसिष्ठके आश्रमपर प्रयोग करना एवं वसिष्ठजीका ब्रह्मदण्ड लेकर उनके सामने खड़ा होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तानाकुलान् दृष्ट्वा विश्वामित्रास्त्रमोहितान् ।  
 वसिष्ठश्चोदयामास कामधुक् सृज योगतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ to Rama. [1-55-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या हुङ्कारतो जाताः काम्बोजा रविसन्निभाः ।  
 ऊधसश्चाथ सम्भूता बर्बराः शस्त्रपाणयः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,12 +98,15 @@ _________________
 
 आग आ गोवु पुनः हुङ्कार माडिदळु. आकॆय हुङ्कारदिन्द सूर्यनन्तॆ तेजस्वी काम्बोजरु उत्पन्नरादरु. कॆच्चलिनिन्द शस्त्रधारी बर्बररु प्रकटरादरु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योनिदेशाच्च यवनाः शकृद्देशाच्छकाः स्मृताः ।  
 रोमकूपेषु म्लेच्छाश्च हारीताः सकिरातकाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -133,12 +144,15 @@ from her hair-roots Mleccha-s, Haariitaa-s along with Kirataka-s are issued fort
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैस्तन्निषूदितं सर्वं विश्वामित्रस्य तत्क्षणात् ।  
 सपदातिगजं साश्वं सरथं रघुनन्दन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -179,6 +193,7 @@ Cow. [1-55-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,6 +202,8 @@ Cow. [1-55-4]
 अभ्यधावत् सुसङ्क्रुद्धं वसिष्ठं जपतां वरम् ।  
 हुङ्कारेणैव तान् सर्वान् निर्ददाह महानृषिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +253,15 @@ sounds. [1-55-5, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते साश्वरथपादाता वसिष्ठेन महात्मना ।  
 भस्मीकृता मुहूर्तेन विश्वामित्रसुतास्तथा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ their horses, chariots, and foot-soldiers to ashes. [1-55-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा विनाशितान् सर्वान् बलं च सुमहायशाः ।  
 सव्रीडं चिन्तयाविष्टो विश्वामित्रोऽभवत् तदा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +350,15 @@ and beset by distress. [1-55-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्र इव निर्वेगो भग्नद्रंष्ट्र इवोरगः ।  
 उपरक्त इवादित्यः सद्यो निष्प्रभतां गतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,12 +406,15 @@ forces are ruined along with his sons. [1-55-9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतपुत्रबलो दीनो लूनपक्ष इव द्विजः ।  
 हतसर्वबलोत्साहो निर्वेदं समपद्यत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +434,15 @@ _________________
 
 पुत्ररु हागू सैन्यवु सत्तुहोदुदरिन्द अवनु रॆक्कॆकित्त पक्षियन्तॆ दीननादनु. अवन ऎल्ल बल मत्तु उत्साह नाशवायितु. अवनु मनस्सिनल्लि बहळ खिन्ननादनु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुत्रमेकं राज्याय पालयेति नियुज्य च ।  
 पृथिवीं क्षत्रधर्मेण वनमेवाभ्यपद्यत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +478,15 @@ took recourse to forests. [1-55-10b, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा हिमवत्पार्श्वे किन्नरोरगसेवितम् ।  
 महादेवप्रसादार्थं तपस्तेपे महातपाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +530,15 @@ for the sake of beneficence of the Great God, Shiva. [1-55-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनचित् त्वथ कालेन देवेशो वृषभध्वजः ।  
 दर्शयामास वरदो विश्वामित्रं महामुनिम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +571,15 @@ to that great-saint Vishvamitra, for He is a ready boon-giver. [1-55-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं तप्यसे राजन् ब्रूहि यत् ते विवक्षितम् ।  
 वरदोऽस्मि वरो यस्ते काङ्क्षितः सोऽभिधीयताम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +615,15 @@ by you and what boon you seek that be made known to me for I am the boon-giver.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु देवेन विश्वामित्रो महातपाः ।  
 प्रणिपत्य महादेवं विश्वामित्रोऽब्रवीदिदम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +656,15 @@ said this way. [1-55-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तुष्टो महादेव धनुर्वेदो ममानघ ।  
 साङ्गोपाङ्गोपनिषदः सरहस्यः प्रदीयताम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,6 +701,7 @@ doctrines... they may kindly be bestowed upon me... [1-55-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -661,6 +709,8 @@ doctrines... they may kindly be bestowed upon me... [1-55-16]
 गन्धर्वयक्षरक्षःसु प्रतिभान्तु ममानघ ॥ १७ ॥  
 तव प्रसादाद् भवतु देवदेव ममेप्सितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -705,6 +755,7 @@ aspiration.' Thus Vishvamitra entreated God Shiva. [1-55-17, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -712,6 +763,8 @@ aspiration.' Thus Vishvamitra entreated God Shiva. [1-55-17, 18a]
 प्राप्य चास्त्राणि देवेशाद् विश्वामित्रो महाबलः ।  
 दर्पेण महता युक्तो दर्पपूर्णोऽभवत् तदा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -763,12 +816,15 @@ went away -disappeared.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवर्धमानो वीर्येण समुद्र इव पर्वणि ।  
 हतं मेने तदा राम वसिष्ठमृषिसत्तमम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -805,12 +861,15 @@ that sagaciously mighty sage Vashishta is now 'dead.' [1-55-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गत्वाऽऽश्रमपदं मुमोचास्त्राणि पार्थिवः ।  
 यैस्तत् तपोवनं नाम निर्दग्धं चास्त्रतेजसा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,12 +910,15 @@ of which missiles that ascetic woodland is completely burnt down in its entirety
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदीर्यमाणमस्त्रं तद् विश्वामित्रस्य धीमतः ।  
 दृष्ट्वा विप्रद्रुता भीता मुनयः शतशो दिशः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,12 +952,15 @@ saints were frightened and they very speedily fled in hundreds of ways. [1-55-22
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठस्य च ये शिष्या ये च वै मृगपक्षिणः ।  
 विद्रवन्ति भयाद् भीता नानादिग्भ्यः सहस्रशः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,12 +1000,15 @@ and thousands of them have hastily fled to numerous directions. [1-55-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठस्याश्रमपदं शून्यमासीन्महात्मनः ।  
 मुहूर्तमिव निःशब्दमासीदीरिणसन्निभम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1049,15 @@ evacuee. [1-55-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वदतो वै वसिष्ठस्य मा भैरिति मुहुर्मुहुः ।  
 नाशयाम्यद्य गाधेयं नीहारमिव भास्करः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1099,15 @@ fled. [1-55-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा वसिष्ठो जपतां वरः ।  
 विश्वामित्रं तदा वाक्यं सरोषमिदमब्रवीत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1067,12 +1141,15 @@ meditators rancorously said this word to Vishvamitra. [1-55-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रमं चिरसंवृद्धं यद् विनाशितवानसि ।  
 दुराचारो हि यन्मूढस्तस्मात् त्वं न भविष्यसि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1125,12 +1202,15 @@ show you who is fit enough to survive, an instructor or an intruder, in effacing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा परमक्रुद्धो दण्डमुद्यम्य सत्वरः ।  
 विधूम इव कालाग्निर्यमदण्डमिवापरम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,5 +1255,6 @@ Vishvamitra." Thus, Sage Shataananda continued his narration of Vishvamitra's le
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तैदनॆय सर्ग पूर्णवायितु. ॥55॥
+</details>
 </details>
 

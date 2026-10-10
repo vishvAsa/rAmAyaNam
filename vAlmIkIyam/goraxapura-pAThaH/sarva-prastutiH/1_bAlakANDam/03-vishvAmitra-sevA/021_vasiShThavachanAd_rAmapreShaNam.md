@@ -2,6 +2,8 @@
 title = "०२१ वसिष्ठवचनाद् रामप्रेषणम्"
 title_english = "021 Ire of sage vishvamitra vashiShTha appeases dasharatha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -24,12 +26,15 @@ The ire of sage Vishvamitra is shown at king Dasharatha. To pacify sage Vishvami
 
 21. विश्वामित्रके रोषपूर्ण वचन तथा वसिष्ठका राजा दशरथको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य स्नेहपर्याकुलाक्षरम् ।  
 समन्युः कौशिको वाक्यं प्रत्युवाच महीपतिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमर्थं प्रतिश्रुत्य प्रतिज्ञां हातुमिच्छसि ।  
 राघवाणामयुक्तोऽयं कुलस्यास्य विपर्ययः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +179,15 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 
 इति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदीदं ते क्षमं राजन् गमिष्यामि यथागतम् ।  
 मिथ्याप्रतिज्ञः काकुत्स्थ सुखी भव सुहृद्‍वृतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +228,15 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य रोषपरीतस्य विश्वामित्रस्य धीमतः ।  
 चचाल वसुधा कृत्स्ना देवानां च भयं महत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -265,12 +279,15 @@ When that prudent sage Vishvamitra is thus enwrapped in fury, then the whole ear
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रस्तरूपं तु विज्ञाय जगत् सर्वं महानृषिः ।  
 नृपतिं सुव्रतो धीरो वसिष्ठो वाक्यमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,12 +322,15 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां कुले जातः साक्षाद् धर्म इवापरः ।  
 धृतिमान् सुव्रतः श्रीमान् न धर्मं हातुमर्हसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +366,15 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिषु लोकेषु विख्यातो धर्मात्मा इति राघवः ।  
 स्वधर्मं प्रतिपद्यस्व नाधर्मं वोढुमर्हसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +415,15 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिश्रुत्य करिष्येति उक्तं वाक्यमकुर्वतः ।  
 इष्टापूर्तवधो भूयात् तस्माद् रामं विसर्जय ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +465,15 @@ In some Vedic rituals activates for social service are undertaken, and they are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतास्त्रमकृतास्त्रं वा नैनं शक्ष्यन्ति राक्षसाः ।  
 गुप्तं कुशिकपुत्रेण ज्वलनेनामृतं यथा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +514,15 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष विग्रहवान् धर्म एष वीर्यवतां वरः ।  
 एष विद्याधिको लोके तपसश्च परायणम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -530,12 +562,15 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषोऽस्त्रान् विविधान् वेत्ति त्रैलोक्ये सचराचरे ।  
 नैनमन्यः पुमान् वेत्ति न च वेत्स्यन्ति केचन ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +607,15 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न देवा नर्षयः केचिन्नामरा न च राक्षसाः ।  
 गन्धर्वयक्षप्रवराः सकिन्नरमहोरगाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वास्त्राणि कृशाश्वस्य पुत्राः परमधार्मिकाः ।  
 कौशिकाय पुरा दत्ता यदा राज्यं प्रशासति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +695,15 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽपि पुत्राः कृशाश्वस्य प्रजापतिसुतासुताः ।  
 नैकरूपा महावीर्या दीप्तिमन्तो जयावहाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +744,15 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जया च सुप्रभा चैव दक्षकन्ये सुमध्यमे ।  
 ते सूतेऽस्त्राणि शस्त्राणि शतं परमभास्वरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -749,12 +796,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चाशतं सुताल्ँ लेभे जया लब्धवरा वरान् ।  
 वधायासुरसैन्यानामप्रमेयानरूपिणः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +849,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्रभाजनयच्चापि पुत्रान् पञ्चाशतं पुनः ।  
 संहारान् नाम दुर्धर्षान् दुराक्रामान् बलीयसः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -845,12 +898,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि चास्त्राणि वेत्त्येष यथावत् कुशिकात्मजः ।  
 अपूर्वाणां च जनने शक्तो भूयश्च धर्मवित् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,12 +947,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनास्य मुनिमुख्यस्य धर्मज्ञस्य महात्मनः ।  
 न किञ्चिदस्त्यविदितं भूतं भव्यं च राघव ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,12 +991,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवंवीर्यो महातेजा विश्वामित्रो महायशाः ।  
 न रामगमने राजन् संशयं गन्तुमर्हसि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -973,12 +1035,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां निग्रहणे शक्तः स्वयं च कुशिकात्मजः ।  
 तव पुत्रहितार्थाय त्वामुपेत्याभियाचते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,6 +1079,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1022,6 +1088,8 @@ _________________
 गमनमभिरुरोच राघवस्य  
 प्रथितयशाः कुशिकात्मजाय बुद्‍ध्या ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1077,5 +1145,6 @@ Thus the prominent king from Raghu dynasty, namely Dasharatha, became serene-min
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥21॥
+</details>
 </details>
 

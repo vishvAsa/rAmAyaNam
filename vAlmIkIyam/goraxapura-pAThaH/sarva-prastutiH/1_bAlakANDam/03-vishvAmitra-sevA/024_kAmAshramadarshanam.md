@@ -2,6 +2,8 @@
 title = "०२४ कामाश्रमदर्शनम्"
 title_english = "024 The legend of deomoness tATaka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -29,12 +31,15 @@ preparing him to kill her.
 
 > कथयाम् आस...  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते विमले कृताह्निकमरिन्दमौ ।  
 विश्वामित्रं पुरस्कृत्य नद्यास्तीरमुपागतौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ ritualistic chores of dawn. [1-24-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते च सर्वे महात्मानो मुनयः संशितव्रताः ।  
 उपस्थाप्य शुभां नावं विश्वामित्रमथाब्रुवन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ said to sage Vishvamitra. [1-24-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोहतु भवान् नावं राजपुत्रपुरस्कृतः ।  
 अरिंष्ट गच्छ पन्थानं मा भूत् कालस्य पर्ययः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ prosperous route without the shift of time." So said the sages. [1-24-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रस्तथेत्युक्त्वा तानृषीन् प्रतिपूज्य च ।  
 ततार सहितस्ताभ्यां सरितं सागरङ्गमाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,6 +216,7 @@ cruised the river that itself is cruising towards ocean, along with both the pri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,6 +224,8 @@ cruised the river that itself is cruising towards ocean, along with both the pri
 मध्यमागम्य तोयस्य तस्य शब्दस्य निश्चयम् ॥ ५ ॥  
 ज्ञातुकामो महातेजाः सह रामः कनीयसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ waters along with his younger brother, and that brilliant one Rama desired to kn
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामः सरिन्मध्ये पप्रच्छ मुनिपुङ्गवम् ॥ ६ ॥  
 वारिणो भिद्यमानस्य किमयं तुमुलो ध्वनिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +318,15 @@ sound sire, as though slashing water?" [1-24-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य वचः श्रुत्वा कौतूहलसमन्वितम् ॥ ७ ॥  
 कथयामास धर्मात्मा तस्य शब्दस्य निश्चयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +359,7 @@ tell the significance of that sound. [1-24-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,11 +367,14 @@ tell the significance of that sound. [1-24-7b, 8a]
 ब्रह्मणा नरशार्दूल तेनेदं मानसं सरः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 कैलासपर्वते राम मनसा निर्मितं परम् ॥ ८ ॥  
 ब्रह्मणा नरशार्दूल तेनेदं मानसं सरः ।
 </details>
+
 <details><summary>मूलम् - त्र्यम्बकः</summary>
 
 कैलास-शिखरे राम मनसा निर्मितं सरः ।  
@@ -380,12 +407,15 @@ is called Maanasa Lake. [1-24-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् सुस्राव सरसः सायोध्यामुपगूहते ॥ ९ ॥  
 सरःप्रवृत्ता सरयूः पुण्या ब्रह्मसरश्च्युता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,12 +432,15 @@ is called Maanasa Lake. [1-24-8b, 9a]
 
 आ सरोवरदिन्द ऒन्दु नदि हॊरटु अयोध्यापुरियन्नु सुत्तुवरिदु हरियुत्तिदॆ. ब्रह्म सरस्सिनिन्द हॊरट कारण अदु पवित्र सरयू नदि ऎन्दु विख्यातवागिदॆ.॥9½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यायमतुलः शब्दो जाह्नवीमभिवर्तते ॥ १० ॥  
 वारिसङ्क्षोभजो राम प्रणामं नियतः कुरु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +483,15 @@ So said Vishvamitra to the princes. [1-24-9b, 10, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभ्यां तु तावुभौ कृत्वा प्रणाममतिधार्मिकौ ॥ ११ ॥  
 तीरं दक्षिणमासाद्य जग्मतुर्लघुविक्रमौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +533,15 @@ princes proceeded further on reaching the southern riverbank. [1-24-11b, 12a]
 
 अनेन पुण्य-तीर्थे दर्शन-समनन्तरम् एव वन्दनादि-पूजा कर्तव्येति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वनं घोरसङ्काशं दृष्ट्वा नरवरात्मजः ॥ १२ ॥  
 अविप्रहतमैक्ष्वाकः पप्रच्छ मुनिपुङ्गवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,6 +575,7 @@ the eminent sage Vishvamitra. [1-24-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -543,6 +583,8 @@ the eminent sage Vishvamitra. [1-24-12b, 13a]
 भैरवैः श्वापदैः कीर्णं शकुन्तैर्दारुणारवैः ।  
 नानाप्रकारैः शकुनैर्वाश्यद्भिर्भैरवस्वनैः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,6 +653,7 @@ which are all horribly strident. [1-24-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -618,6 +661,8 @@ which are all horribly strident. [1-24-13b, 14a]
 धवाश्वकर्णककुभैर्बिल्वतिन्दुकपाटलैः ॥ १५ ॥  
 सङ्कीर्णं बदरीभिश्च किं न्विदं दारुणं वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +716,15 @@ omitted the Kutaja (Echites) and the Tinduka (Diospyrus). Griffith.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महातेजा विश्वामित्रो महामुनिः ॥ १६ ॥  
 श्रूयतां वत्स काकुत्स्थ यस्यैतद् दारुणं वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,12 +758,15 @@ boy Rama, whose is this wretched forest. [1-24-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ जनपदौ स्फीतौ पूर्वमास्तां नरोत्तम ॥ १७ ॥  
 मलदाश्च करूषाश्च देवनिर्माणनिर्मितौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +818,15 @@ to demoness Tataka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा वृत्रवधे राम मलेन समभिप्लुतम् ॥ १८ ॥  
 क्षुधा चैव सहस्राक्षं ब्रह्महत्या समाविशत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +862,15 @@ demon Vritra was incidentally a Brahman. [1-24-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमिन्द्रं मलिनं देवा ऋषयश्च तपोधनाः ॥ १९ ॥  
 कलशैः स्नापयामासुर्मलं चास्य प्रमोचयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,12 +904,15 @@ vessels for the riddance of his defilement. [1-24-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह भूम्यां मलं दत्त्वा देवाः कारूषमेव च ॥ २० ॥  
 शरीरजं महेन्द्रस्य ततो हर्षं प्रपेदिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -885,6 +945,7 @@ gods were gladdened. [1-24-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -893,6 +954,8 @@ gods were gladdened. [1-24-20b, 21a]
 इमौ जनपदौ स्फीतौ ख्यातिं लोके गमिष्यतः ॥ २२ ॥  
 मलदाश्च करूषाश्च ममाङ्गमलधारिणौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1023,15 @@ about this place he gave it an unexcelled boon. [1-24-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु साध्विति तं देवाः पाकशासनमब्रुवन् ॥ २३ ॥  
 देशस्य पूजां तां दृष्ट्वा कृतां शक्रेण धीमता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1065,15 @@ of demon Paaka, namely Indra saying, 'splendid, splendid it is.' [1-24-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ जनपदौ स्फीतौ दीर्घकालमरिन्दम ॥ २४ ॥  
 मलदाश्च करूषाश्च मुदिता धनधान्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,12 +1116,15 @@ Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित्त्वथ कालस्य यक्षिणी कामरूपिणी ॥ २५ ॥  
 बलं नागसहस्रस्य धारयन्ती तदा ह्यभूत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,6 +1153,7 @@ Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
 
 कॆल कालान्तरदल्लि इल्लिगॆ इच्छानुसार रूपधरिसुव ओर्व यक्षिणियु बन्दळु. आकॆय शरीरदल्लि ऒन्दु साविर आनॆगळ बलवित्तु.॥25½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1088,6 +1161,8 @@ Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
 मारीचो राक्षसः पुत्रो यस्याः शक्रपराक्रमः ।  
 वृत्तबाहुर्महाशीर्षो विपुलास्यतनुर्महान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1148,6 +1223,7 @@ one, and he is always terrifying the people. [1-24-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1155,6 +1231,8 @@ one, and he is always terrifying the people. [1-24-27b, 28a]
 इमौ जनपदौ नित्यं विनाशयति राघव ॥ २८ ॥  
 मलदांश्च करूषांश्च ताटका दुष्टचारिणी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1188,6 +1266,7 @@ Karusha. [1-24-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1195,6 +1274,8 @@ Karusha. [1-24-28b, 29a]
 अत एव च गन्तव्यं ताटकाया वनं यतः ।  
 स्वबाहुबलमाश्रित्य जहीमां दुष्टचारिणीम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1277,12 +1358,15 @@ is another shade of that verse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्नियोगादिमं देशं कुरु निष्कण्टकं पुनः ।  
 नहि कश्चिदिमं देशं शक्तो ह्यागन्तुमीदृशम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1329,6 +1413,7 @@ make the provinces habitable. [1-24-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1336,6 +1421,8 @@ make the provinces habitable. [1-24-31b, 32a]
 एतत्ते सर्वमाख्यातं यथैतद् दारुणं वनम् ।  
 यक्ष्या चोत्सादितं सर्वमद्यापि न निवर्तते ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1382,5 +1469,6 @@ Rama. [1-24-32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥24॥
+</details>
 </details>
 

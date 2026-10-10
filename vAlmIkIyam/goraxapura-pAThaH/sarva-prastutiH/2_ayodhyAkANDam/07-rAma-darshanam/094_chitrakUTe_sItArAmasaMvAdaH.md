@@ -2,6 +2,8 @@
 title = "०९४ चित्रकूटे सीतारामसंवादः"
 title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,6 +24,7 @@ diverts his own mind in seeing that captivating scenery.
 
 94. श्रीरामका सीताको चित्रकूटकी शोभा दिखाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ diverts his own mind in seeing that captivating scenery.
 अथ दाशरथिश्चित्रं चित्रकूटमदर्शयत् ।  
 भार्याममरसङ्काशः शचीमिव पुरन्दरः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,12 +84,15 @@ Shachi the wife of Indra, saying:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न राज्यभ्रंशनं भद्रे न सुहृद्भिर्विनाभवः ।  
 मनो मे बाधते दृष्ट्वा रमणीयमिमं गिरिम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ the non-existence of friends distresses my mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्येममचलं भद्रे नानाद्विजगणायुतम् ।  
 शिखरैः खमिवोद्विद्धैर्धातुमद्भिर्विभूषितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,6 +182,7 @@ where minerals lie and crowned with peaks that seem to project upwards to the sk
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,6 +191,8 @@ where minerals lie and crowned with peaks that seem to project upwards to the sk
 पुष्पार्ककेतकाभाश्च केचिज्ज्योतीरसप्रभाः ।  
 विराजन्तेऽचलेन्द्रस्य देशा धातुविभूषिताः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,12 +242,15 @@ sparkle with the splendour of a kind of gem called Jyotirasa."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानामृगगणैर्द्वीपितरक्ष्वृक्षगणैर्वृतः ।  
 अदुष्टैर्भात्ययं शैलो बहुपक्षिसमाकुलः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,6 +293,7 @@ and is enlivened by a flock of many birds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -286,6 +304,8 @@ and is enlivened by a flock of many birds."
 पुष्पवद्भिः फलोपेतैश्छायावद्भिर्मनोरमैः ।  
 एवमादिभिराकीर्णः श्रियं पुष्यत्ययं गिरिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +370,15 @@ emblic myrobalans, Kadamoos, came, Dhanvanas and pomegranates, enhancing its bea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलप्रस्थेषु रम्येषु पश्येमान् कामहर्षणान् ।  
 किन्नरान् द्वन्द्वशो भद्रे रममाणान् मनस्विनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +419,15 @@ spirits, wandering in couples in these lovely mountain-plains."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाखावसक्तान् खड्गांश्च प्रवराण्यम्बराणि च ।  
 पश्य विद्याधरस्त्रीणां क्रीडोद्देशान् मनोरमान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +467,15 @@ retreats, where vidyadharas and their women sport."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलप्रपातैरुद्भेदैर्निष्पन्दैश्च क्वचित् क्वचित् ।  
 स्रवद्भिर्भात्ययं शैलः स्रवन्मद इव द्विपः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +519,15 @@ its crevices, springs and cascades flow here and there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहासमीरणो गन्धान् नानापुष्पभवान् बहून् ।  
 घ्राणतर्पणमभ्येत्य कं नरं न प्रहर्षयेत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +567,15 @@ various flowers issues, pleasing to the senses?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदीह शरदोऽनेकास्त्वया सार्धमनिन्दिते ।  
 लक्ष्मणेन च वत्स्यामि न मां शोकः प्रधर्षति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +615,15 @@ grief will not overpower me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुपुष्पफले रम्ये नानाद्विजगणायुते ।  
 विचित्रशिखरे ह्यस्मिन् रतवानस्मि भामिनि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,12 +663,15 @@ resort of flocks of birds as also the ravishing peaks of the mountain, I am real
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन वनवासेन मम प्राप्तं फलद्वयम् ।  
 पितुश्चानृण्यता धर्मे भरतस्य प्रियं तथा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +712,15 @@ to my father in regards my duty and Bharata's happiness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहि रमसे कच्चिच्चित्रकूटे मया सह ।  
 पश्यन्ती विविधान् भावान् मनोवाक्कायसम्मतान् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +760,15 @@ objects agreeable to your thought word and temperament?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमेवामृतं प्राहू राज्ञि राजर्षयः परे ।  
 वनवासं भवार्थाय प्रेत्य मे प्रपितामहाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +809,15 @@ to obtain liberation after death, such a residence in the forest is nectar like.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिलाः शैलस्य शोभन्ते विशालाः शतशोऽभितः ।  
 बहुला बहुलैर्वर्णैर्नीलपीतसितारुणैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +857,15 @@ multifarious colours like blue, yellow, white and red."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशि भान्त्यचलेन्द्रस्य हुताशनशिखा इव ।  
 ओषध्यः स्वप्रभालक्ष्म्या भ्राजमानाः सहस्रशः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +908,15 @@ are sparkling like points of fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचित् क्षयनिभा देशाः केचिदुद्यानसन्निभाः ।  
 केचिदेकशिला भान्ति पर्वतस्यास्य भामिनि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +956,15 @@ some others appear like a single pile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भित्त्वेव वसुधां भाति चित्रकूटः समुत्थितः ।  
 चित्रकूटस्य कूटोऽयं दृश्यते सर्वतः शुभः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1004,15 @@ Chitrakuta appears charming on all sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुष्ठस्थगरपुन्नागभूर्जपत्रोत्तरच्छदान् ।  
 कामिनां स्वास्तरान् पश्य कुशेशयदलायुतान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1052,15 @@ with flowers of water-lilies form the cozy beds of voluptuaries."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृदिताश्चापविद्धाश्च दृश्यन्ते कमलस्रजः ।  
 कामिभिर्वनिते पश्य फलानि विविधानि च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1104,15 @@ voluptuaries as also fruits of every kind that have been tasted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वस्वौकसारां नलिनीमतीत्यैवोत्तरान् कुरून् ।  
 पर्वतश्चित्रकूटोऽसौ बहुमूलफलोदकः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1090,6 +1158,7 @@ of Eternal Beatitude."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1098,6 +1167,8 @@ of Eternal Beatitude."
 रतिं प्रपत्स्ये कुलधर्मवर्धिनीं  
 सतां पथि स्वैर्नियमैः परैः स्थितः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,5 +1225,6 @@ enhancing the piety of my race."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥94॥
+</details>
 </details>
 

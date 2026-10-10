@@ -2,6 +2,8 @@
 title = "०७१ लक्ष्मणेन-अतिकायवधः"
 title_english = "071 Lakshmana kills Atikaya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -27,6 +29,7 @@ with a missile of Brahma and chips off the head of Atikaya.
 
 71. अतिकायका भयंकर युद्ध और लक्ष्मणके द्वारा उसका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -37,6 +40,8 @@ with a missile of Brahma and chips off the head of Atikaya.
 चुकोप च महातेजा ब्रह्मदत्तवरो युधि ।  
 अतिकायोऽद्रिसङ्काशो देवदानवदर्पहा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -103,12 +108,15 @@ of celestials and ogres, was enraged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भास्करसहस्रस्य सङ्घातमिव भास्वरम् ।  
 रथमारुह्य शक्रारिरभिदुद्राव वानरान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +153,15 @@ like a cluster of thousand suns, ran towards the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विस्फार्य तदा चापं किरीटी मृष्टकुण्डलः ।  
 नाम संश्रावयामास ननाद च महास्वनम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,12 +195,15 @@ a big noise, making his name loudly heard.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन सिंहप्रणादेन नामविश्रावणेन च ।  
 ज्याशब्देन च भीमेन त्रासयामास वानरान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -223,12 +237,15 @@ the bow-string, it created terror to the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते दृष्ट्वा देहमाहात्म्यं कुम्भकर्णोऽयमुत्थितः ।  
 भयार्ता वानराः सर्वे संश्रयन्ते परस्परम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +280,15 @@ again, took refuge with each other, afflicted as they were, with fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तस्य रूपमालोक्य यथा विष्णोस्त्रिविक्रमे ।  
 भयाद् वानरयोधास्ते विद्रवन्ति ततस्ततः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ steps, the those renowned monkey-warriors with fear, ran away hither and thither
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽतिकायं समासाद्य वानरा मूढचेतसः ।  
 शरण्यं शरणं जग्मुर्लक्ष्मणाग्रजमाहवे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ the battle, a refuge with Rama, who affords protection.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽतिकायं काकुत्स्थो रथस्थं पर्वतोपमम् ।  
 ददर्श धन्विनं दूराद् गर्जन्तं कालमेघवत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +408,15 @@ dissolution.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं दृष्ट्वा महाकायं राघवस्तु सुविस्मितः ।  
 वानरान् सान्त्वयित्वा च विभीषणमुवाच ह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +451,15 @@ and after consoling the monkeys, spoke to Vibhishana (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽसौ पर्वतसङ्काशो धनुष्मान् हरिलोचनः ।  
 युक्ते हयसहस्रेण विशाले स्यन्दने स्थितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,12 +493,15 @@ in a spacious chariot yoked with a thousand horses?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य एष निशितैः शूलैः सुतीक्ष्णैः प्रासतोमरैः ।  
 अर्चिष्मद्भिर्वृतो भाति भूतैरिव महेश्वरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +535,15 @@ spikes, with very sharply barbed javelins and lances.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालजिह्वाप्रकाशाभिर्य एषोऽभिविराजते ।  
 आवृतो रथशक्तीभिर्विद्युद्भिरिव तोयदः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +577,15 @@ the banners of the war-chariot, appearing like tongues of the Time-Sprit."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनूंषि चास्य सज्जानि हेमपृष्ठानि सर्वशः ।  
 शोभयन्ति रथश्रेष्ठं शक्रचापमिवाम्बरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +625,15 @@ like a rainbow in the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य एष रक्षःशार्दूलो रणभूमिं विराजयन् ।  
 अभ्येति रथिनां श्रेष्ठो रथेनादित्यवर्चसा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +650,15 @@ like a rainbow in the sky."
 
 इवनु राक्षसरल्लि सिंहदन्तॆ पराक्रमि मत्तु रथिकरल्लि श्रेष्ठवीरनु तन्न सूर्यतुल्य तेजस्वी रथदिन्द रणरङ्गद शोभॆयन्नु हॆच्चिसुत्ता नन्नॆदुरिगॆ बरुत्तिरुवनु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्वजशृङ्गप्रतिष्ठेन राहुणाभिविराजते ।  
 सूर्यरश्मिप्रभैर्बाणैर्दिशो दश विराजयन् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +698,15 @@ the point of his standard."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिनतं मेघनिर्ह्रादं हेमपृष्ठमलङ्कृतम् ।  
 शतक्रतुधनुःप्रख्यं धनुश्चास्य विराजते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +746,15 @@ cloud, is shining like a rain-bow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सध्वजः सपताकश्च सानुकर्षो महारथः ।  
 चतुःसादिसमायुक्तो मेघस्तनितनिःस्वनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,12 +794,15 @@ having the sound of a cloud's lightning, consists of four charioteers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विंशतिर्दश चाष्टौ च तूणास्य रथमास्थिताः ।  
 कार्मुकाणि च भीमानि ज्याश्च काञ्चनपिङ्गलाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +845,15 @@ colour, are abiding in his chariot."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ च खड्गौ च पार्श्वस्थौ प्रदीप्तौ पार्श्वशोभितौ ।  
 चतुर्हस्तत्सरुयुतौ व्यक्तहस्तदशायतौ ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +897,15 @@ provided with measuring four cubits, casting their splendour on his two sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्तकण्ठगुणो धीरो महापर्वतसन्निभः ।  
 कालः कालमहावक्त्रो मेघस्थ इव भास्करः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -878,12 +940,15 @@ cloud."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काञ्चनाङ्गदनद्धाभ्यां भुजाभ्यामेष शोभते ।  
 शृङ्गाभ्यामिव तुङ्गाभ्यां हिमवान् पर्वतोत्तमः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +982,15 @@ mountain with its two lofty peaks."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुण्डलाभ्यामुभाभ्यां च भाति वक्त्रं सुभीषणम् ।  
 पुनर्वस्वन्तरगतं परिपूर्णो निशाकरः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,12 +1033,15 @@ appearing between the two stars constituting the constellation, Punnarvasu."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचक्ष्व मे महाबाहो त्वमेनं राक्षसोत्तमम् ।  
 यं दृष्ट्वा वानराः सर्वे भयार्ता विद्रुता दिशः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,12 +1082,15 @@ monkeys, afflicted with fear, are running away in different directions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पृष्टो राजपुत्रेण रामेणामिततेजसा ।  
 आचचक्षे महातेजा राघवाय विभीषणः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,6 +1130,7 @@ great brilliance, replied to Rama as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1064,6 +1139,8 @@ great brilliance, replied to Rama as follows:
 तस्यासीद् वीर्यवान् पुत्रो रावणप्रतिमो बले ।  
 वृद्धसेवी श्रुतिधरः सर्वास्त्रविदुषां वरः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,12 +1203,15 @@ of wealth, doing terrific deeds and possessing a great power, is the lord of dem
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वपृष्ठे नागपृष्ठे खड्गे धनुषि कर्षणे ।  
 भेदे सान्त्वे च दाने च नये मन्त्रे च सम्मतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1176,12 +1256,15 @@ by sowing dissention negotiation and bribery and for his steering capacity of an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य बाहुं समाश्रित्य लङ्का भवति निर्भया ।  
 तनयं धान्यमालिन्या अतिकायमिमं विदुः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1215,12 +1298,15 @@ arm."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेनाराधितो ब्रह्मा तपसा भावितात्मना ।  
 अस्त्राणि चाप्यवाप्तानि रिपवश्च पराजिताः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1340,15 @@ the lord of creation, obtained missiles too and conquered the enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरासुरैरवध्यत्वं दत्तमस्मै स्वयम्भुवा ।  
 एतच्च कवचं दिव्यं रथश्च रविभास्वरः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1299,12 +1388,15 @@ of celestials and demons as also this wonderful armour and the chariot shining l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन शतशो देवा दानवाश्च पराजिताः ।  
 रक्षितानि च रक्षांसि यक्षाश्चापि निषूदिताः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,12 +1437,15 @@ supernatural beings and defended the demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रं विष्टम्भितं येन बाणैरिन्द्रस्य धीमता ।  
 पाशः सलिलराजस्य युद्धे प्रतिहतस्तथा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,12 +1465,15 @@ _________________
 
 ई बुद्धिवन्त राक्षसनु तन्न बाणगळिन्द इन्द्रन वज्रवन्नु कुण्ठितगॊळिसिरुवनु हागू युद्धदल्लि जलद स्वामि वरुणन पाशवन्नू निष्फलगॊळिसिरुवनु.॥34॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषोऽतिकायो बलवान् राक्षसानामथर्षभः ।  
 स रावणसुतो धीमान् देवदानवदर्पहा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1418,12 +1516,15 @@ who is strong and the foremost of demons took off the pride of celestials and og
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदस्मिन् क्रियतां यत्नः क्षिप्रं पुरुषपुङ्गव ।  
 पुरा वानरसैन्यानि क्षयं नयति सायकैः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1458,12 +1559,15 @@ arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽतिकायो बलवान् प्रविश्य हरिवाहिनीम् ।  
 विस्फारयामास धनुर्ननाद च पुनः पुनः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1497,6 +1601,7 @@ again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1505,6 +1610,8 @@ again and again.
 कुमुदो द्विविदो मैन्दो नीलः शरभ एव च ।  
 पादपैर्गिरिशृङ्गैश्च युगपत् समभिद्रवन् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1562,12 +1669,15 @@ the charioteers, powerful chiefs of monkeys rushed towards him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां वृक्षांश्च शैलांश्च शरैः कनकभूषणैः ।  
 अतिकायो महातेजाश्चिच्छेदास्त्रविदां वरः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1607,12 +1717,15 @@ off their trees and crags with his arrows decked with gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांश्चैव सर्वान् स हरीन् शरैः सर्वायसैर्बली ।  
 विव्याधाभिमुखान् सङ्ख्ये भीमकायो निशाचरः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1653,12 +1766,15 @@ facing in front of him in battle with arrows fully made of iron.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽर्दिता बाणवर्षेण भिन्नगात्राः पराजिताः ।  
 न शेकुरतिकायस्य प्रतिकर्तुं महाहवे ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1701,12 +1817,15 @@ Atikaya's arrows in that great battle, were unable to retaliate on him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सैन्यं हरिवीराणां त्रासयामास राक्षसः ।  
 मृगयूथमिव क्रुद्धो हरिर्यौवनदर्पितः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1746,6 +1865,7 @@ as an enraged lion frightens a herd of deers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1754,6 +1874,8 @@ as an enraged lion frightens a herd of deers.
 उत्पत्य रामं स धनुःकलापी  
 सगर्वितं वाक्यमिदं बभाषे ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1800,6 +1922,7 @@ spoke haughty words (to him) as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1808,6 +1931,8 @@ spoke haughty words (to him) as follows:
 यस्यास्ति शक्तिर्व्यवसाययुक्तो  
 ददातु मे शीघ्रमिहाद्य युद्धम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1854,6 +1979,7 @@ quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1862,6 +1988,8 @@ quickly."
 अमृष्यमाणश्च समुत्पपात  
 जग्राह चापं च ततः स्मयित्वा ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1898,12 +2026,15 @@ bear his words and smiling, he rose up quickly and took up his bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धः सौमित्रिरुत्पत्य तूणादाक्षिप्य सायकम् ।  
 पुरस्तादतिकायस्य विचकर्ष महद्धनुः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1938,12 +2069,15 @@ quiver pulled out his great bow in front of Atikaya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूरयन् स महीं सर्वामाकाशं सागरं दिशः ।  
 ज्याशब्दो लक्ष्मणस्योग्रस्त्रासयन् रजनीचरान् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1984,12 +2118,15 @@ ocean, was angry, frightening the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रेश्चापनिर्घोषं श्रुत्वा प्रतिभयं तदा ।  
 विसिस्मिये महातेजा राक्षसेन्द्रात्मजो बली ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2029,12 +2166,15 @@ splendour, was surprised.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदातिकायः कुपितो दृष्ट्वा लक्ष्मणमुत्थितम् ।  
 आदाय निशितं बाणमिदं वचनमब्रवीत् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2068,12 +2208,15 @@ and taking a sharp arrow, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालस्त्वमसि सौमित्रे विक्रमेष्वविचक्षणः ।  
 गच्छ किं कालसङ्काशं मां योधयितुमिच्छसि ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2111,12 +2254,15 @@ fight with me, who is like Yama the Lord of Death? Go away."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मद‍्बाहुसृष्टानां बाणानां हिमवानपि ।  
 सोढुमुत्सहते वेगमन्तरिक्षमथो मही ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2156,12 +2302,15 @@ speed of arrows released by my arms."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखप्रसुप्तं कालाग्निं विबोधयितुमिच्छसि ।  
 न्यस्य चापं निवर्तस्व प्राणान्न जहि मद‍्गतः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2205,12 +2354,15 @@ bow here, go back. Do not lose your life, by fighting against me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा त्वं प्रतिस्तब्धो न निवर्तितुमिच्छसि ।  
 तिष्ठ प्राणान् परित्यज्य गमिष्यसि यमक्षयम् ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2253,12 +2405,15 @@ your lives, you will reach the abode of Yama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य मे निशितान् बाणान् रिपुदर्पनिषूदनान् ।  
 ईश्वरायुधसङ्काशांस्तप्तकाञ्चनभूषणान् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2279,6 +2434,7 @@ _________________
 
 ‘शत्रुओंका दर्प चूर्ण करनेवाले मेरे इन तीखे बाणोंको, जो तपे हुए सुवर्णसे भूषित हैं, देखो; ये भगवान् शंकरके त्रिशूलकी समानता करते हैं ॥ ५५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2286,6 +2442,8 @@ _________________
 मृगराज इव क्रुद्धो नागराजस्य शोणितम् ।  
 इत्येवमुक्त्वा सङ्क्रुद्धः शरं धनुषि सन्दधे ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2339,6 +2497,7 @@ and which are like the weapons of Ishvara the lord of destruction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2347,6 +2506,8 @@ and which are like the weapons of Ishvara the lord of destruction."
 स सञ्चुकोपातिबलो मनस्वी  
 उवाच वाक्यं च ततो महार्थम् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2393,6 +2554,7 @@ also spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2401,6 +2563,8 @@ also spoke as follows:
 मयि स्थिते धन्विनि बाणपाणौ  
 निदर्शयस्वात्मबलं दुरात्मन् ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2447,12 +2611,15 @@ strength in me, who is standing with an arrow in hand and wielding a bow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मणा सूचयात्मानं न विकत्थितुमर्हसि ।  
 पौरुषेण तु यो युक्तः स तु शूर इति स्मृतः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2486,12 +2653,15 @@ with valour alone is declared as a warrior."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वायुधसमायुक्तो धन्वी त्वं रथमास्थितः ।  
 शरैर्वा यदि वाप्यस्त्रैर्दर्शयस्व पराक्रमम् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2528,12 +2698,15 @@ prowess either by your arrows or even by your weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शिरस्ते निशितैः पातयिष्याम्यहं शरैः ।  
 मारुतः कालसम्पक्वं वृन्तात् तालफलं यथा ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2571,12 +2744,15 @@ fan-palm, ripened by its time, is fallen down from its stalk by the gust of a wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य ते मामका बाणास्तप्तकाञ्चनभूषणाः ।  
 पास्यन्ति रुधिरं गात्राद् बाणशल्यान्तरोत्थितम् ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2610,12 +2786,15 @@ from the holes formed in your body by the sharp points of my arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालोऽयमिति विज्ञाय न चावज्ञातुमर्हसि ।  
 बालो वा यदि वा वृद्धो मृत्युं जानीहि संयुगे ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2663,6 +2842,7 @@ worlds just with his three strides, Didn't he?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2670,6 +2850,8 @@ worlds just with his three strides, Didn't he?"
 लक्ष्मणस्य वचः श्रुत्वा हेतुमत् परमार्थवत् ।  
 अतिकायः प्रचुक्रोध बाणं चोत्तममाददे ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2704,12 +2886,15 @@ much enraged and took out an excellent arrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विद्याधरा भूता देवा दैत्या महर्षयः ।  
 गुह्यकाश्च महात्मानस्तद् युद्धं द्रष्टुमागमन् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2751,12 +2936,15 @@ souled ones saw that battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽतिकायः कुपितश्चापमारोप्य सायकम् ।  
 लक्ष्मणाय प्रचिक्षेप सङ्क्षिपन्निव चाम्बरम् ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2797,12 +2985,15 @@ towards Lakshmana, as though he were shrinking up the space in between.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं निशितं शरमाशीविषोपमम् ।  
 अर्धचन्द्रेण चिच्छेद लक्ष्मणः परवीरहा ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2836,12 +3027,15 @@ arrow, which was falling down on him, with his crescent-pointed arrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं निकृत्तं शरं दृष्ट्वा कृत्तभोगमिवोरगम् ।  
 अतिकायो भृशं क्रुद्धः पञ्च बाणान् समादधे ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2879,12 +3073,15 @@ Atikaya was very much enraged and fitted five arrows to his bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् शरान् सम्प्रचिक्षेप लक्ष्मणाय निशाचरः ।  
 तानप्राप्तान् शितैर्बाणैश्चिच्छेद भरतानुजः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2924,12 +3121,15 @@ Lakshmana chopped them off with his sharp arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तान् छित्त्वा शितैर्बाणैर्लक्ष्मणः परवीरहा ।  
 आददे निशितं बाणं ज्वलन्तमिव तेजसा ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2973,12 +3173,15 @@ enemy-warriors, took up a sharp arrow, as though it was blazing with a glow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमादाय धनुःश्रेष्ठे योजयामास लक्ष्मणः ।  
 विचकर्ष च वेगेन विससर्ज च सायकम् ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3012,12 +3215,15 @@ force and released it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णायतविसृष्टेन शरेण नतपर्वणा ।  
 ललाटे राक्षसश्रेष्ठमाजघान स वीर्यवान् ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3057,12 +3263,15 @@ forehead of that excellent demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ललाटे शरो मग्नस्तस्य भीमस्य रक्षसः ।  
 ददृशे शोणितेनाक्तः पन्नगेन्द्र इवाचले ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3103,6 +3312,7 @@ appeared like a serpent-king on a mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3110,6 +3320,8 @@ appeared like a serpent-king on a mountain.
 रुद्रबाणहतं घोरं यथा त्रिपुरगोपुरम् ॥ ७४ ॥  
 चिन्तयामास चाश्वास्य विमृश्य च महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3153,6 +3365,7 @@ Maya for the demons) was struck by Shiva's arrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3160,6 +3373,8 @@ Maya for the demons) was struck by Shiva's arrow.
 विधायैवं विदार्यास्यं नियम्य च महाभुजौ ।  
 स रथोपस्थमास्थाय रथेन प्रचचार ह ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3226,12 +3441,15 @@ follows: "Well! By flying down an arrow, you have become a commendable enemy for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं त्रीन् पञ्च सप्तेति सायकान् राक्षसर्षभः ।  
 आददे सन्दधे चापि विचकर्षोत्ससर्ज च ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3271,12 +3489,15 @@ and fixed them to his bow, stretched it and released the arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते बाणाः कालसङ्काशा राक्षसेन्द्रधनुश्च्युताः ।  
 हेमपुङ्खा रविप्रख्याश्चक्रुर्दीप्तमिवाम्बरम् ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3313,12 +3534,15 @@ Death, with golden shafts and shining like the sun, set the sky ablaze.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तान् राक्षसोत्सृष्टान् शरौघान् राघवानुजः ।  
 असम्भ्रान्तः प्रचिच्छेद निशितैर्बहुभिः शरैः ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3361,12 +3585,15 @@ foremost of demons, by the multitude of his sharp arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् शरान् युधि सम्प्रेक्ष्य निकृत्तान् रावणात्मजः ।  
 चुकोप त्रिदशेन्द्रारिर्जग्राह निशितं शरम् ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3400,12 +3627,15 @@ releasing it, struck the approaching Lakshmana in the middle of his chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सन्धाय महातेजास्तं बाणं सहसोत्सृजत् ।  
 तेन सौमित्रिमायान्तमाजघान स्तनान्तरे ॥ ८१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3449,12 +3679,15 @@ releasing it, struck the approaching Lakshmana in the middle of his chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायेन सौमित्रिस्ताडितो युधि वक्षसि ।  
 सुस्राव रुधिरं तीव्रं मदं मत्त इव द्विपः ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3488,12 +3721,15 @@ the fluid exuding from a rutting elephant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चकार तदात्मानं विशल्यं सहसा विभुः ।  
 जग्राह च शरं तीक्ष्णमस्त्रेणापि समाददे ॥ ८३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3537,12 +3773,15 @@ up a sharp arrow and fixed it with a missile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयेन तदास्त्रेण योजयामास सायकम् ।  
 स जज्वाल तदा बाणो धनुष्यस्य महात्मनः ॥ ८४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3582,12 +3821,15 @@ souled Lakshmana and as also the bow, caused a flame to blaze.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायोऽतितेजस्वी रौद्रमस्त्रं समाददे ।  
 तेन बाणं भुजङ्गाभं हेमपुङ्खमयोजयत् ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3630,12 +3872,15 @@ having a golden shaft as also looking like a serpent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदस्त्रं ज्वलितं घोरं लक्ष्मणः शरमाहितम् ।  
 अतिकायाय चिक्षेप कालदण्डमिवान्तकः ॥ ८६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3676,12 +3921,15 @@ that mystic missile as Yama the lord of Death would hurl his rod of destruction.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयास्त्राभिसंयुक्तं दृष्ट्वा बाणं निशाचरः ।  
 उत्ससर्ज तदा बाणं रौद्रं सूर्यास्त्रयोजितम् ॥ ८७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3699,6 +3947,7 @@ that mystic missile as Yama the lord of Death would hurl his rod of destruction.
 
 आग्नेयास्त्रसे अभिमन्त्रित हुए उस बाणको अपनी ओर आते देख निशाचर अतिकायने तत्काल ही अपने भयंकर बाणको सूर्यास्त्रसे अभिमन्त्रित करके चलाया ॥ ८७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3706,6 +3955,8 @@ that mystic missile as Yama the lord of Death would hurl his rod of destruction.
 तेजसा सम्प्रदीप्ताग्रौ क्रुद्धाविव भुजङ्गमौ ॥ ८८ ॥  
 तावन्योन्यं विनिर्दह्य पेततुः पृथिवीतले ॥ ८९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3761,12 +4012,15 @@ released the awful arrow charged with the solar missile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरर्चिषौ भस्मकृतौ न भ्राजेते शरोत्तमौ ।  
 तावुभौ दीप्यमानौ स्म न भ्राजेते महीतले ॥ ९० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3802,12 +4056,15 @@ longer on the earth's surface, in that they were without a flame and had been re
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽतिकायः सङ्क्रुद्धस्त्वाष्ट्रमैषीकमुत्सृजत् ।  
 ततश्चिच्छेद सौमित्रिरस्त्रमैन्द्रेण वीर्यवान् ॥ ९१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3853,6 +4110,7 @@ his missile presided over by Indra the lord of celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3861,6 +4119,8 @@ his missile presided over by Indra the lord of celestials.
 ततस्तदस्त्रं चिक्षेप लक्ष्मणाय निशाचरः ।  
 वायव्येन तदस्त्रेण निजघान स लक्ष्मणः ॥ ९३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3919,12 +4179,15 @@ fixed his arrow with a missile presided over by Yama the lord of retribution.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैनं शरधाराभिर्धाराभिरिव तोयदः ।  
 अभ्यवर्षत सङ्क्रुद्धो लक्ष्मणो रावणात्मजम् ॥ ९४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3958,12 +4221,15 @@ cloud showers hails of down-pour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽतिकायं समासाद्य कवचे वज्रभूषिते ।  
 भग्नाग्रशल्याः सहसा पेतुर्बाणा महीतले ॥ ९५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3998,12 +4264,15 @@ armour, adorned with diamonds and instantly fell on the earth's surface.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्मोघानभिसम्प्रेक्ष्य लक्ष्मणः परवीरहा ।  
 अभ्यवर्षत बाणानां सहस्रेण महायशाः ॥ ९६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4038,12 +4307,15 @@ annihilator of enemy-warriors, showered forth arrows in thousands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वृष्यमाणो बाणौघैरतिकायो महाबलः ।  
 अवध्यकवचः सङ्ख्ये राक्षसो नैव विव्यथे ॥ ९७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4083,12 +4355,15 @@ in battle because of the inviolability of his armour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरं चाशीविषाकारं लक्ष्मणाय व्यपासृजत् ।  
 स तेन विद्धः सौमित्रिर्मर्मदेशे शरेण ह ॥ ९८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4132,6 +4407,7 @@ a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4140,6 +4416,8 @@ a moment.
 निजघान हयान् सङ्ख्ये सारथिं च महाबलः ।  
 ध्वजस्योन्मथनं कृत्वा शरवर्षैररिन्दमः ॥ १०० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4190,6 +4468,7 @@ combat, with his four excellent arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4197,6 +4476,8 @@ combat, with his four excellent arrows.
 मुमोच लक्ष्मणो बाणान् वधार्थं तस्य रक्षसः ॥ १०१ ॥  
 न शशाक रुजं कर्तुं युधि तस्य नरोत्तमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4231,6 +4512,7 @@ aiming at that demon, for the purpose of killing him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4239,6 +4521,8 @@ aiming at that demon, for the purpose of killing him.
 ब्राह्मेणास्त्रेण भिन्ध्येनमेष वध्यो हि नान्यथा ।  
 अवध्य एष ह्यन्येषामस्त्राणां कवची बली ॥ १०३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4296,6 +4580,7 @@ battle. Then, the wind-god came to him and spoke to him as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4304,6 +4589,8 @@ battle. Then, the wind-god came to him and spoke to him as follows:
 समादधे बाणमथोग्रवेगं  
 तद‍्ब्राह्ममस्त्रं सहसा नियुज्य ॥ १०४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4355,6 +4642,7 @@ directed the arrow with a terrific force.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4363,6 +4651,8 @@ directed the arrow with a terrific force.
 दिशश्च चन्द्रार्कमहाग्रहाश्च  
 नभश्च तत्रास ररास चोर्वी ॥ १०५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4409,6 +4699,7 @@ Earth also made an uproar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4417,6 +4708,8 @@ Earth also made an uproar.
 सौमित्रिरिन्द्रारिसुतस्य तस्य  
 ससर्ज बाणं युधि वज्रकल्पम् ॥ १०६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4468,6 +4761,7 @@ thunderbolt on Atikaya, the son of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4476,6 +4770,8 @@ thunderbolt on Atikaya, the son of Ravana.
 सुपर्णवज्रोत्तमचित्रपुङ्खं  
 तदातिकायः समरे ददर्श ॥ १०७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4527,6 +4823,7 @@ thunderbolt, approaching him in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4535,6 +4832,8 @@ thunderbolt, approaching him in battle.
 स सायकस्तस्य सुपर्णवेग-  
 स्तथातिवेगेन जगाम पार्श्वम् ॥ १०८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4580,6 +4879,7 @@ Lakshmana's arrow, with a speed equal to Garuda the eagle, thus reached Atikaya'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4588,6 +4888,8 @@ Lakshmana's arrow, with a speed equal to Garuda the eagle, thus reached Atikaya'
 जघान शक्त्यृष्टिगदाकुठारैः  
 शूलैः शरैश्चाप्यविपन्नचेष्टः ॥ १०९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4635,6 +4937,7 @@ approaching him, Atikaya then struck it with spike, spear, mace, axe and arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4643,6 +4946,8 @@ approaching him, Atikaya then struck it with spike, spear, mace, axe and arrows.
 प्रगृह्य तस्यैव किरीटजुष्टं  
 तदातिकायस्य शिरो जहार ॥ ११० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4686,12 +4991,15 @@ and taking Atikaya's head, carried it away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छिरः सशिरस्त्राणं लक्ष्मणेषुप्रमर्दितम् ।  
 पपात सहसा भूमौ शृङ्गं हिमवतो यथा ॥ १११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4731,12 +5039,15 @@ ground, like a peak of the Himalayan Mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं भूमौ पतितं दृष्ट्वा विक्षिप्ताम्बरभूषणम् ।  
 बभूवुर्व्यथिताः सर्वे हतशेषा निशाचराः ॥ ११२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4777,12 +5088,15 @@ all the surviving demons became perturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते विषण्णमुखा दीनाः प्रहारजनितश्रमाः ।  
 विनेदुरुच्चैर्बहवः सहसा विस्वरैः स्वरैः ॥ ११३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4821,12 +5135,15 @@ notes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तत्परितं याता निरपेक्षा निशाचराः ।  
 पुरीमभिमुखा भीता द्रवन्तो नायके हते ॥ ११४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4867,6 +5184,7 @@ to fight, went running away all around, with their faces turned towards that Cit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4875,6 +5193,8 @@ to fight, went running away all around, with their faces turned towards that Cit
 अपूजयल्ँ लक्ष्मणमिष्टभागिनं  
 हते रिपौ भीमबले दुरासदे ॥ ११५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4926,6 +5246,7 @@ and worshipped Lakshmana who got his desire fulfilled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4934,6 +5255,8 @@ and worshipped Lakshmana who got his desire fulfilled.
 त्वरितमथ तदा स रामपार्श्वं  
 कपिनिवहैश्च सुपूजितो जगाम ॥ ११६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4983,5 +5306,6 @@ monkeys, thereupon quickly hastened towards the proximity of Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग पूर्णवायितु.॥71॥
+</details>
 </details>
 

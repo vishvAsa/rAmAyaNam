@@ -2,6 +2,8 @@
 title = "०७५ शिवधनुर्वृत्तान्तम्"
 title_english = "075 Legends of shiva and vishnu bows"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ and if Dasharatha Rama is capable to do so, Parashu Rama says that he will give 
 
 75. राजा दशरथकी बात अनसुनी करके परशुरामका श्रीरामको वैष्णव-धनुषपर बाण चढ़ानेके लिये ललकारना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम दाशरथे वीर वीर्यं ते श्रूयतेऽद्भुतम् ।  
 धनुषो भेदनं चैव निखिलेन मया श्रुतम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ bow, also thus I have thoroughly heard about your others deeds like elimination 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदद्भुतमचिन्त्यं च भेदनं धनुषस्तथा ।  
 तच्छ्रुत्वाहमनुप्राप्तो धनुर्गृह्यापरं शुभम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ upon you, bringing another outranking bow... [1-75-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं घोरसङ्काशं जामदग्न्यं महद्धनुः ।  
 पूरयस्व शरेणैव स्वबलं दर्शयस्व च ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +149,15 @@ to your ear, and in that way show your capability... [1-75-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदहं ते बलं दृष्ट्वा धनुषोऽप्यस्य पूरणे ।  
 द्वन्द्वयुद्धं प्रदास्यामि वीर्यश्लाघ्यमहं तव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +201,15 @@ Pt. Satya Vrat cites this in his book 'The Ramayana - A Linguistic Study... 'As 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राजा दशरथस्तदा ।  
 विषण्णवदनो दीनः प्राञ्जलिर्वाक्यमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,6 +242,7 @@ palms said this. [1-75-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,6 +251,8 @@ palms said this. [1-75-5]
 भार्गवाणां कुले जातः स्वाध्यायव्रतशालिनाम् ।  
 सहस्राक्षे प्रतिज्ञाय शस्त्रं प्रक्षिप्तवानसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ blissful one, being an all-knower, being an elderly Brahman, that too on mere bo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं धर्मपरो भूत्वा कश्यपाय वसुन्धराम् ।  
 दत्त्वा वनमुपागम्य महेन्द्रकृतकेतनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +369,15 @@ is this Rama...' then my reply will be like this...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम सर्वविनाशाय सम्प्राप्तस्त्वं महामुने ।  
 न चैकस्मिन् हते रामे सर्वे जीवामहे वयम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +416,15 @@ and Rama alone...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवत्येवं दशरथे जामदग्न्यः प्रतापवान् ।  
 अनादृत्य तु तद्वाक्यं राममेवाभ्यभाषत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +457,15 @@ words of Dasharatha addressed Rama of Dasharatha alone. [1-75-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे द्वे धनुषी श्रेष्ठे दिव्ये लोकाभिपूजिते ।  
 दृढे बलवती मुख्ये सुकृते विश्वकर्मणा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +500,15 @@ other in my hand... [1-75-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुसृष्टं सुरैरेकं त्र्यम्बकाय युयुत्सवे ।  
 त्रिपुरघ्नं नरश्रेष्ठ भग्नं काकुत्स्थ यत्त्वया ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,12 +551,15 @@ and oh, Kakutstha, that bow alone is the annihilator of Tripura, the demon... an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं द्वितीयं दुर्धर्षं विष्णोर्दत्तं सुरोत्तमैः ।  
 तदिदं वैष्णवं राम धनुः परपुरञ्जयम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,6 +602,7 @@ this is an indestructible and enemy-citadel conquering longbow... and this is id
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -571,6 +610,8 @@ this is an indestructible and enemy-citadel conquering longbow... and this is id
 तदा तु देवताः सर्वाः पृच्छन्ति स्म पितामहम् ॥ १४ ॥  
 शितिकण्ठस्य विष्णोश्च बलाबलनिरीक्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +629,15 @@ this is an indestructible and enemy-citadel conquering longbow... and this is id
 
 काकुत्स्थने! इदू कूड शिव धनुस्सिनन्तॆ प्रबलवागिदॆ. हिन्दॆ समस्त देवतॆगळु भगवान् शिव मत्तु विष्णुविन बलाबलद कुरितु ब्रह्मदेवरल्लि केळिदरु - इवरिब्बरल्लि यारु हॆच्चु बलशालिगळु.॥14½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिप्रायं तु विज्ञाय देवतानां पितामहः ॥ १५ ॥  
 विरोधं जनयामास तयोः सत्यवतां वरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +675,15 @@ Shiva and Vishnu, for the Grandparent is the best adherer of truthfulness, as tr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरोधे तु महद् युद्धमभवद् रोमहर्षणम् ॥ १६ ॥  
 शितिकण्ठस्य विष्णोश्च परस्परजयैषिणोः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +716,15 @@ himself... [1-75-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा तु जृम्भितं शैवं धनुर्भीमपराक्रमम् ॥ १७ ॥  
 हुङ्कारेण महादेवः स्तम्भितोऽथ त्रिलोचनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +763,15 @@ of Shiva's pride' and some info about is given in endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवैस्तदा समागम्य सर्षिसङ्घः सचारणैः ॥ १८ ॥  
 याचितौ प्रशमं तत्र जग्मतुस्तौ सुरोत्तमौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +815,15 @@ in the matter of wielding authority, and then those two superior gods, Shiva and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जृम्भितं तद् धनुर्दृष्ट्वा शैवं विष्णुपराक्रमैः ॥ १९ ॥  
 अधिकं मेनिरे विष्णुं देवाः सर्षिगणास्तथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +862,15 @@ of sages deemed Vishnu to be the paramount... [1-75-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनू रुद्रस्तु सङ्क्रुद्धो विदेहेषु महायशाः ॥ २० ॥  
 देवरातस्य राजर्षेर्ददौ हस्ते ससायकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +913,15 @@ to Shiva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं च वैष्णवं राम धनुः परपुरञ्जयम् ॥ २१ ॥  
 ऋचीके भार्गवे प्रादाद् विष्णुः स न्यासमुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -892,12 +954,15 @@ son of Bhrigu, as a trustworthy trust... [1-75-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋचीकस्तु महातेजाः पुत्रस्याप्रतिकर्मणः ॥ २२ ॥  
 पितुर्मम ददौ दिव्यं जमदग्नेर्महात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1004,15 @@ to become *jamadagni* so oh, lady know me as one born and having Ritual-fire... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यस्तशस्त्रे पितरि मे तपोबलसमन्विते ॥ २३ ॥  
 अर्जुनो विदधे मृत्युं प्राकृतां बुद्धिमास्थितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,12 +1046,15 @@ mine has isolated himself from arsenal... [1-75-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधमप्रतिरूपं तु पितुः श्रुत्वा सुदारुणम् ।  
 क्षत्रमुत्सादयं रोषाज्जातं जातमनेकशः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,12 +1074,15 @@ _________________
 
 तन्दॆयवरिगॆ योग्यवल्लद ई अत्यन्त भयङ्कर वधॆय समाचार केळि नानु रोषदिन्द पदे-पदे उत्पन्नराद क्षत्रियरन्नु अनेक सल संहार माडिदॆ.॥24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवीं चाखिलां प्राप्य कश्यपाय महात्मने ।  
 यज्ञस्यान्तेऽददं राम दक्षिणां पुण्यकर्मणे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,12 +1123,15 @@ on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्त्वा महेन्द्रनिलयस्तपोबलसमन्वितः ।  
 श्रुत्वा तु धनुषो भेदं ततोऽहं द्रुतमागतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,6 +1148,7 @@ on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis 
 
 पृथ्वियन्नु दानमाडि नानु महेन्द्र पर्वतदल्लि इरतॊडगि, अल्लि तपस्सु माडि तपोबल सम्पन्ननादॆ. शिवन धनुस्सु मुरिद समाचार केळि अल्लिन्द नानु शीघ्रवागि इल्लिगॆ बन्दिरुवॆनु.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1079,6 +1157,8 @@ on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis 
 योजयस्व धनुःश्रेष्ठे शरं परपुरञ्जयम् ।  
 यदि शक्तोऽसि काकुत्स्थ द्वन्द्वं दास्यामि ते ततः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,5 +1222,6 @@ in view, and wield this as you have wielded Shiva's longbow... [1-75-26b, 27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तैदनॆय सर्ग पूर्णवायितु.॥75॥
+</details>
 </details>
 

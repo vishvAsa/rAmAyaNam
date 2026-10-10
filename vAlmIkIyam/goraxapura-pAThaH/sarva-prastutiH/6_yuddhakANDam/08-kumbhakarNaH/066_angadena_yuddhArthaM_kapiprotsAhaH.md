@@ -2,6 +2,8 @@
 title = "०६६ अङ्गदेन युद्धार्थं कपिप्रोत्साहः"
 title_english = "066 Angada reassures the monkeys to return to the battle"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ the monkeys to confidence once more and all the monkeys stand awaiting the comma
 
 66. कुम्भकर्णके भयसे भागे हुए वानरोंका अङ्गदद्वारा प्रोत्साहन और आवाहन, कुम्भकर्णद्वारा वानरोंका संहार, पुनः वानर-सेनाका पलायन और अङ्गदका उसे समझा-बुझाकर लौटाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लङ्घयित्वा प्राकारं गिरिकूटोपमो महान् ।  
 निर्ययौ नगरात् तूर्णं कुम्भकर्णो महाबलः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ having crossed the rampart, sallied forth from the city.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननाद च महानादं समुद्रमभिनादयन् ।  
 विजयन्निव निर्घातान् विधमन्निव पर्वतान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ quake and drowning the thunder-claps, as it were.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमवध्यं मघवता यमेन वरुणेन वा ।  
 प्रेक्ष्य भीमाक्षमायान्तं वानरा विप्रदुद्रुवुः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु विप्रद्रुतान् दृष्ट्वा राजपुत्रोऽङ्गदोऽब्रवीत् ।  
 नलं नीलं गवाक्षं च कुमुदं च महाबलम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +215,15 @@ mighty Kumuda as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मनस्तानि विस्मृत्य वीर्याण्यभिजनानि च ।  
 क्व गच्छत भयत्रस्ताः प्राकृता हरयो यथा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ trembling with fear like common monkeys?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु सौम्या निवर्तध्वं किं प्राणान् परिरक्षथ ।  
 नालं युद्धाय वै रक्षो महतीयं विभीषिका ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +315,15 @@ demon is not competent for a combat. He is merely a great toy of terror."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महतीमुत्थितामेनां राक्षसानां विभीषिकाम् ।  
 विक्रमाद् विधमिष्यामो निवर्तध्वं प्लवङ्गमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,12 +357,15 @@ back!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृच्छ्रेण तु समाश्वस्य सङ्गम्य च ततस्ततः ।  
 वृक्षान् गृहीत्वा हरयः सम्प्रतस्थू रणाजिरे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,6 +406,7 @@ battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -388,6 +415,8 @@ battle-field.
 प्रांशुभिर्गिरिशृङ्गैश्च शिलाभिश्च महाबलाः ।  
 पादपैः पुष्पिताग्रैश्च हन्यमानो न कम्पते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +474,15 @@ very much enraged as they were.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य गात्रेषु पतिता भिद्यन्ते बहवः शिलाः ।  
 पादपाः पुष्पिताग्राश्च भग्नाः पेतुर्महीतले ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ their ends, were broken and fell shattered on the floor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपि सैन्यानि सङ्क्रुद्धौ वानराणां महौजसाम् ।  
 ममन्थ परमायत्तो वनान्यग्निरिवोत्थितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +568,15 @@ greatly energetic, with his extreme exertion even as a rising fire would consume
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोहितार्द्रास्तु बहवः शेरते वानरर्षभाः ।  
 निरस्ताः पतिता भूमौ ताम्रपुष्पा इव द्रुमाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +613,15 @@ were, fallen like trees with crimson flowers, when tossed up by the demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्घयन्तः प्रधावन्तो वानरा नावलोकयन् ।  
 केचित् समुद्रे पतिताः केचिद् गगनमास्थिताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +661,15 @@ ocean. Some inhabited the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वध्यमानास्तु ते वीरा राक्षसेन च लीलया ।  
 सागरं येन ते तीर्णाः पथा तेनैव दुद्रुवुः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +710,15 @@ away by the same route, by which they earlier crossed the ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते स्थलानि तदा निम्नं विवर्णवदना भयात् ।  
 ऋक्षा वृक्षान् समारूढाः केचित् पर्वतमाश्रिताः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,6 +762,7 @@ grounds, some bears ascended the trees. Some escaped to a hill.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -722,6 +770,8 @@ grounds, some bears ascended the trees. Some escaped to a hill.
 निपेतुः केचिदपरे केचिन्नैवावतस्थिरे ।  
 केचिद् भूमौ निपतिताः केचित् सुप्ता मृता इव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -764,12 +814,15 @@ they were dead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् समीक्ष्याङ्गदो भग्नान् वानरानिदमब्रवीत् ।  
 अवतिष्ठत युध्यामो निवर्तध्वं प्लवङ्गमाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +865,15 @@ carry on the battle. Come back."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भग्नानां वो न पश्यामि परिक्रम्य महीमिमाम् ।  
 स्थानं सर्वे निवर्तध्वं किं प्राणान् परिरक्षथ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -858,12 +914,15 @@ over the entire earth. Let all of you come back. Why do you safeguard your lives
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरायुधानां क्रमतामसङ्गगतिपौरुषाः ।  
 दारा ह्युपहसिष्यन्ति स वै घातः सुजीवताम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +963,7 @@ leaving your weapos aside, will mock at you. It is indeed a death for those who 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -911,6 +971,8 @@ leaving your weapos aside, will mock at you. It is indeed a death for those who 
 क्व गच्छत भयत्रस्ताः प्राकृता हरयो यथा ।  
 अनार्याः खलु यद्भीतास्त्यक्त्वा वीर्यं प्रधावत ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,12 +990,15 @@ leaving your weapos aside, will mock at you. It is indeed a death for those who 
 
 नीवॆल्लरू बहळ दूरदवरॆगॆ हरडिकॊण्डु महाकुलदल्लि हुट्टिरुविरि. हागिरुवाग साधारण कपिगळन्तॆ भयगॊण्डु ओडिहोगुत्तिरुविल्ल? नीवु पराक्रम बिट्टु भयदिन्द ओडि होदरॆ निश्चयवागि अनार्यरागुविरि.॥21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकत्थनानि वो यानि भवद्भिर्जनसंसदि ।  
 तानि वः क्व नु यातानि सोदग्राणि हितानि च ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1036,15 @@ you are indeed unworthy of honour."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भीरोः प्रवादाः श्रूयन्ते यस्तु जीवति धिक्कृतः ।  
 मार्गः सत्पुरुषैर्जुष्टः सेव्यतां त्यज्यतां भयम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,12 +1084,15 @@ yourself in front of the people just before coming for the battle?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयामहे वा निहताः पृथिव्यामल्पजीविताः ।  
 प्राप्नुयामो ब्रह्मलोकं दुष्प्रापं च कुयोधिभिः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1065,12 +1136,15 @@ the people. Let the path trodden by the good people be followed. Let your fear b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवाप्नुयामः कीर्तिं वा निहत्वा शत्रुमाहवे ।  
 निहता वीरलोकस्य भोक्ष्यामो वसु वानराः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,12 +1186,15 @@ by bad warriors."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कुम्भकर्णः काकुत्स्थं दृष्ट्वा जीवन् गमिष्यति ।  
 दीप्यमानमिवासाद्य पतङ्गो ज्वलनं यथा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1152,12 +1229,15 @@ the other hand, we shall enjoy the heaven, attained by the warriors."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पलायनेन चोद्दिष्टाः प्राणान् रक्षामहे वयम् ।  
 एकेन बहवो भग्ना यशो नाशं गमिष्यति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1191,12 +1271,15 @@ moth meeting a blazing fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं तं शूरमङ्गदं कनकाङ्गदम् ।  
 द्रवमाणास्ततो वाक्यमूचुः शूरविगर्हितम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1231,12 +1314,15 @@ alone and if we protect our lives by running away, our glory will undergo a dama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं नः कदनं घोरं कुम्भकर्णेन रक्षसा ।  
 न स्थानकालो गच्छामो दयितं जीवितं हि नः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,12 +1357,15 @@ the warriors, to that valiant Angada, who was adorneed with golden armlets.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा वचनं सर्वे ते भेजिरे दिशः ।  
 भीमं भीमाक्षमायान्तं दृष्ट्वा वानरयूथपाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1310,12 +1399,15 @@ the proper time to stay back but it is to time to go away. Life is indeed dear t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रवमाणास्तु ते वीरा अङ्गदेन बलीमुखाः ।  
 सान्त्वनैश्चानुमानैश्च ततः सर्वे निवर्तिताः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1353,12 +1445,15 @@ of monkey-troops, speaking words only thus far, scattered in all directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहर्षमुपनीताश्च वालिपुत्रेण धीमता ।  
 आज्ञाप्रतीक्षास्तस्थुश्च सर्वे वानरयूथपाः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1399,6 +1494,7 @@ fleeing commanders of monkeys turned back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1407,6 +1503,8 @@ fleeing commanders of monkeys turned back.
 द्विविदपनसवायुपुत्रमुख्या-  
 स्त्वरिततराभिमुखं रणं प्रयाताः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1458,5 +1556,6 @@ army-troops stood awaiting his command.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तारनॆय सर्ग पूर्णवायितु.॥66॥
+</details>
 </details>
 

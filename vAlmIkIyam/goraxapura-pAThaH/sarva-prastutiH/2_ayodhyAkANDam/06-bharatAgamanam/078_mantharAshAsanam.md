@@ -2,6 +2,8 @@
 title = "०७८ मन्थराशासनम्"
 title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ her son, Bharata intervenses and Shatrughna releases Manthara.
 
 78. शत्रुघ्नका रोष, उनका कुब्जाको घसीटना और भरतजीके कहनेसे उसे मूर्च्छित अवस्थामें छोड़ देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यात्रां समीहन्तं शत्रुघ्नो लक्ष्मणानुजः ।  
 भरतं शोकसन्तप्तमिदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ Bharata, who was tormented with grief and who desired to undertake an expedition
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतिर्यः सर्वभूतानां दुःखे किं पुनरात्मनः ।  
 स रामः सत्त्वसम्पन्नः स्त्रिया प्रव्राजितो वनम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ our seeking solace to him in our grief? He has been abandoned to the forest by a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलवान् वीर्यसम्पन्नो लक्ष्मणो नाम योऽप्यसौ ।  
 किं न मोचयते रामं कृत्वापि पितृनिग्रहम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ Rama from distress by making our father to restrain from doing it?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमेव तु विग्राह्यः समवेक्ष्य नयानयौ ।  
 उत्पथं यः समारूढो नार्या राजा वशं गतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ beginning itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सम्भाषमाणे तु शत्रुघ्ने लक्ष्मणानुजे ।  
 प्राग्द्वारेऽभूत् तदा कुब्जा सर्वाभरणभूषिता ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ Manthara duly adorned with all types of ornaments, appeared at the eastern gate.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लिप्ता चन्दनसारेण राजवस्त्राणि बिभ्रती ।  
 विविधं विविधैस्तैस्तैर्भूषणैश्च विभूषिता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ with several kinds of ornaments of every description in various ways.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेखलादामभिश्चित्रैरन्यैश्च वरभूषणैः ।  
 बभासे बहुभिर्बद्धा रज्जुबद्धेव वानरी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ Manthara appeared like a female-monkey tied with ropes!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां समीक्ष्य तदा द्वाःस्थो भृशं पापस्य कारिणीम् ।  
 गृहीत्वाकरुणं कुब्जां शत्रुघ्नाय न्यवेदयत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ door-keepers caught her and delivered her to Shatrughna (with the following word
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्याः कृते वने रामो न्यस्तदेहश्च वः पिता ।  
 सेयं पापा नृशंसा च तस्याः कुरु यथामति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ father has laid down his body. Do with her, as you consider fitting."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुघ्नश्च तदाज्ञाय वचनं भृशदुःखितः ।  
 अन्तःपुरचरान् सर्वानित्युवाच धृतव्रतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +511,15 @@ spoke to all those inmates of that gynaecium, as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीव्रमुत्पादितं दुःखं भ्रातॄणां मे तथा पितुः ।  
 यथा सेयं नृशंसस्य कर्मणः फलमश्नुताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ receive the fruit of her cruel act."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा च तेनाशु सखीजनसमावृता ।  
 गृहीता बलवत् कुब्जा सा तद् गृहमनादयत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +615,15 @@ his powerful hand soon and she in turn made that mansion resound with her shriek
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुभृशसन्तप्तस्तस्याः सर्वः सखीजनः ।  
 क्रुद्धमाज्ञाय शत्रुघ्नं व्यपलायत सर्वशः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +667,15 @@ they were, ran away helter-shelter in all directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमन्त्रयत कृत्स्नश्च तस्याः सर्वः सखीजनः ।  
 यथायं समुपक्रान्तो निःशेषं नः करिष्यति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +715,15 @@ he will surely slay us all"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सानुक्रोशां वदान्यां च धर्मज्ञां च यशस्विनीम् ।  
 कौसल्यां शरणं यामः सा हि नोऽस्ति ध्रुवा गतिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,12 +764,15 @@ Kausalya. Let her be the sure asylum for us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च रोषेण संवीतः शत्रुघ्नः शत्रुशासनः ।  
 विचकर्ष तदा कुब्जां क्रोशन्तीं पृथिवीतले ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +812,15 @@ dragged the crying hump-back along the floor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां ह्याकृष्यमाणायां मन्थरायां ततस्ततः ।  
 चित्रं बहुविधं भाण्डं पृथिव्यां तद्‍व्यशीर्यत ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +864,15 @@ scattered asunder here and there on the floor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन भाण्डेन विस्तीर्णं श्रीमद् राजनिवेशनम् ।  
 अशोभत तदा भूयः शारदं गगनं यथा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +910,15 @@ like an autumnal sky studded with innumerable stars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बली बलवत् क्रोधाद् गृहीत्वा पुरुषर्षभः ।  
 कैकेयीमभिनिर्भर्त्स्य बभाषे परुषं वचः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,12 +960,15 @@ sharply rebuked Kaikeyi and spoke harsh words to her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्वाक्यैः परुषैर्दुःखैः कैकेयी भृशदुःखिता ।  
 शत्रुघ्नभयसन्त्रस्ता पुत्रं शरणमागता ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1009,15 @@ with the fear of Shatrughna, took refuge with Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रेक्ष्य भरतः क्रुद्धं शत्रुघ्नमिदमब्रवीत् ।  
 अवध्याः सर्वभूतानां प्रमदाः क्षम्यतामिति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,12 +1058,15 @@ killed. Hence she is to be pardoned."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यामहमिमां पापां कैकेयीं दुष्टचारिणीम् ।  
 यदि मां धार्मिको रामो नासूयेन्मातृघातकम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1107,15 @@ mother, I would have killed this Kaikeyi, the ill-mannered and sinful woman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमामपि हतां कुब्जां यदि जानाति राघवः ।  
 त्वां च मां चैव धर्मात्मा नाभिभाषिष्यते ध्रुवम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1085,12 +1156,15 @@ that he will cease to talk to you or even to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्य वचः श्रुत्वा शत्रुघ्नो लक्ष्मणानुजः ।  
 न्यवर्तत ततो दोषात् तां मुमोच च मूर्च्छिताम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,12 +1208,15 @@ his guilty design forthwith released that Manthara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा पादमूले कैकेय्या मन्थरा निपपात ह ।  
 निःश्वसन्ती सुदुःखार्ता कृपणं विललाप ह ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,6 +1258,7 @@ Manthara fell at the feet of Kaikeyi, breathless, weeping piteously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1189,6 +1267,8 @@ Manthara fell at the feet of Kaikeyi, breathless, weeping piteously.
 शनैः समाश्वासयदार्तरूपां  
 क्रौञ्चीं विलग्नामिव वीक्षमाणाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,5 +1325,6 @@ Bharata's mother slowly consoled her.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॆण्टनॆय सर्ग पूर्णवायितु.॥78॥
+</details>
 </details>
 

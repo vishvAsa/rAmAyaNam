@@ -2,6 +2,8 @@
 title = "०४८ रावणेन सीतानिर्भर्त्सनम्"
 title_english = "048 Ravana tempts Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ luring.
 
 48. रावणके द्वारा अपने पराक्रमका वर्णन और सीताद्वारा उसको कड़ी फटकार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवत्यां सीतायां संरब्धः परुषं वचः ।  
 ललाटे भ्रुकुटिं कृत्वा रावणः प्रत्युवाच ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ words to Seetha. [3-48-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राता वैश्रवणस्याहं सापत्नो वरवर्णिनि ।  
 रावणो नाम भद्रं ते दशग्रीवः प्रतापवान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,6 +124,7 @@ ten-headed stepbrother of Kubera. [3-48-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +133,8 @@ ten-headed stepbrother of Kubera. [3-48-2]
 येन वैश्रवणो भ्राता वैमात्राः कारणान्तरे ।  
 द्वन्द्वमासादितः क्रोधाद् रणे विक्रम्य निर्जितः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +200,15 @@ will always be frightened and fleeing, as with the people frightened and fleeing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मद्भयार्तः परित्यज्य स्वमधिष्ठानमृद्धिमत् ।  
 कैलासं पर्वतश्रेष्ठमध्यास्ते नरवाहनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +251,15 @@ he is somehow living, because I will not cause any harm on Mt. Kailash as I hold
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य तत् पुष्पकं नाम विमानं कामगं शुभम् ।  
 वीर्यादावर्जितं भद्रे येन यामि विहायसम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,12 +300,15 @@ in skies. [3-48-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम सञ्जातरोषस्य मुखं दृष्ट्वैव मैथिलि ।  
 विद्रवन्ति परित्रस्ताः सुराः शक्रपुरोगमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +348,15 @@ Indra is leading them, then where is the question of their confronting me. [3-48
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र तिष्ठाम्यहं तत्र मारुतो वाति शङ्कितः ।  
 तीव्रांशुः शिशिरांशुश्च भयात् सम्पद्यते दिवि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +400,15 @@ Prabha, the Sunshine. [3-48-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्कम्पपत्रास्तरवो नद्यश्च स्तिमितोदकाः ।  
 भवन्ति यत्र तत्राहं तिष्ठामि च चरामि च ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +452,15 @@ up. [3-48-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम पारे समुद्रस्य लङ्का नाम पुरी शुभा ।  
 सम्पूर्णा राक्षसैर्घोरैर्यथेन्द्रस्यामरावती ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,12 +501,15 @@ for meekly gods and meaningless souls. [3-48-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकारेण परिक्षिप्ता पाण्डुरेण विराजिता ।  
 हेमकक्ष्या पुरी रम्या वैदूर्यमयतोरणा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +545,15 @@ and its palace-chambers are golden, and its archways are fully jewelled with lap
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हस्त्यश्वरथसम्बाधा तूर्यनादविनादिता ।  
 सर्वकामफलैर्वृक्षैः सङ्कुलोद्यानभूषिता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,12 +597,15 @@ trees which yield fruits that fulfil all the savours, and it is bedecked with ch
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र त्वं वस हे सीते राजपुत्रि मया सह ।  
 न स्मरिष्यसि नारीणां मानुषीणां मनस्विनि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +645,15 @@ expressions of addressing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुञ्जाना मानुषान् भोगान् दिव्यांश्च वरवर्णिनि ।  
 न स्मरिष्यसि रामस्य मानुषस्य गतायुषः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +730,7 @@ demon-hood...' Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -697,6 +739,8 @@ demon-hood...' Maheshvara Tiirtha.
 तेन किं भ्रष्टराज्येन रामेण गतचेतसा ।  
 करिष्यसि विशालाक्षि तापसेन तपस्विना ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -805,12 +849,15 @@ incarnation is to yield its results...’ Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्ष राक्षसभर्तारं कामय स्वयमागतम् ।  
 न मन्मथशराविष्टं प्रत्याख्यातुं त्वमर्हसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +917,15 @@ thinking of me and speaking to me, is unapt of you in the right your mind...' Ma
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्याय हि मां भीरु पश्चात्तापं गमिष्यसि ।  
 चरणेनाभिहत्येव पुरूरवसमुर्वशी ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,12 +978,15 @@ Uurvashi is a beauty of higher order. Kalidasa took this as his subject for his 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गुल्या न समो रामो मम युद्धे स मानुषः ।  
 तव भाग्येन सम्प्राप्तं भजस्व वरवर्णिनि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1051,15 @@ Rama in high honour... for all this to happen first you come with me..." Maheshv
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही क्रुद्धा संरक्तलोचना ।  
 अब्रवीत् परुषं वाक्यं रहिते राक्षसाधिपम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,12 +1105,15 @@ discussion is there in endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं वैश्रवणं देवं सर्वदेवनमस्कृतम् ।  
 भ्रातरं व्यपदिश्य त्वमशुभं कर्तुमिच्छसि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,12 +1153,15 @@ brother? [3-48-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं विनशिष्यन्ति सर्वे रावण राक्षसाः ।  
 येषां त्वं कर्कशो राजा दुर्बुद्धिरजितेन्द्रियः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,12 +1203,15 @@ demons like Vibheeshana, et al. [3-48-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपहृत्य शचीं भार्यां शक्यमिन्द्रस्य जीवितुम् ।  
 नहि रामस्य भार्यां मामानीय स्वस्तिमान् भवेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1187,6 +1252,7 @@ will be no liveability after abducting me, the wife of Rama. [3-48-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1195,6 +1261,8 @@ will be no liveability after abducting me, the wife of Rama. [3-48-23]
 न मादृशीं राक्षस धर्षयित्वा  
 पीतामृतस्यापि तवास्ति मोक्षः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,5 +1332,6 @@ unwise state of yours will never attain *moksha...'* Rama Tilaka Commentary.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु.॥48॥
+</details>
 </details>
 

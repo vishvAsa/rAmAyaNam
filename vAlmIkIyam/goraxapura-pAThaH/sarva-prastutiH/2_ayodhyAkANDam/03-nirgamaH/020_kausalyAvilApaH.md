@@ -2,6 +2,8 @@
 title = "०२० कौसल्याविलापः"
 title_english = "020 Kausalya s grief"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,6 +22,7 @@ hearing the news, faints. On recovering, she laments in the most grevious tones 
 
 20. राजा दशरथकी अन्य रानियोंका विलाप, श्रीरामका कौसल्याजीके भवनमें जाना और उन्हें अपने वनवासकी बात बताना, कौसल्याका अचेत होकर गिरना और श्रीरामके उठा देनेपर उनकी ओर देखकर विलाप करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ hearing the news, faints. On recovering, she laments in the most grevious tones 
 आर्तशब्दो महान् **जज्ञे**  
 स्त्रीणामन्तःपुरे तदा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +72,7 @@ women in the palace were weaping loudly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +81,8 @@ women in the palace were weaping loudly.
 गतिश्च **शरणं चासीत्**  
 स रामोऽद्य **प्रवत्स्यति** ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ protect the entire palace, is about to go to exile now".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यायां यथा युक्तो जनन्यां वर्तते सदा ।  
 तथैव वर्ततेऽस्मासु जन्मप्रभृति राघवः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ his mother Kausalya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न क्रुध्यत्यभिशप्तोऽपि क्रोधनीयानि वर्जयन् ।  
 क्रुद्धान् प्रसादयन् सर्वान् स इतोऽद्य प्रवत्स्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,6 +214,7 @@ Rama was not furious with those who abused him. Such Rama is going today to exil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,6 +223,8 @@ Rama was not furious with those who abused him. Such Rama is going today to exil
 यो गतिं सर्वभूतानां  
 **परित्यजति** राघवम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,6 +263,7 @@ the beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -254,6 +272,8 @@ the beings."
 पतिम् **आचुक्रुशुश्** चापि  
 सस्वनं चापि **चुक्रुशुः** ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,6 +315,7 @@ abused their husband .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,6 +324,8 @@ abused their husband .
 पुत्रशोकाभिसन्तप्तः  
 **श्रुत्वा व्यालीयतासने** ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,6 +365,7 @@ to the seat, with extreme anguish for his son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -350,6 +374,8 @@ to the seat, with extreme anguish for his son.
 **जगाम** सहितो भ्रात्रा  
 मातुरन्तःपुरं वशी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,6 +415,7 @@ his mother's palace along with Lakshmana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -397,6 +424,8 @@ his mother's palace along with Lakshmana
 उपविष्टं गृहद्वारि तिष्ठतश्  
 चापरान् बहून् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -435,6 +464,7 @@ other standing there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -443,6 +473,8 @@ other standing there.
 जयेन जयतां श्रेष्ठं  
 **वर्धयन्ति** स्म राघवम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,6 +517,7 @@ man, by uttering the words "May you have increased success!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -493,6 +526,8 @@ man, by uttering the words "May you have increased success!"
 ब्राह्मणान् वेदसम्पन्नान्  
 वृद्धान् राज्ञाभिसत्कृतान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,6 +567,7 @@ honoured by the king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,6 +576,8 @@ honoured by the king.
 स्त्रियो बालाश्च वृद्धाश्च  
 द्वार-रक्षण-तत्पराः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +620,7 @@ gate in the third enclosure.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -590,6 +629,8 @@ gate in the third enclosure.
 **न्यवेदयन्त** त्वरितं  
 राम-मातुः प्रियं तदा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,6 +670,7 @@ quickly entered the house and informed Kausalya about the lovely arrival of Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -637,6 +679,8 @@ quickly entered the house and informed Kausalya about the lovely arrival of Rama
 प्रभाते **चाकरोत्** पूजां  
 विष्णोः पुत्र-हितैषिणी ॥१४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,6 +720,7 @@ performing worship to Vishnu,at dawn, for the welfare of her son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -684,6 +729,8 @@ performing worship to Vishnu,at dawn, for the welfare of her son.
 अग्निं **जुहोति** स्म तदा  
 मन्त्रवत् कृतमङ्गला ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -728,6 +775,7 @@ fire, by reciting vedic hymns.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -736,6 +784,8 @@ fire, by reciting vedic hymns.
 **ददर्श** मातरं तत्र  
 हावयन्तीं हुताशनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,6 +824,7 @@ sacrificial ceremony in sacred fire there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -786,6 +837,8 @@ sacrificial ceremony in sacred fire there.
 समिधः पूर्णकुम्भांश् च  
 ददर्श रघुनन्दनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,6 +887,7 @@ spices, sacrificial sticks, vessels full of water etc.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -842,6 +896,8 @@ spices, sacrificial sticks, vessels full of water etc.
 **तर्पयन्तीं ददर्शाद्भिर्**  
 देवतां वरवर्णिनीम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,6 +937,7 @@ with her white silk sari and was satiating gods by presenting to them libations 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +946,8 @@ with her white silk sari and was satiating gods by presenting to them libations 
 **अभिचक्राम** संहृष्टा  
 किशोरं वडवा+++(=अश्वी)+++ यथा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,6 +988,7 @@ colt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -937,6 +997,8 @@ colt.
 परिष्वक्तश् च बाहुभ्याम्  
 अवघ्रातश् च मूर्धनि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,6 +1037,7 @@ took him into her arms and smelt his head.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -983,6 +1046,8 @@ took him into her arms and smelt his head.
 कौसल्या पुत्रवात्सल्याद्  
 इदं प्रियहितं वचः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,6 +1086,7 @@ unassailable by enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1029,6 +1095,8 @@ unassailable by enemies.
 **प्राप्नुह्य्** आयुश् च कीर्तिं च  
 धर्मं चाप्युचितं कुले ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,6 +1136,7 @@ souled and the royal sages .Protect the righteousness engrained in your race"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1076,6 +1145,8 @@ souled and the royal sages .Protect the righteousness engrained in your race"
 अद्यैव त्वां स धर्मात्मा  
 यौवराज्ये **ऽभिषेक्ष्यति** ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1118,6 +1189,7 @@ will be installed as successor to the kingdom by your virtuous father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1126,6 +1198,8 @@ will be installed as successor to the kingdom by your virtuous father."
 मातरं राघवः किञ्चित्  
 प्रसार्याञ्जलिम् **अब्रवीत्** ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1164,6 +1238,7 @@ after performing salutation to her, spoke thus to his mother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1172,6 +1247,8 @@ after performing salutation to her, spoke thus to his mother.
 प्रस्थितो दण्डकारण्यम्  
 **आप्रष्टुम्** उपचक्रमे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,6 +1289,7 @@ forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1220,6 +1298,8 @@ forest.
 इदं तव च दुःखाय  
 वैदेह्या लक्ष्मणस्य च ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1259,6 +1339,7 @@ to you, to Sita and to Lakshmana"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1267,6 +1348,8 @@ to you, to Sita and to Lakshmana"
 विष्टरासन-योग्यो हि  
 कालोऽयं माम् उपस्थितः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1299,6 +1382,7 @@ a seat made of Kusha grass."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1307,6 +1391,8 @@ a seat made of Kusha grass."
 कन्दमूलफलैर् **जीवन्**  
 **हित्वा** मुनिवदामिषम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1348,6 +1434,7 @@ and living with roots, fruits and honey".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1356,6 +1443,8 @@ and living with roots, fruits and honey".
 मां पुनर् दण्डकारण्यं  
 **विवासयति** तापसम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1394,6 +1483,7 @@ he is making me a sage to stay in the forest of Dandaka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1402,6 +1492,8 @@ he is making me a sage to stay in the forest of Dandaka."
 **आसेवमानो** वन्यानि  
 फलमूलैश् च **वर्तयन्** ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1444,6 +1536,7 @@ fruits in a solitary forest for fourteen years."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1452,6 +1545,8 @@ fruits in a solitary forest for fourteen years."
 **पपात** सहसा देवी  
 देवतेव दिवश्च्युता ॥ ३२ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,6 +1585,7 @@ by an axe and as an angel dropping down from heaven.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1498,6 +1594,8 @@ by an axe and as an angel dropping down from heaven.
 रामस् **तूत्थापयाम् आस**  
 मातरं गतचेतसम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,6 +1635,7 @@ fallen unconsciously on the floor like a plantain tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1545,6 +1644,8 @@ fallen unconsciously on the floor like a plantain tree.
 पांसु-गुण्ठितसर्वाङ्गीं  
 **विममर्श** च पाणिना ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,6 +1686,7 @@ side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1594,6 +1696,8 @@ side.
 **उपशृण्वति** लक्ष्मणे ॥ ३५ ॥
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1633,6 +1737,7 @@ the best of men who was sitting nearby, while Lakshmana was hearing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1641,6 +1746,8 @@ the best of men who was sitting nearby, while Lakshmana was hearing.
 न स्म दुःखम् अतो भूयः  
 **पश्येयम्** अहम् अप्रजाः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1679,6 +1786,7 @@ only to produce sorrow to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1687,6 +1795,8 @@ only to produce sorrow to me."
 अप्रजास्मीति, सन्तापो **न**  
 ह्य् अन्यः पुत्र **विद्यते** ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1725,6 +1835,7 @@ have no sons".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1733,6 +1844,8 @@ have no sons".
 अपि पुत्रे विपश्येयम्  
 इति रामास्थितं मया ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1772,12 +1885,15 @@ in power. I believed that I could see them at last when my son comes to power."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा बहून्यमनोज्ञानि वाक्यानि हृदयच्छिदाम् ।  
 अहं श्रोष्ये सपत्नीनामवराणां परा सती ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1817,12 +1933,15 @@ me and who pierce my heart with their words though I am a better and virtuous wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो दुःखतरं किं नु प्रमदानां भविष्यति ।  
 मम शोको विलापश्च यादृशोऽयमनन्तकः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1861,12 +1980,15 @@ that occurred to me now?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयि सन्निहितेऽप्येवमहमासं निराकृता ।  
 किं पुनः प्रोषिते तात ध्रुवं मरणमेव हि ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1906,12 +2028,15 @@ exile? Death indeed is certain to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यन्तं निगृहीतास्मि भर्तुर्नित्यमसम्मता ।  
 परिवारेण कैकेय्याः समा वाप्यथवावरा ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1950,12 +2075,15 @@ equal to or even lower than the servants of Kaikeyi"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि मां सेवते कश्चिदपि वाप्यनुवर्तते ।  
 कैकेय्याः पुत्रमन्वीक्ष्य स जनो नाभिभाषते ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1994,12 +2122,15 @@ Bharata".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यक्रोधतया तस्याः कथं नु खरवादि तत् ।  
 कैकेय्या वदनं द्रष्टुं पुत्र शक्ष्यामि दुर्गता ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2033,6 +2164,7 @@ because of her continuous anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2041,6 +2173,8 @@ because of her continuous anger."
 अतीतानि प्रकाङ्क्षन्त्या  
 मया दुःख-परिक्षयम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -2091,12 +2225,15 @@ ceremony, with the hope that my troubles will disappear at one time or the other
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदक्षयं महद्दुःखं नोत्सहे सहितुं चिरात् ।  
 विप्रकारं सपत्नीनामेवं जीर्णापि राघव ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2136,12 +2273,15 @@ sorrow for a long time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपश्यन्ती तव मुखं परिपूर्णशशिप्रभम् ।  
 कृपणा वर्तयिष्यामि कथं कृपणजीविका ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2181,12 +2321,15 @@ radiating like full moon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासैश्च योगैश्च बहुभिश्च परिश्रमैः ।  
 दुःखसंवर्धितो मोघं त्वं हि दुर्गतया मया ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2227,12 +2370,15 @@ various difficult and painful vows ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थिरं नु हृदयं मन्ये ममेदं यन्न दीर्यते ।  
 प्रावृषीव महानद्याः स्पृष्टं कूलं नवाम्भसा ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2272,6 +2418,7 @@ by hearing this news.That is why, I feel it is strong."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2280,6 +2427,8 @@ by hearing this news.That is why, I feel it is strong."
 यदन्तकोऽद्यैव न मां जिहीर्षति  
 प्रसह्य सिंहो रुदतीं मृगीमिव ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2324,6 +2473,7 @@ lion carrying off a wailing antelope."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2332,6 +2482,8 @@ lion carrying off a wailing antelope."
 अनेन दुःखेन च देहमर्पितं  
 ध्रुवं ह्यकाले मरणं न विद्यते ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2377,6 +2529,7 @@ it is certain"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2385,6 +2538,8 @@ it is certain"
 तपश्च तप्तं यदपत्यकाम्यया  
 सुनिष्फलं बीजमिवोप्तमूषरे ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2430,6 +2585,7 @@ saline soil."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2438,6 +2594,8 @@ saline soil."
 गताहमद्यैव परेतसंसदं  
 विना त्वया धेनुरिवात्मजेन वै ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2487,6 +2645,7 @@ calf."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2495,6 +2654,8 @@ calf."
 अनुव्रजिष्यामि वनं त्वयैव गौः  
 सुदुर्बला वत्समिवाभिकाङ्क्षया ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2540,6 +2701,7 @@ behind it's calf"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2548,6 +2710,8 @@ behind it's calf"
 व्यसनमुपनिशाम्य सा महत्  
 सुतमिव बद्धमवेक्ष्य किन्नरी ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2607,5 +2771,6 @@ son bound by grief and lamented very much in various ways like a kinnara woman.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तनॆय सर्ग पूर्णवायितु ॥20॥
+</details>
 </details>
 

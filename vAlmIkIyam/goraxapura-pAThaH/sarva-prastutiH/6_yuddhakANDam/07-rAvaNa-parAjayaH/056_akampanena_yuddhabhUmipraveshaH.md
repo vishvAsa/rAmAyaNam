@@ -2,6 +2,8 @@
 title = "०५६ अकम्पनेन युद्धभूमिप्रवेशः"
 title_english = "056 Akampana enters the battle field"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ take to their heels and return to Lanka.
 
 56. हनुमान् जी के द्वारा अकम्पनका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् दृष्ट्वा सुमहत् कर्म कृतं वानरसत्तमैः ।  
 क्रोधमाहारयामास युधि तीव्रमकम्पनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ Akampana was seized with a fierce anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधमूिर्च्छत तरूपस्तु धुन्वन् परमकार्मुकम् ।  
 दृष्ट्वा तु कर्म शत्रूणां सारथिं वाक्यमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -101,12 +109,15 @@ _________________
 
 शत्रुगळु गैद संहार कार्यवन्नु नोडि अवन शरीरवॆल्ल क्रोधदिन्द उरिय तॊडगितु. उत्तमवाद धनुस्सन्नॆत्ति अवनु सारथिगॆ हेळिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रैव तावत् त्वरितो रथं प्रापय सारथे ।  
 एते च बलिनो घ्नन्ति सुबहून् राक्षसान् रणे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -146,12 +157,15 @@ demons on the battle field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते च बलवन्तो वा भीमकोपाश्च वानराः ।  
 द्रुमशैलप्रहरणास्तिष्ठन्ति प्रमुखे मम ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,12 +205,15 @@ affront me here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतान् निहन्तुमिच्छामि समरश्लाघिनो ह्यहम् ।  
 एतैः प्रमथितं सर्वं रक्षसां दृश्यते बलम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +257,15 @@ demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रचलिताश्वेन रथेन रथिनां वरः ।  
 हरीनभ्यपतद् दूराच्छरजालैरकम्पनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +306,15 @@ of chariot-warriors, with a hail of darts, assailed the monkeys from a distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स्थातुं वानराः शेकुः किं पुनर्योद‍्धुमाहवे ।  
 अकम्पनशरैर्भग्नाः सर्व एवाभिदुद्रुवुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +355,15 @@ battle. all of them were crushed under the shifts of Akampana and took to their 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् मृत्युवशमापन्नानकम्पनशरानुगान् ।  
 समीक्ष्य हनुमान् ज्ञातीनुपतस्थे महाबलः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ darts, the mighty Hanuman went to their rescue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं महाप्लवगं दृष्ट्वा सर्वे ते प्लवगर्षभाः ।  
 समेत्य समरे वीराः संहृष्टाः पर्यवारयन् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +451,15 @@ together rallied and grouped themselves boldly round him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यवस्थितं हनूमन्तं ते दृष्ट्वा प्लवगर्षभाः ।  
 बभूवुर्बलवन्तो हि बलवन्तमुपाश्रिताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,12 +502,15 @@ powerfulness and became powerfulness and became powerful indeed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनस्तु शैलाभं हनूमन्तमवस्थितम् ।  
 महेन्द्र इव धाराभिः शरैरभिववर्ष ह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +550,15 @@ Hanuman, who remained as firm as a rock.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिन्तयित्वा बाणौघान् शरीरे पातितान् कपिः ।  
 अकम्पनवधार्थाय मनो दध्रे महाबलः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +598,15 @@ resolved in his mind to slay Akampana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रहस्य महातेजा हनूमान् मारुतात्मजः ।  
 अभिदुद्राव तद्रक्षः कम्पयन्निव मेदिनीम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ great splendour, leapt on the demon, causing the earth to shake as it were.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याथ नर्दमानस्य दीप्यमानस्य तेजसा ।  
 बभूव रूपं दुर्धर्षं दीप्तस्येव विभावसोः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +697,15 @@ like a blazing fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानं त्वप्रहरणं ज्ञात्वा क्रोधसमन्वितः ।  
 शैलमुत्पाटयामास वेगेन हरिपुङ्गवः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +745,15 @@ rage, uplifted a mountain quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीत्वा सुमहाशैलं पाणिनैकेन मारुतिः ।  
 स विनद्य महानादं भ्रामयामास वीर्यवान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +793,15 @@ roar, began to spin it rapidly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तमभिदुद्राव राक्षसेन्द्रमकम्पनम् ।  
 पुरा हि नमुचिं सङ्ख्ये वज्रेणेव पुरन्दरः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +841,15 @@ thunderbolt at Namuchi, Hanuman rushed towards Akampana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनस्तु तद् दृष्ट्वा गिरिशृङ्गं समुद्यतम् ।  
 दूरादेव महाबाणैरर्धचन्द्रैर्व्यदारयत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,12 +889,15 @@ by means of his great crescent-shaped arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पर्वताग्रमाकाशे रक्षोबाणविदारितम् ।  
 विकीर्णं पतितं दृष्ट्वा हनूमान् क्रोधमूिर्च्छतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,12 +940,15 @@ pieces, Hanuman became mad with anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽश्वकर्णं समासाद्य रोषदर्पान्वितो हरिः ।  
 तूर्णमुत्पाटयामास महागिरिमिवोच्छ्रितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +988,15 @@ possessed him, that Hanuman uprooted it speedily.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं गृहीत्वा महास्कन्धं सोऽश्वकर्णं महाद्युतिः ।  
 प्रगृह्य परया प्रीत्या भ्रामयामास संयुगे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1040,15 @@ Hanuman with immense delight spinned it, while standing on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रधावन्नुरुवेगेन बभञ्ज तरसा द्रुमान् ।  
 हनूमान् परमक्रुद्धश्चरणैर्दारयन् महीम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1024,12 +1092,15 @@ trees by his strength and tearing up the earth with his feet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजांश्च सगजारोहान् सरथान् रथिनस्तथा ।  
 जघान हनुमान् धीमान् राक्षसांश्च पदातिगान् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1140,15 @@ chariots and the terrific infantry of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमन्तकमिव क्रुद्धं सद्रुमं प्राणहारिणम् ।  
 हनूमन्तमभिप्रेक्ष्य राक्षसा विप्रदुद्रुवुः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1191,15 @@ armed with a tree and taking off lives, the demons took of flight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं सङ्क्रुद्धं राक्षसानां भयावहम् ।  
 ददर्शाकम्पनो वीरश्चुक्षोभ च ननाद च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1166,12 +1243,15 @@ terror among his soldiers, was greatly perturbed and set up a mighty shout.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चतुर्दशभिर्बाणैर्निशितैर्देहदारणैः ।  
 निर्बिभेद महावीर्यं हनूमन्तमकम्पनः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1214,12 +1294,15 @@ valiant Hanuman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथा विप्रकीर्णस्तु नाराचैः शितशक्तिभिः ।  
 हनूमान् ददृशे वीरः प्ररूढ इव सानुमान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,12 +1345,15 @@ which a number of plants shooted up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरराज महावीर्यो महाकायो महाबलः ।  
 पुष्पिताशोकसङ्काशो विधूम इव पावकः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1301,12 +1387,15 @@ smoke and resembled a blooming Ashoka tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्यं वृक्षमुत्पाट्य कृत्वा वेगमनुत्तमम् ।  
 शिरस्याभिजघानाशु राक्षसेन्द्रमकम्पनम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1364,12 +1453,15 @@ brandishing his powerful bow, Akampana addressed his charioteer in these words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वृक्षेण हतस्तेन सक्रोधेन महात्मना ।  
 राक्षसो वानरेन्द्रेण पपात च ममार च ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1409,12 +1501,15 @@ died.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा निहतं भूमौ राक्षसेन्द्रमकम्पनम् ।  
 व्यथिता राक्षसाः सर्वे क्षितिकम्प इव द्रुमाः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1454,12 +1549,15 @@ trees do during an earthquake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यक्तप्रहरणाः सर्वे राक्षसास्ते पराजिताः ।  
 लङ्कामभिययुस्त्रासाद् वानरैस्तैरभिद्रुताः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1500,12 +1598,15 @@ terrified, pursued by those monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते मुक्तकेशाः सम्भ्रान्ता भग्नमानाः पराजिताः ।  
 भयाच्छ्रमजलैरङ्गैः प्रस्रवद्भिर्विदुद्रुवुः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1548,12 +1649,15 @@ with sweat, those demons fled, blowing out their breaths.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यं ये प्रमथ्नन्तो विविशुर्नगरं भयात् ।  
 पृष्ठतस्ते तु सम्मूढाः प्रेक्षमाणा मुहुर्मुहुः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1593,12 +1697,15 @@ entered the city.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु लङ्कां प्रविष्टेषु राक्षसेषु महाबलाः ।  
 समेत्य हरयः सर्वे हनूमन्तमपूजयन् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1638,12 +1745,15 @@ paid homage to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपि प्रवृद्धस्तान् सर्वान् हरीन् सम्प्रत्यपूजयत् ।  
 हनूमान् सत्त्वसम्पन्नो यथार्हमनुकूलतः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1683,12 +1793,15 @@ their rank and the occasion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनेदुश्च यथाप्राणं हरयो जितकाशिनः ।  
 चकृषुश्च पुनस्तत्र सप्राणानेव राक्षसान् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,6 +1841,7 @@ the demons who were still alive there on the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1736,6 +1850,8 @@ the demons who were still alive there on the battle-field.
 महासुरं भीमममित्रनाशनं  
 विष्णुर्यथैवोरुबलं चमूमुखे ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1782,6 +1898,7 @@ destroying his enemies in the forefront of the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1790,6 +1907,8 @@ destroying his enemies in the forefront of the battle.
 तथैव सुग्रीवमुखाः प्लवङ्गमा  
 विभीषणश्चैव महाबलस्तदा ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1845,5 +1964,6 @@ Lakshmana, Sugreeva and other monkeys and the mighty Vibhishana paid homage to H
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तारनॆय सर्ग पूर्णवायितु.॥56॥
+</details>
 </details>
 

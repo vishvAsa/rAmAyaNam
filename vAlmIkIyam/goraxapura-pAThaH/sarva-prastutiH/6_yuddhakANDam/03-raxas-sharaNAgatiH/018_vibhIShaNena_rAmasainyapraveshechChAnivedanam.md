@@ -2,6 +2,8 @@
 title = "०१८ विभीषणेन रामसैन्यप्रवेशेच्छानिवेदनम्"
 title_english = "018 Vibhishana joins as an associate in Rama s side"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ Finally Vibhishana joins as an associate in Rama's side.
 
 18. भगवान् श्रीरामका शरणागतकी रक्षाका महत्त्व एवं अपना व्रत बताकर विभीषणसे मिलना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामः प्रसन्नात्मा श्रुत्वा वायुसुतस्य ह ।  
 प्रत्यभाषत दुर्धर्षः श्रुतवानात्मनि स्थितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ mind:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममापि च विवक्षास्ति काचित् प्रति विभीषणम् ।  
 श्रोतुमिच्छामि तत् सर्वं भवद्भिः श्रेयसि स्थितैः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +123,7 @@ are firmly established in our welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,6 +132,8 @@ are firmly established in our welfare."
 दोषो यद्य् अपि तस्य स्यात्  
 सताम् एतद् अ-गर्हितम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ if he has a defect. His acceptance is irreproachable in the eyes of good men"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्त्वथ तद्वाक्यमाभाष्य च विमृश्य च ।  
 ततः शुभतरं वाक्यमुवाच हरिपुङ्गवः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,6 +218,7 @@ words of Rama and thereafter spoke the following most auspicious words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,6 +226,8 @@ words of Rama and thereafter spoke the following most auspicious words:
 ईदृशं व्यसनं प्राप्तं भ्रातरं यः परित्यजेत् ॥ ५ ॥  
 को नाम स भवेत् तस्य यमेष न परित्यजेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +271,7 @@ desert his own brother at a time of peril? Whom will he not betray subsequently?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,6 +279,8 @@ desert his own brother at a time of peril? Whom will he not betray subsequently?
 ईषदुत्स्मयमानस्तु लक्ष्मणं पुण्यलक्षणम् ।  
 इति होवाच काकुत्स्थो वाक्यं सत्यपराक्रमः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ smiled a little and spoke the following words to Lakshmana, of virtuous characte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनधीत्य च शास्त्राणि वृद्धाननुपसेव्य च ।  
 न शक्यमीदृशं वक्तुं यदुवाच हरीश्वरः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ such words as Sugreeva spoke."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्ति सूक्ष्मतरं किञ्चिद् यथात्र प्रतिभाति मा ।  
 प्रत्यक्षं लौकिकं चापि वर्तते सर्वराजसु ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमित्रास्तत्कुलीनाश्च प्रातिदेश्याश्च कीर्तिताः ।  
 व्यसनेषु प्रहर्तारस्तस्मादयमिहागतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +468,15 @@ territories become enemies and strike in times of adversities. For this reason, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपापास्तत्कुलीनाश्च मानयन्ति स्वकान् हितान् ।  
 एष प्रायो नरेन्द्राणां शङ्कनीयस्तु शोभनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +517,15 @@ well wishers in that family. Generally among kings, even a virtuous person is ap
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्तु दोषस्त्वया प्रोक्तो ह्यादानेऽरिबलस्य च ।  
 तत्र ते कीर्तयिष्यामि यथाशास्त्रमिदं शृणु ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +566,15 @@ from the side of an adversary, hear from me what the scriptures say."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वयं तत्कुलीनाश्च राज्यकाङ्क्षी च राक्षसः ।  
 पण्डिता हि भविष्यन्ति तस्माद् ग्राह्यो विभीषणः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,6 +610,7 @@ is acceptable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -579,6 +618,8 @@ is acceptable."
 प्रणादश्च महानेषोऽन्योन्यस्य भयमागतम् ।  
 इति भेदं गमिष्यन्ति तस्माद् ग्राह्यो विभीषणः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +665,15 @@ also major cause. That is why, Vibhishana can be accepted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सर्वे भ्रातरस्तात भवन्ति भरतोपमाः ।  
 मद्विधा वा पितुः पुत्राः सुहृदो वा भवद्विधाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +713,15 @@ me nor all friends are like you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण सुग्रीवः सहलक्ष्मणः ।  
 उत्थायेदं महाप्राज्ञः प्रणतो वाक्यमब्रवीत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,12 +761,15 @@ up saluting and spoke these words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेन प्रणिहितं तमवेहि निशाचरम् ।  
 तस्याहं निग्रहं मन्ये क्षमं क्षमवतां वर ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +804,7 @@ the demon. I think of him to be worthy of being taken as a captive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +813,8 @@ the demon. I think of him to be worthy of being taken as a captive."
 लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह ।  
 रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ with his counselors is fit to be imprisoned. Is not Vibhishana the brother of cr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा रघुश्रेष्ठं सुग्रीवो वाहिनीपतिः ।  
 वाक्यज्ञो वाक्यकुशलं ततो मौनमुपागमत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ expression, thereafter kept silent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुग्रीवस्य तद् वाक्यं रामः श्रुत्वा विमृश्य च ।  
 ततः शुभतरं वाक्यमुवाच हरिपुङ्गवम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +968,15 @@ more auspicious words to Sugreeva as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दुष्टो वाप्यदुष्टो वा किमेष रजनीचरः ।  
 सूक्ष्ममप्यहितं कर्तुं मम शक्तः कथञ्चन ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,12 +1016,15 @@ doing even a little harm to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिशाचान् दानवान् यक्षान् पृथिव्यां चैव राक्षसान् ।  
 अङ्गुल्यग्रेण तान् हन्यामिच्छन् हरिगणेश्वर ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,12 +1065,15 @@ demons, supernatural beings and ogres living on earth with just a tip of my fing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि कपोतेन शत्रुः शरणमागतः ।  
 अर्चितश्च यथान्यायं स्वैश्च मांसैर्निमन्त्रितः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1113,15 @@ received according to rules of hospitality and was invited for a feast with its 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि तं प्रतिजग्राह भार्याहर्तारमागतम् ।  
 कपोतो वानरश्रेष्ठ किं पुनर्मद्विधो जनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1090,12 +1161,15 @@ fowler as he came, although he killed its wife .How much more a man like me has 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषेः कण्वस्य पुत्रोण कण्डुना परमर्षिणा ।  
 शृणु गाथा पुरा गीता धर्मिष्ठा सत्यवादिना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,12 +1212,15 @@ Kanva, a great sage and a speaker of truth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धाञ्जलिपुटं दीनं याचन्तं शरणागतम् ।  
 न हन्यादानृशंस्यार्थमपि शत्रुं परन्तप ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1262,15 @@ be killed with the aim of not being cruel."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तो वा यदि वा दृप्तः परेषां शरणं गतः ।  
 अरिः प्राणान् परित्यज्य रक्षितव्यः कृतात्मना ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1235,12 +1315,15 @@ one's life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चेद् भयाद् वा मोहाद् वा कामाद् वापि न रक्षति ।  
 स्वया शक्त्या यथान्यायं तत् पापं लोकगर्हितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1363,15 @@ desire, it is a sin to be reproached by the world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टः पश्यतस्तस्य रक्षिणः शरणं गतः ।  
 आनाय सुकृतं तस्य सर्वं गच्छेदरक्षितः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1326,12 +1412,15 @@ to protect him, the former takes along all his moral merit and goes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दोषो महानत्र प्रपन्नानामरक्षणे ।  
 अस्वर्ग्यं चायशस्यं च बलवीर्यविनाशनम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1372,12 +1461,15 @@ valor"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करिष्यामि यथार्थं तु कण्डोर्वचनमुत्तमम् ।  
 धर्मिष्ठं च यशस्यं च स्वर्ग्यं स्यात् तु फलोदये ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1417,6 +1509,7 @@ gives reputation, leads to heaven and the rewards appear consequently."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1425,6 +1518,8 @@ gives reputation, leads to heaven and the rewards appear consequently."
 अभयं सर्वभूतेभ्यो+++(←सम्प्रदाने, अपादानेऽपि)+++  
 ददाम्य् एतद् व्रतं मम ॥ ३३ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1465,6 +1560,7 @@ assurance of safety against all types of beings. This is my solemn pledge"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1473,6 +1569,8 @@ assurance of safety against all types of beings. This is my solemn pledge"
 विभीषणो वा सुग्रीव  
 यदि वा रावणः स्वयम् ॥ ३४ ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1513,12 +1611,15 @@ himself; I have given an assurance of safety to him. Bring him here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु वचः श्रुत्वा सुग्रीवः प्लवगेश्वरः ।  
 प्रत्यभाषत काकुत्स्थं सौहार्देनाभिपूरितः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1558,12 +1659,15 @@ cordial friendship, replied to Rama as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमत्र चित्रं धर्मज्ञ लोकनाथशिखामणे ।  
 यत् त्वमार्यं प्रभाषेथाः सत्त्ववान् सत्पथे स्थितः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1606,12 +1710,15 @@ right path, speak these venerable words?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम चाप्यन्तरात्मायं शुद्धं वेत्ति विभीषणम् ।  
 अनुमानाच्च भावाच्च सर्वतः सुपरीक्षितः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1651,12 +1758,15 @@ examined from all angles, by act of inference and by his appearance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् क्षिप्रं सहास्माभिस्तुल्यो भवतु राघव ।  
 विभीषणो महाप्राज्ञः+++(=महा-प्रज्ञः)+++ सखित्वं चाभ्युपैतु नः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1696,6 +1806,7 @@ him get our friendship too"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1704,6 +1815,8 @@ him get our friendship too"
 विभीषणेनाशु जगाम सङ्गमं  
 पतत्त्रिराजेन यथा पुरन्दरः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1759,5 +1872,6 @@ birds.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टादशः सर्गः ॥ १८ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अठारहवाँ सर्ग पूरा हुआ ॥ १८ ॥
+</details>
 </details>
 

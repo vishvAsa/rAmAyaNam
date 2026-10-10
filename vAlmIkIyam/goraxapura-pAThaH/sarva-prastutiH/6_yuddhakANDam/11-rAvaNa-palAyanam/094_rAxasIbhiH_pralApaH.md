@@ -1,6 +1,8 @@
 +++
 title = "०९४ राक्षसीभिः प्रलापः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -25,6 +27,7 @@ destruction of demons.
 
 94. राक्षसियोंका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -37,6 +40,8 @@ destruction of demons.
 दृष्ट्वा श्रुत्वा च सम्भ्रान्ता हतशेषा निशाचराः ।  
 राक्षस्यश्च समागम्य दीनाश्चिन्तापरिप्लुताः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,12 +98,15 @@ colour of fire, fighting with maces and iron rods and conspicuous with their gol
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधवा हतपुत्राश्च क्रोशन्त्यो हतबान्धवाः ।  
 राक्षस्यः सह सङ्गम्य दुःखार्ताः पर्यदेवयन् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,12 +147,15 @@ were with sorrow, wailed as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं शूर्पणखा वृद्धा कराला निर्णतोदरी ।  
 आससाद वने रामं कन्दर्पसमरूपिणम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +192,15 @@ who is charming like the god of love?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकुमारं महासत्त्वं सर्वभूतहिते रतम् ।  
 तं दृष्ट्वा लोकवध्या सा हीनरूपा प्रकामिता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -222,12 +236,15 @@ deserved to be condemned by the people, was stung with excessive lust?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं सर्वगुणैर्हीना गुणवन्तं महौजसम् ।  
 सुमुखं दुर्मुखी रामं कामयामास राक्षसी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,6 +280,7 @@ countenance?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,6 +289,8 @@ countenance?"
 राक्षसानां विनाशाय दूषणस्य खरस्य च ।  
 चकाराप्रतिरूपा सा राघवस्य प्रधर्षणम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,12 +343,15 @@ arrogant with Rama, misdeed which was worth ridiculing and condemned by the whol
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्निमित्तमिदं वैरं रावणेन कृतं महत् ।  
 वधाय सीता साऽऽनीता दशग्रीवेण रक्षसा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ destruction, Ravana the demon brought that Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सीतां दशग्रीवः प्राप्नोति जनकात्मजाम् ।  
 बद्धं बलवता वैरमक्षयं राघवेण च ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,12 +442,15 @@ built with the mighty Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहीं प्रार्थयानं तं विराधं प्रेक्ष्य राक्षसम् ।  
 हतमेकेन रामेण पर्याप्तं तन्निदर्शनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,6 +484,7 @@ yearning for Seetha, is enough indeed (to convince Ravana of Rama's strength and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,6 +493,8 @@ yearning for Seetha, is enough indeed (to convince Ravana of Rama's strength and
 खरश्च निहतः सङ्ख्ये दूषणस्त्रिशिरास्तथा ।  
 शरैरादित्यसङ्काशैः पर्याप्तं तन्निदर्शनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +547,15 @@ with his arrows resembling tongues of fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतो योजनबाहुश्च कबन्धो रुधिराशनः ।  
 क्रोधान्नादं नदन् सोऽथ पर्याप्तं तन्निदर्शनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,12 +596,15 @@ his food and roaring with anger was killed. That instance should have been suffi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जघान बलिनं रामः सहस्रनयनात्मजम् ।  
 वालिनं मेरुसङ्काशं पर्याप्तं तन्निदर्शनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +644,15 @@ the black cloud. That instance should have been sufficient. (To open the eyes of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूके वसंश्चैव दीनो भग्नमनोरथः ।  
 सुग्रीवः प्रापितो राज्यं पर्याप्तं तन्निदर्शनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,6 +693,7 @@ the eyes of Ravana)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,6 +702,8 @@ the eyes of Ravana)."
 विभीषणवचः कुर्याद् यदि स्म धनदानुजः ।  
 श्मशानभूता दुःखार्ता नेयं लङ्का भविष्यति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,6 +758,7 @@ ignorance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -721,6 +766,8 @@ ignorance."
 अतिकायं च दुर्मर्षं लक्ष्मणेन हतं तदा ।  
 प्रियं चेन्द्रजितं पुत्रं रावणो नावबुध्यते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +809,15 @@ killed by Lakshmana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम पुत्रो मम भ्राता मम भर्ता रणे हतः ।  
 इत्येष श्रूयते शब्दो राक्षसीनां कुले कुले ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,12 +859,15 @@ was killed by Lakshmana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथाश्वनागाश्च हतास्तत्र तत्र सहस्रशः ।  
 रणे रामेण शूरेण हताश्चापि पदातयः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +907,15 @@ the battle. He killed even the foot soldiers too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रो वा यदि वा विष्णुर्महेन्द्रो वा शतक्रतुः ।  
 हन्ति नो रामरूपेण यदि वा स्वयमन्तकः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -899,12 +955,15 @@ or otherwise Yama, the Lord of Death himself, is killing us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतप्रवीरा रामेण निराशा जीविते वयम् ।  
 अपश्यन्त्यो भयस्यान्तमनाथा विलपामहे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +998,15 @@ lives, failing to see an end to our fear and having become helpless."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामहस्ताद् दशग्रीवः शूरो दत्तमहावरः ।  
 इदं भयं महाघोरं समुत्पन्नं न बुद्‍ध्यते ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -987,12 +1049,15 @@ understand this greatly terrific calamity, coming forth from the hand of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं न देवा न गन्धर्वा न पिशाचा न राक्षसाः ।  
 उपसृष्टं परित्रातुं शक्ता रामेण संयुगे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1033,12 +1098,15 @@ nor the demons are able to protect Ravana, who is about to attack Rama in battle
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पाताश्चापि दृश्यन्ते रावणस्य रणे रणे ।  
 कथयन्ति हि रामेण रावणस्य निबर्हणम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1078,12 +1146,15 @@ each combat. They are indeed telling about the prospective annihilation of Ravan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहेन प्रीतेन देवदानवराक्षसैः ।  
 रावणस्याभयं दत्तं मनुष्येभ्यो न याचितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1127,12 +1198,15 @@ beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं मानुषं मन्ये प्राप्तं निःसंशयं भयम् ।  
 जीवितान्तकरं घोरं रक्षसां रावणस्य च ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,12 +1247,15 @@ end to the lives for the demons and for Ravana too. There is no doubt about it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पीड्यमानास्तु बलिना वरदानेन रक्षसा ।  
 दीप्तैस्तपोभिर्विबुधाः पितामहमपूजयन् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,12 +1289,15 @@ bestowed on him, worshipped Brahma the lord of creation with their glowing auste
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानां हितार्थाय महात्मा वै पितामहः ।  
 उवाच देवतास्तुष्ट इदं सर्वा महद्वचः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,12 +1337,15 @@ the following words to them:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यप्रभृति लोकांस्त्रीन् सर्वे दानवराक्षसाः ।  
 भयेन प्रभृता नित्यं विचरिष्यन्ति शाश्वतम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1299,12 +1382,15 @@ be wandering always in the three worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैवतैस्तु समागम्य सर्वैश्चेन्द्रपुरोगमैः ।  
 वृषध्वजस्त्रिपुरहा महादेवः प्रतोषितः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,12 +1432,15 @@ cities built of gold, silver and iron in the sky, air and earth for demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसन्नस्तु महादेवो देवानेतद् वचोऽब्रवीत् ।  
 उत्पत्स्यति हितार्थं वो नारी रक्षःक्षयावहा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1392,12 +1481,15 @@ a woman will be born, for causing destruction of the demons.'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा देवैः प्रयुक्ता तु क्षुद् यथा दानवान् पुरा ।  
 भक्षयिष्यति नः सर्वान् राक्षसघ्नी सरावणान् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1438,12 +1530,15 @@ along with Ravana, as in the past hunger consumed the demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्यापनीतेन दुर्विनीतस्य दुर्मतेः ।  
 अयं निष्टानको घोरः शोकेन समभिप्लुतः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,12 +1573,15 @@ disposition of mind, this terrific havoc with grief occurred."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं न पश्यामहे लोके यो नः शरणदो भवेत् ।  
 राघवेणोपसृष्टानां कालेनेव युगक्षये ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1518,12 +1616,15 @@ universe. We do not find any one now, who can give protection to us in this worl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्ति नः शरणं किञ्चिद् भये महति तिष्ठताम् ।  
 दावाग्निवेष्टितानां हि करेणूनां यथा वने ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1566,12 +1667,15 @@ no shelter for female-elephants, enveloped by a wild fire in a forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तकालं कृतं तेन पौलस्त्येन महात्मना ।  
 यत एव भयं दृष्टं तमेव शरणं गतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1611,6 +1715,7 @@ from whom such a peril is perceived."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1619,6 +1724,8 @@ from whom such a peril is perceived."
 विषेदुरार्तातिभयाभिपीडिता  
 विनेदुरुच्चैश्च तदा सुदारुणम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1665,5 +1772,6 @@ with grief and tormented with excessive fear, lamented thus and wept loudly and 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥94॥
+</details>
 </details>
 

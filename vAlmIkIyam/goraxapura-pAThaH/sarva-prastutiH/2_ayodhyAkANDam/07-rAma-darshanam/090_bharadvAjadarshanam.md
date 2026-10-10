@@ -2,6 +2,8 @@
 title = "०९० भरद्वाजदर्शनम्"
 title_english = "090 Bharata proceeds to see Bharadwaja"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -26,6 +28,7 @@ morning.
 
 90. भरत और भरद्वाज मुनिकी भेंट एवं बातचीत तथा मुनिका अपने आश्रमपर ही ठहरनेका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -34,6 +37,8 @@ morning.
 पद‍्भ्यामेव तु धर्मज्ञो न्यस्तशस्त्रपरिच्छदः ।  
 वसानो वाससी क्षौमे पुरोधाय पुरोहितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -82,12 +87,15 @@ preceptor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सन्दर्शने तस्य भरद्वाजस्य राघवः ।  
 मन्त्रिणस्तानवस्थाप्य जगामानुपुरोहितम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,12 +135,15 @@ along with Vasishta, his spiritual preceptor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठमथ दृष्ट्वैव भरद्वाजो महातपाः ।  
 सञ्चचालासनात् तूर्णं शिष्यानर्घ्यमिति ब्रुवन् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,12 +187,15 @@ his disciples to fetch water to wash the hand (of the distinguished guests) with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समागम्य वसिष्ठेन भरतेनाभिवादितः ।  
 अबुध्यत महातेजाः सुतं दशरथस्य तम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -221,12 +235,15 @@ him to be a son of Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभ्यामर्घ्यं च पाद्यं च दत्त्वा पश्चात् फलानि च ।  
 आनुपूर्व्याच्च धर्मज्ञः पप्रच्छ कुशलं कुले ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +288,15 @@ their family.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यायां बले कोशे मित्रेष्वपि च मन्त्रिषु ।  
 जानन् दशरथं वृत्तं न राजानमुदाहरत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +339,15 @@ king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठो भरतश्चैनं पप्रच्छतुरनामयम् ।  
 शरीरेऽग्निषु शिष्येषु वृक्षेषु मृगपक्षिषु ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +388,15 @@ his body his sacred fires, his disciples, the trees, the deer and birds in the h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति तु प्रतिज्ञाय भरद्वाजो महायशाः ।  
 भरतं प्रत्युवाचेदं राघवस्नेहबन्धनात् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +436,15 @@ Bharata, bound as he was with affection to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमिहागमने कार्यं तव राज्यं प्रशासतः ।  
 एतदाचक्ष्व सर्वं मे न हि मे शुध्यते मनः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,6 +485,7 @@ for my mind is not getting cleared of doubts."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -466,6 +496,8 @@ for my mind is not getting cleared of doubts."
 कच्चिन्न तस्यापापस्य पापं कर्तुमिहेच्छसि ।  
 अकण्टकं भोक्तुमना राज्यं तस्यानुजस्य च ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +563,15 @@ and his younger brother in order to enjoy the throne without hindrance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो भरद्वाजं भरतः प्रत्युवाच ह ।  
 पर्यश्रुनयनो दुःखाद् वाचा संसज्जमानया ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +611,15 @@ in a faltering tone, replied to Bharadwaja as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतोऽस्मि यदि मामेवं भगवानपि मन्यते ।  
 मत्तो न दोषमाशङ्के मैवं मामनुशाधि हि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +662,15 @@ any harm towards Rama having proceeded from me. do not charge me thus."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैतदिष्टं माता मे यदवोचन्मदन्तरे ।  
 नाहमेतेन तुष्टश्च न तद्वचनमाददे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +711,15 @@ pleased with her nor do I accept her word in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु तं नरव्याघ्रमुपयातः प्रसादकः ।  
 प्रतिनेतुमयोध्यायां पादौ चास्याभिवन्दितुम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +759,15 @@ myself at his feet and having propitiated him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मामेवङ्गतं मत्वा प्रसादं कर्तुमर्हसि ।  
 शंस मे भगवन् रामः क्व सम्प्रति महीपतिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -764,12 +811,15 @@ do a favour for me. Tell me where Rama the Lord of the world is to be found now?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठादिभिर्ऋत्विग्भिर्याचितो भगवांस्ततः ।  
 उवाच तं भरद्वाजः प्रसादाद् भरतं वचः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,12 +859,15 @@ affectionate words as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वय्येतत् पुरुषव्याघ्र युक्तं राघववंशजे ।  
 गुरुवृत्तिर्दमश्चैव साधूनां चानुयायिता ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +908,15 @@ are in the Raghu dynasty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाने चैतन्मनःस्थं ते दृढीकरणमस्त्विति ।  
 अपृच्छं त्वां तवात्यर्थं कीर्तिं समभिवर्धयन् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,12 +960,15 @@ on this account that I asked you, in order to strengthen you fame immeasurably."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाने च रामं धर्मज्ञं ससीतं सहलक्ष्मणम् ।  
 अयं वसति ते भ्राता चित्रकूटे महागिरौ ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1009,15 @@ elder brother is staying on the great mountain called Chitrakuta."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वस्तु गन्तासि तं देशं वसाद्य सह मन्त्रिभिः ।  
 एतं मे कुरु सुप्राज्ञ कामं कामार्थकोविद ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,6 +1058,7 @@ O, man of great wisdom, who understands legitimate interest and desire! Grant me
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1004,6 +1067,8 @@ O, man of great wisdom, who understands legitimate interest and desire! Grant me
 चकार बुद्धिं च तदाश्रमे तदा  
 निशानिवासाय नराधिपात्मजः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1065,5 +1130,6 @@ the hermitage."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥90॥
+</details>
 </details>
 

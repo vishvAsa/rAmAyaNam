@@ -2,6 +2,8 @@
 title = "०५५ यमुनातरणम्"
 title_english = "055 "
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ night.
 
 55. भरद्वाजजीका श्रीराम आदिके लिये स्वस्तिवाचन करके उन्हें चित्रकूटका मार्ग बताना, उन सबका अपने ही बनाये हुए बेड़ेसे यमुनाजीको पार करना, सीताकी यमुना और श्यामवटसे प्रार्थना, तीनोंका यमुनाके किनारेके मार्गसे एक कोसतक जाकर वनमें घूमना-फिरना, यमुनाजीके समतल तटपर रात्रिमें निवास करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उषित्वा रजनीं तत्र राजपुत्राव‍‍रिन्दमौ ।  
 महर्षिमभिवाद्याथ जग्मतुस्तं गिरिं प्रति ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ Chitrakuta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां स्वस्त्ययनं चैव महर्षिः स चकार ह ।  
 प्रस्थितान् प्रेक्ष्य तांश्चैव पिता पुत्रानिवौरसान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ a distance, as a father would do for his sons (and daughter-in-law).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रचक्रमे वक्तुं वचनं स महामुनिः ।  
 भरद्वाजो महातेजा रामं सत्यपराक्रमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ words to Rama the truly brave man.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गङ्गायमुनयोः सन्धिमासाद्य मनुजर्षभौ ।  
 कालिन्दीमनुगच्छेतां नदीं पश्चान्मुखाश्रिताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,6 +219,7 @@ the river Yamuna which takes to the direction of west."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -212,6 +227,8 @@ the river Yamuna which takes to the direction of west."
 तस्यास्तीर्थं प्रचरितं प्रकामं प्रेक्ष्य राघव ।  
 तत्र यूयं प्लवं कृत्वा तरतांशुमतीं नदीम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +252,7 @@ _________________
 
 ‘रघुनन्दन! तदनन्तर गङ्गाजीके जलके वेगसे अपने प्रवाहके प्रतिकूल दिशामें मुड़ी हुई यमुनाके पास पहुँचकर लोगोंके आने-जानेके कारण उनके पदचिह्नोंसे चिह्नित हुए अवतरण-प्रदेश (पार उतरनेके लिये उपयोगी घाट) को अच्छी तरह देख-भालकर वहाँ जाना और एक बेड़ा बनाकर उसीके द्वारा सूर्यकन्या यमुनाके उस पार उतर जाना ॥ ५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,6 +261,8 @@ _________________
 तस्मिन् सीताञ्जलिं कृत्वा प्रयुञ्जीताशिषां क्रियाम् ।  
 समासाद्य च तं वृक्षं वसेद् वातिक्रमेत वा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +335,15 @@ a raft there, Oh Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोशमात्रं ततो गत्वा नीलं प्रेक्ष्य च काननम् ।  
 सल्लकीबदरीमिश्रं रम्यं वंशैश्च यामुनैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ upon Yamuna river and interspersed with Sallaka and jujube trees."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पन्थाश्चित्रकूटस्य गतस्य बहुशो मया ।  
 रम्यो मार्दवयुक्तश्च दावैश्चैव विवर्जितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +440,15 @@ endowed with serenity and free from forest-fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति पन्थानमादिश्य महर्षिः सन्न्यवर्तत ।  
 अभिवाद्य तथेत्युक्त्वा रामेण विनिवर्तितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,12 +489,15 @@ obeisance to the sage and Rama having replied �so be it', the great sage Bhara
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपावृत्ते मुनौ तस्मिन् रामो लक्ष्मणमब्रवीत् ।  
 कृतपुण्याः स्म भद्रं ते मुनिर्यन्नोऽनुकम्पते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +541,15 @@ fortunate that the sage has shown compassion towards us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तौ पुरुषव्याघ्रौ मन्त्रयित्वा मनस्विनौ ।  
 सीतामेवाग्रतः कृत्वा कालिन्दीं जग्मतुर्नदीम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +592,15 @@ intelligent, headed for the river Yamuna guarding Seetha still in front.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथासाद्य तु कालिन्दीं शीघ्रस्रोतस्विनीं नदीम् ।  
 चिन्तामापेदिरे सद्यो नदीजलतितीर्षवः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,6 +643,7 @@ into a thought of how to cross those river-waters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -613,6 +652,8 @@ into a thought of how to cross those river-waters.
 ततो वैतसशाखाश्च जम्बुशाखाश्च वीर्यवान् ।  
 चकार लक्ष्मणश्छित्त्वा सीतायाः सुखमासनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,6 +720,7 @@ together, covered with a kind of grass and spread over with dry bamboo canes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -687,6 +729,8 @@ together, covered with a kind of grass and spread over with dry bamboo canes.
 पार्श्वे तत्र च वैदेह्या वसने भूषणानि च ।  
 प्लवे कठिनकाजं च रामश्चक्रे समाहितः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +797,15 @@ unimaginable like the goddess of fortune and who was feeling shy a little- to mo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोप्य सीतां प्रथमं सङ्घाटं परिगृह्य तौ ।  
 ततः प्रतेरतुर्यत्तौ प्रीतौ दशरथात्मजौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +849,15 @@ ascend it and then ferried across the river watchfully.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालिन्दीमध्यमायाता सीता त्वेनामवन्दत ।  
 स्वस्ति देवि तरामि त्वां पारयेन्मे पतिर्व्रतम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +874,15 @@ ascend it and then ferried across the river watchfully.
 
 यमुना नदिय मध्यक्कॆ बन्दाग सीतॆयु आकॆयन्नु वन्दिसि हेळिदळु - देवि! ई तॆप्पद मूलक नावु निन्नन्नु दाटुत्तिद्देवॆ. इदरिन्द नावु क्षेमवागि दाटि होगि, नन्न पतिदेवर तम्म वनवासद प्रतिज्ञॆयु निर्विघ्नवागि पूर्णवागुवन्तॆ कृपॆ माडु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यक्ष्ये त्वां गोसहस्रेण सुराघटशतेन च ।  
 स्वस्ति प्रत्यागते रामे पुरीमिक्ष्वाकुपालिताम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +923,15 @@ shall propitiate you by offering a thousand cows and a hundred drinking vessels.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालिन्दीमथ सीता तु याचमाना कृताञ्जलिः ।  
 तीरमेवाभिसम्प्राप्ता दक्षिणं वरवर्णिनी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,12 +971,15 @@ forthwith reached the southern side of the river.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्लवेनांशुमतीं शीघ्रगामूर्मिमालिनीम् ।  
 तीरजैर्बहुभिर्वृक्षैः सन्तेरुर्यमुनां नदीम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,12 +1015,15 @@ reflection.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तीर्णाः प्लवमुत्सृज्य प्रस्थाय यमुनावनात् ।  
 श्यामं न्यग्रोधमासेदुः शीतलं हरितच्छदम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,12 +1058,15 @@ river-forest of Yamuna and reached a cool banyan tree called Syama having green 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यग्रोधं समुपागम्य वैदेही चाभ्यवन्दत ।  
 नमस्तेऽस्तु महावृक्ष पारयेन्मे पतिर्व्रतम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1083,15 @@ river-forest of Yamuna and reached a cool banyan tree called Syama having green 
 
 वटवृक्षद बळिगॆ सारि वैदेही सीतॆयु अदक्कॆ तलॆबागिदळु हागू हीगॆ हेळिदळु - महा वृक्षवे! निनगॆ नमस्कार. नन्न पतिदेवरु वनवास व्रतवन्नु पूर्णगॊळिसुवन्तॆ कृपॆ माडु.॥24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यां चैव पश्येम सुमित्रां च यशस्विनीम् ।  
 इति सीताञ्जलिं कृत्वा पर्यगच्छन्मनस्विनी ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1129,15 @@ Sumitra." Thus speaking, Seetha circumambulated that tree with joined palms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवलोक्य ततः सीतामायाचन्तीमनिन्दिताम् ।  
 दयितां च विधेयां च रामो लक्ष्मणमब्रवीत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,12 +1177,15 @@ Rama spoke to Lakshmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतामादाय गच्छ त्वमग्रतो भरतानुज ।  
 पृष्ठतोऽनुगमिष्यामि सायुधो द्विपदां वर ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1225,15 @@ along with weapons, will follow you behind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् यत् फलं प्रार्थयते पुष्पं वा जनकात्मजा ।  
 तत् तत् प्रयच्छ वैदेह्या यत्रास्या रमते मनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,12 +1274,15 @@ mind finds delight."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकैकं पादपं गुल्मं लतां वा पुष्पशालिनीम् ।  
 अदृष्टरूपां पश्यन्ती रामं पप्रच्छ साऽबला ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1325,15 @@ elephant in the middle of two elephants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रमणीयान् बहुविधान् पादपान् कुसुमोत्करान् ।  
 सीतावचनसंरब्ध आनयामास लक्ष्मणः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1377,15 @@ creeper shining with flowers which was not seen earlier.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्रवालुकजलां हंससारसनादिताम् ।  
 रेमे जनकराजस्य सुता प्रेक्ष्य तदा नदीम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1339,12 +1425,15 @@ of trees, full of flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोशमात्रं ततो गत्वा भ्रातरौ रामलक्ष्मणौ ।  
 बहून् मेध्यान् मृगान् हत्वा चेरतुर्यमुनावने ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1384,6 +1473,7 @@ wonderful sands and waters re-echoing to the cry of swans and cranes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1392,6 +1482,8 @@ wonderful sands and waters re-echoing to the cry of swans and cranes.
 समं नदीवप्रमुपेत्य सत्वरं  
 निवासमाजग्मुरदीनदर्शनाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1444,5 +1536,6 @@ Lakshmana killed many consecrated deer and ate in the river-forest of Yamuna.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तैदनॆय सर्ग पूर्णवायितु ॥55॥
+</details>
 </details>
 

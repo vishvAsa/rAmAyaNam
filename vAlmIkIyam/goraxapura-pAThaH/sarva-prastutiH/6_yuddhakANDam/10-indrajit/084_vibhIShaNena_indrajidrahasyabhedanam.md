@@ -2,6 +2,8 @@
 title = "०८४ विभीषणेन इन्द्रजिद्रहस्यभेदनम्"
 title_english = "084 Vibhishana tells the secret of conjuring trick"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ Nikumbhila.
 
 84. विभीषणका श्रीरामको इन्द्रजित् की मायाका रहस्य बताकर सीताके जीवित होनेका विश्वास दिलाना और लक्ष्मणको सेनासहित निकुम्भिला-मन्दिरमें भेजनेके लिये अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राममाश्वासमाने तु लक्ष्मणे भ्रातृवत्सले ।  
 निक्षिप्य गुल्मान् स्वस्थाने तत्रागच्छद् विभीषणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ keeping the troops of simian army in their respective positions, arrived there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाप्रहरणैर्वीरैश्चतुर्भिरभिसंवृतः ।  
 नीलाञ्जनचयाकारैर्मातङ्गैरिव यूथपैः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,12 +103,15 @@ _________________
 
 नाना विधवाद आयुधगळन्नु धरिसिद, काडिगॆय राशियन्तॆ कप्पाद, मदिसिद सलगगळन्तॆ काणुत्तिद्द नाल्वरु राक्षसश्रेष्ठरिन्द विभीषणनु परिवृतनागिद्दनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिगम्य महात्मानं राघवं शोकलालसम् ।  
 वानरांश्चापि ददृशे बाष्पपर्याकुलेक्षणान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,12 +154,15 @@ eyes were filled with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवं च महात्मानमिक्ष्वाकुकुलनन्दनम् ।  
 ददर्श मोहमापन्नं लक्ष्मणस्याङ्कमाश्रितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +196,15 @@ into a swoon and resting on the lap of Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रीडितं शोकसन्तप्तं दृष्ट्वा रामं विभीषणः ।  
 अन्तर्दुःखेन दीनात्मा किमेतदिति सोऽब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -221,12 +238,15 @@ he was in spirits, with agony inside, asked him, "What is this?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणमुखं दृष्ट्वा सुग्रीवं तांश्च वानरान् ।  
 लक्ष्मणोवाच मन्दार्थमिदं बाष्पपरिप्लुतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +290,15 @@ Lakshmana with tears pouring down, spoke the following words, with a splendid me
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हता इन्द्रजिता सीता इति श्रुत्वैव राघवः ।  
 हनूमद्वचनात् सौम्य ततो मोहमुपाश्रितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +338,15 @@ killed by Indrajit, Rama entered into a swoon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथयन्तं तु सौमित्रिं सन्निवार्य विभीषणः ।  
 पुष्कलार्थमिदं वाक्यं विसञ्ज्ञं राममब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +358,15 @@ killed by Indrajit, Rama entered into a swoon."
 
 इस प्रकार कहते हुए लक्ष्मणको विभीषणने रोका और अचेत पड़े हुए श्रीरामचन्द्रजीसे यह निश्चित बात कही— ॥ ८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुजेन्द्रार्तरूपेण यदुक्तस्त्वं हनूमता ।  
 तदयुक्तमहं मन्ये सागरस्येव शोषणम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +419,15 @@ amply meaningful words to Rama, who was in an unconscious state.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिप्रायं तु जानामि रावणस्य दुरात्मनः ।  
 सीतां प्रति महाबाहो न च घातं करिष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +461,15 @@ would never do the killing of Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याच्यमानः सुबहुशो मया हितचिकीर्षुणा ।  
 वैदेहीमुत्सृजस्वेति न च तत् कृतवान् वचः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +503,15 @@ not heed that advice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव साम्ना न दानेन न भेदेन कुतो युधा ।  
 सा द्रष्टुमपि शक्येत नैव चान्येन केनचित् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +553,15 @@ impossible."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरान् मोहयित्वा तु प्रतियातः स राक्षसः ।  
 मायामयीं महाबाहो तां विद्धि जनकात्मजाम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,6 +595,7 @@ Know that Seetha (who was seemingly killed by him) as illusory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -561,6 +603,8 @@ Know that Seetha (who was seemingly killed by him) as illusory."
 हुतवानुपयातो हि देवैरपि सवासवैः ॥ १४ ॥  
 दुराधर्षो भवत्येष सङ्ग्रामे रावणात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +653,15 @@ prove difficult to be overcome in battle, even by celestials including Indra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मोहयता नूनमेषा माया प्रयोजिता ॥ १५ ॥  
 विघ्नमन्विच्छता तत्र वानराणां पराक्रमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,12 +703,15 @@ prowess of the monkeys there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससैन्यास्तत्र गच्छामो यावत्तन्न समाप्यते ॥ १६ ॥  
 त्यजैनं नरशार्दूल मिथ्या सन्तापमागतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,6 +728,7 @@ prowess of the monkeys there."
 
 अवन होम कार्य समाप्तवागुव मॊदले नावु सैन्यदॊन्दिगॆ निकुम्भिळा मन्दिरक्कॆ होगोण. नरश्रेष्ठने! सुळ्ळाद ई वार्तॆयिन्द उण्टाद सन्तापवन्नु त्यजिसिबिडु.॥16½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -685,6 +736,8 @@ prowess of the monkeys there."
 इह त्वं स्वस्थहृदयस्तिष्ठ सत्त्वसमुच्छ्रितः ।  
 लक्ष्मणं प्रेषयास्माभिः सह सैन्यानुकर्षिभिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,12 +794,15 @@ Seeing you tormented with grief, the entire army is sinking into despondency."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष तं नरशार्दूलो रावणिं निशितैः शरैः ।  
 त्याजयिष्यति तत्कर्म ततो वध्यो भविष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +836,15 @@ sacrifice, by employing his sharp arrows. Then, he will be susceptible of being 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैते निशितास्तीक्ष्णाः पत्रिपत्राङ्गवाजिनः ।  
 पतत्त्रिण इवासौम्याः शराः पास्यन्ति शोणितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,12 +887,15 @@ bird, can drink his blood like cruel birds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सन्दिश महाबाहो लक्ष्मणं शुभलक्षणम् ।  
 राक्षसस्य विनाशाय वज्रं वज्रधरो यथा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,6 +933,7 @@ even as Indra the lord of celestials employed the thunderbolt to kill Indrajit."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -879,6 +942,8 @@ even as Indra the lord of celestials employed the thunderbolt to kill Indrajit."
 त्वमतिसृज रिपोर्वधाय वज्रं  
 दिविजरिपोर्मथने यथा महेन्द्रः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,6 +990,7 @@ thunderbolt to destroy the enemies of celestials."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -933,6 +999,8 @@ thunderbolt to destroy the enemies of celestials."
 युयुत्सता तेन समाप्तकर्मणा  
 भवेत् सुराणामपि संशयो महान् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,5 +1057,6 @@ ending that sacrifice, the celestials also will feel a great suspicion on their 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥84॥
+</details>
 </details>
 

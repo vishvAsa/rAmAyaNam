@@ -1,6 +1,8 @@
 +++
 title = "१२२ पुष्पकविमानेन रामादीनां प्रयाणम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ spaciously.
 
 122. श्रीरामकी आज्ञासे विभीषणद्वारा वानरोंका विशेष सत्कार तथा सुग्रीव और विभीषणसहित वानरोंको साथ लेकर श्रीरामका पुष्पकविमानद्वारा अयोध्याको प्रस्थान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थितं तु तं कृत्वा पुष्पकं पुष्पभूषितम् ।  
 अविदूरे स्थितो राममित्युवाच विभीषणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ part, standing not very far, spoke to Rama (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु बद्धाञ्जलिपुटो विनीतो राक्षसेश्वरः ।  
 अब्रवीत् त्वरयोपेतः किं करोमीति राघवम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -101,12 +109,15 @@ modesty and with joined palms, to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रवीन्महातेजा लक्ष्मणस्योपशृण्वतः ।  
 विमृश्य राघवो वाक्यमिदं स्नेहपुरस्कृतम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -146,12 +157,15 @@ following words to him, while Lakshmana was listening:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतप्रयत्नकर्माणः सर्व एव वनौकसः ।  
 रत्नैरर्थैश्च विविधैः सम्पूज्यन्तां विभीषण ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -192,12 +206,15 @@ various kinds, O Vibhishana!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहामीभिस्त्वया लङ्का निर्जिता राक्षसेश्वर ।  
 हृष्टैः प्राणभयं त्यक्त्वा सङ्ग्रामेष्वनिवर्तिभिः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ their lives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त इमे कृतकर्माणः सर्व एव वनौकसः ।  
 धनरत्नप्रदानैश्च कर्मैषां सफलं कुरु ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,12 +298,15 @@ achievement with gifts of gold and precious stones."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्मानिताश्चैते नन्द्यमाना यथा त्वया ।  
 भविष्यन्ति कृतज्ञेन निर्वृता हरियूथपाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,12 +346,15 @@ the chiefs of monkey-troops, will feel happy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यागिनं सङ्ग्रहीतारं सानुक्रोशं जितेन्द्रियम् ।  
 सर्वे त्वामभिगच्छन्ति ततः सम्बोधयामि ते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +393,15 @@ am reminding you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीनं रतिगुणैः सर्वैरभिहन्तारमाहवे ।  
 सेना त्यजति संविग्ना नृपतिं तं नरेश्वर ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,12 +438,15 @@ qualities and who merely orders them to kill people in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण वानरांस्तान् विभीषणः ।  
 रत्नार्थसंविभागेन सर्वानेवाभ्यपूजयत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,6 +480,7 @@ precious stones and gold to them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -456,6 +489,8 @@ precious stones and gold to them.
 अङ्केनादाय वैदेहीं लज्जमानां मनस्विनीम् ।  
 लक्ष्मणेन सह भ्रात्रा विक्रान्तेन धनुष्मता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +550,15 @@ honoured with precious stones and gold, Rama then mounted that excellent aerial 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् स विमानस्थः पूजयन् सर्ववानरान् ।  
 सुग्रीवं च महावीर्यं काकुत्स्थः सविभीषणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +598,15 @@ Sugreeva, Rama remaining in the aerial car, spoke (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रकार्यं कृतमिदं भवद्भिर्वानरर्षभाः ।  
 अनुज्ञाता मया सर्वे यथेष्टं प्रतिगच्छत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +646,15 @@ Permitted by me, all of you can go, where you will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु कार्यं वयस्येन स्निग्धेन च हितेन च ।  
 कृतं सुग्रीव तत् सर्वं भवताधर्मभीरुणा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,6 +698,7 @@ Accompanied by your army, proceed to Kishkindha at once."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -661,6 +706,8 @@ Accompanied by your army, proceed to Kishkindha at once."
 स्वराज्ये वस लङ्कायां मया दत्ते विभीषण ।  
 न त्वां धर्षयितुं शक्ताः सेन्द्रा अपि दिवौकसः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ celestials including Indra shall not be able to attack you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां प्रति यास्यामि राजधानीं पितुर्मम ।  
 अभ्यनुज्ञातुमिच्छामि सर्वानामन्त्रयामि वः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +795,15 @@ wish to take leave of you all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्तु रामेण हरीन्द्रा हरयस्तथा ।  
 ऊचुः प्राञ्जलयः सर्वे राक्षसश्च विभीषणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +838,15 @@ all of them there, with their joined palms, spoke (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां गन्तुमिच्छामः सर्वान् नयतु नो भवान् ।  
 मुद्युक्ता विचरिष्यामो वनान्युपवनानि च ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +883,15 @@ gardens and groves there with rejoice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा त्वामभिषेकार्द्रं कौसल्यामभिवाद्य च ।  
 अचिरादागमिष्यामः स्वगृहान् नृपसत्तम ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +926,15 @@ and offering our salutations to Kausalya, we shall return to our homes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु धर्मात्मा वानरैः सविभीषणैः ।  
 अब्रवीद् वानरान् रामः ससुग्रीवविभीषणान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +974,15 @@ those monkeys, Sugreeva and Vibhishana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियात् प्रियतरं लब्धं यदहं ससुहृज्जनः ।  
 सर्वैर्भवद्भिः सहितः प्रीतिं लप्स्ये पुरीं गतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1022,15 @@ Ayodhya with the host of my friends along with all of you, for, I shall feel del
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रमारोह सुग्रीव विमानं सह वानरैः ।  
 त्वमप्यारोह सामात्यो राक्षसेन्द्र विभीषण ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,12 +1071,15 @@ the king of demons! You also ascend it, along with your counsellors."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स पुष्पकं दिव्यं सुग्रीवः सह वानरैः ।  
 आरुरोह मुदा युक्तः सामात्यश्च विभीषणः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,12 +1120,15 @@ Pushpaka, the aerial car. Vibhishana together with his counselors also ascended 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेष्वारूढेषु सर्वेषु कौबेरं परमासनम् ।  
 राघवेणाभ्यनुज्ञातमुत्पपात विहायसम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,12 +1162,15 @@ the sky, after having been duly authorized by Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खगतेन विमानेन हंसयुक्तेन भास्वता ।  
 प्रहृष्टश्च प्रतीतश्च बभौ रामः कुबेरवत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,12 +1211,15 @@ which was now in the air and was provided with the image of a swan, Rama shone l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सर्वे वानरर्क्षाश्च राक्षसाश्च महाबलाः ।  
 यथासुखमसम्बाधं दिव्ये तस्मिन्नुपाविशन् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,5 +1269,6 @@ wonderful aerial car.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तॆरडनॆय सर्ग पूर्णवायितु.॥122॥
+</details>
 </details>
 

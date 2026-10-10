@@ -2,6 +2,8 @@
 title = "०४१ प्रजाशोकवर्णनम्"
 title_english = "041 The Grief"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-041-Praja_Shoka_Varnanam.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "041 The Grief"
 
 41. श्रीरामके वनगमनसे रनवासकी स्त्रियोंका विलाप तथा नगरनिवासियोंकी शोकाकुल अवस्था
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस्तु पुरुषव्याघ्रे निष्क्रामति कृताञ्जलौ ।  
 आर्तशब्दो हि सञ्जज्ञे स्त्रीणामन्तःपुरे महान् ॥१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,12 +61,15 @@ great cry of distress arose among women of inner apartments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाथस्य जनस्यास्य दुर्बलस्य तपस्विनः ।  
 यो गतिः शरणं चासीत् स नाथः क्व नु गच्छति ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ now defenseless weak and unhappy?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न क्रुध्यत्यभिशस्तोऽपि क्रोधनीयानि वर्जयन् ।  
 क्रुद्धान् प्रसादयन् सर्वान् समदुःखः क्व गच्छति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,12 +159,15 @@ misunderstanding and who propitiated all those who were angry by sharing their s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यायां महातेजा यथा मातरि वर्तते ।  
 तथा यो वर्ततेऽस्मासु महात्मा क्व नु गच्छति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ paid to his own mother, where has he gone?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या क्लिश्यमानेन राज्ञा सञ्चोदितो वनम् ।  
 परित्राता जनस्यास्य जगतः क्व नु गच्छति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +257,15 @@ the forest by the king, goaded on by Kaikeyi? ''
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो निश्चेतनो राजा जीवलोकस्य सङ्क्षयम् ।  
 धर्म्यं सत्यव्रतं रामं वनवासे प्रवत्स्यति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ truthful Rama to the forest!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सर्वा महिष्यस्ता विवत्सा इव धेनवः ।  
 रुरुदुश्चैव दुःखार्ताः सस्वरं च विचुक्रुशुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,12 +353,15 @@ affection cried out loudly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमन्तःपुरे घोरमार्तशब्दं महीपतिः ।  
 पुत्रशोकाभिसन्तप्तः श्रुत्वा चासीत् सुदुःखितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,6 +402,7 @@ afflicted by the departure of his son, became increasingly depressed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -384,6 +411,8 @@ afflicted by the departure of his son, became increasingly depressed.
 व्यसृजन् कवलान् नागा गावो वत्सान् न पाययन् ।  
 पुत्रां प्रथमजं लब्ध्वा जननी नाभ्यनन्दत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +481,15 @@ eclipse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिशङ्कुर्लोहिताङ्गश्च बृहस्पतिबुधावपि ।  
 दारुणाः सोममभ्येत्य ग्रहाः सर्वे व्यवस्थिताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +529,15 @@ menacing aspect and got stayed with the moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नक्षत्राणि गतार्चींषि ग्रहाश्च गततेजसः ।  
 विशाखाश्च सधूमाश्च नभसि प्रचकाशिरे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +580,15 @@ Visakha appeared in the heaven, veiled in the mist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालिकानिलवेगेन महोदधिरिवोत्थितः ।  
 रामे वनं प्रव्रजिते नगरं प्रचचाल तत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ the forest, that city was shaken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशः पर्याकुलाः सर्वास्तिमिरेणेव संवृताः ।  
 न ग्रहो नापि नक्षत्रं प्रचकाशे न किञ्चन ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,12 +664,15 @@ did not become visible, nor the stars nor any other thing in heaven.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकस्मान्नागरः सर्वो जनो दैन्यमुपागमत् ।  
 आहारे वा विहारे वा न कश्चिदकरोन्मनः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +715,15 @@ either food or in pastime.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकपर्यायसन्तप्तः सततं दीर्घमुच्छ्वसन् ।  
 अयोध्यायां जनः सर्वश्चुक्रोश जगतीपतिम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,12 +766,15 @@ burning sighs and bewailed about the departure of the Lord of the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पपर्याकुलमुखो राजमार्गगतो जनः ।  
 न हृष्टो लभ्यते कश्चित् सर्वः शोकपरायणः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +817,15 @@ appeared rejoicing. All were possessed by grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वाति पवनः शीतो न शशी सौम्यदर्शनः ।  
 न सूर्यस्तपते लोकं सर्वं पर्याकुलं जगत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +866,15 @@ not give out warmth to the earth. The entire world was in disorder
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनर्थिनः सुताः स्त्रीणां भर्तारो भ्रातरस्तथा ।  
 सर्वे सर्वं परित्यज्य राममेवान्वचिन्तयन् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -860,12 +916,15 @@ alone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये तु रामस्य सुहृदः सर्वे ते मूढचेतसः ।  
 शोकभारेण चाक्रान्ताः शयनं नैव भेजिरे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -908,6 +967,7 @@ agony overwhelmed them. They did not leave their beds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -916,6 +976,8 @@ agony overwhelmed them. They did not leave their beds.
 चचाल घोरं भयशोकदीपिता  
 सनागयोधाश्वगणा ननाद च ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -977,5 +1039,6 @@ a great uproar reigned in the city which was filled with elephants, warriors and
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥41॥
+</details>
 </details>
 

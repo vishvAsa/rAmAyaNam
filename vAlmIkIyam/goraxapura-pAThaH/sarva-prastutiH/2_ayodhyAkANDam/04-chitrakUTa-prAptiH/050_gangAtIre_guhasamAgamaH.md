@@ -2,6 +2,8 @@
 title = "०५० गङ्गातीरे गुहसमागमः"
 title_english = "050 Rama bids farewell to his birth place"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ Ganga. There, Nishadas offers welcome reception to Rama and others.
 
 50. श्रीरामका मार्गमें अयोध्यापुरीसे वनवासकी आज्ञा माँगना और शृङ्गवेरपुरमें गङ्गातटपर पहुँचकर रात्रिमें निवास करना, वहाँ निषादराज गुहद्वारा उनका सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशालान् कोसलान् रम्यान् यात्वा लक्ष्मणपूर्वजः ।  
 अयोध्यामुन्मुखो धीमान् प्राञ्जलिर्वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ face turned towards Ayodhya, the wise Rama with joined palms spoke the following
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपृच्छे त्वां पुरिश्रेष्ठे काकुत्स्थपरिपालिते ।  
 दैवतानि च यानि त्वां पालयन्त्यावसन्ति च ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ in Kakutstha dynasty, as well as of the deities who protect you and dwell in you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तवनवासस्त्वामनृणो जगतीपतेः ।  
 पुनर्द्रक्ष्यामि मात्रा च पित्रा च सह सङ्गतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ emperor, I shall see you again, duly getting united with my mother and father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रुचिरताम्राक्षो भुजमुद्यम्य दक्षिणम् ।  
 अश्रुपूर्णमुखो दीनोऽब्रवीज्जानपदं जनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ possessing lovely reddish eyes, spoke them to the people hailing from the countr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुक्रोशो दया चैव यथार्हं मयि वः कृतः ।  
 चिरं दुःखस्य पापीयो गम्यतामर्थसिद्धये ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ object(attending to your house-hold work)!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽभिवाद्य महात्मानं कृत्वा चापि प्रदक्षिणम् ।  
 विलपन्तो नरा घोरं व्यतिष्ठंश्च क्वचित् क्वचित् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +320,15 @@ of reverence), those men stood rooted here and there, wailing frightfully.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा विलपतां तेषामतृप्तानां च राघवः ।  
 अचक्षुर्विषयं प्रायाद् यथार्कः क्षणदामुखे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,6 +368,7 @@ sun sinks out of view at nightfall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,6 +379,8 @@ sun sinks out of view at nightfall.
 रक्षणीयान् नरेन्द्राणां ब्रह्मघोषाभिनादितान् ।  
 रथेन पुरुषव्याघ्रः कोसलानत्यवर्तत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +439,15 @@ religious texts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्येन मुदितं स्फीतं रम्योद्यानसमाकुलम् ।  
 राज्यं भोज्यं नरेन्द्राणां ययौ धृतिमतां वरः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +487,15 @@ kingdom, abounding in lovely gardens and fit to be enjoyed by kings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र त्रिपथगां दिव्यां शीततोयामशैवलाम् ।  
 ददर्श राघवो गङ्गां रम्यामृषिनिषेविताम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +536,15 @@ tributaries, carrying clear waters without green moss and frequented by sages.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रमैरविदूरस्थैः श्रीमद्भिः समलङ्कृताम् ।  
 कालेऽप्सरोभिर्हृष्टाभिः सेविताम्भोह्रदां शिवाम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +586,15 @@ with rapture.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वैः किन्नरैरुपशोभिताम् ।  
 नागगन्धर्वपत्नीभिः सेवितां सततं शिवाम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,12 +628,15 @@ kinnaras and was constantly visited by consorts of Nagas and Gandharvas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवाक्रीडशताकीर्णां देवोद्यानयुतां नदीम् ।  
 देवार्थमाकाशगतां विख्यातां देवपद्मिनीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +678,15 @@ for the benefit of gods and which in heaven was named "The stream of Golden Lotu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलाघाताट्टहासोग्रां फेननिर्मलहासिनीम् ।  
 क्वचिद् वेणीकृतजलां क्वचिदावर्तशोभिताम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,12 +729,15 @@ pools.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचित् स्तिमितगम्भीरां क्वचिद् वेगसमाकुलाम् ।  
 क्वचिद् गम्भीरनिर्घोषां क्वचिद् भैरवनिःस्वनाम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +779,15 @@ having a terrific noise
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवसङ्घाप्लुतजलां निर्मलोत्पलसङ्कुलाम् ।  
 क्वचिदाभोगपुलिनां क्वचिन्निर्मलवालुकाम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +830,15 @@ hemmed in, with expanse of small islands and at some places, lined with white sa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंससारससङ्घुष्टां चक्रवाकोपशोभिताम् ।  
 सदामत्तैश्च विहगैरभिपन्नामनिन्दिताम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +880,15 @@ water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचित् तीररुहैर्वृक्षैर्मालाभिरिव शोभिताम् ।  
 क्वचित् फुल्लोत्पलच्छन्नां क्वचित् पद्मवनाकुलाम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +923,15 @@ garlands, at some places crowded with thick cluster of lotuses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचित् कुमुदखण्डैश्च कुड्मलैरुपशोभिताम् ।  
 नानापुष्परजोध्वस्तां समदामिव च क्वचित् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,6 +972,7 @@ passion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -920,6 +980,8 @@ passion.
 दिशागजैर्वनगजैर्मत्तैश्च वरवारणैः ॥ २२ ॥  
 देवराजोपवाह्यैश्च सन्नादितवनान्तराम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1027,7 @@ breed used for riding by gods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -972,6 +1035,8 @@ breed used for riding by gods.
 फलपुष्पैः किसलयैर्वृतां गुल्मैर्द्विजैस्तथा ।  
 विष्णुपादच्युतां दिव्यामपापां पापनाशिनीम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,6 +1085,7 @@ crocodiles and snakes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1028,6 +1094,8 @@ crocodiles and snakes.
 समुद्रमहिषीं गङ्गां सारसक्रौञ्चनादिताम् ।  
 आससाद महाबाहुः शृङ्गवेरपुरं प्रति ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1082,12 +1150,15 @@ consort of the ocean and which is in the vicinity of Sringaverapura(the modern S
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामूर्मिकलिलावर्तामन्ववेक्ष्य महारथः ।  
 सुमन्त्रमब्रवीत् सूतमिहैवाद्य वसामहे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,12 +1199,15 @@ said to Sumantra the charioteer as follows: "We shall halt here itself today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविदूरादयं नद्या बहुपुष्पप्रवालवान् ।  
 सुमहानिङ्गुदीवृक्षो वसामोऽत्रैव सारथे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,12 +1247,15 @@ its many flowers and shoots. We shall stay here itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेक्षामि सरितां श्रेष्ठां सम्मान्यसलिलां शिवाम् ।  
 देवमानवगन्धर्वमृगपन्नगपक्षिणाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1221,12 +1298,15 @@ waters deserve to be respected by gods, men, Gandharvas, beasts, reptiles and bi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्च सुमन्त्रश्च बाढमित्येव राघवम् ।  
 उक्त्वा तमिङ्गुदीवृक्षं तदोपययतुर्हयैः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,12 +1346,15 @@ the horses to that sacred fig tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽभियाय तं रम्यं वृक्षमिक्ष्वाकुनन्दनः ।  
 रथादवतरत् तस्मात् सभार्यः सहलक्ष्मणः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1315,12 +1398,15 @@ the chariot along with Sita and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमन्त्रोऽप्यवतीर्याथ मोचयित्वा हयोत्तमान् ।  
 वृक्षमूलगतं राममुपतस्थे कृताञ्जलिः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1360,12 +1446,15 @@ joined palms, he seated himself near Rama at the foot of the tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र राजा गुहो नाम रामस्यात्मसमः सखा ।  
 निषादजात्यो बलवान् स्थपतिश्चेति विश्रुतः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,12 +1494,15 @@ Nishada by birth, a strong man and well known as a ruler of Nishadas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स श्रुत्वा पुरुषव्याघ्रं रामं विषयमागतम् ।  
 वृद्धैः परिवृतोऽमात्यैर्ज्ञातिभिश्चाप्युपागतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1451,12 +1543,15 @@ prince, escorted by elderly ministers and relatives.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निषादाधिपतिं दृष्ट्वा दूरादुपस्थितम् ।  
 सह सौमित्रिणा रामः समागच्छद् गुहेन सः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1496,6 +1591,7 @@ thereupon went forth to meet Guha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1503,6 +1599,8 @@ thereupon went forth to meet Guha.
 यथायोध्या तथेदं ते राम किं करवाणि ते ॥ ३६ ॥  
 ईदृशं हि महाबाहो कः प्राप्स्यत्यतिथिं प्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1547,6 +1645,7 @@ guest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1557,6 +1656,8 @@ guest?"
 भक्ष्यं भोज्यं च पेयं च लेह्यं चैतदुपस्थितम् ।  
 शयनानि च मुख्यानि वाजिनां खादनं च ते ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1647,6 +1748,7 @@ kinds, he then quickly offered him water to wash his hands and spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1654,6 +1756,8 @@ kinds, he then quickly offered him water to wash his hands and spoke as follows:
 अर्चिताश्चैव हृष्टाश्च भवता सर्वदा वयम् ॥ ४० ॥  
 पद्‍भ्यामभिगमाच्चैव स्नेहसन्दर्शनेन च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1671,6 +1775,7 @@ kinds, he then quickly offered him water to wash his hands and spoke as follows:
 
 गुहनु हीगॆ हेळिदाग श्रीरामचन्द्रनु अवनिगॆ हीगॆ उत्तरिसिदनु - सखने! नीनु इल्लियवरॆगॆ काल्नडिगॆयिन्द बन्दिरुवुदु, स्नेहतोरिसुवुदे नमगागि ऒळ्ळॆय पूजॆ, स्वागत-सत्कारवायितु. निन्नॊन्दिगॆ भॆट्टियागि ननगॆ बहळ सन्तोषवायितु.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1678,6 +1783,8 @@ kinds, he then quickly offered him water to wash his hands and spoke as follows:
 दिष्ट्या त्वां गुह पश्यामि ह्यरोगं सह बान्धवैः ।  
 अपि ते कुशलं राष्ट्रे मित्रेषु च वनेषु च ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1734,12 +1841,15 @@ by your very visit to us on foot, as well as your show of affection and are plea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्विदं भवता किञ्चित् प्रीत्या समुपकल्पितम् ।  
 सर्वं तदनुजानामि नहि वर्ते प्रतिग्रहे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1779,12 +1889,15 @@ am not in a position indeed to accept it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशचीराजिनधरं फलमूलाशनं च माम् ।  
 विद्धि प्रणिहितं धर्मे तापसं वनगोचरम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1828,12 +1941,15 @@ by piety, I am determined to live in the forest by eating roots and fruits only.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वानां खादनेनाहमर्थी नान्येन केनचित् ।  
 एतावतात्र भवता भविष्यामि सुपूजितः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1874,12 +1990,15 @@ much at the present moment, I shall be duly satisfied by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते हि दयिता राज्ञः पितुर्दशरथस्य मे ।  
 एतैः सुविहितैरश्वैर्भविष्याम्यहमर्चितः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1919,12 +2038,15 @@ by these horses being duly fed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वानां प्रतिपानं च खादनं चैव सोऽन्वशात् ।  
 गुहस्तत्रैव पुरुषांस्त्वरितं दीयतामिति ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1968,12 +2090,15 @@ forage be supplied promptly to horses"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चीरोत्तरासङ्गः सन्ध्यामन्वास्य पश्चिमाम् ।  
 जलमेवाददे भोज्यं लक्ष्मणोनाहृतं स्वयम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2017,12 +2142,15 @@ made of bark(on his person); Rama then took for food only water brought by Laksh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य भूमौ शयानस्य पादौ प्रक्षाल्य लक्ष्मणः ।  
 सभार्यस्य ततोऽभ्येत्य तस्थौ वृक्षमुपाश्रितः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2066,12 +2194,15 @@ Lakshmana then came and stood near a tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहोऽपि सह सूतेन सौमित्रिमनुभाषयन् ।  
 अन्वजाग्रत् ततो राममप्रमत्तो धनुर्धरः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2111,6 +2242,7 @@ a bow; alertly kept a vigil over Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2119,6 +2251,8 @@ a bow; alertly kept a vigil over Rama.
 अदृष्टदुःखस्य सुखोचितस्य सा  
 तदा व्यतीता सुचिरेण शर्वरी ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2180,5 +2314,6 @@ long night passed away.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तनॆय सर्ग पूर्णवायितु ॥50॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०८३ शृङ्गिबेरपुरे भरतवासः"
 title_english = "083 Bharata goes to see Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ give rest to the retinue.
 
 83. भरतकी वनयात्रा और शृङ्गवेरपुरमें रात्रिवास
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुत्थितः कल्यमास्थाय स्यन्दनोत्तमम् ।  
 प्रययौ भरतः शीघ्रं रामदर्शनकाम्यया ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ desire to see Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतः प्रययुस्तस्य सर्वे मन्त्रिपुरोहिताः ।  
 अधिरुह्य हयैर्युक्तान् रथान् सूर्यरथोपमान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ of the sun, and went ahead of Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नवनागसहस्राणि कल्पितानि यथाविधि ।  
 अन्वयुर्भरतं यान्तमिक्ष्वाकुकुलनन्दनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ Ikshvaku dynasty, on his journey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्ठी रथसहस्राणि धन्विनो विविधायुधाः ।  
 अन्वयुर्भरतं यान्तं राजपुत्रं यशस्विनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +226,15 @@ kinds, followed the illustrious prince Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं सहस्राण्यश्वानां समारूढानि राघवम् ।  
 अन्वयुर्भरतं यान्तं राजपुत्रं यशस्विनम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,6 +274,7 @@ who was true to his promise and who subdued his senses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -265,6 +283,8 @@ who was true to his promise and who subdued his senses.
 रामानयन-सन्तुष्टा  
 ययुर् यानेन भास्वता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ delighted as they were at the thought of Rama's return.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाताश्चार्यसङ्घाता रामं द्रष्टुं सलक्ष्मणम् ।  
 तस्यैव च कथाश्चित्राः कुर्वाणा हृष्टमानसाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ again as also Lakshmana, recounting the marvelous exploits of that hero to each 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघश्यामं महाबाहुं स्थिरसत्त्वं दृढव्रतम् ।  
 कदा द्रक्ष्यामहे रामं जगतः शोकनाशनम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +416,15 @@ is unshakable, of inflexible purpose Rama, who banished sorrow from the earth?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट एव हि नः शोकमपनेष्यति राघवः ।  
 तमः सर्वस्य लोकस्य समुद्यन्निव भास्करः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -435,12 +464,15 @@ entire earth is dispelled at the rising of the sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं कथयन्तस्ते सम्प्रहृष्टाः कथाः शुभाः ।  
 परिष्वजानाश्चान्योन्यं ययुर्नागरिकास्तदा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +512,15 @@ embraced each other as they went along.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये च तत्रापरे सर्वे सम्मता ये च नैगमाः ।  
 रामं प्रतिययुर्हृष्टाः सर्वाः प्रकृतयः शुभाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,6 +560,7 @@ merrily to join Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -539,6 +575,8 @@ merrily to join Rama.
 समाहिता वेदविदो ब्राह्मणा वृत्तसम्मताः ।  
 गोरथैर्भरतं यान्तमनुजग्मुः सहस्रशः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,12 +678,15 @@ fishermen started on the journey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवेषाः शुद्धवसनास्ताम्रमृष्टानुलेपिनः ।  
 सर्वे ते विविधैर्यानैः शनैर्भरतमन्वयुः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +730,15 @@ mounted on various kinds of vehicles, followed Bharata tranquilly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टमुदिता सेना सान्वयात् कैकयीसुतम् ।  
 भ्रातुरानयने यातं भरतं भ्रातृवत्सलम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +783,15 @@ brother, Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गत्वा दूरमध्वानं रथयानाश्वकुञ्जरैः ।  
 समासेदुस्ततो गङ्गां शृङ्गवेरपुरं प्रति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +808,15 @@ brother, Rama.
 
 ई प्रकार रथ, पल्लक्किगळु, कुदुरॆ, आनॆगळु इवुगळिन्द बहळ दूर दारि नडॆद बळिक अवरॆल्लरू शृङ्गवेरपुरद गङ्गातीरक्कॆ तलुपिदरु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र रामसखा वीरो गुहो ज्ञातिगणैर्वृतः ।  
 निवसत्यप्रमादेन देशं तं परिपालयन् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +856,15 @@ carefully.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपेत्य तीरं गङ्गायाश्चक्रवाकैरलङ्कृतम् ।  
 व्यवतिष्ठत सा सेना भरतस्यानुयायिनी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +908,15 @@ Chakra bird: zoological name= Anas casarca.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरीक्ष्यानुत्थितां सेनां तां च गङ्गां शिवोदकाम् ।  
 भरतः सचिवान् सर्वानब्रवीद् वाक्यकोविदः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,12 +960,15 @@ propitious waters, Bharata who was skillful in words, spoke to all his officers 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेशयत मे सैन्यमभिप्रायेण सर्वतः ।  
 विश्रान्ताः प्रतरिष्यामः श्व इमां सागरङ्गमाम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1008,15 @@ we shall cross the river tomorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दातुं च तावदिच्छामि स्वर्गतस्य महीपतेः ।  
 और्ध्वदेहनिमित्तार्थमवतीर्योदकं नदीम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,12 +1057,15 @@ has gone to heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैवं ब्रुवतोऽमात्यास्तथेत्युक्त्वा समाहिताः ।  
 न्यवेशयंस्तांश्छन्देन स्वेन स्वेन पृथक् पृथक् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1041,6 +1106,7 @@ each of them encamped their respective forces in accord with his pleasure.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1049,6 +1115,8 @@ each of them encamped their respective forces in accord with his pleasure.
 उवास रामस्य तदा महात्मनो  
 विचिन्तमानो भरतो निवर्तनम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,5 +1174,6 @@ then, reflecting as to how to bring back the magnanimous Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥83॥
+</details>
 </details>
 

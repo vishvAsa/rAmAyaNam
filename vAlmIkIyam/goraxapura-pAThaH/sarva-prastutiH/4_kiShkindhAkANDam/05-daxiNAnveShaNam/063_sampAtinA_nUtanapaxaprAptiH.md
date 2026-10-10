@@ -2,6 +2,8 @@
 title = "०६३ सम्पातिना नूतनपक्षप्राप्तिः"
 title_english = "063 Sampaati gets new wings and flew away"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ journey on to southern direction, as directed by Sampaati.
 
 63. सम्पातिका पंखयुक्त होकर वानरोंको उत्साहित करके उड़ जाना और वानरोंका वहाँसे दक्षिण दिशाकी ओर प्रस्थान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतैरन्यैश्च बहुभिर्वाक्यैर्वाक्यविशारदः ।  
 मां प्रशस्याभ्यनुज्ञाप्य प्रविष्टः स स्वमालयम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ saying these and many other words of encouragement and after permitting me to ta
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कन्दरात् तु विसर्पित्वा पर्वतस्य शनैः शनैः ।  
 अहं विन्ध्यं समारुह्य भवतः प्रतिपालये ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ Mt. Vindhya and I am looking forward for your arrival... [4-63-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य त्वेतस्य कालस्य वर्षं साग्रशतं गतम् ।  
 देशकालप्रतीक्षोऽस्मि हृदि कृत्वा मुनेर्वचः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,12 +186,15 @@ after his demise...'
 
 * यहाँ मूलमें साग्रशतम् (सौ वर्षसे अधिक) समय बीतनेकी बात कही गयी है; परंतु साठवें सर्गके नवें श्लोकमें आठ सहस्र वर्ष बीतनेकी चर्चा आयी है । अतः दोनोंकी एकवाक्यताके लिये यहाँ शत शब्दको आठ सहस्र वर्षका उपलक्षण मानना चाहिये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाप्रस्थानमासाद्य स्वर्गते तु निशाकरे ।  
 मां निर्दहति सन्तापो वितर्कैर्बहुभिर्वृतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,6 +234,7 @@ voyage to heaven, thus my anguish burned me down... [4-63-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,6 +242,8 @@ voyage to heaven, thus my anguish burned me down... [4-63-4]
 बुद्धिर्या तेन मे दत्ता प्राणानां रक्षणे मम ॥ ५ ॥  
 सा मेऽपनयते दुःखं दीप्तेवाग्निशिखा तमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +289,15 @@ taking away my anguish, as a tongue of flaring fire takes away darkness... [4-63
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुध्यता च मया वीर्यं रावणस्य दुरात्मनः ॥ ६ ॥  
 पुत्रः सन्तर्जितो वाग्भिर्न त्राता मैथिली कथम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +340,15 @@ saying, 'how you have not saved Maithili?' [4-63-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या विलपितं श्रुत्वा तौ च सीतावियोजितौ ॥ ७ ॥  
 न मे दशरथस्नेहात् पुत्रेणोत्पादितं प्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +389,15 @@ friendship with Dasharatha..." Thus Sampaati spoke to monkeys. [4-63-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य त्वेवं ब्रुवाणस्य संहतैर्वानरैः सह ॥ ८ ॥  
 उत्पेततुस्तदा पक्षौ समक्षं वनचारिणाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +438,15 @@ monkeys who are clustering around him, while Sampaati is speaking in this way to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दृष्ट्वा स्वां तनुं पक्षैरुद‍्गतैररुणच्छदैः ॥ ९ ॥  
 प्रहर्षमतुलं लेभे वानरांश्चेदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +487,15 @@ Sampaati obtained an incomparable rejoice, and he also said this to vanara-s. [4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशाकरस्य राजर्षेः प्रसादादमितौजसः ॥ १० ॥  
 आदित्यरश्मिनिर्दग्धौ पक्षौ पुनरुपस्थितौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +538,15 @@ Sampaati that were burnt down by sunrays have resurfaced again. [4-63-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यौवने वर्तमानस्य ममासीद् यः पराक्रमः ॥ ११ ॥  
 तमेवाद्यावगच्छामि बलं पौरुषमेव च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +589,15 @@ experiencing them alone... [4-63-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा क्रियतां यत्नः सीतामधिगमिष्यथ ॥ १२ ॥  
 पक्षलाभो ममायं वः सिद्धिप्रत्ययकारकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +640,15 @@ event of my regaining wings shall be the causer of credibility in you all... [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा तान् हरीन् सर्वान् सम्पातिः पतगोत्तमः ॥ १३ ॥  
 उत्पपात गिरेः शृङ्गाज्जिज्ञासुः खगमो गतिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +689,15 @@ mountaintop to ascertain the plight of a sky-going bird when anew on the wing. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा प्रतिसंहृष्टमानसाः ।  
 बभूवुर्हरिशार्दूला विक्रमाभ्युदयोन्मुखाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,6 +740,7 @@ while their valour inspiriting them they have became proactive towards their tas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -704,6 +749,8 @@ while their valour inspiriting them they have became proactive towards their tas
 अभिजिदभिमुखां दिशं ययु-  
 र्जनकसुतापरिमार्गणोन्मुखाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,5 +808,6 @@ on to the southern direction, as they are the pioneers in searching Seetha, the 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धा काण्डद अरवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥63॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३५ गङ्गोत्पत्तिः"
 title_english = "035 Legend of River Ganga"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -22,12 +24,15 @@ Sage Vishvamitra along with others reach the banks of River Ganga and
 
 35. शोणभद्र पार करके विश्वामित्र आदिका गंगाजीके तटपर पहुँचकर वहाँ रात्रिवास करना तथा श्रीरामके पूछनेपर विश्वामित्रजीका उन्हें गंगाजीकी उत्पत्तिकी कथा सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपास्य रात्रिशेषं तु शोणाकूले महर्षिभिः ।  
 निशायां सुप्रभातायां विश्वामित्रोऽभ्यभाषत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ On sojourning the remaining night on the bank of river Sona along with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्रभाता निशा राम पूर्वा सन्ध्या प्रवर्तते ।  
 उत्तिष्ठोत्तिष्ठ भद्रं ते गमनायाभिरोचय ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -103,12 +111,15 @@ On sojourning the remaining night on the bank of river Sona along with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य कृतपूर्वाह्णिकक्रियः ।  
 गमनं रोचयामास वाक्यं चेदमुवाच ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं शोणः शुभजलोऽगाधः पुलिनमण्डितः ।  
 कतरेण पथा ब्रह्मन् सन्तरिष्यामहे वयम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +207,15 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण विश्वामित्रोऽब्रवीदिदम् ।  
 एष पन्था मयोद्दिष्टो येन यान्ति महर्षयः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ When Rama spoke to him thus sage Vishvamitra replied, "I propose the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता महर्षयो विश्वामित्रेण धीमता ।  
 पश्यन्तस्ते प्रयाता वै वनानि विविधानि च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,12 +298,15 @@ Thus spoken by that astute Sage Vishvamitra, the other great sages travelled
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गत्वा दूरमध्वानं गतेऽर्धदिवसे तदा ।  
 जाह्नवीं सरितां श्रेष्ठां ददृशुर्मुनिसेविताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ On going a distance on their way, and after a lapse of half a day, then
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा पुण्यसलिलां हंससारससेविताम् ।  
 बभूवुर्मुनयः सर्वे मुदिताः सहराघवाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,6 +386,7 @@ On seeing River Ganga with her pious waters and adored by swans and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,6 +396,8 @@ On seeing River Ganga with her pious waters and adored by swans and
 विविशुर्जाह्नवीतीरे शुभा मुदितमानसाः ॥ १० ॥  
 विश्वामित्रं महात्मानं परिवार्य समन्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -427,12 +456,15 @@ Then they sojourned on the riverbank of Ganga, and next on taking bath
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्ठिताश्च यथान्यायं राघवौ च यथार्हतः ।  
 सम्प्रहृष्टमना रामो विश्वामित्रमथाब्रवीत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +507,15 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् श्रोतुमिच्छामि गङ्गां त्रिपथगां नदीम् ।  
 त्रैलोक्यं कथमाक्रम्य गता नदनदीपतिम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +552,15 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चोदितो रामवाक्येन विश्वामित्रो महामुनिः ।  
 वृद्धिं जन्म च गङ्गाया वक्तुमेवोपचक्रमे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +595,15 @@ Motivated by Rama's words the eminent-sage Vishvamitra commenced to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलेन्द्रो हिमवान् राम धातूनामाकरो महान् ।  
 तस्य कन्याद्वयं राम रूपेणाप्रतिमं भुवि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +643,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या मेरुदुहिता राम तयोर्माता सुमध्यमा ।  
 नाम्ना मेना मनोज्ञा वै पत्नी हिमवतः प्रिया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +688,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां गङ्गेयमभवज्ज्येष्ठा हिमवतः सुता ।  
 उमा नाम द्वितीयाभूत् कन्या तस्यैव राघव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +736,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ ज्येष्ठां सुराः सर्वे देवकार्यचिकीर्षया ।  
 शैलेन्द्रं वरयामासुर्गङ्गां त्रिपथगां नदीम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +780,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ धर्मेण हिमवांस्तनयां लोकपावनीम् ।  
 स्वच्छन्दपथगां गङ्गां त्रैलोक्यहितकाम्यया ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +824,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य त्रिलोकार्थं त्रिलोकहितकाङ्क्षिणः ।  
 गङ्गामादाय तेऽगच्छन् कृतार्थेनान्तरात्मना ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +870,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या चान्या शैलदुहिता कन्याऽऽसीद्रघुनन्दन ।  
 उग्रं सुव्रतमास्थाय तपस्तेपे तपोधना ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -862,12 +921,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उग्रेण तपसा युक्तां ददौ शैलवरः सुताम् ।  
 रुद्रायाप्रतिरूपाय उमां लोकनमस्कृताम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,12 +966,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते ते शैलराजस्य सुते लोकनमस्कृते ।  
 गङ्गा च सरितां श्रेष्ठा उमादेवी च राघव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,6 +1009,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -952,6 +1018,8 @@ _________________
 सैषा सुरनदी रम्या शैलेन्द्रतनया तदा ।  
 सुरलोकं समारूढा विपापा जलवाहिनी ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,5 +1103,6 @@ The three-way coursing of the river is firstly as Ganga in the lap of
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु. ॥35॥
+</details>
 </details>
 

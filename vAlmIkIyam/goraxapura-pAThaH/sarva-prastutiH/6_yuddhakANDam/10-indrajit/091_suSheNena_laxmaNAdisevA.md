@@ -1,6 +1,8 @@
 +++
 title = "०९१ सुषेणेन लक्ष्मणादिसेवा"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -22,12 +24,15 @@ sound, active and full of joy.
 
 91. लक्ष्मण और विभीषण आदिका श्रीरामचन्द्रजीके पास आकर इन्द्रजित् के वधका समाचार सुनाना, प्रसन्न हुए श्रीरामके द्वारा लक्ष्मणको हृदयसे लगाकर उनकी प्रशंसा तथा सुषेणद्वारा लक्ष्मण आदिकी चिकित्सा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरक्लिन्नगात्रस्तु लक्ष्मणः शुभलक्षणः ।  
 बभूव हृष्टस्तं हत्वा शत्रुजेतारमाहवे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -47,6 +52,7 @@ _________________
 
 सङ्ग्राम भूमियल्लि शत्रुविजयी इन्द्रजितुविन वधॆ माडि रक्तदिन्द तॊय्दु होद शरीरवुळ्ळ शुभलक्षण लक्ष्मणनु बहळ प्रसन्ननादनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -55,6 +61,8 @@ _________________
 आजगाम ततः शीघ्रं यत्र सुग्रीवराघवौ ।  
 विभीषणमवष्टभ्य हनूमन्तं च लक्ष्मणः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ were there, by leaning himself upon vibhishana and Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राममभिक्रम्य सौमित्रिरभिवाद्य च ।  
 तस्थौ भ्रातृसमीपस्थः शक्रस्येन्द्रानुजो यथा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +153,15 @@ celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्टनन्निव चागत्य राघवाय महात्मने ।  
 आचचक्षे तदा वीरो घोरमिन्द्रजितो वधम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,12 +198,15 @@ murmering tone (as he was feeling tiresome) about the terrific destroyal of Indr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेस्तु शिरश्छिन्नं लक्ष्मणेन महात्मना ।  
 न्यवेदयत रामाय तदा हृष्टो विभीषणः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +246,15 @@ head had been chopped off by the great-souled Lakshaman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वैव तु महावीर्यो लक्ष्मणेनेन्द्रजिद्वधम् ।  
 प्रहर्षमतुलं लेभे वाक्यं चेदमुवाच ह ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +291,15 @@ prowess obtained immesurable joy and spoke the following words
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु लक्ष्मण तुष्टोऽस्मि कर्म चासुकरं कृतम् ।  
 रावणेर्हि विनाशेन जितमित्युपधारय ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -310,6 +333,7 @@ as our victory, through the destroyal of Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -318,6 +342,8 @@ as our victory, through the destroyal of Indrajit.
 उपवेश्य तमुत्सङ्गे परिष्वज्यावपीडितम् ।  
 भ्रातरं लक्ष्मणं स्निग्धं पुनः पुनरुदैक्षत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,6 +386,7 @@ having embraced him, tenderly gazed upon him affectionately again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -368,6 +395,8 @@ having embraced him, tenderly gazed upon him affectionately again and again.
 मूर्ध्नि चैनमुपाघ्राय भूयः संस्पृश्य च त्वरन् ।  
 उवाच लक्ष्मणं वाक्यमाश्वास्य पुरुषर्षभः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +441,7 @@ foremost among men spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,6 +451,8 @@ foremost among men spoke the following words:
 रावणस्य नृशंसस्य दिष्ट्या वीर त्वया रणे ॥ १४ ॥  
 छिन्नो हि दक्षिणो बाहुः स हि तस्य व्यपाश्रयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,6 +489,7 @@ his son having been killed, I account Ravana to have been killed in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -464,6 +497,8 @@ his son having been killed, I account Ravana to have been killed in battle."
 अहोरात्रैस्त्रिभिर्वीरः कथञ्चिद् विनिपातितः ।  
 निरमित्रः कृतोऽस्म्यद्य निर्यास्यति हि रावणः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +576,15 @@ felt rejoiced on having killed Indrajit in combat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलव्यूहेन महता निर्यास्यति हि रावणः ।  
 बलव्यूहेन महता श्रुत्वा पुत्रं निपातितम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +618,15 @@ will kill him, who is coming forth with a feeling of distress for the death of h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पुत्रवधसन्तप्तं निर्यान्तं राक्षसाधिपम् ।  
 बलेनावृत्य महता निहनिष्यामि दुर्जयम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,12 +666,15 @@ protector, neither Seetha nor this entire earth is hard to attain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया लक्ष्मण नाथेन सीता च पृथिवी च मे ।  
 न दुष्प्रापा हते तस्मिन् शक्रजेतरि चाहवे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +718,15 @@ Raghu-dynansty, was duly delighted and by calling Sushena, spoke to him the foll
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं भ्रातरमाश्वास्य परिष्वज्य च राघवः ।  
 रामः सुषेणं मुदितः समाभाष्येदमब्रवीत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,12 +766,15 @@ frinds, so that he will become perfectly well in health."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशल्योऽयं महाप्राज्ञ सौमित्रिर्मित्रवत्सलः ।  
 यथा भवति सुस्वस्थस्तथा त्वं समुपाचर ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,6 +794,7 @@ _________________
 
 परम बुद्धिवन्त सुषेणने! नीनु बेगने ई मित्रवत्सल सौमित्रियु पूर्ण स्वस्थनागुवन्तह चिकित्सॆ माडु. अवन शरीरदल्लिन बाणगळिन्दाद नोवु ऎल्ल दूरवागलि.॥21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -752,6 +803,8 @@ _________________
 ये चाप्यन्येऽत्र युध्यन्ति सशल्या व्रणिनस्तथा ।  
 तेऽपि सर्वे प्रयत्नेन क्रियन्ते सुखिनस्त्वया ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,12 +868,15 @@ arrows and owunded, be healed in the same way with great care."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स रामेण महात्मा हरियूथपः ।  
 लक्ष्मणाय ददौ नस्तः सुषेणः परमौषधम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +910,15 @@ from pains and his wounds got completely cured.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य गन्धमाघ्राय विशल्यः समपद्यत ।  
 तदा निर्वेदनश्चैव संरूढव्रण एव च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +961,15 @@ others including all the monkey-chiefs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणमुखानां च सुहृदां राघवाज्ञया ।  
 सर्ववानरमुख्यानां चिकित्सामकरोत् तदा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1010,15 @@ within a moment, Lakshmana having restored his original disposition, felt joyful
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रकृतिमापन्नो हृतशल्यो गतक्लमः ।  
 सौमित्रिर्मुमुदे तत्र क्षणेन विगतज्वरः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,6 +1064,7 @@ and the valiant Jambavan along with the army were rejoiced for a long time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1007,6 +1073,8 @@ and the valiant Jambavan along with the army were rejoiced for a long time.
 अवेक्ष्य सौमित्रिमरोगमुत्थितं  
 मुदा ससैन्याः सुचिरं जहर्षिरे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,6 +1124,7 @@ having been kille din battle, Sugreeva became delighted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1064,6 +1133,8 @@ having been kille din battle, Sugreeva became delighted.
 बभूव हृष्टो युधि वानरेन्द्रो  
 निशम्य तं शक्रजितं निपातितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1092,5 +1163,6 @@ having been kille din battle, Sugreeva became delighted.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥91॥
+</details>
 </details>
 

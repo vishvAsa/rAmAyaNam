@@ -1,6 +1,8 @@
 +++
 title = "०९८ अङ्गदेन महापार्श्ववधः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -22,12 +24,15 @@ Mahaparshva falls dead, succumbing to a forcible blow of Angada's fist.
 
 98. अंगदके द्वारा महापार्श्वका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरे तु निहते महापार्श्वो महाबलः ।  
 सुग्रीवेण समीक्ष्याथ क्रोधात् संरक्तलोचनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,6 +75,7 @@ red-blood eyes through anger, forthwith stirred up the terrific army of Angada w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ red-blood eyes through anger, forthwith stirred up the terrific army of Angada w
 स वानराणां मुख्यानामुत्तमाङ्गानि राक्षसः ॥ २ ॥  
 पातयामास कायेभ्यः फलं वृन्तादिवानिलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ throw down a fruit from its stalk.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केषाञ्चिदिषुभिर्बाहूंश्चिच्छेदाथ स राक्षसः ॥ ३ ॥  
 वानराणां सुसंरब्धः पार्श्वं केषाञ्चिदाक्षिपत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,12 +177,15 @@ arrows and struck down the region of the ribs of others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽर्दिता बाणवर्षेण महापार्श्वेन वानराः ॥ ४ ॥  
 विषादविमुखाः सर्वे बभूवुर्गतचेतसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ with despair and lost heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशम्य बलमुद्विग्नमङ्गदो राक्षसार्दितम् ॥ ५ ॥  
 वेगं चक्रे महावेगः समुद्र इव पर्वसु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ with a great impetuosity, exhibited his tempo like an ocean on full-moon days.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयसं परिघं गृह्य सूर्यरश्मिसमप्रभम् ॥ ६ ॥  
 समरे वानरश्रेष्ठो महापार्श्वे न्यपातयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +318,15 @@ Mahaparshva in that combat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण महापार्श्वो विचेतनः ॥ ७ ॥  
 ससूतः स्यन्दनात् तस्माद् विसञ्ज्ञश्चापतद् भुवि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,6 +366,7 @@ his chariot along with is charioteer
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,6 +375,8 @@ his chariot along with is charioteer
 प्रगृह्य गिरिशृङ्गाभां क्रुद्धः स विपुलां शिलाम् ॥ ९ ॥  
 अश्वाञ्जघान तरसा बभञ्ज स्यन्दनं च तम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,6 +430,7 @@ strength and broke that chariot too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,6 +438,8 @@ strength and broke that chariot too.
 अङ्गदं बहुभिर्बाणैर्भूयस्तं प्रत्यविध्यत ।  
 जाम्बवन्तं त्रिभिर्बाणैराजघान स्तनान्तरे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,6 +491,7 @@ Angada with his many arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -469,6 +499,8 @@ Angada with his many arrows.
 गवाक्षं जाम्बवन्तं च स दृष्ट्वा शरपीडितौ ॥ १२ ॥  
 जग्राह परिघं घोरमङ्गदः क्रोधमूर्च्छितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -507,6 +539,7 @@ with anger and seized hold of a terrific iron rod.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -515,6 +548,8 @@ with anger and seized hold of a terrific iron rod.
 द्वाभ्यां भुजाभ्यां सङ्गृह्य भ्रामयित्वा च वेगवत् ॥ १४ ॥  
 महापार्श्वस्य चिक्षेप वधार्थं वालिनः सुतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +602,15 @@ Mahaparshva the demon, who stood at a distance, with an intention to kill him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु क्षिप्तो बलवता परिघस्तस्य रक्षसः ॥ १५ ॥  
 धनुश्च सशरं हस्ताच्छिरस्त्राणं च पातयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ arrow fitted to it, from the demon's hand and also his helmet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समासाद्य वेगेन वालिपुत्रः प्रतापवान् ॥ १६ ॥  
 तलेनाभ्यहनत् क्रुद्धः कर्णमूले सकुण्डले ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,12 +693,15 @@ temple (root of the ear), shining with an ear-ring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु क्रुद्धो महावेगो महापार्श्वो महाद्युतिः ॥ १७ ॥  
 करेणैकेन जग्राह सुमहान्तं परश्वधम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ swiftness and enormous splendour, seized hold of a huge axe in one hand.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तैलधौतं विमलं शैलसारमयं दृढम् ॥ १८ ॥  
 राक्षसः परमक्रुद्धो वालिपुत्रे न्यपातयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +777,15 @@ washed in oil and which was made of steel, on Angada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन वामांसफलके भृशं प्रत्यवपातितम् ॥ १९ ॥  
 अङ्गदो मोक्षयामास सरोषः स परश्वधम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +823,15 @@ his left shoulder-bone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वीरो वज्रसङ्काशमङ्गदो मुष्टिमात्मनः ॥ २० ॥  
 संवर्तयत् सुसङ्क्रुद्धः पितुस्तुल्यपराक्रमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -818,12 +871,15 @@ and firmly tightened his fist resembling a thunder-bolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसस्य स्तनाभ्याशे मर्मज्ञो हृदयं प्रति ॥ २१ ॥  
 इन्द्राशनिसमस्पर्शं स मुष्टिं विन्यपातयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +913,15 @@ thunderbolt, on the boson of the demon, in the vicinity of his breasts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन तस्य निपातेन राक्षसस्य महामृधे ॥ २२ ॥  
 पफाल हृदयं चास्य स पपात हतो भुवि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,12 +964,15 @@ blasted and he fell dead on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् विनिहते भूमौ तत् सैन्यं सम्प्रचुक्षुभे ॥ २३ ॥  
 अभवच्च महान् क्रोधः समरे रावणस्य तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,6 +1009,7 @@ arose in Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -954,6 +1017,8 @@ arose in Ravana.
 स्फोटयन्निव शब्देन लङ्कां साट्टालगोपुराम् ।  
 सहेन्द्रेणेव देवानां नादः समभवन्महान् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,6 +1057,7 @@ breaking asunder as it were the City of Lanka with its attics and town-gates.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1000,6 +1066,8 @@ breaking asunder as it were the City of Lanka with its attics and town-gates.
 श्रुत्वा सरोषं युधि राक्षसेन्द्रः  
 पुनश्च युद्धाभिमुखोऽवतस्थे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,5 +1123,6 @@ the enraged Ravana the adversary of Indra, then stood prepared for a battle agai
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तॆण्टनॆय सर्ग पूर्णवायितु.॥98॥
+</details>
 </details>
 

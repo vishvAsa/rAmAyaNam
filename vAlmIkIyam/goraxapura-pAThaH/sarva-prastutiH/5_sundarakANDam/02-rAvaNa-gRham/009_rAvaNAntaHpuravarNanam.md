@@ -2,6 +2,8 @@
 title = "००९ रावणान्तःपुरवर्णनम्"
 title_english = "009 The inner buildings of Ravana s house"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -21,6 +23,7 @@ through a hall filled with Ravana's wives.
 
 9. हनुमान् जी का रावणके श्रेष्ठ भवन पुष्पक विमान तथा रावणके रहनेकी सुन्दर हवेलीको देखकर उसके भीतर सोयी हुई सहस्रों सुन्दरी स्त्रियोंका अवलोकन करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ through a hall filled with Ravana's wives.
 अर्धयोजनविस्तीर्णमायतं योजनं महत् ।  
 भवनं राक्षसेन्द्रस्य बहुप्रासादसङ्कुलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +104,15 @@ that best group of houses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गमाणस्तु वैदेहीं सीतामायतलोचनाम् ।  
 सर्वतः परिचक्राम हनूमानरिसूदनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,12 +155,15 @@ Seetha the wide eyed daughter of King of Videha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तमं राक्षसावासं हनुमानवलोकयन् ।  
 आससादाथ लक्ष्मीवान् राक्षसेन्द्रनिवेशनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ Seetha the wide eyed daughter of King of Videha
 
 सर्वशुभलक्षणगळिन्द कूडिद हनुमन्तनु राक्षसर श्रेष्ठवाद सौधगळॆल्लवन्नु नोडिकॊण्डु राक्षसेन्द्रनाद रावणन प्रासादक्कू तलुपिदनु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्विषाणैर्द्विरदैस्त्रिविषाणैस्तथैव च ।  
 परिक्षिप्तमसम्बाधं रक्ष्यमाणमुदायुधैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +228,15 @@ weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसीभिश्च पत्नीभी रावणस्य निवेशनम् ।  
 आहृताभिश्च विक्रम्य राजकन्याभिरावृतम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +253,15 @@ weapons.
 
 आ महाप्रासाददल्लि रावणन राक्षसस्त्रीयरु हागू पराक्रमदिन्द सॆळॆदुतन्द राजकन्यॆयरू आवृतवागिद्दरु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्नक्रमकराकीर्णं तिमिङ्गिलझषाकुलम् ।  
 वायुवेगसमाधूतं पन्नगैरिव सागरम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,12 +299,15 @@ moved by the speed of wind, and together with serpants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या हि वैश्रवणे लक्ष्मीर्या चन्द्रे हरिवाहने ।  
 सा रावणगृहे रम्या नित्यमेवानपायिनी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +351,15 @@ affluence was at Ravana's house. That wealth was always without reduction.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या च राज्ञः कुबेरस्य यमस्य वरुणस्य च ।  
 तादृशी तद्विशिष्टा वा ऋद्धी रक्षोगृहेष्विह ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ same fortune or even greater treasure was at this house of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य हर्म्यस्य मध्यस्थवेश्म चान्यत् सुनिर्मितम् ।  
 बहुनिर्यूहसंयुक्तं ददर्श पवनात्मजः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ many elephants in rut.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मणोऽर्थे कृतं दिव्यं दिवि यद् विश्वकर्मणा ।  
 विमानं पुष्पकं नाम सर्वरत्नविभूषितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +475,15 @@ many elephants in rut.
 
 ब्रह्मन सलुवागि विश्वकर्मनिन्द निर्मिसल्पट्टिद्द सर्वरत्नविभूषितवाद दिव्यपुष्पकवॆम्ब विमानवु अदागित्तु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परेण तपसा लेभे यत् कुबेरः पितामहात् ।  
 कुबेरमोजसा जित्वा लेभे तद् राक्षसेश्वरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +522,15 @@ great austerity from Lord Brahma, Ravana obtained that plane by prowess defeatin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईहामृगसमायुक्तैः कार्तस्वरहिरण्मयैः ।  
 सुकृतैराचितं स्तम्भैः प्रदीप्तमिव च श्रिया ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +547,15 @@ great austerity from Lord Brahma, Ravana obtained that plane by prowess defeatin
 
 आ पुष्पकविमानवु अपरञ्जि चिन्नदिन्द निर्मितवाद क्रीडामृग मुन्ताद प्रतिमॆगळिन्द, कलात्मकवागि तयारिसिद बॆळ्ळिय स्तम्भगळिन्द अलङ्कृतवागित्तु. अद्भुत कान्तियिन्द शोभायमानवागि काणुत्तित्तु.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेरुमन्दरसङ्काशैरुल्लिखद्भिरिवाम्बरम् ।  
 कूटागारैः शुभागारैः सर्वतः समलङ्कृतम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,12 +597,15 @@ and Mount Mandara, as though touching the sky with an auspicious shape.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्वलनार्कप्रतीकाशैः सुकृतं विश्वकर्मणा ।  
 हेमसोपानयुक्तं च चारुप्रवरवेदिकम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +648,15 @@ made of gold and with beautiful and best platforms;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जालवातायनैर्युक्तं काञ्चनैः स्फाटिकैरपि ।  
 इन्द्रनीलमहानीलमणिप्रवरवेदिकम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +696,15 @@ platforms made of sapphires and emeralds;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्रुमेण विचित्रेण मणिभिश्च महाधनैः ।  
 निस्तुलाभिश्च मुक्ताभिस्तलेनाभिविराजितम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +744,15 @@ great value, with pearls without comparison;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनेन च रक्तेन तपनीयनिभेन च ।  
 सुपुण्यगन्धिना युक्तमादित्यतरुणोपमम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,6 +785,7 @@ brilliant like the Sun at noon;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -740,6 +794,8 @@ brilliant like the Sun at noon;
 तत्रस्थः सर्वतो गन्धं पानभक्ष्यान्नसम्भवम् ॥ १९ ॥  
 दिव्यं सम्मूर्च्छितं जिघ्रन् रूपवन्तमिवानिलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +840,15 @@ decorated by rows of upper floors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गन्धस्तं महासत्त्वं बन्धुर्बन्धुमिवोत्तमम् ॥ २० ॥  
 इत एहीत्युवाचेव तत्र यत्र स रावणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,12 +894,15 @@ appearance, created from drinks and foods, including cooked rice diffused on all
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तां प्रस्थितः शालां ददर्श महतीं शिवाम् ॥ २१ ॥  
 रावणस्य महाकान्तां कान्तामिव वरस्त्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,6 +946,7 @@ relative to a best relative pointing to there wherever that Ravana was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -891,6 +954,8 @@ relative to a best relative pointing to there wherever that Ravana was.
 स्फाटिकैरावृततलां दन्तान्तरितरूपिकाम् ।  
 मुक्तावज्रप्रवालैश्च रूप्यचामीकरैरपि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -958,12 +1023,15 @@ hall, close to heart of Ravana, like a delightful best woman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभूषितां मणिस्तम्भैः सुबहुस्तम्भभूषिताम् ।  
 समैर्ऋजुभिरत्युच्चैः समन्तात् सुविभूषितैः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,12 +1070,15 @@ studded pillars and also decorated with many pillars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तम्भैः पक्षैरिवात्युच्चैर्दिवं सम्प्रस्थितामिव ।  
 महत्या कुथयाऽऽस्तीर्णां पृथिवीलक्षणाङ्कया ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,12 +1118,15 @@ all over, that hall was as though starting for sky with very high wings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवीमिव विस्तीर्णां सराष्ट्रगृहशालिनीम् ।  
 नादितां मत्तविहगैर्दिव्यगन्धाधिवासिताम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,12 +1172,15 @@ and rows of houses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परर्घ्यास्तरणोपेतां रक्षोऽधिपनिषेविताम् ।  
 धूम्रामगुरुधूपेन विमलां हंसपाण्डुराम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,12 +1223,15 @@ best tapestries and inhabited by the king of rakshasas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्रपुष्पोपहारेण कल्माषीमिव सुप्रभाम् ।  
 मनसो मोदजननीं वर्णस्यापि प्रसाधिनीम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1194,6 +1274,7 @@ wonderful by the decoration of flowers, like divine cow with a great radiance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1201,6 +1282,8 @@ wonderful by the decoration of flowers, like divine cow with a great radiance.
 इन्द्रियाणीन्द्रियार्थैस्तु पञ्च पञ्चभिरुत्तमैः ॥ २९ ॥  
 तर्पयामास मातेव तदा रावणपालिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1243,12 +1326,15 @@ destroying sorrow and was as though producing prosperity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गोऽयं देवलोकोऽयमिन्द्रस्यापि पुरी भवेत् ।  
 सिद्धिर्वेयं परा हि स्यादित्यमन्यत मारुतिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1293,12 +1379,15 @@ sensory organs with all the excellent five objects of the senses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रध्यायत इवापश्यत् प्रदीपांस्तत्र काञ्चनान् ।  
 धूर्तानिव महाधूर्तैर्देवनेन पराजितान् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1335,12 +1424,15 @@ city of Indra. This might be the result of a great austerity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीपानां च प्रकाशेन तेजसा रावणस्य च ।  
 अर्चिर्भिर्भूषणानां च प्रदीप्तेत्यभ्यमन्यत ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1361,12 +1453,15 @@ _________________
 
 दीपकोंके प्रकाश, रावणके तेज और आभूषणोंकी कान्तिसे वह सारी हवेली जलती हुई-सी जान पड़ती थी ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽपश्यत् कुथासीनं नानावर्णाम्बरस्रजम् ।  
 सहस्रं वरनारीणां नानावेषबिभूषितम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1424,12 +1519,15 @@ being still, as though in thought.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिवृत्तेऽर्धरात्रे तु पाननिद्रावशङ्गतम् ।  
 क्रीडित्वोपरतं रात्रौ प्रसुप्तं बलवत् तदा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1468,12 +1566,15 @@ various colours and decorated in a variety of ways.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् प्रसुप्तं विरुरुचे निःशब्दान्तरभूषितम् ।  
 निःशब्दहंसभ्रमरं यथा पद्मवनं महत् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1494,12 +1595,15 @@ _________________
 
 उन सोयी हुई सहस्रों नारियोंके कटिभागमें अब करधनीकी खनखनाहटका शब्द नहीं हो रहा था । हंसोंके कलरव तथा भ्रमरोंके गुञ्जारवसे रहित विशाल कमल-वनके समान उन सुप्त सुन्दरियोंका समुदाय बड़ी शोभा पा रहा था ॥ ३५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां संवृतदान्तानि मीलिताक्षीणि मारुतिः ।  
 अपश्यत् पद्मगन्धीनि वदनानि सुयोषिताम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1557,12 +1661,15 @@ night, with a deep sleep caused by liquor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रबुद्धानीव पद्मानि तासां भूत्वा क्षपाक्षये ।  
 पुनः संवृतपत्राणि रात्राविव बभुस्तदा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,6 +1709,7 @@ and with lotus fragrance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1610,6 +1718,8 @@ and with lotus fragrance.
 इति वामन्यत श्रीमानुपपत्त्या महाकपिः ।  
 मेने हि गुणतस्तानि समानि सलिलोद्भवैः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1651,12 +1761,15 @@ faces like lotuses in blossom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तस्य शुशुभे शाला ताभिः स्त्रीभिर्विराजिता ।  
 शरदीव प्रसन्ना द्यौस्ताराभिरभिशोभिता ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1715,12 +1828,15 @@ and again were like lotuses with closed petals at night.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च ताभिः परिवृतः शुशुभे राक्षसाधिपः ।  
 यथा ह्युडुपतिः श्रीमांस्ताराभिरिव संवृतः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1761,12 +1877,15 @@ sky in autumn shone by stars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याश्च्यवन्तेऽम्बरात् ताराः पुण्यशेषसमावृताः ।  
 इमास्ताः सङ्गताः कृत्स्ना इति मेने हरिस्तदा ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1812,12 +1931,15 @@ surrounded by stars.
 
 * इस श्लोकमें ‘अत्युक्ति’ अलंकार है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताराणामिव सुव्यक्तं महतीनां शुभार्चिषाम् ।  
 प्रभावर्णप्रसादाश्च विरेजुस्तत्र योषिताम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1858,12 +1980,15 @@ down from the sky, all those meteors had been together as these women".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यावृत्तकचपीनस्रक्प्रकीर्णवरभूषणाः ।  
 पानव्यायामकालेषु निद्रोपहतचेतसः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1906,12 +2031,15 @@ which emitted an auspicious radience.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यावृत्ततिलकाः काश्चित् काश्चिदुदभ्रान्तनूपुराः ।  
 पार्श्वे गलितहाराश्च काश्चित् परमयोषितः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1931,12 +2059,15 @@ _________________
 
 किन्हींके मस्तककी (सिंदूर-कस्तूरी आदिकी) वेदियाँ पुछ गयी थीं, किन्हींके नूपुर पैरोंसे निकलकर दूर जा पड़े थे तथा किन्हीं सुन्दरी युवतियोंके हार टूटकर उनके बगलमें ही पड़े थे ॥ ४५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्ताहारवृताश्चान्याः काश्चित् प्रस्रस्तवाससः ।  
 व्याविद्धरशनादामाः किशोर्य इव वाहिताः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1968,12 +2099,15 @@ anklets, became with necklaces fallen off to side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकुण्डलधराश्चान्या विच्छिन्नमृदितस्रजः ।  
 गजेन्द्रमृदिताः फुल्ला लता इव महावने ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2011,12 +2145,15 @@ waist ornaments (and) resembled young female horses who had walked long.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रांशुकिरणाभाश्च हाराः कासाञ्चिदुद‍्गताः ।  
 हंसा इव बभुः सुप्ताः स्तनमध्येषु योषिताम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2076,12 +2213,15 @@ during the time of drinking, dancing etc., were with consciousness stolen by sle
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरासां च वैदूर्याः कादम्बा इव पक्षिणः ।  
 हेमसूत्राणि चान्यासां चक्रवाका इवाभवन् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2122,12 +2262,15 @@ other women shone like sleeping swans.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंसकारण्डवोपेताश्चक्रवाकोपशोभिताः ।  
 आपगा इव ता रेजुर्जघनैः पुलिनैरिव ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2153,12 +2296,15 @@ _________________
 
 मत्तॆ कॆलवु कान्तॆयर ऎदॆय मेलॆ धरिसिद्द वैडूर्य मणिमालॆगळु कलहंसगळन्तॆ इद्दवु. इन्नू कॆलवु तरुणियर स्तनगळ मध्यदल्लि ऎद्दु काणुत्तिद्द हेम सूत्रगळु चक्रवाक पक्षिगळन्तॆ काणुत्तिद्दवु. ॥50॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किङ्किणीजालसङ्काशास्ता हेमविपुलाम्बुजाः ।  
 भावग्राहा यशस्तीराः सुप्ता नद्य इवाबभुः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2217,12 +2363,15 @@ Kadambas and for some others golden chains were like Chakravaka birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृदुष्वङ्गेषु कासाञ्चित् कुचाग्रेषु च संस्थिताः ।  
 बभूवुर्भूषणानीव शुभा भूषणराजयः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2262,12 +2411,15 @@ jewellery as big lotuses, with their behaviours as crocodiles, with fame as bank
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अंशुकान्ताश्च कासाञ्चिन्मुखमारुतकम्पिताः ।  
 उपर्युपरि वक्त्राणां व्याधूयन्ते पुनः पुनः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2287,12 +2439,15 @@ _________________
 
 किन्हींके मुखपर पड़े हुए उनकी झीनी साड़ीके अञ्चल उनकी नासिकासे निकली हुई साँससे कम्पित हो बारंबार हिल रहे थे ॥ ५३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः पताका इवोद्‍धूताः पत्नीनां रुचिरप्रभाः ।  
 नानावर्णसुवर्णानां वक्त्रमूलेषु रेजिरे ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2328,12 +2483,15 @@ women, were being fluttered again and again on their faces.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ववल्गुश्चात्र कासाञ्चित् कुण्डलानि शुभार्चिषाम् ।  
 मुखमारुतसङ्कम्पैर्मन्दं मन्दं च योषिताम् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2367,12 +2525,15 @@ wives' throats like hoisted flags of beautiful shine.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शर्करासवगन्धः स प्रकृत्या सुरभिः सुखः ।  
 तासां वदननिःश्वासः सिषेवे रावणं तदा ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2409,12 +2570,15 @@ the air from breathing of those women.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणाननशङ्काश्च काश्चिद् रावणयोषितः ।  
 मुखानि च सपत्नीनामुपाजिघ्रन् पुनः पुनः ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2455,12 +2619,15 @@ smell of liquor made of Sarkara, served Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यर्थं सक्तमनसो रावणे ता वरस्त्रियः ।  
 अस्वतन्त्राः सपत्नीनां प्रियमेवाचरंस्तदा ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2511,12 +2678,15 @@ nipples, were like jewellery.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहूनुपनिधायान्याः पारिहार्यविभूषितान् ।  
 अंशुकानि च रम्याणि प्रमदास्तत्र शिश्यिरे ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2559,12 +2729,15 @@ brought delight only to their co-wives.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्या वक्षसि चान्यस्यास्तस्याः काचित् पुनर्भुजम् ।  
 अपरा त्वङ्कमन्यस्यास्तस्याश्चाप्यपरा कुचौ ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2606,12 +2779,15 @@ and beautiful clothes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊरुपार्श्वकटीपृष्ठमन्योन्यस्य समाश्रिताः ।  
 परस्परनिविष्टाङ्ग्यो मदस्नेहवशानुगाः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2654,12 +2830,15 @@ another woman slept on another woman's thigh and another slept on her breasts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यस्याङ्गसंस्पर्शात् प्रीयमाणाः सुमध्यमाः ।  
 एकीकृतभुजाः सर्वाः सुषुपुस्तत्र योषितः ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2698,12 +2877,15 @@ one another, with mutual limbs placed on one another.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यभुजसूत्रेण स्त्रीमाला ग्रथिता हि सा ।  
 मालेव ग्रथिता सूत्रे शुशुभे मत्तषट्पदा ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2722,6 +2904,7 @@ one another, with mutual limbs placed on one another.
 
 एक-दूसरीके बाहुरूपी सूत्रमें गुँथी हुई काले-काले केशोंवाली स्त्रियोंकी वह माला सूतमें पिरोयी हुई मतवाले भ्रमरोंसे युक्त पुष्पमालाकी भाँति शोभा पा रही थी ॥ ६३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2730,6 +2913,8 @@ one another, with mutual limbs placed on one another.
 प्रतिवेष्टितसुस्कन्धमन्योन्यभ्रमराकुलम् ।  
 आसीद् वनमिवोद्‍धूतं स्त्रीवनं रावणस्य तत् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2799,12 +2984,15 @@ flower garland with dragon flies on it tied in thread.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उचितेष्वपि सुव्यक्तं न तासां योषितां तदा ।  
 विवेकः शक्य आधातुं भूषणाङ्गाम्बरस्रजाम् ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2827,12 +3015,15 @@ flower garland with dragon flies on it tied in thread.
 
 * इस श्लोकमें ‘भ्रान्तिमान्’ नामक अलंकार है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणे सुखसंविष्टे ताः स्त्रियो विविधप्रभाः ।  
 ज्वलन्तः काञ्चना दीपाः प्रेक्षन्तो निमिषा इव ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2869,12 +3060,15 @@ seeing without closing eyes, those women of various glows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजर्षिविप्रदैत्यानां गन्धर्वाणां च योषितः ।  
 रक्षसां चाभवन् कन्यास्तस्य कामवशङ्गताः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2912,12 +3106,15 @@ those unmarried girls surrendered from lust to Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धकामेन ताः सर्वा रावणेन हृताः स्त्रियः ।  
 समदा मदनेनैव मोहिताः काश्चिदागताः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2969,6 +3166,7 @@ clothes of those women even for those used to them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2977,6 +3175,8 @@ clothes of those women even for those used to them.
 न चान्यकामापि न चान्यपूर्वा  
 विना वरार्हां जनकात्मजां तु ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3029,6 +3229,7 @@ there was no woman who had desire in another man, and there also was none with a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3037,6 +3238,8 @@ there was no woman who had desire in another man, and there also was none with a
 भार्याभवत् तस्य न हीनसत्त्वा  
 न चापि कान्तस्य न कामनीया ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3082,6 +3285,7 @@ causing desire to lover.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3090,6 +3294,8 @@ causing desire to lover.
 इमा महाराक्षसराजभार्याः  
 सुजातमस्येति हि साधुबुद्धेः ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3140,6 +3346,7 @@ manner as these wives of the king of rakshasas."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3148,6 +3355,8 @@ manner as these wives of the king of rakshasas."
 अथायमस्यां कृतवान् महात्मा  
 लङ्केश्वरः कष्टमनार्यकर्म ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3209,5 +3418,6 @@ with her.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऒम्भत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३२ कैशिकवंशकथा"
 title_english = "032 Story of vishvAmitra"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -29,12 +31,15 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
 
 द्वात्रिंशे — 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मयोनिर्महानासीत् कुशो नाम महातपाः ।  
 अक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजकः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।  
 वैदर्भ्यां जनयामास चतुरः सदृशान् सुतान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,6 +131,7 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,6 +140,8 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
 तानुवाच कुशः पुत्रान् धर्मिष्ठान् सत्यवादिनः ।  
 क्रियतां पालनं पुत्रा धर्मं प्राप्स्यथ पुष्कलम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +198,15 @@ _________________
 
 १. रामायणशिरोमणि नामक व्याख्याके निर्माताने ‘अमूर्तिरजसम्’ पाठ माना है । महाभारतके अनुसार इनका नाम ‘अमूर्तरयस्’ या ‘अमूर्तरया’ था (वन ९५ ।१७) । यहाँ इनके द्वारा धर्मारण्य नामक नगर बसानेका उल्लेख है । यह नगर धर्मारण्य नामक तीर्थभूत वनमें था । यह वन गयाके आस-पासका ही प्रदेश है । अमूर्तरयाके पुत्र गयने ही गया नामक नगर बसाया था । अतः धर्मारण्य और गयाकी एकता सिद्ध होती है । महाभारत वनपर्व (८४ ।८५) में गयाके ब्रह्मसरोवरको धर्मारण्यसे सुशोभित बताया गया है । (वन० ८२ ।४७) धर्मारण्यमें पितृ-पूजनकी महत्ता बतायी गयी है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशस्य वचनं श्रुत्वा चत्वारो लोकसत्तमाः ।  
 निवेशं चक्रिरे सर्वे पुराणां नृवरास्तदा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशाम्बस्तु महातेजाः कौशाम्बीमकरोत् पुरीम् ।  
 कुशनाभस्तु धर्मात्मा पुरं चक्रे महोदयम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +291,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असूर्तरजसो नाम धर्मारण्यं महामतिः ।  
 चक्रे पुरवरं राजा वसुनाम गिरिव्रजम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +420,15 @@ It is believed that the city Kaushambii is the present day Kannauj and
 
 इति मनु-वचनेन च पितुर् ऊर्ध्वम् एव विभाग-धनावगमात्, तत्-पूर्वं विभाग-द्रव्य-अभावाद् अनधिकार इति चेत्, जीवति पितरि पुष्कल-धर्माचरणाय तेनैव विभाग-करणे तद्-अनुज्ञया धर्मानुष्ठान-संभवात् । अत एव श्रुतिः — "मनुः पुत्रेभ्यो दायं व्यभजत" इति । आपस्तम्बो ऽपि — "जीवन् पुत्रेभ्यो दायं विभजेत् समम्" इति । गौतमो ऽपि — "जीवति चेच्छति पितरि" इति । तस्मात् पितुः कुशस्याज्ञया चतुर्भिः पुत्रैः पृथग्-धर्माचरणं यत् कृतं तद्-युक्तम् एव । रामेणापि स्वयम् एव स्व-पुत्राणां भ्रातृ-पुत्राणां च राज्यानि विभज्य दत्तानि । तद् उत्तर-काण्डे स्पष्टम् । अयं तु विभागः अधर्मिष्ठानां न भवति । तथा च मनुः — "सर्व एव वि-कर्मस्था नार्हन्ति भ्रातरो धनम्" इति । अत एव "धर्मिष्ठान् सत्य-वादिनः" इति तेषां विशेषणम् उक्तम् । तेषु कौशाम्ब्यादिषु,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा वसुमती नाम वसोस्तस्य महात्मनः ।  
 एते शैलवराः पञ्च प्रकाशन्ते समन्ततः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +469,15 @@ It is believed that the city Kaushambii is the present day Kannauj and
 
 * महाभारत सभापर्व (२१ । १—१०) में इन पाँचों पर्वतोंके नाम इस प्रकार वर्णित हैं—(१) विपुल, (२) वराह, (३) वृषभ (ऋषभ), (४) ऋषिगिरि (मातङ्ग) तथा (५) चैत्यक ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमागधी नदी रम्या मागधान् विश्रुताऽऽययौ ।  
 पञ्चानां शैलमुख्यानां मध्ये मालेव शोभते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +520,15 @@ This river is said to be the present day River Son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैषा हि मागधी राम वसोस्तस्य महात्मनः ।  
 पूर्वाभिचरिता राम सुक्षेत्रा सस्यमालिनी ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,12 +594,15 @@ The confluence of this river with Ganga is said as the one now available
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशनाभस्तु राजर्षिः कन्याशतमनुत्तमम् ।  
 जनयामास धर्मात्मा घृताच्यां रघुनन्दन ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,6 +644,7 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -620,6 +653,8 @@ Children begotten through celestial maidens are of superior nature for
 गायन्त्यो नृत्यमानाश्च वादयन्त्यस्तु राघव ।  
 आमोदं परमं जग्मुर्वराभरणभूषिताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +706,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ ताश्चारुसर्वाङ्ग्यो रूपेणाप्रतिमा भुवि ।  
 उद्यानभूमिमागम्य तारा इव घनान्तरे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +750,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः सर्वा गुणसम्पन्ना रूपयौवनसंयुताः ।  
 दृष्ट्वा सर्वात्मको वायुरिदं वचनमब्रवीत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +806,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं वः कामये सर्वा भार्या मम भविष्यथ ।  
 मानुषस्त्यज्यतां भावो दीर्घमायुरवाप्स्यथ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +850,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चलं हि यौवनं नित्यं मानुषेषु विशेषतः ।  
 अक्षयं यौवनं प्राप्ता अमर्यश्च भविष्यथ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +899,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा वायोरक्लिष्टकर्मणः ।  
 अपहास्य ततो वाक्यं कन्याशतमथाब्रवीत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +943,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तश्चरसि भूतानां सर्वेषां सुरसत्तम ।  
 प्रभावज्ञाश्च ते सर्वाः किमर्थमवमन्यसे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1000,15 @@ Children begotten through celestial maidens are of superior nature for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशनाभसुता देव समस्ताः सुरसत्तम ।  
 स्थानाच्च्यावयितुं देवं रक्षामस्तु तपो वयम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,12 +1060,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा भूत् स कालो दुर्मेधः पितरं सत्यवादिनम् ।  
 अवमन्य स्वधर्मेण स्वयंवरमुपास्महे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1105,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता हि प्रभुरस्माकं दैवतं परमं च सः ।  
 यस्य नो दास्यति पिता स नो भर्ता भविष्यति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,6 +1164,7 @@ _________________
 
  इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1109,6 +1172,8 @@ _________________
 प्रविश्य सर्वगात्राणि बभञ्ज भगवान् प्रभुः ॥ २३ ॥  
 अरत्निमात्राकृतयो भग्नगात्रा भयार्दिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1150,12 +1215,15 @@ On hearing their sentence of rejection, Vayu, the Air-god whose impact
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम् ।  
 प्रविश्य च सुसम्भ्रान्ताः सलज्जाः सास्रलोचनाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,12 +1274,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च ता दयिता भग्नाः कन्याः परमशोभनाः ।  
 दृष्ट्वा दीनास्तदा राजा सम्भ्रान्त इदमब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1247,6 +1318,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1254,6 +1326,8 @@ _________________
 कुब्जाः केन कृताः सर्वाश्चेष्टन्त्यो नाभिभाषथ ।  
 एवं राजा विनिःश्वस्य समाधिं सन्दधे ततः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1323,5 +1397,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॆरडनॆय सर्ग पूर्णवायितु. ॥32॥
+</details>
 </details>
 

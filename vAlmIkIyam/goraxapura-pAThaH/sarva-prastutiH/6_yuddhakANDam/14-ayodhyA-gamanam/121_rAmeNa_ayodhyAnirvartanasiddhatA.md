@@ -1,6 +1,8 @@
 +++
 title = "१२१ रामेण अयोध्यानिर्वर्तनसिद्धता"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ arranges the aerial car, Pushpaka to transport Rama and others to Ayodhya.
 
 121. श्रीरामका अयोध्या जानेके लिये उद्यत होना और उनकी आज्ञासे विभीषणका पुष्पकविमानको मँगाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रात्रिमुषितं रामं सुखोदितमरिन्दमम् ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं जयं पृष्ट्वा विभीषणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,12 +48,15 @@ arranges the aerial car, Pushpaka to transport Rama and others to Ayodhya.
 
 अन्दिन रात्रॆ विश्रान्ति पडॆदु शत्रुसूदन श्रीरामनु मरुदिन प्रातःकालदल्लि सुखवागि ऎच्चरगॊण्डाग कुशल प्रश्नॆगळ बळिक विभीषणनु कैमुगिदु हेळिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्नानानि चाङ्गरागाणि वस्त्राण्याभरणानि च ।  
 चन्दनानि च माल्यानि दिव्यानि विविधानि च ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +76,15 @@ _________________
 
 रघुनन्दन! स्नानक्कागि नीरु, अङ्गराग, वस्त्र, अभूषण, चन्दन, बगॆ-बगॆय मूलॆगळु निन्न सेवॆगागि सिद्धवागिवॆ.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलङ्कारविदश्चैता नार्यः पद्मनिभेक्षणाः ।  
 उपस्थितास्त्वां विधिवत् स्नापयिष्यन्ति राघव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,12 +101,15 @@ _________________
 
 रघुवीरने! शृङ्गार कलॆयन्नु तिळिदिरुव कमलाक्षियराद ई नारियरू कूड निन्न सेवॆगागि बन्दु निन्तिरुवरु. इवरु विधिवत्तागि निनगॆ स्नानमाडिसुवरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु काकुत्स्थः प्रत्युवाच विभीषणम् ।  
 हरीन् सुग्रीवमुख्यांस्त्वं स्नानेनोपनिमन्त्रय ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -132,12 +146,15 @@ headed by Sugreeva for the bath."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु ताम्यति धर्मात्मा मम हेतोः सुखोचितः ।  
 सुकुमारो महाबाहुर्भरतः सत्यसंश्रयः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -177,12 +194,15 @@ the great-armed and the one consistent with the truth is suffering on my account
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं विना कैकयीपुत्रं भरतं धर्मचारिणम् ।  
 न मे स्नानं बहु मतं वस्त्राण्याभरणानि च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +245,15 @@ bathing, garments and jewels are not to my liking."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् पश्य यथा क्षिप्रं प्रतिगच्छाम तां पुरीम् ।  
 अयोध्यां गच्छतो ह्येष पन्थाः परमदुर्गमः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +293,15 @@ travel over this path to reach Ayodhya City, so soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु काकुत्स्थं प्रत्युवाच विभीषणः ।  
 अह्ना त्वां प्रापयिष्यामि तां पुरीं पार्थिवात्मज ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +335,7 @@ City in a day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -317,6 +344,8 @@ City in a day."
 हृतं निर्जित्य सङ्ग्रामे कामगं दिव्यमुत्तमम् ।  
 त्वदर्थं पालितं चेदं तिष्ठत्यतुलविक्रम ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +392,15 @@ sake."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं मेघसङ्काशं विमानमिह तिष्ठति ।  
 येन यास्यसि यानेन त्वमयोध्यां गतज्वरः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,6 +437,7 @@ you can reach Ayodhya without any trouble."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -413,6 +446,8 @@ you can reach Ayodhya without any trouble."
 लक्ष्मणेन सह भ्रात्रा वैदेह्या भार्यया सह ।  
 अर्चितः सर्वकामैस्त्वं ततो राम गमिष्यसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,12 +501,15 @@ here for some more time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रीतियुक्तस्य विहितां ससैन्यः ससुहृद‍्गणः ।  
 सत्क्रियां राम मे तावद् गृहाण त्वं मयोद्यताम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +544,15 @@ friends, my hospitality which has been fixed and arranged by me, full of affecti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणयाद् बहुमानाच्च सौहार्देन च राघव ।  
 प्रसादयामि प्रेष्योऽहं न खल्वाज्ञापयामि ते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +589,15 @@ am not in any way commanding you to do so."
 
 रघुवीर! नानु केवल प्रेम, सम्मान, सौहार्ददिन्दले निम्मल्लि प्रार्थिसुत्तिद्देनॆ. निम्मन्नु प्रसन्न गॊळिसलु बयसुत्तिद्देनॆ. नानु निम्म सेवकनाद्दरिन्द निम्मल्लि विनन्तिसिकॊळ्ळुवॆनु; आज्ञॆ कॊडुत्तिल्ल.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्ततो रामः प्रत्युवाच विभीषणम् ।  
 रक्षसां वानराणां च सर्वेषामेव शृण्वताम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +656,15 @@ following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजितोऽस्मि त्वया वीर साचिव्येन परेण च ।  
 सर्वात्मना च चेष्टाभिः सौहार्देन परेण च ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,6 +707,7 @@ your efforts put forth with your whole soul and more so by your friendship.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -668,6 +716,8 @@ your efforts put forth with your whole soul and more so by your friendship.
 मां निवर्तयितुं योऽसौ चित्रकूटमुपागतः ।  
 शिरसा याचतो यस्य वचनं न कृतं मया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,12 +754,15 @@ hastening to see that Bharata, my brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यां च सुमित्रां च कैकेयीं च यशस्विनीम् ।  
 गुहं च सुहृदं चैव पौराञ्जानपदैः सह ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,12 +807,15 @@ country-side."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुजानीहि मां सौम्य पूजितोऽस्मि विभीषण ।  
 मन्युर्न खलु कर्तव्यः सखे त्वां चानुमानये ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -793,12 +849,15 @@ disappointed, I entreat you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थापय मे शीघ्रं विमानं राक्षसेश्वर ।  
 कृतकार्यस्य मे वासः कथं स्यादिह सम्मतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +897,15 @@ continued stay here, now that my task has been accomplished?"
 
 राक्षसराजने! ईग शीघ्रवागि ननगागि पुष्पक विमानवन्नु तरिसु. इल्लिय नन्न कार्यपूर्णवाद मेलॆ इल्लि निल्लुवुदु ननगॆ हेगॆ सरियागबल्लदु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण राक्षसेन्द्रो विभीषणः ।  
 विमानं सूर्यसङ्काशमाजुहाव त्वरान्वितः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -860,12 +922,15 @@ continued stay here, now that my task has been accomplished?"
 
 श्रीरामचन्द्रनु हीगॆ हेळिदाग राक्षसराज विभीषणनु लगुबगॆयिन्द आ सूर्यतुल्य तेजस्वी विमानवन्नु आह्वानिसिदनु.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः काञ्चनचित्राङ्गं वैदूर्यमणिवेदिकम् ।  
 कूटागारैः परिक्षिप्तं सर्वतो रजतप्रभम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -885,12 +950,15 @@ _________________
 
 आ विमानद प्रतियॊन्दु भाग चिन्नदिन्द मुच्चित्तु, अदरिन्द अदु विचित्रवागि शोभिसुत्तित्तु. अदरॊळगॆ वैढूर्यमणिय वेदिगळिद्दवु, अल्लल्लि गुप्तगृह गळिद्दु अदु ऎल्लॆडॆ बॆळ्ळियन्तॆ हॊळॆयुत्तित्तु.॥24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुराभिः पताकाभिर्ध्वजैश्च समलङ्कृतम् ।  
 शोभितं काञ्चनैर्हर्म्यैर्हेमपद्मविभूषितैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,12 +998,15 @@ kinds. They will assist you in bathing O Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकीर्णं किङ्किणीजालैर्मुक्तामणिगवाक्षकम् ।  
 घण्टाजालैः परिक्षिप्तं सर्वतो मधुरस्वनम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1023,15 @@ kinds. They will assist you in bathing O Rama!"
 
 अदर सुत्तलु सण्ण-सण्ण गण्टॆगळ जाररिगळु इद्दवु. अदरल्लि मुत्तु मत्तु मणिगळ किडकिगळिद्दु, मधुर ध्वनि हॊरडिसुव गण्टॆगळु कट्टिद्दरु.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मेरुशिखराकारं निर्मितं विश्वकर्मणा ।  
 बृहद्भिर्भूषितं हर्म्यैर्मुक्तारजतशोभितैः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1048,15 @@ kinds. They will assist you in bathing O Rama!"
 
 विश्वकर्मनिन्द निर्मिसल्पट्ट आ विमानवु सुमेरु शिखरदन्तॆ ऎत्तरवागिद्दु मुत्तु बॆळ्ळियिन्द सुसज्जित दॊड्ड दॊड्ड कोणॆगळिन्द विभूषितवागित्तु.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तलैः स्फटिकचित्राङ्गैर्वैदूर्यैश्च वरासनैः ।  
 महार्हास्तरणोपेतैरुपपन्नं महाधनैः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,12 +1119,15 @@ coverings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थितमनाधृष्यं तद् विमानं मनोजवम् ।  
 निवेदयित्वा रामाय तस्थौ तत्र विभीषणः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,6 +1161,7 @@ as though- had arrived, Vibhishana stood there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1089,6 +1170,8 @@ as though- had arrived, Vibhishana stood there.
 दृष्ट्वा तदा विस्मयमाजगाम  
 रामः ससौमित्रिरुदारसत्त्वः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,5 +1227,6 @@ on that occasion.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तॊन्दनॆय सर्ग पूर्णवायितु.॥121॥
+</details>
 </details>
 

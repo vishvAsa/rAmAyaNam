@@ -2,6 +2,8 @@
 title = "०७७ निकुम्भेन युद्धभूमिप्रवेशः"
 title_english = "077 Kumbha s brother Nikumbha faces the battle"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ with his fist, catches his head and tears it off. Thus, Nikumbha dies at the han
 
 77. हनुमान् के द्वारा निकुम्भका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकुम्भो भ्रातरं दृष्ट्वा सुग्रीवेण निपातितम् ।  
 प्रदहन्निव कोपेन वानरेन्द्रमुदैक्षत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ it would burn him into ashes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स्रग्दामसन्नद्धं दत्तपञ्चाङ्गुलं शुभम् ।  
 आददे परिघं धीरो महेन्द्रशिखरोपमम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,12 +113,15 @@ in breadth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हेमपट्टपरिक्षिप्तं वज्रविद्रुमभूषितम् ।  
 यमदण्डोपमं भीमं रक्षसां भयनाशनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,12 +155,15 @@ the death-dealing rod of Yama, it seemed causing dismay to the monkeys and nervi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमाविध्य महातेजाः शक्रध्वजसमौजसम् ।  
 निननाद विवृत्तास्यो निकुम्भो भीमविक्रमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,6 +197,7 @@ prowess, roared with his mouth yawing wide.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,6 +206,8 @@ prowess, roared with his mouth yawing wide.
 निकुम्भो भूषणैर्भाति तेन स्म परिघेण च ।  
 यथेन्द्रधनुषा मेघः सविद्युत्स्तनयित्नुमान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ with a vivid rainbow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिघाग्रेण पुस्फोट वातग्रन्थिर्महात्मनः ।  
 प्रजज्वाल सघोषश्च विधूम इव पावकः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,6 +296,7 @@ splendour, on the breast of that mighty Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,6 +304,8 @@ splendour, on the breast of that mighty Hanuma.
 सतारागणनक्षत्रं सचन्द्रसमहाग्रहम् ।  
 निकुम्भपरिघाघूर्णं भ्रमतीव नभस्थलम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,12 +353,15 @@ planets joining the rotating race.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुरासदश्च सञ्जज्ञे परिघाभरणप्रभः ।  
 क्रोधेन्धनो निकुम्भाग्निर्युगान्ताग्निरिवोत्थितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,12 +396,15 @@ of the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसा वानराश्चापि न शेकुः स्पन्दितुं भयात् ।  
 हनुमांस्तु विवृत्योरस्तस्थौ प्रमुखतो बली ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +440,15 @@ in front of Nikumbha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिघोपमबाहुस्तु परिघं भास्करप्रभम् ।  
 बली बलवतस्तस्य पातयामास वक्षसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +482,15 @@ splendour, on the breast of that mighty Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थिरे तस्योरसि व्यूढे परिघः शतधा कृतः ।  
 विकीर्यमाणः सहसा उल्काशतमिवाम्बरे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +524,15 @@ into hundreds of fragments, like hundreds of meteors shattering into the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण न चचाल महाकपिः ।  
 परिघेण समाधूतो यथा भूमिचलेऽचलः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +570,15 @@ That Hanuma, struck by that blow of the club, was unmoved like a mountain in an 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथाभिहतस्तेन हनूमान् प्लवगोत्तमः ।  
 मुष्टिं संवर्तयामास बलेनातिमहाबलः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -578,12 +619,15 @@ Thus struck by him, the mighty Hanuma the monkey-chief clenched his fist forcibl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुद्यम्य महातेजा निकुम्भोरसि वीर्यवान् ।  
 अभिचिक्षेप वेगेन वेगवान् वायुविक्रमः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +661,15 @@ his father, lifting that fist, struck it against, Nikumbha's breast with force.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र पुस्फोट वर्मास्य प्रसुस्राव च शोणितम् ।  
 मुष्टिना तेन सञ्जज्ञे मेघे विद्युदिवोत्थिता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +706,15 @@ out, as a black cloud streaked suddenly with fierce lightning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण निकुम्भो विचचाल च ।  
 स्वस्थश्चापि निजग्राह हनूमन्तं महाबलम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +753,15 @@ of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चुक्रुशुश्च तदा सङ्ख्ये भीमं लङ्कानिवासिनः ।  
 निकुम्भेनोद्यतं दृष्ट्वा हनूमन्तं महाबलम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +797,15 @@ from the ranks of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथा ह्रियमाणोऽपि हनूमांस्तेन रक्षसा ।  
 आजघानानिलसुतो वज्रकल्पेन मुष्टिना ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +848,15 @@ struck him with his thunderbolt-like fist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानं मोक्षयित्वाथ क्षितावभ्यवपद्यत ।  
 हनूमानुन्ममाथाशु निकुम्भं मारुतात्मजः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,6 +890,7 @@ ground and treated him with blows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -839,6 +899,8 @@ ground and treated him with blows.
 परिगृह्य च बाहुभ्यां परिवृत्य शिरोधराम् ।  
 उत्पाटयामास शिरो भैरवं नदतो महत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,6 +958,7 @@ leaped on his chest and pounded it mercilessly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -904,6 +967,8 @@ leaped on his chest and pounded it mercilessly.
 दशरथसुतराक्षसेन्द्रसून्वो-  
 र्भृशतरमागतरोषयोः सुभीमम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,6 +1005,7 @@ terrific struggle between the enraged Rama and Makaraksha, son of Khara, a ruler
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -948,6 +1014,8 @@ terrific struggle between the enraged Rama and Makaraksha, son of Khara, a ruler
 चचालेव चोर्वी पपातेव सा द्यौ-  
 र्बलं राक्षसानां भयं चाविवेश ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,5 +1077,6 @@ the army of demons.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तेळनॆय सर्ग पूर्णवायितु.॥77॥
+</details>
 </details>
 

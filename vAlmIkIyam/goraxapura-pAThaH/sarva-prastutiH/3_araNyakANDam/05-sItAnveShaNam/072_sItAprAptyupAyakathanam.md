@@ -2,6 +2,8 @@
 title = "०७२ सीताप्राप्त्युपायकथनम्"
 title_english = "072 Kabandha advises Rama to meet Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ get help as requital from Sugreeva.
 
 72. श्रीराम और लक्ष्मणके द्वारा चिताकी आगमें कबन्धका दाह तथा उसका दिव्य रूपमें प्रकट होकर उन्हें सुग्रीवसे मित्रता करनेके लिये कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तौ तु तौ वीरौ कबन्धेन नरेश्वरौ ।  
 गिरिप्रदरमासाद्य पावकं विससर्जतुः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -50,12 +55,15 @@ get help as requital from Sugreeva.
 
 कबन्धनु हीगॆ हेळिदाग आ इब्बरू वीर नरेश्वर श्रीराम-लक्ष्मणरु अवन शरीरवन्नु ऒन्दु पर्वतद हॊण्डदल्लि हाकि अदक्कॆ बॆङ्कियिट्टरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्तु महोल्काभिर्ज्वलिताभिः समन्ततः ।  
 चितामादीपयामास सा प्रजज्वाल सर्वतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,12 +86,15 @@ get help as requital from Sugreeva.
 
 लक्ष्मणनु उरियुत्तिरुव कॊळ्ळिगळिन्द चितॆय सुत्तलू बॆङ्कियन्नु हॊत्तिसिदनु. मत्तॆ अदु ऎल्ल कडॆयिन्द धग-धगनॆ उरियहत्तितु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छरीरं कबन्धस्य घृतपिण्डोपमं महत् ।  
 मेदसा पच्यमानस्य मन्दं दहत पावकः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,12 +138,15 @@ dish, because of that body's massiveness. [3-72-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सविधूय चितामाशु विधूमोऽग्निरिवोत्थितः ।  
 अरजे वाससी बिभ्रन्माल्यं दिव्यं महाबलः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,6 +186,7 @@ vestments and angelic garlands, and appeared like a fumeless fire. [3-72-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,6 +196,8 @@ vestments and angelic garlands, and appeared like a fumeless fire. [3-72-4]
 प्रभया च महातेजा दिशो दश विराजयन् ॥ ६ ॥  
 सोऽन्तरिक्षगतो वाक्यं कबन्धो राममब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +271,7 @@ clothing, and fineries decorated on every limb. [3-72-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,6 +279,8 @@ clothing, and fineries decorated on every limb. [3-72-5]
 राम षड् युक्तयो लोके याभिः सर्वं विमृश्यते ।  
 परिमृष्टो दशान्तेन दशाभागेन सेव्यते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ for proper time; 5] *dvaidhii bhaava* creating factions and vicissitudes in enem
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशाभागगतो हीनस्त्वं हि राम सलक्ष्मणः ।  
 यत्कृते व्यसनं प्राप्तं त्वया दारप्रधर्षणम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,12 +383,15 @@ one, and that spell alone has obtained you this dire straits, in the form of abd
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदवश्यं त्वया कार्यः स सुहृत् सुहृदां वर ।  
 अकृत्वा नहि ते सिद्धिमहं पश्यामि चिन्तयन् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,12 +434,15 @@ with such a soul... [3-72-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां राम वक्ष्यामि सुग्रीवो नाम वानरः ।  
 भ्रात्रा निरस्तः क्रुद्धेन वालिना शक्रसूनुना ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ brother Vali, the son of Indra... [3-72-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूके गिरिवरे पम्पापर्यन्तशोभिते ।  
 निवसत्यात्मवान् वीरश्चतुर्भिः सह वानरैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,6 +523,7 @@ the lambent fringes of Pampa Lake, along with four other vanara-s. [3-72-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -498,6 +531,8 @@ the lambent fringes of Pampa Lake, along with four other vanara-s. [3-72-12]
 सत्यसन्धो विनीतश्च धृतिमान् मतिमान् महान् ॥ १३ ॥  
 दक्षः प्रगल्भो द्युतिमान् महाबलपराक्रमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,6 +574,7 @@ a taskmaster... [3-72-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,6 +582,8 @@ a taskmaster... [3-72-13]
 स ते सहायो मित्रं च सीतायाः परिमार्गणे ।  
 भविष्यति हि ते राम मा च शोके मनः कृथाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -610,12 +648,15 @@ but he is banished by his self-conceited brother owing to the reasons of kingdom
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवितव्यं हि तच्चापि न तच्छक्यमिहान्यथा ।  
 कर्तुमिक्ष्वाकुशार्दूल कालो हि दुरतिक्रमः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,12 +699,15 @@ and it is impossible to countervail against Time, isn't it... [3-72-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छ शीघ्रमितो वीर सुग्रीवं तं महाबलम् ।  
 वयस्यं तं कुरु क्षिप्रमितो गत्वाद्य राघव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +751,15 @@ you two, you make him a friend before blazing Fire, making that Fire as an Attes
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्रोहाय समागम्य दीप्यमाने विभावसौ ।  
 न च ते सोऽवमन्तव्यः सुग्रीवो वानराधिपः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +800,15 @@ render help he will be obligated to you for ever... [3-72-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतज्ञः कामरूपी च सहायार्थी च वीर्यवान् ।  
 शक्तौ ह्यद्य युवां कर्तुं कार्यं तस्य चिकीर्षितम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +849,15 @@ own purpose is achieved through you or not, he will effectuate your task... [3-7
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतार्थो वाकृतार्थो वा तव कृत्यं करिष्यति ।  
 स ऋक्षरजसः पुत्रः पम्पामटति शङ्कितः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,6 +900,7 @@ Wary of Vali's onslaughts Sugreeva is wandering around Pampa... [3-72-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -854,6 +908,8 @@ Wary of Vali's onslaughts Sugreeva is wandering around Pampa... [3-72-20b, 21a]
 सन्निधायायुधं क्षिप्रमृष्यमूकालयं कपिम् ॥ २१ ॥  
 कुरु राघव सत्येन वयस्यं वनचारिणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +990,15 @@ into a mountain cleft and then embedded it with firewood. [3-72-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि स्थानानि कात्स्‍न्‍‍र्येन सर्वाणि कपिकुञ्जरः ॥ २२ ॥  
 नरमांसाशिनां लोके नैपुण्यादधिगच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -984,12 +1043,15 @@ of anthropophagite demons in the world in their entirety... [3-72-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तस्याविदितं लोके किञ्चिदस्ति हि राघव ॥ २३ ॥  
 यावत् सूर्यः प्रतपति सहस्रांशुः परन्तप ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,12 +1092,15 @@ thus far, nothing in the least is unfamiliar to him, isn't it... [3-72-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नदीर्विपुलान् शैलान् गिरिदुर्गाणि कन्दरान् ॥ २४ ॥  
 अन्विष्य वानरैः सार्धं पत्नीं तेऽधिगमिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,6 +1144,7 @@ impassable cliffs and caves in locating your wife... [3-72-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1086,6 +1152,8 @@ impassable cliffs and caves in locating your wife... [3-72-24b, 25a]
 दिशो विचेतुं तां सीतां त्वद्वियोगेन शोचतीम् ।  
 अन्वेष्यति वरारोहां मैथिलीं रावणालये ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,6 +1198,7 @@ by your parting, and he quests after the residence of Ravana for that comely lad
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1138,6 +1207,8 @@ by your parting, and he quests after the residence of Ravana for that comely lad
 प्लवङ्गमानामृषभस्तव प्रियां  
 निहत्य रक्षांसि पुनः प्रदास्यति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,5 +1266,6 @@ to Rama regarding Sugreeva. [3-72-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्ष रामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥72॥
+</details>
 </details>
 

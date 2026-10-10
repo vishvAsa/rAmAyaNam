@@ -2,6 +2,8 @@
 title = "०६४ रामसन्तापः"
 title_english = "064 Rama finds Seetha s flowers and jewelry"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,6 +25,7 @@ countermove the universe, even by waging a war with gods.
 
 64. श्रीराम और लक्ष्मणके द्वारा सीताकी खोज, श्रीरामका शोकोद‍्गार, मृगोंद्वारा संकेत पाकर दोनों भाइयोंका दक्षिण दिशाकी ओर जाना, पर्वतपर क्रोध, सीताके बिखरे हुए फूल, आभूषणोंके कण और युद्धके चिह्न देखकर श्रीरामका देवता आदि सहित समस्त त्रिलोकीपर रोष प्रकट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ countermove the universe, even by waging a war with gods.
 शीघ्रं लक्ष्मण जानीहि गत्वा गोदावरीं नदीम् ॥ १ ॥  
 अपि गोदावरीं सीता पद्मान्यानयितुं गता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ lotuses..." [3-64-1, 2a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण लक्ष्मणः पुनरेव हि ॥ २ ॥  
 नदीं गोदावरीं रम्यां जगाम लघुविक्रमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ quickening his pace. [3-64-2b, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां लक्ष्मणस्तीर्थवतीं विचित्वा राममब्रवीत् ॥ ३ ॥  
 नैनां पश्यामि तीर्थेषु क्रोशतो न शृणोति मे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ shouted for her. [3-64-3b, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कं नु सा देशमापन्ना वैदेही क्लेशनाशिनी ॥ ४ ॥  
 नहि तं वेद्मि वै राम यत्र सा तनुमध्यमा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ Vaidehi, has got round to, or where that frailty is, that place is really incomp
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य वचः श्रुत्वा दीनः सन्तापमोहितः ॥ ५ ॥  
 रामः समभिचक्राम स्वयं गोदावरीं नदीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +254,7 @@ Vaidehi, has got round to, or where that frailty is, that place is really incomp
 
 लक्ष्मणन मातन्नु केळि दीननाद मत्तु सन्तापदिन्द मोहितनाद श्रीरामचन्द्रनु स्वतः गोदावरी तीरक्कॆ होदनु.॥5½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -244,6 +262,8 @@ Vaidehi, has got round to, or where that frailty is, that place is really incomp
 भूतानि राक्षसेन्द्रेण वधार्हेण हृतामपि ।  
 न तां शशंसू रामाय तथा गोदावरी नदी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ in this way, "Seetha... where are you?" [3-64-5b, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रचोदिता भूतैः शंस चास्मै प्रियामिति ।  
 न च सा ह्यवदत् सीतां पृष्टा रामेण शोचता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +374,15 @@ about Seetha. [3-64-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य च तद्‍रूपं कर्मापि च दुरात्मनः ।  
 ध्यात्वा भयात् तु वैदेहीं सा नदी न शशंस ह ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +426,15 @@ recalling the mien and manoeuvres of malefic-minded Ravana, lest Ravana may drai
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निराशस्तु तया नद्या सीताया दर्शने कृतः ।  
 उवाच रामः सौमित्रिं सीतादर्शनकर्शितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,6 +476,7 @@ Seetha, and such a Rama spoke to Saumitri. [3-64-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -454,6 +484,8 @@ Seetha, and such a Rama spoke to Saumitri. [3-64-10]
 किं नु लक्ष्मण वक्ष्यामि समेत्य जनकं वचः ॥ ११ ॥  
 मातरं चैव वैदेह्या विना तामहमप्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +532,15 @@ father king Janaka, also thus to Vaidehi's mother-in-law and my mother Kausalya,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या मे राज्यविहीनस्य वने वन्येन जीवतः ॥ १२ ॥  
 सर्वं व्यपानयच्छोकं वैदेही क्व नु सा गता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +584,15 @@ surviving in forests on forest produce, such as she is, where has she gone, real
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातिवर्गविहीनस्य वैदेहीमप्यपश्यतः ॥ १३ ॥  
 मन्ये दीर्घा भविष्यन्ति रात्रयो मम जाग्रतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +636,15 @@ sleepless nights would be lengthy. [3-64-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्दाकिनीं जनस्थानमिमं प्रस्रवणं गिरिम् ॥ १४ ॥  
 सर्वाण्यनुचरिष्यामि यदि सीता हि लभ्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +694,15 @@ River Ganga.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते महामृगा वीर मामीक्षन्ते पुनः पुनः ॥ १५ ॥  
 वक्तुकामा इह हि मे इङ्गितान्युपलक्षये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,6 +745,7 @@ oh, brave Lakshmana, this I reckon with their body language as it were. [3-64-15
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -709,6 +754,8 @@ oh, brave Lakshmana, this I reckon with their body language as it were. [3-64-15
 एवमुक्ता नरेन्द्रेण ते मृगाः सहसोत्थिताः ॥ १७ ॥  
 दक्षिणाभिमुखाः सर्वे दर्शयन्तो नभःस्थलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +797,15 @@ with a voice stifled with tears, "where is Seetha?" [3-64-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैथिली ह्रियमाणा सा दिशं यामभ्यपद्यत ॥ १८ ॥  
 तेन मार्गेण गच्छन्तो निरीक्षन्ते नराधिपम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -795,6 +845,7 @@ are repeatedly running, stopping and staring at Rama. [3-64-17b, 18, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -802,6 +853,8 @@ are repeatedly running, stopping and staring at Rama. [3-64-17b, 18, 19a]
 पुनर्नदन्तो गच्छन्ति लक्ष्मणेनोपलक्षिताः ।  
 तेषां वचनसर्वस्वं लक्षयामास चेङ्गितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,6 +917,7 @@ course, Lakshmana ascertained that reason. [3-64-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,6 +927,8 @@ course, Lakshmana ascertained that reason. [3-64-19b, 20a]
 साधु गच्छावहे देव दिशमेतां च नैर्ऋतीम् ॥ २२ ॥  
 यदि तस्यागमः कश्चिदार्या वा साथ लक्ष्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,12 +981,15 @@ information about her, or else, even that noble lady herself may be available th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाढमित्येव काकुत्स्थः प्रस्थितो दक्षिणां दिशम् ॥ २३ ॥  
 लक्ष्मणानुगतः श्रीमान् वीक्षमाणो वसुन्धराम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1030,15 @@ southern direction followed by Lakshmana, scrutinising the earth on his walkway.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्भाषमाणौ तावन्योन्यं भ्रातरावुभौ ॥ २४ ॥  
 वसुन्धरायां पतितपुष्पमार्गमपश्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,12 +1078,15 @@ the walkway bestrewn with flowers fallen from a person. [3-64-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पवृष्टिं निपतितां दृष्ट्वा रामो महीतले ॥ २५ ॥  
 उवाच लक्ष्मणं वीरो दुःखितो दुःखितं वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,12 +1120,15 @@ surface of earth spoke this word to Lakshmana who is equally anguished. [3-64-25
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिजानामि पुष्पाणि तानीमानीह लक्ष्मण ॥ २६ ॥  
 अपिनद्धानि वैदेह्या मया दत्तानि कानने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1103,12 +1171,15 @@ them to Vaidehi and she tucked these very flowers in her bun. [3-64-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये सूर्यश्च वायुश्च मेदिनी च यशस्विनी ॥ २७ ॥  
 अभिरक्षन्ति पुष्पाणि प्रकुर्वन्तो मम प्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1150,12 +1221,15 @@ that these naturals, sun, air, and earth are really proffering a helping hand to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाबाहुर्लक्ष्मणं पुरुषर्षभम् ॥ २८ ॥  
 उवाच रामो धर्मात्मा गिरिं प्रस्रवणाकुलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,12 +1269,15 @@ asked the mountain that is uproarious with rapids. [3-64-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् क्षितिभृतां नाथ दृष्टा सर्वाङ्गसुन्दरी ॥ २९ ॥  
 रामा रम्ये वनोद्देशे मया विरहिता त्वया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1259,6 +1336,7 @@ next lines.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1266,6 +1344,8 @@ next lines.
 तां हेमवर्णां हेमाङ्गीं सीतां दर्शय पर्वत ।  
 यावत् सानूनि सर्वाणि न ते विध्वंसयाम्यहम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1315,12 +1395,15 @@ mountain, no sooner than I devastate all your apices, apiece..." [3-64-30b, 31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण पर्वतो मैथिलीं प्रति ।  
 दर्शयन्निव तां सीतां नादर्शयत राघवे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1369,6 +1452,7 @@ it to his arrows atrocity, now itself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1376,6 +1460,8 @@ it to his arrows atrocity, now itself.
 मम बाणाग्निनिर्दग्धो भस्मीभूतो भविष्यसि ॥ ३३ ॥  
 असेव्यः सर्वतश्चैव निस्तृणद्रुमपल्लवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1425,12 +1511,15 @@ becoming so... [3-64-33, 34a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां वा सरितं चाद्य शोषयिष्यामि लक्ष्मण ॥ ३४ ॥  
 यदि नाख्याति मे सीतामद्य चन्द्रनिभाननाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1473,12 +1562,15 @@ moonshine-faced Seetha, now I will dry her up... [3-64-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्ररुषितो रामो दिधक्षन्निव चक्षुषा ॥ ३५ ॥  
 ददर्श भूमौ निष्क्रान्तं राक्षसस्य पदं महत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1498,12 +1590,15 @@ _________________
 
 हीगॆ हेळि रोषगॊण्डु श्रीरामचन्द्रनु तन्न दृष्टियिन्दले सुट्टु बूदि माडिबिडुवन्तॆ अदर कडॆगॆ नोडिदनु. अष्टरल्लि आ पर्वत मत्तु गोदावरिय समीपद भूमियल्लि राक्षसन विशालपाद चिह्नॆ मूडिदुदु कण्डु बन्तु.॥35½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रस्ताया रामकाङ्क्षिण्याः प्रधावन्त्या इतस्ततः ॥ ३६ ॥  
 राक्षसेनानुसृप्ताया वैदेह्याश्च पदानि तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1544,6 +1639,7 @@ arrival of Rama, and which footprints are heavily trodden by a demon who followe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1551,6 +1647,8 @@ arrival of Rama, and which footprints are heavily trodden by a demon who followe
 भग्नं धनुश्च तूणी च विकीर्णं बहुधा रथम् ।  
 सम्भ्रान्तहृदयो रामः शशंस भ्रातरं प्रियम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1595,12 +1693,15 @@ and said to his dear brother Lakshmana. [3-64-37b, 38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण वैदेह्या कीर्णाः कनकबिन्दवः ।  
 भूषणानां हि सौमित्रे माल्यानि विविधानि च ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1640,12 +1741,15 @@ indeed fallen down, and oh, Soumitri, they are strewn around... [3-64-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्तबिन्दुनिकाशैश्च चित्रैः क्षतजबिन्दुभिः ।  
 आवृतं पश्य सौमित्रे सर्वतो धरणीतलम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,12 +1789,15 @@ drops that are akin to golden droplets, you see them Saumitri... [3-64-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये लक्ष्मण वैदेही राक्षसैः कामरूपिभिः ।  
 भित्त्वा भित्त्वा विभक्ता वा भक्षिता वा भविष्यति ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1725,12 +1832,15 @@ divided her into pieces, or they might have gluttonised her. [3-64-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या निमित्तं सीताया द्वयोर्विवदमानयोः ।  
 बभूव युद्धं सौमित्रे घोरं राक्षसयोरिह ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1773,12 +1883,15 @@ themselves on account of Vaidehi... [3-64-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तामणिचितं चेदं रमणीयं विभूषितम् ।  
 धरण्यां पतितं सौम्य कस्य भग्नं महद् धनुः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1822,12 +1935,15 @@ may perhaps belong to demons, or else to gods... [3-64-43, 44a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानामिदं वत्स सुराणामथवापि वा ।  
 तरुणादित्यसङ्काशं वैदूर्यगुलिकाचितम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1867,6 +1983,7 @@ sun in its shine, but it is splintered and fallen to earth... [3-64-44b, 45a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1874,6 +1991,8 @@ sun in its shine, but it is splintered and fallen to earth... [3-64-44b, 45a]
 छत्रं शतशलाकं च दिव्यमाल्योपशोभितम् ॥ ४५ ॥  
 भग्नदण्डमिदं सौम्य भूमौ कस्य निपातितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1920,12 +2039,15 @@ but oh, gentle Lakshmana, its central-shaft is wrecked and it is felled to earth
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काञ्चनोरश्छदाश्चेमे पिशाचवदनाः खराः ॥ ४६ ॥  
 भीमरूपा महाकायाः कस्य वा निहता रणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1968,12 +2090,15 @@ frame, but they are hewed down in war, whose are they, either... [3-64-46b, 47a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्तपावकसङ्काशो द्युतिमान् समरध्वजः ॥ ४७ ॥  
 अपविद्धश्च भग्नश्च कस्य साङ्ग्रामिको रथः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2017,12 +2142,15 @@ with a war-pennon, but it is broken and battered down, as well... [3-64-47b, 48a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथाक्षमात्रा विशिखास्तपनीयविभूषणाः ॥ ४८ ॥  
 कस्येमे निहता बाणाः प्रकीर्णा घोरदर्शनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2073,12 +2201,15 @@ axle...' Some others said the size of arrow is eighty-four inches according to s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरावरौ शरैः पूर्णौ विध्वस्तौ पश्य लक्ष्मण ॥ ४९ ॥  
 प्रतोदाभीषुहस्तोऽयं कस्य वा सारथिर्हतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2135,6 +2266,7 @@ the above verse may somewhat be,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2142,6 +2274,8 @@ the above verse may somewhat be,
 वैरं शतगुणं पश्य मम तैर्जीवितान्तकम् ।  
 सुघोरहृदयैः सौम्य राक्षसैः कामरूपिभिः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2192,12 +2326,15 @@ eliminated...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृता मृता वा वैदेही भक्षिता वा तपस्विनी ।  
 न धर्मस्त्रायते सीतां ह्रियमाणां महावने ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2242,12 +2379,15 @@ rightness safeguards?' is the ensuing dilemma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्षितायां हि वैदेह्यां हृतायामपि लक्ष्मण ।  
 के हि लोके प्रियं कर्तुं शक्ताः सौम्य ममेश्वराः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2293,12 +2433,15 @@ other...' Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्तारमपि लोकानां शूरं करुणवेदिनम् ।  
 अज्ञानादवमन्येरन् सर्वभूतानि लक्ष्मण ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2339,12 +2482,15 @@ unenlightenment of those beings... [3-64-54]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृदुं लोकहिते युक्तं दान्तं करुणवेदिनम् ।  
 निर्वीर्य इति मन्यन्ते नूनं मां त्रिदशेश्वराः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2395,6 +2541,7 @@ Gita.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2403,6 +2550,8 @@ Gita.
 संहृत्यैव शशिज्योत्स्नां महान् सूर्य इवोदितः ।  
 संहृत्यैव गुणान् सर्वान् मम तेजः प्रकाशते ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2453,12 +2602,15 @@ proactive to demons, inclusive of demons. [3-64-56, 57]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव यक्षा न गन्धर्वा न पिशाचा न राक्षसाः ।  
 किन्नरा वा मनुष्या वा सुखं प्राप्स्यन्ति लक्ष्मण ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2499,12 +2651,15 @@ vaa* = kinnaraa-s, either; *manuSyaa vaa* = humans, or.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममास्त्रबाणसम्पूर्णमाकाशं पश्य लक्ष्मण ।  
 असम्पातं करिष्यामि ह्यद्य त्रैलोक्यचारिणाम् ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2545,6 +2700,7 @@ an impassable sphere for the treaders in the triad of worlds... [3-64-59]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2554,6 +2710,8 @@ an impassable sphere for the treaders in the triad of worlds... [3-64-59]
 ध्वस्तद्रुमलतागुल्मं विप्रणाशितसागरम् ॥ ६१ ॥  
 त्रैलोक्यं तु करिष्यामि संयुक्तं कालकर्मणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2620,12 +2778,15 @@ the task of Time in extinguishing an era... [3-64-60, 61, 62a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते कुशलिनीं सीतां प्रदास्यन्ति ममेश्वराः ॥ ६२ ॥  
 अस्मिन् मुहूर्ते सौमित्रे मम द्रक्ष्यन्ति विक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2665,12 +2826,15 @@ see what my blitzkrieg is, at this very moment... [3-64-62b, 63a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाकाशमुत्पतिष्यन्ति सर्वभूतानि लक्ष्मण ॥ ६३ ॥  
 मम चापगुणोन्मुक्तैर्बाणजालैर्निरन्तरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2710,12 +2874,15 @@ of my arrows released from my bowstring, minus an intercolumniation... [3-64-63b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मर्दितं मम नाराचैर्ध्वस्तभ्रान्तमृगद्विजम् ॥ ६४ ॥  
 समाकुलममर्यादं जगत् पश्याद्य लक्ष्मण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2756,12 +2923,15 @@ you may now witness how the animals and birds will be dazed and devastated... [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकर्णपूर्णैरिषुभिर्जीवलोकदुरावरैः ॥ ६५ ॥  
 करिष्ये मैथिलीहेतोरपिशाचमराक्षसम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2806,12 +2976,15 @@ force-stretching my unstoppable arrows up to my ears to release them forcefully.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम रोषप्रयुक्तानां विशिखानां बलं सुराः ॥ ६६ ॥  
 द्रक्ष्यन्त्यद्य विमुक्तानाममर्षाद् दूरगामिनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2855,12 +3028,15 @@ mine, projected by my wrath and released by my irascibility... [3-64-66b, 67a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव देवा न दैतेया न पिशाचा न राक्षसाः ॥ ६७ ॥  
 भविष्यन्ति मम क्रोधात् त्रैलोक्ये विप्रणाशिते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2904,12 +3080,15 @@ be gods, no; demons - no; phantoms - no, none can survive... [3-64-67b, 68a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवयक्षाणां लोका ये रक्षसामपि ॥ ६८ ॥  
 बहुधा निपतिष्यन्ति बाणौघैः शकलीकृताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2951,12 +3130,15 @@ be splintered and falling down apiece by the fusillades of my arrows... [3-64-68
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्मर्यादानिमाल्ँ लोकान् करिष्याम्यद्य सायकैः ॥ ६९ ॥  
 हृतां मृतां वा सौमित्रे न दास्यन्ति ममेश्वराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3002,6 +3184,7 @@ not going to give back my Seetha I will now jeopardise these worlds with my arro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3009,6 +3192,8 @@ not going to give back my Seetha I will now jeopardise these worlds with my arro
 नाशयामि जगत् सर्वं त्रैलोक्यं सचराचरम् ।  
 यावद् दर्शनमस्या वै तापयामि च सायकैः ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3055,12 +3240,15 @@ am not going to get a glimpse of her." Thus Rama gave a vent to his feelings. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा क्रोधताम्राक्षः स्फुरमाणोष्ठसम्पुटः ।  
 वल्कलाजिनमाबद्ध्य जटाभारमबन्धयत् ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3101,12 +3289,15 @@ spasmodically, he girded up his jute-cloths and deerskin and twined up the mass 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य क्रुद्धस्य रामस्य तथाभूतस्य धीमतः ।  
 त्रिपुरं जघ्नुषः पूर्वं रुद्रस्येव बभौ तनुः ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3148,6 +3339,7 @@ times, intending to inflame the Triple-Cities. [3-64-73]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3156,6 +3348,8 @@ times, intending to inflame the Triple-Cities. [3-64-73]
 सन्दधे धनुषि श्रीमान् रामः परपुरञ्जयः ।  
 युगान्ताग्निरिव क्रुद्ध इदं वचनमब्रवीत् ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3205,6 +3399,7 @@ enemies fastnesses, who looked like the Ear-End-Fire, spoke this sentence. [3-64
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3212,6 +3407,8 @@ enemies fastnesses, who looked like the Ear-End-Fire, spoke this sentence. [3-64
 नित्यं न प्रतिहन्यन्ते सर्वभूतेषु लक्ष्मण ।  
 तथाहं क्रोधसंयुक्तो न निवार्योऽस्म्यसंशयम् ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3263,6 +3460,7 @@ sarva vinaashaaya kaalo asau na ati vartate | mahaa bhaarata - dk
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3271,6 +3469,8 @@ sarva vinaashaaya kaalo asau na ati vartate | mahaa bhaarata - dk
 सदेवगन्धर्वमनुष्यपन्नगं  
 जगत् सशैलं परिवर्तयाम्यहम् ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3332,5 +3532,6 @@ whatnot... [3-64-77]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥64॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०२८ शुकेन शत्रुसङ्ख्यागणनम्"
 title_english = "028 Shuka enumerates the enemies"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ Sarana.
 
 28. शुकके द्वारा सुग्रीवके मन्त्रियोंका, मैन्द और द्विविदका, हनुमान् का, श्रीराम, लक्ष्मण, विभीषण और सुग्रीवका परिचय देकर वानरसेनाकी संख्याका निरूपण करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारणस्य वचः श्रुत्वा रावणं राक्षसाधिपम् ।  
 बलमादिश्य तत् सर्वं शुको वाक्यमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,6 +53,7 @@ Sarana.
 
 आ इडी वानर सैन्यद परिचयवन्नु कॊट्टु सारणनु सुम्मनादाग, अवन मातन्नु केळि शुकनु राक्षसराज रावणनल्लि इन्तॆन्दनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -56,6 +62,8 @@ Sarana.
 एते दुष्प्रसहा राजन् बलिनः कामरूपिणः ।  
 दैत्यदानवसङ्काशा युद्धे देवपराक्रमाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,6 +119,7 @@ with the valour of the gods."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +128,8 @@ with the valour of the gods."
 एते सुग्रीवसचिवाः किष्किन्धानिलयाः सदा ।  
 हरयो देवगन्धर्वैरुत्पन्नाः कामरूपिणः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,6 +200,7 @@ as calculated at the end of this chapter.
 
 * इन संख्याओंका स्पष्टीकरण इसी सर्गके अन्तमें दी हुई परिभाषाके अनुसार समझना चाहिये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,6 +209,8 @@ as calculated at the end of this chapter.
 ब्रह्मणा समनुज्ञातावमृतप्राशिनावुभौ ।  
 आशंसेते यथा लङ्कामेतौ मर्दितुमोजसा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,6 +272,7 @@ celestials, are Mainda and Dvivida. None can equal them in combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -268,6 +283,8 @@ celestials, are Mainda and Dvivida. None can equal them in combat."
 ज्येष्ठः केसरिणः पुत्रो वातात्मज इति श्रुतः ।  
 हनूमानिति विख्यातो लङ्घितो येन सागरः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +355,15 @@ and spy on you, O, Lord! See that monkey, who was seen earlier and who appears h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामरूपो हरिश्रेष्ठो बलरूपसमन्वितः ।  
 अनिवार्यगतिश्चैव यथा सततगः प्रभुः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,6 +403,7 @@ strength and form always moving like the wind-god, having an uninterrupted mobil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -391,6 +412,8 @@ strength and form always moving like the wind-god, having an uninterrupted mobil
 आदित्यमाहरिष्यामि न मे क्षुत् प्रतियास्यति ।  
 इति निश्चित्य मनसा पुप्लुवे बलदर्पितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +464,15 @@ intoxicated as he was with his own strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाधृष्यतमं देवमपि देवर्षिराक्षसैः ।  
 अनासाद्यैव पतितो भास्करोदयने गिरौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -507,12 +533,15 @@ spoke the following words to Ravana the Lord of Demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतितस्य कपेरस्य हनुरेका शिलातले ।  
 किञ्चिद् भिन्ना दृढहनुर्हनूमानेष तेन वै ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -553,6 +582,7 @@ fractured. For this reason, because of his strong jaw, he is called Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -562,6 +592,8 @@ fractured. For this reason, because of his strong jaw, he is called Hanuma."
 येन जाज्वल्यतेऽसौ वै धूमकेतुस्तवाद्य वै ।  
 लङ्कायां निहितश्चापि कथं विस्मरसे कपिम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,12 +659,15 @@ not possible to describe his strength or physical form or glory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश्चैषोऽनन्तरः शूरः श्यामः पद्मनिभेक्षणः ।  
 इक्ष्वाकूणामतिरथो लोके विश्रुतपौरुषः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +684,15 @@ not possible to describe his strength or physical form or glory."
 
 हनुमन्तन बळियल्लिरुववनु कमलाक्षनाद, श्यामलाङ्गनू, शूरवीरनू, इक्ष्वाकु वंशद अतिरथ नाद, महापौरुषदिन्द कूडिरुव, मूरु लोकगळल्लि प्रसिद्धनाद श्रीरामनु.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिन् न चलते धर्मो यो धर्मं नातिवर्तते ।  
 यो ब्राह्ममस्त्रं वेदांश्च वेद वेदविदां वरः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +712,15 @@ _________________
 
 धर्मवु अवनिन्द अगलुवुदिल्ल, अवनु धर्मवन्नु ऎन्दू उल्लङ्घिसुवुदिल्ल. वेदविदरल्लि श्रेष्ठनाद; ब्रह्मास्त्रवन्नू, वेदगळन्नु, तिळिदिरुववने श्रीरामनु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो भिन्द्याद् गगनं बाणैर्मेदिनीं वापि दारयेत् ।  
 यस्य मृत्योरिव क्रोधः शक्रस्येव पराक्रमः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +737,15 @@ _________________
 
 श्रीरामनु बाणगळिन्द आकाशवन्ने भेदिसबल्लनु, पृथिवियन्नु सीळिहाकबल्लनु, अवन कोपवु मृत्युविनन्तॆ इद्दु, पराक्रमवु इन्द्रनन्तॆये इदॆ.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य भार्या जनस्थानात् सीता चापि हृता त्वया ।  
 स एष रामस्त्वां राजन् योद्धुं समभिवर्तते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,6 +803,7 @@ Rama who has come to wage war on you, O king!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -767,6 +812,8 @@ Rama who has come to wage war on you, O king!"
 एषो हि लक्ष्मणो नाम भ्रातुः प्रियहिते रतः ।  
 नये युद्धे च कुशलः सर्वशस्त्रभृतां वरः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +863,15 @@ among the wielders of all weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमर्षी दुर्जयो जेता विक्रान्तश्च जयी बली ।  
 रामस्य दक्षिणो बाहुर्नित्यं प्राणो बहिश्चरः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -862,12 +912,15 @@ mighty. He has always been the right arm of Rama and in outward moving life (of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्येष राघवस्यार्थे जीवितं परिरक्षति ।  
 एषैवाशंसते युद्धे निहन्तुं सर्वराक्षसान् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +960,7 @@ all the demons in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -915,6 +969,8 @@ all the demons in battle."
 श्रीमता राजराजेन लङ्कायामभिषेचितः ।  
 त्वामसौ प्रतिसंरब्धो युद्धायैषोऽभिवर्तते ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,12 +1032,15 @@ troop of demons he is the king Vibhishana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं तु पश्यसि तिष्ठन्तं मध्ये गिरिमिवाचलम् ।  
 सर्वशाखामृगेन्द्राणां भर्तारममितौजसम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1057,15 @@ troop of demons he is the king Vibhishana."
 
 ऎल्ल वानरर मध्यदल्लि पर्वतोपमवागि, पर्वतदन्तॆ अचलवागि निन्तिरुव वानररन्नु नोडुत्तिरु वॆयल्लवे? अवनु समस्त वानररिगॆ ऒडॆयनाद महातेजस्वी सुग्रीवनु.॥28॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजसा यशसा बुद्ध्या बलेनाभिजनेन च ।  
 यः कपीनतिबभ्राज हिमवानिव पर्वतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1082,15 @@ troop of demons he is the king Vibhishana."
 
 हिमवन्तनु ऎल्ल पर्वतगळल्लि श्रेष्ठनागिरुवन्तॆये, तेजस्सु, यशस्सु, बल, बुद्धि, सत्कुल प्रसूति-इवॆल्लवुगळिन्दागि सुग्रीवनु वानररल्लि सर्वश्रेष्ठनागिद्दानॆ.॥29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किष्किन्धां यः समध्यास्ते गुहां सगहनद्रुमाम् ।  
 दुर्गां पर्वतदुर्गम्यां प्रधानैः सह यूथपैः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,12 +1107,15 @@ troop of demons he is the king Vibhishana."
 
 इवनु गहन वृक्षगळिन्द कूडिद किष्किन्धा ऎम्ब दुर्गमवाद गुहॆयल्लि वासिसुत्तिरुवनु. पर्वतगळिन्दागि अदन्नु प्रवेशिसुवुदु अत्यन्त कठिणवागिदॆ. इवनॊन्दगॆ अल्लि मुख्य मुख्य सेनापतिगळू इरुत्तारॆ.॥30॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यैषा काञ्चनी माला शोभते शतपुष्करा ।  
 कान्ता देवमनुष्याणां यस्यां लक्ष्मीः प्रतिष्ठिता ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1132,15 @@ troop of demons he is the king Vibhishana."
 
 अवन कॊरळिनल्लि नूरु कमलगळ सुवर्णमय मालॆ शोभिसुत्तदॆ. अदरल्लि सदा लक्ष्मीदेविय सन्निधान इरुत्तदॆ. अदन्नु देव-मानवरॆल्लरू पडॆयलु बयसुत्तारॆ.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतां मालां च तारां च कपिराज्यं च शाश्वतम् ।  
 सुग्रीवो वालिनं हत्वा रामेण प्रतिपादितः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,12 +1197,15 @@ having killed Vali (Sugreeva's brother)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं शतसहस्राणां कोटिमाहुर्मनीषिणः ।  
 शतं कोटिसहस्राणां शङ्कुरित्यभिधीयते ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1143,12 +1217,15 @@ having killed Vali (Sugreeva's brother)."
 
 ‘मनीषी पुरुष सौ लाखकी संख्याको एक कोटि कहते हैं और सौ सहस्र कोटि (एक नील)-को एक शङ्कु कहा जाता है ॥ ३३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं शङ्कुसहस्राणां महाशङ्कुरिति स्मृतः ।  
 महाशङ्कुसहस्राणां शतं वृन्दमिहोच्यते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1262,15 @@ a Shanku."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं वृन्दसहस्राणां महावृन्दमिति स्मृतम् ।  
 महावृन्दसहस्राणां शतं पद्ममिहोच्यते ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1210,12 +1290,15 @@ _________________
 
 ऒन्दु लक्ष वृन्दद हॆसरु महावृन्दवागिदॆ. ऒन्दु लक्ष महावृन्दवन्नु पद्मवॆन्दु हेळुत्तारॆ.॥35॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं पद्मसहस्राणां महापद्ममिति स्मृतम् ।  
 महापद्मसहस्राणां शतं खर्वमिहोच्यते ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1235,6 +1318,7 @@ _________________
 
 नूरु साविर पद्मगळिगॆ महापद्मवॆन्दु हॆसरु. नूरु साविर महापद्म गळन्नु खर्ववॆन्दु हेळुत्तारॆ.॥36॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1243,6 +1327,8 @@ _________________
 शतं समुद्रसाहस्रमोघ इत्यभिधीयते ॥ ३७ ॥  
 शतमोघसहस्राणां महौघा इति विश्रुतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,6 +1352,7 @@ _________________
 
 ऒन्दु लक्ष खर्वगळन्नु महाखर्ववागुत्तदॆ. ऒन्दु साविर महा खर्वगळन्नु समुद्रवॆन्दु हेळुत्तारॆ. ऒन्दु लक्ष समुद्रगळन्नु ओघवॆन्दू, ऒन्दु लक्ष ओघक्कॆ महौघ ऎम्ब सञ्ज्ञॆ इदॆ.॥37॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1279,6 +1366,8 @@ _________________
 सुग्रीवो वानरेन्द्रस्त्वां युद्धार्थमनुवर्तते ।  
 महाबलवृतो नित्यं महाबलपराक्रमः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1348,6 +1437,7 @@ one Mahaugha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1356,6 +1446,8 @@ one Mahaugha."
 ततः प्रयत्नः परमो विधीयतां  
 यथा जयः स्यान्न परैः पराभवः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1420,5 +1512,6 @@ identical of an ocean."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॆण्टनॆय सर्गः पूर्णवायितु.॥28॥
+</details>
 </details>
 

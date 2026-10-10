@@ -2,6 +2,8 @@
 title = "०१० ऋष्यशृङ्गकथा"
 title_english = "010 Rishyasringa enticed and brought from woods"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -22,6 +24,7 @@ of Romapada.
 
 10. अंगदेशमें ऋष्यशृंगके आने तथा शान्ताके साथ विवाह होनेके प्रसंगका कुछ विस्तारके साथ वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ of Romapada.
 यथर्ष्यशृङ्गस्त्वानीतो येनोपायेन मन्त्रिभिः ।  
 तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ that may please be listened from me along with ministers... [1-10-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोमपादमुवाचेदं सहामात्यः पुरोहितः ।  
 उपायो निरपायोऽयमस्माभिरभिचिन्तितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ plan, well thought over by us..." [1-10-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः ।  
 अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +164,15 @@ and he is not aware of women, or of worldly-matters or of even worldly-pleasures
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः ।  
 पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,12 +205,15 @@ bring him to the city... Let it be decided quickly... [1-10-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलङ्कृताः ।  
 प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ many a feint, and let the courtesans be given ample gifts... [1-10-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम् ।  
 पुरोहितो मन्त्रिणश्च तदा चक्रुश्च ते तथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +297,15 @@ have carried out the plan that way... [1-10-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत् ।  
 आश्रमस्याविदूरेऽस्मिन् यत्नं कुर्वन्ति दर्शने ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +361,15 @@ used these Deva Daasis, the courtesans.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः ।  
 पितुः स नित्यसन्तुष्टो नातिचक्राम चाश्रमात् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +389,15 @@ _________________
 
 मुनिकुमार ऋष्यशृङ्गरु बहळ धीर स्वभावदवरागिद्दु, सदा आश्रमदल्ले इरुत्तिद्दरु. अवरिगॆ यावागलू तन्न तन्दॆय बळि इरुवुदरल्ले हॆच्चु सुख सिगुत्तित्तु. आद्दरिन्द अवरु आश्रमद हॊरगे बरुत्तिरलिल्ल.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना ।  
 स्त्री वा पुमान् वा यच्चान्यत् सत्त्वं नगरराष्ट्रजम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +442,15 @@ pleasure, and thus his father conditioned him to achieve some supreme ritual ide
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कदाचित् तं देशमाजगाम यदृच्छया ।  
 विभाण्डकसुतस्तत्र ताश्चापश्यद् वराङ्गनाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +483,15 @@ son Rishyasringa; *yadR^icChayaa tam desham aajagaama* = casually came to that p
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरम् ।  
 ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +524,15 @@ the sage's son and spoke these words... [1-10-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम् ।  
 एकस्त्वं विजने दूरे वने चरसि शंस नः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,12 +572,15 @@ like this? Oh! Brahman, we are interested to know... please tell us..." [1-10-12
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः ।  
 हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +622,15 @@ hence a kind of friendship spouted, with which he is inclined to detail about hi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः ।  
 ऋष्यशृङ्ग इति ख्यातं नाम कर्म च मे भुवि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +670,15 @@ a horn, and this here he recalls his birth time event.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः ।  
 करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -664,12 +711,15 @@ all verily there..." thus said the sage to the courtesans. [1-10-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै ।  
 तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +753,15 @@ of that hermitage, then all the women went to hermitage. [1-10-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतानां तु ततः पूजामृषिपुत्रश्चकार ह ।  
 इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +810,15 @@ to urbanites, that too to the pleasure-taking courtesans.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः ।  
 ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,12 +852,15 @@ of the sage Vibhandaka, they quickly made-up their mind to make away from there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माकमपि मुख्यानि फलानीमानि हे द्विज ।  
 गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +900,15 @@ before long....' Said courtesans to Rishyasringa.] [1-10-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तास्तं समालिङ्‍ग्य सर्वा हर्षसमन्विताः ।  
 मोदकान् प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्छुभान् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +951,15 @@ in the offing, presented sweet-balls and other varieties of best sweetmeats to h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते ।  
 अनास्वादितपूर्वाणि वने नित्यनिवासिनाम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +992,15 @@ did not taste sweets earlier, as he is always forest-bound. [1-10-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च ।  
 गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1042,15 @@ they actually feared for the arrival of Rishyasringa's father who may hurl curse
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः ।  
 अस्वस्थहृदयश्चासीद् दुःखाच्च परिवर्तते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1013,6 +1084,7 @@ Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1020,6 +1092,8 @@ Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
 विभाण्डकसुतः श्रीमान् मनसाचिन्तयन्मुहुः ॥ २४ ॥  
 मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलङ्कृताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,6 +1131,7 @@ in mind repetitively about them alone. [1-10-24, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1064,6 +1139,8 @@ in mind repetitively about them alone. [1-10-24, 25a]
 उपसृत्य ततः सर्वास्तास्तमूचुरिदं वचः ।  
 एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,12 +1189,15 @@ our hermitage... [1-10-25b, 26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च ।  
 तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1237,15 @@ definitely indeed..." So said the courtesans.[1-10-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम् ।  
 गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,12 +1285,15 @@ to go over there, and then those women took him away [to their place in Anga Kin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र चानीयमाने तु विप्रे तस्मिन् महात्मनि ।  
 ववर्ष सहसा देवो जगत् प्रह्लादयंस्तदा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,12 +1327,15 @@ the Rain-god quickly showered rain in Anga kingdom to the delight of the world. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्षेणैवागतं विप्रं तापसं स नराधिपः ।  
 प्रत्युद‍्गम्य मुनिं प्रह्वः शिरसा च महीं गतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,12 +1352,15 @@ the Rain-god quickly showered rain in Anga kingdom to the delight of the world. 
 
 मळॆयन्नु नोडि आ तपस्वी ब्राह्मणकुमारनु बन्दिरबेकु ऎन्दु राजनु अनुमानपट्टनु मत्तॆ बहळ विनयदिन्द राजनु अवरन्नु स्वागतिसि, कालुमुट्टि साष्टाङ्ग नमस्कार माडिदनु.॥30॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः ।  
 वव्रे प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,12 +1408,15 @@ with eight body parts touching the ground, indicating his absolute surrender to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुरं प्रवेश्यास्मै कन्यां दत्त्वा यथाविधि ।  
 शान्तां शान्तेन मनसा राजा हर्षमवाप सः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1363,12 +1458,15 @@ then that King Romapada obtained rejoice with a peaceful mind. [1-10-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स न्यवसत् तत्र सर्वकामैः सुपूजितः ।  
 ऋष्यशृङ्गो महातेजाः शान्तया सह भार्यया ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1419,5 +1517,6 @@ Rishyasringa to King Dasharatha.] [1-10-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हत्तनॆय सर्ग पूर्णवायितु. ॥10॥
+</details>
 </details>
 

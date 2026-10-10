@@ -2,6 +2,8 @@
 title = "१०१ दशरथनिर्याणकथनम्"
 title_english = "101 Bharata informs Rama about Dasaratha s death"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ both of them.
 
 101. श्रीरामका भरतसे वनमें आगमनका प्रयोजन पूछना, भरतका उनसे राज्य ग्रहण करनेके लिये कहना और श्रीरामका उसे अस्वीकार कर देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु रामः समाज्ञाय भ्रातरं गुरुवत्सलम् ।  
 लक्ष्मणेन सह भ्रात्रा प्रष्टुं समुपचक्रमे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ brother who was devoted to elders (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ brother who was devoted to elders (as follows):
 यन्निमित्तमिमं देशं कृष्णाजिनजटाधरः ।  
 हित्वा राज्यं प्रविष्टस्त्वं तत् सर्वं वक्तुमर्हसि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +146,15 @@ antelope-skin."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः केकयीपुत्रः काकुत्स्थेन महात्मना ।  
 प्रगृह्य बलवद् भूयः प्राञ्जलिर्वाक्यमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,12 +194,15 @@ with joined palms answered as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्य तातः परित्यज्य कृत्वा कर्म सुदुष्करम् ।  
 गतः स्वर्गं महाबाहुः पुत्रशोकाभिपीडितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -230,12 +244,15 @@ account of separation from his son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रिया नियुक्तः कैकेय्या मम मात्रा परन्तप ।  
 चकार सा महत्पापमिदमात्मयशोहरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,12 +293,15 @@ committed this great sin that has taken away his own reputation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा राज्यफलमप्राप्य विधवा शोककर्शिता ।  
 पतिष्यति महाघोरे नरके जननी मम ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,12 +345,15 @@ mother will fall into the most terrific hell."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य मे दासभूतस्य प्रसादं कर्तुमर्हसि ।  
 अभिषिञ्चस्व चाद्यैव राज्येन मघवानिव ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,12 +393,15 @@ celestials himself, receive the royal anointing!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमाः प्रकृतयः सर्वा विधवा मातरश्च याः ।  
 त्वत्सकाशमनुप्राप्ताः प्रसादं कर्तुमर्हसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,12 +441,15 @@ this felicity!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथानुपूर्व्या युक्तश्च युक्तं चात्मनि मानद ।  
 राज्यं प्राप्नुहि धर्मेण सकामान् सुहृदः कुरु ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,12 +494,15 @@ friends."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवत्वविधवा भूमिः समग्रा पतिना त्वया ।  
 शशिना विमलेनेव शारदी रजनी यथा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,6 +542,7 @@ immaculate moon to the autumn-night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -518,6 +551,8 @@ immaculate moon to the autumn-night."
 भ्रातुः शिष्यस्य दासस्य  
 प्रसादं कर्तुम् अर्हसि ॥ १२ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,12 +596,15 @@ ministers is both your discipline and your slave."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं शाश्वतं पित्र्यं सर्वं सचिवमण्डलम् ।  
 पूजितं पुरुषव्याघ्र नातिक्रमितुमर्हसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +644,15 @@ ancestral and honoured."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाबाहुः सबाष्पः कैकयीसुतः ।  
 रामस्य शिरसा पादौ जग्राह भरतः पुनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +695,15 @@ in great honour, as per precept.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मत्तमिव मातङ्गं निःश्वसन्तं पुनः पुनः ।  
 भ्रातरं भरतं रामः परिष्वज्येदमब्रवीत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +746,15 @@ rut, and spoke as follows:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलीनः सत्त्वसम्पन्नस्तेजस्वी चरितव्रतः ।  
 राज्यहेतोः कथं पापमाचरेन्मद्विधो जनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +795,15 @@ observed sacred vows like myself, commit sin for the sake of a mere kingdom?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न दोषं त्वयि पश्यामि सूक्ष्ममप्यरिसूदन ।  
 न चापि जननीं बाल्यात् त्वं विगर्हितुमर्हसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -793,12 +843,15 @@ you should not reproach your mother for a childish action."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामकारो महाप्राज्ञ गुरूणां सर्वदानघ ।  
 उपपन्नेषु दारेषु पुत्रेषु च विधीयते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +892,15 @@ the part of the elders to act freely with reference to their wives and progeny."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वयमस्य यथा लोके सङ्ख्याताः सौम्य साधुभिः ।  
 भार्याः पुत्राश्च शिष्याश्च त्वमपि ज्ञातुमर्हसि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -885,12 +941,15 @@ all, women children and disciples, obey our Lord; this must be known to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वने वा चीरवसनं सौम्य कृष्णाजिनाम्बरम् ।  
 राज्ये वापि महाराजो मां वासयितुमीश्वरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,12 +984,15 @@ brother!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् पितरि धर्मज्ञ गौरवं लोकसत्कृते ।  
 तावद् धर्मकृतां श्रेष्ठ जनन्यामपि गौरवम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1033,15 @@ respect is to be paid to our mother, as is due to our father, who is honoured by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एताभ्यां धर्मशीलाभ्यां वनं गच्छेति राघव ।  
 मातापितृभ्यामुक्तोऽहं कथमन्यत् समाचरे ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,12 +1081,15 @@ the forest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया राज्यमयोध्यायां प्राप्तव्यं लोकसत्कृतम् ।  
 वस्तव्यं दण्डकारण्ये मया वल्कलवाससा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1129,15 @@ me to occupy this Dandaka forest, wearing bark robes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाराजो विभागं लोकसन्निधौ ।  
 व्यादिश्य च महाराजो दिवं दशरथो गतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,12 +1182,15 @@ heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च प्रमाणं धर्मात्मा राजा लोकगुरुस्तव ।  
 पित्रा दत्तं यथाभागमुपभोक्तुं त्वमर्हसि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1231,15 @@ you and you have to enjoy the share given by our father accordingly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश समाः सौम्य दण्डकारण्यमाश्रितः ।  
 उपभोक्ष्ये त्वहं दत्तं भागं पित्रा महात्मना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,6 +1279,7 @@ fourteen years, taking my abode in Dandaka forest, O gentle brother!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1210,6 +1288,8 @@ fourteen years, taking my abode in Dandaka forest, O gentle brother!"
 तदेव मन्ये परमात्मनो हितं  
 न सर्वलोकेश्वरभावमव्ययम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,5 +1328,6 @@ _________________
 <details><summary>पादटिप्पनी</summary>
 
 * कुछ प्रतियोंमें यह सर्ग १०४ वें सर्गके रूपमें वर्णित है । १०० वें सर्गके बादके तीन सर्गोंके बाद इसका उल्लेख हुआ है ।
+</details>
 </details>
 

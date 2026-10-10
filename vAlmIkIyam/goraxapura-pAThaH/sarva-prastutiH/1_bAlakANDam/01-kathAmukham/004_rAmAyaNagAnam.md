@@ -2,6 +2,8 @@
 title = "००४ रामायणगानम्"
 title_english = "004 Lava and Kusha assigned to sing the epic rAma listents to it"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - Book Of Youthful Majesties**
@@ -25,12 +27,15 @@ of Seetha' siithaayaH charitam mahat as Valmiki calls Ramayana.
 
 4. महर्षि वाल्मीकिका चौबीस हजार श्लोकोंसे युक्त रामायणकाव्यका निर्माण करके उसे लव-कुशको पढ़ाना, मुनिमण्डलीमें रामायणगान करके लव और कुशका प्रशंसित होना तथा अयोध्यामें श्रीरामद्वारा सम्मानित हो उन दोनोंका रामदरबारमें रामायणगान सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तराजस्य रामस्य वाल्मीकिर्भगवानृषिः ।  
 चकार चरितं कृत्स्नं विचित्रपदमर्थवत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,12 +86,15 @@ and meaningfully. [1-4-1]
 
 अनेन ग्रन्थ-करण-कालः सूचितः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः ।  
 तथा सर्गशतान् पञ्च षट्काण्डानि तथोत्तरम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,12 +182,15 @@ salvation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम् ।  
 चिन्तयामास को न्वेतत् प्रयुञ्जीयादिति प्रभुः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,12 +242,15 @@ thought over thus 'really, who will render all this ballad...' [1-4-3]
 
 अत्र चतुर्विंशति-सहस्र-संख्य्योक्त्या चतुर्विंशत्य्-अक्षर-गायत्री-तुल्यता सूचिता । प्रथम-पद्ये "तपः-स्वाध्याय-निरतम्" इत्य्-अत्र प्रथमं त-कारस्य सर्ग-प्रान्ते "पठन् द्विजः-" इत्य् एतस्मिन् पद्ये "महत्त्वम् ईयात्" इत्य्-अत्र "यात्" इत्य् अक्षरस्य ग्रहणाद् अपि गायत्री-रूपत्वं सूचितम् । अन्यच् च, गायत्री सवितृ-प्रतिपादिका । अयं ग्रन्थस् तद्-वंश-प्रतिपादकः । तस्माद् गायत्र्या एव विस्तरः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः ।  
 अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -273,6 +287,7 @@ soul Valmiki, who is now thoughtful. [1-4-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,6 +298,8 @@ soul Valmiki, who is now thoughtful. [1-4-4]
 काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत् ।  
 पौलस्त्यवधमित्येवं चकार चरितव्रतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,6 +386,7 @@ his feet. [1-4-5]
 
 अनेन समीचीन-विद्या मेधाविने नियताय देयेति धर्मः सूचितः, "न विद्याम् ऊषरे वपेत्" इति श्रुतेः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -377,6 +395,8 @@ his feet. [1-4-5]
 रसैः शृङ्गारकरुणहास्य रौद्रभयानकैः ।  
 वीरादिभी रसैर्युक्तं काव्यमेतदगायताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +497,15 @@ Smorzando, Sostentuo, and others of Western classical music.
 
 इति । वेदैर् इति बहुवचनाद् वेदत्रयसाम्यं सिद्धम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ ।  
 भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रूपिणौ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +572,15 @@ of performing arts. Hence, Indian musical art is termed as *gaandhava-vidyaa*.
 यत्रैव स्युः स्वराः पूर्णा मूर्छना सेत्युदाहृता ।  
 वैजयन्तीकोशके अनुसार वीणा आदिके वादनको मूर्छना कहते हैं—‘वादने मूर्छना प्रोक्ता ।’
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपलक्षणसम्पन्नौ मधुरस्वरभाषिणौ ।  
 बिम्बादिवोत्थितौ बिम्बौ रामदेहात् तथापरौ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -601,6 +627,7 @@ syndrome.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -609,6 +636,8 @@ syndrome.
 ऋषीणां च द्विजातीनां साधूनां च समागमे ।  
 यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +709,7 @@ in doing so, they rendered that epic faultlessly. [1-4-12]
 
 अनेन अध्येत्रा सम्यग् अधीतायाः विद्याया महतां समीपे प्रचारः कर्तव्य इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -690,6 +720,8 @@ in doing so, they rendered that epic faultlessly. [1-4-12]
 साधु साध्विति तावूचुः परं विस्मयमागताः ।  
 ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +799,15 @@ sung this epic, standing nearby the midst of a gathering of sages and pious soul
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ ।  
 अहो गीतस्य माधुर्यं श्लोकानां च विशेषतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,6 +850,7 @@ happened long-ago it is shown like the one happening presently... [1-4-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,6 +858,8 @@ happened long-ago it is shown like the one happening presently... [1-4-17]
 प्रविश्य तावुभौ सुष्ठु तथाभावमगायताम् ॥ १८ ॥  
 सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +894,15 @@ and rapturously, marinating the pitch and tune..." So said the saints. [1-4-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रशस्यमानौ तौ तपः श्लाघ्यैर्महर्षिभिः ॥ १९ ॥  
 संरक्ततरमत्यर्थं मधुरं तावगायताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,6 +936,7 @@ sang very effectually and very meaningfully. [1-4-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -902,6 +944,8 @@ sang very effectually and very meaningfully. [1-4-19]
 प्रसन्नो वल्कलं कश्चिद् ददौ ताभ्यां महायशाः ।  
 अन्यः कृष्णाजिनमदाद् यज्ञसूत्रं तथापरः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,6 +988,7 @@ sage, lauding them contributed a jute robe. [1-4-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -952,6 +997,8 @@ sage, lauding them contributed a jute robe. [1-4-20]
 ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः ।  
 काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,6 +1022,7 @@ _________________
 
 ऒब्बरु कमण्डलु कॊट्टरॆ मत्तॊब्ब मुनियु मुञ्जामेखलॆयन्नु कॊट्टरु. इन्नॊब्बरु आसन, कौपीनवित्तरॆ, बेरॆ महर्षियु हर्षगॊण्डु आ बालकरिब्बरिगॆ कॊडलियन्नु नीडिदरु. यारो काषाय बट्टॆ कॊट्टरॆ, जपमालॆ, वस्त्र हीगॆ उडुगोरॆयागि कॊट्टरु.॥22-23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -984,6 +1032,8 @@ _________________
 आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः ॥ २५ ॥  
 ददुश्चैवं वरान् सर्वे मुनयः सत्यवादिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1116,15 @@ there by all the truth-avowing saints, those that are great sages have thus best
 
 इत्य् उक्तम् । एवं च पुरुषार्थ-प्राप्तिः प्रतिपादिता ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम् ॥ २६ ॥  
 परं कवीनामाधारं समाप्तं च यथाक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1104,12 +1157,15 @@ poets... and this is completed sequentially, as well... [1-4-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिगीतमिदं गीतं सर्वगीतिषु कोविदौ ॥ २७ ॥  
 आयुष्यं पुष्टिजननं सर्वश्रुतिमनोहरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,6 +1182,7 @@ poets... and this is completed sequentially, as well... [1-4-26]
 
 सम्पूर्ण गीतॆगळ विशेषज्ञराद राजकुमाररे! ई काव्यवु आयुस्सु मत्तु पुष्टियन्नु कॊडुवन्तहुदु. ऎल्लर किवि मनस्सन्नु तणिसुव मधुर सङ्गीतवागिदॆ. नीविब्बरू बहळ चॆन्नागि इदन्नु हाडिरुविरि.॥27½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1140,6 +1197,8 @@ poets... and this is completed sequentially, as well... [1-4-26]
 श्रूयतामेतदाख्यानमनयोर्देववर्चसोः ॥ ३२ ॥  
 विचित्रार्थपदं सम्यग्गायकौ समचोदयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,6 +1338,7 @@ are experts in singing any kind of music are being appreciated everywhere, Rama 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1287,6 +1347,8 @@ are experts in singing any kind of music are being appreciated everywhere, Rama 
 ह्लादयत् सर्वगात्राणि मनांसि हृदयानि च ।  
 श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1352,6 +1414,7 @@ and meaningful intonation. [1-4-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1360,6 +1423,8 @@ and meaningful intonation. [1-4-33]
 ममापि तद् भूतिकरं प्रचक्षते  
 महानुभावं चरितं निबोधत ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,6 +1470,7 @@ he is asking all of us to listen to *siitaayaH caritam mahat* ...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1413,6 +1479,8 @@ he is asking all of us to listen to *siitaayaH caritam mahat* ...
 स चापि रामः परिषद‍्गतः शनै-  
 र्बुभूषयासक्तमना बभूव ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1480,5 +1548,6 @@ listening Seetha's story...] [1-4-36]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नाल्कनॆय सर्ग पूर्णवायितु. ॥4॥
+</details>
 </details>
 

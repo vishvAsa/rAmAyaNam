@@ -2,6 +2,8 @@
 title = "०३१ रावण-मारीचसंवादः"
 title_english = "031 Akampana s repot to Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda- The Forest Trek**
@@ -28,12 +30,15 @@ This chapter is removed from the critical edition and retained by traditional ve
 
 31. रावणका अकम्पनकी सलाहसे सीताका अपहरण करनेके लिये जाना और मारीचके कहनेसे लङ्काको लौट आना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वरमाणस् ततो गत्वा जनस्थानाद् अकम्पनः ।  
 प्रविश्य लङ्कां वेगेन रावणं वाक्यम् अब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ Ravana. [3-31-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनस्थान-स्थिता राजन् राक्षसा बहवो हताः ।  
 खरश् च निहतः सङ्ख्ये कथञ्चिद् अहम् आगतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ are also reported as dead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् उक्तो दश-ग्रीवः क्रुद्धः संरक्त-लोचनः ।  
 अकम्पनम् उवाचेदं निर्दहन्न् इव तेजसा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ whole world with his radiance he spoke this to Akampana. [3-31-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केन भीमं जनस्थानं हतं मम परासुना ।  
 को हि सर्वेषु लोकेषु गतिं नाधिगमिष्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ opted for no recourse in all of the worlds? [3-31-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि मे विप्रियं कृत्वा शक्यं मघवता सुखम् ।  
 प्राप्तुं वैश्रवणेनापि न यमेन च विष्णुना ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ Yama - no; why them, even Vishnu cannot be happy. [3-31-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालस्य चाप्य् अहं कालो दहेयम् अपि पावकम् ।  
 मृत्युं मरण-धर्मेण संयोजयितुम् उत्सहे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ Death with the virtue of deathliness. [3-31-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातस्य तरसा वेगं निहन्तुम् अपि चोत्सहे ।  
 दहेयम् अपि सङ्क्रुद्धस् तेजसाऽऽदित्य-पावकौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +374,15 @@ of Wind-god with that of mine." Thus Ravana said about himself. [3-31-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा क्रुद्धं दश-ग्रीवं कृताञ्जलिर् अकम्पनः ।  
 भयात् सन्दिग्धया वाचा रावणं याचते ऽभयम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +426,15 @@ or Ten-Faced demon. Ravana has also got the name of dashagriiva, and he is a 'so
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश-ग्रीवो ऽभयं तस्मै प्रददौ रक्षसां वरः ।  
 स विस्रब्धो ऽब्रवीद् वाक्यम् असन्दिग्धम् अकम्पनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,6 +477,7 @@ and trustfully. [3-31-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -456,6 +486,8 @@ and trustfully. [3-31-9]
 श्यामः पृथु-यशाः श्रीमान् अतुल्य-बल-विक्रमः ।  
 हतस् तेन जनस्थाने खरश् च सह-दूषणः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +547,15 @@ son of Dasharatha and known as Rama. [3-31-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पन-वचः श्रुत्वा रावणो राक्षसाधिपः ।  
 नागेन्द्र इव निःश्वस्य इदं वचनम् अब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,12 +594,15 @@ serpent. [3-31-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुरेन्द्रेण संयुक्तो रामः सर्वामरैः सह ।  
 उपयातो जनस्थानं ब्रूहि कच्चिद् अकम्पन ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +645,15 @@ the immortal gods? Oh, Akampana, speak about it. [3-31-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य पुनर् वाक्यं निशम्य तद् अकम्पनः ।  
 आचचक्षे बलं तस्य विक्रमं च महात्मनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +686,15 @@ of Ravana. [3-31-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो नाम महा-तेजाः श्रेष्ठः सर्व-धनुष्मताम् ।  
 दिव्यास्त्र-गुण-सम्पन्नः परं धर्मं गतो युधि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ with divine missiles and divine attributes, and he is the one who conducts warfa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यानुरूपो बलवान् रक्ताक्षो दुन्दुभि-स्वनः ।  
 कनीयाल्ँ लक्ष्मणो भ्राता राका-शशि-निभाननः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +786,15 @@ is Rama's selfsame younger brother known as Lakshmana. [3-31-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेन सह संयुक्तः पावकेनानिलो यथा ।  
 श्रीमान् राज-वरस् तेन जनस्थानं निपातितम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,6 +834,7 @@ prince Rama, and that firestorm, namely Rama, destroyed Janasthaana. [3-31-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -791,6 +842,8 @@ prince Rama, and that firestorm, namely Rama, destroyed Janasthaana. [3-31-17]
 शरा रामेण तूत्सृष्टा रुक्म-पुङ्खाः पतत्त्रिणः ॥ १८ ॥  
 सर्पाः पञ्चानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,6 +891,7 @@ started consuming the demons. [3-31-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -845,6 +899,8 @@ started consuming the demons. [3-31-18]
 तेन तेन स्म पश्यन्ति रामम् एवाग्रतः स्थितम् ।  
 इत्थं विनाशितं तेन जनस्थानं तवानघ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +958,15 @@ It is same with Kamsa in Bhaagavata when he sees one Krishna as many Krishna-s i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पन-वचः श्रुत्वा रावणो वाक्यम् अब्रवीत् ।  
 गमिष्यामि जनस्थानं रामं हन्तुं स-लक्ष्मणम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,12 +1005,15 @@ along with Lakshmana." [3-31-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैवम् उक्ते वचने प्रोवाचेदम् अकम्पनः ।  
 शृणु राजन् यथा-वृत्तं रामस्य बल-पौरुषम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,6 +1065,7 @@ grit...' 'I will let you know about them...' So said Akampana to Ravana. - Tiirt
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1010,6 +1073,8 @@ grit...' 'I will let you know about them...' So said Akampana to Ravana. - Tiirt
 आपगायास् तु पूर्णाया वेगं परिहरेच् छरैः ॥ २३ ॥  
 स-तारा-ग्रह-नक्षत्रं नभश् चाप्य् अवसादयेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1070,6 +1135,7 @@ swim, his *matsya* 'Fish...' incarnation is also suggested.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1077,6 +1143,8 @@ swim, his *matsya* 'Fish...' incarnation is also suggested.
 भित्त्वा वेलां समुद्रस्य लोकान् आप्लावयेद् विभुः ।  
 वेगं वापि समुद्रस्य वायुं वा विधमेच् छरैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,12 +1221,15 @@ and terminator of the creation. Govindaraja and Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संहृत्य वा पुनर् लोकान् विक्रमेण महा-यशाः ।  
 शक्तः श्रेष्ठः स पुरुषः स्रष्टुं पुनर् अपि प्रजाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1214,12 +1285,15 @@ one belongs to the earlier dissolutions and creations and another to the forthco
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि रामो दश-ग्रीव शक्यो जेतुं रणे त्वया ।  
 रक्षसां वापि लोकेन स्वर्गः पाप-जनैर् इव ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,12 +1345,15 @@ svargaH praaptum na shakyata iti uktam - - *anena sukR^itinaam svargaH paapiShTh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तं वध्यम् अहं मन्ये सर्वैर् देवासुरैर् अपि ।  
 अयं तस्य वधोपायस् तन् ममैक-मनाः शृणु ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,12 +1407,15 @@ Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्या तस्योत्तमा लोके सीता नाम सु-मध्यमा ।  
 श्यामा सम-विभक्ताङ्गी स्त्री-रत्नं रत्न-भूषिता ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1378,12 +1458,15 @@ adorned with jewellery, that slender-waisted one who is known as Seetha is his w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव देवी न गन्धर्वी नाप्सरा न च पन्नगी ।  
 तुल्या सीमन्तिनी तस्या मानुषी तु कुतो भवेत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,12 +1506,15 @@ female -no, then how can there be a woman of her like? [3-31-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापहर भार्यां त्वं तं प्रमथ्य महा-वने ।  
 सीतया रहितो रामो न चैव हि भविष्यति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1492,12 +1578,15 @@ Rama through Janasthaana to Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरोचयत तद् वाक्यं रावणो राक्षसाधिपः ।  
 चिन्तयित्वा महा-बाहुर् अकम्पनम् उवाच ह ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1536,12 +1625,15 @@ to Akampana. [3-31-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाढं कल्यं गमिष्यामि ह्य् एकः सारथिना सह ।  
 आनेष्यामि च वैदेहीम् इमां हृष्टो महा-पुरीम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1584,12 +1676,15 @@ into the elegant city Lanka." Ravana declared that way. [3-31-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एवम् उक्त्वा प्रययौ खर-युक्तेन रावणः ।  
 रथेनादित्य-वर्णेन दिशः सर्वाः प्रकाशयन् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1629,12 +1724,15 @@ of the sun, whereby all the directions are made to glitter. [3-31-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रथो राक्षसेन्द्रस्य नक्षत्र-पथ-गो महान् ।  
 चञ्चूर्यमाणः शुशुभे जलदे चन्द्रमा इव ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1678,12 +1776,15 @@ as if it is the moon in clouds. [3-31-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दूरे चाश्रमं गत्वा ताटकेयम् उपागमत् ।  
 मारीचेनार्चितो राजा भक्ष्य-भोज्यैर् अमानुषैः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1730,12 +1831,15 @@ also mean 'inhuman' but nowhere we find Ravana taking such a lowly food.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं स्वयं पूजयित्वा तु आसनेनोदकेन च ।  
 अर्थोपहितया वाचा मारीचो वाक्यम् अब्रवीत् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1774,12 +1878,15 @@ to him this sentence that is worded meaningfully. [3-31-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् स-कुशलं राजल्ँ लोकानां राक्षसाधिप ।  
 आशङ्के नाधिजाने त्वं यतस् तूर्णम् उपागतः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1822,12 +1929,15 @@ of your kingdom, for I am not in the know of the reason by which now you have co
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् उक्तो महा-तेजा मारीचेन स रावणः ।  
 ततः पश्चाद् इदं वाक्यम् अब्रवीद् वाक्य-कोविदः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1867,12 +1977,15 @@ spoke this sentence. [3-31-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरक्षो मे हतस् तात रामेणाक्लिष्ट-कारिणा ।  
 जनस्थानम् अवध्यं तत् सर्वं युधि निपातितम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1917,12 +2030,15 @@ have to render friendly help in kidnapping Rama's wife." [3-31-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य मे कुरु साचिव्यं तस्य भार्यापहारणे ।  
 राक्षसेन्द्र-वचः श्रुत्वा मारीचो वाक्यम् अब्रवीत् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1939,12 +2055,15 @@ have to render friendly help in kidnapping Rama's wife." [3-31-40]
 
 आद्दरिन्द इदर प्रतीकारक्कागि नानु अवन पत्नियन्नु अपहरिसलु बयसुत्तिरुवॆनु. ई कार्यदल्लि नीनु ननगॆ सहाय माडु. राक्षसेन्द्रन ई मातन्नु केळि मारीचनु हेळिदनु.॥41॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आख्याता केन वा सीता मित्र-रूपेण शत्रुणा ।  
 त्वया राक्षस-शार्दूल को न नन्दति नन्दितः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1984,12 +2103,15 @@ that is unhappy with you, since he is giving such a self-ruinous advise? [3-31-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताम् इहानयस्वेति को ब्रवीति ब्रवीहि मे ।  
 रक्षो-लोकस्य सर्वस्य कः शृङ्गं छेत्तुम् इच्छति ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2035,12 +2157,15 @@ are prominent among all the clansmen of demons to be cut-off? [3-31-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रोत्साहयति यश् च त्वां स च शत्रुर् असंशयम् ।  
 आशीविष-मुखाद् दंष्ट्राम् उद्धर्तुं चेच्छति त्वया ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2080,12 +2205,15 @@ the fangs of a snake from its mouth, of course, through you. [3-31-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मणानेन केनासि कापथं प्रतिपादितः ।  
 सुख-सुप्तस्य ते राजन् प्रहृतं केन मूर्धनि ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2125,6 +2253,7 @@ good as his hitting hard on your head while you are fast asleep. [3-31-45]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2133,6 +2262,8 @@ good as his hitting hard on your head while you are fast asleep. [3-31-45]
 उदीक्षितुं रावण नेह युक्तः  
 स संयुगे राघव-गन्ध-हस्ती ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2180,6 +2311,7 @@ of the irrepressible lineage of Raghava-s. [3-31-46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2188,6 +2320,8 @@ of the irrepressible lineage of Raghava-s. [3-31-46]
 सुप्तस् त्वया बोधयितुं न शक्यः  
 शराङ्ग-पूर्णो निशितासि-दंष्ट्रः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2246,6 +2380,7 @@ The nara-simha, man-lion incarnation is suggested here.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2254,6 +2389,8 @@ The nara-simha, man-lion incarnation is suggested here.
 न राम-पाताल-मुखे ऽति-घोरे  
 प्रस्कन्दितुं राक्षस-राज युक्तम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2308,6 +2445,7 @@ called Rama. Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2316,6 +2454,8 @@ called Rama. Tiirtha.
 त्वं स्वेषु दारेषु रमस्व नित्यं  
 रामः स-भार्यो रमतां वनेषु ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2362,12 +2502,15 @@ be content with it, holdback your greediness...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् उक्तो दश-ग्रीवो मारीचेन स रावणः ।  
 न्यवर्तत पुरीं लङ्कां विवेश च गृहोत्तमम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2416,4 +2559,5 @@ and home. [3-31-50]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥31॥
+</details>
 </details>

@@ -2,6 +2,8 @@
 title = "०३२ हनुमता सुग्रीवबोधनम्"
 title_english = "032 Hanuma s advise to Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -22,12 +24,15 @@ to pray for the mercy of Lakshmana personally.
 
 32. हनुमान् जी का चिन्तित हुए सुग्रीवको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्य वचः श्रुत्वा सुग्रीवः सचिवैः सह ।  
 लक्ष्मणं कुपितं श्रुत्वा मुमोचासनमात्मवान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ also on knowing that Lakshmana is angered, that sensible Sugreeva stirred from s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च तानब्रवीद् वाक्यं निश्चित्य गुरुलाघवम् ।  
 मन्त्रज्ञान् मन्त्रकुशलो मन्त्रेषु परिनिष्ठितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ an expert in strategies and a diligent one in carrying out those strategies. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे दुर्व्याहृतं किञ्चिन्नापि मे दुरनुष्ठितम् ।  
 लक्ष्मणो राघवभ्राता क्रुद्धः किमिति चिन्तये ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +168,15 @@ why should Raghava's brother Lakshmana take offence at me? [4-32-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असुहृद्भिर्ममामित्रैर्नित्यमन्तरदर्शिभिः ।  
 मम दोषानसम्भूतान् श्रावितो राघवानुजः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ the fabricated faults of mine. [4-32-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र तावद् यथाबुद्धिः सर्वैरेव यथाविधि ।  
 भावस्य निश्चयस्तावद् विज्ञेयो निपुणं शनैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ about the attitude of Lakshmana, along with a steady but diligent determination 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खल्वस्ति मम त्रासो लक्ष्मणान्नापि राघवात् ।  
 मित्रं स्वस्थानकुपितं जनयत्येव सम्भ्रमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ of virtue in his heart of hearts for he reposed full confidence in Rama and thus
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा सुकरं मित्रं दुष्करं प्रतिपालनम् ।  
 अनित्यत्वात् तु चित्तानां प्रीतिरल्पेऽपि भिद्यते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ splits off that friendliness for sentiments are transient. [4-32-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो निमित्तं त्रस्तोऽहं रामेण तु महात्मना ।  
 यन्ममोपकृतं शक्यं प्रतिकर्तुं न तन्मया ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,12 +420,15 @@ has been done to me." So said Sugreeva to his ministers. [4-32-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेणैवमुक्ते तु हनूमान् हरिपुङ्गवः ।  
 उवाच स्वेन तर्केण मध्ये वानरमन्त्रिणाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ the Vanara ministers. [4-32-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा नैतदाश्चर्यं यत् त्वं हरिगणेश्वर ।  
 न विस्मरसि सुस्निग्धमुपकारं कृतं शुभम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,6 +521,7 @@ the advantageous help rendered to you, since it is natural for you. [4-32-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -497,6 +530,8 @@ the advantageous help rendered to you, since it is natural for you. [4-32-10]
 सर्वथा प्रणयात् क्रुद्धो राघवो नात्र संशयः ।  
 भ्रातरं सम्प्रहितवाल्ँ लक्ष्मणं लक्ष्मिवर्धनम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +595,15 @@ to fulfil your cherish. [4-32-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं प्रमत्तो न जानीषे कालं कालविदां वर ।  
 फुल्लसप्तच्छदश्यामा प्रवृत्ता तु शरच्छुभा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ a Sanskrit phrase still ruling high, is an inalienable, do-or-die order for the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्मलग्रहनक्षत्रा द्यौः प्रणष्टबलाहका ।  
 प्रसन्नाश्च दिशः सर्वाः सरितश्च सरांसि च ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +698,15 @@ and the rivers and lakes too are equable. [4-32-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तमुद्योगकालं तु नावैषि हरिपुङ्गव ।  
 त्वं प्रमत्त इति व्यक्तं लक्ष्मणोऽयमिहागतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +746,15 @@ not got the drift of it, as such Lakshmana must have come here, and it is obviou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तस्य हृतदारस्य परुषं पुरुषान्तरात् ।  
 वचनं मर्षणीयं ते राघवस्य महात्मनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +795,15 @@ another person, namely Lakshmana. [4-32-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतापराधस्य हि ते नान्यत् पश्याम्यहं क्षमम् ।  
 अन्तरेणाञ्जलिं बद्‍ध्वा लक्ष्मणस्य प्रसादनात् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +851,15 @@ soulfully...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियुक्तैर्मन्त्रिभिर्वाच्यो ह्यवश्यं पार्थिवो हितम् ।  
 इत एव भयं त्यक्त्वा ब्रवीम्यवधृतं वचः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +902,15 @@ what I hold fast discarding fear. [4-32-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिक्रुद्धः समर्थो हि चापमुद्यम्य राघवः ।  
 सदेवासुरगन्धर्वं वशे स्थापयितुं जगत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +949,15 @@ just on hitching up his bow, isn't it! [4-32-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स क्षमः कोपयितुं यः प्रसाद्यः पुनर्भवेत् ।  
 पूर्वोपकारं स्मरता कृतज्ञेन विशेषतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,12 +997,15 @@ beneficence to you and when you are beholden to him. [4-32-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य मूर्ध्ना प्रणम्य त्वं सपुत्रः ससुहृज्जनः ।  
 राजंस्तिष्ठ स्वसमये भर्तुर्भार्येव तद्वशे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -988,6 +1050,7 @@ by your own accord you made with him remaining under his auspices, like a wife a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -996,6 +1059,8 @@ by your own accord you made with him remaining under his auspices, like a wife a
 मनो हि ते ज्ञास्यति मानुषं बलं  
 सराघवस्यास्य सुरेन्द्रवर्चसः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1058,5 +1123,6 @@ divine expeditions are to be known by you.'
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥32॥
+</details>
 </details>
 

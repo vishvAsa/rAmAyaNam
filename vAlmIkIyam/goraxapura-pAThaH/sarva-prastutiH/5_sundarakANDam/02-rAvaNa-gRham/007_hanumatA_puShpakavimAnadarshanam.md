@@ -2,6 +2,8 @@
 title = "००७ हनुमता पुष्पकविमानदर्शनम्"
 title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -21,6 +23,7 @@ aerial plane Pushpaka in Ravana's building.
 
 7. रावणके भवन एवं पुष्पक विमानका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ aerial plane Pushpaka in Ravana's building.
 यथा महत्प्रावृषि मेघजालं  
 विद्युत्पिनद्धं सविहङ्गजालम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,6 +85,7 @@ with a group of birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -88,6 +94,8 @@ with a group of birds.
 मनोहराश्चापि पुनर्विशाला  
 ददर्श वेश्माद्रिषु चन्द्रशालाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,6 +145,7 @@ and other weapons, and also heartening spacious attics at the top of mountain- l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,6 +154,8 @@ and other weapons, and also heartening spacious attics at the top of mountain- l
 सर्वैश्च दोषैः परिवर्जितानि  
 कपिर्ददर्श स्वबलार्जितानि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,6 +200,7 @@ devoid of all flaws and obtained by the self-might of rakshasas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,6 +209,8 @@ devoid of all flaws and obtained by the self-might of rakshasas.
 महीतले सर्वगुणोत्तराणि  
 ददर्श लङ्काधिपतेर्गृहाणि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,6 +259,7 @@ constructed by Mayaa himself on earth with all best qualities.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,6 +268,8 @@ constructed by Mayaa himself on earth with all best qualities.
 रक्षोऽधिपस्यात्मबलानुरूपं  
 गृहोत्तमं ह्यप्रतिरूपरूपम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,6 +316,7 @@ suitable of Ravana's might
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +325,8 @@ suitable of Ravana's might
 नानातरूणां कुसुमावकीर्णं  
 गिरेरिवाग्रं रजसावकीर्णम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,6 +373,7 @@ mountain covered by pollen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -361,6 +382,8 @@ mountain covered by pollen.
 हंसप्रवेकैरिव वाह्यमानं  
 श्रिया युतं खे सुकृतं विमानम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +435,7 @@ sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -420,6 +444,8 @@ sky.
 ददर्श युक्तीकृतचारुमेघ-  
 चित्रं विमानं बहुरत्नचित्रम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,6 +496,7 @@ peak, looking picturesque with numerous minerals.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -478,6 +505,8 @@ peak, looking picturesque with numerous minerals.
 वृक्षाः कृताः पुष्पवितानपूर्णाः  
 पुष्पं कृतं केसरपत्रपूर्णम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,6 +558,7 @@ filaments and petals.
 
 * जहाँ पूर्वकथित वस्तुओंके प्रति उत्तरोत्तर कथित वस्तुओंका विशेषण-भावसे स्थापन किया जाय, वहाँ ‘एकावली’ अलंकार माना गया है । इस लक्षणके अनुसार इस श्लोकमें एकावली अलंकार है । यहाँ ‘मही’ का विशेषण पर्वत, पर्वतका वृक्ष और वृक्षका विशेषण पुष्प आदि समझना चाहिये । गोविन्दराजने यहाँ ‘अधिक’ नामक अलंकार माना है, परंतु जहाँ आधारसे आधेयकी विशेषता बतायी गयी हो वही इसका विषय है; यहाँ ऐसी बात नहीं है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -537,6 +567,8 @@ filaments and petals.
 पुनश्च पद्मानि सकेसराणि  
 वनानि चित्राणि सरोवराणि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,6 +618,7 @@ and also lotuses together with filaments and forest that were the best and wonde
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -594,6 +627,8 @@ and also lotuses together with filaments and forest that were the best and wonde
 वेश्मोत्तमानामपि चोच्चमानं  
 महाकपिस्तत्र महाविमानम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,6 +679,7 @@ distances.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -652,6 +688,8 @@ distances.
 चित्राश्च नानावसुभिर्भुजङ्गा  
 जात्यानुरूपास्तुरगाः शुभाङ्गाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,6 +741,7 @@ were arranged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -711,6 +750,8 @@ were arranged.
 कामस्य साक्षादिव भान्ति पक्षाः  
 कृता विहङ्गाः सुमुखाः सुपक्षाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +797,7 @@ himself
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -764,6 +806,8 @@ himself
 बभूव देवी च कृतासुहस्ता  
 लक्ष्मीस्तथा पद्मिनि पद्महस्ता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,6 +861,7 @@ exist in Pushpaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -825,6 +870,8 @@ exist in Pushpaka.
 पुनश्च तत्परमसुगन्धि सुन्दरं  
 हिमात्यये नगमिव चारुकन्दरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -876,6 +923,7 @@ beautiful cave became surprised and saw (again).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -884,6 +932,8 @@ beautiful cave became surprised and saw (again).
 अदृश्य तां जनकसुतां सुपूजितां  
 सुदुःखितां पतिगुणवेगनिर्जिताम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -936,6 +986,7 @@ worshipped by all and greatly conquered by the virtues of Her husband Sri Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -944,6 +995,8 @@ worshipped by all and greatly conquered by the virtues of Her husband Sri Rama
 अपश्यतोऽभवदतिदुःखितं मनः  
 सचक्षुषः प्रविचरतो महात्मनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,5 +1059,6 @@ about in the city of Lanka became greatly sorrowful on not seeing Seetha.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि एळनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

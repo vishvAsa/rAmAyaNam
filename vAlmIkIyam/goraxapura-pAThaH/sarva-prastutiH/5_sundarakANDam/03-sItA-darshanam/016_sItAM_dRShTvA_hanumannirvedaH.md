@@ -2,6 +2,8 @@
 title = "०१६ सीतां दृष्ट्वा हनुमन्निर्वेदः"
 title_english = "016 Hanuma s grief at the plight of Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,6 +22,7 @@ He becomes firm in mind that She is indeed Seetha, based on Her auspicious bodil
 
 16. हनुमान् जी का मन-ही-मन सीताजीके शील और सौन्दर्यकी सराहना करते हुए उन्हें कष्टमें पड़ी देख स्वयं भी उनके लिये शोक करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ He becomes firm in mind that She is indeed Seetha, based on Her auspicious bodil
 गुणाभिरामं रामं च  
 **पुनश्चिन्तापरोऽभवत्** ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +73,7 @@ pleasing with His virtues, became immersed in thought again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ pleasing with His virtues, became immersed in thought again.
 सीताम् **आश्रित्य** तेजस्वी  
 हनूमान् **विललाप** ह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +126,7 @@ with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +135,8 @@ with tears.
 यदि सीता हि दुःखार्ता  
 कालो हि दुरतिक्रमः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,6 +180,7 @@ with grief, destiny is indeed difficult to withstand."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,6 +189,8 @@ with grief, destiny is indeed difficult to withstand."
 नात्यर्थं **क्षुभ्यते** देवी  
 गङ्गेव जलदागमे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,6 +230,7 @@ in the rainy season."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -224,6 +239,8 @@ in the rainy season."
 राघवो **ऽर्हति** वैदेहीं  
 तं चेयम् असितेक्षणा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,6 +281,7 @@ pedigree and characteristics this black-eyed Seetha is also suited to Him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -272,6 +290,8 @@ pedigree and characteristics this black-eyed Seetha is also suited to Him."
 **जगाम** मनसा रामं  
 वचनं चेदम् **अब्रवीत्** ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,6 +335,7 @@ Hanuma went by heart to Sri Rama spoke these words also.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,6 +344,8 @@ Hanuma went by heart to Sri Rama spoke these words also.
 रावण-प्रतिमो वीर्ये  
 कबन्धश् च **निपातितः** ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,6 +386,7 @@ also equalling Ravana in strength has been felled."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +395,8 @@ also equalling Ravana in strength has been felled."
 वने रामेण **विक्रम्य**  
 महेन्द्रेणेव शम्बरः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +436,7 @@ by Mahendra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -422,6 +449,8 @@ by Mahendra."
 दूषणश्च महातेजा  
 रामेण विदितात्मना ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,6 +514,7 @@ tongues of fires."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -493,6 +523,8 @@ tongues of fires."
 अस्या निमित्ते सुग्रीवः  
 **प्राप्तवाल्ँ** लोकविश्रुतः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,6 +561,7 @@ by the world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -537,6 +570,8 @@ by the world."
 अस्या हेतोर् विशालाक्ष्याः  
 पुरी चेयं **निरीक्षिता** ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,6 +612,7 @@ me; this city also has been explored."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,6 +621,8 @@ me; this city also has been explored."
 अस्याः कृते जगच्चापि  
 युक्तम् इत्येव मे मतिः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +663,7 @@ universe it is fair, this is my opinion."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -633,6 +672,8 @@ universe it is fair, this is my opinion."
 त्रैलोक्यराज्यं सकलं  
 सीताया **नाप्नुयात् कलाम्** ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +714,7 @@ kingdom of three worlds will not approach a sixteenth part of Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -681,6 +723,8 @@ kingdom of three worlds will not approach a sixteenth part of Seetha."
 सुता मैथिलराजस्य  
 सीता भर्तृदृढव्रता ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,6 +739,7 @@ _________________
 
 ‘ये धर्मशील मिथिलानरेश महात्मा राजा जनककी पुत्री सीता पतिव्रत-धर्ममें बहुत दृढ़ हैं ॥ १५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -703,6 +748,8 @@ _________________
 पद्म-रेणु-निभैः कीर्णा  
 शुभैः केदार-पांसुभिः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +801,7 @@ with a firm resolution towards husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +810,8 @@ with a firm resolution towards husband."
 स्नुषा दशरथस्यैषा  
 ज्येष्ठा राज्ञो यशस्विनी ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,6 +851,7 @@ the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -809,6 +860,8 @@ the battle."
 इयं सा दयिता भार्या  
 राक्षसी-**वशम् आगता** ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,6 +900,7 @@ of demonesses."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -855,6 +909,8 @@ of demonesses."
 **अचिन्तयित्वा** कष्टानि  
 **प्रविष्टा** निर्जनं वनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +930,7 @@ _________________
 
 साध्वियाद इवळु पतिय प्रेमबलदिन्द आकर्षितळागि सकल विधवाद राजभोगगळन्नु परित्यजिसि वनवास कष्टगळन्नु लॆक्किसदॆ, निर्जनवाद अरण्यक्कॆ पतियॊडनॆ बन्दवळु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -882,6 +939,8 @@ _________________
 या परां **भजते प्रीतिं**  
 वनेऽपि भवने यथा ॥ २० ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,6 +960,7 @@ _________________
 
 पतिसेवा परायणॆयू, अरण्यदल्लि सिगुव फल-मूलादिगळिन्दले सन्तुष्टळागुत्तिद्द, श्रीरामनॊडनॆ परम प्रीतियिन्द अरमनॆयन्नु बिट्टु गॊण्डारण्यवन्नु सेरिद आ सीतॆयु इवळे.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -909,6 +969,8 @@ _________________
 **सहते** यातनाम् एताम्  
 अनर्थानाम् अभागिनी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,6 +1011,7 @@ a smiling talk, not suited to misfortunes - that this Seetha is bearing all this
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -957,6 +1020,8 @@ a smiling talk, not suited to misfortunes - that this Seetha is bearing all this
 रावणेन **प्रमथितां**  
 प्रपाम् इव पिपासितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -997,6 +1062,7 @@ like a thirsty one for a place where water is available freely."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1005,6 +1071,8 @@ like a thirsty one for a place where water is available freely."
 राजा राज्यपरिभ्रष्टः  
 पुनः प्राप्येव मेदिनीम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,6 +1116,7 @@ back the land."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1056,6 +1125,8 @@ back the land."
 **धारयत्य्** आत्मनो देहं  
 तत्-समागम-काङ्क्षिणी ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,6 +1165,7 @@ with Sri Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1102,6 +1174,8 @@ with Sri Rama."
 एकस्थ-हृदया नूनं  
 रामम् **एवानुपश्यति** ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,6 +1215,7 @@ only on Sri Rama - this is sure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1149,6 +1224,8 @@ only on Sri Rama - this is sure."
 एषा हि रहिता तेन  
 शोभनार्हा **न शोभते** ॥ २६ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1191,6 +1268,7 @@ deserving of decoration, is not looking charming without Sri Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1199,6 +1277,8 @@ deserving of decoration, is not looking charming without Sri Rama."
 **धारयत्य्** आत्मनो देहं  
 न दुःखेनावसीदति ॥ २७ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1238,6 +1318,7 @@ and not being depressed by sorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1246,6 +1327,8 @@ and not being depressed by sorrow."
 सुखार्हां दुःखितां **ज्ञात्वा**  
 ममापि **व्यथितं** मनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1289,6 +1372,7 @@ my mind also is gloomy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1297,6 +1381,8 @@ my mind also is gloomy."
 सा राक्षसीभिर् विकृतेक्षणाभिः  
 **संरक्ष्यते** सम्प्रति वृक्षमूले ॥ २९ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1347,6 +1433,7 @@ and Lakshmana, that Seetha now is being guarded by ogresses with crooked eyes at
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1355,6 +1442,8 @@ and Lakshmana, that Seetha now is being guarded by ogresses with crooked eyes at
 सह-चर-रहितेव चक्रवाकी  
 जनक-सुता **कृपणां दशां प्रपन्ना** ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1403,6 +1492,7 @@ obtained a pitiable condition like a chakravaka bird without a companion."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1411,6 +1501,8 @@ obtained a pitiable condition like a chakravaka bird without a companion."
 हिम-व्यपायेन च शीत-रश्मिर्  
 अभ्युत्थितो नैक-सहस्र-रश्मिः ॥ ३१ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1456,6 +1548,7 @@ of snow the risen up moon also with thousands of rays is causing grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1464,6 +1557,8 @@ of snow the risen up moon also with thousands of rays is causing grief."
 **संश्रित्य** तस्मिन् **निषसाद** वृक्षे  
 बली हरीणाम् ऋषभस् तरस्वी ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1519,5 +1614,6 @@ The mighty one, the best among vanaras, quick one, Hanuma thus observed the subj
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षोडशः सर्गः ॥ १६ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सोलहवाँ सर्ग पूरा हुआ ॥ १६ ॥
+</details>
 </details>
 

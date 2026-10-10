@@ -2,6 +2,8 @@
 title = "०३६ रावणेन माल्यवान्निन्दा"
 title_english = "036 Ravana abuses Malyavan"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **BookVI : Kishkindha Kanda - Book Of War**
@@ -23,12 +25,15 @@ to his inner apartments, after ordering these assignments.
 
 36. माल्यवान‍्पर आक्षेप और नगरकी रक्षाका प्रबन्ध करके रावणका अपने अन्तःपुरमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् तु माल्यवतो वाक्यं हितमुक्तं दशाननः ।  
 न मर्षयति दुष्टात्मा कालस्य वशमागतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ could not brook that beneficial advice tendered by Malyavan.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बद्‍ध्वा भ्रुकुटिं वक्त्रे क्रोधस्य वशमागतः ।  
 अमर्षात् परिवृत्ताक्षो माल्यवन्तमथाब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ his eyes in fury and spoke to Malyavan (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हितबुद्ध्या यदहितं वचः परुषमुच्यते ।  
 परपक्षं प्रविश्यैव नैतच्छ्रोत्रगतं मम ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ by taking sides with the enemy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषं कृपणं राममेकं शाखामृगाश्रयम् ।  
 समर्थं मन्यसे केन त्यक्तं पित्रा वनाश्रयम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ monkeys and dwelling in a forest having been abandoned by his father, to be a co
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षसामीश्वरं मां च देवानां च भयङ्करम् ।  
 हीनं मां मन्यसे केन अहीनं सर्वविक्रमैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ in full, to be a weaker person?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीरद्वेषेण वा शङ्के पक्षपातेन वा रिपोः ।  
 त्वयाहं परुषाण्युक्तो परप्रोत्साहनेन वा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ or your partiality towards the enemies or my lenience towards you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभवन्तं पदस्थं हि परुषं कोऽभिभाषते ।  
 पण्डितः शास्त्रतत्त्वज्ञो विना प्रोत्साहनेन वा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ to a mighty person in power, were it not to instigate him?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनीय च वनात् सीतां पद्महीनामिव श्रियम् ।  
 किमर्थं प्रतिदास्यामि राघवस्य भयादहम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +413,15 @@ lotus, having brought her away from the forest, through fear of Rama?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृतं वानरकोटीभिः ससुग्रीवं सलक्ष्मणम् ।  
 पश्य कैश्चिदहोभिश्च राघवं निहतं मया ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +461,15 @@ in the midst of crores of monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वन्द्वे यस्य न तिष्ठन्ति दैवतान्यपि संयुगे ।  
 स कस्माद् रावणो युद्धे भयमाहारयिष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,6 +509,7 @@ duel, entertain fear in this encounter?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -485,6 +518,8 @@ duel, entertain fear in this encounter?"
 एष मे सहजो दोषः  
 स्वभावो दुरतिक्रमः ॥ ११ ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +559,15 @@ it is my nature by difacult and unalterable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तावत् समुद्रे तु सेतुर्बद्धो यदृच्छया ।  
 रामेण विस्मयः कोऽत्र येन ते भयमागतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,12 +608,15 @@ indeed was constructed by Rama across the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तीर्त्वार्णवं रामः सह वानरसेनया ।  
 प्रतिजानामि ते सत्यं न जीवन् प्रतियास्यति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +656,15 @@ alive. It is my true promise to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं संरब्धं रुष्टं विज्ञाय रावणम् ।  
 व्रीडितो माल्यवान् वाक्यं नोत्तरं प्रत्यपद्यत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,12 +704,15 @@ did not reply.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जयाशिषा तु राजानं वर्धयित्वा यथोचितम् ।  
 माल्यवानभ्यनुज्ञातो जगाम स्वं निवेशनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +755,15 @@ and went home.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्तु सहामात्यो मन्त्रयित्वा विमृश्य च ।  
 लङ्कायास्तु तदा गुप्तिं कारयामास राक्षसः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,6 +803,7 @@ to be examined, set about planning the defense of Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -761,6 +812,8 @@ to be examined, set about planning the defense of Lanka.
 पश्चिमायामथ द्वारि पुत्रमिन्द्रजितं तदा ।  
 व्यादिदेश महामायं राक्षसैर्बहुभिर्वृतम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +861,15 @@ a powerful conjuror, with considerable force of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरस्यां पुरद्वारि व्यादिश्य शुकसारणौ ।  
 स्वयं चात्र गमिष्यामि मन्त्रिणस्तानुवाच ह ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +912,15 @@ would go there personally.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसं तु विरूपाक्षं महावीर्यपराक्रमम् ।  
 मध्यमेऽस्थापयद् गुल्मे बहुभिः सह राक्षसैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,12 +960,15 @@ of the fort, with a large number of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विधानं लङ्कायां कृत्वा राक्षसपुङ्गवः ।  
 कृतकृत्यमिवात्मानं मन्यते कालचोदितः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,6 +1008,7 @@ of Time, deemed his purpose as accomplished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -954,6 +1017,8 @@ of Time, deemed his purpose as accomplished.
 जयाशिषा मन्त्रिगणेन पूजितो  
 विवेश सोऽन्तःपुरमृद्धिमन्महत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,5 +1075,6 @@ entered his mighty and sumptuous inner apartments.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तारनॆय सर्ग पूर्णवायितु.॥36॥
+</details>
 </details>
 

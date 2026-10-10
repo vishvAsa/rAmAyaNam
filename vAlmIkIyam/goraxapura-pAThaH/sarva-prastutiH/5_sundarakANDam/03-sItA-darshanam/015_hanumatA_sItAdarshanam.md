@@ -2,6 +2,8 @@
 title = "०१५ हनुमता सीतादर्शनम्"
 title_english = "015 Hanuma sees Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,6 +22,7 @@ Hanuma continues his search in the Ashoka garden for Seetha. He sees an emaciate
 
 15. वनकी शोभा देखते हुए हनुमान् जी का एक चैत्यप्रासाद (मन्दिर)-के पास सीताको दयनीय अवस्थामें देखना, पहचानना और प्रसन्न होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ Hanuma continues his search in the Ashoka garden for Seetha. He sees an emaciate
 अवेक्षमाणश् च महीं  
 सर्वां ताम् अन्ववैक्षत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +73,7 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 दिव्य-गन्ध-रसोपेतां  
 सर्वतः समलङ्कृताम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,6 +102,7 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 
 अवनु नोडुत्तिद्द अशोकवनद भूभागवू कल्पवृक्षद लतॆगळिन्दलू, वृक्षगळिन्दलू सुशोभितवागित्तु. दिव्यगन्ध हागू दिव्यरसदिन्दलू परिपूर्णवागिद्दु, ऎल्ल कडॆगळल्लियू समलङ्कृतवागित्तु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -102,6 +111,8 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 हर्म्य-प्रासाद-सम्बाधां  
 कोकिलाकुल-निःस्वनाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +129,7 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 
 मृग-पक्षिगळिन्दलू सुत्तुवरियल्पट्ट, सुवर्णमयवाद प्रासादगळिन्द निबिडवागिद्दु, कोगिलॆगळ समूहगळिन्द निनादितवागित्तु. अदु इन्द्रन नन्दनवनदन्तॆ शोभिसुत्तित्तु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +138,8 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 बह्वासन-कुथ+++(=दर्भ)++++उपेतां  
 बहु-भूमि-गृहायुताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,6 +156,7 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 
 सुवर्णमयवाद कमल हागू कन्नॆदिलॆगळुळ्ळ कॊळगळिन्द शोभायमानवागित्तु. अल्लि अनेक नॆलमाळिगॆगळु इद्दुवु. अवु आसनगळिन्दलू, चित्रगम्बळिगळिन्दलू अलङ्कृतवागित्तु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,6 +165,8 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 पुष्पितानाम् अशोकानां  
 श्रिया सूर्योदय-प्रभाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,6 +186,7 @@ _________________
 
 आ वनवु ऎल्ल ऋतुगळल्लियू हू-हण्णुगळन्नु नीडुव फलभरित वृक्षगळिन्द कूडिद्दितु. पुष्पितवाद अशोक वृक्षगळ कान्तियु उदितसूर्यन प्रभॆयन्नु अनुकरिसुत्तिद्दु देदीप्यमानवागि शोभिसुत्तित्तु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,6 +195,8 @@ _________________
 निष्पत्र-शाखां विहगैः  
 क्रियमाणाम् इवासकृत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,6 +207,7 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 पवनकुमार हनुमान् ने उस अशोकपर बैठे-बैठे ही उस दमकती हुई-सी वाटिकाको देखा । वहाँके पक्षी उस वाटिकाको बारंबार पत्रों और शाखाओंसे हीन कर रहे थे ॥ ६ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +223,8 @@ _________________
 स देशः प्रभया तेषां  
 प्रदीप्त इव सर्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,6 +294,7 @@ That Hanuma being there observed closely that Ashoka garden shone by Santanaka c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,6 +303,8 @@ That Hanuma being there observed closely that Ashoka garden shone by Santanaka c
 विवृद्ध-मूला बहवः  
 शोभन्ते स्म सुपुष्पिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,6 +325,7 @@ _________________
 
 पुंनाग (श्वेत कमल या नागकेसर), छितवन, चम्पा तथा बहुवार आदि बहुत-से सुन्दर पुष्पवाले वृक्ष, जिनकी जड़ें बहुत मोटी थीं, वहाँ शोभा पा रहे थे ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +334,8 @@ _________________
 नीलाञ्जन-निभाः केचित्  
 तत्राशोकाः+++(=Saraca Asoka)+++ सहस्रशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,6 +373,7 @@ There in that garden of Ashoka there were thousands of Ashoka trees some equalli
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -352,6 +382,8 @@ There in that garden of Ashoka there were thousands of Ashoka trees some equalli
 अतिवृत्तम् इवाचिन्त्यं  
 दिव्यं रम्यश्रिया युतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,6 +420,7 @@ By the radiance of those trees that region was as though lit in all directions. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -396,6 +429,8 @@ By the radiance of those trees that region was as though lit in all directions. 
 पुष्परत्न-शतैश्चित्रं  
 पञ्चमं सागरं यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,6 +449,7 @@ _________________
 
 ऊहॆगू निलुकदन्तह सॊबगिनिन्द कूडिद्द आ उद्यानवु रम्यवाद हागू दिव्यवाद कान्तियिन्द शोभिसुत्तित्तु. पुष्परूपवाद तारॆगळ समूहगळिन्द व्याप्तवागिद्दु मत्तॊन्दु आकाशदन्तॆ विराजिसुत्तित्तु. ॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -426,6 +462,8 @@ _________________
 शैलेन्द्रम् इव गन्धाढ्यं  
 द्वितीयं गन्धमादनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,6 +523,7 @@ Like the garden of Nandana, a celestial garden, wonderful like Caitraratham, a g
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -501,6 +540,8 @@ Like the garden of Nandana, a celestial garden, wonderful like Caitraratham, a g
 निर्मलं प्रांशुभावत्वाद्  
 **उल्लिखन्तम्** इवाम्बरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -571,6 +612,7 @@ That monkey warrior Hanuma saw not far away in that Ashoka garden, in the middle
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -581,6 +623,8 @@ That monkey warrior Hanuma saw not far away in that Ashoka garden, in the middle
 **ददर्श** शुक्ल-पक्षादौ  
 चन्द्र-रेखाम् इवामलाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,6 +671,7 @@ Thereafter Hanuma saw Seetha wearing a soiled garment, surrounded by rakshasa wo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -635,6 +680,8 @@ Thereafter Hanuma saw Seetha wearing a soiled garment, surrounded by rakshasa wo
 **पिनद्धां** धूम-जालेन  
 शिखाम् इव विभावसोः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,6 +716,7 @@ With a form that slowly came out like a tongue of fire, of beautiful radiance co
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -677,6 +725,8 @@ With a form that slowly came out like a tongue of fire, of beautiful radiance co
 सपङ्काम् अनलं-कारां  
 विपद्माम् इव पद्मिनीम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,6 +767,7 @@ Covered by a single best cloth of yellow colour, which was wrinkled, without any
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -725,6 +776,8 @@ Covered by a single best cloth of yellow colour, which was wrinkled, without any
 ग्रहेणाङ्गारकेणेव  
 पीडितामिव रोहिणीम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -768,6 +821,7 @@ Bashful, tortured by sorrow worn out in a pitiable condition like the constellat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -776,6 +830,8 @@ Bashful, tortured by sorrow worn out in a pitiable condition like the constellat
 शोक-ध्यानपरां दीनां  
 नित्यं दुःखपरायणाम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,6 +872,7 @@ With a face full of tears in a pitiable condition, emaciated due to not taking f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -824,6 +881,8 @@ With a face full of tears in a pitiable condition, emaciated due to not taking f
 स्वगणेन मृगीं हीनां  
 श्व-गणेनावृताम् इव ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,6 +926,7 @@ Not seeing dear people, seeing groups of demonesses, like a female deer loosing 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -875,6 +935,8 @@ Not seeing dear people, seeing groups of demonesses, like a female deer loosing 
 नीलया नीरदापाये  
 वनराज्या महीम् इव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,6 +986,7 @@ With a braid with the radiance of a single black serpent reaching hinder part, l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -934,6 +997,8 @@ With a braid with the radiance of a single black serpent reaching hinder part, l
 तर्कयामास सीतेति  
 कारणैर् उपपादिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,6 +1021,7 @@ _________________
 
 वह सुख भोगनेके योग्य थी, किंतु दुःखसे संतप्त हो रही थी । इसके पहले उसे संकटोंका कोई अनुभव नहीं था । उस विशाल नेत्रोंवाली, अत्यन्त मलिन और क्षीणकाय अबलाका अवलोकन करके युक्तियुक्त कारणोंद्वारा हनुमान् जी ने यह अनुमान किया कि हो-न-हो यही सीता है ॥ २६ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,6 +1030,8 @@ _________________
 यथारूपा हि दृष्टा सा  
 तथारूपेयम् अङ्गना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,6 +1091,7 @@ Observing that woman with wide eyes, very untidy, emaciated, Hanuma thought that
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1031,6 +1100,8 @@ Observing that woman with wide eyes, very untidy, emaciated, Hanuma thought that
 कुर्वतीं प्रभया देवीं  
 सर्वा वितिमिरा दिशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,12 +1115,15 @@ _________________
 
 देवी सीताका मुख पूर्ण चन्द्रमाके समान मनोहर था । उनकी भौंहें बड़ी सुन्दर थीं । दोनों स्तन मनोहर और गोलाकार थे । वे अपनी अंगकान्तिसे सम्पूर्ण दिशाओंका अन्धकार दूर किये देती थीं ॥ २८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां नीलकण्ठीं बिम्बोष्ठीं  
 सुमध्यां सुप्रतिष्ठिताम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,6 +1135,7 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनके केश काले-काले और ओष्ठ बिम्बफलके समान लाल थे । कटिभाग बहुत ही सुन्दर था । सारे अंग सुडौल और सुगठित थे ॥ २९ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1074,6 +1149,8 @@ _________________
 निःश्वास-बहुलां भीरुं  
 भुजगेन्द्र-वधूम् इव ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,6 +1217,7 @@ Hanuma saw Seetha with a face like full moon, with beautiful eyebrows, with grac
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1148,6 +1226,8 @@ Hanuma saw Seetha with a face like full moon, with beautiful eyebrows, with grac
 संसक्तां धूम-जालेन  
 शिखाम् इव विभावसोः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,6 +1284,7 @@ Sighing a lot like the consort of lord of serpents in fright, not radiant by sor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1216,6 +1297,8 @@ Sighing a lot like the consort of lord of serpents in fright, not radiant by sor
 अभूतेनापवादेन  
 कीर्तिं निपतिताम् इव ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1260,6 +1343,7 @@ Like fame that has fallen down by a false scandal, tortured by the obstruction c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1268,6 +1352,8 @@ Like fame that has fallen down by a false scandal, tortured by the obstruction c
 अबलां मृग-शावाक्षीं  
 **वीक्षमाणां** ततस् ततः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,6 +1389,7 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1311,6 +1398,8 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 वदनेनाप्रसन्नेन  
 निःश्वसन्तीं पुनः पुनः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,6 +1413,7 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 
 उनका मुख प्रसन्न नहीं था । उसपर आँसुओंकी धारा बह रही थी और नेत्रोंकी पलकें काली एवं टेढ़ी दिखायी देती थीं । वे बारंबार लंबी साँस खींचती थीं ॥ ३६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1332,6 +1422,8 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 प्रभां नक्षत्र-राजस्य  
 कालमेघैर् इवावृताम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1390,6 +1482,7 @@ With eyes like those of a young doe full of tears, with black and oblique eye-br
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1398,6 +1491,8 @@ With eyes like those of a young doe full of tears, with black and oblique eye-br
 आम्नायानाम् +++(अभ्यास-)+++अयोगेन  
 विद्यां प्रशिथिलाम् इव ॥ ३८ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1440,6 +1535,7 @@ Seeing Seetha like knowledge in ruin for want of repeated study, that Hanuma's m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1448,6 +1544,8 @@ Seeing Seetha like knowledge in ruin for want of repeated study, that Hanuma's m
 संस्कारेण यथा हीनां  
 वाचम् अर्थान्तरं गताम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1491,6 +1589,7 @@ Hanuma recognized with great sorrow Seetha not decorated, like a sentence which 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1499,6 +1598,8 @@ Hanuma recognized with great sorrow Seetha not decorated, like a sentence which 
 तर्कयाम् आस सीतेति  
 कारणैर् उपपादयन् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1541,6 +1642,7 @@ Seeing that princess, the wide eyed one, blameless one, Hanuma reasoned her to b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1549,6 +1651,8 @@ Seeing that princess, the wide eyed one, blameless one, Hanuma reasoned her to b
 तान्य् आभरण-जालानि  
 गात्रशोभीन्य् **अलक्षयत्** ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1568,6 +1672,7 @@ _________________
 
 श्रीरामनु वैदेहियु याव-याव अवयवगळल्लि याव-याव आभरणगळन्नु धरिसुत्तिरुवळु ऎन्दु हनुमन्तन बळि हेळिद्दनु. अवॆल्ल आभरणगळु अल्ले इद्द ऒन्दु मरद कॊम्बॆयल्लि तूगुहाकिद्दन्नु मारुतियु नोडिदनु.॥41॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1576,6 +1681,8 @@ _________________
 मणिविद्रुम-चित्राणि  
 हस्तेष्व् आभरणानि च ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1586,6 +1693,7 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सुन्दर बने हुए कुण्डल और कुत्तेके दाँतोंकी-सी आकृतिवाले त्रिकर्ण नामधारी कर्णफूल कानोंमें सुन्दर ढंगसे सुप्रतिष्ठित एवं सुशोभित थे । हाथोंमें कंगन आदि आभूषण थे, जिनमें मणि और मूँगे जड़े हुए थे ॥ ४२ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1599,6 +1707,8 @@ _________________
 यान्यस्या नावहीनानि  
 तानीमानि न संशयः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1671,6 +1781,7 @@ Then Hanuma saw whatever groups of jewellery of Seetha on various parts Rama spo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1683,6 +1794,8 @@ Then Hanuma saw whatever groups of jewellery of Seetha on various parts Rama spo
 अनयैवापविद्धानि  
 स्वनवन्ति महान्ति च ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1753,6 +1866,7 @@ That upper garment yellow with a shine like a golden plate, auspicious one, bein
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1761,6 +1875,8 @@ That upper garment yellow with a shine like a golden plate, auspicious one, bein
 तथाप्य् अनूनं तद्वर्णं  
 तथा श्रीमद्-यथेतरत् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1799,6 +1915,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1807,6 +1924,8 @@ _________________
 **प्रणष्टापि** सती यस्य  
 मनसो **न प्रणश्यति** ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1850,6 +1969,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1858,6 +1978,8 @@ _________________
 कारुण्येनानृशंस्येन  
 शोकेन मदनेन च ॥ ४९ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1877,6 +1999,7 @@ _________________
 
 श्रीरामनु यार सलुवागि कारुण्य, अनृंशस्य, शोक, प्रेम ऎम्ब नाल्करिन्दलू परितपिसुत्तिरुवनो अन्तह सीतादेवियु इवळे आगिद्दाळॆ.॥49॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1885,6 +2008,8 @@ _________________
 पत्नी नष्टेति शोकेन  
 प्रियेति मदनेन च ॥ ५० ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1925,6 +2050,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1933,6 +2059,8 @@ _________________
 रामस्य च यथारूपं  
 तस्येयम् असितेक्षणा ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1976,6 +2104,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1984,6 +2113,8 @@ _________________
 तेनेयं स च धर्मात्मा  
 मुहूर्तम् अपि जीवति ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2024,6 +2155,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2032,6 +2164,8 @@ _________________
 **धारयत्य्** आत्मनो देहं  
 न शोकेनावसीदति ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2072,6 +2206,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2080,6 +2215,8 @@ _________________
 **जगाम** मनसा रामं  
 **प्रशशंस** च तं प्रभुम् ॥ ५४ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2128,5 +2265,6 @@ Hanuma, then seeing Seetha became happy thus and went by mind to Rama and also p
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे पञ्चदशः सर्ग ॥ १५ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें पंद्रहवाँ सर्ग पूरा हुआ ॥ १५ ॥
+</details>
 </details>
 

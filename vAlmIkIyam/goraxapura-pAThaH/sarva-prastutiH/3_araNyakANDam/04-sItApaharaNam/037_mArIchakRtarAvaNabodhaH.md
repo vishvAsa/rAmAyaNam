@@ -2,6 +2,8 @@
 title = "०३७ मारीचकृतरावणबोधः"
 title_english = "037 Maareecha s advise to Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ asking him to not to meddle with Rama's affairs.
 
 37. मारीचका रावणको श्रीरामचन्द्रजीके गुण और प्रभाव बताकर सीताहरणके उद्योगसे रोकना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रस्य वाक्यं वाक्यविशारदः ।  
 प्रत्युवाच महातेजा मारीचो राक्षसेश्वरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ well-informed one and an articulator spoke to the lord of demons in reply. [3-37
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुलभाः पुरुषा राजन् सततं प्रियवादिनः ।  
 अप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ to Ramayana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनं बुध्यसे रामं महावीर्यगुणोन्नतम् ।  
 अयुक्तचारश्चपलो महेन्द्रवरुणोपमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +160,15 @@ to Ramayana.
 
 ‘तुम कोई गुप्तचर तो रखते नहीं और तुम्हारा हृदय भी बहुत ही चञ्चल है; अतः निश्चय ही तुम श्रीरामचन्द्रजीको बिलकुल नहीं जानते । वे पराक्रमोचित गुणोंमें बहुत बढ़े-चढ़े तथा इन्द्र और वरुणके समान हैं ॥ ३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि स्वस्ति भवेत् तात सर्वेषामपि रक्षसाम् ।  
 अपि रामो न सङ्क्रुद्धः कुर्याल्लोकानराक्षसान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,12 +233,15 @@ thunderous Mahendra and tempestuous Varuna, the Rain-god. [3-37-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि ते जीवितान्ताय नोत्पन्ना जनकात्मजा ।  
 अपि सीतानिमित्तं च न भवेद् व्यसनं महत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -265,12 +282,15 @@ because of this Seetha will there be a great disaster, so to speak! [3-37-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि त्वामीश्वरं प्राप्य कामवृत्तं निरङ्कुशम् ।  
 न विनश्येत् पुरी लङ्का त्वया सह सराक्षसा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +331,15 @@ City of Lanka be doomed along with her demons, and you put together, or what! [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वद्विधः कामवृत्तो हि दुःशीलः पापमन्त्रितः ।  
 आत्मानं स्वजनं राष्ट्रं स राजा हन्ति दुर्मतिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +390,15 @@ in full, in these days.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पित्रा परित्यक्तो नामर्यादः कथञ्चन ।  
 न लुब्धो न च दुःशीलो न च क्षत्रियपांसनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +418,15 @@ _________________
 
 श्रीरामचन्द्रनन्नु तन्दॆयु त्यजिसलिल्ल, अवनु धर्वामर्यादॆयन्नु त्यजिसलिल्ल, अवनु लोभियू अल्ल, दूषितविचारवुळ्ळवनू अल्ल मत्तु क्षत्रिय कुलकलङ्कितनू अल्ल.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च धर्मगुणैर्हीनः कौसल्यानन्दवर्धनः ।  
 न च तीक्ष्णो हि भूतानां सर्वभूतहिते रतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +468,15 @@ beings, for he takes delight in the welfare of all beings. [3-37-8, 9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वञ्चितं पितरं दृष्ट्वा कैकेय्या सत्यवादिनम् ।  
 करिष्यामीति धर्मात्मा ततः प्रव्रजितो वनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +519,15 @@ real proponent of truth.' [3-37-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्याः प्रियकामार्थं पितुर्दशरथस्य च ।  
 हित्वा राज्यं च भोगांश्च प्रविष्टो दण्डकावनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,12 +571,15 @@ viz., to remain loyal to his promise to Kaikeyi. [3-37-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न रामः कर्कशस्तात नाविद्वान् नाजितेन्द्रियः ।  
 अनृतं न श्रुतं चैव नैव त्वं वक्तुमर्हसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ and oh, boy, it is unapt of you to speak of impalpable and unheard-of topics in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो विग्रहवान् धर्मः साधुः सत्यपराक्रमः ।  
 राजा सर्वस्य लोकस्य देवानामिव वासवः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +676,15 @@ and the question of his defeat does not arise, because he will abide by his cons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नु तस्य वैदेहीं रक्षितां स्वेन तेजसा ।  
 इच्छसे प्रसभं हर्तुं प्रभामिव विवस्वतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +732,15 @@ thrive in an unnatural gloom? This is the doubt of Maareecha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरार्चिषमनाधृष्यं चापखड्गेन्धनं रणे ।  
 रामाग्निं सहसा दीप्तं न प्रवेष्टुं त्वमर्हसि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,6 +782,7 @@ recklessly. [3-37-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -743,6 +791,8 @@ recklessly. [3-37-15]
 राज्यं सुखं च सन्त्यज्य जीवितं चेष्टमात्मनः ।  
 नात्यासादयितुं तात रामान्तकमिहार्हसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +849,15 @@ discarding your kingdom, comforts and even the dear life of yours. [3-37-16, 17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा ।  
 न त्वं समर्थस्तां हर्तुं रामचापाश्रयां वने ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,12 +918,15 @@ inapt of you to make any useless effort when everything is firewalled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वै नरसिंहस्य सिंहोरस्कस्य भामिनी ।  
 प्राणेभ्योऽपि प्रियतरा भार्या नित्यमनुव्रता ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +967,15 @@ Rama, and in truth, she is avowed to follow him alone, in perpetuity. [3-37-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सा धर्षयितुं शक्या मैथिल्योजस्विनः प्रिया ।  
 दीप्तस्येव हुताशस्य शिखा सीता सुमध्यमा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1016,15 @@ Maithili, the cherished wife of that dynamic Rama, is an impossibility for any a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमुद्यमं व्यर्थमिमं कृत्वा ते राक्षसाधिप ।  
 दृष्टश्चेत् त्वं रणे तेन तदन्तमुपजीवितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,12 +1076,15 @@ namely the resplendence of that couple.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितं च सुखं चैव राज्यं चैव सुदुर्लभम् ।  
 यदीच्छसि चिरं भोक्तुं मा कृथा रामविप्रियम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1060,6 +1125,7 @@ unpleasant to Rama. [3-37-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1069,6 +1135,8 @@ unpleasant to Rama. [3-37-22]
 आत्मनश्च बलं ज्ञात्वा राघवस्य च तत्त्वतः ।  
 हितं हि तव निश्चित्य क्षमं त्वं कर्तुमर्हसि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,6 +1198,7 @@ interests. [3-37-24,25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1138,6 +1207,8 @@ interests. [3-37-24,25]
 इदं हि भूयः शृणु वाक्यमुत्तमं  
 क्षमं च युक्तं च निशाचराधिप ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1194,5 +1265,6 @@ this advise of mine, to which you may listen further. [3-37-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तेळनॆयु सर्ग सम्पूर्णवायितु.॥37॥
+</details>
 </details>
 

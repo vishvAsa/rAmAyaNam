@@ -2,6 +2,8 @@
 title = "०६० सुमन्त्रकृतकौसल्यासान्त्वनम्"
 title_english = "060 Sumantra was unable to console Kausalya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ Rama can reside in the forest delightfully, by warding off his agony.
 
 60. कौसल्याका विलाप और सारथि सुमन्त्रका उन्हें समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भूतोपसृष्टेव वेपमाना पुनः पुनः ।  
 धरण्यां गतसत्त्वेव कौसल्या सूतमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ lying on the floor without proper disposition of mind, spoke to Sumantra as foll
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नय मां यत्र काकुत्स्थः सीता यत्र च लक्ष्मणः ।  
 तान् विना क्षणमप्यद्य जीवितुं नोत्सहे ह्यहम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ not cherish to live here even for a moment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तय रथं शीघ्रं दण्डकान् नय मामपि ।  
 अथ तान् नानुगच्छामि गमिष्यामि यमक्षयम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ do not go after them, I shall enter the Death's abode."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पवेगोपहतया स वाचा सज्जमानया ।  
 इदमाश्वासयन् देवीं सूतः प्राञ्जलिरब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ consoling Kausalya, spoke these words to her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यज शोकं च मोहं च सम्भ्रमं दुःखजं तथा ।  
 व्यवधूय च सन्तापं वने वत्स्यति राघवः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ forest, warding off anguish."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्चापि रामस्य पादौ परिचरन् वने ।  
 आराधयति धर्मज्ञः परलोकं जितेन्द्रियः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ serving the feet of Rama in the forest, is propitiating the other world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विजनेऽपि वने सीता वासं प्राप्य गृहेष्विव ।  
 विस्रम्भं लभतेऽभीता रामे विन्यस्तमानसा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,12 +363,15 @@ mind encamped in Rama and being fearless, is acquiring confidence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्या दैन्यं कृतं किञ्चित् सुसूक्ष्ममपि लक्ष्यते ।  
 उचितेव प्रवासानां वैदेही प्रतिभाति मे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +415,15 @@ appears to me as though Seetha is accustomed to so many exiles."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नगरोपवनं गत्वा यथा स्म रमते पुरा ।  
 तथैव रमते सीता निर्जनेषु वनेष्वपि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ earlier enjoying in visiting gardens in the city."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालेव रमते सीताबालचन्द्रनिभानना ।  
 रामा रामे ह्यदीनात्मा विजनेऽपि वने सती ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +512,15 @@ absorbed in Rama, even though staying in a lonely forest, is enjoying it like a 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद‍्गतं हृदयं यस्यास्तदधीनं च जीवितम् ।  
 अयोध्या हि भवेदस्या रामहीना तथा वनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,12 +561,15 @@ Ayodhya is without Rama, then it becomes a forest to her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिपृच्छति वैदेही ग्रामांश्च नगराणि च ।  
 गतिं दृष्ट्वा नदीनां च पादपान् विविधानपि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +586,15 @@ Ayodhya is without Rama, then it becomes a forest to her."
 
 विदेहनन्दिनी सीतॆयु दारियल्लि सिगुव ऊरु, नगर, नदिगळन्नु, नाना प्रकारद वृक्षगळन्नु नोडि अवुगळ परिचय केळुत्ता इरुत्ताळॆ.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं वा लक्ष्मणं वापि दृष्ट्वा जानाति जानकी ।  
 अयोध्या क्रोशमात्रे तु विहारमिव साश्रिता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +632,15 @@ Rama or Lakshmana and Knows well about them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमेव स्मराम्यस्याः सहसैवोपजल्पितम् ।  
 कैकेयीसंश्रितं जल्पं नेदानीं प्रतिभाति माम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +680,15 @@ now of the words hurriedly spoken of by Seetha about Kaikeyi."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्वंसयित्वा तु तद् वाक्यं प्रमादात् पर्युपस्थितम् ।  
 ह्लादनं वचनं सूतो देव्या मधुरमब्रवीत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,12 +729,15 @@ lips by inadvertence, Sumantra spoke only delightful and sweet words to Kausalya
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्वना वातवेगेन सम्भ्रमेणातपेन च ।  
 न विगच्छति वैदेह्याश्चन्द्रांशुसदृशी प्रभा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -731,12 +781,15 @@ sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशं शतपत्रस्य पूर्णचन्द्रोपमप्रभम् ।  
 वदनं तद् वदान्याया वैदेह्या न विकम्पते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +829,15 @@ to that of a full moon, did not become changed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलक्तरसरक्ताभावलक्तरसवर्जितौ ।  
 अद्यापि चरणौ तस्याः पद्मकोशसमप्रभौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +878,15 @@ buds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूपुरोत्कृष्टलीलेव खेलं गच्छति भामिनी ।  
 इदानीमपि वैदेही तद्रागान्यस्तभूषणा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +926,15 @@ ornaments, as a mark of Her passion towards Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजं वा वीक्ष्य सिंहं वा व्याघ्रं वा वनमाश्रिता ।  
 नाहारयति सन्त्रासं बाहू रामस्य संश्रिता ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +975,15 @@ give Herself to fear, even by seeing an elephant or a lion or a tiger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शोच्यास्ते न चात्मा ते शोच्यो नापि जनाधिपः ।  
 इदं हि चरितं लोके प्रतिष्ठास्यति शाश्वतम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -958,6 +1023,7 @@ the world forever."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -966,6 +1032,8 @@ the world forever."
 वने रता वन्यफलाशनाः पितुः  
 शुभां प्रतिज्ञां प्रतिपालयन्ति ते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,6 +1085,7 @@ promise given to their father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1025,6 +1094,8 @@ promise given to their father."
 न चैव देवी विरराम कूजितात्  
 प्रियेति पुत्रेति च राघवेति च ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,5 +1150,6 @@ emaciated by sorrow for her son, could not stop crying, "O, my dear son Rama!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तनॆय सर्ग पूर्णवायितु ॥60॥
+</details>
 </details>
 

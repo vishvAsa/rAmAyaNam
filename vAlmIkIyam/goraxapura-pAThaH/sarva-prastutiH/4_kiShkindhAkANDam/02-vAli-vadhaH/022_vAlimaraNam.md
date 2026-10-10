@@ -2,6 +2,8 @@
 title = "०२२ वालिमरणम्"
 title_english = "022 Vali s death time advises"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ for Seetha's search.
 
 22. वालीका सुग्रीव और अङ्गदसे अपने मनकी बात कहकर प्राणोंको त्याग देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षमाणस्तु मन्दासुः सर्वतो मन्दमुच्छ्वसन् ।  
 आदावेव तु सुग्रीवं ददर्शानुजमग्रतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ firstly saw his brother Sugreeva afore him. [4-22-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्राप्तविजयं वाली सुग्रीवं प्लवगेश्वरम् ।  
 आभाष्य व्यक्तया वाचा सस्नेहमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ amicably spoke this to him in an unambiguous tone. [4-22-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीव दोषेण न मां गन्तुमर्हसि किल्बिषात् ।  
 कृष्यमाणं भविष्येण बुद्धिमोहेन मां बलात् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ forcibly hauled into this futurity owing to my impropriety and obduracy. [4-22-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युगपद् विहितं तात न मन्ये सुखमावयोः ।  
 सौहार्दं भ्रातृयुक्तं हि तदिदं जातमन्यथा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ therefore the amity seemly to brothers has cropped up otherwise. [4-22-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिपद्य त्वमद्यैव राज्यमेषां वनौकसाम् ।  
 मामप्यद्यैव गच्छन्तं विद्धि वैवस्वतक्षयम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +280,15 @@ his nobility high up, as an unrivalled champion and even as an elderly brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितं च हि राज्यं च श्रियं च विपुलां तथा ।  
 प्रजहाम्येष वै तूर्णमहं चागर्हितं यशः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ and even the unenviable glory which adduces that 'Vali is unkillable,' right awa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्यां त्वहमवस्थायां वीर वक्ष्यामि यद् वचः ।  
 यद्यप्यसुकरं राजन् कर्तुमेव त्वमर्हसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,12 +376,15 @@ infeasible. [4-22-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखार्हं सुखसंवृद्धं बालमेनमबालिशम् ।  
 बाष्पपूर्णमुखं पश्य भूमौ पतितमङ्गदम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ comforts, though a boy he is mannerly, and who with his tear-filled face fallen 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम प्राणैः प्रियतरं पुत्रं पुत्रमिवौरसम् ।  
 मया हीनमहीनार्थं सर्वतः परिपालय ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ foster him as if he is your own son, with no resources becoming sparse in every 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमप्यस्य पिता दाता परित्राता च सर्वशः ।  
 भयेष्वभयदश्चैव यथाहं प्लवगेश्वर ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ protector from all sides, and also thus an assurer in fear. [4-22-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष तारात्मजः श्रीमांस्त्वया तुल्यपराक्रमः ।  
 रक्षसां च वधे तेषामग्रतस्ते भविष्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +576,15 @@ those demons he will be in your advance guard. [4-22-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरूपाणि कर्माणि विक्रम्य बलवान् रणे ।  
 करिष्यत्येष तारेयस्तेजस्वी तरुणोऽङ्गदः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +624,15 @@ Angada will undertake actions seemly for a son of mine. [4-22-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषेणदुहिता चेयमर्थसूक्ष्मविनिश्चये ।  
 औत्पातिके च विविधे सर्वतः परिनिष्ठिता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +653,15 @@ _________________
 
 ‘सुषेणकी पुत्री यह तारा सूक्ष्म विषयोंके निर्णय करने तथा नाना प्रकारके उत्पातोंके चिह्नोंको समझनेमें सर्वथा निपुण है ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदेषा साध्विति ब्रूयात् कार्यं तन्मुक्तसंशयम् ।  
 नहि तारामतं किञ्चिदन्यथा परिवर्तते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -687,12 +731,15 @@ become the father of Tara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य च ते कार्यं कर्तव्यमविशङ्कया ।  
 स्यादधर्मो ह्यकरणे त्वां च हिंस्यादमानितः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +781,15 @@ may even be punished for dishonouring him and your given word to him. [4-22-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां च मालामाधत्स्व दिव्यां सुग्रीव काञ्चनीम् ।  
 उदारा श्रीः स्थिता ह्यस्यां सम्प्रजह्यान्मृते मयि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,12 +836,15 @@ pendant, but Vali has to safeguard it without getting into an insulting touch of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्तः सुग्रीवो वालिना भ्रातृसौहृदात् ।  
 हर्षं त्यक्त्वा पुनर्दीनो ग्रहग्रस्त इवोडुराट् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +899,15 @@ Head' is Raahu and the 'Dragon with Tail' is Ketu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वालिवचनाच्छान्तः कुर्वन् युक्तमतन्द्रितः ।  
 जग्राह सोऽभ्यनुज्ञातो मालां तां चैव काञ्चनीम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +949,15 @@ given situation, Sugreeva has then taken that golden chain only when Vali author
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां मालां काञ्चनीं दत्त्वा दृष्ट्वा चैवात्मजं स्थितम् ।  
 संसिद्धः प्रेत्यभावाय स्नेहादङ्गदमब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -942,12 +1001,15 @@ readying himself towards his end that is setting in, Vali affectionately spoke t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देशकालौ भजस्वाद्य क्षममाणः प्रियाप्रिये ।  
 सुखदुःखसहः काले सुग्रीववशगो भव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,12 +1058,15 @@ from now on..."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हि त्वं महाबाहो लालितः सततं मया ।  
 न तथा वर्तमानं त्वां सुग्रीवो बहु मन्यते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,12 +1101,15 @@ it. [4-22-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्यामित्रैर्गतं गच्छेर्मा शत्रुभिररिन्दम ।  
 भर्तुरर्थपरो दान्तः सुग्रीववशगो भव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1083,12 +1151,15 @@ self-control. [4-22-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चातिप्रणयः कार्यः कर्तव्योऽप्रणयश्च ते ।  
 उभयं हि महादोषं तस्मादन्तरदृग् भव ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1129,12 +1200,15 @@ to Angada. [4-22-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वाथ विवृत्ताक्षः शरसम्पीडितो भृशम् ।  
 विवृतैर्दशनैर्भीमैर्बभूवोत्क्रान्तजीवितः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1176,12 +1250,15 @@ to flight from his body. [4-22-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विचुक्रुशुस्तत्र वानरा हतयूथपाः ।  
 परिदेवयमानास्ते सर्वे प्लवगसत्तमाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1222,12 +1299,15 @@ chief is dead, and for that matter they have loudly squawked at his death in thi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किष्किन्धा ह्यद्य शून्या च स्वर्गते वानरेश्वरे ।  
 उद्यानानि च शून्यानि पर्वताः काननानि च ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1276,6 +1356,7 @@ fly-jumpers is dead all the vanara-s are rendered up into a lacklustre life. [4-
 
 1 of the mightiest characters of the rAmAyaNa was the ape vAlin. Among his great acts were the slaying of the dAnava-s dundubhi & mAyAvin &mighty gandharva golabha after a continuous 16 year battle. An account this was recited by the apes in the funerary elegy to their great lord
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1286,6 +1367,8 @@ fly-jumpers is dead all the vanara-s are rendered up into a lacklustre life. [4-
 पुष्पौघेणानुबद्‍ध्यन्ते  
 करिष्यति तद् अद्य कः ।+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,6 +1427,7 @@ to some distance into ocean, as though to worship him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1354,6 +1438,8 @@ to some distance into ocean, as though to worship him.
 नैव रात्रौ न दिवसे  
 तद् युद्धम् उपशाम्यति ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1403,6 +1489,7 @@ English like - 'give me a duel.' etc.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1413,6 +1500,8 @@ English like - 'give me a duel.' etc.
 सर्वाभयङ्करोऽस्माकं  
 कथम् एष निपातितः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1462,6 +1551,7 @@ such a Vali is felled now?" Thus the monkeys raised hue and cry. [4-22-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1470,6 +1560,8 @@ such a Vali is felled now?" Thus the monkeys raised hue and cry. [4-22-30]
 वनेचराः सिंहयुते महावने  
 यथा हि गावो निहते गवां पतौ ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1516,6 +1608,7 @@ husbanding bull is killed while moving in a great forest that is riddled with a 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1524,6 +1617,8 @@ husbanding bull is killed while moving in a great forest that is riddled with a 
 जगाम भूमिं परिरभ्य वालिनं  
 महाद्रुमं छिन्नमिवाश्रिता लता ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1584,5 +1679,6 @@ tree on which it is hinging is hacked down. [4-22-32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥22॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४८ विन्ध्यपर्वते सीतान्वेषणम्"
 title_english = "048 Hanuma s search for Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ search became futile at these places.
 
 48. दक्षिण दिशामें गये हुए वानरोंका सीताकी खोज आरम्भ करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह ताराङ्गदाभ्यां तु सहसा हनुमान् कपिः ।  
 सुग्रीवेण यथोद्दिष्टं गन्तुं देशं प्रचक्रमे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,6 +76,7 @@ province which Sugreeva has indicated, namely the south. [4-48-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,6 +87,8 @@ province which Sugreeva has indicated, namely the south. [4-48-1]
 अन्वेषमाणास्ते सर्वे वानराः सर्वतो दिशम् ।  
 न सीतां ददृशुर्वीरा मैथिलीं जनकात्मजाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +165,15 @@ trees. [4-48-2, 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते भक्षयन्तो मूलानि फलानि विविधान्यपि ।  
 अन्वेषमाणा दुर्धर्षा न्यवसंस्तत्र तत्र ह ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +213,15 @@ invulnerable vanara-s conducted their search. [4-48-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु देशो दुरन्वेषो गुहागहनवान् महान् ।  
 निर्जलं निर्जनं शून्यं गहनं घोरदर्शनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +262,15 @@ water and still less of people, a void and an impenetrable one with a ghastly lo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तादृशान्यप्यरण्यानि विचित्य भृशपीडिताः ।  
 स देशश्च दुरन्वेष्यो गुहागहनवान् महान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +315,15 @@ abstrusely caved and forested. [4-48-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यक्त्वा तु तं ततो देशं सर्वे वै हरियूथपाः ।  
 देशमन्यं दुराधर्षं विविशुश्चाकुतोभयाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +366,15 @@ impermeable province as they are fearless from any quarter. [4-48-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र वन्ध्यफला वृक्षा विपुष्पाः पर्णवर्जिताः ।  
 निस्तोयाः सरितो यत्र मूलं यत्र सुदुर्लभम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +413,15 @@ there they entered. [4-48-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सन्ति महिषा यत्र न मृगा न च हस्तिनः ।  
 शार्दूलाः पक्षिणो वापि ये चान्ये वनगोचराः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,6 +463,7 @@ province. [4-48-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -444,6 +471,8 @@ province. [4-48-10]
 स्निग्धपत्राः स्थले यत्र पद्मिन्यः फुल्लपङ्कजाः ॥ ११ ॥  
 प्रेक्षणीयाः सुगन्धाश्च भ्रमरैश्च विवर्जिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +520,15 @@ are not richly fragranced, in such a province those vanara-s have entered. [4-48
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कण्डुर्नाम महाभागः सत्यवादी तपोधनः ॥ १२ ॥  
 महर्षिः परमामर्षी नियमैर्दुष्प्रधर्षणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +573,15 @@ by virtue of his own self-discipline. [4-48-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तस्मिन् वने पुत्रो बालको दशवार्षिकः ॥ १३ ॥  
 प्रणष्टो जीवितान्ताय क्रुद्धस्तेन महामुनिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +621,15 @@ there by which that great sage is infuriated. [4-48-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन धर्मात्मना शप्तं कृत्स्नं तत्र महद्वनम् ॥ १४ ॥  
 अशरण्यं दुराधर्षं मृगपक्षिविवर्जितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,6 +670,7 @@ uninhabitable and impermeable forest abandoned by birds and animals. [4-48-14b, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -640,6 +679,8 @@ uninhabitable and impermeable forest abandoned by birds and animals. [4-48-14b, 
 तत्र चापि महात्मानो नापश्यञ्जनकात्मजाम् ॥ १६ ॥  
 हर्तारं रावणं वापि सुग्रीवप्रियकारिणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +743,15 @@ including its mountains, caves, fountains, and rivers. [4-48-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रविश्य तु तं भीमं लतागुल्मसमावृतम् ॥ १७ ॥  
 ददृशुर्भीमकर्माणमसुरं सुरनिर्भयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +794,15 @@ shrubberies they saw a demon of fiendish deeds who is fearless of gods. [4-48-17
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा वानरा घोरं स्थितं शैलमिवासुरम् ॥ १८ ॥  
 गाढं परिहिताः सर्वे दृष्ट्वा तं पर्वतोपमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -797,12 +844,15 @@ those vanara-s have tightly girthed their wrestler's girdle-cloth. [4-48-18b, 19
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपि तान् वानरान् सर्वान् नष्टाः स्थेत्यब्रवीद् बली ॥ १९ ॥  
 अभ्यधावत सङ्क्रुद्धो मुष्टिमुद्यम्य सङ्गतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +893,15 @@ towards them shoving up his clenched fist. [4-48-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं सहसा वालिपुत्रोऽङ्गदस्तदा ॥ २० ॥  
 रावणोऽयमिति ज्ञात्वा तलेनाभिजघान ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -888,6 +941,7 @@ Angada, the son of Vali, then presumed him who is onrushing as Ravana and saying
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -896,6 +950,8 @@ Angada, the son of Vali, then presumed him who is onrushing as Ravana and saying
 ते तु तस्मिन् निरुच्छ्वासे वानरा जितकाशिनः ॥ २२ ॥  
 व्यचिन्वन् प्रायशस्तत्र सर्वं ते गिरिगह्वरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1018,15 @@ onto ground alike an inverted mountain. [4-48-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचितं तु ततः सर्वं सर्वे ते काननौकसः ॥ २३ ॥  
 अन्यदेवापरं घोरं विविशुर्गिरिगह्वरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1066,15 @@ entered another horrible cave which is nearby. [4-48-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते विचित्य पुनः खिन्ना विनिष्पत्य समागताः ।  
 एकान्ते वृक्षमूले तु निषेदुर्दीनमानसाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,5 +1119,6 @@ in searching Seetha. [4-48-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥48॥
+</details>
 </details>
 

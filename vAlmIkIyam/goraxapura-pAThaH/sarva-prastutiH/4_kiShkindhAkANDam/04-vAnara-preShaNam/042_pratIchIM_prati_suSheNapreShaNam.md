@@ -2,6 +2,8 @@
 title = "०४२ प्रतीचीं प्रति सुषेणप्रेषणम्"
 title_english = "042 Sugreeva sends troops to west side"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,6 +26,7 @@ time.
 
 42. सुग्रीवका पश्चिम दिशाके स्थानोंका परिचय देते हुए सुषेण आदि वानरोंको वहाँ भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -39,6 +42,8 @@ time.
 द्वाभ्यां शतसहस्राभ्यां कपीनां कपिसत्तमाः ॥ ५ ॥  
 सुषेणप्रमुखा यूयं वैदेहीं परिमार्गथ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,6 +177,7 @@ who looked like a massive cloud. [4-42-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -180,6 +186,8 @@ who looked like a massive cloud. [4-42-1]
 पुन्नागगहनं कुक्षिं बकुलोद्दालकाकुलम् ॥ ७ ॥  
 तथा केतकषण्डांश्च मार्गध्वं हरिपुङ्गवाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +248,15 @@ Sauraashtra, a peninsula in Gujarat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्स्रोतोवहाश्चैव नद्यः शीतजलाः शिवाः ॥ ८ ॥  
 तापसानामरण्यानि कान्तारगिरयश्च ये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -265,6 +276,7 @@ _________________
 
 पश्चिम कडॆगॆ हरियुव शीतल जलदिन्द सुशोभित कल्याणमय नदिगळल्लि, तपस्वी जनर वनगळल्लि, दुर्गम पर्वतगळल्लियू विदेह कुमारियन्नु हुडुकिरि.॥8½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,6 +285,8 @@ _________________
 ततः पश्चिममागम्य समुद्रं द्रष्टुमर्हथ ॥ १० ॥  
 तिमिनक्राकुलजलं गत्वा द्रक्ष्यथ वानराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,6 +336,7 @@ by sharks and crocodiles. [8b, 9, 10, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +344,8 @@ by sharks and crocodiles. [8b, 9, 10, 11a]
 कपयो विहरिष्यन्ति नारिकेलवनेषु च ।  
 तत्र सीतां च मार्गध्वं निलयं रावणस्य च ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,6 +380,7 @@ Tamaala plants and in the boscages of coconut trees. [4-42-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +389,8 @@ Tamaala plants and in the boscages of coconut trees. [4-42-11b, 12a]
 अवन्तीमङ्गलेपां च तथा चालक्षितं वनम् ।  
 राष्ट्राणि च विशालानि पत्तनानि ततस्ततः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,6 +446,7 @@ neglected.
 
 * यह अवन्ती पूर्व दिशाके मार्गमें बतायी गयी अवन्तीसे भिन्न है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -434,6 +455,8 @@ neglected.
 तत्र प्रस्थेषु रम्येषु सिंहाः पक्षगमाः स्थिताः ।  
 तिमिमत्स्यगजांश्चैव नीडान्यारोपयन्ति ते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,6 +519,7 @@ mountain named Hemagiri, Golden-Mountain, which is with hundreds of summits and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +527,8 @@ mountain named Hemagiri, Golden-Mountain, which is with hundreds of summits and 
 दृप्तास्तृप्ताश्च मातङ्गास्तोयदस्वननिःस्वनाः ॥ १७ ॥  
 विचरन्ति विशालेऽस्मिंस्तोयपूर्णे समन्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +575,15 @@ mountain abutted by water and near at the lairs of flying-lions. [4-42-17, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य शृङ्गं दिवस्पर्शं काञ्चनं चित्रपादपम् ॥ १८ ॥  
 सर्वमाशु विचेतव्यं कपिभिः कामरूपिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,12 +624,15 @@ on it. [4-42-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोटिं तत्र समुद्रस्य काञ्चनीं शतयोजनाम् ॥ १९ ॥  
 दुर्दर्शां पारियात्रस्य गत्वा द्रक्ष्यथ वानराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +674,7 @@ difficult to see as it will be blindingly glittering. [4-42-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -649,6 +682,8 @@ difficult to see as it will be blindingly glittering. [4-42-19b, 20a]
 वसन्त्यग्निनिकाशानां घोराणां कामरूपिणाम् ।  
 पावकार्चिःप्रतीकाशाः समवेताः समन्ततः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +757,15 @@ the one among Vindhya Range.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नात्यासादयितव्यास्ते वानरैर्भीमविक्रमैः ।  
 नादेयं च फलं तस्माद् देशात् किञ्चित् प्लवङ्गमैः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +782,15 @@ the one among Vindhya Range.
 
 भयङ्कर पराक्रमि वानररु आ गन्धर्वर हॆच्चु समीपक्कॆ होगबारदु, अवरिगॆ यावुदे अपराध माडबारदु मत्तु आ पर्वत शिखरदिन्द यावुदे फलवन्नु तिन्नबारदु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुरासदा हि ते वीराः सत्त्ववन्तो महाबलाः ।  
 फलमूलानि ते तत्र रक्षन्ते भीमविक्रमाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -795,12 +836,15 @@ them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र यत्नश्च कर्तव्यो मार्गितव्या च जानकी ।  
 नहि तेभ्यो भयं किञ्चित् कपित्वमनुवर्तताम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +887,15 @@ scare from those Gandharva-s. Then you proceed from that Mt. Paariyaatra to Mt. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र वैदूर्यवर्णाभो वज्रसंस्थानसंस्थितः ।  
 नानाद्रुमलताकीर्णो वज्रो नाम महागिरिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +915,15 @@ _________________
 
 पारियात्रा पर्वतद बळियल्ले समुद्रदल्लि नाना प्रकारद वृक्ष-लतॆगळिन्द व्याप्तवाद ऒन्दु वज्र ऎम्ब प्रसिद्ध ऎत्तरवाद पर्वत कण्डुबन्दीतु. आ वज्रगिरियु वैढूर्यमणियन्तॆ नील बण्णद्दागिदॆ. अदु वज्रमणियन्तॆ कठोरवागिदॆ.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीमान् समुदितस्तत्र योजनानां शतं समम् ।  
 गुहास्तत्र विचेतव्याः प्रयत्नेन प्लवङ्गमाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,12 +965,15 @@ over it. There, on that mountain you have to search pursuantly including its cav
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्भागे समुद्रस्य चक्रवान् नाम पर्वतः ।  
 तत्र चक्रं सहस्रारं निर्मितं विश्वकर्मणा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,12 +1022,15 @@ demons conquer Indra's paradise. In the following verses, a connected legend is 
 
 * जिसमें एक हजार अरे हों, उसे सहस्रार चक्र कहते हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र पञ्चजनं हत्वा हयग्रीवं च दानवम् ।  
 आजहार ततश्चक्रं शङ्खं च पुरुषोत्तमः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1024,12 +1080,15 @@ importance to search for Seetha. [4-42-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सानुषु रम्येषु विशालासु गुहासु च ।  
 रावणः सह वैदेह्या मार्गितव्यस्ततस्ततः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1070,12 +1129,15 @@ in its spacious caves, together with Ravana, and search for her here, there, and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योजनानि चतुःषष्टिर्वराहो नाम पर्वतः ।  
 सुवर्णशृङ्गः सुमहानगाधे वरुणालये ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1118,12 +1180,15 @@ abyss of the abode of Rain-god, namely the ocean, and it is named as Mt. Varaaha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र प्राग्ज्योतिषं नाम जातरूपमयं पुरम् ।  
 यस्मिन् वसति दुष्टात्मा नरको नाम दानवः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,12 +1242,15 @@ buffalo-demon" who was eliminated by Goddess Durga.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र सानुषु रम्येषु विशालासु गुहासु च ।  
 रावणः सह वैदेह्या मार्गितव्यस्ततस्ततः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1222,12 +1290,15 @@ that city Praagjyotisha, Ravana shall be searched together with Vaidehi. [4-42-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमतिक्रम्य शैलेन्द्रं काञ्चनान्तरदर्शनम् ।  
 पर्वतः सर्वसौवर्णो धाराप्रस्रवणायुतः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1272,12 +1343,15 @@ called Meghavanta. [4-42-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं गजाश्च वराहाश्च सिंहा व्याघ्राश्च सर्वतः ।  
 अभिगर्जन्ति सततं तेन शब्देन दर्पिताः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1320,12 +1394,15 @@ Mt. Meghavanta itself appears to be roaring, proud-heartedly. [4-42-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिन् हरिहयः श्रीमान् महेन्द्रः पाकशासनः ।  
 अभिषिक्तः सुरै राजा मेघो नाम स पर्वतः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1361,6 +1438,7 @@ Megha, or Mt. Meghavanta, which you have to scour. [4-42-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1369,6 +1447,8 @@ Megha, or Mt. Meghavanta, which you have to scour. [4-42-35]
 तरुणादित्यवर्णानि भ्राजमानानि सर्वतः ।  
 जातरूपमयैर्वृक्षैः शोभितानि सुपुष्पितैः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1418,6 +1498,7 @@ wholly golden in hue. [4-42-36, 37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1428,6 +1509,8 @@ wholly golden in hue. [4-42-36, 37]
 त्वयि ये चापि वत्स्यन्ति देवगन्धर्वदानवाः ।  
 ते भविष्यन्ति भक्ताश्च प्रभया काञ्चनप्रभाः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,6 +1586,7 @@ a boon. [4-42-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1511,6 +1595,8 @@ a boon. [4-42-38]
 आदित्यमुपतिष्ठन्ति तैश्च सूर्योऽभिपूजितः ।  
 अदृश्यः सर्वभूतानामस्तं गच्छति पर्वतम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1572,12 +1658,15 @@ Suns in other galaxies...' are twelve.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योजनानां सहस्राणि दश तानि दिवाकरः ।  
 मुहूर्तार्धेन तं शीघ्रमभियाति शिलोच्चयम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1617,12 +1706,15 @@ Astaadri in one and half hours, and quickly reaches Mt. Astagiri, or Mt. Dusk. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृङ्गे तस्य महद्दिव्यं भवनं सूर्यसन्निभम् ।  
 प्रासादगणसम्बाधं विहितं विश्वकर्मणा ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1664,12 +1756,15 @@ is arranged by Vishvakarma, the Divine Architect. [4-42-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोभितं तरुभिश्चित्रैर्नानापक्षिसमाकुलैः ।  
 निकेतं पाशहस्तस्य वरुणस्य महात्मनः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1710,12 +1805,15 @@ twittering musically, belongs to the great-souled Varuna, the Rain-god, who wiel
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरा मेरुमस्तं च तालो दशशिरा महान् ।  
 जातरूपमयः श्रीमान् भ्राजते चित्रवेदिकः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1763,12 +1861,15 @@ Corypha Talliera and Wild Date are dry-grass-palms, and these grow in abundance 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु सर्वेषु दुर्गेषु सरस्सु च सरित्सु च ।  
 रावणः सह वैदेह्या मार्गितव्यस्ततस्ततः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1808,12 +1909,15 @@ with Ravana, far and wide. [4-42-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र तिष्ठति धर्मज्ञस्तपसा स्वेन भावितः ।  
 मेरुसावर्णिरित्येष ख्यातो वै ब्रह्मणा समः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1854,12 +1958,15 @@ selfsame personality to Brahma and one renowned as Sage Merusaavarni indeed resi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रष्टव्यो मेरुसावर्णिर्महर्षिः सूर्यसन्निभः ।  
 प्रणम्य शिरसा भूमौ प्रवृत्तिं मैथिलीं प्रति ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1901,12 +2008,15 @@ your prostration before him in veneration, about the tidings of Maithili, and he
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावज्जीवलोकस्य भास्करो रजनीक्षये ।  
 कृत्वा वितिमिरं सर्वमस्तं गच्छति पर्वतम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1950,12 +2060,15 @@ Dusk. [4-42-50]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावद् वानरैः शक्यं गन्तुं वानरपुङ्गवाः ।  
 अभास्करममर्यादं न जानीमस्ततः परम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2017,12 +2130,15 @@ countries.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवगम्य तु वैदेहीं निलयं रावणस्य च ।  
 अस्तं पर्वतमासाद्य पूर्णे मासे निवर्तत ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2065,12 +2181,15 @@ residency of Ravana, or on your reaching Mt. Astagiri, say Mt. Dusk. [4-42-52]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वं मासान्न वस्तव्यं वसन् वध्यो भवेन्मम ।  
 सहैव शूरो युष्माभिः श्वशुरो मे गमिष्यति ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2112,12 +2231,15 @@ proceeding along with you. [4-42-53]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोतव्यं सर्वमेतस्य भवद्भिर्दिष्टकारिभिः ।  
 गुरुरेष महाबाहुः श्वशुरो मे महाबलः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2159,12 +2281,15 @@ venerable to me, as well as to you. [4-42-54]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवन्तश्चापि विक्रान्ताः प्रमाणं सर्व एव हि ।  
 प्रमाणमेनं संस्थाप्य पश्यध्वं पश्चिमां दिशम् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2204,12 +2329,15 @@ instituting him as your archetype you shall search the western direction. [4-42-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टायां तु नरेन्द्रस्य पत्न्याममिततेजसः ।  
 कृतकृत्या भविष्यामः कृतस्य प्रतिकर्मणा ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2254,12 +2382,15 @@ can locate Seetha, the wife of the king of humans whose vitality is unlimited, n
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतोऽन्यदपि यत्कार्यं कार्यस्यास्य प्रियं भवेत् ।  
 सम्प्रधार्य भवद्भिश्च देशकालार्थसंहितम् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2302,6 +2433,7 @@ direction. [4-42-57]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2310,6 +2442,8 @@ direction. [4-42-57]
 आमन्त्र्य सर्वे प्लवगाधिपं ते  
 जग्मुर्दिशं तां वरुणाभिगुप्ताम् ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2372,5 +2506,6 @@ Rain-god. [4-42-58]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥42॥
+</details>
 </details>
 

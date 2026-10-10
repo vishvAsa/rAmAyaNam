@@ -2,6 +2,8 @@
 title = "०१३ अशोकवाटिकाप्रस्थानम्"
 title_english = "013 Hanuma starts to search in Ashoka garden"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ Ashoka garden to continue his search.
 
 13. सीताजीके नाशकी आशंकासे हनुमान् जी की चिन्ता, श्रीरामको सीताके न मिलनेकी सूचना देनेसे अनर्थकी सम्भावना देख हनुमान् जी का न लौटनेका निश्चय करके पुनः खोजनेका विचार करना और अशोकवाटिकामें ढूँढ़नेके विषयमें तरह-तरहकी बातें सोचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानात् तु स सङ्क्रम्य प्राकारं हरियूथपः ।  
 हनूमान् वेगवानासीद् यथा विद्युद् घनान्तरे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ lighting in the middle of a cloud.
 
 * घनमालामें विद्युत् की उपमासे यह ध्वनित होता है कि रावणका वह परकोटा इन्द्रनीलमणिका बना हुआ था और उसपर सुवर्णके समान गौर कान्तिवाले हनुमान् जी  विद्युत् के समान प्रतीत होते थे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्परिक्रम्य हनुमान् रावणस्य निवेशनान् ।  
 अदृष्ट्वा जानकीं सीतामब्रवीद् वचनं कपिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +130,15 @@ Janaka, said these words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयिष्ठं लोलिता लङ्का रामस्य चरता प्रियम् ।  
 न हि पश्यामि वैदेहीं सीतां सर्वाङ्गशोभनाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,6 +179,7 @@ unable to see Seetha, beautiful in all limbs, and the daughter of Videha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,6 +187,8 @@ unable to see Seetha, beautiful in all limbs, and the daughter of Videha."
 नद्योऽनूपवनान्ताश्च दुर्गाश्च धरणीधराः ॥ ४ ॥  
 लोलिता वसुधा सर्वा न च पश्यामि जानकीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +215,15 @@ _________________
 
 सण्ण जलाशयगळ बळियल्लू, कॆरॆगळ बळियल्लियू, सरोवरगळ तीरगळल्लियू, जौगाद स्थळगळल्लियू, उपनदि-महानदिगळ तीरगळल्लियू, अरण्यगळल्लियू, वन-पर्वतगळल्लियू, इतर ऎल्ल प्रदेशगळल्लियू सीतॆयन्नु हुडुकिदॆनु. आदरॆ अवळु मात्र सिगलिल्ल. ॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह सम्पातिना सीता रावणस्य निवेशने ।  
 आख्याता गृध्रराजेन न च सा दृश्यते न किम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -265,12 +282,15 @@ mountains difficult of access have been explored but I did not see Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु सीताथ वैदेही मैथिली जनकात्मजा ।  
 उपतिष्ठेत विवशा रावणेन हृता बलात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ helplessly together with the evil minded Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रमुत्पततो मन्ये सीतामादाय रक्षसः ।  
 बिभ्यतो रामबाणानामन्तरा पतिता भवेत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,12 +382,15 @@ down in the middle of the journey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा ह्रियमाणायाः पथि सिद्धनिषेविते ।  
 मन्ये पतितमार्याया हृदयं प्रेक्ष्य सागरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,12 +430,15 @@ sunk at the site of the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्योरुवेगेन भुजाभ्यां पीडितेन च ।  
 तया मन्ये विशालाक्ष्या त्यक्तं जीवितमार्यया ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +479,15 @@ been given up by that noble one with wide eyes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपर्युपरि सा नूनं सागरं क्रमतस्तदा ।  
 विचेष्टमाना पतिता समुद्रे जनकात्मजा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,6 +529,7 @@ while wriggling."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,6 +538,8 @@ while wriggling."
 अथवा राक्षसेन्द्रस्य पत्नीभिरसितेक्षणा ।  
 अदुष्टा दुष्टभावाभिर्भक्षिता सा भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +607,15 @@ her chastity without any relatives near her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पूर्णचन्द्रप्रतिमं पद्मपत्रनिभेक्षणम् ।  
 रामस्य ध्यायती वक्त्रं पञ्चत्वं कृपणा गता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +655,15 @@ while meditating upon Rama's face."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा राम लक्ष्मणेत्येवं हायोध्ये चेति मैथिली ।  
 विलप्य बहु वैदेही न्यस्तदेहा भविष्यति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ have given up her body."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा निहिता मन्ये रावणस्य निवेशने ।  
 भृशं लालप्यते बाला पञ्जरस्थेव सारिका ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -706,12 +750,15 @@ definitely crying; *paJNjarastaa shaarikaa iva* = like a caged myna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकस्य कुले जाता रामपत्नी सुमध्यमा ।  
 कथमुत्पलपत्राक्षी रावणस्य वशं व्रजेत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +802,15 @@ black lotus petals obtain Ravana's capture."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टा वा प्रणष्टा वा मृता वा जनकात्मजा ।  
 रामस्य प्रियभार्यस्य न निवेदयितुं क्षमम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +852,15 @@ has died."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेद्यमाने दोषः स्याद् दोषः स्यादनिवेदने ।  
 कथं नु खलु कर्तव्यं विषमं प्रतिभाति मे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +901,15 @@ me this seems dire situation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् नेवङ्गते कार्ये प्राप्तकालं क्षमं च किम् ।  
 भवेदिति मतिं भूयो हनुमान् प्रविचारयन् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,12 +952,15 @@ thought again this view point.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि सीतामदृष्ट्वाहं वानरेन्द्रपुरीमितः ।  
 गमिष्यामि ततः को मे पुरुषार्थो भविष्यति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +1000,15 @@ effort be?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममेदं लङ्घनं व्यर्थं सागरस्य भविष्यति ।  
 प्रवेशश्चैव लङ्कायां राक्षसानां च दर्शनम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -988,12 +1050,15 @@ waste."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वा वक्ष्यति सुग्रीवो हरयो वापि सङ्गताः ।  
 किष्किन्धामनुसम्प्राप्तं तौ वा दशरथात्मजौ ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,12 +1101,15 @@ what would they say?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गत्वा तु यदि काकुत्स्थं वक्ष्यामि परुषं वचः ।  
 न दृष्टेति मया सीता ततस्त्यक्ष्यति जीवितम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,12 +1152,15 @@ thereafter Rama will give up life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परुषं दारुणं तीक्ष्णं क्रूरमिन्द्रियतापनम् ।  
 सीतानिमित्तं दुर्वाक्यं श्रुत्वा स न भविष्यति ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1132,12 +1203,15 @@ will not exist."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु कृच्छ्रगतं दृष्ट्वा पञ्चत्वगतमानसम् ।  
 भृशानुरक्तमेधावी न भविष्यति लक्ष्मणः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1180,12 +1254,15 @@ love and an intellectual will not exist."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टौ भ्रातरौ श्रुत्वा भरतोऽपि मरिष्यति ।  
 भरतं च मृतं दृष्ट्वा शत्रुघ्नो न भविष्यति ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,12 +1303,15 @@ will not exist."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रान् मृतान् समीक्ष्याथ न भविष्यन्ति मातरः ।  
 कौसल्या च सुमित्रा च कैकेयी च न संशयः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1274,12 +1354,15 @@ is no doubt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतज्ञः सत्यसन्धश्च सुग्रीवः प्लवगाधिपः ।  
 रामं तथागतं दृष्ट्वा ततस्त्यक्ष्यति जीवितम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1322,12 +1405,15 @@ Rama die in that way will give up life thereafter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्मना व्यथिता दीना निरानन्दा तपस्विनी ।  
 पीडिता भर्तृशोकेन रुमा त्यक्ष्यति जीवितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1363,12 +1449,15 @@ to be pitied, Ruma will give up life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालिजेन तु दुःखेन पीडिता शोककर्शिता ।  
 पञ्चत्वमागता राज्ञी तारापि न भविष्यति ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1410,12 +1499,15 @@ while the king Sugreeva is obtaining death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातापित्रोर्विनाशेन सुग्रीवव्यसनेन च ।  
 कुमारोऽप्यङ्गदस्तस्माद् विजहिष्यति जीवितम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,6 +1549,7 @@ he retain life?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1465,6 +1558,8 @@ he retain life?"
 सान्त्वेनानुप्रदानेन मानेन च यशस्विना ।  
 लालिताः कपिनाथेन प्राणांस्त्यक्ष्यन्ति वानराः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1533,12 +1628,15 @@ fists."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वनेषु न शैलेषु न निरोधेषु वा पुनः ।  
 क्रीडामनुभविष्यन्ति समेत्य कपिकुञ्जराः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1557,12 +1655,15 @@ fists."
 
 ‘ऐसी अवस्थामें शेष वानर वनों, पर्वतों और गुफाओंमें एकत्र होकर फिर कभी क्रीड़ा-विहारका आनन्द नहीं लेंगे ॥ ३४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सपुत्रदाराः सामात्या भर्तृव्यसनपीडिताः ।  
 शैलाग्रेभ्यः पतिष्यन्ति समेषु विषमेषु च ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1621,12 +1722,15 @@ places."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषमुद‍्बन्धनं वापि प्रवेशं ज्वलनस्य वा ।  
 उपवासमथो शस्त्रं प्रचरिष्यन्ति वानराः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1645,12 +1749,15 @@ places."
 
 ‘अथवा सारे विष पी लेंगे या फाँसी लगा लेंगे या जलती आगमें प्रवेश कर जायेंगे । उपवास करने लगेंगे अथवा अपने ही शरीरमें छुरा भोंक लेंगे ॥ ३६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोरमारोदनं मन्ये गते मयि भविष्यति ।  
 इक्ष्वाकुकुलनाशश्च नाशश्चैव वनौकसाम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1706,12 +1813,15 @@ weapon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं नैव गमिष्यामि किष्किन्धां नगरीमितः ।  
 नहि शक्ष्याम्यहं द्रष्टुं सुग्रीवं मैथिलीं विना ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1753,12 +1863,15 @@ Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मय्यगच्छति चेहस्थे धर्मात्मानौ महारथौ ।  
 आशया तौ धरिष्येते वानराश्च तरस्विनः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1779,12 +1892,15 @@ _________________
 
 ‘यदि मैं यहीं रहूँ और वहाँ न जाऊँ तो मेरी आशा लगाये वे दोनों धर्मात्मा महारथी बन्धु प्राण धारण किये रहेंगे और वे वेगशाली वानर भी जीवित रहेंगे ॥ ३९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हस्तादानो मुखादानो नियतो वृक्षमूलिकः ।  
 वानप्रस्थो भविष्यामि ह्यदृष्ट्वा जनकात्मजाम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1796,12 +1912,15 @@ _________________
 
 ‘जानकीजीका दर्शन न मिलनेपर मैं यहाँ वानप्रस्थी हो जाऊँगा । मेरे हाथपर अपने-आप जो फल आदि खाद्य वस्तु प्राप्त हो जायगी, उसीको खाकर रहूँगा या परेच्छासे मेरे मुँहमें जो फल आदि खाद्य वस्तु पड़ जायगी, उसीसे निर्वाह करूँगा तथा शौच, संतोष आदि नियमोंके पालनपूर्वक वृक्षके नीचे निवास करूँगा ॥ ४० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरानूपजे देशे बहुमूलफलोदके ।  
 चितिं कृत्वा प्रवेक्ष्यामि समिद्धमरणीसुतम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1839,12 +1958,15 @@ and much water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपविष्टस्य वा सम्यग् लिङ्गिनं साधयिष्यतः ।  
 शरीरं भक्षयिष्यन्ति वायसाः श्वापदानि च ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1901,12 +2023,15 @@ will live by hope. Vanaras also who are agile will live."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमप्यृषिभिर्दृष्टं निर्याणमिति मे मतिः ।  
 सम्यगापः प्रवेक्ष्यामि न चेत् पश्यामि जानकीम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1949,12 +2074,15 @@ I will enter lot of water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुजातमूला सुभगा कीर्तिमाला यशस्विनी ।  
 प्रभग्ना चिररात्राय मम सीतामपश्यतः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1997,12 +2125,15 @@ with fame has been destroyed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तापसो वा भविष्यामि नियतो वृक्षमूलिकः ।  
 नेतः प्रतिगमिष्यामि तामदृष्ट्वासितेक्षणाम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2043,12 +2174,15 @@ here not seeing Seetha with black eyes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तु प्रतिगच्छामि सीतामनधिगम्य ताम् ।  
 अङ्गदः सहितः सर्वैर्वानरैर्न भविष्यति ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2070,12 +2204,15 @@ _________________
 
 ‘यदि सीताका पता लगाये बिना ही मैं लौट जाऊँ तो समस्त वानरोंसहित अंगद जीवित नहीं रहेंगे ॥ ४६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनाशे बहवो दोषा जीवन् प्राप्नोति भद्रकम् ।  
 तस्मात् प्राणान् धरिष्यामि ध्रुवो जीवति सङ्गमः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2127,12 +2264,15 @@ those Vanaras."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं बहुविधं दुःखं मनसा धारयन् बहु ।  
 नाध्यगच्छत् तदा पारं शोकस्य कपिकुञ्जरः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2174,6 +2314,7 @@ sorrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2181,6 +2322,8 @@ sorrow.
 रावणं वा वधिष्यामि दशग्रीवं महाबलम् ।  
 काममस्तु हृता सीता प्रत्याचीर्णं भविष्यति ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2200,12 +2343,15 @@ sorrow.
 
 तदनन्तर धैर्यवान् कपिश्रेष्ठ हनुमान् ने पराक्रमका सहारा लेकर सोचा—‘अथवा महाबली दशमुख रावणका ही वध क्यों न कर डालूँ । भले ही सीताका अपहरण हो गया हो, इस रावणको मार डालनेसे उस वैरका भरपूर बदला सध जायगा ॥ ४९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवैनं समुत्क्षिप्य उपर्युपरि सागरम् ।  
 रामायोपहरिष्यामि पशुं पशुपतेरिव ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2243,12 +2389,15 @@ to the lord of animals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति चिन्तासमापन्नः सीतामनधिगम्य ताम् ।  
 ध्यानशोकपरीतात्मा चिन्तयामास वानरः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2308,12 +2457,15 @@ Seetha, this will be revenge to that."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् सीतां न पश्यामि रामपत्नीं यशस्विनीम् ।  
 तावदेतां पुरीं लङ्कां विचिनोमि पुनः पुनः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2335,12 +2487,15 @@ _________________
 
 ‘जबतक मैं यशस्विनी श्रीराम-पत्नी सीताका दर्शन न कर लूँगा, तबतक इस लंकापुरीमें बारंबार उनकी खोज करता रहूँगा ॥ ५२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पातिवचनाच्चापि रामं यद्यानयाम्यहम् ।  
 अपश्यन् राघवो भार्यां निर्दहेत् सर्ववानरान् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2399,12 +2554,15 @@ city of Lanka again and again."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव नियताहारो वत्स्यामि नियतेन्द्रियः ।  
 न मत्कृते विनश्येयुः सर्वे ते नरवानराः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2426,12 +2584,15 @@ _________________
 
 ‘अतः यहीं नियमित आहार और इन्द्रियोंके संयमपूर्वक निवास करूँगा । मेरे कारण वे समस्त नर और वानर नष्ट न हों ॥ ५४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोकवनिका चापि महतीयं महाद्रुमा ।  
 इमामधिगमिष्यामि नहीयं विचिता मया ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2490,12 +2651,15 @@ naravaanaraaH* = those men and vanaras; *na vinasheyuH* = let they not be destro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसून् रुद्रांस्तथाऽऽदित्यानश्विनौ मरुतोऽपि च ।  
 नमस्कृत्वा गमिष्यामि रक्षसां शोकवर्धनः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2539,12 +2703,15 @@ the grief of Rakshasas."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जित्वा तु राक्षसान् देवीमिक्ष्वाकुकुलनन्दिनीम् ।  
 सम्प्रदास्यामि रामाय सिद्धीमिव तपस्विने ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2587,6 +2754,7 @@ as the fruit of austerity to an ascetic."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2597,6 +2765,8 @@ as the fruit of austerity to an ascetic."
 नमोऽस्तु रुद्रेन्द्रयमानिलेभ्यो  
 नमोऽस्तु चन्द्राग्निमरुद‍्गणेभ्यः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2672,12 +2842,15 @@ The gloried son of Vayu that Hanuma got up with his senses tied by grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेभ्यस्तु नमस्कृत्वा सुग्रीवाय च मारुतिः ।  
 दिशः सर्वाः समालोक्य सोऽशोकवनिकां प्रति ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2722,12 +2895,15 @@ garden.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा मनसा पूर्वमशोकवनिकां शुभाम् ।  
 उत्तरं चिन्तयामास वानरो मारुतात्मजः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2770,12 +2946,15 @@ one pondered the task to be done later.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवं तु रक्षोबहुला भविष्यति वनाकुला ।  
 अशोकवनिका पुण्या सर्वसंस्कारसंस्कृता ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2818,12 +2997,15 @@ cultures and sacred."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिणश्चात्र विहिता नूनं रक्षन्ति पादपान् ।  
 भगवानपि विश्वात्मा नातिक्षोभं प्रवायति ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2869,12 +3051,15 @@ blowing by without force, and by me this body has been made small for the sake o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्क्षिप्तोऽयं मयाऽऽत्मा च रामार्थे रावणस्य च ।  
 सिद्धिं दिशन्तु मे सर्वे देवाः सर्षिगणास्त्विह ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2894,12 +3079,15 @@ _________________
 
 इल्लि वनद वृक्षरक्षणॆगागि राक्षसभटरु तप्पदे नियोजितरागिरबहुदु. सर्वात्मनाद भगवान् वायुदेवरू कूड वृक्षगळु हॆच्चु अल्लाडदन्तॆ मॆल्ल-मॆल्लनॆ बीसुत्तिरुवनु.॥64॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा स्वयम्भूर्भगवान् देवाश्चैव तपस्विनः ।  
 सिद्धिमग्निश्च वायुश्च पुरुहूतश्च वज्रभृत् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2919,6 +3107,7 @@ _________________
 
 श्रीरामन कार्यसाधनॆगागियू, रावणनु नोडदिरलॆन्दु नानु नन्न शरीरवन्नु सण्णदागिसिकॊण्डिद्देनॆ. देवतॆगळू, महर्षिगळ समूहगळू, नन्न कार्यवु सिद्धिसुवन्तॆ अनुग्रहिसलि.॥65॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2927,6 +3116,8 @@ _________________
 सिद्धिं सर्वाणि भूतानि भूतानां चैव यः प्रभुः ।  
 दास्यन्ति मम ये चान्येऽप्यदृष्टाः पथि गोचराः ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2977,6 +3168,7 @@ living creatures among all living beings others who being unseen exist in the pa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2985,6 +3177,8 @@ living creatures among all living beings others who being unseen exist in the pa
 द्रक्ष्ये तदार्यावदनं कदा न्वहं  
 प्रसन्नताराधिपतुल्यवर्चसम् ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3033,6 +3227,7 @@ bright smile, with eyes resembling lotus petals with sight equaling the splendor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3041,6 +3236,8 @@ bright smile, with eyes resembling lotus petals with sight equaling the splendor
 बलाभिभूता ह्यबला तपस्विनी  
 कथं नु मे दृष्टिपथेऽद्य सा भवेत् ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3101,5 +3298,6 @@ a cruel action, with a horribly decorated form will fall in the range of my sigh
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हदिमूरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३१ मिथिला-प्रस्थानम्"
 title_english = "031 rAma travel to mithila city"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -28,12 +30,15 @@ towards River SoNa, a tributary of Ganga, and camp on its bank for a night.
 
 एकत्रिंशे — 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तां रजनीं तत्र कृतार्थौ रामलक्ष्मणौ ।  
 ऊषतुर्मुदितौ वीरौ प्रहृष्टेनान्तरात्मना ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,12 +80,15 @@ their heart of hearts. [1-31-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां कृतपौर्वाह्णिकक्रियौ ।  
 विश्वामित्रमृषींश्चान्यान् सहितावभिजग्मतुः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ brother jointly approached Sage Vishvamitra, who is along with other sages by th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य मुनिश्रेष्ठं ज्वलन्तमिव पावकम् ।  
 ऊचतुः परमोदारं वाक्यं मधुरभाषिणौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ is akin to the ritual-fire, they two spoke this highly courteous sentence to him
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमौ स्म मुनिशार्दूल किङ्करौ समुपागतौ ।  
 आज्ञापय मुनिश्रेष्ठ शासनं करवाव किम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +232,15 @@ order is to be carried out further, oh, eminent saint, that you may order us. [1
 
 ततः प्रभाते महर्षयः -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ते तयोर्वाक्ये सर्व एव महर्षयः ।  
 विश्वामित्रं पुरस्कृत्य रामं वचनमब्रुवन् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,12 +283,15 @@ at the helm of affairs. [1-31-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैथिलस्य नरश्रेष्ठ जनकस्य भविष्यति ।  
 यज्ञः परमधर्मिष्ठस्तत्र यास्यामहे वयम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +331,15 @@ of Mithila is going to take place, and we the sages are going over there. [1-31-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं चैव नरशार्दूल सहास्माभिर्गमिष्यसि ।  
 अद्भुतं च धनूरत्नं तत्र त्वं द्रष्टुमर्हसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +407,15 @@ get excited to string.
 
 इति मुनि-गण-निवेदित-माहेश्वर-धनुः-संदर्शन-संजात-कुतूहलेन दाशरथिना सह प्रस्थितो गाधि-सुतः शोणा-कूलम् अवाप । तं च रामः पप्रच्छ "को न्व् अयं देशः" इति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्धि पूर्वं नरश्रेष्ठ दत्तं सदसि दैवतैः ।  
 अप्रमेयबलं घोरं मखे परमभास्वरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,12 +457,15 @@ earlier king of Mithila as a boon of Vedic-ritual.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्य देवा न गन्धर्वा नासुरा न च राक्षसाः ।  
 कर्तुमारोपणं शक्ता न कथञ्चन मानुषाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +508,15 @@ and for human beings, not in any way. [1-31-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुषस्तस्य वीर्यं हि जिज्ञासन्तो महीक्षितः ।  
 न शेकुरारोपयितुं राजपुत्रा महाबलाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +556,15 @@ mighty princes are rendered incapable to string its bowstring. [1-31-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्धनुर्नरशार्दूल मैथिलस्य महात्मनः ।  
 तत्र द्रक्ष्यसि काकुत्स्थ यज्ञं च परमाद्भुतम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -571,12 +606,15 @@ king of Mithila and his highly admirable Vedic ritual too, if you come with us.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्धि यज्ञफलं तेन मैथिलेनोत्तमं धनुः ।  
 याचितं नरशार्दूल सुनाभं सर्वदैवतैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +666,15 @@ to eliminate enemies.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयागभूतं नृपतेस्तस्य वेश्मनि राघव ।  
 अर्चितं विविधैर्गन्धैर्धूपैश्चागुरुगन्धिभिः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,12 +721,15 @@ a variety of sandalwood pastes, scents of aloe substance, and with incenses." [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा मुनिवरः प्रस्थानमकरोत् तदा ।  
 सर्षिसङ्घः सकाकुत्स्थ आमन्त्र्य वनदेवताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,12 +773,15 @@ Rama and Lakshmana. [1-31-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति वोऽस्तु गमिष्यामि सिद्धः सिद्धाश्रमादहम् ।  
 उत्तरे जाह्नवीतीरे हिमवन्तं शिलोच्चयम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +825,15 @@ Ganga." [1-31-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मुनिशार्दूलः कौशिकः स तपोधनः ।  
 उत्तरां दिशमुद्दिश्य प्रस्थातुमुपचक्रमे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +874,15 @@ northern side of River Ganga. [1-31-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं व्रजन्तं मुनिवरमन्वगादनुसारिणाम् ।  
 शकटीशतमात्रं तु प्रयाणे ब्रह्मवादिनाम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +924,15 @@ with their ritual paraphernalia. [1-31-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगपक्षिगणाश्चैव सिद्धाश्रमनिवासिनः ।  
 अनुजग्मुर्महात्मानं विश्वामित्रं तपोधनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,6 +986,7 @@ is the guest at these woodlands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -938,6 +995,8 @@ is the guest at these woodlands.
 वासं चक्रुर्मुनिगणाः शोणाकूले समाहिताः ।  
 तेऽस्तं गते दिनकरे स्नात्वा हुतहुताशनाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,6 +1060,7 @@ River Sona when the sun is dangling towards west. [1-31-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1008,6 +1068,8 @@ River Sona when the sun is dangling towards west. [1-31-19b, 20a]
 रामोऽपि सहसौमित्रिर्मुनींस्तानभिपूज्य च ॥ २१ ॥  
 अग्रतो निषसादाथ विश्वामित्रस्य धीमतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1110,15 @@ intellectual Vishvamitra. [1-31-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामो महातेजा विश्वामित्रं तपोधनम् ॥ २२ ॥  
 पप्रच्छ मुनिशार्दूलं कौतूहलसमन्वितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,12 +1158,15 @@ whose wealth is his ascesis. [1-31-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् को न्वयं देशः समृद्धवनशोभितः ॥ २३ ॥  
 श्रोतुमिच्छामि भद्रं ते वक्तुमर्हसि तत्त्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,12 +1208,15 @@ Thus Rama asked Vishvamitra.[1-31-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नोदितो रामवाक्येन कथयामास सुव्रतः ।  
 तस्य देशस्य निखिलमृषिमध्ये महातपाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1199,5 +1270,6 @@ that place. [1-31-24b, c]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥31॥
+</details>
 </details>
 

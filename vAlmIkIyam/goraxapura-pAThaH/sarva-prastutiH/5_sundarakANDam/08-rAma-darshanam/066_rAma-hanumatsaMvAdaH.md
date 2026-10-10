@@ -2,6 +2,8 @@
 title = "०६६ राम-हनुमत्संवादः"
 title_english = "066 Sri Rama urges Hanuma to repeat the words spoken by Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -21,12 +23,15 @@ and father-in-law. Rama urges Hanuma, to repeat the words spoken by Seetha.
 
 66. चूडामणिको देखकर और सीताका समाचार पाकर श्रीरामका उनके लिये विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो हनुमता रामो दशरथात्मजः ।  
 तं मणिं हृदये कृत्वा रुरोद सहलक्ष्मणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ pressing that jewel on his bosom, began to weep.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु दृष्ट्वा मणिश्रेष्ठं राघवः शोककर्शितः ।  
 नेत्राभ्यामश्रुपूर्णाभ्यां सुग्रीवमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ spoke to Sugreeva as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव धेनुः स्रवति स्नेहाद् वत्सस्य वत्सला ।  
 तथा ममापि हृदयं मणिश्रेष्ठस्य दर्शनात् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ of this excellent jewel."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिरत्नमिदं दत्तं वैदेह्याः श्वशुरेण मे ।  
 वधूकाले यथा बद्धमधिकं मूर्ध्नि शोभते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ a bride and was tied to her head in such a way that it looked additionally beaut
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि जलसम्भूतो मणिः प्रवरपूजितः ।  
 यज्ञे परमतुष्टेन दत्तः शक्रेण धीमता ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ rite (intended to propitiate him)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमं दृष्ट्वा मणिश्रेष्ठं तथा तातस्य दर्शनम् ।  
 अद्यास्म्यवगतः सौम्य वैदेहस्य तथा विभोः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ obtaining the sight of my father as well as Janaka, the king of Videha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि शोभते तस्याः प्रियाया मूर्ध्नि मे मणिः ।  
 अद्यास्य दर्शनेनाहं प्राप्तां तामिव चिन्तये ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,12 +372,15 @@ I am considering as though I obtained the sight of Seetha herself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमाह सीता वैदेही ब्रूहि सौम्य पुनः पुनः ।  
 परासुमिव तोयेन सिञ्चन्ती वाक्यवारिणा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +423,15 @@ to you, sprinkling me with your stream of words, like offering water to a thirst
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतस्तु किं दुःखतरं यदिमं वारिसम्भवम् ।  
 मणिं पश्यामि सौमित्रे वैदेहीमागतां विना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +474,15 @@ in waters, without the arrival of Seetha?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिरं जीवति वैदेही यदि मासं धरिष्यति ।  
 क्षणं वीर न जीवेयं विना तामसितेक्षणाम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ long. O gentle one! Without that black-eyed Seetha, I cannot survive for even a 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नय मामपि तं देशं यत्र दृष्टा मम प्रिया ।  
 न तिष्ठेयं क्षणमपि प्रवृत्तिमुपलभ्य च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ for a moment, after receiving the news of her location."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं सा मम सुश्रोणी भीरुभीरुः सती तदा ।  
 भयावहानां घोराणां मध्ये तिष्ठति रक्षसाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +624,15 @@ the time with demons who are terrific and cruel?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शारदस्तिमिरोन्मुक्तो नूनं चन्द्र इवाम्बुदैः ।  
 आवृतो वदनं तस्या न विराजति साम्प्रतम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ by clouds, does not shine at present."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमाह सीता हनुमंस्तत्त्वतः कथयस्व मे ।  
 एतेन खलु जीविष्ये भेषजेनातुरो यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,6 +726,7 @@ her words, even as a sick man would with the help of a medicine."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -689,6 +734,8 @@ her words, even as a sick man would with the help of a medicine."
 मद्विहीना वरारोहा हनुमन् कथयस्व मे ।  
 दुःखाद् दुःखतरं प्राप्य कथं जीवति जानकी ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,5 +786,6 @@ having fine hips and has been separated from me, said to you."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तारनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

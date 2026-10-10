@@ -1,6 +1,8 @@
 +++
 title = "०९३ रामेण रक्षःसैन्यविनाशः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -22,12 +24,15 @@ battle-field swiftly.
 
 93. श्रीरामद्वारा राक्षससेनाका संहार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्य सभां राजा दीनः परमदुःखितः ।  
 निषसादासने मुख्ये सिंहः क्रुद्ध इव श्वसन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ ssembly-hall, sat on his pre-eminent seat, snorting like a lion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च स तान् सर्वान् बलमुख्यान् महाबलः ।  
 रावणः प्राञ्जलिर्वाक्यं पुत्रव्यसनकर्शितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,6 +114,7 @@ palms in salutation, spoke the following words all those chiefs of army:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -114,6 +123,8 @@ palms in salutation, spoke the following words all those chiefs of army:
 एकं रामं परिक्षिप्य समरे हन्तुमर्हथ ।  
 वर्षन्तः शरवर्षाणि प्रावृट्काल इवाम्बुदाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +160,15 @@ him, even as clouds pour showers during the rainy season."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवाहं शरैस्तीक्ष्णैर्भिन्नगात्रं महाहवे ।  
 भवद्भिः श्वो निहन्तास्मि रामं लोकस्य पश्यतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +209,15 @@ torn by you with your sharp arrows in the great battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येतद् वाक्यमादाय राक्षसेन्द्रस्य राक्षसाः ।  
 निर्ययुस्ते रथैः शीघ्रैर्नानानीकैश्च संयुताः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,6 +257,7 @@ with various kinds of armies and speedy chariots.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,6 +265,8 @@ with various kinds of armies and speedy chariots.
 शरीरान्तकरान् सर्वे चिक्षिपुर्वानरान् प्रति ॥ ७ ॥  
 वानराश्च द्रुमान् शैलान् राक्षसान् प्रति चिक्षिपुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,12 +302,15 @@ capable of destroying the life. The monkeys too hurled trees and mountains towar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सङ्ग्रामो महाभीमः सूर्यस्योदयनं प्रति ॥ ८ ॥  
 रक्षसां वानराणां च तुमुलः समपद्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,12 +344,15 @@ monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गदाभिश्च चित्राभिः प्रासैः खड्गैः परश्वधैः ॥ ९ ॥  
 अन्योन्यं समरे जघ्नुस्तदा वानरराक्षसाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +392,15 @@ darts, swords and axes in the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रवृत्ते सङ्ग्रामे ह्यद्भुतं सुमहद्रजः ॥ १० ॥  
 रक्षसां वानराणां च शान्तं शोणितविस्रवैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +440,15 @@ settled down by the streams of blood, proceeding from the demons and mokeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातङ्गरथकूलाश्च शरमत्स्या ध्वजद्रुमाः ॥ ११ ॥  
 शरीरसङ्घाटवहाः प्रसस्रुः शोणितापगाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,6 +488,7 @@ flag-staffs as trees, rivers of blood gushed forth, carrying dead
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,6 +496,8 @@ flag-staffs as trees, rivers of blood gushed forth, carrying dead
 ध्वजवर्मरथानश्वान् नानाप्रहरणानि च ।  
 आप्लुत्याप्लुत्य समरे वानरेन्द्रा बभञ्जिरे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +539,15 @@ kinds of weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केशान् कर्णललाटं च नासिकाश्च प्लवङ्गमाः ।  
 रक्षसां दशनैस्तीक्ष्णैर्नखैश्चापि व्यकर्तयन् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +587,15 @@ noses of the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकैकं राक्षसं सङ्ख्ये शतं वानरपुङ्गवाः ।  
 अभ्यधावन्त फलिनं वृक्षं शकुनयो यथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +629,15 @@ birds would rush towards a tree laden with fruits.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा गदाभिर्गुर्वीभिः प्रासैः खड्गैः परश्वधैः ।  
 निर्जघ्नुर्वानरान् घोरान् राक्षसाः पर्वतोपमाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +681,15 @@ large maces, darts, swords and axes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसैर्वध्यमानानां वानराणां महाचमूः ।  
 शरण्यं शरणं याता रामं दशरथात्मजम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +723,15 @@ the son of Dasaratha, who affords protection.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजा धनुरादाय वीर्यवान् ।  
 प्रविश्य राक्षसं सैन्यं शरवर्षं ववर्ष च ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +772,15 @@ army of demons, streamed forth showers of arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टं तु तदा रामं मेघाः सूर्यमिवाम्बरे ।  
 नाधिजग्मुर्महाघोरा निर्दहन्तं शराग्निना ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +822,15 @@ sun in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतान्येव सुघोराणि रामेण रजनीचराः ।  
 रणे रामस्य ददृशुः कर्माण्यसुकराणि ते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +873,15 @@ performed by him in the battle-field, which were difficult to perform for others
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चालयन्तं महासैन्यं विधमन्तं महारथान् ।  
 ददृशुस्ते न वै रामं वातं वनगतं यथा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,12 +924,15 @@ blowing away their great chariots, any more than one could see a gale of wind in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छिन्नं भिन्नं शरैर्दग्धं प्रभग्नं शस्त्रपीडितम् ।  
 बलं रामेण ददृशुर्न रामं शीघ्रकारिणम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +973,15 @@ tormented with missiles. They could not see Rama, who was so swift in his martia
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहरन्तं शरीरेषु न ते पश्यन्ति राघवम् ।  
 इन्द्रियार्थेषु तिष्ठन्तं भूतात्मानमिव प्रजाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,6 +1022,7 @@ not able to see their individual souls resting in their sense-objects.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -965,6 +1031,8 @@ not able to see their individual souls resting in their sense-objects.
 इति ते राक्षसाः सर्वे रामस्य सदृशान् रणे ।  
 अन्योन्यं कुपिता जघ्नुः सादृश्याद् राघवस्य तु ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1083,15 @@ similarity of appearance to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते ददृशिरे रामं दहन्तमपि वाहिनीम् ।  
 मोहिताः परमास्त्रेण गान्धर्वेण महात्मना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,12 +1133,15 @@ those demons were unable to see Rama, even when he was scorching away their army
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु रामसहस्राणि रणे पश्यन्ति राक्षसाः ।  
 पुनः पश्यन्ति काकुत्स्थमेकमेव महाहवे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1181,15 @@ other times, they saw only one Rama in that great battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रमन्तीं काञ्चनीं कोटिं कार्मुकस्य महात्मनः ।  
 अलातचक्रप्रतिमां ददृशुस्ते न राघवम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1223,7 @@ other times, they saw only one Rama in that great battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1154,6 +1232,8 @@ other times, they saw only one Rama in that great battle.
 दिव्यास्त्रगुणपर्यन्तं निघ्नन्तं युधि राक्षसान् ।  
 ददृशू रामचक्रं तत् कालचक्रमिव प्रजाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1198,6 +1278,7 @@ his mystic missiles for its edge.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1208,6 +1289,8 @@ his mystic missiles for its edge.
 दिवसस्याष्टभागेन शरैरग्निशिखोपमैः ।  
 हतान्येकेन रामेण रक्षसां कामरूपिणाम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,12 +1345,15 @@ with their riders and a full two lacs of demons fighting on foot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते हताश्वा हतरथाः शान्ता विमथितध्वजाः ।  
 अभिपेतुः पुरीं लङ्कां हतशेषा निशाचराः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1310,12 +1396,15 @@ with thier flag-staffs broken and with broken spirits, rushed back towards the C
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतैर्गजपदात्यश्वैस्तद् बभूव रणाजिरम् ।  
 आक्रीडभूमिः क्रुद्धस्य रुद्रस्येव महात्मनः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,12 +1444,15 @@ pleasure-grave of the powerful and the enraged the lord of destruction.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 साधु साध्विति रामस्य तत् कर्म समपूजयन् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1395,6 +1487,7 @@ great sages acclaimed that feat of Rama, saying "well done, well done!".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1403,6 +1496,8 @@ great sages acclaimed that feat of Rama, saying "well done, well done!".
 जाम्बवन्तं हरिश्रेष्ठं मैन्दं द्विविदमेव च ।  
 एतदस्त्रबलं दिव्यं मम वा त्र्यम्बकस्य वा ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1449,6 +1544,7 @@ the lord of destruction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1457,6 +1553,8 @@ the lord of destruction."
 अस्त्रेषु शस्त्रेषु जितक्लमश्च  
 संस्तूयते देवगणैः प्रहृष्टैः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1530,5 +1628,6 @@ chariots and foot-soldiers, all of you march forward."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥93॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०९२ भरतप्रस्थानम्"
 title_english = "092 Bharata approaches Bharadwaja"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -28,12 +30,15 @@ his retinue.
 
 92. भरतका भरद्वाज मुनिसे जानेकी आज्ञा लेते हुए श्रीरामके आश्रमपर जानेका मार्ग जानना और मुनिको अपनी माताओंका परिचय देकर वहाँसे चित्रकूटके लिये सेनासहित प्रस्थान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तां रजनीं व्युष्य भरतः सपरिच्छदः ।  
 कृतातिथ्यो भरद्वाजं कामादभिजगाम ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,12 +83,15 @@ night there and sought out Bharadwaja with fondness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमृषिः पुरुषव्याघ्रं प्रेक्ष्य प्राञ्जलिमागतम् ।  
 हुताग्निहोत्रो भरतं भरद्वाजोऽभ्यभाषत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ tiger among men, who had come there with joined palms, saying.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदत्र सुखा रात्रिस्तवास्मद्विषये गता ।  
 समग्रस्ते जनः कच्चिदातिथ्ये शंस मेऽनघ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ retinue fully satisfied with my hospitality? Tell me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाचाञ्जलिं कृत्वा भरतोऽभिप्रणम्य च ।  
 आश्रमादुपनिष्क्रान्तमृषिमुत्तमतेजसम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +228,15 @@ Bharawaja, who came out from his hermitage (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखोषितोऽस्मि भगवन् समग्रबलवाहनः ।  
 बलवत्तर्पितश्चाहं बलवान् भगवंस्त्वया ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +277,15 @@ riding.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपेतक्लमसन्तापाः सुभिक्षाः सुप्रतिश्रयाः ।  
 अपि प्रेष्यानुपादाय सर्वे स्म सुसुखोषिताः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,12 +327,15 @@ accommodation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमन्त्रयेऽहं भगवन् कामं त्वामृषिसत्तम ।  
 समीपं प्रस्थितं भ्रातुर्मैत्रेणेक्षस्व चक्षुषा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +379,15 @@ as I find myself in my brother's vicinity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रमं तस्य धर्मज्ञ धार्मिकस्य महात्मनः ।  
 आचक्ष्व कतमो मार्गः कियानिति च शंस मे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,12 +428,15 @@ Rama. Tell me as to which way I have to go, how much distance it is from here an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति पृष्टस्तु भरतं भ्रातुर्दर्शनलालसम् ।  
 प्रत्युवाच महातेजा भरद्वाजो महातपाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ The highly glorious Bharadwaaja, of rigid asceticism, thus questioned by Bharata
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतार्धतृतीयेषु योजनेष्वजने वने ।  
 चित्रकूटगिरिस्तत्र रम्यनिर्झरकाननः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,6 +530,7 @@ Chitrakuta, in the middle of a lonely forest with its charming Cascades and grov
 
 * सर्ग ५४ के श्लोक २८ में मूल ग्रन्थमें दस कोसकी दूरी लिखी है और यहाँ ढाई योजन । दोनों स्थलोंमें दस कोसका ही संकेत है । रामायणशिरोमणि नामक व्याख्यामें दोनों जगह कपि-जलाधिकरणन्यायसे अथवा एकशेषके द्वारा यह दूरी तिगुनी करके दिखायी गयी है । प्रयागसे चित्रकूटकी दूरी लगभग २८ कोसकी मानी जाती है । रामायणशिरोमणिकारकी मान्यताके अनुसार ३० कोसकी दूरीमें और इस दूरीमें अधिक अन्तर नहीं है । मीलका माप पुराने क्रोश-मानकी अपेक्षा छोटा है, इसलिये ८० मीलकी यह दूरी मानी जाती है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -506,6 +539,8 @@ Chitrakuta, in the middle of a lonely forest with its charming Cascades and grov
 अनन्तरं तत्सरितश्चित्रकूटं च पर्वतम् ।  
 तयोः पर्णकुटीं तात तत्र तौ वसतो ध्रुवम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,6 +602,7 @@ enveloped with flowering trees and having forests flourished with charming bloss
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -574,6 +610,8 @@ enveloped with flowering trees and having forests flourished with charming bloss
 गजवाजिसमाकीर्णां वाहिनीं वाहिनीपते ॥ १३ ॥  
 वाहयस्व महाभाग ततो द्रक्ष्यसि राघवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +655,15 @@ Rama then."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाणमिति च श्रुत्वा राजराजस्य योषितः ॥ १४ ॥  
 हित्वा यानानि यानार्हा ब्राह्मणं पर्यवारयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,6 +704,7 @@ palanquins, descended from their palanquins and stood encircling Bharadwaja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -671,6 +713,8 @@ palanquins, descended from their palanquins and stood encircling Bharadwaja.
 कौसल्या तत्र जग्राह  
 कराभ्यां चरणौ मुनेः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,6 +755,7 @@ sage's feet with bashfulness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -723,6 +768,8 @@ sage's feet with bashfulness.
 अदूराद् भरतस्यैव  
 तस्थौ दीनमनास्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +827,15 @@ sage's feet with bashfullness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र पप्रच्छ भरतं भरद्वाजो महामुनिः ॥ १८ ॥  
 विशेषं ज्ञातुमिच्छामि मातॄणां तव राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +876,15 @@ wish to know the distinctions of your mothers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भरतो भरद्वाजेन धार्मिकः ॥ १९ ॥  
 उवाच प्राञ्जलिर्भूत्वा वाक्यं वचनकोविदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,6 +924,7 @@ expression, with joined palms, spoke the following words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -879,6 +933,8 @@ expression, with joined palms, spoke the following words.
 एषां तं पुरुषव्याघ्रं सिंहविक्रान्तगामिनम् ॥ २१ ॥  
 कौसल्या सुषुवे रामं धातारमदितिर्यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,6 +984,7 @@ that Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -937,6 +994,8 @@ that Rama."
 एतस्यास्तौ सुतौ देव्याः कुमारौ देववर्णिनौ ।  
 उभौ लक्ष्मणशत्रुघ्नौ वीरौ सत्यपराक्रमौ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,6 +1045,7 @@ and unfailing prowess are the sons of this godly woman, Sumitra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -996,6 +1056,8 @@ and unfailing prowess are the sons of this godly woman, Sumitra.
 ममैतां मातरं विद्धि नृशंसां पापनिश्चयाम् ।  
 यतोमूलं हि पश्यामि व्यसनं महदात्मनः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1121,15 @@ whom I see the root cause of my great misfortune."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा नरशार्दूलो बाष्पगद्‍गदया गिरा ।  
 विनिःश्वस्य स ताम्राक्षः क्रुद्धो नाग इव श्वसन् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1104,12 +1169,15 @@ sage replied in the following meaningful words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरद्वाजो महर्षिस्तं ब्रुवन्तं भरतं तदा ।  
 प्रत्युवाच महाबुद्धिरिदं वचनमर्थवित् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1149,6 +1217,7 @@ of Rama with indeed become ultimately a cause for happiness!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1157,6 +1226,8 @@ of Rama with indeed become ultimately a cause for happiness!"
 रामप्रव्राजनं ह्येतत्  
 सुखोदर्कं भविष्यति ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1191,12 +1262,15 @@ demons and the sages whose souls are purified by meditating on the Universal Spi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवानां दानवानां च ऋषीणां भावितात्मनाम् ।  
 हितमेव भविष्यद्धि रामप्रव्राजनादिह ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1236,12 +1310,15 @@ farewell, directing the army to get prepared to leave.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य तु संसिद्धः कृत्वा चैनं प्रदक्षिणम् ।  
 आमन्त्र्य भरतः सैन्यं युज्यतामिति चाब्रवीत् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1284,12 +1361,15 @@ chariots, decorated with gold, duly harnessed to horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वाजिरथान् युक्त्वा दिव्यान् हेमविभूषितान् ।  
 अध्यारोहत् प्रयाणार्थं बहून् बहुविधो जनः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,12 +1412,15 @@ sound of bells, like thundering clouds at the end of a summer marched in a form.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजकन्या गजाश्चैव हेमकक्ष्याः पताकिनः ।  
 जीमूता इव घर्मान्ते सघोषाः सम्प्रतस्थिरे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1377,12 +1460,15 @@ marched forward by foot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विविधान्यपि यानानि महान्ति च लघूनि च ।  
 प्रययुः सुमहार्हाणि पादैरपि पदातयः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1422,12 +1508,15 @@ thereafter advanced on their excellent conveyances.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यानप्रवेकैस्तु कौसल्याप्रमुखाः स्त्रियः ।  
 रामदर्शनकाङ्क्षिण्यः प्रययुर्मुदितास्तदा ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1468,12 +1557,15 @@ shining like rising moon and sun and proceeded along with his escort.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रार्कतरुणाभासां नियुक्तां शिबिकां शुभाम् ।  
 आस्थाय प्रययौ श्रीमान् भरतः सपरिच्छदः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,12 +1582,15 @@ shining like rising moon and sun and proceeded along with his escort.
 
 हीगॆये श्रीमान् भरतनु नवोदित चन्द्र-सूर्यर कान्तियुक्त बोविगळु हॊत्तिरुव मेनॆयल्लि कुळितु आवश्यक सामग्रिगळॊन्दिगॆ हॊरटनु.॥37॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्रयाता महासेना गजवाजिसमाकुला ।  
 दक्षिणां दिशमावृत्य महामेघ इवोत्थितः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1534,12 +1629,15 @@ Ganges, by mountains and streams, crossing the woods inhabited by deer and birds
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनानि च व्यतिक्रम्य जुष्टानि मृगपक्षिभिः ।  
 गङ्गायाः परवेलायां गिरिष्वथ नदीष्वपि ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1586,6 +1684,7 @@ there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1594,6 +1693,8 @@ there.
 महद्वनं तत् प्रविगाहमाना  
 रराज सेना भरतस्य तत्र ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1622,5 +1723,6 @@ there.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॆरडनॆय सर्ग पूर्णवायितु.॥92॥
+</details>
 </details>
 

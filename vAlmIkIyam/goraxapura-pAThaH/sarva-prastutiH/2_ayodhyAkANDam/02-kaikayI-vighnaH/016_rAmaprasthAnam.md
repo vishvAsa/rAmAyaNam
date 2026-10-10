@@ -2,6 +2,8 @@
 title = "०१६ रामप्रस्थानम्"
 title_english = "016 Jubilant city of Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ starts to the royal court to meet his father. On the way Rama observes the jubil
 
 16. सुमन्त्रका श्रीरामके महलमें पहुँचकर महाराजका संदेश सुनाना और श्रीरामका सीतासे अनुमति ले लक्ष्मणके साथ रथपर बैठकर गाजेबाजेके साथ मार्गमें स्त्री-पुरुषोंकी बातें सुनते हुए जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदन्तःपुरद्वारं समतीत्य जनाकुलम् ।  
 प्रविविक्तां ततः कक्ष्यामाससाद पुराणवित् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -42,12 +47,15 @@ starts to the royal court to meet his father. On the way Rama observes the jubil
 
 हिन्दिन वृत्तान्तवन्नु बल्ल सुमन्त्रनु जनरिन्द निबिडवागिद्द अरमनॆय हॊराङ्गणवन्नु दाटि जनबाहुळ्यविल्लद अरमनॆय ऒळाङ्गणवन्नु प्रवेशिसिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासकार्मुकबिभ्रद्भिर्युवभिर्मृष्टकुण्डलैः ।  
 अप्रमादिभिरेकाग्रैः स्वानुरक्तैरधिष्ठिताम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +72,15 @@ starts to the royal court to meet his father. On the way Rama observes the jubil
 
 श्रीरामन अरमनॆय ऒळाङ्गणदल्लि प्रास, धनुस्सुगळन्नु, परिशुद्धवाद कर्णकुण्डलगळन्नु धरिसिद्द, रक्षणॆयल्ले एकाग्र चित्तरागिद्द, जागरूकरागिद्द, श्रीरामनल्ले हॆच्चु अनुरक्तरागिद्द युवकरु निन्तिद्दरु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र काषायिणो वृद्धान् वेत्रपाणीन् स्वलङ्कृतान् ।  
 ददर्श विष्ठितान् द्वारि स्त्र्यध्यक्षान् सुसमाहितान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,12 +106,15 @@ _________________
 
 काषाय वस्त्रगळन्नु धरिसि बॆत्तगळन्नु हिडिदु वस्त्राभूषणगळिन्द अलङ्कृतराद अनेक वृद्धराद अन्तःपुरद अधिकारिगळु द्वारदल्लि कुळितिरुवुदन्नु सुमन्त्रनु नोडिदनु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते समीक्ष्य समायान्तं रामप्रियचिकीर्षवः ।  
 सहसोत्पतिताः सर्वे ह्यासनेभ्यः ससम्भ्रमाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -140,12 +154,15 @@ their seats hurriedly at once.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानुवाच विनीतात्मा सूतपुत्रः प्रदक्षिणः ।  
 क्षिप्रमाख्यात रामाय सुमन्त्रो द्वारि तिष्ठति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +203,15 @@ is waiting with reverence at the entrance"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते राममुपसङ्गम्य भर्तुः प्रियचिकीर्षवः ।  
 सहभार्याय रामाय क्षिप्रमेवाचचक्षिरे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +245,15 @@ immediately informed him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिवेदितमाज्ञाय सूतमभ्यन्तरं पितुः ।  
 तत्रैवानाययामास राघवः प्रियकाम्यया ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +293,15 @@ show kindness, called him in there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वैश्रवणसङ्काशमुपविष्टं स्वलङ्कृतम् ।  
 ददर्श सूतः पर्यङ्के सौवर्णे सोत्तरच्छदे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +318,7 @@ show kindness, called him in there.
 
 अल्लिगॆ होगि सुमन्त्रनु नोडिदनु - श्रीरामचन्द्रनु वस्त्राभूषगळिन्द अलङ्कृतवागि कुबेरनन्तॆ कण्डुबरुत्तिद्दु, स्वर्णमञ्चदल्लि हंसतूलिकातल्पदल्लि विराजमाननागिद्दनु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -300,6 +327,8 @@ show kindness, called him in there.
 स्थितया पार्श्वतश्चापि वालव्यजनहस्तया ।  
 उपेतं सीतया भूयश्चित्रया शशिनं यथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +377,15 @@ shining like moon with chitra star.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तपन्तमिवादित्यमुपपन्नं स्वतेजसा ।  
 ववन्दे वरदं वन्दी विनयज्ञो विनीतवत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +428,15 @@ his own brilliance, shining like the sun and the fulfiller of desires.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राञ्जलिः सुमुखं दृष्ट्वा विहारशयनासने ।  
 राजपुत्रमुवाचेदं सुमन्त्रो राजसत्कृतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +476,15 @@ prince with beautiful face and who was seated on a swinging sofa.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या सुप्रजा राम पिता त्वां द्रष्टुमिच्छति ।  
 महिष्यापि हि कैकेय्या गम्यतां तत्र मा चिरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +524,15 @@ see you. Go there soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु संहृष्टो नरसिंहो महाद्युतिः ।  
 ततः सम्मानयामास सीतामिदमुवाच ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +572,15 @@ honoured him and spoke thus to Sita.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवि देवश्च देवी च समागम्य मदन्तरे ।  
 मन्त्रयेते ध्रुवं किञ्चिदभिषेचनसंहितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +620,15 @@ relating to coronation. It is certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्षयित्वा ह्यभिप्रायं प्रियकामा सुदक्षिणा ।  
 सञ्चोदयति राजानं मदर्थमसितेक्षणा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -618,12 +665,15 @@ king's opinion and is inciting him for my sake"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्रहृष्टा महाराजं हितकामानुवर्तिनी ।  
 जननी चार्थकामा मे केकयाधिपतेः सुता ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,12 +713,15 @@ of my benefit and prosperity"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या खलु महाराजो महिष्या प्रियया सह ।  
 सुमन्त्रं प्राहिणोद् दूतमर्थकामकरं मम ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +761,15 @@ desires and wishes, as messenger".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशी परिषत् तत्र तादृशो दूत आगतः ।  
 ध्रुवमद्यैव मां राजा यौवराज्येऽभिषेक्ष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +809,15 @@ certain that today itself the king will anoint me for the right of succession to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त शीघ्रमितो गत्वा द्रक्ष्यामि च महीपतिम् ।  
 सह त्वं परिवारेण सुखमास्स्व रमस्व च ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -798,12 +857,15 @@ friends and enjoy yourself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतिसम्मानिता सीता भर्तारमसितेक्षणा ।  
 आ द्वारमनुवव्राज मङ्गलान्यभिदध्युषी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +905,15 @@ husband up to the door, thinking of auspicious things in her mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं द्विजातिभिर्जुष्टं राजसूयाभिषेचनम् ।  
 कर्तुमर्हति ते राजा वासवस्येव लोककृत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +954,15 @@ Devendra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षितं व्रतसम्पन्नं वराजिनधरं शुचिम् ।  
 कुरङ्गशृङ्गपाणिं च पश्यन्ती त्वां भजाम्यहम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +997,15 @@ austerity, wearing excellent antelope-hide, being pure and bearing a deer-horn i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वां दिशं वज्रधरो दक्षिणां पातु ते यमः ।  
 वरुणः पश्चिमामाशां धनेशस्तूत्तरां दिशम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -979,12 +1050,15 @@ you".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सीतामनुज्ञाप्य कृतकौतुकमङ्गलः ।  
 निश्चक्राम सुमन्त्रेण सह रामो निवेशनात् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1024,12 +1098,15 @@ from house along with Sumantra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्वतादिव निष्क्रम्य सिंहो गिरिगुहाशयः ।  
 लक्ष्मणं द्वारि सोऽपश्यत् प्रह्वाञ्जलिपुटं स्थितम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,6 +1151,7 @@ forehead as a mark of respect.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1082,6 +1160,8 @@ forehead as a mark of respect.
 ततः पावकसङ्काशमारुरोह रथोत्तमम् ।  
 वैयाघ्रं पुरुषव्याघ्रो राजितं राजनन्दनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1129,12 +1209,15 @@ excellent chariot, which was resplendent like fire and covered with tiger's skin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघनादमसम्बाधं मणिहेमविभूषितम् ।  
 मुष्णन्तमिव चक्षूंषि प्रभया मेरुवर्चसम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1234,15 @@ excellent chariot, which was resplendent like fire and covered with tiger's skin
 
 श्रीरामनु कुळितिद्द आ दिव्य रथद ध्वनियु मेघगम्भीर ध्वनियन्तॆ इत्तु. रथद ऒळभागवु विस्तारवागित्तु. अदु नवरत्नगळिन्दलू, सुवर्णदिन्दलू विभूषितवागित्तु. मेरुपर्वतद सुवर्णकान्तियन्तॆ हॊळॆयुत्तित्तु. आ रथवु नोडुव जनर कण्णु कुक्कुवन्तह प्रभॆयन्नु हॊरसूसुत्तित्तु.॥29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करेणुशिशुकल्पैश्च युक्तं परमवाजिभिः ।  
 हरियुक्तं सहस्राक्षो रथमिन्द्र इवाशुगम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1199,6 +1285,7 @@ quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1206,6 +1293,8 @@ quickly.
 स पर्जन्य इवाकाशे स्वनवानभिनादयन् ॥ ३१ ॥  
 निकेतान्निर्ययौ श्रीमान् महाभ्रादिव चन्द्रमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1379,15 @@ all greatly devoted to the king and were wearing polished ear-rings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रचामरपाणिस्तु लक्ष्मणो राघवानुजः ॥ ३२ ॥  
 जुगोप भ्रातरं भ्राता रथमास्थाय पृष्ठतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,12 +1424,15 @@ Rama with umbrella and chamara fan.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हलहलाशब्दस्तुमुलः समजायत ॥ ३३ ॥  
 तस्य निष्क्रममाणस्य जनौघस्य समन्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1377,12 +1472,15 @@ sound.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हयवरा मुख्या नागाश्च गिरिसन्निभाः ॥ ३४ ॥  
 अनुजग्मुस्तथा रामं शतशोऽथ सहस्रशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1422,12 +1520,15 @@ and soldiers mounted on elephants, then followed Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतश्चास्य सन्नद्धाश्चन्दनागुरुभूषिताः ॥ ३५ ॥  
 खड्गचापधराः शूरा जग्मुराशंसवो जनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1464,6 +1565,7 @@ swords and bows, declaring the arrival of Rama, went in front of Rama to receive
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1472,6 +1574,8 @@ swords and bows, declaring the arrival of Rama, went in front of Rama to receive
 हर्म्यवातायनस्थाभिर्भूषिताभिः समन्ततः ॥ ३७ ॥  
 कीर्यमाणः सुपुष्पौघैर्ययौ स्त्रीभिररिन्दमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1525,12 +1629,15 @@ and lion-like roars of valiant persons were heard on the way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं सर्वानवद्याङ्‍ग्यो रामपिप्रीषया ततः ॥ ३८ ॥  
 वचोभिरग्र्यैर्हर्म्यस्थाः क्षितिस्थाश्च ववन्दिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1567,12 +1674,15 @@ salutations to Rama with the best words with a desire to please Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं नन्दति ते माता कौसल्या मातृनन्दन ॥ ३९ ॥  
 पश्यन्ती सिद्धयात्रं त्वां पित्र्यं राज्यमुपस्थितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1616,6 +1726,7 @@ Kausalya will be certainly delighted to see you obtaining the paternal kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1624,6 +1735,8 @@ Kausalya will be certainly delighted to see you obtaining the paternal kingdom."
 तया सुचरितं देव्या पुरा नूनं महत् तपः ॥ ४१ ॥  
 रोहिणीव शशाङ्केन रामसंयोगमाप या ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1677,12 +1790,15 @@ women.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रासादशृङ्गेषु प्रमदाभिर्नरोत्तमः ।  
 शुश्राव राजमार्गस्थः प्रिया वाच उदाहृताः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1719,6 +1835,7 @@ women standing in turrets.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1727,6 +1844,8 @@ women standing in turrets.
 आत्माधिकारा विविधाश्च वाचः  
 प्रहृष्टरूपस्य पुरे जनस्य ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1771,6 +1890,7 @@ pertaining to himself, by citizens.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1779,6 +1899,8 @@ pertaining to himself, by citizens.
 एते वयं सर्वसमृद्धकामा  
 येषामयं नो भविता प्रशास्ता ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1824,6 +1946,7 @@ wealthy kingdom. All our desires are going to be fulfilled because Rama will bec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1832,6 +1955,8 @@ wealthy kingdom. All our desires are going to be fulfilled because Rama will bec
 न ह्यप्रियं किञ्चन जातु कश्चित्  
 पश्येन्न दुःखं मनुजाधिपेऽस्मिन् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1877,6 +2002,7 @@ If he becomes a king none can see dislike and sorrow at any time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1885,6 +2011,8 @@ If he becomes a king none can see dislike and sorrow at any time."
 महीयमानः प्रवरैश्च वादकै-  
 रभिष्टुतो वैश्रवणो यथा ययौ ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1936,6 +2064,7 @@ of wealth, went with resounding horses and elephants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1944,6 +2073,8 @@ of wealth, went with resounding horses and elephants.
 प्रभूतरत्नं बहुपण्यसञ्चयं  
 ददर्श रामो विमलं महापथम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2000,5 +2131,6 @@ was abundance of people gathered at road junctions.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनारनॆय सर्ग पूर्णवायितु ॥16॥
+</details>
 </details>
 

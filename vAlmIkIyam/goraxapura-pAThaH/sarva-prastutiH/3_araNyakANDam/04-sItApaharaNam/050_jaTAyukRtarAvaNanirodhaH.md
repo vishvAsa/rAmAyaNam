@@ -2,6 +2,8 @@
 title = "०५० जटायुकृतरावणनिरोधः"
 title_english = "050 Jataayu s confrontation with Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ Ravana until Rama comes. Yet, he persists to affront Ravana.
 
 50. जटायुका रावणको सीताहरणके दुष्कर्मसे निवृत्त होनेके लिये समझाना और अन्तमें युद्धके लिये ललकारना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शब्दमवसुप्तस्तु जटायुरथ शुश्रुवे ।  
 निरैक्षद् रावणं क्षिप्रं वैदेहीं च ददर्श सः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ and even Vaidehi. [3-50-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पर्वतशृङ्गाभस्तीक्ष्णतुण्डः खगोत्तमः ।  
 वनस्पतिगतः श्रीमान् व्याजहार शुभां गिरम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,6 +119,7 @@ these words of expediency still perching on a tree. [3-50-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +127,8 @@ these words of expediency still perching on a tree. [3-50-2]
 भ्रातस्त्वं निन्दितं कर्म कर्तुं नार्हसि साम्प्रतम् ॥ ३ ॥  
 जटायुर्नाम नाम्नाहं गृध्रराजो महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,12 +185,15 @@ telling about himself, next he started to tell about his master. Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा सर्वस्य लोकस्य महेन्द्रवरुणोपमः ॥ ४ ॥  
 लोकानां च हिते युक्तो रामो दशरथात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +239,15 @@ because he is also the lord of yours...' Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैषा लोकनाथस्य धर्मपत्नी यशस्विनी ॥ ५ ॥  
 सीता नाम वरारोहा यां त्वं हर्तुमिहेच्छसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,6 +287,7 @@ wife of that preserver of all the worlds, namely Rama. [3-50-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,6 +295,8 @@ wife of that preserver of all the worlds, namely Rama. [3-50-5b, 6a]
 रक्षणीया विशेषेण राजदारा महाबल ।  
 निवर्तय गतिं नीचां परदाराभिमर्शनात् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +331,15 @@ great-mighty Ravana, she is to be safeguarded particularly. [3-50-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तत् समाचरेद् धीरो यत् परोऽस्य विगर्हयेत् ।  
 यथाऽऽत्मनस्तथान्येषां दारा रक्ष्या विमर्शनात् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,12 +403,15 @@ nR^ipa | dharmam api ashubhodarkam loka vikR^iShTam eva ca - dk*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थं वा यदि वा कामं शिष्टाः शास्त्रेष्वनागतम् ।  
 व्यवस्यन्त्यनुराजानं धर्मं पौलस्त्यनन्दन ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +473,15 @@ your subjects, on following your present path, gains access to your wife Mandoda
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा धर्मश्च कामश्च द्रव्याणां चोत्तमो निधिः ।  
 धर्मः शुभं वा पापं वा राजमूलं प्रवर्तते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +527,15 @@ suucitam... dk* 'subjects follow what a king does...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापस्वभावश्चपलः कथं त्वं रक्षसां वर ।  
 ऐश्वर्यमभिसम्प्राप्तो विमानमिव दुष्कृती ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +583,15 @@ ruled righteously, like an evildoer attaining a heaven-bound aircraft. [3-50-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामस्वभावो यःसोऽसौ न शक्यस्तं प्रमार्जितुम् ।  
 नहि दुष्टात्मनामार्यमावसत्यालये चिरम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +655,15 @@ higher realms of Brahma, Vishnu, and Maheshvara if piloted by Ravana like demons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषये वा पुरे वा ते यदा रामो महाबलः ।  
 नापराध्यति धर्मात्मा कथं तस्यापराध्यसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,6 +720,7 @@ wage a war without a cause...' She must have understood the answer by now by the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -690,6 +729,8 @@ wage a war without a cause...' She must have understood the answer by now by the
 अत्र ब्रूहि यथातत्त्वं को रामस्य व्यतिक्रमः ।  
 यस्य त्वं लोकनाथस्य हृत्वा भार्यां गमिष्यसि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +785,15 @@ in that matter, whereupon you are stealing off with the wife of such a lord of w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं विसृज वैदेहीं मा त्वा घोरेण चक्षुषा ।  
 दहेद् दहनभूतेन वृत्रमिन्द्राशनिर्यथा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +833,15 @@ so when he assumes fury, burn you down as the Thunderbolt of Indra once burnt th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्पमाशीविषं बद्‍ध्वा वस्त्रान्ते नावबुध्यसे ।  
 ग्रीवायां प्रतिमुक्तं च कालपाशं न पश्यसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +883,15 @@ attire, and you are equally unwary that the Terminator's lasso is presently loos
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भारः सौम्य भर्तव्यो यो नरं नावसादयेत् ।  
 तदन्नमपि भोक्तव्यं जीर्यते यदनामयम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,12 +940,15 @@ to examine how easily they can be broken by that stone...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् कृत्वा न भवेद् धर्मो न कीर्तिर्न यशो ध्रुवम् ।  
 शरीरस्य भवेत् खेदः कस्तत् कर्म समाचरेत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1010,15 @@ asukhodayam - dk*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्टिवर्षसहस्राणि जातस्य मम रावण ।  
 पितृपैतामहं राज्यं यथावदनुतिष्ठतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,12 +1061,15 @@ thousand years have elapsed since I was born. [3-50-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धोऽहं त्वं युवा धन्वी सरथः कवची शरी ।  
 न चाप्यादाय कुशली वैदेहीं मे गमिष्यसि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1113,15 @@ whereas I am pensile bird in an open sky. Nevertheless, on taking Vaidehi you ca
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्तस्त्वं बलाद्धर्तुं वैदेहीं मम पश्यतः ।  
 हेतुभिर्न्यायसंयुक्तैर्ध्रुवां वेदश्रुतीमिव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,12 +1193,15 @@ ultimately annihilates the demons that falsify or abuse the 'word.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युध्यस्व यदि शूरोऽसि मुहूर्तं तिष्ठ रावण ।  
 शयिष्यसे हतो भूमौ यथा पूर्वं खरस्तथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,12 +1249,15 @@ Or optionally, you can combat with me in which meantime Rama will come hither...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असकृत्संयुगे येन निहता दैत्यदानवाः ।  
 न चिराच्चीरवासास्त्वां रामो युधि वधिष्यति ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1230,12 +1298,15 @@ you very soon. [3-50-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु शक्यं मया कर्तुं गतौ दूरं नृपात्मजौ ।  
 क्षिप्रं त्वं नश्यसे नीच तयोर्भीतो न संशयः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1277,12 +1348,15 @@ a doubt. [3-50-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवमानस्य नयिष्यसि शुभामिमाम् ।  
 सीतां कमलपत्राक्षीं रामस्य महिषीं प्रियाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,12 +1398,15 @@ imaam siitaam* = this [lady,] Seetha; *na nayiSyasi hi* = not, you lead away, in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं तु मया कार्यं प्रियं तस्य महात्मनः ।  
 जीवितेनापि रामस्य तथा दशरथस्य च ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,6 +1447,7 @@ to the great-souled Rama, likewise even to Dasharatha, even at the stake of my l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1377,6 +1455,8 @@ to the great-souled Rama, likewise even to Dasharatha, even at the stake of my l
 वृन्तादिव फलं त्वां तु पातयेयं रथोत्तमात् ।  
 युद्धातिथ्यं प्रदास्यामि यथाप्राणं निशाचर ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,5 +1512,6 @@ to you in a duel as long as I am alive. [3-50-28]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तनॆय सर्ग सम्पूर्णवायितु.॥50॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४९ अहल्याशापविमोचनम्"
 title_english = "049 Redemption of ahalya from her curse"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -25,12 +27,15 @@ Ahalya is redeemed from her curse when Rama enters their hermitage.
 
 49. पितृदेवताओंद्वारा इन्द्रको भेड़ेके अण्डकोषसे युक्त करना तथा भगवान् श्रीरामके द्वारा अहल्याका उद्धार एवं उन दोनों दम्पतिके द्वारा इनका सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अफलस्तु ततः शक्रो देवानग्निपुरोगमान् ।  
 अब्रवीत् त्रस्तनयनः सिद्धगन्धर्वचारणान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ and carana-s, keeping Fire-god as their helms-god. [1-49-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुर्वता तपसो विघ्नं गौतमस्य महात्मनः ।  
 क्रोधमुत्पाद्य हि मया सुरकार्यमिदं कृतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,12 +135,15 @@ or other higher beings will come to his rescue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अफलोऽस्मि कृतस्तेन क्रोधात् सा च निराकृता ।  
 शापमोक्षेण महता तपोऽस्यापहृतं मया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ is dwindled, therefore his ascesis is pre-empted by me. [1-49-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मां सुरवराः सर्वे सर्षिसङ्घाः सचारणाः ।  
 सुरकार्यकरं यूयं सफलं कर्तुमर्हथ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ Thus Indra spoke to all gods. [1-49-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतक्रतोर्वचः श्रुत्वा देवाः साग्निपुरोगमाः ।  
 पितृदेवानुपेत्याहुः सर्वे सह मरुद्‍गणैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,12 +275,15 @@ Marut-gods came to the godly manes keeping the Fire-god in van, and appealed. [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं मेषः सवृषणः शक्रो ह्यवृषणः कृतः ।  
 मेषस्य वृषणौ गृह्य शक्रायाशु प्रयच्छत ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,6 +321,7 @@ his appeal to manes. [1-49-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -308,6 +329,8 @@ his appeal to manes. [1-49-6]
 भवतां हर्षणार्थं च ये च दास्यन्ति मानवाः ।  
 अक्षयं हि फलं तेषां यूयं दास्यथ पुष्कलम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,12 +393,15 @@ namely humans...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नेस्तु वचनं श्रुत्वा पितृदेवाः समागताः ।  
 उत्पाट्य मेषवृषणौ सहस्राक्षे न्यवेशयन् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +438,15 @@ but tethered to a sacrificial post, and offered them to the Thousand-eyed Indra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदाप्रभृति काकुत्स्थ पितृदेवाः समागताः ।  
 अफलान् भुञ्जते मेषान् फलैस्तेषामयोजयन् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,12 +490,15 @@ to a ram. In either way, the offerer is blessed with benefits and Indra with tes
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रस्तु मेषवृषणस्तदाप्रभृति राघव ।  
 गौतमस्य प्रभावेण तपसा च महात्मनः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -507,12 +539,15 @@ from then onwards Indra has became one with the testes of a goat. [1-49-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदागच्छ महातेज आश्रमं पुण्यकर्मणः ।  
 तारयैनां महाभागामहल्यां देवरूपिणीम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +583,15 @@ of a divinity." Thus Vishvamitra spoke to Rama. [1-49-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा राघवः सहलक्ष्मणः ।  
 विश्वामित्रं पुरस्कृत्य आश्रमं प्रविवेश ह ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ keeping Vishvamitra afore. [1-49-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्श च महाभागां तपसा द्योतितप्रभाम् ।  
 लोकैरपि समागम्य दुर्निरीक्ष्यां सुरासुरैः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,6 +650,7 @@ keeping Vishvamitra afore. [1-49-12]
 
 अल्लि होगि नोडिदरॆ महासौभाग्यशालिनी अहल्यॆयु तन्न तपस्सिनिन्द प्रकाशिसुत्तिद्दळु. ई लोकद मनुष्यरु हागू समस्त देवतॆगळु, असुररू अल्लिगॆ बन्दु आकॆय प्रखरतॆयन्नु नोडलागुत्तिरलिल्ल.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -617,6 +659,8 @@ keeping Vishvamitra afore. [1-49-12]
 सतुषारावृतां साभ्रां पूर्णचन्द्रप्रभामिव ।  
 मध्येऽम्भसो दुराधर्षां दीप्तां सूर्यप्रभामिव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,6 +716,7 @@ like a flaring Ritual Fir, and Rama has seen such a highly glorious Ahalya. [1-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -679,6 +724,8 @@ like a flaring Ritual Fir, and Rama has seen such a highly glorious Ahalya. [1-4
 त्रयाणामपि लोकानां यावद् रामस्य दर्शनम् ।  
 शापस्यान्तमुपागम्य तेषां दर्शनमागता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,6 +760,7 @@ until the manifestation of Rama. [1-49-16a, b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -721,6 +769,8 @@ until the manifestation of Rama. [1-49-16a, b]
 पाद्यमर्घ्यं तथाऽऽतिथ्यं चकार सुसमाहिता ।  
 प्रतिजग्राह काकुत्स्थो विधिदृष्टेन कर्मणा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +834,15 @@ touched her feet in reverence. [1-49-16c, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पवृष्टिर्महत्यासीद् देवदुन्दुभिनिःस्वनैः ।  
 गन्धर्वाप्सरसां चैव महानासीत् समुत्सवः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +883,15 @@ is superb. [1-49-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु साध्विति देवास्तामहल्यां समपूजयन् ।  
 तपोबलविशुद्धाङ्गीं गौतमस्य वशानुगाम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +927,15 @@ saying 'Gracious! Goodness!' [1-49-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौतमोऽपि महातेजा अहल्यासहितः सुखी ।  
 रामं सम्पूज्य विधिवत् तपस्तेपे महातपाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +972,15 @@ with Ahalya. [1-49-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽपि परमां पूजां गौतमस्य महामुनेः ।  
 सकाशाद् विधिवत् प्राप्य जगाम मिथिलां ततः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,5 +1024,6 @@ great-saint Gautama himself, then moved ahead to Mithila. [1-49-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥49॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०११ रावणस्य आस्थानप्रवेशः"
 title_english = "011 Ravana goes again to the assembly hall"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ othere important demons and Vibhishana.
 
 11. रावण और उसके सभासदोंका सभाभवनमें एकत्र होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बभूव कृशो राजा मैथिलीकाममोहितः ।  
 असन्मानाच्च सुहृदां पापः पापेन कर्मणा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +70,7 @@ sinful action and by his despising of well-disposed people like Vibhishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -72,6 +78,8 @@ sinful action and by his despising of well-disposed people like Vibhishana.
 अतीतसमये काले तस्मिन् वै युधि रावणः ।  
 अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ _________________
 
 अवनु अत्यन्त कामदिन्द पीडितनागि पदेपदे वैदेहियन्नु चिन्तिसुत्तिद्दनु. अदक्कागि युद्धद अवकाश ऒदगिदाग मन्त्रिगळ मत्तु सुहृदयरॊन्दिगॆ सलहॆ पडॆदु युद्धवे समयोचित कर्तव्यवॆन्दु तिळिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हेमजालविततं मणिविद्रुमभूषितम् ।  
 उपगम्य विनीताश्वमारुरोह महारथम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,12 +138,15 @@ _________________
 
 अवनु चिन्नद जालरिगळिन्द मुच्चिद, हवळ मणि गळिन्द अलङ्कृतवाद, सुशिक्षित कुदुरॆगळन्नु हूडिद विशाल रथवन्नु एरिदनु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमास्थाय रथश्रेष्ठं महामेघसमस्वनम् ।  
 प्रययौ रक्षसां श्रेष्ठो दशग्रीवः सभां प्रति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -177,12 +191,15 @@ assembly-hall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असिचर्मधरा योधाः सर्वायुधधरास्ततः ।  
 राक्षसा राक्षसेन्द्रस्य पुरस्तात् सम्प्रतस्थिरे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,12 +236,15 @@ marched in front of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविकृतवेषाश्च नानाभूषणभूषिताः ।  
 पार्श्वतः पृष्ठतश्चैनं परिवार्य ययुस्तदा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,12 +278,15 @@ then marched, duly surrounding him from sides and even behind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथैश्चातिरथाः शीघ्रं मत्तैश्च वरवारणैः ।  
 अनूत्पेतुर्दशग्रीवमाक्रीडद्भिश्च वाजिभिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,6 +326,7 @@ supportively coming in different gaits, rushed after Ravana quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -310,6 +334,8 @@ supportively coming in different gaits, rushed after Ravana quickly.
 परश्वधधराश्चान्ये तथान्ये शूलपाणयः ।  
 ततस्तूर्यसहस्राणं सञ्जज्ञे निःस्वनो महान् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,6 +380,7 @@ were holding axes. Some others had darts in their hands.
 
 कॆलवर कैगळल्लि गदॆ, परिघ शोभिसुत्तिद्दवु. कॆलवरु शक्ति, तोमर धरिसिद्दरु. कॆलवरु गण्डुकॊडलि हिडिदिद्दरु, इतर राक्षसर कैगळल्लि शूलगळु हॊळॆयुत्तिद्दवु. मत्तॆ अल्लि साविरारु वाद्यगळु मॊळगतॊडगिदवु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -361,6 +388,8 @@ were holding axes. Some others had darts in their hands.
 स नेमिघोषेण महान् सहसाभिनिनादयन् ॥ ९ ॥  
 राजमार्गं श्रिया जुष्टं प्रतिपेदे महारथः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +429,15 @@ along with tumultuous noise of conches were produced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमलं चातपत्रं च प्रगृहीतमशोभत ॥ १० ॥  
 पाण्डुरं राक्षसेन्द्रस्य पूर्णस्ताराधिपो यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +474,15 @@ entered the beautiful royal high-way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हेममञ्जरिगर्भे च शुद्धस्फटिकविग्रहे ॥ ११ ॥  
 चामरव्यजने तस्य रेजतुः सव्यदक्षिणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +521,15 @@ The spotlessly white umbrella, held on Ravana's head, shone like a full-moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कृताञ्जलयः सर्वे रथस्थं पृथिवीस्थिताः ॥ १२ ॥  
 राक्षसा राक्षसश्रेष्ठं शिरोभिस्तं ववन्दिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +569,15 @@ fringes were shining.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिन्दमः ॥ १३ ॥  
 आससाद महातेजाः सभां विरचितां तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,6 +620,7 @@ and joining their palms to his the best of demons, mounted on the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -587,6 +629,8 @@ and joining their palms to his the best of demons, mounted on the chariot.
 तां पिशाचशतैः षड्‍‍भिरभिगुप्तां सदाप्रभाम् ॥ १५ ॥  
 प्रविवेश महातेजाः सुकृतां विश्वकर्मणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,6 +667,7 @@ demons through cheers of victory, approached that organized assembly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -630,6 +675,8 @@ demons through cheers of victory, approached that organized assembly.
 महत्सोपाश्रयं भेजे रावणः परमासनम् ।  
 ततः शशासेश्वरवद्दूताल्ँ लघुपराक्रमान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +743,15 @@ Visvakarma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समानयत मे क्षिप्रमिहैतान् राक्षसानिति ।  
 कृत्यमस्ति महज्जाने कर्तव्यमिति शत्रुभिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,6 +797,7 @@ all the demons here quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -754,6 +805,8 @@ all the demons here quickly."
 अनुगेहमवस्थाय विहारशयनेषु च ।  
 उद्यानेषु च रक्षांसि चोदयन्तो ह्यभीतवत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +828,15 @@ _________________
 
 रावणन ई सन्देश केळि आ राक्षसरु लङ्कॆयल्लि ऎल्लॆडॆ सुत्ताडिदरु. अवरु ऒन्दॊन्दु मनॆ, विहार स्थळ, शयनगार, उद्यानवनक्कॆ होगि निर्भयतॆयिन्द आ ऎल्ल राक्षसरन्नु राजसभॆगॆ बरुवन्तॆ प्रेरेपिसतॊडगिदरु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रथान्तचरा एके दृप्तानेके दृढान् हयान् ।  
 नागानेकेऽधिरुरुहुर्जग्मुश्चैके पदातयः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -819,12 +875,15 @@ places, in bedrooms or in gardens and went without fear to every house in Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।  
 सम्पतद्भिर्विरुरुचे गरुत्मद्भिरिवाम्बरम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +927,15 @@ and some mounted on elephants. Some others went on foot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वाहनान्यवस्थाय यानानि विविधानि च ।  
 सभां पद्भिः प्रविविशुः सिंहा गिरिगुहामिव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +975,15 @@ together, appeared like birds rushing fast in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञः पादौ गृहीत्वा तु राज्ञा ते प्रतिपूजिताः ।  
 पीठेष्वन्ये बृसीष्वन्ये भूमौ केचिदुपाविशन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -958,12 +1023,15 @@ foot the assembly-hall as a mountain-cave is entered by lions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते समेत्य सभायां वै राक्षसा राजशासनात् ।  
 यथार्हमुपतस्थुस्ते रावणं राक्षसाधिपम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,6 +1069,7 @@ seats, some others on mats (of Kusa grass) and others on the ground.
 
 राजन आज्ञॆयन्तॆ आ सभॆयल्लि सेरिद आ ऎल्ल राक्षसरु राक्षसराज रावणन अक्कपक्कदल्लि यथायोग्य आसनगळल्लि कुळितरु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1009,6 +1078,8 @@ seats, some others on mats (of Kusa grass) and others on the ground.
 समीयुस्तत्र शतशः शूराश्च बहवस्तथा ।  
 सभायां हेमवर्णायां सर्वार्थस्य सुखाय वै ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,6 +1121,7 @@ position round Ravana the king of demons, each according to their rank.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1058,6 +1130,8 @@ position round Ravana the king of demons, each according to their rank.
 शुभं समास्थाय ययौ यशस्वी  
 विभीषणः संसदमग्रजस्य ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,6 +1195,7 @@ ministers and well-wishers then to be a fit time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1129,6 +1204,8 @@ ministers and well-wishers then to be a fit time.
 शुकः प्रहस्तश्च तथैव तेभ्यो  
 ददौ यथार्हं पृथगासनानि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,6 +1245,7 @@ assembly-hall of Ravana his elder brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1176,6 +1254,8 @@ assembly-hall of Ravana his elder brother.
 तेषां परार्घ्यागुरुचन्दनानां  
 स्रजां च गन्धाः प्रववुः समन्तात् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,6 +1306,7 @@ the feet. Suka and Prahasta followed suit. Ravana gave them suitable seats separ
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1234,6 +1315,8 @@ the feet. Suka and Prahasta followed suit. Ravana gave them suitable seats separ
 संसिद्धार्थाः सर्व एवोग्रवीर्या  
 भर्तुः सर्वे ददृशुश्चाननं ते ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,6 +1362,7 @@ attired in excellent clothes diffused all round in the assembly-hall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1287,6 +1371,8 @@ attired in excellent clothes diffused all round in the assembly-hall.
 तस्यां सभायां प्रभया चकाशे  
 मध्ये वसूनामिव वज्रहस्तः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1360,5 +1446,6 @@ and yoked with trained horses, Ravana mounted on it.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हन्नॊन्दनॆय सर्ग पूर्णवायितु. ॥11॥
+</details>
 </details>
 

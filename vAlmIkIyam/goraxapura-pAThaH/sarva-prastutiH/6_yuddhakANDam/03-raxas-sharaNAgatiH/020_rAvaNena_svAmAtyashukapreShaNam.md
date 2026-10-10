@@ -2,6 +2,8 @@
 title = "०२० रावणेन स्वामात्यशुकप्रेषणम्"
 title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,6 +24,7 @@ monkeys again try to bind him and harass him, Rama prevents them from killing hi
 
 20. शार्दूलके कहनेसे रावणका शुकको दूत बनाकर सुग्रीवके पास संदेश भेजना, वहाँ वानरोंद्वारा उसकी दुर्दशा, श्रीरामकी कृपासे उसका संकटसे छूटना और सुग्रीवका रावणके लिये उत्तर देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ monkeys again try to bind him and harass him, Rama prevents them from killing hi
 तां दृष्ट्वा सर्वतोऽव्यग्रां प्रतिगम्य स राक्षसः ॥ २ ॥  
 आविश्य लङ्कां वेगेन राजानमिदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ Sugriva, which was drawn up in a battle array.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष वै वानरर्क्षौघो लङ्कां समभिवर्तते ॥ ३ ॥  
 अगाधश्चाप्रमेयश्च द्वितीय इव सागरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ is approaching Lanka.".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रौ दशरथस्येमौ भ्रातरौ रामलक्ष्मणौ ॥ ४ ॥  
 उत्तमौ रूपसम्पन्नौ सीतायाः पदमागतौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +151,7 @@ is approaching Lanka.".
 
 राजा दशरथन ई पुत्ररिब्बराद श्रीराम- लक्ष्मणरु बहळ रूपवन्त मत्तु श्रेष्ठवीररागिद्दारॆ. अवरु सीतॆयन्नु बिडिसिकॊण्डु होगलु बरुत्तिद्दारॆ.॥4½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,6 +159,8 @@ is approaching Lanka.".
 बलं चाकाशमावृत्य सर्वतो दशयोजनम् ।  
 तत्त्वभूतं महाराज क्षिप्रं वेदितुमर्हसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ after reaching the sea shore" .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव दूता महाराज क्षिप्रमर्हन्ति वेदितुम् ।  
 उपप्रदानं सान्त्वं वा भेदो वात्र प्रयुज्यताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,6 +263,7 @@ ranks) may be employed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,6 +271,8 @@ ranks) may be employed."
 उवाच सहसा व्यग्रः सम्प्रधार्यार्थमात्मनः ।  
 शुकं साधु तदा रक्षो वाक्यमर्थविदां वरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +318,15 @@ foremost among those who know their duty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवं ब्रूहि गत्वाऽऽशु राजानं वचनान्मम ।  
 यथासन्देशमक्लीबं श्लक्ष्णया परया गिरा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,6 +367,7 @@ command, in an excellent and gentle voice, as follows:"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -352,6 +376,8 @@ command, in an excellent and gentle voice, as follows:"
 न कश्चनार्थस्तव नास्त्यनर्थ-  
 स्तथापि मे भ्रातृसमो हरीश ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +425,15 @@ and are a son of Riksharaja. No gain whatsoever or any harm will accrue to you (
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं यद्यहरं भार्यां राजपुत्रस्य धीमतः ।  
 किं तत्र तव सुग्रीव किष्किन्धां प्रति गम्यताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ wise? Gamyataam = return; *kishhkindhaam prati* = to Kishkinda.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहीयं हरिभिर्लङ्का प्राप्तुं शक्या कथञ्चन ।  
 देवैरपि सगन्धर्वैः किं पुनर्नरवानरैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ celestials and Gandharvas (celestial musicians), why to talk about men and monke
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा राक्षसेन्द्रेण सन्दिष्टो रजनीचरः ।  
 शुको विहङ्गमो भूत्वा तूर्णमाप्लुत्य चाम्बरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,6 +564,7 @@ quickly flew into the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -536,6 +572,8 @@ quickly flew into the sky.
 संस्थितो ह्यम्बरे वाक्यं सुग्रीवमिदमब्रवीत् ॥ १४ ॥  
 सर्वमुक्तं यथाऽऽदिष्टं रावणेन दुरात्मना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +614,15 @@ up in the sky itself and spoke these words to Sugriva:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् प्रापयन्तं वचनं तूर्णमाप्लुत्य वानराः ॥ १५ ॥  
 प्रापद्यन्त तदा क्षिप्रं लोप्तुं हन्तुं च मुष्टिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +667,15 @@ off his wings and to smite him by their fists.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वैः प्लवङ्गैः प्रसभं निगृहीतो निशाचरः ॥ १६ ॥  
 गगनाद् भूतले चाशु प्रतिगृह्यावतारितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,6 +718,7 @@ brought down to the ground from the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -682,6 +727,8 @@ brought down to the ground from the sky.
 यस्तु हित्वा मतं भर्तुः स्वमतं सम्प्रधारयेत् ।  
 अनुक्तवादी दूतः सन् स दूतो वधमर्हति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +797,15 @@ not to be killed. Let your monkeys be restrained properly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुकस्य वचनं रामः श्रुत्वा तु परिदेवितम् ।  
 उवाच मावधिष्टेति घ्नतः शाखामृगर्षभान् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -798,12 +848,15 @@ beating him as aforesaid, saying "Do not kill him"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च पत्रलघुर्भूत्वा हरिभिर्दर्शितेऽभये ।  
 अन्तरिक्षे स्थितो भूत्वा पुनर्वचनमब्रवीत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -844,12 +897,15 @@ the sky and spoke again the following words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीव सत्त्वसम्पन्न महाबलपराक्रम ।  
 किं मया खलु वक्तव्यो रावणो लोकरावणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,6 +945,7 @@ tell Ravana, whose nature is to cause world to cry?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -897,6 +954,8 @@ tell Ravana, whose nature is to cause world to cry?"
 उवाच वाक्यं रजनीचरस्य  
 चारं शुकं शुद्धमदीनसत्त्वः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,6 +999,7 @@ follows:
 
 शुकनु ई प्रकार केळिदाग कपिशिरोमणि महाबली उदारचेता वानरराज सुग्रीवनु आ निशाचर दूतनल्लि हागॆ स्पष्ट हागू निश्चल मातन्नु हेळिदनु .॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -948,6 +1008,8 @@ follows:
 अरिश्च रामस्य सहानुबन्ध-  
 स्ततोऽसि वालीव वधार्ह वध्यः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,6 +1076,7 @@ army from all sides, speedily returned to Lanka and spoke to their king as follo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1022,6 +1085,8 @@ army from all sides, speedily returned to Lanka and spoke to their king as follo
 लङ्कां च सर्वां महता बलेन  
 सर्वैः करिष्यामि समेत्य भस्म ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,6 +1124,7 @@ kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1069,6 +1135,8 @@ kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of 
 गिरीशपादाम्बुजसङ्गतो वा  
 हतोऽसि रामेण सहानुजस्त्वम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1164,15 @@ _________________
 
 मूर्खरावणने! इन्द्रादि समस्त देवतॆगळु निन्नन्नु रक्षिसिदरू श्रीरघुनाथन कैयल्लि ईग नीनु बदुकिरलारॆ. नीनु अन्तर्धानवागु, आकाशक्कॆ होगु, पाताळदल्लि नुग्गिकुळितुको, अथवा महादेवन चरणारविन्दगळन्नु आश्रयिसु; आदरू निन्न सहोदररॊन्दिगॆ नीनु अवश्यवागि श्रीरामचन्द्रन कैयिन्द सत्तुहोगुवॆ.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ते त्रिषु लोकेषु न पिशाचं न राक्षसम् ।  
 त्रातारं नानुपश्यामि न गन्धर्वं न चासुरम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,6 +1213,7 @@ mountain)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1149,6 +1221,8 @@ mountain)"
 किं नु ते रामसान्निध्ये सकाशे लक्ष्मणस्य च ।  
 हृता सीता विशालाक्षी यां त्वं गृह्य न बुध्यसे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,12 +1269,15 @@ you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबलं महात्मानं दुराधर्षं सुरैरपि ।  
 न बुध्यसे रघुश्रेष्ठं यस्ते प्राणान् हरिष्यति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,6 +1325,7 @@ captive, you do not recognize her for what she is."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1256,6 +1334,8 @@ captive, you do not recognize her for what she is."
 तुलितं हि बलं सर्वमनेन तव तिष्ठता ।  
 गृह्यतां मागमल्लङ्कामेतद्धि मम रोचते ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1315,12 +1395,15 @@ Rama the excellent man of Raghu dynasty, who shall deprive you of your life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राज्ञा समादिष्टाः समुत्पत्य वलीमुखाः ।  
 जगृहुश्च बबन्धुश्च विलपन्तमनाथवत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,6 +1438,7 @@ captive. Let him not return to Lanka. This indeed finds favor with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1365,6 +1449,8 @@ captive. Let him not return to Lanka. This indeed finds favor with me."
 एतस्मिन्नन्तरे काले यन्मया ह्यशुभं कृतम् ।  
 सर्वं तदुपपद्येथा जह्यां चेद् यदि जीवितम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1419,12 +1505,15 @@ without defence, wailed loudly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाघातयत् तदा रामः श्रुत्वा तत्परिदेवितम् ।  
 वानरानब्रवीद् रामो मुच्यतां दूत आगतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1472,5 +1561,6 @@ the sins incurred by me between my birth and my death would fall to your share."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तनॆय सर्ग पूर्णवायितु.॥20॥
+</details>
 </details>
 

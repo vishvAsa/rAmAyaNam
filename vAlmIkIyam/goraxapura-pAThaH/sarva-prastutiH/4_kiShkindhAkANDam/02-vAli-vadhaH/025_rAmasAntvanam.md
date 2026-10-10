@@ -2,6 +2,8 @@
 title = "०२५ रामसान्त्वनम्"
 title_english = "025 Vali s funeral ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -23,12 +25,15 @@ committed to fire for his voyage to heavens on a remote avenue.
 
 25. लक्ष्मणसहित श्रीरामका सुग्रीव, तारा और अङ्गदको समझाना तथा वालीके दाह-संस्कारके लिये आज्ञा प्रदान करना, फिर तारा आदिसहित सब वानरोंका वालीके शवको श्मशानभूमिमें ले जाकर अङ्गदके द्वारा उसका दाह-संस्कार कराना और उसे जलाञ्जलि देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुग्रीवं च तारां च साङ्गदां सहलक्ष्मणः ।  
 समानशोकः काकुत्स्थः सान्त्वयन्निदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ to Sugreeva, and even to Tara together with Angada. [4-25-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शोकपरितापेन श्रेयसा युज्यते मृतः ।  
 यदत्रानन्तरं कार्यं तत् समाधातुमर्हथ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ work which is subsequent in this matter. [4-25-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकवृत्तमनुष्ठेयं कृतं वो बाष्पमोक्षणम् ।  
 न कालादुत्तरं किञ्चित् कर्मशक्यमुपासितुम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,12 +186,15 @@ departed soul...' Maheshvara Tiirtha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियतिः कारणं लोके नियतिः कर्मसाधनम् ।  
 नियतिः सर्वभूतानां नियोगेष्विह कारणम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,12 +257,15 @@ intellect... thus all these are [thought to be the cause, but in vain...] Thus t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कर्ता कस्यचित् कश्चिन्नियोगे नापि चेश्वरः ।  
 स्वभावे वर्तते लोकस्तस्य कालः परायणम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +314,15 @@ but naming Time, Fate etc., instead of using first person and declaring about hi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कालः कालमत्येति न कालः परिहीयते ।  
 स्वभावं च समासाद्य न कश्चिदतिवर्तते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +361,15 @@ by Time nothing can overstep its own Fate. [4-25-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कालस्यास्ति बन्धुत्वं न हेतुर्न पराक्रमः ।  
 न मित्रज्ञातिसम्बन्धः कारणं नात्मनो वशः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +412,15 @@ relatives, hence all are equal in its viewpoint. [4-25-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तु कालपरीणामो द्रष्टव्यः साधु पश्यता ।  
 धर्मश्चार्थश्च कामश्च कालक्रमसमाहिताः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +469,15 @@ to attain the humanly-means, *puruSa artha* -s. And this is the way to live diff
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतः स्वां प्रकृतिं वाली गतः प्राप्तः क्रियाफलम् ।  
 सामदानार्थसंयोगैः पवित्रं प्लवगेश्वरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +519,15 @@ and forgivingness required of a king. [4-25-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वधर्मस्य च संयोगाज्जितस्तेन महात्मना ।  
 स्वर्गः परिगृहीतश्च प्राणानपरिरक्षता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +574,15 @@ Vishnu's Milky-Oceanic abode, by no less than Rama himself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा वै नियतिः श्रेष्ठा यां गतो हरियूथपः ।  
 तदलं परितापेन प्राप्तकालमुपास्यताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +633,15 @@ individual is also not independent...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचनान्ते तु रामस्य लक्ष्मणः परवीरहा ।  
 अवदत् प्रश्रितं वाक्यं सुग्रीवं गतचेतसम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +680,15 @@ to the disconcerted Sugreeva. [4-25-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरु त्वमस्य सुग्रीव प्रेतकार्यमनन्तरम् ।  
 ताराङ्गदाभ्यां सहितो वालिनो दहनं प्रति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -687,12 +728,15 @@ and Angada, and arrange for the cremation of Vali. [4-25-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाज्ञापय काष्ठानि शुष्काणि च बहूनि च ।  
 चन्दनानि च दिव्यानि वालिसंस्कारकारणात् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +769,15 @@ exequies of Vali. [4-25-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाश्वासय दीनं त्वमङ्गदं दीनचेतसम् ।  
 मा भूर्बालिशबुद्धिस्त्वं त्वदधीनमिदं पुरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +816,15 @@ as this city Kishkindha is now dependant on you. [4-25-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्त्वानयेन्माल्यं वस्त्राणि विविधानि च ।  
 घृतं तैलमथो गन्धान् यच्चात्र समनन्तरम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +864,15 @@ useful in funeral. [4-25-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तार शिबिकां शीघ्रमादायागच्छ सम्भ्रमात् ।  
 त्वरा गुणवती युक्ता ह्यस्मिन् काले विशेषतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +914,15 @@ which is truly worthwhile, especially at these times. [4-25-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सज्जीभवन्तु प्लवगाः शिबिकावाहनोचिताः ।  
 समर्था बलिनश्चैव निर्हरिष्यन्ति वालिनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +965,15 @@ to carry away Vali." Thus said Lakshmana to Sugreeva. [4-25-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सुग्रीवं सुमित्रानन्दवर्धनः ।  
 तस्थौ भ्रातृसमीपस्थो लक्ष्मणः परवीरहा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,12 +1013,15 @@ foes, Lakshmana stepped off and stayed behind his brother Rama. [4-25-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य वचः श्रुत्वा तारः सम्भ्रान्तमानसः ।  
 प्रविवेश गुहां शीघ्रं शिबिकासक्तमानसः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,12 +1064,15 @@ his mood firmed up to get the litter of the dead. [4-25-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदाय शिबिकां तारः स तु पर्यापतत् पुनः ।  
 वानरैरुह्यमानां तां शूरैरुद्वहनोचितैः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,12 +1112,15 @@ Vanara-s. [4-25-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यां भद्रासनयुतां शिबिकां स्यन्दनोपमाम् ।  
 पक्षिकर्मभिराचित्रां द्रुमकर्मविभूषिताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1137,15 @@ Vanara-s. [4-25-21]
 
 आ दिव्य पल्लक्कियु रथदन्तॆ निर्मिसलागित्तु. अदरल्लि राजनु कुळितुकॊळ्ळुव योग्य उत्तम आसनवित्तु. अदरल्लि शिल्पिगळु कृत्रिम पक्षिगळु, मरगळन्नु कॆत्तिद्दरु. अवरु आ पल्लक्कियन्नु विचित्र शोभॆयिन्द सम्पन्नगॊळिसिद्दरु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचितां चित्रपत्तीभिः सुनिविष्टां समन्ततः ।  
 विमानमिव सिद्धानां जालवातायनायुताम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,12 +1162,15 @@ Vanara-s. [4-25-21]
 
 आ शिबिकॆयु चित्रितवाद कालाळु सैनिकरिन्द तुम्बिरुवन्तॆ कण्डुबरुत्तित्तु. नोडलु अदु सिद्धर विमानदन्तॆ अनिसुत्तित्तु. अदरल्लि अनेक किटकिगळिद्दु, परदॆगळन्नु इळि बिट्टिद्दरु.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुनियुक्तां विशालां च सुकृतां शिल्पिभिः कृताम् ।  
 दारुपर्वतकोपेतां चारुकर्मपरिष्कृताम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1187,15 @@ Vanara-s. [4-25-21]
 
 शिल्पिगळु आ पल्लक्कियन्नु बहळ सुन्दरवागिसलु प्रयत्निसिद्दरु. अदर प्रतियॊन्दु भागवन्नु अन्दवागि निर्मिसिद्दरु. बहळ दॊड्ड आकारवुळ्ळ अदरल्लि कट्टिगॆय क्रीडापर्वतगळन्नु रचिसिद्दरु. अदु मनोहर शिल्पदिन्द सुशोभितवागित्तु.॥24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वराभरणहारैश्च चित्रमाल्योपशोभिताम् ।  
 गुहागहनसञ्छन्नां रक्तचन्दनभूषिताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,12 +1215,15 @@ _________________
 
 सुन्दर ऒडवॆगळिन्द, हारगळिन्द अदन्नु अलङ्करिसलागित्तु. विचित्र हूवुगळिन्द अदर शोभॆयन्नु हॆच्चिसलागित्तु. अदरल्लि शिल्पिगळु गुहॆ, वनगळन्नु कॆत्तिद्दरु हागू कॆम्पु चन्दनदिन्द अदन्नु अलङ्करिसलागित्तु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पौघैः समभिच्छन्नां पद्ममालाभिरेव च ।  
 तरुणादित्यवर्णाभिर्भ्राजमानाभिरावृताम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1209,12 +1289,15 @@ Vrat.].
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशीं शिबिकां दृष्ट्वा रामो लक्ष्मणमब्रवीत् ।  
 क्षिप्रं विनीयतां वाली प्रेतकार्यं विधीयताम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1337,15 @@ ceremony be undertaken." [4-25-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वालिनमुद्यम्य सुग्रीवः शिबिकां तदा ।  
 आरोपयत विक्रोशन्नङ्गदेन सहैव तु ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1298,12 +1384,15 @@ dead squalling woefully. [4-25-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोप्य शिबिकां चैव वालिनं गतजीवितम् ।  
 अलङ्कारैश्च विविधैर्माल्यैर्वस्त्रैश्च भूषितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1323,12 +1412,15 @@ _________________
 
 मृत वालियन्नु पल्लकियल्लि कुळ्ळिरिसि, अवनन्नु नाना प्रकारद अलङ्कारगळिन्द, पुष्फगुच्छगळिन्द बगॆ-बगॆय वस्त्रगळिन्द अलङ्करिसिदरु.॥29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञापयत् तदा राजा सुग्रीवः प्लवगेश्वरः ।  
 और्ध्वदेहिकमार्यस्य क्रियतामनुकूलतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1369,12 +1461,15 @@ this noble brother of mine be undertaken, befitting to his magnificence... [4-25
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्राणयन्तो रत्नानि विविधानि बहूनि च ।  
 अग्रतः प्लवगा यान्तु शिबिका तदनन्तरम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1415,12 +1510,15 @@ ratnaani vishraaNayantaH* = gems, strewing [on pathway]; *agrataH yaantu* = in v
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञामृद्धिविशेषा हि दृश्यन्ते भुवि यादृशाः ।  
 तादृशैरिह कुर्वन्तु वानरा भर्तृसत्क्रियाम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1462,6 +1560,7 @@ in a similar way the Vanara-s have to immortalise lord Vali now," Sugreeva order
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1469,6 +1568,8 @@ in a similar way the Vanara-s have to immortalise lord Vali now," Sugreeva order
 अङ्गदं परिरभ्याशु तारप्रभृतयस्तदा ॥ ३३ ॥  
 क्रोशन्तः प्रययुः सर्वे वानरा हतबान्धवाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1517,12 +1618,15 @@ Vali. [4-25-33, 34a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रणिहिताः सर्वा वानर्योऽस्य वशानुगाः ॥ ३४ ॥  
 चुक्रुशुर्वीरवीरेति भूयः क्रोशन्ति ताः प्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1563,12 +1667,15 @@ and they repeatedly wept thus for their departed dear. [4-25-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताराप्रभृतयः सर्वा वानर्यो हतबान्धवाः ॥ ३५ ॥  
 अनुजग्मुश्च भर्तारं क्रोशन्त्यः करुणस्वनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1608,12 +1715,15 @@ in a pathetic tone. [4-25-35b, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां रुदितशब्देन वानरीणां वनान्तरे ॥ ३६ ॥  
 वनानि गिरयश्चैव विक्रोशन्तीव सर्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1653,12 +1763,15 @@ its hillocks appeared to be wailing noisily. [4-25-36b, 37a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुलिने गिरिनद्यास्तु विविक्ते जलसंवृते ॥ ३७ ॥  
 चितां चक्रुः सुबहवो वानरा वनचारिणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1703,12 +1816,15 @@ cascades of hills are encircling. [4-25-37b, 38a]
 
 * यह नदी सह्यपर्वतसे निकलकर किष्किन्धाकी पर्वत-मालाओंके बीचसे बहती हुई कृष्णा नदीमें जा मिली है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवरोप्य ततः स्कन्धाच्छिबिकां वानरोत्तमाः ॥ ३८ ॥  
 तस्थुरेकान्तमाश्रित्य सर्वे शोकपरायणाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1747,12 +1863,15 @@ in melancholy. [4-25-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तारा पतिं दृष्ट्वा शिबिकातलशायिनम् ॥ ३९ ॥  
 आरोप्याङ्के शिरस्तस्य विललाप सुदुःखिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1792,6 +1911,7 @@ his head onto her lap, and wailed painfully. [4-25-39b, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1799,6 +1919,8 @@ his head onto her lap, and wailed painfully. [4-25-39b, 40a]
 हा महार्ह महाबाहो हा मम प्रिय पश्य माम् ।  
 जनं न पश्यसीमं त्वं कस्माच्छोकाभिपीडितम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1842,12 +1964,15 @@ see me... why do not you see this grief-stricken creature, that is me... [4-25-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टमिह ते वक्त्रं गतासोरपि मानद ।  
 अस्तार्कसमवर्णं च दृश्यते जीवतो यथा ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1887,12 +2012,15 @@ of the sun on dusking mountain, as it had when you were alive. [4-25-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष त्वां रामरूपेण कालः कर्षति वानर ।  
 येन स्म विधवाः सर्वाः कृता एकेषुणा रणे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1932,12 +2060,15 @@ by flinging a single arrow in the fight. [4-25-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमास्तास्तव राजेन्द्र वानर्योऽप्लवगास्तव ।  
 पादैर्विकृष्टमध्वानमागताः किं न बुध्यसे ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1981,12 +2112,15 @@ their faces like moonshine are your cherished wives, isn't it! [4-25-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवेष्टा ननु चैवेमा भार्याश्चन्द्रनिभाननाः ।  
 इदानीं नेक्षसे कस्मात् सुग्रीवं प्लवगेश्वर ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2003,12 +2137,15 @@ their faces like moonshine are your cherished wives, isn't it! [4-25-44]
 
 वानरराज! निम्म ऎल्ल परमप्रिय चन्द्रमुखियराद भार्यॆयरु इल्लि उपस्थितरागिरुवरु. नीवु इवरॆल्लरन्नु हागू निम्म तम्म सुग्रीवनन्नु ईग एकॆ नोडुत्तिल्ल.॥45॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते हि सचिवा राजंस्तारप्रभृतयस्तव ।  
 पुरवासिजनश्चायं परिवार्य विषीदति ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2047,12 +2184,15 @@ sinking down, why do not you mind them? [4-25-45b, 46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसर्जयैनान् सचिवान् यथापुरमरिन्दम ।  
 ततः क्रीडामहे सर्वा वनेषु मदनोत्कटाः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2093,12 +2233,15 @@ woods in voluptuousness." Thus Tara mourned for Vali. [4-25-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपतीं तारां पतिशोकपरीवृताम् ।  
 उत्थापयन्ति स्म तदा वानर्यः शोककर्शिताः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2135,12 +2278,15 @@ who are equally haggard by grief have lifted her up and took her away from the b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेण ततः सार्धं सोऽङ्गदः पितरं रुदन् ।  
 चितामारोपयामास शोकेनाभिप्लुतेन्द्रियः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2180,12 +2326,15 @@ as his senses are deluged under grief. [4-25-49]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽग्निं विधिवद् दत्त्वा सोऽपसव्यं चकार ह ।  
 पितरं दीर्घमध्वानं प्रस्थितं व्याकुलेन्द्रियः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2235,12 +2384,15 @@ other way round, called *apa savya pradakshiNa*.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्कृत्य वालिनं तं तु विधिवत् प्लवगर्षभाः ।  
 आजग्मुरुदकं कर्तुं नदीं शुभजलां शिवाम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2280,12 +2432,15 @@ waters to offer water oblations to the departed soul. [4-25-51]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते सहितास्तत्र ह्यङ्गदं स्थाप्य चाग्रतः ।  
 सुग्रीवतारासहिताः सिषिचुर्वालिने जलम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2328,12 +2483,15 @@ front, they have offered water oblations to the soul of Vali. [4-25-52]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेणैव दीनेन दीनो भूत्वा महाबलः ।  
 समानशोकः काकुत्स्थः प्रेतकार्याण्यकारयत् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2375,6 +2533,7 @@ great mighty Rama effectuated the funeral rites of Vali. [4-25-53]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2383,6 +2542,8 @@ great mighty Rama effectuated the funeral rites of Vali. [4-25-53]
 प्रदीप्य दीप्ताग्निसमौजसं तदा  
 सलक्ष्मणं राममुपेयिवान् हरिः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2454,5 +2615,6 @@ took birth at the hest of Brahma.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तैदनॆय सर्ग सम्पूर्णवायितु. ॥25॥
+</details>
 </details>
 

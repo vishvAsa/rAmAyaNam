@@ -1,6 +1,8 @@
 +++
 title = "१०५ राम-अगस्त्यसंवादः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -35,6 +37,7 @@ praise of the sun-god, with a view to gaining victory.
 ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ।  
 तत्पश्चात् ‘आदित्यहृदय’ स्तोत्रका पाठ करना चाहिये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -43,6 +46,8 @@ praise of the sun-god, with a view to gaining victory.
 दैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम् ।  
 उपगम्याब्रवीद् राममगस्त्यो भगवांस्तदा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,12 +103,15 @@ foolows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम राम महाबाहो शृणु गुह्यं सनातनम् ।  
 येन सर्वानरीन् वत्स समरे विजयिष्यसे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,6 +145,7 @@ conquer all the enemies in battle, my child!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,6 +154,8 @@ conquer all the enemies in battle, my child!"
 सर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम् ।  
 चिन्ताशोकप्रशमनमायुर्वर्धनमुत्तमम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +204,15 @@ prashamanam* = allay all anxiety and grief; *uttamam* = excellent;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम् ।  
 पूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ all other lights and brings light to the world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः ।  
 एष देवासुरगणाल्ँ लोकान् पाति गभस्तिभिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,6 +299,7 @@ protects the multitude of gods and demons as well as their worlds by his rays."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -290,6 +308,8 @@ protects the multitude of gods and demons as well as their worlds by his rays."
 पितरो वसवः साध्या अश्विनौ मरुतो मनुः ।  
 वायुर्वह्निः प्रजाः प्राण ऋतुकर्ता प्रभाकरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,6 +373,7 @@ Soma the moon-god and Varuna the ruler of the waters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,6 +390,8 @@ Soma the moon-god and Varuna the ruler of the waters."
 नक्षत्रग्रहताराणामधिपो विश्वभावनः ।  
 तेजसामपि तेजस्वी द्वादशात्मन् नमोऽस्तु ते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +547,15 @@ the maker of the day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमः पूर्वाय गिरये पश्चिमायाद्रये नमः ।  
 ज्योतिर्गणानां पतये दिनाधिपतये नमः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +589,15 @@ to the lord of host of luminaries and hail to the lord of the day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जयाय जयभद्राय हर्यश्वाय नमो नमः ।  
 नमो नमः सहस्रांशो आदित्याय नमो नमः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +638,15 @@ Aditi!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम उग्राय वीराय सारङ्गाय नमो नमः ।  
 नमः पद्मप्रबोधाय प्रचण्डाय नमोऽस्तु ते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +680,15 @@ variegated colours! Hail to you, the awakener of the louts, hail to you, the fur
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मेशानाच्युतेशाय सूरायादित्यवर्चसे ।  
 भास्वते सर्वभक्षाय रौद्राय वपुषे नमः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +730,15 @@ form of Rudra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने ।  
 कृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +780,15 @@ ruler of all lights."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्तचामीकराभाय हरये विश्वकर्मणे ।  
 नमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +824,15 @@ world!'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाशयत्येष वै भूतं तमेव सृजति प्रभुः ।  
 पायत्येष तपत्येष वर्षत्येष गभस्तिभिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,12 +872,15 @@ radiates heat by his rays. He sends the rain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः ।  
 एष चैवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +914,15 @@ alone is the oblation to the fire-god and the fruit attained by those who pour s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवाश्च क्रतवश्चैव क्रतूनां फलमेव च ।  
 यानि कृत्यानि लोकेषु सर्वेषु परमप्रभुः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +961,15 @@ worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च ।  
 कीर्तयन् पुरुषः कश्चिन्नावसीदति राघव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1003,15 @@ the woods or in times of peril, comes to grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम् ।  
 एतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यति ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,12 +1056,15 @@ battles."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् क्षणे महाबाहो रावणं त्वं जहिष्यसि ।  
 एवमुक्त्वा ततोऽगस्त्यो जगाम स यथागतम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,6 +1105,7 @@ so, the sage, Agastya, thereupon, left as in the same way as he had come.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1056,6 +1116,8 @@ so, the sage, Agastya, thereupon, left as in the same way as he had come.
 रावणं प्रेक्ष्य हृष्टात्मा जयार्थं समुपागमत् ।  
 सर्वयत्नेन महता वृतस्तस्य वधेऽभवत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1125,6 +1187,7 @@ greatly delighted, Rama retained that hymn in his memory with a devoted mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1133,6 +1196,8 @@ greatly delighted, Rama retained that hymn in his memory with a devoted mind.
 निशिचरपतिसङ्क्षयं विदित्वा  
 सुरगणमध्यगतो वचस्त्वरेति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,5 +1246,6 @@ up."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर ऐदनॆय सर्ग पूर्णवायितु.॥105॥
+</details>
 </details>
 

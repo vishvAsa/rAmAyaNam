@@ -2,6 +2,8 @@
 title = "०७६ दशरथस्य और्ध्वदेहिकम्"
 title_english = "076 Advice of Vasishta to Bharata"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ completion of the cremation-ceremony.
 
 76. राजा दशरथका अन्त्येष्टिसंस्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवं शोकसन्तप्तं भरतं कैकयीसुतम् ।  
 उवाच वदतां श्रेष्ठो वसिष्ठः श्रेष्ठवागृषिः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ that Bharata, Kaikeyi's son who was thus tormented with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलं शोकेन भद्रं ते राजपुत्र महायशः ।  
 प्राप्तकालं नरपतेः कुरु संयानमुत्तमम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ enough. Perform in an excellent way, the last rites of the king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठस्य वचः श्रुत्वा भरतो धरणीं गतः ।  
 प्रेतकृत्यानि सर्वाणि कारयामास धर्मवित् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ proceeded with all the arrangements for the obsequies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्‍धृत्य तैलसंसेकात् स तु भूमौ निवेशितम् ।  
 आपीतवर्णवदनं प्रसुप्तमिव भूमिपम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +196,15 @@ proceeded with all the arrangements for the obsequies.
 
 दशरथन शववन्नु ऎण्णॆकॊप्परिगॆयिन्द तॆगॆदु नॆलद मेलॆ इरिसिदरु. हॆच्चु समय ऎण्णॆयल्लि इरिसिद्दरिन्द राजन मुख हळदियागित्तु. अवनन्नु नोडिदरॆ दशरथनु मलगिरुवनो ऎम्बन्तित्तु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवेश्य शयने चाग्र्ये नानारत्नपरिष्कृते ।  
 ततो दशरथं पुत्रो विललाप सुदुःखितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,12 +244,15 @@ follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ते व्यवसितं राजन् प्रोषिते मय्यनागते ।  
 विवास्य रामं धर्मज्ञं लक्ष्मणं च महाबलम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +294,15 @@ do?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व यास्यसि महाराज हित्वेमं दुःखितं जनम् ।  
 हीनं पुरुषसिंहेन रामेणाक्लिष्टकर्मणा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ the unwearied one in action and the excellent one among men?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योगक्षेमं तु तेऽव्यग्रं कोऽस्मिन् कल्पयिता पुरे ।  
 त्वयि प्रयाते स्वस्तात रामे च वनमाश्रिते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +392,15 @@ forest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधवा पृथिवी राजंस्त्वया हीना न राजते ।  
 हीनचन्द्रेव रजनी नगरी प्रतिभाति माम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +441,15 @@ To me, this city is looking like a night without a moon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपमानं तं भरतं दीनमानसम् ।  
 अब्रवीद् वचनं भूयो वसिष्ठस्तु महामुनिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +489,15 @@ distressed in mind and thus lamenting.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेतकार्याणि यान्यस्य कर्तव्यानि विशाम्पतेः ।  
 तान्यव्यग्रं महाबाहो क्रियतामविचारितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +540,15 @@ rites of the king that should be done."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति भरतो वाक्यं वसिष्ठस्याभिपूज्य तत् ।  
 ऋत्विक्पुरोहिताचार्यांस्त्वरयामास सर्वशः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +588,15 @@ the appointed priests who were knowing the rules of the funeral rites."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वग्नयो नरेन्द्रस्य अग्न्यगाराद् बहिष्कृताः ।  
 ऋत्विग्भिर्याजकैश्चैव ते हूयन्ते यथाविधि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +637,15 @@ with the rituals by the priests and the sacrificial attendants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिबिकायामथारोप्य राजानं गतचेतनम् ।  
 बाष्पकण्ठा विमनसस्तमूहुः परिचारकाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +689,15 @@ mind, made the dead king to mount on a small palanquin and carried it away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यं च सुवर्णं च वासांसि विविधानि च ।  
 प्रकिरन्तो जना मार्गे नृपतेरग्रतो ययुः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,6 +737,7 @@ in front of the king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -698,6 +746,8 @@ in front of the king.
 गन्धानुच्चावचांश्चान्यांस्तत्र गत्वाथ भूमिपम् ।  
 तत्र संवेशयामासुश्चितामध्ये तमृत्विजः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +802,15 @@ caused the king's body to lie down there in the midst of the funeral pyre.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा हुताशनं हुत्वा जेपुस्तस्य तदृत्विजः ।  
 जगुश्च ते यथाशास्त्रं तत्र सामानि सामगाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,6 +856,7 @@ recite the hymns of Samaveda, chanted them according to the rules.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -811,6 +865,8 @@ recite the hymns of Samaveda, chanted them according to the rules.
 प्रसव्यं चापि तं चक्रुर्ऋत्विजोऽग्निचितं नृपम् ।  
 स्त्रियश्च शोकसन्तप्ताः कौसल्याप्रमुखास्तदा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,12 +930,15 @@ deserving and departed from the city to that place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रौञ्चीनामिव नारीणां निनादस्तत्र शुश्रुवे ।  
 आर्तानां करुणं काले क्रोशन्तीनां सहस्रशः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -919,12 +978,15 @@ were heard like the sounds of female curlew birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रुदन्त्यो विवशा विलप्य च पुनः पुनः ।  
 यानेभ्यः सरयूतीरमवतेरुर्नृपाङ्गनाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1027,7 @@ descended from their vehicles at the bank of Sarayu River.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -973,6 +1036,8 @@ descended from their vehicles at the bank of Sarayu River.
 पुरं प्रविश्याश्रुपरीतनेत्रा  
 भूमौ दशाहं व्यनयन्त दुःखम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,5 +1094,6 @@ great difficulty by sleeping on bare floor.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तारनॆयय सर्ग पूर्णवायितु.॥76॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००८ मन्थरादुर्बोधः"
 title_english = "008 Manthara s sinful words"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ Manathara's sinful words.
 
 8. मन्थराका पुनः श्रीरामके राज्याभिषेकको कैकेयीके लिये अनिष्टकारी बताना, कैकेयीका श्रीरामके गुणोंको बताकर उनके अभिषेकका समर्थन करना तत्पश्चात् कुब्जाका पुनः श्रीरामराज्यको भरतके लिये भयजनक बताकर कैकेयीको भड़काना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्थरा त्वभ्यसूय्यैनामुत्सृज्याभरणं हि तत् ।  
 उवाचेदं ततो वाक्यं कोपदुःखसमन्विता ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ with anger and distress spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षं किमर्थमस्थाने कृतवत्यसि बालिशे ।  
 शोकसागरमध्यस्थं नात्मानमवबुध्यसे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ is it that you are so delighted about, in a matter to be grieved?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसा प्रसहामि त्वां देवि दुःखार्दिता सती ।  
 यच्छोचितव्ये हृष्टासि प्राप्य त्वं व्यसनं महत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ rejoicing at the time when a great calamity is befalling you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोचामि दुर्मतित्वं ते का हि प्राज्ञा प्रहर्षयेत् ।  
 अरेः सपत्नीपुत्रस्य वृद्धिं मृत्योरिवागताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ death?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतादेव रामस्य राज्यसाधारणाद् भयम् ।  
 तद् विचिन्त्य विषण्णास्मि भयं भीताद्धि जायते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ afraid of us?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणो हि महाबाहू रामं सर्वात्मना गतः ।  
 शत्रुघ्नश्चापि भरतं काकुत्स्थं लक्ष्मणो यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ faithful to Bharata as Lakshmana to Rama".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यासन्नक्रमेणापि भरतस्यैव भामिनि ।  
 राज्यक्रमो विसृष्टस्तु तयोस्तावद्यवीयसोः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ question."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदुषः क्षत्रचारित्रे प्राज्ञस्य प्राप्तकारिणः ।  
 भयात् प्रवेपे रामस्य चिन्तयन्ती तवात्मजम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +409,15 @@ fear".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुभगा किल कौसल्या यस्याः पुत्रोऽभिषेक्ष्यते ।  
 यौवराज्येन महता श्वः पुष्येण द्विजोत्तमैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +458,15 @@ princely kingdom tomorrow on the day of Pushyami star".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तां वसुमतीं प्रीतिं प्रतीतां हतविद्विषम् ।  
 उपस्थास्यसि कौसल्यां दासीवत् त्वं कृताञ्जलिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +507,15 @@ Bharata and yourself)".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं च त्वं सहास्माभिस्तस्याः प्रेष्या भविष्यसि ।  
 पुत्रश्च तव रामस्य प्रेष्यत्वं हि गमिष्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +555,15 @@ Rama's attendant."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टाः खलु भविष्यन्ति रामस्य परमाः स्त्रियः ।  
 अप्रहृष्टा भविष्यन्ति स्नुषास्ते भरतक्षये ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,12 +603,15 @@ was a norm then for a king to have more than one wife.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा परमप्रीतां ब्रुवन्तीं मन्थरां ततः ।  
 रामस्यैव गुणान् देवी कैकेयी प्रशशंस ह ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -610,12 +651,15 @@ virtues, saying: -
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धमर्ज्ञो गुणवान् दान्तः कृतज्ञः सत्यवान् शुचिः ।  
 रामो राजसुतो ज्येष्ठो यौवराज्यमतोऽर्हति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +705,15 @@ the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातॄन् भृत्यांश्च दीर्घायुः पितृवत् पालयिष्यति ।  
 सन्तप्यसे कथं कुब्जे श्रुत्वा रामाभिषेचनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ hunch backed one! Why are you so pained on hearing about Rama's coronation?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतश्चापि रामस्य ध्रुवं वर्षशतात् परम् ।  
 पितृपैतामहं राज्यमवाप्स्यति नरर्षभः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +802,15 @@ replace Rama on his father's throne, which is that of his ancestors."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वमभ्युदये प्राप्ते दह्यमानेव मन्थरे ।  
 भविष्यति च कल्याणे किमिदं परितप्यसे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +854,15 @@ jealousy)?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा वै भरतो मान्यस्तथा भूयोऽपि राघवः ।  
 कौसल्यातोऽतिरिक्तं च मम शुश्रूषते बहु ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,12 +906,15 @@ to me than to Kausalya?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं यदि हि रामस्य भरतस्यापि तत् तदा ।  
 मन्यते हि यथाऽऽत्मानं यथा भ्रातॄंस्तु राघवः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +954,15 @@ his own self."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या वचनं श्रुत्वा मन्थरा भृशदुःखिता ।  
 दीर्घमुष्णं विनिःश्वस्य कैकेयीमिदमब्रवीत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,12 +1002,15 @@ sigh, spoke to her the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनर्थदर्शिनी मौर्ख्यान्नात्मानमवबुध्यसे ।  
 शोकव्यसनविस्तीर्णे मज्जन्ती दुःखसागरे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1045,15 @@ real position."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भविता राघवो राजा राघवस्य च यः सुतः ।  
 राजवंशात्तु भरतः कैकेयि परिहास्यते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1096,15 @@ succession. Thus, Bharata's name itself will be removed from the royal clan."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि राज्ञः सुताः सर्वे राज्ये तिष्ठन्ति भामिनि ।  
 स्थाप्यमानेषु सर्वेषु सुमहाननयो भवेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1067,12 +1138,15 @@ installed, there will be a great lawlessness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माज्ज्येष्ठे हि कैकेयि राज्यतन्त्राणि पार्थिवाः ।  
 स्थापयन्त्यनवद्याङ्गि गुणवत्स्वितरेष्वपि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,12 +1186,15 @@ eventhough others may be full of virtues, as their successor to the throne."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असावत्यन्तनिर्भग्नस्तव पुत्रो भविष्यति ।  
 अनाथवत् सुखेभ्यश्च राजवंशाच्च वत्सले ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1228,15 @@ and even from the royal clan; like an orphan."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहं त्वदर्थे सम्प्राप्ता त्वं तु मां नावबुद्ध्यसे ।  
 सपत्निवृद्धौ या मे त्वं प्रदेयं दातुमर्हसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1200,12 +1280,15 @@ give me a present when your step-wife is getting prospered."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवं तु भरतं रामः प्राप्य राज्यमकण्टकम् ।  
 देशान्तरं नाययिता लोकान्तरमथापि वा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1328,15 @@ other country or have him put to death. This is certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाल एव तु मातुल्यं भरतो नायितस्त्वया ।  
 सन्निकर्षाच्च सौहार्दं जायते स्थावरेष्विव ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1291,12 +1377,15 @@ Dasaratha to have no affection towards him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतानुवशात् सोऽपि शत्रुघ्नस्तत्समं गतः ।  
 लक्ष्मणो हि यथा रामं तथायं भरतं गतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1342,12 +1431,15 @@ present then at Ayodhya, he would have tried for the prosperity of Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीवनैः ।  
 सन्निकर्षादिषीकाभिर्मोचितः परमाद् भयात् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1388,12 +1480,15 @@ Bharata if he was staying near to him in Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोप्ता हि रामं सौमित्रिर्लक्ष्मणं चापि राघवः ।  
 अश्विनोरिव सौभ्रात्रं तयोर्लोकेषु विश्रुतम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,12 +1523,15 @@ as that of Aswini celestials."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मान्न लक्ष्मणे रामः पापं किञ्चित् करिष्यति ।  
 रामस्तु भरते पापं कुर्यादेव न संशयः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,12 +1572,15 @@ doubt that he will do so in the case of Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् राजगृहादेव वनं गच्छतु राघवः ।  
 एतद्धि रोचते मह्यं भृशं चापि हितं तव ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1520,12 +1621,15 @@ uncle's house. This is good for you too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ते ज्ञातिपक्षस्य श्रेयश्चैव भविष्यति ।  
 यदि चेद् भरतो धर्मात् पित्र्यं राज्यमवाप्स्यति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,12 +1663,15 @@ your side of relatives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ते सुखोचितो बालो रामस्य सहजो रिपुः ।  
 समृद्धार्थस्य नष्टार्थो जीविष्यति कथं वशे ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1600,12 +1707,15 @@ been realised?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिद्रुतमिवारण्ये सिंहेन गजयूथपम् ।  
 प्रच्छाद्यमानं रामेण भरतं त्रातुमर्हसि ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1639,12 +1749,15 @@ forest. You ought to protect Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्पान्निराकृता पूर्वं त्वया सौभाग्यवत्तया ।  
 राममाता सपत्नी ते कथं वैरं न यापयेत् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,6 +1798,7 @@ fortunate. Will not such Kausalya, your rival wife, revenge for that animosity?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1693,6 +1807,8 @@ fortunate. Will not such Kausalya, your rival wife, revenge for that animosity?"
 तदा गमिष्यस्यशुभं पराभवं  
 सहैव दीना भरतेन भामिनि ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1738,6 +1854,7 @@ ignominy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1746,6 +1863,8 @@ ignominy."
 अतो हि सञ्चिन्तय राज्यमात्मजे  
 परस्य चैवास्य विवासकारणम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1805,5 +1924,6 @@ of a solution to get your son Bharata the kingdom and to send Rama, your enemy, 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎण्टनॆय सर्ग पूर्णवायितु. ॥8॥
+</details>
 </details>
 

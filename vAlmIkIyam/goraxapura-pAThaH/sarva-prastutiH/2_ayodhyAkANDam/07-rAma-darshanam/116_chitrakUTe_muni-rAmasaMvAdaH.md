@@ -2,6 +2,8 @@
 title = "११६ चित्रकूटे मुनि-रामसंवादः"
 title_english = "116 Rama notices anxiety among the sages who live in the vicinity"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ great respect, Rama retires to his own hermitage.
 
 116. वृद्ध कुलपतिसहित बहुत-से ऋषियोंका चित्रकूट छोड़कर दूसरे आश्रममें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतियाते तु भरते वसन् रामस्तदा वने ।  
 लक्षयामास सोद्वेगमथौत्सुक्यं तपस्विनाम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ anxiety accompanied by perturbation among the sages.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये तत्र चित्रकूटस्य पुरस्तात् तापसाश्रमे ।  
 राममाश्रित्य निरतास्तानलक्षयदुत्सुकान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ Chitrakuta depending as they did on Rama- anxious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नयनैर्भ्रुकुटीभिश्च रामं निर्दिश्य शङ्किताः ।  
 अन्योन्यमुपजल्पन्तः शनैश्चक्रुर्मिथः कथाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ their anxiety, they whispered among themselves, narrating some legends in secret
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामौत्सुक्यमालक्ष्य रामस्त्वात्मनि शङ्कितः ।  
 कृताञ्जलिरुवाचेदमृषिं कुलपतिं ततः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ joined palms spoke the following words to a sage, the leader of that community o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कश्चिद् भगवन् किञ्चित् पूर्ववृत्तमिदं मयि ।  
 दृश्यते विकृतं येन विक्रियन्ते तपस्विनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,12 +274,15 @@ there is some change for the worse in me, due to which the ascetics feel agitate
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमादाच्चरितं किञ्चित् कच्चिन्नावरजस्य मे ।  
 लक्ष्मणस्यर्षिभिर्दृष्टं नानुरूपं महात्मनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ unworthy of him while the sages were seeing?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिच्छुश्रूषमाणा वः शुश्रूषणपरा मयि ।  
 प्रमदाभ्युचितां वृत्तिं सीता युक्तां न वर्तते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +371,15 @@ am afraid, behaved properly, according to the conduct suitable for women."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथर्षिर्जरया वृद्धस्तपसा च जरां गतः ।  
 वेपमान इवोवाच रामं भूतदयापरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,12 +420,15 @@ trembling and spoke to Rama, who was ever compassionate to all beings, as follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतः कल्याणसत्त्वायाः कल्याणाभिरतेः सदा ।  
 चलनं तात वैदेह्यास्तपस्विषु विशेषतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +471,15 @@ is natural in her disposition and is the follower of virtue?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वन्निमित्तमिदं तावत् तापसान् प्रति वर्तते ।  
 रक्षोभ्यस्तेन संविग्नाः कथयन्ति मिथः कथाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,6 +520,7 @@ sages. Alarmed by it, they discuss with each other how they can best defend them
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -496,6 +529,8 @@ sages. Alarmed by it, they discuss with each other how they can best defend them
 धृष्टश्च जितकाशी च नृशंसः पुरुषादकः ।  
 अवलिप्तश्च पापश्च त्वां च तात न मृष्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +579,15 @@ ascetics who dwell in Janasthana, is unable to endure you also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं यदाप्रभृति ह्यस्मिन्नाश्रमे तात वर्तसे ।  
 तदाप्रभृति रक्षांसि विप्रकुर्वन्ति तापसान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +627,7 @@ inwards, the demons continue to ill-treat the ascetics."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -597,6 +636,8 @@ inwards, the demons continue to ill-treat the ascetics."
 अप्रशस्तैरशुचिभिः सम्प्रयुज्य च तापसान् ।  
 प्रतिघ्नन्त्यपरान् क्षिप्रमनार्याः पुरतः स्थितान् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ forms and possessing ugly and unnatural demeanor."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु तेष्वाश्रमस्थानेष्वबुद्धमवलीय च ।  
 रमन्ते तापसांस्तत्र नाशयन्तोऽल्पचेतसः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +751,15 @@ themselves in destroying the ascetics there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवक्षिपन्ति स्रुग्भाण्डानग्नीन् सिञ्चन्ति वारिणा ।  
 कलशांश्च प्रमर्दन्ति हवने समुपस्थिते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +802,15 @@ vessels, sprinkle the fires with water and break the water-pots."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्दुरात्मभिराविष्टानाश्रमान् प्रजिहासवः ।  
 गमनायान्यदेशस्य चोदयन्त्यृषयोऽद्य माम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +854,15 @@ ascetics today are urging me to go to another area."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् पुरा राम शारीरीमुपहिंसां तपस्विषु ।  
 दर्शयन्ति हि दुष्टास्ते त्यक्ष्याम इममाश्रमम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +902,15 @@ are abandoning this hermitage."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुमूलफलं चित्रमविदूरादितो वनम् ।  
 अश्वस्याश्रममेवाहं श्रयिष्ये सगणः पुनः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -898,12 +954,15 @@ will take shelter again in that previous hermitage itself, along with an assembl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरस्त्वय्यपि चायुक्तं पुरा राम प्रवर्तते ।  
 सहास्माभिरितो गच्छ यदि बुद्धिः प्रवर्तते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -943,12 +1002,15 @@ mind feels so inclined, come along with us from here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकलत्रस्य सन्देहो नित्यं युक्तस्य राघव ।  
 समर्थस्यापि हि सतो वासो दुःखमिहाद्य ते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1053,15 @@ watchful, there is a danger. Your stay here is conduced with misery now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तवन्तं रामस्तं राजपुत्रस्तपस्विनम् ।  
 न शशाकोत्तरैर्वाक्यैरवबद‍्धुं समुत्सुकम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,12 +1100,15 @@ spoken as aforesaid, eager as he was to leave the place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिनन्द्य समापृच्छ्य समाधाय च राघवम् ।  
 स जगामाश्रमं त्यक्त्वा कुलैः कुलपतिः सह ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,6 +1148,7 @@ of the community departed, leaving the hermitage, along with a host of sages.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1088,6 +1157,8 @@ of the community departed, leaving the hermitage, along with a host of sages.
 सम्यक्प्रीतैस्तैरनुमत उपदिष्टार्थः  
 पुण्यं वासाय स्वनिलयमुपसम्पेदे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,6 +1213,7 @@ was sacred to reside.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1150,6 +1222,8 @@ was sacred to reside.
 राघवं हि सततमनुगता-  
 स्तापसाश्चार्षचरिते धृतगुणाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,5 +1280,6 @@ the conduct of the sages) constantly followed Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनारनॆय सर्ग पूर्णवायितु ॥116॥
+</details>
 </details>
 

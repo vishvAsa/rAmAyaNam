@@ -2,6 +2,8 @@
 title = "०१३ अगस्त्य-रामसंवादः"
 title_english = "013 Sage Agastya directs Sri Rama to Panchavati"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ where Seetha will be delightful of its surroundings.
 
 13. महर्षि अगस्त्यका श्रीरामके प्रति अपनी प्रसन्नता प्रकट करके सीताकी प्रशंसा करना, श्रीरामके पूछनेपर उन्हें पञ्चवटीमें आश्रम बनाकर रहनेका आदेश देना तथा श्रीराम आदिका प्रस्थान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम प्रीतोऽस्मि भद्रं ते परितुष्टोऽस्मि लक्ष्मण ।  
 अभिवादयितुं यन्मां प्राप्तौ स्थः सह सीतया ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ come to pay respects to me along with Seetha. [3-13-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्वश्रमेण वां खेदो बाधते प्रचुरश्रमः ।  
 व्यक्तमुत्कण्ठते वापि मैथिली जनकात्मजा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ wet with sweat or also anxious to get rest after a long trek in woods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा च सुकुमारी च खेदैश्च न विमानिता ।  
 प्राज्यदोषं वनं प्राप्ता भर्तृस्नेहप्रचोदिता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ her friendship she came to these highly detrimental forests. [3-13-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैषा रमते राम इह सीता तथा कुरु ।  
 दुष्करं कृतवत्येषा वने त्वामभिगच्छती ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +227,15 @@ womenfolk, in general. [3-13-4]*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा हि प्रकृतिः स्त्रीणामासृष्टे रघुनन्दन ।  
 समस्थमनुरज्यन्ते विषमस्थं त्यजन्ति च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +279,15 @@ Raghu, they devote themselves to their men in good fortune, but they leave them 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतह्रदानां लोलत्वं शस्त्राणां तीक्ष्णतां तथा ।  
 गरुडानिलयोः शैघ्र्यमनुगच्छन्ति योषितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +336,15 @@ the speediness of an eagle or a gust.*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं तु भवतो भार्या दोषैरेतैर्विवर्जिता ।  
 श्लाघ्या च व्यपदेश्या च यथा देवीष्वरुन्धती ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ sense of devotion to her bridegroom, may it be in noontime.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलङ्कृतोऽयं देशश्च यत्र सौमित्रिणा सह ।  
 वैदेह्या चानया राम वत्स्यसि त्वमरिन्दम ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +440,15 @@ enemy-destroyer Rama, that province shall be glorified." So said Sage Agastya to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु मुनिना राघवः संयताञ्जलिः ।  
 उवाच प्रश्रितं वाक्यमृषिं दीप्तमिवानलम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +488,15 @@ the sage who is glowing like a ritual-fire. [3-13-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गवः ।  
 गुणैः सभ्रातृभार्यस्य गुरुर्नः परितुष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +536,15 @@ the virtues of my brother and wife which are non-dissimilar to mine. [3-13-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तु व्यादिश मे देशं सोदकं बहुकाननम् ।  
 यत्राश्रमपदं कृत्वा वसेयं निरतः सुखम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +585,15 @@ happily and self-composedly on erecting a hermitage." Thus Rama asked the Sage A
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्मुनिश्रेष्ठः श्रुत्वा रामस्य भाषितम् ।  
 ध्यात्वा मुहूर्तं धर्मात्मा ततोवाच वचः शुभम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +645,15 @@ as Rama desired.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतो द्वियोजने तात बहुमूलफलोदकः ।  
 देशो बहुमृगः श्रीमान् पञ्चवट्यभिविश्रुतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,12 +697,15 @@ Agastya started to tell. [3-13-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र गत्वाऽऽश्रमपदं कृत्वा सौमित्रिणा सह ।  
 रमस्व त्वं पितुर्वाक्यं यथोक्तमनुपालयन् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,12 +745,15 @@ take delight in there complying the decreed order of your father. [3-13-14]*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदितो ह्येष वृत्तान्तो मम सर्वस्तवानघ ।  
 तपसश्च प्रभावेण स्नेहाद् दशरथस्य च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -749,12 +796,15 @@ ability of my asceticism, and also by my friendship with Dasharatha. [3-13-15]*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृदयस्थं च ते च्छन्दो विज्ञातं तपसा मया ।  
 इह वासं प्रतिज्ञाय मया सह तपोवने ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -798,12 +848,15 @@ me. [3-13-16, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतश्च त्वामहं ब्रूमि गच्छ पञ्चवटीमिति ।  
 स हि रम्यो वनोद्देशो मैथिली तत्र रंस्यते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +896,15 @@ very far off from here, and Seetha can take delight in there. [3-13-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स देशः श्लाघनीयश्च नातिदूरे च राघव ।  
 गोदावर्याः समीपे च मैथिली तत्र रंस्यते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,12 +921,15 @@ very far off from here, and Seetha can take delight in there. [3-13-17b, 18a]
 
 रघुनन्दन! आ श्लाघनीय स्थानवु इल्लिन्द हॆच्चु दूरविल्ल. गोदावरिय हत्तिर (अदर तीरदल्ले) इदॆ. आद्दरिन्द मैथिलिय मनस्सु अल्लि तुम्बा रमिसीतु.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राज्यमूलफलैश्चैव नानाद्विजगणैर्युतः ।  
 विविक्तश्च महाबाहो पुण्यो रम्यस्तथैव च ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +968,15 @@ further it is meritorious and appealing. [3-13-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवानपि सदाचारः शक्तश्च परिरक्षणे ।  
 अपि चात्र वसन् राम तापसान् पालयिष्यसि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,6 +1016,7 @@ while residing there. [3-13-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -962,6 +1025,8 @@ while residing there. [3-13-20]
 ततः स्थलमुपारुह्य पर्वतस्याविदूरतः ।  
 ख्यातः पञ्चवटीत्येव नित्यपुष्पितकाननः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1093,15 @@ proceed north of it and advance towards a banyan tree. [3-13-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगस्त्येनैवमुक्तस्तु रामः सौमित्रिणा सह ।  
 सत्कृत्यामन्त्रयामास तमृषिं सत्यवादिनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1141,15 @@ to that truth advocator sage Agastya. [3-13-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु तेनाभ्यनुज्ञातौ कृतपादाभिवन्दनौ ।  
 तमाश्रमं पञ्चवटीं जग्मतुः सह सीतया ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,6 +1191,7 @@ along with Seetha. [3-12-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1128,6 +1200,8 @@ along with Seetha. [3-12-24]
 यथोपदिष्टेन पथा महर्षिणा  
 प्रजग्मतुः पञ्चवटीं समाहितौ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1188,5 +1262,6 @@ quivers, and resolutely proceeded to Panchavati on the route apprised by that gr
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिमूरनॆय सर्ग सम्पूर्णवायितु. ॥13॥
+</details>
 </details>
 

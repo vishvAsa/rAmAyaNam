@@ -2,6 +2,8 @@
 title = "०२७ सीतायाः वनगमननिश्चयः"
 title_english = "027 Seetha s wish to go to forest along with Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -19,12 +21,15 @@ In this chapter Seetha asks Rama to take her to the forest.
 
 27. सीताकी श्रीरामसे अपनेको भी साथ ले चलनेके लिये प्रार्थना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही प्रियार्हा प्रियवादिनी ।  
 प्रणयादेव सङ्क्रुद्धा भर्तारमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ became angry out of love alone and spoke thus to her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमिदं भाषसे राम वाक्यं लघुतया ध्रुवम् ।  
 त्वया यदपहास्यं मे श्रुत्वा नरवरोत्तम ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ are to be laughed at by you and to me after hearning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीराणां राजपुत्राणां शस्त्रास्त्रविदुषां नृप ।  
 अनर्हमयशस्यं च न श्रोतव्यं त्वयेरितम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ own good fortune, as benefitted by their own pious deeds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्यपुत्र पिता माता भ्राता पुत्रस्तथा स्नुषा ।  
 स्वानि पुण्यानि भुञ्जानाः स्वं स्वं भाग्यमुपासते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ reason, I am also destined to dwell in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुर्भाग्यं तु नार्येका प्राप्नोति पुरुषर्षभ ।  
 अतश्चैवाहमादिष्टा वने वस्तव्यमित्यपि ॥ ५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +271,15 @@ recourse. Husband alone is forever the best recourse either in this world or aft
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पिता नात्मजो वात्मा न माता न सखीजनः ।  
 इह प्रेत्य च नारीणां पतिरेको गतिः सदा ॥ ६ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ stalks."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि त्वं प्रस्थितो दुर्गं वनमद्यैव राघव ।  
 अग्रतस्ते गमिष्यामि मृद्नन्ती कुशकण्टकान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ anger and having faith, take me. There is no sin in me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईर्ष्यां रोषं बहिष्कृत्य भुक्तशेषमिवोदकम् ।  
 नय मां वीर विस्रब्धः पापं मयि न विद्यते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ positions."
 २. यह मेरी बात नहीं मान रही है, यह सोचकर रोष प्रकट होता है । इन दोनोंका त्याग अपेक्षित है ।  
 ३. जैसे किसी जलहीन बीहड़ पथमें लोग अपने पीनेसे बचे हुए पानीको साथ ले चलते हैं, उसी प्रकार मुझे भी आप साथ ले चलें—यह सीताका अनुरोध है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासादाग्रे विमानैर्वा वैहायसगतेन वा ।  
 सर्वावस्थागता भर्तुः पादच्छाया विशिष्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ now, how to deal in any way with anyone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुशिष्टास्मि मात्रा च पित्रा च विविधाश्रयम् ।  
 नास्मि सम्प्रति वक्तव्या वर्तितव्यं यथा मया ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ various types of animals and inhaited by tigers and jackals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं दुर्गं गमिष्यामि वनं पुरुषवर्जितम् ।  
 नानामृगगणाकीर्णं शार्दूलगणसेवितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ forest happily as though staying in our father's house".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखं वने निवत्स्यामि यथैव भवने पितुः ।  
 अचिन्तयन्ती त्रील्ँ लोकांश्चिन्तयन्ती पतिव्रतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +620,15 @@ honey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रूषमाणा ते नित्यं नियता ब्रह्मचारिणी ।  
 **सह रंस्ये** त्वया वीर वनेषु मधुगन्धिषु ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +671,15 @@ protecting other people also. Why to tell about my protection?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं हि कर्तुं वने शक्तो राम सम्परिपालनम् ।  
 अन्यस्यापि जनस्येह किं पुनर्मम मानद ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,12 +719,15 @@ this intention, cannot be prevented to do so."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहं त्वया गमिष्यामि वनमद्य न संशयः ।  
 नाहं शक्या महाभाग निवर्तयितुमुद्यता ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -720,12 +767,15 @@ shall not create any unpleasantness to you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फलमूलाशना नित्यं भविष्यामि न संशयः ।  
 न ते दुःखं करिष्यामि निवसन्ती त्वया सदा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -766,6 +816,7 @@ rivers, mountains, small lakes and grooves."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -773,6 +824,8 @@ rivers, mountains, small lakes and grooves."
 इच्छामि परतः शैलान् पल्वलानि सरांसि च ॥ १७ ॥  
 द्रष्टुं सर्वत्र निर्भीता त्वया नाथेन धीमता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,6 +867,7 @@ see lotus- ponds filled with swans, water-fowls and excellently flowered.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,6 +876,8 @@ see lotus- ponds filled with swans, water-fowls and excellently flowered.
 इच्छेयं सुखिनी द्रष्टुं  
 त्वया वीरेण सङ्गता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ those lakes and with full of joy, I shall sport with you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकं करिष्यामि तासु नित्यमनुव्रता ॥ १९ ॥  
 सह त्वया विशालाक्ष रंस्ये परमनन्दिनी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +965,15 @@ deviation/ Heaven also will not be acceptable to me otherwise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वर्षसहस्राणि शतं वापि त्वया सह ॥ २० ॥  
 व्यतिक्रमं न वेत्स्यामि स्वर्गोऽपि हि न मे मतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,12 +1016,15 @@ without you, I do not like it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गेऽपि च विना वासो भविता यदि राघव ।  
 त्वया विना नरव्याघ्र नाहं तदपि रोचये ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,6 +1069,7 @@ forest as though in father's home.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1012,6 +1078,8 @@ forest as though in father's home.
 वने **निवत्स्यामि** यथा पितुर्गृहे  
 तवैव पादाव् **उपगृह्य** सम्मता ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1063,6 +1131,7 @@ there will be no burden to you from me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1071,6 +1140,8 @@ there will be no burden to you from me."
 **नयस्व** मां साधु **कुरुष्व** याचनां  
 नातो मया ते **गुरुता भविष्यति** ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,6 +1188,7 @@ face in a forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1125,6 +1197,8 @@ face in a forest.
 उवाच चैनां बहु सन्निवर्तने  
 वने निवासस्य च दुःखितां प्रति ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,5 +1227,6 @@ face in a forest.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तेळनॆय सर्ग पूर्णवायितु ॥27॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३९ रामेण सुवेलपर्वतसौन्दर्यदर्शनम्"
 title_english = "039 Rama and others see the charming garden on Suvela mountain"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ including the thousand-pillared mansion of Ravana with a height almost touching 
 
 39. वानरोंसहित श्रीरामका सुवेल-शिखरसे लङ्कापुरीका निरीक्षण करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रात्रिमुषितास्तत्र सुवेले हरियूथपाः ।  
 लङ्कायां ददृशुर्वीरा वनान्युपवनानि च ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ the garden and groves in Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समसौम्यानि रम्याणि विशालान्यायतानि च ।  
 दृष्टिरम्याणि ते दृष्ट्वा बभूवुर्जातविस्मयाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +121,7 @@ enchanting to look at, they became astonished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,6 +132,8 @@ enchanting to look at, they became astonished.
 शुशुभे पुष्पिताग्रैश्च लतापरिगतैर्द्रुमैः ।  
 लङ्का बहुविधैर्दिव्यैर्यथेन्द्रस्यामरावती ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ _________________
 
 सम्पिगॆ, अशोक, बकुल, साल-तालवृक्षगळिन्द व्याप्तवागिद्दु, अरळिनिन्त हागू बळ्ळिगळिन्द सुत्तुवरिद हिन्ताल, अर्जुन, कदम्ब, हूगळु अरळिद एळॆलॆ बाळॆ, तिलक, कर्णिकार, पाटल मुन्ताद दिव्यवृक्षगळिन्द कूडिद लङ्कापट्टणवु इन्द्रन अमरावतियन्तॆ शोभिसुत्तित्तु.॥3-5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्रकुसुमोपेतै रक्तकोमलपल्लवैः ।  
 शाद्वलैश्च तथा नीलैश्चित्राभिर्वनराजिभिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ intertwined with climbers laden with multi-coloured flowers and red tender leave
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धाढ्यान्यतिरम्याणि पुष्पाणि च फलानि च ।  
 धारयन्त्यगमास्तत्र भूषणानीव मानवाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ as human beings were laden with ornaments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चैत्ररथसङ्काशं मनोज्ञं नन्दनोपमम् ।  
 वनं सर्वर्तुकं रम्यं शुशुभे षट्पदायुतम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +315,15 @@ of bees, like chaitraratha (garden of Kubera, the god of riches), was quite char
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दात्यूहकोयष्टिबकैर्नृत्यमानैश्च बर्हिणैः ।  
 रुतं परभृतानां च शुश्रुवे वननिर्झरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,6 +363,7 @@ lapwings(small white cranes), dancing peacocks and cuckoos were heard.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,6 +373,8 @@ lapwings(small white cranes), dancing peacocks and cuckoos were heard.
 कोणालकविघुष्टानि सारसाभिरुतानि च ।  
 विविशुस्ते ततस्तानि वनान्युपवनानि च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,6 +400,7 @@ _________________
 
 लङ्कॆय वन-उपवनगळु सदा मत्त विहङ्गमगळिन्द विभूषितवागिद्दवु. अल्लि वृक्षगळल्लि भ्रमरगळु झेङ्करिसुत्तिद्दवु. ऎल्लॆडॆ कोगिलॆगळ कूहु-कूहु केळिबरुत्तित्तु. पक्षिगळु चिलिपिलि गुट्टित्तिद्दवु. भृङ्गगळु हाडुत्तिद्दवु. कुरर पक्षिगळ शब्द प्रतिध्वनिसुत्तित्तु. गीजगद हक्किगळिन्दलू सारस पक्षिगळिन्दलू शोभायमानवागिद्द लङ्कॆय वन-उपवनगळन्नु वानररु प्रवेशिसिदरु.॥10-11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,6 +410,8 @@ _________________
 अन्ये तु हरिवीराणां यूथान्निष्क्रम्य यूथपाः ।  
 सुग्रीवेणाभ्यनुज्ञाता लङ्कां जग्मुः पताकिनीम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +473,15 @@ large bees, abounding with sounds of ospreys, with the music of wagtails and cri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्रासयन्तो विहगान् ग्लापयन्तो मृगद्विपान् ।  
 कम्पयन्तश्च तां लङ्कां नादैः स्वैर्नदतां वराः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ permission from sugreeva and went towards Lanka, the city adorned with flags
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुर्वन्तस्ते महावेगा महीं चरणपीडिताम् ।  
 रजश्च सहसैवोर्ध्वं जगाम चरणोत्थितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,12 +571,15 @@ to the animals and elephants, went, causing that Lanka to tremble, by their nois
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाः सिंहाश्च महिषा वारणाश्च मृगाः खगाः ।  
 तेन शब्देन वित्रस्ता जग्मुर्भीता दिशो दश ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ feet and the dust thus raised by their feet went up instant aneously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखरं तु त्रिकूटस्य प्रांशु चैकं दिविस्पृशम् ।  
 समन्तात् पुष्पसञ्छन्नं महारजतसन्निभम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +674,15 @@ trembled and terrified and hastened towards ten different directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतयोजनविस्तीर्णं विमलं चारुदर्शनम् ।  
 श्लक्ष्णं श्रीमन्महच्चैव दुष्प्रापं शकुनैरपि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,12 +702,15 @@ _________________
 
 आ शिखरवु नूरु योजन विस्तारवागित्तु. अदु नोडलु बहळ सुन्दर, स्वच्छ, स्निग्ध, कान्तियुक्त विशालवागित्तु. पक्षिगळिगू तदियवरॆगॆ तलुपलु कष्टवागुत्तित्तु.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसापि दुरारोहं किं पुनः कर्मणा जनैः ।  
 निविष्टा तस्य शिखरे लङ्का रावणपालिता ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,6 +756,7 @@ by people may, even by the mind-how much more by an act of walking?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -716,6 +764,8 @@ by people may, even by the mind-how much more by an act of walking?
 सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसन्निभैः ।  
 काञ्चनेन च शालेन राजतेन च शोभते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -763,12 +813,15 @@ comprised the residence of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासादैश्च विमानैश्च लङ्का परमभूषिता ।  
 घनैरिवातपापाये मध्यमं वैष्णवं पदम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +867,15 @@ clouds as well as with golden and silver ramparts.
 १. अमरकोशके अनुसार देवताओंके मन्दिरों तथा राजाओंके महलोंको प्रासाद कहते हैं । प्राचीन वास्तुविद्याके अनुसार बहुत लंबा, चौड़ा, ऊँचा और कई भूमियोंका पक्का या पत्थरका बना हुआ भव्य भवन जिसमें अनेक शृङ्ग, शृङ्खला और अण्डक आदि हों ‘प्रासाद’ कहा गया है । उसमें बहुत-से गवाक्षोंसे युक्त त्रिकोण, चतुष्कोण, आयत और वृत्तशालाएँ बनी होती हैं । आकृतिके भेदसे पुराणोंमें प्रासादके पाँच भेद किये गये हैं—चतुरस्र, चतुरायत, वृत्त, वृत्तायत और अष्टास्र । इनका नाम क्रमशः वैराज, पुष्पक, कैलास, मालक और त्रिविष्टप है । भूमि, अण्डक और शिखर आदिकी न्यूनता-अधिकताके कारण इन पाँचोंके नौ-नौ भेद माने गये हैं । जैसे वैराजके मेरु, मन्दर, विमान, भद्रक, सर्वतोभद्र, रुचक, नन्दन, नन्दिवर्धन और श्रीवत्स; पुष्पकके वलभी, गृहराज, शालागृह, मन्दिर, विमान, ब्रह्ममन्दिर, भवन, उत्तम्भ और शिविकावेश्म; कैलासके वलय, दुन्दुभि, पद्म, महापद्म, भद्रक, सर्वतोभद्र, रुचक, नन्दन, गवाक्ष और गवावृत्त; मालकके गज, वृषभ, हंस, गरुड, सिंह, भूमुख, भूधर, श्रीजय और पृथ्वीधर तथा त्रिविष्टपके वज्र, चक्र, मुष्टिक या वभ्रु, वक्र, स्वस्तिक, खड्ग, गदा, श्रीवृक्ष और विजय ।  
 २. आकाशमार्गसे गमन करनेवाला रथ जो देवता आदिके पास होता है ‘विमान’ कहलाता है । सात मंजिलके मकानको भी विमान कहते हैं । प्राचीन वास्तुविद्याके अनुसार उस देवमन्दिरको विमानकी संज्ञा दी गयी है जो ऊपरकी ओर पतला होता चला गया हो । मानसार नामक प्राचीन ग्रन्थके अनुसार विमान गोल, चौपहला और अठपहला होता है । गोलको बेसर, चौपहलेको नागर और अठपहलेको द्रावि कहते हैं (हिंदी-शब्दसागरसे) ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यां स्तम्भसहस्रेण प्रासादः समलङ्कृतः ।  
 कैलासशिखराकारो दृश्यते खमिवोल्लिखन् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ between earth and heaven.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चैत्यः स राक्षसेन्द्रस्य बभूव पुरभूषणम् ।  
 शतेन रक्षसां नित्यं यः समग्रेण रक्ष्यते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,12 +942,15 @@ between earth and heaven.
 
 राक्षसराज रावणन आ चैत्यप्रासादवु लङ्कॆगॆ भूषणप्राय वागित्तु. अनेक नूरु राक्षसरु आ प्रासादवन्नु समग्रवागि प्रतिदिन रक्षिसुत्तिद्दरु.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोज्ञां काञ्चनवतीं पर्वतैरुपशोभिताम् ।  
 नानाधातुविचित्रैश्च उद्यानैरुपशोभिताम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,12 +990,15 @@ seen as an ornament to the City of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविहगसङ्घुष्टां नानामृगनिषेविताम् ।  
 नानाकुसुमसम्पन्नां नानाराक्षससेविताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1015,15 @@ seen as an ornament to the City of Ravana.
 
 नाना प्रकारद पक्षिगळिन्द निनादितवागिद्दितु. नानाविधद मृगगळिन्द सेवितवागित्तु. अनेक रीतिय पुष्पगळिन्द सम्पन्नवागिद्दु, अनेक आकारद राक्षसरु अल्लि वासिसुत्तिद्दरु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां समृद्धां समृद्धार्थां लक्ष्मीवाल्ँ लक्ष्मणाग्रजः ।  
 रावणस्य पुरीं रामो ददर्श सह वानरैः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1043,15 @@ _________________
 
 धन-धान्यगळिन्द समृद्धवाद, मनोवाञ्छित वस्तुगळिन्द तुम्बिद्द आ रावणन लङ्कॆयन्नु लक्ष्मणन अण्ण लक्ष्मीवन्त श्रीरामनु वानररॊन्दिगॆ नोडिदनु.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।  
 नगरीं त्रिदिवप्रख्यां विस्मयं प्राप वीर्यवान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,6 +1098,7 @@ having increased its wealth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1035,6 +1107,8 @@ having increased its wealth.
 पुरीं महायन्त्रकवाटमुख्यां  
 ददर्श रामो महता बलेन ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,5 +1155,6 @@ valiant Rama the elder brother of Lakshmana was seized with astonishment.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनचत्वारिंशः सर्गः ॥ ३९ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उन्तालीसवाँ सर्ग पूरा हुआ ॥ ३९ ॥
+</details>
 </details>
 

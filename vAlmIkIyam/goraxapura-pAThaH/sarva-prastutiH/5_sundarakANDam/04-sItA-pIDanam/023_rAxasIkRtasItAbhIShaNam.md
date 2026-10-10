@@ -2,6 +2,8 @@
 title = "०२३ राक्षसीकृतसीताभीषणम्"
 title_english = "023 Ogres frighten Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -19,12 +21,15 @@ This chapter describes the ogre women speaking to Seetha about her marrying Rava
 
 23. राक्षसियोंका सीताजीको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः ।  
 सन्दिश्य च ततः सर्वा राक्षसीर्निर्जगाम ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,12 +63,15 @@ women went away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्क्रान्ते राक्षसेन्द्रे तु पुनरन्तःपुरं गते ।  
 राक्षस्यो भीमरूपास्ताः सीतां समभिदुद्रुवुः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -82,12 +90,15 @@ women went away.
 
 अशोकवाटिकासे निकलकर जब राक्षसराज रावण अन्तःपुरको चला गया, तब वहाँ जो भयानक रूपवाली राक्षसियाँ थीं, वे सब चारों ओरसे दौड़ी हुई सीताके पास आयीं ॥ २ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतामुपागम्य राक्षस्यः क्रोधमूर्च्छिताः ।  
 परं परुषया वाचा वैदेहीमिदमब्रुवन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -146,12 +157,15 @@ Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौलस्त्यस्य वरिष्ठस्य रावणस्य महात्मनः ।  
 दशग्रीवस्य भार्यात्वं सीते न बहु मन्यसे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +201,15 @@ among men, a great soul with ten heads."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वेकजटा नाम राक्षसी वाक्यमब्रवीत् ।  
 आमन्त्र्य क्रोधताम्राक्षी सीतां करतलोदरीम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +249,15 @@ can be held by palm of the hand, spoke these words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजापतीनां षण्णां तु चतुर्थोऽयं प्रजापतिः ।  
 मानसो ब्रह्मणः पुत्रः पुलस्त्य इति विश्रुतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ _________________
 
 * मरीचि, अत्रि, अङ्गिरा, पुलस्त्य, पुलह और क्रतु—ये छः प्रजापति हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुलस्त्यस्य तु तेजस्वी महर्षिर्मानसः सुतः ।  
 नाम्ना स विश्रवा नाम प्रजापतिसमप्रभः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +352,7 @@ is the son born from the thought of Pulastya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -336,6 +360,8 @@ is the son born from the thought of Pulastya.
 तस्य त्वं राक्षसेन्द्रस्य भार्या भवितुमर्हसि ॥ ८ ॥  
 मयोक्तं चारुसर्वाङ्गि वाक्यं किं नानुमन्यसे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,6 +407,7 @@ wife. O one with all beautiful limbs! Why will you not agree words spoken by me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -389,6 +416,8 @@ wife. O one with all beautiful limbs! Why will you not agree words spoken by me.
 येन देवास्त्रयस्त्रिंशद् देवराजश्च निर्जितः ॥ १० ॥  
 तस्य त्वं राक्षसेन्द्रस्य भार्या भवितुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -427,12 +456,15 @@ the wife of that lord of ogres.
 
 * बारह आदित्य, ग्यारह रुद्र, आठ वसु और दो अश्विनीकुमार—ये तैंतीस देवता हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर्योत्सिक्तस्य शूरस्य सङ्ग्रामेष्वनिवर्तिनः ।  
 बलिनो वीर्ययुक्तस्य भार्यात्वं किं न लिप्ससे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,6 +522,7 @@ anger and spoke these words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -498,6 +531,8 @@ anger and spoke these words.
 समृद्धं स्त्रीसहस्रेण नानारत्नोपशोभितम् ।  
 अन्तःपुरं तदुत्सृज्य त्वामुपैष्यति रावणः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +590,7 @@ back in wars, who is strong together with valour."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -564,6 +600,8 @@ back in wars, who is strong together with valour."
 तस्य सर्वसमृद्धस्य रावणस्य महात्मनः ।  
 किमर्थं राक्षसेन्द्रस्य भार्यात्वं नेच्छसेऽधमे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,6 +642,7 @@ you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -611,6 +650,8 @@ you.
 यस्य सूर्यो न तपति भीतो यस्य स मारुतः ।  
 न वाति स्मायतापाङ्गि किं त्वं तस्य न तिष्ठसे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +667,7 @@ _________________
 
 फिर उनसे दुर्मुखी नामवाली राक्षसीने कहा—‘विशाललोचने! जिनसे भय मानकर सूर्य तपना छोड़ देता है और वायुकी गति रुक जाती है, उनके पास तुम क्यों नहीं रहती? ॥ १६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -634,6 +676,8 @@ _________________
 तस्य नैर्ऋतराजस्य राजराजस्य भामिनि ।  
 किं त्वं न कुरुषे बुद्धिं भार्यार्थे रावणस्य हि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +744,15 @@ war Nagas, Gandharvas and Danavas have been conquered that Ravana has come to yo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु ते तत्त्वतो देवि कथितं साधु भामिनि ।  
 गृहाण सुस्मिते वाक्यमन्यथा न भविष्यसि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,5 +821,6 @@ the sun will not comsume by heat, fearing whom the win will not blow, to that on
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तमूरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

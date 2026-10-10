@@ -2,6 +2,8 @@
 title = "००६ रामेण सीता-आभरणदर्शनम्"
 title_english = "006 Sugreeva s narration of the abduction"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -26,6 +28,7 @@ clansmen.
 
 6. सुग्रीवका श्रीरामको सीताजीके आभूषण दिखाना तथा श्रीरामका शोक एवं रोषपूर्ण वचन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -33,6 +36,8 @@ clansmen.
 अयमाख्याति ते राम सचिवो मन्त्रिसत्तमः ॥ १ ॥  
 हनुमान् यन्निमित्तं त्वं निर्जनं वनमागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -54,6 +59,7 @@ _________________
 
 सुग्रीवनु पुनः प्रसन्नतॆयिन्द रघुकुलनन्दन श्रीरामचन्द्रनल्लि हेळिदनु-श्रीरामा! नन्न मन्त्रिगळल्लि श्रेष्ठ सचिव ई हनुमन्तनु निम्म विषयदल्लि नीवु ई निर्जन काडिगॆ बन्द ऎल्ल वृत्तान्तवन्नु हेळिरुवनु.॥1½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,6 +69,8 @@ _________________
 अन्तरं प्रेप्सुना तेन हत्वा गृध्रं जटायुषम् ।  
 भार्यावियोगजं दुःखं प्रापितस्तेन रक्षसा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,12 +142,15 @@ daughter of Janaka, wailing as she was. [4-6-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्यावियोगजं दुःखं नचिरात् त्वं विमोक्ष्यसे ।  
 अहं तामानयिष्यामि नष्टां वेदश्रुतीमिव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,12 +202,15 @@ being.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसातले वा वर्तन्तीं वर्तन्तीं वा नभस्तले ।  
 अहमानीय दास्यामि तव भार्यामरिन्दम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +253,7 @@ in netherworlds or even in empyrean worlds. [4-6-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,6 +262,8 @@ in netherworlds or even in empyrean worlds. [4-6-6]
 तव भार्या महाबाहो भक्ष्यं विषकृतं यथा ।  
 त्यज शोकं महाबाहो तां कान्तामानयामि ते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,6 +302,7 @@ gods and demons. [4-6-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,6 +311,8 @@ gods and demons. [4-6-7, 8a]
 क्रोशन्ती रामरामेति लक्ष्मणेति च विस्वरम् ।  
 स्फुरन्ती रावणस्याङ्के पन्नगेन्द्रवधूर्यथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,12 +356,15 @@ lord... [4-6-8b, 9, 10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मना पञ्चमं मां हि दृष्ट्वा शैलतले स्थितम् ।  
 उत्तरीयं तया त्यक्तं शुभान्याभरणानि च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +412,15 @@ Lakshmi.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्यस्माभिर्गृहीतानि निहितानि च राघव ।  
 आनयिष्याम्यहं तानि प्रत्यभिज्ञातुमर्हसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +462,15 @@ will be apt of you to identify them..." thus said Sugreeva to Rama. [4-6-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रवीत् ततो रामः सुग्रीवं प्रियवादिनम् ।  
 आनयस्व सखे शीघ्रं किमर्थं प्रविलम्बसे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,6 +510,7 @@ for you are delaying." [4-6-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,6 +519,8 @@ for you are delaying." [4-6-13]
 उत्तरीयं गृहीत्वा तु स तान्याभरणानि च ।  
 इदं पश्येति रामाय दर्शयामास वानरः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +581,15 @@ fulfil the yearning of Raghava. [4-6-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गृहीत्वा वासस्तु शुभान्याभरणानि च ।  
 अभवद् बाष्पसंरुद्धो नीहारेणेव चन्द्रमाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +632,15 @@ filled moon with overfilling tears. [4-6-16]
 
 आ वस्त्र हागू सुन्दर आभूषणगळन्नु पडॆदु श्रीरामनु मञ्जिनिन्द मुच्चिद चन्द्रनन्तॆ कम्बनिगळिन्द कूडिदनु. 116॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतास्नेहप्रवृत्तेन स तु बाष्पेण दूषितः ।  
 हा प्रियेति रुदन् धैर्यमुत्सृज्य न्यपतत् क्षितौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +680,15 @@ leaving off his courage fell on the ground wailing, 'oh, dear... oh, dear...' [4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृदि कृत्वा स बहुशस्तमलङ्कारमुत्तमम् ।  
 निशश्वास भृशं सर्पो बिलस्थ इव रोषितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -687,12 +728,15 @@ hissed like a wrathful serpent in a snake pit. [4-6-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविच्छिन्नाश्रुवेगस्तु सौमित्रिं प्रेक्ष्य पार्श्वतः ।  
 परिदेवयितुं दीनं रामः समुपचक्रमे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,12 +779,15 @@ piteously. [4-6-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण वैदेह्या सन्त्यक्तं ह्रियमाणया ।  
 उत्तरीयमिदं भूमौ शरीराद् भूषणानि च ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +827,15 @@ body and dropped onto the ground while she is being abducted. [4-6-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाद्वलिन्यां ध्रुवं भूम्यां सीतया ह्रियमाणया ।  
 उत्सृष्टं भूषणमिदं तथा रूपं हि दृश्यते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,6 +876,7 @@ appear to be in their original shape, indeed." So said Rama to Lakshmana. [4-6-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -833,6 +884,8 @@ appear to be in their original shape, indeed." So said Rama to Lakshmana. [4-6-2
 नाहं जानामि केयूरे नाहं जानामि कुण्डले ॥ २२ ॥  
 नूपुरे त्वभिजानामि नित्यं पादाभिवन्दनात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,6 +942,7 @@ one of his mother. The wife of an elder brother is just another mother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -896,6 +950,8 @@ one of his mother. The wife of an elder brother is just another mother.
 ब्रूहि सुग्रीव कं देशं ह्रियन्ती लक्षिता त्वया ।  
 रक्षसा रौद्ररूपेण मम प्राणप्रिया हृता ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1000,15 @@ ferocious looking demon abducted my dear one dearest than my lives, as spotted b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व वा वसति तद् रक्षो महद् व्यसनदं मम ।  
 यन्निमित्तमहं सर्वान् नाशयिष्यामि राक्षसान् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,12 +1048,15 @@ troublemaker of mine, where does he live, either... [4-6-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरता मैथिलीं येन मां च रोषयता ध्रुवम् ।  
 आत्मनो जीवितान्ताय मृत्युद्वारमपावृतम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1034,6 +1096,7 @@ the doors of his death suicidally. [4-6-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1042,6 +1105,8 @@ the doors of his death suicidally. [4-6-26]
 कथय मम रिपुं तमद्य वै  
 प्लवगपते यमसन्निधिं नयामि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,5 +1160,6 @@ lead him to the fore of Death today itself... [4-6-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद आरनॆय सर्ग सम्पूर्णवायितु.॥6॥
+</details>
 </details>
 

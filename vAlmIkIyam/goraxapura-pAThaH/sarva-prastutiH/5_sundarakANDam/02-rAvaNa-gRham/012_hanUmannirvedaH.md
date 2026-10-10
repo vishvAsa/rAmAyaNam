@@ -2,6 +2,8 @@
 title = "०१२ हनूमन्निर्वेदः"
 title_english = "012 Hanuma s depression"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,6 +22,7 @@ dead. He thus gets into depression for a moment.
 
 12. सीताके मरणकी आशंकासे हनुमान् जी का शिथिल होना, फिर उत्साहका आश्रय लेकर अन्य स्थानोंमें उनकी खोज करना और कहीं भी पता न लगनेसे पुनः उनका चिन्तित होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ dead. He thus gets into depression for a moment.
 जगाम सीतां प्रतिदर्शनोत्सुको  
 न चैव तां पश्यति चारुदर्शनाम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,6 +83,7 @@ made of plant creepers, art houses, and nocturnal houses but did not see Her wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -86,6 +92,8 @@ made of plant creepers, art houses, and nocturnal houses but did not see Her wit
 ध्रुवं न सीता ध्रियते यथा न मे  
 विचिन्वतो दर्शनमेति मैथिली ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,6 +139,7 @@ Seetha in whatever way appearance not being obtained, from that Seetha definitel
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,6 +148,8 @@ Seetha in whatever way appearance not being obtained, from that Seetha definitel
 अनेन नूनं प्रति दुष्टकर्मणा  
 हता भवेदार्यपथे परे स्थिता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,6 +200,7 @@ must have been killed by the king of these Rakshasas who performed evil deeds - 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,6 +209,8 @@ must have been killed by the king of these Rakshasas who performed evil deeds - 
 समीक्ष्य ता राक्षसराजयोषितो  
 भयाद् विनष्टा जनकेश्वरात्मजा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,6 +261,7 @@ long and crooked eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,6 +270,8 @@ long and crooked eyes.
 न मेऽस्ति सुग्रीवसमीपगा गतिः  
 सुतीक्ष्णदण्डो बलवांश्च वानरः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +317,15 @@ to me there is not a path to go near Sugreeva. Sugreeva has a sharp punishment a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टमन्तःपुरं सर्वं दृष्टा रावणयोषितः ।  
 न सीता दृश्यते साध्वी वृथा जातो मम श्रमः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +366,15 @@ My effort became wastefull."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु मां वानराः सर्वे गतं वक्ष्यन्ति सङ्गताः ।  
 गत्वा तत्र त्वया वीर किं कृतं तद् वदस्व नः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,12 +408,15 @@ what has been done by you? Tell that to us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्ट्वा किं प्रवक्ष्यामि तामहं जनकात्मजाम् ।  
 ध्रुवं प्रायमुपासिष्ये कालस्य व्यतिवर्तने ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +459,15 @@ fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वा वक्ष्यति वृद्धश्च जाम्बवानङ्गदश्च सः ।  
 गतं पारं समुद्रस्य वानराश्च समागताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +508,15 @@ that Angada and vanaras who meet say?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनिर्वेदः श्रियो मूलमनिर्वेदः परं सुखम् ।  
 भूयस्तत्र विचेष्यामि न यत्र विचयः कृतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +555,15 @@ always is indeed the promoter in all matters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनिर्वेदो हि सततं सर्वार्थेषु प्रवर्तकः ।  
 करोति सफलं जन्तोः कर्म यच्च करोति सः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +612,15 @@ Ravana not yet seen."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादनिर्वेदकरं यत्नं चेष्टेऽहमुत्तमम् ।  
 अदृष्टांश्च विचेष्यामि देशान् रावणपालितान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +637,7 @@ Ravana not yet seen."
 
 आदुदरिन्द प्रयत्नदल्लि निराशनागदॆ उत्साहदिन्द चॆन्नाद प्रयत्नवन्नु मुन्दवरिसुत्तेनॆ. रावणनिन्द पालिसल्पट्ट, इदुवरॆविगू हुडुकदे इरुव स्थळगळल्लि पुनः सीतॆयन्नु हुडुकुत्तेनॆ.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -607,6 +646,8 @@ Ravana not yet seen."
 निष्कुटान्तररथ्याश्च विमानानि च सर्वशः ।  
 इति सञ्चिन्त्य भूयोऽपि विचेतुमुपचक्रमे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,12 +701,15 @@ houses, pathways in the middle of gardens, buildings in all directions have been
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूमीगृहांश्चैत्यगृहान् गृहातिगृहकानपि ।  
 उत्पतन् निपतंश्चापि तिष्ठन् गच्छन् पुनः क्वचित् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,12 +724,15 @@ _________________
 
 वे भूमिके भीतर बने हुए घरों (तहखानों)-में, चौराहोंपर बने हुए मण्डपोंमें तथा घरोंको लाँघकर उनसे थोड़ी ही दूरपर बने हुए विलास-भवनोंमें सीताकी खोज करने लगे । वे किसी घरके ऊपर चढ़ जाते, किसीसे नीचे कूद पड़ते, कहीं ठहर जाते और किसीको चलते-चलते ही देख लेते थे ॥ १५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपवृण्वंश्च द्वाराणि कपाटान्यवघट्टयन् ।  
 प्रविशन् निष्पतंश्चापि प्रपतन्नुत्पतन्निव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,6 +747,7 @@ _________________
 
 घरोंके दरवाजोंको खोल देते, कहीं किंवाड़ बंदकर देते, किसीके भीतर घुसकर देखते और फिर निकल आते थे । वे नीचे-कूदते और ऊपर उछलते हुए-से सर्वत्र खोज करने लगे ॥ १६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -707,6 +755,8 @@ _________________
 चतुरङ्गुलमात्रोऽपि नावकाशः स विद्यते ।  
 रावणान्तःपुरे तस्मिन् यं कपिर्न जगाम सः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +795,15 @@ for four angulas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकारान्तरवीथ्यश्च वेदिकाश्चैत्यसंश्रयाः ।  
 श्वभ्राश्च पुष्करिण्यश्च सर्वं तेनावलोकितम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +864,15 @@ pushing doors and entering inside, coming out, climbing down, climbing up wander
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षस्यो विविधाकारा विरूपा विकृतास्तथा ।  
 दृष्टा हनुमता तत्र न तु सा जनकात्मजा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,12 +915,15 @@ but not that Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपेणाप्रतिमा लोके परा विद्याधरस्त्रियः ।  
 दृष्टा हनुमता तत्र न तु राघवनन्दिनी ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +965,15 @@ not Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नागकन्या वरारोहाः पूर्णचन्द्रनिभाननाः ।  
 दृष्टा हनुमता तत्र न तु सा जनकात्मजा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1014,15 @@ but not Seetha with a beautiful waist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमथ्य राक्षसेन्द्रेण नागकन्या बलाद‍्धृताः ।  
 दृष्टा हनुमता तत्र न सा जनकनन्दिनी ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1064,15 @@ not that Seetha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपश्यंस्तां महाबाहुः पश्यंश्चान्या वरस्त्रियः ।  
 विषसाद महाबाहुर्हनूमान् मारुतात्मजः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1113,15 @@ women became depressed again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्योगं वानरेन्द्राणां प्लवनं सागरस्य च ।  
 व्यर्थं वीक्ष्यानिलसुतश्चिन्तां पुनरुपागतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1144,15 @@ _________________
 
 उन वानरशिरोमणि वीरोंके उद्योग और अपने द्वारा किये गये समुद्रलंघनको व्यर्थ हुआ देखकर पवनपुत्र हनुमान् वहाँ पुनः बड़ी भारी चिन्तामें पड़ गये ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवतीर्य विमानाच्च हनूमान् मारुतात्मजः ।  
 चिन्तामुपजगामाथ शोकोपहतचेतनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,5 +1220,6 @@ again.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हन्नॆरडनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

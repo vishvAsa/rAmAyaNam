@@ -2,6 +2,8 @@
 title = "०८१ राजसभागमनम्"
 title_english = "081 Bharata with Shatrughna enters the assembly"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ others enter the assembly.
 
 81. प्रातःकालके मङ्गलवाद्य-घोषको सुनकर भरतका दुःखी होना और उसे बंद कराकर विलाप करना, वसिष्ठजीका सभामें आकर मन्त्री आदिको बुलानेके लिये दूत भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नान्दीमुखीं रात्रिं भरतं सूतमागधाः ।  
 तुष्टुवुः सविशेषज्ञाः स्तवैर्मङ्गलसंस्तवैः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ relatives observed on a festive occasion to secure their blessings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्णकोणाभिहतः प्राणदद्यामदुन्दुभिः ।  
 दध्मुः शङ्खांश्च शतशो वाद्यांश्चोच्चावचस्वरान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ noises were blown.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तूर्यघोषः सुमहान् दिवमापूरयन्निव ।  
 भरतं शोकसन्तप्तं भूयः शोकैररन्धयत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ created further distress and grief to Bharata who was already tormented with gri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रबुद्धो भरतस्तं घोषं सन्निवर्त्य च ।  
 नाहं राजेति चोक्त्वा तं शत्रुघ्नमिदमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ sound and spoke the following words to shatrughna:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य शत्रुघ्न कैकेय्या लोकस्यापकृतं महत् ।  
 विसृज्य मयि दुःखानि राजा दशरथो गतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ Dasartha left us, leaving all sorrows to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैषा धर्मराजस्य धर्ममूला महात्मनः ।  
 परिभ्रमति राजश्रीर्नौरिवाकर्णिका जले ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +328,15 @@ thither in water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि नः सुमहान् नाथः सोऽपि प्रव्राजितो वने ।  
 अनया धर्ममुत्सृज्य मात्रा मे राघवः स्वयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ mother of mine, abandoning her righteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं भरतं वीक्ष्य विलपन्तमचेतनम् ।  
 कृपणा रुरुदुः सर्वाः सुस्वरं योषितस्तदा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +426,15 @@ then miserably cried in one voice.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तस्मिन् विलपति वसिष्ठो राजधर्मवित् ।  
 सभामिक्ष्वाकुनाथस्य प्रविवेश महायशाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,6 +475,7 @@ relating to kings, entered the assembly-hall of Dasaratha the Lord of Ikshvaku d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -454,6 +484,8 @@ relating to kings, entered the assembly-hall of Dasaratha the Lord of Ikshvaku d
 स काञ्चनमयं पीठं स्वस्त्यास्तरणसंवृतम् ।  
 अध्यास्त सर्ववेदज्ञो दूताननुशशास च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,6 +549,7 @@ assembly-hall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -525,6 +558,8 @@ assembly-hall.
 सराजपुत्रं शत्रुघ्नं भरतं च यशस्विनम् ।  
 युधाजितं सुमन्त्रं च ये च तत्र हिता जनाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +624,15 @@ commanders coolly. There is an urgent duty indeed for us to be done.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हलहलाशब्दो महान् समुदपद्यत ।  
 रथैरश्वैर्गजैश्चापि जनानामुपगच्छताम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +672,15 @@ chariots, horses and elephants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भरतमायान्तं शतक्रतुमिवामराः ।  
 प्रत्यनन्दन् प्रकृतयो यथा दशरथं तथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +721,7 @@ every way as they had welcomed Dasaratha and as Indra was welcomed by celestials
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -688,6 +730,8 @@ every way as they had welcomed Dasaratha and as Indra was welcomed by celestials
 दशरथसुतशोभिता सभा  
 सदशरथेव बभूव सा पुरा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,5 +797,6 @@ and sand and filled with great fish and serpents.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॊन्दनॆय सर्ग पूर्णवायितु.॥81॥
+</details>
 </details>
 

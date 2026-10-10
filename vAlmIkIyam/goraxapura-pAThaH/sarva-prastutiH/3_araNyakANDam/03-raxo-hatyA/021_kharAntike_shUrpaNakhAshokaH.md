@@ -2,6 +2,8 @@
 title = "०२१ खरान्तिके शूर्पणखाशोकः"
 title_english = "021 Surpanakha reports demons death to Khara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ intruded into Dandaka and there is every possibility of onslaught by them on dem
 
 21. शूर्पणखाका खरके पास आकर उन राक्षसोंके वधका समाचार बताना और रामका भय दिखाकर उसे युद्धके लिये उत्तेजित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुनः पतितां दृष्ट्वा क्रोधाच्छूर्पणखां पुनः ।  
 उवाच व्यक्तया वाचा तामनर्थार्थमागताम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ before, Khara spoke this sentence to her in clear terms in all his fury. [3-21-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया त्विदानीं शूरास्ते राक्षसाः पिशिताशनाः ।  
 त्वत्प्रियार्थं विनिर्दिष्टाः किमर्थं रुद्यते पुनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ order to fulfill your wish? [3-21-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्ताश्चैवानुरक्ताश्च हिताश्च मम नित्यशः ।  
 हन्यमाना न हन्यन्ते न न कुर्युर्वचो मम ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ question of their non-accomplishment of my orders. [3-21-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमेतच्छ्रोतुमिच्छामि कारणं यत्कृते पुनः ।  
 हा नाथेति विनर्दन्ती सर्पवच्चेष्टसे क्षितौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ I would like to know the reason for all this, what is it? [3-21-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाथवद् विलपसि किं नु नाथे मयि स्थिते ।  
 उत्तिष्ठोत्तिष्ठ मा मैवं वैक्लव्यं त्यज्यतामिति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ up, and ward off this sort of perplexity." Thus Khara said to Shuurpanakha. [3-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्ता दुर्धर्षा खरेण परिसान्त्विता ।  
 विमृज्य नयने सास्रे खरं भ्रातरमब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ thus that way, and she on dabbing her tearful eyes then spoke to her brother Kha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मीदानीमहं प्राप्ता हतश्रवणनासिका ।  
 शोणितौघपरिक्लिन्ना त्वया च परिसान्त्विता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,6 +369,7 @@ you too have comforted me, isn't it. [3-21-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -354,6 +378,8 @@ you too have comforted me, isn't it. [3-21-7]
 ते तु रामेण सामर्षाः शूलपट्टिशपाणयः ।  
 समरे निहताः सर्वे सायकैर्मर्मभेदिभिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +440,15 @@ along with Lakshmana, isn't it? [3-21-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् भूमौ पतितान् दृष्ट्वा क्षणेनैव महाजवान् ।  
 रामस्य च महत्कर्म महांस्त्रासोऽभवन्मम ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +488,15 @@ deed of Rama in felling them, I am highly alarmed. [3-21-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सास्मि भीता समुद्विग्ना विषण्णा च निशाचर ।  
 शरणं त्वां पुनः प्राप्ता सर्वतो भयदर्शिनी ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +536,15 @@ everywhere again I have come seeking your refuge. [3-21-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषादनक्राध्युषिते परित्रासोर्मिमालिनि ।  
 किं मां न त्रायसे मग्नां विपुले शोकसागरे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +584,15 @@ is despair and each swelling wave is fright. [3-21-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते च निहता भूमौ रामेण निशितैः शरैः ।  
 ये च मे पदवीं प्राप्ता राक्षसाः पिशिताशनाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,6 +632,7 @@ for whom I have a contrite heart. [3-21-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -601,6 +640,8 @@ for whom I have a contrite heart. [3-21-13]
 रामेण यदि शक्तिस्ते तेजो वास्ति निशाचर ॥ १४ ॥  
 दण्डकारण्यनिलयं जहि राक्षसकण्टकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +689,15 @@ in Dandaka forest. [3-21-14, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि रामममित्रघ्नं न त्वमद्य वधिष्यसि ॥ १५ ॥  
 तव चैवाग्रतः प्राणांस्त्यक्ष्यामि निरपत्रपा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,12 +741,15 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्ध्याहमनुपश्यामि न त्वं रामस्य संयुगे ॥ १६ ॥  
 स्थातुं प्रतिमुखे शक्तः सबलोऽपि महारणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,6 +766,7 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 
 नीनु महासमरदल्लि बलाढ्यनागिद्दरू रामन ऎदुरिगॆ युद्धदल्लि निल्ललारॆ ऎन्दे ननगॆ बुद्धिपूर्वकवागि पदे-पदे अनिसुत्तिदॆ.॥16½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,6 +774,8 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 अपयाहि जनस्थानात् त्वरितः सहबान्धवः ।  
 जहि त्वं समरे मूढान्यथा तु कुलपांसन ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +817,15 @@ just vainglorious. [3-21-16b, 17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषौ तौ न शक्नोषि हन्तुं वै रामलक्ष्मणौ ।  
 निःसत्त्वस्याल्पवीर्यस्य वासस्ते कीदृशस्त्विह ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,6 +873,7 @@ access to Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -827,6 +881,8 @@ access to Ravana.
 स हि तेजःसमायुक्तो रामो दशरथात्मजः ॥ २० ॥  
 भ्राता चास्य महावीर्यो येन चास्मि विरूपिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,6 +924,7 @@ son Rama possess that kind of resplendence, in effect. [3-21-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -875,6 +932,8 @@ son Rama possess that kind of resplendence, in effect. [3-21-20]
 भ्रातुः समीपे शोकार्ता नष्टसञ्ज्ञा बभूव ह ।  
 कराभ्यामुदरं हत्वा रुरोद भृशदुःखिता ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -936,5 +995,6 @@ The name Khara also stands for a he-ass
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥21॥
+</details>
 </details>
 

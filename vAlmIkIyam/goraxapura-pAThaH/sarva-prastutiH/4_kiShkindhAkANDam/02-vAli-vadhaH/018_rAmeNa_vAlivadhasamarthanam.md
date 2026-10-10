@@ -2,6 +2,8 @@
 title = "०१८ रामेण वालिवधसमर्थनम्"
 title_english = "018 Rama s elucidation of dharma to vali"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -22,6 +24,7 @@ concludes that there is someone superior to him and thus seeks refuge in Rama.
 
 18. श्रीरामका वालीकी बातका उत्तर देते हुए उसे दिये गये दण्डका औचित्य बताना,वालीका निरुत्तर होकर भगवान् से अपने अपराधके लिये क्षमा माँगते हुए अङ्गदकी रक्षाके लिये प्रार्थना करना और श्रीरामका उसे आश्वासन देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ concludes that there is someone superior to him and thus seeks refuge in Rama.
 धर्मार्थगुणसम्पन्नं हरीश्वरमनुत्तमम् ।  
 अधिक्षिप्तस्तदा रामः पश्चाद् वालिनमब्रवीत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +117,15 @@ probity, meaningfulness, and expedience, to Rama. [4-18-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्ममर्थं च कामं च समयं चापि लौकिकम् ।  
 अविज्ञाय कथं बाल्यान्मामिहाद्य विगर्हसे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +165,15 @@ you rebuke me childishly in this matter? [4-18-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपृष्ट्वा बुद्धिसम्पन्नान् वृद्धानाचार्यसम्मतान् ।  
 सौम्य वानरचापल्यात् त्वं मां वक्तुमिहेच्छसि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +217,15 @@ matter with your primate's caprice. [4-18-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणामियं भूमिः सशैलवनकानना ।  
 मृगपक्षिमनुष्याणां निग्रहानुग्रहेष्वपि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +273,15 @@ this, "when entire earth belongs to us where is the question of a city or a part
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां पालयति धर्मात्मा भरतः सत्यवानृजुः ।  
 धर्मकामार्थतत्त्वज्ञो निग्रहानुग्रहे रतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,12 +322,15 @@ is the ruler of earth. [4-18-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नयश्च विनयश्चोभौ यस्मिन् सत्यं च सुस्थितम् ।  
 विक्रमश्च यथा दृष्टः स राजा देशकालवित् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,12 +373,15 @@ by scriptures is evident, and he who is the knower of time and place is the king
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य धर्मकृतादेशा वयमन्ये च पार्थिवाः ।  
 चरामो वसुधां कृत्स्नां धर्मसन्तानमिच्छवः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +433,15 @@ on his own shoulders, in his own duty as a Kshatriya to keep up dharma, Rama is 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् नृपतिशार्दूले भरते धर्मवत्सले ।  
 पालयत्यखिलां पृथ्वीं कश्चरेद् धर्मविप्रियम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +484,15 @@ is there to conduct himself in an unacceptable way to morality on it? [4-18-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वयं मार्गविभ्रष्टं स्वधर्मे परमे स्थिताः ।  
 भरताज्ञां पुरस्कृत्य निगृह्णीमो यथाविधि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +535,15 @@ who deviated from the path of morality, according to custom. [4-18-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु सङ्क्लिष्टधर्मश्च कर्मणा च विगर्हितः ।  
 कामतन्त्रप्रधानश्च न स्थितो राजवर्त्मनि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +592,15 @@ abided by conduct a king should have...' The nature of that guilt is narrated in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठो भ्राता पिता वापि यश्च विद्यां प्रयच्छति ।  
 त्रयस्ते पितरो ज्ञेया धर्मे च पथि वर्तिनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +640,15 @@ namely his own father, his elder brother, and the one who accords education to h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवीयानात्मनः पुत्रः शिष्यश्चापि गुणोदितः ।  
 पुत्रवत्ते त्रयश्चिन्त्या धर्मश्चैवात्र कारणम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +689,15 @@ one's own sons, for such matters take base on rectitude alone. [4-18-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूक्ष्मः परमदुर्ज्ञेयः सतां धर्मः प्लवङ्गम ।  
 हृदिस्थः सर्वभूतानामात्मा वेद शुभाशुभम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +743,15 @@ is to kill without probing into good or bad...' is answered saying that 'I am th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चपलश्चपलैः सार्धं वानरैरकृतात्मभिः ।  
 जात्यन्ध इव जात्यन्धैर्मन्त्रयन् प्रेक्षसे नु किम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +792,15 @@ only with frantic minded vacillant monkeys, what can you really fathom about rig
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु व्यक्ततामस्य वचनस्य ब्रवीमि ते ।  
 नहि मां केवलं रोषात् त्वं विगर्हितुमर्हसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,12 +843,15 @@ me just out of your outrage. [4-18-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतत् कारणं पश्य यदर्थं त्वं मया हतः ।  
 भ्रातुर्वर्तसि भार्यायां त्यक्त्वा धर्मं सनातनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +896,15 @@ of last chapter. Beyond this Rama also answers other paltry questions, later.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य त्वं धरमाणस्य सुग्रीवस्य महात्मनः ।  
 रुमायां वर्तसे कामात् स्नुषायां पापकर्मकृत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,12 +944,15 @@ in Kishkindha, 4-10-33.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् व्यतीतस्य ते धर्मात् कामवृत्तस्य वानर ।  
 भ्रातृभार्याभिमर्शेऽस्मिन् दण्डोऽयं प्रतिपादितः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -943,12 +999,15 @@ no hell is ensuing thereby...' is the reply, establishing Vali's sin.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि लोकविरुद्धस्य लोकवृत्तादपेयुषः ।  
 दण्डादन्यत्र पश्यामि निग्रहं हरियूथप ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,6 +1060,7 @@ by Manu: *sapiNDaapatya daareShu (retaH siktvaa) praaNa tyaago vidhiiyate - - ma
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1008,6 +1068,8 @@ by Manu: *sapiNDaapatya daareShu (retaH siktvaa) praaNa tyaago vidhiiyate - - ma
 औरसीं भगिनीं वापि भार्यां वाप्यनुजस्य यः ॥ २२ ॥  
 प्रचरेत नरः कामात् तस्य दण्डो वधः स्मृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,12 +1115,15 @@ brother is his elimination, as recalled from scriptures. [4-18-22, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु महीपालो वयं त्वादेशवर्तिनः ॥ २३ ॥  
 त्वं च धर्मादतिक्रान्तः कथं शक्यमुपेक्षितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,12 +1167,15 @@ overstepped the bounds of rightness, then how is it possible to be lenient? [4-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुधर्मव्यतिक्रान्तं प्राज्ञो धर्मेण पालयन् ॥ २४ ॥  
 भरतः कामयुक्तानां निग्रहे पर्यवस्थितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,12 +1210,15 @@ poised to put down lustful ones. [4-18-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वयं तु भरतादेशावधिं कृत्वा हरीश्वर ।  
 त्वद्विधान् भिन्नमर्यादान् निग्रहीतुं व्यवस्थिताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1191,6 +1262,7 @@ your kind of shatterers of ethics. [4-18-25b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1199,6 +1271,8 @@ your kind of shatterers of ethics. [4-18-25b, c]
 प्रतिज्ञा च मया दत्ता तदा वानरसन्निधौ ।  
 प्रतिज्ञा च कथं शक्या मद्विधेनानवेक्षितुम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1288,12 +1362,15 @@ Rama followed that only.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेभिः कारणैः सर्वैर्महद्भिर्धर्मसंश्रितैः ।  
 शासनं तव यद् युक्तं तद् भवाननुमन्यताम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1333,12 +1410,15 @@ that abound with virtue and with supreme value. [4-18-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा धर्म इत्येव द्रष्टव्यस्तव निग्रहः ।  
 वयस्यस्योपकर्तव्यं धर्ममेवानुपश्यता ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1378,6 +1458,7 @@ has to render assistance to his friend, in any event. [4-18-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1385,6 +1466,8 @@ has to render assistance to his friend, in any event. [4-18-29]
 श्रूयते मनुना गीतौ श्लोकौ चारित्रवत्सलौ ।  
 गृहीतौ धर्मकुशलैस्तथा तच्चरितं मया ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,6 +1514,7 @@ in those verses of law. [4-18-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,6 +1523,8 @@ in those verses of law. [4-18-30]
 शासनाद् वापि मोक्षाद् वा स्तेनः पापात् प्रमुच्यते ।  
 राजा त्वशासन् पापस्य तदवाप्नोति किल्बिषम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1514,12 +1600,15 @@ heaven as with the pious souls with good deeds.' So says one verse of Manu. [4-1
 
 (८ ।३१८,३१६)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्येण मम मान्धात्रा व्यसनं घोरमीप्सितम् ।  
 श्रमणेन कृते पापे यथा पापं कृतं त्वया ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1576,12 +1665,15 @@ long before Buddha's era.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यैरपि कृतं पापं प्रमत्तैर्वसुधाधिपैः ।  
 प्रायश्चित्तं च कुर्वन्ति तेन तच्छाम्यते रजः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1629,12 +1721,15 @@ if caught once, he has to pay for all his wrongdoings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं परितापेन धर्मतः परिकल्पितः ।  
 वधो वानरशार्दूल न वयं स्ववशे स्थिताः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1683,12 +1778,15 @@ criminals go unpunished, but let no innocent be punished.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृणु चाप्यपरं भूयः कारणं हरिपुङ्गव ।  
 तच्छ्रुत्वा हि महद् वीर न मन्युं कर्तुमर्हसि ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,6 +1826,7 @@ cause you will not be infuriated. [4-18-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1736,6 +1835,8 @@ cause you will not be infuriated. [4-18-36]
 प्रतिच्छन्नाश्च दृश्याश्च गृह्णन्ति सुबहून् मृगान् ।  
 प्रधावितान् वा वित्रस्तान् विस्रब्धानतिविष्ठितान् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1783,12 +1884,15 @@ humans deal with animals, should Vali declare himself an animal, if not a specif
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमत्तानप्रमत्तान् वा नरा मांसाशिनो भृशम् ।  
 विध्यन्ति विमुखांश्चापि न च दोषोऽत्र विद्यते ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1825,6 +1929,7 @@ is no sacrilege. [4-18-38b, 39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1835,6 +1940,8 @@ is no sacrilege. [4-18-38b, 39]
 अयुध्यन् प्रतियुध्यन् वा  
 यस्माच् छाखामृगो ह्य् असि ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
@@ -1898,12 +2005,15 @@ every right to kill you how, when, and where I like.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्लभस्य च धर्मस्य जीवितस्य शुभस्य च ।  
 राजानो वानरश्रेष्ठ प्रदातारो न संशयः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1936,12 +2046,15 @@ best vanara, no doubt about it. [4-18-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् न हिंस्यान्न चाक्रोशेन्नाक्षिपेन्नाप्रियं वदेत् ।  
 देवा मानुषरूपेण चरन्त्येते महीतले ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1986,12 +2099,15 @@ is spoken to them, as they are the divinities conducting themselves in human for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु धर्ममविज्ञाय केवलं रोषमास्थितः ।  
 विदूषयसि मां धर्मे पितृपैतामहे स्थितम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2065,12 +2181,15 @@ there is no unrighteous deed done by Rama. And Vali also accepts this in the com
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण वाली प्रव्यथितो भृशम् ।  
 न दोषं राघवे दध्यौ धर्मेऽधिगतनिश्चयः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2122,12 +2241,15 @@ with righteousness [owing to the dawn of death-time wisdom.] Dharmaakuutam.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्युवाच ततो रामं प्राञ्जलिर्वानरेश्वरः ।  
 यत् त्वमात्थ नरश्रेष्ठ तत् तथैव न संशयः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2168,6 +2290,7 @@ said is that way proper, undoubtedly. [4-18-45]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2177,6 +2300,8 @@ said is that way proper, undoubtedly. [4-18-45]
 त्वं हि दृष्टार्थतत्त्वज्ञः प्रजानां च हिते रतः ।  
 कार्यकारणसिद्धौ च प्रसन्ना बुद्धिरव्यया ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2253,12 +2378,15 @@ blameworthy, as I spoke them in anguish and ignorance. [4-18-46, 47a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मामप्यवगतं धर्माद् व्यतिक्रान्तपुरस्कृतम् ।  
 धर्मसंहितया वाचा धर्मज्ञ परिपालय ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2299,12 +2427,15 @@ is thus saying to Rama. [4-18-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पसंरुद्धकण्ठस्तु वाली सार्तरवः शनैः ।  
 उवाच रामं सम्प्रेक्ष्य पङ्कलग्न इव द्विपः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2344,12 +2475,15 @@ and with an agonised moan, on keenly observing Rama. [4-18-49]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चात्मानमहं शोचे न तारां नापि बान्धवान् ।  
 यथा पुत्रं गुणज्येष्ठमङ्गदं कनकाङ्गदम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2389,12 +2523,15 @@ son Angada, the best-virtuous one with golden bicep-lets. [4-18-50]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ममादर्शनाद् दीनो बाल्यात् प्रभृति लालितः ।  
 तटाक इव पीताम्बुरुपशोषं गमिष्यति ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2435,12 +2572,15 @@ and he withers away like a lake with its water drained for a drink. [4-18-51]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालश्चाकृतबुद्धिश्च एकपुत्रश्च मे प्रियः ।  
 तारेयो राम भवता रक्षणीयो महाबलः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2480,12 +2620,15 @@ needs your protection. [4-18-52]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवे चाङ्गदे चैव विधत्स्व मतिमुत्तमाम् ।  
 त्वं हि गोप्ता च शास्ता च कार्याकार्यविधौ स्थितः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2527,12 +2670,15 @@ of the good and punisher of the bad, hence treat both Sugreeva and Angada with e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या ते नरपते वृत्तिर्भरते लक्ष्मणे च या ।  
 सुग्रीवे चाङ्गदे राजंस्तां चिन्तयितुमर्हसि ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2572,12 +2718,15 @@ even towards Angada, which you have for Bharata and Lakshmana. [4-18-54]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मद्दोषकृतदोषां तां यथा तारां तपस्विनीम् ।  
 सुग्रीवो नावमन्येत तथावस्थातुमर्हसि ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2618,6 +2767,7 @@ his rival. [4-18-55]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2625,6 +2775,8 @@ his rival. [4-18-55]
 त्वद्वशे वर्तमानेन तव चित्तानुवर्तिना ॥ ५६ ॥  
 शक्यं दिवं चार्जयितुं वसुधां चापि शासितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2668,12 +2820,15 @@ achieve the heaven itself. [4-18-56, 57a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वत्तोऽहं वधमाकाङ्क्षन् वार्यमाणोऽपि तारया ॥ ५७ ॥  
 सुग्रीवेण सह भ्रात्रा द्वन्द्वयुद्धमुपागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2690,6 +2845,7 @@ achieve the heaven itself. [4-18-56, 57a]
 
 निन्न कैयिन्दले नन्न सावु आगलॆन्दे नानु बयसुत्तिद्दॆ. अदक्कागि तारॆयु तडॆदरू नानु नन्न तम्म सुग्रीवनॊडनॆ द्वन्द्वयुद्ध माडलु हॊरटुबन्दॆ.॥57½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2700,6 +2856,8 @@ achieve the heaven itself. [4-18-56, 57a]
 न वयं भवता चिन्त्या नाप्यात्मा हरिसत्तम ।  
 वयं भवद्विशेषेण धर्मतः कृतनिश्चयाः ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2792,12 +2950,15 @@ is the reverse of it. Perhaps gorilla war tactics started from this point onward
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दण्ड्ये यः पातयेद् दण्डं दण्ड्यो यश्चापि दण्ड्यते ।  
 कार्यकारणसिद्धार्थावुभौ तौ नावसीदतः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2842,12 +3003,15 @@ wrongdoing, and they both thereby will not be condemned. [4-18-61]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् भवान् दण्डसंयोगादस्माद् विगतकल्मषः ।  
 गतः स्वां प्रकृतिं धर्म्यां दण्डदिष्टेन वर्त्मना ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2893,12 +3057,15 @@ in the scriptures on rightness you attained your true nature, that which is agre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यज शोकं च मोहं च भयं च हृदये स्थितम् ।  
 त्वया विधानं हर्यग्र्य न शक्यमतिवर्तितुम् ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2938,12 +3105,15 @@ cannot possibly transcend destiny. [4-18-63]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा त्वय्यङ्गदो नित्यं वर्तते वानरेश्वर ।  
 तथा वर्तेत सुग्रीवे मयि चापि न संशयः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2983,6 +3153,7 @@ also even with me, without doubt." Thus Rama spoke to Vali. [4-18-64]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2991,6 +3162,8 @@ also even with me, without doubt." Thus Rama spoke to Vali. [4-18-64]
 निशम्य रामस्य रणावमर्दिनो  
 वचः सुयुक्तं निजगाद वानरः ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3042,6 +3215,7 @@ words to Rama. [4-18-65]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3050,6 +3224,8 @@ words to Rama. [4-18-65]
 इदं महेन्द्रोपमभीमविक्रम  
 प्रसादितस्त्वं क्षम मे नरेश्वर ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3107,5 +3283,6 @@ I appease you for the same. [4-18-66]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥18॥
+</details>
 </details>
 

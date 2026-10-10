@@ -2,6 +2,8 @@
 title = "०२६ ताटकावधः"
 title_english = "026 Elimination of demoness tATaka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -27,12 +29,15 @@ elder men's orders or not. Rama eradicates Tataka basing on his own self-confide
 
 षड्विंशे —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनेर्वचनमक्लीबं श्रुत्वा नरवरात्मजः ।  
 राघवः प्राञ्जलिर्भूत्वा प्रत्युवाच दृढव्रतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,6 +76,7 @@ man's son who is firm in his vows, reverently adjoining his palms replied the sa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,6 +85,8 @@ man's son who is firm in his vows, reverently adjoining his palms replied the sa
 अनुशिष्टोऽस्म्ययोध्यायां गुरुमध्ये महात्मना ।  
 पित्रा दशरथेनाहं नावज्ञेयं हि तद्वचः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +146,15 @@ Rama cannot be heedless of the words of both his father and teacher.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं पितुर्वचः श्रुत्वा शासनाद् ब्रह्मवादिनः ।  
 करिष्यामि न सन्देहस्ताटकावधमुत्तमम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,12 +202,15 @@ satyapi taaDakaavadham angiikR^itavaan - dharmaakuutam*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोब्राह्मणहितार्थाय देशस्य च हिताय च ।  
 तव चैवाप्रमेयस्य वचनं कर्तुमुद्यतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +251,15 @@ Vishvamitra. [1-26-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा धनुर्मध्ये बद‍्ध्वा मुष्टिमरिन्दमः ।  
 ज्याघोषमकरोत् तीव्रं दिशः शब्देन नादयन् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +313,15 @@ making all the directions to blast. [1-26-6]
 
 इति गुरु-वचन-परिपालनम् एव गरीयान् धर्म इति रामेणाङ्गीकृतम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शब्देन वित्रस्तास्ताटकावनवासिनः ।  
 ताटका च सुसङ्क्रुद्धा तेन शब्देन मोहिता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,12 +355,15 @@ stupefied by that sound, and she is intolerably infuriated at it. [1-26-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शब्दमभिनिध्याय राक्षसी क्रोधमूर्च्छिता ।  
 श्रुत्वा चाभ्यद्रवत् क्रुद्धा यत्र शब्दो विनिःसृतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +407,15 @@ wherefrom it emerged and she rancorously rushed thereto. [1-26-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा राघवः क्रुद्धां विकृतां विकृताननाम् ।  
 प्रमाणेनातिवृद्धां च लक्ष्मणं सोऽभ्यभाषत ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +455,15 @@ by proportions is very gigantic, furthermore infuriated, spoke to Lakshmana. [1-
 
 ततो ज्या-शब्द-श्रवण-प्रकुपिताम् अभिद्रवन्तीं ताडकाम् अभिलक्ष्य रामो लक्ष्मणम् अब्रवीत् —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण यक्षिण्या भैरवं दारुणं वपुः ।  
 भिद्येरन् दर्शनादस्या भीरूणां हृदयानि च ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +497,15 @@ of cowards are prone to burst. [1-26-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतां पश्य दुराधर्षां मायाबलसमन्विताम् ।  
 विनिवृत्तां करोम्यद्य हृतकर्णाग्रनासिकाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +540,15 @@ her to readily retreat by lopping off her ears and the tip of nose. [1-26-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्येनामुत्सहे हन्तुं स्त्रीस्वभावेन रक्षिताम् ।  
 वीर्यं चास्या गतिं चैव हन्यामिति हि मे मतिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +602,15 @@ to kill her, but I intend to terminate her impudence and mobility. [1-26-12]
 
 गुरु-वचन-गौरवात् ताडका-वधं प्रतिश्रुत्य स्त्री-स्वभावेन लक्षिताम् एनां न हनिष्यामीति रामेण कथम् उक्तम् इति चेत्, स्त्री-वधः सहसा न कर्तव्यः, विरूप-करणादि-स्त्री-दण्डनम् एव प्रथमतः क्रियते, तेन चातिक्रुद्धा स्वयम् एवाततायिन्य् आगमिष्यति इति, अनन्तरं तां हनिष्यामि, एवं च "आततायिनम् आयान्तं हन्याद् एवाविचारयन्" इति शास्त्रम् अप्य् अनुगृहीतं भवति; अनेन लोकापवादो ऽपि परिहृतो भविष्यति; गुर्व्-आज्ञापि च पालिता भवति इत्य् एतद्-अभिप्रायेण उक्तम् इति न विरोधः । तद्-वधो ऽनभिमतश् चेन् मारीचवन् मानवास्त्रेण दूरे प्रक्षिपेत् । तथा अकृत्वा हस्त-कर्ण-नासा-च्छेदनादि-मुखेनैव ताडका रामेण निषूदितेति उत्तरत्र प्रतिपादयिष्यते । एवं ब्रुवाणं रामं कोपेन पुनर् अभिद्रवन्तीं राघवाय जयम् आशंसमानो विश्वामित्रः निर्भर्त्सयामास ताम् । माया-बलेनाश्म-रजो-वर्षं वर्षन्तीं, निज-शर-निकृत्त-करां, सौमित्रि-ह्रत-कर्णाग्र-नासिकां, स्व-घृणावशेषित-प्राणां, निशाचर-बल-वृद्धिकर-संध्या-कालागमन-भीतेन घृणां निषेधता विश्वामित्रेण संचोदितो रामः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणे रामे तु ताटका क्रोधमूर्च्छिता ।  
 उद्यम्य बाहुं गर्जन्ती राममेवाभ्यधावत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +653,15 @@ towards Rama alone, swinging her arms. [1-26-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रस्तु ब्रह्मर्षिर्हुङ्कारेणाभिभर्त्स्य ताम् ।  
 स्वस्ति राघवयोरस्तु जयं चैवाभ्यभाषत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +695,15 @@ But the Brahma-sage Vishvamitra daunted sounded her off and said to Rama and Lak
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्धुन्वाना रजो घोरं ताटका राघवावुभौ ।  
 रजोमेघेन महता मुहूर्तं सा व्यमोहयत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +737,15 @@ with a massive cloud of dust. [1-26-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मायां समास्थाय शिलावर्षेण राघवौ ।  
 अवाकिरत् सुमहता ततश्चुक्रोध राघवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +779,15 @@ stone rain, by which Rama became indignant. [1-26-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिलावर्षं महत् तस्याः शरवर्षेण राघवः ।  
 प्रतिवार्योपधावन्त्याः करौ चिच्छेद पत्रिभिः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +821,15 @@ both of her arms with arrows while she rushed towards them. [1-26-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्छिन्नभुजां श्रान्तामभ्याशे परिगर्जतीम् ।  
 सौमित्रिरकरोत् क्रोधाद‍्धृतकर्णाग्रनासिकाम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +870,15 @@ them off. [1-26-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामरूपधरा सा तु कृत्वा रूपाण्यनेकशः ।  
 अन्तर्धानं गता यक्षी मोहयन्ती स्वमायया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,6 +925,7 @@ them with her illusoriness and discharging stone storms she moved about appallin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -880,6 +937,8 @@ them with her illusoriness and discharging stone storms she moved about appallin
 वध्यतां तावदेवैषा पुरा सन्ध्या प्रवर्तते ॥ २२ ॥  
 रक्षांसि सन्ध्याकाले तु दुर्धर्षाणि भवन्ति हि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,12 +1015,15 @@ from all-over, then the illustrious sage Vishvamitra spoke this sentence. [1-26-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः स तु तां यक्षीमश्मवृष्ट्याभिवर्षिणीम् ॥ २३ ॥  
 दर्शयन् शब्दवेधित्वं तां रुरोध स सायकैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,6 +1067,7 @@ with his arrows. [1-26-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1013,6 +1076,8 @@ with his arrows. [1-26-23b, 24a]
 तामापतन्तीं वेगेन विक्रान्तामशनीमिव ॥ २५ ॥  
 शरेणोरसि विव्याध सा पपात ममार च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,12 +1137,15 @@ dashed towards Rama and Lakshmana blaring stridently. [1-26-24b, 25a]
 
 ततस् तत्-कर्म-संतुष्ट-मानसैः करिष्यमाण-निशाचर-वधोपयोगि-भृशाश्व-तनयास्त्र-गणोपदेशं प्रार्थयमानैस् त्रिदशैः पूज्यमानेन, विश्वामित्र-महर्षिणा आलिङ्गनादि-पूर्वकम् उपलाल्यमानौ, सिद्ध-गण-संस्तूयमानौ तत्रैव सुखम् ऊषतुः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां हतां भीमसङ्काशां दृष्ट्वा सुरपतिस्तदा ॥ २६ ॥  
 साधु साध्विति काकुत्स्थं सुराश्चाप्यभिपूजयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,12 +1184,15 @@ have highly esteemed Rama saying, admirable, admirable is this act. [1-26-26b,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच परमप्रीतः सहस्राक्षः पुरन्दरः ॥ २७ ॥  
 सुराश्च सर्वे संहृष्टा विश्वामित्रमथाब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,12 +1227,15 @@ way. [1-26-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुने कौशिक भद्रं ते सेन्द्राः सर्वे मरुद्‍गणाः ॥ २८ ॥  
 तोषिताः कर्मणानेन स्नेहं दर्शय राघवे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,12 +1269,15 @@ are pleased, so you please show more concern for Raghava. [1-26-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजापतेः कृशाश्वस्य पुत्रान् सत्यपराक्रमान् ॥ २९ ॥  
 तपोबलभृतो ब्रह्मन् राघवाय निवेदय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,12 +1316,15 @@ weaponry and their birth, c.f. 21st sarga/chapter, verse 10 to 20.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पात्रभूतश्च ते ब्रह्मंस्तवानुगमने रतः ॥ ३० ॥  
 कर्तव्यं सुमहत् कर्म सुराणां राजसूनुना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1360,15 @@ So said gods to Vishvamitra. [1-26-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुराः सर्वे जग्मुर्हृष्टा विहायसम् ॥ ३१ ॥  
 विश्वामित्रं पूजयन्तस्ततः सन्ध्या प्रवर्तते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,12 +1402,15 @@ to heavens, and then the sunset has come to pass. [1-26-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मुनिवरः प्रीतस्ताटकावधतोषितः ॥ ३२ ॥  
 मूर्ध्नि राममुपाघ्राय इदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,12 +1444,15 @@ kissed the forehead of and then said this sentence. [1-26-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहाद्य रजनीं राम वसाम शुभदर्शन ॥ ३३ ॥  
 श्वः प्रभाते गमिष्यामस्तदाश्रमपदं मम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1402,12 +1491,15 @@ we will go to that hermitage of mine. So said Vishvamitra to Rama. [1-26-33b, 34
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा हृष्टो दशरथात्मजः ॥ ३४ ॥  
 उवास रजनीं तत्र ताटकाया वने सुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1441,12 +1533,15 @@ that night there in that forest of Tataka. [1-26-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तशापं वनं तच्च तस्मिन्नेव तदाहनि ।  
 रमणीयं विबभ्राज यथा चैत्ररथं वनम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1481,6 +1576,7 @@ it shone forth like the luxurious heavenly garden of Kubera, namely Chiatra Rath
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1489,6 +1585,8 @@ it shone forth like the luxurious heavenly garden of Kubera, namely Chiatra Rath
 उवास तस्मिन् मुनिना सहैव  
 प्रभातवेलां प्रतिबोध्यमानः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,5 +1635,6 @@ only to be awakened by the next day's sunrise. [1-26-36]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तारनॆय सर्ग पूर्णवायितु. ॥26॥
+</details>
 </details>
 

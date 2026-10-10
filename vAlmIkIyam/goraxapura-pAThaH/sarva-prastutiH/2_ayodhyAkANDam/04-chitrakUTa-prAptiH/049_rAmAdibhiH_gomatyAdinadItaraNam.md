@@ -2,6 +2,8 @@
 title = "०४९ रामादिभिः गोमत्यादिनदीतरणम्"
 title_english = "049 Rama crossed three rivers"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ Syandika rivers. He presses forward in the chariot talking with Sumantra.
 
 49. ग्रामवासियोंकी बातें सुनते हुए श्रीरामका कोसल जनपदको लाँघते हुए आगे जाना और वेदश्रुति, गोमती एवं स्यन्दिका नदियोंको पार करके सुमन्त्रसे कुछ कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽपि रात्रिशेषेण तेनैव महदन्तरम् ।  
 जगाम पुरुषव्याघ्रः पितुराज्ञामनुस्मरन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ long distance during the rest of the night.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव गच्छतस्तस्य व्यपायाद् रजनी शिवा ।  
 उपास्य तु शिवां सन्ध्यां विषयानत्यगाहत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ Having worshipped the blissful morning twilight, he passed beyond the boundary o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रामान् विकृष्टसीमान्तान् पुष्पितानि वनानि च ।  
 पश्यन्नतिययौ शीघ्रं शनैरिव हयोत्तमैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ the sights).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृण्वन् वाचो मनुष्याणां ग्रामसंवासवासिनाम् ।  
 राजानं धिग् दशरथं कामस्य वशमास्थितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +203,15 @@ _________________
 
 दारियल्लि सिगुव सण्ण-दॊड्ड हळ्ळिगळल्लि वासिसुव जनरु आडुत्तिद्द मातुगळु श्रीरामन किविगॆ बीळुत्तिद्दवु. अवु हीगिद्दवु - अय्यो! कामक्कॆ वशनाद दशरथनिगॆ धिक्कारविरलि.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा नृशंसाद्य कैकेयी पापा पापानुबन्धिनी ।  
 तीक्ष्णा सम्भिन्नमर्यादा तीक्ष्णकर्मणि वर्तते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +228,15 @@ _________________
 
 अय्यो शिवने! पापासक्त, पापिणि, क्रूरळाद, धर्मद मेरॆ मीरिद कैकेयिगॆयादरो दयॆये स्पर्शिसलिल्ल. क्रूरळाद अवळु ईग निष्ठुर कर्मदल्ले तॊडगिरुवळु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या पुत्रमीदृशं राज्ञः प्रवासयति धार्मिकम् ।  
 वनवासे महाप्राज्ञं सानुक्रोशं जितेन्द्रियम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +279,15 @@ propriety"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नाम महाभागा सीता जनकनन्दिनी ।  
 सदा सुखेष्वभिरता दुःखान्यनुभविष्यति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +321,15 @@ homely comforts can now experience hardships in the forest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो दशरथो राजा निःस्नेहः स्वसुतं प्रति ।  
 प्रजानामनघं रामं परित्यक्तुमिहेच्छति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +370,15 @@ abandon Rama who is so beloved to the people and is even faultless."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता वाचो मनुष्याणां ग्रामसंवासवासिनाम् ।  
 शृण्वन्नतिययौ वीरः कोसलान् कोसलेश्वरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +418,15 @@ prince of Kosala crossed the boundaries of Kosala state.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वेदश्रुतिं नाम शिववारिवहां नदीम् ।  
 उत्तीर्याभिमुखः प्रायादगस्त्याध्युषितां दिशम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +466,15 @@ forth, facing the quarter occupied by Sage Agastya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गत्वा तु सुचिरं कालं ततः शीतवहां नदीम् ।  
 गोमतीं गोयुतानूपामतरत् सागरङ्गमाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +515,15 @@ beautiful waters, whose banks were adorned with cows and which headed towards th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोमतीं चाप्यतिक्रम्य राघवः शीघ्रगैर्हयैः ।  
 मयूरहंसाभिरुतां ततार स्यन्दिकां नदीम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +566,15 @@ Rama crossed the river called Syandika which had resounded with howls of peacock
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स महीं मनुना राज्ञा दत्तामिक्ष्वाकवे पुरा ।  
 स्फीतां राष्ट्रवृतां रामो वैदेहीमन्वदर्शयत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +616,15 @@ territories.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूत इत्येव चाभाष्य सारथिं तमभीक्ष्णशः ।  
 हंसमत्तस्वरः श्रीमानुवाच पुरुषोत्तमः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +666,15 @@ spoke as follows :
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदाहं पुनरागम्य सरय्वाः पुष्पिते वने ।  
 मृगयां पर्यटिष्यामि मात्रा पित्रा च सङ्गतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +715,15 @@ forest, bordering on Sarayu river and laden with blossoms?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नात्यर्थमभिकाङ्क्षामि मृगयां सरयूवने ।  
 रतिर्ह्येषातुला लोके राजर्षिगणसम्मता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,12 +740,15 @@ forest, bordering on Sarayu river and laden with blossoms?"
 
 नानु सरयुविन वनगळल्लि बेटॆयाडलु हॆच्चु बयसुवुदिल्ल. इदु जगत्तिनल्लि राजर्षि समुदायक्कॆ अभिमतवाद ऒन्दु प्रकारद अनुपम क्रीडॆयागिदॆ.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने ।  
 काले कृतां तां मनुजैर्धन्विनामभिकाङ्क्षिताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +792,15 @@ But I do not long for it excessively."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमध्वानमैक्ष्वाकः सूतं मधुरया गिरा ।  
 तं तमर्थमभिप्रेत्य ययौ वाक्यमुदीरयन् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,5 +850,6 @@ advanced thus along that route.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥49॥
+</details>
 </details>
 

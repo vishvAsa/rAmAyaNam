@@ -2,6 +2,8 @@
 title = "०९५ मन्दाकिनीसौन्दर्यम्-अधिकापातः"
 title_english = "095 Rama and Seetha spend some time at Mandakini River"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ of their time in enjoying the charms of Chitrakuta mountain.
 
 95. श्रीरामका सीताके प्रति मन्दाकिनी नदीकी शोभाका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ शैलाद् विनिष्क्रम्य मैथिलीं कोसलेश्वरः ।  
 अदर्शयच्छुभजलां रम्यां मन्दाकिनीं नदीम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ waters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च वरारोहां चन्द्रचारुनिभाननाम् ।  
 विदेहराजस्य सुतां रामो राजीवलोचनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ elegant waist and whose face resembled the moon:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्रपुलिनां रम्यां हंससारससेविताम् ।  
 कुसुमैरुपसम्पन्नां पश्य मन्दाकिनीं नदीम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ frequented by swans and geese and laden with flowers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविधैस्तीररुहैर्वृतां पुष्पफलद्रुमैः ।  
 राजन्तीं राजराजस्य नलिनीमिव सर्वतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ Yakshas)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगयूथनिपीतानि कलुषाम्भांसि साम्प्रतम् ।  
 तीर्थानि रमणीयानि रतिं सञ्जनयन्ति मे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +268,15 @@ turbid, create ecstasy in me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटाजिनधराः काले वल्कलोत्तरवाससः ।  
 ऋषयस्त्ववगाहन्ते नदीं मन्दाकिनीं प्रिये ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +318,15 @@ hour."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यमुपतिष्ठन्ते नियमादूर्ध्वबाहवः ।  
 एते परे विशालाक्षि मुनयः संशितव्रताः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ sun with uplifted arms; as per the scriptural injunctions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुतोद‍्धूतशिखरैः प्रनृत्त इव पर्वतः ।  
 पादपैः पुष्पपत्राणि सृजद्भिरभितो नदीम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +417,15 @@ on both sides of the river cause the mountain to appear as though it were dancin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचिन्मणिनिकाशोदां क्वचित् पुलिनशालिनीम् ।  
 क्वचित् सिद्धजनाकीर्णां पश्य मन्दाकिनीं नदीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +471,15 @@ Siddha: A class of semi-divine beings endowed with mystic powers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्धूतान् वायुना पश्य विततान् पुष्पसञ्चयान् ।  
 पोप्लूयमानानपरान् पश्य त्वं तनुमध्यमे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ heaps of flowers floating, O lady with slender waist!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यैतद्वल्गुवचसो रथाङ्गाह्वयना द्विजाः ।  
 अधिरोहन्ति कल्याणि निष्कूजन्तः शुभा गिरः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +568,15 @@ harmonious tones."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनं चित्रकूटस्य मन्दाकिन्याश्च शोभने ।  
 अधिकं पुरवासाच्च मन्ये तव च दर्शनात् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +617,15 @@ sight, to be more delightful than dwelling in the City of Ayodhya, O, lovely wom
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधूतकल्मषैः सिद्धैस्तपोदमशमान्वितैः ।  
 नित्यविक्षोभितजलां विगाहस्व मया सह ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,12 +666,15 @@ the waters. You too should take a dip in the river along with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सखीवच्च विगाहस्व सीते मन्दाकिनीं नदीम् ।  
 कमलान्यवमज्जन्ती पुष्कराणि च भामिनि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +714,15 @@ white lotuses in it- O, Lovely Seetha!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं पौरजनवद् व्यालानयोध्यामिव पर्वतम् ।  
 मन्यस्व वनिते नित्यं सरयूवदिमां नदीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +763,15 @@ mountain of Chitrakuta as the city of Ayodhya and this river as the Sarayu from 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्चैव धर्मात्मा मन्निदेशे व्यवस्थितः ।  
 त्वं चानुकूला वैदेहि प्रीतिं जनयती मम ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +811,15 @@ well-disposed, causing delight to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्पृशंस्त्रिषवणं मधुमूलफलाशनः ।  
 नायोध्यायै न राज्याय स्पृहये च त्वया सह ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,6 +862,7 @@ your company, I do not desire for the kingdom nor do I long for Ayodhya now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -817,6 +871,8 @@ your company, I do not desire for the kingdom nor do I long for Ayodhya now."
 सुपुष्पितां पुष्पभरैरलङ्कृतां  
 न सोऽस्ति यः स्यान्न गतक्लमः सुखी ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,6 +920,7 @@ and monkeys, come here to drink and which is adorned with innumerable flowers in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -872,6 +929,8 @@ and monkeys, come here to drink and which is adorned with innumerable flowers in
 चचार रम्यं नयनाञ्जनप्रभं  
 स चित्रकूटं रघुवंशवर्धनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,5 +987,6 @@ Chitrakuta which was shining like a piece of collieries."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तैदनॆय सर्ग पूर्णवायितु.॥95॥
+</details>
 </details>
 

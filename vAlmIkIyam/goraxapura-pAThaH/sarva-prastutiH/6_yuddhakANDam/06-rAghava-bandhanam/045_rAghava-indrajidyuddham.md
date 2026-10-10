@@ -2,6 +2,8 @@
 title = "०४५ राघव-इन्द्रजिद्युद्धम्"
 title_english = "045 Two scions of Raghu dynasty fall on the ground"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Kishkindha Kanda - Book Of War**
@@ -23,12 +25,15 @@ state, the monkeys give way to utter despondence.
 
 45. इन्द्रजित् के बाणोंसे श्रीराम और लक्ष्मणका अचेत होना और वानरोंका शोक करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य गतिमन्विच्छन् राजपुत्रः प्रतापवान् ।  
 दिदेशातिबलो रामो दश वानरयूथपान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +73,7 @@ search for the whereabouts of Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ search for the whereabouts of Indrajit.
 द्विविदं च हनूमन्तं सानुप्रस्थं महाबलम् ।  
 ऋषभं चर्षभस्कन्धमादिदेश परन्तपः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ Rishabha and Rishabha skandha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सम्प्रहृष्टा हरयो भीमानुद्यम्य पादपान् ।  
 आकाशं विविशुः सर्वे मार्गमाणा दिशो दश ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ of trees in order to explore the ten regions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां वेगवतां वेगमिषुभिर्वेगवत्तरैः ।  
 अस्त्रवित् परमास्त्रस्तु वारयामास रावणिः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +228,15 @@ of the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं भीमवेगा हरयो नाराचैः क्षतविक्षताः ।  
 अन्धकारे न ददृशुर्मेघैः सूर्यमिवावृतम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ unable to see Indrajit in the darkness, as the sun is obscured when veiled in cl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणयोरेव सर्वदेहभिदः शरान् ।  
 भृशमावेशयामास रावणिः समितिञ्जयः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ lacerated their flesh in great measure.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरन्तरशरीरौ तु तावुभौ रामलक्ष्मणौ ।  
 क्रुद्धेनेन्द्रजिता वीरौ पन्नगैः शरतां गतैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ arrows by the enraged Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः क्षतजमार्गेण सुस्राव रुधिरं बहु ।  
 तावुभौ च प्रकाशेते पुष्पिताविव किंशुकौ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ Kimshuka trees in flowring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पर्यन्तरक्ताक्षो भिन्नाञ्जनचयोपमः ।  
 रावणिर्भ्रातरौ वाक्यमन्तर्धानगतोऽब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ which resembled a mass of collyrium mixed with oil, spoke the following words to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युध्यमानमनालक्ष्यं शक्रोऽपि त्रिदशेश्वरः ।  
 द्रष्टुमासादितुं वापि न शक्तः किं पुनर्युवाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ is not able to see or approach me. How much less, you two!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रापिताविषुजालेन राघवौ कङ्कपत्रिणा ।  
 एष रोषपरीतात्मा नयामि यमसादनम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +570,15 @@ the region of Yama the Lord of Death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु धर्मज्ञौ भ्रातरौ रामलक्ष्मणौ ।  
 निर्बिभेद शितैर्बाणैः प्रजहर्ष ननाद च ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +618,15 @@ pierced them with pointed arrows and shouted too exultantly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिन्नाञ्जनचयश्यामो विस्फार्य विपुलं धनुः ।  
 भूय एव शरान् घोरान् विससर्ज महामृधे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,12 +666,15 @@ discharged formidable arrows even once more, in that great fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मर्मसु मर्मज्ञो मज्जयन् निशितान् शरान् ।  
 रामलक्ष्मणयोर्वीरो ननाद च मुहुर्मुहुः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +714,15 @@ digging sharp arrows into the vital parts of Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धौ तु शरबन्धेन तावुभौ रणमूर्धनि ।  
 निमेषान्तरमात्रेण न शेकतुरवेक्षितुम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +762,15 @@ the twinkling of an eye, became incapable of even looking up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विभिन्नसर्वाङ्गौ शरशल्याचितौ कृतौ ।  
 ध्वजाविव महेन्द्रस्य रज्जुमुक्तौ प्रकम्पितौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -737,12 +787,15 @@ the twinkling of an eye, became incapable of even looking up.
 
 हीगॆ अवर शरीरगळॆल्ल बाणगळिन्द छिन्नवादुवु, बाणगळिन्द व्याप्तरागिद्दरु. हग्गहरिद ऎरडु इन्द्रध्वजगळन्तॆ आ राजकुमाररु ओलाडतॊडगिदरु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ सम्प्रचलितौ वीरौ मर्मभेदेन कर्शितौ ।  
 निपेततुर्महेष्वासौ जगत्यां जगतीपती ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +833,15 @@ like a pair of flag-staffs in honour of Indra the Lord celestials and freed from
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ वीरशयने वीरौ शयानौ रुधिरोक्षितौ ।  
 शरवेष्टितसर्वाङ्गावार्तौ परमपीडितौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,12 +884,15 @@ bathed in blood, all their limbs bristling with arrows and extremely injured, fe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्यविद्धं तयोर्गात्रे बभूवाङ्गुलमन्तरम् ।  
 नानिर्विण्णं न चाध्वस्तमाकराग्रादजिह्मगैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,12 +936,15 @@ end of their feet that was not lacerated, implanted and pierced by those arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु क्रूरेण निहतौ रक्षसा कामरूपिणा ।  
 असृक् सुस्रुवतुस्तीव्रं जलं प्रस्रवणाविव ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,12 +984,15 @@ blood gushed forth from both Rama and Lashmana, as water from a spring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पपात प्रथमं रामो विद्धो मर्मसु मार्गणैः ।  
 क्रोधादिन्द्रजिता येन पुरा शक्रो विनिर्जितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,6 +1032,7 @@ formerly vanquished Indra the Lord of celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -974,6 +1040,8 @@ formerly vanquished Indra the Lord of celestials.
 नाराचैरर्धनाराचैर्भल्लैरञ्जलिकैरपि ।  
 विव्याध वत्सदन्तैश्च सिंहदंष्ट्रैः क्षुरैस्तथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,12 +1091,15 @@ dantas and those shafts like unto razors.
 
 १. जिसका अग्रभाग सीधा और गोल हो, उस बाणको ‘नाराच’ कहते हैं । २. अर्ध भागमें नाराचकी समानता रखनेवाले बाण ‘अर्धनाराच’ कहलाते हैं । ३. जिनका अग्रभाग फरसेके समान हो, उस बाणकी ‘भल्ल’ संज्ञा है । आधुनिक भालेको भी भल्ल कहते हैं । ४. जिसका मुखभाग दोनों हाथोंकी अञ्जलिके समान हो, वह बाण ‘अञ्जलिक’ कहा गया है । ५. जिसका अग्रभाग बछड़ेके दाँतोंके समान दिखायी देता हो, उस बाणकी ‘वत्सदन्त’ संज्ञा होती है । ६. सिंहकी दाढ़के समान अग्रभागवाला बाण । ७. जिसका अग्रभाग क्षुरेकी धारके समान हो, उस बाणको ‘क्षुर’ कहते हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वीरशयने शिश्येऽविज्यमाविध्य कार्मुकम् ।  
 भिन्नमुष्टिपरीणाहं त्रिनतं रुक्मभूषितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ away and detached from the hold of his fist, Rama lied down on the battle-ground
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणपातान्तरे रामं पतितं पुरुषर्षभम् ।  
 स तत्र लक्ष्मणो दृष्ट्वा निराशो जीवितेऽभवत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1187,15 @@ hopeless about his own life.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं कमलपत्राक्षं शरण्यं रणतोषिणम् ।  
 शुशोच भ्रातरं दृष्ट्वा पतितं धरणीतले ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,12 +1235,15 @@ the ground, wounded as he was by a net work of arrows, Lakshmana felt sad.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरयश्चापि तं दृष्ट्वा सन्तापं परमं गताः ।  
 शोकार्ताश्चुक्रुशुर्घोरमश्रुपूरितलोचनाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,6 +1277,7 @@ eyes filled in tears, being afflicted as they were by sorrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1205,6 +1286,8 @@ eyes filled in tears, being afflicted as they were by sorrow.
 समागता वायुसुतप्रमुख्या  
 विषादमार्ताः परमं च जग्मुः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,5 +1344,6 @@ disturbed and afflicted sorrow.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तैदनॆय सर्ग पूर्णवायितु.॥45॥
+</details>
 </details>
 

@@ -1,6 +1,8 @@
 +++
 title = "०५३ रावणादेशेन राक्षसकृतहनुमत्पुच्छाग्निस्पर्शः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -24,12 +26,15 @@ door of the gate and kills all the security-guards there.
 
 53. राक्षसोंका हनुमान् जी की पूँछमें आग लगाकर उन्हें नगरमें घुमाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा दशग्रीवो महात्मनः ।  
 देशकालहितं वाक्यं भ्रातुरुत्तरमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ Vibhishana, his brother, Ravana spoke the following words in reply:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्यगुक्तं हि भवता दूतवध्या विगर्हिता ।  
 अवश्यं तु वधायान्यः क्रियतामस्य निग्रहः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ other than killing needs be certainly meted out to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपीनां किल लाङ्गूलमिष्टं भवति भूषणम् ।  
 तदस्य दीप्यतां शीघ्रं तेन दग्धेन गच्छतु ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ be burn immediately. Let him go with a burnt tail."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पश्यन्त्वमुं दीनमङ्गवैरूप्यकर्शितम् ।  
 सुमित्रज्ञातयः सर्वे बान्धवाः ससुहृज्जनाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ him miserably injured with his deformed limbs."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञापयद् राक्षसेन्द्रः पुरं सर्वं सचत्वरम् ।  
 लाङ्गूलेन प्रदीप्तेन रक्षोभिः परिणीयताम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ in the entire city around its cross-roads."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राक्षसाः कोपकर्कशाः ।  
 वेष्टन्ते तस्य लाङ्गूलं जीर्णैः कार्पासिकैः पटैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ old ragged clothes around Hanuma's tail.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवेष्ट्यमाने लाङ्गूले व्यवर्धत महाकपिः ।  
 शुष्कमिन्धनमासाद्य वनेष्विव हुताशनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,6 +374,7 @@ after catching dry wood in forests.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -358,6 +382,8 @@ after catching dry wood in forests.
 लाङ्गूलेन प्रदीप्तेन राक्षसांस्तानताडयत् ॥ ८ ॥  
 रोषामर्षपरीतात्मा बालसूर्यसमाननः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +431,15 @@ down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भूयः सङ्गतैः क्रूरै राक्षसैर्हरिपुङ्गवः ॥ ९ ॥  
 सहस्त्रीबालवृद्धाश्च जग्मुः प्रीतिं निशाचराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,6 +482,7 @@ chldren and elders went there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -460,6 +490,8 @@ chldren and elders went there.
 कामं खलु न मे शक्ता निबद्धस्यापि राक्षसाः ।  
 छित्त्वा पाशान् समुत्पत्य हन्यामहमिमान् पुनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -527,12 +559,15 @@ among monkeys made up his mind appropriate for that occasion (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि भर्तृहितार्थाय चरन्तं भर्तृशासनात् ।  
 निबध्नन्ते दुरात्मानो न तु मे निष्कृतिः कृता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +610,15 @@ of the command by their lord, no rebuff has been done to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषामेव पर्याप्तो राक्षसानामहं युधि ।  
 किं तु रामस्य प्रीत्यर्थं विषहिष्येऽहमीदृशम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,12 +632,15 @@ _________________
 
 ‘मैं युद्धस्थलमें अकेला ही इन समस्त राक्षसोंका संहार करनेमें पूर्णतः समर्थ हूँ, किंतु इस समय श्रीरामचन्द्रजीकी प्रसन्नताके लिये मैं ऐसे बन्धनको चुपचाप सह लूँगा ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्का चारयितव्या मे पुनरेव भवेदिति ।  
 रात्रौ नहि सुदृष्टा मे दुर्गकर्मविधानतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,6 +677,7 @@ such city of Lanka is fit to be espionaged again. For this reason, I am putting 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -643,6 +685,8 @@ such city of Lanka is fit to be espionaged again. For this reason, I am putting 
 कामं बध्नन्तु मे भूयः पुच्छस्योद्दीपनेन च ॥ १५ ॥  
 पीडां कुर्वन्ति रक्षांसि न मेऽस्ति मनसः श्रमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,6 +726,7 @@ when it was seen by me during the night. Surely, it is to be seen by me during t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -690,6 +735,8 @@ when it was seen by me during the night. Surely, it is to be seen by me during t
 शङ्खभेरीनिनादैश्च घोषयन्तः स्वकर्मभिः ॥ १७ ॥  
 राक्षसाः क्रूरकर्माणश्चारयन्ति स्म तां पुरीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,6 +807,7 @@ There will be no travail to my mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -767,6 +815,8 @@ There will be no travail to my mind."
 हनूमांश्चारयामास राक्षसानां महापुरीम् ।  
 अथापश्यद् विमानानि विचित्राणि महाकपिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,6 +887,7 @@ of the pleasure-garden, the demons performing terrible deeds, dragged Hanuma thr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -844,6 +895,8 @@ of the pleasure-garden, the demons performing terrible deeds, dragged Hanuma thr
 रथ्याश्च गृहसम्बाधाः कपिः शृङ्गाटकानि च ॥ २० ॥  
 तथा रथ्योपरथ्याश्च तथैव च गृहान्तरान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,12 +936,15 @@ ways.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चत्वरेषु चतुष्केषु राजमार्गे तथैव च ॥ २१ ॥  
 घोषयन्ति कपिं सर्वे चार इत्येव राक्षसाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,12 +991,15 @@ like clouds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीबालवृद्धा निर्जग्मुस्तत्र तत्र कुतूहलात् ॥ २२ ॥  
 तं प्रदीपितलाङ्गूलं हनूमन्तं दिदृक्षवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -982,12 +1041,15 @@ saying that Hanuma was a spy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्यमाने ततस्तस्य लाङ्गूलाग्रे हनूमतः ॥ २३ ॥  
 राक्षस्यस्ता विरूपाक्ष्यः शंसुर्देव्यास्तदप्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1031,12 +1093,15 @@ to see that Hanuma with his burning tail.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्त्वया कृतसंवादः सीते ताम्रमुखः कपिः ॥ २४ ॥  
 लाङ्गूलेन प्रदीप्तेन स एष परिणीयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1078,12 +1143,15 @@ with monstrous eyes then informed that unpleasant matter to Seetha, the princess
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तद् वचनं क्रूरमात्मापहरणोपमम् ॥ २५ ॥  
 वैदेही शोकसन्तप्ता हुताशनमुपागमत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1127,12 +1195,15 @@ around in the city, with his ignited tail."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मङ्गलाभिमुखी तस्य सा तदासीन्महाकपेः ॥ २६ ॥  
 उपतस्थे विशालाक्षी प्रयता हव्यवाहनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1174,12 +1245,15 @@ Ravana, Seetha was tormented with grief and started to pay homage to the fire-go
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यस्ति पतिशुश्रूषा यद्यस्ति चरितं तपः ।  
 यदि वा त्वेकपत्नीत्वं शीतो भव हनूमतः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1223,12 +1297,15 @@ her devoted self.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि किञ्चिदनुक्रोशस्तस्य मय्यस्ति धीमतः ।  
 यदि वा भाग्यशेषो मे शीतो भव हनूमतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,12 +1347,15 @@ a faithful wife, please be cool to Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां वृत्तसम्पन्नां तत्समागमलालसाम् ।  
 स विजानाति धर्मात्मा शीतो भव हनूमतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,12 +1399,15 @@ remaining to my credit, please be cool to Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां तारयेदार्यः सुग्रीवः सत्यसङ्गरः ।  
 अस्माद् दुःखाम्बुसंरोधाच्छीतो भव हनूमतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1367,12 +1450,15 @@ and who is ardently desirous of meeting him, please be cool to Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तीक्ष्णार्चिरव्यग्रः प्रदक्षिणशिखोऽनलः ।  
 जज्वाल मृगशावाक्ष्याः शंसन्निव शुभं कपेः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1414,12 +1500,15 @@ of sorrow, please be cool to Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमज्जनकश्चैव पुच्छानलयुतोऽनिलः ।  
 ववौ स्वास्थ्यकरो देव्याः प्रालेयानिलशीतलः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1464,12 +1553,15 @@ Hanuma, shone brightly with sharp flames, undisteurbed and shooting out pointed 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दह्यमाने च लाङ्गूले चिन्तयामास वानरः ।  
 प्रदीप्तोऽग्निरयं कस्मान्न मां दहति सर्वतः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1512,12 +1604,15 @@ like a snow-breeze, creating a solace to Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृश्यते च महाज्वालः करोति च न मे रुजम् ।  
 शिशिरस्येव सम्पातो लाङ्गूलाग्रे प्रतिष्ठितः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1538,12 +1633,15 @@ _________________
 
 ‘इसमें इतनी ऊँची ज्वाला उठती दिखायी देती है, तथापि यह आग मुझे पीड़ा नहीं दे रही है । मालूम होता है मेरी पूँछके अग्रभागमें बर्फका ढेर-सा रख दिया गया है ॥ ३४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वा तदिदं व्यक्तं यद् दृष्टं प्लवता मया ।  
 रामप्रभावादाश्चर्यं पर्वतः सरितां पतौ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1603,12 +1701,15 @@ all sides, was not burning him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तावत् समुद्रस्य मैनाकस्य च धीमतः ।  
 रामार्थं सम्भ्रमस्तादृक् किमग्निर्न करिष्यति ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1629,12 +1730,15 @@ _________________
 
 ‘यदि श्रीरामके उपकारके लिये समुद्र और बुद्धिमान् मैनाकके मनमें वैसी आदरपूर्ण उतावली देखी गयी तो क्या अग्निदेव उन भगवान् के उपकारके लिये शीतलता नहीं प्रकट करेंगे? ॥ ३६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतायाश्चानृशंस्येन तेजसा राघवस्य च ।  
 पितुश्च मम सख्येन न मां दहति पावकः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1694,6 +1798,7 @@ is clear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1701,6 +1806,8 @@ is clear."
 कथमस्मद्विधस्येह बन्धनं राक्षसाधमैः ॥ ३८ ॥  
 प्रतिक्रियास्य युक्ता स्यात् सति मह्यं पराक्रमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1723,12 +1830,15 @@ _________________
 
 तदनन्तर कपिकुञ्जर हनुमान् ने पुनः एक मुहूर्ततक इस प्रकार विचार किया ‘मेरे-जैसे पुरुषका यहाँ इन नीच निशाचरोंद्वारा बाँधा जाना कैसे उचित हो सकता है? पराक्रम रहते हुए मुझे अवश्य इसका प्रतीकार करना चाहिये’ ॥ ३८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्छित्त्वा च तान् पाशान् वेगवान् वै महाकपिः ॥ ३९ ॥  
 उत्पपाताथ वेगेन ननाद च महाकपिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1786,12 +1896,15 @@ of my father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरद्वारं ततः श्रीमान् शैलशृङ्गमिवोन्नतम् ॥ ४० ॥  
 विभक्तरक्षःसम्बाधमाससादानिलात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1834,6 +1947,7 @@ high and stood secluded from the crowds of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1841,6 +1955,8 @@ high and stood secluded from the crowds of demons.
 ह्रस्वतां परमां प्राप्तो बन्धनान्यवशातयत् ।  
 विमुक्तश्चाभवच्छ्रीमान् पुनः पर्वतसन्निभः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1910,6 +2026,7 @@ an exceedingly short form, thus becoming free from his tethers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1917,6 +2034,8 @@ an exceedingly short form, thus becoming free from his tethers.
 स तं गृह्य महाबाहुः कालायसपरिष्कृतम् ।  
 रक्षिणस्तान् पुनः सर्वान् सूदयामास मारुतिः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1959,6 +2078,7 @@ That long-armed Hanuma, again taking taht rod made of iron, killed all those gua
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1967,6 +2087,8 @@ That long-armed Hanuma, again taking taht rod made of iron, killed all those gua
 प्रदीप्तलाङ्गूलकृतार्चिमाली  
 प्रकाशितादित्य इवार्चिमाली ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2024,5 +2146,6 @@ over Lanka, shone like the sun encircled with rays, with the wreath of flames bl
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

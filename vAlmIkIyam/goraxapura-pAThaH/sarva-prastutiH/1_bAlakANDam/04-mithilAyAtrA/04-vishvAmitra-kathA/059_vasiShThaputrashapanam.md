@@ -2,6 +2,8 @@
 title = "०५९ वसिष्ठपुत्रशपनम्"
 title_english = "059 trishanku undertakes Vedic ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I :
@@ -22,12 +24,15 @@ ritual of Vishvamitra and Trishanku. Vishvamitra gets irritated and hurls curses
 
 59. विश्वामित्रका त्रिशंकुको आश्वासन देकर उनका यज्ञ करानेके लिये ऋषि-मुनियोंको आमन्त्रित करना और उनकी बात न माननेवाले महोदय तथा ऋषिपुत्रोंको शाप देकर नष्ट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्यं तु राजानं कृपया कुशिकात्मजः ।  
 अब्रवीन्मधुरं वाक्यं साक्षाच्चण्डालतां गतम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ and who in reality attained a state of profaner." Thus Sage Shataananda continue
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाको स्वागतं वत्स जानामि त्वां सुधार्मिकम् ।  
 शरणं ते प्रदास्यामि मा भैषीर्नृपपुङ्गव ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ king. Oh, the best king, you need not be dismayed, for I accord you haven. [1-59
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमामन्त्रये सर्वान् महर्षीन् पुण्यकर्मणः ।  
 यज्ञसाह्यकरान् राजंस्ततो यक्ष्यसि निर्वृतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,6 +158,7 @@ then you can perform the ritual self-composedly. [1-59-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,6 +167,8 @@ then you can perform the ritual self-composedly. [1-59-3]
 हस्तप्राप्तमहं मन्ये स्वर्गं तव नराधिप ।  
 यस्त्वं कौशिकमागम्य शरण्यं शरणागतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ of mentor Vashishta through his sons. [1-59-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजाः पुत्रान् परमधार्मिकान् ।  
 व्यादिदेश महाप्राज्ञान् यज्ञसम्भारकारणात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,6 +262,7 @@ brilliant sons to organise the arrangements for the ritual. [1-59-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -252,6 +270,8 @@ brilliant sons to organise the arrangements for the ritual. [1-59-6]
 सर्वानृषीन् सवासिष्ठानानयध्वं ममाज्ञया ॥ ७ ॥  
 सशिष्यान् सुहृदश्चैव सर्त्विजः सुबहुश्रुतान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ of rituals at my order.' [1-59-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदन्यो वचनं ब्रूयान्मद्वाक्यबलचोदितः ॥ ८ ॥  
 तत् सर्वमखिलेनोक्तं ममाख्येयमनादृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +359,7 @@ word it may be, all that is to be reported to me, whatever it is.' Thus Vishvami
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -344,6 +368,8 @@ word it may be, all that is to be reported to me, whatever it is.' Thus Vishvami
 ते च शिष्याः समागम्य मुनिं ज्वलिततेजसम् ॥ १० ॥  
 ऊचुश्च वचनं सर्वं सर्वेषां ब्रह्मवादिनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +426,15 @@ and then the Vedic scholars started to arrive from all provinces. [1-59-9 b, 10a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा ते वचनं सर्वे समायान्ति द्विजातयः ॥ ११ ॥  
 सर्वदेशेषु चागच्छन् वर्जयित्वा महोदयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +468,15 @@ come, leaving alone Mahodaya, the son of Vashishta.' Thus, the disciples have st
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासिष्ठं यच्छतं सर्वं क्रोधपर्याकुलाक्षरम् ॥ १२ ॥  
 यथाह वचनं सर्वं शृणु त्वं मुनिपुङ्गव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,6 +517,7 @@ sage, and what all they have said that you may please listen. [1-59-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -493,6 +526,8 @@ sage, and what all they have said that you may please listen. [1-59-12b, 13a]
 ब्राह्मणा वा महात्मानो भुक्त्वा चाण्डालभोजनम् ॥ १४ ॥  
 कथं स्वर्गं गमिष्यन्ति विश्वामित्रेण पालिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +586,15 @@ it. Thus both of these, officiator and performer have no Vedic sanctity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् वचननैष्ठुर्यमूचुः संरक्तलोचनाः ॥ १५ ॥  
 वासिष्ठा मुनिशार्दूल सर्वे सहमहोदयाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +637,15 @@ with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा सर्वेषां मुनिपुङ्गवः ॥ १६ ॥  
 क्रोधसंरक्तनयनः सरोषमिदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +678,15 @@ said this rancorously with bloodshot eyes. [1-59-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् दूषयन्त्यदुष्टं मां तप उग्रं समास्थितम् ॥ १७ ॥  
 भस्मीभूता दुरात्मानो भविष्यन्ति न संशयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,6 +730,7 @@ merit, that irreverent person will be reduced to ashes, and there is no doubt ab
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -693,6 +738,8 @@ merit, that irreverent person will be reduced to ashes, and there is no doubt ab
 सप्तजातिशतान्येव मृतपाः सम्भवन्तु ते ।  
 श्वमांसनियताहारा मुष्टिका नाम निर्घृणाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,6 +800,7 @@ to seven hundred births to come they take birth as devourers of corpses, come wh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +810,8 @@ to seven hundred births to come they take birth as devourers of corpses, come wh
 प्राणातिपातनिरतो निरनुक्रोशतां गतः ॥ २१ ॥  
 दीर्घकालं मम क्रोधाद् दुर्गतिं वर्तयिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +864,15 @@ tribal-hood and becomes a reproachable tribal for the entire world. [1-59-20b, 2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा वचनं विश्वामित्रो महातपाः ।  
 विरराम महातेजा ऋषिमध्ये महामुनिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,5 +926,6 @@ come at the cost of their Brahman-hood.'
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥59॥
+</details>
 </details>
 

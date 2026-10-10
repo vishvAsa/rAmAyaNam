@@ -2,6 +2,8 @@
 title = "०४८ त्रिजटया सीतासमाश्वासनम्"
 title_english = "048 Trijata reassures Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ Lakshman to be still alive and cheering her up, takes her back to Ashoka grove.
 
 48. सीताका विलाप और त्रिजटाका उन्हें समझा-बुझाकर श्रीराम-लक्ष्मणके जीवित होनेका विश्वास दिलाकर पुनः लङ्कामें ही लौटा लाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तारं निहतं दृष्ट्वा लक्ष्मणं च महाबलम् ।  
 विललाप भृशं सीता करुणं शोककर्शिता ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,12 +49,15 @@ Lakshman to be still alive and cheering her up, takes her back to Ashoka grove.
 
 तन्न स्वामि श्रीराम-लक्ष्मणरु सत्तु होगिरुवुदन्नु नोडि सीतॆयु शोक पीडितळागि पदे पदे करुणाजनकवागि विलपिसतॊडगिदळु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊचुर्लाक्षणिका ये मां पुत्रिण्यविधवेति च ।  
 तेऽद्य सर्वे हते रामे ज्ञानिनोऽनृतवादिनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +99,15 @@ untrue."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्वनो महिषीं ये मामूचुः पत्नीं च सत्रिणः ।  
 तेऽद्य सर्वे हते रामे ज्ञानिनोऽनृतवादिनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +149,15 @@ proved to be utteres of falsehood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीरपार्थिवपत्नीनां ये विदुर्भर्तृपूजिताम् ।  
 तेऽद्य सर्वे हते रामे ज्ञानिनोऽनृतवादिनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +201,15 @@ honoured by my husband as well as the wives of warriors and kings, are proved to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊचुः संश्रवणे ये मां द्विजाः कार्तान्तिकाः शुभाम् ।  
 तेऽद्य सर्वे हते रामे ज्ञानिनोऽनृतवादिनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ openly foretold that I should remain happy with my husband are proved to have sp
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमानि खलु पद्मानि पादयोर्वै कुलस्त्रियः ।  
 आधिराज्येऽभिषिच्यन्ते नरेन्द्रैः पतिभिः सह ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ consecrated on an imperial throne with their husbands and lords."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैधव्यं यान्ति यैर्नार्योऽलक्षणैर्भाग्यदुर्लभाः ।  
 नात्मनस्तानि पश्यामि पश्यन्ती हतलक्षणा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +350,15 @@ ill-starred and as I examine, all the auspicious signs appear to be rendered voi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यनामानि पद्मानि स्त्रीणामुक्तानि लक्षणैः ।  
 तान्यद्य निहते रामे वितथानि भवन्ति मे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ meaningless, now that Rama is slain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केशाः सूक्ष्माः समा नीला भ्रुवौ चासंहते मम ।  
 वृत्ते चारोमके जङ्घे दन्ताश्चाविरला मम ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +451,15 @@ are hair-less and well rounded. My teeth are contiguous, without any gaps betwee
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्खे नेत्रे करौ पादौ गुल्फावूरू समौ चितौ ।  
 अनुवृत्तनखाः स्निग्धाः समाश्चाङ्गुलयो मम ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +500,15 @@ well-proportioned. My fingers have well-rounded and glossy nails, having a right
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तनौ चाविरलौ पीनौ मामकौ मग्नचूचुकौ ।  
 मग्ना चोत्सेधनी नाभिः पार्श्वोरस्कं च मे चितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,12 +549,15 @@ navel is deeply idented. My flanks and bossom are well-formed."
 
 नन्न ऎरडू स्तनगळु परस्पर सेरि कॊण्डिवॆ हागू स्थूलवागिवॆ. स्तनगळ तॊट्टुगळु कॆळमुखवागिवॆ. नन्न हॊक्कळु आळवागिद्दु, सुत्तल भाग ऎत्तरवागिदॆ. नन्न पार्श्वगळु मत्तु ऎदॆ पुष्ट वागिदॆ.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम वर्णो मणिनिभो मृदून्यङ्गरुहाणि च ।  
 प्रतिष्ठितां द्वादशभिर्मामूचुः शुभलक्षणाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,12 +599,15 @@ ten toes and two soles).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समग्रयवमच्छिद्रं पाणिपादं च वर्णवत् ।  
 मन्दस्मितेत्येव च मां कन्यालाक्षणिका विदुः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ fingers and toes and that my smile is gentle."
 
 नन्न कै-कालुगळु कॆम्पागियू उत्तम कान्तियुक्तवागिवॆ. नन्न बॆरळुगळु गिण्णिनल्लि गोदियाकारद रेखॆगळिवॆ. बॆरळुगळु जोडिसिदाग अवुगळल्लि स्वल्पवू सन्दुगळु काणुवुदिल्ल. कन्या लक्षणगळन्नु तिळिद विद्वांसरु ई लक्षणगळिन्द मन्दस्मित ऎन्दु हेळिरुवरु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आधिराज्येऽभिषेको मे ब्राह्मणैः पतिना सह ।  
 कृतान्तकुशलैरुक्तं तत् सर्वं वितथीकृतम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +698,15 @@ consecrated on the imperial throne along with my husband -proved to be in vain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोधयित्वा जनस्थानं प्रवृत्तिमुपलभ्य च ।  
 तीर्त्वा सागरमक्षोभ्यं भ्रातरौ गोष्पदे हतौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,12 +748,15 @@ small puddle)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु वारुणमाग्नेयमैन्द्रं वायव्यमेव च ।  
 अस्त्रं ब्रह्मशिरश्चैव राघवौ प्रत्यपद्यत ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +817,15 @@ emaiated through grief and lamented pitiably (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृश्यमानेन रणे मायया वासवोपमौ ।  
 मम नाथावनाथाया निहतौ रामलक्ष्मणौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +866,15 @@ protectors, who are equal to Indra in battle and I am now bereft of any support.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि दृष्टिपथं प्राप्य राघवस्य रणे रिपुः ।  
 जीवन् प्रतिनिवर्तेत यद्यपि स्यान्मनोजवः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -858,12 +914,15 @@ eventhough he were endowed with the swiftness of thought."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कालस्यातिभारोऽस्ति कृतान्तश्च सुदुर्जयः ।  
 यत्र रामः सह भ्रात्रा शेते युधि निपातितः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +963,7 @@ are lying struck down on the battle-field. Fate is inexorable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -912,6 +972,8 @@ are lying struck down on the battle-field. Fate is inexorable."
 सा तु चिन्तयते नित्यं समाप्तव्रतमागतम् ।  
 कदा द्रक्ष्यामि सीतां च लक्ष्मणं च सराघवम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1042,15 @@ for my unfortunate mother-in-law, Kausalya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिदेवयमानां तां राक्षसी त्रिजटाब्रवीत् ।  
 मा विषादं कृथा देवि भर्तायं तव जीवति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1026,12 +1091,15 @@ lady! Do not despair. Your husband, Rama is still living."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारणनि च वक्ष्यामि महान्ति सदृशानि च ।  
 यथेमौ जीवतो देवि भ्रातरौ रामलक्ष्मणौ ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,12 +1142,15 @@ Rama and Lakshmana are living."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि कोपपरीतानि हर्षपर्युत्सुकानि च ।  
 भवन्ति युधि योधानां मुखानि निहते पतौ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1184,15 @@ never seized by anger nor are they animated with joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं विमानं वैदेहि पुष्पकं नाम नामतः ।  
 दिव्यं त्वां धारयेन् नेदं यद्येतौ गतजीवितौ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,6 +1232,7 @@ have brought you here, if those two heroes have lost their lives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1166,6 +1241,8 @@ have brought you here, if those two heroes have lost their lives."
 इयं पुनरसम्भ्रान्ता निरुद्विग्ना तपस्विनि ।  
 सेना रक्षति काकुत्स्थौ मया प्रीत्या निवेदितौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,12 +1311,15 @@ aimlessly about on the battle field, like a ship which has broken its rudder in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वं भव सुविस्रब्धा अनुमानैः सुखोदयैः ।  
 अहतौ पश्य काकुत्स्थौ स्नेहादेतद् ब्रवीमि ते ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1283,12 +1363,15 @@ are not dead. I am telling you this, on account of my affection for you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतं नोक्तपूर्वं मे न च वक्ष्यामि मैथिलि ।  
 चारित्रसुखशीलत्वात् प्रविष्टासि मनो मम ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,12 +1411,15 @@ conduct and natural gaiety, you have found a place in my heart!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेमौ शक्यौ रणे जेतुं सेन्द्रैरपि सुरासुरैः ।  
 तादृशं दर्शनं दृष्ट्वा मया चोदीरितं तव ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1377,12 +1463,15 @@ battle. This is what I have observed and communicated to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तु सुमहच्चित्रं शरैः पश्यस्व मैथिलि ।  
 विसञ्ज्ञौ पतितावेतौ नैव लक्ष्मीर्विमुञ्चति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,12 +1512,15 @@ deprived of their senses, thier beauty has not deserted them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायेण गतसत्त्वानां पुरुषाणां गतायुषाम् ।  
 दृश्यमानेषु वक्त्रेषु परं भवति वैकृतम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1469,12 +1561,15 @@ vanished, will be appearing with an appalling alteration".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यज शोकं च दुःखं च मोहं च जनकात्मजे ।  
 रामलक्ष्मणयोरर्थे नाद्य शक्यमजीवितुम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1515,12 +1610,15 @@ It is impossible, now with the splendour seen in their faces, for Rama and Laksh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तस्याः सीता सुरसुतोपमा ।  
 कृताञ्जलिरुवाचेमामेवमस्त्विति मैथिली ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1561,12 +1659,15 @@ gods, with joined palms exclaimed, "May it be so."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानं पुष्पकं तत्तु सन्निवर्त्य मनोजवम् ।  
 दीना त्रिजटया सीता लङ्कामेव प्रवेशिता ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,12 +1710,15 @@ sorrowful Seetha was caused by Trijata to enter Lanka once more.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्रिजटया सार्धं पुष्पकादवरुह्य सा ।  
 अशोकवनिकामेव राक्षसीभिः प्रवेशिता ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1654,6 +1758,7 @@ were caused by the female demons, to enter the Ashoka grove again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1662,6 +1767,8 @@ were caused by the female demons, to enter the Ashoka grove again.
 सम्प्रेक्ष्य सञ्चिन्त्य च राजपुत्रौ  
 परं विषादं समुपाजगाम ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1721,5 +1828,6 @@ Ravana and recalling the two princes who she had just seen, Seetha gave way to e
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥48॥
+</details>
 </details>
 

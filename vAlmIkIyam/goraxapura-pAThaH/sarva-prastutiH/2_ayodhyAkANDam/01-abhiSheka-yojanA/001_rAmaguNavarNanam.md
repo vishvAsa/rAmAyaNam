@@ -2,6 +2,8 @@
 title = "००१ रामगुणवर्णनम्"
 title_english = "001 Rama The Hero"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,6 +24,7 @@ kingdom.
 
 1. श्रीरामके सद्‍गुणोंका वर्णन, राजा दशरथका श्रीरामको युवराज बनानेका विचार तथा विभिन्न नरेशों और नगर एवं जनपदके लोगोंको मन्त्रणाके लिये अपने दरबारमें बुलाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ kingdom.
 शत्रुघ्नो +++(इन्द्रियादि→)+++नित्य-शत्रुघ्नो  
 नीतः प्रीति-पुरस्कृतः ॥ १ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,12 +51,15 @@ kingdom.
 
 (मॊदले हेळिद प्रकार) तन्दॆ तायिगळ अनुमति पडॆदु सोदर मावन मनॆगॆ हॊरट महात्मनाद भरतनु कामादि शत्रुगळन्नु अनुदिनवू नाश माडुव निष्पापि शत्रुघ्ननन्नु प्रेम वशनागि तन्न जॊतॆगॆ करॆदुकॊण्डु होदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तत्र न्यवसद् भ्रात्रा सह सत्कारसत्कृतः ।  
 मातुलेनाश्वपतिना पुत्रस्नेहेन लालितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ Bharatha, while going to his maternal uncle's house, has taken his brother Satru
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रापि निवसन्तौ तौ तर्प्यमाणौ च कामतः ।  
 भ्रातरौ स्मरतां वीरौ वृद्धं दशरथं नृपम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,12 +152,15 @@ comforts, were remembering their age old father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजापि तौ महातेजाः सस्मार प्रोषितौ सुतौ ।  
 उभौ भरतशत्रुघ्नौ महेन्द्रवरुणोपमौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +194,15 @@ were out of his state and who were equivalent to Indra and Varuna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व एव तु तस्येष्टाश्चत्वारः पुरुषर्षभाः ।  
 स्वशरीराद् विनिर्वृत्ताश्चत्वार इव बाहवः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,12 +236,15 @@ as though they were his four hands emerging out of his own body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामपि महातेजा रामो रतिकरः पितुः ।  
 स्वयम्भूरिव भूतानां बभूव गुणवत्तरः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,12 +278,15 @@ brothers and the mightiest was a great source of joy for his father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि देवैरुदीर्णस्य रावणस्य वधार्थिभिः ।  
 अर्थितो मानुषे लोके जज्ञे विष्णुः सनातनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +320,15 @@ celestials to kill the egoistic Ravana?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या शुशुभे तेन पुत्रेणामिततेजसा ।  
 यथा वरेण देवानामदितिर्वज्रपाणिना ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,12 +362,15 @@ mighty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि रूपोपपन्नश्च वीर्यवाननसूयकः ।  
 भूमावनुपमः सूनुर्गुणैर्दशरथोपमः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,12 +404,15 @@ like Dasaratha. In this way, he was an incomparable son on earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च नित्यं प्रशान्तात्मा मृदुपूर्वं च भाषते ।  
 उच्यमानोऽपि परुषं नोत्तरं प्रतिपद्यते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +452,15 @@ words spoken by others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदाचिदुपकारेण कृतेनैकेन तुष्यति ।  
 न स्मरत्यपकाराणां शतमप्यात्मवत्तया ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,12 +500,15 @@ thing is done to him. He does not remember any number of bad things done to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीलवृद्धैर्ज्ञानवृद्धैर्वयोवृद्धैश्च सज्जनैः ।  
 कथयन्नास्त वै नित्यमस्त्रयोग्यान्तरेष्वपि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +542,15 @@ with elderly people, elder by way of conduct or wisdom or age or with good- natu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धिमान् मधुराभाषी पूर्वभाषी प्रियंवदः ।  
 वीर्यवान्न च वीर्येण महता स्वेन विस्मितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +585,15 @@ valor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चानृतकथो विद्वान् वृद्धानां प्रतिपूजकः ।  
 अनुरक्तः प्रजाभिश्च प्रजाश्चाप्यनुरज्यते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +627,15 @@ to the elders. People used to love him and he used to love the people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सानुक्रोशो जितक्रोधो ब्राह्मणप्रतिपूजकः ।  
 दीनानुकम्पी धर्मज्ञो नित्यं प्रग्रहवान् शुचिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,12 +674,15 @@ was clean (in conduct).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलोचितमतिः क्षात्रं स्वधर्मं बहु मन्यते ।  
 मन्यते परया प्रीत्या महत् स्वर्गफलं ततः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +724,15 @@ fame and through it the fruit of heaven.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाश्रेयसि रतो यश्च न विरुद्धकथारुचिः ।  
 उत्तरोत्तरयुक्तीनां वक्ता वाचस्पतिर्यथा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -720,12 +773,15 @@ series of strategies for action.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरोगस्तरुणो वाग्मी वपुष्मान् देशकालवित् ।  
 लोके पुरुषसारज्ञः साधुरेको विनिर्मितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +823,15 @@ earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु श्रेष्ठैर्गुणैर्युक्तः प्रजानां पार्थिवात्मजः ।  
 बहिश्चर इव प्राणो बभूव गुणतः प्रियः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +865,15 @@ outside.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वविद्याव्रतस्नातो यथावत् साङ्गवेदवित् ।  
 इष्वस्त्रे च पितुः श्रेष्ठो बभूव भरताग्रजः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +914,15 @@ as prescribed, became better than his father in the use of bow and arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्याणाभिजनः साधुरदीनः सत्यवागृजुः ।  
 वृद्धैरभिविनीतश्च द्विजैर्धर्मार्थदर्शिभिः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +958,15 @@ righteousness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मकामार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान् ।  
 लौकिके समयाचारे कृतकल्पो विशारदः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +1002,15 @@ at that time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निभृतः संवृताकारो गुप्तमन्त्रः सहायवान् ।  
 अमोघक्रोधहर्षश्च त्यागसंयमकालवित् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1045,15 @@ when not to give.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृढभक्तिः स्थिरप्रज्ञो नासद्‍ग्राही न दुर्वचः ।  
 निस्तन्द्रीरप्रमत्तश्च स्वदोषपरदोषवित् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1094,15 @@ others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शास्त्रज्ञश्च कृतज्ञश्च पुरुषान्तरकोविदः ।  
 यः प्रग्रहानुग्रहयोर्यथान्यायं विचक्षणः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1136,15 @@ men. He could judiciously discriminate whom to protect and whom to punish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्सङ्ग्रहानुग्रहणे स्थानविन्निग्रहस्य च ।  
 आयकर्मण्युपायज्ञः सन्दृष्टव्ययकर्मवित् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1122,12 +1202,15 @@ economic sciences.
 
 नारदजी कहते हैं—युधिष्ठिर! क्या तुम्हारी आयके एक चौथाई या आधे अथवा तीन चौथाई भागसे तुम्हारा सारा खर्च चल जाता है?
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रैष्ठ्यं चास्त्रसमूहेषु प्राप्तो व्यामिश्रकेषु च ।  
 अर्थधर्मौ च सङ्गृह्य सुखतन्त्रो न चालसः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,12 +1255,15 @@ and virtues. He never remained inactive.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैहारिकाणां शिल्पानां विज्ञातार्थविभागवित् ।  
 आरोहे विनये चैव युक्तो वारणवाजिनाम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1223,12 +1309,15 @@ distribute the wealth. He was efficient in riding and also taming of elephants a
 
 (श्रीमद्भा० ८ । १९ । ३७)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुर्वेदविदां श्रेष्ठो लोकेऽतिरथसम्मतः ।  
 अभियाता प्रहर्ता च सेनानयविशारदः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,12 +1352,15 @@ and killed the enemies in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रधृष्यश्च सङ्ग्रामे क्रुद्धैरपि सुरासुरैः ।  
 अनसूयो जितक्रोधो न दृप्तो न च मत्सरी ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1312,6 +1404,7 @@ He had not surrendered to time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1320,6 +1413,8 @@ He had not surrendered to time.
 सम्मतस्त्रिषु लोकेषु वसुधायाः क्षमागुणैः ।  
 बुद्ध्या बृहस्पतेस्तुल्यो वीर्ये चापि शचीपतेः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1375,12 +1470,15 @@ Brihaspathi and by valor to Devendra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सर्वप्रजाकान्तैः प्रीतिसञ्जननैः पितुः ।  
 गुणैर्विरुरुचे रामो दीप्तः सूर्य इवांशुभिः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1420,12 +1518,15 @@ of behavior bearing undefeatable valor equal to that of universal lords like Ind
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवंवृत्तसम्पन्नमप्रधृष्यपराक्रमम् ।  
 लोकनाथोपमं नाथमकामयत मेदिनी ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1459,12 +1560,15 @@ son with his many incomparable virtues.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतैस्तु बहुभिर्युक्तं गुणैरनुपमैः सुतम् ।  
 दृष्ट्वा दशरथो राजा चक्रे चिन्तां परन्तपः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1498,12 +1602,15 @@ alive? Shall I enjoy that happiness?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राज्ञो बभूवैव वृद्धस्य चिरजीविनः ।  
 प्रीतिरेषा कथं रामो राजा स्यान्मयि जीवति ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1540,12 +1647,15 @@ beloved son Rama crowned as a king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा ह्यस्य परा प्रीतिर्हृदि सम्परिवर्तते ।  
 कदा नाम सुतं द्रक्ष्याम्यभिषिक्तमहं प्रियम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1588,12 +1698,15 @@ desires the development of the world and has compassion towards all living being
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धिकामो हि लोकस्य सर्वभूतानुकम्पकः ।  
 मत्तः प्रियतरो लोके पर्जन्य इव वृष्टिमान् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1627,12 +1740,15 @@ mountain in courage. He is more virtuous also than me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमशक्रसमो वीर्ये बृहस्पतिसमो मतौ ।  
 महीधरसमो धृत्यां मत्तश्च गुणवत्तरः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1666,12 +1782,15 @@ earth?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महीमहमिमां कृत्स्नामधितिष्ठन्तमात्मजम् ।  
 अनेन वयसा दृष्ट्वा यथा स्वर्गमवाप्नुयाम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1688,6 +1807,7 @@ earth?"
 
 नानु ई वयस्सिनल्लि मगनाद श्रीरामनु इडी पृथिविय राज्यवन्नु आळुत्तिरुवुदन्नु नोडि यथाकालदल्लि सुखवागि स्वर्गवन्नु पडॆदुकॊळ्ळुवुदे नन्न जीवनद सार्थकतॆयागिदॆ.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1696,6 +1816,8 @@ earth?"
 तं समीक्ष्य तदा राजा युक्तं समुदितैर्गुणैः ।  
 निश्चित्य सचिवैः सार्धं यौवराज्यममन्यत ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1755,12 +1877,15 @@ virtuous Rama, Dasaratha along with his ministers, decided to make Rama the prin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यन्तरिक्षे भूमौ च घोरमुत्पातजं भयम् ।  
 सञ्चचक्षेऽथ मेधावी शरीरे चात्मनो जराम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1797,12 +1922,15 @@ had beautiful face as a full moon; was a great wise man; and was liked by the pe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णचन्द्राननस्याथ शोकापनुदमात्मनः ।  
 लोके रामस्य बुबुधे सम्प्रियत्वं महात्मनः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1843,12 +1971,15 @@ appropriate time has come.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मनश्च प्रजानां च श्रेयसे च प्रियेण च ।  
 प्राप्ते काले स धर्मात्मा भक्त्या त्वरितवान् नृपः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1891,12 +2022,15 @@ in his kingdom separately.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानानगरवास्तव्यान् पृथग्जानपदानपि ।  
 समानिनाय मेदिन्यां प्रधानान् पृथिवीपतिः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1930,12 +2064,15 @@ Bharatha or the King Janaka as he thought they both could hear the good news eve
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् वेश्मनानाभरणैर्यथार्हं प्रतिपूजितान् ।  
 ददर्शालङ्कृतो राजा प्रजापतिरिव प्रजाः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1969,12 +2106,15 @@ himself, he looked after them in the manner Lord Brahma looks after his children
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु केकयराजानं जनकं वा नराधिपः ।  
 त्वरया चानयामास पश्चात्तौ श्रोष्यतः प्रियम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2019,12 +2159,15 @@ king Dasaratha , who annihilates the opponent's army, occupied his seat.
 
 * केकयनरेशके साथ भरत-शत्रुघ्न भी आ जाते । इन सबके तथा राजा जनकके रहनेसे श्रीरामका राज्याभिषेक सम्पन्न हो जाता और वे वनमें नहीं जाने पाते—इसी डरसे देवताओंने राजा दशरथको इन सबको नहीं बुलानेकी बुद्धि दे दी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोपविष्टे नृपतौ तस्मिन् परपुरार्दने ।  
 ततः प्रविविशुः शेषा राजानो लोकसम्मताः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2058,12 +2201,15 @@ by facing toward the king as per the prescribed rules.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजवितीर्णेषु विविधेष्वासनेषु च ।  
 राजानमेवाभिमुखा निषेदुर्नियता नृपाः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2102,6 +2248,7 @@ celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2110,6 +2257,8 @@ celestials.
 उपोपविष्टैर्नृपतिर्वृतो बभौ  
 सहस्रचक्षुर्भगवानिवामरैः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2138,5 +2287,6 @@ celestials.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि मॊदलनॆय सर्ग पूर्णवायितु. ॥1॥
+</details>
 </details>
 

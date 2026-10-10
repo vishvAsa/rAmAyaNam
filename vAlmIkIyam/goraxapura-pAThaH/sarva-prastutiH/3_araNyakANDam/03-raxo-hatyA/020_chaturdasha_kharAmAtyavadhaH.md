@@ -2,6 +2,8 @@
 title = "०२० चतुर्दश खरामात्यवधः"
 title_english = "020 Rama eliminates Khara s demons"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ back to her brother to report the defeat.
 
 20. श्रीरामद्वारा खरके भेजे हुए चौदह राक्षसोंका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखा घोरा राघवाश्रममागता ।  
 राक्षसानाचचक्षे तौ भ्रातरौ सह सीतया ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ along with Seetha to the fourteen demons. [3-20-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रामं पर्णशालायामुपविष्टं महाबलम् ।  
 ददृशुः सीतया सार्धं लक्ष्मणेनापि सेवितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ attending to him. [3-20-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा राघवः श्रीमानागतांस्तांश्च राक्षसान् ।  
 अब्रवीद् भ्रातरं रामो लक्ष्मणं दीप्ततेजसम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ dynasty said to the radiantly brilliant Lakshmana. [3-20-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुहूर्तं भव सौमित्रे सीतायाः प्रत्यनन्तरः ।  
 इमानस्या वधिष्यामि पदवीमागतानिह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ the path of that demoness to here. [3-20-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्यमेतत् ततः श्रुत्वा रामस्य विदितात्मनः ।  
 तथेति लक्ष्मणो वाक्यं राघवस्य प्रपूजयन् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +268,15 @@ be it." [3-20-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवोऽपि महच्चापं चामीकरविभूषितम् ।  
 चकार सज्यं धर्मात्मा तानि रक्षांसि चाब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,6 +316,7 @@ the demons as a forewarning. [3-20-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -304,6 +325,8 @@ the demons as a forewarning. [3-20-6]
 फलमूलाशनौ दान्तौ तापसौ ब्रह्मचारिणौ ।  
 वसन्तौ दण्डकारण्ये किमर्थमुपहिंसथ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ Dandaka along with Seetha. [3-20-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युष्मान् पापात्मकान् हन्तुं विप्रकारान् महाहवे ।  
 ऋषीणां तु नियोगेन सम्प्राप्तः सशरासनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,12 +442,15 @@ beings in a crucial clash. [3-20-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठतैवात्र सन्तुष्टा नोपवर्तितुमर्हथ ।  
 यदि प्राणैरिहार्थो वो निवर्तध्वं निशाचराः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,6 +490,7 @@ you may return now. [3-20-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -469,6 +499,8 @@ you may return now. [3-20-10]
 संरक्तनयना घोरा रामं संरक्तलोचनम् ।  
 परुषा मधुराभाषं हृष्टा दृष्टपराक्रमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +549,15 @@ talker, and whose valour is yet unseen by those fourteen demons. [3-20-11, 12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधमुत्पाद्य नो भर्तुः खरस्य सुमहात्मनः ।  
 त्वमेव हास्यसे प्राणान् सद्योऽस्माभिर्हतो युधि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +598,15 @@ souled lord Khara. [3-20-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का हि ते शक्तिरेकस्य बहूनां रणमूर्धनि ।  
 अस्माकमग्रतः स्थातुं किं पुनर्योद्धुमाहवे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +646,15 @@ and why tell again about your battling ability in a given battle. [3-20-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एभिर्बाहुप्रयुक्तैश्च परिघैः शूलपट्टिशैः ।  
 प्राणांस्त्यक्ष्यसि वीर्यं च धनुश्च करपीडितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +698,15 @@ bow now clasped in your hand." So said the demons to Rama. [3-20-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा संरब्धा राक्षसास्ते चतुर्दश ।  
 उद्यतायुधनिस्त्रिंशा राममेवाभिदुद्रुवुः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,6 +748,7 @@ rushed towards Rama alone, and they hurled lances towards that unconquerable Rag
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -711,6 +756,8 @@ rushed towards Rama alone, and they hurled lances towards that unconquerable Rag
 तानि शूलानि काकुत्स्थः समस्तानि चतुर्दश ॥ १७ ॥  
 तावद्भिरेव चिच्छेद शरैः काञ्चनभूषितैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,6 +797,7 @@ Rama in turn shredded all of those fourteen lances only with as many arrows that
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -758,6 +806,8 @@ Rama in turn shredded all of those fourteen lances only with as many arrows that
 गृहीत्वा धनुरायम्य लक्ष्यानुद्दिश्य राक्षसान् ॥ १९ ॥  
 मुमोच राघवो बाणान् वज्रानिव शतक्रतुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +873,15 @@ on whetstone and equalling the sun in their dazzle. [3-20-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते भित्त्वा रक्षसां वेगाद् वक्षांसि रुधिरप्लुताः ॥ २० ॥  
 विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +925,15 @@ bedaubed with blood they swiftly penetrated into earth like snakes into snake pi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्भग्नहृदया भूमौ छिन्नमूला इव द्रुमाः ॥ २१ ॥  
 निपेतुः शोणितस्नाता विकृता विगतासवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -920,6 +976,7 @@ trees they fell onto the ground. [3-20-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -927,6 +984,8 @@ trees they fell onto the ground. [3-20-21b, 22a]
 उपगम्य खरं सा तु किञ्चित्संशुष्कशोणिता ।  
 पपात पुनरेवार्ता सनिर्यासेव वल्लरी ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1034,15 @@ on incision, and fell before him as before. [3-20-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुः समीपे शोकार्ता ससर्ज निनदं महत् ।  
 सस्वरं मुमुचे बाष्पं विवर्णवदना तदा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,6 +1082,7 @@ spilled tears attuning the strains of a whiner. [3-20-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1028,6 +1091,8 @@ spilled tears attuning the strains of a whiner. [3-20-24]
 वधं च तेषां निखिलेन रक्षसां  
 शशंस सर्वं भगिनी खरस्य सा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1083,5 +1148,6 @@ of those demons, in its entirety. [3-20-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तनॆय सर्ग सम्पूर्णवायितु.॥20॥
+</details>
 </details>
 

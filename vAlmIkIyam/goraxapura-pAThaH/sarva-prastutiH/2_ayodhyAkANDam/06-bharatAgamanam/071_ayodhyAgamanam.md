@@ -2,6 +2,8 @@
 title = "०७१ अयोध्यागमनम्"
 title_english = "071 Bharata reaches the city of Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,6 +24,7 @@ an apprehensive and gloomy mind, he enters his father's house.
 
 71. रथ और सेनासहित भरतकी यात्रा, विभिन्न स्थानोंको पार करके उनका उज्जिहाना नगरीके उद्यानमें पहुँचना और सेनाको धीरे-धीरे आनेकी आज्ञा दे स्वयं रथद्वारा तीव्रवेगसे आगे बढ़ते हुए सालवनको पार करके अयोध्याके निकट जाना, वहाँसे अयोध्याकी दुरवस्था देखते हुए आगे बढ़ना और सारथिसे अपना दुःखपूर्ण उद‍्गार प्रकट करते हुए राजभवनमें प्रवेश करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ an apprehensive and gloomy mind, he enters his father's house.
 ह्रादिनीं दूरपारां च प्रत्यक्स्रोतस्तरङ्गिणीम् ।  
 शतद्रुमतरच्छ्रीमान् नदीमिक्ष्वाकुनन्दनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,12 +100,15 @@ reach Ayodhya
 
 * अयोध्यासे जो पाँच दूत चले थे, वे सीधी राहसे राजगृहमें आये थे; अतः उनके मार्गमें जो-जो स्थान पड़े थे, वे भरतके मार्गमें नहीं पड़े थे । भरतके साथ रथ और चतुरङ्गिणी सेना थी, अतः उसके निर्वाहके अनुकूल मार्गसे चलकर वे अयोध्या पहुँचे थे । इसलिये इनके मार्गमें सर्वथा नये ग्रामों और स्थानोंका उल्लेख मिलता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐलधाने नदीं तीर्त्वा प्राप्य चापरपर्वतान् ।  
 शिलामाकुर्वतीं तीर्त्वा आग्नेयं शल्यकर्षणम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ _________________
 
 अल्लिन्द ऐलधान ऎम्ब ऊरिगॆ होगि अल्लि हरियुत्तिरुव नदियन्नु दाटिदनु. अनन्तर अवरु अमरपर्वत ऎम्ब राज्यक्कॆ होदरु. अल्लि शिला ऎम्ब नदी हरियुत्तित्तु. अदु तन्नॊळगॆ बिद्दिरुव वस्तुवन्नु कल्लागिसिबिडुत्तित्तु. अदन्नु दाटि भरतनु अल्लिन्द आग्नेय दिक्किनल्लि स्थितवाद शल्यकर्षण ऎम्ब देशक्कॆ होदनु, अल्लि शरीरदल्लिन मुळ्ळन्नु तॆगॆयलु सहायवागुव औषधि दॊरॆयुत्तित्तु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यसन्धः शुचिर्भूत्वा प्रेक्षमाणः शिलावहाम् ।  
 अभ्यगात् स महाशैलान् वनं चैत्ररथं प्रति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ and traveled towards the woods of Chitraratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सरस्वतीं च गङ्गां च युग्मेन प्रतिपद्य च ।  
 उत्तरान् वीरमत्स्यानां भारुण्डं प्राविशद् वनम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +231,15 @@ of Bharmuda, the north of Viramatsaya region.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेगिनीं च कुलिङ्गाख्यां ह्रादिनीं पर्वतावृताम् ।  
 यमुनां प्राप्य सन्तीर्णो बलमाश्वासयत् तदा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,6 +283,7 @@ surrounded by mountains as well as Yamuna river, the army was then made to rest 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -274,6 +292,8 @@ surrounded by mountains as well as Yamuna river, the army was then made to rest 
 राजपुत्रो महारण्यमनभीक्ष्णोपसेवितम् ।  
 भद्रो भद्रेण यानेन मारुतः खमिवात्यगात् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,12 +356,15 @@ further.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भागीरथीं दुष्प्रतरां सोऽंशुधाने महानदीम् ।  
 उपायाद् राघवस्तूर्णं प्राग्वटे विश्रुते पुरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,12 +404,15 @@ the city of pragvata in the region of Amsudhana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गङ्गां प्राग्वटे तीर्त्वा समायात् कुटिकोष्टिकाम् ।  
 सबलस्तां स तीर्त्वाथ समगाद् धर्मवर्धनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +454,15 @@ Dharmavardhana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तोरणं दक्षिणार्धेन जम्बूप्रस्थं समागमत् ।  
 वरूथं च ययौ रम्यं ग्रामं दशरथात्मजः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,12 +502,15 @@ region and from there he arrived at a beautiful village too, named Varutha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र रम्ये वने वासं कृत्वासौ प्राङ्मुखो ययौ ।  
 उद्यानमुज्जिहानायाः प्रियका यत्र पादपाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -522,12 +554,15 @@ reached a garden in the city of Ujjihana, in which there are a number of Kadamba
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तांस्तु प्रियकान् प्राप्य शीघ्रानास्थाय वाजिनः ।  
 अनुज्ञाप्याथ भरतो वाहिनीं त्वरितो ययौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,6 +603,7 @@ allowed his army to come after him and quickly went ahead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -576,6 +612,8 @@ allowed his army to come after him and quickly went ahead.
 हस्तिपृष्ठकमासाद्य कुटिकामप्यवर्तत ।  
 ततार च नरव्याघ्रो लोहित्ये च कपीवतीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +666,15 @@ and traversed kapivati river at Lohitya village.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकसाले स्थाणुमतीं विनते गोमतीं नदीम् ।  
 कलिङ्गनगरे चापि प्राप्य सालवनं तदा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,6 +718,7 @@ tired and then proceeded quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -685,6 +727,8 @@ tired and then proceeded quickly.
 अयोध्यां मनुना राज्ञा निर्मितां स ददर्श ह ।  
 तां पुरीं पुरुषव्याघ्रः सप्तरात्रोषितः पथि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,6 +790,7 @@ Ayodhya, which was earlier built by King Manu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -755,6 +800,8 @@ Ayodhya, which was earlier built by King Manu.
 यज्विभिर्गुणसम्पन्नैर्ब्राह्मणैर्वेदपारगैः ॥ २० ॥  
 भूयिष्ठमृद्धैराकीर्णा राजर्षिवरपालिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +851,15 @@ Brahmins inmost abundant reaches , It is being ruled by a royal sage."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यायां पुरा शब्दः श्रूयते तुमुलो महान् ॥ २१ ॥  
 समन्तान्नरनारीणां तमद्य न शृणोम्यहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,6 +900,7 @@ Ayodhya. Now, I am not hearing that voice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -857,6 +908,8 @@ Ayodhya. Now, I am not hearing that voice."
 समन्ताद् विप्रधावद्भिः प्रकाशन्ते ममान्यथा ।  
 तान्यद्यानुरुदन्तीव परित्यक्तानि कामिभिः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,6 +969,7 @@ now appear to me otherwise"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -923,6 +977,8 @@ now appear to me otherwise"
 नह्यत्र यानैर्दृश्यन्ते न गजैर्न च वाजिभिः ।  
 निर्यान्तो वाभियान्तो वा नरमुख्या यथा पुरा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,6 +1023,7 @@ coming out it in carriages or on horses or on elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -975,6 +1032,8 @@ coming out it in carriages or on horses or on elephants."
 तान्येतान्यद्य पश्यामि निरानन्दानि सर्वशः ।  
 स्रस्तपर्णैरनुपथं विक्रोशद्भिरिव द्रुमैः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,12 +1086,15 @@ congenial for love contacts of men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाद्यापि श्रूयते शब्दो मत्तानां मृगपक्षिणाम् ।  
 सरक्तां मधुरां वाणीं कलं व्याहरतां बहु ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,12 +1134,15 @@ birds intoxicated with happiness are not being heard."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनागुरुसम्पृक्तो धूपसम्मूर्च्छितोऽमलः ।  
 प्रवाति पवनः श्रीमान् किं नु नाद्य यथा पुरा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1185,15 @@ intensified with the fume of burnt incense,not blow today.?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भेरीमृदङ्गवीणानां कोणसङ्घट्टितः पुनः ।  
 किमद्य शब्दो विरतः सदादीनगतिः पुरा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1160,12 +1228,15 @@ drum-sticks or palms or fingers stopped which formerly never ceased at any time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनिष्टानि च पापानि पश्यामि विविधानि च ।  
 निमित्तान्यमनोज्ञानि तेन सीदति मे मनः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1276,15 @@ dejected."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा कुशलं सूत दुर्लभं मम बन्धुषु ।  
 तथा ह्यसति सम्मोहे हृदयं सीदतीव मे ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1319,15 @@ indeed, even without anycause for a grievance, my spirit is cast down"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषण्णः श्रान्तहृदयस्त्रस्तः संलुलितेन्द्रियः ।  
 भरतः प्रविवेशाशु पुरीमिक्ष्वाकुपालिताम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1367,15 @@ ruled by the descendents of Ikshvaku.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वारेण वैजयन्तेन प्राविशच्छ्रान्तवाहनः ।  
 द्वाःस्थैरुत्थाय विजयमुक्तस्तैः सहितो ययौ ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1336,12 +1416,15 @@ with slogans of victory by the standing gatekeepers, he went inside, along with 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वनेकाग्रहृदयो द्वाःस्थं प्रत्यर्च्य तं जनम् ।  
 सूतमश्वपतेः क्लान्तमब्रवीत् तत्र राघवः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,12 +1469,15 @@ follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमहं त्वरयाऽऽनीतः कारणेन विनानघ ।  
 अशुभाशङ्कि हृदयं शीलं च पततीव मे ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,12 +1514,15 @@ mind is apprehending some evil. I lost my all energy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुता नु यादृशाः पूर्वं नृपतीनां विनाशने ।  
 आकारांस्तानहं सर्वानिह पश्यामि सारथे ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1476,6 +1565,7 @@ seeing here all those signs."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1485,6 +1575,8 @@ seeing here all those signs."
 अनाशितकुटुम्बानि प्रभाहीनजनानि च ॥३८ ॥  
 अलक्ष्मीकानि पश्यामि कुटुम्बिभवनान्यहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1504,12 +1596,15 @@ seeing here all those signs."
 
 नानु नोडुत्तिद्देनॆ - गृहस्थर मनॆगळल्लि कस गुडिसलिल्ल, अवु पाळुबिद्दन्तॆ श्रीहीनवागि काणुत्तिवॆ. कद तॆरॆदुकॊण्डिदॆ, ई मनॆगळल्लि बलि-वैश्वदेव कर्म नडॆयुत्तिल्ल. इवु धूपद सुगन्धदिन्द वञ्चितवागिवॆ. इवुगळल्लि इरुव कुटुम्बि जनरु भोजन माडिदन्तिल्ल, इवॆल्ल मनॆगळु प्रभाहीनवागि कण्डु बरुत्तिवॆ. इवुगळल्लि लक्ष्मिय निवासवे इल्लदन्तॆ अनिसुत्तदॆ.॥37-38½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपेतमाल्यशोभानि असम्मृष्टाजिराणि च ॥ ३९ ॥  
 देवागाराणि शून्यानि न भान्तीह यथा पुरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1550,6 +1645,7 @@ burned . Families are starving and people look miserably without any charming ap
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1558,6 +1654,8 @@ burned . Families are starving and people look miserably without any charming ap
 दृश्यन्ते वणिजोऽप्यद्य न यथापूर्वमत्र वै ॥ ४१ ॥  
 ध्यानसंविग्नहृदया नष्टव्यापारयन्त्रिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1619,6 +1717,7 @@ of floral decorations lost, nor are there any assembling to perform sacrifices a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1626,6 +1725,8 @@ of floral decorations lost, nor are there any assembling to perform sacrifices a
 मलिनं चाश्रुपूर्णाक्षं दीनं ध्यानपरं कृशम् ।  
 सस्त्रीपुंसं च पश्यामि जनमुत्कण्ठितं पुरे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1660,12 +1761,15 @@ thoughts. They are not being seen here today, as before."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा भरतः सूतं तं दीनमानसः ।  
 तान्यनिष्टान्ययोध्यायां प्रेक्ष्य राजगृहं ययौ ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1702,6 +1806,7 @@ their eyes held in tears."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1710,6 +1815,8 @@ their eyes held in tears."
 दृष्ट्वा पुरीमिन्द्रपुरीप्रकाशां  
 दुःखेन सम्पूर्णतरो बभूव ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1752,6 +1859,7 @@ charioteer as aforesaid and went to the royal palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1760,6 +1868,8 @@ charioteer as aforesaid and went to the royal palace.
 अवाक्शिरा दीनमना न हृष्टः  
 पितुर्महात्मा प्रविवेश वेश्म ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1815,5 +1925,6 @@ with rust , Bharata was overcome with grief.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग पूर्णवायितु ॥71॥
+</details>
 </details>
 

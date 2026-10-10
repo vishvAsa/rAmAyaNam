@@ -2,6 +2,8 @@
 title = "०१७ रामागमनम्"
 title_english = "017 Rama s arrival at royal court"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,6 +22,7 @@ blessings and well meaning words of his friends and various people gathered ther
 
 17. श्रीरामका राजपथकी शोभा देखते और सुहृदोंकी बातें सुनते हुए पिताके भवनमें प्रवेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -34,6 +37,8 @@ blessings and well meaning words of his friends and various people gathered ther
 राजमार्गं **ययौ** रामो  
 मध्येनागुरुधूपितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,6 +109,7 @@ aloe wood and which was endowed with varied types of people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +130,8 @@ aloe wood and which was endowed with varied types of people.
 नानामाल्योपगन्धैश्च  
 सदाभ्यर्चितचत्वरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +204,7 @@ crystal, splendid with various kinds of flowers and eatables and which was not c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +213,8 @@ crystal, splendid with various kinds of flowers and eatables and which was not c
 यथार्हं चापि **सम्पूज्य**  
 सर्वान् एव नरान् **ययौ** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,6 +257,7 @@ people suitably.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -254,6 +266,8 @@ people suitably.
 **अद्योपादाय** तं मार्गम्  
 अभिषिक्तो **ऽनुपालय** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,6 +307,7 @@ and rule the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,6 +316,8 @@ and rule the kingdom."
 ततः सुखतरं सर्वे  
 रामे **वत्स्याम** राजनि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,6 +357,7 @@ his grandfathers ruled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -348,6 +366,8 @@ his grandfathers ruled.
 यदि **पश्याम** निर्यान्तं  
 रामं राज्ये प्रतिष्ठितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +407,15 @@ of eating or other activities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हि नः प्रियतरं नान्यत् किञ्चिद् भविष्यति ।  
 यथाभिषेको रामस्य राज्येनामिततेजसः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,6 +454,7 @@ of unbounded spleadour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -439,6 +463,8 @@ of unbounded spleadour.
 आत्मसम्पूजनीः **शृण्वन्  
 ययौ** रामो महापथम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +504,15 @@ and went in royal route.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** हि तस्मान्मनः कश्चिच्चक्षुषी वा नरोत्तमात् ।  
 नरः **शक्नोत्य् अपाक्रष्टुम्** अतिक्रान्तेऽपि राघवे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +552,15 @@ best of men.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश्च रामं न पश्येत्तु यं च रामो न पश्यति ।  
 निन्दितः सर्वलोकेषु स्वात्माप्येनं विगर्हते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,12 +622,15 @@ Such a person would blame himself of it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषु स हि धर्मात्मा वर्णानां कुरुते दयाम् ।  
 चतुर्णां हि वयःस्थानां तेन ते तमनुव्रताः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +656,15 @@ _________________
 
 राजकुमार श्रीरामनु नाल्कु मार्गगळु सेरुव चौकगळन्नु, चैत्यवृक्षगळन्नु, मन्दिरगळन्नु बलपार्श्वक्कॆ बिट्टुकॊण्डु मुन्दॆ होगुत्ता अरमनॆय बळिगॆ बन्दनु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुष्पथान् देवपथांश्चैत्यांश्चायतनानि च ।  
 प्रदक्षिणं परिहरज्जगाम नृपतेः सुतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,6 +693,7 @@ right side towards them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -665,6 +704,8 @@ right side towards them.
 तत् पृथिव्यां गृहवरं महेन्द्रसदनोपमम् ।  
 राजपुत्रः पितुर्वेश्म **प्रविवेश** श्रिया ज्वलन् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -720,12 +761,15 @@ the sky. There were royal houses named vardhamana which were adorned with a net 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कक्ष्या धन्विभिर्गुप्तास्तिस्रोऽतिक्रम्य वाजिभिः ।  
 पदातिरपरे कक्ष्ये द्वे जगाम नरोत्तमः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -764,12 +808,15 @@ bows and moved over the other two enclosures by foot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सर्वाः समतिक्रम्य कक्ष्या दशरथात्मजः ।  
 सन्निवर्त्य जनं सर्वं शुद्धान्तःपुरम् **अत्यगात्** ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,6 +857,7 @@ That Rama passed over all the gates, sent all the people back and entered the pa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -818,6 +866,8 @@ That Rama passed over all the gates, sent all the people back and entered the pa
 **प्रतीक्षते** तस्य पुनः स्म निर्गमं  
 यथोदयं चन्द्रमसः सरित्पतिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,5 +922,6 @@ his return as the ocean waits for raising of the moon.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनेळनॆय सर्ग पूर्णवायितु.॥17॥
+</details>
 </details>
 

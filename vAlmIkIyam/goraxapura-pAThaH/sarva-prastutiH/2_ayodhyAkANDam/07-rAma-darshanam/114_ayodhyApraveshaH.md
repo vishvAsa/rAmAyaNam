@@ -2,6 +2,8 @@
 title = "११४ अयोध्याप्रवेशः"
 title_english = "114 Bharata enters Ayodhya city"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ which exhibits a vacant look and feels distressed.
 
 114. भरतके द्वारा अयोध्याकी दुरवस्थाका दर्शन तथा अन्तःपुरमें प्रवेश करके भरतका दुःखी होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्निग्धगम्भीरघोषेण स्यन्दनेनोपयान् प्रभुः ।  
 अयोध्यां भरतः क्षिप्रं प्रविवेश महायशाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ sound entered soon the city of Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बिडालोलूकचरितामालीननरवारणाम् ।  
 तिमिराभ्याहतां कालीमप्रकाशां निशामिव ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ elephants and looking like a night enveloped by gloom, indistinctness and darkne
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राहुशत्रोः प्रियां पत्नीं श्रिया प्रज्वलितप्रभाम् ।  
 ग्रहेणाभ्युदितेनैकां रोहिणीमिव पीडिताम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ what is known as a lunar eclipse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पोष्णक्षुब्धसलिलां घर्मतप्तविहङ्गमाम् ।  
 लीनमीनझषग्राहां कृशां गिरिनदीमिव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ big and alligators had perished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधूमामिव हेमाभां शिखामग्नेः समुत्थिताम् ।  
 हविरभ्युक्षितां पश्चाच्छिखां विप्रलयं गताम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ it, rises like a golden cone without smoke and thereafter sinks into extinction 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विध्वस्तकवचां रुग्णगजवाजिरथध्वजाम् ।  
 हतप्रवीरामापन्नां चमूमिव महाहवे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,12 +327,15 @@ slain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सफेनां सस्वनां भूत्वा सागरस्य समुत्थिताम् ।  
 प्रशान्तमारुतोद‍्धूतां जलोर्मिमिव निःस्वनाम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +378,15 @@ roar, is rendered noiseless, being shaken up by a silent wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यक्तां यज्ञायुधैः सर्वैरभिरूपैश्च याजकैः ।  
 सुत्याकाले सुनिर्वृत्ते वेदिं गतरवामिव ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ recitations by the learned priests.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोष्ठमध्ये स्थितामार्तामचरन्तीं नवं तृणम् ।  
 गोवृषेण परित्यक्तां गवां पत्नीमिवोत्सुकाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ pastures and stand in the cow-pen, dispirited.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभाकराद्यैः सुस्निग्धैः प्रज्वलद्भिरिवोत्तमैः ।  
 वियुक्तां मणिभिर्जात्यैर्नवां मुक्तावलीमिव ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +526,15 @@ excellent gems, rubies and the like, of genuine quality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहसाचरितां स्थानान्महीं पुण्यक्षयाद् गताम् ।  
 संहृतद्युतिविस्तारां तारामिव दिवश्च्युताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +575,15 @@ exhausted, soon dropped from the sky and fallen to earth, deprived of its splend
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पनद्धां वसन्तान्ते मत्तभ्रमरशालिनीम् ।  
 द्रुतदावाग्निविप्लुष्टां क्लान्तां वनलतामिव ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +624,15 @@ withering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्मूढनिगमां सर्वां सङ्क्षिप्तविपणापणाम् ।  
 प्रच्छन्नशशिनक्षत्रां द्यामिवाम्बुधरैर्युताम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +673,15 @@ resembled like a firmament, covered with clouds, with the moon and stars obscure
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षीणपानोत्तमैर्भग्नैः शरावैरभिसंवृताम् ।  
 हतशौण्डामिव ध्वस्तां पानभूमिमसंस्कृताम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,12 +724,15 @@ broken and the pieces stewn in disorder.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्णभूमितलां निम्नां वृक्णपात्रैः समावृताम् ।  
 उपयुक्तोदकां भग्नां प्रपां निपतितामिव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ vessels, its water having been used up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विपुलां विततां चैव युक्तपाशां तरस्विनाम् ।  
 भूमौ बाणैर्विनिष्कृत्तां पतितां ज्यामिवायुधात् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +826,15 @@ both ends, but severed from the bow by the arrows of heroes and fallen to the gr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहसा युद्धशौण्डेन हयारोहेण वाहिताम् ।  
 निहतां प्रतिसैन्येन वडवामिव पातिताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,12 +874,15 @@ and fallen down when killed by the opposite army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु रथस्थः सन् श्रीमान् दशरथात्मजः ।  
 वाहयन्तं रथश्रेष्ठं सारथिं वाक्यमब्रवीत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +919,15 @@ following words to the charioteer who was riding his excellent chariot:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु खल्वद्य गम्भीरो मूर्च्छितो न निशाम्यते ।  
 यथापुरमयोध्यायां गीतवादित्रनिःस्वनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +970,15 @@ not heard as before in Ayodhya today?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणीमदगन्धश्च माल्यगन्धश्च मूर्च्छितः ।  
 चन्दनागुरुगन्धश्च न प्रवाति समन्ततः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1022,15 @@ wafted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानप्रवरघोषश्च सुस्निग्धहयनिःस्वनः ।  
 प्रमत्तगजनादश्च महांश्च रथनिःस्वनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -982,6 +1047,7 @@ wafted."
 
 परमोत्तम वाहनगळ सद्दु, कुदुरॆगळु कॆनॆयुव शब्द मत्त गजगळु घीळुडुव गर्जनॆ, रथगळ गरगर महानाद इद्यावुदू केळिबरुत्तिल्ल.॥21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -990,6 +1056,8 @@ wafted."
 गते रामे हि तरुणाः सन्तप्ता नोपभुञ्जते ।  
 बहिर्यात्रां न गच्छन्ति चित्रमाल्यधरा नराः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1122,15 @@ intoxicating elephants and the clattering of the great chariots in this city now
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नोत्सवाः सम्प्रवर्तन्ते रामशोकार्दिते पुरे ।  
 सा हि नूनं मम भ्रात्रा पुरस्यास्य द्युतिर्गता ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,6 +1172,7 @@ pleasure-trips, wearing colourful garlands nor festivals are observed by them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1108,6 +1180,8 @@ pleasure-trips, wearing colourful garlands nor festivals are observed by them."
 कदा नु खलु मे भ्राता महोत्सव इवागतः ॥ २५ ॥  
 जनयिष्यत्ययोध्यायां हर्षं ग्रीष्म इवाम्बुदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1149,12 +1223,15 @@ Ayodhya is not shining indeed, like a rainy night at the time of the waning moon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणैश्चारुवेषैश्च नरैरुन्नतगामिभिः ॥ २६ ॥  
 सम्पतद्भिरयोध्यायां नाभिभान्ति महापथाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1188,6 +1265,7 @@ autumnal rains?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1195,6 +1273,8 @@ autumnal rains?"
 अयोध्यां सम्प्रविश्यैव विवेश वसतिं पितुः ।  
 तेन हीनां नरेन्द्रेण सिंहहीनां गुहामिव ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,6 +1334,7 @@ bearing themselves bravely and roaming about in groups."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1262,6 +1343,8 @@ bearing themselves bravely and roaming about in groups."
 निरीक्ष्य सर्वत्र विभक्तमात्मवान्  
 मुमोच बाष्पं भरतः सुदुःखितः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,5 +1399,6 @@ gynaecium, looking like a day without the sun with its relinquished radiance.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनाल्कनॆय सर्ग पूर्णवायितु ॥114॥
+</details>
 </details>
 

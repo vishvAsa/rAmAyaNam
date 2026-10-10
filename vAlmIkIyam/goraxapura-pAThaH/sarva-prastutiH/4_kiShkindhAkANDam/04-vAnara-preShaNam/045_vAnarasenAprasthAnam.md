@@ -2,6 +2,8 @@
 title = "०४५ वानरसेनाप्रस्थानम्"
 title_english = "045 The war cries of monkey soldiers"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ the *sugriiva aaj~na* 'the inviolable order of Sugreeva.'
 
 45. विभिन्न दिशाओंमें जाते हुए वानरोंका सुग्रीवके समक्ष अपने उत्साहसूचक वचन सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वांश्चाहूय सुग्रीवः प्लवगान् प्लवगर्षभः ।  
 समस्तांश्चाब्रवीद् राजा रामकार्यार्थसिद्धये ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ shall search all of this earth as I have detailed." Sugreeva said so to all monk
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,6 +85,8 @@ shall search all of this earth as I have detailed." Sugreeva said so to all monk
 तदुग्रशासनं भर्तुर्विज्ञाय हरिपुङ्गवाः ॥ २ ॥  
 शलभा इव सञ्छाद्य मेदिनीं सम्प्रतस्थिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ started out covering the earth like grasshoppers. [4-45-2, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः प्रस्रवणे तस्मिन् न्यवसत् सहलक्ष्मणः ॥ ३ ॥  
 प्रतीक्षमाणस्तं मासं सीताधिगमने कृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ month which is marked for locating Seetha. [4-45-3b, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरां तु दिशं रम्यां गिरिराजसमावृताम् ॥ ४ ॥  
 प्रतस्थे सहसा वीरो हरिः शतबलिस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,6 +226,7 @@ quarter that is encompassed by the king of mountains, namely Himavanta. [4-45-4b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,6 +236,8 @@ quarter that is encompassed by the king of mountains, namely Himavanta. [4-45-4b
 पश्चिमां च दिशं घोरां सुषेणः प्लवगेश्वरः ।  
 प्रतस्थे हरिशार्दूलो दिशं वरुणपालिताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +304,15 @@ once trodden by Sage Agastya, along with Lt. Tara, Prince-regent Angada, and oth
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वा दिशो राजा चोदयित्वा यथातथम् ।  
 कपिसेनापतिर्वीरो मुमोद सुखितः सुखम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +358,15 @@ as a requital to Rama's help. [4-45-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सञ्चोदिताः सर्वे राज्ञा वानरयूथपाः ।  
 स्वां स्वां दिशमभिप्रेत्य त्वरिताः सम्प्रतस्थिरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,6 +406,7 @@ expeditiously started towards one's own direction. [4-45-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,6 +425,8 @@ expeditiously started towards one's own direction. [4-45-9]
 भूतले सागरे वापि शैलेषु च वनेषु च ।  
 पातालस्यापि वा मध्ये न ममाच्छिद्यते गतिः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +615,15 @@ like lions. [4-45-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येकैकस्तदा तत्र वानरा बलदर्पिताः ।  
 ऊचुश्च वचनं तस्य हरिराजस्य सन्निधौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,5 +676,6 @@ the audience of monkeys king Sugreeva and departed. [4-45-17]
 </details>
 
 <details><summary>Misc Detail</summary>
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०६५ वानरैः सागरोल्लङ्घनभयम्"
 title_english = "065 Monkeys fear to jump the ocean"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ Hanuma to undertake the task of leaping the ocean.
 
 65. बारी-बारीसे वानर-वीरोंके द्वारा अपनी-अपनी गमनशक्तिका वर्णन, जाम्बवान् और अङ्गदकी बातचीत तथा जाम्बवान‍्का हनुमान‍्जी को प्रेरित करनेके लिये उनके पास जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाङ्गदवचः श्रुत्वा ते सर्वे वानरर्षभाः ।  
 स्वं स्वं गतौ समुत्साहमूचुस्तत्र यथाक्रमम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,12 +51,15 @@ Hanuma to undertake the task of leaping the ocean.
 
 अङ्गदन मातन्नु केळि आ श्रेष्ठ वानररॆल्लरू तम्म-तम्म हारुव सामर्थ्यवन्नु उत्साहदॊन्दिगॆ यथानुक्रमवागि हेळिदरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजो गवाक्षो गवयः शरभो गन्धमादनः ।  
 मैन्दश्च द्विविदश्चैव सुषेणो जाम्बवांस्तथा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +99,15 @@ individually said about their abilities in the matter of leaping the ocean accor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आबभाषे गजस्तत्र प्लवेयं दशयोजनम् ।  
 गवाक्षो योजनान्याह गमिष्यामीति विंशतिम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +149,15 @@ over twenty yojana-s..." [4-65-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरभो वानरस्तत्र वानरांस्तानुवाच ह ।  
 त्रिंशतं तु गमिष्यामि योजनानां प्लवङ्गमाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +174,15 @@ over twenty yojana-s..." [4-65-3]
 
 इदाद बळिक अल्लि शरभ ऎम्ब वानरनु आ कपिवररल्लि- वानररे! नानु मूवत्तु योजनदवरॆगॆ ऒम्मॆगॆ हारबल्लॆनु ऎन्दु हेळिदनु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषभो वानरस्तत्र वानरांस्तानुवाच ह ।  
 चत्वारिंशद् गमिष्यामि योजनानां न संशयः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +202,15 @@ _________________
 
 बळिक कपिवर ऋषभनु आ वानररल्लि - नानु नलवनत्तु योजन होगबल्लॆ, इदरल्लि संशयविल्ल ऎन्दु हेळिदनु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरांस्तु महातेजा अब्रवीद् गन्धमादनः ।  
 योजनानां गमिष्यामि पञ्चाशत्तु न संशयः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +227,15 @@ _________________
 
 आग महातेजस्वी गन्धमादननु आ वानररल्लि हेळिदनु - नानु ऐवत्तु योजनद दूरवन्नु ऒम्मॆगॆ हारबल्लॆनु; इदरल्लि संशयवे इल्ल.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैन्दस्तु वानरस्तत्र वानरांस्तानुवाच ह ।  
 योजनानां परं षष्टिमहं प्लवितुमुत्सहे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +252,15 @@ _________________
 
 अनन्तर वानरवीर मैन्दनु वानररल्लि - नानु अरवत्तुयोजन हारिहोगुव उत्साह नन्नल्लि इदॆ ऎन्दु हेळिदनु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तत्र महातेजा द्विविदः प्रत्यभाषत ।  
 गमिष्यामि न सन्देहः सप्ततिं योजनान्यहम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +277,15 @@ _________________
 
 मत्तॆ महातेजस्वी द्विविदनु - नानु ऎप्पत्तु योजनदवरॆगॆ हारबल्लॆ, इदरल्लि संशयवे इल्ल ऎन्दु हेळिदनु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषेणस्तु महातेजाः सत्त्ववान् कपिसत्तमः ।  
 अशीतिं प्रतिजानेऽहं योजनानां पराक्रमे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +338,15 @@ eighty yojana-s..." [4-65-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां कथयतां तत्र सर्वांस्ताननुमान्य च ।  
 ततो वृद्धतमस्तेषां जाम्बवान् प्रत्यभाषत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,6 +389,7 @@ about their jumping capacities, has informed them in this way. [4-65-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,6 +400,8 @@ about their jumping capacities, has informed them in this way. [4-65-10]
 साम्प्रतं कालमस्माकं या गतिस्तां निबोधत ।  
 नवतिं योजनानां तु गमिष्यामि न संशयः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,6 +498,7 @@ The use of the word 'us' is to mean 'for me...' as a kind of royal 'we'.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -471,6 +507,8 @@ The use of the word 'us' is to mean 'for me...' as a kind of royal 'we'.
 मया वैरोचने यज्ञे प्रभविष्णुः सनातनः ।  
 प्रदक्षिणीकृतः पूर्वं क्रममाणस्त्रिविक्रमम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +573,15 @@ stint of going was not definitely limited only thereunto... [4-65-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स इदानीमहं वृद्धः प्लवने मन्दविक्रमः ।  
 यौवने च तदासीन्मे बलमप्रतिमं परम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +621,15 @@ soldier of misfortune, though my energy in youth was unmatchable and unsurpassab
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रत्येतावदेवाद्य शक्यं मे गमने स्वतः ।  
 नैतावता च संसिद्धिः कार्यस्यास्य भविष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +670,15 @@ that much endeavour that task will be unaccomplished..." So said Jambavanta to m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोत्तरमुदारार्थमब्रवीदङ्गदस्तदा ।  
 अनुमान्य तदा प्राज्ञो जाम्बवन्तं महाकपिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +723,15 @@ nature and behaviour 'nearly' equals that of gorillas, chimps, or even monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेतद् गमिष्यामि योजनानां शतं महत् ।  
 निवर्तने तु मे शक्तिः स्यान्न वेति न निश्चितम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -721,12 +771,15 @@ whether I am capable of coming back or not, it is indefinite... [4-65-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच हरिश्रेष्ठं जाम्बवान् वाक्यकोविदः ।  
 ज्ञायते गमने शक्तिस्तव हर्यृक्षसत्तम ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +820,15 @@ traversal... [4-65-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं शतसहस्रं वा नह्येष विधिरुच्यते ।  
 योजनानां भवान् शक्तो गन्तुं प्रतिनिवर्तितुम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,12 +871,15 @@ and come back... but this method of our sending you is uncanonical... [4-65-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि प्रेषयिता तात स्वामी प्रेष्यः कथञ्चन ।  
 भवतायं जनः सर्वः प्रेष्यः प्लवगसत्तम ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +920,15 @@ fly-jumper, all of these people are assignable by you... [4-65-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् कलत्रमस्माकं स्वामिभावे व्यवस्थितः ।  
 स्वामी कलत्रं सैन्यस्य गतिरेषा परन्तप ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +974,15 @@ The word kalatra meaning 'that which need be protected,' has other meanings like
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि वै तस्य कार्यस्य भवान् मूलमरिन्दम ।  
 तस्मात् कलत्रवत् तात प्रतिपाल्यः सदा भवान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1022,15 @@ Angada, you are always to be protected like anything that needs safeguarding... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूलमर्थस्य संरक्ष्यमेष कार्यविदां नयः ।  
 मूले हि सति सिध्यन्ति गुणाः सर्वे फलोदयाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,12 +1074,15 @@ yield fruits... [4-65-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् भवानस्य कार्यस्य साधनं सत्यविक्रम ।  
 वुद्धिविक्रमसम्पन्नो हेतुरत्र परन्तप ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,12 +1126,15 @@ searching Seetha... [4-65-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुश्च गुरुपुत्रश्च त्वं हि नः कपिसत्तम ।  
 भवन्तमाश्रित्य वयं समर्था ह्यर्थसाधने ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,12 +1175,15 @@ our task..." So said Jambavanta to Angada. [4-65-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्यं महाप्राज्ञं जाम्बवन्तं महाकपिः ।  
 प्रत्युवाचोत्तरं वाक्यं वालिसूनुरथाङ्गदः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,12 +1223,15 @@ Vali Angada said this sentence in reply as an answer. [4-65-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि नाहं गमिष्यामि नान्यो वानरपुङ्गवः ।  
 पुनः खल्विदमस्माभिः कार्यं प्रायोपवेशनम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1191,12 +1271,15 @@ to undertake self-immolation once again, isn't it! [4-65-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्यकृत्वा हरिपतेः सन्देशं तस्य धीमतः ।  
 तत्रापि गत्वा प्राणानां न पश्ये परिरक्षणम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1237,12 +1320,15 @@ without fulfilling the bidding of that resolute king of monkeys Sugreeva... [4-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि प्रसादे चात्यर्थकोपे च हरिरीश्वरः ।  
 अतीत्य तस्य सन्देशं विनाशो गमने भवेत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1285,12 +1371,15 @@ our going to Kishkindha trespassing his bidding is as good as our entering into 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्तथा ह्यस्य कार्यस्य न भवत्यन्यथा गतिः ।  
 तद् भवानेव दृष्टार्थः सञ्चिन्तयितुमर्हति ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,12 +1421,15 @@ Angada said to Jambavanta. [4-65-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽङ्गदेन तदा वीरः प्रत्युक्तः प्लवगर्षभः ।  
 जाम्बवानुत्तमं वाक्यं प्रोवाचेदं ततोऽङ्गदम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1377,12 +1469,15 @@ Jambavanta advised him in this best sentence to Angada. [4-65-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ते वीर कार्यस्य न किञ्चित् परिहास्यते ।  
 एष सञ्चोदयाम्येनं यः कार्यं साधयिष्यति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1422,6 +1517,7 @@ motivate him who achieves success of this mission of searching Seetha... [4-65-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1430,6 +1526,8 @@ motivate him who achieves success of this mission of searching Seetha... [4-65-3
 सञ्चोदयामास हरिप्रवीरो  
 हरिप्रवीरं हनुमन्तमेव ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1506,5 +1604,6 @@ raavaNasya balam j~naatvaa tiire nada nadii pateH | skaanda puraaNa*
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥65॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३२ बलस्तुतिः"
 title_english = "032 Ravana s pomp and pride"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,6 +23,7 @@ the hand of Lakshmana.
 
 32. शूर्पणखाका लंकामें रावणके पास जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ the hand of Lakshmana.
 दूषणं च खरं चैव हतं त्रिशिरसं रणे ।  
 दृष्ट्वा पुनर्महानादान् ननाद जलदोपमा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ a thundercloud. [3-32-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा दृष्ट्वा कर्म रामस्य कृतमन्यैः सुदुष्करम् ।  
 जगाम परमोद्विग्ना लङ्कां रावणपालिताम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ Lanka ruled by Ravana. [3-32-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा ददर्श विमानाग्रे रावणं दीप्ततेजसम् ।  
 उपोपविष्टं सचिवैर्मरुद्भिरिव वासवम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +191,15 @@ and it came be used as just 'sitting...' Thus, the tautological tendencies were 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीनं सूर्यसङ्काशे काञ्चने परमासने ।  
 रुक्मवेदिगतं प्राज्यं ज्वलन्तमिव पावकम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,6 +260,7 @@ making him to glow to the bedazzlement of all the worlds. And how he got that In
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -254,6 +269,8 @@ making him to glow to the bedazzlement of all the worlds. And how he got that In
 देवासुरविमर्देषु वज्राशनिकृतव्रणम् ।  
 ऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -317,6 +334,7 @@ saw. [3-32-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,6 +343,8 @@ saw. [3-32-6]
 नद्धवैदूर्यसङ्काशं तप्तकाञ्चनभूषणम् ।  
 सुभुजं शुक्लदशनं महास्यं पर्वतोपमम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,12 +418,15 @@ chapter bhujamuurthoru baahulyaa dekopidhana daanuja etc., but not vividly portr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णुचक्रनिपातैश्च शतशो देवसंयुगे ।  
 अन्यैः शस्त्रैः प्रहारैश्च महायुद्धेषु ताडितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +482,15 @@ on such a winning spree, ineradicably.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहताङ्गैः समस्तैस्तं देवप्रहरणैस्तदा ।  
 अक्षोभ्याणां समुद्राणां क्षोभणं क्षिप्रकारिणम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +531,15 @@ ocean at his wish, at such Ravana Shuurpanakha saw. [3-32-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षेप्तारं पर्वताग्राणां सुराणां च प्रमर्दनम् ।  
 उच्छेत्तारं च धर्माणां परदाराभिमर्शनम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,6 +580,7 @@ a molester of others wives, Shuurpanakha saw. [3-32-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -558,6 +588,8 @@ a molester of others wives, Shuurpanakha saw. [3-32-12]
 पुरीं भोगवतीं गत्वा पराजित्य च वासुकिम् ॥ १३ ॥  
 तक्षकस्य प्रियां भार्यां पराजित्य जहार यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +634,15 @@ wives. [3-32-13, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासं पर्वतं गत्वा विजित्य नरवाहनम् ॥ १४ ॥  
 विमानं पुष्पकं तस्य कामगं वै जहार यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +677,15 @@ Shuurpanakha saw such a grabber of others possessions. [3-32-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं चैत्ररथं दिव्यं नलिनीं नन्दनं वनम् ॥ १५ ॥  
 विनाशयति यः क्रोधाद् देवोद्यानानि वीर्यवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +727,15 @@ along with other paradisiacal gardens of gods, Shuurpanakha saw such an envious 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रसूर्यौ महाभागावुत्तिष्ठन्तौ परन्तपौ ॥ १६ ॥  
 निवारयति बाहुभ्यां यः शैलशिखरोपमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,12 +782,15 @@ and stay / The rising of the Lord of Day. - Griffith.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशवर्षसहस्राणि तपस्तप्त्वा महावने ॥ १७ ॥  
 पुरा स्वयम्भुवे धीरः शिरांस्युपजहार यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +831,15 @@ a Ravana with such ten heads. [3-32-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वपिशाचपतगोरगैः ॥ १८ ॥  
 अभयं यस्य सङ्ग्रामे मृत्युतो मानुषादृते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +879,15 @@ devils, birds, or reptiles, excepting humans, and Shuurpanakha saw such an unimp
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रैरभिष्टुतं पुण्यमध्वरेषु द्विजातिभिः ॥ १९ ॥  
 हविर्धानेषु यः सोममुपहन्ति महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,12 +929,15 @@ since it is intended and shall belong to Indra and other divinities, and she saw
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तयज्ञहरं दुष्टं ब्रह्मघ्नं क्रूरकारिणम् ॥ २० ॥  
 कर्कशं निरनुक्रोशं प्रजानामहिते रतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -937,12 +990,15 @@ who dare to conduct rituals for Indra and other divinities.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं सर्वभूतानां सर्वलोकभयावहम् ॥ २१ ॥  
 राक्षसी भ्रातरं क्रूरं सा ददर्श महाबलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,6 +1054,7 @@ apatyam pumaan raavaNaH* 'Ravana's son is Raavana.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1005,6 +1062,8 @@ apatyam pumaan raavaNaH* 'Ravana's son is Raavana.'
 आसने सूपविष्टं तं काले कालमिवोद्यतम् ।  
 राक्षसेन्द्रं महाभागं पौलस्त्यकुलनन्दनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1043,12 +1102,15 @@ for the Eventual-Time. [3-32-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपगम्याब्रवीद् वाक्यं राक्षसी भयविह्वला ।  
 रावणं शत्रुहन्तारं मन्त्रिभिः परिवारितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,6 +1146,7 @@ this sentence. [3-32-23b, 24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1092,6 +1155,8 @@ this sentence. [3-32-23b, 24]
 सुदारुणं वाक्यमभीतचारिणी  
 महात्मना शूर्पणखा विरूपिता ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1147,5 +1212,6 @@ Shuurpanakha spoke this very caustic sentence to Ravana, whose eyes are broad an
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्ष रामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥32॥
+</details>
 </details>
 

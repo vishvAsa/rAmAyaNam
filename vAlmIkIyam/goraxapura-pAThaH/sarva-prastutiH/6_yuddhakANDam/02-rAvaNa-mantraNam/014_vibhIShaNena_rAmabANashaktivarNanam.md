@@ -2,6 +2,8 @@
 title = "०१४ विभीषणेन रामबाणशक्तिवर्णनम्"
 title_english = "014 Vibhishana informs about the power of Rama s arrow"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,6 +25,7 @@ to save Ravana by giving back Sita to Rama.
 
 14. विभीषणका रामको अजेय बताकर उनके पास सीताको लौटा देनेकी सम्मति देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ to save Ravana by giving back Sita to Rama.
 विभीषणो राक्षसराजमुख्य-  
 मुवाच वाक्यं हितमर्थयुक्तम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,6 +82,7 @@ ogres:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +91,8 @@ ogres:
 पञ्चाङ्गुलीपञ्चशिरोऽतिकायः  
 सीतामहाहिस्तव केन राजन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,6 +139,7 @@ sharp fangs as her sweet smile and with five hoods as her five fingers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,6 +148,8 @@ sharp fangs as her sweet smile and with five hoods as her five fingers."
 दंष्ट्रायुधाश्चैव नखायुधाश्च  
 प्रदीयतां दाशरथाय मैथिली ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,6 +195,7 @@ and nails as weapons, rush full upon the city of Lanka, give back Sita to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,6 +204,8 @@ and nails as weapons, rush full upon the city of Lanka, give back Sita to Rama."
 वज्रोपमा वायुसमानवेगाः  
 प्रदीयतां दाशरथाय मैथिली ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,6 +243,7 @@ dispatched by Rama, take away the heads of chiefs of demons, give back Sita to R
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -237,6 +252,8 @@ dispatched by Rama, take away the heads of chiefs of demons, give back Sita to R
 निकुम्भकुम्भौ च तथातिकायः  
 स्थातुं समर्था युधि राघवस्य ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,6 +295,7 @@ either Nikumbha or Kumbha or even Atikaya cannot withstand Rama in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -286,6 +304,8 @@ either Nikumbha or Kumbha or even Atikaya cannot withstand Rama in battle."
 न वासवस्याङ्कगतो न मृत्यो-  
 र्नभो न पातालमनुप्रविष्टः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,6 +357,7 @@ the earth you will not be spared by the arrows of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -345,6 +366,8 @@ the earth you will not be spared by the arrows of Rama."
 न नो भयं विद्म न दैवतेभ्यो  
 न दानवेभ्योऽप्यथवा कदाचित् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,6 +405,7 @@ fear at all. We do not have fear of either celestials or demons at any time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -390,6 +414,8 @@ fear at all. We do not have fear of either celestials or demons at any time."
 कथं नु रामाद् भविता भयं नो  
 नरेन्द्रपुत्रात् समरे कदाचित् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,6 +454,7 @@ the case, how can we have fear from Rama, the son of a human king at any time in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -436,6 +463,8 @@ the case, how can we have fear from Rama, the son of a human king at any time in
 ततो महार्थं वचनं बभाषे  
 धर्मार्थकामेषु निविष्टबुद्धिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,6 +511,7 @@ words as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -490,6 +520,8 @@ words as follows:
 ब्रवीत रामं प्रति तन्न शक्यं  
 यथा गतिः स्वर्गमधर्मबुद्धेः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,6 +565,7 @@ to heaven by wicked minded persons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -541,6 +574,8 @@ to heaven by wicked minded persons."
 कथं भवेदर्थविशारदस्य  
 महार्णवं तर्तुमिवाप्लवस्य ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +617,7 @@ in all matters, any more than a person without a bark to cross a great ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -590,6 +626,8 @@ in all matters, any more than a person without a bark to cross a great ocean."
 पुरोऽस्य देवाश्च तथाविधस्य  
 कृत्येषु शक्तस्य भवन्ति मूढाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,6 +674,7 @@ capable of accomplishing his objects."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -644,6 +683,8 @@ capable of accomplishing his objects."
 भित्त्वा शरीरं प्रविशन्ति बाणाः  
 प्रहस्त तेनैव विकत्थसे त्वम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,6 +731,7 @@ That is why, you indulge in a boastful talk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -698,6 +740,8 @@ That is why, you indulge in a boastful talk."
 शिताः शरा राघवविप्रमुक्ताः  
 प्रहस्त तेनैव विकत्थसे त्वम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,6 +788,7 @@ talk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -752,6 +797,8 @@ talk."
 न चेन्द्रजिद् दाशरथिं प्रवोढुं  
 त्वं वा रणे शक्रसमं समर्थः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,6 +849,7 @@ battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -810,6 +858,8 @@ battle."
 अकम्पनश्चाद्रिसमानसारः  
 स्थातुं न शक्ता युधि राघवस्य ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,6 +904,7 @@ Akampana who is mighty as an ocean are not capable to withstand against Rama in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -862,6 +913,8 @@ Akampana who is mighty as an ocean are not capable to withstand against Rama in 
 अन्वास्यते राक्षसनाशनार्थे  
 तीक्ष्णः प्रकृत्या ह्यसमीक्षकारी ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,6 +980,7 @@ hunting and gambling.
 पानं स्त्री मृगया द्यूतं व्यसनं सप्तधा प्रभो ॥  
 (कामन्दक नीतिका वचन गोविन्दराजकी टीका रामायण-भूषणसे) वाणी और दण्डकी कठोरता, धनका अपव्यय, मद्यपान, स्त्री, मृगया और द्यूत—ये राजाके सात प्रकारके व्यसन हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -935,6 +989,8 @@ hunting and gambling.
 बलात् परिक्षिप्तमिमं भवन्तो  
 राजानमुत्क्षिप्य विमोचयन्तु ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,6 +1041,7 @@ free."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -993,6 +1050,8 @@ free."
 निगृह्य राजा परिरक्षितव्यो  
 भूतैर्यथा भीमबलैर्गृहीतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,6 +1098,7 @@ taken ossession of by evil spirits with terrific strength, is protected by one's
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1047,6 +1107,8 @@ taken ossession of by evil spirits with terrific strength, is protected by one's
 युक्तस्त्वयं तारयितुं समेत्य  
 काकुत्स्थपातालमुखे पतन् सः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,6 +1157,7 @@ Rama, is fit to be rescued united by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1103,6 +1166,8 @@ Rama, is fit to be rescued united by you."
 सम्यग्घि वाक्यं स्वमतं ब्रवीमि  
 नरेन्द्रपुत्राय ददातु मैथिलीम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1211,7 @@ Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1154,6 +1220,8 @@ Rama."
 तथा स्वपक्षेऽप्यनुमृश्य बुद‍्ध्या  
 वदेत् क्षमं स्वामिहितं स मन्त्री ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1217,5 +1285,6 @@ king."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिनाल्कनॆय सर्ग पूर्णवायितु.॥14॥
+</details>
 </details>
 

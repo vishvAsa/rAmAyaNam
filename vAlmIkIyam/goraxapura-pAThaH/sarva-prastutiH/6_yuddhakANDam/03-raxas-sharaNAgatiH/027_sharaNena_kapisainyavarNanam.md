@@ -2,6 +2,8 @@
 title = "०२७ शरणेन कपिसैन्यवर्णनम्"
 title_english = "027 Sharana describes the individual strength of the army"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ the army of monkeys, mentioning their names one by one, in detail.
 
 27. वानरसेनाके प्रधान यूथपतियोंका परिचय
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु ते सम्प्रवक्ष्यामि प्रेक्षमाणस्य यूथपान् ।  
 राघवार्थे पराक्रान्ता ये न रक्षन्ति जीवितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,6 +53,7 @@ the army of monkeys, mentioning their names one by one, in detail.
 
 सारणनु मुन्दुवरिसुत्तानॆ- महाराज! वानर सैन्यवन्नु गमनिसुत्तिरुव निमगॆ, रामन सलुवागि तम्म पराक्रम तोरुव, जीवद हङ्गन्नु तॊरॆदु बन्दिरुव दळपतिगळ परिचयमाडिकॊडुत्तेनॆ.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,6 +65,8 @@ the army of monkeys, mentioning their names one by one, in detail.
 वृक्षानुद्यम्य सहसा लङ्कारोहणतत्पराः ॥ ४ ॥  
 यूथपा हरिराजस्य किङ्कराः समुपस्थिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +127,7 @@ soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,6 +141,8 @@ soon."
 ऋक्षवन्तं गिरिश्रेष्ठमध्यास्ते नर्मदां पिबन् ।  
 सर्वर्क्षाणामधिपतिर्धूम्रो नामैष यूथपः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,6 +237,7 @@ mountains, plains and on river-banks. They are all coming towards you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -234,6 +246,8 @@ mountains, plains and on river-banks. They are all coming towards you."
 स एष जाम्बवान् नाम महायूथपयूथपः ।  
 प्रशान्तो गुरुवर्ती च सम्प्रहारेष्वमर्षणः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,12 +303,15 @@ respectful behaviour towards venerable persons impatient in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन साह्यं तु महत् कृतं शक्रस्य धीमता ।  
 दैवासुरे जाम्बवता लब्धाश्च बहवो वराः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,6 +352,7 @@ celestials) in a battle between celestials and demons and many boons were obtain
 
 बुद्धिवन्त ई जाम्बवन्तनु देवासुरर सङ्ग्रामदल्लि इन्द्रनिगॆ बहळ दॊड्ड सहाय माडिद्दनु हागू इन्द्रनिन्द इवनु बहळष्टु वरगळन्नु पडॆदुकॊण्डिद्दनु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,6 +361,8 @@ celestials) in a battle between celestials and demons and many boons were obtain
 राक्षसानां च सदृशाः पिशाचानां च रोमशाः ।  
 एतस्य सैन्या बहवो विचरन्त्यमितौजसः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +410,7 @@ big as huge clouds. They do not have a fear in facing death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -398,6 +419,8 @@ big as huge clouds. They do not have a fear in facing death."
 एष राजन् सहस्राक्षं पर्युपास्ते हरीश्वरः ।  
 बलेन बलसंयुक्तो दम्भो नामैष यूथपः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,6 +473,7 @@ Dambha who along with his bulky troops dwell on Sahasraksha mountain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -460,6 +484,8 @@ Dambha who along with his bulky troops dwell on Sahasraksha mountain."
 येन युद्धं तदा दत्तं रणे शक्रस्य धीमता ।  
 पराजयश्च न प्राप्तः सोऽयं यूथपयूथपः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,6 +562,7 @@ are ready to show their valour in the case of Rama, even without caring for thei
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -550,6 +577,8 @@ are ready to show their valour in the case of Rama, even without caring for thei
 वृतः कोटिसहस्रेण हरीणां समवस्थितः ।  
 एषैवाशंसते लङ्कां स्वेनानीकेन मर्दितुम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,6 +700,7 @@ shining like the rays of the sun standing erect thrown about are dragging along 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -690,6 +720,8 @@ shining like the rays of the sun standing erect thrown about are dragging along 
 उद्‍धूतमरुणाभासं पवनेन समन्ततः ॥ ३१ ॥  
 विवर्तमानं बहुशो यत्रैतद‍्बहुलं रजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,6 +872,7 @@ mountain-caves, subduing wild elephants."
 
 * हनुमान् जी के पिता वानरराज केसरीने शम्बसादन नामक राक्षसको, जो हाथीका रूप धारण करके आया था, मार डाला था । इसीसे पूर्वकालमें हाथियोंसे वानरोंका वैर बँध गया था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -848,6 +881,8 @@ mountain-caves, subduing wild elephants."
 गोलाङ्गूलं महाराज गवाक्षं नाम यूथपम् ॥ ३३ ॥  
 परिवार्याभिनर्दन्ते लङ्कां मर्दितुमोजसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,6 +932,7 @@ their bodily strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -909,6 +945,8 @@ their bodily strength."
 तत्रैष रमते राजन् रम्ये काञ्चनपर्वते ॥ ३७ ॥  
 मुख्यो वानरमुख्यानां केसरी नाम यूथपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,12 +1014,15 @@ variety."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्टिर्गिरिसहस्राणि रम्याः काञ्चनपर्वताः ॥ ३८ ॥  
 तेषां मध्ये गिरिवरस्त्वमिवानघ रक्षसाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,6 +1042,7 @@ _________________
 
 अरवत्तु साविर रमणीय सुवर्णमय पर्वतगळ नडुवॆ सावर्णिमेरु ऎम्ब ऒन्दु श्रेष्ठ पर्वतविदॆ. राक्षसपतिये! राक्षसरल्लि नीवु श्रेष्ठरागिरुवन्तॆये पर्वतगळल्लि आ पर्वतवु श्रेष्ठवागिदॆ.॥38॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1013,6 +1055,8 @@ _________________
 वृत्तपिङ्गलनेत्रा हि महाभीमगतिस्वनाः ॥ ४२ ॥  
 मर्दयन्तीव ते सर्वे तस्थुर्लङ्कां समीक्ष्य ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,6 +1116,7 @@ like that of clouds. All of them stand looking on your Lanka as if they are abou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1079,6 +1124,8 @@ like that of clouds. All of them stand looking on your Lanka as if they are abou
 जयार्थी नित्यमादित्यमुपतिष्ठति वीर्यवान् ।  
 नाम्ना पृथिव्यां विख्यातो राजन् शतबलीति यः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,6 +1173,7 @@ Shatabali. He swears to destroy Lanka with his troops."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1133,6 +1181,8 @@ Shatabali. He swears to destroy Lanka with his troops."
 विक्रान्तो बलवान् शूरः पौरुषे स्वे व्यवस्थितः ॥ ४५ ॥  
 रामप्रियार्थं प्राणानां दयां न कुरुते हरिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1218,15 @@ manliness. He does not care for his life, in the cause of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजो गवाक्षो गवयो नलो नीलश्च वानरः ॥ ४६ ॥  
 एकैकमेव योधानां कोटिभिर्दशभिर्वृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1213,12 +1266,15 @@ surrounded by crores of warriors."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथान्ये वानरश्रेष्ठा विन्ध्यपर्वतवासिनः ।  
 न शक्यन्ते बहुत्वात् तु सङ्ख्यातुं लघुविक्रमाः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,6 +1317,7 @@ are impossible to be counted because of their multitude."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1269,6 +1326,8 @@ are impossible to be counted because of their multitude."
 सर्वे समर्थाः पृथिवीं क्षणेन  
 कर्तुं प्रविध्वस्तविकीर्णशैलाम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1317,5 +1376,6 @@ by uprooting and razing its mountains to the ground."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तेळनॆय सर्गः पूर्णवायितु. ॥27॥
+</details>
 </details>
 

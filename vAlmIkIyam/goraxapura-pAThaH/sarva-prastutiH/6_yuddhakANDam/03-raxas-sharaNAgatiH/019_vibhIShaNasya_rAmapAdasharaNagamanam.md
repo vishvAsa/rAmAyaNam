@@ -2,6 +2,8 @@
 title = "०१९ विभीषणस्य रामपादशरणगमनम्"
 title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ his army to pass through and reach the city of Lanka.
 
 19. विभीषणका आकाशसे उतरकर भगवान् श्रीरामके चरणोंकी शरण लेना, उनके पूछनेपर रावणकी शक्तिका परिचय देना और श्रीरामका रावण-वधकी प्रतिज्ञा करके विभीषणको लङ्काके राज्यपर अभिषिक्त कर उनकी सम्मतिसे समुद्रतटपर धरना देनेके लिये बैठना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवेणाभये दत्ते सन्नतो रावणानुजः ।  
 विभीषणो महाप्राज्ञो+++(=महा-प्रज्ञः)+++ भूमिं समवलोकयत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +73,7 @@ Vibhishana the brother of Ravana bent down and glanced towards the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +81,8 @@ Vibhishana the brother of Ravana bent down and glanced towards the earth.
 स तु रामस्य धर्मात्मा निपपात विभीषणः ॥ २ ॥  
 पादयोर्निपपाताथ चतुर्भिः सह राक्षसैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ _________________
 
 अवनु तन्न भक्त सेवकरॊन्दिगॆ हर्षगॊण्डु आकाशदिन्द इळिदु भूमिगॆ बन्दनु. इळिदु नाल्कु राक्षसरॊन्दिगॆ धर्मात्मा विभीषणनु श्रीरामचन्द्रन चरणदल्लि कुसिदुबिद्दनु.॥2½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च तदा वाक्यं रामं प्रति विभीषणः ॥ ३ ॥  
 धर्मयुक्तं च युक्तं च साम्प्रतं सम्प्रहर्षणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +160,15 @@ the following words which were equitable suitable and delightful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुजो रावणस्याहं तेन चास्म्यवमानितः ॥ ४ ॥  
 भवन्तं सर्वभूतानां शरण्यं शरणं गतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ you, who are the refuge for all the beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परित्यक्ता मया लङ्का मित्राणि च धनानि च ॥ ५ ॥  
 भवद‍्गतं हि मे राज्यं जीवितं च सुखानि च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,12 +256,15 @@ at your disposal."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा रामो वचनमब्रवीत् ॥ ६ ॥  
 वचसा सान्त्वयित्वैनं लोचनाभ्यां पिबन्निव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,6 +281,7 @@ at your disposal."
 
 विभीषणन ई मातन्नु केळि श्रीरामनु मधुरवाणियिन्द अवनन्नु सान्त्वनगॊळिसि, कण्णु गळिन्दले अवनन्नु कुडिदुबिडुवन्तॆ प्रेमपूर्वक अवन कडॆगॆ नोडुत्ता हेळिदनु.॥6½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -268,6 +289,8 @@ at your disposal."
 एवमुक्तं तदा रक्षो रामेणाक्लिष्टकर्मणा ।  
 रावणस्य बलं सर्वमाख्यातुमुपचक्रमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +350,15 @@ demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवध्यः सर्वभूतानां गन्धर्वोरगपक्षिणाम् ।  
 राजपुत्र दशग्रीवो वरदानात् स्वयम्भुवः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +392,15 @@ not be killed by all beings, Gandharvas (celestial musicians), serpents, and bir
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणानन्तरो भ्राता मम ज्येष्ठश्च वीर्यवान् ।  
 कुम्भकर्णो महातेजाः शक्रप्रतिबलो युधि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,12 +435,15 @@ has enough strength to fight against Indra (Lord of celestials) in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम सेनापतिस्तस्य प्रहस्तो यदि ते श्रुतः ।  
 कैलासे येन समरे मणिभद्रः पराजितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +483,15 @@ Manibhadra in a battle on the mountain of Kailasa."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धगोधाङ्गुलित्राणस्त्ववध्यकवचो युधि ।  
 धनुरादाय यस्तिष्ठन्नदृश्यो भवतीन्द्रजित् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,12 +537,15 @@ in battle wielding a bow, becomes invisible."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्ग्रामे सुमहद‍्व्यूहे तर्पयित्वा हुताशनम् ।  
 अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +583,15 @@ enemy while remaining invisible in the battle field with a huge battle array (on
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरमहापार्श्वौ राक्षसश्चाप्यकम्पनः ।  
 अनीकपास्तु तस्यैते लोकपालसमा युधि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,6 +631,7 @@ guardians of the world in battle - they are the commanders of his army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -598,6 +640,8 @@ guardians of the world in battle - they are the commanders of his army."
 स तैस्तु सहितो राजा लोकपालानयोधयत् ।  
 सह देवैस्तु ते भग्ना रावणेन दुरात्मना ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ form at will and who consume flesh and blood as their staple food"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणस्य तु वचस्तच्छ्रुत्वा रघुसत्तमः ।  
 अन्वीक्ष्य मनसा सर्वमिदं वचनमब्रवीत् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि कर्मापदानानि रावणस्य विभीषण ।  
 आख्यातानि च तत्त्वेन ह्यवगच्छामि तान्यहम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +795,15 @@ were told by you, as true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हत्वा दशग्रीवं सप्रहस्तं सहात्मजम् ।  
 राजानं त्वां करिष्यामि सत्यमेतच्छृणोतु मे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +840,15 @@ the king. Hear this truth from me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसातलं वा प्रविशेत् पातालं वापि रावणः ।  
 पितामहसकाशं वा न मे जीवन् विमोक्ष्यते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +883,15 @@ left alive by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहत्वा रावणं सङ्ख्ये सपुत्रजनबान्धवम् ।  
 अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -876,12 +935,15 @@ and relatives in battle. I take oath on my three brothers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तस्य रामस्याक्लिष्टकर्मणः ।  
 शिरसाऽऽवन्द्य धर्मात्मा वक्तुमेवं प्रचक्रमे ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,12 +984,15 @@ Vibhishana saluted him by bowing his head and started telling as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां वधे साह्यं लङ्कायाश्च प्रधर्षणे ।  
 करिष्यामि यथाप्राणं प्रवेक्ष्यामि च वाहिनीम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,6 +1035,7 @@ According to my strength, I will also penetrate into the army of the adversary t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -978,6 +1044,8 @@ According to my strength, I will also penetrate into the army of the adversary t
 तेन चेमं महाप्राज्ञमभिषिञ्च विभीषणम् ।  
 राजानं रक्षसां क्षिप्रं प्रसन्ने मयि मानद ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,12 +1112,15 @@ and spoke to Lakshmana as follows: "Bring some water from the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सौमित्रिरभ्यषिञ्चद् विभीषणम् ।  
 मध्ये वानरमुख्यानां राजानं राजशासनात् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1180,15 @@ faithful companions and alighted in the vicinity of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रसादं तु रामस्य दृष्ट्वा सद्यः प्लवङ्गमाः ।  
 प्रचुक्रुशुर्महात्मानं साधुसाध्विति चाब्रुवन् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,6 +1228,7 @@ Perceiving that instant graciousness in Rama, the monkeys cried, proclaiming
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1161,6 +1236,8 @@ Perceiving that instant graciousness in Rama, the monkeys cried, proclaiming
 कथं सागरमक्षोभ्यं तराम वरुणालयम् ।  
 सैन्यैः परिवृताः सर्वे वानराणां महौजसाम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1209,12 +1286,15 @@ monkeys possessing a great splendor?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायैरभिगच्छाम यथा नदनदीपतिम् ।  
 तराम तरसा सर्वे ससैन्या वरुणालयम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1334,15 @@ streams and rivers, and arrive at that strategy?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु धर्मात्मा प्रत्युवाच विभीषणः ।  
 समुद्रं राघवो राजा शरणं गन्तुमर्हति ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1299,12 +1382,15 @@ prince Rama seeks ocean as his refuge"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खानितः सगरेणायमप्रमेयो महोदधिः ।  
 कर्तुमर्हति रामस्य ज्ञातेः कार्यं महोदधिः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1349,12 +1435,15 @@ will be inclined to do the act for Rama, his kinsman".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विभीषणेनोक्तो राक्षसेन विपश्चिता ।  
 आजगामाथ सुग्रीवो यत्र रामः सलक्ष्मणः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1397,12 +1486,15 @@ place where Rama and Lakshmana were there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चाख्यातुमारेभे विभीषणवचः शुभम् ।  
 सुग्रीवो विपुलग्रीवः सागरस्योपवेशनम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1437,6 +1529,7 @@ advising Rama to approach the ocean (to allow him a passage).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1444,6 +1537,8 @@ advising Rama to approach the ocean (to allow him a passage).
 सलक्ष्मणं महातेजाः सुग्रीवं च हरीश्वरम् ॥ ३४ ॥  
 सत्क्रियार्थं क्रियादक्षं स्मितपूर्वमभाषत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1465,6 +1560,7 @@ _________________
 
 भगवान् श्रीरामनु स्वभावदिन्दले धर्मशीलनागिद्द. आद्दरिन्द अवनिगू विभीषणन मातु सरि ऎन्दु तोरितु. महातेजस्वी रघुनाथनु लक्ष्मण सहित कार्यदक्ष वानरराज सुग्रीवनन्नु सत्करिसुत्ता लक्ष्मणनल्लि मुगुळ्नक्कु हेळिदनु.॥34½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1472,6 +1568,8 @@ _________________
 सुग्रीवः पण्डितो नित्यं भवान् मन्त्रविचक्षणः ।  
 उभाभ्यां सम्प्रधार्यार्थं रोचते यत् तदुच्यताम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1532,12 +1630,15 @@ brother Lakshmana smilingly as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तौ ततो वीरावुभौ सुग्रीवलक्ष्मणौ ।  
 समुदाचारसंयुक्तमिदं वचनमूचतुः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1580,12 +1681,15 @@ proper courtesy, the following words: .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं नौ नरव्याघ्र न रोचिष्यति राघव ।  
 विभीषणेन यत् तूक्तमस्मिन् काले सुखावहम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1625,12 +1729,15 @@ time of crisis be agreeable also to us?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अबद्‍ध्वा सागरे सेतुं घोरेऽस्मिन् वरुणालये ।  
 लङ्का नासादितुं शक्या सेन्द्रैरपि सुरासुरैः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1670,6 +1777,7 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1677,6 +1785,8 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 अलं कालात्ययं कृत्वा सागरोऽयं नियुज्यताम् ।  
 यथा सैन्येन गच्छाम पुरीं रावणपालिताम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1694,12 +1804,15 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 
 अदक्कागि नीवु शूरवीर विभीषणन यथार्थ वचनक्कनुसारवे कार्य माडिरि. ईग हॆच्चु विळम्ब माडुवुदु सरियल्ल. ई समुद्रदल्लि नमगॆ सहायमाडुवन्तॆ केळिकॊळ्ळुवुदु, इदरिन्द नावु सैन्य सहित रावणपालित लङ्कॆयन्नु तलुपबल्लॆवु.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः कुशास्तीर्णे तीरे नदनदीपतेः ।  
 संविवेश तदा रामो वेद्यामिव हुताशनः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1746,5 +1859,6 @@ city being ruled by Ravana."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥19॥
+</details>
 </details>
 

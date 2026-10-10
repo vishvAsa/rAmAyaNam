@@ -2,6 +2,8 @@
 title = "०३४ लक्ष्मणकृतं सुग्रीवतर्जनम्"
 title_english = "034 Lakshmana upbraids Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ and cautions him to face the wrath of the arrows of Rama.
 
 34. सुग्रीवका लक्ष्मणके पास जाना और लक्ष्मणका उन्हें फटकारना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्रतिहतं क्रुद्धं प्रविष्टं पुरुषर्षभम् ।  
 सुग्रीवो लक्ष्मणं दृष्ट्वा बभूव व्यथितेन्द्रियः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -50,6 +55,7 @@ and cautions him to face the wrath of the arrows of Rama.
 
 लक्ष्मण अडॆ-तडॆयिल्लदॆ ऒळगॆ नुग्गि बन्दिद्दनु. क्रोध तुम्बिद आ पुरुषश्रेष्ठनन्नु नोडि सुग्रीवन ऎल्ल इन्द्रियगळु व्यथितवादुवु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -58,6 +64,8 @@ and cautions him to face the wrath of the arrows of Rama.
 उत्पपात हरिश्रेष्ठो हित्वा सौवर्णमासनम् ।  
 महान् महेन्द्रस्य यथा स्वलङ्कृत इव ध्वजः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ Sugreeva became one with agitated senses. [4-34-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पतन्तमनूत्पेतू रुमाप्रभृतयः स्त्रियः ।  
 सुग्रीवं गगने पूर्णं चन्द्रं तारागणा इव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ emergence of full moon in sky. [4-34-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संरक्तनयनः श्रीमान् सञ्चचार कृताञ्जलिः ।  
 बभूवावस्थितस्तत्र कल्पवृक्षो महानिव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,12 +241,15 @@ here Sugreeva is the giver and Lakshmana is the taker, so this belongs to Sugree
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुमाद्वितीयं सुग्रीवं नारीमध्यगतं स्थितम् ।  
 अब्रवील्लक्ष्मणः क्रुद्धः सतारं शशिनं यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +292,15 @@ with his wife Ruma at his side amid other vanara females. [4-34-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वाभिजनसम्पन्नः सानुक्रोशो जितेन्द्रियः ।  
 कृतज्ञः सत्यवादी च राजा लोके महीयते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,12 +341,15 @@ faithful one and an advocate of truth, he alone thrives as a king in the world. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्तु राजा स्थितोऽधर्मे मित्राणामुपकारिणाम् ।  
 मिथ्या प्रतिज्ञां कुरुते को नृशंसतरस्ततः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ assurances to helpful friends, who can be more ruthless than him? [4-34-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतमश्वानृते हन्ति सहस्रं तु गवानृते ।  
 आत्मानं स्वजनं हन्ति पुरुषः पुरुषानृते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +465,15 @@ beings and committing suicide.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वं कृतार्थो मित्राणां न तत्प्रतिकरोति यः ।  
 कृतघ्नः सर्वभूतानां स वध्यः प्लवगेश्वर ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +509,15 @@ them, oh, king of monkeys, such a treacherous one is eliminable for all beings. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गीतोऽयं ब्रह्मणा श्लोकः सर्वलोकनमस्कृतः ।  
 दृष्ट्वा कृतघ्नं क्रुद्धेन तन्निबोध प्लवङ्गम ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,12 +566,15 @@ Svayambhu Manu who constructed the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोघ्ने चैव सुरापे च चौरे भग्नव्रते तथा ।  
 निष्कृतिर्विहिता सद्भिः कृतघ्ने नास्ति निष्कृतिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +616,15 @@ person. [4-34-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनार्यस्त्वं कृतघ्नश्च मिथ्यावादी च वानर ।  
 पूर्वं कृतार्थो रामस्य न तत्प्रतिकरोषि यत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +666,15 @@ your word of honour. [4-34-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु नाम कृतार्थेन त्वया रामस्य वानर ।  
 सीताया मार्गणे यत्नः कर्तव्यः कृतमिच्छता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +715,15 @@ endeavour through you, and I wonder whether the search for Seetha is not your du
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं ग्राम्येषु भोगेषु सक्तो मिथ्याप्रतिश्रवः ।  
 न त्वां रामो विजानीते सर्पं मण्डूकराविणम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +760,15 @@ realised that you are a serpent with the croaking of a frog. [4-34-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाभागेन रामेण पापः करुणवेदिना ।  
 हरीणां प्रापितो राज्यं त्वं दुरात्मा महात्मना ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +803,15 @@ monkeys, and it is a gain of an evil-soul from a noble-soul. [4-34-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं चेन्नातिजानीषे राघवस्य महात्मनः ।  
 सद्यस्त्वं निशितैर्बाणैर्हतो द्रक्ष्यसि वालिनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +854,15 @@ instantly killed with incisive arrows enabling you to see Vali. [4-34-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स सङ्कुचितः पन्था येन वाली हतो गतः ।  
 समये तिष्ठ सुग्रीव मा वालिपथमन्वगाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,6 +907,7 @@ reproducing the same.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -862,6 +916,8 @@ reproducing the same.
 ततः सुखं नाम विषेवसे सुखी  
 न रामकार्यं मनसाप्यवेक्षसे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,5 +974,6 @@ a thought to Rama's mission even at your heart. [4-34-19]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥34॥
+</details>
 </details>
 

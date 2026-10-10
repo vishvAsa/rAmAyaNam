@@ -2,6 +2,8 @@
 title = "०६८ दशरथागतिः"
 title_english = "068 janaka sends message to ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful
@@ -24,12 +26,15 @@ to that proposal and they are set to travel to Mithila the next day.
 
 68. राजा जनकका संदेश पाकर मन्त्रियोंसहित महाराज दशरथका मिथिला जानेके लिये उद्यत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकेन समादिष्टा दूतास्ते क्लान्तवाहनाः ।  
 त्रिरात्रमुषिता मार्गे तेऽयोध्यां प्राविशन् पुरीम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ so fast to loose no time. [1-68-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते राजवचनाद् गत्वा राजवेश्म प्रवेशिताः ।  
 ददृशुर्देवसङ्काशं वृद्धं दशरथं नृपम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,6 +119,7 @@ king Dasharatha gleaming like a god. [1-68-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ king Dasharatha gleaming like a god. [1-68-2]
 कुशलं चाव्ययं चैव सोपाध्यायपुरोहितम् ।  
 जनकस्त्वां महाराज पृच्छते सपुरःसरम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +217,15 @@ to countenance such a powerful personality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ट्वा कुशलमव्यग्रं वैदेहो मिथिलाधिपः ।  
 कौशिकानुमते वाक्यं भवन्तमिदमब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +262,15 @@ indorse of Kaushika... [1-68-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वं प्रतिज्ञा विदिता वीर्यशुल्का ममात्मजा ।  
 राजानश्च कृतामर्षा निर्वीर्या विमुखीकृताः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +308,15 @@ is also well-known that I turned them back with my guts... [1-68-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेयं मम सुता राजन् विश्वामित्रपुरस्कृतैः ।  
 यदृच्छयागतै राजन् निर्जिता तव पुत्रकैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +368,15 @@ tava pureNa nirjitaa ||* which uses only singular for Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च रत्नं धनुर्दिव्यं मध्ये भग्नं महात्मना ।  
 रामेण हि महाबाहो महत्यां जनसंसदि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +414,15 @@ of people... [1-68-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मै देया मया सीता वीर्यशुल्का महात्मने ।  
 प्रतिज्ञां तर्तुमिच्छामि तदनुज्ञातुमर्हसि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +458,15 @@ solemn promise... [1-68-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोपाध्यायो महाराज पुरोहितपुरस्कृतः ।  
 शीघ्रमागच्छ भद्रं ते द्रष्टुमर्हसि राघवौ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,12 +501,15 @@ to take a look at your ennobled son Rama, and Lakshmana, too... [1-68-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिज्ञां मम राजेन्द्र निर्वर्तयितुमर्हसि ।  
 पुत्रयोरुभयोरेव प्रीतिं त्वमुपलप्स्यसे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +556,15 @@ in-law...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विदेहाधिपतिर्मधुरं वाक्यमब्रवीत् ।  
 विश्वामित्राभ्यनुज्ञातः शतानन्दमते स्थितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +599,15 @@ Thus the envoys conveyed the proposal and paused. [1-68-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दूतवाक्यं तु तच्छ्रुत्वा राजा परमहर्षितः ।  
 वसिष्ठं वामदेवं च मन्त्रिणश्चैवमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +643,15 @@ and said this way to Vashishta, Vaamadeva, and to his other ministers, as well.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुप्तः कुशिकपुत्रेण कौसल्यानन्दवर्धनः ।  
 लक्ष्मणेन सह भ्रात्रा विदेहेषु वसत्यसौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +686,15 @@ along with his brother Lakshmana, and Vishvamitra is taking care of both these b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टवीर्यस्तु काकुत्स्थो जनकेन महात्मना ।  
 सम्प्रदानं सुतायास्तु राघवे कर्तुमिच्छति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +728,15 @@ daughter as bride to Raghava Rama... [1-68-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वो रोचते वृत्तं जनकस्य महात्मनः ।  
 पुरीं गच्छामहे शीघ्रं मा भूत् कालस्य पर्ययः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,12 +782,15 @@ has happened now' i.e., the impossible deed of breaking it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिणो बाढमित्याहुः सह सर्वैर्महर्षिभिः ।  
 सुप्रीतश्चाब्रवीद् राजा श्वो यात्रेति च मन्त्रिणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +828,15 @@ and then that highly pleased king Dasharatha said to the ministers, "we travel t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिणस्तु नरेन्द्रस्य रात्रिं परमसत्कृताः ।  
 ऊषुः प्रमुदिताः सर्वे गुणैः सर्वैः समन्विताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,5 +885,6 @@ sIta kalyANam... [1-68-19]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥68॥
+</details>
 </details>
 

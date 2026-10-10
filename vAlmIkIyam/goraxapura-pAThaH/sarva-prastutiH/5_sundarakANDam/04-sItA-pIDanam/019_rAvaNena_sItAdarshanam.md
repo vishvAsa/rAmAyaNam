@@ -2,6 +2,8 @@
 title = "०१९ रावणेन सीतादर्शनम्"
 title_english = "019 Seetha in Ashoka garden"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -19,6 +21,7 @@ In this chapter Valmiki describes the plight of Seetha in Ashoka garden in detai
 
 19. रावणको देखकर दुःख, भय और चिन्तामें डूबी हुई सीताकी अवस्थाका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27,6 +30,8 @@ In this chapter Valmiki describes the plight of Seetha in Ashoka garden in detai
 ततो दृष्ट्वैव वैदेही रावणं राक्षसाधिपम् ।  
 प्रावेपत वरारोहा प्रवाते कदली यथा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ tree in wind on seeing Ravana the king of rakshasas endowed with beauty and yout
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊरुभ्यामुदरं छाद्य बाहुभ्यां च पयोधरौ ।  
 उपविष्टा विशालाक्षी रुदती वरवर्णिनी ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,6 +113,7 @@ down crying.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -113,6 +122,8 @@ down crying.
 असंवृतायामासीनां धरण्यां संशितव्रताम् ।  
 छिन्नां प्रपतितां भूमौ शाखामिव वनस्पतेः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,12 +186,15 @@ a ship in danger in the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मलमण्डनदिग्धाङ्गीं मण्डनार्हाममण्डनाम् ।  
 मृणाली पङ्कदिग्धेव विभाति न विभाति च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -224,12 +238,15 @@ also.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीपं राजसिंहस्य रामस्य विदितात्मनः ।  
 सङ्कल्पहयसंयुक्तैर्यान्तीमिव मनोरथैः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +279,15 @@ as chariot tied with thoughts as horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुष्यन्तीं रुदतीमेकां ध्यानशोकपरायणाम् ।  
 दुःखस्यान्तमपश्यन्तीं रामां राममनुव्रताम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ and sorrow not seeing the end of grief, following the will of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चेष्टमानामथाविष्टां पन्नगेन्द्रवधूमिव ।  
 धूप्यमानां ग्रहेणेव रोहिणीं धूमकेतुना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +371,15 @@ like Rohini being fumigated by a smoke colored planet called Ketu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृत्तशीले कुले जातामाचारवति धार्मिके ।  
 पुनः संस्कारमापन्नां जातामिव च दुष्कुले ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +416,7 @@ Seetha appeared as if She was born in a bad family.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -402,6 +429,8 @@ Seetha appeared as if She was born in a bad family.
 प्रभामिव तमोध्वस्तामुपक्षीणामिवापगाम् ।  
 वेदीमिव परामृष्टां शान्तामग्निशिखामिव ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,12 +543,15 @@ of learning by heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्कृष्टपर्णकमलां वित्रासितविहङ्गमाम् ।  
 हस्तिहस्तपरामृष्टामाकुलामिव पद्मिनीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +586,15 @@ moon devoured by Rahu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतिशोकातुरां शुष्कां नदीं विस्रावितामिव ।  
 परया मृजया हीनां कृष्णपक्षे निशामिव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -601,12 +636,15 @@ by the trunk of an elephant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकुमारीं सुजाताङ्गीं रत्नगर्भगृहोचिताम् ।  
 तप्यमानामिवोष्णेन मृणालीमचिरोद‍्धृताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +680,15 @@ best washing, was like a new moon night.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतामालितां स्तम्भे यूथपेन विनाकृताम् ।  
 निःश्वसन्तीं सुदुःखार्तां गजराजवधूमिव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +725,15 @@ by heat, like a lotus fibre uprooted short time back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकया दीर्घया वेण्या शोभमानामयत्नतः ।  
 नीलया नीरदापाये वनराज्या महीमिव ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +776,15 @@ herd, sighing, very much tormented by grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासेन शोकेन ध्यानेन च भयेन च ।  
 परिक्षीणां कृशां दीनामल्पाहारां तपोधनाम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +820,15 @@ trees at the end of rainy season.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयाचमानां दुःखार्तां प्राञ्जलिं देवतामिव ।  
 भावेन रघुमुख्यस्य दशग्रीवपराभवम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -793,6 +843,7 @@ _________________
 
 वे दुःखसे आतुर हो अपने कुलदेवतासे हाथ जोड़कर मन-ही-मन यह प्रार्थना-सी कर रही थीं कि श्रीरामचन्द्रजीके हाथसे दशमुख रावणकी पराजय हो ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -801,6 +852,8 @@ _________________
 अनुव्रतां राममतीव मैथिलीं  
 प्रलोभयामास वधाय रावणः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,5 +917,6 @@ limited food and with austerity as wealth.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

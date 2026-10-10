@@ -2,6 +2,8 @@
 title = "००६ अन्तःपुरवर्णनम्"
 title_english = "006 Inside the palace"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ enters the huge house of Ravana.
 
 6. हनुमान् जी का रावण तथा अन्यान्य राक्षसोंके घरोंमें सीताजीकी खोज करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निकामं विमानेषु विचरन् कामरूपधृक् ।  
 विचचार कपिर्लङ्कां लाघवेन समन्वितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ grief. Endowed with great speed, He roamed again the city of Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आससाद च लक्ष्मीवान् राक्षसेन्द्रनिवेशनम् ।  
 प्राकारेणार्कवर्णेन भास्वरेणाभिसंवृतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ hue of Sun, surrounded by a compound wall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षितं राक्षसैर्भीमैः सिंहैरिव महद् वनम् ।  
 समीक्षमाणो भवनं चकाशे कपिकुञ्जरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +168,15 @@ by lions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप्यकोपहितैश्चित्रैस्तोरणैर्हेमभूषणैः ।  
 विचित्राभिश्च कक्ष्याभिर्द्वारैश्च रुचिरैर्वृतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ strange entrances and beautiful doors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजास्थितैर्महामात्रैः शूरैश्च विगतश्रमैः ।  
 उपस्थितमसंहार्यैर्हयैः स्यन्दनयायिभिः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ tiredness, drivers of elephants, by undefeatable horses, and by charioteers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहव्याघ्रतनुत्राणैर्दान्तकाञ्चनराजतीः ।  
 घोषवद्भिर्विचित्रैश्च सदा विचरितं रथैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ sound.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुरत्नसमाकीर्णं परार्घ्यासनभूषितम् ।  
 महारथसमावापं महारथमहासनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ utensils, abode of great warriors, with great chariots and great utensils.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृश्यैश्च परमोदारैस्तैस्तैश्च मृगपक्षिभिः ।  
 विविधैर्बहुसाहस्रैः परिपूर्णं समन्ततः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ thousands, lovely to watch - very beautiful ones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनीतैरन्तपालैश्च रक्षोभिश्च सुरक्षितम् ।  
 मुख्याभिश्च वरस्त्रीभिः परिपूर्णं समन्ततः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ by best women who were important.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुदितप्रमदारत्नं राक्षसेन्द्रनिवेशनम् ।  
 वराभरणसंह्रादैः समुद्रस्वननिःस्वनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,12 +516,15 @@ sound like that of an ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् राजगुणसम्पन्नं मुख्यैश्च वरचन्दनैः ।  
 महाजनसमाकीर्णं सिंहैरिव महद् वनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +566,15 @@ number of people like a great forest with lions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भेरीमृदङ्गाभिरुतं शङ्खघोषविनादितम् ।  
 नित्यार्चितं पर्वसुतं पूजितं राक्षसैः सदा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +618,15 @@ upon daily by Rakshsas, with rituals on festivals, always worshipped by rakshasa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रमिव गम्भीरं समुद्रसमनिःस्वनम् ।  
 महात्मनो महद् वेश्म महारत्नपरिच्छदम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +648,15 @@ _________________
 
 वह समुद्रके समान गम्भीर और उसीके समान कोलाहलपूर्ण था । महामना रावणका वह विशाल भवन महान् रत्नमय अलंकारोंसे अलंकृत था ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महारत्नसमाकीर्णं ददर्श स महाकपिः ।  
 विराजमानं वपुषा गजाश्वरथसङ्कुलम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +668,15 @@ _________________
 
 उसमें हाथी-घोड़े और रथ भरे हुए थे तथा वह महान् रत्नोंसे व्याप्त होनेके कारण अपने स्वरूपसे प्रकाशित हो रहा था । महाकपि हनुमान् ने उसे देखा ॥ १४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्काभरणमित्येव सोऽमन्यत महाकपिः ।  
 चचार हनुमांस्तत्र रावणस्य समीपतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +731,15 @@ like a noiseless ocean, with a roof embedded with great diamondsand filled with 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहाद् गृहं राक्षसानामुद्यानानि च सर्वशः ।  
 वीक्षमाणोऽप्यसन्त्रस्तः प्रासादांश्च चचार सः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +783,15 @@ observing in all directions without fear and also courtyards.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवप्लुत्य महावेगः प्रहस्तस्य निवेशनम् ।  
 ततोऽन्यत् पुप्लुवे वेश्म महापार्श्वस्य वीर्यवान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +809,15 @@ observing in all directions without fear and also courtyards.
 
 महान् वेगशाली और पराक्रमी वीर हनुमान् वहाँसे कूदकर प्रहस्तके घरमें उतर गये । फिर वहाँसे उछले और महापार्श्वके महलमें पहुँच गये ॥ १७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मेघप्रतीकाशं कुम्भकर्णनिवेशनम् ।  
 विभीषणस्य च तथा पुप्लुवे स महाकपिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +846,15 @@ cloud and in the same way for the house of Vibhishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरस्य च तथा विरूपाक्षस्य चैव हि ।  
 विद्युज्जिह्वस्य भवनं विद्युन्मालेस्तथैव च ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +895,15 @@ Virupaaksha, that of Viddutjihva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रदंष्ट्रस्य च तथा पुप्लुवे स महाकपिः ।  
 शुकस्य च महावेगः सारणस्य च धीमतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +933,15 @@ Suka's house, for Sarana's house, and in the same way for the house of Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चेन्द्रजितो वेश्म जगाम हरियूथपः ।  
 जम्बुमालेः सुमालेश्च जगाम हरिसत्तमः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,12 +983,15 @@ Prahasta and from there leapt for another house that of Mahaparshva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रश्मिकेतोश्च भवनं सूर्यशत्रोस्तथैव च ।  
 वज्रकायस्य च तथा पुप्लुवे स महाकपिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,6 +1002,7 @@ Prahasta and from there leapt for another house that of Mahaparshva.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर वे महाकपि उछलते-कूदते हुए रश्मिकेतु, सूर्यशत्रु और वज्रकायके महलोंमें जा पहुँचे ॥ २२ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -949,6 +1018,8 @@ Prahasta and from there leapt for another house that of Mahaparshva.
 तेषु तेषु महार्हेषु भवनेषु महायशाः ।  
 तेषामृद्धिमतामृद्धिं ददर्श स महाकपिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,12 +1142,15 @@ Suryaketu and in that way for the building of Vajrakaaya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषां समतिक्रम्य भवनानि समन्ततः ।  
 आससादाथ लक्ष्मीवान् राक्षसेन्द्रनिवेशनम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,12 +1190,15 @@ house of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्योपशायिन्यो ददर्श हरिसत्तमः ।  
 विचरन् हरिशार्दूलो राक्षसीर्विकृतेक्षणाः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,12 +1242,15 @@ in their hands, those who had Shaktis and Tomaras.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूलमुद‍्गरहस्तांश्च शक्तितोमरधारिणः ।  
 ददर्श विविधान्गुल्मांस्तस्य रक्षःपतेर्गृहे ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,12 +1292,15 @@ those who had huge bodies having different weapons raise up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसांश्च महाकायान् नानाप्रहरणोद्यतान् ।  
 रक्तान् श्वेतान् सितांश्चापि हरींश्चापि महाजवान् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,6 +1317,7 @@ those who had huge bodies having different weapons raise up.
 
 आ अरमनॆयल्लि हनुमन्तनु महाकायराद विध-विधवाद आयुधगळन्नु मेलक्कॆत्तिकॊण्डु निन्तिद्द राक्षसरन्नु, कॆम्पागिरुव, बिळिय बण्णद महावेगवुळ्ळ बन्धिसल्पट्ट कुदुरॆगळन्नु नोडिदनु. ॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1243,6 +1327,8 @@ those who had huge bodies having different weapons raise up.
 क्षरतश्च यथा मेघान् स्रवतश्च यथा गिरीन् ॥ ३३ ॥  
 मेघस्तनितनिर्घोषान् दुर्धर्षान् समरे परैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,6 +1348,7 @@ _________________
 
 साथ ही अच्छी जातिके रूपवान् हाथी भी थे, जो शत्रु-सेनाके हाथियोंको मार भगानेवाले थे । वे सब-के-सब गजशिक्षामें सुशिक्षित, युद्धमें ऐरावतके समान पराक्रमी तथा शत्रुसेनाओंका संहार करनेमें समर्थ थे । वे बरसते हुए मेघों और झरने बहाते हुए पर्वतोंके समान मदकी धारा बहा रहे थे । उनकी गर्जना मेघ-गर्जनाके समान जान पड़ती थी । वे समराङ्गणमें शत्रुओंके लिये दुर्जय थे । हनुमान् जी ने रावणके भवनमें उन सबको देखा ॥ ३२-३३ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1269,6 +1356,8 @@ _________________
 हेमजालैरविच्छिन्नास्तरुणादित्यसन्निभाः ।  
 ददर्श राक्षसेन्द्रस्य रावणस्य निवेशने ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,6 +1434,7 @@ battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1354,6 +1444,8 @@ battle.
 कामस्य गृहकं रम्यं दिवागृहकमेव च ॥ ३७ ॥  
 ददर्श राक्षसेन्द्रस्य रावणस्य निवेशने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1409,6 +1501,7 @@ constructed with wooden mountains, house for sexual delight and a beautiful diur
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1417,6 +1510,8 @@ constructed with wooden mountains, house for sexual delight and a beautiful diur
 अनन्तरत्ननिचयं निधिजालं समन्ततः ।  
 धीरनिष्ठितकर्माङ्गं गृहं भूतपतेरिव ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1442,12 +1537,15 @@ _________________
 
 उन्होंने वह महल मन्दराचलके समान ऊँचा, क्रीडा-मयूरोंके रहनेके स्थानोंसे युक्त, ध्वजाओंसे व्याप्त, अनन्त रत्नोंका भण्डार और सब ओरसे निधियोंसे भरा हुआ देखा । उसमें धीर पुरुषोंने निधिरक्षाके उपयुक्त कर्माङ्गोंका अनुष्ठान किया था तथा वह साक्षात् भूतनाथ (महेश्वर या कुबेर)-के भवनके समान जान पड़ता था ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्चिर्भिश्चापि रत्नानां तेजसा रावणस्य च ।  
 विरराज च तद् वेश्म रश्मिवानिव रश्मिभिः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1484,12 +1582,15 @@ by rays.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बूनदमयान्येव शयनान्यासनानि च ।  
 भाजनानि च शुभ्राणि ददर्श हरियूथपः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1551,6 +1652,7 @@ many diamonds and also heaps of riches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1559,6 +1661,8 @@ many diamonds and also heaps of riches.
 नूपुराणां च घोषेण काञ्चीनां निःस्वनेन च ।  
 मृदङ्गतलनिर्घोषैर्घोषवद्भिर्विनादितम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,12 +1689,15 @@ _________________
 
 उसमें मधु और आसवके गिरनेसे वहाँकी भूमि गीली हो रही थी । मणिमय पात्रोंसे भरा हुआ वह सुविस्तृत महल कुबेर-भवनके समान मनोरम जान पड़ता था । नूपुरोंकी झनकार, करधनियोंकी खनखनाहट, मृदङ्गों और तालियोंकी मधुर ध्वनि तथा अन्य गम्भीर घोष करनेवाले वाद्योंसे वह भवन मुखरित हो रहा था ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासादसङ्घातयुतं स्त्रीरत्नशतसङ्कुलम् ।  
 सुव्यूढकक्ष्यं हनुमान् प्रविवेश महागृहम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1645,5 +1752,6 @@ enclosures.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि आरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

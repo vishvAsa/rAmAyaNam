@@ -2,6 +2,8 @@
 title = "००३ राम-विराधयुद्धम्"
 title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - Forest
@@ -21,12 +23,15 @@ Rama and Lakshmana away from Seetha.
 
 3. विराध और श्रीरामकी बातचीत, श्रीराम और लक्ष्मणके द्वारा विराधपर प्रहार तथा विराधका इन दोनों भाइयोंको साथ लेकर दूसरे वनमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच पुनर्वाक्यं विराधः पूरयन् वनम् ।  
 पृच्छतो मम हि ब्रूतं कौ युवां क्व गमिष्यथः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +70,7 @@ tell me who you are and whereto you wish to go? " [3-3-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ tell me who you are and whereto you wish to go? " [3-3-1]
 क्षत्रियौ वृत्तसम्पन्नौ विद्धि नौ वनगोचरौ ।  
 त्वां तु वेदितुमिच्छावः कस्त्वं चरसि दण्डकान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +138,15 @@ Then that highly resplendent Rama said about his Ikshvaku dynasty to the blazing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच विराधस्तु रामं सत्यपराक्रमम् ।  
 हन्त वक्ष्यामि ते राजन् निबोध मम राघव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -173,12 +184,15 @@ Viradha said to that truly valiant Rama, "Ah! I'll tell you, oh king, be informe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रः किल जवस्याहं माता मम शतह्रदा ।  
 विराध इति मामाहुः पृथिव्यां सर्वराक्षसाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ me, call.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपसा चाभिसम्प्राप्ता ब्रह्मणो हि प्रसादजा ।  
 शस्त्रेणावध्यता लोकेऽच्छेद्याभेद्यत्वमेव च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +277,15 @@ killed with a weapon in this world..."[3-3-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सृज्य प्रमदामेनामनपेक्षौ यथागतम् ।  
 त्वरमाणौ पलायेथां न वां जीवितमाददे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ not be snatched away... [3-3-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रामः प्रत्युवाचेदं कोपसंरक्तलोचनः ।  
 राक्षसं विकृताकारं विराधं पापचेतसम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +371,15 @@ evil in intent... [3-3-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुद्र धिक् त्वां तु हीनार्थं मृत्युमन्वेषसे ध्रुवम् ।  
 रणे प्राप्स्यसि सन्तिष्ठ न मे जीवन् विमोक्ष्यसे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ this confrontation. Stay! I will not let you to live... [3-3-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सज्यं धनुः कृत्वा रामः सुनिशितान् शरान् ।  
 सुशीघ्रमभिसन्धाय राक्षसं निजघान ह ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +467,15 @@ Then, stringing his bow Rama indeed darted very sharp arrows, very quickly and w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुषा ज्यागुणवता सप्त बाणान् मुमोच ह ।  
 रुक्मपुङ्खान् महावेगान् सुपर्णानिलतुल्यगान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +514,15 @@ flights of Garuda, the Divine Eagle and the Air-god. [3-3-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते शरीरं विराधस्य भित्त्वा बर्हिणवाससः ।  
 निपेतुः शोणितादिग्धा धरण्यां पावकोपमाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +555,15 @@ Viradha they fell onto the ground besmirched with blood. [3-3-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विद्धो न्यस्य वैदेहीं शूलमुद्यम्य राक्षसः ।  
 अभ्यद्रवत् सुसङ्क्रुद्धस्तदा रामं सलक्ष्मणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +602,15 @@ towards Rama and Lakshmana. [3-3-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विनद्य महानादं शूलं शक्रध्वजोपमम् ।  
 प्रगृह्याशोभत तदा व्यात्तानन इवान्तकः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ forth like the wide-mouthed Death, ready-to-gulp. [3-3-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तौ भ्रातरौ दीप्तं शरवर्षं ववर्षतुः ।  
 विराधे राक्षसे तस्मिन् कालान्तकयमोपमे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,12 +696,15 @@ of lifetime. [3-3-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रहस्य महारौद्रः स्थित्वाजृम्भत राक्षसः ।  
 जृम्भमाणस्य ते बाणाः कायान्निष्पेतुराशुगाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +743,15 @@ stretching his limbs in fatigue those arrows that earlier have gone speedily, sp
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्पर्शात् तु वरदानेन प्राणान् संरोध्य राक्षसः ।  
 विराधः शूलमुद्यम्य राघवावभ्यधावत ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +789,15 @@ Demon Viradha held back his lives by the touch of boon, and raising up the spear
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छूलं वज्रसङ्काशं गगने ज्वलनोपमम् ।  
 द्वाभ्यां शराभ्यां चिच्छेद रामः शस्त्रभृतां वरः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +836,15 @@ like a blaze in the sky, with two arrows in the sky itself. [3-3-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् रामविशिखैश्छिन्नं शूलं तस्यापतद् भुवि ।  
 पपाताशनिना छिन्नं मेरोरिव शिलातलम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +886,15 @@ Indra's Thunderbolt. [3-3-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ खड्गौ क्षिप्रमुद्यम्य कृष्णसर्पाविवोद्यतौ ।  
 तूर्णमापेततुस्तस्य तदा प्रहरतां बलात् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,12 +936,15 @@ him mightily. [3-3-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वध्यमानः सुभृशं भुजाभ्यां परिगृह्य तौ ।  
 अप्रकम्प्यौ नरव्याघ्रौ रौद्रः प्रस्थातुमैच्छत ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,6 +986,7 @@ his arms, that furious demon wished to carry them away. [3-3-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -932,6 +995,8 @@ his arms, that furious demon wished to carry them away. [3-3-21]
 यथा चेच्छति सौमित्रे तथा वहतु राक्षसः ।  
 अयमेव हि नः पन्था येन याति निशाचरः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1039,15 @@ to tread his own way towards his own grave.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु स्वबलवीर्येण समुत्क्षिप्य निशाचरः ।  
 बालाविव स्कन्धगतौ चकारातिबलोद्धतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1033,12 +1101,15 @@ Knowing the thinking of the demon for sure, Rama spoke to Lakshmana, "Let him ea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावारोप्य ततः स्कन्धं राघवौ रजनीचरः ।  
 विराधो विनदन् घोरं जगामाभिमुखो वनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,6 +1151,7 @@ That nightwalker Viradha on placing those two Raghava-s on his shoulders gone to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1088,6 +1160,8 @@ That nightwalker Viradha on placing those two Raghava-s on his shoulders gone to
 नानाविधैः पक्षिकुलैर्विचित्रं  
 शिवायुतं व्यालमृगैर्विकीर्णम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1143,5 +1217,6 @@ are sprawling around, along with Rama and Lakshmana. [3-3-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूरनॆय सर्ग सम्पूर्णवायितु.॥3॥
+</details>
 </details>
 

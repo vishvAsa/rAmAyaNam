@@ -2,6 +2,8 @@
 title = "०५१ जटायु-रावणयुद्धम्"
 title_english = "051 The combat of Jataayu and Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -23,12 +25,15 @@ and sides. Then seeing that fallen eagle Seetha weeps over, as if Jataayu is her
 
 51. जटायु तथा रावणका घोर युद्ध और रावणके द्वारा जटायुका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः क्रोधताम्राक्षस्तप्तकाञ्चनकुण्डलः ।  
 राक्षसेन्द्रोऽभिदुद्राव पतगेन्द्रममर्षणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +85,15 @@ like torchlit fires...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्रहारस्तुमुलस्तयोस्तस्मिन् महामृधे ।  
 बभूव वातोद‍्धुतयोर्मेघयोर्गगने यथा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,12 +136,15 @@ in sky, the combat between those two, Ravana and Jataayu, became tempestuous in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् बभूवाद्भुतं युद्धं गृध्रराक्षसयोस्तदा ।  
 सपक्षयोर्माल्यवतोर्महापर्वतयोरिव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +196,15 @@ the equivalence between their courage and strength.
 
 * माल्यवान् पर्वत दो माने गये हैं, एक तो दण्डकारण्यमें किष्किन्धाके समीप है और दूसरा मेरुपर्वतके निकट बताया गया है । ये दोनों पर्वत परस्पर इतने दूर हैं कि इनमें संघर्षकी कोई सम्भावना नहीं हो सकती । इसलिये ‘सपक्ष’ (पंखधारी) विशेषण दिया गया है । पाँखवाले पर्वत कदाचित् उड़कर एक-दूसरेके समीप पहुँच सकते हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नालीकनाराचैस्तीक्ष्णाग्रैश्च विकर्णिभिः ।  
 अभ्यवर्षन्महाघोरैर्गृध्रराजं महाबलम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +246,15 @@ arrowheads. [3-51-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तानि शरजालानि गृध्रः पत्ररथेश्वरः ।  
 जटायुः प्रतिजग्राह रावणास्त्राणि संयुगे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,12 +293,15 @@ of Ravana's arrows in that combat. [3-51-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तीक्ष्णनखाभ्यां तु चरणाभ्यां महाबलः ।  
 चकार बहुधा गात्रे व्रणान् पतगसत्तमः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +335,15 @@ gashing claws for that bird is with best stamina. [3-51-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ क्रोधाद् दशग्रीवो जग्राह दश मार्गणान् ।  
 मृत्युदण्डनिभान् घोरान् शत्रोर्निधनकाङ्क्षया ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +386,15 @@ to the Shafts of the Terminator, wishful of the elimination of his enemy. [3-51-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैर्बाणैर्महावीर्यः पूर्णमुक्तैरजिह्मगैः ।  
 बिभेद निशितैस्तीक्ष्णैर्गृध्रं घोरैः शिलीमुखैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +439,15 @@ the bowstring up to his ear, whose steel-pointed arrowheads are sharp, hurtful, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राक्षसरथे पश्यञ्जानकीं बाष्पलोचनाम् ।  
 अचिन्तयित्वा बाणांस्तान् राक्षसं समभिद्रवत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +487,15 @@ demon heedless of arrows that are lunging at him. [3-51-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽस्य सशरं चापं मुक्तामणिविभूषितम् ।  
 चरणाभ्यां महातेजा बभञ्ज पतगोत्तमः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +536,15 @@ gemstones, and on which an arrow is admitted targeting the eagle, just by the pa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्यद् धनुरादाय रावणः क्रोधमूर्च्छितः ।  
 ववर्ष शरवर्षाणि शतशोऽथ सहस्रशः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +586,15 @@ Ravana convulsed in anger then took up another bow and stormed hundreds and thou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरैरावारितस्तस्य संयुगे पतगेश्वरः ।  
 कुलायमभिसम्प्राप्तः पक्षिवच्च बभौ तदा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +637,15 @@ bird that obtains a readymade nest. [3-51-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तानि शरजालानि पक्षाभ्यां तु विधूय ह ।  
 चरणाभ्यां महातेजा बभञ्जास्य महद् धनुः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +685,15 @@ the mighty bow of Ravana with both of his feet. [3-51-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चाग्निसदृशं दीप्तं रावणस्य शरावरम् ।  
 पक्षाभ्यां च महातेजा व्यधुनोत् पतगेश्वरः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +742,15 @@ which is also not noticed by Monier Williams is *sharaavara. *It means an armour
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काञ्चनोरश्छदान् दिव्यान् पिशाचवदनान् खरान् ।  
 तांश्चास्य जवसम्पन्नाञ्जघान समरे बली ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +793,15 @@ in golden armours and tantivy in fastness. [3-51-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ त्रिवेणुसम्पन्नं कामगं पावकार्चिषम् ।  
 मणिसोपानचित्राङ्गं बभञ्ज च महारथम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +849,7 @@ splintered down even that chariot of Ravana. [3-51-16]
 
 * त्रिवेणु रथका वह अङ्ग है, जो जूएको धारण करता है । इसका पर्याय है युगन्धर ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -807,6 +858,8 @@ splintered down even that chariot of Ravana. [3-51-16]
 सारथेश्चास्य वेगेन तुण्डेन च महच्छिरः ।  
 पुनर्व्यपहनच्छ्रीमान् पक्षिराजो महाबलः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +916,15 @@ the regalia of white-royal-fur-fans, together with the demons handling them for 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भग्नधन्वा विरथो हताश्वो हतसारथिः ।  
 अङ्केनादाय वैदेहीं पपात भुवि रावणः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +973,15 @@ by Viraadha while handling Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा निपतितं भूमौ रावणं भग्नवाहनम् ।  
 साधु साध्विति भूतानि गृध्रराजमपूजयन् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,12 +1024,15 @@ caarana-s, siddha-s and suchlike, reverenced that lordly eagle Jataayu. [3-51-20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिश्रान्तं तु तं दृष्ट्वा जरया पक्षियूथपम् ।  
 उत्पपात पुनर्हृष्टो मैथिलीं गृह्य रावणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,6 +1069,7 @@ and he again rose up to skies taking Maithili. [3-51-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1015,6 +1078,8 @@ and he again rose up to skies taking Maithili. [3-51-21]
 गृध्रराजः समुत्पत्य रावणं समभिद्रवत् ।  
 समावार्य महातेजा जटायुरिदमब्रवीत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1134,15 @@ spoke this to such Ravana. [3-51-22, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रसंस्पर्शबाणस्य भार्यां रामस्य रावण ।  
 अल्पबुद्धे हरस्येनां वधाय खलु रक्षसाम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1185,15 @@ of Indra, and this spite of yours is definitely for the destruction of all the d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समित्रबन्धुः सामात्यः सबलः सपरिच्छदः ।  
 विषपानं पिबस्येतत् पिपासित इवोदकम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1163,12 +1234,15 @@ poison. [3-51-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुबन्धमजानन्तः कर्मणामविचक्षणाः ।  
 शीघ्रमेव विनश्यन्ति यथा त्वं विनशिष्यसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1209,12 +1283,15 @@ unknowing the backlashes thereof, so also you too will ruin that quickly with th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धस्त्वं कालपाशेन क्व गतस्तस्य मोक्ष्यसे ।  
 वधाय बडिशं गृह्य सामिषं जलजो यथा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,12 +1343,15 @@ from this hermitage, but not from that noose, called Rama's arrow, for a long ti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि जातु दुराधर्षौ काकुत्स्थौ तव रावण ।  
 धर्षणं चाश्रमस्यास्य क्षमिष्येते तु राघवौ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1314,12 +1394,15 @@ this hermitage. [3-51-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा त्वया कृतं कर्म भीरुणा लोकगर्हितम् ।  
 तस्कराचरितो मार्गो नैष वीरनिषेवितः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1360,12 +1443,15 @@ thieves, this thieving is contemptible to society and condemnable by valiant one
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद‍्ध्यस्व यदि शूरोऽसि मुहूर्तं तिष्ठ रावण ।  
 शयिष्यसे हतो भूमौ यथा भ्राता खरस्तथा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1415,12 +1501,15 @@ similar terms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परेतकाले पुरुषो यत् कर्म प्रतिपद्यते ।  
 विनाशायात्मनोऽधर्म्यं प्रतिपन्नोऽसि कर्म तत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1460,12 +1549,15 @@ too have undertaken this unrighteous fateful activity only for your self-ruinati
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापानुबन्धो वै यस्य कर्मणः को नु तत् पुमान् ।  
 कुर्वीत लोकाधिपतिः स्वयम्भूर्भगवानपि ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1506,6 +1598,7 @@ Ravana. [3-51-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1514,6 +1607,8 @@ Ravana. [3-51-32]
 तं गृहीत्वा नखैस्तीक्ष्णैर्विददार समन्ततः ।  
 अधिरूढो गजारोहो यथा स्याद् दुष्टवारणम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1577,12 +1672,15 @@ then that valorous Jataayu descended on the hind-side of that Decahedral demon R
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विददार नखैरस्य तुण्डं पृष्ठे समर्पयन् ।  
 केशांश्चोत्पाटयामास नखपक्षमुखायुधः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1625,12 +1723,15 @@ his beak and claws, but started to tweeze even his hair. [3-51-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथा गृध्रराजेन क्लिश्यमानो मुहुर्मुहुः ।  
 अमर्षस्फुरितोष्ठः सन् प्राकम्पत च राक्षसः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1671,12 +1772,15 @@ that demon staggered on to his right targeting the hovering eagle at his hind-si
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्परिष्वज्य वैदेहीं वामेनाङ्केन रावणः ।  
 तलेनाभिजघानार्तो जटायुं क्रोधमूर्च्छितः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1719,12 +1823,15 @@ Vaidehi onto his left flank. [3-51-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुस्तमतिक्रम्य तुण्डेनास्य खगाधिपः ।  
 वामबाहून् दश तदा व्यपाहरदरिन्दमः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1765,12 +1872,15 @@ his clutches. [3-51-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्छिन्नबाहोः सद्यो वै बाहवः सहसाभवन् ।  
 विषज्वालावलीयुक्ता वल्मीकादिव पन्नगाः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1810,12 +1920,15 @@ a series of venomous blazes sprawling out from a snake pit. [3-51-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधाद् दशग्रीवः सीतामुत्सृज्य वीर्यवान् ।  
 मुष्टिभ्यां चरणाभ्यां च गृध्रराजमपोथयत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1856,12 +1969,15 @@ with fisticuffs and kicks, by both his feet and fists. [3-51-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मुहूर्तं सङ्ग्रामो बभूवातुलवीर्ययोः ।  
 राक्षसानां च मुख्यस्य पक्षिणां प्रवरस्य च ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1900,12 +2016,15 @@ capabilities, namely the chieftain of demons and the chief of the birds. [3-51-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य व्यायच्छमानस्य रामस्यार्थे स रावणः ।  
 पक्षौ पादौ च पार्श्वौ च खड्गमुद्‍धृत्य सोऽच्छिनत् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1946,12 +2065,15 @@ wings, sides, and feet. [3-51-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च्छिन्नपक्षः सहसा रक्षसा रौद्रकर्मणा ।  
 निपपात महागृध्रो धरण्यामल्पजीवितः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1990,12 +2112,15 @@ down to earth with a lessened life. [3-51-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा पतितं भूमौ क्षतजार्द्रं जटायुषम् ।  
 अभ्यधावत वैदेही स्वबन्धुमिव दुःखिता ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2035,6 +2160,7 @@ towards him as if he is her own relative. [3-51-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2043,6 +2169,8 @@ towards him as if he is her own relative. [3-51-44]
 ददर्श लङ्काधिपतिः पृथिव्यां  
 जटायुषं शान्तमिवाग्निदावम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2101,6 +2229,7 @@ in a supine posture.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2109,6 +2238,8 @@ in a supine posture.
 पुनश्च सङ्गृह्य शशिप्रभानना  
 रुरोद सीता जनकात्मजा तदा ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2168,5 +2299,6 @@ The commentators deal this aspect in the next chapter of this canto.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु. ॥51॥
+</details>
 </details>
 

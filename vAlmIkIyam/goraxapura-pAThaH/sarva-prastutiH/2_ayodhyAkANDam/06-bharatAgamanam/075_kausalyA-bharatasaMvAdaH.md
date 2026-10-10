@@ -2,6 +2,8 @@
 title = "०७५ कौसल्या-भरतसंवादः"
 title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,6 +25,7 @@ Kausalya comes to know Bharata's heart, fondly takes him to her lap and weeps di
 
 75. कौसल्याके सामने भरतका शपथ खाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ Kausalya comes to know Bharata's heart, fondly takes him to her lap and weeps di
 नेत्राभ्यामश्रुपूर्णाभ्यां दीनामुद्वीक्ष्य मातरम् ॥ १ ॥  
 सोऽमात्यमध्ये भरतो जननीमभ्यकुत्सयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,6 +79,7 @@ the ministers and said as follows:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,6 +87,8 @@ the ministers and said as follows:-
 अभिषेकं न जानामि योऽभूद् राज्ञा समीक्षितः ।  
 विप्रकृष्टे ह्यहं देशे शत्रुघ्नसहितोऽभवम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ Dasaratha; since I was staying indeed in a distant land, along with Satrughna."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनवासं न जानामि रामस्याहं महात्मनः ।  
 विवासनं च सौमित्रेः सीतायाश्च यथाभवत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ of Lakshmana and Seetha have occurred."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव क्रोशतस्तस्य भरतस्य महात्मनः ।  
 कौसल्या शब्दमाज्ञाय सुमित्रां चेदमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,12 +233,15 @@ spoke the following words to Sumitra:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगतः क्रूरकार्यायाः कैकेय्या भरतः सुतः ।  
 तमहं द्रष्टुमिच्छामि भरतं दीर्घदर्शिनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,12 +281,15 @@ far-sighted Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुमित्रां तां विवर्णवदना कृशा ।  
 प्रतस्थे भरतो यत्र वेपमाना विचेतना ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ Sumitra as aforesaid, became agitated and absent minded and proceeded to Bharata
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु राजात्मजश्चापि शत्रुघ्नसहितस्तदा ।  
 प्रतस्थे भरतो येन कौसल्याया निवेशनम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,6 +381,7 @@ to Kausalya's place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,6 +390,8 @@ to Kausalya's place.
 रुदन्तौ रुदती दुःखात् समेत्यार्या मनस्विनी ।  
 भरतं प्रत्युवाचेदं कौसल्या भृशदुःखिता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +431,15 @@ approached her painfully and embraced her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं ते राज्यकामस्य राज्यं प्राप्तमकण्टकम् ।  
 सम्प्राप्तं बत कैकेय्या शीघ्रं क्रूरेण कर्मणा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ Kaikeyi, it was obtained by you soon!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्थाप्य चीरवसनं पुत्रं मे वनवासिनम् ।  
 कैकेयी कं गुणं तत्र पश्यति क्रूरदर्शिनी ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +523,15 @@ dwell in the forest: What merit has she gained from this?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं मामपि कैकेयी प्रस्थापयितुमर्हति ।  
 हिरण्यनाभो यत्रास्ते सुतो मे सुमहायशाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ with a golden novel (the distinguished mark of Vishnu the god of creation) is th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा स्वयमेवाहं सुमित्रानुचरा सुखम् ।  
 अग्निहोत्रं पुरस्कृत्य प्रस्थास्ये यत्र राघवः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ gone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं वा स्वयमेवाद्य तत्र मां नेतुमर्हसि ।  
 यत्रासौ पुरुषव्याघ्रस्तप्यते मे सुतस्तपः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +674,15 @@ where my son, the tiger among men, is living as an ascetic."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं हि तव विस्तीर्णं धनधान्यसमाचितम् ।  
 हस्त्यश्वरथसम्पूर्णं राज्यं निर्यातितं तया ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +722,15 @@ grains and riches, has been made over to you by her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्त्सितोऽनघः ।  
 विव्यथे भरतोऽतीव व्रणे तुद्येव सूचिना ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ extremely perturbed, as if a needle was thrust into an open wound.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः ।  
 विलप्य बहुधासञ्ज्ञो लब्धसञ्ज्ञस्तदाभवत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +823,15 @@ senses, wailed in many ways and fell at the feet of the queen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपमानां तां प्राञ्जलिर्भरतस्तदा ।  
 कौसल्यां प्रत्युवाचेदं शोकैर्बहुभिरावृताम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -819,12 +872,15 @@ afflictions and weeping as aforesaid in many ways:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्ये कस्मादजानन्तं गर्हसे मामकल्मषम् ।  
 विपुलां च मम प्रीतिं स्थितां जानासि राघवे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +924,15 @@ not know anything? Nay, you know well of the greatest affection I have for Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतशास्त्रानुगा बुद्धिर्मा भूत् तस्य कदाचन ।  
 सत्यसन्धः सतां श्रेष्ठो यस्यार्योऽनुमते गतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,12 +973,15 @@ elder brother the best of men who keeps up his promise, be closed to all the ser
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रैष्यं पापीयसां यातु सूर्यं च प्रति मेहतु ।  
 हन्तु पादेन गाः सुप्ता यस्यार्योऽनुमते गतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -964,12 +1026,15 @@ his foot, a sleeping cow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारयित्वा महत् कर्म भर्ता भृत्यमनर्थकम् ।  
 अधर्मो योऽस्य सोऽस्यास्तु यस्यार्योऽनुमते गतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,12 +1075,15 @@ a master who imposes the heaviest labour on his servant without remunerating him
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिपालयमानस्य राज्ञो भूतानि पुत्रवत् ।  
 ततस्तु द्रुह्यतां पापं यस्यार्योऽनुमते गतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1127,15 @@ to those who seek to harm a king who protects his people as if they are his own 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलिषड्भागमुद‍्धृत्य नृपस्यारक्षितुः प्रजाः ।  
 अधर्मो योऽस्य सोऽस्यास्तु यस्यार्योऽनुमते गतः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1108,12 +1179,15 @@ fails to protect them, be fallen on them with whose counsel my elder brother wen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संश्रुत्य च तपस्विभ्यः सत्रे वै यज्ञदक्षिणाम् ।  
 तां चापलपतां पापं यस्यार्योऽनुमते गतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,12 +1232,15 @@ exile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हस्त्यश्वरथसम्बाधे युद्धे शस्त्रसमाकुले ।  
 मा स्म कार्षीत् सतां धर्मं यस्यार्योऽनुमते गतः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1282,15 @@ with whose counsel my elder brother went to exile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपदिष्टं सुसूक्ष्मार्थं शास्त्रं यत्नेन धीमता ।  
 स नाशयतु दुष्टात्मा यस्यार्योऽनुमते गतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1251,12 +1331,15 @@ forget the subtle meanings of the scriptures taught with care by a wise teacher.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा च तं व्यूढबाह्वंसं चन्द्रभास्करतेजसम् ।  
 द्राक्षीद् राज्यस्थमासीनं यस्यार्योऽनुमते गतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1301,12 +1384,15 @@ on a throne."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पायसं कृसरं छागं वृथा सोऽश्नातु निर्घृणः ।  
 गुरूंश्चाप्यवजानातु यस्यार्योऽनुमते गतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1350,12 +1436,15 @@ teachers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाश्च स्पृशतु पादेन गुरून् परिवदेत च ।  
 मित्रे द्रुह्येत सोऽत्यर्थं यस्यार्योऽनुमते गतः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1396,12 +1485,15 @@ kicking the cows, of personally abusing the elders and of deceiving a friend too
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वासात् कथितं किञ्चित् परिवादं मिथः क्वचित् ।  
 विवृणोतु स दुष्टात्मा यस्यार्योऽनुमते गतः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1443,12 +1535,15 @@ confidence, to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकर्ता चाकृतज्ञश्च त्यक्तात्मा निरपत्रपः ।  
 लोके भवतु विद्विष्टो यस्यार्योऽनुमते गतः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,12 +1585,15 @@ hate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रैर्दासैश्च भृत्यैश्च स्वगृहे परिवारितः ।  
 स एको मृष्टमश्नातु यस्यार्योऽनुमते गतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,12 +1635,15 @@ his house."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्राप्य सदृशान् दाराननपत्यः प्रमीयताम् ।  
 अनवाप्य क्रियां धर्म्यां यस्यार्योऽनुमते गतः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1583,12 +1684,15 @@ secure a wife suitable for him and thus not fulfilling his religious duties."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माऽऽत्मनः सन्ततिं द्राक्षीत् स्वेषु दारेषु दुःखितः ।  
 आयुःसमग्रमप्राप्य यस्यार्योऽनुमते गतः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1623,12 +1727,15 @@ his wife and in distress, may not get a full long life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजस्त्रीबालवृद्धानां वधे यत् पापमुच्यते ।  
 भृत्यत्यागे च यत् पापं तत् पापं प्रतिपद्यताम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1671,12 +1778,15 @@ obtain the same sin."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लाक्षया मधुमांसेन लोहेन च विषेण च ।  
 सदैव बिभृयाद् भृत्यान् यस्यार्योऽनुमते गतः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1719,12 +1829,15 @@ poison."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्ग्रामे समुपोढे च शत्रुपक्षभयङ्करे ।  
 पलायमानो वध्येत यस्यार्योऽनुमते गतः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1766,12 +1879,15 @@ commanded."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपालपाणिः पृथिवीमटतां चीरसंवृतः ।  
 भिक्षमाणो यथोन्मत्तो यस्यार्योऽनुमते गतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1812,12 +1928,15 @@ world, as a mad man with a wooden bowl in his hand, dressed in rags and begging 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मद्यप्रसक्तो भवतु स्त्रीष्वक्षेषु च नित्यशः ।  
 कामक्रोधाभिभूतश्च यस्यार्योऽनुमते गतः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1858,12 +1977,15 @@ infatuation and anger and be constantly involved in wine women and dice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मास्य धर्मे मनो भूयादधर्मं स निषेवताम् ।  
 अपात्रवर्षी भवतु यस्यार्योऽनुमते गतः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1909,12 +2031,15 @@ gifts for the undeserving."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्चितान्यस्य वित्तानि विविधानि सहस्रशः ।  
 दस्युभिर्विप्रलुप्यन्तां यस्यार्योऽनुमते गतः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1954,6 +2079,7 @@ riches got accumulated in thousands , be snatched away by robbers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1962,6 +2088,8 @@ riches got accumulated in thousands , be snatched away by robbers."
 यदग्निदायके पापं यत् पापं गुरुतल्पगे ।  
 मित्रद्रोहे च यत् पापं तत् पापं प्रतिपद्यताम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2029,12 +2157,15 @@ sin be obtained by him, with whose counsel my elder brother has gone to exile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानां पितॄणां च मातापित्रोस्तथैव च ।  
 मा स्म कार्षीत् स शुश्रूषां यस्यार्योऽनुमते गतः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2075,12 +2206,15 @@ not doing service to be god, to the manes and likewise to his mother and father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सतां लोकात् सतां कीर्त्याः सज्जुष्टात् कर्मणस्तथा ।  
 भ्रश्यतु क्षिप्रमद्यैव यस्यार्योऽनुमते गतः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2122,12 +2256,15 @@ righteous actions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपास्य मातृशुश्रूषामनर्थे सोऽवतिष्ठताम् ।  
 दीर्घबाहुर्महावक्षा यस्यार्योऽनुमते गतः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2168,12 +2305,15 @@ to exile, fail to give due reverence to his mother and be condemned to idleness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुभृत्यो दरिद्रश्च ज्वररोगसमन्वितः ।  
 समायात् सततं क्लेशं यस्यार्योनुमते गतः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2214,12 +2354,15 @@ distress."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशामाशंसमानानां दीनानामूर्ध्वचक्षुषाम् ।  
 अर्थिनां वितथां कुर्याद् यस्यार्योऽनुमते गतः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2261,12 +2404,15 @@ alms."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मायया रमतां नित्यं पुरुषः पिशुनोऽशुचिः ।  
 राज्ञो भीतस्त्वधर्मात्मा यस्यार्योऽनुमते गतः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2311,12 +2457,15 @@ and an unrighteous man."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतुस्नातां सतीं भार्यामृतुकालानुरोधिनीम् ।  
 अतिवर्तेत दुष्टात्मा यस्यार्योऽनुमते गतः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2353,12 +2502,15 @@ approaches him for union having regard for the season favorable for procreation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रलुप्तप्रजातस्य दुष्कृतं ब्राह्मणस्य यत् ।  
 तदेतत् प्रतिपद्येत यस्यार्योऽनुमते गतः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2394,12 +2546,15 @@ piety."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणायोद्यतां पूजां विहन्तु कलुषेन्द्रियः ।  
 बालवत्सां च गां दोग्धु यस्यार्योऽनुमते गतः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2439,12 +2594,15 @@ which is obtained by a Brahmana who is issue less."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मदारान् परित्यज्य परदारान् निषेवताम् ।  
 त्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2483,12 +2641,15 @@ poison."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पानीयदूषके पापं तथैव विषदायके ।  
 यत्तदेकः स लभतां यस्यार्योऽनुमते गतः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2531,12 +2692,15 @@ milking a cow having a young calf. " (of age less than ten days)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृषार्तं सति पानीये विप्रलम्भेन योजयन् ।  
 यत् पापं लभते तत् स्याद् यस्यार्योऽनुमते गतः ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2577,12 +2741,15 @@ obtained of disappointing a person oppressed with thirst, even though water was 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्त्या विवदमानेषु मार्गमाश्रित्य पश्यतः ।  
 तेन पापेन युज्येत यस्यार्योऽनुमते गतः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2624,12 +2791,15 @@ trying to make peace between them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमाश्वासयन्नेव दुःखार्तोऽनुपपात ह ।  
 विहीनां पतिपुत्राभ्यां कौसल्यां पार्थिवात्मजः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2672,12 +2842,15 @@ Bharata fell down, depressed as he was with anguish."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा तं शपथैः कष्टैः शपमानमचेतनम् ।  
 भरतं शोकसन्तप्तं कौसल्या वाक्यमब्रवीत् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2718,12 +2891,15 @@ quite distraught and who just uttered formidable imprecations in the aforesaid m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम दुःखमिदं पुत्र भूयः समुपजायते ।  
 शपथैः शपमानो हि प्राणानुपरुणत्सि मे ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2763,12 +2939,15 @@ racking my spirits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या न चलितो धर्मादात्मा ते सहलक्षणः ।  
 वत्स सत्यप्रतिज्ञो हि सतां लोकानवाप्स्यसि ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2812,12 +2991,15 @@ righteous path. You will obtain the world of the blessed, along with Lakshmana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा चाङ्कमानीय भरतं भ्रातृवत्सलम् ।  
 परिष्वज्य महाबाहुं रुरोद भृशदुःखिता ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2852,12 +3034,15 @@ Bharata to her lap, embraced him and wept aloud , as she was very much afflicted
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपमानस्य दुःखार्तस्य महात्मनः ।  
 मोहाच्च शोकसंरम्भाद् बभूव लुलितं मनः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2897,6 +3082,7 @@ about to swoon, with his mind crushed by the burden of grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2905,6 +3091,8 @@ about to swoon, with his mind crushed by the burden of grief.
 मुहुर्मुहुर्निःश्वसतश्च दीर्घं  
 सा तस्य शोकेन जगाम रात्रिः ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2958,5 +3146,6 @@ on the ground, sighing warmly again and again with his power of discernment havi
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तैदनॆय सर्ग पूर्णवायितु ॥75॥
+</details>
 </details>
 

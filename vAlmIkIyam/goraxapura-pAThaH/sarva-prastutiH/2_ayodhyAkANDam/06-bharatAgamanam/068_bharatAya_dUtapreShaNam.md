@@ -2,6 +2,8 @@
 title = "०६८ भरताय दूतप्रेषणम्"
 title_english = "068 Vasishta instructs messengers to call Bharata and Satrughna"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ Girivraja.
 
 68. वसिष्ठजीकी आज्ञासे पाँच दूतोंका अयोध्यासे केकयदेशके राजगृह नगरमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा वसिष्ठः प्रत्युवाच ह ।  
 मित्रामात्यजनान् सर्वान् ब्राह्मणांस्तानिदं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ ministers and to all the Brahmans (assembled there):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदसौ मातुलकुले दत्तराज्यः परं सुखी ।  
 भरतो वसति भ्रात्रा शत्रुघ्नेन मुदान्वितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +102,15 @@ _________________
 
 दशरथराजनु राज्यवन्नु कॊट्ट भरतनु ईग शत्रुघ्ननॊन्दिगॆ मावन मनॆयल्लि सुख-सन्तोषदिन्द इरुवनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छीघ्रं जवना दूता गच्छन्तु त्वरितं हयैः ।  
 आनेतुं भ्रातरौ वीरौ किं समीक्षामहे वयम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,12 +152,15 @@ quickly to bring back those heroic brothers. What are we to think of further in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छन्त्विति ततः सर्वे वसिष्ठं वाक्यमब्रुवन् ।  
 तेषां तद् वचनं श्रुत्वा वसिष्ठो वाक्यमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +201,15 @@ their words, Vasistha spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एहि सिद्धार्थ विजय जयन्ताशोकनन्दन ।  
 श्रूयतामितिकर्तव्यं सर्वानेव ब्रवीमि वः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +249,15 @@ telling you all. Hear that which is to be done"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरं राजगृहं गत्वा शीघ्रं शीघ्रजवैर्हयैः ।  
 त्यक्तशोकैरिदं वाच्यः शासनाद् भरतो मम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,12 +302,15 @@ as my orders:"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोहितस्त्वां कुशलं प्राह सर्वे च मन्त्रिणः ।  
 त्वरमाणश्च निर्याहि कृत्यमात्ययिकं त्वया ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +351,15 @@ starting quickly. There is a very urgent work with you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा चास्मै प्रोषितं रामं मा चास्मै पितरं मृतम् ।  
 भवन्तः शंसिषुर्गत्वा राघवाणामितः क्षयम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +400,15 @@ is dead or about this calamity occurred to the descendents of Raghu dynasty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौशेयानि च वस्त्राणि भूषणानि वराणि च ।  
 क्षिप्रमादाय राज्ञश्च भरतस्य च गच्छत ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ to Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्तपथ्यशना दूता जग्मुः स्वं स्वं निवेशनम् ।  
 केकयांस्ते गमिष्यन्तो हयानारुह्य सम्मतान् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +495,15 @@ horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रास्थानिकं कृत्वा कार्यशेषमनन्तरम् ।  
 वसिष्ठेनाभ्यनुज्ञाता दूताः सन्त्वरितं ययुः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +544,15 @@ permitted by Vasistha, the messengers quickly proceeded (to the destination).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यन्तेनापरतालस्य प्रलम्बस्योत्तरं प्रति ।  
 निषेवमाणास्ते जग्मुर्नदीं मध्येन मालिनीम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +586,15 @@ Aparatala Mountain and the northern end of Pralamba Mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते हास्तिनपुरे गङ्गां तीर्त्वा प्रत्यङ्मुखा ययुः ।  
 पाञ्चालदेशमासाद्य मध्येन कुरुजाङ्गलम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,12 +614,15 @@ _________________
 
 हस्तिनापुरदल्लि गङ्गॆयन्नु दाटि अवरु पश्चिमद कडॆगॆ होगि, पाञ्चाल देशक्कॆ तलुपि, कुरुजाङ्गल प्रदेशद नडुविनिन्द मुन्दक्कॆ होदरु.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सरांसि च सुफुल्लानि नदीश्च विमलोदकाः ।  
 निरीक्षमाणा जग्मुस्ते दूताः कार्यवशाद‍्द्रुतम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +661,15 @@ the aforesaid messengers went briskly, due to the pressing nature of their missi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रसन्नोदकां दिव्यां नानाविहगसेविताम् ।  
 उपातिजग्मुर्वेगेन शरदण्डां जलाकुलाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +709,15 @@ water frequented by various kinds of birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकूलवृक्षमासाद्य दिव्यं सत्योपयाचनम् ।  
 अभिगम्याभिवाद्यं तं कुलिङ्गां प्राविशन् पुरीम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +753,15 @@ respect) the messengers entered the city of Kulinga
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिकालं ततः प्राप्य तेजोऽभिभवनाच्च्युताः ।  
 पितृपैतामहीं पुण्यां तेरुरिक्षुमतीं नदीम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +803,15 @@ father and grandfather of Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेक्ष्याञ्जलिपानांश्च ब्राह्मणान् वेदपारगान् ।  
 ययुर्मध्येन बाह्लीकान् सुदामानं च पर्वतम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,6 +852,7 @@ of their palms, they proceeded through Bahlika kingdom towards a mountain called
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -804,6 +861,8 @@ of their palms, they proceeded through Bahlika kingdom towards a mountain called
 पश्यन्तो विविधांश्चापि सिंहान् व्याघ्रान् मृगान् द्विपान् ।  
 ययुः पथातिमहता शासनं भर्तुरीप्सवः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +916,15 @@ of their master.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते श्रान्तवाहना दूता विकृष्टेन सता पथा ।  
 गिरिव्रजं पुरवरं शीघ्रमासेदुरञ्जसा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,6 +967,7 @@ safely to the excellent city of Girivraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -913,6 +976,8 @@ safely to the excellent city of Girivraja.
 अहेडमानास्त्वरया स्म दूता  
 रात्र्यां तु ते तत्पुरमेव याताः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,5 +1034,6 @@ messengers quickly and respectfully reached that city in the night.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥68॥
+</details>
 </details>
 

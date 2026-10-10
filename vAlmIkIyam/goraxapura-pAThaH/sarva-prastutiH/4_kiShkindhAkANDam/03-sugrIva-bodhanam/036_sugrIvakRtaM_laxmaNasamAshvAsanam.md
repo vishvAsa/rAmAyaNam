@@ -2,6 +2,8 @@
 title = "०३६ सुग्रीवकृतं लक्ष्मणसमाश्वासनम्"
 title_english = "036 Sugreeva s apology pacifies Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ his adherence to Rama, and Lakshmana asks him to come to Rama.
 
 36. सुग्रीवका अपनी लघुता तथा श्रीरामकी महत्ता बताते हुए लक्ष्मणसे क्षमा माँगना और लक्ष्मणका उनकी प्रशंसा करके उन्हें अपने साथ चलनेके लिये कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तस्तारया वाक्यं प्रश्रितं धर्मसंहितम् ।  
 मृदुस्वभावः सौमित्रिः प्रतिजग्राह तद्वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ Saumitri gave assent to her perspective as he is soft by his nature. [4-36-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् प्रतिगृहीते तु वाक्ये हरिगणेश्वरः ।  
 लक्ष्मणात् सुमहत् त्रासं वस्त्रं क्लिन्नमिवात्यजत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ water on squeezing it. But here there is no squeezing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कण्ठगतं माल्यं चित्रं बहुगुणं महत् ।  
 चिच्छेद विमदश्चासीत् सुग्रीवो वानरेश्वरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ became sober as though the insobriety is ripped from his mind. [4-36-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लक्ष्मणं भीमबलं सर्ववानरसत्तमः ।  
 अब्रवीत् प्रश्रितं वाक्यं सुग्रीवः सम्प्रहर्षयन् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ this humble sentence to Lakshmana, whose prowess is most formidable. [4-36-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणष्टा श्रीश्च कीर्तिश्च कपिराज्यं च शाश्वतम् ।  
 रामप्रसादात् सौमित्रे पुनश्चाप्तमिदं मया ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ but oh, Soumitri, I regained all this just by the beneficence of Rama. [4-36-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कः शक्तस्तस्य देवस्य ख्यातस्य स्वेन कर्मणा ।  
 तादृशं प्रतिकुर्वीत अंशेनापि नृपात्मज ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,12 +325,15 @@ bravery, unless he is prepared to tread that kind of path on which Vali has gone
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां प्राप्स्यति धर्मात्मा वधिष्यति च रावणम् ।  
 सहायमात्रेण मया राघवः स्वेन तेजसा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +367,15 @@ with his own resplendence, while I and my assistance remain only in name. [4-36-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहायकृत्यं किं तस्य येन सप्त महाद्रुमाः ।  
 गिरिश्च वसुधा चैव बाणेनैकेन दारिताः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +415,15 @@ seven gigantic-trees, a mountain, and even the earth, all just with one arrow! [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुर्विस्फारमाणस्य यस्य शब्देन लक्ष्मण ।  
 सशैला कम्पिता भूमिः सहायैः किं नु तस्य वै ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +457,15 @@ quakes, oh, Lakshmana, to him these aides are really of what aid, indeed! [4-36-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुयात्रां नरेन्द्रस्य करिष्येऽहं नरर्षभ ।  
 गच्छतो रावणं हन्तुं वैरिणं सपुरस्सरम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +506,15 @@ eliminate enemy Ravana along with all of his vanguards, that's all. [4-36-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि किञ्चिदतिक्रान्तं विश्वासात् प्रणयेन वा ।  
 प्रेष्यस्य क्षमितव्यं मे न कश्चिन्नापराध्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ you leave off, and at the end who are they that remain to be protected by you?' 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्य ब्रुवाणस्य सुग्रीवस्य महात्मनः ।  
 अभवल्लक्ष्मणः प्रीतः प्रेम्णा चेदमुवाच ह ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +621,15 @@ this he said to him, indeed, in friendliness. [4-36-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा हि मम भ्राता सनाथो वानरेश्वर ।  
 त्वया नाथेन सुग्रीव प्रश्रितेन विशेषतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +665,15 @@ Sugreeva, especially you, who are a defender of your own word and a deferential 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्ते प्रभावः सुग्रीव यच्च ते शौचमीदृशम् ।  
 अर्हस्त्वं कपिराज्यस्य श्रियं भोक्तुमनुत्तमाम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,12 +717,15 @@ only merited one to enjoy this unexcelled kingdom of monkeys. [4-36-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहायेन च सुग्रीव त्वया रामः प्रतापवान् ।  
 वधिष्यति रणे शत्रूनचरान्नात्र संशयः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -721,12 +768,15 @@ as his supporter, there is no doubt about it. [4-36-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मज्ञस्य कृतज्ञस्य सङ्ग्रामेष्वनिवर्तिनः ।  
 उपपन्नं च युक्तं च सुग्रीव तव भाषितम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +817,15 @@ battlegrounds, or, on your own word, thus what you have said is conclusive as we
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दोषज्ञः सति सामर्थ्ये कोऽन्यो भाषितुमर्हति ।  
 वर्जयित्वा मम ज्येष्ठं त्वां च वानरसत्तम ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +867,15 @@ among Vanara-s, who is he that behoves outspokenly, excepting my elder brother a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशश्चासि रामेण विक्रमेण बलेन च ।  
 सहायो दैवतैर्दत्तश्चिराय हरिपुङ्गव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +923,15 @@ advise of demon Kabandha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तु शीघ्रमितो वीर निष्क्रम त्वं मया सह ।  
 सान्त्वयस्व वयस्यं च भार्याहरणदुःखितम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,6 +974,7 @@ your friend who is anguishing in the despoilment of his wife. [4-36-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -923,6 +983,8 @@ your friend who is anguishing in the despoilment of his wife. [4-36-19]
 मया त्वं परुषाण्य् **उक्तस्**  
 तत् क्षमस्व सखे मम +++(4)+++ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,5 +1069,6 @@ but to embolden Rama saying that there is a real adherent in Sugreeva.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तारनॆय सर्ग सम्पूर्णवायितु.॥36॥
+</details>
 </details>
 

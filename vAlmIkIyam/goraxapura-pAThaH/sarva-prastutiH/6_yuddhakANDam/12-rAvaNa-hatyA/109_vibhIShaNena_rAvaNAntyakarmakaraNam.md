@@ -1,6 +1,8 @@
 +++
 title = "१०९ विभीषणेन रावणान्त्यकर्मकरणम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ brother.
 
 109. विभीषणका विलाप और श्रीरामका उन्हें समझाकर रावणके अन्त्येष्टि-संस्कारके लिये आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातरं निहतं दृष्ट्वा शयानं निर्जितं रणे ।  
 शोकवेगपरीतात्मा विललाप विभीषणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ his mind filled with an outburst of sorrow:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीरविक्रान्त विख्यात प्रवीण नयकोविद ।  
 महार्हशयनोपेत किं शेषे निहतो भुवि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ towards lofty beds, O hero! The valiant one, the celebrated one, prudent in poli
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निक्षिप्य दीर्घौ निश्चेष्टौ भुजावङ्गदभूषितौ ।  
 मुकुटेनापवृत्तेन भास्कराकारवर्चसा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,12 +158,15 @@ ground/"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं वीर सम्प्राप्तं यन्मया पूर्वमीरितम् ।  
 काममोहपरीतस्य यत् तन्न रुचितं तव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,6 +211,7 @@ obtained by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +219,8 @@ obtained by you."
 न कुम्भकर्णोऽतिरथो नातिकायो नरान्तकः ।  
 न स्वयं बहु मन्येथास्तस्योदर्कोऽयमागतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,6 +265,7 @@ of it has come now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,6 +275,8 @@ of it has come now."
 चित्रभानुः प्रशान्तार्चिर्व्यवसायो निरुद्यमः ।  
 अस्मिन् निपतिते वीरे भूमौ शस्त्रभृतां वरे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +336,15 @@ strennous effort has become inactive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं शेषमिहलोकस्य गतसत्त्वस्य सम्प्रति ।  
 रणे राक्षसशार्दूले प्रसुप्त इव पांसुषु ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,6 +381,7 @@ present lying fast asleep in the dust?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,6 +390,8 @@ present lying fast asleep in the dust?"
 रणे महान् राक्षसराजवृक्षः  
 सम्मर्दितो राघवमारुतेन ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +436,7 @@ in the battle-field, by the tempest in the shape of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,6 +445,8 @@ in the battle-field, by the tempest in the shape of Rama."
 इक्ष्वाकुसिंहावगृहीतदेहः  
 सुप्तः क्षितौ रावणगन्धहस्ती ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,6 +493,7 @@ lying asleep on the ground, its body having been overthrown by a lion in the sha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -472,6 +502,8 @@ lying asleep on the ground, its body having been overthrown by a lion in the sha
 प्रतापवान् संयति राक्षसाग्नि-  
 र्निर्वापितो रामपयोधरेण ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,6 +542,7 @@ extingushed in the battle-field by the rainy cloud in the shape of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -518,6 +551,8 @@ extingushed in the battle-field by the rainy cloud in the shape of Rama."
 रक्षोवृषश्चापलकर्णचक्षुः  
 क्षितीश्वरव्याघ्रहतोऽवसन्नः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,6 +591,7 @@ in energy, is lying dead, struck down by a tiger in the shape of Rama, the ruler
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -564,6 +600,8 @@ in energy, is lying dead, struck down by a tiger in the shape of Rama, the ruler
 रामः शोक-समाविष्टम्  
 इत्य् **उवाच** विभीषणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,6 +647,7 @@ words, full of reason and which revealed his determined view of the matter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -617,6 +656,8 @@ words, full of reason and which revealed his determined view of the matter.
 अत्युन्नत-महोत्साहः  
 पतितो ऽयम् अशङ्कितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,6 +699,7 @@ exalted type and remained confident throughout."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -666,6 +708,8 @@ exalted type and remained confident throughout."
 वृद्धिम् **आशंसमाना** ये  
 निपतन्ति रणाजिरे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,6 +747,7 @@ Kshatriya the warrior."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -711,6 +756,8 @@ Kshatriya the warrior."
 तस्मिन् कालसमायुक्ते  
 न कालः परिशोचितुम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,6 +795,7 @@ by whom intelligent as he was, all the three worlds including indra were frighte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -756,6 +804,8 @@ by whom intelligent as he was, all the three worlds including indra were frighte
 परैर्वा हन्यते वीरः  
 परान् वा हन्ति संयुगे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,6 +840,7 @@ has been killed by his adversaries or had killed the enemies in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -798,6 +849,8 @@ has been killed by his adversaries or had killed the enemies in battle."
 क्षत्रियो निहतः सङ्ख्ये  
 न शोच्य इति निश्चयः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,12 +886,15 @@ scriptures."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेवं निश्चयं दृष्ट्वा तत्त्वमास्थाय विज्वरः ।  
 यदिहानन्तरं कार्यं कल्प्यं तदनुचिन्तय ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +929,15 @@ from grief, think here of what duty that deserves to be performed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुक्तवाक्यं विक्रान्तं राजपुत्रं विभीषणः ।  
 उवाच शोकसन्तप्तो भ्रातुर्हितमनन्तरम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,6 +973,7 @@ relation to his brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -922,6 +982,8 @@ relation to his brother.
 भवन्तमासाद्य रणे विभग्नो  
 वेलामिवासाद्य यथा समुद्रः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,6 +1022,7 @@ sea breaks up, on reaching the shore."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -968,6 +1031,8 @@ sea breaks up, on reaching the shore."
 धनानि मित्रेषु समर्पितानि  
 वैराण्यमित्रेषु च यापितानि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,6 +1079,7 @@ revenged."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1022,6 +1088,8 @@ revenged."
 एतस्य यत् प्रेतगतस्य कृत्यं  
 तत् कर्तुमिच्छामि तव प्रसादात् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1075,6 +1143,7 @@ to the other world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1083,6 +1152,8 @@ to the other world."
 आज्ञापयामास नरेन्द्रसूनुः  
 स्वर्गीयमाधानमदीनसत्त्वः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,6 +1197,7 @@ rites, which were intended to lead the departed soul to heaven:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1134,6 +1206,8 @@ rites, which were intended to lead the departed soul to heaven:
 क्रियताम् अस्य संस्कारो  
 ममाप्य् एष यथा तव ॥ २५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,5 +1251,6 @@ rites be performed. He is even as good mine, as yours."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरऒम्भत्तनॆय सर्ग पूर्णवायितु. ॥109॥
+</details>
 </details>
 

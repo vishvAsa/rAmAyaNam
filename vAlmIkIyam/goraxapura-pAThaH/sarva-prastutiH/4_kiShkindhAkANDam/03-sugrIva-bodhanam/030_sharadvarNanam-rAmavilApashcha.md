@@ -2,6 +2,8 @@
 title = "०३० शरद्वर्णनम्-रामविलापश्च"
 title_english = "030 Autumn Sharad R itu eulogised"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -30,12 +32,15 @@ traditional versions, as age-old commentators have commented on them at length.
 
 30. शरद्-ऋतुका वर्णन तथा श्रीरामका लक्ष्मणको सुग्रीवके पास जानेका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहं प्रविष्टे सुग्रीवे विमुक्ते गगने घनैः ।  
 वर्षरात्रे स्थितो रामः कामशोकाभिपीडितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -52,12 +57,15 @@ traditional versions, as age-old commentators have commented on them at length.
 
 हिन्दिनन्तॆ आदेशिसि सुग्रीवनु तन्न अन्तःपुरक्कॆ हॊरटुहोदनु. इत्त श्रीरामचन्द्रनु वर्षा कालद रात्रिगळल्लि प्रस्रवणगिरियल्लि वासिसुत्तिद्दनु. आकाशवु मेघमुक्तवागि निर्मलवादाग सीतॆयन्नु सेरुव उत्कण्ठतॆयिन्द विरहशोकदिन्द अत्यन्त पीडितनादनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरं गगनं दृष्ट्वा विमलं चन्द्रमण्डलम् ।  
 शारदीं रजनीं चैव दृष्ट्वा ज्योत्स्नानुलेपनाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +82,15 @@ traditional versions, as age-old commentators have commented on them at length.
 
 आकाशवु बॆळ्ळगागि, चन्द्रनु स्वच्छवागि तोरुत्तिद्दानॆ हागू शरदृतुविन इरुळिन मैमेलॆ बॆळदिङ्गळ अङ्गराग हच्चिदन्तिदॆ. इदॆल्ल नोडि श्रीरामनु सीतॆय मिलनक्कागि व्याकुलनादनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामवृत्तं च सुग्रीवं नष्टां च जनकात्मजाम् ।  
 दृष्ट्वा कालमतीतं च मुमोह परमातुरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +136,15 @@ highly impatient and even swooned. [4-30-1, 2, 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु सञ्ज्ञामुपागम्य मुहूर्तान्मतिमान् नृपः ।  
 मनःस्थामपि वैदेहीं चिन्तयामास राघवः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +184,15 @@ think of Vaidehi who is abiding in his heart, though not at his side. [4-30-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा च विमलं व्योम गतविद्युद‍्बलाहकम् ।  
 सारसारावसङ्घुष्टं विललापार्तया गिरा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +232,15 @@ and even vibrant with the shrieks of Saarasa birds, Rama bemoaned in woeful word
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीनः पर्वतस्याग्रे हेमधातुविभूषिते ।  
 शारदं गगनं दृष्ट्वा जगाम मनसा प्रियाम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +282,15 @@ he soliloquised his thoughts in this way. [4-30-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारसारावसन्नादैः सारसारावनादिनी ।  
 याऽऽश्रमे रमते बाला साद्य मे रमते कथम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -317,12 +340,15 @@ voice is lost in the blare of bawling demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पितांश्चासनान् दृष्ट्वा काञ्चनानिव निर्मलान् ।  
 कथं सा रमते बाला पश्यन्ती मामपश्यती ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +400,15 @@ find me there, she looses her heart for these flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या पुरा कलहंसानां कलेन कलभाषिणी ।  
 बुध्यते चारुसर्वाङ्गी साद्य मे रमते कथम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +466,15 @@ she can do it or how I can enjoy her sight every morning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःस्वनं चक्रवाकानां निशम्य सहचारिणाम् ।  
 पुण्डरीकविशालाक्षी कथमेषा भविष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +518,15 @@ what will become of this white-lotus-like broad-eyed Seetha, since she is not to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सरांसि सरितो वापीः काननानि वनानि च ।  
 तां विना मृगशावाक्षीं चरन्नाद्य सुखं लभे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +570,15 @@ thirsting for her is not. [4-30-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि तां मद्वियोगाच्च सौकुमार्याच्च भामिनीम् ।  
 सुदूरं पीडयेत् कामः शरद‍्गुणनिरन्तरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +629,15 @@ her side.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमादि नरश्रेष्ठो विललाप नृपात्मजः ।  
 विहङ्ग इव सारङ्गः सलिलं त्रिदशेश्वरात् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +686,15 @@ directly from clouds granted by Indra. So also Rama is desirous of Seetha alone 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चञ्चूर्य रम्येषु फलार्थी गिरिसानुषु ।  
 ददर्श पर्युपावृत्तो लक्ष्मीवाल्ँ लक्ष्मणोऽग्रजम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,6 +738,7 @@ returned and has seen his elder brother Rama. [4-30-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -702,6 +747,8 @@ returned and has seen his elder brother Rama. [4-30-14]
 भ्रातुर्विषादात् त्वरितोऽतिदीनः  
 समीक्ष्य सौमित्रिरुवाच दीनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,6 +800,7 @@ brother, and spoke to Rama fretfully. [4-30-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -761,6 +809,8 @@ brother, and spoke to Rama fretfully. [4-30-15]
 अयं ह्रिया संह्रियते समाधिः  
 किमत्र योगेन निवर्तते न ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,6 +870,7 @@ Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -828,6 +879,8 @@ Tiirtha.
 सहायसामर्थ्यमदीनसत्त्वः  
 स्वकर्महेतुं च कुरुष्व तात ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,6 +935,7 @@ achievements, say daily rituals towards gods, be performed by you as your means.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -890,6 +944,8 @@ achievements, say daily rituals towards gods, be performed by you as your means.
 न चाग्निचूडां ज्वलितामुपेत्य  
 न दह्यते वीर वरार्ह कश्चित् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,6 +994,7 @@ Rama. [4-30-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -950,6 +1007,8 @@ Rama. [4-30-18]
 न तु प्रवृद्धस्य दुरासदस्य  
 कुमार वीर्यस्य फलं च चिन्त्यम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1105,15 @@ righteousness, and meaningfulness.[4-30-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ पद्मपलाशाक्षीं मैथिलीमनुचिन्तयन् ।  
 उवाच लक्ष्मणं रामो मुखेन परिशुष्यता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,12 +1153,15 @@ Maithili, thereafter Rama spoke to Lakshmana with a dried-up face. [4-30-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तर्पयित्वा सहस्राक्षः सलिलेन वसुन्धराम् ।  
 निर्वर्तयित्वा सस्यानि कृतकर्मा व्यवस्थितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1137,12 +1202,15 @@ in respect of Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घगम्भीरनिर्घोषाः शैलद्रुमपुरोगमाः ।  
 विसृज्य सलिलं मेघाः परिशान्ता नृपात्मज ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1251,15 @@ grumbles in my heart, thus I cannot retire. [4-30-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलोत्पलदलश्यामाः श्यामीकृत्वा दिशो दश ।  
 विमदा इव मातङ्गाः शान्तवेगाः पयोधराः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1238,12 +1309,15 @@ worthwhile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलगर्भा महावेगाः कुटजार्जुनगन्धिनः ।  
 चरित्वा विरताः सौम्य वृष्टिवाताः समुद्यताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1283,12 +1357,15 @@ water in their wombs, and wafted the fragrance of Kutaja and Arjuna flowers. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घनानां वारणानां च मयूराणां च लक्ष्मण ।  
 नादः प्रस्रवणानां च प्रशान्तः सहसानघ ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,12 +1405,15 @@ freshets too, are suddenly quietened. [4-30-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवृष्टा महामेघैर्निर्मलाश्चित्रसानवः ।  
 अनुलिप्ता इवाभान्ति गिरयश्चन्द्ररश्मिभिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1376,6 +1456,7 @@ grime-less and they shine forth as though enamelled with the moonbeams. [4-30-27
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1384,6 +1465,8 @@ grime-less and they shine forth as though enamelled with the moonbeams. [4-30-27
 लीलासु चैवोत्तमवारणानां  
 श्रियं विभज्याद्य शरत्प्रवृत्ता ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1436,6 +1519,7 @@ elephants are frolicking, since no other season can make those pachyderms joyous
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1444,6 +1528,8 @@ elephants are frolicking, since no other season can make those pachyderms joyous
 सूर्याग्रहस्तप्रतिबोधितेषु  
 पद्माकरेष्वभ्यधिकं विभाति ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1498,6 +1584,7 @@ nature is glorified through the sage-like lotuses' bloom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1506,6 +1593,8 @@ nature is glorified through the sage-like lotuses' bloom.
 मत्तद्विपानां पवनानुसारी  
 दर्पं विनेष्यन्नधिकं विभाति ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,6 +1648,7 @@ glistening. [4-30-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1567,6 +1657,8 @@ glistening. [4-30-30]
 महानदीनां पुलिनोपयातैः  
 क्रीडन्ति हंसाः सह चक्रवाकैः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1623,6 +1715,7 @@ games.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1631,6 +1724,8 @@ games.
 प्रसन्नतोयासु च निम्नगासु  
 विभाति लक्ष्मीर्बहुधा विभक्ता ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1681,6 +1776,7 @@ limpid waters that are murmuringly slopping down. [4-30-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1689,6 +1785,8 @@ limpid waters that are murmuringly slopping down. [4-30-32]
 प्रियास्वरक्ता विनिवृत्तशोभा  
 गतोत्सवा ध्यानपरा मयूराः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1750,6 +1848,7 @@ the possibility of locating and conquering Ravana by himself, should Sugreeva re
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1758,6 +1857,8 @@ the possibility of locating and conquering Ravana by himself, should Sugreeva re
 सुवर्णगौरैर्नयनाभिरामै-  
 रुद्योतितानीव वनान्तराणि ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1810,6 +1911,7 @@ forests look as though illuminated, lit with golden lamps. [4-30-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1818,6 +1920,8 @@ forests look as though illuminated, lit with golden lamps. [4-30-34]
 मदोत्कटानां मदलालसानां  
 गजोत्तमानां गतयोऽद्य मन्दाः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1865,6 +1969,7 @@ along with their beloved female elephants. [4-30-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1873,6 +1978,8 @@ along with their beloved female elephants. [4-30-35]
 कह्लारशीताः पवनाः प्रवान्ति  
 तमो विमुक्ताश्च दिशः प्रकाशाः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1919,6 +2026,7 @@ directions released from the darkness are looking bright. [4-30-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1927,6 +2035,8 @@ directions released from the darkness are looking bright. [4-30-36]
 अन्योन्यवैरेण समायुताना-  
 मुद्योगकालोऽद्य नराधिपानाम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1977,6 +2087,7 @@ foregather their forces to strive against one another. [4-30-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1985,6 +2096,8 @@ foregather their forces to strive against one another. [4-30-37]
 मदोत्कटाः सम्प्रति युद्धलुब्धा  
 वृषा गवां मध्यगता नदन्ति ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2031,6 +2144,7 @@ midst of cowherd they are bellowing hankering for bullfights. [4-30-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2039,6 +2153,8 @@ midst of cowherd they are bellowing hankering for bullfights. [4-30-38]
 मदान्वितं सम्परिवार्य यान्तं  
 वनेषु भर्तारमनुप्रयाति ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2091,6 +2207,7 @@ and passion she is bumping and rubbing her husband. [4-30-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2099,6 +2216,8 @@ and passion she is bumping and rubbing her husband. [4-30-39]
 निर्भर्त्स्यमाना इव सारसौघैः  
 प्रयान्ति दीना विमना मयूराः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2159,6 +2278,7 @@ Sugreeva?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2167,6 +2287,8 @@ Sugreeva?
 सरस्सुबद्धाम्बुजभूषणेषु  
 विक्षोभ्य विक्षोभ्य जलं पिबन्ति ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2227,6 +2349,7 @@ alarmed like the flitting birds called Kaarandava and Cakravaka-s.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2235,6 +2358,8 @@ alarmed like the flitting birds called Kaarandava and Cakravaka-s.
 ससारसारावविनादितासु  
 नदीषु हंसा निपतन्ति हृष्टाः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2285,6 +2410,7 @@ rivers swans are delightedly taking deep dives. [4-30-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2293,6 +2419,8 @@ rivers swans are delightedly taking deep dives. [4-30-42]
 प्लवङ्गमानां च गतोत्सवानां  
 ध्रुवं रवाः सम्प्रति सम्प्रणष्टाः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2340,6 +2468,7 @@ frogs, are now completely undone as their festivity is definitely lost with the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2348,6 +2477,8 @@ frogs, are now completely undone as their festivity is definitely lost with the 
 क्षुधार्दिता घोरविषा बिलेभ्य-  
 श्चिरोषिता विप्रसरन्ति सर्पाः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2402,12 +2533,15 @@ Rama?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चञ्चच्चन्द्रकरस्पर्शहर्षोन्मीलिततारका ।  
 अहो रागवती सन्ध्या जहाति स्वयमम्बरम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2462,6 +2596,7 @@ is delightedly widening her pupils and disrobing her ochry robe on her own. [4-3
 
 * यहाँ संध्यामें कामुकी नायिकाके व्यवहारका आरोप होनेसे समासोक्ति अलंकार समझना चाहिये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2470,6 +2605,8 @@ is delightedly widening her pupils and disrobing her ochry robe on her own. [4-3
 ज्योत्स्नांशुकप्रावरणा विभाति  
 नारीव शुक्लांशुकसंवृताङ्गी ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2515,6 +2652,7 @@ fully-enfolded her limbs within a whitish-cloth-like moonshine. [4-30-46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2523,6 +2661,8 @@ fully-enfolded her limbs within a whitish-cloth-like moonshine. [4-30-46]
 नभः समाक्रामति शीघ्रवेगा  
 वातावधूता ग्रथितेव माला ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2568,6 +2708,7 @@ up-heaved by wind. [4-30-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2576,6 +2717,8 @@ up-heaved by wind. [4-30-47]
 घनैर्विमुक्तं निशि पूर्णचन्द्रं  
 तारागणाकीर्णमिवान्तरिक्षम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2628,6 +2771,7 @@ cloud.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2636,6 +2780,8 @@ cloud.
 वाप्युत्तमानामधिकाद्य लक्ष्मी-  
 र्वराङ्गनानामिव भूषितानाम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2689,6 +2835,7 @@ on whose body girdles and tassels are swaying and swinging.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2697,6 +2844,8 @@ on whose body girdles and tassels are swaying and swinging.
 सम्मूर्छितो गर्गरगोवृषाणा-  
 मन्योन्यमापूरयतीव शब्दः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2756,6 +2905,7 @@ that breeze to the delight of the inhabitants of that locale.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2764,6 +2914,8 @@ that breeze to the delight of the inhabitants of that locale.
 धौतामलक्षौमपटप्रकाशैः  
 कूलानि काशैरुपशोभितानि ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2821,6 +2973,7 @@ the silk clothe like reed-bed is swinging.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2829,6 +2982,8 @@ the silk clothe like reed-bed is swinging.
 वनेषु मत्ताः पवनानुयात्रां  
 कुर्वन्ति पद्मासनरेणुगौराः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2881,6 +3036,7 @@ breeze. [4-30-52]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2889,6 +3045,8 @@ breeze. [4-30-52]
 मृदुश्च वायुर्विमलश्च चन्द्रः  
 शंसन्ति वर्षव्यपनीतकालम् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2934,6 +3092,7 @@ has phased out. [4-30-53]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2942,6 +3101,8 @@ has phased out. [4-30-53]
 कान्तोपभुक्तालसगामिनीनां  
 प्रभातकालेष्विव कामिनीनाम् ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2987,6 +3148,7 @@ in the early morning of next day, after a nightlong romancing with their lovers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2995,6 +3157,8 @@ in the early morning of next day, after a nightlong romancing with their lovers.
 सपत्ररेखाणि सरोचनानि  
 वधूमुखानीव नदीमुखानि ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3056,6 +3220,7 @@ creeper-plants etc. Nowadays these leafy-lined decorations are coming as sticker
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3064,6 +3229,8 @@ creeper-plants etc. Nowadays these leafy-lined decorations are coming as sticker
 गृहीतचापोद्यतदण्डचण्डः  
 प्रचण्डचापोऽद्य वनेषु कामः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3114,6 +3281,7 @@ taking his bow to punish the lovesick. [4-30-56]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3122,6 +3290,8 @@ taking his bow to punish the lovesick. [4-30-56]
 निष्पन्नसस्यां वसुधां च कृत्वा  
 त्यक्त्वा नभस्तोयधराः प्रणष्टाः ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3167,12 +3337,15 @@ making the earth to derive good harvests also, clouds have dissipated forsaking 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयन्ति शरन्नद्यः पुलिनानि शनैः शनैः ।  
 नवसङ्गमसव्रीडा जघनानीव योषितः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3211,12 +3384,15 @@ brides showing hips in their new trysts, slowly and slowly. [4-30-58]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसन्नसलिलाः सौम्य कुरराभिविनादिताः ।  
 चक्रवाकगणाकीर्णा विभान्ति सलिलाशयाः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3256,12 +3432,15 @@ Cakravaka birds the lakes are glistening well. [4-30-59]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यबद्धवैराणां जिगीषूणां नृपात्मज ।  
 उद्योगसमयः सौम्य पार्थिवानामुपस्थितः ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3310,12 +3489,15 @@ details.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं सा प्रथमा यात्रा पार्थिवानां नृपात्मज ।  
 न च पश्यामि सुग्रीवमुद्योगं च तथाविधम् ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3359,12 +3541,15 @@ Sugreeva, or his striving for any invasion as such. [4-30-61]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असनाः सप्तपर्णाश्च कोविदाराश्च पुष्पिताः ।  
 दृश्यन्ते बन्धुजीवाश्च श्यामाश्च गिरिसानुषु ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3407,12 +3592,15 @@ Kovidaara, Bandhujiiva trees, and the Shyaama creepers. [4-30-62]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंससारसचक्राह्वैः कुररैश्च समन्ततः ।  
 पुलिनान्यवकीर्णानि नदीनां पश्य लक्ष्मण ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3462,12 +3650,15 @@ thus they are mismatching in the placement.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चत्वारो वार्षिका मासा गता वर्षशतोपमाः ।  
 मम शोकाभितप्तस्य तथा सीतामपश्यतः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3508,12 +3699,15 @@ have not seen Seetha, likewise I am seethed in grief. [4-30-64]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्रवाकीव भर्तारं पृष्ठतोऽनुगता वनम् ।  
 विषमं दण्डकारण्यमुद्यानमिव चाङ्गना ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3554,12 +3748,15 @@ pleasure-gardens. [4-30-65]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियाविहीने दुःखार्ते हृतराज्ये विवासिते ।  
 कृपां न कुरुते राजा सुग्रीवो मयि लक्ष्मण ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3600,6 +3797,7 @@ such as I am Lakshmana, king Sugreeva is not benevolent to me. [4-30-66]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3608,6 +3806,8 @@ such as I am Lakshmana, king Sugreeva is not benevolent to me. [4-30-66]
 इत्येतैः कारणैः सौम्य सुग्रीवस्य दुरात्मनः ।  
 अहं वानरराजस्य परिभूतः परन्तपः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3675,12 +3875,15 @@ Sugreeva may be thinking of me. [4-30-67]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कालं परिसङ्ख्याय सीतायाः परिमार्गणे ।  
 कृतार्थः समयं कृत्वा दुर्मतिर्नाववुध्यते ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3723,12 +3926,15 @@ as well, but on achieving his means that base-minded one is unmindful of it. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स किष्किन्धां प्रविश्य त्वं ब्रूहि वानरपुङ्गवम् ।  
 मूर्खं ग्राम्यसुखे सक्तं सुग्रीवं वचनान्मम ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3772,12 +3978,15 @@ speak to that arch-vanara Sugreeva, which stupid is tangled up in uncouth pleasu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थिनामुपपन्नानां पूर्वं चाप्युपकारिणाम् ।  
 आशां संश्रुत्य यो हन्ति स लोके पुरुषाधमः ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3828,12 +4037,15 @@ to be spoken to Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुभं वा यदि वा पापं यो हि वाक्यमुदीरितम् ।  
 सत्येन परिगृह्णाति स वीरः पुरुषोत्तमः ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3879,12 +4091,15 @@ not heedful of it, then the 'word-of-honour' conflict occurs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतार्था ह्यकृतार्थानां मित्राणां न भवन्ति ये ।  
 तान् मृतानपि क्रव्यादाः कृतघ्नान् नोपभुञ्जते ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3938,12 +4153,15 @@ these episodes of Ramayana, that epic Maha Bharata has became more voluminous th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं काञ्चनपृष्ठस्य विकृष्टस्य मया रणे ।  
 द्रष्टुमिच्छसि चापस्य रूपं विद्युद‍्गणोपमम् ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3987,12 +4205,15 @@ simile will be like a cluster of electric-discharges when I fully stretch it in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोरं ज्यातलनिर्घोषं क्रुद्धस्य मम संयुगे ।  
 निर्घोषमिव वज्रस्य पुनः संश्रोतुमिच्छसि ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4034,12 +4255,15 @@ bowstring in a given war. [4-30-75]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काममेवङ्गतेऽप्यस्य परिज्ञाते पराक्रमे ।  
 त्वत्सहायस्य मे वीर न चिन्ता स्यान्नृपात्मज ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4100,12 +4324,15 @@ promise...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदर्थमयमारम्भः कृतः परपुरञ्जय ।  
 समयं नाभिजानाति कृतार्थः प्लवगेश्वरः ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4147,12 +4374,15 @@ Sugreeva is not recognising, as his ends are achieved. [4-30-77]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्षाः समयकालं तु प्रतिज्ञाय हरीश्वरः ।  
 व्यतीतांश्चतुरो मासान् विहरन् नावबुध्यते ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4436,12 +4666,15 @@ Top of Page
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामात्यपरिषत्क्रीडन् पानमेवोपसेवते ।  
 शोकदीनेषु नास्मासु सुग्रीवः कुरुते दयाम् ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4484,12 +4717,15 @@ alone, and he is not sympathising with us who are agonised by grief. [4-30-79]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्यतां गच्छ सुग्रीवस्त्वया वीर महाबल ।  
 मम रोषस्य यद्रूपं ब्रूयाश्चैनमिदं वचः ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4531,12 +4767,15 @@ through you as to how my fury takes shape, and oh, brave one, he may be told thi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स सङ्कुचितः पन्था येन वाली हतो गतः ।  
 समये तिष्ठ सुग्रीव मा वालिपथमन्वगाः ॥ ८१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4579,12 +4818,15 @@ not tapered off, as such do not tread Vali's path. [4-30-81]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एक एव रणे वाली शरेण निहतो मया ।  
 त्वां तु सत्यादतिक्रान्तं हनिष्यामि सबान्धवम् ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4624,12 +4866,15 @@ your kith and kin since you have transgressed truthfulness. [4-30-82]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदेवं विहिते कार्ये यद्धितं पुरुषर्षभ ।  
 तत् तद् ब्रूहि नरश्रेष्ठ त्वर कालव्यतिक्रमः ॥ ८३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4674,6 +4919,7 @@ Sugreeva even, oh, foremost one among men, hurry up, let there be no time lapse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4682,6 +4928,8 @@ Sugreeva even, oh, foremost one among men, hurry up, let there be no time lapse.
 मा वालिनं प्रेतगतो यमक्षये  
 त्वमद्य पश्येर्मम चोदितः शरैः ॥ ८४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4734,6 +4982,7 @@ thinking of Sugreeva. [4-30-84]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4742,6 +4991,8 @@ thinking of Sugreeva. [4-30-84]
 चकार तीव्रां मतिमुग्रतेजा  
 हरीश्वरे मानववंशवर्धनः ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4799,5 +5050,6 @@ augmenter of Manu's dynasty, has become hostile towards the monkey-king Sugreeva
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तनॆय सर्ग सम्पूर्णवायितु.॥30॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०५८ त्रिशङ्कुशापः"
 title_english = "058 trishanku seeks shelter of vishvamitra"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Chapter [Sarga] 58**
@@ -21,6 +23,7 @@ body, Trishanku earnestly appeals to Vishvamitra.
 
 58. वसिष्ठ ऋषिके पुत्रोंका त्रिशंकुको डाँट बताकर घर लौटनेके लिये आज्ञा देना तथा उन्हें दूसरा पुरोहित बनानेके लिये उद्यत देख शाप-प्रदान और उनके शापसे चाण्डाल हुए त्रिशंकुका विश्वामित्रजीकी शरणमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ body, Trishanku earnestly appeals to Vishvamitra.
 प्रत्याख्यातोऽसि दुर्मेधो गुरुणा सत्यवादिना ।  
 तं कथं समतिक्रम्य शाखान्तरमुपेयिवान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -89,12 +94,15 @@ this to that king." Thus, sage Shataananda continued his narration to Rama and o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां हि सर्वेषां पुरोधाः परमा गतिः ।  
 न चातिक्रमितुं शक्यं वचनं सत्यवादिनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,12 +136,15 @@ the word of advise of such a veracious Priest. [1-58-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशक्यमिति सोवाच वसिष्ठो भगवानृषिः ।  
 तं वयं वै समाहर्तुं क्रतुं शक्ताः कथञ्चन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +178,7 @@ such a Vedic-ritual. Then, in which way we are capable to conduct such a Vedic-r
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -174,6 +186,8 @@ such a Vedic-ritual. Then, in which way we are capable to conduct such a Vedic-r
 याजने भगवान् शक्तस्त्रैलोक्यस्यापि पार्थिव ॥ ५ ॥  
 अवमानं कथं कर्तुं तस्य शक्ष्यामहे वयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,6 +226,7 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -220,6 +235,8 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 प्रत्याख्यातो भगवता गुरुपुत्रैस्तथैव हि ॥ ७ ॥  
 अन्यां गतिं गमिष्यामि स्वस्ति वोऽस्तु तपोधनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,6 +289,7 @@ this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,6 +297,8 @@ this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
 शेपुः परमसङ्क्रुद्धाश्चण्डालत्वं गमिष्यसि ।  
 इत्युक्त्वा ते महात्मानो विविशुः स्वं स्वमाश्रमम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,6 +373,7 @@ results.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -360,6 +381,8 @@ results.
 नीलवस्त्रधरो नीलः पुरुषो ध्वस्तमूर्धजः ॥ १० ॥  
 चित्यमाल्याङ्गरागश्च आयसाभरणोऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,6 +427,7 @@ which were regal emollients, and his royal jewellery is now rendered into iron a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -412,6 +436,8 @@ which were regal emollients, and his royal jewellery is now rendered into iron a
 एको हि राजा काकुत्स्थ जगाम परमात्मवान् ॥ १२ ॥  
 दह्यमानो दिवारात्रं विश्वामित्रं तपोधनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,6 +490,7 @@ retinue have deserted him and took to flight in masses. [1-58-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -474,6 +501,8 @@ retinue have deserted him and took to flight in masses. [1-58-11b, 12a]
 किमागमनकार्यं ते राजपुत्र महाबल ॥ १५ ॥  
 अयोध्याधिपते वीर शापाच्चण्डालतां गतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +579,15 @@ bhogaaH* 'earthly and heavenly enjoyments...' because a king is a godsend being.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तद्वाक्यमाकर्ण्य राजा चण्डालतां गतः ॥ १६ ॥  
 अब्रवीत् प्राञ्जलिर्वाक्यं वाक्यज्ञो वाक्यकोविदम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +621,15 @@ maker spoke this sentence with his palms adjoined to the sententious sage Vishva
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्यातोऽस्मि गुरुणा गुरुपुत्रैस्तथैव च ॥ १७ ॥  
 अनवाप्यैव तं कामं मया प्राप्तो विपर्ययः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +663,15 @@ besides, this discrepancy has bechanced upon me. [1-58-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सशरीरो दिवं यायामिति मे सौम्यदर्शन ॥ १८ ॥  
 मया चेष्टं क्रतुशतं तच्च नावाप्यते फलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +708,15 @@ hundred rituals but I have not achieved the fruit.' Thus Trishanku started tell 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतं नोक्तपूर्वं मे न च वक्ष्ये कदाचन ॥ १९ ॥  
 कृच्छ्रेष्वपि गतः सौम्य क्षत्रधर्मेण ते शपे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,6 +756,7 @@ would not save liars...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -724,6 +766,8 @@ would not save liars...'
 परितोषं न गच्छन्ति गुरवो मुनिपुङ्गव ।  
 दैवमेव परं मन्ये पौरुषं तु निरर्थकम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,6 +845,7 @@ And with my conduct and comport the high-souled savants are also pleased. [1-58-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -808,6 +853,8 @@ And with my conduct and comport the high-souled savants are also pleased. [1-58-
 तस्य मे परमार्तस्य प्रसादमभिकाङ्क्षतः ।  
 कर्तुमर्हसि भद्रं ते दैवोपहतकर्मणः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,12 +889,15 @@ apt of you to accord, you be safe, your favour upon me. [1-58-23b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नान्यां गतिं गमिष्यामि नान्यच्छरणमस्ति मे ।  
 दैवं पुरुषकारेण निवर्तयितुमर्हसि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,5 +951,6 @@ grace of Vishvamitra..." So said Sage Shataananda to Rama and others continuing 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥58॥
+</details>
 </details>
 

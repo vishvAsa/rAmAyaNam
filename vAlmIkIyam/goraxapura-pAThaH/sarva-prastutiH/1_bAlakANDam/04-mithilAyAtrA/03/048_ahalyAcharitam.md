@@ -2,6 +2,8 @@
 title = "०४८ अहल्याचरितम्"
 title_english = "048 The legend of ahalya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -23,12 +25,15 @@ Vishvamitra narrates the legend of Ahalya to Rama and Lakshmana when
 
 48. राजा सुमतिसे सत्कृत हो एक रात विशालामें रहकर मुनियोंसहित श्रीरामका मिथिलापुरीमें पहुँचना और वहाँ सूने आश्रमके विषयमें पूछनेपर विश्वामित्रजीका उनसे अहल्याको शाप प्राप्त होनेकी कथा सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ट्वा तु कुशलं तत्र परस्परसमागमे ।  
 कथान्ते सुमतिर्वाक्यं व्याजहार महामुनिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमौ कुमारौ भद्रं ते देवतुल्यपराक्रमौ ।  
 गजसिंहगती वीरौ शार्दूलवृषभोपमौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -86,12 +94,15 @@ enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 
 ‘ब्रह्मर्षिगळे! निमगॆ मङ्गळवागलि’. इवरिब्बरु राजकुमाररु देवतॆगळन्तॆ पराक्रमिगळु ऎन्दु तोरुत्तारॆ. इवर नडिगॆ गज मत्तु सिंहदन्तॆ गम्भीरवागिदॆ. इवरीर्वरु वीररु सिंह मत्तु गूळियन्तॆ कण्डु बरुत्तिरुवरु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मपत्रविशालाक्षौ खड्गतूणधनुर्धरौ ।  
 अश्विनाविव रूपेण समुपस्थितयौवनौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +119,15 @@ enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 
 इवर विशालकण्णुगळु कमलदळगळन्तॆ शोभिसुत्तिवॆ. इब्बरू खड्ग, धनुष्य, बत्तळिकॆगळन्नु धरिसिरुवरु. तम्म रूप सौन्दर्यदिन्द अश्विनिदेवतॆगळन्नु नाचिसुत्ता, यौवनद हॊस्तिलिनल्लि अडियन्निट्टिरुवरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदृच्छयैव गां प्राप्तौ देवलोकादिवामरौ ।  
 कथं पद‍्भ्यामिह प्राप्तौ किमर्थं कस्य वा मुने ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +195,15 @@ goodness.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूषयन्ताविमं देशं चन्द्रसूर्याविवाम्बरम् ।  
 परस्परेण सदृशौ प्रमाणेङ्गितचेष्टितैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +220,15 @@ goodness.'
 
 चन्द्र-सूर्यरु आकाशद शोभॆयन्नु हॆच्चिसुत्तिरुवन्तॆ, ई इब्बरु कुमाररु ई देशवन्नु सुशोभित गॊळिसुत्तिद्दारॆ. देहद ऎत्तर, मनोभाव सूचक सङ्केत हागू नडॆनुडिगळल्लि ऒब्बरु मत्तॊब्बरिगॆ समवागिद्दारॆ.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं च नरश्रेष्ठौ सम्प्राप्तौ दुर्गमे पथि ।  
 वरायुधधरौ वीरौ श्रोतुमिच्छामि तत्त्वतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,6 +280,7 @@ are an expert in reading faces, know them by their facial expressions...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,6 +288,8 @@ are an expert in reading faces, know them by their facial expressions...'
 सिद्धाश्रमनिवासं च राक्षसानां वधं यथा ।  
 विश्वामित्रवचः श्रुत्वा राजा परमविस्मितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +332,15 @@ of demons, as it has happened. [1-48-7a, 7b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिथी परमं प्राप्तौ पुत्रौ दशरथस्य तौ ।  
 पूजयामास विधिवत् सत्कारार्हौ महाबलौ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +381,15 @@ Dasharatha customarily. [1-48-7c, 8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमसत्कारं सुमतेः प्राप्य राघवौ ।  
 उष्य तत्र निशामेकां जग्मतुर्मिथिलां ततः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +424,15 @@ Mithila. [1-48-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा मुनयः सर्वे जनकस्य पुरीं शुभाम् ।  
 साधु साध्विति शंसन्तो मिथिलां समपूजयन् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +475,15 @@ ongoing from time immemorial.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथिलोपवने तत्र आश्रमं दृश्य राघवः ।  
 पुराणं निर्जनं रम्यं पप्रच्छ मुनिपुङ्गवम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +518,15 @@ now uninhabited, yet pleasing, Rama asked the eminent sage Vishvamitra. [1-48-11
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमाश्रमसङ्काशं किं न्विदं मुनिवर्जितम् ।  
 श्रोतुमिच्छामि भगवन् कस्यायं पूर्व आश्रमः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +561,15 @@ Vishvamitra. [1-48-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राघवेणोक्तं वाक्यं वाक्यविशारदः ।  
 प्रत्युवाच महातेजा विश्वामित्रो महामुनिः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +613,15 @@ resplendent sage and eminent-saint Vishvamitra replied him in this way. [1-48-13
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त ते कथयिष्यामि शृणु तत्त्वेन राघव ।  
 यस्यैतदाश्रमपदं शप्तं कोपान्महात्मनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +670,15 @@ of Rama's grace, in releasing Ahalya from her cursed state.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौतमस्य नरश्रेष्ठ पूर्वमासीन्महात्मनः ।  
 आश्रमो दिव्यसङ्काशः सुरैरपि सुपूजितः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +713,15 @@ hallowed even by gods, once belonged to the great-souled sage Gautama. [1-48-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चात्र तप आतिष्ठदहल्यासहितः पुरा ।  
 वर्षपूगान्यनेकानि राजपुत्र महायशः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -706,12 +756,15 @@ tight in asceticism for numerous cycle of years along with his wife Ahalya. [1-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यान्तरं विदित्वा च सहस्राक्षः शचीपतिः ।  
 मुनिवेषधरो भूत्वा अहल्यामिदमब्रवीत् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +809,15 @@ such a sage, approached Ahalya and said this to her. [1-48-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतुकालं प्रतीक्षन्ते नार्थिनः सुसमाहिते ।  
 सङ्गमं त्वहमिच्छामि त्वया सह सुमध्यमे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +860,15 @@ wish to have any progeny of mine from you...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनिवेषं सहस्राक्षं विज्ञाय रघुनन्दन ।  
 मतिं चकार दुर्मेधा देवराजकुतूहलात् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,6 +910,7 @@ let him have it
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -858,6 +918,8 @@ let him have it
 कृतार्थास्मि सुरश्रेष्ठ गच्छ शीघ्रमितः प्रभो ॥ २० ॥  
 आत्मानं मां च देवेश सर्वथा रक्ष गौतमात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,12 +966,15 @@ from Sage Gautama.' Thus, Ahalya said to Indra. [1-48-20, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रस्तु प्रहसन् वाक्यमहल्यामिदमब्रवीत् ॥ २१ ॥  
 सुश्रोणि परितुष्टोऽस्मि गमिष्यामि यथागतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,12 +1011,15 @@ am quite delighted, here I go as I have came.' [1-48-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सङ्गम्य तु तदा निश्चक्रामोटजात् ततः ॥ २२ ॥  
 स सम्भ्रमात् त्वरन् राम शङ्कितो गौतमं प्रति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,6 +1060,7 @@ with her with an uncertainty about the arrival of Sage Gautama. [1-48-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1000,6 +1069,8 @@ with her with an uncertainty about the arrival of Sage Gautama. [1-48-22b, 23a]
 तीर्थोदकपरिक्लिन्नं दीप्यमानमिवानलम् ॥ २४ ॥  
 गृहीतसमिधं तत्र सकुशं मुनिपुङ्गवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,6 +1110,7 @@ and eminent Sage entering into the hermitage. [1-48-23b, 24, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1046,6 +1118,8 @@ and eminent Sage entering into the hermitage. [1-48-23b, 24, 25a]
 अथ दृष्ट्वा सहस्राक्षं मुनिवेषधरं मुनिः ।  
 दुर्वृत्तं वृत्तसम्पन्नो रोषाद् वचनमब्रवीत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1085,12 +1159,15 @@ Indra who is donning the guise of a saint. [1-48-25b, 26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम रूपं समास्थाय कृतवानसि दुर्मते ।  
 अकर्तव्यमिदं यस्माद् विफलस्त्वं भविष्यसि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,12 +1208,15 @@ deed, whereby you shall become infecund.' Thus, Gautama cursed Indra. [1-48-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौतमेनैवमुक्तस्य सुरोषेण महात्मना ।  
 पेततुर्वृषणौ भूमौ सहस्राक्षस्य तत्क्षणात् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,6 +1257,7 @@ of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1189,6 +1270,8 @@ of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-
 तस्यातिथ्येन दुर्वृत्ते लोभमोहविवर्जिता ।  
 मत्सकाशं मुदा युक्ता स्वं वपुर्धारयिष्यसि ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,6 +1354,7 @@ dust.' [1-48-29, 30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1278,6 +1362,8 @@ dust.' [1-48-29, 30]
 इममाश्रममुत्सृज्य सिद्धचारणसेविते ।  
 हिमवच्छिखरे रम्ये तपस्तेपे महातपाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1326,5 +1412,6 @@ Thus, Vishvamitra continued his narration about the legend of Ahalya. [1-48-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥48॥
+</details>
 </details>
 

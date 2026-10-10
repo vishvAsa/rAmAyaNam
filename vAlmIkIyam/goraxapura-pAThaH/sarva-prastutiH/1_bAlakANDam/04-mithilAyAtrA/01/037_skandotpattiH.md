@@ -2,6 +2,8 @@
 title = "०३७ स्कन्दोत्पत्तिः"
 title_english = "037 Legend of kaartikeya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -22,12 +24,15 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 
 37. गंगासे कार्तिकेयकी उत्पत्तिका प्रसंग
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्यमाने तदा देवे सेन्द्राः साग्निपुरोगमाः ।  
 सेनापतिमभीप्सन्तः पितामहमुपागमन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रुवन् सुराः सर्वे भगवन्तं पितामहम् ।  
 प्रणिपत्य सुराराम सेन्द्राः साग्निपुरोगमाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन सेनापतिर्देव दत्तो भगवता पुरा ।  
 स तपः परमास्थाय तप्यते स्म सहोमया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +168,15 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदत्रानन्तरं कार्यं लोकानां हितकाम्यया ।  
 संविधत्स्व विधानज्ञ त्वं हि नः परमा गतिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानां वचः श्रुत्वा सर्वलोकपितामहः ।  
 सान्त्वयन् मधुरैर्वाक्यैस्त्रिदशानिदमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलपुत्र्या यदुक्तं तन्न प्रजाः स्वासु पत्निषु ।  
 तस्या वचनमक्लिष्टं सत्यमेव न संशयः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +300,15 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमाकाशगङ्गा च यस्यां पुत्रं हुताशनः ।  
 जनयिष्यति देवानां सेनापतिमरिन्दमम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +349,15 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठा शैलेन्द्रदुहिता मानयिष्यति तं सुतम् ।  
 उमायास्तद‍्बहुमतं भविष्यति न संशयः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,12 +395,15 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य कृतार्था रघुनन्दन ।  
 प्रणिपत्य सुराः सर्वे पितामहमपूजयन् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +439,15 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गत्वा परमं राम कैलासं धातुमण्डितम् ।  
 अग्निं नियोजयामासुः पुत्रार्थं सर्वदेवताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवकार्यमिदं देव समाधत्स्व हुताशन ।  
 शैलपुत्र्यां महातेजो गङ्गायां तेज उत्सृज ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +529,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानां प्रतिज्ञाय गङ्गामभ्येत्य पावकः ।  
 गर्भं धारय वै देवि देवतानामिदं प्रियम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,12 +574,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येतद् वचनं श्रुत्वा दिव्यं रूपमधारयत् ।  
 स तस्या महिमां दृष्ट्वा समन्तादवशीर्यत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +623,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समन्ततस्तदा देवीमभ्यषिञ्चत पावकः ।  
 सर्वस्रोतांसि पूर्णानि गङ्गाया रघुनन्दन ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,6 +666,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -629,6 +674,8 @@ _________________
 अशक्ता धारणे देव तेजस्तव समुद्धतम् ॥ १५ ॥  
 दह्यमानाग्निना तेन सम्प्रव्यथितचेतना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +716,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाब्रवीदिदं गङ्गां सर्वदेवहुताशनः ॥ १६ ॥  
 इह हैमवते पार्श्वे गर्भोऽयं सन्निवेश्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +762,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा त्वग्निवचो गङ्गा तं गर्भमतिभास्वरम् ॥ १७ ॥  
 उत्ससर्ज महातेजाः स्रोतोभ्यो हि तदानघ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,6 +806,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -760,6 +814,8 @@ _________________
 काञ्चनं धरणीं प्राप्तं हिरण्यमतुलप्रभम् ।  
 ताम्रं कार्ष्णायसं चैव तैक्ष्ण्यादेवाभिजायत ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -797,12 +853,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मलं तस्याभवत् तत्र त्रपु सीसकमेव च ।  
 तदेतद्धरणीं प्राप्य नानाधातुरवर्धत ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,12 +901,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निक्षिप्तमात्रे गर्भे तु तेजोभिरभिरञ्जितम् ।  
 सर्वं पर्वतसन्नद्धं सौवर्णमभवद् वनम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,6 +921,7 @@ _________________
 
 पृथ्वीपर उस गर्भके रखे जाते ही उसके तेजसे व्याप्त होकर पूर्वोक्त श्वेतपर्वत और उससे सम्बन्ध रखनेवाला सारा वन सुवर्णमय होकर जगमगाने लगा ॥ २१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -866,6 +929,8 @@ _________________
 सुवर्णं पुरुषव्याघ्र हुताशनसमप्रभम् ।  
 तृणवृक्षलतागुल्मं सर्वं भवति काञ्चनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +999,15 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं कुमारं ततो जातं सेन्द्राः सह मरुद्‍गणाः ।  
 क्षीरसम्भावनार्थाय कृत्तिकाः समयोजयन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1042,15 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः क्षीरं जातमात्रस्य कृत्वा समयमुत्तमम् ।  
 ददुः पुत्रोऽयमस्माकं सर्वासामिति निश्चिताः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1086,15 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु देवताः सर्वाः कार्तिकेय इति ब्रुवन् ।  
 पुत्रस्त्रैलोक्यविख्यातो भविष्यति न संशयः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,12 +1129,15 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा स्कन्नं गर्भपरिस्रवे ।  
 स्नापयन् परया लक्ष्म्या दीप्यमानं यथानलम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1173,15 @@ the womb of Ganga. [1-37-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्कन्द इत्यब्रुवन् देवाः स्कन्नं गर्भपरिस्रवे ।  
 कार्तिकेयं महाबाहुं काकुत्स्थ ज्वलनोपमम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,12 +1224,15 @@ the womb of Ganga. [1-37-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रादुर्भूतं ततः क्षीरं कृत्तिकानामनुत्तमम् ।  
 षण्णां षडाननो भूत्वा जग्राह स्तनजं पयः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,12 +1284,15 @@ It is said that each of the six Krittika-stars came forward to give her milk fir
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीत्वा क्षीरमेकाह्ना सुकुमारवपुस्तदा ।  
 अजयत् स्वेन वीर्येण दैत्यसैन्यगणान् विभुः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1242,12 +1328,15 @@ ajayat* = triumphed over.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरसेनागणपतिमभ्यषिञ्चन्महाद्युतिम् ।  
 ततस्तममराः सर्वे समेत्याग्निपुरोगमाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1282,12 +1371,15 @@ ajayat* = triumphed over.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष ते राम गङ्गाया विस्तरोऽभिहितो मया ।  
 कुमारसम्भवश्चैव धन्यः पुण्यस्तथैव च ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1323,12 +1415,15 @@ ajayat* = triumphed over.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्तश्च यः कार्तिकेये काकुत्स्थ भुवि मानवः ।  
 आयुष्मान् पुत्रपौत्रैश्च स्कन्दसालोक्यतां व्रजेत् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1380,5 +1475,6 @@ ajayat* = triumphed over.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तेळनॆय सर्ग पूर्णवायितु.॥37॥
+</details>
 </details>
 

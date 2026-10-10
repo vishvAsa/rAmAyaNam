@@ -2,6 +2,8 @@
 title = "०१५ इन्द्रजिद्-विभीषणसंवादः"
 title_english = "015 Indrajit criticizes Vibhishana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,6 +24,7 @@ Rama and to live happily ever after in Lanka.
 
 15. इन्द्रजित् द्वारा विभीषणका उपहास तथा विभीषणका उसे फटकारकर सभामें अपनी उचित सम्मति देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ Rama and to live happily ever after in Lanka.
 ततो महात्मा वचनं बभाषे  
 तत्रेन्द्रजिन्नैर्ऋतयूथमुख्यः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +86,7 @@ spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,6 +95,8 @@ spoke as follows:
 अस्मिन् कुले योऽपि भवेन्न जातः  
 सोऽपीदृशं नैव वदेन्न कुर्यात् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +148,7 @@ thing (as you suggest)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -148,6 +157,8 @@ thing (as you suggest)."
 एकः कुलेऽस्मिन् पुरुषो विमुक्तो  
 विभीषणस्तात कनिष्ठ एषः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,6 +195,7 @@ strength, heroism, prowess, courage, valor and vital powers" W.w m.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,6 +204,8 @@ strength, heroism, prowess, courage, valor and vital powers" W.w m.
 सुप्राकृतेनापि निहन्तुमेतौ  
 शक्यौ कुतो भीषयसे स्म भीरो ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,6 +242,7 @@ by one very ordinary demon among us. O, coward! Why are you frightening us? "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,6 +251,8 @@ by one very ordinary demon among us. O, coward! Why are you frightening us? "
 भयार्पिताश्चापि दिशः प्रपन्नाः  
 सर्वे तदा देवगणाः समग्राः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,6 +299,7 @@ different quarters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -290,6 +308,8 @@ different quarters."
 विकृष्य दन्तौ तु मया प्रसह्य  
 वित्रासिता देवगणाः समग्राः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +356,7 @@ celestials."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -344,6 +365,8 @@ celestials."
 कथं नरेन्द्रात्मजयोर्न शक्तो  
 मनुष्ययोः प्राकृतयोः सुवीर्यः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +413,7 @@ princes who are ordinary human beings?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -398,6 +422,8 @@ princes who are ordinary human beings?"
 ततो महार्थं वचनं बभाषे  
 विभीषणः शस्त्रभृतां वरिष्ठः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -449,6 +475,7 @@ bearers of weapons spoke then the following highly meaningful words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,6 +484,8 @@ bearers of weapons spoke then the following highly meaningful words:
 तस्मात् त्वयाप्यात्मविनाशनाय  
 वचोऽर्थहीनं बहु विप्रलप्तम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -503,6 +532,7 @@ self-destruction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -511,6 +541,8 @@ self-destruction."
 यस्येदृशं राघवतो विनाशं  
 निशम्य मोहादनुमन्यसे त्वम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,6 +589,7 @@ blindly agreeing with him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -565,6 +598,8 @@ blindly agreeing with him."
 बालं दृढं साहसिकं च योऽद्य  
 प्रावेशयन्मन्त्रकृतां समीपम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,6 +650,7 @@ a reckless boy here today and ushered you foolishly in the proximity of counselo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -623,6 +659,8 @@ a reckless boy here today and ushered you foolishly in the proximity of counselo
 मूर्खस्त्वमत्यन्तसुदुर्मतिश्च  
 त्वमिन्द्रजिद् बालतया ब्रवीषि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +711,7 @@ an immature boy".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -681,6 +720,8 @@ an immature boy".
 सहेत बाणान् यमदण्डकल्पान्  
 समक्षमुक्तान् युधि राघवेण ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,6 +760,7 @@ God of Death and are equal to the Yama's staff?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -727,6 +769,8 @@ God of Death and are equal to the Yama's staff?"
 सीतां च रामाय निवेद्य देवीं  
 वसेम राजन्निह वीतशोकाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,5 +831,6 @@ bright colored gems and the god-like Sita to Rama, let us live here, free from a
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिनैदनॆय सर्ग पूर्णवायितु.॥14॥
+</details>
 </details>
 

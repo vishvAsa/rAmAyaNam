@@ -2,6 +2,8 @@
 title = "०२१ रामेण समुद्रक्रोधः"
 title_english = "021 Rama becomes angry at the ocean"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ among the creatures inhabiting the sea.
 
 21. श्रीरामका समुद्रके तटपर कुशा बिछाकर तीन दिनोंतक धरना देनेपर भी समुद्रके दर्शन न देनेसे कुपित हो उसे बाण मारकर विक्षुब्ध कर देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सागरवेलायां दर्भानास्तीर्य राघवः ।  
 अञ्जलिं प्राङ्मुखः कृत्वा प्रतिशिश्ये महोदधेः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -50,12 +55,15 @@ among the creatures inhabiting the sea.
 
 अनन्तर श्रीरघुनाथनु समुद्रतीरदल्लि दर्भॆगळन्नु हासिकॊण्डु महासागरद ऎदुरिगॆ कैमुगिदु पूर्वाभिमुखवागि मलगिबिट्टनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुं भुजङ्गभोगाभमुपधायारिसूदनः ।  
 जातरूपमयैश्चैव भूषणैर्भूषितं पुरा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +80,15 @@ among the creatures inhabiting the sea.
 
 आग शत्रुसूदन श्रीरामनु सर्पदन्तह कोमल मत्तु वनवासद मॊदलु बङ्गारद सुन्दर ऒडवॆगळिन्द अलङ्कृतवागिद्द तन्न बलतॊळन्नु दिम्बागिसिद्दनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिकाञ्चनकेयूरमुक्ताप्रवरभूषणैः ।  
 भुजैः परमनारीणामभिमृष्टमनेकधा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +105,15 @@ among the creatures inhabiting the sea.
 
 अयोध्यॆयल्लि इरुवाग मणि मत्तु सुवर्णद केयूर हागू मुत्तिन श्रेष्ठ ऒडवॆगळिन्द विभूषित वाद आ तोळन्नु परमोत्तम नारियरु तम्म करकमलगळिन्द स्नान माडिसुवाग अलङ्करिसुव समय अनेकबारि सवरुत्ता, ऒत्तुत्तिद्दरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनागुरुभिश्चैव पुरस्तादभिसेवितम् ।  
 बालसूर्यप्रकाशैश्च चन्दनैरुपशोभितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,12 +150,15 @@ and made beautiful like the splendor of a rising sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयने चोत्तमाङ्गेन सीतायाः शोभितं पुरा ।  
 तक्षकस्येव सम्भोगं गङ्गाजलनिषेवितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +197,15 @@ resembled the body of Takshaka. (A snake) supported on the water of the Ganga.
 
 * तक्षकनागका रंग लाल माना गया है । (देखिये महाभारत, आदिपर्व ४४ । २-३)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयुगे युगसङ्काशं शत्रूणां शोकवर्धनम् ।  
 सुहृदां नन्दनं दीर्घं सागरान्तव्यपाश्रयम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,6 +246,7 @@ It was delightful to his friends. It is now placed at the shore of the sea.
 
 नेगिलिनन्तॆ सुदीर्घवागिद्द आ बाहुवु युद्धदल्लि शत्रुगळ शोकवन्नु हॆच्चिसुत्तित्तु. सुहृदरिगॆ सन्तोषवन्नुण्टुमाडुत्तित्तु. सागरान्त भूमण्डलद रक्षणॆय भारवू अवन आ बाहुवन्ने आश्रयिसित्तु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,6 +257,8 @@ It was delightful to his friends. It is now placed at the shore of the sea.
 इति रामो धृतिं कृत्वा महाबाहुर्महोदधिम् ।  
 अधिशिष्ये च विधिवत् प्रयतो नियतो मुनिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +324,15 @@ restraining his speech and with a pious disposition according to tradition.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य रामस्य सुप्तस्य कुशास्तीर्णे महीतले ।  
 नियमादप्रमत्तस्य निशास्तिस्रोऽभिजग्मतुः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,6 +373,7 @@ while sleeping on the ground spread with Kusha grass, spent a time of three nigh
 
 दर्भॆगळन्नु हासिद्द भूमिय मेलॆ मलगि, नियमानुसार अप्रमत्तनागि श्रीरामनु हीगॆ मूरु रात्रॆगळन्नु कळॆदनु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,6 +382,8 @@ while sleeping on the ground spread with Kusha grass, spent a time of three nigh
 न च दर्शयते रूपं मन्दो रामस्य सागरः ।  
 प्रयतेनापि रामेण यथार्हमभिपूजितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +436,15 @@ waited upon the ocean, the lord of rivers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रस्य ततः क्रुद्धो रामो रक्तान्तलोचनः ।  
 समीपस्थमुवाचेदं लक्ष्मणं शुभलक्षणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,6 +506,7 @@ turned eastward, lied down with his arm, resembling the body of a snake , as his
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -481,6 +514,8 @@ turned eastward, lied down with his arm, resembling the body of a snake , as his
 प्रशमश्च क्षमा चैव आर्जवं प्रियवादिता ॥ १४ ॥  
 असामर्थ्यफला ह्येते निर्गुणेषु सतां गुणाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,12 +561,15 @@ men give weak results, when directed towards those having no virtues."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मप्रशंसिनं दुष्टं धृष्टं विपरिधावकम् ॥ १५ ॥  
 सर्वत्रोत्सृष्टदण्डं च लोकः सत्कुरुते नरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -571,12 +609,15 @@ about in all directions advertising himself and commits every kind of excess"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न साम्ना शक्यते कीर्तिर्न साम्ना शक्यते यशः ॥ १६ ॥  
 प्राप्तुं लक्ष्मण लोकेऽस्मिञ्जयो वा रणमूर्धनि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -616,12 +657,15 @@ the end of a battle, by conciliation"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मद‍्बाणनिर्भग्नैर्मकरैर्मकरालयम् ॥ १७ ॥  
 निरुद्धतोयं सौमित्रे प्लवद्भिः पश्य सर्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +705,15 @@ crocodiles floated on all sides and broken asunder by my arrows".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भोगिनां पश्य भोगानि मया भिन्नानि लक्ष्मण ॥ १८ ॥  
 महाभोगानि मत्स्यानां करिणां च करानिह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ and the trunks of sea elephants being shattered by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सशङ्खशुक्तिकाजालं समीनमकरं तथा ॥ १९ ॥  
 अद्य युद्धेन महता समुद्रं परिशोषये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +802,15 @@ crocodiles, dry up now in this great battle"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षमया हि समायुक्तं मामयं मकरालयः ॥ २० ॥  
 असमर्थं विजानाति धिक् क्षमामीदृशे जने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -797,6 +850,7 @@ It is a great mistake to show forbearance to such an individual."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -804,6 +858,8 @@ It is a great mistake to show forbearance to such an individual."
 चापमानय सौमित्रे शरांश्चाशीविषोपमान् ।  
 समुद्रं शोषयिष्यामि पद्भ्यां यान्तु प्लवङ्गमाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,6 +908,7 @@ feet."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -860,6 +917,8 @@ feet."
 निर्मर्यादं करिष्यामि सायकैर्वरुणालयम् ।  
 महार्णवं क्षोभयिष्ये महादानवसङ्कुलम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -908,12 +967,15 @@ by my arrows. I will agitate the great ocean, thronged with great demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा धनुष्पाणिः क्रोधविस्फारितेक्षणः ।  
 बभूव रामो दुर्धर्षो युगान्ताग्निरिव ज्वलन् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1015,15 @@ with his hand, became dreadful to look at, as a blazing fire at the end of the w
 
 हीगॆ हेळि दुर्धर्ष वीर भगवान् श्रीरामनु कैयल्लि धनुस्सन्नॆत्तिकॊण्डनु. अवनु क्रोधदिन्द कण्णरळिसि प्रयळाग्नियन्तॆ प्रज्वलितनादनु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पीड्य च धनुर्घोरं कम्पयित्वा शरैर्जगत् ।  
 मुमोच विशिखानुग्रान् वज्रानिव शतक्रतुः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1064,15 @@ the arrow resembling a powerful thunderbolt of Indra. (god of celestials).
 
 अवनु तन्न भयङ्कर धनुस्सन्नु बग्गिसि नाणन्नु एरिसिदनु मत्तु अदर टङ्कारदिन्द जगत्तन्ने नडुगिसुत्ता इन्द्रनु अनेक वज्रगळन्नु प्रयोगिसिदन्तॆ दॊड्ड भयङ्करवाद बाणवन्नु बिट्टनु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते ज्वलन्तो महावेगास्तेजसा सायकोत्तमाः ।  
 प्रविशन्ति समुद्रस्य जलं वित्रस्तपन्नगम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,12 +1112,15 @@ the waters of the ocean, striking the water- snakes with terror.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तोयवेगः समुद्रस्य समीनमकरो महान् ।  
 स बभूव महाघोरः समारुतरवस्तथा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1178,15 @@ maids).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोर्मिमालाविततः शङ्खशुक्तिसमावृतः ।  
 सधूमः परिवृत्तोर्मिः सहसासीन्महोदधिः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1152,12 +1226,15 @@ by a multitude of conches in its rolling waves and a smoke came out.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यथिताः पन्नगाश्चासन् दीप्तास्या दीप्तलोचनाः ।  
 दानवाश्च महावीर्याः पातालतलवासिनः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1200,12 +1277,15 @@ residing in nethermost subterranean region of the sea, were perturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्मयः सिन्धुराजस्य सनक्रमकरास्तथा ।  
 विन्ध्यमन्दरसङ्काशाः समुत्पेतुः सहस्रशः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1325,15 @@ from the sea with its crocodiles and sea monsters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आघूर्णिततरङ्गौघः सम्भ्रान्तोरगराक्षसः ।  
 उद्वर्तितमहाग्राहः सघोषो वरुणालयः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,6 +1373,7 @@ demons, with huge crocodiles coming out, became full of noise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1298,6 +1382,8 @@ demons, with huge crocodiles coming out, became full of noise.
 सौमित्रिरुत्पत्य विनिःश्वसन्तं  
 मामेति चोक्त्वा धनुराललम्बे ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,6 +1430,7 @@ bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1352,6 +1439,8 @@ bow.
 भवद्विधाः क्रोधवशं न यान्ति  
 दीर्घं भवान् पश्यतु साधुवृत्तम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1398,6 +1487,7 @@ durable and noble alternative"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1406,6 +1496,8 @@ durable and noble alternative"
 शब्दः कृतः कष्टमिति ब्रुवद्भि-  
 र्मामेति चोक्त्वा महता स्वरेण ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,5 +1549,6 @@ loud voices, saying "No farther, no farther" and making a noise "Ah,Oh,Alas!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग पूर्णवायितु.॥21॥
+</details>
 </details>
 

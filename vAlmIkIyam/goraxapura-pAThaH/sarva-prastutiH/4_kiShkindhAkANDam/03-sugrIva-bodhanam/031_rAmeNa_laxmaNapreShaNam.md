@@ -2,6 +2,8 @@
 title = "०३१ रामेण लक्ष्मणप्रेषणम्"
 title_english = "031 Lakshmana s fury"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -25,6 +27,7 @@ advise of his ministers.
 
 31. सुग्रीवपर लक्ष्मणका रोष, श्रीरामका उन्हें समझाना, लक्ष्मणका किष्किन्धाके द्वारपर जाकर अङ्गदको सुग्रीवके पास भेजना, वानरोंका भय तथा प्लक्ष और प्रभावका सुग्रीवको कर्तव्यका उपदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -33,6 +36,8 @@ advise of his ministers.
 नरेन्द्रसूनुर्नरदेवपुत्रं  
 रामानुजः पूर्वजमित्युवाच ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +86,7 @@ younger prince-brother Lakshmana spoke in this way. [4-31-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,6 +95,8 @@ younger prince-brother Lakshmana spoke in this way. [4-31-1]
 न भोक्ष्यते वानरराज्यलक्ष्मीं  
 तथा हि नातिक्रमतेऽस्य बुद्धिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,6 +156,7 @@ not keep that pact or its fruits holy, as nothing is evincible of his help...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -156,6 +165,8 @@ not keep that pact or its fruits holy, as nothing is evincible of his help...
 हतोऽग्रजं पश्यतु वीरवालिनं  
 न राज्यमेवं विगुणस्य देयम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +214,7 @@ Hence, kingdoms are unaffordable to dishonest. [4-31-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,6 +223,8 @@ Hence, kingdoms are unaffordable to dishonest. [4-31-3]
 हरिप्रवीरैः सह वालिपुत्रो  
 नरेन्द्रपुत्र्या विचयं करोतु ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,6 +275,7 @@ command of Vali's son, Angada." Thus said Lakshmana to Rama. [4-31-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,6 +284,8 @@ command of Vali's son, Angada." Thus said Lakshmana to Rama. [4-31-4]
 उवाच रामः परवीरहन्ता  
 स्ववीक्षितं सानुनयं च वाक्यम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +332,15 @@ intention to slay Sugreeva, and who on taking his bow is now leaping at Kishkind
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि वै त्वद्विधो लोके पापमेवं समाचरेत् ।  
 कोपमार्येण यो हन्ति स वीरः पुरुषोत्तमः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +385,15 @@ really becomes the best one among men." Thus Rama is saying to Lakshmana. [4-31-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेदमत्र त्वया ग्राह्यं साधुवृत्तेन लक्ष्मण ।  
 तां प्रीतिमनुवर्तस्व पूर्ववृत्तं च सङ्गतम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -427,12 +450,15 @@ Sugreeva is not to be undertaken forthwith.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामोपहितया वाचा रूक्षाणि परिवर्जयन् ।  
 वक्तुमर्हसि सुग्रीवं व्यतीतं कालपर्यये ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +502,15 @@ Lakshmana. [4-31-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽग्रजेनानुशिष्टार्थो यथावत् पुरुषर्षभः ।  
 प्रविवेश पुरीं वीरो लक्ष्मणः परवीरहा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +552,15 @@ city of Kishkindha. [4-31-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शुभमतिः प्राज्ञो भ्रातुः प्रियहिते रतः ।  
 लक्ष्मणः प्रतिसंरब्धो जगाम भवनं कपेः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +577,15 @@ city of Kishkindha. [4-31-9]
 
 अण्णन प्रिय मत्तु हितदल्लि तत्परनागिद्द शुभबुद्धियुक्त बुद्धिवन्त लक्ष्मणनु रोषगॊण्डु वानरराज सुग्रीवन भवनद कडॆगॆ हॊरटनु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्रबाणासनप्रख्यं धनुः कालान्तकोपमम् ।  
 प्रगृह्य गिरिशृङ्गाभं मन्दरः सानुमानिव ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +626,15 @@ the peaking Mt. Mandhara and like the Era-Ender. [4-31-10, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोक्तकारी वचनमुत्तरं चैव सोत्तरम् ।  
 बृहस्पतिसमो बुद्ध्या मत्वा रामानुजस्तदा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ the peaking Mt. Mandhara and like the Era-Ender. [4-31-10, 11]
 
 श्रीरामानुज लक्ष्मणनु अण्णन आज्ञॆयन्नु यथावत्तागि पालिसुव हागू बृहस्पतियन्तॆ बुद्धि वन्तनागिद्दनु. अवनु सुग्रीवनल्लि हेळुव, अवन उत्तर मत्तु आ उत्तरक्कॆ इवनु हेळुव ऎल्लवन्नु चॆन्नागि विमर्शिसिकॊण्डु अल्लिन्द हॊरटनु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामक्रोधसमुत्थेन भ्रातुः क्रोधाग्निना वृतः ।  
 प्रभञ्जन इवाप्रीतः प्रययौ लक्ष्मणस्ततः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +702,15 @@ whirlwind aided and abetted by a furious fire. [4-31-12, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालतालाश्वकर्णांश्च तरसा पातयन् बलात् ।  
 पर्यस्यन् गिरिकूटानि द्रुमानन्यांश्च वेगितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ whirlwind aided and abetted by a furious fire. [4-31-12, 13]
 
 अति वेगवागि सागुत्तिद्द अवनु दारियल्लि सिगुव साल, ताल, अश्वकर्ण मॊदलाद वृक्षगळन्नु जोरागि कॆडवुत्ता, पर्वत शिखरगळन्नु हागू इतर वृक्षगळन्नु ऎत्ति-ऎत्ति दूर ऎसॆयुत्तिद्दनु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिलाश्च शकलीकुर्वन् पद्‍भ्यां गज इवाशुगः ।  
 दूरमेकपदं त्यक्त्वा ययौ कार्यवशाद् द्रुतम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +786,15 @@ can do the same effortlessly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामपश्यद् बलाकीर्णां हरिराजमहापुरीम् ।  
 दुर्गामिक्ष्वाकुशार्दूलः किष्किन्धां गिरिसङ्कटे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +842,15 @@ time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोषात् प्रस्फुरमाणोष्ठः सुग्रीवं प्रति लक्ष्मणः ।  
 ददर्श वानरान् भीमान् किष्किन्धायां बहिश्चरान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,6 +891,7 @@ formidable Vaanara-s at the outposts of Kishkindha. [4-31-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -845,6 +899,8 @@ formidable Vaanara-s at the outposts of Kishkindha. [4-31-17]
 शैलशृङ्गाणि शतशः प्रवृद्धांश्च महीरुहान् ।  
 जगृहुः कुञ्जरप्रख्या वानराः पर्वतान्तरे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +945,15 @@ and they are at the ready. [4-31-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् गृहीतप्रहरणान् सर्वान् दृष्ट्वा तु लक्ष्मणः ।  
 बभूव द्विगुणं क्रुद्धो बह्विन्धन इवानलः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +993,15 @@ become twofold as with a fire to which much fuel is added. [4-31-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं ते भयपरीताङ्गा क्षुब्धं दृष्ट्वा प्लवङ्गमाः ।  
 कालमृत्युयुगान्ताभं शतशो विद्रुता दिशः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1043,15 @@ bodies. [4-31-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवभवनं प्रविश्य हरिपुङ्गवाः ।  
 क्रोधमागमनं चैव लक्ष्मणस्य न्यवेदयन् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1026,12 +1091,15 @@ about the arrival of Lakshmana, and even about his fury. [4-31-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तारया सहितः कामी सक्तः कपिवृषस्तदा ।  
 न तेषां कपिसिंहानां शुश्राव वचनं तदा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1141,15 @@ monkeys who brought the message. [4-31-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सचिवसन्दिष्टा हरयो रोमहर्षणाः ।  
 गिरिकुञ्जरमेघाभा नगरान्निर्ययुस्तदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1191,15 @@ sheen are similar to mountains and dark-clouds have gone out of the city. [4-31-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नखदंष्ट्रायुधाः सर्वे वीरा विकृतदर्शनाः ।  
 सर्वे शार्दूलदंष्ट्राश्च सर्वे विवृतदर्शनाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1242,15 @@ tigerish pride, all are hideous in look and horrendous by their faces. [4-31-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशनागबलाः केचित् केचिद् दशगुणोत्तराः ।  
 केचिन्नागसहस्रस्य बभूवुस्तुल्यवर्चसः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1216,12 +1293,15 @@ some with vigour matching that of a thousand elephants. [4-31-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तैः कपिभिर्व्याप्तां द्रुमहस्तैर्महाबलैः ।  
 अपश्यल्लक्ष्मणः क्रुद्धः किष्किन्धां तां दुरासदाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,12 +1342,15 @@ great-mighty monkeys flaunting trees are spreading throughout it. [4-31-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते हरयः सर्वे प्राकारपरिखान्तरात् ।  
 निष्क्रम्योदग्रसत्त्वास्तु तस्थुराविष्कृतं तदा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1313,12 +1396,15 @@ The word *parigha* is sometimes taken as bastions of the fort-wall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्य प्रमादं च पूर्वजस्यार्थमात्मवान् ।  
 दृष्ट्वा क्रोधवशं वीरः पुनरेव जगाम सः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1359,12 +1445,15 @@ monkeys. [4-31-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दीर्घोष्णमहोच्छ्वासः कोपसंरक्तलोचनः ।  
 बभूव नरशार्दूलः सधूम इव पावकः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1404,12 +1493,15 @@ tigerly-man Lakshmana is like a fuming fire. [4-31-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणशल्यस्फुरज्जिह्वः सायकासनभोगवान् ।  
 स्वतेजोविषसम्भूतः पञ्चास्य इव पन्नगः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1456,12 +1548,15 @@ besides its coils and *ghaata* is 'that which obtained after multiplication...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दीप्तमिव कालाग्निं नागेन्द्रमिव कोपितम् ।  
 समासाद्याङ्गदस्त्रासाद् विषादमगमत् परम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1502,6 +1597,7 @@ King of Serpents, who is perforce infuriated. [4-31-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1512,6 +1608,8 @@ King of Serpents, who is perforce infuriated. [4-31-31]
 तस्य वाक्यं यदि रुचिः क्रियतां साधु वानर ।  
 इत्युक्त्वा शीघ्रमागच्छ वत्स वाक्यमरिन्दम ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,12 +1690,15 @@ Angada, saying "oh, boy, let Sugreeva be informed about my arrival," and said th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य वचः श्रुत्वा शोकाविष्टोऽङ्गदोऽब्रवीत् ।  
 पितुः समीपमागम्य सौमित्रिरयमागतः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1637,6 +1738,7 @@ the presence of his father Sugreeva he informed "Soumitri has come." [4-31-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1645,6 +1747,8 @@ the presence of his father Sugreeva he informed "Soumitri has come." [4-31-35]
 निर्गत्य पूर्वं नृपतेस्तरस्वी  
 ततो रुमायाश्चरणौ ववन्दे ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1696,6 +1800,7 @@ father Sugreeva and then at the feet of Ruma, wife of Sugreeva. [4-31-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1704,6 +1809,8 @@ father Sugreeva and then at the feet of Ruma, wife of Sugreeva. [4-31-36]
 पादौ रुमायाश्च निपीडयित्वा  
 निवेदयामास ततस्तदर्थम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1751,12 +1858,15 @@ about the message of Lakshmana. [4-31-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निद्राक्लान्तसंवीतो वानरो न विबुद्धवान् ।  
 बभूव मदमत्तश्च मदनेन च मोहितः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1797,12 +1907,15 @@ numbed down with the torpor of lustfulness. [4-31-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः किलकिलां चक्रुर्लक्ष्मणं प्रेक्ष्य वानराः ।  
 प्रसादयन्तस्तं क्रुद्धं भयमोहितचेतसः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1848,12 +1961,15 @@ monkeys or hues and cries of others. - A Linguistic Study of Ramayana, Pt. Satya
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते महौघनिभं दृष्ट्वा वज्राशनिसमस्वनम् ।  
 सिंहनादं समं चक्रुर्लक्ष्मणस्य समीपतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1895,12 +2011,15 @@ that is similar to a storm of a torrent, thunder of a thunderbolt, and the roar 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शब्देन महता प्रत्यबुध्यत वानरः ।  
 मदविह्वलताम्राक्षो व्याकुलः स्रग्विभूषणः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1941,6 +2060,7 @@ stupor his coppery eyes are helter-skelter and his garlands and ornaments are to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1949,6 +2069,8 @@ stupor his coppery eyes are helter-skelter and his garlands and ornaments are to
 प्लक्षश्चैव प्रभावश्च मन्त्रिणावर्थधर्मयोः ।  
 वक्तुमुच्चावचं प्राप्तं लक्ष्मणं तौ शशंसतुः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1998,6 +2120,7 @@ discuss variously about the prosperity and probity. [4-31-42, 43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2006,6 +2129,8 @@ discuss variously about the prosperity and probity. [4-31-42, 43]
 सत्यसन्धौ महाभागौ भ्रातरौ रामलक्ष्मणौ ।  
 मनुष्यभावं सम्प्राप्तौ राज्यार्हौ राज्यदायिनौ ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2070,12 +2195,15 @@ in this way. [4-31-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोरेको धनुष्पाणिर्द्वारि तिष्ठति लक्ष्मणः ।  
 यस्य भीताः प्रवेपन्तो नादान् मुञ्चन्ति वानराः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2115,12 +2243,15 @@ monkeys are panicked and venting out alarms shuddering utterly. [4-31-46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष राघवभ्राता लक्ष्मणो वाक्यसारथिः ।  
 व्यवसायरथः प्राप्तस्तस्य रामस्य शासनात् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2168,12 +2299,15 @@ Pt. Satya Vrat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं च तनयो राजंस्ताराया दयितोऽङ्गदः ।  
 लक्ष्मणेन सकाशं ते प्रेषितस्त्वरयानघ ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2213,12 +2347,15 @@ precious son of Tara, to your presence. [4-31-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽयं रोषपरीताक्षो द्वारि तिष्ठति वीर्यवान् ।  
 वानरान् वानरपते चक्षुषा निर्दहन्निव ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2259,12 +2396,15 @@ door with an awning of rancour on his eyes and as if to burn down the monkeys ju
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य मूर्ध्ना प्रणामं त्वं सपुत्रः सहबान्धवः ।  
 गच्छ शीघ्रं महाराज रोषो ह्यद्योपशाम्यताम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2308,12 +2448,15 @@ pacified now. [4-31-50]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हि रामो धर्मात्मा तत्कुरुष्व समाहितः ।  
 राजंस्तिष्ठ स्वसमये भव सत्यप्रतिश्रवः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2364,5 +2507,6 @@ the ministers advised Sugreeva. [4-31-51]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥31॥
+</details>
 </details>
 

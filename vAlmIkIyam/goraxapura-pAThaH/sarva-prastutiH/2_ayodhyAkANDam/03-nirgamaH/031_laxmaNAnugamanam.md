@@ -2,6 +2,8 @@
 title = "०३१ लक्ष्मणानुगमनम्"
 title_english = "031 Lakshmana too is permitted to go to the forest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-031-Lakshmanaanugamana_Pradhana.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 31. श्रीराम और लक्ष्मणका संवाद, श्रीरामकी आज्ञासे लक्ष्मणका सुहृदोंसे पूछकर और दिव्य आयुध लाकर वनगमनके लिये तैयार होना, श्रीरामका उनसे ब्राह्मणोंको धन बाँटनेका विचार व्यक्त करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं श्रुत्वा स संवादं लक्ष्मणः पूर्वमागतः ।  
 बाष्पपर्याकुलमुखः शोकं सोढुमशक्नुवन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -32,6 +37,7 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 कौसल्यॆय अन्तःपुरदिन्द श्रीरामन जॊतॆगे बन्दिद्द लक्ष्मणनु पति-पत्नियर ई संवादगळॆल्लवन्नू केळि अवन मुखमण्डल कण्णीरिनिन्द तॊय्दु होयितु. अण्णन विरहद शोकवु अवनिन्द सहिसलागलिल्ल.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -40,6 +46,8 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 +++(पुरुषकारभूताम्, सिद्धोपायभूताम् अपि)+++ सीताम् **उवाचातियशां**  
 राघवं च महाव्रतम् ॥ २ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,12 +87,15 @@ honour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि गन्तुं कृता बुद्धिर्वनं मृगगजायुतम् ।  
 अहं त्वानुगमिष्यामि वनमग्रे धनुर्धरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,6 +135,7 @@ wearingthe bow, shall accompany you to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,6 +144,8 @@ wearingthe bow, shall accompany you to the forest."
 पक्षिभिर् मृगयूथैश् च  
 सङ्घुष्टानि समन्ततः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +185,15 @@ birds and herds of wild animals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न देवलोकाक्रमणं नामरत्वमहं वृणे ।  
 ऐश्वर्यं चापि लोकानां कामये न त्वया विना ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +230,15 @@ I wish for sovereignity over the globes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणः सौमित्रिर्वनवासाय निश्चितः ।  
 रामेण बहुभिः सान्त्वैर्निषिद्धः पुनरब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +279,15 @@ through many of his pacifying words. After hearing them, Lakshmana again soke as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञातस्तु भवता पूर्वमेव यदस्म्यहम् ।  
 किमिदानीं पुनरपि क्रियते मे निवारणम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +327,15 @@ now?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदर्थं प्रतिषेधो मे क्रियते गन्तुमिच्छतः ।  
 एतदिच्छामि विज्ञातुं संशयो हि ममानघ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +370,15 @@ indeed willing to come to the forest, because there is doubt in my mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्महातेजा रामो लक्ष्मणमग्रतः ।  
 स्थितं प्राग्गामिनं धीरं याचमानं कृताञ्जलिम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +419,15 @@ standing in front, intending to preceede Sri Rama and soliciting with joined pal
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्निग्धो धर्मरतो धीरः सततं सत्पथे स्थितः ।  
 प्रियः प्राणसमो वश्यो विजेयश्च सखा च मे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +470,15 @@ path, dear to me as life, obedient, my brother and a companion."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयाद्य सह सौमित्रे त्वयि गच्छति तद्वनम् ।  
 को भजिष्यति कौसल्यां सुमित्रां वा यशस्विनीम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,12 +519,15 @@ Kausalya or the illustrious Sumitra?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवर्षति कामैर्यः पर्जन्यः पृथिवीमिव ।  
 स कामपाशपर्यस्तो महातेजा महीपतिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +567,15 @@ cloud sends down rain on the earth, stands circumscribed by cord of love."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि राज्यमिदं प्राप्य नृपस्याश्वपतेः सुता ।  
 दुःखितानां सपत्नीनां न करिष्यति शोभनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +615,15 @@ certainly not accord good treatment to her step-wives, who are at grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न भरिष्यति कौसल्यां सुमित्रां च सुदुःखिताम् ।  
 भरतो राज्यमासाद्य कैकेय्यां पर्यवस्थितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +663,15 @@ sorrowful Kausalya or Sumitra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामार्यां स्वयमेवेह राजानुग्रहणेन वा ।  
 सौमित्रे भर कौसल्यामुक्तमर्थममुं चर ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,12 +712,15 @@ self or by obtaining favour through the king. Do this thing, as said."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मयि च ते भक्तिर्भविष्यति सुदर्शिता ।  
 धर्मज्ञगुरुपूजायां धर्मश्चाप्यतुलो महान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +765,15 @@ accrue to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कुरुष्व सौमित्रे मत्कृते रघुनन्दन ।  
 अस्माभिर्विप्रहीणाया मातुर्नो न भवेत् सुखम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +813,15 @@ no happiness to our mother, if she is left behind by us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण लक्ष्मणः श्लक्ष्णया गिरा ।  
 प्रत्युवाच तदा रामं वाक्यज्ञो वाक्यकोविदम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +862,15 @@ gentle voice to him who is skilled in speech.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवैव तेजसा वीर भरतः पूजयिष्यति ।  
 कौसल्यां च सुमित्रां च प्रयतो नास्ति संशयः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,6 +914,7 @@ respect Kausalya and Sumitra. There is no doubt in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -865,6 +925,8 @@ respect Kausalya and Sumitra. There is no doubt in this matter."
 कौसल्या बिभृयादार्या सहस्रं मद्विधानपि ।  
 यस्याः सहस्रं ग्रामाणां सम्प्राप्तमुपजीविनाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1007,15 @@ that venerable Kausalya can maintain even thousand people like me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदात्मभरणे चैव मम मातुस्तथैव च ।  
 पर्याप्ता मद्विधानां च भरणाय मनस्विनी ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,12 +1058,15 @@ you showing the path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरुष्व मामनुचरं वैधर्म्यं नेह विद्यते ।  
 कृतार्थोऽहं भविष्यामि तव चार्थः प्रकल्प्यते ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1041,12 +1109,15 @@ good food stuffs available in the forest for sages."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुरादाय सगुणं खनित्रपिटकाधरः ।  
 अग्रतस्ते गमिष्यामि पन्थानं तव दर्शयन् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,12 +1157,15 @@ while you are waking or sleeping."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आहरिष्यामि ते नित्यं मूलानि च फलानि च ।  
 वन्यानि च तथान्यानि स्वाहार्हाणि तपस्विनाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,6 +1208,7 @@ take leave of all your friends."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1142,6 +1217,8 @@ take leave of all your friends."
 अहं सर्वं **करिष्यामि**  
 **जाग्रतः स्वपतश्** च ते ॥ २७ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1161,12 +1238,15 @@ _________________
 
 नीवु विदेह कुमारिय जॊतॆगॆ पर्वत शिखरगळल्लि भ्रमण माडुवाग, नीवु मलगिरुवाग, ऎच्चरवागिरुवाग ऎल्ल समयदल्लि निम्म ऎल्ल आवश्यकतॆगळन्नु पूर्णगॊळिसुवॆनु.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्त्वनेन वाक्येन सुप्रीतः प्रत्युवाच तम् ।  
 व्रजापृच्छस्व सौमित्रे सर्वमेव सुहृज्जनम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,6 +1263,7 @@ _________________
 
 लक्ष्मणन ई माति निन्द श्रीरामचन्द्रनिगॆ बहळ सन्तोषवायितु. अवनु हेळिदनु - सुमित्रानन्दन! होगु, तायिये मॊदलाद ऎल्ल सुहृदरन्नु भॆट्टियागि वनवासद विषयवन्नु तिळिसि अवरिन्द अनुमतियन्नु मत्तु आज्ञॆयन्नु पडॆदुको.॥28॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1193,6 +1274,8 @@ _________________
 सत्कृत्य निहितं सर्वमेतदाचार्यसद्मनि ।  
 सर्वमायुधमादाय क्षिप्रमाव्रज लक्ष्मण ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1284,12 +1367,15 @@ after paying due reverence. Take all those arms and return soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुहृज्जनमामन्त्र्य वनवासाय निश्चितः ।  
 इक्ष्वाकुगुरुमागम्य जग्राहायुधमुत्तमम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,12 +1416,15 @@ Lakshmana who arrived: "Oh, Lakshmana, the excellent man! You came in time as de
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् दिव्यं राजशार्दूलः सत्कृतं माल्यभूषितम् ।  
 रामाय दर्शयामास सौमित्रिः सर्वमायुधम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1376,12 +1465,15 @@ pertaining to me to brahmanas, practising ansterities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाचात्मवान् रामः प्रीत्या लक्ष्मणमागतम् ।  
 काले त्वमागतः सौम्य काङ्क्षिते मम लक्ष्मण ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1421,12 +1513,15 @@ to their proceptors and to all my dependents."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं प्रदातुमिच्छामि यदिदं मामकं धनम् ।  
 ब्राह्मणेभ्यस्तपस्विभ्यस्त्वया सह परन्तप ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1469,12 +1564,15 @@ all other brahmanas also who are cultured, I will go to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्तीह दृढं भक्त्या गुरुषु द्विजसत्तमाः ।  
 तेषामपि च मे भूयः सर्वेषां चोपजीविनाम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1491,6 +1589,7 @@ all other brahmanas also who are cultured, I will go to the forest."
 
 गुरुहिरियर कुरितु सुदृढ भक्तिभावदिन्द कूडिद्दु, नम्म बळि इरुव श्रेष्ठ ब्राह्मणरिगॆ हागू समस्त आश्रित जनरिगू नन्न ई धनवन्नु हञ्चुवुदिदॆ.॥36॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1499,6 +1598,8 @@ all other brahmanas also who are cultured, I will go to the forest."
 अपि प्रयास्यामि वनं समस्ता-  
 नभ्यर्च्य शिष्टानपरान् द्विजातीन् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1532,5 +1633,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥31॥
+</details>
 </details>
 

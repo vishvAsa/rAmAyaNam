@@ -2,6 +2,8 @@
 title = "१०९ जाबालिमतनिराकरणम्"
 title_english = "109 Rama refutes the atheistic arguments of Jabali"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ sake of convincing Rama to return to Ayodhya, he has spoken the words of a non-b
 
 109. श्रीरामके द्वारा जाबालिके नास्तिक मतका खण्डन करके आस्तिक मतका स्थापन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाबालेस्तु वचः श्रुत्वा रामः सत्यपराक्रमः ।  
 उवाच परया सूक्त्या बुद्ध्याविप्रतिपन्नया ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ with a great devotion and with an undisturbed mind of his own (as follows);
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् मे प्रियकामार्थं वचनं यदिहोक्तवान् ।  
 अकार्यं कार्यसङ्काशमपथ्यं पथ्य सन्निभम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ it appears to be possible. It is like a forbidden food, appearing to be an agree
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्मर्यादस्तु पुरुषः पापाचारसमन्वितः ।  
 मानं न लभते सत्सु भिन्नचारित्रदर्शनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ seeing differences in everything, does not gain respect from honest men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलीनमकुलीनं वा वीरं पुरुषमानिनम् ।  
 चारित्रमेव व्याख्याति शुचिं वा यदि वाशुचिम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ valiant or arrogant and chaste or unchaste."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनार्यस्त्वार्य संस्थानः शौचाद्धीनस्तथा शुचिः ।  
 लक्षण्यवदलक्षण्यो दुःशीलः शीलवानिव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,6 +245,7 @@ valiant or arrogant and chaste or unchaste."
 
 नीवु तिळिसिद आचारवन्नु तन्नदागिसिकॊण्ड पुरुषनु श्रेष्ठनन्तॆ कण्डुबन्दरू वास्तववागि अनार्यने आगिरुवनु. हॊरगिन्द पवित्रनन्तॆ काणुत्तिद्दरू ऒळगिनिन्द अपवित्रने आगिद्दानॆ. उत्तम लक्षणगळिन्द कूडिदवनु ऎन्दु अनिसिदरू निजवागि इदक्कॆ विपरीतने आगुवनु. शीलवन्तनॆन्दु तोरिदरू वास्तववागि दुःशीलने सरि.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,6 +254,8 @@ valiant or arrogant and chaste or unchaste."
 कश्चेतयानः पुरुषः कार्याकार्यविचक्षणः ।  
 बहु मन्येत मां लोके दुर्वृत्तं लोकदूषणम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ creating confusion in the world and disregarding rules of conduct."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य यास्याम्यहं वृत्तं केन वा स्वर्गमाप्नुयाम् ।  
 अनया वर्तमानोऽहं वृत्त्या हीनप्रतिज्ञया ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +352,15 @@ How would I attain heaven?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामवृत्तोऽन्वयं लोकः कृत्स्नः समुपवर्तते ।  
 यद‍्धृत्ताः सन्ति राजानस्तद्‍वृत्ताः सन्ति हि प्रजाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ kings may be, such will be the coduct of their subjects."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यमेवानृशंसं च राजवृत्तं सनातनम् ।  
 तस्मात् सत्यात्मकं राज्यं सत्ये लोकः प्रतिष्ठितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -423,12 +452,15 @@ the kingship has the Truth as its essence. The world is established in Truth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयश्चैव देवाश्च सत्यमेव हि मेनिरे ।  
 सत्यवादी हि लोकेऽस्मिन् परं गच्छति चाक्षयम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +500,15 @@ truth obtains the highest position in this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्विजन्ते यथा सर्पान्नरादनृतवादिनः ।  
 धर्मः सत्यपरो लोके मूलं सर्वस्य चोच्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,12 +549,15 @@ highest virtue and is stated to be the origin of heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यमेवेश्वरो लोके सत्ये धर्मः सदाश्रितः ।  
 सत्यमूलानि सर्वाणि सत्यान्नास्ति परं पदम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +598,15 @@ higher than truth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्तमिष्टं हुतं चैव तप्तानि च तपांसि च ।  
 वेदाः सत्यप्रतिष्ठानास्तस्मात् सत्यपरो भवेत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +647,15 @@ foundation in Truth. Hence, one should thoroughly surrender to truth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकः पालयते लोकमेकः पालयते कुलम् ।  
 मज्जत्येको हि निरय एकः स्वर्गे महीयते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +695,15 @@ to heaven (according to one's degree of truthfulness practiced)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं पितुर्निदेशं तु किमर्थं नानुपालये ।  
 सत्यप्रतिश्रवः सत्यं सत्येन समयीकृतम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +743,15 @@ was a devotee of truth?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव लोभान्न मोहाद् वा न चाज्ञानात् तमोऽन्वितः ।  
 सेतुं सत्यस्य भेत्स्यामि गुरोः सत्यप्रतिश्रवः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +792,15 @@ of morality. I shall honour the vow made to my father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असत्यसन्धस्य सतश्चलस्यास्थिरचेतसः ।  
 नैव देवा न पितरः प्रतीच्छन्तीति नः श्रुतम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +841,15 @@ truth, unsteady and unstable in their minds. This is what is taught to us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यगात्ममिमं धर्मं सत्यं पश्याम्यहं ध्रुवम् ।  
 भारः सत्पुरुषैश्चीर्णस्तदर्थमभिनन्द्यते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,12 +890,15 @@ spirit. That is why, this burden, observed as a vow, has been honoured by good m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षात्रं धर्ममहं त्यक्ष्ये ह्यधर्मं धर्मसंहितम् ।  
 क्षुद्रैर्नृशंसैर्लुब्धैश्च सेवितं पापकर्मभिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,12 +939,15 @@ justice, it is practised by petty cruel and covetous men of evil deeds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कायेन कुरुते पापं मनसा सम्प्रधार्य तत् ।  
 अनृतं जिह्वया चाह त्रिविधं कर्म पातकम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +988,15 @@ tongue)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूमिः कीर्तिर्यशो लक्ष्मीः पुरुषं प्रार्थयन्ति हि ।  
 सत्यं समनुवर्तन्ते सत्यमेव भजेत् ततः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1040,15 @@ oblige the truth: truth should therefore be strictly observed!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रेष्ठं ह्यनार्यमेव स्याद् यद् भवानवधार्य माम् ।  
 आह युक्तिकरैर्वाक्यैरिदं भद्रं कुरुष्व ह ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1088,15 @@ uttered to me, are really unworthy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं ह्यहं प्रतिज्ञाय वनवासमिमं गुरोः ।  
 भरतस्य करिष्यामि वचो हित्वा गुरोर्वचः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1135,15 @@ Bharata's words now, abandoning the father's words?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसन्निधौ ।  
 प्रहृष्टमानसा देवी कैकेयी चाभवत् तदा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1183,15 @@ too became rejoiced."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनवासं वसन्नेव शुचिर्नियतभोजनः ।  
 मूलपुष्पफलैः पुण्यैः पितॄन् देवांश्च तर्पयन् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,12 +1211,15 @@ _________________
 
 नानु अरण्यदल्ले इद्दु ऒळ- हॊरगॆ पवित्रनागि नियमित भोजन माडुवॆनु मत्तु फल-मूल पुष्पगळिन्द देवतॆगळन्नु, पितृगळन्नु तृप्तिपडिसुत्ता प्रतिज्ञॆयन्नु पालिसुवॆनु.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्तुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवाहये ।  
 अकुहः श्रद्दधानः सन् कार्याकार्यविचक्षणः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,12 +1264,15 @@ done."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मभूमिमिमां प्राप्य कर्तव्यं कर्म यच्छुभम् ।  
 अग्निर्वायुश्च सोमश्च कर्मणां फलभागिनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,12 +1317,15 @@ acts."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं क्रतूनामाहृत्य देवराट् त्रिदिवं गतः ।  
 तपांस्युग्राणि चास्थाय दिवं प्राप्ता महर्षयः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,6 +1366,7 @@ Having practised severe austerities, the great sages went to heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1288,6 +1375,8 @@ Having practised severe austerities, the great sages went to heaven."
 अथाब्रवीत् तं नृपतेस्तनूजो  
 विगर्हमाणो वचनानि तस्य ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,6 +1421,7 @@ terrible energy, without tolerating his words, spoke in reproach to him (as foll
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1340,6 +1430,8 @@ terrible energy, without tolerating his words, spoke in reproach to him (as foll
 द्विजातिदेवातिथिपूजनं च  
 पन्थानमाहुस्त्रिदिवस्य सन्तः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1376,6 +1468,7 @@ speech and worship of Brahmanas, gods and unexpected guests are the paths to hea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1384,6 +1477,8 @@ speech and worship of Brahmanas, gods and unexpected guests are the paths to hea
 धर्मं चरन्तः सकलं यथावत्  
 काङ्क्षन्ति लोकागममप्रमत्ताः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1430,6 +1525,7 @@ seeking to attain the highest realms."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1438,6 +1534,8 @@ seeking to attain the highest realms."
 बुद्ध्यानयैवंविधया चरन्तं  
 सुनास्तिकं धर्मपथादपेतम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1488,6 +1586,7 @@ misleading intelligence, a firm atheist fallen from the true path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1496,6 +1595,8 @@ misleading intelligence, a firm atheist fallen from the true path."
 तस्माद्धि यः शक्यतमः प्रजानां  
 स नास्तिके नाभिमुखो बुधः स्यात् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1556,6 +1657,7 @@ understand truth/God.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1564,6 +1666,8 @@ understand truth/God.
 छित्त्वा सदेमं च परं च लोकं  
 तस्माद् द्विजाः स्वस्ति कृतं हुतं च ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1615,6 +1719,7 @@ fire and practise noble deeds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1623,6 +1728,8 @@ fire and practise noble deeds."
 अहिंसका वीतमलाश्च लोके  
 भवन्ति पूज्या मुनयः प्रधानाः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1669,6 +1776,7 @@ honoured into the world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1677,6 +1785,8 @@ honoured into the world."
 उवाच पथ्यं पुनरास्तिकं च  
 सत्यं वचः सानुनयं च विप्रः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1716,6 +1826,7 @@ truthful, which showed his belief in authority of Vedas, the other world and so 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1724,6 +1835,8 @@ truthful, which showed his belief in authority of Vedas, the other world and so 
 समीक्ष्य कालं पुनरास्तिकोऽभवं  
 भवेय काले पुनरेव नास्तिकः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1762,6 +1875,7 @@ comes, I will become again just a non-believer."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1770,6 +1884,8 @@ comes, I will become again just a non-believer."
 निवर्तनार्थं तव राम कारणात्  
 प्रसादनार्थं च मयैतदीरितम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1825,5 +1941,6 @@ spoken by me for your sake, to pacify you and to persuade you to return to Ayodh
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर ऒम्भत्तनॆय सर्ग पूर्णवायितु ॥109॥
+</details>
 </details>
 

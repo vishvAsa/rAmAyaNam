@@ -2,6 +2,8 @@
 title = "०२९ सिद्धाश्रमगमनम्"
 title_english = "029 Legend of siddha Ashrama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -31,12 +33,15 @@ Rama and Lakshmana inquisitively enquired into the Siddhaashrama,
 
 > इह हि देव-वरे विष्णौ तपश् चरणाय बहु-कालं वसति सति, वैरोचनिर् इन्द्रादीन् निर्जित्याक्रान्त-त्रिभुवनो महान्तं यज्ञम् आरब्धवान् । तदा देवैर् अस्य याचकेभ्यः सर्व-काम-दातुर् असमाप्ते क्रतौ माया-योगेन वामनत्वं गतो ऽस्मत्-कार्यं कुर्विति प्रार्थितो विष्णुर् अनेक-वर्ष-तपश्-चर्या-पूर्वकम् अदित्या सह काश्यप-कृत-स्तुत्या संतुष्टः, उपेन्द्रावतारेण देव-साहाय्याचरण-रूपं वरं प्रदाय वामन-रूपेणादित्यामवतीर्णो बलिं त्रीन् क्रमान् भिक्षित्वा मानेन त्रील् लोकानाक्रम्येन्द्राय ददौ, अस्य वामनस्यायम् आश्रमः । अत्रैव यज्ञ-विघ्न-करा राक्षसा निहन्तव्याः इति वदन् रामेण सह सिद्धाश्रमं प्रविश्य, तत्र निवासिभिर् अर्घ्यादिभिः पूजितः, राम-लक्ष्मणाभ्याम् अद्यैव दीक्षां प्रविशेति प्रार्थितो विश्वामित्रो दीक्षां प्राविशत् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्याप्रमेयस्य वचनं परिपृच्छतः ।  
 विश्वामित्रो महातेजा व्याख्यातुमुपचक्रमे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ When that matchlessly illustrious Rama has asked for details, that highly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,6 +86,8 @@ When that matchlessly illustrious Rama has asked for details, that highly
 तपश्चरणयोगार्थमुवास सुमहातपाः ।  
 एष पूर्वाश्रमो राम वामनस्य महात्मनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,6 +156,7 @@ This is firstly the hermitage of Vishnu before taking up Vaamna incarnation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -156,6 +165,8 @@ This is firstly the hermitage of Vishnu before taking up Vaamna incarnation.
 निर्जित्य दैवतगणान् सेन्द्रान् सहमरुद्‍गणान् ।  
 कारयामास तद्राज्यं त्रिषु लोकेषु विश्रुतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,6 +227,7 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,6 +235,8 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 बलेस्तु यजमानस्य देवाः साग्निपुरोगमाः ।  
 समागम्य स्वयं चैव विष्णुमूचुरिहाश्रमे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +277,15 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलिर्वैरोचनिर्विष्णो यजते यज्ञमुत्तमम् ।  
 असमाप्तव्रते तस्मिन् स्वकार्यमभिपद्यताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +321,15 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये चैनमभिवर्तन्ते याचितार इतस्ततः ।  
 यच्च यत्र यथावच्च सर्वं तेभ्यः प्रयच्छति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +367,15 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं सुरहितार्थाय मायायोगमुपाश्रितः ।  
 वामनत्वं गतो विष्णो कुरु कल्याणमुत्तमम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +413,7 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -398,6 +422,8 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 देवीसहायो भगवान् दिव्यं वर्षसहस्रकम् ।  
 व्रतं समाप्य वरदं तुष्टाव मधुसूदनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +489,15 @@ The ascetic practises conducted along with wife are said to yield best
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपोमयं तपोराशिं तपोमूर्तिं तपात्मकम् ।  
 तपसा त्वां सुतप्तेन पश्यामि पुरुषोत्तमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +547,15 @@ The word 'tapaH' also means j~naana, gnosis, knowledge, intellect, spirit,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीरे तव पश्यामि जगत् सर्वमिदं प्रभो ।  
 त्वमनादिरनिर्देश्यस्त्वामहं शरणं गतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +596,15 @@ This is the concept of *vishvaruupa*, Physique of the Universes,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच हरिः प्रीतः कश्यपं गतकल्मषम् ।  
 वरं वरय भद्रं ते वरार्होऽसि मतो मम ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,6 +648,7 @@ Vishnu is gladdened for the devotion of sage Kaashyapa who is absolved
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -621,6 +657,8 @@ Vishnu is gladdened for the devotion of sage Kaashyapa who is absolved
 वरं वरद सुप्रीतो दातुमर्हसि सुव्रत ।  
 पुत्रत्वं गच्छ भगवन्नदित्या मम चानघ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,12 +701,15 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राता भव यवीयांस्त्वं शक्रस्यासुरसूदन ।  
 शोकार्तानां तु देवानां साहाय्यं कर्तुमर्हसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +749,15 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सिद्धाश्रमो नाम प्रसादात् ते भविष्यति ।  
 सिद्धे कर्मणि देवेश उत्तिष्ठ भगवन्नितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -764,12 +808,15 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ विष्णुर्महातेजा अदित्यां समजायत ।  
 वामनं रूपमास्थाय वैरोचनिमुपागमत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -805,6 +852,7 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -813,6 +861,8 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 महेन्द्राय पुनः प्रादान्नियम्य बलिमोजसा ।  
 त्रैलोक्यं स महातेजाश्चक्रे शक्रवशं पुनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +956,15 @@ The myth is that Vaamna, the dwarfish ascetic boy, approaches Emperor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनैव पूर्वमाक्रान्त आश्रमः श्रमनाशनः ।  
 मयापि भक्त्या तस्यैव वामनस्योपभुज्यते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1013,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एनमाश्रममायान्ति राक्षसा विघ्नकारिणः ।  
 अत्र ते पुरुषव्याघ्र हन्तव्या दुष्टचारिणः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,12 +1056,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य गच्छामहे राम सिद्धाश्रममनुत्तमम् ।  
 तदाश्रमपदं तात तवाप्येतद् यथा मम ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,6 +1107,7 @@ This hermitage is my benefice now for I am practising my asceticism
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1055,6 +1115,8 @@ This hermitage is my benefice now for I am practising my asceticism
 प्रविशन्नाश्रमपदं व्यरोचत महामुनिः ।  
 शशीव गतनीहारः पुनर्वसुसमन्वितः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,6 +1161,7 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1107,6 +1170,8 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
 यथार्हं चक्रिरे पूजां विश्वामित्राय धीमते ।  
 तथैव राजपुत्राभ्यामकुर्वन्नतिथिक्रियाम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1161,12 +1226,15 @@ On seeing the arrival of Vishvamitra all of the resident sages of Accomplished
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुहूर्तमथ विश्रान्तौ राजपुत्रावरिन्दमौ ।  
 प्राञ्जली मुनिशार्दूलमूचतू रघुनन्दनौ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,12 +1270,15 @@ Those two princes from Raghu's dynasty and the enemy-subjugators, namely
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यैव दीक्षां प्रविश भद्रं ते मुनिपुङ्गव ।  
 सिद्धाश्रमोऽयं सिद्धः स्यात् सत्यमस्तु वचस्तव ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,6 +1320,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1259,6 +1331,8 @@ _________________
 प्रशुची परमं जाप्यं समाप्य नियमेन च ।  
 हुताग्निहोत्रमासीनं विश्वामित्रमवन्दताम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1356,5 +1430,6 @@ Vishvamitra controlling senses etc., is to say that he will cut off
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥29॥
+</details>
 </details>
 

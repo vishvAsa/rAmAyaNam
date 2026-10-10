@@ -2,6 +2,8 @@
 title = "१०६ राज्यस्वीकारार्थं पुनर्याचना"
 title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,6 +26,7 @@ lukewarm in the matter and insistent on implementing the words of his deceased f
 
 106. भरतकी पुनः श्रीरामसे अयोध्या लौटने और राज्य ग्रहण करनेकी प्रार्थना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ lukewarm in the matter and insistent on implementing the words of his deceased f
 उवाच भरतश्चित्रं धार्मिको धािर्मकं वचः ।  
 को हि स्यादीदृशो लोके यादृशस्त्वमरिन्दम ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ at the banks of that River Mandakini.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वां प्रव्यथयेद् दुःखं प्रीतिर्वा न प्रहर्षयेत् ।  
 सम्मतश्चापि वृद्धानां तांश्च पृच्छसि संशयान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +130,15 @@ elders and you clarify your doubts from them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा मृतस्तथा जीवन् यथासति तथा सति ।  
 यस्यैष बुद्धिलाभः स्यात् परितप्येत केन सः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ with an equal eye?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परावरज्ञो यश्च स्याद् यथा त्वं मनुजाधिप ।  
 स एव व्यसनं प्राप्य न विषीदितुमर्हति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +227,15 @@ even on meeting with adversity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमरोपमसत्त्वस्त्वं महात्मा सत्यसङ्गरः ।  
 सर्वज्ञः सर्वदर्शी च बुद्धिमांश्चासि राघव ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ promise, all-knowing, all-viewing and endowed with understanding."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वामेवङ्गुणैर्युक्तं प्रभवाभवकोविदम् ।  
 अविषह्यतमं दुःखमासादयितुमर्हति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ such attributes; and recognising the birth and end of all beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रोषिते मयि यत् पापं मात्रा मत्कारणात् कृतम् ।  
 क्षुद्रया तदनिष्टं मे प्रसीदतु भवान् मम ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,12 +372,15 @@ to my liking. (Hence) be gracious to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मबन्धेन बद्धोऽस्मि तेनेमां नेह मातरम् ।  
 हन्मि तीव्रेण दण्डेन दण्डार्हां पापकारिणीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ punishment, my mother who was of perverse conduct and worthy of retribution."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं दशरथाज्जातः शुभाभिजनकर्मणः ।  
 जानन् धर्ममधर्मं च कुर्यां कर्म जुगुप्सितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ wrong, do the most wicked and horrible act?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुः क्रियावान् वृद्धश्च राजा प्रेतः पितेति च ।  
 तातं न परिगर्हेऽहं दैवतं चेति संसदि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +523,15 @@ an open assembly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को हि धर्मार्थयोर्हीनमीदृशं कर्म किल्बिषम् ।  
 स्त्रियः प्रियचिकीर्षुः सन् कुर्याद् धर्मज्ञ धर्मवित् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ woman?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तकाले हि भूतानि मुह्यन्तीति पुरा श्रुतिः ।  
 राज्ञैवं कुर्वता लोके प्रत्यक्षा सा श्रुतिः कृता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ The king, acting as he did, has made this saying indeed true in the eyes of the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्वर्थमभिसन्धाय क्रोधान्मोहाच्च साहसात् ।  
 तातस्य यदतिक्रान्तं प्रत्याहरतु तद् भवान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ that transgression."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुर्हि समतिक्रान्तं पुत्रो यः साधु मन्यते ।  
 तदपत्यं मतं लोके विपरीतमतोऽन्यथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +725,15 @@ reverse situation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदपत्यं भवानस्तु मा भवान् दुष्कृतं पितुः ।  
 अति यत् तत् कृतं कर्म लोके धीरविगर्हितम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ father, which in this world, confident men freely condemn."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेयीं मां च तातं च सुहृदो बान्धवांश्च नः ।  
 पौरजानपदान् सर्वांस्त्रातुं सर्वमिदं भवान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +826,15 @@ the villagers as well as the entire kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व चारण्यं क्व च क्षात्रं क्व जटाः क्व च पालनम् ।  
 ईदृशं व्याहतं कर्म न भवान् कर्तुमर्हति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +875,15 @@ where is the protection of a kingdom? You ought not to do such a contradictory a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष हि प्रथमो धर्मः क्षत्रियस्याभिषेचनम् ।  
 येन शक्यं महाप्राज्ञ प्रजानां परिपालनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +927,15 @@ crowned, so that he may then protect his subjects."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च प्रत्यक्षमुत्सृज्य संशयस्थमलक्षणम् ।  
 आयतिस्थं चरेद् धर्मं क्षत्रबन्धुरनिश्चितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +976,15 @@ which is uncertain?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ क्लेशजमेव त्वं धर्मं चरितुमिच्छसि ।  
 धर्मेण चतुरो वर्णान् पालयन् क्लेशमाप्नुहि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -963,12 +1025,15 @@ while protecting the four castes as per tradition, by recourse to righteousness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्णामाश्रमाणां हि गार्हस्थ्यं श्रेष्ठमुत्तमम् ।  
 आहुर्धर्मज्ञ धर्मज्ञास्तं कथं त्यक्तुमिच्छसि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1080,15 @@ house-holder); Vanaprastha (life of a hermit); Sannyaasa (Life of an ascetic).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतेन बालः स्थानेन जन्मना भवतो ह्यहम् ।  
 स कथं पालयिष्यामि भूमिं भवति तिष्ठति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1129,15 @@ should I rule the earth, while still you are living?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीनबुद्धिगुणो बालो हीनस्थानेन चाप्यहम् ।  
 भवता च विनाभूतो न वर्तयितुमुत्सहे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1180,15 @@ inferior position, cannot even live without you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं निखिलमप्यग्रयं राज्यं पित्र्यमकण्टकम् ।  
 अनुशाधि स्वधर्मेण धर्मज्ञ सह बान्धवैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1233,15 @@ your relatives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव त्वाभिषिञ्चन्तु सर्वाः प्रकृतयः सह ।  
 ऋत्विजः सवसिष्ठाश्च मन्त्रविन्मन्त्रकोविदाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1282,15 @@ sacred formulas, crown you, the knower of sacred texts, here itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषिक्तस्त्वमस्माभिरयोध्यां पालने व्रज ।  
 विजित्य तरसा लोकान् मरुद्भिरिव वासवः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1252,12 +1332,15 @@ kingdom along with celestials."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋणानि त्रीण्यपाकुर्वन् दुर्हृदः साधु निर्दहन् ।  
 सुहृदस्तर्पयन् कामैस्त्वमेवात्रानुशाधि माम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1302,12 +1385,15 @@ Three obligations to the Gods, the Ancestors and Brahmins.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यार्य मुदिताः सन्तु सुहृदस्तेऽभिषेचने ।  
 अद्य भीताः पलायन्तु दुष्प्रदास्ते दिशो दश ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1348,12 +1434,15 @@ enemies, full of terror, flee today to the ten quarters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आक्रोशं मम मातुश्च प्रमृज्य पुरुषर्षभ ।  
 अद्य तत्रभवन्तं च पितरं रक्ष किल्बिषात् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1482,15 @@ father from his sin."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरसा त्वाभियाचेऽहं कुरुष्व करुणां मयि ।  
 बान्धवेषु च सर्वेषु भूतेष्विव महेश्वरः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1438,12 +1530,15 @@ relatives as Lord Shiva ( the Supreme Deity) on all beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा पृष्ठतः कृत्वा वनमेव भवानितः ।  
 गमिष्यति गमिष्यामि भवता सार्धमप्यहम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1486,6 +1581,7 @@ too will go along with you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1494,6 +1590,8 @@ too will go along with you."
 न चैव चक्रे गमनाय सत्त्ववान्  
 मतिं पितुस्तद् वचने प्रतिष्ठितः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1540,6 +1638,7 @@ father and did not feel inclined to return to Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1548,6 +1647,8 @@ father and did not feel inclined to return to Ayodhya.
 न यात्ययोध्यामिति दुःखितोऽभवत्  
 स्थिरप्रतिज्ञत्वमवेक्ष्य हर्षितः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1595,6 +1696,7 @@ rejoiced to see his firmness of resolve.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1603,6 +1705,8 @@ rejoiced to see his firmness of resolve.
 तथा ब्रुवाणं भरतं प्रतुष्टुवुः  
 प्रणम्य रामं च ययाचिरे सह ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1658,5 +1762,6 @@ and added theri supplications to Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर आरनॆय सर्ग पूर्णवायितु ॥106॥
+</details>
 </details>
 

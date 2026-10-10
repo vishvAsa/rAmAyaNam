@@ -2,6 +2,8 @@
 title = "०१६ हेमन्तर्तुवर्णनम्"
 title_english = "016 Lakshmana s description of vasanta season"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III
@@ -22,12 +24,15 @@ On one day before the sunrise Rama proceeds to River Godavari for daily bath alo
 
 16. लक्ष्मणके द्वारा हेमन्त ऋतुका वर्णन और भरतकी प्रशंसा तथा श्रीरामका उन दोनोंके साथ गोदावरी नदीमें स्नान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसतस्तस्य तु सुखं राघवस्य महात्मनः ।  
 शरद्‍व्यपाये हेमन्तऋतुरिष्टः प्रवर्तत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ post-rainy season at Panchavati where the noble souled Rama is staying comfortab
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कदाचित् प्रभातायां शर्वर्यां रघुनन्दनः ।  
 प्रययावभिषेकार्थं रम्यां गोदावरीं नदीम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ On some day when night faded into dawn Rama started for the delightful River God
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रह्वः कलशहस्तस्तु सीतया सह वीर्यवान् ।  
 पृष्ठतोऽनुव्रजन् भ्राता सौमित्रिरिदमब्रवीत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ to Rama. [4-16-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं स कालः सम्प्राप्तः प्रियो यस्ते प्रियंवद ।  
 अलङ्कृत इवाभाति येन संवत्सरः शुभः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ season will also be pleasant to you, that hemanta season has set in. [4-16-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीहारपरुषो लोकः पृथिवी सस्यमालिनी ।  
 जलान्यनुपभोग्यानि सुभगो हव्यवाहनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,12 +260,15 @@ but fire is delightful. [4-16-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नवाग्रयणपूजाभिरभ्यर्च्य पितृदेवताः ।  
 कृताग्रयणकाः काले सन्तो विगतकल्मषाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +315,15 @@ ashniiyaat vriihiinaam yavaanaam shyaamakaanaam iti agra paakasya yajeta -- aapa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राज्यकामा जनपदाः सम्पन्नतरगोरसाः ।  
 विचरन्ति महीपाला यात्रार्थं विजिगीषवः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,12 +363,15 @@ vanquishing kings are make moves for the purposes of their further vanquishes. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेवमाने दृढं सूर्ये दिशमन्तकसेविताम् ।  
 विहीनतिलकेव स्त्री नोत्तरा दिक् प्रकाशते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ called horizon. Without him no quarters glitter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्या हिमकोशाढ्यो दूरसूर्यश्च साम्प्रतम् ।  
 यथार्थनामा सुव्यक्तं हिमवान् हिमवान् गिरिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ are very obviously snowy true to their name. [4-16-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यन्तसुखसञ्चारा मध्याह्ने स्पर्शतः सुखाः ।  
 दिवसाः सुभगादित्याश्छायासलिलदुर्भगाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +521,15 @@ for sauntering, thus the sun in daytimes is genial and ungenial are the shades a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृदुसूर्याः सुनीहाराः पटुशीताः समारुताः ।  
 शून्यारण्या हिमध्वस्ता दिवसा भान्ति साम्प्रतम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ breezes, and with them the forests too are bleak in their sheen. [4-16-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्ताकाशशयनाः पुष्यनीता हिमारुणाः ।  
 शीतवृद्धतरायामास्त्रियामा यान्ति साम्प्रतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,12 +632,15 @@ their eradication.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रविसङ्क्रान्तसौभाग्यस्तुषारारुणमण्डलः ।  
 निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -639,12 +680,15 @@ like a mirror blinded by the fog of a suspire. [4-16-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योत्स्ना तुषारमलिना पौर्णमास्यां न राजते ।  
 सीतेव चातपश्यामा लक्ष्यते न च शोभते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ Seetha becoming swarthy by sun's heat, but not brightly. [4-16-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्या शीतलस्पर्शो हिमविद्धश्च साम्प्रतम् ।  
 प्रवाति पश्चिमो वायुः काले द्विगुणशीतलः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +781,15 @@ of divinities and the sages as well. Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पच्छन्नान्यरण्यानि यवगोधूमवन्ति च ।  
 शोभन्तेऽभ्युदिते सूर्ये नदद्भिः क्रौञ्चसारसैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +838,15 @@ nowadays.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खर्जूरपुष्पाकृतिभिः शिरोभिः पूर्णतण्डुलैः ।  
 शोभन्ते किञ्चिदालम्बाः शालयः कनकप्रभाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +892,15 @@ rays of sun. Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयूखैरुपसर्पद्भिर्हिमनीहारसंवृतैः ।  
 दूरमभ्युदितः सूर्यः शशाङ्क इव लक्ष्यते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +945,15 @@ activities...' is the question of Lakshmana. Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्राह्यवीर्यः पूर्वाह्णे मध्याह्ने स्पर्शतः सुखः ।  
 संरक्तः किञ्चिदापाण्डुरातपः शोभते क्षितौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1004,15 @@ of cool profile of yours is inapt of you...' Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यायनिपातेन किञ्चित्प्रक्लिन्नशाद्वला ।  
 वनानां शोभते भूमिर्निविष्टतरुणातपा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1060,15 @@ on the countenances of pasturelands/sages which will be furious henceforth. Govi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्पृशन् सुविपुलं शीतमुदकं द्विरदः सुखम् ।  
 अत्यन्ततृषितो वन्यः प्रतिसंहरते करम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1113,15 @@ Govindaraja
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते हि समुपासीना विहगा जलचारिणः ।  
 नावगाहन्ति सलिलमप्रगल्भा इवाहवम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,12 +1167,15 @@ demons? Why not jump to it? Are you like these fearing waterfowls?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यायतमोनद्धा नीहारतमसावृताः ।  
 प्रसुप्ता इव लक्ष्यन्ते विपुष्पा वनराजयः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,12 +1227,15 @@ attribute, the dormant disposition of sages is made evident.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पसञ्छन्नसलिला रुतविज्ञेयसारसाः ।  
 हिमार्द्रवालुकैस्तीरैः सरितो भान्ति साम्प्रतम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1208,12 +1282,15 @@ as good as waterfowls dependent on rivers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुषारपतनाच्चैव मृदुत्वाद् भास्करस्य च ।  
 शैत्यादगाग्रस्थमपि प्रायेण रसवज्जलम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1258,12 +1335,15 @@ the soft attitude of Rama. Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जराजर्जरितैः पत्रैः शीर्णकेसरकर्णिकैः ।  
 नालशेषा हिमध्वस्ता न भान्ति कमलाकराः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1275,12 +1355,15 @@ the soft attitude of Rama. Tiirtha.
 
 ‘जो पुराने पड़ जानेके कारण जर्जर हो गये हैं, जिनकी कर्णिका और केसर जीर्ण-शीर्ण हो गये हैं, ऐसे दलोंसे उपलक्षित होनेवाले कमलोंके समूह पाला पड़नेसे गल गये हैं । उनमें डंठलमात्र शेष रह गये हैं । इसीलिये उनकी शोभा नष्ट हो गयी है ॥ २६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिंस्तु पुरुषव्याघ्र काले दुःखसमन्वितः ।  
 तपश्चरति धर्मात्मा त्वद्भक्त्या भरतः पुरे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1342,12 +1425,15 @@ just like the stalks of lotuses left behind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यक्त्वा राज्यं च मानं च भोगांश्च विविधान् बहून् ।  
 तपस्वी नियताहारः शेते शीते महीतले ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1387,12 +1473,15 @@ to self-immolate if Rama were not to come after a fixed time, and Rama is linger
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपि वेलामिमां नूनमभिषेकार्थमुद्यतः ।  
 वृतः प्रकृतिभिर्नित्यं प्रयाति सरयूं नदीम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1433,12 +1522,15 @@ surrounded by ministers, definite is that. [4-16-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यन्तसुखसंवृद्धः सुकुमारो हिमार्दितः ।  
 कथं त्वपररात्रेषु सरयूमवगाहते ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1487,6 +1579,7 @@ to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1495,6 +1588,8 @@ to Rama.
 प्रियाभिभाषी मधुरो दीर्घबाहुररिन्दमः ।  
 सन्त्यज्य विविधान् सौख्यानार्यं सर्वात्मनाश्रितः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1555,12 +1650,15 @@ not a potbelly to stomach the kingdom of Ayodhya that is easily usurped through 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जितः स्वर्गस्तव भ्रात्रा भरतेन महात्मना ।  
 वनस्थमपि तापस्ये यस्त्वामनुविधीयते ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1610,12 +1708,15 @@ eye of the needle towards Kaikeyi, the root cause for all miseries.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पित्र्यमनुवर्तन्ते मातृकं द्विपदा इति ।  
 ख्यातो लोकप्रवादोऽयं भरतेनान्यथा कृतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1665,12 +1766,15 @@ blest is mother-like son.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्ता दशरथो यस्याः साधुश्च भरतः सुतः ।  
 कथं नु साम्बा कैकेयी तादृशी क्रूरदर्शिनी ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1718,12 +1822,15 @@ Rama uses the same wording for Kaikeyi as our middle mother' at 3-2-19b-20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं लक्ष्मणे वाक्यं स्नेहाद् वदति धार्मिके ।  
 परिवादं जनन्यास्तमसहन् राघवोऽब्रवीत् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1763,12 +1870,15 @@ spoke to Lakshmana, intolerant of that slanderous talk about their mother. [4-16
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तेऽम्बा मध्यमा तात गर्हितव्या कदाचन ।  
 तामेवेक्ष्वाकुनाथस्य भरतस्य कथां कुरु ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1808,12 +1918,15 @@ the topics of Bharata, the king of Ikshvaku-s. [4-16-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निश्चितैव हि मे बुद्धिर्वनवासे दृढव्रता ।  
 भरतस्नेहसन्तप्ता बालिशीक्रियते पुनः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1853,12 +1966,15 @@ fellowship my fascination to reunite with him is recurring again. [4-16-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्मराम्यस्य वाक्यानि प्रियाणि मधुराणि च ।  
 हृद्यान्यमृतकल्पानि मनःप्रह्लादनानि च ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1897,12 +2013,15 @@ to [ambrosial]; *manaH prahlaadaani ca* = heart, gladdening [heartening words]; 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा ह्यहं समेष्यामि भरतेन महात्मना ।  
 शत्रुघ्नेन च वीरेण त्वया च रघुनन्दन ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1946,12 +2065,15 @@ to indicate Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं विलपंस्तत्र प्राप्य गोदावरीं नदीम् ।  
 चक्रेऽभिषेकं काकुत्स्थः सानुजः सह सीतया ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1990,12 +2112,15 @@ his younger brother Lakshmana and along with Seetha. [4-16-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तर्पयित्वाथ सलिलैस्तैः पितॄन् दैवतानपि ।  
 स्तुवन्ति स्मोदितं सूर्यं देवताश्च तथानघाः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2035,6 +2160,7 @@ gods likewise. [4-16-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2043,6 +2169,8 @@ gods likewise. [4-16-42]
 कृताभिषेकस्त्वगराजपुत्र्या  
 रुद्रः सनन्दिर्भगवानिवेशः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2104,5 +2232,6 @@ The similitude between Rama and Shiva suggests that Rama is about to start destr
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनारनॆय सर्ग सम्पूर्णवायितु.॥16॥
+</details>
 </details>
 

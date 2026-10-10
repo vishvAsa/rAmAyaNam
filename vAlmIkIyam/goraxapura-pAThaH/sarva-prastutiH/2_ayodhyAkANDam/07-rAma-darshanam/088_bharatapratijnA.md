@@ -2,6 +2,8 @@
 title = "०८८ भरतप्रतिज्ञा"
 title_english = "088 Bharata approaches the foot of Angudi tree"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -25,12 +27,15 @@ will stay back in the forest along with Rama.
 
 88. श्रीरामकी कुश-शय्या देखकर भरतका शोकपूर्ण उद्‍गार तथा स्वयं भी वल्कल और जटाधारण करके वनमें रहनेका विचार प्रकट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा निपुणं सर्वं भरतः सह मन्त्रिभिः ।  
 इङ्गुदीमूलमागम्य रामशय्यामवैक्षत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -47,12 +52,15 @@ will stay back in the forest along with Rama.
 
 निषादराजन ऎल्ल मातुगळन्नु गमनविट्टु केळि मन्त्रिगळॊन्दिगॆ भरतनु इङ्गुदी वृक्षद बळिगॆ बन्दु श्रीरामचन्द्रन शय्यॆयन्नु सन्दर्शिसिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीज्जननीः सर्वा इह तस्य महात्मनः ।  
 शर्वरी शयिता भूमाविदमस्य विमर्दितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -92,12 +100,15 @@ limbs pressing the earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाराजकुलीनेन महाभागेन धीमता ।  
 जातो दशरथेनोर्व्यां न रामः स्वप्तुमर्हति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,12 +148,15 @@ does not desrve to sleep on this bare earth!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजिनोत्तरसंस्तीर्णे वरास्तरणसञ्चये ।  
 शयित्वा पुरुषव्याघ्रः कथं शेते महीतले ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,6 +196,7 @@ cushions covered with superior hairy skins of antelopes, sleep on a bare floor?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,6 +207,8 @@ cushions covered with superior hairy skins of antelopes, sleep on a bare floor?"
 प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु ।  
 उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,6 +236,7 @@ _________________
 
 विमान सदृश प्रासादगळ शिखरगळल्लि, उप्परिगॆगळ मेलिरुव शैत्यगृहदल्लि, सुवर्णमय मत्तु रजतमय नॆलविरुवल्लि, चित्र-विचित्रवाद रत्नगम्बळिगळन्नु हासिरुवॆडॆयल्लि, विचित्र तरवाद पुष्पगुच्छगळिरुवॆडॆयल्लि चन्दनागरु श्रीगन्धगळिरुव स्थळदल्लि, बिळुपाद मोडदन्तॆ सुमनोहरवागिरुव हागू शुभ्रवागिरुव स्थळदल्लि, गिणिगळु निनाद माडुत्तिरुवल्लि, ऎल्ल प्रासादगळिगिन्त उत्तमोत्तम प्रासाददल्लि, शीतलवागियू सुगन्धयुक्तवू आगिरुव स्थळदल्लि, मेरु सदृशवाद सुवर्णमय गोडॆगळिन्द आवृतवाद सर्वोत्तम अरमनॆयल्लि मलगुत्तिद्द श्रीरामनु वनदल्लि नॆलद मेलॆ हेगॆ मलगुवनु.॥5-7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,6 +245,8 @@ _________________
 बन्दिभिर्वन्दितः काले बहुभिः सूतमागधैः ।  
 गाथाभिरनुरूपाभिः स्तुतिभिश्च परन्तपः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,12 +298,15 @@ by many panegyrists, bards and ministrels throught appropriate ballads and songs
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्रद्धेयमिदं लोके न सत्यं प्रतिभाति मा ।  
 मुह्यते खलु मे भावः स्वप्नोऽयमिति मे मतिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +347,15 @@ appear true to me. My mind is indeed bewildered. I wish that it were a dream."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनं दैवतं किञ्चित् कालेन बलवत्तरम् ।  
 यत्र दाशरथी रामो भूमावेवमशेत सः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,12 +396,15 @@ since that Rama, the son of Dasaratha has to sleep on the bare ground!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिन् विदेहराजस्य सुता च प्रियदर्शना ।  
 दयिता शयिता भूमौ स्नुषा दशरथस्य च ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,12 +444,15 @@ cherished daughter-in-law of Dasaratha has to sleep on the floor!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं शय्या मम भ्रातुरिदमावर्तितं शुभम् ।  
 स्थण्डिले कठिने सर्वं गात्रैर्विमृदितं तृणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,12 +494,15 @@ ground."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये साभरणा सुप्ता सीतास्मिन्शयने शुभा ।  
 तत्र तत्र हि दृश्यन्ते सक्ताः कनकबिन्दवः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +543,15 @@ particles of gold appear to be stuck up, here and there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरीयमिहासक्तं सुव्यक्तं सीतया तदा ।  
 तथा ह्येते प्रकाशन्ते सक्ताः कौशेयतन्तवः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +592,15 @@ here at that time. That is why, these silk-threads appear stuck to them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये भर्तुः सुखा शय्या येन बाला तपस्विनी ।  
 सुकुमारी सती दुःखं न विजानाति मैथिली ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,12 +641,15 @@ unfortunate, yet however delicate she be, she would experience no suffering."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा हतोऽस्मि नृशंसोऽस्मि यत् सभार्यः कृते मम ।  
 ईदृशीं राघवः शय्यामधिशेते ह्यनाथवत् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -646,6 +690,7 @@ wife slept on such a bed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -654,6 +699,8 @@ wife slept on such a bed."
 कथमिन्दीवरश्यामो रक्ताक्षः प्रियदर्शनः ।  
 सुखभागी न दुःखार्हः शयितो भुवि राघवः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +750,15 @@ gound, abandoning excellent kingdom and comfort?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्यः खलु महाभागो लक्ष्मणः शुभलक्षणः ।  
 भ्रातरं विषमे काले यो राममनुवर्तते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +798,15 @@ accompanied his elder brother Rama in times of adversity in indeed a fortunate m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्था खलु वैदेही पतिं यानुगता वनम् ।  
 वयं संशयिताः सर्वे हीनास्तेन महात्मना ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +847,15 @@ woman. All of us, deprived of the highly virtuous Rama, are an unsettled lot."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकर्णधारा पृथिवी शून्येव प्रतिभाति मे ।  
 गते दशरथे स्वर्गं रामे चारण्यमाश्रिते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +895,15 @@ me as a boat without ahelmsman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च प्रार्थयते कश्चिन्मनसापि वसुन्धराम् ।  
 वने निवसतस्तस्य बाहुवीर्याभिरक्षिताम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,6 +943,7 @@ Hence, nobdy can think even in his mind, to invade this kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -892,6 +952,8 @@ Hence, nobdy can think even in his mind, to invade this kingdom."
 अप्रहृष्टबलां शून्यां विषमस्थामनावृताम् ।  
 शत्रवो नाभिमन्यन्ते भक्ष्यान् विषकृतानिव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1007,15 @@ poisoned food even by the enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यप्रभृति भूमौ तु शयिष्येऽहं तृणेषु वा ।  
 फलमूलाशनो नित्यं जटाचीराणि धारयन् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1056,15 @@ matted, wearing robes of bark and by all means living on fruits and roots."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याहमुत्तरं कालं निवत्स्यामि सुखं वने ।  
 तत् प्रतिश्रुतमार्यस्य नैव मिथ्या भविष्यति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,12 +1106,15 @@ vain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्तं भ्रातुरर्थाय शत्रुघ्नो मानुवत्स्यति ।  
 लक्ष्मणेन सहायोध्यामार्यो मे पालयिष्यति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,12 +1155,15 @@ elder brother, Rama along with Lakshmana will protect Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेक्ष्यन्ति काकुत्स्थमयोध्यायां द्विजातयः ।  
 अपि मे देवताः कुर्युरिमं सत्यं मनोरथम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,6 +1205,7 @@ that my desire be made a reality."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1139,6 +1214,8 @@ that my desire be made a reality."
 ततोऽनुवत्स्यामि चिराय राघवं  
 वनेचरं नार्हति मामुपेक्षितुम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1193,5 +1270,6 @@ ought not to refuse this grace to me."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॆण्टनॆय सर्ग पूर्णवायितु ॥88॥
+</details>
 </details>
 

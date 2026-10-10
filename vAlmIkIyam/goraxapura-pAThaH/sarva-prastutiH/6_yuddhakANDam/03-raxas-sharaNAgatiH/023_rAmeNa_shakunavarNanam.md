@@ -2,6 +2,8 @@
 title = "०२३ रामेण शकुनवर्णनम्"
 title_english = "023 Rama explains to Lakshmana the various portents"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ with the battalions towards Lanka.
 
 23. श्रीरामका लक्ष्मणसे उत्पातसूचक लक्षणोंका वर्णन और लङ्कापर आक्रमण
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।  
 सौमित्रिं सम्परिष्वज्य इदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ Lakshmana and spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिगृह्योदकं शीतं वनानि फलवन्ति च ।  
 बलौघं संविभज्येमं व्यूह्य तिष्ठेम लक्ष्मण ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,12 +115,15 @@ array, we shall stand attentive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकक्षयकरं भीमं भयं पश्याम्युपस्थितम् ।  
 प्रबर्हणं प्रवीराणामृक्षवानररक्षसाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +160,15 @@ world, and torture to the eminent heroes among bears monkeys and demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाताश्च कलुषा वान्ति कम्पते च वसुन्धरा ।  
 पर्वताग्राणि वेपन्ते पतन्ति च महीरुहाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ and trees are falling down."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघाः क्रव्यादसङ्काशाः परुषाः परुषस्वनाः ।  
 क्रूराः क्रूरं प्रवर्षन्ति मिश्रं शोणितबिन्दुभिः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ roaring and let loose dreadful showers mingled with drops of blood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्तचन्दनसङ्काशा सन्ध्या परमदारुणा ।  
 ज्वलतः प्रपतत्येतदादित्यादग्निमण्डलम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +292,15 @@ sun, balls of fire fall."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीना दीनस्वराः क्रूराः सर्वतो मृगपक्षिणः ।  
 प्रत्यादित्यं विनर्दन्ति जनयन्तो महद्भयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +334,15 @@ facing towards the sun in great fear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजन्यामप्रकाशस्तु सन्तापयति चन्द्रमाः ।  
 कृष्णरक्तांशुपर्यन्तो लोकक्षय इवोदितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +376,15 @@ invested with a black and red halo is tormenting the mind this night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रस्वो रूक्षोऽप्रशस्तश्च परिवेषस्तु लोहितः ।  
 आदित्ये विमले नीलं लक्ष्म लक्ष्मण दृश्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +424,15 @@ diminished, dreary, inauspicious and coppery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजसा महता चापि नक्षत्राणि हतानि च ।  
 युगान्तमिव लोकानां पश्य शंसन्ति लक्ष्मण ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +472,15 @@ dissolution of the world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काकाः श्येनास्तथा नीचा गृध्राः परिपतन्ति च ।  
 शिवाश्चाप्यशुभान् नादान् नदन्ति सुमहाभयान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +517,15 @@ and inauspicious sounds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलैः शूलैश्च खड्गैश्च विमुक्तैः कपिराक्षसैः ।  
 भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -527,12 +565,15 @@ swords hurled by monkeys and demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रमद्यैव दुर्धर्षां पुरीं रावणपालिताम् ।  
 अभियाम जवेनैव सर्वैर्हरिभिरावृताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,12 +607,15 @@ at a quick pace."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा धन्वी स रामः सङ्ग्रामधर्षणः ।  
 प्रतस्थे पुरतो रामो लङ्कामभिमुखो विभुः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +650,15 @@ bow and sallied forth in front, facing towards Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सविभीषणसुग्रीवाः सर्वे ते वानरर्षभाः ।  
 प्रतस्थिरे विनर्दन्तो धृतानां द्विषतां वधे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +692,15 @@ sounds surged forth for the destruction of the audacious enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य प्रियार्थं तु सुतरां वीर्यशालिनाम् ।  
 हरीणां कर्मचेष्टाभिस्तुतोष रघुनन्दनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,5 +744,6 @@ with their intention to gratify him.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तमूरनॆय सर्ग पूर्णवायितु.॥23॥
+</details>
 </details>
 

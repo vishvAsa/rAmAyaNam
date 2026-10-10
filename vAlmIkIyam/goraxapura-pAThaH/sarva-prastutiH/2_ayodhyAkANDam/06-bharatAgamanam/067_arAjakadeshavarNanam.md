@@ -2,6 +2,8 @@
 title = "०६७ अराजकदेशवर्णनम्"
 title_english = "067 Brahmins urge Vasishta to select a youth to be the king"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ country without a king and leaving it in anarchy.
 
 67. मार्कण्डेय आदि मुनियों तथा मन्त्रियोंका राजाके बिना होनेवाली देशकी दुरवस्थाका वर्णन करके वसिष्ठजीसे किसीको राजा बनानेके लिये अनुरोध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आक्रन्दिता निरानन्दा सास्रकण्ठजनाविला ।  
 अयोध्यायामवतता सा व्यतीयाय शर्वरी ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ with tears in their throats, slowly passed over.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यतीतायां तु शर्वर्यामादित्यस्योदये ततः ।  
 समेत्य राजकर्तारः सभामीयुर्द्विजातयः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +120,7 @@ throne, together gathered at the assembly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -120,6 +129,8 @@ throne, together gathered at the assembly.
 एते द्विजाः सहामात्यैः पृथग्वाचमुदीरयन् ।  
 वसिष्ठमेवाभिमुखाः श्रेष्ठं राजपुरोहितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ Vasishta and one by one spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतीता शर्वरी दुःखं या नो वर्षशतोपमा ।  
 अस्मिन् पञ्चत्वमापन्ने पुत्रशोकेन पार्थिवे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +232,15 @@ difficulty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गस्थश्च महाराजो रामश्चारण्यमाश्रितः ।  
 लक्ष्मणश्चापि तेजस्वी रामेणैव गतः सह ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +280,15 @@ Lakshmana followed suit and went along with Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभौ भरतशत्रुघ्नौ केकयेषु परन्तपौ ।  
 पुरे राजगृहे रम्ये मातामहनिवेशने ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +328,15 @@ beautiful house of their maternal uncle in the city of Rajagriha in the kingdom 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणामिहाद्यैव कश्चिद् राजा विधीयताम् ।  
 अराजकं हि नो राष्ट्रं विनाशं समवाप्नुयात् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ nation without a king should result in a collapse indeed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे विद्युन्माली महास्वनः ।  
 अभिवर्षति पर्जन्यो महीं दिव्येन वारिणा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +425,15 @@ the land in a country without a king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे बीजमुष्टिः प्रकीर्यते ।  
 नाराजके पितुः पुत्रो भार्या वा वर्तते वशे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +474,15 @@ son is not amenable to the control of a father nor a wife in the authority of he
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अराजके धनं नास्ति नास्ति भार्याप्यराजके ।  
 इदमत्याहितं चान्यत् कुतः सत्यमराजके ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ truth? "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे कारयन्ति सभां नराः ।  
 उद्यानानि च रम्याणि हृष्टाः पुण्यगृहाणि च ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ erect beautiful parks or temples."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे यज्ञशीला द्विजातयः ।  
 सत्राण्यन्वासते दान्ता ब्राह्मणः संशितव्रताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ sacrifices."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे महायज्ञेषु यज्वनः ।  
 ब्राह्मणा वसुसम्पूर्णा विसृजन्त्याप्तदक्षिणाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +673,15 @@ sacrificial rites do not bestow proper gifts"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे प्रहृष्टनटनर्तकाः ।  
 उत्सवाश्च समाजाश्च वर्धन्ते राष्ट्रवर्धनाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,12 +724,15 @@ actors, and dancers exhibit their talents are not frequently arranged"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे सिद्धार्था व्यवहारिणः ।  
 कथाभिरभिरज्यन्ते कथाशीलाः कथाप्रियैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,12 +773,15 @@ have a knack for narrating stories do not gratify story- lovers with their tales
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे तूद्यानानि समागताः ।  
 सायाह्ने क्रीडितुं यान्ति कुमार्यो हेमभूषिताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +821,15 @@ play there in the evening."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे धनवन्तः सुरक्षिताः ।  
 शेरते विवृतद्वाराः कृषिगोरक्षजीविनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ moving vehicles"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे वाहनैः शीघ्रवाहिभिः ।  
 नरा निर्यान्त्यरण्यानि नारीभिः सह कामिनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ sleep in their abodes well protected, with their doors open"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे बद्धघण्टा विषाणिनः ।  
 अटन्ति राजमार्गेषु कुञ्जराः षष्टिहायनाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +965,15 @@ tusks, do not roam around on royal high ways
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे शरान् सन्ततमस्यताम् ।  
 श्रूयते तलनिर्घोष इष्वस्त्राणामुपासने ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1015,15 @@ heard."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे वणिजो दूरगामिनः ।  
 गच्छन्ति क्षेममध्वानं बहुपण्यसमाचिताः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1063,15 @@ merchandises, cannot travel safely in their voyages."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे चरत्येकचरो वशी ।  
 भावयन्नात्मनाऽऽत्मानं यत्र सायं गृहो मुनिः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1116,15 @@ around the city."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे योगक्षेमः प्रवर्तते ।  
 न चाप्यराजके सेना शत्रून् विषहते युधि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,12 +1164,15 @@ cannot conquer enemies in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे हृष्टैः परमवाजिभिः ।  
 नराः संयान्ति सहसा रथैश्च प्रतिमण्डिताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,12 +1212,15 @@ excellent horses and chariots."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे नराः शास्त्रविशारदाः ।  
 संवदन्तोपतिष्ठन्ते वनेषूपवनेषु वा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1260,15 @@ together in forests and groves."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे माल्यमोदकदक्षिणाः ।  
 देवताभ्यर्चनार्थाय कल्प्यन्ते नियतैर्जनैः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,12 +1308,15 @@ offering to the deities, are not arranged by the appointed persons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे चन्दनागुरुरूषिताः ।  
 राजपुत्रा विराजन्ते वसन्ते इव शाखिनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1276,12 +1359,15 @@ not figure brilliantly like trees in a spring time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ह्यनुदका नद्यो यथा वाप्यतृणं वनम् ।  
 अगोपाला यथा गावस्तथा राष्ट्रमराजकम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1322,12 +1408,15 @@ like the cowherd less cows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्वजो रथस्य प्रज्ञानं धूमो ज्ञानं विभावसोः ।  
 तेषां यो नो ध्वजो राजा स देवत्वमितो गतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,12 +1457,15 @@ Dasaratha, like a flag, was an identity for us and he has left the world for a h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे स्वकं भवति कस्यचित् ।  
 मत्स्या इव जना नित्यं भक्षयन्ति परस्परम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1416,12 +1508,15 @@ persons always eat away each other."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये हि सम्भिन्नमर्यादा नास्तिकाश्छिन्नसंशयाः ।  
 तेऽपि भावाय कल्पन्ते राजदण्डनिपीडिताः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1463,12 +1558,15 @@ temperament (due to anarchy)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा दृष्टिः शरीरस्य नित्यमेव प्रवर्तते ।  
 तथा नरेन्द्रो राष्ट्रस्य प्रभवः सत्यधर्मयोः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,12 +1601,15 @@ so also a king is the cause of existence for truth and righteousness of a countr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा सत्यं च धर्मश्च राजा कुलवतां कुलम् ।  
 राजा माता पिता चैव राजा हितकरो नृणाम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1544,12 +1645,15 @@ people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमो वैश्रवणः शक्रो वरुणश्च महाबलः ।  
 विशिष्यन्ते नरेन्द्रेण वृत्तेन महता ततः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1591,12 +1695,15 @@ eminent conduct."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो तम इवेदं स्यान्न प्रज्ञायेत किञ्चन ।  
 राजा चेन्न भवेल्लोके विभजन् साध्वसाधुनी ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1637,12 +1744,15 @@ good and evil, this world will be dark and nothing will be clearly perceived."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवत्यपि महाराजे तवैव वचनं वयम् ।  
 नातिक्रमामहे सर्वे बेलां प्राप्येव सागरः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,6 +1795,7 @@ any more than an ocean transgresses its coast."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1693,6 +1804,8 @@ any more than an ocean transgresses its coast."
 कुमारमिक्ष्वाकुसुतं तथान्यं  
 त्वमेव राजानमिहाभिषेचय ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1754,5 +1867,6 @@ or anyone here as a king."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तेळनॆय सर्ग पूर्णवायितु ॥67॥
+</details>
 </details>
 

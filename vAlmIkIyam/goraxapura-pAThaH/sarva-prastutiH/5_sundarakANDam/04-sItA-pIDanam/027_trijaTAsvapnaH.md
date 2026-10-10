@@ -2,6 +2,8 @@
 title = "०२७ त्रिजटास्वप्नः"
 title_english = "027 Trijata s dream"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ the ogre Ravana is conquered.
 
 27. त्रिजटाका स्वप्न, राक्षसोंके विनाश और श्रीरघुनाथजीकी विजयकी शुभ सूचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्ताः सीतया घोरं राक्षस्यः क्रोधमूर्च्छिताः ।  
 काश्चिज्जग्मुस्तदाख्यातुं रावणस्य दुरात्मनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ the evil minded one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतामुपागम्य राक्षस्यो भीमदर्शनाः ।  
 पुनः परुषमेकार्थमनर्थार्थमथाब्रुवन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ with a single meaning and which were harsh.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येदानीं तवानार्ये सीते पापविनिश्चये ।  
 राक्षस्यो भक्षयिष्यन्ति मांसमेतद् यथासुखम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ your flesh according to comfort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां ताभिरनार्याभिर्दृष्ट्वा सन्तर्जितां तदा ।  
 राक्षसी त्रिजटा वृद्धा प्रबुद्धा वाक्यमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ spoke these words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानं खादतानार्या न सीतां भक्षयिष्यथ ।  
 जनकस्य सुतामिष्टां स्नुषां दशरथस्य च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ and daughter-in-law of king Dasaratha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वप्नो ह्यद्य मया दृष्टो दारुणो रोमहर्षणः ।  
 राक्षसानामभावाय भर्तुरस्या भवाय च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +315,15 @@ for the welfare of Her husband, has been seen by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्त्रिजटया राक्षस्यः क्रोधमूर्च्छिताः ।  
 सर्वा एवाब्रुवन् भीतास्त्रिजटां तामिदं वचः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,6 +365,7 @@ Thus spoken to by Trijata all ogresses were frightened and spoke to that Trijata
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,6 +373,8 @@ Thus spoken to by Trijata all ogresses were frightened and spoke to that Trijata
 तासां श्रुत्वा तु वचनं राक्षसीनां मुखोद‍्गतम् ॥ ८ ॥  
 उवाच वचनं काले त्रिजटा स्वप्नसंश्रितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +398,7 @@ _________________
 
 ‘अरी! बताओ तो सही, तुमने आज रातमें यह कैसा स्वप्न देखा है?’ उन राक्षसियोंके मुखसे निकली हुई यह बात सुनकर त्रिजटाने उस समय वह स्वप्न-सम्बन्धी बात इस प्रकार कही— ॥ ८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,6 +406,8 @@ _________________
 युक्तां वाजिसहस्रेण स्वयमास्थाय राघवः ।  
 शुक्लमाल्याम्बरधरो लक्ष्मणेन समागतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,6 +470,7 @@ from the mouths of those ogresses, Trijata spoke at that time this word relating
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -448,6 +478,8 @@ from the mouths of those ogresses, Trijata spoke at that time this word relating
 सागरेण परिक्षिप्तं श्वेतपर्वतमास्थिता ॥ ११ ॥  
 रामेण सङ्गता सीता भास्करेण प्रभा यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ a white mountain surrounded by the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवश्च पुनर्दृष्टश्चतुर्दन्तं महागजम् ॥ १२ ॥  
 आरूढः शैलसङ्काशं चकास सहलक्ष्मणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ on a great elephant with four tusks and equalling a mountain and Rama wandered t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु सूर्यसङ्काशौ दीप्यमानौ स्वतेजसा ॥ १३ ॥  
 शुक्लमाल्याम्बरधरौ जानकीं पर्युपस्थितौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ among men Rama and Laksmana neared Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्य नगस्याग्रे ह्याकाशस्थस्य दन्तिनः ॥ १४ ॥  
 भर्त्रा परिगृहीतस्य जानकी स्कन्धमाश्रिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +667,15 @@ Rama to the front of that mountain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुरङ्कात् समुत्पत्य ततः कमललोचना ॥ १५ ॥  
 चन्द्रसूर्यौ मया दृष्टा पाणिभ्यां परिमार्जती ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +725,15 @@ of Her husband and gently touched the Moon and the Sun with Her hand."
 आदित्यमण्डलं वापि चन्द्रमण्डलमेव वा ।  
 स्वप्ने गृह्णाति हस्ताभ्यां राज्यं सम्प्राप्नुयान्महत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ताभ्यां कुमाराभ्यामास्थितः स गजोत्तमः ।  
 सीतया च विशालाक्ष्या लङ्काया उपरि स्थितः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,6 +766,7 @@ wide eyes stood on the top of Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,6 +774,8 @@ wide eyes stood on the top of Lanka."
 इहोपयातः काकुत्स्थः सीतया सह भार्यया ॥ १७ ॥  
 शुक्लमाल्याम्बरधरो लक्ष्मणेन सहागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,6 +817,7 @@ yuktena aShTa yujaa* = tied with eight white bulls;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -775,6 +826,8 @@ yuktena aShTa yujaa* = tied with eight white bulls;
 आरुह्य पुष्पकं दिव्यं विमानं सूर्यसन्निभम् ॥ १९ ॥  
 उत्तरां दिशमालोच्य प्रस्थितः पुरुषोत्तमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +853,15 @@ _________________
 
 ‘इसके बाद दूसरी जगह मैंने देखा, सत्यपराक्रमी और बल-विक्रमशाली पुरुषोत्तम भगवान् श्रीराम अपनी पत्नी सीता और भाई लक्ष्मणके साथ सूर्यतुल्य तेजस्वी दिव्य पुष्पक विमानपर आरूढ़ हो उत्तर दिशाको लक्ष्य करके यहाँसे प्रस्थित हुए हैं ॥ १८-१९ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स्वप्ने मया दृष्टो रामो विष्णुपराक्रमः ॥ २० ॥  
 लक्ष्मणेन सह भ्रात्रा सीतया सह भार्यया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,12 +915,15 @@ Pushpaka aeroplane equalling the Sun, went in the northern direction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि रामो महातेजाः शक्यो जेतुं सुरासुरैः ॥ २१ ॥  
 राक्षसैर्वापि चान्यैर्वा स्वर्गः पापजनैरिव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +963,7 @@ not being conquerable by sinners."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -911,6 +971,8 @@ not being conquerable by sinners."
 रक्तवासाः पिबन्मत्तः करवीरकृतस्रजः ।  
 विमानात् पुष्पकादद्य रावणः पतितः क्षितौ ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,6 +1036,7 @@ Oleander flowers, drinking oil and intoxicated."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -982,6 +1045,8 @@ Oleander flowers, drinking oil and intoxicated."
 पिबंस्तैलं हसन्नृत्यन् भ्रान्तचित्ताकुलेन्द्रियः ।  
 गर्दभेन ययौ शीघ्रं दक्षिणां दिशमास्थितः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1119,15 @@ agitated senses, Ravana went by a chariot tied by donkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरेव मया दृष्टो रावणो राक्षसेश्वरः ।  
 पतितोऽवाक्शिरा भूमौ गर्दभाद् भयमोहितः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1076,6 +1144,7 @@ agitated senses, Ravana went by a chariot tied by donkeys."
 
 पुनः नानु स्वप्नदल्लि राक्षसेश्वरनाद रावणनु भयविह्वलनागि कत्तॆय मेलिनिन्द तलॆकॆळगागि नॆलक्कॆ बिद्दिरुवुदन्नु नोडिदॆ.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1084,6 +1153,8 @@ agitated senses, Ravana went by a chariot tied by donkeys."
 दुर्गन्धं दुःसहं घोरं तिमिरं नरकोपमम् ।  
 मलपङ्कं प्रविश्याशु मग्नस्तत्र स रावणः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1150,6 +1221,7 @@ horrible, dark, like the hell and quickly sank in that."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1158,6 +1230,8 @@ horrible, dark, like the hell and quickly sank in that."
 काली कर्दमलिप्ताङ्गी दिशं याम्यां प्रकर्षति ।  
 एवं तत्र मया दृष्टः कुम्भकर्णो महाबलः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1223,6 +1297,7 @@ to be sprinkled with oil."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1230,6 +1305,8 @@ to be sprinkled with oil."
 वराहेण दशग्रीवः शिशुमारेण चेन्द्रजित् ॥ ३१ ॥  
 उष्ट्रेण कुम्भकर्णश्च प्रयातो दक्षिणां दिशम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1252,12 +1329,15 @@ _________________
 
 ‘रावणके सभी पुत्र भी मूड़ मुड़ाये और तेलमें नहाये दिखायी दिये हैं । यह भी देखनेमें आया कि रावण सूअरपर, इन्द्रजित् सूँसपर और कुम्भकर्ण ऊँटपर सवार हो दक्षिण-दिशाको गये हैं ॥ ३१ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकस्तत्र मया दृष्टः श्वेतच्छत्रो विभीषणः ॥ ३२ ॥  
 शुक्लमाल्याम्बरधरः शुक्लगन्धानुलेपनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1291,6 +1371,7 @@ wearing white garlands and clothes and anointing body with white unguents."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1299,6 +1380,8 @@ wearing white garlands and clothes and anointing body with white unguents."
 चतुर्दन्तं गजं दिव्यमास्ते तत्र विभीषणः ॥ ३४ ॥  
 चतुर्भिः सचिवैः सार्धं वैहायसमुपस्थितः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,12 +1453,15 @@ the sky together with four ministers"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाजश्च महान् वृत्तो गीतवादित्रनिःस्वनः ।  
 पिबतां रक्तमाल्यानां रक्षसां रक्तवाससाम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1411,12 +1497,15 @@ a messenger of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्का चेयं पुरी रम्या सवाजिरथकुञ्जरा ।  
 सागरे पतिता दृष्टा भग्नगोपुरतोरणा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,12 +1546,15 @@ and also dancing a lot."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्का दृष्टा मया स्वप्ने रावणेनाभिरक्षिता ।  
 दग्धा रामस्य दूतेन वानरेण तरस्विना ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1504,12 +1596,15 @@ with cow dung."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पीत्वा तैलं प्रमत्ताश्च प्रहसन्त्यो महास्वनाः ।  
 लङ्कायां भस्मरूक्षायां सर्वा राक्षसयोषितः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1552,12 +1647,15 @@ with other ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णादयश्चेमे सर्वे राक्षसपुङ्गवाः ।  
 रक्तं निवसनं गृह्य प्रविष्टा गोमयह्रदम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,12 +1690,15 @@ followed Him to live in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपगच्छत पश्यध्वं सीतामाप्नोति राघवः ।  
 घातयेत् परमामर्षी युष्मान् सार्धं हि राक्षसैः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1634,12 +1735,15 @@ is agreeable to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियां बहुमतां भार्यां वनवासमनुव्रताम् ।  
 भर्त्सितां तर्जितां वापि नानुमंस्यति राघवः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1680,12 +1784,15 @@ from various sorrows, will get unsurpassed pleasure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं क्रूरवाक्यैश्च सान्त्वमेवाभिधीयताम् ।  
 अभियाचाम वैदेहीमेतद्धि मम रोचते ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,6 +1835,7 @@ Rama a horrible fear has come to ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1736,6 +1844,8 @@ Rama a horrible fear has come to ogres."
 सा दुःखैर् बहुभिर् मुक्ता  
 प्रियं प्राप्नोत्य् अनुत्तमम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1755,6 +1865,7 @@ _________________
 
 इवळु इन्तह दुःखदल्लिरुवाग इवळ कुरितु ई विधवाद स्वप्नगळु ननगॆ बिद्दवु. अदरिन्दागि सीतॆयु दुःखगळिन्द विमुक्तळागि सर्वोत्कृष्टनाद तन्न पतियन्नु हॊन्दुवळु.॥44॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1763,6 +1874,8 @@ _________________
 राघवाद् धि भयं घोरं  
 राक्षसानाम् उपस्थितम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1799,6 +1912,7 @@ even insignificant one."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1807,6 +1921,8 @@ even insignificant one."
 अलम् एषा परित्रातुं  
 राक्षस्यो महतो भयात् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1847,6 +1963,7 @@ in my dream, who is not suited to sorrows received sorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1855,6 +1972,8 @@ in my dream, who is not suited to sorrows received sorrow."
 विरूपम् अपि चाङ्गेषु  
 सुसूक्ष्मम् अपि लक्षणम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1887,12 +2006,15 @@ also and victory of Rama coming near."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छायावैगुण्यमात्रं तु शङ्के दुःखमुपस्थितम् ।  
 अदुःखार्हामिमां देवीं वैहायसमुपस्थिताम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1926,12 +2048,15 @@ is being seen my me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थसिद्धिं तु वैदेह्याः पश्याम्यहमुपस्थिताम् ।  
 राक्षसेन्द्रविनाशं च विजयं राघवस्य च ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1970,12 +2095,15 @@ is being seen my me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमित्तभूतमेतत् तु श्रोतुमस्या महत् प्रियम् ।  
 दृश्यते च स्फुरच्चक्षुः पद्मपत्रमिवायतम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2008,12 +2136,15 @@ in front of Her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईषद्धि हृषितो वास्या दक्षिणाया ह्यदक्षिणः ।  
 अकस्मादेव वैदेह्या बाहुरेकः प्रकम्पते ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2061,12 +2192,15 @@ words, is telling heartily welcoming words being delighted again and again, as t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करेणुहस्तप्रतिमः सव्यश्चोरुरनुत्तमः ।  
 वेपन् कथयतीवास्या राघवं पुरतः स्थितम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2088,6 +2222,7 @@ _________________
 
 अदो ऒन्दु पक्षियु रॆम्बॆयल्लिरुव तन्न गूडन्नु प्रवेशिसुत्तिदॆ. आगाग मधुरवागि कूगुत्तिदॆ. आ पक्षिय कूजनवु ‘‘सीतॆ! नीनु भयपडबेड’’ ऎन्दु सन्तैसुवन्तॆ अनिसुत्तदॆ. अदु श्रीरामनिगॆ स्वागतवन्नु हाडुत्तिदॆयो ऎम्बन्तिदॆ. मत्तु सन्तोषदिन्द सीतादेविगॆ उत्साहवन्नु तुम्बुत्तिदॆयो ऎन्दु कूगुत्तिदॆ.॥52॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2096,6 +2231,8 @@ _________________
 सुस्वागतां वाचमुदीरयाणः  
 पुनः पुनश्चोदयतीव हृष्टः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2117,6 +2254,7 @@ _________________
 
 बळिक सीतादेवियु तन्न पतिगॆ विजयवु सिद्धिसुवुदु ऎन्दरितु, सन्तसपट्टु, हर्षदिन्द हीगॆन्दळु ‘‘त्रिजटॆयु हेळिद स्वप्न विशेषगळु निजवादरॆ निमगॆल्लरिगू अभयवन्नु कॊडुत्तेनॆ.’’॥53॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2125,6 +2263,8 @@ _________________
 अवोचद् "यदि तत् तथ्यं  
 भवेयं शरणं हि वः" ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -2152,5 +2292,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तेळनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०६५ हनुमता सीतासन्देशनिवेदनम्"
 title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -24,6 +26,7 @@ Hanuma conveys her message to Rama.
 
 65. हनुमान् जी का श्रीरामको सीताका समाचार सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ Hanuma conveys her message to Rama.
 युवराजं पुरस्कृत्य सुग्रीवमभिवाद्य च ।  
 प्रवृत्तिमथ सीतायाः प्रवक्तुमुपचक्रमुः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,6 +85,7 @@ of Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -88,6 +94,8 @@ of Seetha.
 एतदाख्याय ते सर्वं हरयो रामसन्निधौ ।  
 वैदेहीमक्षतां श्रुत्वा रामस्तूत्तरमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,12 +139,15 @@ of two months given by Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व सीता वर्तते देवी कथं च मयि वर्तते ।  
 एतन्मे सर्वमाख्यात वैदेहीं प्रति वानराः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ How is she disposed towards me? O monkeys! Tell me all that about Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य गदितं श्रुत्वा हरयो रामसन्निधौ ।  
 चोदयन्ति हनूमन्तं सीतावृत्तान्तकोविदम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ all the incidents because he knew them better, about Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तेषां हनूमान् मारुतात्मजः ।  
 प्रणम्य शिरसा देव्यै सीतायै तां दिशं प्रति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,6 +283,7 @@ how he saw Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,6 +291,8 @@ how he saw Seetha.
 तं मणिं काञ्चनं दिव्यं दीप्यमानं स्वतेजसा ॥ ८ ॥  
 दत्त्वा रामाय हनुमांस्ततः प्राञ्जलिरब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +336,15 @@ in search of Seetha, Janaka's daughter, with a wish to see her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रं लङ्घयित्वाहं शतयोजनमायतम् ॥ ९ ॥  
 अगच्छं जानकीं सीतां मार्गमाणो दिदृक्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ _________________
 
 ‘प्रभो! मैं जनकनन्दिनी सीताके दर्शनकी इच्छासे उनका पता लगाता हुआ सौ योजन विस्तृत समुद्रको लाँघकर उसके दक्षिण किनारेपर जा पहुँचा ॥ ९ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र लङ्केति नगरी रावणस्य दुरात्मनः ॥ १० ॥  
 दक्षिणस्य समुद्रस्य तीरे वसति दक्षिणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,6 +432,7 @@ evil-minded Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -414,6 +441,8 @@ evil-minded Ravana."
 दृष्टा मे राक्षसीमध्ये तर्ज्यमाना मुहुर्मुहुः ॥ १२ ॥  
 राक्षसीभिर्विरूपाभी रक्षिता प्रमदावने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +483,7 @@ by those ugly-faced female-demons as also time and again being threatened by the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -461,6 +491,8 @@ by those ugly-faced female-demons as also time and again being threatened by the
 रावणान्तःपुरे रुद्धा राक्षसीभिः सुरक्षिता ।  
 एकवेणीधरा दीना त्वयि चिन्तापरायणा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +545,15 @@ alone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधःशय्या विवर्णाङ्गी पद्मिनीव हिमागमे ।  
 रावणाद् विनिवृत्तार्था मर्तव्यकृतनिश्चया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,6 +596,7 @@ to her the fame of Ikshvaku dynasty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -569,6 +605,8 @@ to her the fame of Ikshvaku dynasty."
 सा मया नरशार्दूल शनैर्विश्वासिता तदा ।  
 ततः सम्भाषिता देवी सर्वमर्थं च दर्शिता ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +636,15 @@ _________________
 
 आग आ तायियु नन्नॊडनॆ माताडिदळु. अवळिगॆ नानु ऎल्ल विषयगळन्नु तिळिसिदॆ. निनगू हागू सुग्रीवनिगू सख्यवादुदन्नु केळि, सीतॆयु परमहर्षितळादळु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामसुग्रीवसख्यं च श्रुत्वा हर्षमुपागता ।  
 नियतः समुदाचारो भक्तिश्चास्याः सदा त्वयि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +707,15 @@ as well as her devotion in you are steadfast."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मया महाभाग दृष्टा जनकनन्दिनी ।  
 उग्रेण तपसा युक्ता त्वद्भक्त्या पुरुषर्षभ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,12 +758,15 @@ event of a crow occurred at your vicinity in Mount Chitrakuta."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिज्ञानं च मे दत्तं यथावृत्तं तवान्तिके ।  
 चित्रकूटे महाप्राज्ञ वायसं प्रति राघव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,6 +809,7 @@ you have seen here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -769,6 +817,8 @@ you have seen here."
 अखिलेन यथा दृष्टमिति मामाह जानकी ॥ २१ ॥  
 अयं चास्मै प्रदातव्यो यत्नात् सुपरिरक्षितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,6 +836,7 @@ you have seen here."
 
 ‘जानकीजीने आते समय मुझसे कहा—‘वायुनन्दन! तुम यहाँ जैसी मेरी हालत देख चुके हो, वह सब भगवान् श्रीरामको बताना और इस मणिको बड़े यत्नसे सुरक्षितरूपमें ले जाकर उनके हाथमें देना ॥ २१ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -795,6 +846,8 @@ you have seen here."
 एष निर्यातितः श्रीमान् मया ते वारिसम्भवः ।  
 एनं दृष्ट्वा प्रमोदिष्ये व्यसने त्वामिवानघ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +940,15 @@ this jewel, which is deliberately well-guarded, be given to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितं धारयिष्यामि मासं दशरथात्मज ।  
 ऊर्ध्वं मासान्न जीवेयं रक्षसां वशमागता ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1008,15 @@ this in my grief, I am feeling always happy as though I am seeing you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति मामब्रवीत् सीता कृशाङ्गी धर्मचारिणी ।  
 रावणान्तःपुरे रुद्धा मृगीवोत्फुल्ललोचना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,12 +1059,15 @@ be constructed, by all means, across the waters of the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदेव मयाऽऽख्यातं सर्वं राघव यद् यथा ।  
 सर्वथा सागरजले सन्तारः प्रविधीयताम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,6 +1117,7 @@ all that was conveyed by Seetha, the princess.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1063,6 +1126,8 @@ all that was conveyed by Seetha, the princess.
 देव्या चाख्यातं सर्वमेवानुपूर्व्याद्  
 वाचा सम्पूर्णं वायुपुत्रः शशंस ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,5 +1151,6 @@ all that was conveyed by Seetha, the princess.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तैदनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

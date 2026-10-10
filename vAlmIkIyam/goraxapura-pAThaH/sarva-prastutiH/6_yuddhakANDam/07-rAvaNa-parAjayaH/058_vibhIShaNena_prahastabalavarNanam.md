@@ -2,6 +2,8 @@
 title = "०५८ विभीषणेन प्रहस्तबलवर्णनम्"
 title_english = "058 Vibhishana explains the prowess of Prahasta"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ into myriad pieces and dies. All the other demons abandon the battle-field and r
 
 58. नीलके द्वारा प्रहस्तका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहस्तं निर्यान्तं दृष्ट्वा रणकृतोद्यमम् ।  
 उवाच सस्मितं रामो विभीषणमरिन्दमः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ smiling, spoke to Vibhishana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ smiling, spoke to Vibhishana as follows:
 आगच्छति महावेगः किंरूपबलपौरुषः ॥ २ ॥  
 आचक्ष्व मे महाबाहो वीर्यवन्तं निशाचरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,6 +119,7 @@ O, the mighty armed! Tell me about this strong demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +128,8 @@ O, the mighty armed! Tell me about this strong demon."
 लङ्कायां राक्षसेन्द्रस्य त्रिभागबलसंवृतः ।  
 वीर्यवानस्त्रविच्छूरः सुप्रख्यातपराक्रमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +178,7 @@ is the demon named Prahasta, the Army general of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,6 +187,8 @@ is the demon named Prahasta, the Army general of Ravana."
 ददर्श महती सेना वानराणां बलीयसाम् ।  
 अभिसञ्जातघोषाणां प्रहस्तमभिगर्जताम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,6 +215,7 @@ is the demon named Prahasta, the Army general of Ravana."
 
 आगले महाबलशालि वानरर विशाल सेनॆयू भयानक पराक्रमि, भीषणरूपधारी, महाकाय प्रहस्तनु भारी गर्जिसुत्ता लङ्कॆयिन्द बन्दुदन्नु नोडितु. अवनु असङ्ख्य राक्षसरिन्द परिवृतनागिद्दनु. अवनन्नु नोडुत्तले वानर सैन्यदल्लियू महाकोलाहलवागि, प्रहस्तन कडॆगॆ नोडुत्ता वानररु गर्जिसतॊडगिदरु.॥5-6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,6 +224,8 @@ is the demon named Prahasta, the Army general of Ravana."
 धनूंषि च विचित्राणि राक्षसानां जयैषिणाम् ।  
 प्रगृहीतान्यराजन्त वानरानभिधावताम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ monkeys and seeking victory.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगृहुः पादपांश्चापि पुष्पितांस्तु गिरींस्तथा ।  
 शिलाश्च विपुला दीर्घा योद‍्धुकामाः प्लवङ्गमाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +329,15 @@ and thick stones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामन्योन्यमासाद्य सङ्ग्रामः सुमहानभूत् ।  
 बहूनामश्मवृष्टिं च शरवर्षं च वर्षताम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +378,15 @@ who showered down a hail of arrows and a bombardment of stones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहवो राक्षसा युद्धे बहून् वानरपुङ्गवान् ।  
 वानरा राक्षसांश्चापि निजघ्नुर्बहवो बहून् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +426,15 @@ monkeys killed many of the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूलैः प्रमथिताः केचित् केचित् तु परमायुधैः ।  
 परिघैराहताः केचित् केचिच्छिन्नाः परश्वधैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +474,15 @@ struck by iron bars and some others were slit by axes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरुच्छ्वासाः पुनः केचित् पतिता जगतीतले ।  
 विभिन्नहृदयाः केचिदिषुसन्धानसाधिताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ arrows aimed at them with their hearts splits asunder.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद् द्विधा कृताः खड्गैः स्फुरन्तः पतिता भुवि ।  
 वानरा राक्षसैः शूरैः पार्श्वतश्च विदारिताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +577,15 @@ trembling, fell on the earth, their sides torn open.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरैश्चापि सङ्क्रुद्धै राक्षसौघाः समन्ततः ।  
 पादपैर्गिरिशृङ्गैश्च सम्पिष्टा वसुधातले ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ monkeys with tree and mountain-peaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रस्पर्शतलैर्हस्तैर्मुष्टिभिश्च हता भृशम् ।  
 वमन् शोणितमास्येभ्यो विशीर्णदशनेक्षणाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ from their months.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तस्वनं च स्वनतां सिंहनादं च नर्दताम् ।  
 बभूव तुमुलः शब्दो हरीणां रक्षसामपि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +723,15 @@ roars were bellowed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरा राक्षसाः क्रुद्धा वीरमार्गमनुव्रताः ।  
 विवृत्तवदनाः क्रूराश्चक्रुः कर्माण्यभीतवत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +772,15 @@ cruel and hostile eyes, accomplished their deeds with great courage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नरान्तकः कुम्भहनुर्महानादः समुन्नतः ।  
 एते प्रहस्तसचिवाः सर्वे जघ्नुर्वनौकसः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +820,15 @@ the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां निपततां शीघ्रं निघ्नतां चापि वानरान् ।  
 द्विविदो गिरिशृङ्गेण जघानैकं नरान्तकम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ rushing upon quickly and killing the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्मुखः पुनरुत्थाय कपिः सविपुलद्रुमम् ।  
 राक्षसं क्षिप्रहस्तं तु समुन्नतमपोथयत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ crushed the demon Samunnata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवांस्तु सुसङ्क्रुद्धः प्रगृह्य महतीं शिलाम् ।  
 पातयामास तेजस्वी महानादस्य वक्षसि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +965,15 @@ chest-region of Mahanada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ कुम्भहनुस्तत्र तारेणासाद्य वीर्यवान् ।  
 वृक्षेण महता सद्यः प्राणान् सन्त्याजयद् रणे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1014,15 @@ who was armed with a huge tree, received a blow immediately cost him his life.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृष्यमाणस्तत्कर्म प्रहस्तो रथमास्थितः ।  
 चकार कदनं घोरं धनुष्पाणिर्वनौकसाम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1063,15 @@ hand, caused a terrible havoc among the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवर्त इव सञ्जज्ञे सेनयोरुभयोस्तदा ।  
 क्षुभितस्याप्रमेयस्य सागरस्येव निःस्वनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,12 +1112,15 @@ the roar of an unfathomable and tempestuous ocean in a time of dissolution.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महता हि शरौघेण राक्षसो रणदुर्मदः ।  
 अर्दयामास सङ्क्रुद्धो वानरान् परमाहवे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,12 +1160,15 @@ tormented the monkeys by an immense avalanche of arrows in that great combat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराणां शरीरैस्तु राक्षसानां च मेदिनी ।  
 बभूवातिचिता घोरैः पर्वतैरिव संवृता ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,12 +1208,15 @@ a very extensive area of the ground is covered.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा मही रुधिरौघेण प्रच्छन्ना सम्प्रकाशते ।  
 सञ्छन्ना माधवे मासि पलाशैरिव पुष्पितैः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1179,6 +1256,7 @@ overspread fully with the bloossoming crimson-coloured Palasa flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1193,6 +1271,8 @@ overspread fully with the bloossoming crimson-coloured Palasa flowers.
 राक्षसाः कपिमुख्यास्ते तेरुस्तां दुस्तरां नदीम् ।  
 यथा पद्मरजोध्वस्तां नलिनीं गजयूथपाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1268,12 +1348,15 @@ the lotuses have covered with pollen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सृजन्तं बाणौघान् प्रहस्तं स्यन्दने स्थितम् ।  
 ददर्श तरसा नीलो विधमन्तं प्लवङ्गमान् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1314,6 +1397,7 @@ chariot and annihilating the monkeys swiftly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1321,6 +1405,8 @@ chariot and annihilating the monkeys swiftly.
 समीक्ष्याभिद्रुतं युद्धे प्रहस्तो वाहिनीपतिः ॥ ३५ ॥  
 रथेनादित्यवर्णेन नीलमेवाभिदुद्रुवे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1338,12 +1424,15 @@ chariot and annihilating the monkeys swiftly.
 
 प्रचण्ड वायुवु आकाशदल्लि महामेघमण्डलवन्नु भिन्न भिन्नमाडि हारिसिबिडुवन्तॆये नीलनु बलवन्तवागि राक्षसर सैन्यवन्नु संहरिसतॊडगिदनु. इदरिन्द युद्धरङ्गदल्लि राक्षसर सैन्यवु पलायन माडितु. सेनापति प्रहस्तनु तन्न सैन्यद इन्तह दुरवस्थॆयन्नु नोडि, अवनु सूर्यनन्तह तेजस्वी रथदिन्द नीलन मेलॆ आक्रमण माडिदनु.॥35½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स धनुर्धन्विनां श्रेष्ठो विकृष्य परमाहवे ॥ ३६ ॥  
 नीलाय व्यसृजद् बाणान् प्रहस्तो वाहिनीपतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1380,12 +1469,15 @@ his chariot having the sun's colour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्राप्य विशिखा नीलं विनिर्भिद्य समाहिताः ॥ ३७ ॥  
 महीं जग्मुर्महावेगा रोषिता इव पन्नगाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1420,6 +1512,7 @@ the bow-string and hurled the arrows towards Nila in that great battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1427,6 +1520,8 @@ the bow-string and hurled the arrows towards Nila in that great battle.
 स तं परमदुर्धर्षमापतन्तं महाकपिः ।  
 प्रहस्तं ताडयामास वृक्षमुत्पाट्य वीर्यवान् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1461,12 +1556,15 @@ proceeded towards Nila, pierced him and fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेनाभिहतः क्रुद्धो नर्दन् राक्षसपुङ्गवः ।  
 ववर्ष शरवर्षाणि प्लवङ्गानां चमूपतौ ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,6 +1601,7 @@ assaulted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1512,6 +1611,8 @@ assaulted.
 एवमेव प्रहस्तस्य शरवर्षान् दुरासदान् ।  
 निमीलिताक्षः सहसा नीलः सेहे दुरासदान् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1574,12 +1675,15 @@ demon, nila received them with closed eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोषितः शरवर्षेण सालेन महता महान् ।  
 प्रजघान हयान् नीलः प्रहस्तस्य महाबलः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1619,12 +1723,15 @@ Prahasta's horses by hurling a huge Sala tree on them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रोषपरीतात्मा धनुस्तस्य दुरात्मनः ।  
 बभञ्ज तरसा नीलो ननाद च पुनः पुनः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1659,12 +1766,15 @@ evil-minded demon and shouted again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधनुः स कृतस्तेन प्रहस्तो वाहिनीपतिः ।  
 प्रगृह्य मुसलं घोरं स्यन्दनादवपुप्लुवे ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1704,12 +1814,15 @@ leapt down from the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावुभौ वाहिनीमुख्यौ जातवैरौ तरस्विनौ ।  
 स्थितौ क्षतजसिक्ताङ्गौ प्रभिन्नाविव कुञ्जरौ ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1749,12 +1862,15 @@ their limbs covered with blood, wee standing like two elephants in rut.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उल्लिखन्तौ सुतीक्ष्णाभिर्दंष्ट्राभिरितरेतरम् ।  
 सिंहशार्दूलसदृशौ सिंहशार्दूलचेष्टितौ ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1774,12 +1890,15 @@ _________________
 
 इब्बरू तम्म कॊरॆदाडॆगळिन्द कटकटनॆ कडियुत्ता परस्पर गायगॊळिसुत्तिद्दरु. अवरिब्बरू सिंह मत्तु हुलियन्तॆ शक्तिशालिगळागिद्दु विजयक्कागि प्रयत्निसुत्तिद्दरु.॥47॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रान्तविजयौ वीरौ समरेष्वनिवर्तिनौ ।  
 काङ्क्षमाणौ यशः प्राप्तुं वृत्रवासवयोरिव ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1817,12 +1936,15 @@ thirsting for fame, resembled Vritra and Indra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आजघान तदा नीलं ललाटे मुसलेन सः ।  
 प्रहस्तः परमायत्तस्ततः सुस्राव शोणितम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1862,12 +1984,15 @@ and blood oozed from his forehead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शोणितदिग्धाङ्गः प्रगृह्य च महातरुम् ।  
 प्रहस्तस्योरसि क्रुद्धो विससर्ज महाकपिः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1907,12 +2032,15 @@ struck Prahasta full in his chest with fury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमचिन्त्यप्रहारं स प्रगृह्य मुसलं महत् ।  
 अभिदुद्राव बलिनं बलान्नीलं प्लवङ्गमम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1952,12 +2080,15 @@ strong monkey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुग्रवेगं संरब्धमापतन्तं महाकपिः ।  
 ततः सम्प्रेक्ष्य जग्राह महावेगो महाशिलाम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1997,12 +2128,15 @@ monkey took a huge rock swiftly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य युद्धाभिकामस्य मृधे मुसलयोधिनः ।  
 प्रहस्तस्य शिलां नीलो मूर्ध्नि तूर्णमपातयत् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2042,12 +2176,15 @@ fighting with a mace in the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलेन कपिमुख्येन विमुक्ता महती शिला ।  
 बिभेद बहुधा घोरा प्रहस्तस्य शिरस्तदा ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2081,12 +2218,15 @@ Prahasa's head into myriad pieces.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गतासुर्गतश्रीको गतसत्त्वो गतेन्द्रियः ।  
 पपात सहसा भूमौ छिन्नमूल इव द्रुमः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2127,12 +2267,15 @@ at once fell on the ground like a tree cut up by the root.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभिन्नशिरसस्तस्य बहु सुस्राव शोणितम् ।  
 शरीरादपि सुस्राव गिरेः प्रस्रवणं यथा ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2192,12 +2335,15 @@ fury, thereupon saw the terrible Prahasta of formidable exploits coming forth to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हते प्रहस्ते नीलेन तदकम्प्यं महाबलम् ।  
 राक्षसानामहृष्टानां लङ्कामभिजगाम ह ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2237,12 +2383,15 @@ becoming disconsolated, withdrew to Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शेकुः समवस्थातुं निहते वाहिनीपतौ ।  
 सेतुबन्धं समासाद्य विशीर्णं सलिलं यथा ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2276,6 +2425,7 @@ firmy there, any more than water on reaching a breached bridge.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2283,6 +2433,8 @@ firmy there, any more than water on reaching a breached bridge.
 रक्षःपतिगृहं गत्वा ध्यानमूकत्वमागताः ॥ ५९ ॥  
 प्राप्ताः शोकार्णवं तीव्रं विसञ्ज्ञा इव तेऽभवन् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2349,6 +2501,7 @@ of burning grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2357,6 +2510,8 @@ of burning grief.
 समेत्य रामेण सलक्ष्मणेन  
 प्रहृष्टरूपस्तु बभूव यूथपः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2385,5 +2540,6 @@ of burning grief.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥58॥
+</details>
 </details>
 

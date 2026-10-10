@@ -2,6 +2,8 @@
 title = "०३४ हनुमता स्वरामदौत्यनिवेदनम्"
 title_english = "034 Hanuma reveals himself to be a messenger of"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -23,12 +25,15 @@ qualities of Rama. He requests her to have faith in his words.
 
 34. सीताजीका हनुमान् जीके प्रति संदेह और उसका समाधान तथा हनुमान् जीके द्वारा श्रीरामचन्द्रजीके गुणोंका गान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा हनूमान् हरिपुङ्गवः ।  
 दुःखाद् दुःखाभिभूतायाः सान्त्वमुत्तरमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ monkeys gave the following reply in a kindly and affectionate manner.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं रामस्य सन्देशाद् देवि दूतस्तवागतः ।  
 वैदेहि कुशली रामः स त्वां कौशलमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ directions. The virtuous Rama enquired about your welfare too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो ब्राह्ममस्त्रं वेदांश्च वेद वेदविदां वरः ।  
 स त्वां दाशरथी रामो देवि कौशलमब्रवीत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ about your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्च महातेजा भर्तुस्तेऽनुचरः प्रियः ।  
 कृतवाञ्छोकसन्तप्तः शिरसा तेऽभिवादनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +232,15 @@ himself tormented with grief, performed salutation to you by bowing his head."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तयोः कुशलं देवी निशम्य नरसिंहयोः ।  
 प्रतिसंहृष्टसर्वाङ्गी हनूमन्तमथाब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,12 +284,15 @@ all her limbs thrilled with joy, spoke to Hanuma (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्याणी बत गाथेयं लौकिकी प्रतिभाति मा ।  
 एति जीवन्तमानन्दो नरं वर्षशतादपि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +332,15 @@ adage appears true and and auspicious for me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः समागमे तस्मिन् प्रीतिरुत्पादिताद्भुता ।  
 परस्परेण चालापं विश्वस्तौ तौ प्रचक्रतुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -361,12 +384,15 @@ conversed with each other in full confidence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा हनूमान् मारुतात्मजः ।  
 सीतायाः शोकतप्तायाः समीपमुपचक्रमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,12 +435,15 @@ to draw nearer to her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा यथा समीपं स हनूमानुपसर्पति ।  
 तथा तथा रावणं सा तं सीता परिशङ्कते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,12 +484,15 @@ In as much as that Hanuma drew nearer to her, in the same way, that Seetha suspe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो धिग् धिक्कृतमिदं कथितं हि यदस्य मे ।  
 रूपान्तरमुपागम्य स एवायं हि रावणः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +514,15 @@ _________________
 
 ऐसा विचार आते ही वे मन-ही-मन कहने लगीं— ‘अहो! धिक्कार है, जो इसके सामने मैंने अपने मनकी बात कह दी । यह दूसरा रूप धारण करके आया हुआ वह रावण ही है’ ॥ १० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामशोकस्य शाखां तु विमुक्त्वा शोककर्शिता ।  
 तस्यामेवानवद्याङ्गी धरण्यां समुपाविशत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,12 +582,15 @@ guise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवन्दत महाबाहुस्ततस्तां जनकात्मजाम् ।  
 सा चैनं भयसन्त्रस्ता भूयो नैनमुदैक्षत ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +637,15 @@ saluted her. She too, trembling with fear, did not look towards him again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा वन्दमानं च सीता शशिनिभानना ।  
 अब्रवीद् दीर्घमुच्छ्वस्य वानरं मधुरस्वरा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,12 +688,15 @@ spoke to Hanuma in a sweet-sounding voice (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मायां प्रविष्टो मायावी यदि त्वं रावणः स्वयम् ।  
 उत्पादयसि मे भूयः सन्तापं तन्न शोभनम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +730,15 @@ me a further agony. It is no good."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वं परित्यज्य रूपं यः परिव्राजकरूपवान् ।  
 जनस्थाने मया दृष्टस्त्वं स एव हि रावणः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,12 +782,15 @@ a vagrant religious mendicant in Janasthana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासकृशां दीनां कामरूप निशाचर ।  
 सन्तापयसि मां भूयः सन्तापं तन्न शोभनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +826,15 @@ me, emaciated because of fasting and feeling very miserable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नैतदेवं हि यन्मया परिशङ्कितम् ।  
 मनसो हि मम प्रीतिरुत्पन्ना तव दर्शनात् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,12 +868,15 @@ indeed occurred by reason of your audience."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि रामस्य दूतस्त्वमागतो भद्रमस्तु ते ।  
 पृच्छामि त्वां हरिश्रेष्ठ प्रिया रामकथा हि मे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ is very pleasurable for me. Hence, I am requesting you to narrate it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुणान् रामस्य कथय प्रियस्य मम वानर ।  
 चित्तं हरसि मे सौम्य नदीकूलं यथा रयः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -899,12 +958,15 @@ rapid course of stream erodes a river bank."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो स्वप्नस्य सुखता याहमेव चिराहृता ।  
 प्रेषितं नाम पश्यामि राघवेण वनौकसम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1009,15 @@ this dream is!'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वप्नेऽपि यद्यहं वीरं राघवं सहलक्ष्मणम् ।  
 पश्येयं नावसीदेयं स्वप्नोऽपि मम मत्सरी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1050,15 @@ case, even my dream is wicked!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं स्वप्नमिमं मन्ये स्वप्ने दृष्ट्वा हि वानरम् ।  
 न शक्योऽभ्युदयः प्राप्तुं प्राप्तश्चाभ्युदयो मम ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1031,12 +1099,15 @@ has come to me!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु स्याच्चित्तमोहोऽयं भवेद् वातगतिस्त्वियम् ।  
 उन्मादजो विकारो वा स्यादयं मृगतृष्णिका ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,12 +1150,15 @@ mental condition of madness? Is it a looming mirage?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नायमुन्मादो मोहोऽप्युन्मादलक्षणः ।  
 सम्बुध्ये चाहमात्मानमिमं चापि वनौकसम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1125,6 +1199,7 @@ am knowing about myself as also about this monkey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1133,6 +1208,8 @@ am knowing about myself as also about this monkey."
 एतां बुद्धिं तदा कृत्वा सीता सा तनुमध्यमा ।  
 न प्रतिव्याजहाराथ वानरं जनकात्मजा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1200,12 +1277,15 @@ to be Ravana, as demons can change their forms at will.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया निश्चितं बुद्‍ध्वा हनूमान् मारुतात्मजः ।  
 श्रोत्रानुकूलैर्वचनैस्तदा तां सम्प्रहर्षयन् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,12 +1329,15 @@ joy in her with his words most favourable to her ears (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य इव तेजस्वी लोककान्तः शशी यथा ।  
 राजा सर्वस्य लोकस्य देवो वैश्रवणो यथा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,12 +1349,15 @@ joy in her with his words most favourable to her ears (as follows):
 
 ‘भगवान् श्रीराम सूर्यके समान तेजस्वी, चन्द्रमाके समान लोककमनीय तथा देव कुबेरकी भाँति सम्पूर्ण जगत् के राजा हैं ॥ २८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रमेणोपपन्नश्च यथा विष्णुर्महायशाः ।  
 सत्यवादी मधुरवाग् देवो वाचस्पतिर्यथा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1288,12 +1374,15 @@ joy in her with his words most favourable to her ears (as follows):
 
 ‘महायशस्वी भगवान् विष्णुके समान पराक्रमी तथा बृहस्पतिजीकी भाँति सत्यवादी एवं मधुरभाषी हैं ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपवान् सुभगः श्रीमान् कन्दर्प इव मूर्तिमान् ।  
 स्थानक्रोधे प्रहर्ता च श्रेष्ठो लोके महारथः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1329,6 +1418,7 @@ possessing good fortune and a royal dignity. He is a personified Manmadha, the l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1336,6 +1426,8 @@ possessing good fortune and a royal dignity. He is a personified Manmadha, the l
 अपक्रम्याश्रमपदान्मृगरूपेण राघवम् ॥ ३१ ॥  
 शून्ये येनापनीतासि तस्य द्रक्ष्यसि तत्फलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1485,15 @@ the Lord of wealth, he is a lord to the entire world. Like Vishnu, he is greatly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिराद् रावणं सङ्ख्ये यो वधिष्यति वीर्यवान् ॥ ३२ ॥  
 क्रोधप्रमुक्तैरिषुभिर्ज्वलद्भिरिव पावकैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1442,12 +1537,15 @@ You will see later, the consequence Ravana will get for this act."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनाहं प्रेषितो दूतस्त्वत्सकाशमिहागतः ॥ ३३ ॥  
 त्वद्वियोगेन दुःखार्तः स त्वां कौशलमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1467,12 +1565,15 @@ _________________
 
 बहु बेगने महावीरनाद श्रीरामनु युद्धदल्लि क्रोधपूर्वकवागि बिडुव अग्निसदृशवाद हरितवाद बाणगळन्नु प्रयोगिसि आ रावणनन्नु वधिसुवनु.॥33॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्च महातेजाः सुमित्रानन्दवर्धनः ॥ ३४ ॥  
 अभिवाद्य महाबाहुः स त्वां कौशलमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1513,6 +1614,7 @@ to enquire of your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1520,6 +1622,8 @@ to enquire of your welfare."
 राजा वानरमुख्यानां स त्वां कौशलमब्रवीत् ।  
 नित्यं स्मरति ते रामः ससुग्रीवः सलक्ष्मणः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,12 +1696,15 @@ his mother, saluted you and enquired about your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या जीवसि वैदेहि राक्षसीवशमागता ।  
 नचिराद् द्रक्ष्यसे रामं लक्ष्मणं च महारथम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1639,12 +1746,15 @@ into the control female-demons, you are somehow surviving by your good luck!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्ये वानरकोटीनां सुग्रीवं चामितौजसम् ।  
 अहं सुग्रीवसचिवो हनूमान् नाम वानरः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,12 +1795,15 @@ in the presence of crores of monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टो नगरीं लङ्कां लङ्घयित्वा महोदधिम् ।  
 कृत्वा मूर्ध्नि पदन्यासं रावणस्य दुरात्मनः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,6 +1841,7 @@ the great ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1735,6 +1849,8 @@ the great ocean."
 नाहमस्मि तथा देवि यथा मामवगच्छसि ।  
 विशङ्का त्यज्यतामेषा श्रद्धत्स्व वदतो मम ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1784,5 +1900,6 @@ to see you."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तनाल्कनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

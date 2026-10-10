@@ -2,6 +2,8 @@
 title = "०३९ वनप्रस्थानम्"
 title_english = "039 Rama seeks blessings of his mother"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-039-Vana_Prastanam.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "039 Rama seeks blessings of his mother"
 
 39. राजा दशरथका विलाप, उनकी आज्ञासे सुमन्त्रका रामके लिये रथ जोतकर लाना, कोषाध्यक्षका सीताको बहुमूल्य वस्त्र और आभूषण देना, कौसल्याका सीताको पतिसेवाका उपदेश, सीताके द्वारा उसकी स्वीकृति तथा श्रीरामका अपनी मातासे पिताके प्रति दोषदृष्टि न रखनेका अनुरोध करके अन्य माताओंसे भी विदा माँगना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु वचः श्रुत्वा मुनिवेषधरं च तम् ।  
 समीक्ष्य सह भार्याभी राजा विगतचेतनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -32,12 +37,15 @@ title_english = "039 Rama seeks blessings of his mother"
 
 श्रीरामन मातन्न केळि, मुनिवेषदल्लिरुव अवनन्नु नोडि पत्नियर सहित दशरथनु शोकदिन्द निश्चेष्टितनन्तॆ आदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैनं दुःखेन सन्तप्तः प्रत्यवैक्षत राघवम् ।  
 न चैनमभिसम्प्रेक्ष्य प्रत्यभाषत दुर्मनाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +84,15 @@ he was, the king could not speak to Rama by seeing into his face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुहूर्तमिवासञ्ज्ञो दुःखितश्च महीपतिः ।  
 विललाप महाबाहू राममेवानुचिन्तयन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +132,15 @@ various ways thinking of Rama alone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये खलु मया पूर्वं विवत्सा बहवः कृताः ।  
 प्राणिनो हिंसिता वापि तन्मामिदमुपस्थितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +181,15 @@ any case many living beings were killed. Hence, this (calamity) has befallen me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वेवानागते काले देहाच्च्यवति जीवितम् ।  
 कैकेय्या क्लिश्यमानस्य मृत्युर्मम न विद्यते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +206,15 @@ any case many living beings were killed. Hence, this (calamity) has befallen me.
 
 कालवु सन्निहितवागदॆ यार शरीरदिन्दलू प्राण होगुवुदिल्ल. अदरिन्दले कैकेयियिन्द इष्टु क्लेशपट्टरू नन्न मृत्यु आगुवुदिल्लवल्ल.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽहं पावकसङ्काशं पश्यामि पुरतः स्थितम् ।  
 विहाय वसने सूक्ष्मे तापसाच्छादमात्मजम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +253,15 @@ standing before me clad in the robes of an ascetic having cast off his fine garm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकस्याः खलु कैकेय्याः कृतेऽयं खिद्यते जनः ।  
 स्वार्थे प्रयतमानायाः संश्रित्य निकृतिं त्विमाम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +304,15 @@ chincanery, with an implicit intent of selfishness"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु वचनं बाष्पेण विहतेन्द्रियः ।  
 रामेति सकृदेवोक्त्वा व्याहर्तुं न शशाक सः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +355,15 @@ speak any more, his organs of voice being choked by tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्ज्ञां तु प्रतिलभ्यैव मुहूर्तात् स महीपतिः ।  
 नेत्राभ्यामश्रुपूर्णाभ्यां सुमन्त्रमिदमब्रवीत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +403,15 @@ spoke these words to Sumantra:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औपवाह्यं रथं युक्त्वा त्वमायाहि हयोत्तमैः ।  
 प्रापयैनं महाभागमितो जनपदात् परम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +452,15 @@ highly distinguished prince beyond this territory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मन्ये गुणवतां गुणानां फलमुच्यते ।  
 पित्रा मात्रा च यत्साधुर्वीरो निर्वास्यते वनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,12 +504,15 @@ think such is said to be the reward of virtues of the virtueous."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञो वचनमाज्ञाय सुमन्त्रः शीघ्रविक्रमः ।  
 योजयित्वा ययौ तत्र रथमश्वैरलङ्कृतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +553,15 @@ with horses, a chariot duly decorated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रथं राजपुत्राय सूतः कनकभूषितम् ।  
 आचचक्षेऽञ्जलिं कृत्वा युक्तं परमवाजिभिः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +601,15 @@ gold, fitted wih superb horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा सत्वरमाहूय व्यापृतं वित्तसञ्चये ।  
 उवाच देशकालज्ञो निश्चितं सर्वतः शुचिः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +651,15 @@ all means, quickly called an officer placed in charge of the treasury and spoke 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासांसि च वरार्हाणि भूषणानि महान्ति च ।  
 वर्षाण्येतानि सङ्ख्याय वैदेह्याः क्षिप्रमानय ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +700,15 @@ taking into consideration all these years (that Seetha has to spend in exile)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नरेन्द्रेणैवमुक्तस्तु गत्वा कोशगृहं ततः ।  
 प्रायच्छत् सर्वमाहृत्य सीतायै क्षिप्रमेव तत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +748,15 @@ a lot and gave to Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सुजाता सुजातानि वैदेही प्रस्थिता वनम् ।  
 भूषयामास गात्राणि तैर्विचित्रैर्विभूषणैः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +796,15 @@ limbs with those wonderful jewels.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यराजयत वैदेही वेश्म तत् सुविभूषिता ।  
 उद्यतोऽंशुमतः काले खं प्रभेव विवस्वतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +844,15 @@ morning is illuminated by a rising sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां भुजाभ्यां परिष्वज्य श्वश्रूर्वचनमब्रवीत् ।  
 अनाचरन्तीं कृपणं मूर्ध्न्युपाघ्राय मैथिलीम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,12 +893,15 @@ smelling her head(as a token of affection), her mother-in-law(Kausalya) spoke as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असत्यः सर्वलोकेऽस्मिन् सततं सत्कृताः प्रियैः ।  
 भर्तारं नानुमन्यन्ते विनिपातगतं स्त्रियः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,12 +942,15 @@ their husband who has come to pass into evil days, throughout this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष स्वभावो नारीणामनुभूय पुरा सुखम् ।  
 अल्पामप्यापदं प्राप्य दुष्यन्ति प्रजहत्यपि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -920,12 +985,15 @@ husband, on obtaining even the least misfortune: such is the nature of (bad) wom
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असत्यशीला विकृता दुर्गा अहृदयाः सदा ।  
 असत्यः पापसङ्कल्पाः क्षणमात्रविरागिणः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -966,12 +1034,15 @@ by passion and their essence, incomprehensible. They get aversion within a momen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कुलं न कृतं विद्या न दत्तं नापि सङ्ग्रहः ।  
 स्त्रीणां गृह्णाति हृदयमनित्यहृदया हि ताः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1080,15 @@ entertainment can capture the heart of women. They are unstbale of their heart i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्वीनां तु स्थितानां तु शीले सत्ये श्रुते स्थिते ।  
 स्त्रीणां पवित्रं परमं पतिरेको विशिष्यते ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1128,15 @@ mental quietness, their husband alone is the most sacred entity, the best of all
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वया नावमन्तव्यः पुत्रः प्रव्राजितो वनम् ।  
 तव देवसमस्त्वेष निर्धनः सधनोऽपि वा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,12 +1176,15 @@ invested with riches or without riches, let him be a deity to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञाय वचनं सीता तस्या धर्मार्थसंहितम् ।  
 कृत्वाञ्जलिमुवाचेदं श्वश्रूमभिमुखे स्थिता ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1148,12 +1228,15 @@ Seetha replied to her mother-in-law standing in front of her, as follows:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करिष्ये सर्वमेवाहमार्या यदनुशास्ति माम् ।  
 अभिज्ञास्मि यथा भर्तुर्वर्तितव्यं श्रुतं च मे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1194,12 +1277,15 @@ behave towards my husband. I have also heard about it earlier."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मामसज्जनेनार्या समानयितुमर्हति ।  
 धर्माद् विचलितुं नाहमलं चन्द्रादिव प्रभा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,12 +1325,15 @@ deviate from virtue, even as a moon from the moonlight"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नातन्त्री वाद्यते वीणा नाचक्रो विद्यते रथः ।  
 नापतिः सुखमेधेत या स्यादपि शतात्मजा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1289,12 +1378,15 @@ happily in comfort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मितं ददाति हि पिता मितं भ्राता मितं सुतः ।  
 अमितस्य तु दातारं भर्तारं का न पूजयेत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1335,12 +1427,15 @@ moderation. Which woman, then, would not adore her husband, the bestower of unli
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहमेवङ्गता श्रेष्ठा श्रुतधर्मपरावरा ।  
 आर्ये किमवमन्येयं स्त्रिया भर्ता हि दैवतम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,12 +1480,15 @@ deity to women."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा कौसल्या हृदयङ्गमम् ।  
 शुद्धसत्त्वा मुमोचाश्रु सहसा दुःखहर्षजम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1430,12 +1528,15 @@ started shedding tears born of agony and delight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां प्राञ्जलिरभिप्रेक्ष्य मातृमध्येऽतिसत्कृताम् ।  
 रामः परमधर्मात्मा मातरं वाक्यमब्रवीत् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1475,12 +1576,15 @@ his mother, who is highly respected among all his mothers:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अम्ब मा दुःखिता भूत्वा पश्येस्त्वं पितरं मम ।  
 क्षयोऽपि वनवासस्य क्षिप्रमेव भविष्यति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1523,12 +1627,15 @@ rather soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्तायास्ते गमिष्यन्ति नव वर्षाणि पञ्च च ।  
 समग्रमिह सम्प्राप्तं मां द्रक्ष्यसि सुहृद्‍वृतम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1572,6 +1679,7 @@ arrived here in my entire being, surrounded by my well-wishers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1580,6 +1688,8 @@ arrived here in my entire being, surrounded by my well-wishers."
 ताश्चापि स तथैवार्ता मातॄर्दशरथात्मजः ।  
 धर्मयुक्तमिदं वाक्यं निजगाद कृताञ्जलिः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1647,12 +1757,15 @@ Rama thought once again and gazed at his three hundred and fifty step-mothers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवासात् परुषं किञ्चिदज्ञानादपि यत् कृतम् ।  
 तन्मे समुपजानीत सर्वाश्चामन्त्रयामि वः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1696,12 +1809,15 @@ or due to ignorance on my part. I now take leave of you all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचनं राघवस्यैतद् धर्मयुक्तं समाहितम् ।  
 शुश्रुवुस्ताः स्त्रियः सर्वाः शोकोपहतचेतसः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1744,12 +1860,15 @@ submission of Rama, which was in consonance with righteousness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जज्ञोऽथ तासां सन्नादः क्रौञ्चीनामिव निःस्वनः ।  
 मानवेन्द्रस्य भार्याणामेवं वदति राघवे ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1792,6 +1911,7 @@ from those wives of Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1800,6 +1920,8 @@ from those wives of Dasaratha.
 विलपितपरिदेवनाकुलं  
 व्यसनगतं तदभूत् सुदुःखितम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1855,5 +1977,6 @@ cries and fallen on evil days.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥39॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०७३ सीतारामविवाहः"
 title_english = "073 sItha s marriage with rAma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -20,6 +22,7 @@ Let us go there straight, without any introductions and preliminaries.
 
 73. श्रीराम आदि चारों भाइयोंका विवाह
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ Let us go there straight, without any introductions and preliminaries.
 पुत्रः केकयराजस्य साक्षाद्भरतमातुलः ।  
 दृष्ट्वा पृष्ट्वा च कुशलं राजानमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,6 +83,7 @@ turned up. [1-73-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -86,6 +92,8 @@ turned up. [1-73-1]
 स्वस्रीयं मम राजेन्द्र द्रष्टुकामो महीपतिः ।  
 तदर्थमुपयातोऽहमयोध्यां रघुनन्दन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,6 +144,7 @@ and in whose wellbeing you are interested at my place, they are all hale and hea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,6 +152,8 @@ and in whose wellbeing you are interested at my place, they are all hale and hea
 मिथिलामुपयातांस्तु त्वया सह महीपते ॥ ५ ॥  
 त्वरयाभ्युपयातोऽहं द्रष्टुकामः स्वसुः सुतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,12 +195,15 @@ Shakuni maama* in Maha Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजा दशरथः प्रियातिथिमुपस्थितम् ॥ ६ ॥  
 दृष्ट्वा परमसत्कारैः पूजनार्हमपूजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,6 +245,7 @@ adored Yudhaajit well, with full observances. [1-73-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -238,6 +253,8 @@ adored Yudhaajit well, with full observances. [1-73-6b, 7a]
 प्रभाते पुनरुत्थाय कृत्वा कर्माणि तत्त्ववित् ।  
 ऋषींस्तदा पुरस्कृत्य यज्ञवाटमुपागमत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,6 +301,7 @@ Vedic-ritual hall, thus it is to be assumed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -292,6 +310,8 @@ Vedic-ritual hall, thus it is to be assumed.
 वसिष्ठं पुरतः कृत्वा महर्षीनपरानपि ।  
 वसिष्ठो भगवानेत्य वैदेहमिदमब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,12 +369,15 @@ health wise: *mR^itaa durluptam madhumat suvarNam dhanam jananam ruNam daarayiSu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो राजन् कृतकौतुकमङ्गलैः ।  
 पुत्रैर्नरवरश्रेष्ठो दातारमभिकाङ्क्षते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +412,15 @@ looking forward for the donor... [1-73-10b, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दातृप्रतिग्रहीतृभ्यां सर्वार्थाः सम्भवन्ति हि ।  
 स्वधर्मं प्रतिपद्यस्व कृत्वा वैवाह्यमुत्तमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +460,15 @@ is calculated correctly and celebrated sacredly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः परमोदारो वसिष्ठेन महात्मना ।  
 प्रत्युवाच महातेजा वाक्यं परमधर्मवित् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,6 +502,7 @@ this sentence to that right honourable Vashishta. [1-73-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -481,6 +511,8 @@ this sentence to that right honourable Vashishta. [1-73-13]
 कृतकौतुकसर्वस्वा वेदिमूलमुपागताः ।  
 मम कन्या मुनिश्रेष्ठ दीप्ता बह्नेरिवार्चिषः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -553,12 +585,15 @@ and ripostes, both the parties come close with each other's family habits or wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सद्योऽहं त्वत्प्रतीक्षोऽस्मि वेद्यामस्यां प्रतिष्ठितः ।  
 अविघ्नं क्रियतां सर्वं किमर्थं हि विलम्ब्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +640,15 @@ the bride's party on tenterhooks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वाक्यं जनकेनोक्तं श्रुत्वा दशरथस्तदा ।  
 प्रवेशयामास सुतान् सर्वानृषिगणानपि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,6 +681,7 @@ one by one, four in all, into marriage hall along with all of the assemblages of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -650,6 +689,8 @@ one by one, four in all, into marriage hall along with all of the assemblages of
 कारयस्व ऋषे सर्वामृषिभिः सह धार्मिक ॥ १८ ॥  
 रामस्य लोकरामस्य क्रियां वैवाहिकीं प्रभो ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,6 +734,7 @@ Thus Janaka spoke to Vashishta. [1-73-18, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -708,6 +750,8 @@ Thus Janaka spoke to Vashishta. [1-73-18, 19a]
 अग्निमाधाय तं वेद्यां विधिमन्त्रपुरस्कृतम् ।  
 जुहावाग्नौ महातेजा वसिष्ठो मुनिपुङ्गवः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,6 +877,7 @@ part. Here the sprouted sprigs are the sprouting avengers on the evil, called Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -843,6 +888,8 @@ part. Here the sprouted sprigs are the sprouting avengers on the evil, called Ra
 प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना ।  
 पतिव्रता महाभागा छायेवानुगता सदा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,12 +1019,15 @@ and you have to keep faith with her, since she outshines in outperforming your t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा प्राक्षिपद् राजा मन्त्रपूतं जलं तदा ।  
 साधुसाध्विति देवानामृषीणां वदतां तदा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,6 +1077,7 @@ some more flower-showers and drumbeats and dances, later.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1036,6 +1087,8 @@ some more flower-showers and drumbeats and dances, later.
 लक्ष्मणागच्छ भद्रं ते ऊर्मिलामुद्यतां मया ॥ ३० ॥  
 प्रतीच्छ पाणिं गृह्णीष्व मा भूत् कालस्य पर्ययः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1148,15 @@ with exhilaration for the successful performance of his bit as a father and he s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा जनको भरतं चाभ्यभाषत ॥ ३१ ॥  
 गृहाण पाणिं माण्डव्याः पाणिना रघुनन्दन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1133,6 +1189,7 @@ palm into your palm... [1-73-31b-32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1141,6 +1198,8 @@ palm into your palm... [1-73-31b-32a]
 सर्वे भवन्तः सौम्याश्च सर्वे सुचरितव्रताः ॥ ३३ ॥  
 पत्नीभिः सन्तु काकुत्स्था मा भूत् कालस्य पर्ययः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,6 +1256,7 @@ That honourable king of Mithila even said to Shatrughna, "oh, dextrous Shatrughn
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1206,6 +1266,8 @@ That honourable king of Mithila even said to Shatrughna, "oh, dextrous Shatrughn
 ऋषींश्चापि महात्मानः सहभार्या रघूद्वहाः ।  
 यथोक्तेन ततश्चक्रुर्विवाहं विधिपूर्वकम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1282,6 +1344,7 @@ The word 'palminpalmed' may look oddish, but it is in fashion with the verb 'arm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1290,6 +1353,8 @@ The word 'palminpalmed' may look oddish, but it is in fashion with the verb 'arm
 ननृतुश्चाप्सरःसङ्घा गन्धर्वाश्च जगुः कलम् ।  
 विवाहे रघुमुख्यानां तदद्भुतमदृश्यत ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1329,12 +1394,15 @@ and because it is the marriage of celebrated bridegrooms from Raghu's dynasty, s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशे वर्तमाने तु तूर्योद‍्घुष्टनिनादिते ।  
 त्रिरग्निं ते परिक्रम्य ऊहुर्भार्या महौजसः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1371,12 +1439,15 @@ married their wives on circumabulating the Ritual-fire fire thrice. [1-73-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोपकार्यं जग्मुस्ते सभार्या रघुनन्दनाः ।  
 राजाप्यनुययौ पश्यन् सर्षिसङ्घः सबान्धवः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1427,5 +1498,6 @@ the assemblages of sages, kinfolks, queens and wives included, and Dasharatha fe
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तमूरनॆय सर्ग पूर्णवायितु.॥73॥
+</details>
 </details>
 

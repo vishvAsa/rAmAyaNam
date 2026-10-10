@@ -2,6 +2,8 @@
 title = "०२८ वनवासदुःखवर्णनम्"
 title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ seetha not to go to forest
 
 28. श्रीरामका वनवासके कष्टका वर्णन करते हुए सीताको वहाँ चलनेसे मना करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवं ब्रुवतीं सीतां धर्मज्ञां धर्मवत्सलः ।  
 न नेतुं कुरुते बुद्धिं वने दुःखानि चिन्तयन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ fond of righteousness did not form the idea of taking Sita who was speaking as a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सान्त्वयित्वा ततस्तां तु बाष्पदूषितलोचनाम् ।  
 निवर्तनार्थे धर्मात्मा वाक्यमेतदुवाच ह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ virtuous Rama spoke again as follows, for the purpose of waking her turn back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीते महाकुलीनासि धर्मे च निरता सदा ।  
 इहाचरस्व धर्मं त्वं यथा मे मनसः सुखम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ own virtue here, which is agreable to my mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीते यथा त्वां वक्ष्यामि तथा कार्यं त्वयाबले ।  
 वने दोषा हि बहवो वसतस्तान् निबोध मे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ forest. Know them from me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीते विमुच्यतामेषा वनवासकृता मतिः ।  
 बहुदोषं हि कान्तारं वनमित्यभिधीयते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ forest with its wilderness is fraught with many dangers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हितबुद‍्ध्या खलु वचो मयैतदभिधीयते ।  
 सदा सुखं न जानामि दुःखमेव सदा वनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ forest as comfortable. It is always uncomfortable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिनिर्झरसम्भूता गिरिनिर्दरिवासिनाम् ।  
 सिंहानां निनदा दुःखाः श्रोतुं दुःखमतो वनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,12 +362,15 @@ caves are unpleasant to hear. That is why living in a forest in uncomfortable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रीडमानाश्च विस्रब्धा मत्ताः शून्ये तथा मृगाः ।  
 दृष्ट्वा समभिवर्तन्ते सीते दुःखमतो वनम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,12 +411,15 @@ forest; come forward, after seeing. Oh, Sita! That is why living in forest is un
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सग्राहाः सरितश्चैव पङ्कवत्यस्तु दुस्तराः ।  
 मत्तैरपि गजैर्नित्यमतो दुःखतरं वनम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,12 +459,15 @@ elephants also. Hence dwelling in a forest is always very much uncomfortable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लताकण्टकसङ्कीर्णाः कृकवाकूपनादिताः ।  
 निरपाश्च सुदुःखाश्च मार्गा दुःखमतो वनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +507,15 @@ water-less and very difficult to enter. Hence dwelling in a forest is hardship."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्यते पर्णशय्यासु स्वयम्भग्नासु भूतले ।  
 रात्रिषु श्रमखिन्नेन तस्माद् दुःखमतो वनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +555,15 @@ living in a forest is very much a misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रं च सन्तोषः कर्तव्यो नियतात्मना ।  
 फलैर्वृक्षावपतितैः सीते दुःखमतो वनम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,12 +597,15 @@ ourself with fruits fallen from trees. Hence, living in a forest is a suffering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासश्च कर्तव्यो यथा प्राणेन मैथिलि ।  
 जटाभारश्च कर्तव्यो वल्कलाम्बरधारणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +645,15 @@ Clothes of bark are to be worn and mass of matted hair has to be worn on the hea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानां पितॄणां च कर्तव्यं विधिपूर्वकम् ।  
 प्राप्तानामतिथीनां च नित्यशः प्रतिपूजनम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +693,15 @@ according to the preseribed rites."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यस्त्रिरभिषेकश्च काले काले च नित्यशः ।  
 चरतां नियमेनैव तस्माद् दुःखतरं वनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +743,15 @@ misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपहारश्च कर्तव्यः कुसुमैः स्वयमाहृतैः ।  
 आर्षेण विधिना वेद्यां सीते दुःखमतो वनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +793,15 @@ hardship."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथालब्धेन कर्तव्यः सन्तोषस्तेन मैथिलि ।  
 यताहारैर्वनचरैः सीते दुःखमतो वनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +842,15 @@ whatever is obtained there, the restricted food. Hence, living in forest is a mi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतीव वातस्तिमिरं बुभुक्षा चाति नित्यशः ।  
 भयानि च महान्त्यत्र ततो दुःखतरं वनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,12 +893,15 @@ fears too. Hence, dwelling in a forest is very much a misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सरीसृपाश्च बहवो बहुरूपाश्च भामिनि ।  
 चरन्ति पथि ते दर्पात् ततो दुःखतरं वनम् ॥१९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,12 +941,15 @@ pride. Hence dwelling in a forst is a great misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नदीनिलयनाः सर्पा नदीकुटिलगामिनः ।  
 तिष्ठन्त्यावृत्य पन्थानमतो दुःखतरं वनम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +989,15 @@ pathways. Hence, living in forest is a great misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतङ्गा वृश्चिकाः कीटा दंशाश्च मशकैः सह ।  
 बाधन्ते नित्यमबले सर्वं दुःखमतो वनम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -973,12 +1038,15 @@ files always annoy every one. Hence, forest is full of hardship."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रुमाः कण्टकिनश्चैव कुशाः काशाश्च भामिनि ।  
 वने व्याकुलशाखाग्रास्तेन दुःखमतो वनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,12 +1091,15 @@ branches spread on all sides. Hence, living in a forest is a great misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कायक्लेशाश्च बहवो भयानि विविधानि च ।  
 अरण्यवासे वसतो दुःखमेव सदा वनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ Hence, forest- life is readly a misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधलोभौ विमोक्तव्यौ कर्तव्या तपसे मतिः ।  
 न भेतव्यं च भेतव्ये दुःखं नित्यमतो वनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,12 +1189,15 @@ a suffereing."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं ते वनं गत्वा क्षेमं नहि वनं तव ।  
 विमृशन्निव पश्यामि बहुदोषकरं वनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1164,6 +1241,7 @@ bearable for you. Reflecting now, I perceive forest as having too many disadvant
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1172,6 +1250,8 @@ bearable for you. Reflecting now, I perceive forest as having too many disadvant
 न तस्य सीता वचनं चकार तं  
 ततोऽब्रवीद् राममिदं सुदुःखिता ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,5 +1307,6 @@ Sita spoke to Rama as follows:-
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तॆण्टनॆय सर्ग पूर्णवायितु ॥28॥
+</details>
 </details>
 

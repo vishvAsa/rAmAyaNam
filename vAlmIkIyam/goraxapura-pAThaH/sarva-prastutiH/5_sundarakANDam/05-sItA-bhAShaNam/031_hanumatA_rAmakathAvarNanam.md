@@ -2,6 +2,8 @@
 title = "०३१ हनुमता रामकथावर्णनम्"
 title_english = "031 Hanuma began to narrate story of to Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -21,6 +23,7 @@ Hanuman, Seetha was overjoyed and finds Hanuma perched on Simshapa tree.
 
 31. हनुमान् जी का सीताको सुनानेके लिये श्रीराम-कथाका वर्णन करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ Hanuman, Seetha was overjoyed and finds Hanuma perched on Simshapa tree.
 संश्रवे मधुरं वाक्यं  
 वैदेह्या **व्याजहार** ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ range of Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो नाम रथकुञ्जरवाजिमान् ।  
 पुण्यशीलो महाकीर्तिरिक्ष्वाकूणां महायशाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ had a virtuous disposition. He owned chariots, elephants and horses, becoming ve
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजर्षीणां गुणश्रेष्ठस्तपसा चर्षिभिः समः ।  
 चक्रवर्तिकुले जातः पुरन्दरसमो बले ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,6 +170,7 @@ was born in the lineage of emperors and was equivalent to Indra in prowess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,6 +179,8 @@ was born in the lineage of emperors and was equivalent to Indra in prowess."
 पार्थिवव्यञ्जनैर्युक्तः पृथुश्रीः पार्थिवर्षभः ।  
 पृथिव्यां चतुरन्तायां विश्रुतः सुखदः सुखी ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +254,15 @@ was an eminent king in Ikshvaku race. He was endowed with prosperity and was cau
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पुत्रः प्रियो ज्येष्ठस्ताराधिपनिभाननः ।  
 रामो नाम विशेषज्ञः श्रेष्ठः सर्वधनुष्मताम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +303,15 @@ He, knows the distinctions among humans and others. He was excellent among all t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिता स्वस्य वृत्तस्य स्वजनस्यापि रक्षिता ।  
 रक्षिता जीवलोकस्य धर्मस्य च परन्तपः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +352,15 @@ own people, a protector of every living being and a protector of righteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सत्याभिसन्धस्य वृद्धस्य वचनात् पितुः ।  
 सभार्यः सह च भ्रात्रा वीरः प्रव्रजितो वनम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,12 +404,15 @@ went on exile to a forest along with his wife and brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन तत्र महारण्ये मृगयां परिधावता ।  
 राक्षसा निहताः शूरा बहवः कामरूपिणः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +452,15 @@ any form at will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनस्थानवधं श्रुत्वा निहतौ खरदूषणौ ।  
 ततस्त्वमर्षापहृता जानकी रावणेन तु ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,6 +482,7 @@ _________________
 
 ‘उनके द्वारा जनस्थानके विध्वंस और खर-दूषणके वधका समाचार सुनकर रावणने अमर्षवश जनकनन्दिनी सीताका अपहरण कर लिया ॥ १० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -460,6 +490,8 @@ _________________
 स मार्गमाणस्तां देवीं रामः सीतामनिन्दिताम् ॥ ११ ॥  
 आससाद वने मित्रं सुग्रीवं नाम वानरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +528,15 @@ in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स वालिनं हत्वा रामः परपुरञ्जयः ॥ १२ ॥  
 आयच्छत् कपिराज्यं तु सुग्रीवाय महात्मने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ that kingdom of monkeys to Sugreeva."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेणाभिसन्दिष्टा हरयः कामरूपिणः ॥ १३ ॥  
 दिक्षु सर्वासु तां देवीं विचिन्वन्तः सहस्रशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +646,15 @@ an illusive image of deer in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं सम्पातिवचनाच्छतयोजनमायतम् ॥ १४ ॥  
 तस्या हेतोर्विशालाक्ष्याः समुद्रं वेगवान् प्लुतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,6 +697,7 @@ for the sake of this broad eyed Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -666,6 +708,8 @@ for the sake of this broad eyed Seetha."
 विररामैवमुक्त्वा स  
 वाचं वानरपुङ्गवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,6 +773,7 @@ as I had heard from Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -739,6 +784,8 @@ as I had heard from Rama."
 **उन्नम्य** वदनं भीरुः  
 शिंशपाम् अन्ववैक्षत ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,6 +831,7 @@ curved and who was of a fearful nature, lifted her face and looked towards Shims
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -792,6 +840,8 @@ curved and who was of a fearful nature, lifted her face and looked towards Shims
 स्वयं प्रहर्षं परमं जगाम  
 सर्वात्मना राममनुस्मरन्ती ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,6 +878,7 @@ in all ways and obtained a great joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -836,6 +887,8 @@ in all ways and obtained a great joy.
 ददर्श पिङ्गाधिपतेरमात्यं  
 वातात्मजं सूर्यमिवोदयस्थम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,5 +949,6 @@ intelligence, the minister of Sugreeva and looking like the sun behind an easter
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तॊन्दनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

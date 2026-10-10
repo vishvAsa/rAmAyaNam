@@ -1,6 +1,8 @@
 +++
 title = "१०३ रावणेन युद्धभूमिनिर्वर्तनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ battle-front.
 
 103. श्रीरामका रावणको फटकारना और उनके द्वारा घायल किये गये रावणको सारथिका रणभूमिसे बाहर ले जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन तदा क्रोधात् काकुत्स्थेनार्दितो भृशम् ।  
 रावणः समरश्लाघी महाक्रोधमुपागमत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ fight, flew into a great rage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दीप्तनयनोऽमर्षाच्चापमुद्यम्य वीर्यवान् ।  
 अभ्यर्दयत् सुसङ्क्रुद्धो राघवं परमाहवे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +99,15 @@ fight, flew into a great rage.
 
 अवन कण्णुगळु बॆङ्कियन्तॆ उरिदॆद्दवु. आ पराक्रमि वीरनु असहनॆयिन्द धनुस्सन्नॆत्ति, अत्यन्त कुपितनागि आ महासङ्ग्रामदल्लि श्रीरामनन्नु नोयिसतॊडगिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणधारासहस्रैस्तैः स तोयद इवाम्बरात् ।  
 राघवं रावणो बाणैस्तटाकमिव पूरयन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,12 +147,15 @@ torrents from the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूरितः शरजालेन धनुर्मुक्तेन संयुगे ।  
 महागिरिरिवाकम्प्यः काकुत्स्थो न प्रकम्पते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +195,15 @@ not wince, like a large mountain which was unshakable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरैः शरजालानि वारयन् समरे स्थितः ।  
 गभस्तीनिव सूर्यस्य प्रतिजग्राह वीर्यवान् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -224,12 +241,15 @@ the battle-field and endured them as rays of the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरसहस्राणि क्षिप्रहस्तो निशाचरः ।  
 निजघानोरसि क्रुद्धो राघवस्य महात्मनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +283,15 @@ of the great-souled Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शोणितसमादिग्धः समरे लक्ष्मणाग्रजः ।  
 दृष्टः फुल्ल इवारण्ये सुमहान् किंशुकद्रुमः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +325,15 @@ with bloom in a forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शराभिघातसंरब्धः सोऽभिजग्राह सायकान् ।  
 काकुत्स्थः सुमहातेजा युगान्तादित्यवर्चसः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +376,15 @@ of arrows which shone like the sun at the time of dissolution of the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्योन्यं सुसंरब्धौ तावुभौ रामरावणौ ।  
 शरान्धकारे समरे नोपलक्षयतां तदा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +424,15 @@ was shrouded in darkness by the arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधसमाविष्टो रामो दशरथात्मजः ।  
 उवाच रावणं वीरः प्रहस्य परुषं वचः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +469,15 @@ Dasaratha spoke the following harsh words to Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम भार्या जनस्थानादज्ञानाद् राक्षसाधम ।  
 हृता ते विवशा यस्मात् तस्मात् त्वं नासि वीर्यवान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +512,15 @@ Janasthana, hence you are not a person of prowess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया विरहितां दीनां वर्तमानां महावने ।  
 वैदेहीं प्रसभं हृत्वा शूरोऽहमिति मन्यसे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -522,12 +560,15 @@ away from me, you think: �I am a champion'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीषु शूर विनाथासु परदाराभिमर्शनम् ।  
 कृत्वा कापुरुषं कर्म शूरोऽहमिति मन्यसे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +609,15 @@ posing as a hero in relation to women without a protector, you think: "I am a ch
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिन्नमर्याद निर्लज्ज चारित्रेष्वनवस्थित ।  
 दर्पान्मृत्युमुपादाय शूरोऽहमिति मन्यसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +659,15 @@ champion'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूरेण धनदभ्रात्रा बलैः समुदितेन च ।  
 श्लाघनीयं महत्कर्म यशस्यं च कृतं त्वया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,12 +707,15 @@ brother of Kubera, the god of wealth, rich in strength!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सेकेनाभिपन्नस्य गर्हितस्याहितस्य च ।  
 कर्मणः प्राप्नुहीदानीं तस्याद्य सुमहत् फलम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,12 +749,15 @@ perpetrated through sheer vanity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूरोऽहमिति चात्मानमवगच्छसि दुर्मते ।  
 नैव लज्जास्ति ते सीतां चौरवद् व्यपकर्षतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +795,15 @@ your way at all, for having taken away Seetha like a thief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मत्सन्निधौ सीता धर्षिता स्यात् त्वया बलात् ।  
 भ्रातरं तु खरं पश्येस्तदा मत्सायकैर्हतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +840,15 @@ your brother Khara at that very moment when killed with my arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्यासि मम मन्दात्मंश्चक्षुर्विषयमागतः ।  
 अद्य त्वां सायकैस्तीक्ष्णैर्नयामि यमसादनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,12 +888,15 @@ dispatch you to the world of Death, by my sharp arrows, today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य ते मच्छरैश्छिन्नं शिरो ज्वलितकुण्डलम् ।  
 क्रव्यादा व्यपकर्षन्तु विकीर्णं रणपांसुषु ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +931,15 @@ carried away by beasts of prey, after being chopped off by my arrows today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपत्योरसि गृध्रास्ते क्षितौ क्षिप्तस्य रावण ।  
 पिबन्तु रुधिरं तर्षाद् बाणशल्यान्तरोत्थितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,12 +981,15 @@ arrow-tips."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मद‍्बाणभिन्नस्य गतासोः पतितस्य ते ।  
 कर्षन् त्वन्त्राणि पतगा गरुत्मन्त इवोरगान् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,12 +1029,15 @@ serpents when you fall down dead when pierced by my arrows today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं स वदन् वीरो रामः शत्रुनिबर्हणः ।  
 राक्षसेन्द्रं समीपस्थं शरवर्षैरवाकिरत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,12 +1071,15 @@ arrows on Ravana, who was in the vicinity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव द्विगुणं वीर्यं बलं हर्षश्च संयुगे ।  
 रामस्यास्त्रबलं चैव शत्रोर्निधनकाङ्क्षिणः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1113,15 @@ two-fold, when he longed for the death of his enemy in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रादुर्बभूवुरस्त्राणि सर्वाणि विदितात्मनः ।  
 प्रहर्षाच्च महातेजाः शीघ्रहस्ततरोऽभवत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1085,12 +1162,15 @@ in his excessive enthusiasm, Rama of extra-ordinary energy became all the more s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुभान्येतानि चिह्नानि विज्ञायात्मगतानि सः ।  
 भूय एवार्दयद् रामो रावणं राक्षसान्तकृत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,12 +1204,15 @@ more vehemently.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरीणां चाश्मनिकरैः शरवर्षैश्च राघवात् ।  
 हन्यमानो दशग्रीवो विघूर्णहृदयोऽभवत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1169,6 +1252,7 @@ arrows coming from Rama, Ravana felt bewildered at heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1179,6 +1263,8 @@ arrows coming from Rama, Ravana felt bewildered at heart.
 सूतस्तु रथनेतास्य तदवस्थं निरीक्ष्य तम् ।  
 शनैर्युद्धादसम्भ्रान्तो रथं तस्यापवाहयत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,6 +1356,7 @@ prowess - on account of his mind being confused.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1278,6 +1365,8 @@ prowess - on account of his mind being confused.
 जगाम भीत्या समरान्महीपतिं  
 निरस्तवीर्यं पतितं समीक्ष्य ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1335,5 +1424,6 @@ from the battle-field in dismay.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरमूरनॆय सर्ग पूर्णवायितु.॥103॥
+</details>
 </details>
 

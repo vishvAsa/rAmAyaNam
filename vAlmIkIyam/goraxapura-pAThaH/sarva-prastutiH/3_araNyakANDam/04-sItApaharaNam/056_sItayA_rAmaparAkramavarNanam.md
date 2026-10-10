@@ -2,6 +2,8 @@
 title = "०५६ सीतया रामपराक्रमवर्णनम्"
 title_english = "056 Seetha reprimands Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ about Seetha's stance and stability is given in the endnote of this chapter.
 
 56. सीताका श्रीरामके प्रति अपना अनन्य अनुराग दिखाकर रावणको फटकारना तथा रावणकी आज्ञासे राक्षसियोंका उन्हें अशोकवाटिकामें ले जाकर डराना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तथोक्ता तु वैदेही निर्भया शोककर्शिता ।  
 तृणमन्तरतः कृत्वा रावणं प्रत्यभाषत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,6 +99,7 @@ curse of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -102,6 +108,8 @@ curse of Ravana.
 रामो नाम स धर्मात्मा त्रिषु लोकेषु विश्रुतः ।  
 दीर्घबाहुर्विशालाक्षो दैवतं स पतिर्मम ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,12 +136,15 @@ curse of Ravana.
 
 दशरथ महाराजरु धर्मद अचल सेतुविनन्तॆ इद्दरु. अवरु तन्न सत्यप्रतिज्ञॆगागि ऎल्लॆडॆ विख्यातरागिद्दरु. अवर पुत्र रघुकुल भूषण श्रीरामचन्द्रनू तन्न धर्म परायणतॆगागि मूरु लोकगळल्लि प्रसिद्धवागिद्दानॆ. अवनु दीर्घबाहुवागिद्दानॆ, नेत्रगळु विशालवागिदॆ. अवरे नन्न पति मत्तु आराध्य देवरागिद्दारॆ.॥2-3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां कुले जातः सिंहस्कन्धो महाद्युतिः ।  
 लक्ष्मणेन सह भ्रात्रा यस्ते प्राणान् वधिष्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +210,15 @@ with next verse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षं यद्यहं तस्य त्वया वै धर्षिता बलात् ।  
 शयिता त्वं हतः सङ्ख्ये जनस्थाने यथा खरः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +260,15 @@ him. However, such Rama is my husband. [3-56-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य एते राक्षसाः प्रोक्ता घोररूपा महाबलाः ।  
 राघवे निर्विषाः सर्वे सुपर्णे पन्नगा यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +312,15 @@ you and your forces will be rendered ineffectual the minute you confront my husb
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ज्याविप्रमुक्तास्ते शराः काञ्चनभूषणाः ।  
 शरीरं विधमिष्यन्ति गङ्गाकूलमिवोर्मयः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +366,15 @@ he solitarily depends upon his self-confidence and a pair of skilful arms
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असुरैर्वा सुरैर्वा त्वं यद्यवध्योऽसि रावण ।  
 उत्पाद्य सुमहद् वैरं जीवंस्तस्य न मोक्ष्यसे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,12 +421,15 @@ for your self-ruination...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ते जीवितशेषस्य राघवोऽन्तकरो बली ।  
 पशोर्यूपगतस्येव जीवितं तव दुर्लभम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +485,15 @@ and you be ready awaiting for your slaughter in that *raama yaj~na*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि पश्येत् स रामस्त्वां रोषदीप्तेन चक्षुषा ।  
 रक्षस्त्वमद्य निर्दग्धो यथा रुद्रेण मन्मथः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +544,15 @@ of Rama for your lustfulness...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश्चन्द्रं नभसो भूमौ पातयेन्नाशयेत वा ।  
 सागरं शोषयेद् वापि स सीतां मोचयेदिह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,12 +598,15 @@ of any size in its entirety... thus he just walk on its sands in commissioning h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतासुस्त्वं गतश्रीको गतसत्त्वो गतेन्द्रियः ।  
 लङ्का वैधव्यसंयुक्ता त्वत्कृतेन भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +656,15 @@ and daresay to me 'you rule over this very great empire of Lanka as empress of L
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते पापमिदं कर्म सुखोदर्कं भविष्यति ।  
 याहं नीता विनाभावं पतिपार्श्वात् त्वया बलात् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,12 +711,15 @@ upon that Rama alone to come here to handover 'a fruit of unhappiness' to you as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि देवरसंयुक्तो मम भर्ता महाद्युतिः ।  
 निर्भयो वीर्यमाश्रित्य शून्ये वसति दण्डके ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,12 +767,15 @@ him to know whether I am winnable or otherwise...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ते वीर्यं बलं दर्पमुत्सेकं च तथाविधम् ।  
 अपनेष्यति गात्रेभ्यः शरवर्षेण संयुगे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,12 +821,15 @@ and scrupulous combatant, evanished are your bodily vanities...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा विनाशो भूतानां दृश्यते कालचोदितः ।  
 तदा कार्ये प्रमाद्यन्ति नराः कालवशं गताः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +870,15 @@ your behaviour in endangerment, by this quirkish act of abducting me...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां प्रधृष्य स ते कालः प्राप्तोऽयं राक्षसाधम ।  
 आत्मनो राक्षसानां च वधायान्तःपुरस्य च ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,12 +930,15 @@ Where is the question of my becoming an empress of dead souls?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्या यज्ञमध्यस्था वेदिः स्रुग्भाण्डमण्डिता ।  
 द्विजातिमन्त्रसम्पूता चण्डालेनावमर्दितुम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -955,12 +1008,15 @@ himself as a self-cremator.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथाहं धर्मनित्यस्य धर्मपत्नी दृढव्रता ।  
 त्वया स्प्रष्टुं न शक्याहं राक्षसाधम पापिना ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,12 +1058,15 @@ such as I am, you basely demon, it is impossible for you trespasser to touch me 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रीडन्ती राजहंसेन पद्मषण्डेषु नित्यशः ।  
 हंसी सा तृणमध्यस्थं कथं द्रक्ष्येत मद्गुकम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,12 +1109,15 @@ in a bunch of grass? [3-56-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं शरीरं निःसञ्ज्ञं बन्ध वा घातयस्व वा ।  
 नेदं शरीरं रक्ष्यं मे जीवितं वापि राक्षस ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,6 +1177,7 @@ gariiyaH - dk*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1122,6 +1185,8 @@ gariiyaH - dk*
 एवमुक्त्वा तु वैदेही क्रोधात् सुपरुषं वचः ॥ २२ ॥  
 रावणं जानकी तत्र पुनर्नोवाच किञ्चन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,12 +1205,15 @@ gariiyaH - dk*
 
 ‘मैं इस भूतलपर अपने लिये निन्दा या कलङ्क देनेवाला कोई कार्य नहीं कर सकती ।’ रावणसे क्रोधपूर्वक यह अत्यन्त कठोर वचन कहकर विदेहकुमारी जानकी चुप हो गयीं; वे वहाँ फिर कुछ नहीं बोलीं ॥ २२ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा परुषं रोमहर्षणम् ॥ २३ ॥  
 प्रत्युवाच ततः सीतां भयसन्दर्शनं वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,6 +1338,7 @@ of auto-propelling Pushpaka aircraft, rather than on your own steersman's capabi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1277,6 +1346,8 @@ of auto-propelling Pushpaka aircraft, rather than on your own steersman's capabi
 कालेनानेन नाभ्येषि यदि मां चारुहासिनि ।  
 ततस्त्वां प्रातराशार्थं सूदाश्छेत्स्यन्ति लेशशः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1347,12 +1418,15 @@ conquering king after twelve months, *raja niita - shaanti parva - Maha Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा परुषं वाक्यं रावणः शत्रुरावणः ।  
 राक्षसीश्च ततः क्रुद्ध इदं वचनमब्रवीत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,12 +1465,15 @@ said this sentence to the guarding demonesses. [3-56-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीघ्रमेव हि राक्षस्यो विरूपा घोरदर्शनाः ।  
 दर्पमस्यापनेष्यन्तु मांसशोणितभोजनाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1447,12 +1524,15 @@ as servitors in her audience... for she is my Goddess Lakshmi...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचनादेव तास्तस्य सुघोरा घोरदर्शनाः ।  
 कृतप्राञ्जलयो भूत्वा मैथिलीं पर्यवारयन् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1492,12 +1572,15 @@ palm-fold to him and encircled Maithili. [3-56-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ताः प्रोवाच राजासौ रावणो घोरदर्शनाः ।  
 प्रचल्य चरणोत्कर्षैर्दारयन्निव मेदिनीम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,12 +1620,15 @@ those demonesses with ghastly look. [3-56-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोकवनिकामध्ये मैथिली नीयतामिति ।  
 तत्रेयं रक्ष्यतां गूढं युष्माभिः परिवारिता ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,12 +1671,15 @@ her stealthily. [3-56-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रैनां तर्जनैर्घोरैः पुनः सान्त्वैश्च मैथिलीम् ।  
 आनयध्वं वशं सर्वा वन्यां गजवधूमिव ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1644,12 +1733,15 @@ that you and your families are effaced... for I cherish Maithili to live...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिष्टा राक्षस्यो रावणेन ताः ।  
 अशोकवनिकां जग्मुर्मैथिलीं परिगृह्य तु ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1669,12 +1761,15 @@ _________________
 
 रावणनु ई प्रकार आदेशिसिदाग आ राक्षसियरु मैथिलियन्नु करॆदुकॊण्डु अशोकवनक्कॆ होदरु.॥32॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वकामफलैर्वृक्षैर्नानापुष्पफलैर्वृताम् ।  
 सर्वकालमदैश्चापि द्विजैः समुपसेविताम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1715,12 +1810,15 @@ flowered and fruited. Further, those gardens are highly adored by all-time lusty
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु शोकपरीताङ्गी मैथिली जनकात्मजा ।  
 राक्षसीवशमापन्ना व्याघ्रीणां हरिणी यथा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1760,12 +1858,15 @@ the control of demonesses, she is as good as a she-deer under the coverall of ti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकेन महता ग्रस्ता मैथिली जनकात्मजा ।  
 न शर्म लभते भीरुः पाशबद्धा मृगी यथा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1799,6 +1900,7 @@ now as with a she-deer bound by tether - where timorousness is common to both. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1807,6 +1909,8 @@ now as with a she-deer bound by tether - where timorousness is common to both. [
 पतिं स्मरन्ती दयितं च देवरं  
 विचेतनाभूद् भयशोकपीडिता ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1863,5 +1967,6 @@ anguish, and then she swooned. [3-56-36]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तारनॆय सर्ग सम्पूर्णवायितु.॥56॥
+</details>
 </details>
 

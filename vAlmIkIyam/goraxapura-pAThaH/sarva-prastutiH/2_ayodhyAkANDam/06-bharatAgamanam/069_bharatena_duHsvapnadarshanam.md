@@ -2,6 +2,8 @@
 title = "०६९ भरतेन दुःस्वप्नदर्शनम्"
 title_english = "069 Bharata experiences a bad dream"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ his friends.
 
 69. भरतकी चिन्ता, मित्रोंद्वारा उन्हें प्रसन्न करनेका प्रयास तथा उनके पूछनेपर भरतका मित्रोंके समक्ष अपने देखे हुए भयंकर दुःस्वप्नका वर्णन करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यामेव रात्रिं ते दूताः प्रविशन्ति स्म तां पुरीम् ।  
 भरतेनापि तां रात्रिं स्वप्नो दृष्टोऽयमप्रियः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ an unpleasant dream.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्युष्टामेव तु तां रात्रिं दृष्ट्वा तं स्वप्नमप्रियम् ।  
 पुत्रो राजाधिराजस्य सुभृशं पर्यतप्यत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ dream just at the dawn of that night, felt very much anguished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्यमानं तमाज्ञाय वयस्याः प्रियवादिनः ।  
 आयासं विनयिष्यन्तः सभायां चक्रिरे कथाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ recitation of stories in the palace; so as to erase his anguish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वादयन्ति तदा शान्तिं लासयन्त्यपि चापरे ।  
 नाटकान्यपरे स्माहुर्हास्यानि विविधानि च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ others arranged for exhibition of dramas and some others told various types of j
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैर्महात्मा भरतः सखिभिः प्रियवादिभिः ।  
 गोष्ठीहास्यानि कुर्वद्भिर्न प्राहृष्यत राघवः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ gently speaking friends by stage-plays or jokes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रवीत् प्रियसखो भरतं सखिभिर्वृतम् ।  
 सुहृद्भिः पर्युपासीनः किं सखे नानुमोदसे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,6 +322,7 @@ A close friend spoke to Bharata, who was surrounded by his companions, as follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -310,6 +331,8 @@ A close friend spoke to Bharata, who was surrounded by his companions, as follow
 स्वप्ने पितरमद्राक्षं मलिनं मुक्तमूर्धजम् ।  
 पतन्तमद्रिशिखरात् कलुषे गोमये ह्रदे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,12 +395,15 @@ reason for which this depression came to me"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लवमानश्च मे दृष्टः स तस्मिन् गोमये ह्रदे ।  
 पिबन्नञ्जलिना तैलं हसन्निव मुहुर्मुहुः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,12 +444,15 @@ an oil through his hollowed palms and laughing again and again"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तिलोदनं भुक्त्वा पुनः पुनरधःशिराः ।  
 तैलेनाभ्यक्तसर्वाङ्गस्तैलमेवान्वगाहत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +496,15 @@ head bent down and with his whole body smeared with oil, he plunged into the oil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वप्नेऽपि सागरं शुष्कं चन्द्रं च पतितं भुवि ।  
 उपरुद्धां च जगतीं तमसेव समावृताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ _________________
 
 स्वप्नदल्ले नानु समुद्रवु ऒणगिदन्तॆ, चन्द्रनु नॆलक्कॆ बिद्दिरुवन्तॆ, पृथिवियॆल्ल उपद्रवग्रस्तवागि अन्धकार आवरिसिदन्तॆ नोडिदॆनु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औपवाह्यस्य नागस्य विषाणं शकलीकृतम् ।  
 सहसा चापि संशान्ता ज्वलिता जातवेदसः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,12 +549,15 @@ _________________
 
 महाराजर सवारिय आनॆय दन्तगळु मुरिदु होगिद्दन्तॆ, मॊदलिनिन्द उरियुत्तिरुव अग्नियु ऒम्मॆगॆ आरि होदन्तॆ कण्डॆनु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवदीर्णां च पृथिवीं शुष्कांश्च विविधान् द्रुमान् ।  
 अहं पश्यामि विध्वस्तान् सधूमांश्चैव पर्वतान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +602,15 @@ mountains whirl up into a mist."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पीठे कार्ष्णायसे चैव निषष्ण्णं कृष्णवाससम् ।  
 प्रहरन्ति स्म राजानं प्रमदाः कृष्णपिङ्गलाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +653,15 @@ iron and women with black and reddish brown complexion deriding the king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वरमाणश्च धर्मात्मा रक्तमाल्यानुलेपनः ।  
 रथेन खरयुक्तेन प्रयातो दक्षिणामुखः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +701,15 @@ sandal paste and seated in a chariot drawn by asses, proceeded hurriedly towards
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहसन्तीव राजानं प्रमदा रक्तवासिनी ।  
 प्रकर्षन्ती मया दृष्टा राक्षसी विकृतानना ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +749,15 @@ away the king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतन्मया दृष्टमिमां रात्रिं भयावहाम् ।  
 अहं रामोऽथवा राजा लक्ष्मणो वा मरिष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,6 +800,7 @@ Lakshmana may die."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -758,6 +809,8 @@ Lakshmana may die."
 एतन्निमित्तं दीनोऽहं न वचः प्रतिपूजये ।  
 शुष्यतीव च मे कण्ठो न स्वस्थमिव मे मनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -819,6 +872,7 @@ smoke of a funeral pyre will soon be seen ascending him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -826,6 +880,8 @@ smoke of a funeral pyre will soon be seen ascending him."
 भ्रष्टश्च स्वरयोगो मे छाया चापगता मम ।  
 जुगुप्सु इव चात्मानं न च पश्यामि कारणम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,6 +925,7 @@ voice is choked. My luster is affected. I abhor me myself and I do not see a rea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -877,6 +934,8 @@ voice is choked. My luster is affected. I abhor me myself and I do not see a rea
 भयं महत् तुद् हृदयान्न याति मे  
 विचिन्त्य राजानमचिन्त्यदर्शनम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,5 +997,6 @@ that inconceivable sight of the king."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥69॥
+</details>
 </details>
 

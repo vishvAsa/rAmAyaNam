@@ -2,6 +2,8 @@
 title = "०६१ रामेण कुम्भकर्णबलश्रवणम्"
 title_english = "061 Rama enquires about Kumbhakarna"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Kishkindha Kanda - Book Of War**
@@ -26,12 +28,15 @@ start their fighting operation.
 
 61. विभीषणका श्रीरामसे कुम्भकर्णका परिचय देना और श्रीरामकी आज्ञासे वानरोंका युद्धके लिये लङ्काके द्वारोंपर डट जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजा धनुरादाय वीर्यवान् ।  
 किरीटिनं महाकायं कुम्भकर्णं ददर्श ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +70,7 @@ Kumbhakarna, adorned with a diadem.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ Kumbhakarna, adorned with a diadem.
 सतोयाम्बुदसङ्काशं काञ्चनाङ्गदभूषणम् ।  
 दृष्ट्वा पुनः प्रदुद्राव वानराणां महाचमूः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,12 +139,15 @@ vigilant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्रुतां वाहिनीं दृष्ट्वा वर्धमानं च राक्षसम् ।  
 सविस्मितमिदं रामो विभीषणमुवाच ह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ surprise, spoke to vibhishana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽसौ पर्वतसङ्काशः किरीटी हरिलोचनः ।  
 लङ्कायां दृश्यते वीरः सविद्युदिव तोयदः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +232,15 @@ looking like a cloud with a flash of lightning, is seen in Lanka. Who is he?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्यां केतुभूतोऽसौ महानेकोऽत्र दृश्यते ।  
 यं दृष्ट्वा वानराः सर्वे विद्रवन्ति ततस्ततः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,12 +281,15 @@ by seeing whom all the monkeys are running away hither and thither."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचक्ष्व सुमहान् कोऽसौ रक्षो वा यदि वासुरः ।  
 न मयैवंविधं भूतं दृष्टपूर्वं कदाचन ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ spirit. I have not seen such a creature earlier at any time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पृष्टो राजपुत्रेण रामेणाक्लिष्टकर्मणा ।  
 विभीषणो महाप्राज्ञः+++(=महा-प्रज्ञः)+++ काकुत्स्थमिदमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,6 +372,7 @@ Vibhishana replied to Rama as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -356,6 +380,8 @@ Vibhishana replied to Rama as follows:
 सैष विश्रवसः पुत्रः कुम्भकर्णः प्रतापवान् ।  
 अस्य प्रमाणसदृशो राक्षसोऽन्यो न विद्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,6 +418,7 @@ in battle. Tehre is no other demon, corresponding to the size of his body."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -400,6 +427,8 @@ in battle. Tehre is no other demon, corresponding to the size of his body."
 गन्धर्वविद्याधरकिन्नराश्च  
 सहस्रशो राघव सम्प्रभग्नाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ demons, ogres, Gandharvas teh celestial musicians, Vidyadharas the celestials ar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूलपाणिं विरूपाक्षं कुम्भकर्णं महाबलम् ।  
 हन्तुं न शेकुस्त्रिदशाः कालोऽयमिति मोहिताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ were not able to kill him, having confused to think that he was yama the god of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्या ह्येष तेजस्वी कुम्भकर्णो महाबलः ।  
 अन्येषां राक्षसेन्द्राणां वरदानकृतं बलम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +567,15 @@ other demon-chiefs is attributable to boons (granted on request by gods)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालेन जातमात्रेण क्षुधार्तेन महात्मना ।  
 भक्षितानि सहस्राणि प्रजानां सुबहून्यपि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +615,15 @@ thousands of living creatures."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु सम्भक्ष्यमाणेषु प्रजा भयनिपीडिताः ।  
 यान्त स्म शरणं शक्रं तमप्यर्थं न्यवेदयन् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,6 +660,7 @@ Indra and even reported the matter about him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -627,6 +669,8 @@ Indra and even reported the matter about him."
 स शक्रवज्राभिहतो महात्मा  
 चचाल कोपाच्च भृशं ननाद ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,12 +717,15 @@ quite agitatated at it and roared loudly with anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य नानद्यमानस्य कुम्भकर्णस्य रक्षसः ।  
 श्रुत्वा निनादं वित्रस्ताः प्रजा भूयो वितत्रसुः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +759,15 @@ grigthened people were further frightened."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रुद्धो महेन्द्रस्य कुम्भकर्णो महाबलः ।  
 निष्कृष्यैरावताद् दन्तं जघानोरसि वासवम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +805,15 @@ Airavata, Indra's elephant and struck it into Indra's chest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णप्रहारार्तो विजज्वाल स वासवः ।  
 ततो विषेदुः सहसा देवा ब्रह्मर्षिदानवाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +857,15 @@ to the abode of Brahma the Lord of creation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजाभिः सह शक्रश्च ययौ स्थानं स्वयम्भुवः ।  
 कुम्भकर्णस्य दौरात्म्यं शशंसुस्ते प्रजापतेः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +882,15 @@ to the abode of Brahma the Lord of creation."
 
 अनन्तर इन्द्रन आ प्रजाजनरॊन्दिगॆ ब्रह्मदेवर धामक्कॆ होगि ऎल्लरू प्रजापतियल्लि कुम्भकर्णन दुष्टतॆयन्नु विस्तारवागि विवरिसिदरु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजानां भक्षणं चापि देवानां चापि धर्षणम् ।  
 आश्रमध्वंसनं चापि परस्त्रीहरणं भृशम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +928,15 @@ others' wives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रजा यदि त्वेष भक्षयिष्यति नित्यशः ।  
 अचिरेणैव कालेन शून्यो लोको भविष्यति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +973,15 @@ desolate just soon after some time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासवस्य वचः श्रुत्वा सर्वलोकपितामहः ।  
 रक्षांस्यावाहयामास कुम्भकर्णं ददर्श ह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1015,15 @@ called for the demons and saw Kumbhakarna too along with them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णं समीक्ष्यैव वितत्रास प्रजापतिः ।  
 कुम्भकर्णमथाश्वास्तः स्वयम्भूरिदमब्रवीत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1066,15 @@ confidence, Brahma cursed Kumbhakarna as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवं लोकविनाशाय पौलस्त्येनासि निर्मितः ।  
 तस्मात् त्वमद्यप्रभृति मृतकल्पः शयिष्यसे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1037,12 +1108,15 @@ account, you will be sleeping apparently dead from now onwards."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मशापाभिभूतोऽथ निपपाताग्रतः प्रभोः ।  
 ततः परमसम्भ्रान्तो रावणो वाक्यमब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1077,12 +1151,15 @@ Thereupon, the highly perplexed Ravana spoke the following words:"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृद्धः काञ्चनो वृक्षः फलकाले निकृत्यते ।  
 न नप्तारं स्वकं न्याय्यं शप्तुमेवं प्रजापते ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,12 +1203,15 @@ yielding its fruit. It is not fair on your part to curse your own great grandson
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मिथ्यावचनश्च त्वं स्वप्स्यत्येव न संशयः ।  
 कालस्तु क्रियतामस्य शयने जागरे तथा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,12 +1245,15 @@ to sleep certainly. Let some space of time be fixed for his sleeping and waking.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य वचः श्रुत्वा स्वयम्भूरिदमब्रवीत् ।  
 शयिता ह्येष षण्मासमेकाहं जागरिष्यति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1211,12 +1294,15 @@ months and wake-up for a day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकेनाह्ना त्वसौ वीरश्चरन् भूमिं बुभुक्षितः ।  
 व्यात्तास्यो भक्षयेल्लोकान् संवृद्ध इव पावकः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1340,15 @@ over the earth and eat the human race with his month wide open, like an augmente
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽसौ व्यसनमापन्नः कुम्भकर्णमबोधयत् ।  
 त्वत्पराक्रमभीतश्च राजा सम्प्रति रावणः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1383,15 @@ seeing your prowess, now got Kumbhakarna awakened."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष निर्गतो वीरः शिबिराद् भीमविक्रमः ।  
 वानरान् भृशसङ्क्रुद्धो भक्षयन् परिधावति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,12 +1426,15 @@ highly enraged Kumbhakara devourincg the monkeys on is way, is running towards u
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णं समीक्ष्यैव हरयोऽद्य प्रदुद्रुवुः ।  
 कथमेनं रणे क्रुद्धं वारयिष्यन्ति वानराः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1382,12 +1477,15 @@ monkeys check him, who is thus enraged in battle?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्यन्तां वानराः सर्वे यन्त्रमेतत् समुच्छ्रितम् ।  
 इति विज्ञाय हरयो भविष्यन्तीह निर्भयाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1421,12 +1519,15 @@ knowing this, they can become fearless by now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा हेतुमत् सुमुखोद‍्गतम् ।  
 उवाच राघवो वाक्यं नीलं सेनापतिं तदा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1462,12 +1563,15 @@ army:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छ सैन्यानि सर्वाणि व्यूह्य तिष्ठस्व पावके ।  
 द्वाराण्यादाय लङ्कायाश्चर्याश्चास्याथ सङ्क्रमान् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1508,12 +1612,15 @@ door-ways, high-ways and bridges of Lanka, stand ready for operation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलशृङ्गाणि वृक्षांश्च शिलाश्चाप्युपसंहरन् ।  
 भवन्तः सायुधाः सर्वे वानराः शैलपाणयः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1553,12 +1660,15 @@ their weapons and rocks in hand, stand ready."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवेण समादिष्टो नीलो हरिचमूपतिः ।  
 शशास वानरानीकं यथावत् कपिकुञ्जरः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,12 +1702,15 @@ monkeys, ordered the monkey-troops suitably.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गवाक्षः शरभो हनूमानङ्गदस्तथा ।  
 शैलशृङ्गाणि शैलाभा गृहीत्वा द्वारमभ्ययुः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1637,12 +1750,15 @@ gate, taking the mountian-tops.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामवाक्यमुपश्रुत्य हरयो जितकाशिनः ।  
 पादपैरर्दयन् वीरा वानराः परवाहिनीम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1682,6 +1798,7 @@ monkeys began to torment the enemy-troops with uplifted trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1690,6 +1807,8 @@ monkeys began to torment the enemy-troops with uplifted trees.
 गिरेः समीपानुगतं यथैव  
 महन्महाम्भोधरजालमुग्रम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1736,5 +1855,6 @@ like a big collection of gigantic clouds, hanging close to a mountain.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥61॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०५५ रावणेन अकम्पनप्रेषणम्"
 title_english = "055 Ravana next sends Akampana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ demons. Kumuda, Nala and Mainda the chiefs of monkeys creates a great carnage am
 
 55. रावणकी आज्ञासे अकम्पन आदि राक्षसोंका युद्धमें आना और वानरोंके साथ उनका घोर युद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रदंष्ट्रं हतं श्रुत्वा वालिपुत्रेण रावणः ।  
 बलाध्यक्षमुवाचेदं कृताञ्जलिमुपस्थितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ the General of his forces who, with joined palms, stood near him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीघ्रं निर्यान्तुदुर्धर्षा राक्षसा भीमविक्रमाः ।  
 अकम्पनं पुरस्कृत्य सर्वशस्त्रास्त्रकोविदम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ their head, who is skilled in the use of every weapon and missile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष शास्ता च गोप्ता च नेता च युधि सत्तमः ।  
 भूतिकामश्च मे नित्यं नित्यं च समरप्रियः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,12 +162,15 @@ desired my welfare and always loved war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष जेष्यति काकुत्स्थौ सुग्रीवं च महाबलम् ।  
 वानरांश्चापरान् घोरान् हनिष्यति न संशयः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,12 +210,15 @@ Sugreeva and the other terrible monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिगृह्य स तामाज्ञां रावणस्य महाबलः ।  
 बलं सम्प्रेरयामास तदा लघुपराक्रमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ mobilized the army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नानाप्रहरणा भीमाक्षा भीमदर्शनाः ।  
 निष्पेतू राक्षसा मुख्या बलाध्यक्षप्रचोदिताः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,6 +298,7 @@ weapon and fearful to look upon, rushed into the fray where their general had di
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,6 +306,8 @@ weapon and fearful to look upon, rushed into the fray where their general had di
 मेघाभो मेघवर्णश्च मेघस्वनमहास्वनः ॥ ७ ॥  
 राक्षसैः संवृतो घोरैस्तदा निर्यात्यकम्पनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +345,15 @@ demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि कम्पयितुं शक्यः सुरैरपि महामृधे ॥ ८ ॥  
 अकम्पनस्ततस्तेषामादित्य इव तेजसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +393,15 @@ the demons, he was shining like the sun, by his splendour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य निर्धावमानस्य संरब्धस्य युयुत्सया ॥ ९ ॥  
 अकस्माद् दैन्यमागच्छद्धयानां रथवाहिनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +441,15 @@ his chariot were suddenly deprived of their energy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यस्फुरन्नयनं चास्य सव्यं युद्धाभिनन्दिनः ॥ १० ॥  
 विवर्णो मुखवर्णश्च गद‍्गदश्चाभवत् स्वनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +489,15 @@ grew pale and his voice trembled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभवत् सुदिने काले दुर्दिनं रूक्षमारुतम् ॥ ११ ॥  
 ऊचुः खगमृगाः सर्वे वाचः क्रूरा भयावहाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +541,15 @@ with a bitter wind beginning to blow. Birds and beasts uttered cruel and fearful
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सिंहोपचितस्कन्धः शार्दूलसमविक्रमः ॥ १२ ॥  
 तानुत्पातानचिन्त्यैव निर्जगाम रणाजिरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +589,15 @@ those portents, rushed towards the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा निर्गच्छतस्तस्य रक्षसः सह राक्षसैः ॥ १३ ॥  
 बभूव सुमहान् नादः क्षोभयन्निव सागरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,6 +637,7 @@ convulse the ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -603,6 +645,8 @@ convulse the ocean.
 द्रुमशैलप्रहाराणां योद्धुं समुपतिष्ठताम् ।  
 तेषां युद्धं महारौद्रं सञ्जज्ञे कपिरक्षसाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +711,15 @@ monkeys, brandishing trees and rocks, was frightened.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामरावणयोरर्थे समभित्यक्तदेहिनः ।  
 सर्वे ह्यतिबलाः शूराः सर्वे पर्वतसन्निभाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,6 +759,7 @@ and valiant. All were resembling mountains.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -719,6 +767,8 @@ and valiant. All were resembling mountains.
 तेषां विनर्दतां शब्दः संयुगेऽतितरस्विनाम् ॥ १७ ॥  
 शुश्रुवे सुमहान् कोपादन्योन्यमभिगर्जताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -763,12 +813,15 @@ strength, making savage cries, were distinctly heard on the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजश्चारुणवर्णाभं सुभीममभवद् भृशम् ॥ १८ ॥  
 उद‍्धृतं हरिरक्षोभिः संरुरोध दिशो दश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +861,15 @@ enveloped all the ten quarters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यं रजसा तेन कौशेयोद्धतपाण्डुना ॥ १९ ॥  
 संवृतानि च भूतानि ददृशुर्न रणाजिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -853,12 +909,15 @@ shaken by the wind, could no longer distinguish each other on the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ध्वजो न पताका वा चर्म वा तुरगोऽपि वा ॥ २० ॥  
 आयुधं स्यन्दनो वापि ददृशे तेन रेणुना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -898,12 +957,15 @@ discerned in that pall of dust.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शब्दश्च सुमहांस्तेषां नर्दतामभिधावताम् ॥ २१ ॥  
 श्रूयते तुमुलो युद्धे न रूपाणि चकाशिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1009,15 @@ each other, was heard on the battle-field, yet in that confusion, no form was vi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरीनेव सुसंरुष्टा हरयो जघ्नुराहवे ॥ २२ ॥  
 राक्षसा राक्षसांश्चापि निजघ्नुस्तिमिरे तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1057,15 @@ demons killed the demons themselves in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते परांश्च विनिघ्नन्तः स्वांश्च वानरराक्षसाः ॥ २३ ॥  
 रुधिरार्द्रां तदा चक्रुर्महीं पङ्कानुलेपनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,12 +1100,15 @@ dampened with blood, anointing its body with mud.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु रुधिरौघेण सिक्तं ह्यपगतं रजः ॥ २४ ॥  
 शरीरशवसङ्कीर्णा बभूव च वसुन्धरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,12 +1151,15 @@ covered with bodies and corpses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रुमशक्तिगदाप्रासैः शिलापरिघतोमरैः ॥ २५ ॥  
 राक्षसा हरयस्तूर्णं जघ्नुरन्योन्यमोजसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1125,12 +1199,15 @@ trees, spears, maces, javelins, stones, bars and picks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुभिः परिघाकारैर्युध्यन्तः पर्वतोपमान् ॥ २६ ॥  
 हरयो भीमकर्माणो राक्षसाञ्जघ्नुराहवे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1170,12 +1247,15 @@ appearing like iron bars, killed the demons in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसास्त्वभिसङ्क्रुद्धाः प्रासतोमरपाणयः ॥ २७ ॥  
 कपीन् निजघ्निरे तत्र शस्त्रैः परमदारुणैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1218,12 +1298,15 @@ with their cruel weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनः सुसङ्क्रुद्धो राक्षसानां चमूपतिः ॥ २८ ॥  
 संहर्षयति तान् सर्वान् राक्षसान् भीमविक्रमान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,12 +1340,15 @@ demons by his terrible prowess.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरयस्त्वपि रक्षांसि महाद्रुममहाश्मभिः ॥ २९ ॥  
 विदारयन्त्यभिक्रम्य शस्त्राण्याच्छिद्य वीर्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1302,12 +1388,15 @@ strength, crushed those demons with blows from large trees and stones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे वीरा हरयः कुमुदो नलः ॥ ३० ॥  
 मैन्दश्च द्विविदः क्रुद्धाश्चक्रुर्वेगमनुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1347,6 +1436,7 @@ displayed unsuprassed rashness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1354,6 +1444,8 @@ displayed unsuprassed rashness.
 कदनं सुमहच्चक्रुर्लीलया हरिपुङ्गवाः ।  
 ममन्थू राक्षसान् सर्वे नानाप्रहरणैर्भृशम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1408,5 +1500,6 @@ demons with every kind of weapon.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तैदनॆय सर्ग पूर्णवायितु.॥55॥
+</details>
 </details>
 

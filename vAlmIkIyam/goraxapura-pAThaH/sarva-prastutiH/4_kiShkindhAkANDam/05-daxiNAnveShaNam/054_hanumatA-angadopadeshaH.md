@@ -2,6 +2,8 @@
 title = "०५४ हनुमता-अङ्गदोपदेशः"
 title_english = "054 Hanuma advises Angada"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -22,12 +24,15 @@ Sugreeva in the event of the failure of the task under his leadership.
 
 54. हनुमान् जी का भेदनीतिके द्वारा वानरोंको अपने पक्षमें करके अङ्गदको अपने साथ चलनेके लिये समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रुवति तारे तु ताराधिपतिवर्चसि ।  
 अथ मेने हृतं राज्यं हनूमानङ्गदेन तत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ laying siege to that kingdom of Vanaras. [4541]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद‍्ध्या ह्यष्टाङ्गया युक्तं चतुर्बलसमन्वितम् ।  
 चतुर्दशगुणं मेने हनूमान् वालिनः सुतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +160,15 @@ in opinions or actions.
 २. साम, दान, भेद और दण्ड—ये जो शत्रुको वशमें करनेके चार उपाय नीति-शास्त्रमें बताये गये हैं, उन्हींको यहाँ चार प्रकारका बल कहा गया है । किन्हीं-किन्हींके मतमें बाहुबल, मनोबल, उपायबल और बन्धुबल—ये चार बल हैं ।  
 ३. चौदह गुण यों बताये गये हैं—देश-कालका ज्ञान, दृढ़ता, सब प्रकारके क्लेशोंको सहन करनेकी क्षमता, सभी विषयोंका ज्ञान प्राप्त करना, चतुरता, उत्साह या बल, मन्त्रणाको गुप्त रखना, परस्पर विरोधी बात न कहना, शूरता, अपनी और शत्रुकी शक्तिका ज्ञान, कृतज्ञता, शरणागतवत्सलता, अमर्षशीलता तथा अचञ्चलता (स्थिरता या गम्भीरता) ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपूर्यमाणं शश्वच्च तेजोबलपराक्रमैः ।  
 शशिनं शुक्लपक्षादौ वर्धमानमिव श्रिया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,12 +185,15 @@ in opinions or actions.
 
 इवनु तेज, बल, पराक्रमदिन्द सदा परिपूर्णवागिरुत्तानॆ. शुक्लपक्षद चन्द्रनन्तॆ राजकुमार अङ्गदन श्रीयु दिनेदिने हॆच्चुत्ता इरुत्तदॆ.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहस्पतिसमं बुद्ध्या विक्रमे सदृशं पितुः ।  
 शुश्रूषमाणं तारस्य शुक्रस्येव पुरन्दरम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ _________________
 
 इवनु बुद्धियल्लि बृहस्पतियन्ते, पराक्रमदल्लि तन्न तन्दॆ वालिगॆ समाननागिद्दानॆ. देवेन्द्रनु बृहस्पतियिन्द नीतिय मातन्नु केळुवन्तॆये अङ्गदनु तारन मातन्नु केळुत्तानॆ.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुरर्थे परिश्रान्तं सर्वशास्त्रविशारदः ।  
 अभिसन्धातुमारेभे हनूमानङ्गदं ततः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ weeks and then to days: *1] paurNami, poorNima *White Fortnight - where the moon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चतुर्णामुपायानां तृतीयमुपवर्णयन् ।  
 भेदयामास तान् सर्वान् वानरान् वाक्यसम्पदा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +329,15 @@ partition, persecution, in connection with a political adversary.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु सर्वेषु भिन्नेषु ततोऽभीषयदङ्गदम् ।  
 भीषणैर्विविधैर्वाक्यैः कोपोपायसमन्वितैः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,12 +381,15 @@ by Sugreeva on defectors. [4547]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं समर्थतरः पित्रा युद्धे तारेय वै ध्रुवम् ।  
 दृढं धारयितुं शक्तः कपिराज्यं यथा पिता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +426,15 @@ are unquestionably capable enough to sustain the monkey kingdom." Thus Hanuma st
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यमस्थिरचित्ता हि कपयो हरिपुङ्गव ।  
 नाज्ञाप्यं विषहिष्यन्ति पुत्रदारं विना त्वया ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,6 +477,7 @@ wives they cannot tolerate to remain under your control for a long. [4549]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -456,6 +486,8 @@ wives they cannot tolerate to remain under your control for a long. [4549]
 नह्यहं ते इमे सर्वे सामदानादिभिर्गुणैः ।  
 दण्डेन न त्वया शक्याः सुग्रीवादपकर्षितुम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,12 +542,15 @@ isn't so! [45410, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विगृह्यासनमप्याहुर्दुर्बलेन बलीयसा ।  
 आत्मरक्षाकरस्तस्मान्न विगृह्णीत दुर्बलः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +598,15 @@ shall strive for selfguarding against the mighty, but not contrariwise...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां चेमां मन्यसे धात्रीमेतद् बिलमिति श्रुतम् ।  
 एतल्लक्ष्मणबाणानामीषत् कार्यं विदारणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +647,15 @@ in splitting apart whole of that Black Hole in a trice. [45413]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वल्पं हि कृतमिन्द्रेण क्षिपता ह्यशनिं पुरा ।  
 लक्ष्मणो निशितैर्बाणैर्भिन्द्यात् पत्रपुटं यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,12 +699,15 @@ Black Hole with his acute arrows, as if it is leafy bowl. [45414]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य च नाराचा बहवः सन्ति तद्विधाः ।  
 वज्राशनिसमस्पर्शा गिरीणामपि दारकाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,12 +755,15 @@ of earth and resurfaced... then, Lakshmana's arrow can pulverise mountains, isn'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवस्थानं यदैव त्वमासिष्यसि परन्तप ।  
 तदैव हरयः सर्वे त्यक्ष्यन्ति कृतनिश्चयाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +803,15 @@ Angada, then and there all the monkeys will desert you resolvedly. [45416]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्तः पुत्रदाराणां नित्योद्विग्ना बुभुक्षिताः ।  
 खेदिता दुःखशय्याभिस्त्वां करिष्यन्ति पृष्ठतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +851,15 @@ for diverse palatability as any monkey would cherish, even so, lamenting on the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं हीनः सुहृद्भिश्च हितकामैश्च बन्धुभिः ।  
 तृणादपि भृशोद्विग्नः स्पन्दमानाद् भविष्यसि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +908,15 @@ iti suucitam - dk* if he discards his own people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च जातु न हिंस्युस्त्वां घोरा लक्ष्मणसायकाः ।  
 अपवृत्तं जिघांसन्तो महावेगा दुरासदाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +956,15 @@ from loyalties, will be terrifyingly twingeing. Further, those fierily frenetic 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माभिस्तु गतं सार्धं विनीतवदुपस्थितम् ।  
 आनुपूर्व्यात्तु सुग्रीवो राज्ये त्वां स्थापयिष्यति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1004,15 @@ you only in kingdom as before. [45420]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मराजः पितृव्यस्ते प्रीतिकामो दृढव्रतः ।  
 शुचिः सत्यप्रतिज्ञश्च स त्वां जातु न नाशयेत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1053,15 @@ he is free from exploitation, thus in no way he liquidates you. [45421]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियकामश्च ते मातुस्तदर्थं चास्य जीवितम् ।  
 तस्यापत्यं च नास्त्यन्यत् तस्मादङ्गद गम्यताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1058,5 +1123,6 @@ are not reiterated here.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥54॥
+</details>
 </details>
 

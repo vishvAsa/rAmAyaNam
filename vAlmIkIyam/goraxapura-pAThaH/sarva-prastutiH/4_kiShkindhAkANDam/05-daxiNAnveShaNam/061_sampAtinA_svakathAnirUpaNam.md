@@ -2,6 +2,8 @@
 title = "०६१ सम्पातिना स्वकथानिरूपणम्"
 title_english = "061 Sampaati s legend contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ suicide, as his two wings, eagle kingdom, valour and even brother, are lost.
 
 61. सम्पातिका निशाकर मुनिको अपने पंखके जलनेका कारण बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद् दारुणं कर्म दुष्करं सहसा कृतम् ।  
 आचचक्षे मुनेः सर्वं सूर्यानुगमनं तथा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ well..." Thus Sampaati continued his legend. [4-61-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् व्रणयुक्तत्वाल्लज्जया चाकुलेन्द्रियः ।  
 परिश्रान्तो न शक्नोमि वचनं परिभाषितुम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ incapable to speak on, elaborately... [4-61-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं चैव जटायुश्च सङ्घर्षाद् गर्वमोहितौ ।  
 आकाशं पतितौ दूराज्जिज्ञासन्तौ पराक्रमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ Jataayu competitively flew up far-away on the sky... [4-61-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासशिखरे बद्‍ध्वा मुनीनामग्रतः पणम् ।  
 रविः स्यादनुयातव्यो यावदस्तं महागिरिम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ shall follow the Sun till he reaches the great westerly mountain, namely Mt. Dus
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्यावां युगपत् प्राप्तावपश्याव महीतले ।  
 रथचक्रप्रमाणानि नगराणि पृथक् पृथक् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,12 +274,15 @@ townships on the surface of earth, separately and singly, in the size of a chari
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचिद् वादित्रघोषश्च क्वचिद् भूषणनिःस्वनः ।  
 गायन्तीः स्माङ्गना बह्वीः पश्यावो रक्तवाससः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ jewellery, and elsewhere singing of many ladies dressed in red... [4-61-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूर्णमुत्पत्य चाकाशमादित्यपदमास्थितौ ।  
 आवामालोकयावस्तद् वनं शाद्वलसंस्थितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ forest is positioned just as a patch of pasture on earth... [4-61-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपलैरिव सञ्छन्ना दृश्यते भूः शिलोच्चयैः ।  
 आपगाभिश्च संवीता सूत्रैरिव वसुन्धरा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,6 +424,7 @@ and interwoven with yarn like rivers the surface of the earth is thready... [4-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,6 +433,8 @@ and interwoven with yarn like rivers the surface of the earth is thready... [4-6
 तीव्रः स्वेदश्च खेदश्च भयं चासीत् तदावयोः ।  
 समाविशत मोहश्च ततो मूर्च्छा च दारुणा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,12 +501,15 @@ like elephants in lakes... [4-61-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च दिग् ज्ञायते याम्या न चाग्नेयी न वारुणी ।  
 युगान्ते नियतो लोको हतो दग्ध इवाग्निना ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,6 +574,7 @@ That viewless path / Shall scarce be trod by man bearing the flesh! - S. M. Arno
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -550,6 +583,8 @@ That viewless path / Shall scarce be trod by man bearing the flesh! - S. M. Arno
 यत्नेन महता भूयो भास्करः प्रतिलोकितः ।  
 तुल्यपृथ्वीप्रमाणेन भास्करः प्रतिभाति नौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +632,15 @@ seen the Sun. Then the Sun appeared in a size equal to the earth. [4-61-12, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुर्मामनापृच्छ्य निपपात महीं ततः ।  
 तं दृष्ट्वा तूर्णमाकाशादात्मानं मुक्तवानहम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,6 +681,7 @@ I too let myself loose from the sky... [4-61-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -651,6 +690,8 @@ I too let myself loose from the sky... [4-61-14]
 आशङ्के तं निपतितं जनस्थाने जटायुषम् ।  
 अहं तु पतितो विन्ध्ये दग्धपक्षो जडीकृतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,12 +745,15 @@ is not burn that much... but I am completely burnt when falling from the sky... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्याच्च हीनो भ्रात्रा च पक्षाभ्यां विक्रमेण च ।  
 सर्वथा मर्तुमेवेच्छन् पतिष्ये शिखराद् गिरेः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,5 +805,6 @@ valance too, such as I was I wished to fall from the mountaintop to die, in any 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥61॥
+</details>
 </details>
 

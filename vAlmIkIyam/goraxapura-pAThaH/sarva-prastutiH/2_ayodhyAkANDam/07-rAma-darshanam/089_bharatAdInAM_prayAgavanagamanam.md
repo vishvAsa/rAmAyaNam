@@ -2,6 +2,8 @@
 title = "०८९ भरतादीनां प्रयागवनगमनम्"
 title_english = "089 Bharata asks Guha to to ferry them across the river by boats"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ priests and king's counsellors, approach the hermitage of Bharadwaja.
 
 89. भरतका सेनासहित गङ्गापार करके भरद्वाजके आश्रमपर जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्युष्य रात्रिं तु तत्रैव गङ्गाकूले स राघवः ।  
 काल्यमुत्थाय शत्रुघ्नमिदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ Ganga, rising at dawn, said to shatrughna as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुघ्नोत्तिष्ठ किं शेषे निषादाधिपतिं गुहम् ।  
 शीघ्रमानय भद्रं ते तारयिष्यति वाहिनीम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ and be happy. Let him convey the army across the river."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जागर्मि नाहं स्वपिमि तथैवार्यं विचिन्तयन् ।  
 इत्येवमब्रवीद् भ्राता शत्रुघ्नो विप्रचोदितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ that Rama alone, I have been wakeful."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति संवदतोरेवमन्योन्यं नरसिंहयोः ।  
 आगम्य प्राञ्जलिः काले गुहो वचनमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ came in time and with joined palms, addressed Bharata saying:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् सुखं नदीतीरेऽवात्सीः काकुत्स्थ शर्वरीम् ।  
 कच्चिच्च सहसैन्यस्य तव नित्यमनामयम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +271,15 @@ well with your army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहस्य तत् तु वचनं श्रुत्वा स्नेहादुदीरितम् ।  
 रामस्यानुवशो वाक्यं भरतोऽपीदमब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +319,15 @@ Rama, replied as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखा नः शर्वरी धीमन् पूजिताश्चापि ते वयम् ।  
 गङ्गां तु नौभिर्बह्वीभिर्दाशाः सन्तारयन्तु नः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ your fisher-men ferry us across Ganga River on your courtless boats."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गुहः सन्त्वरितः श्रुत्वा भरतशासनम् ।  
 प्रतिप्रविश्य नगरं तं ज्ञातिजनमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ multitude of his people (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठत प्रबुध्यध्वं भद्रमस्तु हि वः सदा ।  
 नावः समुपकर्षध्वं तारयिष्यामि वाहिनीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ Let us carry the army across the river."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तथोक्ताः समुत्थाय त्वरिता राजशासनात् ।  
 पञ्च नावां शतान्येव समानिन्युः समन्ततः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +517,15 @@ together five hundred boats from every quarter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्याः स्वस्तिकविज्ञेया महाघण्टाधरावराः ।  
 शोभमानाः पताकिन्यो युक्तवाहाः सुसंहताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -530,12 +565,15 @@ together with appropriate sails and adorned with flags.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स्वस्तिकविज्ञेयां पाण्डुकम्बलसंवृताम् ।  
 सनन्दिघोषां कल्याणीं गुहो नावमुपाहरत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,6 +614,7 @@ canvas, re-echoing with acclamations and which was beautiful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -584,6 +623,8 @@ canvas, re-echoing with acclamations and which was beautiful.
 पुरोहितश्च तत् पूर्वं गुरवो ब्राह्मणाश्च ये ।  
 अनन्तरं राजदारास्तथैव शकटापणाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +674,15 @@ provisions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवासमादीपयतां तीर्थं चाप्यवगाहताम् ।  
 भाण्डानि चाददानानां घोषस्तु दिवमस्पृशत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ practise was also believed to bring triumph to the troops who resorted to it.
 
 * यहाँ ‘आवासमादीपयताम्’ का अर्थ कुछ टीकाकारोंने यह किया है कि ‘वे अपने आवासस्थानमें आग लगाने लगे । ‘आवश्यक वस्तुओंको लाद लेनेके बाद जो मामूली झोंपड़े और नगण्य वस्तुएँ शेष रह जाती हैं, उनमें छावनी उखाड़ते समय आग लगा देना—यह सेनाका धर्म बताया गया है । इसके दो रहस्य हैं, किसी शत्रुपक्षीय व्यक्तिके लिये अपना कोई निशान न छोड़ना—यह सैनिक नीति है । दूसरा यह है कि इस तरह आग लगाकर जानेसे विजय-लक्ष्मीकी प्राप्ति होती है—ऐसा उनका परम्परागत विश्वास है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पताकिन्यस्तु ता नावः स्वयं दाशैरधिष्ठिताः ।  
 वहन्त्यो जनमारूढं तदा सम्पेतुराशुगाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,12 +783,15 @@ carrying those passengers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारीणामभिपूर्णास्तु काश्चित् काश्चित् तु वाजिनाम् ।  
 काश्चित् तत्र वहन्ति स्म यानयुग्यं महाधनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +831,15 @@ animals of draught of great value.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तास्तु गत्वा परं तीरमवरोप्य च तं जनम् ।  
 निवृत्ता काण्डचित्राणि क्रियन्ते दाशबन्धुभिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +880,15 @@ return journey, the kinsfolk of guha plied them as easily as toy- boats made of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवैजयन्तास्तु गजा गजारोहैः प्रचोदिताः ।  
 तरन्तः स्म प्रकाशन्ते सपक्षा इव पर्वताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +928,15 @@ river, looked life winged mountains.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावश्चारुरुहुस्त्वन्ये प्लवैस्तेरुस्तथापरे ।  
 अन्ये कुम्भघटैस्तेरुरन्ये तेरुश्च बाहुभिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,12 +977,15 @@ others swam across with the help of big and small earthen vessels. The rest swam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा पुण्या ध्वजिनी गङ्गां दाशैः सन्तारिता स्वयम् ।  
 मैत्रे मुहूर्ते प्रययौ प्रयागवनमुत्तमम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,6 +1042,7 @@ Aindragna, Nairta, Varunaryamana and Bhagi.
 ऐन्द्राग्नो नैर्ऋतश्चैव वारुणार्यमणो भगी ।  
 एतेऽह्नि क्रमशो ज्ञेया मुहूर्ता दश पश्च च ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -988,6 +1051,8 @@ Aindragna, Nairta, Varunaryamana and Bhagi.
 द्रष्टुं भरद्वाजमृषिप्रवर्य-  
 मृत्विक्सदस्यैर्भरतः प्रतस्थे ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,6 +1103,7 @@ foremost of sages.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1046,6 +1112,8 @@ foremost of sages.
 ददर्श रम्योटजवृक्षदेशं  
 महद्वनं विप्रवरस्य रम्यम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,5 +1170,6 @@ ascatics.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॊम्भत्तनॆय सर्ग पूर्णवायितु॥89॥
+</details>
 </details>
 

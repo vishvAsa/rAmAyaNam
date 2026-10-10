@@ -2,6 +2,8 @@
 title = "००६ अभिषेकार्थं जनोल्लासः"
 title_english = "006 Joy of a city"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ occasion.
 
 6. सीतासहित श्रीरामका नियमपरायण होना, हर्षमें भरे पुरवासियोंद्वारा नगरकी सजावट, राजाके प्रति कृतज्ञता प्रकट करना तथा अयोध्यापुरीमें जनपदवासी मनुष्योंकी भीड़का एकत्र होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते पुरोहिते रामः स्नातो नियतमानसः ।  
 सह पत्न्या विशालाक्ष्या नारायणमुपागमत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ mind along with his wide-eyed wife, Seetha.
 
 * ऐसा माना जाता है कि यहाँ नारायण शब्दसे श्रीरङ्गनाथजीकी वह अर्चा-मूर्ति अभिप्रेत है; जो कि पूर्वजोंके समयसे ही दीर्घकालतक अयोध्यामें उपास्य देवताके रूपमें रही । बादमें श्रीरामजीने वह मूर्ति विभीषणको दे दी थी, जिससे वह वर्तमान श्रीरंगक्षेत्रमें पहुँची । इसकी विस्तृत कथा पद्मपुराणमें है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रगृह्य शिरसा पात्रीं हविषो विधिवत् ततः ।  
 महते दैवतायाज्यं जुहाव ज्वलितानले ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +121,7 @@ Lord Vishnu the clarified butter, by dropping it into the blazing fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ Lord Vishnu the clarified butter, by dropping it into the blazing fire.
 वाग्यतः सह वैदेह्या भूत्वा नियतमानसः ।  
 श्रीमत्यायतने विष्णोः शिश्ये नरवरात्मजः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ and is held in the highest reverence by the Vaishnavas and other devotees all ov
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकयामावशिष्टायां रात्र्यां प्रतिविबुध्य सः ।  
 अलङ्कारविधिं सम्यक् कारयामास वेश्मनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ the house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र शृण्वन् सुखा वाचः सूतमागधवन्दिनाम् ।  
 पूर्वां सन्ध्यामुपासीनो जजाप सुसमाहितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +286,15 @@ their capacity of twice born.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुष्टाव प्रणतश्चैव शिरसा मधुसूदनम् ।  
 विमलक्षौमसंवीतो वाचयामास स द्विजान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +334,15 @@ he got valedictory text recited by Brahmans.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां पुण्याहघोषोऽथ गम्भीरमधुरस्तथा ।  
 अयोध्यां पूरयामास तूर्यघोषानुनादितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,12 +385,15 @@ instruments, then filled the city of Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोपवासं तु तदा वैदेह्या सह राघवम् ।  
 अयोध्यानिलयः श्रुत्वा सर्वः प्रमुदितो जनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,12 +427,15 @@ Seetha had observed fast for the ensuing anointment ceremony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पौरजनः सर्वः श्रुत्वा रामाभिषेचनम् ।  
 प्रभातां रजनीं दृष्ट्वा चक्रे शोभयितुं पुरीम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,6 +470,7 @@ sunrise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -451,6 +481,8 @@ sunrise.
 सभासु चैव सर्वासु वृक्षेष्वालक्षितेषु च ।  
 ध्वजाः समुच्छ्रिताः साधु पताकाश्चाभवंस्तथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +545,15 @@ family persons, on all assembly halls and all visible trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नटनर्तकसङ्घानां गायकानां च गायताम् ।  
 मनःकर्णसुखा वाचः शुश्राव जनता ततः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -558,12 +593,15 @@ dance. Singers were singing and sweet voices were heard, pleasing the minds and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामाभिषेकयुक्ताश्च कथाश्चक्रुर्मिथो जनाः ।  
 रामाभिषेके सम्प्राप्ते चत्वरेषु गृहेषु च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +642,15 @@ conversations in their houses and at road junctions, about the ceremony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाला अपि क्रीडमाना गृहद्वारेषु सङ्घशः ।  
 रामाभिषवसंयुक्ताश्चक्रुरेव कथा मिथः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -650,12 +691,15 @@ narratives of Rama's anointment ceremony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतपुष्पोपहारश्च धूपगन्धाधिवासितः ।  
 राजमार्गः कृतः श्रीमान् पौरै रामाभिषेचने ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ ceremony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकाशकरणार्थं च निशागमनशङ्कया ।  
 दीपवृक्षांस्तथा चक्रुरनुरथ्यासु सर्वशः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,6 +783,7 @@ in the shape of trees to illuminate all the streets.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -744,6 +792,8 @@ in the shape of trees to illuminate all the streets.
 समेत्य सङ्घशः सर्वे चत्वरेषु सभासु च ।  
 कथयन्तो मिथस्तत्र प्रशशंसुर्जनाधिपम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +842,15 @@ about this matter there and praising king Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो महात्मा राजायमिक्ष्वाकुकुलनन्दनः ।  
 ज्ञात्वा वृद्धं स्वमात्मानं रामं राज्येऽभिषेक्ष्यति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +894,15 @@ he became aged, is going to anoint Rama for the kingdom. What a great man he is!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे ह्यनुगृहीताः स्म यन्नो रामो महीपतिः ।  
 चिराय भविता गोप्ता दृष्टलोकपरावरः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +943,15 @@ long. We have all been blessed by king Dasaratha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुद्धतमना विद्वान् धर्मात्मा भ्रातृवत्सलः ।  
 यथा च भ्रातृषु स्निग्धस्तथास्मास्वपि राघवः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,12 +991,15 @@ brothers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिरं जीवतु धर्मात्मा राजा दशरथोऽनघः ।  
 यत्प्रसादेनाभिषिक्तं रामं द्रक्ष्यामहे वयम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1033,15 @@ are going to see Rama as being anointed for the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवंविधं कथयतां पौराणां शुश्रुवुः परे ।  
 दिग्भ्यो विश्रुतवृत्तान्ताः प्राप्ता जानपदा जनाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,12 +1081,15 @@ coronation ceremony of Rama, listened to the narration of the citizens of Ayodhy
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु दिग्भ्यः पुरीं प्राप्ता द्रष्टुं रामाभिषेचनम् ।  
 रामस्य पूरयामासुः पुरीं जानपदा जनाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1124,15 @@ see the anointment ceremony of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनौघैस्तैर्विसर्पद्भिः शुश्रुवे तत्र निःस्वनः ।  
 पर्वसूदीर्णवेगस्य सागरस्येव निःस्वनः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,6 +1172,7 @@ there, as the roaring of an impetuous ocean on full moon days.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1109,6 +1181,8 @@ there, as the roaring of an impetuous ocean on full moon days.
 समन्ततः सस्वनमाकुलं बभौ  
 समुद्रयादोभिरिवार्णवोदकम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,5 +1239,6 @@ shone like a roaring ocean filled with sea animals.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु. ॥6॥
+</details>
 </details>
 

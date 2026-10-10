@@ -2,6 +2,8 @@
 title = "०११ कैकेय्याः वरयाचना"
 title_english = "011 Kaikeyi s evil boons"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ earlier times.
 
 11. कैकेयीका राजाको प्रतिज्ञाबद्ध करके उन्हें पहलेके दिये हुए दो वरोंका स्मरण दिलाकर भरतके लिये अभिषेक और रामके लिये चौदह वर्षोंका वनवास माँगना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मन्मथशरैर्विद्धं कामवेगवशानुगम् ।  
 उवाच पृथिवीपालं कैकेयी दारुणं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -59,12 +64,15 @@ to hasty lust.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्मि विप्रकृता देव केनचिन्नावमानिता ।  
 अभिप्रायस्तु मे कश्चित् तमिच्छामि त्वया कृतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ that needs to be fulfilled by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिज्ञां प्रतिजानीष्व यदि त्वं कर्तुमिच्छसि ।  
 अथ ते व्याहरिष्यामि यथाभिप्रार्थितं मया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,12 +155,15 @@ shall inform you that which is desired by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामुवाच महाराजः कैकेयीमीषदुत्स्मयः ।  
 कामी हस्तेन सङ्गृह्य मूर्धजेषु भुवि स्थिताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +203,15 @@ hand into her hair and spoke these words to Kaikeyi who was having white smile i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवलिप्ते न जानासि त्वत्तः प्रियतरो मम ।  
 मनुजो मनुजव्याघ्राद् रामादन्यो न विद्यते ॥५ ॥+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,12 +245,15 @@ me than you except Rama, the best among men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनाजय्येन मुख्येन राघवेण महात्मना ।  
 शपे ते जीवनार्हेण ब्रूहि यन्मनसेप्सितम् ॥ ६ ॥+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +294,15 @@ you".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं मुहूर्तमपश्यंस्तु न जीवे तमहं ध्रुवम् ।  
 तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ By that Rama, I am taking my oath and promising to fulfill your word".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मना चात्मजैश्चान्यैर्वृणे यं मनुजर्षभम् ।  
 तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +390,15 @@ word."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भद्रे हृदयमप्येतदनुमृश्योद्धरस्व मे ।  
 एतत् समीक्ष्य कैकेयि ब्रूहि यत् साधु मन्यसे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +442,15 @@ you observe all this and tell me that which you think as good."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलमात्मनि पश्यन्ती न विशङ्कितुमर्हसि ।  
 करिष्यामि तव प्रीतिं सुकृतेनापि ते शपे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,12 +493,15 @@ auspiciousness. I shall do whatever is desired by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तदर्थमना देवी तमभिप्रायमागतम् ।  
 निर्माध्यस्थ्याच्च हर्षाच्च बभाषे दुर्वचं वचः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,12 +536,15 @@ to exile, revealing that wish from her mind, uttered unspeakable wordswith bias 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन वाक्येन संहृष्टा तमभिप्रायमात्मनः ।  
 व्याजहार महाघोरमभ्यागतमिवान्तकम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +584,15 @@ horrible wish in her mind as conveying the news of a suddenly befallen death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा क्रमेण शपसे वरं मम ददासि च ।  
 तच्छृण्वन्तु त्रयस्त्रिंशद् देवाः सेन्द्रपुरोगमाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,6 +635,7 @@ giving boons to me, preceded by series of your oaths"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -602,6 +644,8 @@ giving boons to me, preceded by series of your oaths"
 निशाचराणि भूतानि गृहेषु गृहदेवताः ।  
 यानि चान्यानि भूतानि जानीयुर्भाषितं तव ॥ १५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -650,12 +694,15 @@ spirits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यसन्धो महातेजा धर्मज्ञः सत्यवाक्शुचिः ।  
 वरं मम ददात्येष सर्वे शृण्वन्तु दैवताः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ sake."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति देवी महेष्वासं परिगृह्याभिशस्य च ।  
 ततः परमुवाचेदं वरदं काममोहितम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +796,15 @@ spoke these words to him who was ready to give boons as he was infatuated by lus
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मर राजन् पुरा वृत्तं तस्मिन् देवासुरे रणे ।  
 तत्र त्वां च्यावयच्छत्रुस्तव जीवितमन्तरा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +844,15 @@ olden times. There the enemy destroyed almost every thing except your life".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र चापि मया देव यत् त्वं समभिरक्षितः ।  
 जाग्रत्या यतमानायास्ततो मे प्रददौ वरौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +892,15 @@ trying to save you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ दत्तौ च वरौ देव निक्षेपौ मृगयाम्यहम् ।  
 तवैव पृथिवीपाल सकाशे रघुनन्दन ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,12 +940,15 @@ for those boons, which were given by you and kept with you for safe custody."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् प्रतिश्रुत्य धर्मेण न चेद् दास्यसि मे वरम् ।  
 अद्यैव हि प्रहास्यामि जीवितं त्वद्विमानिता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -921,12 +983,15 @@ me by not giving it, I should abandon my life now itself".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाङ्मात्रेण तदा राजा कैकेय्या स्ववशे कृतः ।  
 प्रचस्कन्द विनाशाय पाशं मृग इवात्मनः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,6 +1032,7 @@ her trap as a deer, for his self destruction.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -976,6 +1042,8 @@ her trap as a deer, for his self destruction.
 अभिषेकसमारम्भो राघवस्योपकल्पितः ॥ २४ ॥  
 अनेनैवाभिषेकेण भरतो मेऽभिषिच्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,12 +1110,15 @@ which were given by you then. Listen to my words".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो द्वितीयो वरो देव दत्तः प्रीतेन मे त्वया ॥ २५ ॥  
 तदा देवासुरे युद्धे तस्य कालोऽयमागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,6 +1159,7 @@ the battle between celestials and demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1095,6 +1167,8 @@ the battle between celestials and demons."
 चीराजिनधरो धीरो रामो भवतु तापसः ।  
 भरतो भजतामद्य यौवराज्यमकण्टकम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1129,12 +1203,15 @@ become an ascetic wearing rags, deer skin and matted hair".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे परमः कामो दत्तमेव वरं वृणे ।  
 अद्य चैव हि पश्येयं प्रयान्तं राघवं वने ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1170,6 +1247,7 @@ enemies. This is my greatest desire. Now I am asking for the boon given by you i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1178,6 +1256,8 @@ enemies. This is my greatest desire. Now I am asking for the boon given by you i
 परत्र वासे हि वदन्त्यनुत्तमं  
 तपोधनाः सत्यवचो हितं नृणाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,5 +1314,6 @@ world, they have to speak only the truth."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि हन्नॊन्दनॆय सर्ग पूर्णवायितु. ॥11॥
+</details>
 </details>
 

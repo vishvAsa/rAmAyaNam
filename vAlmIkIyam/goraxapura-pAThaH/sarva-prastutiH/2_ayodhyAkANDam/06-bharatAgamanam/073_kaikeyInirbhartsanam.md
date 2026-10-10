@@ -2,6 +2,8 @@
 title = "०७३ कैकेयीनिर्भर्त्सनम्"
 title_english = "073 Bharata reproaches Kaikeyi in many ways"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ Ayodhya and become his attendant.
 
 73. भरतका कैकेयीको धिक्कारना और उसके प्रति महान् रोष प्रकट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा च स पितुर्वृत्तं भ्रातरौ च विवासितौ ।  
 भरतो दुःखसन्तप्त इदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ tormented with grief and spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु कार्यं हतस्येह मम राज्येन शोचतः ।  
 विहीनस्याथ पित्रा च भ्रात्रा पितृसमेन च ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ is the use of a kingdom now to me, lamenting as I am with despair?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखे मे दुःखमकरोर्व्रणे क्षारमिवाददाः ।  
 राजानं प्रेतभावस्थं कृत्वा रामं च तापसम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ after another like sprinkling salt on a wound."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलस्य त्वमभावाय कालरात्रिरिवागता ।  
 अङ्गारमुपगूह्य स्म पिता मे नावबुद्धवान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ end of the world. My father could not be aware of his embracing a live char-coal
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्युमापादितो राजा त्वया मे पापदर्शिनि ।  
 सुखं परिहृतं मोहात् कुलेऽस्मिन् कुलपांसनि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,12 +262,15 @@ race unchaste! In this race, happiness is deserted through your ignorance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां प्राप्य हि पिता मेऽद्य सत्यसन्धो महायशाः ।  
 तीव्रदुःखाभिसन्तप्तो वृत्तो दशरथो नृपः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +311,15 @@ died, tormented as he was with bitter grief, because of you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनाशितो महाराजः पिता मे धर्मवत्सलः ।  
 कस्मात् प्रव्राजितो रामः कस्मादेव वनं गतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,12 +353,15 @@ you send Rama on exile to the forest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या च सुमित्रा च पुत्रशोकाभिपीडिते ।  
 दुष्करं यदि जीवेतां प्राप्य त्वां जननीं मम ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,12 +401,15 @@ sons, will live in fellowship with you, my mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्वार्योऽपि च धर्मात्मा त्वयि वृत्तिमनुत्तमाम् ।  
 वर्तते गुरुवृत्तिज्ञो यथा मातरि वर्तते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +451,15 @@ mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ज्येष्ठा हि मे माता कौसल्या दीर्घदर्शिनी ।  
 त्वयि धर्मं समास्थाय भगिन्यामिव वर्तते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +500,15 @@ established in piety, indeed used to behave with you as your sister."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः पुत्रं महात्मानं चीरवल्कलवाससम् ।  
 प्रस्थाप्य वनवासाय कथं पापे न शोचसे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +548,15 @@ clothed in a bark dress, to live in a forest? O, sinful one!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपापदर्शिनं शूरं कृतात्मानं यशस्विनम् ।  
 प्रव्राज्य चीरवसनं किं नु पश्यसि कारणम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +598,15 @@ gather for it?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लुब्धाया विदितो मन्ये न तेऽहं राघवं यथा ।  
 तथा ह्यनर्थो राज्यार्थं त्वयाऽऽनीतो महानयम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +647,15 @@ is exactly so. You have brought in this great calamity for the sake of a kingdom
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि पुरुषव्याघ्रावपश्यन् रामलक्ष्मणौ ।  
 केन शक्तिप्रभावेण राज्यं रक्षितुमुत्सहे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +698,15 @@ lions among men, Rama and Lakshmana in proximity to me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं हि नित्यं महाराजो बलवन्तं महौजसम् ।  
 उपाश्रितोऽभूद् धर्मात्मा मेरुर्मेरुवनं यथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,12 +748,15 @@ mountain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं कथमिमं भारं महाधुर्यसमुद्यतम् ।  
 दम्यो धुरमिवासाद्य सहेयं केन चौजसा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +798,15 @@ giant bullock."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा मे भवेच्छक्तिर्योगैर्बुद्धिबलेन वा ।  
 सकामां न करिष्यामि त्वामहं पुत्रगर्द्धिनीम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -795,12 +848,15 @@ of kingdom for your son, to fulfill your desire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे विकाङ्क्षा जायेत त्यक्तुं त्वां पापनिश्चयाम् ।  
 यदि रामस्य नावेक्षा त्वयि स्यान्मातृवत् सदा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +897,15 @@ Rama did not treat you like a mother at all times."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पन्ना तु कथं बुद्धिस्तवेयं पापदर्शिनी ।  
 साधुचारित्रविभ्रष्टे पूर्वेषां नो विगर्हिता ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +945,15 @@ our ancestors, has arisen in your mind at all?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् कुले हि सर्वेषां ज्येष्ठो राज्येऽभिषिच्यते ।  
 अपरे भ्रातरस्तस्मिन् प्रवर्तन्ते समाहिताः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +991,15 @@ brothers are to behave reverently towards their elder brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि मन्ये नृशंसे त्वं राजधर्ममवेक्षसे ।  
 गतिं वा न विजानासि राजवृत्तस्य शाश्वतीम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,12 +1041,15 @@ kings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सततं राजपुत्रेषु ज्येष्ठो राजाभिषिच्यते ।  
 राज्ञामेतत् समं तत् स्यादिक्ष्वाकूणां विशेषतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1024,12 +1092,15 @@ Ikshvaku kings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां धर्मैकरक्षाणां कुलचारित्रशोभिनाम् ।  
 अद्य चारित्रशौटीर्यं त्वां प्राप्य विनिवर्तितम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1144,15 @@ righteousness alone and who possessed good family conduct, is turned away by you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवापि सुमहाभागे जनेन्द्रकुलपूर्वके ।  
 बुद्धिमोहः कथमयं सम्भूतस्त्वयि गर्हितः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,12 +1195,15 @@ contemptible stupidity of mind born in you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु कामं करिष्यामि तवाहं पापनिश्चये ।  
 यया व्यसनमारब्धं जीवितान्तकरं मम ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1166,12 +1243,15 @@ which will cause even an end to my life, has been undertaken by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष त्विदानीमेवाहमप्रियार्थं तवानघम् ।  
 निवर्तयिष्यामि वनाद् भ्रातरं स्वजनप्रियम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1211,12 +1291,15 @@ my brother, who is a faultless man and a beloved man of his people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तयित्वा रामं च तस्याहं दीप्ततेजसः ।  
 दासभूतो भविष्यामि सुस्थितेनान्तरात्मना ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1256,6 +1339,7 @@ radiant with glory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1264,6 +1348,8 @@ radiant with glory."
 शोकार्दितश्चापि ननाद भूयः  
 सिंहो यथा मन्दरकन्दरस्थः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,5 +1405,6 @@ unpleasant words, roared again like a lion stationed in a mountain cave.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तमूरनॆय सर्ग पूर्णवायितु.॥73॥
+</details>
 </details>
 

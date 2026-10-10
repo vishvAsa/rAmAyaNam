@@ -2,6 +2,8 @@
 title = "०२२ रामलक्ष्मणनिष्क्रमणम्"
 title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -27,6 +29,7 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
 
 द्वाविंशे —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
 कृतस्वस्त्ययनं मात्रा पित्रा दशरथेन च ।  
 पुरोधसा वसिष्ठेन मङ्गलैरभिमन्त्रितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ When Vashishta said that way king Dasharatha with an air of satisfaction persona
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुत्रं मूर्ध्न्युपाघ्राय राजा दशरथस्तदा ।  
 ददौ कुशिकपुत्राय सुप्रीतेनान्तरात्मना ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,6 +188,7 @@ Duryodhana of Maha Bharata knows about this rule position and when he wanted to
 
 इति मातृ-मङ्गलान्य् एव प्रयुक्तम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -188,6 +197,8 @@ Duryodhana of Maha Bharata knows about this rule position and when he wanted to
 पुष्पवृष्टिर्महत्यासीद् देवदुन्दुभिनिःस्वनैः ।  
 शङ्खदुन्दुभिनिर्घोषः प्रयाते तु महात्मनि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +257,15 @@ Then on seeing the lotus-eyed Rama following Vishvamitra, dustless
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रो ययावग्रे ततो रामो महायशाः ।  
 काकपक्षधरो धन्वी तं च सौमित्रिरन्वगात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +304,15 @@ Rama with jet-black hair-locks handling his bow followed Vishvamitra who walked
 
 अनेन महान्तम् अनुसृत्य गन्तव्यम् इति सूचितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कलापिनौ धनुष्पाणी शोभयानौ दिशो दश ।  
 विश्वामित्रं महात्मानं त्रिशीर्षाविव पन्नगौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +373,15 @@ The meaning of As'vins from as'va a horse, Persian asp, Greek
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुजग्मतुरक्षुद्रौ पितामहमिवाश्विनौ ।  
 अनुयातौ श्रिया दीप्तौ शोभयन्तावनिन्दितौ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,6 +401,7 @@ _________________
 
 इन्तह अद्भुत रूप वीर्यादि वैभवयुक्तराद श्रीराम-लक्ष्मणरु-ब्रह्मदेवरन्नु अनुसरिसि होगुव अश्विनी देवतॆगळन्तॆ विश्वामित्ररन्नु अनुसरिसिहोगुत्तिद्दरु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -390,6 +411,8 @@ _________________
 अनुयातौ श्रिया दीप्तौ शोभयेतामनिन्दितौ ॥ १० ॥  
 स्थाणुं देवमिवाचिन्त्यं कुमाराविव पावकी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,6 +486,7 @@ and Vishaakha, are incorporated in simile to Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,6 +494,8 @@ and Vishaakha, are incorporated in simile to Rama and Lakshmana.
 रामेति मधुरां वाणीं विश्वामित्रोऽभ्यभाषत ।  
 गृहाण वत्स सलिलं मा भूत् कालस्य पर्ययः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +563,15 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रग्रामं गृहाण त्वं बलामतिबलां तथा ।  
 न श्रमो न ज्वरो वा ते न रूपस्य विपर्ययः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +612,15 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सुप्तं प्रमत्तं वा धर्षयिष्यन्ति नैर्ऋताः ।  
 न बाह्वोः सदृशो वीर्ये पृथिव्यामस्ति कश्चन ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +637,15 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 मलगिद्दाग इल्लवे ऎच्चरवागिरुवाग राक्षसरु निन्न मेलॆ आक्रमण माडलाररु. ई भूतळदल्लि बाहुबलदल्लि निनगॆ समानरादवरु यारू इरलारर.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिषु लोकेषु वा राम न भवेत् सदृशस्तव ।  
 बलामतिबलां चैव पठतस्तात राघव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +684,15 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सौभाग्ये न दाक्षिण्ये न ज्ञाने बुद्धिनिश्चये ।  
 नोत्तरे प्रतिवक्तव्ये समो लोके तवानघ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +726,15 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद्विद्याद्वये लब्धे न भवेत् सदृशस्तव ।  
 बला चातिबला चैव सर्वज्ञानस्य मातरौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,6 +768,7 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -734,6 +776,8 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 बलामतिबलां चैव पठतस्तात राघव ॥ १८ ॥  
 गृहाण सर्वलोकस्य गुप्तये रघुनन्दन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +828,15 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्याद्वयमधीयाने यशश्चाथ भवेद् भुवि ।  
 पितामहसुते ह्येते विद्ये तेजःसमन्विते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,6 +859,7 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 ई ऎरडु विद्यॆगळन्नु अध्ययन माडिदाग ई भूतळदल्लि निन्न कीर्तिय विस्तारवागुवुदु. इवॆरडु विद्यॆगळु ब्रह्मदेवर तेजस्वी पुत्रियरागिद्दारॆ.॥19½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -819,6 +867,8 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 कामं बहुगुणाः सर्वे त्वय्येते नात्र संशयः ॥ २० ॥  
 तपसा सम्भृते चैते बहुरूपे भविष्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +921,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो जलं स्पृष्ट्वा प्रहृष्टवदनः शुचिः ॥ २१ ॥  
 प्रतिजग्राह ते विद्ये महर्षेर्भावितात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +964,15 @@ Then Rama on touching water to purify himself received those teachings from the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्यासमुदितो रामः शुशुभे भीमविक्रमः ॥ २२ ॥  
 सहस्ररश्मिर्भगवान‍्शरदीव दिवाकरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,12 +1032,15 @@ Throughout this chapter Vishvamitra addresses Rama alone to learn the hymns. It
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुकार्याणि सर्वाणि नियुज्य कुशिकात्मजे ।  
 ऊषुस्तां रजनीं तत्र सरय्वां ससुखं त्रयः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,6 +1071,7 @@ _________________
 
 अनेनाचार्येण सदृशे शिष्ये नियमोपदेश-पूर्वकं मन्त्रोपदेशः शुचौ देशे कर्तव्यः, शिष्येणापि कृत-स्नानाचमनेन गुरु-नियमेन मन्त्रं गृहीत्वा गुरु-शुश्रूषणादिकम् अवश्यं कर्तव्यम् इति सूचितम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1020,6 +1080,8 @@ _________________
 कुशिकसुतवचोऽनुलालिताभ्यां  
 सुखमिव सा विबभौ विभावरी च ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,5 +1135,6 @@ Though both Rama and Lakshmana slept on an undeserving grass bed, nestled by the
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तॆरडनॆय सर्ग पूर्णवायितु. ॥22॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३७ रामादिभिः चीरपरिधानम्"
 title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-037-Chira_Paridhanam.mp3"></div>
 </details>
@@ -9,6 +11,7 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 <details><summary>भागसूचना</summary>
 
 37. श्रीराम आदिका वल्कल-वस्त्र-धारण, सीताके वल्कल-धारणसे रनिवासकी स्त्रियोंको खेदतथा गुरु वसिष्ठका कैकेयीको फटकारते हुए सीताके वल्कल-धारणका अनौचित्य बताना
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18,6 +21,8 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 **अभ्यभाषत** वाक्यं तु  
 विनयज्ञो विनीतवत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -57,6 +62,7 @@ then to Dasaratha as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -65,6 +71,8 @@ then to Dasaratha as follows:
 **किं कार्यम्** अनुयात्रेण  
 त्यक्त-सङ्गस्य सर्वतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -100,6 +108,7 @@ me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -108,6 +117,8 @@ me?"
 रज्जु-स्नेहेन किं तस्य  
 त्यजतः कुञ्जरोत्तमम् ॥ ३ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,6 +159,7 @@ the excellent elephant?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -156,6 +168,8 @@ the excellent elephant?"
 सर्वाण्य् **एवानुजानामि**  
 **चीराण्य् एवानयन्तु** मे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +210,7 @@ King, when I am giving away absolutely all. Let the dresses of a mendicant be br
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +219,8 @@ King, when I am giving away absolutely all. Let the dresses of a mendicant be br
 चतुर्दश वने वासं  
 वर्षाणि वसतो मम ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +260,7 @@ basket both for me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,6 +269,8 @@ basket both for me."
 **उवाच परिधत्स्वेति**  
 जनौघे निरपत्रपा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,6 +311,7 @@ on"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,6 +320,8 @@ on"
 सूक्ष्मवस्त्रम् **अवक्षिप्य**  
 मुनिवस्त्राण्य् **अवस्त** ह ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,6 +362,7 @@ discarding his clothing of fine yarn, Rama put on the garb of ascetics.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -347,6 +371,8 @@ discarding his clothing of fine yarn, Rama put on the garb of ascetics.
 तापसाच्छादने चैव  
 **जग्राह** पितुरग्रतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,6 +412,7 @@ discarding his beautiful raiment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,6 +433,8 @@ discarding his beautiful raiment.
 इति ह्यकुशला सीता  
 सा **मुमोह** मुहुर्मुहुः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,6 +529,7 @@ worne by her, felt alarming as a deer would on seeing a snare(set for entrapping
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -508,6 +538,8 @@ worne by her, felt alarming as a deer would on seeing a snare(set for entrapping
 **तस्थौ** ह्यकुशला तत्र  
 व्रीडिता जनकात्मजा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,6 +579,7 @@ stood abashed, not adept as she was in wearing it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -555,6 +588,8 @@ stood abashed, not adept as she was in wearing it.
 **चीरं बबन्ध** सीतायाः  
 कौशेयस्योपरि स्वयम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,6 +629,7 @@ that bark over the sild garment of Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -602,6 +638,8 @@ that bark over the sild garment of Seetha.
 अन्तःपुरचरा नार्यो  
 **मुमुचुर्** वारि नेत्रजम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,6 +679,7 @@ the gynaecium shed tears from their eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -649,6 +688,8 @@ the gynaecium shed tears from their eyes.
 वत्स **नैवं नियुक्तेयं**  
 वनवासे मनस्विनी ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +730,7 @@ Dear child! This Seetha the high sould, was not so commanded to reside in the fo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -697,6 +739,8 @@ Dear child! This Seetha the high sould, was not so commanded to reside in the fo
 तावद् दर्शनम् अस्या नः  
 **सफलं भवतु** प्रभो ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -731,6 +775,7 @@ Rama, let her sight be a reward to us till your return."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -739,6 +784,8 @@ Rama, let her sight be a reward to us till your return."
 **नेयम् अर्हति** कल्याणि  
 वस्तुं तापसवद् वने ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +826,7 @@ beautiful girl is not fit to reside in a forest like an ascetic."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -787,6 +835,8 @@ beautiful girl is not fit to reside in a forest like an ascetic."
 धर्मनित्यः स्वयं स्थातुं  
 **न** हीदानीं **त्वमिच्छसि** ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,6 +877,7 @@ you the ever righteous in any case do not wish to stay back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -839,6 +890,8 @@ you the ever righteous in any case do not wish to stay back.
 **निवार्य** सीतां, कैकेयीं  
 वसिष्ठो वाक्यम् **अब्रवीत्** ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,6 +953,7 @@ Seetha, who has a well-matched nature.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -908,6 +962,8 @@ Seetha, who has a well-matched nature.
 **वञ्चयित्वा** तु राजानं  
 **न** प्रमाणे **ऽवतिष्ठसि** ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,6 +1006,7 @@ disgrace to your family! You are not establishing justifiable standard and you m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -958,6 +1015,8 @@ disgrace to your family! You are not establishing justifiable standard and you m
 **अनुष्ठास्यति** रामस्य  
 सीता प्रकृत-मासनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,6 +1050,7 @@ will occuply the throne, which was awarded to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -999,6 +1059,8 @@ will occuply the throne, which was awarded to Rama."
 आत्मेयम् इति रामस्य  
 **पालयिष्यति** मेदिनीम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,6 +1094,7 @@ Rama's self, she can rule the earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1044,6 +1107,8 @@ Rama's self, she can rule the earth."
 सहोपजीव्यं राष्ट्रं च  
 पुरं च सपरिच्छदम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,6 +1162,7 @@ This city too will go."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1105,6 +1171,8 @@ This city too will go."
 वने वसन्तं काकुत्स्थम्  
 **अनुवत्स्यति** पूर्वजम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1147,6 +1215,7 @@ their brother residing in the forest and moving in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1155,6 +1224,8 @@ their brother residing in the forest and moving in the forest."
 त्वमेका **शाधि** दुर्वृत्ता  
 प्रजानाम् अहिते स्थिता ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1198,6 +1269,7 @@ is bereft of people and desolate, with its trees alone remaining.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1206,6 +1278,8 @@ is bereft of people and desolate, with its trees alone remaining.
 तद् वनं **भविता** राष्ट्रं  
 **यत्र** रामो **निवत्स्यति** ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,6 +1314,7 @@ forest, where Rama will be living, can become a kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1248,6 +1323,8 @@ forest, where Rama will be living, can become a kingdom."
 त्वयि वा पुत्रवद् वस्तुं  
 यदि जातो महीपतेः ॥ ३० ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1287,6 +1364,7 @@ is not being offered by his father nor to live as a son in your case."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1295,6 +1373,8 @@ is not being offered by his father nor to live as a son in your case."
 पितृवंश-चरित्र-ज्ञः  
 सोऽन्यथा **न करिष्यति** ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,6 +1414,7 @@ the record of his father's dynasty will not do as you wish him to do"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1342,6 +1423,8 @@ the record of his father's dynasty will not do as you wish him to do"
 लोके **न** हि स **विद्येत**  
 यो न राममनुव्रतः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1382,12 +1465,15 @@ covetons towards his well-being. There is none indeed in this world who is not d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रक्ष्यस्यद्यैव कैकेयि पशुव्यालमृगद्विजान् ।  
 गच्छतः सह रामेण पादपांश्च तदुन्मुखान् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,6 +1517,7 @@ with Rama and trees also turning their faces towards Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,6 +1526,8 @@ with Rama and trees also turning their faces towards Rama."
 न चीरमस्याः प्रविधीयतेति  
 न्यवारयत् तद् वसनं वसिष्ठः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1477,6 +1566,7 @@ prevented that wearing of garment by Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1485,6 +1575,8 @@ prevented that wearing of garment by Seetha.
 विभूषितेयं प्रतिकर्मनित्या  
 वसत्वरण्ये सह राघवेण ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1531,6 +1623,7 @@ Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1539,6 +1632,8 @@ Rama."
 वस्त्रैश्च सर्वैः सहितैर्विधानै-  
 र्नेयं वृता ते वरसम्प्रदाने ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1590,6 +1685,7 @@ boons"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1598,6 +1694,8 @@ boons"
 नैव स्म सीता विनिवृत्तभावा  
 प्रियस्य भर्तुः प्रतिकारकामा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1646,5 +1744,6 @@ the ways of her beloved husband.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तेळनॆय सर्ग पूर्णवायितु.॥37॥
+</details>
 </details>
 

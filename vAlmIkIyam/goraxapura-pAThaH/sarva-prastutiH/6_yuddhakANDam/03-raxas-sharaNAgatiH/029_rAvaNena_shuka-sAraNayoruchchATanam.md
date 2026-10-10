@@ -2,6 +2,8 @@
 title = "०२९ रावणेन शुक-सारणयोरुच्चाटनम्"
 title_english = "029 Ravana reprimands Shuka and Sarana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,6 +24,7 @@ back Lanka.
 
 29. रावणका शुक और सारणको फटकारकर अपने दरबारसे निकाल देना, उसके भेजे हुए गुप्तचरोंका श्रीरामकी दयासे वानरोंके चंगुलसे छूटकर लङ्कामें आना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -34,6 +37,8 @@ back Lanka.
 सुषेणं कुमुदं नीलं नलं च प्लवगर्षभम् ।  
 गजं गवाक्षं शरभं मैन्दं च द्विविदं तथा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,12 +61,15 @@ back Lanka.
 
 शुकनु हेळुत्तिद्दन्तॆ रावणनु समस्त सेनापतिगळन्नू, श्रीरामन बलगैयन्तिद्द महापराक्रमि लक्ष्मणनन्नु, श्रीरामन बळियल्लि कुळितिरुव तन्न तम्म विभीषणनन्नू, वानरर राजनाद भयङ्कर पराक्रमि सुग्रीवनू, इन्द्रपुत्र वालिय पुत्र बलवन्त अङ्गदनन्नु, बल-विक्रमशाली हनुमन्तनन्नू, दुर्जयवीर जाम्बवन्तनन्नू, सुषेण, कुमुद, नील, वानर श्रेष्ठ नळनन्नू, गज, गवाक्ष, शरभ, मैन्द-द्विविदरन्नु नोडिदनु.॥1-4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्चिदाविग्नहृदयो जातक्रोधश्च रावणः ।  
 भर्त्सयामास तौ वीरौ कथान्ते शुकसारणौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ their report.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधोमुखौ तौ प्रणतावब्रवीच्छुकसारणौ ।  
 रोषगद‍्गदया वाचा संरब्धं परुषं तथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ Shuka and Sarana who stood saluting with their faces bent down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावत् सदृशं नाम सचिवैरुपजीविभिः ।  
 विप्रियं नृपतेर्वक्तुं निग्रहे प्रग्रहे प्रभोः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ who has the power to mete out any punishment or reward."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रिपूणां प्रतिकूलानां युद्धार्थमभिवर्तताम् ।  
 उभाभ्यां सदृशं नाम वक्तुमप्रस्तवे स्तवम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ adverse to us and are approaching for a war?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचार्या गुरवो वृद्धा वृथा वां पर्युपासिताः ।  
 सारं यद् राजशास्त्राणामनुजीव्यं न गृह्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ since the essence to be followed from political sciences has not been grasped by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतो वा न विज्ञातो भारोऽज्ञानस्य वाह्यते ।  
 ईदृशैः सचिवैर्युक्तो मूर्खैर्दिष्ट्या धराम्यहम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ to retain my sovereignty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु मृत्योर्भयं नास्ति मां वक्तुं परुषं वचः ।  
 यस्य मे शासतो जिह्वा प्रयच्छति शुभाशुभम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ you dare tongue dispenses good and evil?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्येव दहनं स्पृष्ट्वा वने तिष्ठन्ति पादपाः ।  
 राजदण्डपरामृष्टास्तिष्ठन्ते नापराधिनः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ survive, if touched by the royal scepter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यामहं त्विमौ पापौ शत्रुपक्षप्रशंसिनौ ।  
 यदि पूर्वोपकारैर्मे क्रोधो न मृदुतां व्रजेत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,6 +518,7 @@ killed thse two miscreants who are praising the band of enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -493,6 +526,8 @@ killed thse two miscreants who are praising the band of enemies."
 नहि वां हन्तुमिच्छामि स्मराम्युपकृतानि वाम् ।  
 हतावेव कृतघ्नौ द्वौ मयि स्नेहपराङ्मुखौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ unfaithful towards me, are just as dead to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तौ तु सव्रीडौ तौ दृष्ट्वा शुकसारणौ ।  
 रावणं जयशब्देन प्रतिनन्द्याभिनिःसृतौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +620,7 @@ to him saying, "Be thou victorious!" and went away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -589,6 +628,8 @@ to him saying, "Be thou victorious!" and went away.
 उपस्थापय मे शीघ्रं चारानिति निशाचरः ।  
 महोदरस्तथोक्तस्तु शीघ्रमाज्ञापयच्चरान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +674,15 @@ spies here quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चाराः सन्त्वरिताः प्राप्ताः पार्थिवशासनात् ।  
 उपस्थिताः प्राञ्जलयो वर्धयित्वा जयाशिषः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ spies here quickly."
 
 राजन अप्पणॆ पडॆदु गुप्तचररु आगले विजयसूचक आशीर्वाद कॊडुत्ता कैमुगिदु सेवॆयल्लि उपस्थितरादरु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानब्रवीत् ततो वाक्यं रावणो राक्षसाधिपः ।  
 चारान् प्रत्यायिकान् शूरान् धीरान् विगतसाध्वसान् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +745,15 @@ approached him, having made a complement expressing their desire to see him vict
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतो गच्छत रामस्य व्यवसायं परीक्षितुम् ।  
 मन्त्रेष्वभ्यन्तरा येऽस्य प्रीत्या तेन समागताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +794,15 @@ faithful, brave, energetic and free from fear:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं स्वपिति जागर्ति किमद्य च करिष्यति ।  
 विज्ञाय निपुणं सर्वमागन्तव्यमशेषतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +844,15 @@ towards him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारेण विदितः शत्रुः पण्डितैर्वसुधाधिपैः ।  
 युद्धे स्वल्पेन यत्नेन समासाद्य निरस्यते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +892,15 @@ You ought to come here, after acquainting with all this information completely a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारास्तु ते तथेत्युक्त्वा प्रहृष्टा राक्षसेश्वरम् ।  
 शार्दूलमग्रतः कृत्वा ततश्चक्रुः प्रदक्षिणम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,12 +940,15 @@ little of effort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं तु महात्मानं चारा राक्षससत्तमम् ।  
 कृत्वा प्रदक्षिणं जग्मुर्यत्र रामः सलक्ष्मणः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +989,15 @@ their front and made their circumambulation clockwise around Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सुवेलस्य शैलस्य समीपे रामलक्ष्मणौ ।  
 प्रच्छन्ना ददृशुर्गत्वा ससुग्रीवविभीषणौ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,12 +1032,15 @@ demon, the spies went to the place where Rama along with Lakshmana were there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेक्षमाणाश्चमूं तां च बभूवुर्भयविह्वलाः ।  
 ते तु धर्मात्मना दृष्टा राक्षसेन्द्रेण राक्षसाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,12 +1080,15 @@ Sugreeva and Vibhishana in the neighbourhood of Mountain Suvela.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणेन तत्रस्था निगृहीता यदृच्छया ।  
 शार्दूलो ग्राहितस्त्वेकः पापोऽयमिति राक्षसः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1128,15 @@ observed by the high-souled Vibhishana the Lord of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोचितः सोऽपि रामेण वध्यमानः प्लवङ्गमैः ।  
 आनृशंस्येन रामेण मोचिता राक्षसाः परे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1103,12 +1177,15 @@ Shardula among them was wicked and got him alone seized.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरैरर्दितास्ते तु विक्रान्तैर्लघुविक्रमैः ।  
 पुनर्लङ्कामनुप्राप्ताः श्वसन्तो नष्टचेतसः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1149,6 +1226,7 @@ Rama. The other demons also were got released by Rama, the kind man.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1157,6 +1235,8 @@ Rama. The other demons also were got released by Rama, the kind man.
 गिरेः सुवेलस्य समीपवासिनं  
 न्यवेदयन् रामबलं महाबलाः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1208,5 +1288,6 @@ insensible, heaved a sigh and reached back Lanka.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥29॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४६ दुन्दुभिवृत्तान्तः"
 title_english = "046 Sugreeva s knowledge of physical world"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,12 +25,15 @@ a plighted flight, Sugreeva says, he acquired a direct and personal knowledge of
 
 46. सुग्रीवका श्रीरामचन्द्रजीको अपने भूमण्डल-भ्रमणका वृत्तान्त बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतेषु वानरेन्द्रेषु रामः सुग्रीवमब्रवीत् ।  
 कथं भवान् विजानीते सर्वं वै मण्डलं भुवः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ the globe of earth in its entirety?" [4-46-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवश्च ततो राममुवाच प्रणतात्मवान् ।  
 श्रूयतां सर्वमाख्यास्ये विस्तरेण वचो मम ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +121,7 @@ Then Sugreeva bowing down before Rama said, "I will narrate all vividly, and let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ Then Sugreeva bowing down before Rama said, "I will narrate all vividly, and let
 तदा विवेश महिषो मलयस्य गुहां प्रति ।  
 विवेश वाली तत्रापि मलयं तज्जिघांसया ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,12 +201,15 @@ Maayaavi and Dundubhi.
 
 * यहाँ दुन्दुभि और महिष शब्दसे उसके पुत्र मायावी नामक दानवका ही वर्णन हुआ है—ऐसा मानना चाहिये; क्योंकि आगे कही जानेवाली सारी बातें उसीके वृत्तान्तसे सम्बन्ध रखती हैं । पिता भैंसेका रूप धारण करता था, यही गुण उसके पुत्र मायावीमें भी था । इसलिये उसको भी महिष या महिषाकृति कहना असङ्गत नहीं है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं तत्र निक्षिप्तो गुहाद्वारि विनीतवत् ।  
 न च निष्क्रामते वाली तदा संवत्सरे गते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ after one full year. [4-46-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्षतजवेगेन आपुपूरे तदा बिलम् ।  
 तदहं विस्मितो दृष्ट्वा भ्रातुः शोकविषार्दितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,12 +296,15 @@ loss of my brother agonised me. [4-46-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाहं गतबुद्धिस्तु सुव्यक्तं निहतो गुरुः ।  
 शिला पर्वतसङ्काशा बिलद्वारि मया कृता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +348,15 @@ within that cave itself. [4-46-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशक्नुवन्निष्क्रमितुं महिषो विनशिष्यति ।  
 ततोऽहमागां किष्किन्धां निराशस्तस्य जीविते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ within that cave itself. [4-46-7, 8a]
 
 ई बण्डॆयिन्द बागिलु मुच्चिद्दरिन्द वायावि हॊरगॆ बरलारनु, ऒळगॆ उसिरुकट्टि सायुवनु ऎन्दु योचिसिदॆ. बळिक अण्णनु मडिदिरबहुदॆन्दु योजिसि निराशनागि नानु किष्किन्धॆगॆ मरळि बन्दॆ.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं च सुमहत् प्राप्य तारां च रुमया सह ।  
 मित्रैश्च सहितस्तत्र वसामि विगतज्वरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +416,15 @@ and also Ruma along with Tara, I was peaceably staying there with friends. [4-46
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आजगाम ततो वाली हत्वा तं वानरर्षभः ।  
 ततोऽहमददां राज्यं गौरवाद् भययन्त्रितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ me, and I gave back the kingdom to Vali owing to my deference to him. [4-46-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मां जिघांसुर्दुष्टात्मा वाली प्रव्यथितेन्द्रियः ।  
 परिकालयते वाली धावन्तं सचिवैः सह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,6 +510,7 @@ even though I was running away from him with my ministers, as he wished to kill 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -486,6 +519,8 @@ even though I was running away from him with my ministers, as he wished to kill 
 आदर्शतलसङ्काशा ततो वै पृथिवी मया ।  
 अलातचक्रप्रतिमा दृष्टा गोष्पदवत् कृता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +587,15 @@ diverse rivers, forests and cities. [4-46-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वां दिशं ततो गत्वा पश्यामि विविधान् द्रुमान् ।  
 पर्वतान् सदरीन् रम्यान् सरांसि विविधानि च ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +637,15 @@ ca* = numerous, lakes, also; *pashyaami* = I saw.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदयं तत्र पश्यामि पर्वतं धातुमण्डितम् ।  
 क्षीरोदं सागरं चैव नित्यमप्सरसालयम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,12 +684,15 @@ Water Oceans which is forever an abode for apsara-s. [4-46-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिकाल्यमानस्तु तदा वालिनाभिद्रुतो ह्यहम् ।  
 पुनरावृत्य सहसा प्रस्थितोऽहं तदा विभो ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ travel - chased to flee.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशस्तस्यास्ततो भूयः प्रस्थितो दक्षिणां दिशम् ।  
 विन्ध्यपादपसङ्कीर्णां चन्दनद्रुमशोभिताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,12 +782,15 @@ diverse trees, especially with sandalwood trees. [4-46-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रुमशैलान्तरे पश्यन् भूयो दक्षिणतोऽपराम् ।  
 अपरां च दिशं प्राप्तो वालिना समभिद्रुतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +833,15 @@ me from within the interiors of those forests and mountains, and then I reached 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पश्यन् विविधान् देशानस्तं च गिरिसत्तमम् ।  
 प्राप्य चास्तं गिरिश्रेष्ठमुत्तरं सम्प्रधावितः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,6 +881,7 @@ Dusk also, and since Vali is at my heel, I took to my heels, by a long way to no
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -835,6 +889,8 @@ Dusk also, and since Vali is at my heel, I took to my heels, by a long way to no
 यदा न विन्दे शरणं वालिना समभिद्रुतः ॥ २० ॥  
 ततो मां बुद्धिसम्पन्नो हनुमान् वाक्यमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,6 +939,7 @@ said a word to me. [4-46-20, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -890,6 +947,8 @@ said a word to me. [4-46-20, 21a]
 मतङ्गेन तदा शप्तो ह्यस्मिन्नाश्रममण्डले ।  
 प्रविशेद् यदि वै वाली मूर्धास्य शतधा भवेत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,6 +997,7 @@ in sage Matanga's hermitage will be peaceful and imperturbable for us.' Thus Han
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -945,6 +1005,8 @@ in sage Matanga's hermitage will be peaceful and imperturbable for us.' Thus Han
 ततः पर्वतमासाद्य ऋष्यमूकं नृपात्मज ॥ २३ ॥  
 न विवेश तदा वाली मतङ्गस्य भयात् तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -966,12 +1028,15 @@ _________________
 
 आद्दरिन्द अल्लि नॆलॆसुवुदु नमगॆ सुखमय मत्तु निर्भयवागुवुदु. राजकुमार! ई निश्चयक्कॆ अनुसार नावु ऋष्यमूक पर्वतद मेलॆ बन्दु इरतॊडगिदॆवु. आग मतङ्ग ऋषिय भयदिन्द वालियु अल्लि प्रवेशिसलिल्ल.॥23½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मया तदा राजन् प्रत्यक्षमुपलक्षितम् ।  
 पृथिवीमण्डलं सर्वं गुहामस्म्यागतस्ततः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1019,5 +1084,6 @@ its entirety, and then I came into the cave of Rishyamuka and did not stir out."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तारनॆय सर्ग सम्पूर्णवायितु.॥46॥
+</details>
 </details>
 

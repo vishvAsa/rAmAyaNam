@@ -2,6 +2,8 @@
 title = "०७४ हनुमता हिमालयप्रयाणम्"
 title_english = "074 Hanuma s journey to Himalayas"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -28,6 +30,7 @@ Lakshmana and all the monkeys regain their normal health.
 
 74. जाम्बवान् के आदेशसे हनुमान् जी का हिमालयसे दिव्य ओषधियोंके पर्वतको लाना और उन ओषधियोंकी गन्धसे श्रीराम, लक्ष्मण एवं समस्त वानरोंका पुनः स्वस्थ होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -36,6 +39,8 @@ Lakshmana and all the monkeys regain their normal health.
 सुग्रीवनीलाङ्गदजाम्बवन्तो  
 न चापि किञ्चित् प्रतिपेदिरे ते ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,6 +78,7 @@ of monkey-leaders fainted. Sugreeva, Nila, Angada and Jambavan could not underst
 
 युद्धभूमियल्लि राम-लक्ष्मणरिब्बरू निश्चेष्टिरागि बिद्दाग वानर सेनापतिगळ सैन्यवु किङ्कर्तव्य मूढवायितु. सुग्रीव, नील, अङ्गद मत्तु जाम्बवन्तरिगू आग एनू तोचलिल्ल.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,6 +87,8 @@ of monkey-leaders fainted. Sugreeva, Nila, Angada and Jambavan could not underst
 उवाच शाखामृगराजवीरा-  
 नाश्वासयन्नप्रतिमैर्वचोभिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +134,7 @@ monkeys:
 
 आग ऎल्लरू विषाददल्लि मुळुगिरुवुदन्नु नोडि बुद्धिवन्तरल्लि श्रेष्ठविभीषणनु वानरराजनु आ वीर सैनिकरिगॆ आश्वासनॆयन्नु कॊडुत्ता अनुपम वाणियिन्द नुडिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -134,6 +143,8 @@ monkeys:
 स्वयम्भुवो वाक्यमथोद्वहन्तौ  
 यत्सादिताविन्द्रजितास्त्रजालैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,6 +193,7 @@ despondency now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -190,6 +202,8 @@ despondency now."
 तन्मानयन्तौ युधि राजपुत्रौ  
 निपातितौ कोऽत्र विषादकालः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +250,15 @@ in battle. This not a time for despondency here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्ममस्त्रं ततो धीमान् मानयित्वा तु मारुतिः ।  
 विभीषणवचः श्रुत्वा हनूमानिदमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +298,15 @@ presided over by Brahma and hearing the words of Vibhishana, spoke the following
 
 विभीषणन मातन्नु केळि बुद्धिवन्त मारुतियु ब्रह्मास्त्रवन्नु सम्मानिसुत्ता अवनल्लि हीगॆ हेळिदनु -॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन्नस्त्रहते सैन्ये वानराणां तरस्विनाम् ।  
 यो यो धारयते प्राणांस्तं तमाश्वासयावहे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +332,15 @@ _________________
 
 राक्षस राजने! ई अस्त्रदिन्द गायगॊण्डु बदुकिरुव वेगशालि वानर सैनिकरिगॆ नावु होगि आश्वासनॆ यन्नु नीडबेकु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावुभौ युगपद् वीरौ हनूमद्राक्षसोत्तमौ ।  
 उल्काहस्तौ तदा रात्रौ रणशीर्षे विचेरतुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,6 +374,7 @@ roamed about in the battle-front, with torches in their hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -359,6 +383,8 @@ roamed about in the battle-front, with torches in their hands.
 पतितैः पर्वताकारैर्वानरैरभिसंवृताम् ।  
 शस्त्रैश्च पतितैर्दीप्तैर्ददृशाते वसुन्धराम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +438,7 @@ flaming weapons fallen around.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -420,6 +447,8 @@ flaming weapons fallen around.
 मैन्दं नलं ज्योतिर्मुखं द्विविदं चापि वानरम् ।  
 विभीषणो हनूमांश्च ददृशाते हतान् रणे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,12 +501,15 @@ the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तषष्टिर्हताः कोट्यो वानराणां तरस्विनाम् ।  
 अह्नः पञ्चमशेषेण वल्लभेन स्वयम्भुवः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +550,15 @@ six Ghatikas (or two hours and twenty four minutes) each. They were known by the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरौघनिभं भीमं दृष्ट्वा बाणार्दितं बलम् ।  
 मार्गते जाम्बवन्तं च हनूमान् सविभीषणः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,6 +601,7 @@ terrific army (wounded by the arrows) which appeared like the tide of an ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -574,6 +610,8 @@ terrific army (wounded by the arrows) which appeared like the tide of an ocean.
 दृष्ट्वा समभिसङ्क्रम्य पौलस्त्यो वाक्यमब्रवीत् ।  
 कच्चिदार्य शरैस्तीक्ष्णैर्न प्राणा ध्वंसितास्तव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ like an extinguishing fire, Vibhishana approached him and spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा जाम्बवानृक्षपुङ्गवः ।  
 कृच्छ्रादभ्युद‍‍्गिरन् वाक्यमिदं वचनमब्रवीत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -650,12 +691,15 @@ difficulty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैर्ऋतेन्द्र महावीर्य स्वरेण त्वाभिलक्षये ।  
 विद्धगात्रः शितैर्बाणैर्न त्वां पश्यामि चक्षुषा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +740,15 @@ you by your voice alone. Pierced with sharp arrows, I am not able to see you wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अञ्जना सुप्रजा येन मातरिश्वा च सुव्रत ।  
 हनूमान् वानरश्रेष्ठः प्राणान् धारयते क्वचित् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +793,15 @@ where nearby?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा जाम्बवतो वाक्यमुवाचेदं विभीषणः ।  
 आर्यपुत्रावतिक्रम्य कस्मात् पृच्छसि मारुतिम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,12 +836,15 @@ enquire about Hanuman, passing over the venerable sons of Dasaratha?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव राजनि सुग्रीवे नाङ्गदे नापि राघवे ।  
 आर्य सन्दर्शितः स्नेहो यथा वायुसुते परः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +879,15 @@ being shown towards Sugreeva or Angada or even Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा जाम्बवान् वाक्यमब्रवीत् ।  
 शृणु नैर्ऋतशार्दूल यस्मात् पृच्छामि मारुतिम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +928,15 @@ demons! Listen to me, why I am enquiring about Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिञ्जीवति वीरे तु हतमप्यहतं बलम् ।  
 हनूमत्युज्झितप्राणे जीवन्तोऽपि मृता वयम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +970,15 @@ other hand, if Hanuma has given up is life, we are all dead, even though living.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धरते मारुतिस्तात मारुतप्रतिमो यदि ।  
 वैश्वानरसमो वीर्ये जीविताशा ततो भवेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -959,12 +1021,15 @@ survives; then there is a hope for all of us to survive.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वृद्धमुपागम्य विनयेनाभ्यवादयत् ।  
 गृह्य जाम्बवतः पादौ हनूमान् मारुतात्मजः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,12 +1066,15 @@ salutation, by grasping the feet of Jambavan with modesty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनूमतो वाक्यं तदा विव्यथितेन्द्रियः ।  
 पुनर्जातमिवात्मानं मन्यते स्मर्क्षपुङ्गवः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1114,15 @@ senses, considered himself as though born again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्महातेजा हनूमन्तं स जाम्बवान् ।  
 आगच्छ हरिशार्दूल वानरांस्त्रातुमर्हसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,12 +1160,15 @@ foremost of monkeys! You ought to protect the lives of monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नान्यो विक्रमपर्याप्तस्त्वमेषां परमः सखा ।  
 त्वत्पराक्रमकालोऽयं नान्यं पश्यामि कञ्चन ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,12 +1204,15 @@ do it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानरवीराणामनीकानि प्रहर्षय ।  
 विशल्यौ कुरु चाप्येतौ सादितौ रामलक्ष्मणौ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1169,12 +1246,15 @@ from their arrow-wounds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गत्वा परममध्वानमुपर्युपरि सागरम् ।  
 हिमवन्तं नगश्रेष्ठं हनूमन् गन्तुमर्हसि ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1208,12 +1288,15 @@ higher and higher over the large ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः काञ्चनमत्युच्चमृषभं पर्वतोत्तमम् ।  
 कैलासशिखरं चात्र द्रक्ष्यस्यरिनिषूदन ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1337,15 @@ excellent mountain and the very much powerful peak of Kailasa, with a golden hue
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः शिखरयोर्मध्ये प्रदीप्तमतुलप्रभम् ।  
 सर्वौषधियुतं वीर द्रक्ष्यस्योषधिपर्वतम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1300,12 +1386,15 @@ unequally brilliant herbal mountain, containing all kinds of herbs."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वानरशार्दूल चतस्रो मूर्ध्नि सम्भवाः ।  
 द्रक्ष्यस्योषधयो दीप्ता दीपयन्तीर्दिशो दश ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1349,12 +1438,15 @@ herbs. You can see them, illuminating the ten quarters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृतसञ्जीवनीं चैव विशल्यकरणीमपि ।  
 सुवर्णकरणीं चैव सन्धानीं च महौषधीम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1401,12 +1493,15 @@ of joining severed limbs or fractured bone)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः सर्वा हनुमन् गृह्य क्षिप्रमागन्तुमर्हसि ।  
 आश्वासय हरीन् प्राणैर्योज्य गन्धवहात्मज ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1447,12 +1542,15 @@ monkeys, by injecting lives into them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा जाम्बवतो वाक्यं हनूमान् मारुतात्मजः ।  
 आपूर्यत बलोद्धर्षैर्वायुवेगैरिवार्णवः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1493,12 +1591,15 @@ strength, as the ocean gets animated with the force of the wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पर्वततटाग्रस्थः पीडयन् पर्वतोत्तमम् ।  
 हनूमान् दृश्यते वीरो द्वितीय इव पर्वतः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1538,12 +1639,15 @@ Standing on the summit of Trikuta mountain and pressing the foremost of mountain
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरिपादविनिर्भग्नो निषसाद स पर्वतः ।  
 न शशाक तदात्मानं वोढुं भृशनिपीडितः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1586,12 +1690,15 @@ bear its weight and sank.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पेतुर्नगा भूमौ हरिवेगाच्च जज्वलुः ।  
 शृङ्गाणि च व्यकीर्यन्त पीडितस्य हनूमता ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1626,12 +1733,15 @@ due to rapidity of Hanuma. Its peaks also got broken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् सम्पीड्यमाने तु भग्नद्रुमशिलातले ।  
 न शेकुर्वानराः स्थातुं घूर्णमाने नगोत्तमे ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1666,12 +1776,15 @@ while being pressed severely by Hanuma, as the trees standing on it and the rock
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा घूर्णितमहाद्वारा प्रभग्नगृहगोपुरा ।  
 लङ्का त्रासाकुला रात्रौ प्रनृत्तेवाभवत् तदा ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1711,12 +1824,15 @@ houses and town-gates were shattered, appeared as though dancing at night.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवीधरसङ्काशो निपीड्य पृथिवीधरम् ।  
 पृथिवीं क्षोभयामास सार्णवां मारुतात्मजः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1756,12 +1872,15 @@ the ocean to shake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुरोह तदा तस्माद्धरिर्मलयपर्वतम् ।  
 मेरुमन्दरसङ्काशं नानाप्रस्रवणाकुलम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1778,12 +1897,15 @@ the ocean to shake.
 
 अनन्तर अल्लिन्द मुन्दरिदु अवनु मेरु मन्दराचलदन्तॆ ऎत्तरवाद अनेक जलपातगळिन्द कूडिद्द मलया चलवन्नु हत्तिदनु.॥42॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाद्रुमलताकीर्णं विकासिकमलोत्पलम् ।  
 सेवितं देवगन्धर्वैः षष्टियोजनमुच्छ्रितम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1800,12 +1922,15 @@ the ocean to shake.
 
 अल्लि बगॆ बगॆय वृक्षलतॆगळु हब्बिद्दवु. कमल कुमुदगळु अरळिद्दवु. अरवत्तु योजन ऎत्तरवाद आ पर्वतवन्नु देवतॆगळु गन्धर्वरु सेविसुत्तिद्दरु.॥43॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्याधरैर्मुनिगणैरप्सरोभिर्निषेवितम् ।  
 नानामृगगणाकीर्णं बहुकन्दरशोभितम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1822,12 +1947,15 @@ the ocean to shake.
 
 विद्याधररु, ऋषि-मुनि, अप्सरॆयरु अल्लि वासिसुत्तिद्दरु. अनेक रीतिय मृगपक्षिगळु ऎल्लॆडॆ व्यापिसिकॊण्डिद्दवु. अनेक कन्दरगळिन्द आ पर्वत शोभिसुत्तित्तु.॥44॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वानाकुलयंस्तत्र यक्षगन्धर्वकिन्नरान् ।  
 हनूमान् मेघसङ्काशो ववृधे मारुतात्मजः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1875,12 +2003,15 @@ body, appearing like a cloud, bewildering Yakshas, Gandharvas and Kinnaras.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्भ्यां तु शैलमापीड्य वडवामुखवन्मुखम् ।  
 विवृत्योग्रं ननादोच्चैस्त्रासयन् रजनीचरान् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1924,12 +2055,15 @@ like a submarine fire and frightening the demons, Hanuma roared loudly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य नानद्यमानस्य श्रुत्वा निनदमुत्तमम् ।  
 लङ्कास्था राक्षसव्याघ्रा न शेकुः स्पन्दितुं क्वचित् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1969,12 +2103,15 @@ City of Lanka, were not able to stir anywhere.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमस्कृत्वा समुद्राय मारुतिर्भीमविक्रमः ।  
 राघवार्थे परं कर्म समीहत परन्तपः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2018,6 +2155,7 @@ the ocean, made up his mind to embark on a prime act for the sake of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2026,6 +2164,8 @@ the ocean, made up his mind to embark on a prime act for the sake of Rama.
 विवृत्य वक्त्रं वडवामुखाभ-  
 मापुप्लुवे व्योम्नि स चण्डवेगः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2077,6 +2217,7 @@ a head long speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2085,6 +2226,8 @@ a head long speed.
 बाहूरुवेगोद‍्गतसम्प्रणुन्ना-  
 स्ते क्षीणवेगाः सलिले निपेतुः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2136,6 +2279,7 @@ water when their speed diminished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2144,6 +2288,8 @@ water when their speed diminished.
 जगाम शैलं नगराजमग्र्यं  
 दिशः प्रकर्षन्निव वायुसूनुः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2190,6 +2336,7 @@ as though he was drawing away the four quarters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2198,6 +2345,8 @@ as though he was drawing away the four quarters.
 समीक्षमाणः सहसा जगाम  
 चक्रं यथा विष्णुकराग्रमुक्तम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2243,6 +2392,7 @@ the fingers of Lord Vishnu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2251,6 +2401,8 @@ the fingers of Lord Vishnu.
 स्फीताञ्जनांस्तानपि सम्प्रवीक्ष्य  
 जगाम वेगात् पितृतुल्यवेगः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2297,12 +2449,15 @@ Himalayas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यपथमाश्रित्य जगाम स गतश्रमः ।  
 हनूमांस्त्वरितो वीरः पितुस्तुल्यपराक्रमः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2339,12 +2494,15 @@ gone, swiftly rushed, taking recourse to the orbit of the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जवेन महता युक्तो मारुतिर्वातरंहसा ।  
 जगाम हरिशार्दूलो दिशः शब्देन नादयन् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2384,12 +2542,15 @@ foremost of monkeys, hastened towards Himalayas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरञ्जाम्बवतो वाक्यं मारुतिर्भीमविक्रमः ।  
 ददर्श सहसा चापि हिमवन्तं महाकपिः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2429,6 +2590,7 @@ suddenly saw Mount Himalaya too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2436,6 +2598,8 @@ suddenly saw Mount Himalaya too.
 श्वेताभ्रचयसङ्काशैः शिखरैश्चारुदर्शनैः ।  
 शोभितं विविधैर्वृक्षैरगमत् पर्वतोत्तमम् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2480,6 +2644,7 @@ white clouds as also many kinds of trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2488,6 +2653,8 @@ white clouds as also many kinds of trees.
 ददर्श पुण्यानि महाश्रमाणि  
 सुरर्षिसङ्घोत्तमसेवितानि ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2532,6 +2699,7 @@ great holy hermitages, inhabited by a multitude of divine sages.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2540,6 +2708,8 @@ great holy hermitages, inhabited by a multitude of divine sages.
 हयाननं ब्रह्मशिरश्च दीप्तं  
 ददर्श वैवस्वतकिङ्करांश्च ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2581,6 +2751,7 @@ Brahma's head fell down, the sun-god and Kimkaras.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2589,6 +2760,8 @@ Brahma's head fell down, the sun-god and Kimkaras.
 ब्रह्मालयं शङ्करकार्मुकं च  
 ददर्श नाभिं च वसुन्धरायाः ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2654,6 +2827,7 @@ having been struck by the missile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2662,6 +2836,8 @@ having been struck by the missile."
 प्रदीप्तसर्वौषधिसम्प्रदीप्तं  
 ददर्श सर्वौषधिपर्वतेन्द्रम् ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2715,6 +2891,7 @@ all types of herbs grew.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2723,6 +2900,8 @@ all types of herbs grew.
 आप्लुत्य तं चौषधिपर्वतेन्द्रं  
 तत्रौषधीनां विचयं चकार ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2769,12 +2948,15 @@ the herbs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स योजनसहस्राणि समतीत्य महाकपिः ।  
 दिव्यौषधिधरं शैलं व्यचरन्मारुतात्मजः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2808,12 +2990,15 @@ that mountain, searching for the heavenly herbs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महौषध्यस्ततः सर्वास्तस्मिन् पर्वतसत्तमे ।  
 विज्ञायार्थिनमायान्तं ततो जग्मुरदर्शनम् ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2854,6 +3039,7 @@ on that mountain disappeared from Hanuma's view.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2862,6 +3048,8 @@ on that mountain disappeared from Hanuma's view.
 अमृष्यमाणोऽग्निसमानचक्षु-  
 र्महीधरेन्द्रं तमुवाच वाक्यम् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2913,6 +3101,7 @@ the prince of mountains.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2921,6 +3110,8 @@ the prince of mountains.
 पश्याद्य मद‍्बाहुबलाभिभूतो  
 विकीर्णमात्मानमथो नगेन्द्र ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2959,6 +3150,7 @@ today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2967,6 +3159,8 @@ today."
 विकीर्णकूटं ज्वलिताग्रसानुं  
 प्रगृह्य वेगात् सहसोन्ममाथ ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3013,6 +3207,7 @@ crest of its plateau set on fire, at once sprang up with speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3021,6 +3216,8 @@ crest of its plateau set on fire, at once sprang up with speed.
 संस्तूयमानः खचरैरनेकै-  
 र्जगाम वेगाद् गरुडोग्रवेगः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3067,6 +3264,7 @@ into the sky and proceeded expeditiously with the terrible speed of Garuda the e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3075,6 +3273,8 @@ into the sky and proceeded expeditiously with the terrible speed of Garuda the e
 बभौ तदा भास्करसन्निकाशो  
 रवेः समीपे प्रतिभास्कराभः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3121,6 +3321,7 @@ sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3129,6 +3330,8 @@ sun.
 सहस्रधारेण सपावकेन  
 चक्रेण खे विष्णुरिवार्पितेन ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3166,6 +3369,7 @@ with its thousand edges holding his hand.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3174,6 +3378,8 @@ with its thousand edges holding his hand.
 तेषां समुत्कृष्टरवं निशम्य  
 लङ्कालया भीमतरं विनेदुः ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3212,6 +3418,7 @@ terribly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3220,6 +3427,8 @@ terribly.
 हर्युत्तमेभ्यः शिरसाभिवाद्य  
 विभीषणं तत्र च सस्वजे सः ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3258,6 +3467,7 @@ with his head bent low, he then embraced Vibhishana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3270,6 +3480,8 @@ with his head bent low, he then embraced Vibhishana
 गन्धेन तासां प्रवरौषधीनां  
 सुप्ता निशान्तेष्विव सम्प्रबुद्धाः ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3339,6 +3551,7 @@ healed of their wounds then and there. Other monkey-warriors rose up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3347,6 +3560,8 @@ healed of their wounds then and there. Other monkey-warriors rose up.
 ये हन्यन्ते रणे तत्र राक्षसाः कपिकुञ्जरैः ।  
 हता हतास्तु क्षिप्यन्ते सर्व एव तु सागरे ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3395,6 +3610,7 @@ their number may not be known to the monkeys).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3403,6 +3619,8 @@ their number may not be known to the monkeys).
 निनाय वेगाद्धिमवन्तमेव  
 पुनश्च रामेण समाजगाम ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3456,5 +3674,6 @@ herbs quickly back to the mountains of Himalayas and again joined Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग पूर्णवायितु.॥74॥
+</details>
 </details>
 

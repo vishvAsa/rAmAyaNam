@@ -2,6 +2,8 @@
 title = "१११ राम-भरतसंवादः"
 title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -25,12 +27,15 @@ father.
 
 111. वसिष्ठजीके समझानेपर भी श्रीरामको पिताकी आज्ञाके पालनसे विरत होते न देख भरतका धरना देनेको तैयार होना तथा श्रीरामका उन्हें समझाकर अयोध्या लौटनेकी आज्ञा देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठः स तदा राममुक्त्वा राजपुरोहितः ।  
 अब्रवीद् धर्मसंयुक्तं पुनरेवापरं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरुषस्येह जातस्य भवन्ति गुरवः सदा ।  
 आचार्यश्चैव काकुत्स्थ पिता माता च राघव ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ instructors of a man are his teacher, his father and his mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता ह्येनं जनयति पुरुषं पुरुषर्षभ ।  
 प्रज्ञां ददाति चाचार्यस्तस्मात् स गुरुरुच्यते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ wisdom and therefore instructs the teacher is said to be the superior!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेऽहं पितुराचार्यस्तव चैव परन्तप ।  
 मम त्वं वचनं कुर्वन् नातिवर्तेः सतां गतिम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ and to you too. In obeying my words, you will not transgress the path of the vir
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा हि ते परिषदो ज्ञातयश्च नृपास्तथा ।  
 एषु तात चरन् धर्मं नातिवर्तेः सतां गतिम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ righteous path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धाया धर्मशीलाया मातुर्नार्हस्यवर्तितुम् ।  
 अस्या हि वचनं कुर्वन् नातिवर्तेः सतां गतिम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ virtuous."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्य वचः कुर्वन् याचमानस्य राघव ।  
 आत्मानं नातिवर्तेस्त्वं सत्यधर्मपराक्रम ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ Bharata, you will not be false to yourself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मधुरमुक्तः स गुरुणा राघवः स्वयम् ।  
 प्रत्युवाच समासीनं वसिष्ठं पुरुषर्षभः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,6 +418,7 @@ excellent among men replied (as follows) to Vasishta who was seated there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -400,6 +427,8 @@ excellent among men replied (as follows) to Vasishta who was seated there.
 यथाशक्तिप्रदानेन स्वापनोच्छादनेन च ।  
 नित्यं च प्रियवादेन तथा संवर्धनेन च ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ every moment, and even by nourishing him, can never be wholly requited."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि राजा दशरथः पिता जनयिता मम ।  
 आज्ञापयन्मां यत् तस्य न तन्मिथ्या भविष्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ therefore be disregarded."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण भरतः प्रत्यनन्तरम् ।  
 उवाच विपुलोरस्कः सूतं परमदुर्मनाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,6 +573,7 @@ addressed the following words to Sumantra the charioteer who was standing nearby
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,6 +582,8 @@ addressed the following words to Sumantra the charioteer who was standing nearby
 निराहारो निरालोको धनहीनो यथा द्विजः ।  
 शये पुरस्ताच्छालायां यावन्मां प्रतियास्यति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +647,15 @@ remain facing my illustrious brother till he gets propitiated (and grant my requ
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु राममवेक्षन्तं सुमन्त्रं प्रेक्ष्य दुर्मनाः ।  
 कुशोत्तरमुपस्थाप्य भूमावेवास्थितः स्वयम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,12 +699,15 @@ Bharata, on his own, brought a heap of Kusha grass and spread it on the floor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महातेजा रामो राजर्षिसत्तमः ।  
 किं मां भरत कुर्वाणं तात प्रत्युपवेक्ष्यसे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +751,15 @@ Rama of great splendour and the best among royal sages spoke to Bharata as follo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणो ह्येकपार्श्वेन नरान् रोद‍्धुमिहार्हति ।  
 न तु मूर्धाभिषिक्तानां विधिः प्रत्युपवेशने ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +800,15 @@ world. But, it is not befitting for a warrior-class.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ नरशार्दूल हित्वैतद् दारुणं व्रतम् ।  
 पुरवर्यामितः क्षिप्रमयोध्यां याहि राघव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +852,15 @@ speedily to Ayodhya the best of cities, from here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीनस्त्वेव भरतः पौरजानपदं जनम् ।  
 उवाच सर्वतः प्रेक्ष्य किमार्यं नानुशासथ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +902,15 @@ return.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तदोचुर्महात्मानं पौरजानपदा जनाः ।  
 काकुत्स्थमभिजानीमः सम्यग् वदति राघवः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -894,12 +950,15 @@ as follows: "We know Rama very well. He is speaking rightly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषोऽपि हि महाभागः पितुर्वचसि तिष्ठति ।  
 अत एव न शक्ताः स्मो व्यावर्तयितुमञ्जसा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +998,15 @@ not able to convince him to return to Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामाज्ञाय वचनं रामो वचनमब्रवीत् ।  
 एवं निबोध वचनं सुहृदां धर्मचक्षुषाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -984,12 +1046,15 @@ who see rightly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्चैवोभयं श्रुत्वा सम्यक् सम्पश्य राघव ।  
 उत्तिष्ठ त्वं महाबाहो मां च स्पृश तथोदकम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,6 +1095,7 @@ the matter carefull. Rise and touch me and drink water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1038,6 +1104,8 @@ the matter carefull. Rise and touch me and drink water."
 न याचे पितरं राज्यं नानुशासामि मातरम् ।  
 एवं परमधर्मज्ञं नानुजानामि राघवम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,12 +1174,15 @@ including ministers and the guild of traders hear me also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि त्ववश्यं वस्तव्यं कर्तव्यं च पितुर्वचः ।  
 अहमेव निवत्स्यामि चतुर्दश वने समाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,12 +1225,15 @@ our father be executed, then it is I who will reside in the forest for fourteen 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मात्मा तस्य सत्येन भ्रातुर्वाक्येन विस्मितः ।  
 उवाच रामः सम्प्रेक्ष्य पौरजानपदं जनम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1200,12 +1274,15 @@ looking at the inhabitants of town and country, spoke (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रीतमाहितं क्रीतं यत् पित्रा जीवता मम ।  
 न तल्लोपयितुं शक्यं मया वा भरतेन वा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,6 +1326,7 @@ either by me or by Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1257,6 +1335,8 @@ either by me or by Bharata."
 **युक्तम् उक्तं** च कैकेय्या  
 पित्रा मे **सुकृतं कृतम्** ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1298,6 +1378,7 @@ righteous deed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1306,6 +1387,8 @@ righteous deed."
 सर्वम् एवात्र कल्याणं  
 सत्य-सन्धे महात्मनि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,12 +1429,15 @@ will be propitious in the case of this magnanimous Bharata, who is true to his p
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन धर्मशीलेन वनात् प्रत्यागतः पुनः ।  
 भ्रात्रा सह भविष्यामि पृथिव्याः पतिरुत्तमः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,6 +1477,7 @@ brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1399,6 +1486,8 @@ brother."
 अनृतान् मोचयानेन  
 पितरं तं महीपतिम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1449,5 +1538,6 @@ king has been fulfilled by me. Hence, relieve our father, the emperor from the b
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हन्नॊन्दनॆय सर्ग पूर्णवायितु ॥111॥
+</details>
 </details>
 

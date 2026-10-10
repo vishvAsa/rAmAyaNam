@@ -2,6 +2,8 @@
 title = "०६१ कौसल्याकृतदशरथनिन्दा"
 title_english = "061 Kausalya rebukes Dasaratha for his evil act"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ the kingdom since enjoyed by Bharata.
 
 61. कौसल्याका विलापपूर्वक राजा दशरथको उपालम्भ देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं गते धर्मरते रामे रमयतां वरे ।  
 कौसल्या रुदती चार्ता भर्तारमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यपि त्रिषु लोकेषु प्रथितं ते महद् यशः ।  
 सानुक्रोशो वदान्यश्च प्रियवादी च राघवः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +99,15 @@ follows:
 
 महाराजरे! मूरु लोकगळल्लि निम्म महान् यश हरडिद्दरू, रघुकुल नरेश दशरथनु बहळ दयाळु, उदार मत्तु प्रियवचनवन्नाडुववनु ऎन्दे जनरु ईगलू तिळिदिद्दारॆ.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नरवरश्रेष्ठ पुत्रौ तौ सह सीतया ।  
 दुःखितौ सुखसंवृद्धौ वने दुःखं सहिष्यतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,12 +147,15 @@ foremost of men!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा नूनं तरुणी श्यामा सुकुमारी सुखोचिता ।  
 कथमुष्णं च शीतं च मैथिली विसहिष्यते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +195,15 @@ really tolerate heat and cold?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुक्त्वाशनं विशालाक्षी सूपदंशान्वितं शुभम् ।  
 वन्यं नैवारमाहारं कथं सीतोपभोक्ष्यते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +243,15 @@ here a good food containing soups and snacks?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गीतवादित्रनिर्घोषं श्रुत्वा शुभसमन्विता ।  
 कथं क्रव्यादसिंहानां शब्दं श्रोष्यत्यशोभनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +292,15 @@ lions, after hearing the auspicious sounds of singing and music here?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महेन्द्रध्वजसङ्काशः क्व नु शेते महाभुजः ।  
 भुजं परिघसङ्काशमुपाधाय महाबलः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -317,12 +340,15 @@ is sleeping indeed with his arm as a pillow?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मवर्णं सुकेशान्तं पद्मनिःश्वासमुत्तमम् ।  
 कदा द्रक्ष्यामि रामस्य वदनं पुष्करेक्षणम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +389,15 @@ locks of lotus-perfume, with eyes resembling lotus-petals and excellent?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रसारमयं नूनं हृदयं मे न संशयः ।  
 अपश्यन्त्या न तं यद् वै फलतीदं सहस्रधा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +439,15 @@ Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वया करुणं कर्म व्यपोह्य मम बान्धवाः ।  
 निरस्ताः परिधावन्ति सुखार्हाः कृपणा वने ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,12 +488,15 @@ of comforts to wander around in the forest in such a miserable condition."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि पञ्चदशे वर्षे राघवः पुनरेष्यति ।  
 जह्याद् राज्यं च कोशं च भरतो नोपलक्ष्यते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,6 +536,7 @@ will abandon the kingdom and the treasury."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,6 +545,8 @@ will abandon the kingdom and the treasury."
 तत्र ये गुणवन्तश्च विद्वांसश्च द्विजातयः ।  
 न पश्चात् तेऽभिमन्यन्ते सुधामपि सुरोपमाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,12 +600,15 @@ relatives and thereafter, to fulfill their duty, remember to invite the illustri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणेष्वपि वृत्तेषु भुक्तशेषं द्विजोत्तमाः ।  
 नाभ्युपेतुमलं प्राज्ञाः शृङ्गच्छेदमिवर्षभाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ which other Brahmins have partaken, regarding it as a bull shorn of its horns."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कनीयसा भ्रात्रा भुक्तं राज्यं विशाम्पते ।  
 भ्राता ज्येष्ठो वरिष्ठश्च किमर्थं नावमन्यते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,12 +700,15 @@ enjoyed by the younger brother?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न परेणाहृतं भक्ष्यं व्याघ्रः खादितुमिच्छति ।  
 एवमेव नरव्याघ्रः परलीढं न मंस्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +749,15 @@ manner, Rama the tiger among men may not accept that which has been enjoyed by a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हविराज्यं पुरोडाशः कुशा यूपाश्च खादिराः ।  
 नैतानि यातयामानि कुर्वन्ति पुनरध्वरे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +798,15 @@ posts made of trunk of Khadira tree, once used, are not put to use again in a sa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ह्यात्तमिदं राज्यं हृतसारां सुरामिव ।  
 नाभिमन्तुमलं रामो नष्टसोममिवाध्वरम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -795,12 +848,15 @@ beverage called Soma is prepared) are lost."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवंविधमसत्कारं राघवो मर्षयिष्यति ।  
 बलवानिव शार्दूलो वालधेरभिमर्शनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,12 +896,15 @@ endure even touching of its tail."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्य सहिता लोका भयं कुर्युर्महामृधे ।  
 अधर्मं त्विह धर्मात्मा लोकं धर्मेण योजयेत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,12 +940,15 @@ unrighteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्वसौ काञ्चनैर्बाणैर्महावीर्यो महाभुजः ।  
 युगान्त इव भूतानि सागरानपि निर्दहेत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -923,12 +985,15 @@ even the ocean itself by his golden arrows; like at the time of destruction of t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तादृशः सिंहबलो वृषभाक्षो नरर्षभः ।  
 स्वयमेव हतः पित्रा जलजेनात्मजो यथा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,12 +1033,15 @@ was ruined indeed by his own father, like killing its child-fish by an adult fis
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विजातिचरितो धर्मः शास्त्रे दृष्टः सनातनैः ।  
 यदि ते धर्मनिरते त्वया पुत्रे विवासिते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1083,15 @@ born?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतिरेका पतिर्नार्या द्वितीया गतिरात्मजः ।  
 तृतीया ज्ञातयो राजंश्चतुर्थी नैव विद्यते ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1135,15 @@ third refuge is her near-relative. There is no fourth one here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र त्वं मम नैवासि रामश्च वनमाहितः ।  
 न वनं गन्तुमिच्छामि सर्वथा हा हता त्वया ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,6 +1184,7 @@ a forest and I do not wish to go there. Thus, I have been ruined in all ways, by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1118,6 +1193,8 @@ a forest and I do not wish to go there. Thus, I have been ruined in all ways, by
 हता सपुत्रास्मि हताश्च पौराः  
 सुतश्च भार्या च तव प्रहृष्टौ ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,6 +1242,7 @@ Your son Bharata and your wife Kaikeyi only are delighted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1173,6 +1251,8 @@ Your son Bharata and your wife Kaikeyi only are delighted."
 ततः स शोकं प्रविवेश पार्थिवः  
 स्वदुष्कृतं चापि पुनस्तथास्मरत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,5 +1314,6 @@ act, was entangled in grief
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥61॥
+</details>
 </details>
 

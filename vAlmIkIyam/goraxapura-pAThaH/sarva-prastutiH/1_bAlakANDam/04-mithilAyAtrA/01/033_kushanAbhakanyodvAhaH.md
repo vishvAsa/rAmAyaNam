@@ -2,6 +2,8 @@
 title = "०३३ कुशनाभकन्योद्वाहः"
 title_english = "033 Legend of brahmadatta"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -28,12 +30,15 @@ Daughters of Kushanaabha report about the Air-god's mischief. Pleased
 
 त्रयस्त्रिंशे - 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा कुशनाभस्य धीमतः ।  
 शिरोभिश्चरणौ स्पृष्ट्वा कन्याशतमभाषत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायुः सर्वात्मको राजन् प्रधर्षयितुमिच्छति ।  
 अशुभं मार्गमास्थाय न धर्मं प्रत्यवेक्षते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,12 +115,15 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृमत्यः स्म भद्रं ते स्वच्छन्दे न वयं स्थिताः ।  
 पितरं नो वृणीष्व त्वं यदि नो दास्यते तव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,12 +158,15 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन पापानुबन्धेन वचनं न प्रतीच्छता ।  
 एवं ब्रुवन्त्यः सर्वाः स्म वायुनाभिहता भृशम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ Since then, because the Wind-God bent / The damsels' forms for punishment,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां तु वचनं श्रुत्वा राजा परमधार्मिकः ।  
 प्रत्युवाच महातेजाः कन्याशतमनुत्तमम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,12 +258,15 @@ On listening their words that highly virtuous and highly resplendent
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षान्तं क्षमावतां पुत्र्यः कर्तव्यं सुमहत् कृतम् ।  
 ऐकमत्यमुपागम्य कुलं चावेक्षितं मम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,6 +303,7 @@ On listening their words that highly virtuous and highly resplendent
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -290,6 +311,8 @@ On listening their words that highly virtuous and highly resplendent
 दुष्करं तच्च वै क्षान्तं त्रिदशेषु विशेषतः ॥ ७ ॥  
 यादृशी वः क्षमा पुत्र्यः सर्वासामविशेषतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ This also means: 'though you possess excellent aspects and persona alike
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षमा दानं क्षमा सत्यं क्षमा यज्ञाश्च पुत्रिकाः ॥ ८ ॥  
 क्षमा यशः क्षमा धर्मः क्षमायां विष्ठितं जगत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,6 +421,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -402,6 +429,8 @@ _________________
 मन्त्रज्ञो मन्त्रयामास प्रदानं सह मन्त्रिभिः ।  
 देशे काले च कर्तव्यं सदृशे प्रतिपादनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु चूली नाम महाद्युतिः ।  
 ऊर्ध्वरेताः शुभाचारो ब्राह्मं तप उपागमत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +530,15 @@ The *uurdhvaretas* is that the yogi-s of a very high practice
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपस्यन्तमृषिं तत्र गन्धर्वी पर्युपासते ।  
 सोमदा नाम भद्रं ते ऊर्मिलातनया तदा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ name, the daughter of Urmila. [1-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा च तं प्रणता भूत्वा शुश्रूषणपरायणा ।  
 उवास काले धर्मिष्ठा तस्यास्तुष्टोऽभवद् गुरुः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +619,15 @@ name, the daughter of Urmila. [1-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च तां कालयोगेन प्रोवाच रघुनन्दन ।  
 परितुष्टोऽस्मि भद्रं ते किं करोमि तव प्रियम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,12 +664,15 @@ name, the daughter of Urmila. [1-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परितुष्टं मुनिं ज्ञात्वा गन्धर्वी मधुरस्वरम् ।  
 उवाच परमप्रीता वाक्यज्ञा वाक्यकोविदम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +714,15 @@ name, the daughter of Urmila. [1-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्म्या समुदितो ब्राह्म्या ब्रह्मभूतो महातपाः ।  
 ब्राह्मेण तपसा युक्तं पुत्रमिच्छामि धार्मिकम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +760,15 @@ name, the daughter of Urmila. [1-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपतिश्चास्मि भद्रं ते भार्या चास्मि न कस्यचित् ।  
 ब्राह्मेणोपगतायाश्च दातुमर्हसि मे सुतम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,12 +804,15 @@ name, the daughter of Urmila. [1-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः प्रसन्नो ब्रह्मर्षिर्ददौ ब्राह्ममनुत्तमम् ।  
 ब्रह्मदत्त इति ख्यातं मानसं चूलिनः सुतम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +853,15 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा ब्रह्मदत्तस्तु पुरीमध्यवसत् तदा ।  
 काम्पिल्यां परया लक्ष्म्या देवराजो यथा दिवम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,12 +896,15 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बुद्धिं कृतवान् राजा कुशनाभः सुधार्मिकः ।  
 ब्रह्मदत्ताय काकुत्स्थ दातुं कन्याशतं तदा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,12 +939,15 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमाहूय महातेजा ब्रह्मदत्तं महीपतिः ।  
 ददौ कन्याशतं राजा सुप्रीतेनान्तरात्मना ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -921,12 +983,15 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाक्रमं तदा पाणिं जग्राह रघुनन्दन ।  
 ब्रह्मदत्तो महीपालस्तासां देवपतिर्यथा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1036,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्पृष्टमात्रे तदा पाणौ विकुब्जा विगतज्वराः ।  
 युक्तं परमया लक्ष्म्या बभौ कन्याशतं तदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1088,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दृष्ट्वा वायुना मुक्ताः कुशनाभो महीपतिः ।  
 बभूव परमप्रीतो हर्षं लेभे पुनः पुनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1132,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोद्वाहं तु राजानं ब्रह्मदत्तं महीपतिम् ।  
 सदारं प्रेषयामास सोपाध्यायगणं तदा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,6 +1183,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1116,6 +1191,8 @@ _________________
 यथान्यायं च गन्धर्वी स्नुषास्ताः प्रत्यनन्दत ।  
 स्पृष्ट्वा स्पृष्ट्वा च ताः कन्याः कुशनाभं प्रशस्य च ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,5 +1250,6 @@ kriyaam* = worthwhile deed of son; in getting such daughter-in-laws;
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तमूरनॆय सर्ग पूर्णवायितु. ॥33॥
+</details>
 </details>
 

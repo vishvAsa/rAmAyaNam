@@ -2,6 +2,8 @@
 title = "०६२ कौसल्याकृतदशरथसान्त्वनम्"
 title_english = "062 King Dasaratha loses consciousness"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ the grip, Dasaratha fell into the grip of slumber as the night prevailed.
 
 62. दुःखी हुए राजा दशरथका कौसल्याको हाथ जोड़कर मनाना और कौसल्याका उनके चरणोंमें पड़कर क्षमा माँगना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तु क्रुद्धया राजा राममात्रा सशोकया ।  
 श्रावितः परुषं वाक्यं चिन्तयामास दुःखितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ mother were heard, king Dasaratha felt depressed and reflected upon them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयित्वा स च नृपो मोहव्याकुलितेन्द्रियः ।  
 अथ दीर्घेण कालेन सञ्ज्ञामाप परन्तपः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ long time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सञ्ज्ञामुपलभ्यैव दीर्घमुष्णं च निःश्वसन् ।  
 कौसल्यां पार्श्वतो दृष्ट्वा ततश्चिन्तामुपागमत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ Kausalya by his side, began to worry again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चिन्तयमानस्य प्रत्यभात् कर्म दुष्कृतम् ।  
 यदनेन कृतं पूर्वमज्ञानाच्छब्दवेधिना ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ heard.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमनास्तेन शोकेन रामशोकेन च प्रभुः ।  
 द्वाभ्यामपि महाराजः शोकाभ्यामभितप्यते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ also through agony caused by separation from Rama and was tormented by the dual 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दह्यमानस्तु शोकाभ्यां कौसल्यामाह दुःखितः ।  
 वेपमानोऽञ्जलिं कृत्वा प्रसादार्थमवाङ्मुखः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,12 +325,15 @@ his palms in salutation, desirous of getting her grace and spoke to Kausalya as 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादये त्वां कौसल्ये रचितोऽयं मयाञ्जलिः ।  
 वत्सला चानृशंसा च त्वं हि नित्यं परेष्वपि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +374,15 @@ always affectionate even towards others and even indeed kind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्ता तु खलु नारीणां गुणवान् निर्गुणोऽपि वा ।  
 धर्मं विमृशमानानां प्रत्यक्षं देवि दैवतम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +422,15 @@ or worthless, is a visible god indeed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वं धर्मपरा नित्यं दृष्टलोकपरावरा ।  
 नार्हसे विप्रियं वक्तुं दुःखितापि सुदुःखितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ is too much in distress."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वाक्यं करुणं राज्ञः श्रुत्वा दीनस्य भाषितम् ।  
 कौसल्या व्यसृजद् बाष्पं प्रणालीव नवोदकम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +527,15 @@ akin to new rain water flowing from channel.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा मूर्ध्नि बद्‍ध्वा रुदती राज्ञः पद्ममिवाञ्जलिम् ।  
 सम्भ्रमादब्रवीत् त्रस्ता त्वरमाणाक्षरं वचः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +576,15 @@ was scared and spoke weeping in hurriedly lettered words in eagerness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसीद शिरसा याचे भूमौ निपतितास्मि ते ।  
 याचितास्मि हता देव क्षन्तव्याहं नहि त्वया ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +627,15 @@ ruined. I am not to be forgiven indeed by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैषा हि सा स्त्री भवति श्लाघनीयेन धीमता ।  
 उभयोर्लोकयोर्लोके पत्या या सम्प्रसाद्यते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -638,12 +679,15 @@ propitiated by her husband, who is praise worthy and possessing good disposition
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानामि धर्मं धर्मज्ञ त्वां जाने सत्यवादिनम् ।  
 पुत्रशोकार्तया तत्तु मया किमपि भाषितम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +728,15 @@ husband, who is praise worthy and possessing good disposition."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोको नाशयते धैर्यं शोको नाशयते श्रुतम् ।  
 शोको नाशयते सर्वं नास्ति शोकसमो रिपुः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,12 +776,15 @@ enemy like grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्यमापतितः सोढुं प्रहारो रिपुहस्ततः ।  
 सोढुमापतितः शोकः सुसूक्ष्मोऽपि न शक्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +825,15 @@ But, the grief suddenly descended, even if so small, is not possible to be toler
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनवासाय रामस्य पञ्चरात्रोऽत्र गण्यते ।  
 यः शोकहतहर्षायाः पञ्चवर्षोपमो मम ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +875,15 @@ minds infatuated with grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं हि चिन्तयमानायाः शोकोऽयं हृदि वर्धते ।  
 नदीनामिव वेगेन समुद्रसलिलं महत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,6 +923,7 @@ years for me, since grief has ruined my happiness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -875,6 +932,8 @@ years for me, since grief has ruined my happiness."
 अथ प्रह्लादितो वाक्यैर्देव्या कौसल्यया नृपः ।  
 शोकेन च समाक्रान्तो निद्राया वशमेयिवान् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,5 +1004,6 @@ ocean increases with the fast streaming of rivers.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तॆरडनॆय सर्ग पूर्णवायितु॥62॥
+</details>
 </details>
 

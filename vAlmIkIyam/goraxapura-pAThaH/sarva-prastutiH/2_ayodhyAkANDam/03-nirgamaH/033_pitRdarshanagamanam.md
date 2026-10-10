@@ -2,6 +2,8 @@
 title = "०३३ पितृदर्शनगमनम्"
 title_english = "033 Rama pays respects to his father at departure"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-033-Pithur_Dharshanaartham_Gamanam.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "033 Rama pays respects to his father at departure"
 
 33. सीता और लक्ष्मणसहित श्रीरामका दुःखी नगरवासियोंके मुखसे तरह-तरहकी बातें सुनते हुए पिताके दर्शनके लिये कैकेयीके महलमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्त्वा तु सह वैदेह्या ब्राह्मणेभ्यो धनं बहु ।  
 जग्मतुः पितरं द्रष्टुं सीतया सह राघवौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -49,12 +54,15 @@ along with Seetha to see their father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गृहीते प्रेष्याभ्यामशोभेतां तदायुधे ।  
 मालादामभिरासक्ते सीतया समलङ्कृते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,12 +106,15 @@ weapons thus decorated were shining brilliantly and were fearful to look at.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रासादहर्म्याणि विमानशिखराणि च ।  
 अभिरुह्य जनः श्रीमानुदासीनो व्यलोकयत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,12 +154,15 @@ palaces of seven stories high and saw them spiritlessly,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि रथ्याः सुशक्यन्ते गन्तुं बहुजनाकुलाः ।  
 आरुह्य तस्मात् प्रासादाद् दीनाः पश्यन्ति राघवम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,12 +204,15 @@ buildings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदातिं सानुजं दृष्ट्वा ससीतं च जनास्तदा ।  
 ऊचुर्बहुजना वाचः शोकोपहतचेतसः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,12 +256,15 @@ hearts struck by grief were uttering words of many sorts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं यान्तमनुयाति स्म चतुरङ्गबलं महत् ।  
 तमेकं सीतया सार्धमनुयाति स्म लक्ष्मणः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +306,15 @@ Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐश्वर्यस्य रसज्ञः सन् कामानां चाकरो महान् ।  
 नेच्छत्येवानृतं कर्तुं वचनं धर्मगौरवात् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +355,15 @@ because of his respect for virtue, he is careful not to believe his father's wor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या न शक्या पुरा द्रष्टुं भूतैराकाशगैरपि ।  
 तामद्य सीतां पश्यन्ति राजमार्गगता जनाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ even by beings going through the air.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गरागोचितां सीतां रक्तचन्दनसेविनीम् ।  
 वर्षमुष्णं च शीतं च नेष्यत्याशु विवर्णताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +455,15 @@ suitable cosmetics and red sandal to the body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य नूनं दशरथः सत्त्वमाविश्य भाषते ।  
 नहि राजा प्रियं पुत्रं विवासयितुमर्हति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,12 +501,15 @@ to exile; *priyam* = his affectionate; *putram* = son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्गुणस्यापि पुत्रस्य कथं स्याद् विनिवासनम् ।  
 किं पुनर्यस्य लोकोऽयं जितो वृत्तेन केवलम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +550,15 @@ of whom, this world is conquered merely by his mode of conduct?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनृशंस्यमनुक्रोशः श्रुतं शीलं दमः शमः ।  
 राघवं शोभयन्त्येते षड्गुणाः पुरुषर्षभम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,12 +599,15 @@ these six virtues adorn Rama, the best of men.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् तस्योपघातेन प्रजाः परमपीडिताः ।  
 औदकानीव सत्त्वानि ग्रीष्मे सलिलसङ्क्षयात् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +647,15 @@ beings in summer are afflicted because of depletion of water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पीडया पीडितं सर्वं जगदस्य जगत्पतेः ।  
 मूलस्येवोपघातेन वृक्षः पुष्पफलोपगः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ world, as a tree which acquired flowers and fruits is damaged by injury caused t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूलं ह्येष मनुष्याणां धर्मसारो महाद्युतिः ।  
 पुष्पं फलं च पत्रं च शाखाश्चास्येतरे जनाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +742,15 @@ tree of humanity. Other men are his flowers, fruits and branches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते लक्ष्मण इव क्षिप्रं सपत्न्यः सहबान्धवाः ।  
 गच्छन्तमनुगच्छामो येन गच्छति राघवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,12 +790,15 @@ as Lakshmana is going with the departing Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यानानि परित्यज्य क्षेत्राणि च गृहाणि च ।  
 एकदुःखसुखा राममनुगच्छाम धार्मिकम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,6 +838,7 @@ share his joys and sorrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -797,6 +851,8 @@ share his joys and sorrows.
 दुष्कालेनेव भग्नानि भिन्नभाजनवन्ति च ।  
 अस्मत्त्यक्तानि कैकेयी वेश्मानि प्रतिपद्यताम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +919,15 @@ times and scattered with broken vessels.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं नगरमेवास्तु येन गच्छति राघवः ।  
 अस्माभिश्च परित्यक्तं पुरं सम्पद्यतां वनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -908,12 +967,15 @@ being deserted by us become a forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बिलानि दंष्ट्रिणः सर्वे सानूनि मृगपक्षिणः ।  
 त्यजन्त्वस्मद्भयाद्भीता गजाः सिंहा वनान्यपि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -958,6 +1020,7 @@ to be inhabited by us and reach the city of Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -966,6 +1029,8 @@ to be inhabited by us and reach the city of Ayodhya.
 प्रपद्यतां हि कैकेयी सपुत्रा सह बान्धवैः ।  
 राघवेण वयं सर्वे वने वत्स्याम निर्वृताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,6 +1081,7 @@ live happily in the forest along with Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1024,6 +1090,8 @@ live happily in the forest along with Rama.
 स तु वेश्म पुनर्मातुः कैलासशिखरप्रभम् ।  
 अभिचक्राम धर्मात्मा मत्तमातङ्गविक्रमः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,12 +1154,15 @@ mind was not disturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनीतवीरपुरुषं प्रविश्य तु नृपालयम् ।  
 ददर्शावस्थितं दीनं सुमन्त्रमविदूरतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,6 +1202,7 @@ saw Sumantra standing dejected not far from the palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1139,6 +1211,8 @@ saw Sumantra standing dejected not far from the palace.
 जगाम रामः पितरं दिदृक्षुः  
 पितुर्निदेशं विधिवच्चिकीर्षुः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,6 +1258,7 @@ intending to fulfill his father's behest and went to see his father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1192,6 +1267,8 @@ intending to fulfill his father's behest and went to see his father.
 व्यतिष्ठत प्रेक्ष्य तदा सुमन्त्रं  
 पितुर्महात्मा प्रतिहारणार्थम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1238,6 +1315,7 @@ presence announced to his father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1246,6 +1324,8 @@ presence announced to his father.
 स राघवः प्रेक्ष्य सुमन्त्रमब्रवी-  
 न्निवेदयस्वागमनं नृपाय मे ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1302,5 +1382,6 @@ king."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तमूरनॆय सर्ग पूर्णवायितु.॥33॥
+</details>
 </details>
 

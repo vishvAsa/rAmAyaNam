@@ -1,6 +1,8 @@
 +++
 title = "१०७ राम-रावणयोर्भीषणयुद्धम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ starts to crop up in its place. The fierce encounter continues thus for seven da
 
 107. श्रीराम और रावणका घोर युद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रवृत्तं सुक्रूरं रामरावणयोस्तदा ।  
 सुमहद् द्वैरथं युद्धं सर्वलोकभयावहम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -59,12 +64,15 @@ frightful to all the worlds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राक्षससैन्यं च हरीणां च महद‍्बलम् ।  
 प्रगृहीतप्रहरणं निश्चेष्टं समवर्तत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,12 +115,15 @@ weapons held fast in their hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रयुद्धौ तु तौ दृष्ट्वा बलवन्नरराक्षसौ ।  
 व्याक्षिप्तहृदयाः सर्वे परं विस्मयमागताः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +164,15 @@ demon, both in full strength engaged in a fight, all for their part experienced 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाप्रहरणैर्व्यग्रैर्भुजैर्विस्मितबुद्धयः ।  
 तस्थुः प्रेक्ष्य च सङ्ग्रामं नाभिजग्मुः परस्परम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -198,12 +212,15 @@ amazed in mind in beholding that duel. They did not go for war on each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षसां रावणं चापि वानराणां च राघवम् ।  
 पश्यतां विस्मिताक्षाणां सैन्यं चित्रमिवाबभौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ amazement appeared as though they were paintings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु तत्र निमित्तानि दृष्ट्वा राघवरावणौ ।  
 कृतबुद्धी स्थिरामर्षौ युयुधाते ह्यभीतवत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,12 +288,15 @@ _________________
 
 श्रीराम-रावणरु अल्लि प्रकटगॊण्ड शकुनगळन्नु नोडि, अवुगळ भावी लवन्नु योचिसि युद्ध विषयद विचार स्थिरगॊळिसिकॊण्डरु. अवरिब्बरू ऒब्बरु इन्नॊब्बर कुरितु असहनॆय भाव दृढवाद्दरिन्द निर्भयवागि युद्धमाडुत्तिद्दरु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जेतव्यमिति काकुत्स्थो मर्तव्यमिति रावणः ।  
 धृतौ स्ववीर्यसर्वस्वं युद्धेऽदर्शयतां तदा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +331,15 @@ occasion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधाद् दशग्रीवः शरान् सन्धाय वीर्यवान् ।  
 मुमोच ध्वजमुद्दिश्य राघवस्य रथे स्थितम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +374,15 @@ directing them towards the flag-staff fixed on Rama's chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते शरास्तमनासाद्य पुरन्दररथध्वजम् ।  
 रथशक्तिं परामृश्य निपेतुर्धरणीतले ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +428,15 @@ supported the banner of the chariot, the arrows fell on the ground.
 
 * रथकी कलशीपरका वह बाँस जिसमें लड़ाईके रथोंकी ध्वजाएँ लगायी जाती थीं । कुछ विद्वानोंने रथशक्तिका अर्थ—रथकी अद्भुत सामर्थ्य किया है । वैसा अर्थ माननेपर यह भाव निकलता है कि रथके अद्भुत प्रभावका अनुभव करके वे बाण ध्वजतक न पहुँचकर पृथ्वीपर ही गिर पड़े ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामोऽपि सङ्क्रुद्धश्चापमाकृष्य वीर्यवान् ।  
 कृतप्रतिकृतं कर्तुं मनसा सम्प्रचक्रमे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +476,15 @@ his mind, to return blow for blow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणध्वजमुद्दिश्य मुमोच निशितं शरम् ।  
 महासर्पमिवासह्यं ज्वलन्तं स्वेन तेजसा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,12 +519,15 @@ as though blazing with its own splendour, directing towards Ravana's flag-staff.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामश्चिक्षेप तेजस्वी केतुमुद्दिश्य सायकम् ।  
 जगाम स महीं छित्त्वा दशग्रीवध्वजं शरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,6 +571,7 @@ asunder Ravana's flag-staf, entered the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -541,6 +580,8 @@ asunder Ravana's flag-staf, entered the earth.
 सम्प्रदीप्तोऽभवत् क्रोधादमर्षात् प्रदहन्निव ।  
 स रोषवशमापन्नः शरवर्षं ववर्ष ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,6 +632,7 @@ as he was, with the power of wrath.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -598,6 +640,8 @@ as he was, with the power of wrath.
 ते दिव्या हरयस्तत्र नास्खलन्नापि बभ्रमुः ॥ १५ ॥  
 बभूवुः स्वस्थहृदयाः पद्मनालैरिवाहताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +686,7 @@ were just struck with lotus-stalks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -652,6 +697,8 @@ were just struck with lotus-stalks.
 मायाविहितमेतत् तु शस्त्रवर्षमपातयत् ।  
 सहस्रशस्तदा बाणानश्रान्तहृदयोद्यमः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +770,15 @@ showers of arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुमुलं त्रासजननं भीमं भीमप्रतिस्वनम् ।  
 तद् वर्षमभवद् युद्धे नैकशस्त्रमयं महत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -768,6 +818,7 @@ fear, terrific and attended with a terrible echo, descended.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -775,6 +826,8 @@ fear, terrific and attended with a terrible echo, descended.
 सायकैरन्तरिक्षं च चकार सुनिरन्तरम् ॥ २० ॥  
 मुमोच च दशग्रीवो निःसङ्गेनान्तरात्मना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,6 +868,7 @@ sides, thus wholly covering the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,6 +876,8 @@ sides, thus wholly covering the sky.
 प्रहसन्निव काकुत्स्थः सन्दधे निशितान् शरान् ।  
 स मुमोच ततो बाणान् शतशोऽथ सहस्रशः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +930,7 @@ thousands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -881,6 +938,8 @@ thousands.
 ताभ्यां नियुक्तेन तदा शरवर्षेण भास्वता ॥ २३ ॥  
 शरबद्धमिवाभाति द्वितीयं भास्वदम्बरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -898,6 +957,7 @@ thousands.
 
 आ बाणगळन्नु नोडि रावणनु पुनः बाणगळन्नु सुरिसि आकाशवन्नु ऎळ्ळुहाकलू जागविल्लदष्टु तुम्बिबिट्टनु. इब्बरू बिट्ट हॊळॆयुव बाणगळ मळॆयिन्द प्रकाशमान आकाशवु तुम्बि होगि यावुदो इन्नॊन्दु आकाशदन्तॆ कण्डु बरुत्तित्तु.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -905,6 +965,8 @@ thousands.
 अन्योन्यमभिसंहत्य निपेतुर्धरणीतले ।  
 तथा विसृजतोर्बाणान् रामरावणयोर्मृधे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,12 +1029,15 @@ second sky built with arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायुध्येतामविच्छिन्नमस्यन्तौ सव्यदक्षिणम् ।  
 चक्रतुश्च शरैर्घोरैर्निरुच्छ्वासमिवाम्बरम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1080,15 @@ their terrific arrows, they made the sky, bereft of even a breathing space.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य हयान् रामो हयान् रामस्य रावणः ।  
 जघ्नतुस्तौ तदान्योन्यं कृतानुकृतकारिणौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1125,15 @@ struck at each other, doing anything before and after.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तु तौ सुसङ्क्रुद्धौ चक्रतुर्युद्धमुत्तमम् ।  
 मुहूर्तमभवद् युद्धं तुमुलं रोमहर्षणम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,12 +1168,15 @@ A tumultuous battle ensued for an hour or so, causing the hair to stand erect.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तथा युध्यमानौ तु समरे रामरावणौ ।  
 ददृशुः सर्वभूतानि विस्मितेनान्तरात्मना ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1147,12 +1221,15 @@ thrown down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्दयन्तौ तु समरे तयोस्तौ स्यन्दनोत्तमौ ।  
 परस्परमभिक्रुद्धौ परस्परमभिद्रुतौ ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1192,6 +1269,7 @@ Ravana, who thus were fighting at each other in the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1199,6 +1277,8 @@ Ravana, who thus were fighting at each other in the battle-field.
 मण्डलानि च वीथीश्च गतप्रत्यागतानि च ॥ ३१ ॥  
 दर्शयन्तौ बहुविधां सूतौ सारथ्यजां गतिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1233,12 +1313,15 @@ two warriors ran towards each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्दयन् रावणं रामो राघवं चापि रावणः ॥ ३२ ॥  
 गतिवेगं समापन्नौ प्रवर्तननिवर्तने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1282,12 +1365,15 @@ forthwith, originated from the capabilities of those charioteers, assumed a terr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिपतोः शरजालानि तयोस्तौ स्यन्दनोत्तमौ ॥ ३३ ॥  
 चेरतुः संयुगमहीं सासारौ जलदाविव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1327,12 +1413,15 @@ speed in movement in their forward and backward motions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयित्वा तदा तौ तु गतिं बहुविधां रणे ॥ ३४ ॥  
 परस्परस्याभिमुखौ पुनरेव च तस्थतुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1375,12 +1464,15 @@ like two clouds pouring showers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धुरं धुरेण रथयोर्वक्त्रं वक्त्रेण वाजिनाम् ॥ ३५ ॥  
 पताकाश्च पताकाभिः समीयुः स्थितयोस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1417,12 +1509,15 @@ stood facing each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य ततो रामो धनुर्मुक्तैः शितैः शरैः ॥ ३६ ॥  
 चतुर्भिश्चतुरो दीप्तान् हयान् प्रत्यपसर्पयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1458,12 +1553,15 @@ other flags.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स क्रोधवशमापन्नो हयानामपसर्पणे ॥ ३७ ॥  
 मुमोच निशितान् बाणान् राघवाय दशाननः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,12 +1601,15 @@ splendid horses of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽतिविद्धो बलवता दशग्रीवेण राघवः ॥ ३८ ॥  
 जगाम न विकारं च न चापि व्यथितोऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1542,12 +1643,15 @@ arrows on Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिक्षेप च पुनर्बाणान् वज्रसारसमस्वनान् ॥ ३९ ॥  
 सारथिं वज्रहस्तस्य समुद्दिश्य दशाननः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1580,12 +1684,15 @@ tottered.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातलेस्तु महावेगाः शरीरे पतिताः शराः ॥ ४० ॥  
 न सूक्ष्ममपि सम्मोहं व्यथां वा प्रददुर्युधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1628,12 +1735,15 @@ similar to that of a thunder-bolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया धर्षणया क्रुद्धो मातलेर्न तथाऽऽत्मनः ॥ ४१ ॥  
 चकार शरजालेन राघवो विमुखं रिपुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1673,12 +1783,15 @@ of bewilderment or hurt on him in that battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विंशतिं त्रिंशतिं षष्टिं शतशोऽथ सहस्रशः ॥ ४२ ॥  
 मुमोच राघवो वीरः सायकान् स्यन्दने रिपोः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1716,12 +1829,15 @@ by the attack on himself, made his enemy turn away by hurling a net work of arro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणोऽपि ततः क्रुद्धो रथस्थो राक्षसेश्वरः ॥ ४३ ॥  
 गदामुसलवर्षेण रामं प्रत्यर्दयद् रणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1761,6 +1877,7 @@ arrows on the enemy's chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1768,6 +1885,8 @@ arrows on the enemy's chariot.
 गदानां मुसलानां च परिघाणां च निःस्वनैः ।  
 शराणां पुङ्खवातैश्च क्षुभिताः सप्त सागराः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1806,12 +1925,15 @@ tormented Rama, by showering maces and mallets on him in the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुब्धानां सागराणां च पातालतलवासिनः ।  
 व्यथिता दानवाः सर्वे पन्नगाश्च सहस्रशः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1851,12 +1973,15 @@ adorning the flying arrows, the seven agitated oceans felt disquieted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चकम्पे मेदिनी कृत्स्ना सशैलवनकानना ।  
 भास्करो निष्प्रभश्चासीन्न ववौ चापि मारुतः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1890,12 +2015,15 @@ region of the agitated oceans, felt disturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 चिन्तामापेदिरे सर्वे सकिन्नरमहोरगाः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1924,12 +2052,15 @@ became gloomy even the wind did not blow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति गोब्राह्मणेभ्यस्तु लोकास्तिष्ठन्तु शाश्वताः ।  
 जयतां राघवः सङ्ख्ये रावणं राक्षसेश्वरम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1965,12 +2096,15 @@ became disquieted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं जपन्तोऽपश्यंस्ते देवाः सर्षिगणास्तदा ।  
 रामरावणयोर्युद्धं सुघोरं रोमहर्षणम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1987,6 +2121,7 @@ became disquieted.
 
 हीगॆ हेळुत्तिरुव ऋषिगळ सहित आ देवतॆगळु श्रीराम मत्तु रावणर अत्यन्त भयङ्कर, रोमाञ्चकर युद्धवन्नु नोडतॊडगिदरु.॥50॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1995,6 +2130,8 @@ became disquieted.
 रामरावणयोर्युद्धं रामरावणयोरिव ।  
 एवं ब्रुवन्तो ददृशुस्तद् युद्धं रामरावणम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2040,6 +2177,7 @@ terrific battle between Rama and Ravana, which caused one's hair to stand on end
 
 * ‘गगनं गगनाकारं’ से ‘रामरावणयोरिव’ तकके श्लोकमें अनन्वयालङ्कार है । जहाँ एक ही वस्तु उपमान और उपमेयरूपसे कही जाय, दूसरी कोई उपमा न मिल सके, वहाँ अनन्वयालङ्कार होता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2048,6 +2186,8 @@ terrific battle between Rama and Ravana, which caused one's hair to stand on end
 रावणस्य शिरोऽच्छिन्दच्छ्रीमज्ज्वलितकुण्डलम् ।  
 तच्छिरः पतितं भूमौ दृष्टं लोकैस्त्रिभिस्तदा ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2093,6 +2233,7 @@ lymphs, looked on that battle between Rama and Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2100,6 +2241,8 @@ lymphs, looked on that battle between Rama and Ravana.
 तत् क्षिप्तं क्षिप्रहस्तेन रामेण क्षिप्रकारिणा ॥ ५५ ॥  
 द्वितीयं रावणशिरश्छिन्नं संयति सायकैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2141,12 +2284,15 @@ fallen on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छिन्नमात्रं च तच्छीर्षं पुनरेव प्रदृश्यते ॥ ५६ ॥  
 तदप्यशनिसङ्काशैश्छिन्नं रामस्य सायकैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2185,12 +2331,15 @@ act.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेव शतं छिन्नं शिरसां तुल्यवर्चसाम् ॥ ५७ ॥  
 न चैव रावणस्यान्तो दृश्यते जीवितक्षये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2230,12 +2379,15 @@ was chopped off, it again rose into view.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वास्त्रविद् वीरः कौसल्यानन्दवर्धनः ॥ ५८ ॥  
 मार्गणैर्बहुभिर्युक्तश्चिन्तयामास राघवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2278,6 +2430,7 @@ same manner, a hundred of Ravana's heads of equal splendour were chopped off by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2287,6 +2440,8 @@ same manner, a hundred of Ravana's heads of equal splendour were chopped off by 
 त इमे सायकाः सर्वे युद्धे प्रात्ययिका मम ।  
 किं नु तत् कारणं येन रावणे मन्दतेजसः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2371,12 +2526,15 @@ joy, then became thoughtful (said to himself as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति चिन्तापरश्चासीदप्रमत्तश्च संयुगे ।  
 ववर्ष शरवर्षाणि राघवो रावणोरसि ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2410,12 +2568,15 @@ streams of arrows in Ravana's chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणोऽपि ततः क्रुद्धो रथस्थो राक्षसेश्वरः ।  
 गदामुसलवर्षेण रामं प्रत्यर्दयद् रणे ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2449,12 +2610,15 @@ tormented Rama by showering maces and mallets on him in the combat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् प्रवृत्तं महद् युद्धं तुमुलं रोमहर्षणम् ।  
 अन्तरिक्षे च भूमौ च पुनश्च गिरिमूर्धनि ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2489,12 +2653,15 @@ the sky, on the ground and furthermore on the mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवयक्षाणां पिशाचोरगरक्षसाम् ।  
 पश्यतां तन्महद् युद्धं सर्वरात्रमवर्तत ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2534,12 +2701,15 @@ serpents and the ogres were witnessing, that great battle occurred for seven day
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव रात्रिं न दिवसं न मुहूर्तं न च क्षणम् ।  
 रामरावणयोर्युद्धं विराममुपगच्छति ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2573,6 +2743,7 @@ the day-time or for an hour or even for a instant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2581,6 +2752,8 @@ the day-time or for an hour or even for a instant.
 सुरवररथसारथिर्महात्मा  
 रणरतराममुवाच वाक्यमाशु ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2660,5 +2833,6 @@ battle.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरएळनॆय सर्ग पूर्णवायितु.॥107॥
+</details>
 </details>
 

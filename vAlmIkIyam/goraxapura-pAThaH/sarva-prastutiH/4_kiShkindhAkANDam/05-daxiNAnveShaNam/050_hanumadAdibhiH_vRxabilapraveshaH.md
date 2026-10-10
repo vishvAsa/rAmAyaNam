@@ -2,6 +2,8 @@
 title = "०५० हनुमदादिभिः वृक्षबिलप्रवेशः"
 title_english = "050 Search of Vanaras in Riksha cavity"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ cavity.
 
 50. भूखे-प्यासे वानरोंका एक गुफामें घुसकर वहाँ दिव्य वृक्ष, दिव्य सरोवर, दिव्य भवन तथा एक वृद्धा तपस्विनीको देखना और हनुमान् जी का उससे उसका परिचय पूछना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह ताराङ्गदाभ्यां तु सङ्गम्य हनुमान् कपिः ।  
 विचिनोति च विन्ध्यस्य गुहाश्च गहनानि च ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ and thick forests of Vindhya Range. [4-50-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहशार्दूलजुष्टाश्च गुहाश्च परितस्तदा ।  
 विषमेषु नगेन्द्रस्य महाप्रस्रवणेषु च ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ with lions and tigers, and even at the towering rapids. [4-50-2, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसेदुस्तस्य शैलस्य कोटिं दक्षिणपश्चिमाम् ।  
 तेषां तत्रैव वसतां स कालो व्यत्यवर्तत ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ set by Sugreeva swiftly lapsed while they are overstaying thereat that Mt. Vindh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि देशो दुरन्वेष्यो गुहागहनवान् महान् ।  
 तत्र वायुसुतः सर्वं विचिनोति स्म पर्वतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,6 +219,7 @@ caves and forests, yet Hanuma, the son of Air-god, searched everywhere on that m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,6 +230,8 @@ caves and forests, yet Hanuma, the son of Air-god, searched everywhere on that m
 गिरिजालावृतान् देशान् मार्गित्वा दक्षिणां दिशम् ।  
 विचिन्वन्तस्ततस्तत्र ददृशुर्विवृतं बिलम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +292,15 @@ by a demon called Maya. [4-50-5, 6, 7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्गमृक्षबिलं नाम दानवेनाभिरक्षितम् ।  
 क्षुत्पिपासापरीतास्तु श्रान्तास्तु सलिलार्थिनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,6 +341,7 @@ they are they beheld that capacious cavity which is enwrapped in climbers and tr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -328,6 +349,8 @@ they are they beheld that capacious cavity which is enwrapped in climbers and tr
 तत्र क्रौञ्चाश्च हंसाश्च सारसाश्चापि निष्क्रमन् ॥ ९ ॥  
 जलार्द्राश्चक्रवाकाश्च रक्ताङ्गाः पद्मरेणुभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,6 +397,7 @@ the dapples of lotuses' pollen. [4-50-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -381,6 +405,8 @@ the dapples of lotuses' pollen. [4-50-9b, 10a]
 विस्मयव्यग्रमनसो बभूवुर्वानरर्षभाः ।  
 सञ्जातपरिशङ्कास्ते तद् बिलं प्लवगोत्तमाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,6 +470,7 @@ disheartened with amazement. [4-50-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -451,6 +478,8 @@ disheartened with amazement. [4-50-10b, 11a]
 नानासत्त्वसमाकीर्णं दैत्येन्द्रनिलयोपमम् ॥ १२ ॥  
 दुर्दर्शमिव घोरं च दुर्विगाह्यं च सर्वशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +526,15 @@ impermeable from anywhere. [4-50-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पर्वतकूटाभो हनूमान् मारुतात्मजः ॥ १३ ॥  
 अब्रवीद् वानरान् घोरान् कान्तारवनकोविदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +578,15 @@ Vanara-s. [4-50-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिजालावृतान् देशान् मार्गित्वा दक्षिणां दिशम् ॥ १४ ॥  
 वयं सर्वे परिश्रान्ता न च पश्याम मैथिलीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,6 +627,7 @@ with meshes of mountains, and we are overly fatigued, but Maithili is unnoticed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -600,6 +636,8 @@ with meshes of mountains, and we are overly fatigued, but Maithili is unnoticed.
 नूनं सलिलवानत्र कूपो वा यदि वा ह्रदः ॥ १६ ॥  
 तथा चेमे बिलद्वारे स्निग्धास्तिष्ठन्ति पादपाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +693,15 @@ to all monkeys. [4-50-15b, 16, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तास्तद् बिलं सर्वे विविशुस्तिमिरावृतम् ॥ १७ ॥  
 अचन्द्रसूर्यं हरयो ददृशू रोमहर्षणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +743,15 @@ cavity and found it as a sunless or moonless cavity, enfolded in hair-raising da
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशाम्य तस्मात् सिंहांश्च तांस्तांश्च मृगपक्षिणः ॥ १८ ॥  
 प्रविष्टा हरिशार्दूला बिलं तिमिरसंवृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +792,15 @@ exiting therefrom, and entered that cavity which is enshrouded in obscurity. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तेषां सज्जते दृष्टिर्न तेजो न पराक्रमः ॥ १९ ॥  
 वायोरिव गतिस्तेषां दृष्टिस्तमसि वर्तते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +849,15 @@ eyesight is actuated even in darkness. [4-50-19, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रविष्टास्तु वेगेन तद् बिलं कपिकुञ्जराः ॥ २० ॥  
 प्रकाशं चाभिरामं च ददृशुर्देशमुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,12 +900,15 @@ beheld a best place that is luminous, as well as lovely. [4-50-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्मिन् बिले भीमे नानापादपसङ्कुले ॥ २१ ॥  
 अन्योन्यं सम्परिष्वज्य जग्मुर्योजनमन्तरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +948,15 @@ an interstice of yojana distance, hand in hand lest one may miss the other. [4-5
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते नष्टसञ्ज्ञास्तृषिताः सम्भ्रान्ताः सलिलार्थिनः ॥ २२ ॥  
 परिपेतुर्बिले तस्मिन् कञ्चित् कालमतन्द्रिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -942,12 +998,15 @@ cavity for a good while. [4-50-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कृशा दीनवदनाः परिश्रान्ताः प्लवङ्गमाः ॥ २३ ॥  
 आलोकं ददृशुर्वीरा निराशा जीविते यदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,12 +1048,15 @@ those brave ones are despaired of their life, just then they perceived a lumines
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं देशमागम्य सौम्या वितिमिरं वनम् ॥ २४ ॥  
 ददृशुः काञ्चनान् वृक्षान् दीप्तवैश्वानरप्रभान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,12 +1076,15 @@ _________________
 
 अनन्तर अन्धकारदिन्द प्रकाशपूर्ण प्रदेशक्कॆ बन्दु आ सौम्यवानररु अल्लि अन्धकाररहित वनवन्नु नोडिदरु - अल्लि ऎल्ल वृक्षगळु सुवर्णमयवागिद्दु, अग्नियन्तॆ प्रकाशिसुत्तिद्दवु.॥24½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालांस्तालांस्तमालांश्च पुन्नागान् वञ्जुलान् धवान् ॥ २५ ॥  
 चम्पकान् नागवृक्षांश्च कर्णिकारांश्च पुष्पितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,12 +1101,15 @@ _________________
 
 साल, ताल, तमाल, नागकेसर, अशोक, धव, सम्पिगॆ, नागवृक्ष मत्तु कणगिलॆ - मुन्ताद ऎल्ल वृक्षगळु हूवुगळिन्द तुम्बिद्दवु.॥25½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तबकैः काञ्चनैश्चित्रै रक्तैः किसलयैस्तथा ॥ २६ ॥  
 आपीडैश्च लताभिश्च हेमाभरणभूषितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1129,15 @@ _________________
 
 विचित्र सुवर्णमय गॊञ्चलु मत्तु कॆम्पु-कॆम्पाद चिगुरुगळु आ वृक्षगळ मुकुटदन्तॆ इद्दवु. अवुगळल्लि बळ्ळिगळु हब्बिद्दु, अवु तम्म लरूपवागि सुवर्ण आभूषणगळिन्द विभूषितवागिद्दवु.॥26½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणादित्यसङ्काशान् वैदूर्यमयवेदिकान् ॥ २७ ॥  
 बिभ्राजमानान् वपुषा पादपांश्च हिरण्मयान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,6 +1157,7 @@ _________________
 
 अवु प्रातःकालद सूर्यनन्तॆ अनिसुत्तिद्दवु. अवुगळ कॆळगॆ वैडूर्यदिन्द वेदि माडलागित्तु. आ सुवर्णमय वृक्षगळु तम्म दीप्तियिन्द प्रकाशितवागुत्तिद्दवु.॥27½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1094,6 +1166,8 @@ _________________
 जातरूपमयैर्मत्स्यैर्महद्भिश्चाथ पङ्कजैः ॥ २९ ॥  
 नलिनीस्तत्र ददृशुः प्रसन्नसलिलायुताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1180,6 +1254,7 @@ the problem with copyists.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1188,6 +1263,8 @@ the problem with copyists.
 हैमराजतभौमानि वैदूर्यमणिमन्ति च ॥ ३१ ॥  
 ददृशुस्तत्र हरयो गृहमुख्यानि सर्वशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,6 +1318,7 @@ pearls. [4-50-30b-32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1257,6 +1335,8 @@ pearls. [4-50-30b-32a]
 तत्र तत्र च विन्यस्तान् दीप्तान् वैश्वानरप्रभान् ॥ ३७ ॥  
 ददृशुर्वानराः शुभ्राञ्जातरूपस्य सञ्चयान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1400,6 +1480,7 @@ to red corals and rubies, and golden honeybees, as well as honeys. [4-50-32b, 33
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1410,6 +1491,8 @@ to red corals and rubies, and golden honeybees, as well as honeys. [4-50-32b, 33
 विस्मिता हरयस्तत्र व्यवतिष्ठन्त सर्वशः ।  
 पप्रच्छ हनुमांस्तत्र कासि त्वं कस्य वा बिलम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1499,6 +1582,7 @@ resplendence have perceived some lady rather not far from them. [4-50-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1507,6 +1591,8 @@ resplendence have perceived some lady rather not far from them. [4-50-38b, 39a]
 पप्रच्छ का त्वं भवनं बिलं च  
 रत्नानि चेमानि वदस्व कस्य ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1563,5 +1649,6 @@ jewels? Please speak." [4-50-41]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तनॆय सर्ग सम्पूर्णवायितु.॥50॥
+</details>
 </details>
 

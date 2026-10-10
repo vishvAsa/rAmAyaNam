@@ -2,6 +2,8 @@
 title = "०३५ सुमन्त्रकृतं कैकेयीगर्हणम्"
 title_english = "035 Sumantra Rails at Kaikeyi"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-035-Sumanthrakrutham_Kaikeyee_Garhanam_.mp3"></div>
 </details>
@@ -9,6 +11,7 @@ title_english = "035 Sumantra Rails at Kaikeyi"
 <details><summary>भागसूचना</summary>
 
 35. सुमन्त्रके समझाने और फटकारनेपर भी कैकेयीका टस-से-मस न होना
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -26,6 +29,8 @@ title_english = "035 Sumantra Rails at Kaikeyi"
 **कम्पयन्न्** इव कैकेय्या  
 हृदयं वाक्शरैः शितैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -53,6 +58,7 @@ _________________
 
 अनन्तर ऎच्चरगॊण्ड सुमन्त्रनु सट्टनॆ ऎद्दु निन्तनु. अवन मनस्सिगॆ अमङ्गलकारियाद भारी सन्तापवायितु. अवनु क्रोधदिन्द नडुगुत्तिद्दनु. अवन शरीर मत्तु मुखद कान्तियु बदलायितु. अवनु सिट्टिनिन्द कण्णुगळन्नु कॆम्पगागिसि, ऎरडु कैगळिन्द तलॆयन्नु चच्चिकॊण्डनु. पदे पदे दीर्घवागि निट्टुसिरुबिडुत्ता, कैगळन्नु तिक्किकॊळ्ळुत्ता, कटकटनॆ हल्लु कडियुत्तिद्दनु. दशरथराजन मनस्सिन वास्तविक स्थितियन्नु नोडुत्ता तन्न वचनरूपी हरितवाद बाणगळिन्द कैकेयिय हृदयवन्नु नडुगिसि बिडुवन्तॆ नुडियतॊडगिदनु.॥1-3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -61,6 +67,8 @@ _________________
 कैकेय्याः सर्वमर्माणि  
 सुमन्त्रः **प्रत्यभाषत** ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +117,7 @@ thunderbolting words speedily peircing all her vitals.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ thunderbolting words speedily peircing all her vitals.
 पतिघ्नीं त्वाम् अहं **मन्ये**  
 कुलघ्नीम् अपि चान्ततः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,6 +170,7 @@ betrayed, Oh, Kaikeyi!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,6 +179,8 @@ betrayed, Oh, Kaikeyi!"
 महोदधिम् इवाक्षोभ्यं  
 **सन्तापयसि** कर्मभिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,6 +218,7 @@ murderess of your husband and ultimately the exterminator of your race too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -212,6 +227,8 @@ murderess of your husband and ultimately the exterminator of your race too."
 भर्तुर् इच्छा हि नारीणां  
 पुत्रकोट्या **विशिष्यते** ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,6 +262,7 @@ women, will of the husband is superior to that of ten million sons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,6 +271,8 @@ women, will of the husband is superior to that of ten million sons."
 इक्ष्वाकुकुल-नाथेऽस्मिंस्   
 तं लोपयितुम् **इच्छसि** ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +312,7 @@ you want to deprive this condition in the case of Rama the lord of Ikshvaku dyna
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -300,6 +321,8 @@ you want to deprive this condition in the case of Rama the lord of Ikshvaku dyna
 वयं तत्र **गमिष्यामो**  
 यत्र रामो **गमिष्यति** ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,6 +363,7 @@ our part) shall go there".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -350,6 +374,8 @@ our part) shall go there".
 नूनं सर्वे **गमिष्यामो**  
 मार्गं रामगमिष्याम्-ओनिषेवितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +416,7 @@ act, transgressing the due limits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -400,6 +427,8 @@ act, transgressing the due limits."
 तादृशं त्वम् अमर्यादं  
 कर्म कर्तुं **चिकीर्षसि** ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,6 +475,7 @@ and pious souls desert you forever? Now, you want to do such an act of improprie
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -454,6 +484,8 @@ and pious souls desert you forever? Now, you want to do such an act of improprie
 आचरन्त्या **न विवृता**  
 सद्यो भवति **मेदिनी** ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,6 +523,7 @@ while you conduct yourself with such an act"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -499,6 +532,8 @@ while you conduct yourself with such an act"
 धिग् वाग्-दण्डा **न हिंसन्ति**  
 रामप्रव्राजने स्थिताम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,6 +574,7 @@ uttered by great brahmana sages are not killing you, who are bent on sending Ram
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -547,6 +583,8 @@ uttered by great brahmana sages are not killing you, who are bent on sending Ram
 यश्चैनं पयसा **सिञ्चेन्**  
 नैवास्य मधुरो **भवेत्** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +627,7 @@ tree will not turn sweet for him who nourishes it with milk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -597,6 +636,8 @@ tree will not turn sweet for him who nourishes it with milk."
 न हि निम्बात् स्रवेत् क्षौद्रं  
 लोके **निगदितं वचः** ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,6 +677,7 @@ quoted in the world saying that honey does not ooze from a neem tree."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -644,6 +686,8 @@ quoted in the world saying that honey does not ooze from a neem tree."
 पितुस् ते वरदः कश्चिद्  
 ददौ वरम् अनुत्तमम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,6 +704,7 @@ quoted in the world saying that honey does not ooze from a neem tree."
 
 निन्न तायिय दुराग्रहवू कूड नानु तिळिदिद्देनॆ. ई विषयदल्लि हिन्दॆ केळिदन्तॆ तिळिसुत्तेनॆ. ऒम्मॆ यारो वरकॊडुवन्तह साधुवु निन्न तन्दॆगॆ अत्यन्त उत्तम वरवन्नु कॊट्टिद्दरु.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -668,6 +713,8 @@ quoted in the world saying that honey does not ooze from a neem tree."
 तेन तिर्यग्-गतानां च  
 भूतानां **विदितं वचः** ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,6 +754,7 @@ species could be known by him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -715,6 +763,8 @@ species could be known by him."
 पितुस् ते **विदितो भावः**  
 स तत्र बहुधा **ऽहसत्** ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +804,7 @@ deciphered by your exceedingly brilliant father and he laughed over it repeatedl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +813,8 @@ deciphered by your exceedingly brilliant father and he laughed over it repeatedl
 हासं ते नृपते सौम्य  
 **जिज्ञासामीति चाब्रवीत्** ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,6 +856,7 @@ want to know the meaning of your laughter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -811,6 +865,8 @@ want to know the meaning of your laughter."
 ततो मे **मरणं** सद्यो  
 **भविष्यति** न संशयः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,6 +908,7 @@ it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -860,6 +917,8 @@ it."
 **शंस** मे, **जीव** वा, मा वा  
 न मां त्वं **प्रहसिष्यसि** ॥ २३ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -899,6 +958,7 @@ tell me the laughter. Do not ridicule me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -907,6 +967,8 @@ tell me the laughter. Do not ridicule me."
 तस्मै तं वरदायार्थं +++(तपस्विने)+++  
 **कथयामास** तत्त्वतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,12 +1008,15 @@ part correctly reported the matter to the sage who had bestowed the boon on him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स वरदः साधू राजानं प्रत्यभाषत ।  
 म्रियतां ध्वंसतां वेयं मा शंसीस्त्वं महीपते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,6 +1059,7 @@ the earth! Let her die or ruin. Do not reveal the reason to her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1002,6 +1068,8 @@ the earth! Let her die or ruin. Do not reveal the reason to her."
 मातरं ते **निरस्याशु**  
 **विजहार** कुबेरवत् ॥ २६ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,6 +1103,7 @@ mother and lived happily like Kubera the Lord of riches."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1043,6 +1112,8 @@ mother and lived happily like Kubera the Lord of riches."
 असद्‍-ग्राहम् इमं मोहात्  
 **कुरुषे** पापदर्शिनी ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1082,6 +1153,7 @@ wicked men, are making this bad resolution by ignorance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1090,6 +1162,8 @@ wicked men, are making this bad resolution by ignorance."
 पितॄन् समनुजायन्ते  
 नरा, मातरम् अङ्गनाः ॥ २८ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1133,6 +1207,7 @@ their mothers, occurs to me as true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1141,6 +1216,8 @@ their mothers, occurs to me as true."
 भर्तुरिच्छाम् **उपास्वेह**  
 जनस्यास्य गतिर् भव ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,6 +1258,7 @@ king. following the desire of your husband, be a protectress to these people her
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1189,6 +1267,8 @@ king. following the desire of your husband, be a protectress to these people her
 भर्तारं लोक-भर्तारम्  
 असद्-धर्मम् **उपादधाः** ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,6 +1307,7 @@ this world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1235,6 +1316,8 @@ this world.
 श्रीमान् दशरथो राजा  
 देवि राजीवलोचनः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1268,6 +1351,7 @@ king cannot indeed belie the promise given to you(Hence, you alone has to change
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1276,6 +1360,8 @@ king cannot indeed belie the promise given to you(Hence, you alone has to change
 रक्षिता जीवलोकस्य  
 बली **रामोऽभिषिच्यताम्** ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1317,6 +1403,7 @@ installed on the throne of Ayodhya"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1325,6 +1412,8 @@ installed on the throne of Ayodhya"
 यदि रामो वनं **याति**  
 विहाय पितरं नृपम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,6 +1457,7 @@ leaving his royal father goes to the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1376,6 +1466,8 @@ leaving his royal father goes to the forest.
 **न** हि ते राघवाद् अन्यः  
 **क्षमः** पुरवरे वसन् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1416,6 +1508,7 @@ is none other than Rama living in your excellent city who is competent to rule t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1424,6 +1517,8 @@ is none other than Rama living in your excellent city who is competent to rule t
 **प्रवेक्ष्यति** महेष्वासः  
 पूर्ववृत्तम् **अनुस्मरन्** ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1459,6 +1554,7 @@ the conduct of his forebears"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1471,6 +1567,8 @@ the conduct of his forebears"
 **न** चास्या मुखवर्णस्य  
 **लक्ष्यते विक्रिया** तदा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1542,5 +1640,6 @@ assmebly, by his kind words as well as bitter words.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु.॥35॥
+</details>
 </details>
 

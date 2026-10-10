@@ -2,6 +2,8 @@
 title = "००२ भिक्षुरूपेण हनुमदागमनम्"
 title_english = "002 The fearless Hanuma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -21,12 +23,15 @@ is ruling high on the Hindu psyche and Hanuma is to be remembered in any event o
 
 2. सुग्रीव तथा वानरोंकी आशङ्का, हनुमान् जी द्वारा उसका निवारण तथा सुग्रीवका हनुमान् जी को श्रीराम-लक्ष्मणके पास उनका भेद लेनेके लिये भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु दृष्ट्वा महात्मानौ भ्रातरौ रामलक्ष्मणौ ।  
 वरायुधधरौ वीरौ सुग्रीवः शङ्कितोऽभवत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ Rama and Lakshmana, Sugreeva became ambiguous. [4-2-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्विग्नहृदयः सर्वा दिशः समवलोकयन् ।  
 न व्यतिष्ठत कस्मिंश्चिद् देशे वानरपुङ्गवः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ one place. [4-2-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव चक्रे मनः स्थातुं वीक्षमाणौ महाबलौ ।  
 कपेः परमभीतस्य चित्तं व्यवससाद ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ much frightened, and his heart is really sunken. [4- 2- 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयित्वा स धर्मात्मा विमृश्य गुरुलाघवम् ।  
 सुग्रीवः परमोद्विग्नः सर्वैस्तैर्वानरैः सह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ all the other monkeys too are frightened. [4-2-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स सचिवेभ्यस्तु सुग्रीवः प्लवगाधिपः ।  
 शशंस परमोद्विग्नः पश्यंस्तौ रामलक्ष्मणौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ his ministers. [4- 2- 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ वनमिदं दुर्गं वालिप्रणिहितौ ध्रुवम् ।  
 छद्मना चीरवसनौ प्रचरन्ताविहागतौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +311,15 @@ Vali must have dispatched them... [4-2-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवसचिवा दृष्ट्वा परमधन्विनौ ।  
 जग्मुर्गिरितटात् तस्मादन्यच्छिखरमुत्तमम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,12 +358,15 @@ terrace to another high-peaked mountain. [4- 2- 7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते क्षिप्रमभिगम्याथ यूथपा यूथपर्षभम् ।  
 हरयो वानरश्रेष्ठं परिवार्योपतस्थिरे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,6 +406,7 @@ the chieftain of monkeys, gathering around him there they stood at his nearby. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -388,6 +415,8 @@ the chieftain of monkeys, gathering around him there they stood at his nearby. [
 ततः शाखामृगाः सर्वे प्लवमाना महाबलाः ।  
 बभञ्जुश्च नगांस्तत्र पुष्पितान् दुर्गमाश्रितान् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +481,15 @@ mountains and even thir peaks by their trample in hastiness. [4-2-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्लवन्तो हरिवराः सर्वतस्तं महागिरिम् ।  
 मृगमार्जारशार्दूलांस्त्रासयन्तो ययुस्तदा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +532,15 @@ mountain. [4-2-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवसचिवाः पर्वतेन्द्रे समाहिताः ।  
 सङ्गम्य कपिमुख्येन सर्वे प्राञ्जलयः स्थिताः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +576,15 @@ Sugreeva, and all stood with their adjoined palms. [4-2-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु भयसन्त्रस्तं वालिकिल्बिषशङ्कितम् ।  
 उवाच हनुमान् वाक्यं सुग्रीवं वाक्यकोविदः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +626,15 @@ Vali's mischief. [4-2-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्भ्रमस्त्यज्यतामेष सर्वैर्वालिकृते महान् ।  
 मलयोऽयं गिरिवरो भयं नेहास्ति वालिनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +683,15 @@ Mt. Rishyamuka or also called Mt. Malaya, because Vali cannot step on this mount
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मादुद्विग्नचेतास्त्वं विद्रुतो हरिपुङ्गव ।  
 तं क्रूरदर्शनं क्रूरं नेह पश्यामि वालिनम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +732,15 @@ cruel-looking, cruel Vali here... [4- 2-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मात् तव भयं सौम्य पूर्वजात् पापकर्मणः ।  
 स नेह वाली दुष्टात्मा न ते पश्याम्यहं भयम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +780,15 @@ and the one with harmful intent... that Vali is not here. Therefore I perceive n
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो शाखामृगत्वं ते व्यक्तमेव प्लवङ्गम ।  
 लघुचित्ततयाऽऽत्मानं न स्थापयसि यो मतौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +830,15 @@ in your mind by that fickleness, and your monkeyshines is clear by it... [4-2-17
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धिविज्ञानसम्पन्न इङ्गितैः सर्वमाचर ।  
 नह्यबुद्धिं गतो राजा सर्वभूतानि शास्ति हि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +879,15 @@ So said Hanuma to Sugreeva. [4-2-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्तु शुभं वाक्यं श्रुत्वा सर्वं हनूमतः ।  
 ततः शुभतरं वाक्यं हनूमन्तमुवाच ह ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +926,15 @@ sentence, positively. [4-2-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घबाहू विशालाक्षौ शरचापासिधारिणौ ।  
 कस्य न स्याद् भयं दृष्ट्वा ह्येतौ सुरसुतोपमौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,12 +974,15 @@ Sugreeva thus spoke to Hanuma. [4-2-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालिप्रणिहितावेव शङ्केऽहं पुरुषोत्तमौ ।  
 राजानो बहुमित्राश्च विश्वासो नात्र हि क्षमः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1022,15 @@ do have many friends and trusting them absolutely is an unpardonable mistake... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरयश्च मनुष्येण विज्ञेयाश्छद्मचारिणः ।  
 विश्वस्तानामविश्वस्ताश्छिद्रेषु प्रहरन्त्यपि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,12 +1070,15 @@ the complacently self-assured ones that relax in their own self-confidence on an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्येषु वाली मेधावी राजानो बहुदर्शिनः ।  
 भवन्त परहन्तारस्ते ज्ञेयाः प्राकृतैर्नरैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1052,12 +1120,15 @@ to eliminate them... and they the kings are to be known even by ordinary people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ त्वया प्राकृतेनेव गत्वा ज्ञेयौ प्लवङ्गम ।  
 इङ्गितानां प्रकारैश्च रूपव्याभाषणेन च ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,12 +1169,15 @@ conversation, as well...[4-2-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्षयस्व तयोर्भावं प्रहृष्टमनसौ यदि ।  
 विश्वासयन् प्रशंसाभिरिङ्गितैश्च पुनः पुनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1194,15 @@ conversation, as well...[4-2-24]
 
 अवर मनोभाववन्नु तिळिदुको, अवरु प्रसन्नचित्तरागि कण्डुबन्दरॆ पदे-पदे नन्नन्नु प्रसंसिसि, नन्न अभिप्रायवन्नु सूचिसुव चेष्टॆगळिन्द नन्न कुरितु अवरल्लि विश्वासवन्नु उत्पन्नमाडु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममैवाभिमुखं स्थित्वा पृच्छ त्वं हरिपुङ्गव ।  
 प्रयोजनं प्रवेशस्य वनस्यास्य धनुर्धरौ ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,12 +1252,15 @@ position them towards my friendship and me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुद्धात्मानौ यदि त्वेतौ जानीहि त्वं प्लवङ्गम ।  
 व्याभाषितैर्वा रूपैर्वा विज्ञेया दुष्टतानयोः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1222,12 +1302,15 @@ otherwise by conversation..." Thus Sugreeva said to Hanuma. [4-2-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं कपिराजेन सन्दिष्टो मारुतात्मजः ।  
 चकार गमने बुद्धिं यत्र तौ रामलक्ष्मणौ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,6 +1349,7 @@ to go there, where Rama and Lakshmana are. [4-2-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1274,6 +1358,8 @@ to go there, where Rama and Lakshmana are. [4-2-28]
 महानुभावो हनुमान् ययौ तदा  
 स यत्र रामोऽतिबली सलक्ष्मणः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,5 +1416,6 @@ highly mighty Rama is there along with Lakshmana. [4-2-29]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऎरडनॆय सर्ग सम्पूर्णवायितु.॥2॥
+</details>
 </details>
 

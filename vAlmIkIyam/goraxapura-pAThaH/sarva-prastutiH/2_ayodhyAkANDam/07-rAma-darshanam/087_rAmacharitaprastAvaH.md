@@ -2,6 +2,8 @@
 title = "०८७ रामचरितप्रस्तावः"
 title_english = "087 Guha reports further details of Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ night, along with Guha and his kinsmen.
 
 87. भरतकी मूर्च्छासे गुह, शत्रुघ्न और माताओंका दुःखी होना, होशमें आनेपर भरतका गुहसे श्रीराम आदिके भोजन और शयन आदिके विषयमें पूछना और गुहका उन्हें सब बातें बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहस्य वचनं श्रुत्वा भरतो भृशमप्रियम् ।  
 ध्यानं जगाम तत्रैव यत्र तच्छ्रुतमप्रियम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,6 +75,7 @@ directing his mind on Rama, of whom those unpleasant words were heard.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -78,6 +84,8 @@ directing his mind on Rama, of whom those unpleasant words were heard.
 प्रत्याश्वस्य मुहूर्तं तु कालं परमदुर्मनाः ।  
 ससाद सहसा तोत्रैर्हृदि विद्ध इव द्विपः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -132,12 +140,15 @@ has been wounded in the heart with goads.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतं मूर्च्छितं दृष्ट्वा विवर्णवदनो गुहः ।  
 बभूव व्यथितस्तत्र भूमिकम्पे यथा द्रुमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +191,15 @@ earthquake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदवस्थं तु भरतं शत्रुघ्नोऽनन्तरस्थितः ।  
 परिष्वज्य रुरोदोच्चैर्विसञ्ज्ञः शोककर्शितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +239,15 @@ arms, becoming non-pulsed, cried loudly, overcome as he was with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वाः समापेतुर्मातरो भरतस्य ताः ।  
 उपवासकृशा दीना भर्तृव्यसनकर्शिताः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,12 +285,15 @@ to find consolation for the sad end of their lord, rushed towards Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताश्च तं पतितं भूमौ रुदत्यः पर्यवारयन् ।  
 कौसल्या त्वनुसृत्यैनं दुर्मनाः परिषस्वजे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +336,15 @@ part, torn with grief and bending over him, embraced him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वत्सला स्वं यथा वत्समुपगुह्य तपस्विनी ।  
 परिपप्रच्छ भरतं रुदती शोकलालसा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +387,15 @@ pressing him to her bosom as a cow its own calf, questioned Bharata (in the foll
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्र व्याधिर्न ते कच्चिच्छरीरं प्रति बाधते ।  
 अस्य राजकुलस्याद्य त्वदधीनं हि जीवितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +438,15 @@ is indeed dependent on you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां दृष्ट्वा पुत्र जीवामि रामे सभ्रातृके गते ।  
 वृत्ते दशरथे राज्ञि नाथ एकस्त्वमद्य नः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +487,15 @@ dead. I survive, looking on you. Now, you alone are the protector for us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न लक्ष्मणे पुत्र श्रुतं ते किञ्चिदप्रियम् ।  
 पुत्रे वा ह्येकपुत्रायाः सहभार्ये वनं गते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +536,15 @@ and the only son who left for the forest along with his wife."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुहूर्तं समाश्वस्य रुदन्नेव महायशाः ।  
 कौसल्यां परिसान्त्व्येदं गुहं वचनमब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +587,15 @@ while still weeping, spoke to Guha (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राता मे क्वावसद् रात्रौ क्व सीता क्व च लक्ष्मणः ।  
 अस्वपच्छयने कस्मिन् किं भुक्त्वा गुह शंस मे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +637,15 @@ night? On what couch and eating what, did he repose?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽब्रवीद् भरतं हृष्टो निषादाधिपतिर्गुहः ।  
 यद्विधं प्रतिपेदे च रामे प्रियहितेऽतिथौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -646,12 +687,15 @@ Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्नमुच्चावचं भक्ष्याः फलानि विविधानि च ।  
 रामायाभ्यवहारार्थं बहुशोऽपहृतं मया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +739,15 @@ repeatedly by me to the presence of Rama for the purpose of his consumption."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सर्वं प्रत्यनुज्ञासीद् रामः सत्यपराक्रमः ।  
 न हि तत् प्रत्यगृह्णात् स क्षत्रधर्ममनुस्मरन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,12 +787,15 @@ warrior's statute, he could not accept it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्यस्माभिः प्रतिग्राह्यं सखे देयं तु सर्वदा ।  
 इति तेन वयं सर्वे अनुनीता महात्मना ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +835,15 @@ We are not allowed to receive anything we must always be givers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणेन यदानीतं पीतं वारि महात्मना ।  
 औपवास्यं तदाकार्षीद् राघवः सह सीतया ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +883,15 @@ observed fasting."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु जलशेषेण लक्ष्मणोऽप्यकरोत् तदा ।  
 वाग्यतास्ते त्रयः सन्ध्यां समुपासन्त संहिताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -876,12 +932,15 @@ silence together in that evening-twilight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रिस्तु ततः पश्चादकरोत् स्वास्तरं शुभम् ।  
 स्वयमानीय बर्हींषि क्षिप्रं राघवकारणात् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,12 +983,15 @@ nice bed with it for Rama immediately."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् समाविशद् रामः स्वास्तरे सह सीतया ।  
 प्रक्षाल्य च तयोः पादौ व्यपाक्रामत् स लक्ष्मणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,12 +1031,15 @@ Lakshmana went away to a distance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तदिङ्गुदीमूलमिदमेव च तत् तृणम् ।  
 यस्मिन् रामश्च सीता च रात्रिं तां शयितावुभौ ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,6 +1079,7 @@ slept that night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1022,6 +1088,8 @@ slept that night."
 महद्धनुः सज्जमुपोह्य लक्ष्मणो  
 निशामतिष्ठत् परितोऽस्य केवलम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,6 +1141,7 @@ his part walking round Rama during that night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1081,6 +1150,8 @@ his part walking round Rama during that night."
 अतन्द्रितैर्ज्ञातिभिरात्तकार्मुकै-  
 र्महेन्द्रकल्पं परिपालयंस्तदा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,5 +1213,6 @@ celestials."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तेळनॆय सर्ग पूर्णवायितु.॥87॥
+</details>
 </details>
 

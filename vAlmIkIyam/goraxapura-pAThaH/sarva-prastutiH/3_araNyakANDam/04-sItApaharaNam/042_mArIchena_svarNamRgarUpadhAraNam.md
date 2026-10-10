@@ -2,6 +2,8 @@
 title = "०४२ मारीचेन स्वर्णमृगरूपधारणम्"
 title_english = "042 Maareecha turns into Golden Deer"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ the form of an amazing golden Deer, and Seetha catches a sight of that deer.
 
 42. मारीचका सुवर्णमय मृगरूप धारण करके श्रीरामके आश्रमपर जाना और सीताका उसे देखना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु परुषं मारीचो रावणं ततः ।  
 गच्छावेत्यब्रवीद् दीनो भयाद् रात्रिञ्चरप्रभोः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ he became self-pitying, and said to Ravana, 'let us go.' [3-42-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टश्चाहं पुनस्तेन शरचापासिधारिणा ।  
 मद्वधोद्यतशस्त्रेण निहतं जीवितं च मे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,12 +98,15 @@ he became self-pitying, and said to Ravana, 'let us go.' [3-42-1]
 
 ‘मेरे वधके लिये जिनका हथियार सदा उठा ही रहता है, उन धनुष-बाण और तलवार धारण करनेवाले श्रीरामचन्द्रजीने यदि फिर मुझे देख लिया तो मेरे जीवनका अन्त निश्चित है ॥ २ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि रामं पराक्रम्य जीवन् प्रतिनिवर्तते ।  
 वर्तते प्रतिरूपोऽसौ यमदण्डहतस्य ते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ kill me happens to see me again, deem my life is verily lost, without his shooti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु कर्तुं मया शक्यमेवं त्वयि दुरात्मनि ।  
 एष गच्छाम्यहं तात स्वस्ति तेऽस्तु निशाचर ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ night-walker, thither I go, may good betide you." So said Maareecha to Ravana. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टस्त्वभवत् तेन वचनेन स राक्षसः ।  
 परिष्वज्य सुसंश्लिष्टमिदं वचनमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,12 +262,15 @@ sentence tightly hugging him. [3-42-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छौटीर्ययुक्तं ते मच्छन्दवशवर्तिनः ।  
 इदानीमसि मारीचः पूर्वमन्यो हि राक्षसः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +320,15 @@ Maareecha himself in the event of the death of Maareecha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुह्यतामयं शीघ्रं खगो रत्नविभूषितः ।  
 मया सह रथो युक्तः पिशाचवदनैः खरैः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ vehicle-drawing instruments designed to look like ordinary harmless creatures.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ।  
 तां शून्ये प्रसभं सीतामानयिष्यामि मैथिलीम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +436,7 @@ perhaps die by the arrow of Rama, for which Ravana is unconcerned.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +444,8 @@ perhaps die by the arrow of Rama, for which Ravana is unconcerned.
 ततो रावणमारीचौ विमानमिव तं रथम् ॥ ९ ॥  
 आरुह्याययतुः शीघ्रं तस्मादाश्रममण्डलात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,6 +494,7 @@ surroundings of Maareecha's hermitage. [3-42-9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,6 +503,8 @@ surroundings of Maareecha's hermitage. [3-42-9, 10a]
 समेत्य दण्डकारण्यं राघवस्याश्रमं ततः ॥ ११ ॥  
 ददर्श सहमारीचो रावणो राक्षसाधिपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +569,15 @@ even at the cities and provinces en route they proceeded. [3-42-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवतीर्य रथात् तस्मात् ततः काञ्चनभूषणात् ॥ १२ ॥  
 हस्ते गृहीत्वा मारीचं रावणो वाक्यमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +617,15 @@ sentence to Maareecha taking his hand into his. [3-42-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् रामाश्रमपदं दृश्यते कदलीवृतम् ॥ १३ ॥  
 क्रियतां तत् सखे शीघ्रं यदर्थं वयमागताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,12 +667,15 @@ effectuated promptly." Thus Ravana hastened Maareecha. [3-42-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रावणवचः श्रुत्वा मारीचो राक्षसस्तदा ॥ १४ ॥  
 मृगो भूत्वाऽऽश्रमद्वारि रामस्य विचचार ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,6 +715,7 @@ freely in the frontage of Rama's hermitage. [3-42-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -683,6 +725,8 @@ freely in the frontage of Rama's hermitage. [3-42-14b, 15a]
 किञ्चिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः ।  
 मधूकनिभपार्श्वश्च कञ्जकिञ्जल्कसन्निभः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +822,15 @@ some places and not so whitish at other in its look, he became a Golden Deer and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदूर्यसङ्काशखुरस्तनुजङ्घः सुसंहतः ।  
 इन्द्रायुधसवर्णेन पुच्छेनोर्ध्वं विराजितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,12 +876,15 @@ dapples, that deer moved thereabout with a heart-stealing aura. [3-42-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोहरस्निग्धवर्णो रत्नैर्नानाविधैर्वृतः ।  
 क्षणेन राक्षसो जातो मृगः परमशोभनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,6 +929,7 @@ a wink highly irradiating those woodlands, and the threshold of Rama's hermitage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,6 +938,8 @@ a wink highly irradiating those woodlands, and the threshold of Rama's hermitage
 प्रलोभनार्थं वैदेह्या नानाधातुविचित्रितम् ।  
 विचरन् गच्छते सम्यक् शाद्वलानि समन्ततः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +980,15 @@ deer in order that Vaidehi might be deluded, and he moved forward onto the pastu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रौप्यैर्बिन्दुशतैश्चित्रं भूत्वा च प्रियदर्शनः ।  
 विटपीनां किसलयान् भक्षयन् विचचार ह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,12 +1028,15 @@ pleasant looks and indeed moved chewing new grass-blades of trees. [3-42-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदलीगृहकं गत्वा कर्णिकारानितस्ततः ।  
 समाश्रयन् मन्दगतिं सीतासन्दर्शनं ततः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1077,15 @@ there around Karnikara trees, and then resorted to a place which is within the e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजीवचित्रपृष्ठः स विरराज महामृगः ।  
 रामाश्रमपदाभ्याशे विचचार यथासुखम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1126,15 @@ delight. [3-42-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनर्गत्वा निवृत्तश्च विचचार मृगोत्तमः ।  
 गत्वा मुहूर्तं त्वरया पुनः प्रतिनिवर्तते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1174,15 @@ again, and turns its tail for sometime only to return once again very playfully.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रीडंश्च क्वचिद् भूमौ पुनरेव निषीदति ।  
 आश्रमद्वारमागम्य मृगयूथानि गच्छति ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,12 +1223,15 @@ threshold of hermitage it goes towards herds of deer. [3-42-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगयूथैरनुगतः पुनरेव निवर्तते ।  
 सीतादर्शनमाकाङ्क्षन् राक्षसो मृगतां गतः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,6 +1276,7 @@ that herd of deer. [3-42-27, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1212,6 +1284,8 @@ that herd of deer. [3-42-27, 28a]
 समुद्वीक्ष्य च सर्वे तं मृगा येऽन्ये वनेचराः ॥ २८ ॥  
 उपगम्य समाघ्राय विद्रवन्ति दिशो दश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,12 +1338,15 @@ them. Humans apperceive neither god nor ghost because they are half of each.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसः सोऽपि तान् वन्यान् मृगान् मृगवधे रतः ॥ २९ ॥  
 प्रच्छादनार्थं भावस्य न भक्षयति संस्पृशन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1312,6 +1389,7 @@ indulgently, only for the reason of camouflaging his present nature of demon-hoo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1319,6 +1397,8 @@ indulgently, only for the reason of camouflaging his present nature of demon-hoo
 कुसुमापचये व्यग्रा पादपानत्यवर्तत ।  
 कर्णिकारानशोकांश्च चूतांश्च मदिरेक्षणा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1378,6 +1458,7 @@ plucking the flowers in the same instant. [3-42-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1385,6 +1466,8 @@ plucking the flowers in the same instant. [3-42-30b, 31a]
 अनर्हा वनवासस्य सा तं रत्नमयं मृगम् ॥ ३२ ॥  
 मुक्तामणिविचित्राङ्गं ददर्श परमाङ्गना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1425,12 +1508,15 @@ gemlike and whose limbs are surprising as though studded with pearls and gems. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वै रुचिरदन्तोष्ठं रूप्यधातुतनूरुहम् ॥ ३३ ॥  
 विस्मयोत्फुल्लनयना सस्नेहं समुदैक्षत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1472,12 +1558,15 @@ with an affinity for wildlife. [3-42-33b, 34a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च तां रामदयितां पश्यन् मायामयो मृगः ॥ ३४ ॥  
 विचचार ततस्तत्र दीपयन्निव तद् वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1517,12 +1606,15 @@ as though to scintillate that woodland. [3-42-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टपूर्वं दृष्ट्वा तं नानारत्नमयं मृगम् ।  
 विस्मयं परमं सीता जगाम जनकात्मजा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1577,5 +1669,6 @@ conclude that *'trust not what thy eyes show you...'*
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥42॥
+</details>
 </details>
 

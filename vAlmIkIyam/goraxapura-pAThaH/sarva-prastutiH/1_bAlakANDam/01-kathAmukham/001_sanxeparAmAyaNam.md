@@ -3,6 +3,8 @@ title = "००१ सङ्क्षेपरामायणम्"
 english_title = "001 nArada briefs vAlmIki about rAma rAmAyaNa in a nutshell"
 unicode_script = "devanagari"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - Book Of Youthful Majesties
@@ -37,6 +39,7 @@ letter *ta* an auspicious letter.
 
 एवं स्थिते महर्षिणा वाल्मीकिना परम-पुरुषस्य पुण्य-श्लोकस्य चरित-वर्णनं देवर्षि-नारदोपदेशेन ब्रह्मणो वर-प्रदानेन च धर्म-प्राधान्येन वेदोपबृंहकत्वेन परम-पुरुषार्थ-साधकत्वेन च कृतं स्मृति-तुल्यम् इत्य् अविवादम् । तादृश-चरित-वर्णनाय लोकोत्तर-गुणं महा-पुरुषं पृच्छति - तपः-स्वाध्याय-निरतम् इत्य्-आदिना ॥
 </details>
+</details>
 
 ## नारदाय प्रश्नः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -44,6 +47,8 @@ letter *ta* an auspicious letter.
 तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।  
 नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +99,15 @@ The epic starts with the word auspicious word *ta* as said in *'takaarovighnanaa
 
 इति । स्वाध्याय-निरत इत्य्-अनेन यत् किंचिद् वदति तद् वेदोक्त-धर्मानुगुणतयैव वदतीति सूचितम् । वाग्-विदां वरम् इत्य्-अनेन वक्तृत्वं प्रतिपादितम् । मुनि-पुंगवम् इत्य्-अनेन अतीन्द्रिय-अभिज्ञत्वं सूचितम् । अग्रे त्रिलोकज्ञ इत्य्-अनेन विशेषणेन लोक-त्रय-संचारेण प्रत्यक्षतया सद्-असद्-वस्त्व्-अभिज्ञत्वं प्रदर्शितम् । एतैर् विशेषणैः सर्व-गुण-समष्टिमत्वं सर्वज्ञत्वं सर्व-जन-मान्यत्वं सर्वोत्कृष्ट-माहात्म्यं च सूचितम् । एतादृशं नारदं भगवान् वाल्मीकिः सर्व-गुण-समष्टि-रूपं पुरुषम्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान् ।  
 धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,12 +142,15 @@ The epic starts with the word auspicious word *ta* as said in *'takaarovighnanaa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारित्रेण च को युक्तः सर्वभूतेषु को हितः ।  
 विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +198,15 @@ alone is pleasant...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः ।  
 कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +240,15 @@ alone is pleasant...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे ।  
 महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,6 +305,7 @@ full-moon.
 
 इति पृष्टवान् । तस्य सर्व-गुण-समष्टि-रूपः परम-पुरुषः
 </details>
+</details>
 
 ## नारदस्योत्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +315,8 @@ full-moon.
 श्रूयतामिति चामन्त्र्य  
 प्रहृष्टो **वाक्यम् अब्रवीत्** ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +331,15 @@ _________________
 
 महर्षि वाल्मीकिके इस वचनको सुनकर तीनोंलोकोंका ज्ञान रखनेवाले नारदजीने उन्हें सम्बोधित करके कहा, अच्छा सुनिये और फिर प्रसन्नतापूर्वक बोले— ॥ ६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः ।  
 मुने वक्ष्याम्यहं बुद्‍ध्वा तैर्युक्तः श्रूयतां नरः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +402,7 @@ this world, the intermediary heaven, the heavens themselves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### रामवर्णनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +412,8 @@ this world, the intermediary heaven, the heavens themselves.
 नियतात्मा महावीर्यो  
 द्युतिमान् धृतिमान् वशी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,6 +465,7 @@ of that Absolute in Creation, and the process of Creation is the self-expression
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -447,6 +474,8 @@ of that Absolute in Creation, and the process of Creation is the self-expression
 विपुलांसो+++(=भुजास्थि)+++ महाबाहुः  
 कम्बुग्रीवो महाहनुः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,6 +524,7 @@ have by birth, as per *saamudrikashaastra*, the physiognomic treatise of astrolo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +533,8 @@ have by birth, as per *saamudrikashaastra*, the physiognomic treatise of astrolo
 आजानुबाहुः सुशिराः  
 सुललाटः सुविक्रमः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +577,15 @@ ones like *ariSaDvarga* like desire, ire, avarice, conceit etc., as detailed in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् ।  
 पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +626,15 @@ by the adherents as said in Chāndogya Upanishad: *ya eSo antaraaditye hiraNmaya
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः ।  
 यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +669,15 @@ proficient in prudence, clean in his conduct, self-controlled and an attentive o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः ।  
 रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,12 +723,15 @@ others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता ।  
 वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +800,15 @@ such weapons to Rama. For now, these bow and arrow references may not be taken a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान् ।  
 सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,12 +843,15 @@ and dear to all the worlds, gentle, level-headed and clear-headed in discriminat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः ।  
 आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -845,12 +895,15 @@ like Jataayu, have no other recourse than Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः ।  
 समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,6 +954,7 @@ adherents are scorched with their problems.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -908,6 +962,8 @@ adherents are scorched with their problems.
 कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ॥ १८ ॥  
 धनदेन समस्त्यागे सत्ये धर्म इवापरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -977,6 +1033,7 @@ to English.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### अभिषेकयत्नः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -986,6 +1043,8 @@ to English.
 प्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ॥ २० ॥  
 यौवराज्येन संयोक्तुमैच्छत् प्रीत्या महीपतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1037,6 +1096,7 @@ and concerned for welfare of the people....[1-1-29b, 20, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1044,6 +1104,8 @@ and concerned for welfare of the people....[1-1-29b, 20, 21a]
 पूर्वं दत्तवरा देवी वरमेनमयाचत ।  
 विवासनं च रामस्य भरतस्याभिषेचनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,12 +1150,15 @@ banishment of Rama and anointment of Bharata as boons. [1-1-21b, 22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सत्यवचनाद् राजा धर्मपाशेन संयतः ।  
 विवासयामास सुतं रामं दशरथः प्रियम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1129,6 +1194,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### वनवासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1136,6 +1202,8 @@ _________________
 स जगाम वनं वीरः प्रतिज्ञामनुपालयन् ।  
 पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1169,6 +1237,7 @@ directed by his father, and to follow his father's word of honour. [1-1-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1176,6 +1245,8 @@ directed by his father, and to follow his father's word of honour. [1-1-24]
 स्नेहाद् विनयसम्पन्नः सुमित्रानन्दवर्धनः ॥ २५ ॥  
 भ्रातरं दयितो भ्रातुः सौभ्रात्रमनुदर्शयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1219,6 +1290,7 @@ dear brother to Rama, followed him out of affection, showing brotherly fraternit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1228,6 +1300,8 @@ dear brother to Rama, followed him out of affection, showing brotherly fraternit
 सीताप्यनुगता रामं शशिनं रोहिणी यथा ।  
 पौरैरनुगतो दूरं पित्रा दशरथेन च ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1287,12 +1361,15 @@ of 'togetherness...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृङ्गवेरपुरे सूतं गङ्गाकूले व्यसर्जयत् ।  
 गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,6 +1407,7 @@ Lakshmana and Seetha, he left off the charioteer. [1-1-28b, 29, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1339,6 +1417,8 @@ Lakshmana and Seetha, he left off the charioteer. [1-1-28b, 29, 30a]
 रम्यमावसथं कृत्वा रममाणा वने त्रयः ॥ ३१ ॥  
 देवगन्धर्वसङ्काशास्तत्र ते न्यवसन् सुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1473,15 @@ to enter the forest to resolve the purpose of Ramayana and their incarnations.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रकूटं गते रामे पुत्रशोकातुरस्तदा ॥ ३२ ॥  
 राजा दशरथः स्वर्गं जगाम विलपन् सुतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1435,6 +1518,7 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### भरतयत्नः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1443,6 +1527,8 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः ।  
 स जगाम वनं वीरो रामपादप्रसादकः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1485,6 +1571,7 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1492,6 +1579,8 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 अयाचद् भ्रातरं राममार्यभावपुरस्कृतः ॥ ३५ ॥  
 त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1536,6 +1625,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1544,6 +1634,8 @@ _________________
 पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः ॥ ३७ ॥  
 निवर्तयामास ततो भरतं भरताग्रजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1595,12 +1687,15 @@ aadeshaat* = due to father's injunction; *na icChat* = did not desire; *raajyam*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स काममनवाप्यैव रामपादावुपस्पृशन् ॥ ३८ ॥  
 नन्दिग्रामेऽकरोद् राज्यं रामागमनकाङ्क्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1633,6 +1728,7 @@ expectation of Rama's arrival... [1-1-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### दण्डकारण्ये
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1641,6 +1737,8 @@ expectation of Rama's arrival... [1-1-38b, 39a]
 रामस्तु पुनरालक्ष्य नागरस्य जनस्य च ।  
 तत्रागमनमेकाग्रो दण्डकान् प्रविवेश ह ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1689,6 +1787,7 @@ presence of *RakShasaas*.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1696,6 +1795,8 @@ presence of *RakShasaas*.
 विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह ॥ ४१ ॥  
 सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1740,12 +1841,15 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम् ॥ ४२ ॥  
 खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1779,6 +1883,7 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### ऋषिरक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1786,6 +1891,8 @@ called as *agatsyabhraataa*, brother of Agastya.
 वसतस्तस्य रामस्य वने वनचरैः सह ॥ ४३ ॥  
 ऋषयोऽभ्यागमन् सर्वे वधायासुररक्षसाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1820,6 +1927,7 @@ approached him for the elimination of ogres and demons... [1-1-43b, 44a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1827,6 +1935,8 @@ approached him for the elimination of ogres and demons... [1-1-43b, 44a]
 प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम् ।  
 ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1876,12 +1986,15 @@ of this canto, accounts are given as how these were created and named.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन तत्रैव वसता जनस्थाननिवासिनी ।  
 विरूपिता शूर्पणखा राक्षसी कामरूपिणी ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1928,6 +2041,7 @@ Shuurpa-nakha is so named because her fingernails are like winnowing fans, *shuu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1935,6 +2049,8 @@ Shuurpa-nakha is so named because her fingernails are like winnowing fans, *shuu
 खरं त्रिशिरसं चैव दूषणं चैव राक्षसम् ॥ ४७ ॥  
 निजघान रणे रामस्तेषां चैव पदानुगान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1973,12 +2089,15 @@ We are ignoring in translation the एव part of चैव and translating the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वने तस्मिन् निवसता जनस्थाननिवासिनाम् ॥ ४८ ॥  
 रक्षसां निहतान्यासन् सहस्राणि चतुर्दश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2009,12 +2128,15 @@ We are ignoring in translation the एव part of चैव and translating the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्च्छितः ॥ ४९ ॥  
 सहायं वरयामास मारीचं नाम राक्षसम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2061,6 +2183,7 @@ vishravaso vishravaNa-ravaNau* 'the son of one named Vishravasa...' Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2069,6 +2192,8 @@ vishravaso vishravaNa-ravaNau* 'the son of one named Vishravasa...' Govindaraja.
 अनादृत्य तु तद्वाक्यं रावणः कालचोदितः ॥ ५१ ॥  
 जगाम सहमारीचस्तस्याश्रमपदं तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2121,12 +2246,15 @@ Rama is not appropriate of you...' [1-1-50b, 51a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मायाविना दूरमपवाह्य नृपात्मजौ ॥ ५२ ॥  
 जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2158,12 +2286,15 @@ Rama is not appropriate of you...' [1-1-50b, 51a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् ॥ ५३ ॥  
 राघवः शोकसन्तप्तो विललापाकुलेन्द्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2196,6 +2327,7 @@ seething with anguish ... [1-1-53b, 54a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2204,6 +2336,8 @@ seething with anguish ... [1-1-53b, 54a]
 कबन्धं नाम रूपेण विकृतं घोरदर्शनम् ॥ ५५ ॥  
 तं निहत्य महाबाहुर्ददाह स्वर्गतश्च सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2245,12 +2379,15 @@ indeed saw a demon named Kabandha, deformed in his looks and with a terrible app
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चास्य कथयामास शबरीं धर्मचारिणीम् ॥ ५६ ॥  
 श्रमणां धर्मनिपुणामभिगच्छेति राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2293,12 +2430,15 @@ she who is an expert in probity; *shramaNiim* = a devotee.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः ॥ ५७ ॥  
 शबर्या पूजितः सम्यग् रामो दशरथात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2336,6 +2476,7 @@ Traditionally Hanuma is worshipped as a god.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### सुग्रीवसख्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2343,6 +2484,8 @@ Traditionally Hanuma is worshipped as a god.
 पम्पातीरे हनुमता सङ्गतो वानरेण ह ॥ ५८ ॥  
 हनुमद्वचनाच्चैव सुग्रीवेण समागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2375,12 +2518,15 @@ Traditionally Hanuma is worshipped as a god.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः ॥ ५९ ॥  
 आदितस्तद् यथावृत्तं सीतायाश्च विशेषतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2425,12 +2571,15 @@ it was necessary to narrate all sad episodes to his friend.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः ॥ ६० ॥  
 चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2465,12 +2614,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वानरराजेन वैरानुकथनं प्रति ॥ ६१ ॥  
 रामायावेदितं सर्वं प्रणयाद् दुःखितेन च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2503,6 +2655,7 @@ in its entirety by the Vanara King with grief to Rama ... [1-1-61b, 62a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2510,6 +2663,8 @@ in its entirety by the Vanara King with grief to Rama ... [1-1-61b, 62a]
 वालिनश्च बलं तत्र कथयामास वानरः ।  
 सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2552,12 +2707,15 @@ for the climactic victory.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम् ।  
 दर्शयामास सुग्रीवो महापर्वतसन्निभम् ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2596,12 +2754,15 @@ Vali had at one time killed Dundubhi and kicked his body over a long distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः ।  
 पादाङ्गुष्ठेन चिक्षेप सम्पूर्णं दशयोजनम् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2659,12 +2820,15 @@ instruments to perform such unusual tasks, hence ambidextrous, or omni-dextrous.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बिभेद च पुनस्तालान् सप्तैकेन महेषुणा ।  
 गिरिं रसातलं चैव जनयन् प्रत्ययं तदा ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2711,12 +2875,15 @@ up to its core.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः ।  
 किष्किन्धां रामसहितो जगाम च गुहां तदा ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2757,6 +2924,7 @@ and with confidence in Rama's strength...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2765,6 +2933,8 @@ and with confidence in Rama's strength...
 अनुमान्य तदा तारां सुग्रीवेण समागतः ।  
 निजघान च तत्रैनं शरेणैकेन राघवः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2836,12 +3006,15 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीववचनाद्धत्वा वालिनमाहवे ।  
 सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत् ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2873,6 +3046,7 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### वानरप्रेषणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2880,6 +3054,8 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 स च सर्वान् समानीय वानरान् वानरर्षभः ।  
 दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम् ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2917,12 +3093,15 @@ order'.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गृध्रस्य वचनात् सम्पातेर्हनुमान् बली ।  
 शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम् ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2960,6 +3139,7 @@ order'.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### सीतादर्शनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2967,6 +3147,8 @@ order'.
 तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।  
 ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम् ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3001,12 +3183,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेदयित्वाभिज्ञानं प्रवृत्तिं विनिवेद्य च ।  
 समाश्वास्य च वैदेहीं मर्दयामास तोरणम् ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3046,12 +3231,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि ।  
 शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3082,12 +3270,15 @@ sons; *shuuram akSham ca niSpiSya* = and crushing valiant Aksha; *grahaNam samup
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद् वरात् ।  
 मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान् यदृच्छया ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3107,12 +3298,15 @@ _________________
 
 ब्रह्मन वरदिन्द तानु ब्रह्मास्त्रदिन्द बिडुगडॆ हॊन्दिद्दरू वीर हनुमन्तनु तन्नन्नु बन्धिसिद आ राक्षसर अपराधवन्नु इच्छानुसारवागि सहिसिदनु.॥76॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम् ।  
 रामाय प्रियमाख्यातुं पुनरायान्महाकपिः ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3160,12 +3354,15 @@ lived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् ।  
 न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3198,12 +3395,15 @@ submitted in essence thus: 'Seen Seetha...' [1-1-78]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवसहितो गत्वा तीरं महोदधेः ।  
 समुद्रं क्षोभयामास शरैरादित्यसन्निभैः ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3242,12 +3442,15 @@ Rama starts depleting its waters with arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयामास चात्मानं समुद्रः सरितां पतिः ।  
 समुद्रवचनाच्चैव नलं सेतुमकारयत् ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3286,12 +3489,15 @@ that boon is taken advantage of, and a boulder bridge is built on ocean waters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे ।  
 रामः सीतामनुप्राप्य परां व्रीडामुपागमत् ॥ ८१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3324,12 +3530,15 @@ that boon is taken advantage of, and a boulder bridge is built on ocean waters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामुवाच ततो रामः परुषं जनसंसदि ।  
 अमृष्यमाणा सा सीता विवेश ज्वलनं सती ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3366,6 +3575,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3373,6 +3583,8 @@ _________________
 कर्मणा तेन महता त्रैलोक्यं सचराचरम् ॥ ८३ ॥  
 सदेवर्षिगणं तुष्टं राघवस्य महात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3390,6 +3602,7 @@ _________________
 
 अनन्तर सीतॆयु निष्कळङ्कितळु ऎन्दु अग्नियु हेळिदाग ऎल्लरू ऒप्पिकॊण्डरु. महात्म रामचन्द्रन ई महत्कार्यदिन्द देवतॆगळु मत्तु ऋषिगळ सहित चराचर मूरु लोकगळु सन्तसगॊण्डवु.॥83½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3397,6 +3610,8 @@ _________________
 अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम् ।  
 कृतकृत्यस्तदा रामो विज्वरः प्रमुमोद ह ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3453,6 +3668,7 @@ beings, and with groups of gods and sages became exultant... [1-1-83, 84]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### अयोध्यागतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3460,6 +3676,8 @@ beings, and with groups of gods and sages became exultant... [1-1-83, 84]
 देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान् ।  
 अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृद्‍वृतः ॥ ८६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3494,12 +3712,15 @@ surrounded by good hearted ones...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः ।  
 भरतस्यान्तिके रामो हनूमन्तं व्यसर्जयत् ॥ ८७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3540,12 +3761,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनराख्यायिकां जल्पन् सुग्रीवसहितस्तदा ।  
 पुष्पकं तत् समारुह्य नन्दिग्रामं ययौ तदा ॥ ८८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3585,12 +3809,15 @@ of the very same places, Rama went to Nandigrama... [1-1-88]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः ।  
 रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान् ॥ ८९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3624,6 +3851,7 @@ a householder, and he regained his kingdom also... [1-1-89]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### रामराज्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3631,6 +3859,8 @@ a householder, and he regained his kingdom also... [1-1-89]
 प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः ।  
 निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः ॥ ९० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3665,12 +3895,15 @@ foreseeing the future and telling Valmiki. [1-1-90]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पुत्रमरणं केचिद् द्रक्ष्यन्ति पुरुषाः क्वचित् ।  
 नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः ॥ ९१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3714,12 +3947,15 @@ and the ladies will remain husband-devouted and unwidowed during their lifetime.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः ।  
 न वातजं भयं किञ्चिन्नापि ज्वरकृतं तथा ॥ ९२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3764,6 +4000,7 @@ and there will be no fear from hunger or thieves, nor the cattle will be drowned
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3771,6 +4008,8 @@ and there will be no fear from hunger or thieves, nor the cattle will be drowned
 नगराणि च राष्ट्राणि धनधान्ययुतानि च ॥ ९३ ॥  
 नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3804,6 +4043,7 @@ like in Krita yuga... [1-1-93b, 94a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3818,6 +4058,8 @@ like in Krita yuga... [1-1-93b, 94a]
 चातुर्वर्ण्यं च लोकेऽस्मिन्  
 स्वे स्वे धर्मे नियोक्ष्यति ॥ ९६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3880,12 +4122,15 @@ of cows and wealth that cannot be counted to Brahmanas and to scholars according
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशवर्षसहस्राणि दशवर्षशतानि च ।  
 रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति ॥ ९७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3931,6 +4176,7 @@ The brahma loka is not the abode of four-faced Brahma, but still higher abode, r
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 ### फलस्तुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3938,6 +4184,8 @@ The brahma loka is not the abode of four-faced Brahma, but still higher abode, r
 इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम् ।  
 यः पठेद् रामचरितं सर्वपापैः प्रमुच्यते ॥ ९८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3971,12 +4219,15 @@ Whoever reads this Legend of Rama, will be verily liberated of all sins... [1-1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाख्यानमायुष्यं पठन् रामायणं नरः ।  
 सपुत्रपौत्रः सगणः प्रेत्य स्वर्गे महीयते ॥ ९९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4016,6 +4267,7 @@ comforts with attendants, will be adored in heaven after demise...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4024,6 +4276,8 @@ comforts with attendants, will be adored in heaven after demise...
 वणिग्जनः पण्यफलत्वमीया-  
 ज्जनश्च शूद्रोऽपि महत्त्वमीयात् ॥ १०० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4084,5 +4338,6 @@ to Sage-poet Valmiki. [1-1-100]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मॊदलनॆय सर्ग पूर्णवायितु. ॥1॥
+</details>
 </details>
 

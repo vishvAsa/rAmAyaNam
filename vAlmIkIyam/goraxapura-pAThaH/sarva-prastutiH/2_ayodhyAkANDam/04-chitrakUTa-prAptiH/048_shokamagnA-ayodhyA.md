@@ -2,6 +2,8 @@
 title = "०४८ शोकमग्ना-अयोध्या"
 title_english = "048 Rama s departure for the forest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,6 +23,7 @@ reproach Kaikeyi and break into lamentation.
 
 48. नगरनिवासिनी स्त्रियोंका विलाप करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ reproach Kaikeyi and break into lamentation.
 अभिगम्य निवृत्तानां रामं नगरवासिनाम् ।  
 उद‍्गतानीव सत्त्वानि बभूवुरमनस्विनाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ grief, longing to give up their lives and appeared as though they were dead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वं स्वं निलयमागम्य पुत्रदारैः समावृताः ।  
 अश्रूणि मुमुचुः सर्वे बाष्पेण पिहिताननाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +130,15 @@ tears, their faces being covered by them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाहृष्यन् न चामोदन् वणिजो न प्रसारयन् ।  
 न चाशोभन्त पण्यानि नापचन् गृहमेधिनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ their merchandise looked charming. Those in charge of home did not attend to coo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नष्टं दृष्ट्वा नाभ्यनन्दन् विपुलं वा धनागमम् ।  
 पुत्रं प्रथमजं लब्ध्वा जननी नाप्यनन्दत ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +227,15 @@ in abundance. No mother did rejoice even on obtaining a son born for the first t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहे गृहे रुदत्यश्च भर्तारं गृहमागतम् ।  
 व्यगर्हयन्त दुःखार्ता वाग्भिस्तोत्त्रैरिव द्विपान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +279,15 @@ husbands who came home, with words as sharp as pricks of the goad which attack a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु तेषां गृहैः कार्यं किं दारैः किं धनेन वा ।  
 पुत्रैर्वापि सुखैर्वापि ये न पश्यन्ति राघवम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +328,15 @@ or wealth or sons or pleasures even?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकः सत्पुरुषो लोके लक्ष्मणः सह सीतया ।  
 योऽनुगच्छति काकुत्स्थं रामं परिचरन् वने ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ Kakutstha dynasty, along with Sita ,duly rendering service to them in the forest
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपगाः कृतपुण्यास्ताः पद्मिन्यश्च सरांसि च ।  
 येषु यास्यति काकुत्स्थो विगाह्य सलिलं शुचि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +425,15 @@ waters Rama entered into."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोभयिष्यन्ति काकुत्स्थमटव्यो रम्यकाननाः ।  
 आपगाश्च महानूपाः सानुमन्तश्च पर्वताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +473,15 @@ mountains with alluring peaks will bring splendor to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काननं वापि शैलं वा यं रामोऽनुगमिष्यति ।  
 प्रियातिथिमिव प्राप्तं नैनं शक्ष्यन्त्यनर्चितुम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ beloved guest who has arrived."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्रकुसुमापीडा बहुमञ्जरिधारिणः ।  
 राघवं दर्शयिष्यन्ति नगा भ्रमरशालिनः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,12 +569,15 @@ blossoms full of bees exhibit themselves at Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकाले चापि मुख्यानि पुष्पाणि च फलानि च ।  
 दर्शयिष्यन्त्यनुक्रोशाद् गिरयो राममागतम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +618,15 @@ and fruits to Rama, on his arrival."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्रविष्यन्ति तोयानि विमलानि महीधराः ।  
 विदर्शयन्तो विविधान् भूयश्चित्रांश्च निर्झरान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +666,7 @@ forth uncontaminated waters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -633,6 +675,8 @@ forth uncontaminated waters."
 स हि शूरो महाबाहुः पुत्रो दशरथस्य च ।  
 पुरा भवति नोऽदूरादनुगच्छाम राघवम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +738,15 @@ neither fear nor humiliation".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादच्छाया सुखं भर्तुस्तादृशस्य महात्मनः ।  
 स हि नाथो जनस्यास्य स गतिः स परायणम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,12 +787,15 @@ Rama indeed is the protector of all of us, he the refuge and our supreme asylum 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वयं परिचरिष्यामः सीतां यूयं च राघवम् ।  
 इति पौरस्त्रियोभर्तॄन् दुःखार्तास्तत्तदब्रुवन् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +839,15 @@ afflicted with agony, spoke in so many words to their husbands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युष्माकं राघवोऽरण्ये योगक्षेमं विधास्यति ।  
 सीता नारीजनस्यास्य योगक्षेमं करिष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,12 +887,15 @@ the same thing with regard to us womenfolk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को न्वनेनाप्रतीतेन सोत्कण्ठितजनेन च ।  
 सम्प्रीयेतामनोज्ञेन वासेन हृतचेतसा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,12 +935,15 @@ with anxious people in it and not being a pleasant spot with unsettled minds?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या यदि चेद् राज्यं स्यादधर्म्यमनाथवत् ।  
 न हि नो जीवितेनार्थः कुतः पुत्रैः कुतो धनैः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +985,15 @@ riches."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यया पुत्रश्च भर्ता च त्यक्तावैश्वर्यकारणात् ।  
 कं सा परिहरेदन्यं कैकेयी कुलपांसनी ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1011,15 @@ riches."
 
 ‘जिसने राज्य-वैभवके लिये अपने पुत्र और पतिको त्याग दिया, वह कुलकलङ्किनी कैकेयी दूसरे किसका त्याग नहीं करेगी? ॥ २२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या न वयं राज्ये भृतका हि वसेमहि ।  
 जीवन्त्या जातु जीवन्त्यः पुत्रैरपि शपामहे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1080,15 @@ were forsaken for the sake of power and who brought disgrace to her family."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या पुत्रं पार्थिवेन्द्रस्य प्रवासयति निर्घृणा ।  
 कस्तां प्राप्य सुखं जीवेदधर्म्यां दुष्टचारिणीम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1132,15 @@ wicked conduct, who banished the son of the king without any pity?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपद्रुतमिदं सर्वमनालम्भमनायकम् ।  
 कैकेय्यास्तु कृते सर्वं विनाशमुपयास्यति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,12 +1183,15 @@ calamities, will meet with ruin because of Kaikeyi's fault."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि प्रव्रजिते रामे जीविष्यति महीपतिः ।  
 मृते दशरथे व्यक्तं विलोपस्तदनन्तरम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1231,15 @@ is dead, utter regrets will remain thereafter. It is certain!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते विषं पिबतालोड्य क्षीणपुण्याः सुदुःखिताः ।  
 राघवं वानुगच्छध्वमश्रुतिं वापि गच्छत ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,12 +1281,15 @@ Kaikeyi may not reach your ears."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथ्याप्रव्राजितो रामः सभार्यः सहलक्ष्मणः ।  
 भरते सन्निबद्धाः स्मः सौनिके पशवो यथा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,6 +1329,7 @@ handed over now to Bharata, like the beasts in the hands of a slaughterer."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1257,6 +1338,8 @@ handed over now to Bharata, like the beasts in the hands of a slaughterer."
 पूर्वाभिभाषी मधुरः सत्यवादी महाबलः ।  
 सौम्यश्च सर्वलोकस्य चन्द्रवत् प्रियदर्शनः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1275,12 +1358,15 @@ handed over now to Bharata, like the beasts in the hands of a slaughterer."
 
 लक्ष्मणन अण्ण श्रीरामन मुखवु पूर्णचन्द्रनन्तॆ मनोहरवागिदॆ. अवन कान्ति श्यामलवागिद्दु, पुष्टवागिरुव हॆगलु उळ्ळवनू, आजानुबाहुवू, नेत्रगळु कमलदन्तॆ सुन्दरवागिवॆ. यारन्नादरू अवरिगिन्त मॊदले मातनाडिसुववनु, मधुर मत्तु सत्यवागि नुडियुववनागिद्दानॆ. श्रीरामनु शत्रुगळन्नु दमन माडुव महाबलवन्तनागिद्दानॆ. समस्त जगत्तिगॆ सौम्य(कोमल)स्वभावदवनागिद्दु, अवन दर्शन चन्द्रनन्तॆ आह्लादकरवागिदॆ.॥29-30॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं पुरुषशार्दूलो मत्तमातङ्गविक्रमः ।  
 शोभयिष्यत्यरण्यानि विचरन् स महारथः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,12 +1416,15 @@ them.."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तास्तथा विलपन्त्यस्तु नगरे नागरस्त्रियः ।  
 चुक्रुशुर्दुःखसन्तप्ता मृत्योरिव भयागमे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1369,12 +1458,15 @@ weeping, as though fear has cropped up for a forth-coming death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं विलपन्तीनां स्त्रीणां वेश्मसु राघवम् ।  
 जगामास्तं दिनकरो रजनी चाभ्यवर्तत ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1414,12 +1506,15 @@ were weeping in that manner about Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नष्टज्वलनसन्तापा प्रशान्ताध्यायसत्कथा ।  
 तिमिरेणानुलिप्तेव तदा सा नगरी बभौ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1461,12 +1556,15 @@ that time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपशान्तवणिक्पण्या नष्टहर्षा निराश्रया ।  
 अयोध्या नगरी चासीन्नष्टतारमिवाम्बरम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1502,6 +1600,7 @@ though stars had disappeared in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1510,6 +1609,8 @@ though stars had disappeared in the sky.
 विलप्य दीना रुरुदुर्विचेतसः  
 सुतैर्हि तासामधिकोऽपि सोऽभवत् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1562,6 +1663,7 @@ To them, Rama was dearer than their very sons!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1570,6 +1672,8 @@ To them, Rama was dearer than their very sons!
 तदा ह्ययोध्या नगरी बभूव सा  
 महार्णवः सङ्क्षपितोदको यथा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1625,5 +1729,6 @@ looked at that time like a grat ocean whose waters had dried up.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥48॥
+</details>
 </details>
 

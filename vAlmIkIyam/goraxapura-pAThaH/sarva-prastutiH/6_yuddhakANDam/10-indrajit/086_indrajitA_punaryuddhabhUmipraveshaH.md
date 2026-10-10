@@ -2,6 +2,8 @@
 title = "०८६ इन्द्रजिता पुनर्युद्धभूमिप्रवेशः"
 title_english = "086 Indrajit enters the battle filed again"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ of Indrajit, coming in his chariot.
 
 86. वानरों और राक्षसोंका युद्ध, हनुमान् जी के द्वारा राक्षससेनाका संहार और उनका इन्द्रजित् को द्वन्द्वयुद्धके लिये ललकारना तथा लक्ष्मणका उसे देखना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्यामवस्थायां लक्ष्मणं रावणानुजः ।  
 परेषामहितं वाक्यमर्थसाधकमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,6 +67,7 @@ the enemies and advantageous to Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -70,6 +76,8 @@ the enemies and advantageous to Lakshmana.
 तस्यानीकस्य महतो भेदने यत लक्ष्मण ।  
 राक्षसेन्द्रसुतोऽप्यत्र भिन्ने दृश्यो भविष्यति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ battle, by the monkeys using rocks as thier weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वमिन्द्राशनिप्रख्यैः शरैरवकिरन् परान् ।  
 अभिद्रवाशु यावद् वै नैतत् कर्म समाप्यते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ through."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जहि वीर दुरात्मानं मायापरमधार्मिकम् ।  
 रावणिं क्रूरकर्माणं सर्वलोकभयावहम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा लक्ष्मणः शुभलक्षणः ।  
 ववर्ष शरवर्षेण राक्षसेन्द्रसुतं प्रति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,12 +256,15 @@ streams of arrows in the direction of Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाः शाखामृगाश्चैव द्रुमप्रवरयोधिनः ।  
 अभ्यधावन्त सहितास्तदनीकमवस्थितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +304,15 @@ drawn up in battle-array.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाश्च शितैर्बाणैरसिभिः शक्तितोमरैः ।  
 अभ्यवर्तन्त समरे कपिसैन्यजिघांसवः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +355,15 @@ sharp arrows, sowrds, spears and javelins.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्रहारस्तुमुलः सञ्जज्ञे कपिरक्षसाम् ।  
 शब्देन महता लङ्कां नादयन् वै समन्ततः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,12 +397,15 @@ all sides with its great uproar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शस्त्रैश्च विविधाकारैः शितैर्बाणैश्च पादपैः ।  
 उद्यतैर्गिरिशृङ्गैश्च घोरैराकाशमावृतम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ mountain tops.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसा वानरेन्द्रेषु विकृताननबाहवः ।  
 निवेशयन्तः शस्त्राणि चक्रुस्ते सुमहद्भयम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,12 +498,15 @@ fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव सकलैर्वृक्षैर्गिरिशृङ्गैश्च वानराः ।  
 अभिजघ्नुर्निजघ्नुश्च समरे सर्वराक्षसान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -511,12 +546,15 @@ types of trees and mountain-peaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानरमुख्यैश्च महाकायैर्महाबलैः ।  
 रक्षसां युध्यमानानां महद्भयमजायत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -553,12 +591,15 @@ bears and monkeys endowed with colossal bodies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वमनीकं विषण्णं तु श्रुत्वा शत्रुभिरर्दितम् ।  
 उदतिष्ठत दुर्धर्षः स कर्मण्यननुष्ठिते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +639,15 @@ unconquerable Indrajit left off, without performing the sacrificial rite.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षान्धकारान्निर्गत्य जातक्रोधः स रावणिः ।  
 आरुरोह रथं सज्जं पूर्वयुक्तं सुसंयतम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,12 +687,15 @@ firmly yoked chariot which had already been united
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भीमकार्मुकशरः कृष्णाञ्जनचयोपमः ।  
 रक्तास्यनयनो भीमो बभौ मृत्युरिवान्तकः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +735,15 @@ black collyrium with his blood-red eyes, appeared like the destructive Death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वैव तु रथस्थं तं पर्यवर्तत तद् बलम् ।  
 रक्षसां भीमवेगानां लक्ष्मणेन युयुत्सताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +777,15 @@ speed, turned back, wishing to fight with Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस्तु काले हनुमानरुजत् स दुरासदम् ।  
 धरणीधरसङ्काशो महावृक्षमरिन्दमः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -749,12 +802,15 @@ speed, turned back, wishing to fight with Lakshmana.
 
 आग शत्रुदमननाद पर्वताकार विशालकाय हनुमन्तनु कीळलु, पुडिमाडलु अति कष्टकरवाद बहळ दॊड्ड वृक्षवन्नु कित्तुकॊण्डनु.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राक्षसानां तत् सैन्यं कालाग्निरिव निर्दहन् ।  
 चकार बहुभिर्वृक्षैर्निःसञ्ज्ञं युधि वानरः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +850,15 @@ many trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विध्वंसयन्तं तरसा दृष्ट्वैव पवनात्मजम् ।  
 राक्षसानां सहस्राणि हनूमन्तमवाकिरन् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,12 +892,15 @@ hurled weapons on him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शितशूलधराः शूलैरसिभिश्चासिपाणयः ।  
 शक्तिहस्ताश्च शक्तीभिः पट्टिशैः पट्टिशायुधाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -858,6 +920,7 @@ _________________
 
 हॊळॆयुत्तिरुव शूलगळिन्द, खड्गगळिन्द, शक्तिगळिन्द, पट्टिशगळिन्द राक्षसरु अवन मेलॆ प्रहार माडुत्तिद्दरु.॥21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -868,6 +931,8 @@ _________________
 अभिजघ्नुः समासाद्य समन्तात् पर्वतोपमम् ।  
 तेषामपि च सङ्क्रुद्धश्चकार कदनं महत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -921,12 +986,15 @@ Hanuma made a colossal destruction of those demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श कपिश्रेष्ठमचलोपममिन्द्रजित् ।  
 सूदमानमसन्त्रस्तममित्रान् पवनात्मजम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -966,12 +1034,15 @@ fearlessly killing his enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सारथिमुवाचेदं याहि यत्रैष वानरः ।  
 क्षयमेव हि नः कुर्याद् राक्षसानामुपेक्षितः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,12 +1077,15 @@ that monkey is standing. If we neglect him, he will surely destroy our demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः सारथिस्तेन ययौ यत्र स मारुतिः ।  
 वहन् परमदुर्धर्षं स्थितमिन्द्रजितं रथे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1120,15 @@ unconquerable Indrajit sitting in the chariot, to the place where Hanuma was the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभ्युपेत्य शरान् खड्गान् पट्टिशांश्च परश्वधान् ।  
 अभ्यवर्षत दुर्धर्षः कपिमूर्धनि राक्षसः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,12 +1171,15 @@ spears and axes on the head of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि शस्त्राणि घोराणि प्रतिगृह्य स मारुतिः ।  
 रोषेण महताविष्टो वाक्यं चेदमुवाच ह ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,12 +1222,15 @@ rage, the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युध्यस्व यदि शूरोऽसि रावणात्मज दुर्मते ।  
 वायुपुत्रं समासाद्य न जीवन् प्रतियास्यसि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1180,12 +1263,15 @@ you will not return alive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुभ्यां सम्प्रयुध्यस्व यदि मे द्वन्द्वमाहवे ।  
 वेगं सहस्व दुर्बुद्धे ततस्त्वं रक्षसां वरः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1220,12 +1306,15 @@ my force in the battle-field. Then you will be considered as the best among the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमन्तं जिघांसन्तं समुद्यतशरासनम् ।  
 रावणात्मजमाचष्टे लक्ष्मणाय विभीषणः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1259,6 +1348,7 @@ Indrajit sought to kill Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1267,6 +1357,8 @@ Indrajit sought to kill Hanuma.
 तमप्रतिमसंस्थानैः शरैः शत्रुनिवारणैः ।  
 जीवितान्तकरैर्घोरैः सौमित्रे रावणिं जहि ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,6 +1416,7 @@ Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1332,6 +1425,8 @@ Hanuma."
 ददर्श तं पर्वतसन्निकाशं  
 रथस्थितं भीमबलं दुरासदम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1402,5 +1497,6 @@ Indrajit also will become visible."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तारनॆय सर्ग पूर्णवायितु.॥86॥
+</details>
 </details>
 

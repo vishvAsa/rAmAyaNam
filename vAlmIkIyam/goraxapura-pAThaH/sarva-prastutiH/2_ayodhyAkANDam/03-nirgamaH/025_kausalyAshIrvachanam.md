@@ -2,6 +2,8 @@
 title = "०२५ कौसल्याशीर्वचनम्"
 title_english = "025 Kausalya bids farewell to Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ leaves her residence and goes to Seetha.
 
 25. कौसल्याका श्रीरामकी वनयात्राके लिये मङ्गलकामनापूर्वक स्वस्तिवाचन करना और श्रीरामका उन्हें प्रणाम करके सीताके भवनकी ओर जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विनीय तमायासम् उपस्पृश्य जलं शुचि ।  
 चकार माता रामस्य मङ्गलानि मनस्विनी ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ of the hand, became purified and performed rites conducive to the welfare of Ram
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्यसे वारयितुं गच्छेदानीं रघूत्तम ।  
 शीघ्रं च विनिवर्तस्व वर्तस्व च सतां क्रमे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ the footsteps of the virtuous."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं पालयसि धर्मं त्वं प्रीत्या च नियमेन च ।  
 स वै राघवशार्दूल धर्मस्त्वामभिरक्षतु ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +168,15 @@ discipline , protect you".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येभ्यः प्रणमसे पुत्र देवेष्वायतनेषु च ।  
 ते च त्वामभिरक्षन्तु वने सह महर्षिभिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ those along with great saints will protect you in the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि दत्तानि तेऽस्त्राणि विश्वामित्रेण धीमता ।  
 तानि त्वामभिरक्षन्तु गुणैः समुदितं सदा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ are rich in good qualities"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृशुश्रूषया पुत्र मातृशुश्रूषया तथा ।  
 सत्येन च महाबाहो चिरं जीवाभिरक्षितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +312,7 @@ mother as well as truthfulness, you will belong-lived"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,6 +320,8 @@ mother as well as truthfulness, you will belong-lived"
 स्थण्डिलानि च विप्राणां शैला वृक्षाः क्षुपा ह्रदाः ।  
 पतङ्गाः पन्नगाः सिंहास्त्वां रक्षन्तु नरोत्तम ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +369,15 @@ protect you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति साध्याश्च विश्वे च मरुतश्च महर्षिभिः ।  
 स्वस्ति धाता विधाता च स्वस्ति पूषा भगोऽर्यमा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +397,7 @@ _________________
 
 साध्य, विश्वेदेव, महर्षिगळ सहित मरुद्गणरु निनगॆ कल्याण माडलि. धाता-विधाता, पूषा, भग मत्तु अर्यमा इवरु निनगॆ मङ्गलकारिगळागलि.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,6 +406,8 @@ _________________
 दिनानि च मुहूर्ताश्च स्वस्ति कुर्वन्तु ते सदा ।  
 श्रुतिः स्मृतिश्च धर्मश्च पातु त्वां पुत्र सर्वतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +466,15 @@ spheres with Indra as their Head do good to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्कन्दश्च भगवान् देवः सोमश्च सबृहस्पतिः ।  
 सप्तर्षयो नारदश्च ते त्वां रक्षन्तु सर्वतः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +521,15 @@ all sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते चापि सर्वतः सिद्धा दिशश्च सदिगीश्वराः ।  
 स्तुता मया वने तस्मिन् पान्तु त्वां पुत्र नित्यशः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,6 +573,7 @@ are enlogised by me may protect you always on all sides in that forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,6 +582,8 @@ are enlogised by me may protect you always on all sides in that forest."
 नक्षत्राणि च सर्वाणि ग्रहाश्च सह दैवतैः ।  
 अहोरात्रे तथा सन्ध्ये पान्तु त्वां वनमाश्रितम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +634,15 @@ forest ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतवश्चापि षट् चान्ये मासाः संवत्सरास्तथा ।  
 कलाश्च काष्ठाश्च तथा तव शर्म दिशन्तु ते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +683,15 @@ forest ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महावनेऽपि चरतो मुनिवेषस्य धीमतः ।  
 तथा देवाश्च दैत्याश्च भवन्तु सुखदाः सदा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +732,15 @@ traverse through the large forest, in the guise of a hermit and full of wisdom "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां पिशाचानां रौद्राणां क्रूरकर्मणाम् ।  
 क्रव्यादानां च सर्वेषां मा भूत् पुत्रक ते भयम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,12 +782,15 @@ deeds, of devilish beings called Pisachas and of all carnivorous animals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लवगा वृश्चिका दंशा मशकाश्चैव कानने ।  
 सरीसृपाश्च कीटाश्च मा भूवन् गहने तव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +831,15 @@ gad fies, mosquitoes, snakes or other insects ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाद्विपाश्च सिंहाश्च व्याघ्रा ऋक्षाश्च दंष्ट्रिणः ।  
 महिषाः शृङ्गिणो रौद्रा न ते द्रुह्यन्तु पुत्रक ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,6 +882,7 @@ he-buffaloes with horns not to be hostile to you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -837,6 +891,8 @@ he-buffaloes with horns not to be hostile to you.
 **मा** च त्वां **हिंसिषुः**  
 पुत्र मया सम्पूजितास् त्व् इह ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -876,12 +932,15 @@ worshipped by me here, not hurt you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगमास्ते शिवाः सन्तु सिध्यन्तु च पराक्रमाः ।  
 सर्वसम्पत्तयो राम स्वस्तिमान् गच्छ पुत्रक ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,12 +984,15 @@ Go well with all accomplishments!.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति तेऽस्त्वान्तरिक्षेभ्यः पार्थिवेभ्यः पुनः पुनः ।  
 सर्वेभ्यश्चैव देवेभ्यो ये च ते परिपन्थिनः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,12 +1032,15 @@ earth as well as against all the celestials as also your enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्रः सोमश्च सूर्यश्च धनदोऽथ यमस्तथा ।  
 पान्तु त्वामर्चिता राम दण्डकारण्यवासिनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,12 +1082,15 @@ of Dandaka"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निर्वायुस्तथा धूमो मन्त्राश्चर्षिमुखच्युताः ।  
 उपस्पर्शनकाले तु पान्तु त्वां रघुनन्दन ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1134,15 @@ of singer of sacred hymns protect you at the time of taking bath."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलोकप्रभुर्ब्रह्मा भूतकर्तृ तथर्षयः ।  
 ये च शेषाः सुरास्ते तु रक्षन्तु वनवासिनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1184,15 @@ forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति माल्यैः सुरगणान् गन्धैश्चापि यशस्विनी ।  
 स्तुतिभिश्चानुरूपाभिरानर्चायतलोचना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1233,15 @@ divinities with garlands , sandal paste and befitting hymns of praise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्वलनं समुपादाय ब्राह्मणेन महात्मना ।  
 हावयामास विधिना राममङ्गलकारणात् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1198,12 +1275,15 @@ of a high souled brahmana for the purpose of Rama's well- being .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृतं श्वेतानि माल्यानि समिधश्चैव सर्षपान् ।  
 उपसम्पादयामास कौसल्या परमाङ्गना ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1243,12 +1323,15 @@ sticks and white mustard seeds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपाध्यायः स विधिना हुत्वा शान्तिमनामयम् ।  
 हुतहव्यावशेषेण बाह्यं बलिमकल्पयत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1373,15 @@ after the main offering .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मधुदध्यक्षतघृतैः स्वस्तिवाच्यं द्विजांस्ततः ।  
 वाचयामास रामस्य वने स्वस्त्ययनक्रियाम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1337,12 +1423,15 @@ being of Rama in the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्मै द्विजेन्द्राय राममाता यशस्विनी ।  
 दक्षिणां प्रददौ काम्यां राघवं चेदमब्रवीत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1383,12 +1472,15 @@ as follows to Rama:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्मङ्गलं सहस्राक्षे सर्वदेवनमस्कृते ।  
 वृत्रनाशे समभवत् तत् ते भवतु मङ्गलम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,12 +1520,15 @@ when a demon called Vritta was destroyed, let that felicity occur to you"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्मङ्गलं सुपर्णस्य विनताकल्पयत् पुरा ।  
 अमृतं प्रार्थयानस्य तत् ते भवतु मङ्गलम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1476,12 +1571,15 @@ in the past , may that blessing happen to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृतोत्पादने दैत्यान् घ्नतो वज्रधरस्य यत् ।  
 अदितिर्मङ्गलं प्रादात् तत् ते भवतु मङ्गलम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1521,12 +1619,15 @@ the demons at the time of producing nectar, let that blessing come to you "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिविक्रमान् प्रक्रमतो विष्णोरतुलतेजसः ।  
 यदासीन्मङ्गलं राम तत् ते भवतु मङ्गलम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1571,12 +1672,15 @@ you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयः सागरा द्वीपा वेदा लोका दिशश्च ते ।  
 मङ्गलानि महाबाहो दिशन्तु शुभमङ्गलम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1618,6 +1722,7 @@ to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1626,6 +1731,8 @@ to you."
 औषधीं च सुसिद्धार्थां विशल्यकरणीं शुभाम् ।  
 चकार रक्षां कौसल्या मन्त्रैरभिजजाप च ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1676,12 +1783,15 @@ to enhance its virtue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाचापि प्रहृष्टेव सा दुःखवशवर्तिनी ।  
 वाङ्मात्रेण न भावेन वाचा संसज्जमानया ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1724,6 +1834,7 @@ faltering words , spoke thus with only mouth and not with her heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1732,6 +1843,8 @@ faltering words , spoke thus with only mouth and not with her heart.
 अरोगं सर्वसिद्धार्थमयोध्यां पुनरागतम् ।  
 पश्यामि त्वां सुखं वत्स सन्धितं राजवर्त्मसु ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1799,12 +1912,15 @@ these words "Rama, my son! Go with ease with accomplishment of purpose, as you a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणष्टदुःखसङ्कल्पा हर्षविद्योतितानना ।  
 द्रक्ष्यामि त्वां वनात् प्राप्तं पूर्णचन्द्रमिवोदितम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1845,12 +1961,15 @@ behold you returning from the forest like the full moon rising from the horizon"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भद्रासनगतं राम वनवासादिहागतम् ।  
 द्रक्ष्यामि च पुनस्त्वां तु तीर्णवन्तं पितुर्वचः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1890,12 +2009,15 @@ fulfilled your father's word and installed on the splendid throne."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मङ्गलैरुपसम्पन्नो वनवासादिहागतः ।  
 वध्वाश्च मम नित्यं त्वं कामान् संवर्ध याहि भोः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1940,6 +2062,7 @@ now, Oh, Rama !"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1948,6 +2071,8 @@ now, Oh, Rama !"
 अभिप्रयातस्य वनं चिराय ते  
 हितानि काङ्क्षन्तु दिशश्च राघव ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1995,6 +2120,7 @@ Being, the great sages, spirits, the chief of evil spirits, the celestial serpen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2003,6 +2129,8 @@ Being, the great sages, spirits, the chief of evil spirits, the celestial serpen
 प्रदक्षिणं चापि चकार राघवं  
 पुनः पुनश्चापि निरीक्ष्य सस्वजे ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2049,6 +2177,7 @@ pressed close to him, embraced again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2057,6 +2186,8 @@ pressed close to him, embraced again and again.
 **जगाम** सीतानिलयं महायशाः  
 स राघवः प्रज्वलितस् तया श्रिया ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2118,5 +2249,6 @@ own splendour, went to Sita's house
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तैदनॆय सर्ग पूर्णवायितु.॥25॥
+</details>
 </details>
 

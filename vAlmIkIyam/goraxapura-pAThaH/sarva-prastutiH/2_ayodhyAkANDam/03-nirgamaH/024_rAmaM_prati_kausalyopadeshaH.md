@@ -2,6 +2,8 @@
 title = "०२४ रामं प्रति कौसल्योपदेशः"
 title_english = "024 Rama obtains Kausalya s permission"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ permission for him to go to forest.
 
 24. विलाप करती हुई कौसल्याका श्रीरामसे अपनेको भी साथ ले चलनेके लिये आग्रह करना तथा पतिकी सेवा ही नारीका धर्म है, यह बताकर श्रीरामका उन्हें रोकना और वन जानेके लिये उनकी अनुमति प्राप्त करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्य व्यवसितं पितुर्निर्देशपालने ।  
 कौसल्या बाष्पसंरुद्धा वचो धर्मिष्ठमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ voice spoke these righteous words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टदुःखो धर्मात्मा सर्वभूतप्रियंवदः ।  
 मयि जातो दशरथात् कथमुञ्छेन वर्तयेत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ gathering grains ?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य भृत्याश्च दासाश्च मृष्टान्यन्नानि भुञ्जते ।  
 कथं स भोक्ष्यते रामो वने मूलफलान्ययम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ while, how can he eat roots and fruits himself in the forest ?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क एतच्छ्रद्दधेच्छ्रुत्वा कस्य वा न भवेद् भयम् ।  
 गुणवान् दयितो राज्ञः काकुत्स्थो यद् विवास्यते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,6 +220,7 @@ will believe ? kasyavaa = to whom; *bhayam* = fear; *nabhavet* = is not created 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -214,6 +229,8 @@ will believe ? kasyavaa = to whom; *bhayam* = fear; *nabhavet* = is not created 
 लोके रामाभिरामस् त्वं  
 **वनं** यत्र+++(→आदेशे)+++ **गमिष्यसि** ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +273,7 @@ certainly said that everything is ordered by a strong destiny'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -272,6 +290,8 @@ certainly said that everything is ordered by a strong destiny'
 **प्रधक्ष्यति** यथा कक्ष्यं  
 चित्र-भानुर् हिमात्यये ॥ ८ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,12 +357,15 @@ burn like dry wood by fire in winter.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं हि धेनुः स्वं वत्सं गच्छन्तमनुगच्छति ।  
 अहं त्वानुगमिष्यामि यत्र वत्स गमिष्यसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +405,15 @@ wherever you go."'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा निगदितं मात्रा तद् वाक्यं पुरुषर्षभः ।  
 श्रुत्वा रामोऽब्रवीद् वाक्यं मातरं भृशदुःखिताम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -427,12 +453,15 @@ vartayishhyati* = he will not be alive; *nuunam* = certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या वञ्चितो राजा मयि चारण्यमाश्रिते ।  
 भवत्या च परित्यक्तो न नूनं वर्तयिष्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,12 +501,15 @@ forest and you also leave him .It is certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुः किल परित्यागो नृशंसः केवलं स्त्रियाः ।  
 स भवत्या न कर्तव्यो मनसापि विगर्हितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +549,15 @@ be perceived even by mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावज्जीवति काकुत्स्थः पिता मे जगतीपतिः ।  
 शुश्रूषा क्रियतां तावत् स हि धर्मः सनातनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,6 +591,7 @@ It is eternal justice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -564,6 +600,8 @@ It is eternal justice."
 तथेत्युवाच सुप्रीता  
 रामम् अक्लिष्टकारिणम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,6 +642,7 @@ and spoke to Rama, who performs indefatigable actions, in consent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -612,6 +651,8 @@ and spoke to Rama, who performs indefatigable actions, in consent.
 भूयस्तामब्रवीद् वाक्यं  
 मातरं भृशदुःखिताम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,6 +692,7 @@ mother ,spoke again to her who was very much distressed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -659,6 +701,8 @@ mother ,spoke again to her who was very much distressed.
 राजा भर्ता गुरुः श्रेष्ठः  
 सर्वेषामीश्वरः प्रभुः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,6 +743,7 @@ nourished, a venerable man, the best among men, the lord and the ruler."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -707,6 +752,8 @@ nourished, a venerable man, the best among men, the lord and the ruler."
 वर्षाणि परमप्रीत्या  
 स्थास्यामि वचने तव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,6 +793,7 @@ gladly stand by your command."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -754,6 +802,8 @@ gladly stand by your command."
 उवाच परमार्ता तु  
 कौसल्या सुतवत्सला ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,6 +844,7 @@ great sorrow with her face filled with tears and spoke thus to her beloved son R
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -801,6 +852,8 @@ great sorrow with her face filled with tears and spoke thus to her beloved son R
 नय मामपि काकुत्स्थ वनं वन्यां मृगीमिव ॥ १९ ॥  
 यदि ते गमने बुद्धिः कृता पितरपेक्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,6 +903,7 @@ forest ,to the woods ''
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -857,6 +911,8 @@ forest ,to the woods ''
 जीवन्त्या हि स्त्रिया भर्ता दैवतं प्रभुरेव च ।  
 भवत्या मम चैवाद्य राजा प्रभवति प्रभुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,6 +974,7 @@ woman is alive ,her husband is god and master to her".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -925,6 +982,8 @@ woman is alive ,her husband is god and master to her".
 भरतश्चापि धर्मात्मा सर्वभूतप्रियंवदः ॥ २२ ॥  
 भवतीमनुवर्तेत स हि धर्मरतः सदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1024,7 @@ be obliging to you. He is indeed always devoted to righteousness.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -973,6 +1033,8 @@ be obliging to you. He is indeed always devoted to righteousness.'
 श्रमं नावाप्नुयात् किञ्चिद्  
 अप्रमत्ता तथा कुरु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,12 +1074,15 @@ fatigued even a little with grief over his son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दारुणश्चाप्ययं शोको यथैनं न विनाशयेत् ॥ २४ ॥  
 राज्ञो वृद्धस्य सततं हितं चर समाहिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,12 +1116,15 @@ grief will not destroy him ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रतोपवासनिरता या नारी परमोत्तमा ॥ २५ ॥  
 भर्तारं नानुवर्तेत सा च पापगतिर्भवेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1164,15 @@ the best of the excellent ;if she does not obey her husband she will become ill-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुः शुश्रूषया नारी लभते स्वर्गमुत्तमम् ॥ २६ ॥  
 अपि या निर्नमस्कारा निवृत्ता देवपूजनात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1136,12 +1207,15 @@ gods, she will attain the highest heaven by service to her husband ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रूषामेव कुर्वीत भर्तुः प्रियहिते रता ॥ २७ ॥  
 एष धर्मः स्त्रिया नित्यो वेदे लोके श्रुतः स्मृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1182,12 +1256,15 @@ righteousness.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निकार्येषु च सदा सुमनोभिश्च देवताः ॥ २८ ॥  
 पूज्यास्ते मत्कृते देवि ब्राह्मणाश्चैव सत्कृताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,12 +1305,15 @@ Brahmanas also with right voes are to be worshipped .'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं **कालं प्रतीक्षस्व** ममागमनकाङ्क्षिणी ॥ २९ ॥  
 नियता नियताहारा भर्तृशुश्रूषणे रता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1273,12 +1353,15 @@ temperate in food and being devoted in the service of your husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्स्यसे परमं कामं मयि पर्यागते सति ॥ ३० ॥  
 यदि धर्मभृतां श्रेष्ठो धारयिष्यति जीवितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1321,12 +1404,15 @@ protectors of righteousness ,is still alive till then."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु रामेण बाष्पपर्याकुलेक्षणा ॥ ३१ ॥  
 कौसल्या पुत्रशोकार्ता रामं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1366,12 +1452,15 @@ after hearing Rama's utterances and spoke thus to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गमने सुकृतां बुद्धिं न ते शक्नोमि पुत्रक ॥ ३२ ॥  
 विनिवर्तयितुं वीर नूनं कालो दुरत्ययः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,6 +1494,7 @@ your going to forest. Time is inscrutable .It is certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1413,6 +1503,8 @@ your going to forest. Time is inscrutable .It is certain."
 पुनस्त्वयि निवृत्ते तु  
 **भविष्यामि गतक्लमा** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1453,12 +1545,15 @@ become refreshed, when you return again."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यागते महाभागे कृतार्थे चरितव्रते ।  
 पितुरानृण्यतां प्राप्ते स्वपिष्ये परमं सुखम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1499,12 +1594,15 @@ happiness".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि ।  
 यस्त्वां सञ्चोदयति मे वच आविध्य राघव ॥ ३५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1544,12 +1642,15 @@ forest ,is ever not imaginable on this earth"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छेदानीं महाबाहो क्षेमेण पुनरागतः ।  
 नन्दयिष्यसि मां पुत्र साम्ना श्लक्ष्णेन चारुणा ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1590,6 +1691,7 @@ with your pleasing and tranquillising words ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1598,6 +1700,8 @@ with your pleasing and tranquillising words ."
 यत् त्वां पुत्रक **पश्येयं**,  
 जटावल्कलधारिणम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1638,6 +1742,7 @@ wearing twisted hair and garment made of bark."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1646,6 +1751,8 @@ wearing twisted hair and garment made of bark."
 उवाच रामं शुभलक्षणं वचो  
 बभूव च स्वस्त्ययनाभिकाङ्क्षिणी ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1703,5 +1810,6 @@ recitation of auspicious words."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तनाल्कनॆय सर्ग पूर्णवायितु॥24॥
+</details>
 </details>
 

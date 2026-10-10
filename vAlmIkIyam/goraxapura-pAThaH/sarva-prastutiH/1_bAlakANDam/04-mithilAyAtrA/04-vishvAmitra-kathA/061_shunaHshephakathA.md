@@ -2,6 +2,8 @@
 title = "०६१ शुनःशेफकथा"
 title_english = "061 Legend of shunashshepa"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -24,12 +26,15 @@ to his parents.
 
 61. विश्वामित्रकी पुष्कर तीर्थमें तपस्या तथा राजर्षि अम्बरीषका ऋचीकके मध्यम पुत्र शुनःशेपको यज्ञ-पशु बनानेके लिये खरीदकर लाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रो महातेजाः प्रस्थितान् वीक्ष्य तानृषीन् ।  
 अब्रवीन्नरशार्दूल सर्वांस्तान् वनवासिनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ that remained with him." Thus Shatananda continued to narrate the legend of Vish
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाविघ्नः प्रवृत्तोऽयं दक्षिणामास्थितो दिशम् ।  
 दिशमन्यां प्रपत्स्यामस्तत्र तप्स्यामहे तपः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ another direction, and there we continue ascesis. [1-61-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्चिमायां विशालायां पुष्करेषु महात्मनः ।  
 सुखं तपश्चरिष्यामः सुखं तद्धि तपोवनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ forest, isn't it.' Thus Vishvamitra said to fellow sages in his camp. [1-61-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजाः पुष्करेषु महामुनिः ।  
 तप उग्रं दुराधर्षं तेपे मूलफलाशनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ of holy lakes. [1-61-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु अयोध्याधिपतिर्महान् ।  
 अम्बरीष इति ख्यातो यष्टुं समुपचक्रमे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,12 +258,15 @@ to perform a Vedic-ritual. [1-61-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वै यजमानस्य पशुमिन्द्रो जहार ह ।  
 प्रणष्टे तु पशौ विप्रो राजानमिदमब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ this to that king. [1-61-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुरभ्याहृतो राजन् प्रणष्टस्तव दुर्नयात् ।  
 अरक्षितारं राजानं घ्नन्ति दोषा नरेश्वर ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +345,15 @@ destructive blemishes for that king who is performing the ritual. [1-61-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायश्चित्तं महद्ध्येतन्नरं वा पुरुषर्षभ ।  
 आनयस्व पशुं शीघ्रं यावत् कर्म प्रवर्तते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +391,15 @@ ritual can be continued.' Thus, the priests of the ritual said to king Ambariish
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपाध्यायवचः श्रुत्वा स राजा पुरुषर्षभः ।  
 अन्वियेष महाबुद्धिः पशुं गोभिः सहस्रशः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +441,7 @@ of cows. [1-61-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -420,6 +450,8 @@ of cows. [1-61-9]
 स पुत्रसहितं तात सभार्यं रघुनन्दन ।  
 भृगुतुङ्गे समासीनमृचीकं सन्ददर्श ह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,12 +493,15 @@ with his sons and wife. [1-61-10, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महातेजाः प्रणम्याभिप्रसाद्य च ।  
 महर्षिं तपसा दीप्तं राजर्षिरमितप्रभः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,6 +550,7 @@ to that sage. [1-61-12, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,6 +558,8 @@ to that sage. [1-61-12, 13a]
 गवां शतसहस्रेण विक्रीणीषे सुतं यदि ॥ १३ ॥  
 पशोरर्थे महाभाग कृतकृत्योऽस्मि भार्गव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -558,12 +596,15 @@ purpose of a ritual-animal, oh, the successor Sage Bhrigu, I deem my ends are ac
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे परिगता देशा यज्ञियं न लभे पशुम् ॥ १४ ॥  
 दातुमर्हसि मूल्येन सुतमेकमितो मम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +639,15 @@ Thus, king Ambariisha bargained with the sage. [1-61-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महातेजा ऋचीकस्त्वब्रवीद् वचः ॥ १५ ॥  
 नाहं ज्येष्ठं नरश्रेष्ठ विक्रीणीयां कथञ्चन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +681,15 @@ When that great-resplendent Sage Riciika is addressed thus, he said this word,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋचीकस्य वचः श्रुत्वा तेषां माता महात्मनाम् ॥ १६ ॥  
 उवाच नरशार्दूलमम्बरीषमिदं वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,6 +723,7 @@ this word to the tigerly-man Ambariisha. [1-61-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -683,6 +731,8 @@ this word to the tigerly-man Ambariisha. [1-61-16b, 17a]
 ममापि दयितं विद्धि कनिष्ठं शुनकं प्रभो ।  
 तस्मात् कनीयसं पुत्रं न दास्ये तव पार्थिव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +772,15 @@ my youngest son to you, either. [1-61-17b, 18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायेण हि नरश्रेष्ठ ज्येष्ठाः पितृषु वल्लभाः ।  
 मातॄणां च कनीयांसस्तस्माद् रक्ष्ये कनीयसम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +834,15 @@ son...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्ये मुनौ तस्मिन् मुनिपत्न्यां तथैव च ।  
 शुनःशेपः स्वयं राम मध्यमो वाक्यमब्रवीत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,12 +877,15 @@ way only, their intermediate son, namely Shunashepa, personally spoke this sente
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता ज्येष्ठमविक्रेयं माता चाह कनीयसम् ।  
 विक्रेयं मध्यमं मन्ये राजपुत्र नयस्व माम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,6 +927,7 @@ you may lead me forth. [1-61-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -876,6 +936,8 @@ you may lead me forth. [1-61-21]
 गवां शतसहस्रेण शुनःशेपं नरेश्वरः ।  
 गृहीत्वा परमप्रीतो जगाम रघुनन्दन ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,12 +980,15 @@ went away highly gladdened to take Shunashepa with him. [1-61-22, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अम्बरीषस्तु राजर्षी रथमारोप्य सत्वरः ।  
 शुनःशेपं महातेजा जगामाशु महायशाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,5 +1033,6 @@ continued his narration. [1-61-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥61॥
+</details>
 </details>
 

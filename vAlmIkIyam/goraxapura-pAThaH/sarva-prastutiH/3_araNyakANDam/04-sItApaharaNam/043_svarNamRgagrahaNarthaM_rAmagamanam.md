@@ -2,6 +2,8 @@
 title = "०४३ स्वर्णमृगग्रहणर्थं रामगमनम्"
 title_english = "043 Lure of the Golden Deer"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,6 +24,7 @@ down.
 
 43. कपटमृगको देखकर लक्ष्मणका संदेह, सीताका उस मृगको जीवित या मृत अवस्थामें भी ले आनेके लिये श्रीरामको प्रेरित करना तथा श्रीरामका लक्ष्मणको समझा-बुझाकर सीताकी रक्षाका भार सौंपकर उस मृगको मारनेके लिये जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ down.
 प्रहृष्टा चानवद्याङ्गी मृष्टहाटकवर्णिनी ।  
 भर्तारमपि चक्रन्द लक्ष्मणं चैव सायुधम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +85,15 @@ and even that of Lakshmana who is presently weaponed. [3-43-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आहूयाहूय च पुनस्तं मृगं साधु वीक्षते ।  
 आगच्छागच्छ शीघ्रं वै आर्यपुत्र सहानुज ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ called and oftentimes saw the deer fondly. [3-43-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावाहूतौ नरव्याघ्रौ वैदेह्या रामलक्ष्मणौ ।  
 वीक्षमाणौ तु तं देशं तदा ददृशतुर्मृगम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ they saw that Golden Deer. [3-43-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्कमानस्तु तं दृष्ट्वा लक्ष्मणो वाक्यमब्रवीत् ।  
 तमेवैनमहं मन्ये मारीचं राक्षसं मृगम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ the demon." [3-43-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरन्तो मृगयां हृष्टाः पापेनोपाधिना वने ।  
 अनेन निहता राम राजानः कामरूपिणा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ killed many of them resorting to many disguises, for he is a guise-changer by hi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य मायाविदो माया मृगरूपमिदं कृतम् ।  
 भानुमत् पुरुषव्याघ्र गन्धर्वपुरसन्निभम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ rather than constructing one which is un-manifest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगो ह्येवंविधो रत्नविचित्रो नास्ति राघव ।  
 जगत्यां जगतीनाथ मायैषा हि न संशयः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ expedient data and it is up to Rama to analyse it. Rama argues on this point lat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं काकुत्स्थं प्रतिवार्य शुचिस्मिता ।  
 उवाच सीता संहृष्टा छद्मना हृतचेतना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +440,15 @@ by the cozenage, such a Seetha of a toothy smile deterred him and spoke. [3-43-9
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्यपुत्राभिरामोऽसौ मृगो हरति मे मनः ।  
 आनयैनं महाबाहो क्रीडार्थं नो भविष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,6 +491,7 @@ will be our plaything. [3-43-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -472,6 +502,8 @@ will be our plaything. [3-43-10]
 न चान्यः सदृशो राजन् दृष्टः पूर्वं मृगो मया ।  
 तेजसा क्षमया दीप्त्या यथायं मृगसत्तमः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,12 +602,15 @@ variety than chaamara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानावर्णविचित्राङ्गो रत्नभूतो ममाग्रतः ।  
 द्योतयन् वनमव्यग्रं शोभते शशिसन्निभः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -616,12 +651,15 @@ moon. [3-43-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो रूपमहो लक्ष्मीः स्वरसम्पच्च शोभना ।  
 मृगोऽद्भुतो विचित्राङ्गो हृदयं हरतीव मे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +699,15 @@ and this is stealing my heart, as it were. [3-43-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि ग्रहणमभ्येति जीवन् नेव मृगस्तव ।  
 आश्चर्यभूतं भवति विस्मयं जनयिष्यति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -705,12 +746,15 @@ to one and all. [3-43-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाप्तवनवासानां राज्यस्थानां च नः पुनः ।  
 अन्तःपुरे विभूषार्थो मृग एष भविष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,12 +791,15 @@ for us. [3-43-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्यार्यपुत्रस्य श्वश्रूणां मम च प्रभो ।  
 मृगरूपमिदं दिव्यं विस्मयं जनयिष्यति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +839,15 @@ to my mothers-in-law, and also to me in palace-chambers. [3-43-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवन्न यदि तेऽभ्येति ग्रहणं मृगसत्तमः ।  
 अजिनं नरशार्दूल रुचिरं तु भविष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,12 +890,15 @@ gorgeous deerskin will be remnant of it. [3-43-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहतस्यास्य सत्त्वस्य जाम्बूनदमयत्वचि ।  
 शष्पबृस्यां विनीतायामिच्छाम्यहमुपासितुम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,12 +944,15 @@ thereon.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामवृत्तमिदं रौद्रं स्त्रीणामसदृशं मतम् ।  
 वपुषा त्वस्य सत्त्वस्य विस्मयो जनितो मम ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -951,6 +1007,7 @@ Whether Seetha is with kopa 'anger' or not, it is unsaid in the text.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -961,6 +1018,8 @@ Whether Seetha is with kopa 'anger' or not, it is unsaid in the text.
 लोभितस्तेन रूपेण सीतया च प्रचोदितः ।  
 उवाच राघवो हृष्टो भ्रातरं लक्ष्मणं वचः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1125,15 @@ supernal trickery.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण वैदेह्याः स्पृहामुल्लसितामिमाम् ।  
 रूपश्रेष्ठतया ह्येष मृगोऽद्य न भविष्यति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,12 +1150,15 @@ supernal trickery.
 
 लक्ष्मण! नोडल्लि विदेहनन्दिनी सीतॆय मनस्सिनल्लि ई मृगवन्नु पडॆयलु ऎष्टु प्रबल इच्छॆ उण्टागिदॆ? वास्तववागि इदर रूपवू बहळ सुन्दरवागिदॆ. तन्न रूपद ई श्रेष्ठतॆय कारणदिन्दले ई मृगवु इन्दु जीवितवागि इरलारदु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वने नन्दनोद्देशे न चैत्ररथसंश्रये ।  
 कुतः पृथिव्यां सौमित्रे योऽस्य कश्चित् समो मृगः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1136,12 +1201,15 @@ then how can there be some deer on earth which is similar to this! [3-43-25, 26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिलोमानुलोमाश्च रुचिरा रोमराजयः ।  
 शोभन्ते मृगमाश्रित्य चित्राः कनकबिन्दुभिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1251,15 @@ spots embedded on the coat of the deer are glittery. [3-43-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यास्य जृम्भमाणस्य दीप्तामग्निशिखोपमाम् ।  
 जिह्वां मुखान्निःसरन्तीं मेघादिव शतह्रदाम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1229,12 +1300,15 @@ tongue of fire and to the lightning from a cloud. [3-43-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मसारगल्वर्कमुखः शङ्खमुक्तानिभोदरः ।  
 कस्य नामानिरूप्योऽसौ न मनो लोभयेन्मृगः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1274,12 +1348,15 @@ it that will not lured for this deer with an inexplicable beauty. [3-43-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य रूपमिदं दृष्ट्वा जाम्बूनदमयप्रभम् ।  
 नानारत्नमयं दिव्यं न मनो विस्मयं व्रजेत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1318,12 +1395,15 @@ as it were, whose heart is it that will not be transported into astonishment. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मांसहेतोरपि मृगान् विहारार्थं च धन्विनः ।  
 घ्नन्ति लक्ष्मण राजानो मृगयायां महावने ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1363,12 +1443,15 @@ sake of flesh, or just for the purpose of sporting archery. [3-43-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनानि व्यवसायेन विचीयन्ते महावने ।  
 धातवो विविधाश्चापि मणिरत्नसुवर्णिनः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1414,12 +1497,15 @@ king, but collect it casually without looting it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सारमखिलं नॄणां धनं निचयवर्धनम् ।  
 मनसा चिन्तितं सर्वं यथा शुक्रस्य लक्ष्मण ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1482,12 +1568,15 @@ return.' Rama's saying is interpreted in this way giving a high priority to fore
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थी येनार्थकृत्येन संव्रजत्यविचारयन् ।  
 तमर्थमर्थशास्त्रज्ञाः प्राहुरर्थ्याः सुलक्ष्मण ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1539,12 +1628,15 @@ the un-gettable itself is worthwhile.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्य मृगरत्नस्य परार्घ्ये काञ्चनत्वचि ।  
 उपवेक्ष्यति वैदेही मया सह सुमध्यमा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1586,12 +1678,15 @@ this juncture. This skin alone is the 'laudable wealth' 'worthwhile object' and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कादली न प्रियकी न प्रवेणी न चाविकी ।  
 भवेदेतस्य सदृशी स्पर्शेऽनेनेति मे मतिः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1647,12 +1742,15 @@ different than that of deer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष चैव मृगः श्रीमान् यश्च दिव्यो नभश्चरः ।  
 उभावेतौ मृगौ दिव्यौ तारामृगमहीमृगौ ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1709,12 +1807,15 @@ viz., killing the demon.
 
 १. नक्षत्रलोकमें विचरनेवाला मृग (मृगशिरा नक्षत्र) । २. दूसरा पृथ्वीपर विचरनेवाला काञ्चन मृग ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वायं तथा यन्मां भवेद् वदसि लक्ष्मण ।  
 मायैषा राक्षसस्येति कर्तव्योऽस्य वधो मया ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1755,12 +1856,15 @@ in that way as a demon's wizardry, my duty also results in the elimination of th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन हि नृशंसेन मारीचेनाकृतात्मना ।  
 वने विचरता पूर्वं हिंसिता मुनिपुङ्गवाः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1800,12 +1904,15 @@ earlier when was on the prowl in the forests, thus he is eliminable. [3-43-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्थाय बहवोऽनेन मृगयायां जनाधिपाः ।  
 निहताः परमेष्वासास्तस्माद् वध्यस्त्वयं मृगः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1852,12 +1959,15 @@ The last word in second foot *mR^iga* is also identifiable with 'beast' thus a b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरस्तादिह वातापिः परिभूय तपस्विनः ।  
 उदरस्थो द्विजान् हन्ति स्वगर्भोऽश्वतरीमिव ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1903,12 +2013,15 @@ going to Agastya's hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कदाचिच्चिराल्लोभादाससाद महामुनिम् ।  
 अगस्त्यं तेजसा युक्तं भक्ष्यस्तस्य बभूव ह ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1952,12 +2065,15 @@ to the sage. [3-43-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुत्थाने च तद्‍रूपं कर्तुकामं समीक्ष्य तम् ।  
 उत्स्मयित्वा तु भगवान् वातापिमिदमब्रवीत् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2002,12 +2118,15 @@ out of his stomach, that godly saint Agastya spoke this to Vaataapi with a scorn
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयाविगण्य वातापे परिभूताश्च तेजसा ।  
 जीवलोके द्विजश्रेष्ठास्तस्मादसि जरां गतः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2048,12 +2167,15 @@ therefore I have assimilated you.' So said sage Agastya to Vaataapi. [3-43-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् रक्षो न भवेदेव वातापिरिव लक्ष्मण ।  
 मद्विधं योऽतिमन्येत धर्मनित्यं जितेन्द्रियम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2099,12 +2221,15 @@ as sage Agastya has eliminated demon Vaataapi, if that demon happens to get at m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवेद्धतोऽयं वातापिरगस्त्येनेव मा गतः ।  
 इह त्वं भव सन्नद्धो यन्त्रितो रक्ष मैथिलीम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2163,12 +2288,15 @@ by Ravana' etc. In fact, Rama is the person who is more beguiled by the deer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्यामायत्तमस्माकं यत् कृत्यं रघुनन्दन ।  
 अहमेनं वधिष्यामि ग्रहीष्याम्यथवा मृगम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2208,12 +2336,15 @@ the deer. [3-43-47b, 48a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावद् गच्छामि सौमित्रे मृगमानयितुं द्रुतम् ।  
 पश्य लक्ष्मण वैदेह्या मृगत्वचि गतां स्पृहाम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2254,6 +2385,7 @@ that deer must be a mysterious being, hence, it will not survive now. [3-43-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2262,6 +2394,8 @@ that deer must be a mysterious being, hence, it will not survive now. [3-43-48]
 यावत् पृषतमेकेन सायकेन निहन्म्यहम् ।  
 हत्वैतच्चर्म चादाय शीघ्रमेष्यामि लक्ष्मण ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2312,6 +2446,7 @@ in deer, according to mythology.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2320,6 +2455,8 @@ in deer, according to mythology.
 भवाप्रमत्तः प्रतिगृह्य मैथिलीं  
 प्रतिक्षणं सर्वत एव शङ्कितः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2380,5 +2517,6 @@ to Lakshmana and started to go after the deer [3-43-51]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥43॥
+</details>
 </details>
 

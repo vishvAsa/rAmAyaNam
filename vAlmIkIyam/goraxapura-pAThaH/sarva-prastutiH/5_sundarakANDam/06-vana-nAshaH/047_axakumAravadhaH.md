@@ -2,6 +2,8 @@
 title = "०४७ अक्षकुमारवधः"
 title_english = "047 Ravana sends his son Aksha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -22,6 +24,7 @@ horses with blows. After killing Aksha, Hanuma returns again to the same archy d
 
 47. रावणपुत्र अक्षकुमारका पराक्रम और वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ horses with blows. After killing Aksha, Hanuma returns again to the same archy d
 निशम्य राजा समरोद्धतोन्मुखं  
 कुमारमक्षं प्रसमैक्षताक्षम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +86,7 @@ to fighting as well as sitting in front of him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,6 +95,8 @@ to fighting as well as sitting in front of him.
 समुत्पपाताथ सदस्युदीरितो  
 द्विजातिमुख्यैर्हविषेव पावकः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,6 +142,7 @@ to it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -142,6 +151,8 @@ to it.
 रथं समास्थाय ययौ स वीर्यवान्  
 महाहरिं तं प्रति नैर्ऋतर्षभः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,6 +198,7 @@ monkey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,6 +215,8 @@ monkey.
 दिवाकराभं रथमास्थितस्ततः  
 स निर्जगामामरतुल्यविक्रमः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,6 +340,7 @@ yoked well with eight excellent horses, having speed equal to that of a mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -334,6 +349,8 @@ yoked well with eight excellent horses, having speed equal to that of a mind.
 बलैः समेतैः सहतोरणस्थितं  
 समर्थमासीनमुपागमत् कपिम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,6 +401,7 @@ together with his army, approached the efficient Hanuma the great monkey, standi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,6 +410,8 @@ together with his army, approached the efficient Hanuma the great monkey, standi
 अवस्थितं विस्मितजातसम्भ्रमं  
 समैक्षताक्षो बहुमानचक्षुषा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,6 +462,7 @@ him with a great esteem.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -450,6 +471,8 @@ him with a great esteem.
 विचारयन् स्वं च बलं महाबलो  
 युगक्षये सूर्य इवाभिवर्धत ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,6 +524,7 @@ like the sun when the frost is faded away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,6 +533,8 @@ like the sun when the frost is faded away.
 समाहितात्मा हनुमन्तमाहवे  
 प्रचोदयामास शितैः शरैस्त्रिभिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,6 +585,7 @@ three sharp arrows towards him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -567,6 +594,8 @@ three sharp arrows towards him.
 अवैक्षताक्षः समुदीर्णमानसं  
 सबाणपाणिः प्रगृहीतकार्मुकः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,6 +646,7 @@ mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -625,6 +655,8 @@ mind.
 तयोर्बभूवाप्रतिमः समागमः  
 सुरासुराणामपि सम्भ्रमप्रदः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,6 +702,7 @@ demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -678,6 +711,8 @@ demons.
 कपेः कुमारस्य च वीर्यसंयुगं  
 ननाद च द्यौरुदधिश्च चुक्षुभे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,6 +764,7 @@ was agitated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -737,6 +773,8 @@ was agitated.
 समाधिसंयोगविमोक्षतत्त्ववि-  
 च्छरानथ त्रीन् कपिमूर्ध्न्यताडयत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,6 +826,7 @@ having golden shafts and feathers and which resembled venomous serpants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -796,6 +835,8 @@ having golden shafts and feathers and which resembled venomous serpants.
 नवोदितादित्यनिभः शरांशुमान्  
 व्यराजतादित्य इवांशुमालिकः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,6 +888,7 @@ the sun surrounded by a circle of rays, having the arrows as its rays.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -855,6 +897,8 @@ the sun surrounded by a circle of rays, having the arrows as its rays.
 उदग्रचित्रायुधचित्रकार्मुकं  
 जहर्ष चापूर्यत चाहवोन्मुखः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,6 +949,7 @@ to fight, grew in size.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -913,6 +958,8 @@ to fight, grew in size.
 कुमारमक्षं सबलं सवाहनं  
 ददाह नेत्राग्निमरीचिभिस्तदा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -964,6 +1011,7 @@ vehicles, by the rays of fire emnating from his eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -972,6 +1020,8 @@ vehicles, by the rays of fire emnating from his eyes.
 शरान् मुमोचाशु हरीश्वराचले  
 बलाहको वृष्टिमिवाचलोत्तमे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,6 +1072,7 @@ rain on a high mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1030,6 +1081,8 @@ rain on a high mountain.
 कुमारमक्षं प्रसमीक्ष्य संयुगे  
 ननाद हर्षाद् घनतुल्यनिःस्वनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,6 +1133,7 @@ roared with joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1088,6 +1142,8 @@ roared with joy.
 समाससादाप्रतिमं रणे कपिं  
 गजो महाकूपमिवावृतं तृणैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1139,6 +1195,7 @@ a well covered with heaps of straw.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1147,6 +1204,8 @@ a well covered with heaps of straw.
 समुत्सहेनाशु नभः समारुजन्  
 भुजोरुविक्षेपणघोरदर्शनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,6 +1255,7 @@ quickly to the sky assuming a terrible sight, stretching out his arms and thighs
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1204,6 +1264,8 @@ quickly to the sky assuming a terrible sight, stretching out his arms and thighs
 रथी रथश्रेष्ठतरः किरन् शरैः  
 पयोधरः शैलमिवाश्मवृष्टिभिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1255,6 +1317,7 @@ on a mountian.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1263,6 +1326,8 @@ on a mountian.
 शरान्तरे मारुतवद् विनिष्पतन्  
 मनोजवः संयति भीमविक्रमः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1314,6 +1379,7 @@ arrows, moved in the path visited by wind (the sky).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1322,6 +1388,8 @@ arrows, moved in the path visited by wind (the sky).
 अवैक्षताक्षं बहुमानचक्षुषा  
 जगाम चिन्तां स च मारुतात्मजः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1373,6 +1441,7 @@ and became thoughful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1381,6 +1450,8 @@ and became thoughful.
 महाभुजः कर्मविशेषतत्त्वविद्  
 विचिन्तयामास रणे पराक्रमम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,6 +1502,7 @@ his adversary in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,6 +1511,8 @@ his adversary in battle.
 न चास्य सर्वाहवकर्मशालिनः  
 प्रमापणे मे मतिरत्र जायते ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1488,6 +1562,7 @@ as a mature youth. My mind is not conceding here to kill him, who is distinguish
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1496,6 +1571,8 @@ as a mature youth. My mind is not conceding here to kill him, who is distinguish
 असंशयं कर्मगुणोदयादयं  
 सनागयक्षैर्मुनिभिश्च पूजितः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1542,6 +1619,7 @@ Nagas the serpent-demons and Yakshas the semi-dviine being."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1550,6 +1628,8 @@ Nagas the serpent-demons and Yakshas the semi-dviine being."
 पराक्रमो ह्यस्य मनांसि कम्पयेत्  
 सुरासुराणामपि शीघ्रकारिणः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1600,6 +1680,7 @@ demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1608,6 +1689,8 @@ demons."
 प्रमापणं ह्यस्य ममाद्य रोचते  
 न वर्धमानोऽग्निरुपेक्षितुं क्षमः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1658,6 +1741,7 @@ battle. The only option left out for me is to kill him now. It is not proper to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1666,6 +1750,8 @@ battle. The only option left out for me is to kill him now. It is not proper to 
 चकार वेगं तु महाबलस्तदा  
 मतिं च चक्रेऽस्य वधे तदानीम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1717,6 +1803,7 @@ and also made up his mind to kill him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1725,6 +1812,8 @@ and also made up his mind to kill him.
 जघान वीरः पथि वायुसेविते  
 तलप्रहारैः पवनात्मजः कपिः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1776,6 +1865,7 @@ while turning to different directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1784,6 +1874,8 @@ while turning to different directions.
 स भग्ननीडः परिवृत्तकूबरः  
 पपात भूमौ हतवाजिरम्बरात् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1834,6 +1926,7 @@ the sky to the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1842,6 +1935,8 @@ the sky to the ground.
 ततोऽभियोगादृषिरुग्रवीर्यवान्  
 विहाय देहं मरुतामिवालयम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1893,6 +1988,7 @@ to heaven because of his Yogic penance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1901,6 +1997,8 @@ to heaven because of his Yogic penance.
 समेत्य तं मारुतवेगविक्रमः  
 क्रमेण जग्राह च पादयोर्दृढम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1952,6 +2050,7 @@ supernatural powers, slowly grasped his feet firmly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1960,6 +2059,8 @@ supernatural powers, slowly grasped his feet firmly.
 मुमोच वेगात् पितृतुल्यविक्रमो  
 महीतले संयति वानरोत्तमः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2006,6 +2107,7 @@ in the battle, hurled him down to the floor rapidly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2014,6 +2116,8 @@ in the battle, hurled him down to the floor rapidly.
 सम्भिन्नसन्धिः प्रविकीर्णबन्धनो  
 हतः क्षितौ वायुसुतेन राक्षसः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2063,6 +2167,7 @@ his joints displaced and his sinews shattered, that demon was killed by Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2073,6 +2178,8 @@ his joints displaced and his sinews shattered, that demon was killed by Hanuma.
 सुरैश्च सेन्द्रैर्भृशजातविस्मयै-  
 र्हते कुमारे स कपिर्निरीक्षितः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2134,6 +2241,7 @@ the serpent-demons and by celestials with Indra the lord of celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2142,6 +2250,8 @@ the serpent-demons and by celestials with Indra the lord of celestials.
 तदेव वीरोऽभिजगाम तोरणं  
 कृतक्षणः काल इव प्रजाक्षये ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2198,5 +2308,6 @@ way again, like Yama the lord of death expecting in a moment any mortal getting 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तेळनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

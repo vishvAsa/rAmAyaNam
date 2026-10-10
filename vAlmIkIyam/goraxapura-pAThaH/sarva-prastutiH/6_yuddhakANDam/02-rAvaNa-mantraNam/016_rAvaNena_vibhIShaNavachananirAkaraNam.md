@@ -2,6 +2,8 @@
 title = "०१६ रावणेन विभीषणवचननिराकरणम्"
 title_english = "016 Ravana refuses to hear the words of Vibhishana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ Vibhishana gets angry and sets off, to leave Ravana.
 
 16. रावणके द्वारा विभीषणका तिरस्कार और विभीषणका भी उसे फटकारकर चल देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुनिविष्टं हितं वाक्यमुक्तवन्तं विभीषणम् ।  
 अब्रवीत् परुषं वाक्यं रावणः कालचोदितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ stable and who had spoken wholesome words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसेत् सह सपत्नेन क्रुद्धेनाशीविषेण च ।  
 न तु मित्रप्रवादेन संवसेच्छत्रुसेविना ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ stay together with an adversary yet avowing himself as a friend"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानामि शीलं ज्ञातीनां सर्वलोकेषु राक्षस ।  
 हृष्यन्ति व्यसनेष्वेते ज्ञातीनां ज्ञातयः सदा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,12 +162,15 @@ rejoiced at the calamities of their kinsmen"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रधानं साधकं वैद्यं धर्मशीलं च राक्षस ।  
 ज्ञातयोऽप्यवमन्यन्ते शूरं परिभवन्ति च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +211,15 @@ effective leader, a person of education and right conduct and a valiant man."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यमन्योन्यसंहृष्टा व्यसनेष्वाततायिनः ।  
 प्रच्छन्नहृदया घोरा ज्ञातयस्तु भयावहाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,12 +259,15 @@ ones as they are, always rejoice each other in adversities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयन्ते हस्तिभिर्गीताः श्लोकाः पद्मवने पुरा ।  
 पाशहस्तान् नरान् दृष्ट्वा शृणुष्व गदतो मम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +311,15 @@ which saw men with nooses in hand. Hear and I shall tell them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाग्निर्नान्यानि शस्त्राणि न नः पाशा भयावहाः ।  
 घोराः स्वार्थप्रयुक्तास्तु ज्ञातयो नो भयावहाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,12 +357,15 @@ incited by selfishness are begetting fear to us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायमेते वक्ष्यन्ति ग्रहणे नात्र संशयः ।  
 कृत्स्नाद् भयाज्ज्ञातिभयं कुकष्टं विहितं च नः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +410,15 @@ well known thing."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्यते गोषु सम्पन्नं विद्यते ज्ञातितो भयम् ।  
 विद्यते स्त्रीषु चापल्यं विद्यते ब्राह्मणे तपः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +461,15 @@ There is austerity in Brahmins."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नेष्टमिदं सौम्य यदहं लोकसत्कृतः ।  
 ऐश्वर्यमभिजातश्च रिपूणां मूर्ध्नि च स्थितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +510,15 @@ that I obtained riches and that I am sitting tight in the heads of enemies".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा पुष्करपत्रेषु पतितास्तोयबिन्दवः ।  
 न श्लेषमभिगच्छन्ति तथानार्येषु सौहृदम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +558,15 @@ a friendship does not cling to vulgar ones."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा शरदि मेघानां सिञ्चतामपि गर्जताम् ।  
 न भवत्यम्बुसङ्क्लेदस्तथानार्येषु सौहृदम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +606,15 @@ with water, so also friendship does not have tenderness of heart in vulgar peopl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा मधुकरस्तर्षाद् रसं विन्दन्न तिष्ठति ।  
 तथा त्वमपि तत्रैव तथानार्येषु सौहृदम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +656,15 @@ stick on to vulgar people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा मधुकरस्तर्षात् काशपुष्पं पिबन्नपि ।  
 रसमत्र न विन्देत तथानार्येषु सौहृदम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,12 +704,15 @@ get it, so also friendship cannot be extracted from vulgar persons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा पूर्वं गजः स्नात्वा गृह्य हस्तेन वै रजः ।  
 दूषयत्यात्मनो देहं तथानार्येषु सौहृदम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ earlier with its trunk, friendship gets an abuse in vulgar persons in the same m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽन्यस्त्वेवंविधं ब्रूयाद् वाक्यमेतन्निशाचर ।  
 अस्मिन् मुहूर्ते न भवेत् त्वां तु धिक् कुलपांसन ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +796,15 @@ manner, he will be ceasing to exit at this moment. O, destroyer of race! A curse
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः परुषं वाक्यं न्यायवादी विभीषणः ।  
 उत्पपात गदापाणिश्चतुर्भिः सह राक्षसैः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +844,15 @@ mace in his hand, soared high into the sky, along with four other demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च तदा वाक्यं जातक्रोधो विभीषणः ।  
 अन्तरिक्षगतः श्रीमान् भ्राता वै राक्षसाधिपम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,6 +892,7 @@ Ravana, his brother after moving into the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -843,6 +900,8 @@ Ravana, his brother after moving into the sky.
 ज्येष्ठो मान्यः पितृसमो न च धर्मपथे स्थितः ।  
 इदं हि परुषं वाक्यं न क्षमाम्यग्रजस्य ते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -888,12 +947,15 @@ forbear these harsh words from you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुनीतं हितकामेन वाक्यमुक्तं दशानन ।  
 न गृह्णन्त्यकृतात्मानः कालस्य वशमागताः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +995,15 @@ assimilate the words of prudence, spoken by a well wisher."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुलभाः पुरुषा राजन् सततं प्रियवादिनः ।  
 अप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1045,15 @@ obtained"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धं कालस्य पाशेन सर्वभूतापहारिणः ।  
 न नश्यन्तमुपेक्षे त्वां प्रदीप्तं शरणं यथा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1025,12 +1093,15 @@ around you and which snatches away all beings, as none can ignore a burning hous
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्तपावकसङ्काशैः शितैः काञ्चनभूषणैः ।  
 न त्वामिच्छाम्यहं द्रष्टुं रामेण निहतं शरैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,12 +1145,15 @@ gold and each resembling like a blazing fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूराश्च बलवन्तश्च कृतास्त्राश्च नरा रणे ।  
 कालाभिपन्नाः सीदन्ति यथा वालुकसेतवः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1122,6 +1196,7 @@ setuvaH yathaa = like a dam constructed with sand."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1129,6 +1204,8 @@ setuvaH yathaa = like a dam constructed with sand."
 आत्मानं सर्वथा रक्ष पुरीं चेमां सराक्षसाम् ।  
 स्वस्ति तेऽस्तु गमिष्यामि सुखी भव मया विना ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1223,7 @@ setuvaH yathaa = like a dam constructed with sand."
 
 राक्षसराजने! नानु निन्न हितवन्नु बयसुत्तेनॆ. अदक्कागि नानु हेळिदुदु निनगॆ सरिकाणदिद्दरॆ अदक्कागि नन्नन्नु क्षमिसिबिडु; एकॆन्दरॆ नीनु ननगॆ अण्णनागिरुवॆ. ईग नीनु राक्षसर सहित लङ्कॆयन्नु मत्तु तन्नन्नु रक्षिसिको. निनगॆ मङ्गळवागलि. ईग नानु इल्लिन्द हॊरटु होगुवॆनु. नीनु नानिल्लदॆ सुखियागु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1154,6 +1232,8 @@ setuvaH yathaa = like a dam constructed with sand."
 परान्तकाले हि गतायुषो नरा  
 हितं न गृह्णन्ति सुहृद्भिरीरितम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1203,5 +1283,6 @@ Be a happy person without me."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिनारनॆय सर्ग पूर्णवायितु.॥16॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००१ रामेण हनुमत्कार्यश्लाघनम्"
 title_english = "001 Rama appreciates Hanuma and embraces him"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ to cross the ocean.
 
 1. हनुमान् जी की प्रशंसा करके श्रीरामका उन्हें हृदयसे लगाना और समुद्रको पार करनेके लिये चिन्तित होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनूमतो वाक्यं यथावदभिभाषितम् ।  
 रामः प्रीतिसमायुक्तो वाक्यमुत्तरमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ follows: -
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं हनूमता कार्यं सुमहद् भुवि दुर्लभम् ।  
 मनसापि यदन्येन न शक्यं धरणीतले ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ which could not be carried out even in thought by any other on the surface of th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तं परिपश्यामि यस्तरेत महोदधिम् ।  
 अन्यत्र गरुडाद् वायोरन्यत्र च हनूमतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,6 +172,7 @@ race and vehicle of Lord Vishnu), wind- god and Hanuman, who can cross the might
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -168,6 +180,8 @@ race and vehicle of Lord Vishnu), wind- god and Hanuman, who can cross the might
 अप्रधृष्यां पुरीं लङ्कां रावणेन सुरक्षिताम् ॥ ४ ॥  
 प्रविष्टः सत्त्वमाश्रित्य जीवन् को नाम निष्क्रमेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ and ogres and well under the custody of Ravana?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को विशेत् सुदुराधर्षां राक्षसैश्च सुरक्षिताम् ॥ ५ ॥  
 यो वीर्यबलसम्पन्नो न समः स्याद्धनूमतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,12 +267,15 @@ Hanuman's?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भृत्यकार्यं हनुमता सुग्रीवस्य कृतं महत् ।  
 एवं विधाय स्वबलं सदृशं विक्रमस्य च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,12 +309,15 @@ strength corresponding to his pace."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि भृत्यो नियुक्तः सन् भर्त्रा कर्मणि दुष्करे ।  
 कुर्यात् तदनुरागेण तमाहुः पुरुषोत्तमम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,12 +358,15 @@ zeal is said to be a superior person."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो नियुक्तः परं कार्यं न कुर्यान्नृपतेः प्रियम् ।  
 भृत्यो युक्तः समर्थश्च तमाहुर्मध्यमं नरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,12 +406,15 @@ from him is called a mediocre person."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियुक्तो नृपतेः कार्यं न कुर्याद् यः समाहितः ।  
 भृत्यो युक्तः समर्थश्च तमाहुः पुरुषाधमम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +455,15 @@ master as directed is said to be the least of men ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्नियोगे नियुक्तेन कृतं कृत्यं हनूमता ।  
 न चात्मा लघुतां नीतः सुग्रीवश्चापि तोषितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,12 +505,15 @@ was no diminution to his self."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं च रघुवंशश्च लक्ष्मणश्च महाबलः ।  
 वैदेह्या दर्शनेनाद्य धर्मतः परिरक्षिताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +553,15 @@ too, have been rightly saved today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तु मम दीनस्य मनो भूयः प्रकर्षति ।  
 यदिहास्य प्रियाख्यातुर्न कुर्मि सदृशं प्रियम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +602,15 @@ able to do a pleasant act befittingly to the bearer of these good tidings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष सर्वस्वभूतस्तु परिष्वङ्गो हनूमतः ।  
 मया कालमिमं प्राप्य दत्तस्तस्य महात्मनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +650,15 @@ circumstances, this is all that is easily obtained from me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा प्रीतिहृष्टाङ्गो रामस्तं परिषस्वजे ।  
 हनूमन्तं कृतात्मानं कृतकार्यमुपागतम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ himself, his mission fulfilled, had returned.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्यात्वा पुनरुवाचेदं वचनं रघुसत्तमः ।  
 हरीणामीश्वरस्यापि सुग्रीवस्योपशृण्वतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ Sugriva the ruler of monkeys too listening attentively.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा सुकृतं तावत् सीतायाः परिमार्गणम् ।  
 सागरं तु समासाद्य पुनर्नष्टं मनो मम ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +789,15 @@ dejected once more, when I behold this vast ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नाम समुद्रस्य दुष्पारस्य महाम्भसः ।  
 हरयो दक्षिणं पारं गमिष्यन्ति समागताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +837,15 @@ is so difficult to cross and which contains voluminous water?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यप्येष तु वृत्तान्तो वैदेह्या गदितो मम ।  
 समुद्रपारगमने हरीणां किमिवोत्तरम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +888,15 @@ the farther side the sea?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा शोकसम्भ्रान्तो रामः शत्रुनिबर्हणः ।  
 हनूमन्तं महाबाहुस्ततो ध्यानमुपागमत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,5 +946,6 @@ filled with apprehension and then became absorbed in thought.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मॊदलनॆय सर्ग पूर्णवायितु. ॥1॥
+</details>
 </details>
 

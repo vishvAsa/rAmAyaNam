@@ -1,6 +1,8 @@
 +++
 title = "०९२ रावणेन पुत्रमरणशोकः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -25,12 +27,15 @@ Rama in battle. Ravana accepts the advice of his minister and returns to his ass
 
 92. रावणका शोक तथा सुपार्श्वके समझानेसे उसका सीता-वधसे निवृत्त होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पौलस्त्यसचिवाः श्रुत्वा चेन्द्रजितो वधम् ।  
 आचचक्षुरभिज्ञाय दशग्रीवाय सत्वराः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -53,12 +58,15 @@ Rama in battle. Ravana accepts the advice of his minister and returns to his ass
 
 रावणन मन्त्रिगळु इन्द्रजितुविन वधॆय समाचारवन्नु केळि, स्वतः प्रत्यक्ष नोडि निश्चयिसिकॊण्डु, दशमुख रावणन बळिगॆ होगि ऎल्ल वृत्तान्तवन्नु तिळिसिदरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धे हतो महाराज लक्ष्मणेन तवात्मजः ।  
 विभीषणसहायेन मिषतां नो महाद्युतिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +107,7 @@ Vibhishana, while we were witnessing the event in the battle-field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,6 +115,8 @@ Vibhishana, while we were witnessing the event in the battle-field."
 लक्ष्मणेन हतः शूरः पुत्रस्ते विबुधेन्द्रजित् ॥ ३ ॥  
 गतः स परमाल्ँ लोकान् शरैः सन्तर्प्य लक्ष्मणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ Lakshmana with his arrows, Indrajit departed to the highest world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं प्रतिभयं श्रुत्वा वधं पुत्रस्य दारुणम् ॥ ४ ॥  
 घोरमिन्द्रजितः सङ्ख्ये कश्मलं प्राविशन्महत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ battle, Ravana gave way to a protracted swoon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपलभ्य चिरात् सञ्ज्ञां राजा राक्षसपुङ्गवः ॥ ५ ॥  
 पुत्रशोकाकुलो दीनो विललापाकुलेन्द्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +252,15 @@ as he was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा राक्षसचमूमुख्य मम वत्स महाबल ॥ ६ ॥  
 जित्वेन्द्रं कथमद्य त्वं लक्ष्मणस्य वशं गतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ conquered Indra, how have you been subjected to the power of Lakshmana now?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु त्वमिषुभिः क्रुद्धो भिन्द्याः कालान्तकावपि ॥ ७ ॥  
 मन्दरस्यापि शृङ्गाणि किं पुनर्लक्ष्मणं युधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +351,15 @@ to tell about Lakshmana?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य वैवस्वतो राजा भूयो बहुमतो मम ॥ ८ ॥  
 येनाद्य त्वं महाबाहो संयुक्तः कालधर्मणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +393,15 @@ whom you have been subjected to the ravages of time today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष पन्थाः सुयोधानां सर्वामरगणेष्वपि ।  
 यः कृते हन्यते भर्तुः स पुमान् स्वर्गमृच्छति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +436,15 @@ offspring who is killed for the cause of his lord, obtains heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य देवगणाः सर्वे लोकपाला महर्षयः ।  
 हतमिन्द्रजितं श्रुत्वा सुखं स्वप्स्यन्ति निर्भयाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +485,15 @@ the world and the great sages now can sleep comfortably and peacefully."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य लोकास्त्रयः कृत्स्ना पृथिवी च सकानना ।  
 एकेनेन्द्रजिता हीना शून्येव प्रतिभाति मे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +533,15 @@ alone to me. Nay, even the three worlds!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य नैर्ऋतकन्यानां श्रोष्याम्यन्तःपुरे रवम् ।  
 करेणुसङ्घस्य यथा निनादं गिरिगह्वरे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +581,15 @@ one would hear the roar of a troop of female-elephants in a mountain cave."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यौवराज्यं च लङ्कां च रक्षांसि च परन्तप ।  
 मातरं मां च भार्याश्च क्व गतोऽसि विहाय नः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +650,15 @@ reported the matter hurriedly to Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम नाम त्वया वीर गतस्य यमसादनम् ।  
 प्रेतकार्याणि कार्याणि विपरीते हि वर्तसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +692,15 @@ consequent upon my death in future. You are, however, following a reverse path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं जीवति सुग्रीवे लक्ष्मणे च सराघवे ।  
 मम शल्यमनुद‍्धृत्य क्व गतोऽसि विहाय नः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +740,15 @@ Rama are still alive, where have you gone?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमादिविलापार्तं रावणं राक्षसाधिपम् ।  
 आविवेश महान् कोपः पुत्रव्यसनसम्भवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +782,15 @@ was feeling distressed through grief as aforesaid.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्या कोपनं ह्येनं पुत्रस्य पुनराधयः ।  
 दीप्तं सन्दीपयामासुर्घर्मेऽर्कमिव रश्मयः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +828,15 @@ his very nature, was wrathful, as rays of the sun flare up the blazing sun in su
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ललाटे भ्रुकुटीभिश्च सङ्गताभिर्व्यरोचत ।  
 युगान्ते सह नक्रैस्तु महोर्मिभिरिवोदधिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,12 +876,15 @@ at the time of the dissolution of the world, with crocodiles and giant waves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोपाद् विजृम्भमाणस्य वक्त्राद् व्यक्तमिव ज्वलन् ।  
 उत्पपात सधूमाग्निर्वृत्रस्य वदनादिव ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,12 +925,15 @@ out from his mouth, as it did from the month of Vritra (in the former days).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुत्रवधसन्तप्तः शूरः क्रोधवशं गतः ।  
 समीक्ष्य रावणो बुद्‍ध्या वैदेह्या रोचयद् वधम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +968,15 @@ wrath and pondering with his mind, craved for the killing of Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य प्रकृत्या रक्ते च रक्ते क्रोधाग्निनापि च ।  
 रावणस्य महाघोरे दीप्ते नेत्रे बभूवतुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1010,15 @@ were red even by the fire of his wrath, looked glittering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोरं प्रकृत्या रूपं तत् तस्य क्रोधाग्निमूर्च्छितम् ।  
 बभूव रूपं क्रुद्धस्य रुद्रस्येव दुरासदम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,12 +1061,15 @@ difficult to be approached, like the form of enraged Rudra the god of destructio
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य क्रुद्धस्य नेत्राभ्यां प्रापतन्नश्रुबिन्दवः ।  
 दीपाभ्यामिव दीप्ताभ्यां सार्चिषः स्नेहबिन्दवः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1041,12 +1112,15 @@ down from blazing lamps.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दन्तान् विदशतस्तस्य श्रूयते दशनस्वनः ।  
 यन्त्रस्याकृष्यमाणस्य मथ्नतो दानवैरिव ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,12 +1160,15 @@ were heard like the noise of a large machine being bragged by the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालाग्निरिव सङ्क्रुद्धो यां यां दिशमवैक्षत ।  
 तस्यां तस्यां भयत्रस्ता राक्षसाः संविलिल्यिरे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,12 +1208,15 @@ directed his look, enraged as he was, like the fire of universal dissolution.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमन्तकमिव क्रुद्धं चराचरचिखादिषुम् ।  
 वीक्षमाणं दिशः सर्वा राक्षसा नोपचक्रमुः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,12 +1252,15 @@ creatures.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमसङ्क्रुद्धो रावणो राक्षसाधिपः ।  
 अब्रवीद् रक्षसां मध्ये संस्तम्भयिषुराहवे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,12 +1295,15 @@ was very much enraged, then spoke as follows, in their midst:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया वर्षसहस्राणि चरित्वा परमं तपः ।  
 तेषु तेष्ववकाशेषु स्वयम्भूः परितोषितः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1251,12 +1337,15 @@ austerity for thousands of years, at the conclusion of those austerities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैव तपसो व्युष्ट्या प्रसादाच्च स्वयम्भुवः ।  
 नासुरेभ्यो न देवेभ्यो भयं मम कदाचन ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1383,15 @@ creation, there was never a fear for me either from the demons or from the celes
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कवचं ब्रह्मदत्तं मे यदादित्यसमप्रभम् ।  
 देवासुरविमर्देषु न च्छिन्नं वज्रमुष्टिभिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,12 +1436,15 @@ held the thunderbolt in their fists."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मामद्य संयुक्तं रथस्थमिह संयुगे ।  
 प्रतीयात् कोऽद्य मामाजौ साक्षादपि पुरन्दरः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1383,6 +1478,7 @@ mounted on chariot on this field of battle, and duly wearing the aforesaid armou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1391,6 +1487,8 @@ mounted on chariot on this field of battle, and duly wearing the aforesaid armou
 अद्य तूर्यशतैर्भीमं धनुरुत्थाप्यतां मम ।  
 रामलक्ष्मणयोरेव वधाय परमाहवे ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,12 +1529,15 @@ Rama and Lakshmana in the great battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुत्रवधसन्तप्तः क्रूरः क्रोधवशं गतः ।  
 समीक्ष्य रावणो बुद्ध्या सीतां हन्तुं व्यवस्यत ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1477,12 +1578,15 @@ subjected to anger and deeply pondering with his mind, decided kill Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यवेक्ष्य तु ताम्राक्षः सुघोरो घोरदर्शनः ।  
 दीनो दीनस्वरान् सर्वांस्तानुवाच निशाचरान् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1524,12 +1628,15 @@ distressed, spoke to them as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मायया मम वत्सेन वञ्चनार्थं वनौकसाम् ।  
 किञ्चिदेव हतं तत्र सीतेयमिति दर्शितम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1563,12 +1670,15 @@ by taking recourse to conjuring tricks, as Seetha, by my child (Indrajit)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं तथ्यमेवाहं करिष्ये प्रियमात्मनः ।  
 वैदेहीं नाशयिष्यामि क्षत्रबन्धुमनुव्रताम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,6 +1695,7 @@ by taking recourse to conjuring tricks, as Seetha, by my child (Indrajit)"
 
 आदरॆ आ सुळ्ळन्नु इन्दु नानु निजवागिसुवॆनु मत्तु हीगॆ माडि ननगॆ प्रियवादुदन्नु माडुवॆनु. आ क्षत्रियाधम रामनल्लि अनुरागविट्टिरुव सीतॆ यन्नु कॊन्दु हाकुवॆनु.॥37॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1593,6 +1704,8 @@ by taking recourse to conjuring tricks, as Seetha, by my child (Indrajit)"
 निष्पपात स वेगेन सभार्यः सचिवैर्वृतः ।  
 रावणः पुत्रशोकेन भृशमाकुलचेतनः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1631,12 +1744,15 @@ swiftly drew his sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्क्रुद्धः खड्गमादाय सहसा यत्र मैथिली ।  
 व्रजन्तं राक्षसं प्रेक्ष्य सिंहनादं विचुक्रुशुः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1679,12 +1795,15 @@ where Seetha was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊचुश्चान्योन्यमालिङ्‍ग्य सङ्क्रुद्धं प्रेक्ष्य राक्षसम् ।  
 अद्यैनं तावुभौ दृष्ट्वा भ्रातरौ प्रव्यथिष्यतः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1724,12 +1843,15 @@ and embracing each other, they spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकपाला हि चत्वारः क्रुद्धेनानेन निर्जिताः ।  
 बहवः शत्रवश्चान्ये संयुगेष्वभिपातिताः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1777,12 +1899,15 @@ Many other enemies were also frightened by him in various battles."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिषु लोकेषु रत्नानि भुङ्‍क्ते आहृत्य रावणः ।  
 विक्रमे च बले चैव नास्त्यस्य सदृशो भुवि ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1826,12 +1951,15 @@ one on the earth is equal to him in strength and prowess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां सञ्जल्पमानानामशोकवनिकां गताम् ।  
 अभिदुद्राव वैदेहीं रावणः क्रोधमूर्च्छितः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1868,12 +1996,15 @@ towards Seetha, who was present in the Ashoka grove.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वार्यमाणः सुसङ्क्रुद्धः सुहृद्भिर्हितबुद्धिभिः ।  
 अभ्यधावत सङ्क्रुद्धः खे ग्रहो रोहिणीमिव ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1918,6 +2049,7 @@ constellation, Rohini in fury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1926,6 +2058,8 @@ constellation, Rohini in fury.
 तं निशम्य सनिस्त्रिंशं व्यथिता जनकात्मजा ।  
 निवार्यमाणं बहुशः सुहृद्भिरनिवर्तिनम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1983,6 +2117,7 @@ enraged Ravana who was bearing an excellent sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1990,6 +2125,8 @@ enraged Ravana who was bearing an excellent sword.
 यथायं मामभिक्रुद्धः समभिद्रवति स्वयम् ॥ ४८ ॥  
 वधिष्यति सनाथां मामनाथामिव दुर्मतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2007,12 +2144,15 @@ enraged Ravana who was bearing an excellent sword.
 
 सीतॆयु दुःखदल्लि मुळुगि, विलापिसुत्ता अन्दुकॊण्डळु - ई दुर्बुद्धि राक्षसनु कुपितनागि नन्नकडॆगॆ ओडिबरुत्तिरुवुदन्नु नोडिदरॆ, इवनु सनाथॆयाद नन्नन्नु अनाथळन्तॆ नन्नन्नु कॊन्दु बिडुवनो ऎन्दु अनिसुत्तदॆ.॥48½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुशश्चोदयामास भर्तारं मामनुव्रताम् ॥ ४९ ॥  
 भार्या मम भवस्वेति प्रत्याख्यातो ध्रुवं मया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2049,12 +2189,15 @@ going to kill me, to make me husband-less, even though I have a husband".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽयं मामनुपस्थाने व्यक्तं नैराश्यमागतः ॥ ५० ॥  
 क्रोधमोहसमाविष्टो व्यक्तं मां हन्तुमुद्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2074,12 +2217,15 @@ _________________
 
 नानु ई रीति निराकरिसिदाग निश्चयवागि निराशनागि इवनु क्रोधगॊण्डु मोहवशनागि खण्डितवागि नन्नन्नु कॊल्ल लॆन्दे हॊरटिरुवनु.॥50½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा तौ नरव्याघ्रौ भ्रातरौ रामलक्ष्मणौ ॥ ५१ ॥  
 मन्निमित्तमनार्येण समरेऽद्य निपातितौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2119,12 +2265,15 @@ to wait upon him, he is surely intent to kill me, filled as he was with anger an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भैरवो हि महान् नादो राक्षसानां श्रुतो मया ॥ ५२ ॥  
 बहूनामिह हृष्टानां तथा विक्रोशतां प्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2161,6 +2310,7 @@ the foremost of men, today in battle, because of me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2168,6 +2318,8 @@ the foremost of men, today in battle, because of me."
 अथवा पुत्रशोकेन अहत्वा रामलक्ष्मणौ ।  
 विधमिष्यति मां रौद्रो राक्षसः पापनिश्चयः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2224,6 +2376,7 @@ jubilant and roaring about a pleasant happening."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2231,6 +2384,8 @@ jubilant and roaring about a pleasant happening."
 यद्यहं तस्य पृष्ठेन तदायासमनिर्जिता ॥ ५५ ॥  
 नाद्यैवमनुशोचेयं भर्तुरङ्कगता सती ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2252,12 +2407,15 @@ _________________
 
 क्षुद्र बुद्धियवळाद नानु हनुमन्तनु अन्दु हेळिद मातन्नु केळलिल्ल. श्रीरामनु रावणनन्नु जयिसि नन्नन्नु करॆदुकॊण्डु होगदिद्दरू चिन्तियिल्लवॆन्दु निर्धरिसि हनुमन्तन बॆन्नमेलॆ कुळितु होगिद्दरॆ ईग ई परियल्लि शोकपडबेकागियू इरलिल्ल; ईगागले नानु नन्न प्रियतमन तॊडॆयन्नु सेरिबिडुत्तिद्दॆ.॥55½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये तु हृदयं तस्याः कौसल्यायाः फलिष्यति ॥ ५६ ॥  
 एकपुत्रा यदा पुत्रं विनष्टं श्रोष्यते युधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2295,12 +2453,15 @@ as I should be resting on the lap of my husband (in that case)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि जन्म च बाल्यं च यौवनं च महात्मनः ॥ ५७ ॥  
 धर्मकार्याणि रूपं च रुदती संस्मरिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2337,12 +2498,15 @@ one son, hears of her son having been killed in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निराशा निहते पुत्रे दत्त्वा श्राद्धमचेतना ॥ ५८ ॥  
 अग्निमावेक्ष्यते नूनमपो वापि प्रवेक्ष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2382,12 +2546,15 @@ the righteous acts and the handsome form of the great-souled Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिगस्तु कुब्जामसतीं मन्थरां पापनिश्चयाम् ॥ ५९ ॥  
 यन्निमित्तमिमं शोकं कौसल्या प्रतिपत्स्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2431,6 +2598,7 @@ unconscious, Kausalya will surely enter the flame or be drowned in water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2440,6 +2608,8 @@ unconscious, Kausalya will surely enter the flame or be drowned in water."
 सुपार्श्वो नाम मेधावी रावणं रक्षसां वरम् ।  
 निवार्यमाणः सचिवैरिदं वचनमब्रवीत् ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2518,12 +2688,15 @@ consequence, Kausalya will get this grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नाम दशग्रीव साक्षाद्वैश्रवणानुज ।  
 हन्तुमिच्छसि वैदेहीं क्रोधाद् धर्ममपास्य च ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2563,12 +2736,15 @@ abandoning your righteousness, in a bout of anger?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदविद्याव्रतस्नातः स्वकर्मनिरतस्तथा ।  
 स्त्रियः कस्माद् वधं वीर मन्यसे राक्षसेश्वर ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2610,12 +2786,15 @@ duty?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैथिलीं रूपसम्पन्नां प्रत्यवेक्षस्व पार्थिव ।  
 तस्मिन्नेव सहास्माभिराहवे क्रोधमुत्सृज ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2655,12 +2834,15 @@ release your anger, in battle, on Rama alone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्युत्थानं त्वमद्यैव कृष्णपक्षचतुर्दशी ।  
 कृत्वा निर्याह्यमावास्यां विजयाय बलैर्वृतः ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2701,12 +2883,15 @@ month, you along with the armies, sally forth tomorrow, the moonless day, to vic
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूरो धीमान् रथी खड्गी रथप्रवरमास्थितः ।  
 हत्वा दाशरथिं रामं भवान् प्राप्स्यति मैथिलीम् ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2741,6 +2926,7 @@ your chariots, you can fetch Seetha by killing Rama, the son of Dasaratha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2749,6 +2935,8 @@ your chariots, you can fetch Seetha by killing Rama, the son of Dasaratha."
 गृहं जगामाथ ततश्च वीर्यवान्  
 पुनः सभां च प्रययौ सुहृद्‍वृतः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2802,5 +2990,6 @@ his assembly hall from there.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तॆरडनॆय सर्ग पूर्णवायितु.॥92॥
+</details>
 </details>
 

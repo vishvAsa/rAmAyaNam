@@ -2,6 +2,8 @@
 title = "०६६ हनुमजन्मवर्णनम्"
 title_english = "066 Legend of Hanuma s birth"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ of Hanuma through Jambavanta. Some information about Hanuma is included in the e
 
 66. जाम्बवान‍्का हनुमान‍्जी को उनकी उत्पत्तिकथा सुनाकर समुद्रलङ्घनके लिये उत्साहित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेकशतसाहस्रीं विषण्णां हरिवाहिनीम् ।  
 जाम्बवान् समुदीक्ष्यैवं हनूमन्तमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ thousands of soldiers, then Jambavanta sad this way to Hanuma. [4-66-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर वानरलोकस्य सर्वशास्त्रविदां वर ।  
 तूष्णीमेकान्तमाश्रित्य हनूमन् किं न जल्पसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ loneliness... [4-66-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमन् हरिराजस्य सुग्रीवस्य समो ह्यसि ।  
 रामलक्ष्मणयोश्चापि तेजसा च बलेन च ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ or even to Rama and Lakshmana, as well... [4-66-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरिष्टनेमिनः पुत्रो वैनतेयो महाबलः ।  
 गरुत्मानिव विख्यात उत्तमः सर्वपक्षिणाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ who is superbly mighty and who is universally renowned as Garuda... [4-66-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुशो हि मया दृष्टः सागरे स महाबलः ।  
 भुजङ्गानुद्धरन् पक्षी महाबाहुर्महाबलः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ bird Garuda, pecking up reptiles from ocean... [4-66-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पक्षयोर्यद् बलं तस्य भुजवीर्यबलं तव ।  
 विक्रमश्चापि वेगश्च न ते तेनापहीयते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +318,15 @@ even by the yardsticks of his dash and dare, yours too, are unreprovable... [4-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलं बुद्धिश्च तेजश्च सत्त्वं च हरिपुङ्गव ।  
 विशिष्टं सर्वभूतेषु किमात्मानं न सज्जसे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,6 +367,7 @@ ocean... [4-66-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,6 +377,8 @@ ocean... [4-66-7]
 अभिशापादभूत् तात कपित्वे कामरूपिणी ॥ ९ ॥  
 दुहिता वानरेन्द्रस्य कुञ्जरस्य महात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -423,6 +449,7 @@ wife of Kesari, the monkey... [4-66-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -430,6 +457,8 @@ wife of Kesari, the monkey... [4-66-8]
 विचित्रमाल्याभरणा कदाचित् क्षौमधारिणी ।  
 अचरत् पर्वतस्याग्रे प्रावृडम्बुदसन्निभे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +506,15 @@ mountain like a streak of lightning athwart a black-cloud of rainy season. [4-66
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या वस्त्रं विशालाक्ष्याः पीतं रक्तदशं शुभम् ।  
 स्थितायाः पर्वतस्याग्रे मारुतोऽपाहरच्छनैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +552,15 @@ broad-eyed lady's auspicious and ochry silk apparel with red rouches... [4-66-12
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श ततस्तस्या वृत्तावूरू सुसंहतौ ।  
 स्तनौ च पीनौ सहितौ सुजातं चारु चाननम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,12 +596,15 @@ paired off plumpish breasts, and her beautiful face which is well proportioned i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां बलादायतश्रोणीं तनुमध्यां यशस्विनीम् ।  
 दृष्ट्वैव शुभसर्वाङ्गीं पवनः काममोहितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +640,15 @@ ample and who is slender-waisted, and who by all her limbs is pristine, the Air-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां भुजाभ्यां दीर्घाभ्यां पर्यष्वजत मारुतः ।  
 मन्मथाविष्टसर्वाङ्गो गतात्मा तामनिन्दिताम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,12 +684,15 @@ as he lost his heart for her... [4-66-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु तत्रैव सम्भ्रान्ता सुव्रता वाक्यमब्रवीत् ।  
 एकपत्नीव्रतमिदं को नाशयितुमिच्छति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ invisible hugging, 'who wishes to despoil my vow of one-man-one-wife...' [4-66-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अञ्जनाया वचः श्रुत्वा मारुतः प्रत्यभाषत ।  
 न त्वां हिंसामि सुश्रोणि मा भूत् ते मनसो भयम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +770,15 @@ Air-god... [4-66-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसास्मि गतो यत् त्वां परिष्वज्य यशस्विनि ।  
 वीर्यवान् बुद्धिसम्पन्नस्तव पुत्रो भविष्यति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +817,15 @@ intellect... [4-66-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महासत्त्वो महातेजा महाबलपराक्रमः ।  
 लङ्घने प्लवने चैव भविष्यति मया समः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +861,15 @@ and jumping up...' Thus, the Air-god said to Anjana. [4-66-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता ततस्तुष्टा जननी ते महाकपे ।  
 गुहायां त्वां महाबाहो प्रजज्ञे प्लवगर्षभ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,12 +906,15 @@ cave... [4-66-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्युत्थितं ततः सूर्यं बालो दृष्ट्वा महावने ।  
 फलं चेति जिघृक्षुस्त्वमुत्प्लुत्याभ्युत्पतो दिवम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,12 +950,15 @@ hopped up and flew towards sun on the sky... [4-66-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतानि त्रीणि गत्वाथ योजनानां महाकपे ।  
 तेजसा तस्य निर्धूतो न विषादं गतस्ततः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,12 +994,15 @@ indefatigable... [4-66-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वामप्युपगतं तूर्णमन्तरिक्षं महाकपे ।  
 क्षिप्तमिन्द्रेण ते वज्रं कोपाविष्टेन तेजसा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,12 +1041,15 @@ Indra is captivated by anger and by his effulgence he catapulted his Thunderbolt
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा शैलाग्रशिखरे वामो हनुरभज्यत ।  
 ततो हि नामधेयं ते हनुमानिति कीर्तितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,12 +1090,15 @@ places Valmiki terms him as Hani... nectareous...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वां निहतं दृष्ट्वा वायुर्गन्धवहः स्वयम् ।  
 त्रैलोक्यं भृशसङ्क्रुद्धो न ववौ वै प्रभञ्जनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1135,15 @@ worlds... [4-66-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्भ्रान्ताश्च सुराः सर्वे त्रैलोक्ये क्षुभिते सति ।  
 प्रसादयन्ति सङ्क्रुद्धं मारुतं भुवनेश्वराः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1181,15 @@ grace... [4-66-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादिते च पवने ब्रह्मा तुभ्यं वरं ददौ ।  
 अशस्त्रवध्यतां तात समरे सत्यविक्रम ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1223,7 @@ Brahma gave you a boon decreeing your 'indestructibility by any missile...' [4-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1153,6 +1231,8 @@ Brahma gave you a boon decreeing your 'indestructibility by any missile...' [4-6
 सहस्रनेत्रः प्रीतात्मा ददौ ते वरमुत्तमम् ॥ २८ ॥  
 स्वच्छन्दतश्च मरणं तव स्यादिति वै प्रभो ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1194,12 +1274,15 @@ occurs only by your own volition... [4-66-28, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं केसरिणः पुत्रः क्षेत्रजो भीमविक्रमः ॥ २९ ॥  
 मारुतस्यौरसः पुत्रस्तेजसा चापि तत्समः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1219,6 +1302,7 @@ _________________
 
 ई प्रकार नीनु केसरिय क्षेत्रज पुत्रनागिरुवॆ. निन्न पराक्रम शत्रुगळिगॆ भयङ्करवागिदॆ. नीनु वायुदेवर औरस पुत्रनागिरुवॆ, अदरिन्द तेजदिन्दलू अवनन्तॆये आगिरुवॆ.॥29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1226,6 +1310,8 @@ _________________
 वयमद्य गतप्राणा भवानस्मासु साम्प्रतम् ।  
 दाक्ष्यविक्रमसम्पन्नः कपिराज इवापरः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1312,12 +1398,15 @@ magic]; but not 'delivered' manually through routine labour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिविक्रमे मया तात सशैलवनकानना ।  
 त्रिःसप्तकृत्वः पृथिवी परिक्रान्ता प्रदक्षिणम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1353,12 +1442,15 @@ it... [4-66-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चौषधयोऽस्माभिः सञ्चिता देवशासनात् ।  
 निर्मथ्यममृतं याभिस्तदानीं नो महद‍्बलम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1409,12 +1501,15 @@ The expressions 'we' and 'us' 'ourselves' are royal the 'we-s', 'us-s' and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स इदानीमहं वृद्धः परिहीनपराक्रमः ।  
 साम्प्रतं कालमस्माकं भवान् सर्वगुणान्वितः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1454,12 +1549,15 @@ present time, you alone are endowed with all endowments among us... [4-66-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् विजृम्भस्व विक्रान्त प्लवतामुत्तमो ह्यसि ।  
 त्वद्वीर्यं द्रष्टुकामा हि सर्वा वानरवाहिनी ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1501,12 +1599,15 @@ your prowess... [4-66-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ हरिशार्दूल लङ्घयस्व महार्णवम् ।  
 परा हि सर्वभूतानां हनुमन् या गतिस्तव ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1547,12 +1648,15 @@ velocity is indeed unalike that of all the other beings... [4-66-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषण्णा हरयः सर्वे हनुमन् किमुपेक्षसे ।  
 विक्रमस्व महावेग विष्णुस्त्रीन् विक्रमानिव ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1608,6 +1712,7 @@ duutam shirasaa namaami || *in that mano javam is 'speedier than thought...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1616,6 +1721,8 @@ duutam shirasaa namaami || *in that mano javam is 'speedier than thought...'
 प्रहर्षयंस्तां हरिवीरवाहिनीं  
 चकार रूपं महदात्मनस्तदा ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1673,5 +1780,6 @@ monkeys. [4-66-38]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥66॥
+</details>
 </details>
 

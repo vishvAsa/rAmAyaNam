@@ -2,6 +2,8 @@
 title = "०७९ भरतं प्रति मन्त्रिमन्त्रणा"
 title_english = "079 The king makers request Bharata to take over Ayodhya kingdom"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ for construction of a path-way to reach the forest.
 
 79. मन्त्री आदिका भरतसे राज्य ग्रहण करनेके लिये प्रस्ताव तथा भरतका अभिषेक-सामग्रीकी परिक्रमा करके श्रीरामको ही राज्यका अधिकारी बताकर उन्हें लौटा लानेके लिये चलनेके निमित्त व्यवस्था करनेकी सबको आज्ञा देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभातसमये दिवसेऽथ चतुर्दशे ।  
 समेत्य राजकर्तारो भरतं वाक्यमब्रुवन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,6 +71,7 @@ together, spoke to Bharata the following words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -74,6 +80,8 @@ together, spoke to Bharata the following words.
 त्वमद्य भव नो राजा राजपुत्रो महायशः ।  
 सङ्गत्या नापराध्नोति राज्यमेतदनायकम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -135,12 +143,15 @@ elder son Rama and the exceedingly strong Lakshmana to forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आभिषेचनिकं सर्वमिदमादाय राघव ।  
 प्रतीक्षते त्वां स्वजनः श्रेणयश्च नृपात्मज ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +192,15 @@ ministers); *shreNayashcha* = and the citizens; *pratiikshante* = are amiting;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं गृहाण भरत पितृपैतामहं ध्रुवम् ।  
 अभिषेचय चात्मानं पाहि चास्मान् नरर्षभ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +240,15 @@ succession from your ancestors, coronate yourself and rule us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आभिषेचनिकं भाण्डं कृत्वा सर्वं प्रदक्षिणम् ।  
 भरतस्तं जनं सर्वं प्रत्युवाच धृतव्रतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +289,15 @@ things kept ready for consecration and replied to all those people as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठस्य राजता नित्यमुचिता हि कुलस्य नः ।  
 नैवं भवन्तो मां वक्तुमर्हन्ति कुशला जनाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +338,15 @@ being the conversant people, ought not to tell in this manner to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः पूर्वो हि नो भ्राता भविष्यति महीपतिः ।  
 अहं त्वरण्ये वत्स्यामि वर्षाणि नव पञ्च च ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +386,15 @@ fourteen years."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युज्यतां महती सेना चतुरङ्गमहाबला ।  
 आनयिष्याम्यहं ज्येष्ठं भ्रातरं राघवं वनात् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,6 +435,7 @@ kept ready. I shall bring Rama our elder brother from the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +444,8 @@ kept ready. I shall bring Rama our elder brother from the forest."
 तत्रैव तं नरव्याघ्रमभिषिच्य पुरस्कृतम् ।  
 आनयिष्यामि वै रामं हव्यवाहमिवाध्वरात् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +507,15 @@ proceed to the forest for the sake of bringing back Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सकामां करिष्यामि स्वामिमां मातृगन्धिनीम् ।  
 वने वत्स्याम्यहं दुर्गे रामो राजा भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +556,15 @@ impassable forest. Rama will become the king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रियतां शिल्पिभिः पन्थाः समानि विषमाणि च ।  
 रक्षिणश्चानुसंयान्तु पथि दुर्गविचारकाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -571,12 +606,15 @@ path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्भाषमाणं तं रामहेतोर्नृपात्मजम् ।  
 प्रत्युवाच जनः सर्वः श्रीमद् वाक्यमनुत्तमम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +655,15 @@ replied in the following illustrious and excellent words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ते भाषमाणस्य पद्मा श्रीरुपतिष्ठताम् ।  
 यस्त्वं ज्येष्ठे नृपसुते पृथिवीं दातुमिच्छसि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,6 +707,7 @@ desirous of giving kingdom to Rama the eldest son of the king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -674,6 +716,8 @@ desirous of giving kingdom to Rama the eldest son of the king."
 प्रहर्षजास्तं प्रति बाष्पबिन्दवो  
 निपेतुरार्यानननेत्रसम्भवाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,6 +762,7 @@ of joy fell from the face and eyes of those venerable men.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,6 +771,8 @@ of joy fell from the face and eyes of those venerable men.
 पन्थानं नरवरभक्तिमान् जनश्च  
 व्यादिष्टस्तव वचनाच्च शिल्पिवर्गः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,5 +830,6 @@ devoted men and a group of artisans have been instructed to make the path-way."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥79॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०७६ जामदग्न्यपराजयः"
 title_english = "076 parashu rAma s pride is hurt"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-076-Jaama_Dagnya_Parajayaha.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "076 parashu rAma s pride is hurt"
 
 76. श्रीरामका वैष्णव-धनुषको चढ़ाकर अमोघ बाणके द्वारा परशुरामके तपःप्राप्त पुण्यलोकोंका नाश करना तथा परशुरामका महेन्द्रपर्वतको लौट जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु जामदग्न्यस्य वाक्यं दाशरथिस्तदा ।  
 गौरवाद्यन्त्रितकथः पितू राममथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -54,12 +59,15 @@ of his father Dasharatha. [1-76-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतवानसि यत् कर्म श्रुतवानस्मि भार्गव ।  
 अनुरुध्यामहे ब्रह्मन् पितुरानृण्यमास्थितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ I have heard of them, and oh, Brahman, we appreciate for your achieving that fre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर्यहीनमिवाशक्तं क्षत्रधर्मेण भार्गव ।  
 अवजानासि मे तेजः पश्य मेऽद्य पराक्रमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +164,15 @@ in revealing Rama's godhood to world, or in particular to Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा राघवः क्रुद्धो भार्गवस्य वरायुधम् ।  
 शरं च प्रतिजग्राह हस्ताल्लघुपराक्रमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ bade goodbye to his earlier incarnation, Parashu Rama, as two swords cannot be i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोप्य स धनू रामः शरं सज्यं चकार ह ।  
 जामदग्न्यं ततो रामं रामः क्रुद्धोऽब्रवीदिदम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,12 +260,15 @@ indecisive about the target, then Rama of Dasharatha irefully said this to Rama 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणोऽसीति पूज्यो मे विश्वामित्रकृतेन च ।  
 तस्माच्छक्तो न ते राम मोक्तुं प्राणहरं शरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,6 +314,7 @@ a blood relation of Vishvamitra, and that corner of mercy is not allowing Rama t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -302,6 +323,8 @@ a blood relation of Vishvamitra, and that corner of mercy is not allowing Rama t
 न ह्ययं वैष्णवो दिव्यः शरः परपुरञ्जयः ।  
 मोघः पतति वीर्येण बलदर्पविनाशनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +389,15 @@ which you have earned by the power of your ascesis, I will eliminate whichever y
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरायुधधरं रामं द्रष्टुं सर्षिगणाः सुराः ।  
 पितामहं पुरस्कृत्य समेतास्तत्र सर्वशः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ which you have earned by the power of your ascesis, I will eliminate whichever y
 
 आग आ उत्तम धनुस्सु बाणवन्नु धरिसि निन्तिरुव श्रीरामचन्द्रनन्नु नोडलु समस्त देवतॆगळु मत्तु ऋषिगळु ब्रह्मदेवरन्नु मुन्दॆ माडि अल्लि ऒट्टागि बन्दरु.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धर्वाप्सरसश्चैव सिद्धचारणकिन्नराः ।  
 यक्षराक्षसनागाश्च तद् द्रष्टुं महदद्भुतम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +465,15 @@ of Bhaargava Rama to Dasharatha Rama. Nrisimha Puraana has this: *tataH parashur
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जडीकृते तदा लोके रामे वरधनुर्धरे ।  
 निर्वीर्यो जामदग्न्योऽसौ रामो राममुदैक्षत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ upraised eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजोभिर्गतवीर्यत्वाज्जामदग्न्यो जडीकृतः ।  
 रामं कमलपत्राक्षं मन्दं मन्दमुवाच ह ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +567,15 @@ he spoke to Rama of Dasharatha, slowly and softly. [1-76-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काश्यपाय मया दत्ता यदा पूर्वं वसुन्धरा ।  
 विषये मे न वस्तव्यमिति मां काश्यपोऽब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +614,15 @@ to the ethereal mountain called Mt. Mahendra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं गुरुवचः कुर्वन् पृथिव्यां न वसे निशाम् ।  
 तदाप्रभृति काकुत्स्थ कृता मे काश्यपस्य ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -618,12 +659,15 @@ oh, Kakutstha Rama, as I made over this earth for Kashyapa, indeed... [1-76-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामिमां मद‍्गतिं वीर हन्तुं नार्हसि राघव ।  
 मनोजवं गमिष्यामि महेन्द्रं पर्वतोत्तमम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,12 +707,15 @@ of cerebration to Mt. Mahendra, a par excellent mountain... [1-76-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकास्त्वप्रतिमा राम निर्जितास्तपसा मया ।  
 जहि ताञ्छरमुख्येन मा भूत् कालस्य पर्ययः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,12 +751,15 @@ arrow... let there be no time-lag... [1-76-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षय्यं मधुहन्तारं जानामि त्वां सुरेश्वरम् ।  
 धनुषोऽस्य परामर्शात् स्वस्ति तेऽस्तु परन्तप ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +796,15 @@ Madhu, namely Vishnu, by the touch of your handling that bow... oh, enemy-inflam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते सुरगणाः सर्वे निरीक्षन्ते समागताः ।  
 त्वामप्रतिमकर्माणमप्रतिद्वन्द्वमाहवे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +843,15 @@ airborne demon will let the cat out of the bag.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेयं मम काकुत्स्थ व्रीडा भवितुमर्हति ।  
 त्वया त्रैलोक्यनाथेन यदहं विमुखीकृतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +894,15 @@ say that this is a disgrace to me... [1-76-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरमप्रतिमं राम मोक्तुमर्हसि सुव्रत ।  
 शरमोक्षे गमिष्यामि महेन्द्रं पर्वतोत्तमम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,12 +936,15 @@ a point of no return for me..." So said Parashu Rama to Dasharatha Rama. [1-76-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रुवति रामे तु जामदग्न्ये प्रतापवान् ।  
 रामो दाशरथिः श्रीमांश्चिक्षेप शरमुत्तमम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -921,12 +983,15 @@ from that longbow of Vishnu. [1-76-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हतान् दृश्य रामेण स्वाल्ँ लोकांस्तपसार्जितान् ।  
 जामदग्न्यो जगामाशु महेन्द्रं पर्वतोत्तमम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,12 +1037,15 @@ Rather, ready to depart... as he is given some more role-play in next verses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वितिमिराः सर्वा दिशश्चोपदिशस्तथा ।  
 सुराः सर्षिगणा रामं प्रशशंसुरुदायुधम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1088,15 @@ Please refer the endnote about this longbow and how it is passed on to Janaka's 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं दाशरथिं रामो जामदग्न्यः प्रपूजितः ।  
 ततः प्रदक्षिणीकृत्य जगामात्मगतिं प्रभुः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,5 +1145,6 @@ went on his own way into oblivion. [1-76-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तारनॆय सर्ग पूर्णवायितु.॥76॥
+</details>
 </details>
 

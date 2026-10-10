@@ -2,6 +2,8 @@
 title = "०७२ रावणेन-अतिकायमरणशोकः"
 title_english = "072 Ravana s grief over Atikaya s death"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ Atikaya, his son.
 
 72. रावणकी चिन्ता तथा उसका राक्षसोंको पुरीकी रक्षाके लिये सावधान रहनेका आदेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायं हतं श्रुत्वा लक्ष्मणेन महात्मना ।  
 उद्वेगमगमद् राजा वचनं चेदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,6 +53,7 @@ Atikaya, his son.
 
 महात्मा लक्ष्मणनिन्द अतिकायनु हतनादनॆम्ब वार्तॆ केळि रावणनु उद्विग्ननागि हेळिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -56,6 +62,8 @@ Atikaya, his son.
 एते महाबला वीरा राक्षसा युद्धकाङ्क्षिणः ।  
 जेतारः परसैन्यानां परैर्नित्यापराजिताः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +82,15 @@ Atikaya, his son.
 
 अत्यन्त कोपिष्ठनाद धूम्राक्ष, समस्त शस्त्रधारिगळल्लि श्रेष्ठ अकम्पन, प्रहस्त हागू कुम्भकर्ण इवरॆल्ल महाबलि वीरराक्षसरु सदा युद्धाभिलाषियागिद्दरु. इवरॆल्लरू शत्रुसैन्यवन्नु जयिसुववरू, शत्रुगळिन्द ऎन्दू पराजितरागदवरागिद्दरु.॥2-3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससैन्यास्ते हता वीरा रामेणाक्लिष्टकर्मणा ।  
 राक्षसाः सुमहाकाया नानाशस्त्रविशारदाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,6 +135,7 @@ battle by the enemies they along with their enemies were killed. Many other migh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,6 +147,8 @@ battle by the enemies they along with their enemies were killed. Many other migh
 तन्न जाने प्रभावैर्वा मायया मोहनेन वा ॥ ७ ॥  
 शरबन्धाद् विमुक्तौ तौ भ्रातरौ रामलक्ष्मणौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ Rama and Lakshmana, the brothers with terrific arrows, on which boons had been c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये योधा निर्गताः शूरा राक्षसा मम शासनात् ॥ ८ ॥  
 ते सर्वे निहता युद्धे वानरैः सुमहाबलैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +268,15 @@ by those exceptionally mighty monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं न पश्याम्यहं युद्धे योऽद्य रामं सलक्ष्मणम् ॥ ९ ॥  
 नाशयेत् सबलं वीरं ससुग्रीवं विभीषणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +319,15 @@ Sugreeva and Vibhishana accompanied by their army in battle now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो सुबलवान् रामो महदस्त्रबलं च वै ॥ १० ॥  
 यस्य विक्रममासाद्य राक्षसा निधनं गताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +361,15 @@ How great is the power of his arrow!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मन्ये राघवं वीरं नारायणमनामयम् ॥ ११ ॥  
 तद्भयाद्धि पुरी लङ्का पिहितद्वारतोरणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +409,15 @@ Seetha is being guarded, vigilantly on all sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमत्तैश्च सर्वत्र गुल्मे रक्ष्या पुरी त्वियम् ॥ १२ ॥  
 अशोकवनिका चैव यत्र सीताभिरक्ष्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,6 +458,7 @@ are exiting and entering at all times, again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -436,6 +466,8 @@ are exiting and entering at all times, again and again.
 यत्र यत्र भवेद् गुल्मस्तत्र तत्र पुनः पुनः ।  
 सर्वतश्चापि तिष्ठध्वं स्वैः स्वैः परिवृता बलैः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +506,15 @@ those monkeys are to be watched."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रष्टव्यं च पदं तेषां वानराणां निशाचराः ।  
 प्रदोषे वार्धरात्रे वा प्रत्यूषे वापि सर्वशः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +555,15 @@ active or advancing or staying where it was."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावज्ञा तत्र कर्तव्या वानरेषु कदाचन ।  
 द्विषतां बलमुद्युक्तमापतत् किं स्थितं यथा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,12 +603,15 @@ forthwith in its totality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसाः सर्वे श्रुत्वा लङ्काधिपस्य तत् ।  
 वचनं सर्वमातिष्ठन् यथावत् तु महाबलाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -610,12 +651,15 @@ prickly sorrow and depression, penetrated deeply into his palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् सर्वान् हि समादिश्य रावणो राक्षसाधिपः ।  
 मन्युशल्यं वहन् दीनः प्रविवेश स्वमालयम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,6 +705,7 @@ remained broading about the loss of his son (Atikaya) and also sighing again and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -669,6 +714,8 @@ remained broading about the loss of his son (Atikaya) and also sighing again and
 तदेव पुत्रव्यसनं विचिन्तयन्  
 मुहुर्मुहुश्चैव तदा विनिःश्वसन् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,5 +761,6 @@ Ravana was worried and spoke as follows:
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तॆरडनॆय सर्ग पूर्णवायितु.॥72॥
+</details>
 </details>
 

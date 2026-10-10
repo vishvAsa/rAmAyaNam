@@ -2,6 +2,8 @@
 title = "०७५ राम-लक्ष्मणयोः पम्पादर्शनम्"
 title_english = "075 Rama and Lakshmana arrive at Pampa Lake"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,6 +24,7 @@ that short spell of his anguish, he proceeds with Lakshmana to the nearby of the
 
 75. श्रीराम और लक्ष्मणकी बातचीत तथा उन दोनों भाइयोंका पम्पासरोवरके तटपर जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ that short spell of his anguish, he proceeds with Lakshmana to the nearby of the
 चिन्तयित्वा तु धर्मात्मा प्रभावं तं महात्मनाम् ।  
 हितकारिणमेकाग्रं लक्ष्मणं राघवोऽब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -92,12 +97,15 @@ started to cogitate over the magnificence of Matanga disciples. [3-75-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टो मयाऽऽश्रमः सौम्य बह्वाश्चर्यः कृतात्मनाम् ।  
 विश्वस्तमृगशार्दूलो नानाविहगसेवितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,6 +145,7 @@ the deer and tigers are at home, and which is adored by divers birds... [3-75-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,6 +154,8 @@ the deer and tigers are at home, and which is adored by divers birds... [3-75-3]
 प्रणष्टमशुभं यन्नः कल्याणं समुपस्थितम् ।  
 तेन त्वेतत् प्रहृष्टं मे मनो लक्ष्मण सम्प्रति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +225,15 @@ seven seas, and even holier is our oblation of this holy waters to manes... [3-7
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृदये मे नरव्याघ्र शुभमाविर्भविष्यति ।  
 तदागच्छ गमिष्यावः पम्पां तां प्रियदर्शनाम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,12 +253,15 @@ _________________
 
 नरश्रेष्ठने! ईग नन्न हृदयदल्लि यावुदो शुभ सङ्कल्प एळुत्तिदॆ. अदक्कागि नडॆ, ईग नाविब्बरू परम सुन्दर पम्पासरोवरद तीरक्कॆ होगुवा.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूको गिरिर्यत्र नातिदूरे प्रकाशते ।  
 यस्मिन् वसति धर्मात्मा सुग्रीवोऽंशुमतः सुतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,6 +302,7 @@ will go to her, to that spectacular Lake Pampa, come on, Lakshmana... [3-75-6b, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -292,6 +310,8 @@ will go to her, to that spectacular Lake Pampa, come on, Lakshmana... [3-75-6b, 
 अहं त्वरे च तं द्रष्टुं सुग्रीवं वानरर्षभम् ॥ ८ ॥  
 तदधीनं हि मे कार्यं सीतायाः परिमार्गणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,12 +353,15 @@ Seetha is under his aegis, isn't it... [3-75-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणं तं वीरं सौमित्रिरिदमब्रवीत् ॥ ९ ॥  
 गच्छावस्त्वरितं तत्र ममापि त्वरते मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,6 +401,7 @@ go there promptly..." [3-75-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -385,6 +409,8 @@ go there promptly..." [3-75-9b, 10a]
 आजगाम ततः पम्पां लक्ष्मणेन सह प्रभुः ।  
 समीक्षमाणः पुष्पाढ्यं सर्वतो विपुलद्रुमम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -425,12 +451,15 @@ Pampa along with Lakshmana. [3-75-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोयष्टिभिश्चार्जुनकैः शतपत्रैश्च कीरकैः ।  
 एतैश्चान्यैश्च बहुभिर्नादितं तद् वनं महत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +479,15 @@ _________________
 
 आ विशाल वनवु टिट्टिभ, नविलु, मरकुटक, गिळि हागू इतर अनेक पक्षिगळ कलरवदिन्द प्रतिध्वनिसुत्तित्तु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामो विविधान् वृक्षान् सरांसि विविधानि च ।  
 पश्यन् कामाभिसन्तप्तो जगाम परमं ह्रदम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +541,15 @@ for pain of retyping.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तामासाद्य वै रामो दूरात् पानीयवाहिनीम् ।  
 मतङ्गसरसं नाम ह्रदं समवगाहत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,6 +598,7 @@ are also brought in here. With the result parsing of verses also goes wrong. Yet
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -570,6 +606,8 @@ are also brought in here. With the result parsing of verses also goes wrong. Yet
 स तु शोकसमाविष्टो रामो दशरथात्मजः ॥ १५ ॥  
 विवेश नलिनीं रम्यां पङ्कजैश्च समावृताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,6 +649,7 @@ ensorcelled by anguish on seeing a ladylike lake Pampa. [3-75-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -622,6 +661,8 @@ ensorcelled by anguish on seeing a ladylike lake Pampa. [3-75-15]
 किन्नरोरगगन्धर्वयक्षराक्षससेविताम् ।  
 नानाद्रुमलताकीर्णां शीतवारिनिधिं शुभाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -737,12 +778,15 @@ and trees like Tilaka, Ashoka, Punnaga, Bakula, Uddala, are hemming it from outs
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मसौगन्धिकैस्ताम्रां शुक्लां कुमुदमण्डलैः ।  
 नीलां कुवलयोद‍्घाटैर्बहुवर्णां कुथामिव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,12 +803,15 @@ and trees like Tilaka, Ashoka, Punnaga, Bakula, Uddala, are hemming it from outs
 
 अरुण कमलगळिन्द कॆम्पागि, कुमुद कुसुमगळिन्द बिळियागि, नील कमलगळिन्द नीलियागि काणुवुदरिन्द अदु बण्ण बण्णद रत्नकम्बळि यन्तॆ शोभिसुत्तित्तु.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरविन्दोत्पलवतीं पद्मसौगन्धिकायुताम् ।  
 पुष्पिताम्रवणोपेतां बर्हिणोद‍्घुष्टनादिताम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +863,15 @@ Ramayana - A Linguistic Study, by Pt. Satya Vrata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां दृष्ट्वा ततः पम्पां रामः सौमित्रिणा सह ।  
 विललाप च तेजस्वी रामो दशरथात्मजः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,6 +914,7 @@ over, owing to his passionate recollection of Seetha. [3-75-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -875,6 +926,8 @@ over, owing to his passionate recollection of Seetha. [3-75-22]
 अस्यास्तीरे तु पूर्वोक्तः पर्वतो धातुमण्डितः ॥ २५ ॥  
 ऋष्यमूक इति ख्यातश्चित्रपुष्पितपादपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1038,15 @@ of which lalanaa iva 'a beautiful lady like...' is our concern.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरिर्ऋक्षरजोनाम्नः पुत्रस्तस्य महात्मनः ॥ २६ ॥  
 अध्यास्ते तु महावीर्यः सुग्रीव इति विश्रुतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,6 +1088,7 @@ he is renowned, and he presides over that mountain. [3-75-26b, 27b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1039,6 +1096,8 @@ he is renowned, and he presides over that mountain. [3-75-26b, 27b]
 इत्युवाच पुनर्वाक्यं लक्ष्मणं सत्यविक्रमः ।  
 कथं मया विना सीतां शक्यं लक्ष्मण जीवितुम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,6 +1153,7 @@ alone ancient copies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1102,6 +1162,8 @@ alone ancient copies.
 विवेश पम्पां नलिनीमनोरमां  
 तमुत्तमं शोकमुदीरयाणः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,6 +1215,7 @@ that sentence in that way to Lakshmana neared that superb and heart delighting l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1161,6 +1224,8 @@ that sentence in that way to Lakshmana neared that superb and heart delighting l
 अनेकनानाविधपक्षिसङ्कुलां  
 विवेश रामः सह लक्ष्मणेन ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,4 +1269,5 @@ and then Rama along with Lakshmana on entering the area of that lake, has seen t
 इत्यार्षे श्रीमद्रामायाणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे पञ्चसप्ततितमः सर्गः ॥ ७५ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पचहत्तरवाँ सर्ग पूरा हुआ ॥ ७५ ॥  
 ॥ अरण्यकाण्डं सम्पूर्णम् ॥
+</details>
 </details>

@@ -2,6 +2,8 @@
 title = "०३६ उमामाहत्म्यम्"
 title_english = "036 Legend of Uma and her curse"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -27,12 +29,15 @@ Shiva on his marriage with Uma is in the conjugal bliss for a long period
 
 36. देवताओंका शिव-पार्वतीको सुरतक्रीडासे निवृत्त करना तथा उमादेवीका देवताओं और पृथ्वीको शाप देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्ये मुनौ तस्मिन्नुभौ राघवलक्ष्मणौ ।  
 प्रतिनन्द्य कथां वीरावूचतुर्मुनिपुङ्गवम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,6 +83,7 @@ When that sage Vishvamitra has finished narration of the legend of the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +91,8 @@ When that sage Vishvamitra has finished narration of the legend of the
 दुहितुः शैलराजस्य ज्येष्ठाया वक्तुमर्हसि ।  
 विस्तरं विस्तरज्ञोऽसि दिव्यमानुषसम्भवम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,12 +139,15 @@ When that sage Vishvamitra has finished narration of the legend of the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रीन् पथो हेतुना केन प्लावयेल्लोकपावनी ।  
 कथं गङ्गा त्रिपथगा विश्रुता सरिदुत्तमा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,6 +195,7 @@ When that sage Vishvamitra has finished narration of the legend of the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,6 +203,8 @@ When that sage Vishvamitra has finished narration of the legend of the
 तथा ब्रुवति काकुत्स्थे विश्वामित्रस्तपोधनः ॥ ४ ॥  
 निखिलेन कथां सर्वामृषिमध्ये न्यवेदयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +240,15 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा राम कृतोद्वाहः शितिकण्ठो महातपाः ॥ ५ ॥  
 दृष्ट्वा च भगवान् देवीं मैथुनायोपचक्रमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +286,15 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सङ्क्रीडमानस्य महादेवस्य धीमतः ।  
 शितिकण्ठस्य देवस्य दिव्यं वर्षशतं गतम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +346,15 @@ The hundred divine years are said to be 36,000 mortal years and this
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चापि तनयो राम तस्यामासीत् परन्तप ।  
 सर्वे देवाः समुद्युक्ताः पितामहपुरोगमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +400,15 @@ The hundred divine years are said to be 36,000 mortal years and this
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदिहोत्पद्यते भूतं कस्तत् प्रतिसहिष्यति ।  
 अभिगम्य सुराः सर्वे प्रणिपत्येदमब्रुवन् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +425,15 @@ The hundred divine years are said to be 36,000 mortal years and this
 
 इष्टु दीर्घ कालद बळिक रुद्रन तेजदिन्द उमादेविय गर्भदिन्द यावुदादरू महाप्राणि प्रकटवादरॆ आ तेजवन्नु यारु सहिसबल्लरु? ऎन्दु योचिसुत्ता देवतॆगळॆल्ल शिवन बळिगॆ होगि इन्तॆन्दरु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदेव महादेव लोकस्यास्य हिते रत ।  
 सुराणां प्रणिपातेन प्रसादं कर्तुमर्हसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +482,15 @@ This prolonged act of copulation is an act of yoga called *mahaa-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न लोका धारयिष्यन्ति तव तेजः सुरोत्तम ।  
 ब्राह्मेण तपसा युक्तो देव्या सह तपश्चर ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +507,15 @@ This prolonged act of copulation is an act of yoga called *mahaa-
 
 सुरश्रेष्ठने! ई लोक निन्न तेजवन्नु धरिसलारदु. आद्दरिन्द नीनु क्रीडॆयिन्द निवृत्तनागि देवबोधित तपस्सिनिन्द युक्तनागि उवादेवियॊन्दिगॆ तपस्सन्नु माडु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रैलोक्यहितकामार्थं तेजस्तेजसि धारय ।  
 रक्ष सर्वानिमाल्ँ लोकान् नालोकं कर्तुमर्हसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,6 +573,7 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,6 +582,8 @@ The word *tejas* also means semen, or offspring, besides resplendence
 बाढमित्यब्रवीत् सर्वान्  
 पुनश्चेदमुवाच ह ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,6 +619,7 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -589,6 +628,8 @@ The word *tejas* also means semen, or offspring, besides resplendence
 त्रिदशाः पृथिवी चैव  
 निर्वाणम्+++(=निवृत्तिम्)+++ अधिगच्छतु ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +669,15 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदिदं क्षुभितं स्थानान्मम तेजो ह्यनुत्तमम् ।  
 धारयिष्यति कस्तन्मे ब्रुवन्तु सुरसत्तमाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +714,15 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्ततो देवाः प्रत्यूचुर्वृषभध्वजम् ।  
 यत्तेजः क्षुभितं ह्यद्य तद्धरा धारयिष्यति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +762,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः सुरपतिः प्रमुमोच महाबलः ।  
 तेजसा पृथिवी येन व्याप्ता सगिरिकानना ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +807,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः पुनरिदमूचुश्चापि हुताशनम् ।  
 आविश त्वं महातेजो रौद्रं वायुसमन्वितः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +852,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदग्निना पुनर्व्याप्तं सञ्जातं श्वेतपर्वतम् ।  
 दिव्यं शरवणं चैव पावकादित्यसन्निभम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,6 +915,7 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -866,6 +923,8 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 अथोमां च शिवं चैव देवाः सर्षिगणास्तथा ॥ १९ ॥  
 पूजयामासुरत्यर्थं सुप्रीतमनसस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -908,12 +967,15 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ शैलसुता राम त्रिदशानिदमब्रवीत् ॥ २० ॥  
 समन्युरशपत् सर्वान् क्रोधसंरक्तलोचना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,6 +1011,7 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -956,6 +1019,8 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 अपत्यं स्वेषु दारेषु नोत्पादयितुमर्हथ ।  
 अद्यप्रभृति युष्माकमप्रजाः सन्तु पत्नयः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1085,15 @@ Thus the celestials do not directly breed. They take the agency of humans
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुरान् सर्वान् शशाप पृथिवीमपि ।  
 अवने नैकरूपा त्वं बहुभार्या भविष्यसि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,12 +1110,15 @@ Thus the celestials do not directly breed. They take the agency of humans
 
 ऎल्ला देवतॆगळिगॆ हीगॆ शपिसि, उमादेवियु भूमिगू शापवन्नु कॊट्टळु-भूमिये! नीनु एकरूपळागि इरलारॆ, निनगॆ अनेक पतिगळागलि.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पुत्रकृतां प्रीतिं मत्क्रोधकलुषीकृता ।  
 प्राप्स्यसि त्वं सुदुर्मेधो मम पुत्रमनिच्छती ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1103,12 +1174,15 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् सर्वान् पीडितान् दृष्ट्वा सुरान् सुरपतिस्तदा ।  
 गमनायोपचक्राम दिशं वरुणपालिताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,12 +1219,15 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा तप आतिष्ठत् पार्श्वे तस्योत्तरे गिरेः ।  
 हिमवत्प्रभवे शृङ्गे सह देव्या महेश्वरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,12 +1273,15 @@ Here some say the mountain on which Shiva settled for ascesis as *
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष ते विस्तरो राम शैलपुत्र्या निवेदितः ।  
 गङ्गायाः प्रभवं चैव शृणु मे सहलक्ष्मण ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,5 +1330,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तारनॆय सर्ग पूर्णवायितु. ॥36॥
+</details>
 </details>
 

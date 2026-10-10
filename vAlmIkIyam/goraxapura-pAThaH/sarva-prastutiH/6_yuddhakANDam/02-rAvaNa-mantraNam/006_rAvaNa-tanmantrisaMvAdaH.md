@@ -2,6 +2,8 @@
 title = "००६ रावण-तन्मन्त्रिसंवादः"
 title_english = "006 Ravana calls a meetings of his ministers"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,6 +23,7 @@ of a probable attack of Rama and his army on the City of Lanka.
 
 6. रावणका कर्तव्य-निर्णयके लिये अपने मन्त्रियोंसे समुचित सलाह देनेका अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ of a probable attack of Rama and his army on the City of Lanka.
 राक्षसेन्द्रो हनुमता शक्रेणेव महात्मना ।  
 अब्रवीद् राक्षसान् सर्वान् ह्रिया किञ्चिदवाङ्मुखः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ demons as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्षिता च प्रविष्टा च लङ्का दुष्प्रसहा पुरी ।  
 तेन वानरमात्रेण दृष्टा सीता च जानकी ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ was over-powered. Seetha the daughter of Janaka was also discovered by him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासादो धर्षितश्चैत्यः प्रवरा राक्षसा हताः ।  
 आविला च पुरी लङ्का सर्वा हनुमता कृता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ excellent demons were killed. The entire City of Lanka was made turbid.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं करिष्यामि भद्रं वः किं वो युक्तमनन्तरम् ।  
 उच्यतां नः समर्थं यत् कृतं च सुकृतं भवेत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +228,15 @@ next? Please speak that which is well-answering and that, if attempted becomes w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रमूलं च विजयं प्रवदन्ति मनस्विनः ।  
 तस्माद् वै रोचये मन्त्रं रामं प्रति महाबलाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +279,15 @@ forethought. Verily for that reason, I desire a deliberation about Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिविधाः पुरुषा लोके उत्तमाधममध्यमाः ।  
 तेषां तु समवेतानां गुणदोषौ वदाम्यहम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,6 +327,7 @@ the lowest. I am telling their inherent merits and defects."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,6 +336,8 @@ the lowest. I am telling their inherent merits and defects."
 सहितो मन्त्रयित्वा यः कर्मारम्भान् प्रवर्तयेत् ।  
 दैवे च कुरुते यत्नं तमाहुः पुरुषोत्तमम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +388,15 @@ relatives or who try to get a favour from Providence too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकोऽर्थं विमृशेदेको धर्मे प्रकुरुते मनः ।  
 एकः कार्याणि कुरुते तमाहुर्मध्यमं नरम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +437,15 @@ solitarily, applies his mind on law and justice all by himself and performs work
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुणदोषौ न निश्चित्य त्यक्त्वा दैवव्यपाश्रयम् ।  
 करिष्यामीति यः कार्यमुपेक्षेत् स नराधमः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +487,15 @@ among men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथेमे पुरुषा नित्यमुत्तमाधममध्यमाः ।  
 एवं मन्त्रोऽपि विज्ञेय उत्तमाधममध्यमः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -503,12 +535,15 @@ the resolution in thought is classified as good bad or mediocre."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐकमत्यमुपागम्य शास्त्रदृष्टेन चक्षुषा ।  
 मन्त्रिणो यत्र निरतास्तमाहुर्मन्त्रमुत्तमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +584,15 @@ view perceived by scriptures, obtain consensus and are satisfied with it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बह्वीरपि मतीर्गत्वा मन्त्रिणामर्थनिर्णयः ।  
 पुनर्यत्रैकतां प्राप्तः स मन्त्रो मध्यमः स्मृतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,12 +633,15 @@ obtained finally by a consensus of the counselors, is called mediocre."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यमतिमास्थाय यत्र सम्प्रतिभाष्यते ।  
 न चैकमत्ये श्रेयोऽस्ति मन्त्रः सोऽधम उच्यते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,12 +682,15 @@ one or the other divergent opinions and in which there is no advantage even afte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् सुमन्त्रितं साधु भवन्तो मतिसत्तमाः ।  
 कार्यं सम्प्रतिपद्यन्तमेतत् कृत्यं मतं मम ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,12 +734,15 @@ rightful action. To me, this is earnestly to be done."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराणां हि धीराणां सहस्रैः परिवारितः ।  
 रामोऽभ्येति पुरीं लङ्कामस्माकमुपरोधकः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -738,12 +785,15 @@ for the purpose of besieging us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरिष्यति च सुव्यक्तं राघवः सागरं सुखम् ।  
 तरसा युक्तरूपेण सानुजः सबलानुगः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,6 +836,7 @@ brother along with his army and his companions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -793,6 +844,8 @@ brother along with his army and his companions."
 तस्मिन्नेवंविधे कार्ये विरुद्धे वानरैः सह ।  
 हितं पुरे च सैन्ये च सर्वं सम्मन्त्र्यतां मम ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -844,5 +897,6 @@ good for the city and my army."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु.॥6॥
+</details>
 </details>
 

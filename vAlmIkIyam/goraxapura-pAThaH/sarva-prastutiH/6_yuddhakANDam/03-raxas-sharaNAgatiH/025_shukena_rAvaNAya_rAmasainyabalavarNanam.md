@@ -2,6 +2,8 @@
 title = "०२५ शुकेन रावणाय रामसैन्यबलवर्णनम्"
 title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ the enemy's ranks and exhort him to restore Seetha to Rama.
 
 25. रावणका शुक और सारणको गुप्तरूपसे वानरसेनामें भेजना, विभीषणद्वारा उनका पकड़ा जाना, श्रीरामकी कृपासे छुटकारा पाना तथा श्रीरामका संदेश लेकर लङ्कामें लौटकर उनका रावणको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सबले सागरं तीर्णे रामे दशरथात्मजे ।  
 अमात्यौ रावणः श्रीमानब्रवीच्छुकसारणौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ illustrious Ravana spoke to Shuka and Sarana, his ministers as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समग्रं सागरं तीर्णं दुस्तरं वानरं बलम् ।  
 अभूतपूर्वं रामेण सागरे सेतुबन्धनम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ bridge, unprecedented, across the ocean was executed by Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरे सेतुबन्धं तं न श्रद्दध्यां कथञ्चन ।  
 अवश्यं चापि सङ्ख्येयं तन्मया वानरं बलम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +169,7 @@ weight) by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -172,6 +184,8 @@ weight) by me."
 कश्च सेनापतिस्तेषां वानराणां महात्मनाम् ।  
 तच्च ज्ञात्वा यथातत्त्वं शीघ्रमागन्तुमर्हथः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +284,15 @@ the heroic Lakshmana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिष्टौ राक्षसौ शुकसारणौ ।  
 हरिरूपधरौ वीरौ प्रविष्टौ वानरं बलम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +326,15 @@ the disguise of monkeys, entered that army of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद् वानरं सैन्यमचिन्त्यं लोमहर्षणम् ।  
 सङ्ख्यातुं नाध्यगच्छेतां तदा तौ शुकसारणौ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,6 +378,7 @@ causing their hair to stand on end.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -365,6 +386,8 @@ causing their hair to stand on end.
 समुद्रस्य च तीरेषु वनेषूपवनेषु च ।  
 तरमाणं च तीर्णं च तर्तुकामं च सर्वशः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +405,15 @@ causing their hair to stand on end.
 
 आ सैन्यवु पर्वत शिखरगळल्लि, जलपातद अक्क-पक्कदल्लि, गुहॆगळल्लि, समुद्र तीरदल्लि, वन- उपवनगळल्लि हरडिकॊण्डित्तु. अदरल्लि स्वल्पभाग समुद्रवन्नु दाटुत्तिद्दरु, कॆलवरु दाटि बन्दिद्दरु; कॆलवरु समुद्रवन्नु दाटलु सिद्धरागिद्दारॆ.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निविष्टं निविशच्चैव भीमनादं महाबलम् ।  
 तद‍्बलार्णवमक्षोभ्यं ददृशाते निशाचरौ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +459,15 @@ of army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ ददर्श महातेजाः प्रतिच्छन्नौ विभीषणः ।  
 आचचक्षे स रामाय गृहीत्वा शुकसारणौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +507,15 @@ Shuka and Sarana and told Rama as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैतौ राक्षसेन्द्रस्य मन्त्रिणौ शुकसारणौ ।  
 लङ्कायाः समनुप्राप्तौ चारौ परपुरञ्जय ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +555,15 @@ the ministers of Ravana and they came here as spies from Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ दृष्ट्वा व्यथितौ रामं निराशौ जीविते तथा ।  
 कृताञ्जलिपुटौ भीतौ वचनं चेदमूचतुः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,12 +604,15 @@ lives and having joined their palms, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवामिहागतौ सौम्य रावणप्रहितावुभौ ।  
 परिज्ञातुं बलं सर्वं तदिदं रघुनन्दन ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +652,15 @@ know everything about your entire army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोस्तद् वचनं श्रुत्वा रामो दशरथात्मजः ।  
 अब्रवीत् प्रहसन् वाक्यं सर्वभूतहिते रतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -660,12 +701,15 @@ welfare of all beings, smilingly spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि दृष्टं बलं सर्वं वयं वा सुसमाहिताः ।  
 यथोक्तं वा कृतं कार्यं छन्दतः प्रतिगम्यताम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -706,12 +750,15 @@ will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ किञ्चिददृष्टं वा भूयस्तद् द्रष्टुमर्हथः ।  
 विभीषणो वा कात्स्‍‍र्न्येन पुनः सन्दर्शयिष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +802,15 @@ will show it to you again entirely."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेदं ग्रहणं प्राप्य भेतव्यं जीवितं प्रति ।  
 न्यस्तशस्त्रौ गृहीतौ च न दूतौ वधमर्हथः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +851,15 @@ holding no weapons indeed deserve no killing."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रच्छन्नौ च विमुञ्चेमौ चारौ रात्रिञ्चरावुभौ ।  
 शत्रुपक्षस्य सततं विभीषण विकर्षिणौ ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +899,15 @@ two demons. Set them both, who are spies in disguise, free."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविश्य महतीं लङ्कां भवद्‍भ्यां धनदानुजः ।  
 वक्तव्यो रक्षसां राजा यथोक्तं वचनं मम ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +951,15 @@ younger half-brother of Kubera and the king of demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् बलं त्वं समाश्रित्य सीतां मे हृतवानसि ।  
 तद् दर्शय यथाकामं ससैन्यश्च सबान्धवः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,12 +999,15 @@ that force at your will along with your troops and allies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वः काल्ये नगरीं लङ्कां सप्राकारां सतोरणाम् ।  
 रक्षसां च बलं पश्य शरैर्विध्वंसितं मया ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,12 +1048,15 @@ its ramparts and arches as well as the army of demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधं भीममहं मोक्ष्ये ससैन्ये त्वयि रावण ।  
 श्वः काल्ये वज्रवान् वज्रं दानवेष्विव वासवः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,6 +1097,7 @@ army as Indra the Lord of celestials wielding a thunderbolt casts the thunderbol
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1039,6 +1105,8 @@ army as Indra the Lord of celestials wielding a thunderbolt casts the thunderbol
 जयेति प्रतिनन्द्यैनं राघवं धर्मवत्सलम् ॥ २६ ॥  
 आगम्य नगरीं लङ्कामब्रूतां राक्षसाधिपम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1124,15 @@ army as Indra the Lord of celestials wielding a thunderbolt casts the thunderbol
 
 भगवान् श्रीरामन ई सन्देशवन्नु केळि राक्षसरिब्बरू शुक-सारणरु धर्मवत्सल श्रीरघु नाथनल्लि ‘निनगॆ जयवागलि’ ऎन्दु अभिनन्दिसि लङ्कापट्टणक्कॆ होगि रावणेश्वरनल्लि हेळिदरु.॥26½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणगृहीतौ तु वधार्थं राक्षसेश्वर ॥ २७ ॥  
 दृष्ट्वा धर्मात्मना मुक्तौ रामेणामिततेजसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,6 +1168,7 @@ cried out: "May you be victorious!", reached the city of Lanka and spoke to Rava
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1107,6 +1179,8 @@ cried out: "May you be victorious!", reached the city of Lanka and spoke to Rava
 एते शक्ताः पुरीं लङ्कां सप्राकारां सतोरणाम् ॥ ३० ॥  
 उत्पाट्य सङ्क्रामयितुं सर्वे तिष्ठन्तु वानराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1152,12 +1226,15 @@ But, Rama, the pious minded wose valour is immeasurable, seeing us, set us free.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशं तद्धि रामस्य रूपं प्रहरणानि च ॥ ३१ ॥  
 वधिष्यति पुरीं लङ्कामेकस्तिष्ठन्तु ते त्रयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,12 +1279,15 @@ with its ramparts and arches and transplant it elswhere, even if all the monkeys
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणगुप्ता सा सुग्रीवेण च वाहिनी ।  
 बभूव दुर्धर्षतरा सर्वैरपि सुरासुरैः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1247,6 +1327,7 @@ of Lanka, his three other companious standing by."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1255,6 +1336,8 @@ of Lanka, his three other companious standing by."
 अलं विरोधेन शमो विधीयतां  
 प्रदीयतां दाशरथाय मैथिली ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -1314,5 +1397,6 @@ unconquerable even by all the gods and demons."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तैदनॆय सर्ग पूर्णवायितु.॥25॥
+</details>
 </details>
 

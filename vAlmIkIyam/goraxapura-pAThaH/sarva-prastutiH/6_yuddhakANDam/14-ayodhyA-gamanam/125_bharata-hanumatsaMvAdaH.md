@@ -1,6 +1,8 @@
 +++
 title = "१२५ भरत-हनुमत्संवादः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ having communicated the agreeable news to him.
 
 125. हनुमान् जी का निषादराज गुह तथा भरतजीको श्रीरामके आगमनकी सूचना देना और प्रसन्न हुए भरतका उन्हें उपहार देनेकी घोषणा करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां तु समालोक्य चिन्तयामास राघवः ।  
 प्रियकामः प्रियं रामस्ततस्त्वरितविक्रमः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ kindly act and who was quick in exhibiting prowess, contemplated thereupon to do
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयित्वा ततो दृष्टिं वानरेषु न्यपातयत् ।  
 उवाच धीमांस्तेजस्वी हनूमन्तं प्लवङ्गमम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ on the monkeys and spoke to Hanuma, the monkey (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां त्वरितो गत्वा शीघ्रं प्लवगसत्तम ।  
 जानीहि कच्चित् कुशली जनो नृपतिमन्दिरे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ the people there, are safe in the royal palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृङ्गवेरपुरं प्राप्य गुहं गहनगोचरम् ।  
 निषादाधिपतिं ब्रूहि कुशलं वचनान्मम ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ the king of Nishadas, a wild tribe living in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु मां कुशलिनमरोगं विगतज्वरम् ।  
 भविष्यति गुहः प्रीतः स ममात्मसमः सखा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ trouble. He is my friend, as well as my own self."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यायाश्च ते मार्गं प्रवृत्तिं भरतस्य च ।  
 निवेदयिष्यति प्रीतो निषादाधिपतिर्गुहः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +306,15 @@ Ayodhya and the news about Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु त्वया वाच्यः कुशलं वचनान्मम ।  
 सिद्धार्थं शंस मां तस्मै सभार्यं सहलक्ष्मणम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,6 +349,7 @@ of me as having returned, accomplished of our object, with my consort and Lakshm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -338,6 +362,8 @@ of me as having returned, accomplished of our object, with my consort and Lakshm
 वरदानं महेन्द्रेण ब्रह्मणा वरुणेन च ।  
 महादेवप्रसादाच्च पित्रा मम समागमम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,6 +465,7 @@ Sugreeva and the killing of Vali in combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -447,6 +474,8 @@ Sugreeva and the killing of Vali in combat."
 जित्वा शत्रुगणान् रामः प्राप्य चानुत्तमं यशः ।  
 उपायाति समृद्धार्थः सह मित्रैर्महाबलैः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +528,15 @@ Vibhishana and Sugreeva the lord of monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा यमाकारं भजते भरतस्ततः ।  
 स च ते वेदितव्यः स्यात् सर्वं यच्चापि मां प्रति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +571,15 @@ after hearing all this and also all that he intends to do in relation to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञेयाः सर्वे च वृत्तान्ता भरतस्येङ्गितानि च ।  
 तत्त्वेन मुखवर्णेन दृष्ट्या व्याभाषितेन च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +620,15 @@ ascertained through the colour of his face, glances and the speech."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वकामसमृद्धं हि हस्त्यश्वरथसङ्कुलम् ।  
 पितृपैतामहं राज्यं कस्य नावर्तयेन्मनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,12 +667,15 @@ father?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्गत्या भरतः श्रीमान् राज्येनार्थी स्वयं भवेत् ।  
 प्रशास्तु वसुधां सर्वामखिलां रघुनन्दनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,12 +713,15 @@ longing for it himself, let Bharata rule the entire kingdom in one piece."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिं च विज्ञाय व्यवसायं च वानर ।  
 यावन्न दूरं याताः स्मः क्षिप्रमागन्तुमर्हसि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,12 +758,15 @@ before we are not gone for a long distance towards Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिष्टो हनूमान् मारुतात्मजः ।  
 मानुषं धारयन् रूपमयोध्यां त्वरितो ययौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +800,15 @@ swiftly left for Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोत्पपात वेगेन हनूमान् मारुतात्मजः ।  
 गरुत्मानिव वेगेन जिघृक्षन्नुरगोत्तमम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -798,6 +848,7 @@ eagle would fly with speed, while seeking to catch a large snake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -806,6 +857,8 @@ eagle would fly with speed, while seeking to catch a large snake.
 शृङ्गवेरपुरं प्राप्य गुहमासाद्य वीर्यवान् ।  
 स वाचा शुभया हृष्टो हनूमानिदमब्रवीत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -858,6 +911,7 @@ chief of Nishadas), that valiant Hanuma spoke the following words in a charming 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -866,6 +920,8 @@ chief of Nishadas), that valiant Hanuma spoke the following words in a charming 
 पञ्चमीमद्य रजनीमुषित्वा वचनान्मुनेः ।  
 भरद्वाजाभ्यनुज्ञातं द्रक्ष्यस्यत्रैव राघवम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,12 +981,15 @@ true prowess, has for his part enquired of your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजाः सम्प्रहृष्टतनूरुहः ।  
 उत्पपात महावेगाद् वेगवानविचारयन् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,12 +1029,15 @@ splendor, not thinking of his fatigue, sprang up with a great speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपश्यद् रामतीर्थं च नदीं वालुकिनीं तथा ।  
 वरूथीं गोमतीं चैव भीमं शालवनं तथा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,6 +1082,7 @@ the formidable forest of Sala trees, many thousands of people and numerous commu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1028,6 +1091,8 @@ the formidable forest of Sala trees, many thousands of people and numerous commu
 आससाद द्रुमान् फुल्लान् नन्दिग्रामसमीपगान् ।  
 सुराधिपस्योपवने यथा चैत्ररथे द्रुमान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1083,6 +1148,7 @@ they were.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1095,6 +1161,8 @@ they were.
 नियतं भावितात्मानं ब्रह्मर्षिसमतेजसम् ।  
 पादुके ते पुरस्कृत्य प्रशासन्तं वसुन्धराम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,6 +1194,7 @@ _________________
 
 अवुगळ बळियल्लि वस्त्राभूणगळिन्द अलङ्कृतवाद अनेक स्त्रीयरु तम्म मक्कळु-मॊम्मक्कळॊन्दिगॆ सञ्चरिसुत्ता हूवुगळन्नु हॆक्कुत्तिद्दरु. अयोध्यॆयिन्द ऒन्दु गावुद दूरदल्लि अवनु आश्रमवासी भरतनन्नु नोडिदनु. अवनु नारुमुडियन्नुट्टु कृष्णमृग चर्मवन्नु धरिसिद्दु, दुःखि हागू दुर्बलवागि काणुत्तिद्दनु. अवन तलॆयल्लि जटॆ बॆळॆदित्तु. शरीर मलिनवागित्तु, अण्णन वनवासद दुःखवु अवनन्नु कृशगॊळिसित्तु. फल-मूलगळॆ आहारवागिद्द अवनु इन्द्रियगळन्नु दमनमाडि तपस्सिनल्लि तॊडगिद्दु, धर्माचरण माडुत्तिद्दनु. ऎत्तरवाद जटाजूटदिन्द कण्डु बरुव अवनु वल्कल-मृगचर्मवन्नु हॊद्दु कॊण्डिद्दनु. बहळ नियमदिन्द इद्द अवन अन्तःकरण शुद्धवागित्तु हागू अवनु ब्रह्मर्षियन्तॆ तेजस्वियागि काणुत्तिद्दनु. रघुनाथन चरणपादुकॆगळन्नु मुन्दिरिसिकॊण्डु अवनु पृथिविय शासन माडुत्तिद्दनु.॥29-32॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1133,6 +1202,8 @@ _________________
 उपस्थितममात्यैश्च शुचिभिश्च पुरोहितैः ॥ ३३ ॥  
 बलमुख्यैश्च युक्तैश्च काषायाम्बरधारिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1194,12 +1265,15 @@ by clever troop-commanders, all clad in saffron robes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि ते राजपुत्रं तं चीरकृष्णाजिनाम्बरम् ॥ ३४ ॥  
 परिभोक्तुं व्यवस्यन्ति पौरा वै धर्मवत्सलाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,12 +1313,15 @@ pleasures, ignoring that prince clad in the bark of trees and the skin of a blac
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं धर्ममिव धर्मज्ञं देहबन्धमिवापरम् ॥ ३५ ॥  
 उवाच प्राञ्जलिर्वाक्यं हनूमान् मारुतात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1286,6 +1363,7 @@ body of virtue:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1294,6 +1372,8 @@ body of virtue:
 प्रियमाख्यामि ते देव शोकं त्यज सुदारुणम् ॥ ३७ ॥  
 अस्मिन् मुहूर्ते भ्रात्रा त्वं रामेण सह सङ्गतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,6 +1435,7 @@ wearing the bark of trees and matted locks, has enquired about your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1363,6 +1444,8 @@ wearing the bark of trees and matted locks, has enquired about your welfare."
 लक्ष्मणश्च महातेजा वैदेही च यशस्विनी ।  
 सीता समग्रा रामेण महेन्द्रेण शची यथा ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1417,12 +1500,15 @@ friends, his purpose duly accomplished."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो हनुमता भरतः कैकयीसुतः ।  
 पपात सहसा हृष्टो हर्षान्मोहमुपागमत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,6 +1543,7 @@ at once to the ground as also fainted through joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1465,6 +1552,8 @@ at once to the ground as also fainted through joy.
 अशोकजैः प्रीतिमयैः कपिमालिङ्ग्य सम्भ्रमात् ।  
 सिषेच भरतः श्रीमान् विपुलैरश्रुबिन्दुभिः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1520,12 +1609,15 @@ tidings to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवो वा मानुषो वा त्वमनुक्रोशादिहागतः ।  
 प्रियाख्यानस्य ते सौम्य ददामि ब्रुवतः प्रियम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1542,6 +1634,7 @@ tidings to him.
 
 अय्या! नीनु देवतॆयो, मनुष्यनो? नन्न मेलॆ कृपॆदोरलु इल्लिगॆ आगमिसिरुवॆ. सौम्य! नीनु तिळिसिद ई प्रिय सुद्दिय बदलिगॆ नानु निनगॆ याव प्रियवस्तु नीडलि? (ननगादररो ई प्रिय सुद्दिगॆ समवाद यावुदे बहुमूल्यवस्तु ननगॆ कण्डुबरुवुदिल्ल..॥43॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1550,6 +1643,8 @@ tidings to him.
 हेमवर्णाः सुनासोरूः शशिसौम्याननाः स्त्रियः ।  
 सर्वाभरणसम्पन्नाः सम्पन्नाः कुलजातिभिः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,6 +1697,7 @@ born in a noble family."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1610,6 +1706,8 @@ born in a noble family."
 प्रहर्षितो रामदिदृक्षयाभवत्  
 पुनश्च हर्षादिदमब्रवीद् वचः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1657,5 +1755,6 @@ prince felt overjoyed by a desire to see Rama and spoke the following words agai
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तैदनॆय सर्ग पूर्णवायितु.॥125॥
+</details>
 </details>
 

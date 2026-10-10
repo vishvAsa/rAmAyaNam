@@ -2,6 +2,8 @@
 title = "००५ रावणप्रासादवर्णनम्"
 title_english = "005 Ravana s palace"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -21,6 +23,7 @@ Hanuma also become anxious had not become to able to find Seetha.
 
 5. हनुमान् जी का रावणके अन्तःपुरमें घर-घरमें सीताको ढूँढ़ना और उन्हें न देखकर दुःखी होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ Hanuma also become anxious had not become to able to find Seetha.
 **ददर्श** धीमान् भुवि भानुमन्तं  
 गोष्ठे वृषं **मत्तम् इव भ्रमन्तम्** ॥ १ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,6 +85,7 @@ bull in heat among cows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -88,6 +94,8 @@ bull in heat among cows.
 भूतानि सर्वाणि **विराजयन्तं**  
 **ददर्श** शीतांशुम् **अथाभियान्तम्** ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,6 +132,7 @@ the great ocean to grow and causing all living beings to shine.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,6 +141,8 @@ the great ocean to grow and causing all living beings to shine.
 तथैव तोयेषु च पुष्कर+++(=कमल)+++-स्था  
 **रराज** सा चारु-निशा-कर-स्था ॥ ३ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +185,7 @@ evenings, over the lotuses in the waters, the same splendour shone on the beauti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,6 +194,8 @@ evenings, over the lotuses in the waters, the same splendour shone on the beauti
 वीरो यथा गर्वित-कुञ्जर-स्थश्  
 चन्द्रोऽपि **बभ्राज** तथाम्बरस्थः ॥ ४ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,6 +240,7 @@ warrior on a proud elephant, in the same way the moon shone in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -234,6 +249,8 @@ warrior on a proud elephant, in the same way the moon shone in the sky.
 हस्तीव जाम्बूनद--बद्ध-शृङ्गो  
 **विभाति** चन्द्रः परिपूर्ण-शृङ्गः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,6 +300,7 @@ high hump, like a great white mountain with tall summits, like an elephant with 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,6 +309,8 @@ high hump, like a great white mountain with tall summits, like an elephant with 
 प्रकाश-लक्ष्म्य्-आश्रय-निर्मलाङ्को  
 **रराज** चन्द्रो भगवान् शशाङ्कः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +356,7 @@ with a symbol of hare, shone brilliantly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -344,6 +365,8 @@ with a symbol of hare, shone brilliantly.
 राज्यं समासाद्य यथा नरेन्द्र-  
 स्तथा प्रकाशो विरराज चन्द्रः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +413,7 @@ in the same way the clear moon shone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -398,6 +422,8 @@ in the same way the clear moon shone.
 रामाभिरामेरितचित्तदोषः  
 स्वर्गप्रकाशो भगवान् प्रदोषः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,6 +469,7 @@ lovers is wiped away, became with a heavenly glow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -451,6 +478,8 @@ lovers is wiped away, became with a heavenly glow.
 नक्तञ्चराश्चापि तथा प्रवृत्ता  
 विहर्तुमत्यद्भुतरौद्रवृत्ताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,6 +531,7 @@ started to roam.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -510,6 +540,8 @@ started to roam.
 वीरश्रिया चापि समाकुलानि  
 ददर्श धीमान् स कपिः कुलानि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +587,7 @@ of wealth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,6 +596,8 @@ of wealth.
 मत्तप्रलापानधिविक्षिपन्ति  
 मत्तानि चान्योन्यमधिक्षिपन्ति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,6 +642,7 @@ throwing wild and incoherent words a lot, insulting one another being intoxicate
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -615,6 +651,8 @@ throwing wild and incoherent words a lot, insulting one another being intoxicate
 रूपाणि चित्राणि च विक्षिपन्ति  
 दृढानि चापानि च विक्षिपन्ति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,6 +697,7 @@ were spreading their strange forms sporting their strong bows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -667,6 +706,8 @@ were spreading their strange forms sporting their strong bows.
 सुरूपवक्त्राश्च तथा हसन्त्यः  
 क्रुद्धाः पराश्चापि विनिःश्वसन्त्यः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,6 +759,7 @@ women were sighing in anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,6 +768,8 @@ women were sighing in anger.
 रराज वीरैश्च विनिःश्वसद्भि-  
 र्ह्रदा भुजङ्गैरिव निःश्वसद्भिः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,6 +820,7 @@ serpents in a lake hissing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -784,6 +829,8 @@ serpents in a lake hissing.
 नानाविधानान् रुचिराभिधानान्  
 ददर्श तस्यां पुरि यातुधानान् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,6 +868,7 @@ in that city.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -829,6 +877,8 @@ in that city.
 विद्योतमानान् स च तान् सुरूपान्  
 ददर्श कांश्चिच्च पुनर्विरूपान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,6 +932,7 @@ of those too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -890,6 +941,8 @@ of those too.
 प्रियेषु पानेषु च सक्तभावा  
 ददर्श तारा इव सुस्वभावाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,6 +994,7 @@ like stars with good effect.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -949,6 +1003,8 @@ like stars with good effect.
 ददर्श काश्चित् प्रमदोपगूढा  
 यथा विहङ्गा विहगोपगूढाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,6 +1056,7 @@ great pleasure, those who were hugged by flowers like birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1008,6 +1065,8 @@ great pleasure, those who were hugged by flowers like birds.
 भर्तुः परा धर्मपरा निविष्टा  
 ददर्श धीमान् मदनोपविष्टाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,6 +1110,7 @@ interested in virtuous deeds, and some possessed by the lord of love.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1059,6 +1119,8 @@ interested in virtuous deeds, and some possessed by the lord of love.
 पुनश्च काश्चिच्छशलक्ष्मवर्णाः  
 कान्तप्रहीणा रुचिराङ्गवर्णाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,6 +1172,7 @@ women with beautiful bodies lacking a lover.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1118,6 +1181,8 @@ women with beautiful bodies lacking a lover.
 गृहेषु हृष्टाः परमाभिरामा  
 हरिप्रवीरः स ददर्श रामाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1169,6 +1234,7 @@ their houses filled with happiness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1177,6 +1243,8 @@ their houses filled with happiness.
 विभूषणानां च ददर्श मालाः  
 शतह्रदानामिव चारुमालाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,6 +1294,7 @@ eyebrows and rows of ornaments like beautiful rows of lighting.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1234,6 +1303,8 @@ eyebrows and rows of ornaments like beautiful rows of lighting.
 लतां प्रफुल्लामिव साधुजातां  
 ददर्श तन्वीं मनसाभिजाताम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,6 +1351,7 @@ born from the mind (of creator).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1300,6 +1372,8 @@ born from the mind (of creator).
 बभूव दुःखोपहतश्चिरस्य  
 प्लवङ्गमो मन्द इवाचिरस्य ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1451,5 +1525,6 @@ husband and always the best among women who were the best.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐदनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

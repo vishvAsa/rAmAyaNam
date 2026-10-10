@@ -2,6 +2,8 @@
 title = "०५३ प्रायोपवेशनिश्चयः"
 title_english = "053 Angada proposes fast unto death"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,12 +25,15 @@ unto death.
 
 53. लौटनेकी अवधि बीत जानेपर भी कार्य सिद्ध न होनेके कारण सुग्रीवके कठोर दण्डसे डरनेवाले अङ्गद आदि वानरोंका उपवास करके प्राण त्याग देनेका निश्चय
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते ददृशुर्घोरं सागरं वरुणालयम् ।  
 अपारमभिगर्जन्तं घोरैरूर्मिभिराकुलम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ shoreless otherwhere. [4-53-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयस्य मायाविहितं गिरिदुर्गं विचिन्वताम् ।  
 तेषां मासो व्यतिक्रान्तो यो राज्ञा समयः कृतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,12 +114,15 @@ mountains, impassable areas and within the cavity concocted by the wizardry of d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विन्ध्यस्य तु गिरेः पादे सम्प्रपुष्पितपादपे ।  
 उपविश्य महात्मानश्चिन्तामापेदिरे तदा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ This is the southwest quarter of India as said at: *himavat vindhya shailaabhyaa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पुष्पातिभाराग्राल्ँ लताशतसमावृतान् ।  
 द्रुमान् वासन्तिकान् दृष्ट्वा बभूवुर्भयशङ्किताः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ became incredulous with the fright of failing Sugreeva's timeframe. [4-53-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वसन्तमनुप्राप्तं प्रतिवेद्य परस्परम् ।  
 नष्टसन्देशकालार्था निपेतुर्धरणीतले ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,6 +275,7 @@ they are frightened of Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -266,6 +284,8 @@ they are frightened of Sugreeva.
 स तु सिंहवृषस्कन्धः पीनायतभुजः कपिः ।  
 युवराजो महाप्राज्ञ अङ्गदो वाक्यमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,6 +334,7 @@ sentence in a modest voice. [4-53-6, 7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -322,6 +343,8 @@ sentence in a modest voice. [4-53-6, 7]
 वयमाश्वयुजे मासि कालसङ्ख्याव्यवस्थिताः ।  
 प्रस्थिताः सोऽपि चातीतः किमतः कार्यमुत्तरम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +430,15 @@ out while we were in Black Cavity. Are you aware of it?" Thus Angada started to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवन्तः प्रत्ययं प्राप्ता नीतिमार्गविशारदाः ।  
 हितेष्वभिरता भर्तुर्निसृष्टाः सर्वकर्मसु ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,6 +481,7 @@ all well-disposed in the well-being of your king, and you are the contrivers of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,6 +490,8 @@ all well-disposed in the well-being of your king, and you are the contrivers of 
 इदानीमकृतार्थानां मर्तव्यं नात्र संशयः ।  
 हरिराजस्य सन्देशमकृत्वा कः सुखी भवेत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +552,15 @@ come impelled by that ochreish eyed Sugreeva keeping me as your helmsman. [4-53-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन्नतीते काले तु सुग्रीवेण कृते स्वयम् ।  
 प्रायोपवेशनं युक्तं सर्वेषां च वनौकसाम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +599,15 @@ monkeys to voluntarily undertake fasting unto death. [4-53-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीक्ष्णः प्रकृत्या सुग्रीवः स्वामिभावे व्यवस्थितः ।  
 न क्षमिष्यति नः सर्वानपराधकृतो गतान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,6 +649,7 @@ of us as we will be as good as transgressors if we were to return. [4-53-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -621,6 +657,8 @@ of us as we will be as good as transgressors if we were to return. [4-53-14]
 तस्मात् क्षममिहाद्यैव गन्तुं प्रायोपवेशनम् ॥ १५ ॥  
 त्यक्त्वा पुत्रांश्च दारांश्च धनानि च गृहाणि च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,12 +703,15 @@ it is pertinent to enter upon fasting unto, leaving off our sons, wives, riches 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवं नो हिंसते राजा सर्वान् प्रतिगतानितः ॥ १६ ॥  
 वधेनाप्रतिरूपेण श्रेयान् मृत्युरिहैव नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,12 +751,15 @@ this place is justifiable for all us. [4-53-16b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाहं यौवराज्येन सुग्रीवेणाभिषेचितः ॥ १७ ॥  
 नरेन्द्रेणाभिषिक्तोऽस्मि रामेणाक्लिष्टकर्मणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +799,15 @@ I am.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पूर्वं बद्धवैरो मां राजा दृष्ट्वा व्यतिक्रमम् ॥ १८ ॥  
 घातयिष्यति दण्डेन तीक्ष्णेन कृतनिश्चयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +841,15 @@ me transgressing his directive will decisively wish to liquidate me by a tyranno
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं मे सुहृद्भिर्व्यसनं पश्यद्भिर्जीवितान्तरे ।  
 इहैव प्रायमासिष्ये पुण्ये सागररोधसि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,12 +890,15 @@ c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा कुमारेण युवराजेन भाषितम् ।  
 सर्वे ते वानरश्रेष्ठाः करुणं वाक्यमब्रुवन् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,6 +937,7 @@ spoke these words. [4-53-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -892,6 +946,8 @@ spoke these words. [4-53-20]
 अदृष्टायां च वैदेह्यां दृष्ट्वा चैव समागतान् ।  
 राघवप्रियकामाय घातयिष्यत्यसंशयम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1001,15 @@ our assignment, and with a thinking to satisfy Rama Sugreeva wishes to liquidate
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न क्षमं चापराद्धानां गमनं स्वामिपार्श्वतः ।  
 प्रधानभूताश्च वयं सुग्रीवस्य समागताः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1049,15 @@ who are coordinated and sent here. [4-53-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव सीतामन्वीक्ष्य प्रवृत्तिमुपलभ्य वा ।  
 नो चेद् गच्छाम तं वीरं गमिष्यामो यमक्षयम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,6 +1101,7 @@ among themselves. [4-53-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1047,6 +1110,8 @@ among themselves. [4-53-24]
 अलं विषादेन बिलं प्रविश्य  
 वसाम सर्वे यदि रोचते वः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,6 +1156,7 @@ is your desperation, if you all are interested let us enter that cave again wher
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1099,6 +1165,8 @@ is your desperation, if you all are interested let us enter that cave again wher
 इहास्ति नो नैव भयं पुरन्दरा-  
 न्न राघवाद् वानरराजतोऽपि वा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1136,6 +1204,7 @@ monkeys." So said Lt. Tara to all. [4-53-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1144,6 +1213,8 @@ monkeys." So said Lt. Tara to all. [4-53-26]
 यथा न हन्येम तथा विधान-  
 मसक्तमद्यैव विधीयतां नः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,5 +1266,6 @@ make it happen now only." So said all the monkeys to Angada. [4-53-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
+</details>
 </details>
 

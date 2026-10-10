@@ -2,6 +2,8 @@
 title = "००३ सङ्क्षिप्तरामकथा"
 title_english = "003 Valmiki sees rAma's story"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - Book Of Youthful Majesties**
@@ -21,12 +23,15 @@ The scheming of the composition of epic Ramayana is described here. Whole of the
 
 3. वाल्मीकि मुनिद्वारा रामायणकाव्यमें निबद्ध विषयोंका संक्षेपसे उल्लेख
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा वस्तु समग्रं तद्धर्मार्थसहितं हितम् ।  
 व्यक्तमन्वेषते भूयो यद् वृत्तं तस्य धीमतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,12 +89,15 @@ On hearing the essence of Ramayana from Sage Narada, which is abound with probit
 
 ब्रह्मणः सकाशाद् वरं प्राप्य काव्यारम्भार्थं प्रवृत्तो भगवान् धर्मात्मा वाल्मीकिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्पृश्योदकं सम्यङ्मुनिः स्थित्वा कृताञ्जलिः ।  
 प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,6 +151,7 @@ Comment: Touching/sipping waters *aachamana, pariSechana* , before undertaking
 
 अनेन धर्माधायकं कर्म शुचिना नियमेन कर्तव्यम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -151,6 +160,8 @@ Comment: Touching/sipping waters *aachamana, pariSechana* , before undertaking
 हसितं भाषितं चैव गतिर्यावच्च चेष्टितम् ।  
 तत् सर्वं धर्मवीर्येण यथावत् सम्प्रपश्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +212,15 @@ Of Rama, Lakshmana and Seetha, also of King Dasharatha and his wives, and what b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीतृतीयेन च तथा यत् प्राप्तं चरता वने ।  
 सत्यसन्धेन रामेण तत् सर्वं चान्ववैक्षत ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +270,15 @@ Then, that which bechanced on truth-abiding Rama, while he is trekking in forest
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पश्यति धर्मात्मा तत् सर्वं योगमास्थितः ।  
 पुरा यत् तत्र निर्वृत्तं पाणावामलकं यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +313,15 @@ Then that virtue-souled sage saw what all that has happened earlier, by his yogi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः ।  
 अभिरामस्य रामस्य तत् सर्वं कर्तुमुद्यतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +349,7 @@ Then that virtue-souled sage saw what all that has happened earlier, by his yogi
 
 धर्मेण योगज-धर्मेण ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,6 +358,8 @@ Then that virtue-souled sage saw what all that has happened earlier, by his yogi
 स यथा कथितं पूर्वं नारदेन महात्मना ।  
 रघुवंशस्य चरितं चकार भगवान् मुनिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +459,15 @@ Comment: The pleasures and gains of the humans are *puruSaartha* -s, in its axio
 
 त्रि-वर्ग-फल-युक्तं धीमतः श्री-रघुवरस्य चरितं कृत्स्नं पाणाव् आमलकम् इव दृष्ट्वा, वाल्मीकिना तपो-योग-महिम्ना धर्म-प्रधानं समग्रं काव्यं कृतम् । तत् प्रकारम् आह-
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जन्म रामस्य सुमहद्वीर्यं सर्वानुकूलताम् ।  
 लोकस्य प्रियतां क्षान्तिं सौम्यतां सत्यशीलताम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +502,15 @@ The birth of Rama as an incarnation of Vishnu, his very great valour, his gracef
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाना चित्राः कथाश्चान्या विश्वामित्रसहायने ।  
 जानक्याश्च विवाहं च धनुषश्च विभेदनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,6 +549,7 @@ Narrated are very many other amusing stories, Rama's breaking the great bow; his
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -530,6 +560,8 @@ Narrated are very many other amusing stories, Rama's breaking the great bow; his
 प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम् ।  
 निषादाधिपसंवादं सूतोपावर्तनं तथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,6 +639,7 @@ Comment: Rama is *shriiraama* one who delights in *shrii* , where *shrii*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -662,6 +695,8 @@ Comment: Rama is *shriiraama* one who delights in *shrii* , where *shrii*
 अनागतं च यत् किञ्चिद् रामस्य वसुधातले ।  
 तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,5 +1275,6 @@ Crossing over River Ganga; looking up Sage Bharadwaja; their look up at Chitraku
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु. ॥3॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०२५ ताटकावधप्रेरणा"
 title_english = "025 The legend of deomoness tATaka contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -38,12 +40,15 @@ the society.
 
 इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्याप्रमेयस्य मुनेर्वचनमुत्तमम् ।  
 श्रुत्वा पुरुषशार्दूलः प्रत्युवाच शुभां गिरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,12 +82,15 @@ replied him with estimable words. [1-25-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पवीर्या यदा यक्षी श्रूयते मुनिपुङ्गव ।  
 कथं नागसहस्रस्य धारयत्यबला बलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +125,7 @@ then this yakshii frail by her femineity can exert the strength of a thousand el
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,6 +134,8 @@ then this yakshii frail by her femineity can exert the strength of a thousand el
 विश्वामित्रोऽब्रवीद् वाक्यं शृणु येन बलोत्कटा ।  
 वरदानकृतं वीर्यं धारयत्यबला बलम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,12 +185,15 @@ bestowal of a boon. [1-25-3, 4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमासीन्महायक्षः सुकेतुर्नाम वीर्यवान् ।  
 अनपत्यः शुभाचारः स च तेपे महत्तपः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +227,15 @@ conduct performed a great ascesis. [1-25-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहस्तु सुप्रीतस्तस्य यक्षपतेस्तदा ।  
 कन्यारत्नं ददौ राम ताटकां नाम नामतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +268,15 @@ is renowned by the name of Tataka. [1-25-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ नागसहस्रस्य बलं चास्याः पितामहः ।  
 न त्वेव पुत्रं यक्षाय ददौ चासौ महायशाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ remarkable Brahma did not give a son to that yaksha, anticipating male to be mor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु बालां विवर्धन्तीं रूपयौवनशालिनीम् ।  
 जम्भपुत्राय सुन्दाय ददौ भार्यां यशस्विनीम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,12 +362,15 @@ Jambha's son Sunda as wife. [1-25-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित्त्वथ कालस्य यक्षी पुत्रं व्यजायत ।  
 मारीचं नाम दुर्धर्षं यः शापाद् राक्षसोऽभवत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ by curse became a demon. [1-25-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुन्दे तु निहते राम अगस्त्यमृषिसत्तमम् ।  
 ताटका सहपुत्रेण प्रधर्षयितुमिच्छति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,6 +448,7 @@ that eminent sage along with her son Mareecha. [1-25-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -426,6 +456,8 @@ that eminent sage along with her son Mareecha. [1-25-10]
 आपतन्तीं तु तां दृष्ट्वा अगस्त्यो भगवानृषिः ॥ ११ ॥  
 राक्षसत्वं भजस्वेति मारीचं व्याजहार सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,6 +499,7 @@ firstly cursed Mareecha saying, 'you will attain demon-hood.' [1-25-11, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -474,6 +507,8 @@ firstly cursed Mareecha saying, 'you will attain demon-hood.' [1-25-11, 12a]
 पुरुषादी महायक्षी विकृता विकृतानना ।  
 इदं रूपं विहायाशु दारुणं रूपमस्तु ते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +552,15 @@ face contorted, and shape monstrous.' [1-25-12b, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैषा शापकृतामर्षा ताटका क्रोधमूर्च्छिता ।  
 देशमुत्सादयत्येनमगस्त्याचरितं शुभम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +602,15 @@ province, in which sage Agastya once sauntered. [1-25-14]
 
 यत् तद् दुष्ट-स्त्री-वध-विषयम् इति स्पष्टी-कुर्वन् विश्वामित्रो रामम् आह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एनां राघव दुर्वृत्तां यक्षीं परमदारुणाम् ।  
 गोब्राह्मणहितार्थाय जहि दुष्टपराक्रमाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -603,12 +644,15 @@ eliminate this yakshii for the welfare of Brahmans and cows. [1-25-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्येनां शापसंसृष्टां कश्चिदुत्सहते पुमान् ।  
 निहन्तुं त्रिषु लोकेषु त्वामृते रघुनन्दन ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +689,15 @@ Raghu's legatee, and none in the three worlds can possibly brave her. [1-25-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि ते स्त्रीवधकृते घृणा कार्या नरोत्तम ।  
 चातुर्वर्ण्यहितार्थं हि कर्तव्यं राजसूनुना ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,12 +737,15 @@ a prince has to effectuate it intending the welfare of four categories of societ
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृशंसमनृशंसं वा प्रजारक्षणकारणात् ।  
 पातकं वा सदोषं वा कर्तव्यं रक्षता सदा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,12 +779,15 @@ it is ruthless or humane, sinful or vilifying. [1-25-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यभारनियुक्तानामेष धर्मः सनातनः ।  
 अधर्म्यां जहि काकुत्स्थ धर्मो ह्यस्यां न विद्यते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,12 +827,15 @@ the legatee of Kakutstha, eliminate this infamy, as goodness is inevident in her
 
 इति दुष्ट-स्त्री-वधे दोषो नास्ति इति शास्त्रेण न्यायेन चोक्त्वा स्वोक्तार्थे महतां संमतिम् अप्य् आह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि पुरा शक्रो विरोचनसुतां नृप ।  
 पृथिवीं हन्तुमिच्छन्तीं मन्थरामभ्यसूदयत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +869,15 @@ daughter of Virochana, when she wished to annihilate earth, haven't we. [1-25-20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णुना च पुरा राम भृगुपत्नी पतिव्रता ।  
 अनिन्द्रं लोकमिच्छन्ती काव्यमाता निषूदिता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -858,6 +917,7 @@ when she wished the world to become one without a governing factor, namely Indra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -865,6 +925,8 @@ when she wished the world to become one without a governing factor, namely Indra
 अधर्मसहिता नार्यो हताः पुरुषसत्तमैः ।  
 तस्मादेनां घृणां त्यक्त्वा जहि मच्छासनान्नृप ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,5 +1003,6 @@ regarding Tataka's elimination. [1-25-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तैदनॆय सर्ग पूर्णवायितु. ॥25॥
+</details>
 </details>
 

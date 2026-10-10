@@ -2,6 +2,8 @@
 title = "०६८ राम-जटायुसंवादः"
 title_english = "068 Jataayu infoms about Ravana and dies"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ fire, like his own relative and performs other rites, and then proceeds for sear
 
 68. जटायुका प्राण-त्याग और श्रीरामद्वारा उनका दाह-संस्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः प्रेक्ष्य तु तं गृध्रं भुवि रौद्रेण पातितम् ।  
 सौमित्रिं मित्रसम्पन्नमिदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ is an asset for good companionability. [3-68-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममायं नूनमर्थेषु यतमानो विहङ्गमः ।  
 राक्षसेन हतः सङ्ख्ये प्राणांस्त्यजति मत्कृते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ lives owing to me, definitely... [3-68-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिखिन्नः शरीरेऽस्मिन् प्राणो लक्ष्मण विद्यते ।  
 तथा स्वरविहीनोऽयं विक्लवं समुदीक्षते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ highly anguished with a dulled voice..." Thus on saying to Lakshmana, Rama then 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायो यदि शक्नोषि वाक्यं व्याहरितुं पुनः ।  
 सीतामाख्याहि भद्रं ते वधमाख्याहि चात्मनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ you, and recount how you are murdered, too... [3-68-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किन्निमित्तो जहारार्यां रावणस्तस्य किं मया ।  
 अपराधं तु यं दृष्ट्वा रावणेन हृता प्रिया ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ in his respect, keeping which in view that Ravana stole my ladylove... [3-68-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं तच्चन्द्रसङ्काशं मुखमासीन्मनोहरम् ।  
 सीतया कानि चोक्तानि तस्मिन् काले द्विजोत्तम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ even what are the words she uttered when being abducted... [3-68-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथंवीर्यः कथंरूपः किङ्कर्मा स च राक्षसः ।  
 क्व चास्य भवनं तात ब्रूहि मे परिपृच्छतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ stronghold? Oh, sire, tell me while I ask you inquisitively..." Rama urged Jataa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुद्वीक्ष्य स धर्मात्मा विलपन्तमनाथवत् ।  
 वाचा विक्लवया राममिदं वचनमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +417,15 @@ this sentence to Rama who is wailing like an orphan. [3-68-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हृता राक्षसेन्द्रेण रावणेन दुरात्मना ।  
 मायामास्थाय विपुलां वातदुर्दिनसङ्कुलाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ in the dark of the day...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिक्लान्तस्य मे तात पक्षौ छित्त्वा निशाचरः ।  
 सीतामादाय वैदेहीं प्रयातो दक्षिणामुखः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +521,15 @@ of Videha, Seetha, along with him... [3-68-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपरुध्यन्ति मे प्राणा दृष्टिर्भ्रमति राघव ।  
 पश्यामि वृक्षान् सौवर्णानुशीरकृतमूर्धजान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,6 +575,7 @@ instead of leaves, is an omen of death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -549,6 +585,8 @@ instead of leaves, is an omen of death.
 त्वत्प्रियां जानकीं हृत्वा रावणो राक्षसेश्वरः ।  
 झषवद् बडिशं गृह्य क्षिप्रमेव विनश्यति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +672,15 @@ an astrological treatise called *raavaNa samhita*, did not care about it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च त्वया व्यथा कार्या जनकस्य सुतां प्रति ।  
 वैदेह्या रंस्यसे क्षिप्रं हत्वा तं रणमूर्धनि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +715,15 @@ in no time, on killing that Ravana in the vanguard of a war..." Thus saying Jata
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असम्मूढस्य गृध्रस्य रामं प्रत्यनुभाषतः ।  
 आस्यात् सुस्राव रुधिरं म्रियमाणस्य सामिषम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,12 +763,15 @@ of flesh as death verged on him, even then he struggled to say. [3-68-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रो विश्रवसः साक्षाद् भ्राता वैश्रवणस्य च ।  
 इत्युक्त्वा दुर्लभान् प्राणान् मुमोच पतगेश्वरः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,12 +826,15 @@ Tiirtha. So, the bird called life flew away for bird Jataayu...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रूहि ब्रूहीति रामस्य ब्रुवाणस्य कृताञ्जलेः ।  
 त्यक्त्वा शरीरं गृध्रस्य प्राणा जग्मुर्विहायसम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +875,15 @@ is still speaking to him with folded-palms, "tell... tell more..." [3-68-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निक्षिप्य शिरो भूमौ प्रसार्य चरणौ तथा ।  
 विक्षिप्य च शरीरं स्वं पपात धरणीतले ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +926,15 @@ surface of earth writhing jerkily. [3-68-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं गृध्रं प्रेक्ष्य ताम्राक्षं गतासुमचलोपमम् ।  
 रामः सुबहुभिर्दुःखैर्दीनः सौमित्रिमब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -919,12 +975,15 @@ and whose lives have gone, said this way to Soumitri... [3-68-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहूनि रक्षसां वासे वर्षाणि वसता सुखम् ।  
 अनेन दण्डकारण्ये विशीर्णमिह पक्षिणा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -964,12 +1023,15 @@ wilted to death, because of me... [3-68-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेकवार्षिको यस्तु चिरकालसमुत्थितः ।  
 सोऽयमद्य हतः शेते कालो हि दुरतिक्रमः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,12 +1073,15 @@ and prostrating before the Time, because of me... alas... it is indeed impossibl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण गृध्रोऽयमुपकारी हतश्च मे ।  
 सीतामभ्यवपन्नो हि रावणेन बलीयसा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1121,15 @@ brute-forced Ravana, only because of me, you see... [3-68-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृध्रराज्यं परित्यज्य पितृपैतामहं महत् ।  
 मम हेतोरयं प्राणान् मुमोच पतगेश्वरः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1100,12 +1168,15 @@ now abandoned his lives too, only for my sake... [3-68-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वत्र खलु दृश्यन्ते साधवो धर्मचारिणः ।  
 शूराः शरण्याः सौमित्रे तिर्यग्योनिगतेष्वपि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,12 +1216,15 @@ oh, Soumitri, even though their births are avian or bestial... [3-68-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताहरणजं दुःखं न मे सौम्य तथागतम् ।  
 यथा विनाशो गृध्रस्य मत्कृते च परन्तप ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1259,15 @@ when compared with the anguish caused by the perish of this eagle, that too, bec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथः श्रीमान् यथा मम महायशाः ।  
 पूजनीयश्च मान्यश्च तथायं पतगेश्वरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1230,12 +1307,15 @@ this lord of birds is also a venerable and honourable one to me... [3-68-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रे हर काष्ठानि निर्मथिष्यामि पावकम् ।  
 गृध्रराजं दिधक्ष्यामि मत्कृते निधनं गतम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,12 +1359,15 @@ a huge pyre.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाथं पतगलोकस्य चितिमारोपयाम्यहम् ।  
 इमं धक्ष्यामि सौमित्रे हतं रौद्रेण रक्षसा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1326,6 +1409,7 @@ by a feral demon..." Thus saying to Lakshmana, Rama said this to dead eagle Jata
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1334,6 +1418,8 @@ by a feral demon..." Thus saying to Lakshmana, Rama said this to dead eagle Jata
 मया त्वं समनुज्ञातो गच्छ लोकाननुत्तमान् ।  
 गृध्रराज महासत्त्व संस्कृतश्च मया व्रज ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,12 +1543,15 @@ antaHkaraNam hi arcet puujayet - ataH puujaarha eva asau |*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा चितां दीप्तामारोप्य पतगेश्वरम् ।  
 ददाह रामो धर्मात्मा स्वबन्धुमिव दुःखितः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,6 +1592,7 @@ incinerated that eagle in a flaring fire of pyre, as he would do in respect of h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1511,6 +1601,8 @@ incinerated that eagle in a flaring fire of pyre, as he would do in respect of h
 रोहिमांसानि चोद‍्धृत्य पेशीकृत्वा महायशाः ।  
 शकुनाय ददौ रामो रम्ये हरितशाद्वले ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1579,12 +1671,15 @@ soul of that bird. [3-68-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तत् प्रेतस्य मर्त्यस्य कथयन्ति द्विजातयः ।  
 तत् स्वर्गगमनं पित्र्यं तस्य रामो जजाप ह ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1644,12 +1739,15 @@ course of the realm of Vishnu...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गोदावरीं गत्वा नदीं नरवरात्मजौ ।  
 उदकं चक्रतुस्तस्मै गृध्रराजाय तावुभौ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1689,12 +1787,15 @@ waters for that king of eagles, Jataayu. [3-68-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शास्त्रदृष्टेन विधिना जलं गृध्राय राघवौ ।  
 स्नात्वा तौ गृध्रराजाय उदकं चक्रतुस्तदा ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1737,6 +1838,7 @@ to the king of eagles. [3-68-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1745,6 +1847,8 @@ to the king of eagles. [3-68-36]
 महर्षिकल्पेन च संस्कृतस्तदा  
 जगाम पुण्यां गतिमात्मनः शुभाम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1791,6 +1895,7 @@ as and when consecrated by sublime sage like Rama. [3-68-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1799,6 +1904,8 @@ as and when consecrated by sublime sage like Rama. [3-68-37]
 प्रवेश्य सीताधिगमे ततो मनो  
 वनं सुरेन्द्राविव विष्णुवासवौ ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1856,5 +1963,6 @@ namely Vishnu and Indra, went to southerly woods when their mind is set to searc
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥68॥
+</details>
 </details>
 

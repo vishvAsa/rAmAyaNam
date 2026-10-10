@@ -2,6 +2,8 @@
 title = "०२८ अस्त्रसंहारोपदेशः"
 title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -24,12 +26,15 @@ Rama requests sage Vishvamitra for endowing annulment missiles, besides
 
 28. विश्वामित्रका श्रीरामको अस्त्रोंकी संहारविधि बताना तथा उन्हें अन्यान्य अस्त्रोंका उपदेश करना, श्रीरामका एक आश्रम एवं यज्ञस्थानके विषयमें मुनिसे प्रश्न
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य ततोऽस्त्राणि प्रहृष्टवदनः शुचिः ।  
 गच्छन्नेव च काकुत्स्थो विश्वामित्रमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतास्त्रोऽस्मि भगवन् दुराधर्षः सुरैरपि ।  
 अस्त्राणां त्वहमिच्छामि संहारान् मुनिपुङ्गव ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -101,12 +109,15 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवति काकुत्स्थे विश्वामित्रो महातपाः ।  
 संहारान् व्याजहाराथ धृतिमान् सुव्रतः शुचिः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,6 +154,7 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,6 +174,8 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 कृशाश्वतनयान् राम भास्वरान् कामरूपिणः ।  
 प्रतीच्छ मम भद्रं ते पात्रभूतोऽसि राघव ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +274,15 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाढमित्येव काकुत्स्थः प्रहृष्टेनान्तरात्मना ।  
 दिव्यभास्वरदेहाश्च मूर्तिमन्तः सुखप्रदाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +294,15 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 
 तब ‘बहुत अच्छा’ कहकर श्रीरामचन्द्रजीने प्रसन्न मनसे उन अस्त्रोंको ग्रहण किया । उन मूर्तिमान् अस्त्रोंके शरीर दिव्य तेजसे उद्भासित हो रहे थे । वे अस्त्र जगत् को सुख देनेवाले थे ॥ ११ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिदङ्गारसदृशाः केचिद् धूमोपमास्तथा ।  
 चन्द्रार्कसदृशाः केचित् प्रह्वाञ्जलिपुटास्तथा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 
 उनमेंसे कितने ही अंगारोंके समान तेजस्वी थे । कितने ही धूमके समान काले प्रतीत होते थे तथा कुछ अस्त्र सूर्य और चन्द्रमाके समान प्रकाशमान थे । वे सब-के-सब हाथ जोड़कर श्रीरामके समक्ष खड़े हुए ॥ १२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं प्राञ्जलयो भूत्वाब्रुवन् मधुरभाषिणः ।  
 इमे स्म नरशार्दूल शाधि किं करवाम ते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गम्यतामिति तानाह यथेष्टं रघुनन्दनः ।  
 मानसाः कार्यकालेषु साहाय्यं मे करिष्यथ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,12 +405,15 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ ते राममामन्त्र्य कृत्वा चापि प्रदक्षिणम् ।  
 एवमस्त्विति काकुत्स्थमुक्त्वा जग्मुर्यथागतम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,6 +444,7 @@ Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -423,6 +453,8 @@ Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
 किमेतन्मेघसङ्काशं पर्वतस्याविदूरतः ।  
 वृक्षखण्डमितो भाति परं कौतूहलं हि मे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,12 +487,15 @@ After learning the nullifying missiles and then while proceeding on
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनीयं मृगाकीर्णं मनोहरमतीव च ।  
 नानाप्रकारैः शकुनैर्वल्गुभाषैरलङ्कृतम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +532,15 @@ After learning the nullifying missiles and then while proceeding on
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःसृताःस्मो मुनिश्रेष्ठ कान्ताराद् रोमहर्षणात् ।  
 अनया त्ववगच्छामि देशस्य सुखवत्तया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,6 +581,7 @@ After learning the nullifying missiles and then while proceeding on
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -553,6 +592,8 @@ After learning the nullifying missiles and then while proceeding on
 रक्षितव्या क्रिया ब्रह्मन् मया वध्याश्च राक्षसाः ।  
 एतत् सर्वं मुनिश्रेष्ठ श्रोतुमिच्छाम्यहं प्रभो ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,5 +653,6 @@ After learning the nullifying missiles and then while proceeding on
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टाविंशः सर्गः ॥ २८ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ ॥ २८ ॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३७ किष्किन्धे वानरसेनामेलनम्"
 title_english = "037 Monkey chiefs go round the earth"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -25,12 +27,15 @@ the other monkeys that are summoned.
 
 37. सुग्रीवका हनुमान् जी को वानरसेनाके संग्रहके लिये दोबारा दूत भेजनेकी आज्ञा देना, उन दूतोंसे राजाकी आज्ञा सुनकर समस्त वानरोंका किष्किन्धाके लिये प्रस्थान और दूतोंका लौटकर सुग्रीवको भेंट देनेके साथ ही वानरोंके आगमनका समाचार सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सुग्रीवो लक्ष्मणेन महात्मना ।  
 हनूमन्तं स्थितं पार्श्वे वचनं चेदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,6 +75,7 @@ word to Hanuma who is available at his side. [4-37-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -90,6 +96,8 @@ word to Hanuma who is available at his side. [4-37-1]
 तांस्तांस्त्वमानय क्षिप्रं पृथिव्यां सर्ववानरान् ।  
 सामदानादिभिः कल्पैर्वानरैर्वेगवत्तरैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -224,12 +232,15 @@ for us he takes rest in his palace for the night and continues his next day's ro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेषिताः प्रथमं ये च मयाऽऽज्ञाता महाजवाः ।  
 त्वरणार्थं तु भूयस्त्वं सम्प्रेषय हरीश्वरान् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +281,15 @@ you hasten some more monkey chiefs for the purpose of hastening them. [4-37-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये प्रसक्ताश्च कामेषु दीर्घसूत्राश्च वानराः ।  
 इहानयस्व तान् शीघ्रं सर्वानेव कपीश्वरान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +332,15 @@ dawdlers, you quickly lead all of those monkey chiefs in here. [4-37-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोभिर्दशभिर्ये च नागच्छन्ति ममाज्ञया ।  
 हन्तव्यास्ते दुरात्मानो राजशासनदूषकाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +380,15 @@ miscreants are eliminable as the abusers of king's decree. [4-37-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतान्यथ सहस्राणि कोट्यश्च मम शासनात् ।  
 प्रयान्तु कपिसिंहानां निदेशे मम ये स्थिताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +431,15 @@ to this place in hundreds, thousands, even in millions, by my command. [4-37-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघपर्वतसङ्काशाश्छादयन्त इवाम्बरम् ।  
 घोररूपाः कपिश्रेष्ठा यान्तु मच्छासनादितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +480,15 @@ sky. [4-37-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गतिज्ञा गतिं गत्वा पृथिव्यां सर्ववानराः ।  
 आनयन्तु हरीन् सर्वांस्त्वरिताः शासनान्मम ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -503,12 +529,15 @@ command." Sugreeva ordered Hanuma that way. [4-37-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वानरराजस्य श्रुत्वा वायुसुतो वचः ।  
 दिक्षु सर्वासु विक्रान्तान् प्रेषयामास वानरान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +574,15 @@ has started to dispatch valorous monkeys in all directions. [4-37-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते पदं विष्णुविक्रान्तं पतत्त्रिज्योतिरध्वगाः ।  
 प्रयाताः प्रहिता राज्ञा हरयस्तु क्षणेन वै ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,12 +632,15 @@ Thus it is said that the monkeys skyrocketed heavenward, i.e., to skies, but not
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते समुद्रेषु गिरिषु वनेषु च सरस्सु च ।  
 वानरा वानरान् सर्वान् रामहेतोरचोदयन् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +684,15 @@ and motivated all of the monkeys available there towards the cause of Rama. [4-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्युकालोपमस्याज्ञां राजराजस्य वानराः ।  
 सुग्रीवस्याययुः श्रुत्वा सुग्रीवभयशङ्किताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +734,15 @@ haunting them. [4-37-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तेऽञ्जनसङ्काशा गिरेस्तस्मान्महाबलाः ।  
 तिस्रः कोट्यः प्लवङ्गानां निर्ययुर्यत्र राघवः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +784,15 @@ camping, i.e., Mt. Prasravana. [4-37-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्तं गच्छति यत्रार्कस्तस्मिन् गिरिवरे रताः ।  
 सन्तप्तहेमवर्णाभास्तस्मात् कोट्यो दश च्युताः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +834,15 @@ similar to the refined gold, for dusk has a golden hue, have jumped in. [4-37-21
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासशिखरेभ्यश्च सिंहकेसरवर्चसाम् ।  
 ततः कोटिसहस्राणि वानराणां समागमन् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,12 +882,15 @@ hundred billion, from the pinnacles of Mt. Kailash. [4-37-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फलमूलेन जीवन्तो हिमवन्तमुपाश्रिताः ।  
 तेषां कोटिसहस्राणां सहस्रं समवर्तत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,12 +933,15 @@ in a thousand of thousand crores, say a trillion. [4-37-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गारकसमानानां भीमानां भीमकर्मणाम् ।  
 विन्ध्याद् वानरकोटीनां सहस्राण्यपतन् द्रुतम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +982,15 @@ alighted from Mt. Vindhya. [4-37-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षीरोदवेलानिलयास्तमालवनवासिनः ।  
 नारिकेलाशनाश्चैव तेषां सङ्ख्या न विद्यते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1046,15 @@ adjacent to *v* .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनेभ्यो गह्वरेभ्यश्च सरिद्भ्यश्च महाबलाः ।  
 आगच्छद् वानरी सेना पिबन्तीव दिवाकरम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,12 +1103,15 @@ they are going to gorge the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये तु त्वरयितुं याता वानराः सर्ववानरान् ।  
 ते वीरा हिमवच्छैले ददृशुस्तं महाद्रुमम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,12 +1164,15 @@ occurred to Hanuma' in identifying Sanjivini herb among many trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् गिरिवरे पुण्ये यज्ञो माहेश्वरः पुरा ।  
 सर्वदेवमनस्तोषो बभूव सुमनोरमः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1147,12 +1212,15 @@ Shiva took place, which pleased the hearts of all gods. [4-37-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ननिस्यन्दजातानि मूलानि च फलानि च ।  
 अमृतस्वादुकल्पानि ददृशुस्तत्र वानराः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,12 +1264,15 @@ have originated from the oblational food material spattered in the Vedic-ritual 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदन्नसम्भवं दिव्यं फलमूलं मनोहरम् ।  
 यः कश्चित् सकृदश्नाति मासं भवति तर्पितः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1316,15 @@ month. [4-37-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि मूलानि दिव्यानि फलानि च फलाशनाः ।  
 औषधानि च दिव्यानि जगृहुर्हरिपुङ्गवाः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1364,15 @@ and even the divine medicinal herbs. [4-37-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माच्च यज्ञायतनात् पुष्पाणि सुरभीणि च ।  
 आनिन्युर्वानरा गत्वा सुग्रीवप्रियकारणात् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1338,12 +1415,15 @@ vanara-s fetched highly fragrant flowers in order to please Sugreeva. [4-37-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु सर्वे हरिवराः पृथिव्यां सर्ववानरान् ।  
 सञ्चोदयित्वा त्वरितं यूथानां जग्मुरग्रतः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,12 +1465,15 @@ forgather other monkeys, quickly returned to Kishkindha ahead of the forgathered
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु तेन मुहूर्तेन कपयः शीघ्रचारिणः ।  
 किष्किन्धां त्वरया प्राप्ताः सुग्रीवो यत्र वानरः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1425,12 +1508,15 @@ available along with Lakshmana. [4-37-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गृहीत्वौषधीः सर्वाः फलमूलं च वानराः ।  
 तं प्रतिग्राहयामासुर्वचनं चेदमब्रुवन् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,12 +1560,15 @@ this word to Sugreeva. [4-37-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे परिसृताः शैलाः सरितश्च वनानि च ।  
 पृथिव्यां वानराः सर्वे शासनादुपयान्ति ते ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1520,12 +1609,15 @@ said to Sugreeva. [4-37-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं श्रुत्वा ततो हृष्टः सुग्रीवः प्लवगाधिपः ।  
 प्रतिजग्राह च प्रीतस्तेषां सर्वमुपायनम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1575,5 +1667,6 @@ accepted the gifts brought from Himalayas from all of them. [4-37-37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तेळनॆय सर्ग सम्पूर्णवायितु.॥37॥
+</details>
 </details>
 

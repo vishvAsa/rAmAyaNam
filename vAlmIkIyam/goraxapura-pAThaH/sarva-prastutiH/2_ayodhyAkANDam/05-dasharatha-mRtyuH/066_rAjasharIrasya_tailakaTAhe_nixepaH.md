@@ -2,6 +2,8 @@
 title = "०६६ राजशरीरस्य तैलकटाहे निक्षेपः"
 title_english = "066 Kausalya reproaches Kaikeyi"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,6 +24,7 @@ their abodes, when the night fell in darkness.
 
 66. राजाके लिये कौसल्याका विलाप और कैकेयीकी भर्त्सना, मन्त्रियोंका राजाके शवको तेलसे भरे हुए कड़ाहमें सुलाना, रानियोंका विलाप, पुरीकी श्रीहीनता और पुरवासियोंका शोक
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ their abodes, when the night fell in darkness.
 कौसल्या बाष्पपूर्णाक्षी विविधं शोककर्शिता ।  
 उपगृह्य शिरो राज्ञः कैकेयीं प्रत्यभाषत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,12 +88,15 @@ full of tears and who was stricken with grief of various sorts, spoke to Kausaly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकामा भव कैकेयी भुङ्क्ष्व राज्यमकण्टकम् ।  
 त्यक्त्वा राजानमेकाग्रा नृशंसे दुष्टचारिणि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -132,12 +140,15 @@ desires. Deserting the king, you can enjoy the kingdom undisturbed and without a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विहाय मां गतो रामो भर्ता च स्वर्गतो मम ।  
 विपथे सार्थहीनेव नाहं जीवितुमुत्सहे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +189,15 @@ not wish to live, as one left behind by a caravan in a wrong road."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तारं तु परित्यज्य का स्त्री दैवतमात्मनः ।  
 इच्छेज्जीवितुमन्यत्र कैकेय्यास्त्यक्तधर्मणः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +240,15 @@ Kaikeyi who kicked off righteousness?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न लुब्धो बुध्यते दोषान् किम्पाकमिव भक्षयन् ।  
 कुब्जानिमित्तं कैकेय्या राघवाणां कुलं हतम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +289,15 @@ Due to that hump- backed woman, Kaikeyi has ruined the race of Raghu dynasty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनियोगे नियुक्तेन राज्ञा रामं विवासितम् ।  
 सभार्यं जनकः श्रुत्वा परितप्स्यत्यहं यथा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +338,15 @@ coerced as he was (Kaikeyi) to do an unworthy act, Janaka will profusely lament 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मामनाथां विधवां नाद्य जानाति धार्मिकः ।  
 रामः कमलपत्राक्षो जीवन्नाशमितो गतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +387,15 @@ from here even though living, now does not know me to have because a support -le
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदेहराजस्य सुता तथा चारुतपस्विनी ।  
 दुःखस्यानुचिता दुःखं वने पर्युद्विजिष्यति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +436,15 @@ unworthy of lamentation, will get frightened with grief in the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नदतां भीमघोषाणां निशासु मृगपक्षिणाम् ।  
 निशम्यमाना सन्त्रस्ता राघवं संश्रयिष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,12 +484,15 @@ noises in nights, surely she will cling herself to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धश्चैवाल्पपुत्रश्च वैदेहीमनुचिन्तयन् ।  
 सोऽपि शोकसमाविष्टो नूनं त्यक्ष्यति जीवितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +532,15 @@ whelmed with grief and will surely abandon his life.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहमद्यैव दिष्टान्तं गमिष्यामि पतिव्रता ।  
 इदं शरीरमालिङ्ग्य प्रवेक्ष्यामि हुताशनम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +575,15 @@ enter the fire, duly embracing this body of my husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां ततः सम्परिष्वज्य विलपन्तीं तपस्विनीम् ।  
 व्यपनिन्युः सुदुःखार्तां कौसल्यां व्यावहारिकाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +623,15 @@ was in excess of her grief and was closely embracing her dead husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैलद्रोण्यां तदामात्याः संवेश्य जगतीपतिम् ।  
 राज्ञः सर्वाण्यथादिष्टाश्चक्रुः कर्माण्यनन्तरम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +672,15 @@ acts that were to be done therafter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु सङ्कालनं राज्ञो विना पुत्रेण मन्त्रिणः ।  
 सर्वज्ञाः कर्तुमीषुस्ते ततो रक्षन्ति भूमिपम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +722,15 @@ through).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैलद्रोण्यां शायितं तं सचिवैस्तु नराधिपम् ।  
 हा मृतोऽयमिति ज्ञात्वा स्त्रियस्ताः पर्यदेवयन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +770,15 @@ the gynaacium cried "Alas! He is dead!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहूनुच्छ्रित्य कृपणा नेत्रप्रस्रवणैर्मुखैः ।  
 रुदत्यः शोकसन्तप्ताः कृपणं पर्यदेवयन् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +819,15 @@ their arms, stricken with grief as they were and pitiably lamented as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा महाराज रामेण सततं प्रियवादिना ।  
 विहीनाः सत्यसन्धेन किमर्थं विजहासि नः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +861,15 @@ always keeps up his promise, why have you left us?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या दुष्टभावाया राघवेण विवर्जिताः ।  
 कथं सपत्न्या वत्स्यामः समीपे विधवा वयम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +913,15 @@ Kaikeyi of wretched nature, who killed her husband?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि नाथः स चास्माकं तव च प्रभुरात्मवान् ।  
 वनं रामो गतः श्रीमान् विहाय नृपतिश्रियम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -903,12 +962,15 @@ man, has indeed gone on exile to the forest, leaving this lovely kingdom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया तेन च वीरेण विना व्यसनमोहिताः ।  
 कथं वयं निवत्स्यामः कैकेय्या च विदूषिताः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +1003,15 @@ you and the heroic Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यया च राजा रामश्च लक्ष्मणश्च महाबलः ।  
 सीतया सह सन्त्यक्ताः सा कमन्यं न हास्यति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,12 +1051,15 @@ with Lakshmana great strength and Sita- not abandon?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता बाष्पेण च संवीताः शोकेन विपुलेन च ।  
 व्यचेष्टन्त निरानन्दा राघवस्य वरस्त्रियः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1031,12 +1099,15 @@ row, rolled on the ground, sorrowful as they were."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशा नक्षत्रहीनेव स्त्रीव भर्तृविवर्जिता ।  
 पुरी नाराजतायोध्या हीना राज्ञा महात्मना ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1077,12 +1148,15 @@ a night without moon and as awoman without husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पपर्याकुलजना हाहाभूतकुलाङ्गना ।  
 शून्यचत्वरवेश्मान्ता न बभ्राज यथापुरम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1123,6 +1197,7 @@ as before.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1131,6 +1206,8 @@ as before.
 निवृत्तचारः सहसा गतो रविः  
 प्रवृत्तचारा रजनी ह्युपस्थिता ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,6 +1254,7 @@ darkness having proceeded to spread throughout.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,6 +1263,8 @@ darkness having proceeded to spread throughout.
 इतीव तस्मिन् शयने न्यवेशयन्  
 विचिन्त्य राजानमचिन्त्यदर्शनम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1236,6 +1316,7 @@ place(oil- trough)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1244,6 +1325,8 @@ place(oil- trough)
 पुरी बभासे रहिता महात्मना  
 कण्ठास्रकण्ठाकुलमार्गचत्वरा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,6 +1373,7 @@ night with its multitude of stars disappeared, did not shine with its light havi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1298,6 +1382,8 @@ night with its multitude of stars disappeared, did not shine with its light havi
 तदा नगर्यां नरदेवसङ्क्षये  
 बभूवुरार्ता न च शर्म लेभिरे ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1353,5 +1439,6 @@ Bharata's mother, became disturbed and did not obtain happiness.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तारनॆय सर्ग पूर्णवायितु ॥66॥
+</details>
 </details>
 

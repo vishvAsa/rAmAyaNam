@@ -2,6 +2,8 @@
 title = "०१६ पायसप्रदानम्"
 title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -30,12 +32,15 @@ progeny. The three queens on consuming that dessert conceive their children.
 
 षोडशे सर्गे — "ततो नारायणो देवः" इत्य्-आरभ्य "सुराणां विष्णुर् आत्मवान्" -इत्य्-अन्तेन देवैर् उपाय-प्रतिपादन-पूर्वकं प्रार्थितो विष्णुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नारायणो विष्णुर्नियुक्तः सुरसत्तमैः ।  
 जानन्नपि सुरानेवं श्लक्ष्णं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,12 +86,15 @@ names, called Vishnu *sahasranaama* , each name elucidating his attributes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायः को वधे तस्य राक्षसाधिपतेः सुराः ।  
 यमहं तं समास्थाय निहन्यामृषिकण्टकम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +130,15 @@ I will have to eliminate that thorn in the side of sages?" Thus Vishnu asked the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ताः सुराः सर्वे प्रत्यूचुर्विष्णुमव्ययम् ।  
 मानुषं रूपमास्थाय रावणं जहि संयुगे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ Ravana in a war." [1-16-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि तेपे तपस्तीव्रं दीर्घकालमरिन्दमः ।  
 येन तुष्टोऽभवद् ब्रह्मा लोककृल्लोकपूर्वजः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ thereby the creator of worlds and the first born one Brahma, felt gladsome of hi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्तुष्टः प्रददौ तस्मै राक्षसाय वरं प्रभुः ।  
 नानाविधेभ्यो भूतेभ्यो भयं नान्यत्र मानुषात् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ earlier at the time of bestowing boon. [1-16-5, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवज्ञाताः पुरा तेन वरदाने हि मानवाः ।  
 एवं पितामहात् तस्माद् वरदानेन गर्वितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +297,15 @@ earlier at the time of bestowing boon. [1-16-5, 6a]
 
 हिन्दॆ वर पडॆदाग आ राक्षसनु मनुष्यरन्नु दुर्बलरॆन्दु तिळिदु अवरन्नु अवहेळन माडिद्द. ई प्रकार पितामहरिन्द दॊरॆत वरद कारण आत अतिगर्विष्ठनादनु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सादयति लोकांस्त्रीन् स्त्रियश्चाप्युपकर्षति ।  
 तस्मात् तस्य वधो दृष्टो मानुषेभ्यः परन्तप ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,12 +344,15 @@ is envisaged through humans alone." So said gods to Vishnu. [1-16-6b, 7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येतद् वचनं श्रुत्वा सुराणां विष्णुरात्मवान् ।  
 पितरं रोचयामास तदा दशरथं नृपम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,12 +385,15 @@ as his father in human world. [1-16-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चाप्यपुत्रो नृपतिस्तस्मिन् काले महाद्युतिः ।  
 अयजत् पुत्रयामिष्टिं पुत्रेप्सुररिसूदनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +436,15 @@ putrakaameSTi ritual, desiring progeny as he is sonless. [1-16-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वा निश्चयं विष्णुरामन्त्र्य च पितामहम् ।  
 अन्तर्धानं गतो देवैः पूज्यमानो महर्षिभिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +477,15 @@ being extolled by gods and sages. [1-16-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वै यजमानस्य पावकादतुलप्रभम् ।  
 प्रादुर्भूतं महद् भूतं महावीर्यं महाबलम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +523,15 @@ Divine Being with an unparalleled resplendence, called yajna-puruSa.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णं रक्ताम्बरधरं रक्तास्यं दुन्दुभिस्वनम् ।  
 स्निग्धहर्यक्षतनुजश्मश्रुप्रवरमूर्धजम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -530,12 +568,15 @@ His moustache and hairdo are soft like that of a lion's mane. [1-16-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुभलक्षणसम्पन्नं दिव्याभरणभूषितम् ।  
 शैलशृङ्गसमुत्सेधं दृप्तशार्दूलविक्रमम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,6 +609,7 @@ he is like a mountain peak, and in valiance he is like an imperious tiger. [1-16
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -576,6 +618,8 @@ he is like a mountain peak, and in valiance he is like an imperious tiger. [1-16
 दिव्यपायससम्पूर्णां पात्रीं पत्नीमिव प्रियाम् ।  
 प्रगृह्य विपुलां दोर्भ्यां स्वयं मायामयीमिव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,12 +667,15 @@ with the divine dessert. [1-16-14, 15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समवेक्ष्याब्रवीद् वाक्यमिदं दशरथं नृपम् ।  
 प्राजापत्यं नरं विद्धि मामिहाभ्यागतं नृप ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +709,15 @@ as the being sent by Prajapati." [1-16-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परं तदा राजा प्रत्युवाच कृताञ्जलिः ।  
 भगवन् स्वागतं तेऽस्तु किमहं करवाणि ते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +757,15 @@ There after, king Dasharatha greeted that divine being with palms adjoining and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो पुनरिदं वाक्यं प्राजापत्यो नरोऽब्रवीत् ।  
 राजन्नर्चयता देवानद्य प्राप्तमिदं त्वया ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +799,15 @@ obtained this dessert in golden vessel as you have propitiated gods. [1-16-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तु नृपशार्दूल पायसं देवनिर्मितम् ।  
 प्रजाकरं गृहाण त्वं धन्यमारोग्यवर्धनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +841,15 @@ enriches progeny and health. [1-16-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्याणामनुरूपाणामश्नीतेति प्रयच्छ वै ।  
 तासु त्वं लप्स्यसे पुत्रान् यदर्थं यजसे नृप ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +884,7 @@ this among your eligible wives." So said the divine being to Dasharatha. [1-16-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -833,6 +893,8 @@ this among your eligible wives." So said the divine being to Dasharatha. [1-16-2
 अभिवाद्य च तद्भूतमद्भुतं प्रियदर्शनम् ।  
 मुदा परमया युक्तश्चकाराभिप्रदक्षिणम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,6 +953,7 @@ food. [1-16-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -899,6 +962,8 @@ food. [1-16-21]
 ततस्तदद्भुतप्रख्यं भूतं परमभास्वरम् ।  
 संवर्तयित्वा तत् कर्म तत्रैवान्तरधीयत ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1022,15 @@ obtaining unforeseen wealth. [1-16-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षरश्मिभिरुद्द्योतं तस्यान्तःपुरमाबभौ ।  
 शारदस्याभिरामस्य चन्द्रस्येव नभोऽंशुभिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1067,15 @@ sky brightened with moonbeams. [1-16-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽन्तःपुरं प्रविश्यैव कौसल्यामिदमब्रवीत् ।  
 पायसं प्रतिगृह्णीष्व पुत्रीयं त्विदमात्मनः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,12 +1122,15 @@ the First Queen and Empress Kausalya is being addressed firstly, and given first
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यायै नरपतिः पायसार्धं ददौ तदा ।  
 अर्धादर्धं ददौ चापि सुमित्रायै नराधिपः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,6 +1147,7 @@ the First Queen and Empress Kausalya is being addressed firstly, and given first
 
 हीगॆ हेळि नृपतियु आ पायसद अर्धभागवन्नु महाराणि कौसल्यॆगॆ नीडिदनु. मत्तॆ उळिद अर्ध भागदल्लि अर्धभागवन्नु राणि सुमित्रॆगॆ नीडिदनु.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1081,6 +1156,8 @@ the First Queen and Empress Kausalya is being addressed firstly, and given first
 अनुचिन्त्य सुमित्रायै पुनरेव महामतिः ।  
 एवं तासां ददौ राजा भार्याणां पायसं पृथक् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1170,12 +1247,15 @@ part. Sumitra then consumed her two parts. Later Kaikeyi drinks her dividend.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताश्चैवं पायसं प्राप्य नरेन्द्रस्योत्तमस्त्रियः ।  
 सम्मानं मेनिरे सर्वाः प्रहर्षोदितचेतसः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1218,6 +1298,7 @@ happiness, deemed it as a reward. [1-16-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1226,6 +1307,8 @@ happiness, deemed it as a reward. [1-16-30]
 हुताशनादित्यसमानतेजसो-  
 ऽचिरेण गर्भान् प्रतिपेदिरे तदा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1275,6 +1358,7 @@ of mothers bodies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1283,6 +1367,8 @@ of mothers bodies.
 बभूव हृष्टस्त्रिदिवे यथा हरिः  
 सुरेन्द्रसिद्धर्षिगणाभिपूजितः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,5 +1430,6 @@ namely Indra and others, as well as by the assemblages of great souls, sages. [1
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनारनॆय सर्ग पूर्णवायितु. ॥16॥
+</details>
 </details>
 

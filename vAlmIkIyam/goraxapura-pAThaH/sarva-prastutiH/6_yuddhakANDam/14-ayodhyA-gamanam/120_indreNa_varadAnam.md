@@ -1,6 +1,8 @@
 +++
 title = "१२० इन्द्रेण वरदानम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ monkeys enjoy their well-earned rest.
 
 120. श्रीरामके अनुरोधसे इन्द्रका मरे हुए वानरोंको जीवित करना, देवताओंका प्रस्थान और वानरसेनाका विश्राम
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिप्रयाते काकुत्स्थे महेन्द्रः पाकशासनः ।  
 अब्रवीत् परमप्रीतो राघवं प्राञ्जलिं स्थितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ much pleased and spoke to Rama, who stood there with his oined palms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमोघं दर्शनं राम तवास्माकं नरर्षभ ।  
 प्रीतियुक्ताः स्म तेन त्वं ब्रूहि यन्मनसेप्सितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ tell us whatever is desired by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महेन्द्रेण प्रसन्नेन महात्मना ।  
 सुप्रसन्नमना हृष्टो वचनं प्राह राघवः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +160,15 @@ been pleased, Rama with the most placid mind spoke the following words with rejo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि प्रीतिः समुत्पन्ना मयि ते विबुधेश्वर ।  
 वक्ष्यामि कुरु मे सत्यं वचनं वदतां वर ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,12 +202,15 @@ speak out my words. Make my words real."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम हेतोः पराक्रान्ता ये गता यमसादनम् ।  
 ते सर्वे जीवितं प्राप्य समुत्तिष्ठन्तु वानराः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,12 +244,15 @@ energyfor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्कृते विप्रयुक्ता ये पुत्रैर्दारैश्च वानराः ।  
 तान् प्रीतमनसः सर्वान् द्रष्टुमिच्छामि मानद ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +290,15 @@ removed from their sons and wives, be delighted at heart."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रान्ताश्चापि शूराश्च न मृत्युं गणयन्ति च ।  
 कृतयत्ना विपन्नाश्च जीवयैतान् पुरन्दर ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +339,15 @@ account. They made their strenuous efforts and died. O Indra! Restore their live
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्प्रियेष्वभिरक्ताश्च न मृत्युं गणयन्ति ये ।  
 त्वत्प्रसादात् समेयुस्ते वरमेतमहं वृणे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +382,15 @@ dear ones); *tvatprasaadaat* = by your grace; *aham* = I; *vR^iNe* = seek;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीरुजो निर्व्रणांश्चैव सम्पन्नबलपौरुषान् ।  
 गोलाङ्गूलांस्तथर्क्षांश्च द्रष्टुमिच्छामि मानद ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +428,15 @@ pains, with augmented strength and valour."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकाले चापि पुष्पाणि मूलानि च फलानि च ।  
 नद्यश्च विमलास्तत्र तिष्ठेयुर्यत्र वानराः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +470,15 @@ flowers, roots and fruits even in an off-season."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तस्य राघवस्य महात्मनः ।  
 महेन्द्रः प्रत्युवाचेदं वचनं प्रीतिसंयुतम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +518,15 @@ he was with delight, again spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महानयं वरस्तात यस्त्वयोक्तो रघूत्तम ।  
 द्विर्मया नोक्तपूर्वं च तस्मादेतद् भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +570,15 @@ has, however, been revised by me in the past. Therefore this will come to be."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुत्तिष्ठन्तु ते सर्वे हता ये युधि राक्षसैः ।  
 ऋक्षाश्च सह गोपुच्छैर्निकृत्ताननबाहवः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,12 +614,15 @@ again."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीरुजो निर्व्रणाश्चैव सम्पन्नबलपौरुषाः ।  
 समुत्थास्यन्ति हरयः सुप्ता निद्राक्षये यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -618,12 +662,15 @@ will srise again, as those fallen asleep would do at the end of their sleep."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुहृद्भिर्बान्धवैश्चैव ज्ञातिभिः स्वजनेन च ।  
 सर्व एव समेष्यन्ति संयुक्ताः परया मुदा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,12 +710,15 @@ kinsmen and family members."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकाले पुष्पशबलाः फलवन्तश्च पादपाः ।  
 भविष्यन्ति महेष्वास नद्यश्च सलिलायुताः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +758,15 @@ even in the off-season. Rivers too will remain constantly with water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्रणैः प्रथमं गात्रैरिदानीं निर्व्रणैः समैः ।  
 ततः समुत्थिताः सर्वे सुप्त्वेव हरिसत्तमाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,6 +788,7 @@ _________________
 
 इन्द्रके इस प्रकार कहनेपर वे सब श्रेष्ठ वानर जिनके सब अङ्ग पहले घावोंसे भरे थे, उस समय घावरहित हो गये और सभी सोकर जगे हुएकी भाँति सहसा उठकर खड़े हो गये ॥ १७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -743,6 +797,8 @@ _________________
 अब्रुवन् परमप्रीताः स्तुत्वा रामं सलक्ष्मणम् ।  
 गच्छायोध्यामितो राजन् विसर्जय च वानरान् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +886,15 @@ miracle is this?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैथिलीं सान्त्वयस्वैनामनुरक्तां यशस्विनीम् ।  
 भ्रातरं भरतं पश्य त्वच्छोकाद् व्रतचारिणम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +914,15 @@ _________________
 
 ई मिथिलेशकुमारि यशस्विनि सीतॆयु निम्मल्लि अनुरागविट्टिरुवळु. आकॆयन्नु सान्त्वनपडिसिरि. तम्मनाद भरतनु निम्म शोकदिन्द पीडितनागि व्रतस्थनागिद्दानॆ; आद्दरिन्द अवनन्नु भॆट्टियागिरि.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुघ्नं च महात्मानं मातॄः सर्वाः परन्तप ।  
 अभिषेचय चात्मानं पौरान् गत्वा प्रहर्षय ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +964,15 @@ there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सहस्राक्षो रामं सौमित्रिणा सह ।  
 विमानैः सूर्यसङ्काशैर्ययौ हृष्टः सुरैः सह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1014,15 @@ sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य च काकुत्स्थः सर्वांस्तांस्त्रिदशोत्तमान् ।  
 लक्ष्मणेन सह भ्रात्रा वासमाज्ञापयत् तदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,6 +1063,7 @@ brother, then instructed all the monkeys to take rest in their respective places
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1003,6 +1072,8 @@ brother, then instructed all the monkeys to take rest in their respective places
 श्रिया ज्वलन्ती विरराज सर्वतो  
 निशा प्रणीतेव हि शीतरश्मिना ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,5 +1130,6 @@ like the might, illumined by the moon.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तनॆय सर्ग पूर्णवायितु.॥120॥
+</details>
 </details>
 

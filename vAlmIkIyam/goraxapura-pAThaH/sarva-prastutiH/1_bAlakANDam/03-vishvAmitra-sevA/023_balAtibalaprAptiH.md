@@ -2,6 +2,8 @@
 title = "०२३ बलातिबलप्राप्तिः"
 title_english = "023 Their sojourn at the confluence of the rivers ganga and sarayu"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -26,12 +28,15 @@ entity of Manmatha, the Love-god, at this place.
 
 त्रयोविंशे —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां विश्वामित्रो महामुनिः ।  
 अभ्यभाषत काकुत्स्थौ शयानौ पर्णसंस्तरे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ and Lakshmana, those that are sleeping on a grass bed. [1-23-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।  
 उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,12 +144,15 @@ son [in you.]
 
 अनेन ' पूर्वोत्था' इति स्मृतिसिद्धं पूर्वोत्थानादिकमध्वश्रमेणाकुर्वन्नपि शिष्यः आचार्येण प्रबोध्य नित्यकर्मसु नियोज्य इति सूचितम् ॥   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यर्षेः परमोदारं वचः श्रुत्वा नरोत्तमौ ।  
 स्नात्वा कृतोदकौ वीरौ जेपतुः परमं जपम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +196,15 @@ to be meditated placing her in ones own heart or amid the solar system.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृताह्निकौ महावीर्यौ विश्वामित्रं तपोधनम् ।  
 अभिवाद्यातिसंहृष्टौ गमनायाभितस्थतुः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +260,15 @@ venerating him. [1-23-4]
 
 इति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ प्रयान्तौ महावीर्यौ दिव्यां त्रिपथगां नदीम् ।  
 ददृशाते ततस्तत्र सरय्वाः सङ्गमे शुभे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +310,15 @@ this book, Bala Kanda.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राश्रमपदं पुण्यमृषीणां भावितात्मनाम् ।  
 बहुवर्षसहस्राणि तप्यतां परमं तपः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +358,15 @@ practising supreme ascesis for many thousand years. [1-23-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा परमप्रीतौ राघवौ पुण्यमाश्रमम् ।  
 ऊचतुस्तं महात्मानं विश्वामित्रमिदं वचः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +400,15 @@ to that great-soul Sage Vishvamitra. [1-23-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यायमाश्रमः पुण्यः को न्वस्मिन् वसते पुमान् ।  
 भगवञ्छ्रोतुमिच्छावः परं कौतूहलं हि नौ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -425,12 +451,15 @@ asked. [1-23-8]
 
 ततो राघवौ गङ्गा-सरयू-संगमे ऋष्याश्रमं दृष्ट्वा विश्वामित्रं पप्रच्छतुः । स च —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोस्तद् वचनं श्रुत्वा प्रहस्य मुनिपुङ्गवः ।  
 अब्रवीच्छ्रूयतां राम यस्यायं पूर्व आश्रमः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,12 +499,15 @@ in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कन्दर्पो मूर्तिमानासीत् काम इत्युच्यते बुधैः ।  
 तपस्यन्तमिह स्थाणुं नियमेन समाहितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-
 
 विद्वांसरु कामवॆन्दु हेळुव कन्दर्पनु हिन्दॆ सशरीरियागि विहरिसुत्तिद्दनु. आग भगवान् स्थाणु (शिवनु) इदे आश्रमदल्लि एकाग्रचित्तनागि तपस्सन्नाचरिसुत्तिद्दनु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोद्वाहं तु देवेशं गच्छन्तं समरुद्‍गणम् ।  
 धर्षयामास दुर्मेधा हुङ्कृतश्च महात्मना ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,12 +591,15 @@ performed, assailed Shiva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवध्यातश्च रुद्रेण चक्षुषा रघुनन्दन ।  
 व्यशीर्यन्त शरीरात् स्वात् सर्वगात्राणि दुर्मते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +655,15 @@ editions have this as *dagdhasya tasya raudreNa chakShuShA*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र गात्रं हतं तस्य निर्दग्धस्य महात्मनः ।  
 अशरीरः कृतः कामः क्रोधाद् देवेश्वरेण ह ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ physical form of love, whereby only kaama, the mental desire, is remaining.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनङ्ग इति विख्यातस्तदाप्रभृति राघव ।  
 स चाङ्गविषयः श्रीमान् यत्राङ्गं स मुमोच ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,12 +745,15 @@ given up that is renowned as Anga province. [1-23-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यायमाश्रमः पुण्यस्तस्येमे मुनयः पुरा ।  
 शिष्या धर्मपरा वीर तेषां पापं न विद्यते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +804,15 @@ na vidyate ityarthaH||* Govindaraja.
 
 इत्य्-अनेन महा-पुरुष-द्रोहिणो दुर्बलस्य स्वरूप-नाशो ऽपि भवति महा-पुरुष-द्रोहः सर्वथा न कर्तव्य इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहाद्य रजनीं राम वसेम शुभदर्शन ।  
 पुण्ययोः सरितोर्मध्ये श्वस्तरिष्यामहे वयम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,6 +846,7 @@ and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -803,6 +854,8 @@ and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River
 इह वासः परोऽस्माकं सुखं वत्स्यामहे निशाम् ॥ १७ ॥  
 स्नाताश्च कृतजप्याश्च हुतहव्या नरोत्तम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,12 +900,15 @@ be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां संवदतां तत्र तपोदीर्घेण चक्षुषा ॥ १८ ॥  
 विज्ञाय परमप्रीता मुनयो हर्षमागमन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +925,15 @@ be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 
 इवरु हीगॆ परस्पर मातनाडुत्तिद्दाग आ आश्रमवासिगळाद मुनिगळु तपस्सिनिन्द गळिसिद दूरदृष्टियिन्द इवर आगमनवन्नु तिळिदु मनस्सिनल्लि हर्षितरादरु.॥18½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्घ्यं पाद्यं तथाऽऽतिथ्यं निवेद्य कुशिकात्मजे ॥ १९ ॥  
 रामलक्ष्मणयोः पश्चादकुर्वन्नतिथिक्रियाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +971,15 @@ and feet wash and then offered hospitality firstly to Sage Vishvamitra. [1-23-18
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्कारं समनुप्राप्य कथाभिरभिरञ्जयन् ॥ २० ॥  
 यथार्हमजपन् सन्ध्यामृषयस्ते समाहिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1014,15 @@ guests with myths and legends. [1-23-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र वासिभिरानीता मुनिभिः सुव्रतैः सह ॥ २१ ॥  
 न्यवसन् सुसुखं तत्र कामाश्रमपदे तथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1074,15 @@ have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथाभिरभिरामाभिरभिरामौ नृपात्मजौ ।  
 रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,5 +1132,6 @@ then that virtuous sage Vishvamitra, saint the eminent, delighted the delightful
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तमूरनॆय सर्ग पूर्णवायितु. ॥23॥
+</details>
 </details>
 

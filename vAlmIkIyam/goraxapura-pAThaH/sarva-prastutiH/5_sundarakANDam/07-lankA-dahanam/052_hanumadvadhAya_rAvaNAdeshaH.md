@@ -2,6 +2,8 @@
 title = "०५२ हनुमद्वधाय रावणादेशः"
 title_english = "052 Ravana orders Hanuma to be killed"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -21,12 +23,15 @@ to religious scriptures.
 
 52. विभीषणका दूतके वधको अनुचित बताकर उसे दूसरा कोई दण्ड देनेके लिये कहना तथा रावणका उनके अनुरोधको स्वीकार कर लेना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य वचनं श्रुत्वा वानरस्य महात्मनः ।  
 आज्ञापयद् वधं तस्य रावणः क्रोधमूर्च्छितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ for the killing of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधे तस्य समाज्ञप्ते रावणेन दुरात्मना ।  
 निवेदितवतो दौत्यं नानुमेने विभीषणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ did not agree to the killing of Hanuma, who was entrusted with the functions of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रक्षोऽधिपतिं क्रुद्धं तच्च कार्यमुपस्थितम् ।  
 विदित्वा चिन्तयामास कार्यं कार्यविधौ स्थितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ to be done.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निश्चितार्थस्ततः साम्ना पूज्यं शत्रुजिदग्रजम् ।  
 उवाच हितमत्यर्थं वाक्यं वाक्यविशारदः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,6 +222,7 @@ borther.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -216,6 +231,8 @@ borther.
 वधं न कुर्वन्ति परावरज्ञा  
 दूतस्य सन्तो वसुधाधिपेन्द्राः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,12 +283,15 @@ kings of excellence, knowing the distant and the near, do not cause killing of a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् धर्मविरुद्धं च लोकवृत्तेश्च गर्हितम् ।  
 तव चासदृशं वीर कपेरस्य प्रमापणम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,6 +334,7 @@ it. Hence, it is improper for you also to do it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -322,6 +343,8 @@ it. Hence, it is improper for you also to do it."
 गृह्यन्ते यदि रोषेण त्वादृशोऽपि विचक्षणाः ।  
 ततः शास्त्रविपश्चित्त्वं श्रम एव हि केवलम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +407,15 @@ in royal virtues. You know both the distant and the near in beings. You know the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् प्रसीद शत्रुघ्न राक्षसेन्द्र दुरासद ।  
 युक्तायुक्तं विनिश्चित्य दूतदण्डो विधीयताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +459,15 @@ graceful. After ascertaining about right and wrong, let appropriate punishment b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा रावणो राक्षसेश्वरः ।  
 कोपेन महताऽऽविष्टो वाक्यमुत्तरमब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +482,15 @@ _________________
 
 विभीषणकी बात सुनकर राक्षसोंका स्वामी रावण महान् कोपसे भरकर उन्हें उत्तर देता हुआ बोला— ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पापानां वधे पापं विद्यते शत्रुसूदन ।  
 तस्मादिमं वधिष्यामि वानरं पापकारिणम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,6 +550,7 @@ in the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -526,6 +559,8 @@ in the following words:
 उवाच वाक्यं परमार्थतत्त्वं  
 विभीषणो बुद्धिमतां वरिष्ठः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,6 +603,7 @@ following words, comprising of the highest truth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -576,6 +612,8 @@ following words, comprising of the highest truth.
 दूता न वध्याः समयेषु राजन्  
 सर्वेषु सर्वत्र वदन्ति सन्तः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +663,7 @@ and significance. O king! Sages say that messengers should not be killed at all 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -633,6 +672,8 @@ and significance. O king! Sages say that messengers should not be killed at all 
 न दूतवध्यां प्रवदन्ति सन्तो  
 दूतस्य दृष्टा बहवो हि दण्डाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,6 +720,7 @@ for an envoy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -687,6 +729,8 @@ for an envoy."
 एतान् हि दूते प्रवदन्ति दण्डान्  
 वधस्तु दूतस्य न नः श्रुतोऽस्ति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,6 +780,7 @@ the head and impressing marks on the body. Indeed, we have not heard at any time
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -744,6 +789,8 @@ the head and impressing marks on the body. Indeed, we have not heard at any time
 भवद्विधः कोपवशे हि तिष्ठेत्  
 कोपं न गच्छन्ति हि सत्त्ववन्तः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -793,6 +840,7 @@ and a right judgement on cause and effect, subject to anger? Wise people indeed 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -801,6 +849,8 @@ and a right judgement on cause and effect, subject to anger? Wise people indeed 
 विद्येत कश्चित्तव वीर तुल्य-  
 स्त्वं ह्युत्तमः सर्वसुरासुराणाम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,6 +902,7 @@ the celestials and demons in these matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -860,6 +911,8 @@ the celestials and demons in these matter."
 त्वयाप्रमेयेण सुरेन्द्रसङ्घा  
 जिताश्च युद्धेष्वसकृन्नरेन्द्राः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,6 +955,7 @@ several times"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -910,6 +964,8 @@ several times"
 कुर्वन्ति वीरा मनसाप्यलीकं  
 प्राणैर्विमुक्ता न तु भोः पुरा ते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,12 +1012,15 @@ on those by whom this monkey was sent."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाप्यस्य कपेर्घाते कञ्चित् पश्याम्यहं गुणम् ।  
 तेष्वयं पात्यतां दण्डो यैरयं प्रेषितः कपिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,12 +1060,15 @@ killing him, who is an envoy, who is dependent on others and who talks for the c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधुर्वा यदि वासाधुः परैरेष समर्पितः ।  
 ब्रुवन् परार्थं परवान् न दूतो वधमर्हति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,12 +1109,15 @@ the sky and come here again to this shore of the great ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चास्मिन् हते नान्यं राजन् पश्यामि खेचरम् ।  
 इह यः पुनरागच्छेत् परं पारं महोदधेः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1160,15 @@ you ought to strengthen such effort on celestials including indra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मान्नास्य वधे यत्नः कार्यः परपुरञ्जय ।  
 भवान् सेन्द्रेषु देवेषु यत्नमास्थातुमर्हति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1143,6 +1211,7 @@ those two arrogant princes, who are hindered by a long distance, for war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1151,6 +1220,8 @@ those two arrogant princes, who are hindered by a long distance, for war."
 युद्धाय युद्धप्रिय दुर्विनीता-  
 वुद्योजयेद् वै भवता विरुद्धौ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,6 +1272,7 @@ the arrival of a war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1209,6 +1281,8 @@ the arrival of a war."
 त्वया मनोनन्दन नैर्ऋतानां  
 युद्धाय निर्नाशयितुं न युक्तम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1259,6 +1333,7 @@ and excellent wielders of weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1271,6 +1346,8 @@ and excellent wielders of weapons."
 तौ राजपुत्रावुपगृह्य मूढौ  
 परेषु ते भावयितुं प्रभावम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,6 +1421,7 @@ those two stupid princes, in order to make your power known to your adversaries.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1352,6 +1430,8 @@ those two stupid princes, in order to make your power known to your adversaries.
 जग्राह बुद्ध्या सुरलोकशत्रु-  
 र्महाबलो राक्षसराजमुख्यः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,5 +1465,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

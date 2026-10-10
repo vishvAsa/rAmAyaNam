@@ -2,6 +2,8 @@
 title = "०४४ कौसल्यासान्त्वनम्"
 title_english = "044 Sumitra assuages Kausalya s grief"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -21,12 +23,15 @@ grief.
 
 44. सुमित्राका कौसल्याको आश्वासन देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलपन्तीं तथा तां तु कौसल्यां प्रमदोत्तमाम् ।  
 इदं धर्मे स्थिता धर्म्यं सुमित्रा वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ aforesaid
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवार्ये सद्‍गुणैर्युक्तः स पुत्रः पुरुषोत्तमः ।  
 किं ते विलपितेनैवं कृपणं रुदितेन वा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +121,7 @@ the foremost among men. What is the use in your lamenting in this way or in weep
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ the foremost among men. What is the use in your lamenting in this way or in weep
 शिष्टैराचरिते सम्यक‍्शश्वत् प्रेत्य फलोदये ।  
 रामो धर्मे स्थितः श्रेष्ठो न स शोच्यः कदाचन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,12 +187,15 @@ most excellent man, never deserves to be lamented."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्तते चोत्तमां वृत्तिं लक्ष्मणोऽस्मिन् सदानघः ।  
 दयावान् सर्वभूतेषु लाभस्तस्य महात्मनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -222,12 +236,15 @@ renders the best form of service to Rama. His conduct is beneficial to the high-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरण्यवासे यद् दुःखं जानन्त्येव सुखोचिता ।  
 अनुगच्छति वैदेही धर्मात्मानं तवात्मजम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,12 +284,15 @@ accompanying your virtuous- soled son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कीर्तिभूतां पताकां यो लोके भ्रमयति प्रभुः ।  
 धर्मः सत्यव्रतपरः किं न प्राप्तस्तवात्मजः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +334,15 @@ world?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्तं रामस्य विज्ञाय शौचं माहात्म्यमुत्तमम् ।  
 न गात्रमंशुभिः सूर्यः सन्तापयितुमर्हति ॥८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,12 +383,15 @@ able to torment Rama's body with his rays."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिवः सर्वेषु कालेषु काननेभ्यो विनिःसृतः ।  
 राघवं युक्तशीतोष्णः सेविष्यति सुखोऽनिलः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +431,15 @@ all times , will render service to Rama"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयानमनघं रात्रौ पितेवाभिपरिष्वजन् ।  
 घर्मघ्नः संस्पृशन् शीतश्चन्द्रमा ह्लादयिष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +482,15 @@ like a father, the moon will refresh Rama"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ चास्त्राणि दिव्यानि यस्मै ब्रह्मा महौजसे ।  
 दानवेन्द्रं हतं दृष्ट्वा तिमिध्वजसुतं रणे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +507,15 @@ like a father, the moon will refresh Rama"
 
 श्रीरामनु रणभूमियल्लि तिमिध्वज (शम्बरन) पुत्र दानवेन्द्र सुबाहुवन्नु कॊन्दिरुवुदन्नु नोडि विश्वामित्ररु आ महातेजस्वी वीररामनिगॆ बहळष्टु दिव्यास्त्रगळन्नु करुणिसिद्दरु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शूरः पुरुषव्याघ्रः स्वबाहुबलमाश्रितः ।  
 असन्त्रस्तो ह्यरण्येऽसौ वेश्मनीव निवत्स्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +556,15 @@ forest as if in his own palace"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्येषुपथमासाद्य विनाशं यान्ति शत्रवः ।  
 कथं न पृथिवी तस्य शासने स्थातुमर्हति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +605,15 @@ enemies fall an easy prey?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या श्रीः शौर्यं च रामस्य या च कल्याणसत्त्वता ।  
 निवृत्तारण्यवासः स्वं क्षिप्रं राज्यमवाप्स्यति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,6 +655,7 @@ the forest, he will speedily regain his kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -622,6 +664,8 @@ the forest, he will speedily regain his kingdom."
 दैवतं देवतानां च भूतानां भूतसत्तमः ।  
 तस्य के ह्यगुणा देवि वने वाप्यथवा पुरे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +721,15 @@ the forest or in Ayodhya?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्या सह वैदेह्या श्रिया च पुरुषर्षभः ।  
 क्षिप्रं तिसृभिरेताभिः सह रामोऽभिषेक्ष्यते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,6 +774,7 @@ of fortune another consort of Vishnu)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -735,6 +783,8 @@ of fortune another consort of Vishnu)"
 कुशचीरधरं वीरं गच्छन्तमपराजितम् ।  
 सीतेवानुगता लक्ष्मीस्तस्य किं नाम दुर्लभम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +834,15 @@ difficult for him to obtain?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुर्ग्रहवरो यस्य बाणखड्गास्त्रभृत् स्वयम् ।  
 लक्ष्मणो व्रजति ह्यग्रे तस्य किं नाम दुर्लभम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +877,15 @@ the best among the holders of bow wielding arrows, sword and missiles?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तवनवासं तं द्रष्टासि पुनरागतम् ।  
 जहि शोकं च मोहं च देवि सत्यं ब्रवीमि ते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,12 +920,15 @@ completed the term of his exile in the forest . Abandon grief and infatuation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरसा चरणावेतौ वन्दमानमनिन्दिते ।  
 पुनर्द्रक्ष्यसि कल्याणि पुत्रं चन्द्रमिवोदितम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -910,12 +969,15 @@ like the rising moon, saluting respectfully your feet, by bowing his head."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनः प्रविष्टं दृष्ट्वा तमभिषिक्तं महाश्रियम् ।  
 समुत्स्रक्ष्यसि नेत्राभ्यां शीघ्रमानन्दजं जलम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,12 +1018,15 @@ coroneted, you will be shedding soon tears of joy from your eyes "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा शोको देवि दुःखं वा न रामे दृष्यतेऽशिवम् ।  
 क्षिप्रं द्रक्ष्यसि पुत्रं त्वं ससीतं सहलक्ष्मणम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,12 +1070,15 @@ able to see soon your son along with Sita, accompanied by Lakshmana".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयाऽशेषो जनश्चायं समाश्वास्यो यतोऽनघे ।  
 कमिदानीमिदं देवि करोषि हृदि विक्लवम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,12 +1121,15 @@ are you fostering grief in your heart?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नार्हा त्वं शोचितुं देवि यस्यास्ते राघवः सुतः ।  
 नहि रामात् परो लोके विद्यते सत्पथे स्थितः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,12 +1170,15 @@ right path in the world than Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवादयमानं तं दृष्ट्वा ससुहृदं सुतम् ।  
 मुदाश्रु मोक्ष्यसे क्षिप्रं मेघरेखेव वार्षिकी ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,12 +1219,15 @@ like a line of clouds in a rainy season"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रस्ते वरदः क्षिप्रमयोध्यां पुनरागतः ।  
 कराभ्यां मृदुपीनाभ्यां चरणौ पीडयिष्यति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1190,12 +1267,15 @@ with his gentle but muscular hands "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य नमस्यन्तं शूरं ससुहृदं सुतम् ।  
 मुदास्रैः प्रोक्षसे पुत्रं मेघराजिरिवाचलम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,6 +1319,7 @@ you will sprinkle tears of joy in the same way as a line of clouds pour rain on 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1247,6 +1328,8 @@ you will sprinkle tears of joy in the same way as a line of clouds pour rain on 
 रामस्य तां मातरमेवमुक्त्वा  
 देवी सुमित्रा विरराम रामा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1291,6 +1374,7 @@ charming, thus consoled Rama's mother with various words and finally stopped spe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1299,6 +1383,8 @@ charming, thus consoled Rama's mother with various words and finally stopped spe
 सद्यः शरीरे विननाश शोकः  
 शरद्‍गतो मेघ इवाल्पतोयः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,5 +1441,6 @@ little water in it disappears quickly.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥44॥
+</details>
 </details>
 

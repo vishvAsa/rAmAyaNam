@@ -2,6 +2,8 @@
 title = "०३७ विभीषणेन गुप्तचरप्रेषणम्"
 title_english = "037 Vibhishana sends spies into Lanka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -25,6 +27,7 @@ army.
 
 37. विभीषणका श्रीरामसे रावणद्वारा किये गये लङ्काकी रक्षाके प्रबन्धका वर्णन तथा श्रीरामद्वारा लङ्काके विभिन्न द्वारोंपर आक्रमण करनेके लिये अपने सेनापतियोंकी नियुक्ति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ army.
 गजो गवाक्षः कुमुदो नलोऽथ पनसस्तथा ।  
 अमित्रविषयं प्राप्ताः समवेताः समर्थयन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ army.
 
 शत्रुगळ देशवन्नु तलुपित नरराज श्रीराम, समित्राकुमार लक्ष्मण, वानरराज सुग्रीव, वायुपुत्र हनुमन्त, ऋक्षराज जाम्बवन्त, राक्षस विभीषण, वालीपुत्र अङ्गद, शरभ, बन्धु-बान्धवरॊन्दिगॆ सुषेण, मैन्द, द्विविद, गज, गवाक्ष, कुमुद, नळ, पनस हीगॆ ऎल्लरू सेरि परस्पर विचारविनिमय माडिदनु.॥1-.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं सा लक्ष्यते लङ्का पुरी रावणपालिता ।  
 सासुरोरगगन्धर्वैरमरैरपि दुर्जया ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ demons together, or the uragas (the serpent-demons) and Gandharvas (celestial mu
 
 रावणनु पालिसुव लङ्कॆयु अदो काणुत्तिदॆ. असुर, नाग, गन्धर्वर सहित समस्त देवतॆगळिगू इदन्नु जयिसुवुदु अत्यन्त कठिणवागिदॆ.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यसिद्धिं पुरस्कृत्य मन्त्रयध्वं विनिर्णये ।  
 नित्यं सन्निहितो यत्र रावणो राक्षसाधिपः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ for the success of our expedition."
 
 राक्षसराज रावणनु ई पुरियल्लि सदा वासिसुत्तानॆ. ईग अवनन्नु गॆल्लुव उपायगळन्नु निर्णयिसलु परस्पर विचार माडिरि.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तेषु ब्रुवाणेषु रावणावरजोऽब्रवीत् ।  
 वाक्यमग्राम्यपदवत् पुष्कलार्थं विभीषणः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ following meaningful and polished words:
 
 अवरॆल्लरू हीगॆ हेळिदाग रावणन तम्म विभीषणनु संस्कारयुक्त पद मत्तु अर्थवत्ताद वाणियिन्द हीगॆ हेळिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनलः पनसश्चैव सम्पातिः प्रमतिस्तथा ।  
 गत्वा लङ्कां ममामात्याः पुरीं पुनरिहागताः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ and returned here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूत्वा शकुनयः सर्वे प्रविष्टाश्च रिपोर्बलम् ।  
 विधानं विहितं यच्च तद् दृष्ट्वा समुपस्थिताः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ the measures taken by Ravana closely."
 
 इवरॆल्लरू पक्षिगळ रूपधरिसि शत्रु सैन्यदॊळगॆ होगि, अल्लि माडिद व्यवस्थॆयन्नु कण्णारॆ कण्डु इल्लिगॆ अगमिसिरुवरु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संविधानं यथाहुस्ते रावणस्य दुरात्मनः ।  
 राम तद् ब्रुवतः सर्वं याथातथ्येन मे शृणु ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ made by tha evil-minded Ravana, hear me."
 
 श्रीरामा! दुरात्मा रावणनु माडिद नगर रक्षणॆय व्यवस्थॆयन्नु इवरु वर्णिसिदन्तॆ नानु सरियागि तिळिसुत्तेनॆ, नीवॆल्लरू केळिरि.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वं प्रहस्तः सबलो द्वारमासाद्य तिष्ठति ।  
 दक्षिणं च महावीर्यौ महापार्श्वमहोदरौ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,6 +413,7 @@ Mahodara of mighty prowess are at the southern gate."
 
 सैन्य सहित प्रहस्तनु नगरद पूर्वद्वारदल्लि निन्तिरुवनु. महापराक्रमि महापार्श्व मत्तु महोदररु दक्षिण द्वारवन्नु रक्षिसुत्तिद्दारॆ.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -394,6 +421,8 @@ Mahodara of mighty prowess are at the southern gate."
 पट्टिशासिधनुष्मद्भिः शूलमुद‍्गरपाणिभिः ॥ ११ ॥  
 नानाप्रहरणैः शूरैरावृतो रावणात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,6 +471,7 @@ various kinds."
 
 असङ्ख्य राक्षसरिन्द कूडि कॊण्डु इन्द्रजितनु नगरद पश्चिम द्वारदल्लि निन्तिरुवनु. अवन अनुचर राक्षसरु पट्टिश, खड्ग, धनुर्बाण, शुल, मुद्गर मुन्ताद अस्त्र-शस्त्रगळन्नु धरिसिरुवरु. नाना प्रकारद आयुधगळिन्द सज्जाद शूरवीररु अवनन्नु सुत्तुवरि दिरुव आ रावण कुमारनु पश्चिमद बागिलन्नु कायुत्तिद्दानॆ.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -449,6 +479,8 @@ various kinds."
 युक्तः परमसंविग्नो राक्षसैः सह मन्त्रवित् ।  
 उत्तरं नगरद्वारं रावणः स्वयमास्थितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +523,15 @@ the northern gate, along with several thousands of demons holding lances in thei
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरूपाक्षस्तु महता शूलखड्गधनुष्मता ।  
 बलेन राक्षसैः सार्धं मध्यमं गुल्ममाश्रितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ other demons, occupies the center of the fort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतानेवं विधान् गुल्माल्ँ लङ्कायां समुदीक्ष्य ते ।  
 मामका मन्त्रिणः सर्वे शीघ्रं पुनरिहागताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ this manner and immediately returned here."
 
 ई प्रकार नन्न ऎल्ल मन्त्रिगळु लङ्कॆय बेरॆ बेरॆ स्थानगळल्लि नियुक्तगॊळिसिद सैन्यवन्नु निरीक्षिसि शीघ्रवागि इल्लिगॆ बन्दिरुवरु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजानां दशसाहस्रं रथानामयुतं तथा ।  
 हयानामयुते द्वे च साग्रकोटिश्च रक्षसाम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +676,15 @@ Panasa, all having reached the enemy's territory, assembled to take counsel toge
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रान्ता बलवन्तश्च संयुगेष्वाततायिनः ।  
 इष्टा राक्षसराजस्य नित्यमेते निशाचराः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +722,15 @@ endeavouring to kill someone in battle have ever been their sovereign's favourit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकैकस्यात्र युद्धार्थे राक्षसस्य विशाम्पते ।  
 परीवारः सहस्राणां सहस्रमुपतिष्ठते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +772,7 @@ demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -732,6 +780,8 @@ demon."
 एवमुक्त्वा महाबाहू राक्षसांस्तानदर्शयत् ॥ १९ ॥  
 लङ्कायां सचिवैः सर्वं रामाय प्रत्यवेदयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,12 +824,15 @@ aforesaid news pertaining to Lanka, thus informed by his counsellors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं कमलपत्राक्षमिदमुत्तरमब्रवीत् ॥ २० ॥  
 रावणावरजः श्रीमान् रामप्रियचिकीर्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,6 +875,7 @@ lotus-eyed one, further with the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +884,8 @@ lotus-eyed one, further with the following words:
 पराक्रमेण वीर्येण तेजसा सत्त्वगौरवात् ।  
 सदृशा ह्यत्र दर्पेण रावणस्य दुरात्मनः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,12 +938,15 @@ in pride."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र मन्युर्न कर्तव्यः कोपये त्वां न भीषये ।  
 समर्थो ह्यसि वीर्येण सुराणामपि निग्रहे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +988,15 @@ by your valour."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्भवांश्चतुरङ्गेण बलेन महता वृतम् ।  
 व्यूह्येदं वानरानीकं निर्मथिष्यसि रावणम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,12 +1040,15 @@ this great army of monkeys, composed of four divisions, which surround you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणावरजे वाक्यमेवं ब्रुवति राघवः ।  
 शत्रूणां प्रतिघातार्थमिदं वचनमब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,12 +1088,15 @@ adversaries.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वद्वारं तु लङ्काया नीलो वानरपुङ्गवः ।  
 प्रहस्तं प्रतियोद्धा स्याद् वानरैर्बहुभिर्वृतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,12 +1139,15 @@ by many monkeys, should attack Prahasta."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदो वालिपुत्रस्तु बलेन महता वृतः ।  
 दक्षिणे बाधतां द्वारे महापार्श्वमहोदरौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,12 +1187,15 @@ oppose Mahaparshva and Mahodara."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमान् पश्चिमद्वारं निष्पीड्य पवनात्मजः ।  
 प्रविशत्वप्रमेयात्मा बहुभिः कपिभिर्वृतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,6 +1239,7 @@ multitude of monkeys, enter the City through the western gate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1175,6 +1250,8 @@ multitude of monkeys, enter the City through the western gate."
 उत्तरं नगरद्वारमहं सौमित्रिणा सह ।  
 निपीड्याभिप्रवेक्ष्यामि सबलो यत्र रावणः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1238,12 +1315,15 @@ enter the northern gate where Ravana is stationed along with his army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरेन्द्रश्च बलवानृक्षराजश्च वीर्यवान् ।  
 राक्षसेन्द्रानुजश्चैव गुल्मे भवतु मध्यमे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1284,12 +1364,15 @@ army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैव मानुषं रूपं कार्यं हरिभिराहवे ।  
 एषा भवतु नः सञ्ज्ञा युद्धेऽस्मिन् वानरे बले ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,12 +1413,15 @@ this monkey-shape should serve as a sign of recognition among us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरा एव नश्चिह्नं स्वजनेऽस्मिन् भविष्यति ।  
 वयं तु मानुषेणैव सप्त योत्स्यामहे परान् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1352,12 +1438,15 @@ this monkey-shape should serve as a sign of recognition among us."
 
 ई स्वजन वर्गदल्लि वानररे नम्म चिह्नॆयागिरुवुदु. केवल नावु एळु मन्दिगळे मनुष्यरूपदिन्द इद्दु शत्रुगळॊन्दिगॆ युद्ध माडुवॆवु.॥34॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेव सह भ्रात्रा लक्ष्मणेन महौजसा ।  
 आत्मना पञ्चमश्चायं सखा मम विभीषणः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1399,6 +1488,7 @@ valour, my friend Vibhishana and his four companions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1406,6 +1496,8 @@ valour, my friend Vibhishana and his four companions."
 सुवेलारोहणे बुद्धिं चकार मतिमान् प्रभुः ।  
 रमणीयतरं दृष्ट्वा सुवेलस्य गिरेस्तटम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,6 +1515,7 @@ valour, my friend Vibhishana and his four companions."
 
 तन्न विजयरूपी प्रयोजन सिद्धिगागि विभीषण नल्लि हीगॆ हेळि बुद्धिवन्त भगवान् श्रीरामनु सुवेल पर्वतवन्नु हत्तुव विचारमाडिदनु. सुवेल पर्वतद तप्पलु बहळ रमणीयवागित्तु. अदन्नु नोडि अवनिगॆ तुम्बा सन्तोषवायितु.॥36॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1431,6 +1524,8 @@ valour, my friend Vibhishana and his four companions."
 प्रहृष्टरूपोऽभिजगाम लङ्कां  
 कृत्वा मतिं सोऽरिवधे महात्मा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,5 +1573,6 @@ of a wise leader, decided to stay on Mount Suvela, after observing its charming 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तेळनॆय सर्ग पूर्णवायितु. ॥37॥
+</details>
 </details>
 

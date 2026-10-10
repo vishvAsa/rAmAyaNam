@@ -2,6 +2,8 @@
 title = "००४ लङ्कापुरीप्रवेशः"
 title_english = "004 Hanuma enters the city of Lanka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -22,6 +24,7 @@ enemies' forces and moves towards the royal gynaeceum.
 
 4. हनुमान् जी का लंकापुरी एवं रावणके अन्तःपुरमें प्रवेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ enemies' forces and moves towards the royal gynaeceum.
 अद्वारेण महावीर्यः प्राकारमवपुप्लुवे ।  
 निशि लङ्कां महासत्त्वो विवेश कपिकुञ्जरः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +114,15 @@ the city wall at a place that was not a gate.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविश्य नगरीं लङ्कां कपिराजहितङ्करः ।  
 चक्रेऽथ पादं सव्यं च शत्रूणां स तु मूर्धनि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,6 +139,7 @@ the city wall at a place that was not a gate.
 
 सत्त्वसम्पन्ननाद आ मारुतियु लङ्कापट्टणवन्नु प्रवेशिसुवाग ऎडगालन्नु मुन्दिट्टनु. हागॆये शत्रुगळ तलॆयन्ने ऎडगालिनिन्द मॆट्टिदनो** ऎम्बन्तॆ रात्रियल्लि नगरवन्नु प्रवेशिसिदनु. ॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -138,6 +147,8 @@ the city wall at a place that was not a gate.
 स महापथमास्थाय मुक्तपुष्पविराजितम् ॥ ४ ॥  
 ततस्तु तां पुरीं लङ्कां रम्यामभिययौ कपिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,6 +186,7 @@ Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,6 +194,8 @@ Lanka.
 वज्राङ्कुशनिकाशैश्च वज्रजालविभूषितैः ।  
 गृहमेघैः पुरी रम्या बभासे द्यौरिवाम्बुदैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,6 +211,7 @@ _________________
 
 जैसे आकाश श्वेत बादलोंसे सुशोभित होता है, उसी प्रकार वह रमणीय पुरी अपने श्वेत मेघसदृश गृहोंसे उत्तम शोभा पा रही थी । वे गृह अट्टहासजनित उत्कृष्ट शब्दों तथा वाद्यघोषोंसे मुखरित थे । उनमें वज्रों तथा अंकुशोंके चित्र अङ्कित थे और हीरोंके बने हुए झरोखे उनकी शोभा बढ़ाते थे ॥ ५-६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +219,8 @@ _________________
 सिताभ्रसदृशैश्चित्रैः पद्मस्वस्तिकसंस्थितैः ॥ ७ ॥  
 वर्धमानगृहैश्चापि सर्वतः सुविभूषितैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +288,15 @@ in strength to diamonds and clubs and with windows decorated with diamonds.
 प्राग्द्वाररहितं स्वस्तिकाख्यं पुत्रधनप्रदम् ॥  
 चार शालाओंसे युक्त गृहको, जिसके प्रत्येक दिशामें एक-एक करके चार द्वार हों, ‘सर्वतोभद्र’ कहते हैं । जिसमें तीन ही द्वार हों, पश्चिम दिशाकी ओर द्वार न हो, उसका नाम ‘नन्द्यावर्त’ है । जिसमें दक्षिणके सिवा अन्य तीन दिशाओंमें द्वार हों, उसे ‘वर्धमान्’ गृह कहते हैं । वह धन देनेवाला होता है तथा जिसमें केवल पूर्व दिशाकी ओर द्वार न हो, उस गृहका नाम ‘स्वस्तिक’ है । वह पुत्र और धन देनेवाला होता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां चित्रमाल्याभरणां कपिराजहितङ्करः ॥ ८ ॥  
 राघवार्थे चरन् श्रीमान् ददर्श च ननन्द च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,6 +340,7 @@ Sri Rama. He saw the city and became happy too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,6 +348,8 @@ Sri Rama. He saw the city and became happy too.
 विविधाकृतिरूपाणि भवनानि ततस्ततः ।  
 शुश्राव रुचिरं गीतं त्रिस्थानस्वरभूषितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +416,15 @@ on every side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीणां मदनविद्धानां दिवि चाप्सरसामिव ।  
 शुश्राव काञ्चीनिनदं नूपुराणां च निःस्वनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +469,15 @@ arms by warriors and roar of ogres.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोपाननिनदांश्चापि भवनेषु महात्मनाम् ।  
 आस्फोटितनिनादांश्च क्ष्वेडितांश्च ततस्ततः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +522,15 @@ arms by warriors and roar of ogres.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्राव जपतां तत्र मन्त्रान् रक्षोगृहेषु वै ।  
 स्वाध्यायनिरतांश्चैव यातुधानान् ददर्श सः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +573,15 @@ Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्तवसंयुक्तान् गर्जतो राक्षसानपि ।  
 राजमार्गं समावृत्य स्थितं रक्षोगणं महत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +624,7 @@ royal highway in the central zone of city.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -597,6 +633,8 @@ royal highway in the central zone of city.
 दर्भमुष्टिप्रहरणानग्निकुण्डायुधांस्तथा ।  
 कूटमुद‍्गरपाणींश्च दण्डायुधधरानपि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +658,15 @@ royal highway in the central zone of city.
 
 अवरल्लि कॆलवरु यज्ञदीक्षितरागिद्दरु. कॆलवरु जटॆगळन्नु धरिसिद्दरु. कॆलवरु आयुधगळ रूपदल्लि दर्भॆगळन्ने मुष्टियल्लि धरिसिद्दरु.* कृत्यादि शक्तिगळन्नु आयुध रूपवागि सृष्टिसबल्ल अग्निकुण्डगळन्नु कॆलवरु आराधिसुत्तिद्दरु. ॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकाक्षानेकवर्णांश्च लम्बोदरपयोधरान् ।  
 करालान् भुग्नवक्त्रांश्च विकटान् वामनांस्तथा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,12 +681,15 @@ _________________
 
 किन्हींके एक ही आँख थी तो किन्हींके रूप बहुरंगे थे । कितनोंके पेट और स्तन बहुत बड़े थे । कोई बड़े विकराल थे । किन्हींके मुँह टेढ़े-मेढ़े थे । कोई विकट थे तो कोई बौने ॥ १७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्विनः खड‍‍्गिनश्चैव शतघ्नीमुसलायुधान् ।  
 परिघोत्तमहस्तांश्च विचित्रकवचोज्ज्वलान् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +701,15 @@ _________________
 
 किन्हींके पास धनुष, खड्ग, शतघ्नी और मूसलरूप आयुध थे । किन्हींके हाथोंमें उत्तम परिघ विद्यमान थे और कोई विचित्र कवचोंसे प्रकाशित हो रहे थे ॥ १८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नातिस्थूलान् नातिकृशान् नातिदीर्घातिह्रस्वकान् ।  
 नातिगौरान् नातिकृष्णान्नातिकुब्जान्न वामनान् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,12 +776,15 @@ carried banners, those who carried flags and those who carried different weapons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरूपान् बहुरूपांश्च सुरूपांश्च सुवर्चसः ।  
 ध्वजिनः पताकिनश्चैव ददर्श विविधायुधान् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -749,12 +799,15 @@ _________________
 
 कोई बड़े कुरूप थे, कोई अनेक प्रकारके रूप धारण कर सकते थे, किन्हींका रूप सुन्दर था, कोई बड़े तेजस्वी थे तथा किन्हींके पास ध्वजा, पताका और अनेक प्रकारके अस्त्र-शस्त्र थे ॥ २० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्तिवृक्षायुधांश्चैव पट्टिशाशनिधारिणः ।  
 क्षेपणीपाशहस्तांश्च ददर्श स महाकपिः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +824,15 @@ _________________
 
 विरूपरन्नु, बहुरूपरन्नु, सुरूपरन्नु, ऒळ्ळॆय तेजस्विगळन्नु हनुमन्तनु अल्लि नोडिदनु. ध्वज, पताकॆगळन्नु कैगळल्लि हिडिदिरुववरन्नु शक्ति, वृक्ष, पट्टिश, वज्र, कणवॆ, हग्ग मुन्ताद हलवु बगॆय आयुधगळन्नु हिडिदु निन्तिद्द राक्षसरन्नु महाकपियु नोडिदनु. ॥20-21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्रग्विणस्त्वनुलिप्तांश्च वराभरणभूषितान् ।  
 नानावेषसमायुक्तान् यथास्वैरचरान् बहून् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,6 +847,7 @@ _________________
 
 किन्हींके गलेमें फूलोंके हार थे और ललाट आदि अंग चन्दनसे चर्चित थे । कोई श्रेष्ठ आभूषणोंसे सजे हुए थे । कितने ही नाना प्रकारके वेशभूषासे संयुक्त थे और बहुतेरे स्वेच्छानुसार विचरनेवाले जान पड़ते थे ॥ २२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -798,6 +855,8 @@ _________________
 शतसाहस्रमव्यग्रमारक्षं मध्यमं कपिः ॥ २३ ॥  
 रक्षोऽधिपतिनिर्दिष्टं ददर्शान्तःपुराग्रतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,6 +923,7 @@ sharp spikes and thunderbolts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,6 +933,8 @@ sharp spikes and thunderbolts.
 प्राकारावृतमत्यन्तं ददर्श स महाकपिः ।  
 त्रिविष्टपनिभं दिव्यं दिव्यनादविनादितम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,6 +975,7 @@ compound wall. He watched the house again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -921,6 +984,8 @@ compound wall. He watched the house again and again.
 वारणैश्च चतुर्दन्तैः श्वेताभ्रनिचयोपमैः ।  
 भूषितै रुचिरद्वारं मत्तैश्च मृगपक्षिभिः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1004,15 @@ _________________
 
 घोड़ोंकी हिनहिनाहटकी आवाज भी वहाँ सब ओर फैली हुई थी । आभूषणोंकी रुनझुन भी कानोंमें पड़ती रहती थी । नाना प्रकारके रथ, पालकी आदि सवारी, विमान, सुन्दर हाथी, घोड़े, श्वेत बादलोंकी घटाके समान दिखायी देनेवाले चार दाँतोंसे युक्त सजे-सजाये मतवाले हाथी तथा मदमत्त पशु-पक्षियोंके संचरणसे उस राजमहलका द्वार बड़ा सुन्दर दिखायी देता था ॥ २७-२८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षितं सुमहावीर्यैर्यातुधानैः सहस्रशः ।  
 राक्षसाधिपतेर्गुप्तमाविवेश गृहं कपिः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,6 +1086,7 @@ rakshasas with great strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1026,6 +1095,8 @@ rakshasas with great strength.
 परार्घ्यकालागुरुचन्दनार्हं  
 स रावणान्तःपुरमाविवेश ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,5 +1130,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नाल्कने सर्गवु मुगियितु.
+</details>
 </details>
 

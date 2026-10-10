@@ -2,6 +2,8 @@
 title = "०८८ लक्ष्मण-इन्द्रजिद्युद्धम्"
 title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ the battle-field, to relieve Lakshmana's fatigue.
 
 88. लक्ष्मण और इन्द्रजित् की परस्पर रोषभरी बातचीत और घोर युद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा रावणिः क्रोधमूर्च्छितः ।  
 अब्रवीत् परुषं वाक्यं क्रोधेनाभ्युत्पपात च ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ and rushed forward in fury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यतायुधनिस्त्रिंशो रथे सुसमलङ्कृते ।  
 कालाश्वयुक्ते महति स्थितः कालान्तकोपमः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +102,15 @@ and rushed forward in fury.
 
 कप्पाद कुदुरॆगळन्नु हूडिद्दॆ, अलङ्कृतरथदल्लि कुळितिरुव इन्द्रजितनु खड्गवे मुन्ताद इतर आयुधगळन्नु धरिसि विनाशकारि कालनन्तॆ कण्डु बरुत्तिद्दनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाप्रमाणमुद्यम्य विपुलं वेगवद् दृढम् ।  
 धनुर्भीमबलो भीमं शरांश्चामित्रनाशनान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +130,7 @@ _________________
 
 आ भयङ्कर बलशाली निशाचरनु दॊड्ड आकारद उद्दवाद, गट्टिमुट्टाद, भयानक धनुस्सन्नु हागू शत्रुगळन्नु नाशगॊळिसुव समर्थ बाणगळन्नॆत्तिकॊण्डु युद्धक्कॆ तॊडगिद्दनु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +138,8 @@ _________________
 अलङ्कृतममित्रघ्नो रावणस्यात्मजो बली ॥ ४ ॥  
 हनूमत्पृष्ठमारूढमुदयस्थरविप्रभम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,6 +186,7 @@ seated in a chariot saw that Lakshmana who was embellished with his own splendor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -180,6 +195,8 @@ seated in a chariot saw that Lakshmana who was embellished with his own splendor
 अद्य मत्कार्मुकोत्सृष्टं शरवर्षं दुरासदम् ॥ ६ ॥  
 मुक्तवर्षमिवाकाशे धारयिष्यथ संयुगे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ as follows: "You behold my prowess now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य वो मामका बाणा महाकार्मुकनिःसृताः ।  
 विधमिष्यन्ति गात्राणि तूलराशिमिवानलः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,12 +308,15 @@ consumes a pile of cotton."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीक्ष्णसायकनिर्भिन्नान् शूलशक्त्यृष्टितोमरैः ।  
 अद्य वो गमयिष्यामि सर्वानेव यमक्षयम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,12 +359,15 @@ you with my sharp arrows and hurling the pikes, javelins and lances on you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृजतः शरवर्षाणि क्षिप्रहस्तस्य संयुगे ।  
 जीमूतस्येव नदतः कः स्थास्यति ममाग्रतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,6 +401,7 @@ battle, thundering like a cloud?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,6 +410,8 @@ battle, thundering like a cloud?"
 स्मृतिर्न तेऽस्ति वा मन्ये व्यक्तं यातो यमक्षयम् ।  
 आशीविषसमं क्रुद्धं यन्मां योद्धुमुपस्थितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +473,15 @@ missiles as also you were made to fall down on the floor."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रस्य गर्जितं राघवस्तदा ।  
 अभीतवदनः क्रुद्धो रावणिं वाक्यमब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +515,15 @@ words, with a courageous countenance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तश्च दुर्गमः पारः कार्याणां राक्षस त्वया ।  
 कार्याणां कर्मणा पारं यो गच्छति स बुद्धिमान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +566,15 @@ undertakings in practice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वमर्थस्य हीनार्थो दुरवापस्य केनचित् ।  
 वाचा व्याहृत्य जानीषे कृतार्थोऽस्मीति दुर्मते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +620,15 @@ anyone, though you, as such, lack in capacity to achieve your purpose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्धानगतेनाजौ यत्त्वया चरितस्तदा ।  
 तस्कराचरितो मार्गो नैष वीरनिषेवितः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +669,15 @@ battle-field, is the one trodden by thieves and is not the path followed by vali
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा बाणपथं प्राप्य स्थितोऽस्मि तव राक्षस ।  
 दर्शयस्वाद्य तत्तेजो वाचा त्वं किं विकत्थसे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +712,15 @@ Therefore show your prowess today. Why should you brag with your words?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो धनुर्भीमं परामृश्य महाबलः ।  
 ससर्ज निशितान् बाणानिन्द्रजित् समितिञ्जयः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ terrific bow, released sharp arrows from it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन सृष्टा महावेगाः शराः सर्पविषोपमाः ।  
 सम्प्राप्य लक्ष्मणं पेतुः श्वसन्त इव पन्नगाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,12 +797,15 @@ speed and were as deadly as the venom of serpents, fell like the hissing of snak
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरैरतिमहावेगैर्वेगवान् रावणात्मजः ।  
 सौमित्रिमिन्द्रजिद् युद्धे विव्याध शुभलक्षणम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +840,15 @@ that battle, struck Lakshmana who was endowed with auspicious body-marks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरैरतिविद्धाङ्गो रुधिरेण समुक्षितः ।  
 शुशुभे लक्ष्मणः श्रीमान् विधूम इव पावकः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +904,15 @@ arrows which can torment the enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजित् त्वात्मनः कर्म प्रसमीक्ष्याभिगम्य च ।  
 विनद्य सुमहानादमिदं वचनमब्रवीत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +952,15 @@ an exceedingly loud roar, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्रिणः शितधारास्ते शरा मत्कार्मुकच्युताः ।  
 आदास्यन्तेऽद्य सौमित्रे जीवितं जीवितान्तकाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,12 +978,15 @@ an exceedingly loud roar, spoke the following words:
 
 ‘सुमित्राकुमार! मेरे धनुषसे छूटे हुए तेज धारवाले पंखधारी बाण शत्रुके जीवनका अन्त कर देनेवाले हैं । ये आज तुम्हारे प्राण लेकर ही रहेंगे ॥ २२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य गोमायुसङ्घाश्च श्येनसङ्घाश्च लक्ष्मण ।  
 गृध्राश्च निपतन्तु त्वां गतासुं निहतं मया ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,12 +1037,15 @@ take your life, O Lakshmana!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रबन्धुं सदानार्यं रामः परमदुर्मतिः ।  
 भक्तं भ्रातरमद्यैव त्वां द्रक्ष्यति हतं मया ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,12 +1089,15 @@ class only for a name sake), ever ignoble and his devoted brother, killed by me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्रस्तकवचं भूमौ व्यपविद्धशरासनम् ।  
 हृतोत्तमाङ्गं सौमित्रे त्वामद्य निहतं मया ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1060,12 +1131,15 @@ down, bow thrown about and head dismantled."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणं सङ्क्रुद्धः परुषं रावणात्मजम् ।  
 हेतुमद् वाक्यमर्थज्ञो लक्ष्मणः प्रत्युवाच ह ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1105,12 +1179,15 @@ words to the enraged Indrajit thus speaking harshly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग्बलं त्यज दुर्बुद्धे क्रूरकर्मन् हि राक्षस ।  
 अथ कस्माद् वदस्येतत् सम्पादय सुकर्मणा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1152,12 +1229,15 @@ work."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकृत्वा कत्थसे कर्म किमर्थमिह राक्षस ।  
 कुरु तत् कर्म येनाहं श्रद्धेयं तव कत्थनम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,12 +1277,15 @@ act by which I can believe your brag."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुक्त्वा परुषं वाक्यं किञ्चिदप्यनवक्षिपन् ।  
 अविकत्थन् वधिष्यामि त्वां पश्य पुरुषादन ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1242,12 +1325,15 @@ you and without bragging myself, Lo! I will kill you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा पञ्च नाराचानाकर्णापूरितान् शरान् ।  
 विजघान महावेगाल्लक्ष्मणो राक्षसोरसि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1281,12 +1367,15 @@ the demon's chest with a great speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपत्रवाजिता बाणा ज्वलिता इव पन्नगाः ।  
 नैर्ऋतोरस्यभासन्त सवितू रश्मयो यथा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1326,12 +1415,15 @@ sun-rays in that demon's chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरैराहतस्तेन सरोषो रावणात्मजः ।  
 सुप्रयुक्तैस्त्रिभिर्बाणैः प्रतिविव्याध लक्ष्मणम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1457,15 @@ arrows well-directed towards Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बभूव महाभीमो नरराक्षससिंहयोः ।  
 विमर्दस्तुमुलो युद्धे परस्परजयैषिणोः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,12 +1500,15 @@ demons, who wished to conquer one over the other in battle, was most terrific an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रान्तौ बलसम्पन्नावुभौ विक्रमशालिनौ ।  
 उभौ परमदुर्जेयावतुल्यबलतेजसौ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1450,12 +1548,15 @@ were exceedingly difficult to conquer and peerless in strength and courage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युयुधाते तदा वीरौ ग्रहाविव नभोगतौ ।  
 बलवृत्राविव हि तौ युधि वै दुष्प्रधर्षणौ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1498,6 +1599,7 @@ like two plants figuring in the sky and like Indra and Vritra, the demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1505,6 +1607,8 @@ like two plants figuring in the sky and like Indra and Vritra, the demon.
 बहूनवसृजन्तौ हि मार्गणौघानवस्थितौ ।  
 नरराक्षसमुख्यौ तौ प्रहृष्टावभ्ययुध्यताम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1522,12 +1626,15 @@ like two plants figuring in the sky and like Indra and Vritra, the demon.
 
 आ महामनस्वी नरश्रेष्ठ हागू राक्षस प्रवर वीररू ऎरडु सिंहगळु कादाडुत्तिरुवन्तॆ युद्ध माडुत्तिद्दरु. असङ्ख्य बाणगळ मळॆगरॆदु युद्धभूमियल्लि स्थिरवागि निन्तिद्दरु. इब्बरू बहळ हर्षोत्साहदिन्द ऒब्बरु मत्तॊब्बरन्नु ऎदुरिसुत्तिद्दरु.॥36॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरान् दाशरथिः सन्धायामित्रकर्षणः ।  
 ससर्ज राक्षसेन्द्राय क्रुद्धः सर्प इव श्वसन् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1566,12 +1673,15 @@ fought with rejoice.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ज्यातलनिर्घोषं स श्रुत्वा राक्षसाधिपः ।  
 विवर्णवदनो भूत्वा लक्ष्मणं समुदैक्षत ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1611,12 +1721,15 @@ released arrows on Indrajit, hissing like an enraged serpent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवर्णवदनं दृष्ट्वा राक्षसं रावणात्मजम् ।  
 सौमित्रिं युद्धसंयुक्तं प्रत्युवाच विभीषणः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1650,12 +1763,15 @@ became pale-faced and fixed his gaze on Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमित्तान्युपपश्यामि यान्यस्मिन् रावणात्मजे ।  
 त्वर तेन महाबाहो भग्न एष न संशयः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1695,12 +1811,15 @@ Lakshmana, who was fully absorbed in the fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सन्धाय सौमित्रिः शरानाशीविषोपमान् ।  
 मुमोच विशिखांस्तस्मिन् सर्पानिव विषोल्बणान् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1737,12 +1856,15 @@ in Indrajit, that he is disappointed. There is no doubt about it. Make haste."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्राशनिसमस्पर्शैर्लक्ष्मणेनाहतः शरैः ।  
 मुहूर्तमभवन्मूढः सर्वसङ्क्षुभितेन्द्रियः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1782,6 +1904,7 @@ discharged those arrows which looked like serpents full of venom to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1789,6 +1912,8 @@ discharged those arrows which looked like serpents full of venom to him.
 ददर्शावस्थितं वीरमाजौ दशरथात्मजम् ।  
 सोऽभिचक्राम सौमित्रिं रोषात् संरक्तलोचनः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1830,6 +1955,7 @@ thunderbolt, Indrajit became stupefied for a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1837,6 +1963,8 @@ thunderbolt, Indrajit became stupefied for a moment.
 किं न स्मरसि तद् युद्धे प्रथमे मत्पराक्रमम् ।  
 निबद्धस्त्वं सह भ्रात्रा यदा युधि विचेष्टसे ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1875,12 +2003,15 @@ saw the valiant Lakshmana engaged in the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युवां खलु महायुद्धे वज्राशनिसमैः शरैः ।  
 शायितौ प्रथमं भूमौ विसञ्ज्ञौ सपुरःसरौ ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1921,12 +2052,15 @@ Lakshmana, he again spoke the following harsh words to him:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मृतिर्वा नास्ति ते मन्ये व्यक्तं वा यमसादनम् ।  
 गन्तुमिच्छसि यन्मां त्वमाधर्षयितुमिच्छसि ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1966,12 +2100,15 @@ brother, was bound by me and you wriggled on the floor?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि ते प्रथमे युद्धे न दृष्टो मत्पराक्रमः ।  
 अद्य त्वां दर्शयिष्यामि तिष्ठेदानीं व्यवस्थितः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2013,12 +2150,15 @@ thunderbolt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा सप्तभिर्बाणैरभिविव्याध लक्ष्मणम् ।  
 दशभिस्तु हनूमन्तं तीक्ष्णधारैः शरोत्तमैः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2054,12 +2194,15 @@ Death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरशतेनैव सुप्रयुक्तेन वीर्यवान् ।  
 क्रोधाद् द्विगुणसंरब्धो निर्बिभेद विभीषणम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2102,12 +2245,15 @@ today. Stand ready for it now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् दृष्ट्वेन्द्रजिता कर्म कृतं रामानुजस्तदा ।  
 अचिन्तयित्वा प्रहसन्नैतत् किञ्चिदिति ब्रुवन् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2147,12 +2293,15 @@ sharp-edged arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमोच च शरान् घोरान् सङ्गृह्य नरपुङ्गवः ।  
 अभीतवदनः क्रुद्धो रावणिं लक्ष्मणो युधि ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2189,12 +2338,15 @@ Vibhishana with a hundred well-aimed arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवं रणगताः शूराः प्रहरन्ति निशाचर ।  
 लघवश्चाल्पवीर्याश्च शरा हीमे सुखास्तव ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2211,12 +2363,15 @@ Vibhishana with a hundred well-aimed arrows.
 
 मत्तॆ हेळिद- निशाचरने! रणरङ्गक्कॆ बन्द योधरु इन्तह दुर्बलवाद, अल्पनाद बाणगळिन्द प्रहार माडुवुदिल्ल. इवुगळिन्द कष्टवागदॆ सुखवे आगुत्तदॆ.॥52॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवं शूरास्तु युध्यन्ते समरे युद्धकाङ्क्षिणः ।  
 इत्येवं तं ब्रुवन् धन्वी शरैरभिववर्ष ह ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2259,12 +2414,15 @@ battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बाणैः सुविध्वस्तं कवचं काञ्चनं महत् ।  
 व्यशीर्यत रथोपस्थे ताराजालमिवाम्बरात् ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2304,12 +2462,15 @@ are light, weak and mild indeed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधूतवर्मा नाराचैर्बभूव स कृतव्रणः ।  
 इन्द्रजित् समरे वीरः प्रत्यूषे भानुमानिव ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2349,12 +2510,15 @@ Lakshmana the wielder of a bow, streamed forth arrows on him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरसहस्रेण सङ्क्रुद्धो रावणात्मजः ।  
 बिभेद समरे वीरो लक्ष्मणं भीमविक्रमः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2389,12 +2553,15 @@ middle of chariot, like a cob-web of stars falling from the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यशीर्यत महद्दिव्यं कवचं लक्ष्मणस्य तु ।  
 कृतप्रतिकृतान्योन्यं बभूवतुररिन्दमौ ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2428,12 +2595,15 @@ battle and looked like the sun at dawn.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभीक्ष्णं निःश्वसन्तौ तौ युध्येतां तुमुलं युधि ।  
 शरसङ्कृत्तसर्वाङ्गौ सर्वतो रुधिरोक्षितौ ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2473,6 +2643,7 @@ Lakshmana with a thousand arrows in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2480,6 +2651,8 @@ Lakshmana with a thousand arrows in battle.
 ततक्षतुर्महात्मानौ रणकर्मविशारदौ ।  
 बभूवतुश्चात्मजये यत्तौ भीमपराक्रमौ ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2520,12 +2693,15 @@ with each other in offence and retaliation in their attack.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ शरौघैस्तथाकीर्णौ निकृत्तकवचध्वजौ ।  
 सृजन्तौ रुधिरं चोष्णं जलं प्रस्रवणाविव ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2568,12 +2744,15 @@ all around and breathing heavily, fought the battle tumultuously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरवर्षं ततो घोरं मुञ्चतोर्भीमनिःस्वनम् ।  
 सासारयोरिवाकाशे नीलयोः कालमेघयोः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2616,12 +2795,15 @@ long time, with sharp arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोरथ महान् कालो व्यतीयाद् युध्यमानयोः ।  
 न च तौ युद्धवैमुख्यं क्लमं चाप्युपजग्मतुः ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2669,12 +2851,15 @@ standards torn to pieces. They stood emitting hot blood, as two water-falls gush
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्राण्यस्त्रविदां श्रेष्ठौ दर्शयन्तौ पुनः पुनः ।  
 शरानुच्चावचाकारानन्तरिक्षे बबन्धतुः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2691,12 +2876,15 @@ standards torn to pieces. They stood emitting hot blood, as two water-falls gush
 
 श्रेष्ठ अस्त्रवेत्तराद इब्बरू पदे पदे अस्त्रगळन्नु प्रदर्शिसुत्तिद्दरु. अवरु आकाशदल्लि बाणगळिन्दले बलॆयन्नु नॆय्दिद्दरु.॥63॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यपेतदोषमस्यन्तौ लघु चित्रं च सुष्ठु च ।  
 उभौ तु तुमुलं घोरं चक्रतुर्नरराक्षसौ ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2738,12 +2926,15 @@ neither trned their back from the battle, nor experienced any fatigue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः पृथक् पृथग् भीमः शुश्रुवे तलनिस्वनः ।  
 स कम्पं जनयामास निर्घात इव दारुणः ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2785,12 +2976,15 @@ sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः स भ्राजते शब्दस्तथा समरमत्तयोः ।  
 सुघोरयोर्निष्टनतोर्गगने मेघयोरिव ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2827,12 +3021,15 @@ man and the demon carried on a tumultuous and terrific war.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्णपुङ्खैर्नाराचैर्बलवन्तौ कृतव्रणौ ।  
 प्रसुस्रुवाते रुधिरं कीर्तिमन्तौ जये धृतौ ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2872,12 +3069,15 @@ created a tremble in people, like a violent thunder-storm.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गात्रयोर्निपतिता रुक्मपुङ्खाः शरा युधि ।  
 असृग्दिग्धा विनिष्पेतुर्विविशुर्धरणीतलम् ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2920,12 +3120,15 @@ resembled the rumbling of two dreadful thundering clouds in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ये सुनिशितैः शस्त्रैराकाशे सञ्जघट्टिरे ।  
 बभञ्जुश्चिच्छिदुश्चैव तयोर्बाणाः सहस्रशः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2962,12 +3165,15 @@ another, wounded with golden-shafted steel arrows, were profusely giving out blo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बभूव रणो घोरस्तयोर्बाणमयश्चयः ।  
 अग्निभ्यामिव दीप्ताभ्यां सत्रे कुशमयश्चयः ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3001,12 +3207,15 @@ smeared with blood and pierced into the surface of the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः कृतव्रणौ देहौ शुशुभाते महात्मनोः ।  
 सुपुष्पाविव निष्पत्रौ वने किंशुकशाल्मली ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3043,12 +3252,15 @@ weapons in the sky and shattered and tore them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्रतुस्तुमुलं घोरं सन्निपातं मुहुर्मुहुः ।  
 इन्द्रजिल्लक्ष्मणश्चैव परस्परजयैषिणौ ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3088,12 +3300,15 @@ the side of two blazing fires at a sacrifice.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणो रावणिं युद्धे रावणिश्चापि लक्ष्मणम् ।  
 अन्योन्यं तावभिघ्नन्तौ न श्रमं प्रतिपद्यताम् ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3128,12 +3343,15 @@ The wounded bodies of those two mighty warriors shone like Kimshuka and Shalmali
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणजालैः शरीरस्थैरवगाढैस्तरस्विनौ ।  
 शुशुभाते महावीर्यौ प्ररूढाविव पर्वतौ ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3167,12 +3385,15 @@ the other, carried out tumultuous and terrific battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयो रुधिरसिक्तानि संवृतानि शरैर्भृशम् ।  
 बभ्राजुः सर्वगात्राणि ज्वलन्त इव पावकाः ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3207,12 +3428,15 @@ Lakshmana. Both of them were striking each other and did not experience any wear
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोरथ महान् कालो व्यतीयाद् युध्यमानयोः ।  
 न च तौ युद्धवैमुख्यं श्रमं चाप्यभिजग्मतुः ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3252,6 +3476,7 @@ prowess and swiftness, shone like two mountains shooting forth plants from them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3260,6 +3485,8 @@ prowess and swiftness, shone like two mountains shooting forth plants from them.
 प्रियहितमुपपादयन् महात्मा  
 समरमुपेत्य विभीषणोऽवतस्थे ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3311,5 +3538,6 @@ shone very much like blazing fires.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तॆण्टनॆय सर्ग पूर्णवायितु.॥88॥
+</details>
 </details>
 

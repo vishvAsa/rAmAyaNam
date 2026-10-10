@@ -2,6 +2,8 @@
 title = "०९९ श्रीरामदर्शनम्"
 title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ both.
 
 99. भरतका शत्रुघ्न आदिके साथ श्रीरामके आश्रमपर जाना, उनकी पर्णशालाको देखना तथा रोते-रोते उनके चरणोंमें गिर जाना, श्रीरामका उन सबको हृदयसे लगाना और मिलना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निविष्टायां तु सेनायामुत्सुको भरतस्ततः ।  
 जगाम भ्रातरं द्रष्टुं शत्रुघ्नमनुदर्शयन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ out the sign of Rama's habitation to Shatrughna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिं वसिष्ठं सन्दिश्य मातॄर्मे शीघ्रमानय ।  
 इति त्वरितमग्रे स जगाम गुरुवत्सलः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ his mothers soon thereafter and went ahead quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमन्त्रस्त्वपि शत्रुघ्नमदूरादन्वपद्यत ।  
 रामदर्शनजस्तर्षो भरतस्येव तस्य च ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छन्नेवाथ भरतस्तापसालयसंस्थिताम् ।  
 भ्रातुः पर्णकुटीं श्रीमानुटजं च ददर्श ह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ leafy hut of his brother together with a small hut made of leaves, nearby.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शालायास्त्वग्रतस्तस्या ददर्श भरतस्तदा ।  
 काष्ठानि चावभग्नानि पुष्पाण्यपचितानि च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +271,15 @@ front of that hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लक्ष्मणस्य रामस्य ददर्शाश्रममीयुषः ।  
 कृतं वृक्षेष्वभिज्ञानं कुशचीरैः क्वचित् क्वचित् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्श च वने तस्मिन् महतः सञ्चयान् कृतान् ।  
 मृगाणां महिषाणां च करीषैः शीतकारणात् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +367,15 @@ kept ready for protection against cold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छन्नेव महाबाहुर्द्युतिमान् भरतस्तदा ।  
 शत्रुघ्नं चाब्रवीद् हृष्टस्तानमात्यांश्च सर्वशः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ Shatrughna in joy, as also those ministers who surrounded him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये प्राप्ताः स्म तं देशं भरद्वाजो यमब्रवीत् ।  
 नातिदूरे हि मन्येऽहं नदीं मन्दाकिनीमितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +467,15 @@ Mandakini River is not far from here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्चैर्बद्धानि चीराणि लक्ष्मणेन भवेदयम् ।  
 अभिज्ञानकृतः पन्था विकाले गन्तुमिच्छता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,12 +516,15 @@ signs by Lakshmana in order to find his way back in odd hours of darkness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश्चोदात्तदन्तानां कुञ्जराणां तरस्विनाम् ।  
 शैलपार्श्वे परिक्रान्तमन्योन्यमभिगर्जताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +564,15 @@ teeth, violent as they are and ferociously roaring at each other."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमेवाधातुमिच्छन्ति तापसाः सततं वने ।  
 तस्यासौ दृश्यते धूमः सङ्कुलः कृष्णवर्त्मनः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +612,15 @@ desire to keep in their hermitages."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राहं पुरुषव्याघ्रं गुरुसत्कारकारिणम् ।  
 आर्यं द्रक्ष्यामि संहृष्टं महर्षिमिव राघवम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +660,15 @@ is as venerable as a sage."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ गत्वा मुहूर्तं तु चित्रकूटं स राघवः ।  
 मन्दाकिनीमनुप्राप्तस्तं जनं चेदमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +712,15 @@ Bharata said to his ministers and others as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगत्यां पुरुषव्याघ्र आस्ते वीरासने रतः ।  
 जनेन्द्रो निर्जनं प्राप्य धिङ्मे जन्म सजीवितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,12 +766,15 @@ O Fie unto my birth and life!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्कृते व्यसनं प्राप्तो लोकनाथो महाद्युतिः ।  
 सर्वान् कामान् परित्यज्य वने वसति राघवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,12 +809,15 @@ because of me and leaving all enjoyments, is living in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति लोकसमाक्रुष्टः पादेष्वद्य प्रसादयन् ।  
 रामं तस्य पतिष्यामि सीताया लक्ष्मणस्य च ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +857,15 @@ and seek to regain Rama's grace."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स विलपंस्तस्मिन् वने दशरथात्मजः ।  
 ददर्श महतीं पुण्यां पर्णशालां मनोरमाम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +882,15 @@ and seek to regain Rama's grace."
 
 हीगॆ विलाप माडुत्ता दशरथकुमार भरतनु आ वनदल्लि ऒन्दु विशालवाद पर्णकुटियन्नु नोडिदनु. अदु परम पवित्र मत्तु मनोरमवागित्तु.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालतालाश्वकर्णानां पर्णैर्बहुभिरावृताम् ।  
 विशालां मृदुभिस्तीर्णां कुशैर्वेदिमिवाध्वरे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +907,15 @@ and seek to regain Rama's grace."
 
 आ कुटीरवु साल, ताल, अश्वकर्ण ऎम्ब वृक्षगळ ऎलॆगळिन्द हॊदिसलागित्तु; आद्दरिन्द यज्ञशालॆयल्लि कुशगळन्नु हासिद उद्द अगल वेदियन्तॆ शोभिसुत्तित्तु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्रायुधनिकाशैश्च कार्मुकैर्भारसाधनैः ।  
 रुक्मपृष्ठैर्महासारैः शोभितां शत्रुबाधकैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +932,15 @@ and seek to regain Rama's grace."
 
 अल्लि इन्द्र धनुष्यदन्तह गुरुतर कार्यसाधनॆयल्लि समर्थवाद अनेक धनुस्सुगळन्नु इडलागित्तु. अवुगळ पृष्ठभागवन्नु बङ्गारदिन्द माडिद्दागिद्दु बहळ प्रबल शत्रुगळन्नु बाधॆपडिसुवन्तहुदागिद्दवु. अवुगळिन्दले आ पर्णकुटियु बहळ शोभिसुत्तित्तु.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्करश्मिप्रतीकाशैर्घोरैस्तूणगतैः शरैः ।  
 शोभितां दीप्तवदनैः सर्पैर्भोगवतीमिव ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -892,12 +957,15 @@ and seek to regain Rama's grace."
 
 अल्लि बाणगळु तुम्बिद अनेक बत्तळिकॆगळिद्दवु, अदरल्लिन बाणगळु सूर्य किरणगळन्तॆ हॊळॆयुत्तिद्दु, भयङ्करवागिद्दवु. आ बाणगळिन्द प्रकाशमान मुखवुळ्ळ सर्पगळिन्द भोगवती पुरियु शोभिसुवन्तॆ आ पर्णकुटियु शोभिसुत्तित्तु.॥21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महारजतवासोभ्यामसिभ्यां च विराजिताम् ।  
 रुक्मबिन्दुविचित्राभ्यां चर्मभ्यां चापि शोभिताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +985,15 @@ _________________
 
 चिन्नद ऒरॆयल्लि इरिसिद ऎरडु खड्गगळु मत्तु स्वर्णमय बिन्दुगळिन्द अलङ्कृतवाद ऎरडु गुराणिगळु आ आश्रमद शोभॆयन्नु हॆच्चिसिद्दवु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोधाङ्गुलित्रैरासक्तैश्चित्रकाञ्चनभूषितैः ।  
 अरिसङ्घैरनाधृष्यां मृगैः सिंहगुहामिव ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -983,12 +1054,15 @@ enemies as is a lion's cave to deer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रागुदक्प्रवणां वेदिं विशालां दीप्तपावकाम् ।  
 ददर्श भरतस्तत्र पुण्यां रामनिवेशने ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,6 +1103,7 @@ extensive in area and having a sacred fire burned in the hermitage of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1037,6 +1112,8 @@ extensive in area and having a sacred fire burned in the hermitage of Rama.
 कृष्णाजिनधरं तं तु चीरवल्कलवाससम् ।  
 ददर्श राममासीनमभितः पावकोपमम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,6 +1149,7 @@ in the hut, wearing matted locks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1080,6 +1158,8 @@ in the hut, wearing matted locks.
 उपविष्टं महाबाहुं ब्रह्माणमिव शाश्वतम् ।  
 स्थण्डिले दर्भसंस्तीर्णे सीतया लक्ष्मणेन च ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1123,12 +1203,15 @@ Brahma, and seated on the ground spread with Darbha grass, with Seetha and Laksh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा भरतः श्रीमान् शोकमोहपरिप्लुतः ।  
 अभ्यधावत धर्मात्मा भरतः केकयीसुतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1251,15 @@ distraught by the grief that possessed him, rushed towards Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वैव विललापार्तो बाष्पसन्दिग्धया गिरा ।  
 अशक्नुवन् वारयितुं धैर्याद् वचनमब्रुवन् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1216,12 +1302,15 @@ On seeing his brother, Bharata broke into lamentations and in a voice strangled 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः संसदि प्रकृतिभिर्भवेद् युक्त उपासितुम् ।  
 वन्यैर्मृगैरुपासीनः सोऽयमास्ते ममाग्रजः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1265,12 +1354,15 @@ around him, is now being served by a body of wild beasts around him in this jung
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासोभिर्बहुसाहस्रैर्यो महात्मा पुरोचितः ।  
 मृगाजिने सोऽयमिह प्रवस्ते धर्ममाचरन् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1311,12 +1403,15 @@ is now wearing two antelope-skins, following ascetic righteousness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधारयद् यो विविधाश्चित्राः सुमनसः सदा ।  
 सोऽयं जटाभारमिमं सहते राघवः कथम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1359,12 +1454,15 @@ burden of matted locks now?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य यज्ञैर्यथादिष्टैर्युक्तो धर्मस्य सञ्चयः ।  
 शरीरक्लेशसम्भूतं स धर्मं परिमार्गते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,12 +1503,15 @@ prescribed injunctions, now follows the path of righteousness through asceticism
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनेन महार्हेण यस्याङ्गमुपसेवितम् ।  
 मलेन तस्याङ्गमिदं कथमार्यस्य सेव्यते ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1450,12 +1551,15 @@ with which to smear the limbs of this venerable elder brother!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्निमित्तमिदं दुःखं प्राप्तो रामः सुखोचितः ।  
 धिग्जीवितं नृशंसस्य मम लोकविगर्हितम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1496,12 +1600,15 @@ cursed be my reprehensive existence that the whole world condemns!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं विलपन् दीनः प्रस्विन्नमुखपङ्कजः ।  
 पादावप्राप्य रामस्य पपात भरतो रुदन् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1542,12 +1649,15 @@ countenance and, without touching Rama's feet, fell down grooming.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखाभितप्तो भरतो राजपुत्रो महाबलः ।  
 उक्त्वाऽऽर्येति सकृद् दीनं पुनर्नोवाच किञ्चन ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1588,12 +1698,15 @@ once and in his distress, was unable to speak anything further.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पैः पिहितकण्ठश्च प्रेक्ष्य रामं यशस्विनम् ।  
 आर्येत्येवाभिसङ्क्रुश्य व्याहर्तुं नाशकत् ततः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1637,12 +1750,15 @@ he was unable to speak further, his throat choked with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुघ्नश्चापि रामस्य ववन्दे चरणौ रुदन् ।  
 तावुभौ च समालिङ्ग्य रामोऽप्यश्रूण्यवर्तयत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,6 +1801,7 @@ both, allowed his tears to fall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1693,6 +1810,8 @@ both, allowed his tears to fall.
 दिवाकरश्चैव निशाकरश्च  
 यथाम्बरे शुक्रबृहस्पतिभ्याम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1742,6 +1861,7 @@ as in the sky, the sun and the moon are seen in conjunction with Venus and Jupit
 
 अनन्तर राजकुमार श्रीराम-लक्ष्मणरु आ वनदल्लि सुमन्त्र मत्तु निषाद राजगुहनन्नु भॆट्टियादरु. अदु आकाशदल्लि सूर्य, चन्द्र, शुक्र, बृहस्पति सेरिदन्तॆ इत्तु.॥41
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1750,6 +1870,8 @@ as in the sky, the sun and the moon are seen in conjunction with Venus and Jupit
 वनौकसस्तेऽभिसमीक्ष्य सर्वे  
 त्वश्रूण्यमुञ्चन् प्रविहाय हर्षम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1806,5 +1928,6 @@ shed tears.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥99॥
+</details>
 </details>
 

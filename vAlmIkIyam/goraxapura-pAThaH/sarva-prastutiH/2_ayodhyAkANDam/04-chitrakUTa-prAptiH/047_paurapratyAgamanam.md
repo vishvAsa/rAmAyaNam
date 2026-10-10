@@ -2,6 +2,8 @@
 title = "०४७ पौरप्रत्यागमनम्"
 title_english = "047 The people of Ayodhya begin to rebuke themselves"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ sheer despair.
 
 47. प्रातःकाल उठनेपर पुरवासियोंका विलाप करना और निराश होकर नगरको लौटना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां पौरास्ते राघवं विना ।  
 शोकोपहतनिश्चेष्टा बभूवुर्हतचेतसः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ were perplexed with grief and became motionless.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकजाश्रुपरिद्यूना वीक्षमाणास्ततस्ततः ।  
 आलोकमपि रामस्य न पश्यन्ति स्म दुःखिताः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ glimmer of Rama, though casting their eyes everywhere.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते विषादार्तवदना रहितास्तेन धीमता ।  
 कृपणाः करुणा वाचो वदन्ति स्म मनीषिणः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ therefore non-pulsed, the citizens broke into piteous exclamations, saying:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिगस्तु खलु निद्रां तां ययापहतचेतसः ।  
 नाद्य पश्यामहे रामं पृथूरस्कं महाभुजम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ that mighty armed Rama with a broad chest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं रामो महाबाहुः स तथावितथक्रियः ।  
 भक्तं जनमभित्यज्य प्रवासं तापसो गतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ exile, abandoning his devoted citizens?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो नः सदा पालयति पिता पुत्रानिवौरसान् ।  
 कथं रघूणां स श्रेष्ठस्त्यक्त्वा नो विपिनं गतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +312,15 @@ of his loins, could proceed to the forest, leaving us?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव निधनं याम महाप्रस्थानमेव वा ।  
 रामेण रहितानां नो किमर्थं जीवितं हितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,12 +362,15 @@ as we are from Rama?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति शुष्काणि काष्ठानि प्रभूतानि महान्ति च ।  
 तैः प्रज्वाल्य चितां सर्वे प्रविशामोऽथवा वयम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +410,15 @@ them, let us all enter the fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वक्ष्यामो महाबाहुरनसूयः प्रियंवदः ।  
 नीतः स राघवोऽस्माभिरिति वक्तुं कथं क्षमम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,12 +460,15 @@ so?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा नूनं नगरी दीना दृष्ट्वास्मान् राघवं विना ।  
 भविष्यति निरानन्दा सस्त्रीबालवयोऽधिका ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,12 +502,15 @@ its women, children and the aged, become even deeply cheerless."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्यातास्तेन वीरेण सह नित्यं महात्मना ।  
 विहीनास्तेन च पुनः कथं द्रक्ष्याम तां पुरीम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +550,15 @@ we look on that city again without him?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीव बहुधा वाचो बाहुमुद्यम्य ते जनाः ।  
 विलपन्ति स्म दुःखार्ता हृतवत्सा इवाग्र्यगाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +598,15 @@ calves, lamented in various ways as above.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मार्गानुसारेण गत्वा किञ्चित् ततः क्षणम् ।  
 मार्गनाशाद् विषादेन महता समभिप्लुताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +647,15 @@ overwhelmed with great despair again due to sudden disappearance of tracks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथमार्गानुसारेण न्यवर्तन्त मनस्विनः ।  
 किमिदं किं करिष्यामो दैवेनोपहता इति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ providence"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा यथागतेनैव मार्गेण क्लान्तचेतसः ।  
 अयोध्यामगमन् सर्वे पुरीं व्यथितसज्जनाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ comprising of virtuous people with distress, by the same path on which they had 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आलोक्य नगरीं तां च क्षयव्याकुलमानसाः ।  
 आवर्तयन्त तेऽश्रूणि नयनैः शोकपीडितैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +795,15 @@ grief , their minds distressed through cheerlessness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा रामेण नगरी रहिता नातिशोभते ।  
 आपगा गरुडेनेव ह्रदादुद्‍धृतपन्नगा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +837,15 @@ river whose snakes were uplifted from its pool by Garuda.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रहीनमिवाकाशं तोयहीनमिवार्णवम् ।  
 अपश्यन् निहतानन्दं नगरं ते विचेतसः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,6 +882,7 @@ beheld the city from which all joy had fled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -834,6 +891,8 @@ beheld the city from which all joy had fled.
 नैव प्रजग्मुः स्वजनं परं वा  
 निरीक्ष्यमाणाः प्रविनष्टहर्षाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,5 +954,6 @@ were with grief, their joy having altogether extinguished.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तेळनॆय सर्ग पूर्णवायितु ॥47॥
+</details>
 </details>
 

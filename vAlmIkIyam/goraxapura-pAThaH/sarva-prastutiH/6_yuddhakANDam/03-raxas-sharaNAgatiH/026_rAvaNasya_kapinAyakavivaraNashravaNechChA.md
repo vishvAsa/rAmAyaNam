@@ -2,6 +2,8 @@
 title = "०२६ रावणस्य कपिनायकविवरणश्रवणेच्छा"
 title_english = "026 Ravana enquires about the various monkey leaders"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ army-generals along with their distinguishing characterestics.
 
 26. सारणका रावणको पृथक्-पृथक् वानरयूथपतियोंका परिचय देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वचः सत्यमक्लीबं सारणेनाभिभाषितम् ।  
 निशम्य रावणो राजा प्रत्यभाषत सारणम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ king Ravana spoke to Sarana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मामभियुञ्जीरन् देवगन्धर्वदानवाः ।  
 नैव सीतामहं दद्यां सर्वलोकभयादपि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +120,7 @@ me or even if there is a terror from all the worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +128,8 @@ me or even if there is a terror from all the worlds."
 प्रतिप्रदानमद्यैव सीतायाः साधु मन्यसे ॥ ३ ॥  
 को हि नाम सपत्नो मां समरे जेतुमर्हति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,6 +171,7 @@ are thingking of giving back Seetha now itself as good."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,6 +179,8 @@ are thingking of giving back Seetha now itself as good."
 आरुरोह ततः श्रीमान् प्रासादं हिमपाण्डुरम् ।  
 बहुतालसमुत्सेधं रावणोऽथ दिदृक्षया ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,6 +231,7 @@ monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -224,6 +239,8 @@ monkeys.
 पश्यमानः समुद्रं तं पर्वतांश्च वनानि च ॥ ६ ॥  
 ददर्श पृथिवीदेशं सुसम्पूर्णं प्लवङ्गमैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +288,15 @@ and the forests and beheld the entire land completely filled with monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदपारमसह्यं च वानराणां महाबलम् ॥ ७ ॥  
 आलोक्य रावणो राजा परिपप्रच्छ सारणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,11 +336,14 @@ Ravana asked Sarana as follows:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषां के वानरा मुख्याः के शूराः के महाबलाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,6 +383,7 @@ strong ones? Who will stay in front at all places, with great energy?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,6 +391,8 @@ strong ones? Who will stay in front at all places, with great energy?"
 केषां शृणोति सुग्रीवः के वा यूथपयूथपाः ॥ ९ ॥  
 सारणाचक्ष्व मे सर्वं किम्प्रभावाः प्लवङ्गमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,12 +434,15 @@ monkey-heads? What is the influence of the monkeys? O, Sarana! Tell me all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारणो राक्षसेन्द्रस्य वचनं परिपृच्छतः ॥ १० ॥  
 आबभाषेऽथ मुख्यज्ञो मुख्यांस्तत्र वनौकसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +483,7 @@ chiefs of the monkeys i them, to the lord of demons who was enquiring about them
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -464,6 +494,8 @@ chiefs of the monkeys i them, to the lord of demons who was enquiring about them
 सर्वशाखामृगेन्द्रस्य सुग्रीवस्य महात्मनः ॥ १३ ॥  
 बलाग्रे तिष्ठते वीरो नीलो नामैष यूथपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,6 +555,7 @@ battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -534,6 +567,8 @@ battle."
 एष वानरराजेन सुग्रीवेणाभिषेचितः ।  
 युवराजोऽङ्गदो नाम त्वामाह्वयति संयुगे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +632,15 @@ battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालिनः सदृशः पुत्रः सुग्रीवस्य सदा प्रियः ।  
 राघवार्थे पराक्रान्तः शक्रार्थे वरुणो यथा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +675,15 @@ for Rama's interests, as Varuna is to Indra's."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्य सा मतिः सर्वा यद् दृष्टा जनकात्मजा ।  
 हनूमता वेगवता राघवस्य हितैषिणा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +717,15 @@ monkey and a well-wisher of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहूनि वानरेन्द्राणामेष यूथानि वीर्यवान् ।  
 परिगृह्याभियाति त्वां स्वेनानीकेन मर्दितुम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +759,15 @@ approaching to crush you, with the help of his own army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुवालिसुतस्यापि बलेन महता वृतः ।  
 वीरस्तिष्ठति सङ्ग्रामे सेतुहेतुरयं नलः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +801,7 @@ next to Angada the son of Vali, prepared for the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -764,6 +812,8 @@ next to Angada the son of Vali, prepared for the battle."
 य एनमनुगच्छन्ति वीराश्चन्दनवासिनः ॥ २३ ॥  
 एषैवाशंसते लङ्कां स्वेनानीकेन मर्दितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,6 +840,7 @@ _________________
 
 शरीरगळन्नु मेलक्कॆ निमिरिसिकॊण्डु गट्टियागि गर्जिसुत्तिरुव आ वानररन्नु नोडु. कॆलवु वानररु कुळितल्लिन्द मेलक्कॆद्दु कोपदिन्द उब्बुत्तिद्दारॆ. अवर वेगवन्नु सहिसुवुदु अति दुस्तरवागिदॆ. अवरु महाभयङ्कररू, महाकोपिष्ठरू आगिद्दु, प्रचण्डवाद पराक्रम उळ्ळवरु. अवर सङ्ख्यॆ नूरु कोटि ऎण्टु लक्षदष्टिदॆ. चन्दनवनदल्लि वासिसुव अवरॆल्लरू वानर श्रेष्ठनाद नळन अनुयायिगळु. नळनू कूड तन्न अपार सैन्यदॊन्दिगॆ लङ्कापट्टणवन्नु मर्दिसलु इच्छिसुत्तिद्दानॆ.॥22-23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -798,6 +849,8 @@ _________________
 तूर्णं सुग्रीवमागम्य पुनर्गच्छति वानरः ॥ २५ ॥  
 विभजन् वानरीं सेनामनीकानि प्रहर्षयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -845,6 +898,7 @@ forthwith."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -852,6 +906,8 @@ forthwith."
 नाम्ना संरोचनो नाम नानानगयुतो गिरिः ।  
 तत्र राज्यं प्रशास्त्येष कुमुदो नाम यूथपः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,6 +951,7 @@ of monkeys and brining great delight to the troops, he goes back at once."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -904,6 +961,8 @@ of monkeys and brining great delight to the troops, he goes back at once."
 अदीनो वानरश्चण्डः सङ्ग्राममभिकाङ्क्षति ।  
 एषोऽप्याशंसते लङ्कां स्वेनानीकेन मर्दितुम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -923,6 +982,7 @@ of monkeys and brining great delight to the troops, he goes back at once."
 
 लक्षावधि वानर सैनिकरन्नु हर्षदिन्द तन्नॊन्दिगॆ तन्दिरुव, इवन उद्दवाद बालदल्लिरुव रोमगळु बहळ नीळवागिवॆ. कॆम्पु-हळदि-बिळुपु मुन्ताद बण्णगळिन्द कूडिवॆ. नोडलु महाभयङ्करनागिद्दु, दैन्यवॆम्बुदे इल्लदिरुव, युद्धोच्छुकनाद आ वानरन हॆसरु चण्ड ऎन्दागिदॆ. ई चण्डनू तन्न सैन्यद मूलक लङ्कॆयन्नु मर्दिसलु इच्छिसुत्तिरुवनु.॥28-29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -934,6 +994,8 @@ of monkeys and brining great delight to the troops, he goes back at once."
 यं यान्तं वानरा घोराश्चण्डाश्चण्डपराक्रमाः ।  
 परिवार्यानुगच्छन्ति लङ्कां मर्दितुमोजसा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,6 +1058,7 @@ that he with destroy Lanka his forces."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1004,6 +1067,8 @@ that he with destroy Lanka his forces."
 प्रकम्पते च रोषेण तिर्यक् च पुनरीक्षते ।  
 पश्य लाङ्गूलविक्षेपं क्ष्वेडत्येष महाबलः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,12 +1116,15 @@ him who is marching ahead and follow in his goot-sets to destroy Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाजवो वीतभयो रम्यं साल्वेयपर्वतम् ।  
 राजन् सततमध्यास्ते शरभो नाम यूथपः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1141,15 @@ him who is marching ahead and follow in his goot-sets to destroy Lanka."
 
 महाराजा! ई यूथपति शरभनु सदा रमणीयवागिरुव साल्वेय पर्वतदल्लि वासिसुत्ता, महावेगशालियाद इवनिगॆ भयवॆम्बुदे इल्ल.॥35॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्य बलिनः सर्वे विहारा नाम यूथपाः ।  
 राजन् शतसहस्राणि चत्वारिंशत्तथैव च ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1123,6 +1194,7 @@ monkeys with immense energy and devoid of fear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1135,6 +1207,8 @@ monkeys with immense energy and devoid of fear."
 एनं शतसहस्राणां शतार्धं पर्युपासते ।  
 यूथपा यूथपश्रेष्ठं येषां यूथानि भागशः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,6 +1286,7 @@ strong.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1221,6 +1296,8 @@ strong.
 पिबंश्चरति यो वेणां नदीनामुत्तमां नदीम् ॥ ४२ ॥  
 षष्टिः शतसहस्राणि बलमस्य प्लवङ्गमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,12 +1334,15 @@ to him, who is excellent among the Generals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वामाह्वयति युद्धाय क्रोधनो नाम वानरः ॥ ४३ ॥  
 विक्रान्ता बलवन्तश्च यथा यूथानि भागशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1282,6 +1362,7 @@ _________________
 
 अल्लि काणुत्तिरुववने क्रोधन ऎम्ब वानर श्रेष्ठनु. अवनू कूड निम्मन्नु युद्धक्कागि आह्वानिसुत्तिद्दानॆ. अवन बळि महापराक्रमिगळाद मत्तु बलिष्ठराद अनेक दळपतिगळिद्दारॆ. अवर अधीनदल्लियू बेरॆ बेरॆ अनेक तुकडिगळ वानर सैन्यविदॆ.॥43॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1291,6 +1372,8 @@ _________________
 एनं शतसहस्राणि सप्ततिः पर्युपासते ।  
 एषैवाशंसते लङ्कां स्वेनानीकेन मर्दितुम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1371,12 +1454,15 @@ drinking the water of River Vena, the foremost of all rivers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते दुष्प्रसहा वीरा येषां सङ्ख्या न विद्यते ।  
 यूथपा यूथपश्रेष्ठास्तेषां यूथानि भागशः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1429,5 +1515,6 @@ Lanka with the help of his army."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तारनॆय सर्ग पूर्णवायितु.॥27॥
+</details>
 </details>
 

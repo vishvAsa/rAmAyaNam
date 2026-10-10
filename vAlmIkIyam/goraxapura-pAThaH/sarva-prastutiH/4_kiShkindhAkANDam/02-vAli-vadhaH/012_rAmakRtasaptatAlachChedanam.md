@@ -2,6 +2,8 @@
 title = "०१२ रामकृतसप्ततालच्छेदनम्"
 title_english = "012 The initial challenge"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -28,12 +30,15 @@ with Vali.
 
 12. श्रीरामके द्वारा सात साल-वृक्षोंका भेदन, श्रीरामकी आज्ञासे सुग्रीवका किष्किन्धामें आकर वालीको ललकारना और युद्धमें उससे पराजित होकर मतंगवनमें भाग जाना, वहाँ श्रीरामका उन्हें आश्वासन देना और गलेमें पहचानके लिये गजपुष्पीलता डालकर उन्हें पुनः युद्धके लिये भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्च वचनं श्रुत्वा सुग्रीवस्य सुभाषितम् ।  
 प्रत्ययार्थं महातेजा रामो जग्राह कार्मुकम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ valour, that great resplendent Rama took-up bow to inculcate credence in Sugreev
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गृहीत्वा धनुर्घोरं शरमेकं च मानदः ।  
 सालमुद्दिश्य चिक्षेप पूरयन् स रवैर्दिशः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ bowstring. [4-12-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विसृष्टो बलवता बाणः स्वर्णपरिष्कृतः ।  
 भित्त्वा सालान् गिरिप्रस्थं सप्तं भूमिं विवेश ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ and even the levelled areas of mountain, and then entered the earth. [4-12-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सायकस्तु मुहूर्तेन सालान् भित्त्वा महाजवः ।  
 निष्पत्य च पुनस्तूणं तमेव प्रविवेश ह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ talaatala* are the names of six strata of earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् दृष्ट्वा सप्त निर्भिन्नान् सालान् वानरपुङ्गवः ।  
 रामस्य शरवेगेन विस्मयं परमं गतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ Sugreeva went into a stunning astonishment at the rapidity of Rama's arrow. [4-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मूर्ध्ना न्यपतद् भूमौ प्रलम्बीकृतभूषणः ।  
 सुग्रीवः परमप्रीतो राघवाय कृताञ्जलिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ ornaments dangled, and prostrated before Raghava with his head touching the grou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं चोवाच धर्मज्ञं कर्मणा तेन हर्षितः ।  
 रामं सर्वास्त्रविदुषां श्रेष्ठं शूरमवस्थितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ him. [4-12-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेन्द्रानपि सुरान् सर्वांस्त्वं बाणैः पुरुषर्षभ ।  
 समर्थः समरे हन्तुं किं पुनर्वालिनं प्रभो ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +417,15 @@ gods including Indra, oh, lord, then why to speak of Vali. [4-12-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन सप्त महासाला गिरिर्भूमिश्च दारिताः ।  
 बाणेनैकेन काकुत्स्थ स्थाता ते को रणाग्रतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ only one arrow, oh Kakutstha, who then can stand up to you in the vanguard of wa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मे विगतः शोकः प्रीतिरद्य परा मम ।  
 सुहृदं त्वां समासाद्य महेन्द्रवरुणोपमम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +518,15 @@ Rain-god who accord favour on their own, my distress is gone and my joy is heigh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमद्यैव प्रियार्थं मे वैरिणं भ्रातृरूपिणम् ।  
 वालिनं जहि काकुत्स्थ मया बद्धोऽयमञ्जलिः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +567,15 @@ for my happiness, for which I adjoin my palms in supplication." Thus Sugreeva re
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामः परिष्वज्य सुग्रीवं प्रियदर्शनम् ।  
 प्रत्युवाच महाप्राज्ञो लक्ष्मणानुगतं वचः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +610,15 @@ and then Rama said these words to such a Sugreeva in reply. [4-12-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माद‍्गच्छाम किष्किन्धां क्षिप्रं गच्छ त्वमग्रतः ।  
 गत्वा चाह्वय सुग्रीव वालिनं भ्रातृगन्धिनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +672,15 @@ of cruelty alone, but not any brotherliness. Rama Tilaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे ते त्वरितं गत्वा किष्किन्धां वालिनः पुरीम् ।  
 वृक्षैरात्मानमावृत्य ह्यतिष्ठन् गहने वने ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +720,15 @@ thickets of forest trees and waited. [4-12-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवोऽप्यनदद् घोरं वालिनो ह्वानकारणात् ।  
 गाढं परिहितो वेगान्नादैर्भिन्दन्निवाम्बरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +769,15 @@ the sky. [4-12-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं श्रुत्वा निनदं भ्रातुः क्रुद्धो वाली महाबलः ।  
 निष्पपात सुसंरब्धो भास्करोऽस्ततटादिव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +830,15 @@ like blazing sun from behind the black cloud.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुतुमुलं युद्धं वालिसुग्रीवयोरभूत् ।  
 गगने ग्रहयोर्घोरं बुधाङ्गारकयोरिव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,12 +884,15 @@ their jarring spheres / compound." Paradise Lost. Book VI. - So say Griffith.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तलैरशनिकल्पैश्च वज्रकल्पैश्च मुष्टिभिः ।  
 जघ्नतुः समरेऽन्योन्यं भ्रातरौ क्रोधमूर्च्छितौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,12 +935,15 @@ with their thunderbolt-like palms, and lightning-like fists. [4-12-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो धनुष्पाणिस्तावुभौ समुदैक्षत ।  
 अन्योन्यसदृशौ वीरावुभौ देवाविवाश्विनौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +988,15 @@ or the Dioskuri are the Ashwin twins of Hindus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्नावगच्छत् सुग्रीवं वालिनं वापि राघवः ।  
 ततो न कृतवान् बुद्धिं मोक्तुमन्तकरं शरम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1037,15 @@ arrow, as confusion is the only reason for Rama. [4-12-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे भग्नः सुग्रीवस्तेन वालिना ।  
 अपश्यन् राघवं नाथमृष्यमूकं प्रदुद्रुवे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,12 +1088,15 @@ down, and thereby he immediately fled to Mt. Rishyamuka. [4-12-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्लान्तो रुधिरसिक्ताङ्गः प्रहारैर्जर्जरीकृतः ।  
 वालिनाभिद्रुतः क्रोधात् प्रविवेश महावनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1136,15 @@ blood, and he entered the great forest of Rishyamuka as Vali chased him. [4-12-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रविष्टं वनं दृष्ट्वा वाली शापभयात् ततः ।  
 मुक्तो ह्यसि त्वमित्युक्त्वा स निवृत्तो महाबलः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1114,12 +1185,15 @@ of Sage Matanga. [4-12-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवोऽपि सह भ्रात्रा सह चैव हनूमता ।  
 तदेव वनमागच्छत् सुग्रीवो यत्र वानरः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1233,15 @@ Hanuma, where that monkey Sugreeva fled. [4-12-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्यागतं रामं सुग्रीवः सहलक्ष्मणम् ।  
 ह्रीमान् दीनमुवाचेदं वसुधामवलोकयन् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,6 +1281,7 @@ to earth and piteously spoke this without eyeing Rama [4-12-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1212,6 +1290,8 @@ to earth and piteously spoke this without eyeing Rama [4-12-25]
 तामेव वेलां वक्तव्यं त्वया राघव तत्त्वतः ।  
 वालिनं न निहन्मीति ततो नाहमितो व्रजे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1272,12 +1352,15 @@ battered by my enemy, what is this done by you." [4-12-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चैवं ब्रुवाणस्य सुग्रीवस्य महात्मनः ।  
 करुणं दीनया वाचा राघवः पुनरब्रवीत् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,12 +1399,15 @@ in this way. [4-12-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीव श्रूयतां तात क्रोधश्च व्यपनीयताम् ।  
 कारणं येन बाणोऽयं स मया न विसर्जितः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1361,12 +1447,15 @@ reason may be heard and let the anger be discarded. [4-12-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलङ्कारेण वेषेण प्रमाणेन गतेन च ।  
 त्वं च सुग्रीव वाली च सदृशौ स्थः परस्परम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1400,12 +1489,15 @@ sthaH* = to each other, resemble, you both are there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरेण वर्चसा चैव प्रेक्षितेन च वानर ।  
 विक्रमेण च वाक्यैश्च व्यक्तिं वां नोपलक्षये ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1445,12 +1537,15 @@ speech, oh monkey, I could not mark any difference. [4-12-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं रूपसादृश्यान्मोहितो वानरोत्तम ।  
 नोत्सृजामि महावेगं शरं शत्रुनिबर्हणम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,12 +1585,15 @@ annihilating arrow of mine as I was confused in the similarity of your personali
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितान्तकरं घोरं सादृश्यात् तु विशङ्कितः ।  
 मूलघातो न नौ स्याद्धि द्वयोरिति कृतो मया ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1538,12 +1636,15 @@ life-taking arrow, otherwise the basic object of ours will be ruined, isn't it. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयि वीर विपन्ने हि अज्ञानाल्लाघवान्मया ।  
 मौढ्यं च मम बाल्यं च ख्यापितं स्यात् कपीश्वर ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1588,6 +1689,7 @@ isn't it. [4-12-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1596,6 +1698,8 @@ isn't it. [4-12-34]
 त्वदधीना वयं सर्वे वनेऽस्मिन् शरणं भवान् ।  
 तस्माद् युध्यस्व भूयस्त्वं मा माशङ्कीश्च वानर ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1639,12 +1743,15 @@ are our shelterer in this forest. [4-12-35, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्मुहूर्ते तु मया पश्य वालिनमाहवे ।  
 निरस्तमिषुणैकेन चेष्टमानं महीतले ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1684,12 +1791,15 @@ squirming on the ground. [4-12-36, 37],
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिज्ञानं कुरुष्व त्वमात्मनो वानरेश्वर ।  
 येन त्वामभिजानीयां द्वन्द्वयुद्धमुपागतम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1729,12 +1839,15 @@ identified when you are engaged in duel. [4-12-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजपुष्पीमिमां फुल्लामुत्पाट्य शुभलक्षणाम् ।  
 कुरु लक्ष्मण कण्ठेऽस्य सुग्रीवस्य महात्मनः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1777,12 +1890,15 @@ this noble souled Sugreeva be garlanded with that." So said Rama to Lakshmana. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गिरितटे जातामुत्पाट्य कुसुमायुताम् ।  
 लक्ष्मणो गजपुष्पीं तां तस्य कण्ठे व्यसर्जयत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1825,12 +1941,15 @@ mountain, and slung it like a garland around the neck of that Sugreeva. [4-12-40
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तया शुशुभे श्रीमाल्ँ लतया कण्ठसक्तया ।  
 मालयेव बलाकानां ससन्ध्य इव तोयदः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1874,12 +1993,15 @@ of herons adorning that cloud like a garland. [4-12-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभ्राजमानो वपुषा रामवाक्यसमाहितः ।  
 जगाम सह रामेण किष्किन्धां पुनराप सः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1924,5 +2046,6 @@ emboldened by Rama's words, and he again advanced to Kishkindha with Rama, and r
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हन्नॆरडनॆय सर्ग सम्पूर्णवायितु. ॥12॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४४ मारीचवधः"
 title_english = "044 Rama eliminates Maareecha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ oddity of Maareecha and presumes that some danger is immanent and then returns t
 
 44. श्रीरामके द्वारा मारीचका वध और उसके द्वारा सीता और लक्ष्मणके पुकारनेका शब्द सुनकर श्रीरामकी चिन्ता
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तु तं समादिश्य भ्रातरं रघुनन्दनः ।  
 बबन्धासिं महातेजा जाम्बूनदमयत्सरुम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ that way securely fastened his sword with golden handle to his waist. [3-44-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्रिविनतं चापमादायात्मविभूषणम् ।  
 आबध्य च कपालौ द्वौ जगामोदग्रविक्रमः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ called kodanDa, and fastened two quivers and proceeded. [3-44-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वन्यराजो राजेन्द्रमापतन्तं निरीक्ष्य वै ।  
 बभूवान्तर्हितस्त्रासात् पुनः सन्दर्शनेऽभवत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,6 +181,7 @@ firstly disappeared with securely grit sword and firmly handled bow. [3-44-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,6 +194,8 @@ firstly disappeared with securely grit sword and firmly handled bow. [3-44-3]
 छिन्नाभ्रैरिव संवीतं शारदं चन्द्रमण्डलम् ।  
 मुहूर्तादेव ददृशे मुहुर्दूरात् प्रकाशते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +250,15 @@ those thickets, like the autumnal orb of the moon under the fly front of splinte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनादर्शनेनैव सोऽपाकर्षत राघवम् ।  
 स दूरमाश्रमस्यास्य मारीचो मृगतां गतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +297,15 @@ very far from his hermitage in this hide and seek game. [3-44-7b, 8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीत् क्रुद्धस्तु काकुत्स्थो विवशस्तेन मोहितः ।  
 अथावतस्थे सुश्रान्तश्छायामाश्रित्य शाद्वले ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +349,15 @@ and then verily tired as he is he stayed on a pasture taking shelter of a tree s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमुन्मादयामास मृगरूपो निशाचरः ।  
 मृगैः परिवृतोऽथान्यैरदूरात् प्रत्यदृश्यत ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +397,15 @@ reappearing in his close-by, surrounded with other animals of the forest. [3-44-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रहीतुकामं दृष्ट्वा तं पुनरेवाभ्यधावत ।  
 तत्क्षणादेव सन्त्रासात् पुनरन्तर्हितोऽभवत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +447,15 @@ fear. [3-44-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरेव ततो दूराद् वृक्षखण्डाद् विनिःसृतः ।  
 दृष्ट्वा रामो महातेजास्तं हन्तुं कृतनिश्चयः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,6 +499,7 @@ great-resplendent Rama has firmed up his decision to fell it. [3-44-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -479,6 +509,8 @@ great-resplendent Rama has firmed up his decision to fell it. [3-44-12]
 तमेव मृगमुद्दिश्य श्वसन्तमिव पन्नगम् ॥ १४ ॥  
 मुमोच ज्वलितं दीप्तमस्त्रं ब्रह्मविनिर्मितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +570,15 @@ which is hissing like a snake. [3-44-13, 14, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीरं मृगरूपस्य विनिर्भिद्य शरोत्तमः ॥ १५ ॥  
 मारीचस्यैव हृदयं बिभेदाशनिसन्निभः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +619,15 @@ similar to a thunderbolt has severed the heart of Maareecha in the core of deer'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तालमात्रमथोत्प्लुत्य न्यपतत् स भृशातुरः ॥ १६ ॥  
 व्यनदद् भैरवं नादं धरण्यामल्पजीवितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,6 +671,7 @@ shriek, vaulted up to a height of palm-tree, and fell down onto the ground. [3-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -640,6 +679,8 @@ shriek, vaulted up to a height of palm-tree, and fell down onto the ground. [3-4
 स्मृत्वा तद्वचनं रक्षो दध्यौ केन तु लक्ष्मणम् ।  
 इह प्रस्थापयेत् सीता तां शून्ये रावणो हरेत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +739,15 @@ it is better to do as said by Ravana for the elimination of Ravana. So thought M
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्राप्तकालमाज्ञाय चकार च ततः स्वनम् ।  
 सदृशं राघवस्येव हा सीते लक्ष्मणेति च ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,12 +791,15 @@ also thus 'ha Lakshmana...' [3-44-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मर्मणि निर्विद्धं शरेणानुपमेन हि ।  
 मृगरूपं तु तत् त्यक्त्वा राक्षसं रूपमास्थितः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,6 +858,7 @@ or form. This is how he abducts Seetha changing his semblances instantaneously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -819,6 +867,8 @@ or form. This is how he abducts Seetha changing his semblances instantaneously.
 रामो रुधिरसिक्ताङ्गं चेष्टमानं महीतले ।  
 जगाम मनसा सीतां लक्ष्मणस्य वचः स्मरन् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +919,15 @@ Seetha reminiscing Lakshmana's words. [3-44-21b, 22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीचस्य तु मायैषा पूर्वोक्तं लक्ष्मणेन तु ।  
 तत् तथा ह्यभवच्चाद्य मारीचोऽयं मया हतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,6 +968,7 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -922,6 +976,8 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 ममार राक्षसः सोऽयं श्रुत्वा सीता कथं भवेत् ॥ २४ ॥  
 लक्ष्मणश्च महाबाहुः कामवस्थां गमिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,6 +995,7 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 
 आदरॆ ई राक्षसनु गट्टियागि हा सीते! हा लक्ष्मण! ऎन्दु कूगि सत्तुहोदनल्ल. अवन आ शब्दवन्नु केळि सीतॆय अवस्थॆ एनागिरबहुदु? महाबाहु लक्ष्मण स्थिति एनादीतु.॥24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -946,6 +1003,8 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 तत्र रामं भयं तीव्रमाविवेश विषादजम् ।  
 राक्षसं मृगरूपं तं हत्वा श्रुत्वा च तत्स्वनम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,12 +1062,15 @@ predicament. [3-44-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहत्य पृषतं चान्यं मांसमादाय राघवः ।  
 त्वरमाणो जनस्थानं ससाराभिमुखं तदा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1058,5 +1120,6 @@ himself towards Janasthaana. [3-44-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥44॥
+</details>
 </details>
 

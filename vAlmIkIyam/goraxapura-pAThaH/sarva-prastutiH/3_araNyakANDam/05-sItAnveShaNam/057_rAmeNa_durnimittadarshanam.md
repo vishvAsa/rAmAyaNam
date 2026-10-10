@@ -2,6 +2,8 @@
 title = "०५७ रामेण दुर्निमित्तदर्शनम्"
 title_english = "057 Rama meets Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -20,12 +22,15 @@ some ill omens and worries why Lakshmana left Seetha alone and came to him, sad 
 
 श्रीरामका लौटना, मार्गमें अपशकुन देखकर चिन्तित होना तथा लक्ष्मणसे मिलनेपर उन्हें उलाहना दे सीतापर सङ्कट आनेकी आशङ्का करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसं मृगरूपेण चरन्तं कामरूपिणम् ।  
 निहत्य रामो मारीचं तूर्णं पथि न्यवर्तत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ guise of a deer, instantly started to return on the trail by which he trailed af
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सन्त्वरमाणस्य द्रष्टुकामस्य मैथिलीम् ।  
 क्रूरस्वनोऽथ गोमायुर्विननादास्य पृष्ठतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,12 +115,15 @@ his behind. [3-57-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य स्वरमाज्ञाय दारुणं रोमहर्षणम् ।  
 चिन्तयामास गोमायोः स्वरेण परिशङ्कितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,12 +162,15 @@ of fox in which it is foreboding, inasmuch as the forbidding intoning of Maareec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशुभं बत मन्येऽहं गोमायुर्वाश्यते यथा ।  
 स्वस्ति स्यादपि वैदेह्या राक्षसैर्भक्षणं विना ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,12 +210,15 @@ Vaidehi be safe? [3-57-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीचेन तु विज्ञाय स्वरमालक्ष्य मामकम् ।  
 विक्रुष्टं मृगरूपेण लक्ष्मणः शृणुयाद् यदि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +235,15 @@ Vaidehi be safe? [3-57-4]
 
 मृगरूपधारी मारीचनु तिळिदु-तिळिदु नन्न स्वरवन्नु अनुकरणमाडि आर्तनाद माडिदुदु, लक्ष्मणनु केळबेकॆन्दे कूगिदुदागिदॆ.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सौमित्रिः स्वरं श्रुत्वा तां च हित्वाथ मैथिलीम् ।  
 तयैव प्रहितः क्षिप्रं मत्सकाशमिहैष्यति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,6 +282,7 @@ her off. [3-57-5, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -270,6 +291,8 @@ her off. [3-57-5, 6]
 दूरं नीत्वाथ मारीचो राक्षसोऽभूच्छराहतः ।  
 हा लक्ष्मण हतोऽस्मीति यद्वाक्यं व्याजहार ह ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ Seetha, I am killed,' the demons are collectively intending to do away with Seet
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि स्वस्ति भवेद् द्वाभ्यां रहिताभ्यां मया वने ।  
 जनस्थाननिमित्तं हि कृतवैरोऽस्मि राक्षसैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,6 +394,7 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -375,6 +402,8 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 इत्येवं चिन्तयन् रामः श्रुत्वा गोमायुनिःस्वनम् ॥ १० ॥  
 निवर्तमानस्त्वरितो जगामाश्रममात्मवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +421,15 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 
 इन्दु अनेक भयङ्कर अपशकुनगळु कण्डुबरुत्तिवॆ. नरिय कूगन्नु केळि ई प्रकार चिन्तिसुत्तिद्द मनस्सन्नु वशदल्लिरिसिकॊण्ड श्रीरामनु कूडले मरळि आश्रमद कडॆगॆ नडॆदनु.॥10½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मनश्चापनयनं मृगरूपेण रक्षसा ॥ ११ ॥  
 आजगाम जनस्थानं राघवः परिशङ्कितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +465,15 @@ hermitage. [3-57-10b, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दीनमानसं दीनमासेदुर्मृगपक्षिणः ॥ १२ ॥  
 सव्यं कृत्वा महात्मानं घोरांश्च ससृजुः स्वरान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +517,15 @@ have neared him whose heart has become doleful. [3-57-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि दृष्ट्वा निमित्तानि महाघोराणि राघवः ।  
 न्यवर्तताथ त्वरितो जवेनाश्रममात्मनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +575,15 @@ dk*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो लक्ष्मणमायान्तं ददर्श विगतप्रभम् ।  
 ततोऽविदूरे रामेण समीयाय स लक्ष्मणः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +630,7 @@ in melancholy and anguishing by way of his convergence upon ill-omens. [3-57-14,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -596,6 +638,8 @@ in melancholy and anguishing by way of his convergence upon ill-omens. [3-57-14,
 स जगर्हेऽथ तं भ्राता दृष्ट्वा लक्ष्मणमागतम् ॥ १५ ॥  
 विहाय सीतां विजने वने राक्षससेविते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +680,15 @@ so an adorable forest for demons, Rama reproached him as his elder brother. [3-5
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीत्वा च करं सव्यं लक्ष्मणं रघुनन्दनः ॥ १६ ॥  
 उवाच मधुरोदर्कमिदं परुषमार्तवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +735,15 @@ Seetha, but on realising that he is not at fault, his speech is softened.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो लक्ष्मण गर्ह्यं ते कृतं यत् त्वं विहाय ताम् ॥ १७ ॥  
 सीतामिहागतः सौम्य कच्चित् स्वस्ति भवेदिति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -738,12 +788,15 @@ somewhat safe, or everything has already gone astray now itself, or what. [3-57-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मेऽस्ति संशयो वीर सर्वथा जनकात्मजा ॥ १८ ॥  
 विनष्टा भक्षिता वापि राक्षसैर्वनचारिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,6 +813,7 @@ somewhat safe, or everything has already gone astray now itself, or what. [3-57-
 
 वीरने! काडिनल्लि सञ्चरिसुव राक्षसरु जानकियन्नु ऒन्दो सर्वथा नाशमाडिबिट्टिरबहुदु, इल्लवे तिन्दु हाकिरबहुदु, इदरल्लि ननगॆ सन्देहवे इल्ल.॥18½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -767,6 +821,8 @@ somewhat safe, or everything has already gone astray now itself, or what. [3-57-
 अपि लक्ष्मण सीतायाः सामग्र्यं प्राप्नुयामहे ।  
 जीवन्त्याः पुरुषव्याघ्र सुताया जनकस्य वै ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,6 +880,7 @@ or else they might have kidnapped her, I am doubtless about it. [3-57-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -831,6 +888,8 @@ or else they might have kidnapped her, I am doubtless about it. [3-57-18b, 19]
 वाश्यन्ते शकुनाश्चापि प्रदीप्तामभितो दिशम् ।  
 अपि स्वस्ति भवेत् तस्या राजपुत्र्या महाबल ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,6 +934,7 @@ that princes Seetha? [3-57-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -883,6 +943,8 @@ that princes Seetha? [3-57-21]
 हतं कथञ्चिन्महता श्रमेण  
 स राक्षसोऽभून्म्रियमाण एव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,6 +990,7 @@ him, and by an intense effort somehow he was killed, and when dying he transfigu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -936,6 +999,8 @@ him, and by an intense effort somehow he was killed, and when dying he transfigu
 असंशयं लक्ष्मण नास्ति सीता  
 हृता मृता वा पथि वर्तते वा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,5 +1066,6 @@ nunoda || - dk*
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तेळनॆय सर्ग सम्पूर्णवायितु.॥57॥
+</details>
 </details>
 

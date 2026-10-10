@@ -2,6 +2,8 @@
 title = "१०७ रामस्य पित्राज्ञापालनकथनम्"
 title_english = "107 Rama tells Bharata about Dasaratha s promise of kingdom"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -25,12 +27,15 @@ Ayodhya and assume its rulership.
 
 107. श्रीरामका भरतको समझाकर उन्हें अयोध्या जानेका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरेवं ब्रुवाणं तं भरतं लक्ष्मणाग्रजः ।  
 प्रत्युवाच ततः श्रीमान् ज्ञातिमध्ये सुसत्कृतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ follows) to Bharata who was speaking as aforesaid among his relatives.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपपन्नमिदं वाक्यं यस्त्वमेवमभाषथाः ।  
 जातः पुत्रो दशरथात् कैकेय्यां राजसत्तमात् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ excellent king, born through Kaikeyi."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा भ्रातः पिता नः स मातरं ते समुद्वहन् ।  
 मातामहे समाश्रौषीद् राज्यशुल्कमनुत्तमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ maternal grandfather that he would confer his kingdom as an exceptional marriage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरे च सङ्ग्रामे जनन्यै तव पार्थिवः ।  
 सम्प्रहृष्टो ददौ राजा वरमाराधितः प्रभुः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +226,15 @@ gratitude."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सा सम्प्रतिश्राव्य तव माता यशस्विनी ।  
 अयाचत नरश्रेष्ठं द्वौ वरौ वरवर्णिनी ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +251,15 @@ gratitude."
 
 अदर पूर्तिगागि प्रतिज्ञॆ माडिसि निन्न यशस्विनी तायियु आ नरश्रेष्ठ तन्दॆयवरल्लि ऎरडु वरवन्नु केळिदळु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव राज्यं नरव्याघ्र मम प्रव्राजनं तथा ।  
 तच्च राजा तथा तस्यै नियुक्तः प्रददौ वरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन पित्राहमप्यत्र नियुक्तः पुरुषर्षभ ।  
 चतुर्दश वने वासं वर्षाणि वरदानिकम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +352,15 @@ here in the forest for fourteen years, in accord iwth granting of boon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽयं वनमिदं प्राप्तो निर्जनं लक्ष्मणान्वितः ।  
 सीतया चाप्रतिद्वन्द्वः सत्यवादे स्थितः पितुः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +400,15 @@ Lakshmana and Seetha in order to carry out the promise given by our father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवानपि तथेत्येव पितरं सत्यवादिनम् ।  
 कर्तुमर्हसि राजेन्द्र क्षिप्रमेवाभिषिञ्चनात् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,12 +453,15 @@ without any delay.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋणान्मोचय राजानं मत्कृते भरत प्रभुम् ।  
 पितरं त्राहि धर्मज्ञ मातरं चाभिनन्दय ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,12 +504,15 @@ mother and fahter happy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते धीमता तात श्रुतिर्गीता यशस्विना ।  
 गयेन यजमानेन गयेष्वेव पितॄन् प्रति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +556,15 @@ sacrifice in a place called Gaya in honour of his ancestors, chanted the followi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुन्नाम्नो नरकाद् यस्मात् पितरं त्रायते सुतः ।  
 तस्मात् पुत्र इति प्रोक्तः पितॄन् यः पाति सर्वतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,12 +608,15 @@ named as 'Putra'- 'he who delivers his ancestors from all dangers'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष्टव्या बहवः पुत्रा गुणवन्तो बहुश्रुताः ।  
 तेषां वै समवेतानामपि कश्चिद् गयां व्रजेत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -616,12 +657,15 @@ them, who is intimately connected will ocme to Gaya to perform a sacrifice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं राजर्षयः सर्वे प्रतीता रघुनन्दन ।  
 तस्मात् त्राहि नरश्रेष्ठ पितरं नरकात् प्रभो ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +706,15 @@ excellent of men! Therefore, save our father from hell.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां गच्छ भरत प्रकृतीरुपरञ्जय ।  
 शत्रुघ्नसहितो वीर सह सर्वैर्द्विजातिभिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ and give joy to the people there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवेक्ष्ये दण्डकारण्यमहमप्यविलम्बयन् ।  
 आभ्यां तु सहितो वीर वैदेह्या लक्ष्मणेन च ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,6 +802,7 @@ Lakshaman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -760,6 +811,8 @@ Lakshaman."
 गच्छ त्वं पुरवरमद्य सम्प्रहृष्टः  
 संहृष्टस्त्वहमपि दण्डकान् प्रवेक्ष्ये ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +860,7 @@ joy will enter Dankada Forest!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -815,6 +869,8 @@ joy will enter Dankada Forest!"
 एतेषामहमपि काननद्रुमाणां  
 छायां तामतिशयिनीं शनैः श्रयिष्ये ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,6 +922,7 @@ forest-trees."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -874,6 +931,8 @@ forest-trees."
 चत्वारस्तनयवरा वयं नरेन्द्रं  
 सत्यस्थं भरत चराम मा विषीद ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,5 +994,6 @@ promise. Do not get disappointed."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर एळनॆय सर्ग पूर्णवायितु.॥107॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०६२ सम्पातिना स्वकथानिरूपणम्"
 title_english = "062 Sampaati s legend contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ location where Seetha is incarcerated.
 
 62. निशाकर मुनिका सम्पातिको सान्त्वना देते हुए उन्हें भावी श्रीरामचन्द्रजीके कार्यमें सहायता देनेके लिये जीवित रहनेका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा मुनिश्रेष्ठमरुदं भृशदुःखितः ।  
 अथ ध्यात्वा मुहूर्तं च भगवानिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ reports to Angada and others what that is said by Sage Nishaakara to him. [4-62-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पक्षौ च ते प्रपक्षौ च पुनरन्यौ भविष्यतः ।  
 चक्षुषी चैव प्राणाश्च विक्रमश्च बलं च ते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ power, and life-force will comeback...' Thus Sage Nishaakara started to console 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुराणे सुमहत्कार्यं भविष्यं हि मया श्रुतम् ।  
 दृष्टं मे तपसा चैव श्रुत्वा च विदितं मम ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ and it is known to me as I perceived it ascetically... [4-62-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो नाम कश्चिदिक्ष्वाकुवर्धनः ।  
 तस्य पुत्रो महातेजा रामो नाम भविष्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ there will be a great-resplendent a son who will be known as Rama... [4-62-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरण्यं च सह भ्रात्रा लक्ष्मणेन गमिष्यति ।  
 तस्मिन्नर्थे नियुक्तः सन् पित्रा सत्यपराक्रमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ truth-valiant Rama goes to forests along with his brother Lakshmana... [4-62-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैर्ऋतो रावणो नाम तस्य भार्यां हरिष्यति ।  
 राक्षसेन्द्रो जनस्थाने अवध्यः सुरदानवैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +313,15 @@ demons abducts Rama's wife from Janasthaana... [4-62-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा च कामैः प्रलोभ्यन्ती भक्ष्यैर्भोज्यैश्च मैथिली ।  
 न भोक्ष्यति महाभागा दुःखमग्ना यशस्विनी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,12 +363,15 @@ sorrow... [4-62-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमान्नं च वैदेह्या ज्ञात्वा दास्यति वासवः ।  
 यदन्नममृतप्रख्यं सुराणामपि दुर्लभम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +412,15 @@ is renowned to be Nectarous and unattainable even by gods... [4-62-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदन्नं मैथिली प्राप्य विज्ञायेन्द्रादिदं त्विति ।  
 अग्रमुद‍्धृत्य रामाय भूतले निर्वपिष्यति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +461,15 @@ the first morsel and dispenses it on the surface of earth for Rama, saying... [4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि जीवति मे भर्ता लक्ष्मणो वापि देवरः ।  
 देवत्वं गच्छतोर्वापि तयोरन्नमिदं त्विति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +511,15 @@ offers oblation to them... [4-62-10
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष्यन्ति प्रेषितास्तत्र रामदूताः प्लवङ्गमाः ।  
 आख्येया राममहिषी त्वया तेभ्यो विहङ्गम ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,12 +561,15 @@ the queen of Rama... [4-62-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा तु न गन्तव्यमीदृशः क्व गमिष्यसि ।  
 देशकालौ प्रतीक्षस्व पक्षौ त्वं प्रतिपत्स्यसे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +610,15 @@ where you wish to go... await the times and scenes, you will regain both of your
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सहेयमहं कर्तुमद्यैव त्वां सपक्षकम् ।  
 इहस्थस्त्वं हि लोकानां हितं कार्यं करिष्यसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +658,15 @@ and do an agreeable deed to the worlds! So you have to wait. [4-62-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयापि खलु तत् कार्यं तयोश्च नृपपुत्रयोः ।  
 ब्राह्मणानां गुरूणां च मुनीनां वासवस्य च ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,6 +706,7 @@ of Brahmans, teaches, sages and also of Indra is to be done by you alone, isn't 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -669,6 +714,8 @@ of Brahmans, teaches, sages and also of Indra is to be done by you alone, isn't 
 नेच्छे चिरं धारयितुं प्राणांस्त्यक्ष्ये कलेवरम् ।  
 महर्षिस्त्वब्रवीदेवं दृष्टतत्त्वार्थदर्शनः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,5 +776,6 @@ narration in this way. [4-62-15]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥62॥
+</details>
 </details>
 

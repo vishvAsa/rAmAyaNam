@@ -2,6 +2,8 @@
 title = "०५७ सुमन्त्रस्य अयोध्यागमनम्"
 title_english = "057 Sumantra drives back to Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ loudly in anguish.
 
 57. सुमन्त्रका अयोध्याको लौटना, उनके मुखसे श्रीरामका संदेश सुनकर पुरवासियोंका विलाप, राजा दशरथ और कौसल्याकी मूर्च्छा तथा अन्तःपुरकी रानियोंका आर्तनाद
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथयित्वा तु दुःखार्तः सुमन्त्रेण चिरं सह ।  
 रामे दक्षिणकूलस्थे जगाम स्वगृहं गुहः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ Sumantra and with much distress, went to his house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरद्वाजाभिगमनं प्रयागे च सभाजनम् ।  
 आ गिरेर्गमनं तेषां तत्रस्थैरभिलक्षितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ Chitrakuta Mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञातः सुमन्त्रोऽथ योजयित्वा हयोत्तमान् ।  
 अयोध्यामेव नगरीं प्रययौ गाढदुर्मनाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ with intense anguish, rode towards the very city of Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वनानि सुगन्धीनि सरितश्च सरांसि च ।  
 पश्यन् यत्तो ययौ शीघ्रं ग्रामाणि नगराणि च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ way, soon crossed them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सायाह्नसमये द्वितीयेऽहनि सारथिः ।  
 अयोध्यां समनुप्राप्य निरानन्दां ददर्श ह ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ joyless.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शून्यामिव निःशब्दां दृष्ट्वा परमदुर्मनाः ।  
 सुमन्त्रश्चिन्तयामास शोकवेगसमाहतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ in mind and having afflicted with intense anguish, surmised as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न सगजा साश्वा सजना सजनाधिपा ।  
 रामसन्तापदुःखेन दग्धा शोकाग्निना पुरी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ burnt away by a fire of sorrow and blazing grief towards Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति चिन्तापरः सूतो वाजिभिः शीघ्रयायिभिः ।  
 नगरद्वारमासाद्य त्वरितः प्रविवेश ह ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +413,15 @@ horses, entered the city quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमन्त्रमभिधावन्तः शतशोऽथ सहस्रशः ।  
 क्व राम इति पृच्छन्तः सूतमभ्यद्रवन् नराः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,6 +462,7 @@ people ran towards him asking, "Where is Rama?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -441,6 +471,8 @@ people ran towards him asking, "Where is Rama?"
 ते तीर्णा इति विज्ञाय बाष्पपूर्णमुखा नराः ।  
 अहो धिगिति निःश्वस्य हा रामेति विचुक्रुशुः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -503,12 +535,15 @@ by that virtuous and high-souled Rama, I returned here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्राव च वचस्तेषां वृन्दं वृन्दं च तिष्ठताम् ।  
 हताः स्म खलु ये नेह पश्याम इति राघवम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +584,15 @@ indeed are we, who do not see Rama here!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दानयज्ञविवाहेषु समाजेषु महत्सु च ।  
 न द्रक्ष्यामः पुनर्जातु धार्मिकं राममन्तरा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,12 +632,15 @@ sacrificial performances or marriages or in large meetings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं समर्थं जनस्यास्य किं प्रियं किं सुखावहम् ।  
 इति रामेण नगरं पित्रेव परिपालितम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,12 +681,15 @@ was appropriate, what was congenial and what brought happiness to its people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातायनगतानां च स्त्रीणामन्वन्तरापणम् ।  
 राममेवाभितप्तानां शुश्राव परिदेवनाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +732,15 @@ coming forth from windows, consumed by anguish on account of Rama's exile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजमार्गमध्येन सुमन्त्रः पिहिताननः ।  
 यत्र राजा दशरथस्तदेवोपययौ गृहम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +780,15 @@ reached the house of Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽवतीर्य रथाच्छीघ्रं राजवेश्म प्रविश्य च ।  
 कक्ष्याः सप्ताभिचक्राम महाजनसमाकुलाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,12 +829,15 @@ the seven inner apartments of the palace, filled with a large number of people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्म्यैर्विमानैः प्रासादैरवेक्ष्याथ समागतम् ।  
 हाहाकारकृता नार्यो रामादर्शनकर्शिताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +879,15 @@ cried "Alas! Alas".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः ।  
 अन्योन्यमभिवीक्षन्तेऽव्यक्तमार्ततराः स्त्रियः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +927,15 @@ with a stream of tears, looked at each other imperceptibly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दशरथस्त्रीणां प्रासादेभ्यस्ततस्ततः ।  
 रामशोकाभितप्तानां मन्दं शुश्राव जल्पितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +976,15 @@ on account of Rama's exile, from their respective inner apartments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह रामेण निर्यातो विना राममिहागतः ।  
 सूतः किं नाम कौसल्यां क्रोशन्तीं प्रतिवक्ष्यति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1024,15 @@ without Rama while he formerly went out with Rama?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा च मन्ये दुर्जीवमेवं न सुकरं ध्रुवम् ।  
 आच्छिद्य पुत्रे निर्याते कौसल्या यत्र जीवति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,6 +1073,7 @@ think that surely it is difficult thus to live and it is not so easy to preserve
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1017,6 +1083,8 @@ think that surely it is difficult thus to live and it is not so easy to preserve
 स प्रविश्याष्टमीं कक्ष्यां राजानं दीनमातुरम् ।  
 पुत्रशोकपरिद्यूनमपश्यत् पाण्डुरे गृहे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1085,12 +1153,15 @@ house, that appeared to be set ablaze with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिगम्य तमासीनं राजानमभिवाद्य च ।  
 सुमन्त्रो रामवचनं यथोक्तं प्रत्यवेदयत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,12 +1201,15 @@ Rama's message as told.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तूष्णीमेव तच्छ्रुत्वा राजा विद्रुतमानसः ।  
 मूर्च्छितो न्यपतद् भूमौ रामशोकाभिपीडितः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1178,12 +1252,15 @@ for his son, became fainted and fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्तःपुरमाविद्धं मूर्च्छिते पृथिवीपतौ ।  
 उच्छ्रित्य बाहू चुक्रोश नृपतौ पतिते क्षितौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,12 +1304,15 @@ the ground, the inmates of gynaeceum wept, raising their hands in distress.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमित्रया तु सहिता कौसल्या पतितं पतिम् ।  
 उत्थापयामास तदा वचनं चेदमब्रवीत् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1272,12 +1352,15 @@ Kausalya also spoke these words to Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमं तस्य महाभाग दूतं दुष्करकारिणः ।  
 वनवासादनुप्राप्तं कस्मान्न प्रतिभाषसे ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1317,12 +1400,15 @@ from the forest and who has done difficult things?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येममनयं कृत्वा व्यपत्रपसि राघव ।  
 उत्तिष्ठ सुकृतं तेऽस्तु शोके न स्यात् सहायता ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1363,12 +1449,15 @@ it be a meritorious act for you. You cannot get a help, when you weep like this.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव यस्या भयाद् रामं नानुपृच्छसि सारथिम् ।  
 नेह तिष्ठति कैकेयी विश्रब्धं प्रतिभाष्यताम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1408,12 +1497,15 @@ Rama, that Kaikeyi is not here. Speak fearlessly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तथोक्त्वा महाराजं कौसल्या शोकलालसा ।  
 धरण्यां निपपाताशु बाष्पविप्लुतभाषिणी ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1453,12 +1545,15 @@ to the monarch and soon fell to the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलपन्तीं तथा दृष्ट्वा कौसल्यां पतितां भुवि ।  
 पतिं चावेक्ष्य ताः सर्वाः समन्ताद् रुरुदुः स्त्रियः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1499,6 +1594,7 @@ aforesaid and gazing their husband too (lying unconscious).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1507,6 +1603,8 @@ aforesaid and gazing their husband too (lying unconscious).
 स्त्रियश्च सर्वा रुरुदुः समन्ततः  
 पुरं तदासीत् पुनरेव सङ्कुलम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1562,5 +1660,6 @@ all sides gathered around weeping. The city then again became disturbed.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तेळनॆय सर्ग पूर्णवायितु ॥57॥
+</details>
 </details>
 

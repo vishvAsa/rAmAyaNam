@@ -2,6 +2,8 @@
 title = "००३ हनुमता सुग्रीववृत्तान्तकथनम्"
 title_english = "003 Hanuma meets Sri Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -32,12 +34,15 @@ the clever. He is the supreme scholar, teacher, and the cleverest.
 
 3. हनुमान् जी का श्रीराम और लक्ष्मणसे वनमें आनेका कारण पूछना और अपना तथा सुग्रीवका परिचय देना, श्रीरामका उनके वचनोंकी प्रशंसा करके लक्ष्मणको अपनी ओरसे बात करनेकी आज्ञा देना तथा लक्ष्मणद्वारा अपनी प्रार्थना स्वीकृत होनेसे हनुमान् जी का प्रसन्न होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचो विज्ञाय हनुमान् सुग्रीवस्य महात्मनः ।  
 पर्वतादृष्यमूकात् तु पुप्लुवे यत्र राघवौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ are. [4-3-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिरूपं परित्यज्य हनुमान् मारुतात्मजः ।  
 भिक्षुरूपं ततो भेजे शठबुद्धितया कपिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,6 +135,7 @@ his original form, as at 4-3-19.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,6 +146,8 @@ his original form, as at 4-3-19.
 उवाच कामतो वाक्यं मृदु सत्यपराक्रमौ ।  
 राजर्षिदेवप्रतिमौ तापसौ संशितव्रतौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,6 +210,7 @@ best monkey befittingly hailed, greeted and praised those two valiant ones. [4-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,6 +221,8 @@ best monkey befittingly hailed, greeted and praised those two valiant ones. [4-3
 धैर्यवन्तौ सुवर्णाभौ कौ युवां चीरवाससौ ।  
 निःश्वसन्तौ वरभुजौ पीडयन्ताविमाः प्रजाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +291,15 @@ of this forest... [4-3-5b, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहविप्रेक्षितौ वीरौ महाबलपराक्रमौ ।  
 शक्रचापनिभे चापे गृहीत्वा शत्रुनाशनौ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +316,15 @@ of this forest... [4-3-5b, 6]
 
 निम्मिब्बरू वीरर दृष्टियु सिंहदन्तॆ इदॆ. निम्म बल मत्तु पराक्रमवु महत्तागिदॆ. इन्द्र धनुस्सिनन्तॆ महान् शरासन धरिसिकॊण्डु नीवु शत्रुगळन्नु नाशमाडुव शक्तिहॊन्दिरुविरि.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीमन्तौ रूपसम्पन्नौ वृषभश्रेष्ठविक्रमौ ।  
 हस्तिहस्तोपमभुजौ द्युतिमन्तौ नरर्षभौ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +362,15 @@ elephant's trunks are your arms... and you foremost among men are self-resplende
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभया पर्वतेन्द्रोऽसौ युवयोरवभासितः ।  
 राज्यार्हावमरप्रख्यौ कथं देशमिहागतौ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +409,15 @@ divinities, but how you have reached this countryside now... [4-3-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मपत्रेक्षणौ वीरौ जटामण्डलधारिणौ ।  
 अन्योन्यसदृशौ वीरौ देवलोकादिहागतौ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +437,15 @@ _________________
 
 निम्म नेत्रगळु अरळिद कमलदळगळन्तॆ शोभिसुत्तिवॆ. निम्मल्लि शौर्य तुम्बिदॆ. नीविब्बरु तम्म मस्तकद मेलॆ जटॆगळन्नु धरिसिरुविरि. नीविब्बरू ऒन्दे रीतियिन्द इरुविरि. वीररे! नीवु देवलोकदिन्द इल्लिगॆ आगमिसिरुविरा.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदृच्छयेव सम्प्राप्तौ चन्द्रसूर्यौ वसुन्धराम् ।  
 विशालवक्षसौ वीरौ मानुषौ देवरूपिणौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,6 +486,7 @@ Bulls... who you might be... [4-3-12, 13, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -466,6 +496,8 @@ Bulls... who you might be... [4-3-12, 13, 14a]
 उभौ योग्यावहं मन्ये रक्षितुं पृथिवीमिमाम् ॥ १५ ॥  
 ससागरवनां कृत्स्नां विन्ध्यमेरुविभूषिताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +584,15 @@ hands if shook by Sugreeva in friendship, Sugreeva's miseries will be removed co
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे च धनुषी चित्रे श्लक्ष्णे चित्रानुलेपने ॥ १६ ॥  
 प्रकाशेते यथेन्द्रस्य वज्रे हेमविभूषिते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +632,15 @@ Thunderbolt of Indra. [4-3-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पूर्णाश्च शितैर्बाणैस्तूणाश्च शुभदर्शनाः ॥ १७ ॥  
 जीवितान्तकरैर्घोरैर्ज्वलद्भिरिव पन्नगैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +680,15 @@ their appearance... [4-3-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाप्रमाणौ विपुलौ तप्तहाटकभूषणौ ॥ १८ ॥  
 खड्गावेतौ विराजेते निर्मुक्तभुजगाविव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +730,7 @@ burnt [refined,] gold, decorated with; *khaDagau etau viraajete* = swords, these
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -696,6 +738,8 @@ burnt [refined,] gold, decorated with; *khaDagau etau viraajete* = swords, these
 सुग्रीवो नाम धर्मात्मा कश्चिद् वानरपुङ्गवः ।  
 वीरो विनिकृतो भ्रात्रा जगद‍्भ्रमति दुःखितः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -763,12 +807,15 @@ those two brothers, and is going to reveal himself, with a come-what-may attitud
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तोऽहं प्रेषितस्तेन सुग्रीवेण महात्मना ।  
 राज्ञा वानरमुख्यानां हनुमान् नाम वानरः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,6 +857,7 @@ I am Hanuma, another Vanara... [4-3-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -818,6 +866,8 @@ I am Hanuma, another Vanara... [4-3-21]
 भिक्षुरूपप्रतिच्छन्नं सुग्रीवप्रियकारणात् ।  
 ऋष्यमूकादिह प्राप्तं कामगं कामचारिणम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +917,15 @@ brothers. [4-3-22, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु हनुमांस्तौ वीरौ रामलक्ष्मणौ ।  
 वाक्यज्ञो वाक्यकुशलः पुनर्नोवाच किञ्चन ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +964,15 @@ further. [4-3-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा वचस्तस्य रामो लक्ष्मणमब्रवीत् ।  
 प्रहृष्टवदनः श्रीमान् भ्रातरं पार्श्वतः स्थितम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,12 +1021,15 @@ gauging his master's virtuousness, is made know to Lakshmana in the following ve
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सचिवोऽयं कपीन्द्रस्य सुग्रीवस्य महात्मनः ।  
 तमेव काङ्क्षमाणस्य ममान्तिकमिहागतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1068,15 @@ he himself has drew nigh of me, on his own... [4-3-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमभ्यभाष सौमित्रे सुग्रीवसचिवं कपिम् ।  
 वाक्यज्ञं मधुरैर्वाक्यैः स्नेहयुक्तमरिन्दमम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1065,12 +1127,15 @@ usage can be found in this chapter at 4-3-36, *vaajyaj~naH, vaakyaj~nam* etc.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानृग्वेदविनीतस्य नायजुर्वेदधारिणः ।  
 नासामवेदविदुषः शक्यमेवं विभाषितुम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1132,12 +1197,15 @@ direct base in the Veda-s.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम् ।  
 बहु व्याहरतानेन न किञ्चिदपशब्दितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1187,12 +1255,15 @@ Vedic scholar, because he is a practical one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मुखे नेत्रयोश्चापि ललाटे च भ्रुवोस्तथा ।  
 अन्येष्वपि च सर्वेषु दोषः संविदितः क्वचित् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1319,15 @@ sorts of worst reciters of Vedic hymns.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविस्तरमसन्दिग्धमविलम्बितमव्यथम् ।  
 उरःस्थं कण्ठगं वाक्यं वर्तते मध्यमस्वरम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1314,12 +1388,15 @@ labiovelar, are the fourteen reciting mistakes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्कारक्रमसम्पन्नामद्भुतामविलम्बिताम् ।  
 उच्चारयति कल्याणीं वाचं हृदयहर्षिणीम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1378,12 +1455,15 @@ confident, and rhythm included are the six best qualities of best reciters.
 
 १. व्याकरणके नियमानुकूल शुद्ध वाणीको संस्कारसम्पन्न (संस्कृत) कहते हैं । २. शब्दोच्चारणकी शास्त्रीय परिपाटीका नाम क्रम है । ३. बिना रुके धाराप्रवाहरूपसे बोलना अविलम्बित कहलाता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनया चित्रया वाचा त्रिस्थानव्यञ्जनस्थया ।  
 कस्य नाराध्यते चित्तमुद्यतासेररेरपि ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1430,12 +1510,15 @@ namely the training.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवंविधो यस्य दूतो न भवेत् पार्थिवस्य तु ।  
 सिद्ध्यन्ति हि कथं तस्य कार्याणां गतयोऽनघ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1471,12 +1554,15 @@ his ways and means... [4-3-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवङ्गुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः ।  
 तस्य सिद्ध्यन्ति सर्वेऽर्था दूतवाक्यप्रचोदिताः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1513,12 +1599,15 @@ be achieved impelled by such an envoy's words..." Rama thus said to Lakshmana. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सौमित्रिः सुग्रीवसचिवं कपिम् ।  
 अभ्यभाषत वाक्यज्ञो वाक्यज्ञं पवनात्मजम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1558,12 +1647,15 @@ Hanuma, the son of Air-god, who is equally a wise-worded one. [4-3-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदिता नौ गुणा विद्वन् सुग्रीवस्य महात्मनः ।  
 तमेव चावां मार्गावः सुग्रीवं प्लवगेश्वरम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1603,12 +1695,15 @@ in search of that lord of fly-jumpers Sugreeva alone... [4-3-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ब्रवीषि हनुमन् सुग्रीववचनादिह ।  
 तत् तथा हि करिष्यावो वचनात् तव सत्तम ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1648,6 +1743,7 @@ to do accordingly... [4-3-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1656,6 +1752,8 @@ to do accordingly... [4-3-38]
 मनः समाधाय जयोपपत्तौ  
 सख्यं तदा कर्तुमियेष ताभ्याम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1711,5 +1809,6 @@ friendship between Rama ad Sugreeva, at the earliest. [4-3-39]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूरनॆय सर्ग सम्पूर्णवायितु.॥3॥
+</details>
 </details>
 

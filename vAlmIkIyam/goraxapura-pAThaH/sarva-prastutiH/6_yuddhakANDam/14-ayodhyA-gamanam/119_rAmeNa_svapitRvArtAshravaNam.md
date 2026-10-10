@@ -1,6 +1,8 @@
 +++
 title = "११९ रामेण स्वपितृवार्ताश्रवणम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -25,12 +27,15 @@ abode of Indra, by the aerial car.
 
 119. महादेवजीकी आज्ञासे श्रीराम और लक्ष्मणका विमानद्वारा आये हुए राजा दशरथको प्रणाम करना और दशरथका दोनों पुत्रों तथा सीताको आवश्यक संदेश दे इन्द्रलोकको जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा शुभं वाक्यं राघवेणानुभाषितम् ।  
 ततः शुभतरं वाक्यं व्याजहार महेश्वरः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,12 +61,15 @@ _________________
 
 श्रीरघुनाथनु हेळिद शुभवचनगळन्नु केळि श्रीमहादेवनु हीगॆ शुभकर मातन्नु हेळिदरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्कराक्ष महाबाहो महावक्षः परन्तप ।  
 दिष्ट्या कृतमिदं कर्म त्वया धर्मभृतां वर ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,12 +92,15 @@ _________________
 
 पुष्कराक्षने! महाबाहुवे! विशालक्षने! परन्तपने! धर्मात्मरल्लि श्रेष्ठनादवने! नीनु रावणवधॆय कार्यवन्नु नॆरवेरिसिदुदु सौभाग्यद मातागिदॆ.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या सर्वस्य लोकस्य प्रवृद्धं दारुणं तमः ।  
 अपवृत्तं त्वया सङ्ख्ये राम रावणजं भयम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +120,7 @@ _________________
 
 श्रीरामा! रावणनिन्द उण्टाद भय-दुःख समस्त लोकगळिगॆ गाढान्धकारदन्तॆ इत्तु, अदन्नु नीनु युद्धदल्लि तॊलगिसिबिट्टॆ.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +131,8 @@ _________________
 इष्ट्वा तुरगमेधेन प्राप्य चानुत्तमं यशः ।  
 ब्राह्मणेभ्यो धनं दत्त्वा त्रिदिवं गन्तुमर्हसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +181,15 @@ Brahmanas."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष राजा दशरथो विमानस्थः पिता तव ।  
 काकुत्स्थ मानुषे लोके गुरुस्तव महायशाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +229,15 @@ well as the venerable person, is seated in an aerial car, O Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रलोकं गतः श्रीमांस्त्वया पुत्रेण तारितः ।  
 लक्ष्मणेन सह भ्रात्रा त्वमेनमभिवादय ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +273,15 @@ your brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महादेववचः श्रुत्वा राघवः सहलक्ष्मणः ।  
 विमानशिखरस्थस्य प्रणाममकरोत् पितुः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +322,15 @@ salutation to their father, seated on the topmost part of an aerial car.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्यमानं स्वया लक्ष्म्या विरजोऽम्बरधारिणम् ।  
 लक्ष्मणेन सह भ्रात्रा ददर्श पितरं प्रभुः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +370,15 @@ with his own splendour and clad in brilliant garments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षेण महताऽऽविष्टो विमानस्थो महीपतिः ।  
 प्राणैः प्रियतरं दृष्ट्वा पुत्रं दशरथस्तदा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +395,15 @@ with his own splendour and clad in brilliant garments.
 
 विमानदल्लि कुळितिरुव महाराज दशरथनु प्राणप्रिय पुत्र श्रीरामनन्नु नोडि बहळ प्रसन्ननादनु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोप्याङ्के महाबाहुर्वरासनगतः प्रभुः ।  
 बाहुभ्यां सम्परिष्वज्य ततो वाक्यं समाददे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +461,15 @@ thereupon delivered the following still more beautiful speech:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे स्वर्गो बहु मतः सम्मानश्च सुरर्षभैः ।  
 त्वया राम विहीनस्य सत्यं प्रतिशृणोमि ते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +510,15 @@ to me by the foremost of celestials. I am telling you the truth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य त्वां निहतामित्रं दृष्ट्वा सम्पूर्णमानसम् ।  
 निस्तीर्णवनवासं च प्रीतिरासीत् परा मम ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -519,12 +557,15 @@ exile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या यानि चोक्तानि वाक्यानि वदतां वर ।  
 तव प्रव्राजनार्थानि स्थितानि हृदये मम ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,12 +600,15 @@ aim to send you into exile, are still imprinted in my heart."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां तु दृष्ट्वा कुशलिनं परिष्वज्य सलक्ष्मणम् ।  
 अद्य दुःखाद् विमुक्तोऽस्मि नीहारादिव भास्करः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +649,15 @@ completely rid of sorrow - even as the sun is freed from mist."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तारितोऽहं त्वया पुत्र सुपुत्रेण महात्मना ।  
 अष्टावक्रेण धर्मात्मा कहोलो ब्राह्मणो यथा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +698,15 @@ brahmana was redeemed by Ashtavakra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदानीं च विजानामि यथा सौम्य सुरेश्वरैः ।  
 वधार्थं रावणस्येह विहितं पुरुषोत्तमम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +743,15 @@ the rulers of gods, for the destruction of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्था खलु कौसल्या या त्वां राम गृहं गतम् ।  
 वनान्निवृत्तं संहृष्टा द्रक्ष्यते शत्रुसूदनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +785,15 @@ returned home from the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्थाः खलु ते राम नरा ये त्वां पुरीं गतम् ।  
 राज्ये चैवाभिषिक्तं च द्रक्ष्यन्ते वसुधाधिपम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +836,15 @@ consecrated on the throne as a lord of the earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्तेन बलिना शुचिना धर्मचारिणा ।  
 इच्छेयं त्वामहं द्रष्टुं भरतेन समागतम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +881,15 @@ you, honest and virtuous."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश समाः सौम्य वने निर्यातितास्त्वया ।  
 वसता सीतया सार्धं मत्प्रीत्या लक्ष्मणेन च ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +929,15 @@ Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तवनवासोऽसि प्रतिज्ञा पूरिता त्वया ।  
 रावणं च रणे हत्वा देवताः परितोषिताः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +977,15 @@ celestials too have been fully gratified, by your killing of Ravana in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं कर्म यशः श्लाघ्यं प्राप्तं ते शत्रुसूदन ।  
 भ्रातृभिः सह राज्यस्थो दीर्घमायुरवाप्नुहि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1021,15 @@ brothers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणं राजानं रामः प्राञ्जलिरब्रवीत् ।  
 कुरु प्रसादं धर्मज्ञ कैकय्या भरतस्य च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,12 +1066,15 @@ To Dasaratha, who was thus speaking, Rama with joined palms in salutation, submi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सपुत्रां त्वां त्यजामीति यदुक्ता कैकयी त्वया ।  
 स शापः कैकयीं घोरः सपुत्रां न स्पृशेत् प्रभो ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1034,12 +1108,15 @@ You will remember those words spoken by you saying, I disown you, with your son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति स महाराजो राममुक्त्वा कृताञ्जलिम् ।  
 लक्ष्मणं च परिष्वज्य पुनर्वाक्यमुवाच ह ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,12 +1156,15 @@ again uttered the following words to Lakshmana:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं शुश्रूषता भक्त्या वैदेह्या सह सीतया ।  
 कृता मम महाप्रीतिः प्राप्तं धर्मफलं च ते ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1123,12 +1203,15 @@ devotion."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मं प्राप्स्यसि धर्मज्ञ यशश्च विपुलं भुवि ।  
 रामे प्रसन्ने स्वर्गं च महिमानं तथोत्तमम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1190,12 +1273,15 @@ those upholding the cause of virtue! Thank heaven! You accomplished this task."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं शुश्रूष भद्रं ते सुमित्रानन्दवर्धन ।  
 रामः सर्वस्य लोकस्य हितेष्वभिरतः सदा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1232,12 +1318,15 @@ well. Rama forever is intent on advancing the interests of the entire world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते सेन्द्रास्त्रयो लोकाः सिद्धाश्च परमर्षयः ।  
 अभिवाद्य महात्मानमर्चन्ति पुरुषोत्तमम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1277,12 +1366,15 @@ pay homage to the great-souled Rama as a Supreme person, on approaching him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तदुक्तमव्यक्तमक्षरं ब्रह्मसम्मितम् ।  
 देवानां हृदयं सौम्य गुह्यं रामः परन्तपः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,12 +1416,15 @@ and the secret of all gods."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवाप्तधर्माचरणं यशश्च विपुलं त्वया ।  
 एवं शुश्रूषताव्यग्रं वैदेह्या सह सीतया ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,12 +1486,15 @@ the entire world has been removed by you, on the battle-field, O Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा लक्ष्मणं राजा स्नुषां बद्धाञ्जलिं स्थिताम् ।  
 पुत्रीत्याभाष्य मधुरं शनैरेनामुवाच ह ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,12 +1530,15 @@ follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्तव्यो न तु वैदेहि मन्युस्त्यागमिमं प्रति ।  
 रामेणेदं विशुद्ध्यर्थं कृतं वै त्वद्धितैषिणा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1477,12 +1578,15 @@ This has been done by him, wishing for your welfare and in order to demostrate y
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुदुष्करमिदं पुत्रि तव चारित्रलक्षणम् ।  
 कृतं यत् तेऽन्यनारीणां यशो ह्यभिभविष्यति ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1521,12 +1625,15 @@ overshadow their illustriousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वं कामं समाधेया भर्तृशुश्रूषणं प्रति ।  
 अवश्यं तु मया वाच्यमेष ते दैवतं परम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1567,12 +1674,15 @@ But, it is to be told certainly by me. He is your supreme deity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिश्य पुत्रौ सीतां च राघवः ।  
 इन्द्रलोकं विमानेन ययौ दशरथो नृपः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1615,6 +1725,7 @@ Raghu dynasty went to the abode of Indra, the lord of celestials, by an aerial c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1623,6 +1734,8 @@ Raghu dynasty went to the abode of Indra, the lord of celestials, by an aerial c
 आमन्त्र्य पुत्रौ सह सीतया च  
 जगाम देवप्रवरस्य लोकम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1679,5 +1792,6 @@ Indra, the chief of gods.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर हत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥119॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०५४ युद्धे वज्रदंष्ट्राक्रमणम्"
 title_english = "054 Vajradamstra shows terror among the monkeys"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Kishkindha Kanda - Book Of War**
@@ -22,12 +24,15 @@ on the ground.
 
 54. वज्रदंष्ट्र और अङ्गदका युद्ध तथा अङ्गदके हाथसे उस निशाचरका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वबलस्य च घातेन अङ्गदस्य बलेन च ।  
 राक्षसः क्रोधमाविष्टो वज्रदंष्ट्रो महाबलः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ with anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्फार्य च धनुर्घोरं शक्राशनिसमप्रभम् ।  
 वानराणामनीकानि प्राकिरच्छरवृष्टिभिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,12 +115,15 @@ battalions with a flood of arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाश्चापि मुख्यास्ते रथेषु समवस्थिताः ।  
 नानाप्रहरणाः शूराः प्रायुध्यन्त तदा रणे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +163,15 @@ kind of weapon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराणां च शूरास्तु ते सर्वे प्लवगर्षभाः ।  
 अयुध्यन्त शिलाहस्ताः समवेताः समन्ततः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ with rocks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रायुधसहस्राणि तस्मिन्नायोधने भृशम् ।  
 राक्षसाः कपिमुख्येषु पातयाञ्चक्रिरे तदा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ foremost of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराश्चैव रक्षःसु गिरिवृक्षान् महाशिलाः ।  
 प्रवीराः पातयामासुर्मत्तवारणसन्निभाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +306,15 @@ trees and huge lumps of rock on the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूराणां युध्यमानानां समरेष्वनिवर्तिनाम् ।  
 तद् राक्षसगणानां च सुयुद्धं समवर्तत ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +354,15 @@ in battle, a tremendous struggle ensued.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभिन्नशिरसः केचिच्छिन्नैः पादैश्च बाहुभिः ।  
 शस्त्रैरर्दितदेहास्तु रुधिरेण समुक्षिताः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +382,15 @@ _________________
 
 कॆलवर तलॆ ऒडॆदुहोदुवु, कॆलवर कैकालु कळॆदुकॊण्डरु. अनेक योधर शरीरगळु शसगळिन्द घासिगॊण्डु रक्तदिन्द तॊय्दु होयितु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरयो राक्षसाश्चैव शेरते गां समाश्रिताः ।  
 कङ्कगृध्रबलाढ्याश्च गोमायुकुलसङ्कुलाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +428,15 @@ and crows or devoured by troops of jackals.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कबन्धानि समुत्पेतुर्भीरूणां भीषणानि वै ।  
 भुजपाणिशिरश्छिन्नाश्छिन्नकायाश्च भूतले ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,6 +477,7 @@ of all the fearful, their limbs hacked to pieces in the combat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -452,6 +485,8 @@ of all the fearful, their limbs hacked to pieces in the combat.
 ततो वानरसैन्येन हन्यमानं निशाचरम् ॥ ११ ॥  
 प्राभज्यत बलं सर्वं वज्रदंष्ट्रस्य पश्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +521,15 @@ broken up by the monkey-troops.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवङ्गमैः ॥ १२ ॥  
 दृष्ट्वा स रोषताम्राक्षो वज्रदंष्ट्रः प्रतापवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +546,15 @@ broken up by the monkey-troops.
 
 वानरर एटिनिन्द भयगॊण्ड राक्षसरन्नु नोडि, प्रतापि वज्रदंष्ट्रन कण्णुगळु क्रोधदिन्द कॆम्पादवु.॥12½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविवेश धनुष्पाणिस्त्रासयन् हरिवाहिनीम् ॥ १३ ॥  
 शरैर्विदारयामास कङ्कपत्रैरजिह्मगैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +591,15 @@ among them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बिभेद वानरांस्तत्र सप्ताष्टौ नव पञ्च च ॥ १४ ॥  
 विव्याध परमक्रुद्धो वज्रदंष्ट्रः प्रतापवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +643,15 @@ nine or five of his opponents simultaneously, thus destroying them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रस्ताः सर्वे हरिगणाः शरैः सङ्कृत्तदेहिनः ।  
 अङ्गदं सम्प्रधावन्ति प्रजापतिमिव प्रजाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -638,12 +685,15 @@ sought refuge with Angada, as all creatures with Brahma the Lord of Creation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हरिगणान् भग्नान् दृष्ट्वा वालिसुतस्तदा ।  
 क्रोधेन वज्रदंष्ट्रं तमुदीक्षन्तमुदैक्षत ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +727,15 @@ exchanged glances of hatred with Vajradamshtra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रदंष्ट्रोऽङ्गदश्चोभौ योयुध्येते परस्परम् ।  
 चेरतुः परमक्रुद्धौ हरिमत्तगजाविव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +775,15 @@ in rut. They strolled din a tremendous fury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शतसहस्रेण हरिपुत्रं महाबलम् ।  
 जघान मर्मदेशेषु शरैरग्निशिखोपमैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +817,15 @@ his arrows resembling hundred thousand flames of fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरोक्षितसर्वाङ्गो वालिसूनुर्महाबलः ।  
 चिक्षेप वज्रदंष्ट्राय वृक्षं भीमपराक्रमः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +865,15 @@ threw a tree on Vajradamshtra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा पतन्तं तं वृक्षमसम्भ्रान्तश्च राक्षसः ।  
 चिच्छेद बहुधा सोऽपि मथितः प्रापतद् भुवि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +914,15 @@ pieces which fell in heaps on earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा वज्रदंष्ट्रस्य विक्रमं प्लवगर्षभः ।  
 प्रगृह्य विपुलं शैलं चिक्षेप च ननाद च ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,12 +956,15 @@ hold of a large rock and emitting a shout, threw it on him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं दृष्ट्वा स रथादाप्लुत्य वीर्यवान् ।  
 गदापाणिरसम्भ्रान्तः पृथिव्यां समतिष्ठत ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -931,12 +999,15 @@ armed with his mace, stood waiting unperplexed, on the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदेन शिला क्षिप्ता गत्वा तु रणमूर्धनि ।  
 सचक्रकूबरं साश्वं प्रममाथ रथं तदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,12 +1041,15 @@ crushed the chariot with its wheels shafts and horses
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्यच्छिखरं गृह्य विपुलं द्रुमभूषितम् ।  
 वज्रदंष्ट्रस्य शिरसि पातयामास वानरः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1083,15 @@ trees, threw it on Vajradamshtra's head.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभवच्छोणितोद‍्गारी वज्रदंष्ट्रः सुमूर्च्छितः ।  
 मुहूर्तमभवन्मूढो गदामालिङ्ग्य निःश्वसन् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1134,15 @@ convulsively and breathing heavily for a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लब्धसञ्ज्ञो गदया वालिपुत्रमवस्थितम् ।  
 जघान परमक्रुद्धो वक्षोदेशे निशाचरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1105,12 +1185,15 @@ Angada full on the chest with his mace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गदां त्यक्त्वा ततस्तत्र मुष्टियुद्धमकुर्वत ।  
 अन्योन्यं जघ्नतुस्तत्र तावुभौ हरिराक्षसौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,12 +1227,15 @@ demon thus hit each other in that combat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरोद‍्गारिणौ तौ तु प्रहारैर्जनितश्रमौ ।  
 बभूवतुः सुविक्रान्तावङ्गारकबुधाविव ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,12 +1275,15 @@ Mars and Mercury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमतेजस्वी अङ्गदः प्लवगर्षभः ।  
 उत्पाट्य वृक्षं स्थितवानासीत् पुष्पफलैर्युतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1237,12 +1326,15 @@ tree full with many flowers and fruits and stood waiting.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम् ।  
 किङ्किणीजालसञ्छन्नं चर्मणा च परिष्कृतम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1283,12 +1375,15 @@ great beautiful sword decorated richly with a multitude of golden bells.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रांश्च रुचिरान् मार्गांश्चेरतुः कपिराक्षसौ ।  
 जघ्नतुश्च तदान्योन्यं नर्दन्तौ जयकाङ्क्षिणौ ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,12 +1423,15 @@ about in different ways and collided with each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रणैः सास्रैरशोभेतां पुष्पिताविव किंशुकौ ।  
 युध्यमानौ परिश्रान्तौ जानुभ्यामवनीं गतौ ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1374,12 +1472,15 @@ Exhausted were both of them while fighting and they sank their knees on the eart
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमेषान्तरमात्रेण अङ्गदः कपिकुञ्जरः ।  
 उदतिष्ठत दीप्ताक्षो दण्डाहत इवोरगः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1419,12 +1520,15 @@ rose up like a serpent struck with a stick.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्मलेन सुधौतेन खड्गेनास्य महच्छिरः ।  
 जघान वज्रदंष्ट्रस्य वालिसूनुर्महाबलः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1458,12 +1562,15 @@ and stainless sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरोक्षितगात्रस्य बभूव पतितं द्विधा ।  
 तच्च तस्य परीताक्षं शुभं खड्गहतं शिरः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1497,6 +1604,7 @@ blood and eyes rolling, fell into two pieces.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1504,6 +1612,8 @@ blood and eyes rolling, fell into two pieces.
 त्रस्ता ह्यभ्यद्रवल्ँ लङ्कां वध्यमानाः प्लवङ्गमैः ।  
 विषण्णवदना दीना ह्रिया किञ्चिदवाङ्मुखाः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1525,6 +1635,7 @@ _________________
 
 वज्रदंष्ट्रनु सत्तु होदुदन्नु नोडिद राक्षसरु भयदिन्द निश्चेष्टितरादरु. अवरु वानरर एटु तिन्दु भयदिन्द लङ्कॆगॆ ओडिहोदरु. अवरु विषाद ग्रस्तरागिद्दरु. अवरु दुःखितरागि नाचिकॆयिन्द कॆळ मोरॆ हाकिद्दरु.॥36॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1533,6 +1644,8 @@ _________________
 जगाम हर्षं महितो महाबलः  
 सहस्रनेत्रस्त्रिदशैरिवावृतः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1581,5 +1694,6 @@ in shame.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥54॥
+</details>
 </details>
 

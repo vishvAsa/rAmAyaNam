@@ -2,6 +2,8 @@
 title = "०११ ऋष्यशृङ्गागमनम्"
 title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -25,12 +27,15 @@ On the advice of his minister Sumantra, Dasharatha proceeds to Anga kingdom to
 
 एकादशे सर्गे-
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूय एव हि राजेन्द्र शृणु मे वचनं हितम् ।  
 यथा स देवप्रवरः कथयामास बुद्धिमान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +85,15 @@ regarding the era-system of ancient India at endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां कुले जातो भविष्यति सुधार्मिकः ।  
 नाम्ना दशरथो राजा श्रीमान् सत्यप्रतिश्रवः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +127,7 @@ resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -129,6 +138,8 @@ resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2
 अनपत्योऽस्मि धर्मात्मन् शान्ताभर्ता मम क्रतुम् ।  
 आहरेत त्वयाऽऽज्ञप्तः सन्तानार्थं कुलस्य च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +222,15 @@ marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
 
 * शान्ता राजा दशरथ एवं कौसल्याकी औरस पुत्री थी । उन्होंने राजा रोमपादको उसे दत्तक पुत्रीके रूपमें दिया था । इस प्रकार वह राजा दशरथकी औरसी और राजा रोमपादकी दत्तक कन्या थी । (श्रीविष्णुपुराण ४ ।१८ ।१७-१८)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा राज्ञोऽथ तद् वाक्यं मनसा स विचिन्त्य च ।  
 प्रदास्यते पुत्रवन्तं शान्ताभर्तारमात्मवान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +275,15 @@ agniin adhiita... *according to *shruti* scripture.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य च तं विप्रं स राजा विगतज्वरः ।  
 आहरिष्यति तं यज्ञं प्रहृष्टेनान्तरात्मना ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,6 +318,7 @@ very felicitous in the depths of his heart. [1-11-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,6 +327,8 @@ very felicitous in the depths of his heart. [1-11-7]
 यज्ञार्थं प्रसवार्थं च स्वर्गार्थं च नरेश्वरः ।  
 लभते च स तं कामं द्विजमुख्याद् विशाम्पतिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +385,15 @@ svargo naiva ca naiva ca* There is no way out [in other worlds] for those withou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्राश्चास्य भविष्यन्ति चत्वारोऽमितविक्रमाः ।  
 वंशप्रतिष्ठानकराः सर्वभूतेषु विश्रुताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +443,15 @@ Gorresio via Ralph T. H. Griffith [1870-1874].
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स देवप्रवरः पूर्वं कथितवान् कथाम् ।  
 सनत्कुमारो भगवान् पुरा देवयुगे प्रभुः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,12 +490,15 @@ Please refer endnote for *yuga* / era classification.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं पुरुषशार्दूल समानय सुसत्कृतम् ।  
 स्वयमेव महाराज गत्वा सबलवाहनः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,6 +545,7 @@ his narration. [1-11-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -523,6 +553,8 @@ his narration. [1-11-12]
 अनुमान्य वसिष्ठं च सूतवाक्यं निशाम्य च ॥ १३ ॥  
 सान्तःपुरः सहामात्यः प्रययौ यत्र स द्विजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,12 +729,15 @@ is obtained, after asking Sumantra to reiterate what all was said, to sage Vashi
 
 इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनानि सरितश्चैव व्यतिक्रम्य शनैः शनैः ॥ १४ ॥  
 अभिचक्राम तं देशं यत्र वै मुनिपुङ्गवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -735,12 +770,15 @@ where that eminent Brahman is there. [1-11-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसाद्य तं द्विजश्रेष्ठं रोमपादसमीपगम् ॥ १५ ॥  
 ऋषिपुत्रं ददर्शाथो दीप्यमानमिवानलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +817,7 @@ like ritual fire. [1-11-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -787,6 +826,8 @@ like ritual fire. [1-11-15b, 16a]
 रोमपादेन चाख्यातमृषिपुत्राय धीमते ॥ १७ ॥  
 सख्यं सम्बन्धकं चैव तदा तं प्रत्यपूजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,6 +881,7 @@ procedurally and in view of their friendship.[1-11-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -848,6 +890,8 @@ procedurally and in view of their friendship.[1-11-16b, 17a]
 शान्ता तव सुता राजन् सह भर्त्रा विशाम्पते ॥ १९ ॥  
 मदीयं नगरं यातु कार्यं हि महदुद्यतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +951,7 @@ then spoke this to king Romapada. [1-11-18b, 19a]
 
 रोमपादः -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -914,6 +959,8 @@ then spoke this to king Romapada. [1-11-18b, 19a]
 उवाच वचनं विप्रं गच्छ त्वं सह भार्यया ।  
 ऋषिपुत्रः प्रतिश्रुत्य तथेत्याह नृपं तदा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,6 +1023,7 @@ is he...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -984,6 +1032,8 @@ is he...
 ननन्दतुर्दशरथो रोमपादश्च वीर्यवान् ।  
 ततः सुहृदमापृच्छ्य प्रस्थितो रघुनन्दनः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,6 +1088,7 @@ embraced each other and gladdened. [1-11-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1045,6 +1096,8 @@ embraced each other and gladdened. [1-11-22b, 23a]
 क्रियतां नगरं सर्वं क्षिप्रमेव स्वलङ्कृतम् ॥ २४ ॥  
 धूपितं सिक्तसम्मृष्टं पताकाभिरलङ्कृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,12 +1134,15 @@ messengers that are sent beforehand. [1-11-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टाः पौरास्ते श्रुत्वा राजानमागतम् ॥ २५ ॥  
 तथा चक्रुश्च तत् सर्वं राज्ञा यत् प्रेषितं तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1127,12 +1183,15 @@ all those works exactly as ordered by their king. [1-11-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स्वलङ्कृतं राजा नगरं प्रविवेश ह ॥ २६ ॥  
 शङ्खदुन्दुभिनिर्ह्रादैः पुरस्कृत्वा द्विजर्षभम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,6 +1234,7 @@ amidst the full sounding of conch shells and drumbeats. [1-11-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1182,6 +1242,8 @@ amidst the full sounding of conch shells and drumbeats. [1-11-26b, 27a]
 प्रवेश्यमानं सत्कृत्य नरेन्द्रेणेन्द्रकर्मणा ।  
 यथा दिवि सुरेन्द्रेण सहस्राक्षेण काश्यपम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1244,12 +1306,15 @@ when Vishnu incarnated as Dwarf boy Vamana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुरं प्रवेश्यैनं पूजां कृत्वा च शास्त्रतः ।  
 कृतकृत्यं तदात्मानं मेने तस्योपवाहनात् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1359,15 @@ that his desired is fulfilled. [1-11-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुराणि सर्वाणि शान्तां दृष्ट्वा तथागताम् ।  
 सह भर्त्रा विशालाक्षीं प्रीत्यानन्दमुपागमन् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1342,12 +1410,15 @@ of palace derived happiness for the homecoming of their own daughter, as it were
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूज्यमाना तु ताभिः सा राज्ञा चैव विशेषतः ।  
 उवास तत्र सुखिता कञ्चित् कालं सहद्विजा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1410,5 +1481,6 @@ by these Ritwik-s. Hence, Ritwik-hood is the highest.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हन्नॊन्दनॆय सर्ग पूर्णवायितु. ॥11॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३९ वानरसेनासङ्ख्यानिवेदनम्"
 title_english = "039 Rama mildly admonishes Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -24,12 +26,15 @@ of monkey-warriors.
 
 39. श्रीरामचन्द्रजीका सुग्रीवके प्रति कृतज्ञता प्रकट करना तथा विभिन्न वानर-यूथपतियोंका अपनी सेनाओंके साथ आगमन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणं सुग्रीवं रामो धर्मभृतां वरः ।  
 बाहुभ्यां सम्परिष्वज्य प्रत्युवाच कृताञ्जलिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,6 +68,7 @@ in this way suppliantly adjoining palms at Rama. [3-39-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,6 +77,8 @@ in this way suppliantly adjoining palms at Rama. [3-39-1]
 चन्द्रमा रजनीं कुर्यात् प्रभया सौम्य निर्मलाम् ।  
 त्वद्विधो वापि मित्राणां प्रीतिं कुर्यात् परन्तप ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ his indigent-friend, there is no wonder. [3-39-2, 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं त्वयि न तच्चित्रं भवेद् यत् सौम्य शोभनम् ।  
 जानाम्यहं त्वां सुग्रीव सततं प्रियवादिनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ the worthwhile, will not be a wonder but natural. I am aware that you have alway
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वत्सनाथः सखे सङ्ख्ये जेतास्मि सकलानरीन् ।  
 त्वमेव मे सुहृन्मित्रं साहाय्यं कर्तुमर्हसि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ proffer a helping hand to me as a good-hearted friend of mine. [3-39-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जहारात्मविनाशाय मैथिलीं राक्षसाधमः ।  
 वञ्चयित्वा तु पौलोमीमनुह्लादो यथा शचीम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +292,15 @@ got a name Pulomajit.
 
 * पुलोम दानवकी कन्या शची इन्द्रदेवके प्रति अनुरक्त थीं, परंतु अनुह्लादने उनके पिताको फुसलाकर अपने पक्षमें कर लिया और उसकी अनुमतिसे शचीको हर लिया । जब इन्द्रको इसका पता लगा, तब वे अनुमति देनेवाले पुलोमको और अपहरण करनेवाले अनुह्लादको भी मारकर शचीको अपने घर ले आये । यह पुराणप्रसिद्ध कथा है । (रामायणतिलकसे)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नचिरात् तं वधिष्यामि रावणं निशितैः शरैः ।  
 पौलोम्याः पितरं दृप्तं शतक्रतुरिवारिहा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,12 +341,15 @@ to Sugreeva, but... [3-39-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे चैव रजः समभिवर्तत ।  
 उष्णतीव्रां सहस्रांशोश्छादयद् गगने प्रभाम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ _________________
 
 श्रीराम और सुग्रीवमें जब इस प्रकार बातें हो रही थीं, उसी समय बड़े जोरकी धूल उठी, जिसने आकाशमें फैलकर सूर्यकी प्रचण्ड प्रभाको ढक दिया ॥ ८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशः पर्याकुलाश्चासंस्तमसा तेन दूषिताः ।  
 चचाल च मही सर्वा सशैलवनकानना ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,12 +434,15 @@ In the meanwhile dust started to overcast the sky covering the intensely scorchi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नगेन्द्रसङ्काशैस्तीक्ष्णदंष्ट्रैर्महाबलैः ।  
 कृत्स्ना सञ्छादिता भूमिरसङ्ख्येयैः प्लवङ्गमैः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,12 +459,15 @@ In the meanwhile dust started to overcast the sky covering the intensely scorchi
 
 अनन्तर पर्वतदन्तॆ शरीरवुळ्ळ, तीक्ष्ण कोरॆदाडॆगळुळ्ळ असङ्ख्य महाबलि वानररिन्द अल्लिय ऎल्ल भूमियु तुम्बिहोयितु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमेषान्तरमात्रेण ततस्तैर्हरियूथपैः ।  
 कोटीशतपरीवारैर्वानरैर्हरियूथपैः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ In the meanwhile dust started to overcast the sky covering the intensely scorchi
 
 रॆप्पॆ मिटुकुवष्टरल्लि अर्बुद वानररिन्द सुत्तुवरिद अनेकानेक यूधपतिगळु अल्लिगॆ बन्दु सेरि आ भूभागवॆल्लवन्नू तुम्बि होयितु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नादेयैः पार्वतेयैश्च सामुद्रैश्च महाबलैः ।  
 हरिभिर्मेघनिर्ह्रादैरन्यैश्च वनवासिभिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +509,15 @@ In the meanwhile dust started to overcast the sky covering the intensely scorchi
 
 नदी, पर्वत, वन, समुद्र हीगॆ ऎल्ल स्थानगळ निवासि वानररु अल्लि नॆरॆदरु. अवरु मेघ गर्जनॆयन्तॆ गट्टियागि सिंहनाद माडुत्तिद्दरु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणादित्यवर्णैश्च शशिगौरैश्च वानरैः ।  
 पद्मकेसरवर्णैश्च श्वेतैर्हेमकृतालयैः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +569,15 @@ those monkeys is Mt. Meru. [3-39-10, 11, 12, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोटीसहस्रैर्दशभिः श्रीमान् परिवृतस्तदा ।  
 वीरः शतबलिर्नाम वानरः प्रत्यदृश्यत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +617,15 @@ crores of vanara-s, came into the view of Rama and others. [3-39-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः काञ्चनशैलाभस्ताराया वीर्यवान् पिता ।  
 अनेकैर्बहुसाहस्रैः कोटिभिः प्रत्यदृश्यत ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +664,15 @@ thousands of crores of vanara-s. [3-39-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथापरेण कोटीनां सहस्रेण समन्वितः ।  
 पिता रुमायाः सम्प्राप्तः सुग्रीवश्वशुरो विभुः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,6 +712,7 @@ another thousand crores of vanara-s following him. [3-39-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -673,6 +721,8 @@ another thousand crores of vanara-s following him. [3-39-16]
 अनेकैर्बहुसाहस्त्रैर्वानराणां समन्वितः ।  
 पिता हनुमतः श्रीमान् केसरी प्रत्यदृश्यत ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +775,15 @@ vanara-s, then came into view associated with thousands and thousands of armies 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोलाङ्गूलमहाराजो गवाक्षो भीमविक्रमः ।  
 वृतः कोटिसहस्रेण वानराणामदृश्यत ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +822,15 @@ Gavaaksha, the formidably adventurous sovereign of baboons is then seen encircle
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाणां भीमवेगानां धूम्रः शत्रुनिबर्हणः ।  
 वृतः कोटिसहस्राभ्यां द्वाभ्यां समभिवर्तत ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +863,15 @@ which have frightful fastness. [3-39-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाचलनिभैर्घोरैः पनसो नाम यूथपः ।  
 आजगाम महावीर्यस्तिसृभिः कोटिभिर्वृतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +911,15 @@ who are beaming forth like gigantic mountains. [3-39-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलाञ्जनचयाकारो नीलो नामैष यूथपः ।  
 अदृश्यत महाकायः कोटिभिर्दशभिर्वृतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +962,15 @@ crores of vanara-s that are selfsame to their leader. [3-39-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः काञ्चनशैलाभो गवयो नाम यूथपः ।  
 आजगाम महावीर्यः कोटिभिः पञ्चभिर्वृतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1009,15 @@ surrounded by five crores of vanara-s. [3-39-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दरीमुखश्च बलवान् यूथपोऽभ्याययौ तदा ।  
 वृतः कोटिसहस्रेण सुग्रीवं समवस्थितः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1059,15 @@ drawing nigh of him. [3-39-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैन्दश्च द्विविदश्चोभावश्विपुत्रौ महाबलौ ।  
 कोटिकोटिसहस्रेण वानराणामदृश्यताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,12 +1107,15 @@ vanara-s. [3-39-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजश्च बलवान् वीरस्तिसृभिः कोटिभिर्वृतः ।  
 आजगाम महातेजाः सुग्रीवस्य समीपतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,12 +1154,15 @@ of vanara-s. [3-39-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षराजो महातेजा जाम्बवान्नाम नामतः ।  
 कोटिभिर्दशभिर्व्याप्तः सुग्रीवस्य वशे स्थितः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,12 +1201,15 @@ spreading around him and stood firm under the control of Sugreeva. [3-39-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुमणो नाम तेजस्वी विक्रान्तैर्वानरैर्वृतः ।  
 आगतो बलवांस्तूर्णं कोटीशतसमावृतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1248,15 @@ highly venturesome. [3-39-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कोटिसहस्राणां सहस्रेण शतेन च ।  
 पृष्ठतोऽनुगतः प्राप्तो हरिभिर्गन्धमादनः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1215,12 +1298,15 @@ him at his behind. [3-39-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पद्मसहस्रेण वृतः शङ्कुशतेन च ।  
 युवराजोऽङ्गदः प्राप्तः पितुस्तुल्यपराक्रमः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,12 +1349,15 @@ padma legions and a hundred shanku legions of vanara-s.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ताराद्युतिस्तारो हरिभिर्भीमविक्रमैः ।  
 पञ्चभिर्हरिकोटीभिर्दूरतः पर्यदृश्यत ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1310,12 +1399,15 @@ a distance with five crore monkeys. [3-39-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजानुः कविर्वीरो यूथपः प्रत्यदृश्यत ।  
 एकादशानां कोटीनामीश्वरस्तैश्च संवृतः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,12 +1450,15 @@ by selfsame vanara troopers. [3-39-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रम्भस्त्वनुप्राप्तस्तरुणादित्यसन्निभः ।  
 अयुतेन वृतश्चैव सहस्रेण शतेन च ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1402,12 +1497,15 @@ aayuta-s of vanara legions. [3-39-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो यूथपतिर्वीरो दुर्मुखो नाम वानरः ।  
 प्रत्यदृश्यत कोटीभ्यां द्वाभ्यां परिवृतो बली ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1449,12 +1547,15 @@ of vanara-s. [3-39-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासशिखराकारैर्वानरैर्भीमविक्रमैः ।  
 वृतः कोटिसहस्रेण हनुमान् प्रत्यदृश्यत ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1493,12 +1594,15 @@ Kailash and whose bravery is formidable. [3-39-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नलश्चापि महावीर्यः संवृतो द्रुमवासिभिः ।  
 कोटीशतेन सम्प्राप्तः सहस्रेण शतेन च ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,12 +1641,15 @@ monkeys, the dwellers on trees. [3-39-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दधिमुखः श्रीमान् कोटिभिर्दशभिर्वृतः ।  
 सम्प्राप्तोऽभिनदंस्तस्य सुग्रीवस्य महात्मनः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1584,6 +1691,7 @@ crore vanara-s who are all blaring highly. [3-39-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1592,6 +1700,8 @@ crore vanara-s who are all blaring highly. [3-39-37]
 आवृत्य पृथिवीं सर्वां पर्वतांश्च वनानि च ।  
 यूथपाः समनुप्राप्ता येषां सङ्ख्या न विद्यते ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1639,6 +1749,7 @@ inclusive of its mountains and forests, their count is unknown. [3-39-38, 39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1646,6 +1757,8 @@ inclusive of its mountains and forests, their count is unknown. [3-39-38, 39]
 आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
 अभ्यवर्तन्त सुग्रीवं सूर्यमभ्रगणा इव ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1693,12 +1806,15 @@ thus, presented themselves and settled down around Sugreeva as if a number of cl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुर्वाणा बहुशब्दांश्च प्रकृष्टा बाहुशालिनः ।  
 शिरोभिर्वानरेन्द्राय सुग्रीवाय न्यवेदयन् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1739,12 +1855,15 @@ as in roll-call or in headcount. [3-39-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरे वानरश्रेष्ठाः सङ्गम्य च यथोचितम् ।  
 सुग्रीवेण समागम्य स्थिताः प्राञ्जलयस्तदा ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1783,12 +1902,15 @@ then they stayed behind with their palms adjoined. [3-39-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्त्वरितो रामे सर्वांस्तान् वानरर्षभान् ।  
 निवेदयित्वा धर्मज्ञः स्थितः प्राञ्जलिरब्रवीत् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1828,6 +1950,7 @@ is who, and staying with folded palms he addressed the forgathered monkey chiefs
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1836,6 +1959,8 @@ is who, and staying with folded palms he addressed the forgathered monkey chiefs
 निवेशयित्वा विधिवद् बलानि  
 बलं बलज्ञः प्रतिपत्तुमीष्टे ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1903,5 +2028,6 @@ mathematics: liilaavatii gaNita shaastre siddhanta shiromaNe -
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥39॥
+</details>
 </details>
 

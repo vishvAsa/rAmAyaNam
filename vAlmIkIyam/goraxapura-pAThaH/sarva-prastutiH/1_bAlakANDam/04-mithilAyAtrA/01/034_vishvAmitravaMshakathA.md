@@ -2,6 +2,8 @@
 title = "०३४ विश्वामित्रवंशकथा"
 title_english = "034 Legend of vishvamitra s ancestry"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -21,12 +23,15 @@ is Vishwamitra's elder sister turned out as a sacred River.
 
 34. गाधिकी उत्पत्ति, कौशिकीकी प्रशंसा, विश्वामित्रजीका कथा बंद करके आधी रातका वर्णन करते हुए सबको सोनेकी आज्ञा देकर शयन करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोद्वाहे गते तस्मिन् ब्रह्मदत्ते च राघव ।  
 अपुत्रः पुत्रलाभाय पौत्रीमिष्टिमकल्पयत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,12 +48,15 @@ is Vishwamitra's elder sister turned out as a sacred River.
 
 रघुनन्दन! विवाहगळन्नु माडिकॊण्डु राजा ब्रह्मदत्तनु हॊरटुहोदाग, पुत्रहीन कुशनाभनु श्रेष्ठ पुत्रन प्राप्तिगागि पुत्रकामेष्टि यज्ञवन्नु कैगॊण्डनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्ट्यां तु वर्तमानायां कुशनाभं महीपतिम् ।  
 उवाच परमोदारः कुशो ब्रह्मसुतस्तदा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -82,12 +90,15 @@ Brahma and the father of Kushanaabha, spoke to the king Kushanaabha. [1-34-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रस्ते सदृशः पुत्र भविष्यति सुधार्मिकः ।  
 गाधिं प्राप्स्यसि तेन त्वं कीर्तिं लोके च शाश्वतीम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,12 +139,15 @@ Kusha said to Kushanaabha. [1-34-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा कुशो राम कुशनाभं महीपतिम् ।  
 जगामाकाशमाविश्य ब्रह्मलोकं सनातनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +181,15 @@ the time-honoured abode of Brahma. [1-34-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित् त्वथ कालस्य कुशनाभस्य धीमतः ।  
 जज्ञे परमधर्मिष्ठो गाधिरित्येव नामतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +223,15 @@ son known by the name Gaadhi. [1-34-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पिता मम काकुत्स्थ गाधिः परमधार्मिकः ।  
 कुशवंशप्रसूतोऽस्मि कौशिको रघुनन्दन ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +267,15 @@ Sage Vishvamitra thus narrating to Rama. [1-34-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वजा भगिनी चापि मम राघव सुव्रता ।  
 नाम्ना सत्यवती नाम ऋचीके प्रतिपादिता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +310,15 @@ Satyavathi is there, oh, Raghava, and she is given in marriage to sage Ruchika.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सशरीरा गता स्वर्गं भर्तारमनुवर्तिनी ।  
 कौशिकी परमोदारा प्रवृत्ता च महानदी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +367,15 @@ in Greece.' Gorresio.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्या पुण्योदका रम्या हिमवन्तमुपाश्रिता ।  
 लोकस्य हितकार्यार्थं प्रवृत्ता भगिनी मम ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +416,15 @@ holy waves are hurled / To purify and glad the world. - Griffith.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं हिमवत्पार्श्वे वसामि नियतः सुखम् ।  
 भगिन्यां स्नेहसंयुक्तः कौशिक्यां रघुनन्दन ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -427,12 +459,15 @@ of Himalayas, in adjacency of my sister Kausiki in all my affection for her. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु सत्यवती पुण्या सत्ये धर्मे प्रतिष्ठिता ।  
 पतिव्रता महाभागा कौशिकी सरितां वरा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +503,15 @@ a best river among rivers, namely River Kaushiki. [1-34-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि नियमाद् राम हित्वा तां समुपागतः ।  
 सिद्धाश्रममनुप्राप्तः सिद्धोऽस्मि तव तेजसा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +547,15 @@ of mine. [1-34-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा राम ममोत्पत्तिः स्वस्य वंशस्य कीर्तिता ।  
 देशस्य हि महाबाहो यन्मां त्वं परिपृच्छसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +616,15 @@ beget a son because is sonless. [1-34-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतोऽर्धरात्रः काकुत्स्थ कथाः कथयतो मम ।  
 निद्रामभ्येहि भद्रं ते मा भूद् विघ्नोऽध्वनीह नः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +659,15 @@ Safe you be! Let no hindrance occur for us halfway on our pathway. [1-34-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्पन्दास्तरवः सर्वे निलीना मृगपक्षिणः ।  
 नैशेन तमसा व्याप्ता दिशश्च रघुनन्दन ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +701,15 @@ nightly sombre has pervaded all the confines. [1-34-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शनैर्विसृज्यते सन्ध्या नभो नेत्रैरिवावृतम् ।  
 नक्षत्रतारागहनं ज्योतिर्भिरवभासते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +743,15 @@ splendorous as though orbs of heaven are overspread on its vault. [1-34-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठते च शीतांशुः शशी लोकतमोनुदः ।  
 ह्लादयन् प्राणिनां लोके मनांसि प्रभया स्वया ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +797,15 @@ coolant moonbeams is rising up, gladdening the hearts of worldly beings. [1-34-1
 
 * इस वर्णनसे जान पड़ता है कि उस रात्रिको कृष्णपक्षकी नवमी तिथि थी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैशानि सर्वभूतानि प्रचरन्ति ततस्ततः ।  
 यक्षराक्षससङ्घाश्च रौद्राश्च पिशिताशनाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +841,15 @@ So said Vishvamitra to Rama. [1-34-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा विरराम महामुनिः ।  
 साधुसाध्विति ते सर्वे मुनयो ह्यभ्यपूजयन् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +883,15 @@ all the other sages have revered him saying, "well-said, well-said." [1-34-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशिकानामयं वंशो महान् धर्मपरः सदा ।  
 ब्रह्मोपमा महात्मानः कुशवंश्या नरोत्तमाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,12 +928,15 @@ applauded Vishvamitra and his dynasty. [1-34-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशेषेण भवानेव विश्वामित्र महायशः ।  
 कौशिकी सरितां श्रेष्ठा कुलोद्योतकरी तव ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +978,15 @@ your ancestry." Thus the sages lauded Vishvamitra. [1-34-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुदितैर्मुनिशार्दूलैः प्रशस्तः कुशिकात्मजः ।  
 निद्रामुपागमच्छ्रीमानस्तङ्गत इवांशुमान् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,12 +1024,15 @@ lap of dusk for that day. [1-34-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽपि सहसौमित्रिः किञ्चिदागतविस्मयः ।  
 प्रशस्य मुनिशार्दूलं निद्रां समुपसेवते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,5 +1077,6 @@ and glided into the lap of sleep along with Soumitri. [1-34-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥34॥
+</details>
 </details>
 

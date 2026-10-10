@@ -2,6 +2,8 @@
 title = "०५२ वानरैः स्वगमनहेतुकथनम्"
 title_english = "052 Vanaras deliverance from black hole"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -24,12 +26,15 @@ from that cave, which exit is otherwise impossible for any other intruder, in hi
 
 52. तापसी स्वयंप्रभाके पूछनेपर वानरोंका उसे अपना वृत्तान्त बताना और उसके प्रभावसे गुफाके बाहर निकलकर समुद्रतटपर पहुँचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तानब्रवीत् सर्वान् विश्रान्तान् हरियूथपान् ।  
 इदं वचनमेकाग्रा तापसी धर्मचारिणी ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ and who is a pursuer of probity, spoke this word to all of them. [4-52-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरा यदि वः खेदः प्रणष्टः फलभक्षणात् ।  
 यदि चैतन्मया श्राव्यं श्रोतुमिच्छामि तां कथाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ I wish to listen to it." Thus Swayamprabha addressed the monkeys. [4-52-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा हनूमान् मारुतात्मजः ।  
 आर्जवेन यथातत्त्वमाख्यातुमुपचक्रमे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ Hanuma, the son of Air-god, sincerely started to narrate their episode in its pi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा सर्वस्य लोकस्य महेन्द्रवरुणोपमः ।  
 रामो दाशरथिः श्रीमान् प्रविष्टो दण्डकावनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +196,15 @@ Hanuma, the son of Air-god, sincerely started to narrate their episode in its pi
 
 देवि! सम्पूर्ण जगत्तिन राजनु, देवेन्द्र-वरुणरन्तॆ तेजस्वी दशरथनन्दन श्रीमान् भगवान् रामनु दण्डकारण्यक्कॆ आगमिसिद्दनु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणेन सह भ्रात्रा वैदेह्या सह भार्यया ।  
 तस्य भार्या जनस्थानाद् रावणेन हृता बलात् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,6 +244,7 @@ wife from Janasthaana. [4-52-4, 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,6 +253,8 @@ wife from Janasthaana. [4-52-4, 5]
 अगस्त्यचरितामाशां दक्षिणां यमरक्षिताम् ।  
 सहैभिर्वानरैर्मुख्यैरङ्गदप्रमुखैर्वयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +289,15 @@ Rama, and that vanara king expedited us. [4-52-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं सहिताः सर्वे राक्षसं कामरूपिणम् ।  
 सीतया सह वैदेह्या मार्गध्वमिति चोदिताः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +334,15 @@ search for Seetha of Videha kingdom together with the demon Ravana, a guise-chan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्य तु वनं सर्वं समुद्रं दक्षिणां दिशम् ।  
 वयं बुभुक्षिताः सर्वे वृक्षमूलमुपाश्रिताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,12 +383,15 @@ tree-stem. [4-52-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवर्णवदनाः सर्वे सर्वे ध्यानपरायणाः ।  
 नाधिगच्छामहे पारं मग्नाश्चिन्तामहार्णवे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +434,15 @@ our despair we could not overreach the other shore of our oceanic despair. [4-52
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारयन्तस्ततश्चक्षुर्दृष्टवन्तो महद् बिलम् ।  
 लतापादपसञ्छन्नं तिमिरेण समावृतम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ bilam* = wide, cavity; *dR^iSTavantaH* = we became perceivers of - we perceived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माद्धंसा जलक्लिन्नाः पक्षैः सलिलरेणुभिः ।  
 कुरराः सारसाश्चैव निष्पतन्ति पतत्त्रिणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +535,15 @@ of water with the flaps of their wings. [4-52-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्वत्र प्रविशामेति मया तूक्ताः प्लवङ्गमाः ।  
 तेषामपि हि सर्वेषामनुमानमुपागतम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +582,15 @@ in here. [4-52-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् निपतिताः सर्वेऽप्यथ कार्यत्वरान्विताः ।  
 ततो गाढं निपतिता गृह्य हस्तैः परस्परम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,12 +633,15 @@ hand, and then we fell in this cavity. [4-52-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं प्रविष्टाः सहसा बिलं तिमिरसंवृतम् ।  
 एतन्नः कार्यमेतेन कृत्येन वयमागताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,6 +684,7 @@ our escapade for water, and we neared you when we were ravenous and retrogressin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -647,6 +692,8 @@ our escapade for water, and we neared you when we were ravenous and retrogressin
 आतिथ्यधर्मदत्तानि मूलानि च फलानि च ॥ १६ ॥  
 अस्माभिरुपयुक्तानि बुभुक्षापरिपीडितैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +733,15 @@ of your hospitality. [4-52-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वया रक्षिताः सर्वे म्रियमाणा बुभुक्षया ॥ १७ ॥  
 ब्रूहि प्रत्युपकारार्थं किं ते कुर्वन्तु वानराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +782,15 @@ in requital that you may please tell." Thus Hanuma spoke to that sainted lady. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सर्वज्ञा वानरैस्तैः स्वयम्प्रभा ॥ १८ ॥  
 प्रत्युवाच ततः सर्वानिदं वानरयूथपान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +829,15 @@ commanders. [4-52-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषां परितुष्टास्मि वानराणां तरस्विनाम् ॥ १९ ॥  
 चरन्त्या मम धर्मेण न कार्यमिह केनचित् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +881,15 @@ chapter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः शुभं वाक्यं तापस्या धर्मसंहितम् ॥ २० ॥  
 उवाच हनुमान् वाक्यं तामनिन्दितलोचनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,6 +929,7 @@ then Hanuma said this sentence to her who is with an unreprovable discernment. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -877,6 +937,8 @@ then Hanuma said this sentence to her who is with an unreprovable discernment. [
 यः कृतः समयोऽस्मासु सुग्रीवेण महात्मना ।  
 स तु कालो व्यतिक्रान्तो बिले च परिवर्तताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -919,6 +981,7 @@ for us by the noble-souled Sugreeva by our roving around in this cavity. [4-52-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -926,6 +989,8 @@ for us by the noble-souled Sugreeva by our roving around in this cavity. [4-52-2
 तस्मात् सुग्रीववचनादतिक्रान्तान् गतायुषः ॥ २३ ॥  
 त्रातुमर्हसि नः सर्वान् सुग्रीवभयशङ्कितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -966,12 +1031,15 @@ the timeframe fixed by Sugreeva, whereby our longevity itself is threatened. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महच्च कार्यमस्माभिः कर्तव्यं धर्मचारिणि ॥ २४ ॥  
 तच्चापि न कृतं कार्यमस्माभिरिह वासिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,6 +1085,7 @@ spoke to her. [4-52-24, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1025,6 +1094,8 @@ spoke to her. [4-52-24, 25a]
 तपसः सुप्रभावेण नियमोपार्जितेन च ॥ २६ ॥  
 सर्वानेव बिलादस्मात् तारयिष्यामि वानरान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1083,12 +1154,15 @@ aliveness from this cavity. [4-52-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमीलयत चक्षूंषि सर्वे वानरपुङ्गवाः ॥ २७ ॥  
 नहि निष्क्रमितुं शक्यमनिमीलितलोचनैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1127,12 +1201,15 @@ eyes." Thus that sainted lady said to monkeys. [4-52-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निमीलिताः सर्वे सुकुमाराङ्गुलैः करैः ॥ २८ ॥  
 सहसा पिदधुर्दृष्टिं हृष्टा गमनकाङ्क्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1171,12 +1248,15 @@ them with their delicately fingered hands. [4-52-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरास्तु महात्मानो हस्तरुद्धमुखास्तदा ॥ २९ ॥  
 निमेषान्तरमात्रेण बिलादुत्तारितास्तया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1216,12 +1296,15 @@ within a minute. [4-52-29b. 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच सर्वांस्तांस्तत्र तापसी धर्मचारिणी ॥ ३० ॥  
 निःसृतान् विषमात् तस्मात् समाश्वास्येदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,6 +1344,7 @@ spoke this to them at the exterior of cavity. [4-52-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1269,6 +1353,8 @@ spoke this to them at the exterior of cavity. [4-52-30b, 31a]
 स्वस्ति वोऽस्तु गमिष्यामि भवनं वानरर्षभाः ।  
 इत्युक्त्वा तद् बिलं श्रीमत् प्रविवेश स्वयम्प्रभा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1333,5 +1419,6 @@ called Riksha Bila. [4-52-31b, 32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥52॥
+</details>
 </details>
 

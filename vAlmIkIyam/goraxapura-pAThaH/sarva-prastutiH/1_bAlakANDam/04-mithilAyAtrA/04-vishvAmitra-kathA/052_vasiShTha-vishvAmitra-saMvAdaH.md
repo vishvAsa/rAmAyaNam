@@ -2,6 +2,8 @@
 title = "०५२ वसिष्ठ-विश्वामित्र-संवादः"
 title_english = "052 he legend of Vishvamitra contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -23,12 +25,15 @@ Vashishta offers hospitality to Vishvamitra and his armies. Even though the King
 
 52. महर्षि वसिष्ठद्वारा विश्वामित्रका सत्कार और कामधेनुको अभीष्ट वस्तुओंकी सृष्टि करनेका आदेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा परमप्रीतो विश्वामित्रो महाबलः ।  
 प्रणतो विनयाद् वीरो वसिष्ठं जपतां वरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ is highly rejoiced and obediently made an obeisance to the sage. [1-52-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं तव चेत्युक्तो वसिष्ठेन महात्मना ।  
 आसनं चास्य भगवान् वसिष्ठो व्यादिदेश ह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ to Vishvamitra. [1-52-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपविष्टाय च तदा विश्वामित्राय धीमते ।  
 यथान्यायं मुनिवरः फलमूलमुपाहरत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,6 +153,7 @@ who by now has assumed a seat. [1-52-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,6 +162,8 @@ who by now has assumed a seat. [1-52-3]
 विश्वामित्रो महातेजा वनस्पतिगणे तदा ।  
 सर्वत्र कुशलं प्राह वसिष्ठो राजसत्तमम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -198,12 +212,15 @@ to the matchless king about the all round well-being of every activity. [1-52-4,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखोपविष्टं राजानं विश्वामित्रं महातपाः ।  
 पप्रच्छ जपतां श्रेष्ठो वसिष्ठो ब्रह्मणः सुतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ Vishvamitra who is sitting at ease. [1-52-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित्ते कुशलं राजन् कच्चिद् धर्मेण रञ्जयन् ।  
 प्रजाः पालयसे राजन् राजवृत्तेन धार्मिक ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +304,15 @@ the state, righteously...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित्ते सम्भृता भृत्याः कच्चित् तिष्ठन्ति शासने ।  
 कच्चित्ते विजिताः सर्वे रिपवो रिपुसूदन ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +352,15 @@ of adversaries, I hope that you have surely vanquished all of your adversaries. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् बलेषु कोशेषु मित्रेषु च परन्तप ।  
 कुशलं ते नरव्याघ्र पुत्रपौत्रे तथानघ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,12 +404,15 @@ of Vishvamitra. [1-52-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वत्र कुशलं राजा वसिष्ठं प्रत्युदाहरत् ।  
 विश्वामित्रो महातेजा वसिष्ठं विनयान्वितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,12 +446,15 @@ is fine.' [1-52-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वा तौ सुचिरं कालं धर्मिष्ठौ ताः कथास्तदा ।  
 मुदा परमया युक्तौ प्रीयेतां तौ परस्परम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +489,15 @@ heightening and gladdening one another. [1-52-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वसिष्ठो भगवान् कथान्ते रघुनन्दन ।  
 विश्वामित्रमिदं वाक्यमुवाच प्रहसन्निव ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +530,15 @@ spoke this sentence to Vishvamitra. [1-52-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आतिथ्यं कर्तुमिच्छामि बलस्यास्य महाबल ।  
 तव चैवाप्रमेयस्य यथार्हं सम्प्रतीच्छ मे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +573,15 @@ one like you and to this military force of yours, kindly accept it from me. [1-5
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्क्रियां हि भवानेतां प्रतीच्छतु मया कृताम् ।  
 राजंस्त्वमतिथिश्रेष्ठः पूजनीयः प्रयत्नतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +629,15 @@ evading the so-called hospitality for 'royals' and 'armies' from a poor hermit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो वसिष्ठेन विश्वामित्रो महामतिः ।  
 कृतमित्यब्रवीद् राजा पूजावाक्येन मे त्वया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +675,15 @@ is deemed to have been offered to me with your reverential words, it is enough a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फलमूलेन भगवन् विद्यते यत् तवाश्रमे ।  
 पाद्येनाचमनीयेन भगवद्दर्शनेन च ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +700,15 @@ is deemed to have been offered to me with your reverential words, it is enough a
 
 पूज्यरे! निम्म आश्रमदल्लिरुव फल-मूल, अर्घ्य-पाद्य, आचमनीय मॊदलाद वस्तु गळिन्द नन्न आदर सत्कार चॆन्नागि नडॆयितु. ऎल्लक्किन्त मिगिलागि निम्म दर्शनवायितु. इदरिन्दले नन्न पूजॆ आगि होयितु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा च महाप्राज्ञ पूजार्हेण सुपूजितः ।  
 नमस्तेऽस्तु गमिष्यामि मैत्रेणेक्षस्व चक्षुषा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +753,15 @@ The reverential salutation *namas te astu* is discussed in the endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवन्तं राजानं वसिष्ठं पुनरेव हि ।  
 न्यमन्त्रयत धर्मात्मा पुनः पुनरुदारधीः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +798,15 @@ Vashishta entreated the king repeatedly. [1-52-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाढमित्येव गाधेयो वसिष्ठं प्रत्युवाच ह ।  
 यथाप्रियं भगवतस्तथास्तु मुनिपुङ्गव ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +846,15 @@ sage. So be it!" [1-52-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तथा तेन वसिष्ठो जपतां वरः ।  
 आजुहाव ततः प्रीतः कल्माषीं धूतकल्मषाम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,6 +894,7 @@ are laved is gladdened, and started calling his speckled cow, namely Shabala, yc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -842,6 +902,8 @@ are laved is gladdened, and started calling his speckled cow, namely Shabala, yc
 सबलस्यास्य राजर्षेः कर्तुं व्यवसितोऽस्म्यहम् ।  
 भोजनेन महार्हेण सत्कारं संविधत्स्व मे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -878,12 +940,15 @@ me. [1-52-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य यस्य यथाकामं षड्रसेष्वभिपूजितम् ।  
 तत् सर्वं कामधुग् दिव्ये अभिवर्ष कृते मम ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +992,15 @@ The six tastes that shall comprise an Indian meal are: 1] caustic, 2] acidic, 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसेनान्नेन पानेन लेह्यचोष्येण संयुतम् ।  
 अन्नानां निचयं सर्वं सृजस्व शबले त्वर ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,5 +1046,6 @@ Vishvamitra continued his narration. [1-52-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॆरडनॆय सर्ग पूर्णवायितु.॥52॥
+</details>
 </details>
 

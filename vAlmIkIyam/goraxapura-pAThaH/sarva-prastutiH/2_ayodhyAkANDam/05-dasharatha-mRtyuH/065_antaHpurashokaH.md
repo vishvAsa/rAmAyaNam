@@ -2,6 +2,8 @@
 title = "०६५ अन्तःपुरशोकः"
 title_english = "065 Dasaratha passes away"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ women who felt bewildered with fear and restlessness; when the king met with his
 
 65. वन्दीजनोंका स्तुतिपाठ, राजा दशरथको दिवंगत हुआ जान उनकी रानियोंका करुण-विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां व्यतीतायां प्रातरेवापरेऽहनि ।  
 वन्दिनः पर्युपातिष्ठंस्तत्पार्थिवनिवेशनम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -45,12 +50,15 @@ women who felt bewildered with fear and restlessness; when the king met with his
 
 रात्रियु कळॆदु मरुदिन मुञ्जानॆयागुत्तले स्तुतिपाठकरु राजनिगॆ सुप्रभातवन्नु हेळलु अरमनॆयल्लि उपस्थितरादरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूताः परमसंस्कारा मागधाश्चोत्तमश्रुताः ।  
 गायकाः श्रुतिशीलाश्च निगदन्तः पृथक‍‍्पृथक् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +102,15 @@ recitations in different styles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजानं स्तुवतां तेषामुदात्ताभिहिताशिषाम् ।  
 प्रासादाभोगविस्तीर्णः स्तुतिशब्दो ह्यवर्तत ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,12 +150,15 @@ accolades of the king, pervaded in full the interior area of the palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु स्तुवतां तेषां सूतानां पाणिवादकाः ।  
 अपदानान्युदाहृत्य पाणिवादान्यवादयन् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,12 +198,15 @@ claps, eulogizing the previous glorious acts of Dasaratha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शब्देन विहगाः प्रतिबुद्धाश्च सस्वनुः ।  
 शाखास्थाः पञ्जरस्थाश्च ये राजकुलगोचराः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +246,15 @@ cages were awakened by that sound and began to twitter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याहृताःपुण्यशब्दाश्च वीणानां चापि निःस्वनाः ।  
 आशीर्गेयं च गाथानां पूरयामास वेश्म तत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +294,15 @@ blissful songs of the metric verses filled that palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शुचिसमाचाराः पर्युपस्थानकोविदाः ।  
 स्त्रीवर्षवरभूयिष्ठा उपतस्थुर्यथापुरा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ the services to the king, most of whom were women and eunuchs, arrived there to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरिचन्दनसम्पृक्तमुदकं काञ्चनैर्घटैः ।  
 आनिन्युः स्नानशिक्षाज्ञा यथाकालं यथाविधि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +391,15 @@ golden pitchers in accordance with appropriate time and the set procedures.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मङ्गलालम्भनीयानि प्राशनीयान्युपस्करान् ।  
 उपानिन्युस्तथा पुण्याः कुमारीबहुलाः स्त्रियः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +442,15 @@ to the touch, eatables, decorative clothing and ornaments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलक्षणसम्पन्नं सर्वं विधिवदर्चितम् ।  
 सर्वं सुगुणलक्ष्मीवत् तदभूदाभिहारिकम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +491,15 @@ offered with reverence as per prescribed scriptures. All that was extremely grac
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सूर्योदयं यावत् सर्वं परिसमुत्सुकम् ।  
 तस्थावनुपसम्प्राप्तं किंस्विदित्युपशङ्कितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +539,15 @@ with a suspicion as to what was it, stayed thus till sunrise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ याः कोसलेन्द्रस्य शयनं प्रत्यनन्तराः ।  
 ताः स्त्रियस्तु समागम्य भर्तारं प्रत्यबोधयन् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +590,15 @@ him and woke him up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाप्युचितवृत्तास्ता विनयेन नयेन च ।  
 नह्यस्य शयनं स्पृष्ट्वा किञ्चिदप्युपलेभिरे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +639,15 @@ and could not detect any sign of life whatsoever in him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः स्त्रियः स्वप्नशीलज्ञाश्चेष्टां सञ्चलनादिषु ।  
 ता वेपथुपरीताश्च राज्ञः प्राणेषु शङ्किताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,6 +691,7 @@ they resembled like tips of reeds standing against a stream.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -654,6 +699,8 @@ they resembled like tips of reeds standing against a stream.
 अथ सन्देहमानानां स्त्रीणां दृष्ट्वा च पार्थिवम् ।  
 यत् तदाशङ्कितं पापं तदा जज्ञे विनिश्चयः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +742,15 @@ calamity (of death) that was apprehended.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या च सुमित्रा च पुत्रशोकपराजिते ।  
 प्रसुप्ते न प्रबुध्येते यथा कालसमन्विते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +784,15 @@ wake up, as though they were completely overtaken by death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्प्रभासा विवर्णा च सन्ना शोकेन सन्नता ।  
 न व्यराजत कौसल्या तारेव तिमिरावृता ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,12 +832,15 @@ shine brightly (as before) like a star hidden away in darkness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यानन्तरं राज्ञः सुमित्रा तदनन्तरम् ।  
 न स्म विभ्राजते देवी शोकाश्रुलुलितानना ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +880,15 @@ not shining as before with her face ruffled by tears of grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते च दृष्ट्वा तदा सुप्ते उभे देव्यौ च तं नृपम् ।  
 सुप्तमेवोद‍्गतप्राणमन्तःपुरममन्यत ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +929,15 @@ also the king in that manner, thought that the king had lost his life while just
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रचुक्रुशुर्दीनाः सस्वरं ता वराङ्गनाः ।  
 करेणेव इवारण्ये स्थानप्रच्युतयूथपाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -919,12 +981,15 @@ forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासामाक्रन्दशब्देन सहसोद्‍गतचेतने ।  
 कौसल्या च सुमित्रा च त्यक्तनिद्रे बभूवतुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -964,12 +1029,15 @@ woke up from sleep.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या च सुमित्रा च दृष्ट्वा स्पृष्ट्वा च पार्थिवम् ।  
 हा नाथेति परिक्रुश्य पेततुर्धरणीतले ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1077,15 @@ fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा कोसलेन्द्रदुहिता चेष्टमाना महीतले ।  
 न भ्राजते रजोध्वस्ता तारेव गगनच्युता ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1128,15 @@ not shining as before and resembled a star falling down from the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृपे शान्तगुणे जाते कौसल्यां पतितां भुवि ।  
 अपश्यंस्ताः स्त्रियः सर्वा हतां नागवधूमिव ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1103,12 +1177,15 @@ appearing as a female elephant, which was killed and felled on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वा नरेन्द्रस्य कैकेयीप्रमुखाः स्त्रियः ।  
 रुदन्त्यः शोकसन्तप्ता निपेतुर्गतचेतनाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,12 +1222,15 @@ fell unconscious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभिः स बलवान् नादः क्रोशन्तीभिरनुद्रुतः ।  
 येन स्फीतीकृतो भूयस्तद् गृहं समनादयत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,6 +1264,7 @@ rendered the house all the more noisy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1192,6 +1273,8 @@ rendered the house all the more noisy.
 सद्योनिपतितानन्दं दीनं विक्लवदर्शनम् ।  
 बभूव नरदेवस्य सद्म दिष्टान्तमीयुषः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,6 +1324,7 @@ despondency.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1249,6 +1333,8 @@ despondency.
 भृशं रुदन्त्यः करुणं सुदुःखिताः  
 प्रगृह्य बाहू व्यलपन्ननाथवत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1310,5 +1396,6 @@ another, like orphans.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तैदनॆय सर्ग पूर्णवायितु ॥65॥
+</details>
 </details>
 

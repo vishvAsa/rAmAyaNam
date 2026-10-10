@@ -2,6 +2,8 @@
 title = "००८ दण्डकवननिष्क्रमणम्"
 title_english = "008 Dialogue with Sage Suteekshna"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III
@@ -25,12 +27,15 @@ but stockyards for heaps of dead bodies, bones and skulls, for no faulty reason 
 
 8. प्रातःकाल सुतीक्ष्णसे विदा ले श्रीराम, लक्ष्मण, सीताका वहाँसे प्रस्थान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्तु सहसौमित्रिः सुतीक्ष्णेनाभिपूजितः ।  
 परिणाम्य निशां तत्र प्रभाते प्रत्यबुध्यत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ morning. [3-8-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,6 +85,8 @@ morning. [3-8-1]
 उदयन्तं दिनकरं दृष्ट्वा विगतकल्मषाः ।  
 सुतीक्ष्णमभिगम्येदं श्लक्ष्णं वचनमब्रुवन् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +153,15 @@ morning bath. [3-8-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखोषिताः स्म भगवंस्त्वया पूज्येन पूजिताः ।  
 आपृच्छामः प्रयास्यामो मुनयस्त्वरयन्ति नः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +200,15 @@ permission as we wish to journey on, as the sages are hastening us... [3-8-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वरामहे वयं द्रष्टुं कृत्स्नमाश्रममण्डलम् ।  
 ऋषीणां पुण्यशीलानां दण्डकारण्यवासिनाम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +247,15 @@ meritorious selves living in Dandaka forest... [3-8-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्यनुज्ञातुमिच्छामः सहैभिर्मुनिपुङ्गवैः ।  
 धर्मनित्यैस्तपोदान्तैर्विशिखैरिव पावकैः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,6 +295,7 @@ by their ascesis, and who look like the veritable tongues of sacred fire... [3-8
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -286,6 +304,8 @@ by their ascesis, and who look like the veritable tongues of sacred fire... [3-8
 तावदिच्छामहे गन्तुमित्युक्त्वा चरणौ मुनेः ।  
 ववन्दे सहसौमित्रिः सीतया सह राघवः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,12 +353,15 @@ at the feet of that sage Suteekshna. [3-8-8, 9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ संस्पृशन्तौ चरणावुत्थाप्य मुनिपुङ्गवः ।  
 गाढमाश्लिष्य सस्नेहमिदं वचनमब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +400,15 @@ in all his friendliness. [3-8-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरिष्टं गच्छ पन्थानं राम सौमित्रिणा सह ।  
 सीतया चानया सार्धं छाययेवानुवृत्तया ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +447,15 @@ you closely like a shadow... [3-8-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्याश्रमपदं रम्यं दण्डकारण्यवासिनाम् ।  
 एषां तपस्विनां वीर तपसा भावितात्मनाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,12 +495,15 @@ one, whose souls are consecrated just by their ascesis... [3-8-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्राज्यफलमूलानि पुष्पितानि वनानि च ।  
 प्रशस्तमृगयूथानि शान्तपक्षिगणानि च ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ one, whose souls are consecrated just by their ascesis... [3-8-2]
 
 ई प्रवासदल्लि नीवु साकष्टु फल-मूलगळिन्द युक्त हागू हूवुगळिन्द सुशोभित अनेक वनगळन्नु नोडुविरि. अल्लि उत्तम जिङ्कॆगळ गुम्पु सञ्चरिसुत्तिरबहुदु, पक्षिगळु शान्त भावदिन्द इरुवुदन्नु काणुविरि.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फुल्लपङ्कजखण्डानि प्रसन्नसलिलानि च ।  
 कारण्डवविकीर्णानि तटाकानि सरांसि च ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +548,15 @@ _________________
 
 अरळिद कमलगळिन्द शोभिसुत्तिरुव, स्वच्छवाद जलभरित हागू हंस कारण्डव मुन्ताद नीरु हक्किगळु व्यापिसिद अनेक सरोवरगळु, कल्याणिगळु कण्डु बरुववु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रक्ष्यसे दृष्टिरम्याणि गिरिप्रस्रवणानि च ।  
 रमणीयान्यरण्यानि मयूराभिरुतानि च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -558,12 +596,15 @@ the hearty screams of precooks... [3-8-13, 14, 15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गम्यतां वत्स सौमित्रे भवानपि च गच्छतु ।  
 आगन्तव्यं च ते दृष्ट्वा पुनरेवाश्रमं प्रति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +645,15 @@ after seeing all of them... [3-8-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तथेत्युक्त्वा काकुत्स्थः सहलक्ष्मणः ।  
 प्रदक्षिणं मुनिं कृत्वा प्रस्थातुमुपचक्रमे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -650,12 +694,15 @@ around the sage he started to journey on. [3-8-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शुभतरे तूणी धनुषी चायतेक्षणा ।  
 ददौ सीता तयोर्भ्रात्रोः खड्गौ च विमलौ ततः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +741,15 @@ too. [3-8-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आबध्य च शुभे तूणी चापे चादाय सस्वने ।  
 निष्क्रान्तावाश्रमाद् गन्तुमुभौ तौ रामलक्ष्मणौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +792,15 @@ twangy bows and exited from that hermitage to go on their way. [3-8-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीघ्रं तौ रूपसम्पन्नावनुज्ञातौ महर्षिणा ।  
 प्रस्थितौ धृतचापासी सीतया सह राघवौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,5 +853,6 @@ wielding bows and swords, and along with Seetha. [3-8-20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎण्टनॆय सर्ग सम्पूर्णवायितु.॥8॥
+</details>
 </details>
 

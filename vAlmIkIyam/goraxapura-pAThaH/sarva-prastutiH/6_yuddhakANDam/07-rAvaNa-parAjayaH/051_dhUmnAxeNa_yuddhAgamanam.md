@@ -2,6 +2,8 @@
 title = "०५१ धूम्नाक्षेण युद्धागमनम्"
 title_english = "051 Dhumraksha enters the battle field"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ disturbed.
 
 51. श्रीरामके बन्धनमुक्त होनेका पता पाकर चिन्तित हुए रावणका धूम्राक्षको युद्धके लिये भेजना और सेनासहित धूम्राक्षका नगरसे बाहर आना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तु तुमुलं शब्दं वानराणां महौजसाम् ।  
 नर्दतां राक्षसैः सार्धं तदा शुश्राव रावणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ arrested the attention of Ravana and his demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्निग्धगम्भीरनिर्घोषं श्रुत्वा तं निनदं भृशम् ।  
 सचिवानां ततस्तेषां मध्ये वचनमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +126,7 @@ who surrounded him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +135,8 @@ who surrounded him.
 सुव्यक्तं महती प्रीतिरेतेषां नात्र संशयः ।  
 तथाहि विपुलैर्नादैश्चुक्षुभे लवणार्णवः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +191,15 @@ itself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु बद्धौ शरैस्तीक्ष्णैर्भ्रातरौ रामलक्ष्मणौ ।  
 अयं च सुमहान् नादः शङ्कां जनयतीव मे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +239,15 @@ great magnitude being heard by me, is begetting an apprehension in me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं च वचनं चोक्त्वा मन्त्रिणो राक्षसेश्वरः ।  
 उवाच नैर्ऋतांस्तत्र समीपपरिवर्तिनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +287,15 @@ who stood round him there (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञायतां तूर्णमेतेषां सर्वेषां च वनौकसाम् ।  
 शोककाले समुत्पन्ने हर्षकारणमुत्थितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +335,15 @@ monkeys coming for the their present grievous situation!'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तास्ते सुसम्भ्रान्ताः प्राकारमधिरुह्य च ।  
 ददृशुः पालितां सेनां सुग्रीवेण महात्मना ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,12 +360,15 @@ monkeys coming for the their present grievous situation!'
 
 रावणन ई आदेशदन्तॆ आ राक्षसनु गाबरिगॊण्डु प्राकारगळ मेलॆ हत्ति महात्मा सुग्रीवनिन्द रक्षितवाद वानरर सैन्यद कडॆगॆ नोडिदरु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ च मुक्तौ सुघोरेण शरबन्धेन राघवौ ।  
 समुत्थितौ महाभागौ विषेदुः सर्वराक्षसाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +408,15 @@ it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्त्रस्तहृदयाः सर्वे प्राकारादवरुह्य ते ।  
 विवर्णा राक्षसा घोरा राक्षसेन्द्रमुपस्थिताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +457,15 @@ demons descended from the rampart and approached Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदप्रियं दीनमुखा रावणस्य च राक्षसाः ।  
 कृत्स्नं निवेदयामासुर्यथावद् वाक्यकोविदाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,6 +505,7 @@ those unpleasant tidings, saying:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -481,6 +514,8 @@ those unpleasant tidings, saying:
 विमुक्तौ शरबन्धेन दृश्येते तौ रणाजिरे ।  
 पाशानिव गजौ छित्त्वा गजेन्द्रसमविक्रमौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ on the field of battle, as two strong elephants who have snapped their fetters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तेषां राक्षसेन्द्रो महाबलः ।  
 चिन्ताशोकसमाक्रान्तो विवर्णवदनोऽभवत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,6 +611,7 @@ became pale (and he spoke as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -581,6 +620,8 @@ became pale (and he spoke as follows):
 तदस्त्रबन्धमासाद्य यदि मुक्तौ रिपू मम ।  
 संशयस्थमिदं सर्वमनुपश्याम्यहं बलम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +674,15 @@ serpents, bright as the sun, I perceive my entire army in jeopardy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्फलाः खलु संवृत्ताः शराः पावकतेजसः ।  
 आदत्तं यैस्तु सङ्ग्रामे रिपूणां जीवितं मम ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +725,15 @@ enemies, have now been rendered void indeed!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सङ्क्रुद्धो निःश्वसन्नुरगो यथा ।  
 अब्रवीद् रक्षसां मध्ये धूम्राक्षं नाम राक्षसम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ called Dhumraksha who was seated amidst the demons and said.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलेन महता युक्तो रक्षसां भीमविक्रम ।  
 त्वं वधायाशु निर्याहि रामस्य सह वानरैः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,12 +822,15 @@ slay Rama, Lakshmana and his monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु धूम्राक्षो राक्षसेन्द्रेण धीमता ।  
 परिक्रम्य ततः शीघ्रं निर्जगाम नृपालयात् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +870,15 @@ departed front her royal palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिनिष्क्रम्य तद् द्वारं बलाध्यक्षमुवाच ह ।  
 त्वरयस्व बलं शीघ्रं किं चिरेण युयुत्सतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +919,15 @@ Having crossed that gate, he spoke to the General of the Forces as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षवचनं श्रुत्वा बलाध्यक्षो बलानुगः ।  
 बलमुद्योजयामास रावणस्याज्ञया भृशम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +971,15 @@ followed him, kept the army ready quickly, as per Ravana's command.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते बद्धघण्टा बलिनो घोररूपा निशाचराः ।  
 विनद्यमानाः संहृष्टा धूम्राक्षं पर्यवारयन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,6 +1019,7 @@ joyously surrounded Dhumraksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -965,6 +1028,8 @@ joyously surrounded Dhumraksha.
 परिघैर्भिन्दिपालैश्च भल्लैः पाशैः परश्वधैः ।  
 निर्ययू राक्षसा घोरा नर्दन्तो जलदा यथा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,6 +1082,7 @@ sallied forth with the noise of thunder.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1025,6 +1091,8 @@ sallied forth with the noise of thunder.
 हयैः परमशीघ्रैश्च गजैश्चैव मदोत्कटैः ।  
 निर्ययुर्नैर्ऋतव्याघ्रा व्याघ्रा इव दुरासदाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,12 +1147,15 @@ tigers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृकसिंहमुखैर्युक्तं खरैः कनकभूषितैः ।  
 आरुरोह रथं दिव्यं धूम्राक्षः खरनिःस्वनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,12 +1195,15 @@ adorned with gold and heads of deer and lions were hitched.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निर्यातो महावीर्यो धूम्राक्षो राक्षसैर्वृतः ।  
 हसन् वै पश्चिमद्वाराद्धनूमान् यत्र तिष्ठति ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,6 +1247,7 @@ laughter, through the western gate where the army-chief Hanuman was stationed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1180,6 +1255,8 @@ laughter, through the western gate where the army-chief Hanuman was stationed.
 प्रयान्तं तु महाघोरं राक्षसं भीमदर्शनम् ॥ ३० ॥  
 अन्तरिक्षगताः क्रूराः शकुनाः प्रत्यषेधयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,6 +1305,7 @@ fearful appearance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1235,6 +1313,8 @@ fearful appearance.
 ध्वजाग्रे ग्रथिताश्चैव निपेतुः कुणपाशनाः ।  
 रुधिरार्द्रो महान् श्वेतः कबन्धः पतितो भुवि ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1269,12 +1349,15 @@ of corpses clustered on the point of his standard.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्वरं चोत्सृजन्नादान् धूम्राक्षस्य निपातितः ।  
 ववर्ष रुधिरं देवः सञ्चचाल च मेदिनी ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1312,12 +1395,15 @@ noise in Dhumraksha's vicinity and the sky rained down blood. The earth trembled
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिलोमं ववौ वायुर्निर्घातसमनिःस्वनः ।  
 तिमिरौघावृतास्तत्र दिशश्च न चकाशिरे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1360,6 +1446,7 @@ abundant darkness, did not dazzle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1367,6 +1454,8 @@ abundant darkness, did not dazzle.
 प्रादुर्भूतान् सुघोरांश्च धूम्राक्षो व्यथितोऽभवत् ।  
 मुमुहू राक्षसाः सर्वे धूम्राक्षस्य पुरःसराः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1411,6 +1500,7 @@ Dhumraksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1419,6 +1509,8 @@ Dhumraksha.
 ददर्श तां राघवबाहुपालितां  
 महौघकल्पां बहु वानरीं चमूम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1475,5 +1567,6 @@ resembling a flood, protected by the arms of Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥51॥
+</details>
 </details>
 

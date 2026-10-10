@@ -2,6 +2,8 @@
 title = "०२७ रामायास्त्रप्रदानम्"
 title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -35,12 +37,15 @@ Sage Vishvamitra satisfied with the behaviour of Rama in obliging the
 
 सप्तविंशाष्टाविंशयोः — ततः प्रभाते ताडका-वध-संतुष्ट-गाधि-सुतोपदिष्टं सोपसंहारम् अस्त्र-ग्रामं गृहीत्वा गच्छन् दर्शनीय-मृगाकीर्णं वृक्ष-षण्डं वीक्षमाणो रामः कस्यायम् आश्रमः यज्ञ-विघ्न-कर-मारीच-सुबाहु-निरसन-पूर्वकं यज्ञ-क्रिया क्व रक्षणीयेत्य् अपृच्छत् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तां रजनीमुष्य विश्वामित्रो महायशाः ।  
 प्रहस्य राघवं वाक्यमुवाच मधुरस्वरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,12 +86,15 @@ Then, on staying that night there in Tataka forest, on the next day
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परितुष्टोऽस्मि भद्रं ते राजपुत्र महायशः ।  
 प्रीत्या परमया युक्तो ददाम्यस्त्राणि सर्वशः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ Then, on staying that night there in Tataka forest, on the next day
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरगणान् वापि सगन्धर्वोरगान् भुवि ।  
 यैरमित्रान् प्रसह्याजौ वशीकृत्य जयिष्यसि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +185,7 @@ Then, on staying that night there in Tataka forest, on the next day
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,6 +194,8 @@ Then, on staying that night there in Tataka forest, on the next day
 धमर्चक्रं ततो वीर कालचक्रं तथैव च ।  
 विष्णुचक्रं तथात्युग्रमैन्द्रं चक्रं तथैव च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,6 +219,7 @@ _________________
 
 रघुनन्दन! निनगॆ मङ्गळवागलि. इन्दु नानु निनगॆ अवॆल्ल अस्त्रगळन्नु कॊडुत्ता इद्देनॆ. वीरने! नानु निनगॆ दिव्य हागू महान् दण्डचक्र, धर्मचक्र, कालचक्र, विष्णुचक्र, हागू अत्यन्त भयङ्कर ऐन्द्रचक्र कॊडुवॆनु.॥4-5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -212,6 +227,8 @@ _________________
 अस्त्रं ब्रह्मशिरश्चैव ऐषीकमपि राघव ॥ ६ ॥  
 ददामि ते महाबाहो ब्राह्ममस्त्रमनुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,6 +288,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,6 +297,8 @@ _________________
 धर्मपाशमहं राम कालपाशं तथैव च ॥ ८ ॥  
 वारुणं पाशमस्त्रं च ददाम्यहमनुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +362,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशनी द्वे प्रयच्छामि शुष्कार्द्रे रघुनन्दन ॥ ९ ॥  
 ददामि चास्त्रं पैनाकमस्त्रं नारायणं तथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +407,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयमस्त्रं दयितं शिखरं नाम नामतः ॥ १० ॥  
 वायव्यं प्रथमं नाम ददामि तव चानघ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +455,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्रं हयशिरो नाम क्रौञ्चमस्त्रं तथैव च ॥ ११ ॥  
 शक्तिद्वयं च काकुत्स्थ ददामि तव राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -471,12 +500,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कङ्कालं मुसलं घोरं कापालमथ किङ्किणीम् ॥ १२ ॥  
 वधार्थं रक्षसां यानि ददाम्येतानि सर्वशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,12 +548,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैद्याधरं महास्त्रं च नन्दनं नाम नामतः ॥ १३ ॥  
 असिरत्नं महाबाहो ददामि नृवरात्मज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +592,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गान्धर्वमस्त्रं दयितं मोहनं नाम नामतः ॥ १४ ॥  
 प्रस्वापनं प्रशमनं दद्मि सौम्यं च राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +637,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -608,6 +647,8 @@ _________________
 पैशाचमस्त्रं दयितं मोहनं नाम नामतः ।  
 प्रतीच्छ नरशार्दूल राजपुत्र महायशः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,6 +704,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -671,6 +713,8 @@ _________________
 सत्यमस्त्रं महाबाहो तथा मायामयं परम् ।  
 सौरं तेजःप्रभं नाम परतेजोऽपकर्षणम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +733,15 @@ _________________
 
 नरश्रेष्ठ राजन पुत्र, महाबाहु राम! तामस, महाबलि, सौमन, संवर्त, दुर्जय, नौसल, सत्य, मत्तु मायामय उत्तम अस्त्रवन्नु निनगॆ अर्पिसुत्तिद्देनॆ. शत्रुविन तेजवन्नु नाश माडुवन्तह तेजःप्रभ ऎम्ब अस्त्रवन्नु निनगॆ अर्पिसुत्तिद्देनॆ.॥18-19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमास्त्रं शिशिरं नाम त्वाष्ट्रमस्त्रं सुदारुणम् ।  
 दारुणं च भगस्यापि शीतेषुमथ मानवम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +792,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतान् राम महाबाहो कामरूपान् महाबलान् ।  
 गृहाण परमोदारान् क्षिप्रमेव नृपात्मज ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +839,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थितस्तु प्राङ्मुखो भूत्वा शुचिर्मुनिवरस्तदा ।  
 ददौ रामाय सुप्रीतो मन्त्रग्राममनुत्तमम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +891,15 @@ That pre-eminent sage Vishvamitra on performing his personal holy depuration
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वसङ्ग्रहणं येषां दैवतैरपि दुर्लभम् ।  
 तान्यस्त्राणि तदा विप्रो राघवाय न्यवेदयत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,6 +936,7 @@ The comprehension of which invoking hymns of the missiles is impossible
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +946,8 @@ The comprehension of which invoking hymns of the missiles is impossible
 इमे च परमोदार किङ्करास्तव राघव ॥ २५ ॥  
 यद्यदिच्छसि भद्रं ते तत्सर्वं करवाम वै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,6 +1016,7 @@ While that intelligent saint Vishvamitra chanted the hymns, all of those
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,6 +1024,8 @@ While that intelligent saint Vishvamitra chanted the hymns, all of those
 प्रतिगृह्य च काकुत्स्थः समालभ्य च पाणिना ।  
 मानसा मे भविष्यध्वमिति तान्यभ्यचोदयत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1043,15 @@ While that intelligent saint Vishvamitra chanted the hymns, all of those
 
 आ महा प्रभावशालि अस्त्रगळू हीगॆ हेळिदाग श्रीरामचन्द्रनु सन्तोषगॊण्डु अवन्नु परिग्रहिसि, कैयिन्द अवन्नु स्पर्शिसि - ‘नीवॆल्ल नन्न मनस्सिनल्लि वासिसिरि’ ऎन्दु हेळिदनु.॥26-27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रीतमना रामो विश्वामित्रं महामुनिम् ।  
 अभिवाद्य महातेजा गमनायोपचक्रमे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,5 +1095,6 @@ That highly resplendent Rama revered sage Vishvamitra with a thankful
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तेळनॆय सर्ग पूर्णवायितु. ॥27॥
+</details>
 </details>
 

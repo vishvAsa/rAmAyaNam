@@ -2,6 +2,8 @@
 title = "०४० सगर-सुत-विनाशः"
 title_english = "040 Sage kapila burns the sons of sagara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -24,6 +26,7 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
 
 40. सगरपुत्रोंके भावी विनाशकी सूचना देकर ब्रह्माजीका देवताओंको शान्त करना, सगरके पुत्रोंका पृथ्वीको खोदते हुए कपिलजीके पास पहुँचना और उनके रोषसे जलकर भस्म होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
 प्रत्युवाच सुसन्त्रस्तान्  
 कृतान्तबलमोहितान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
 कापिलं रूपमास्थाय धारयत्यनिशं धराम् ।  
 तस्य कोपाग्निना दग्धा भविष्यन्ति नृपात्मजाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -129,12 +137,15 @@ The islands / continents on earth, *dviipa-s,* are 'jambu- plaksha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्याश्चापि निर्भेदो दृष्ट एव सनातनः ।  
 सगरस्य च पुत्राणां विनाशो दीर्घदर्शिनाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -192,12 +203,15 @@ This is the cosmic routine. Every day of Brahma is one *kalpa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहवचः श्रुत्वा त्रयस्त्रिंशदरिन्दमाः ।  
 देवाः परमसंहृष्टाः पुनर्जग्मुर्यथागतम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +262,15 @@ The gods that have come to appeal to Brahma are said to be thirty-three
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सगरस्य च पुत्राणां प्रादुरासीन्महास्वनः ।  
 पृथिव्यां भिद्यमानायां निर्घातसमनिःस्वनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +304,15 @@ When the sons of Sagara are digging the earth then there emerged an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भित्त्वा महीं सर्वां कृत्वा चापि प्रदक्षिणम् ।  
 सहिताः सागराः सर्वे पितरं वाक्यमब्रुवन् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,6 +357,7 @@ Then on hollowing the entire earth, and on making trips around her
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -345,6 +366,8 @@ Then on hollowing the entire earth, and on making trips around her
 न च पश्यामहेऽश्वं ते अश्वहर्तारमेव च ।  
 किं करिष्याम भद्रं ते बुद्धिरत्र विचार्यताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +419,15 @@ Then on hollowing the entire earth, and on making trips around her
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा पुत्राणां राजसत्तमः ।  
 समन्युरब्रवीद् वाक्यं सगरो रघुनन्दन ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -435,12 +461,15 @@ On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयः खनत भद्रं वो विभेद्य वसुधातलम् ।  
 अश्वहर्तारमासाद्य कृतार्थाश्च निवर्तत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +506,15 @@ On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुर्वचनमासाद्य सगरस्य महात्मनः ।  
 षष्टिः पुत्रसहस्राणि रसातलमभिद्रवन् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +556,15 @@ The last but one mantle of the earth from its crust to its inner core,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खन्यमाने ततस्तस्मिन् ददृशुः पर्वतोपमम् ।  
 दिशागजं विरूपाक्षं धारयन्तं महीतलम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,6 +600,7 @@ While digging the earth there they beheld a mountain similar easterly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -573,6 +609,8 @@ While digging the earth there they beheld a mountain similar easterly
 **धारयामास** शिरसा  
 विरूपाक्षो महागजः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,6 +649,7 @@ Oh, Rama, the legatee of Raghu, that great easterly elephant Viruupaaksha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -619,6 +658,8 @@ Oh, Rama, the legatee of Raghu, that great easterly elephant Viruupaaksha
 खेदाच् **चालयते** शीर्षं  
 **भूमिकम्पस् तदा** भवेत् ॥ १५ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,6 +696,7 @@ On certain occasions, oh, Rama of Kakutstha, when that great-elephant
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -663,6 +705,8 @@ On certain occasions, oh, Rama of Kakutstha, when that great-elephant
 मानयन्तो हि ते राम  
 **जग्मुर् भित्त्वा** रसातलम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,12 +745,15 @@ They circumambulated the great elephant in supplication, oh Rama, and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पूर्वां दिशं भित्त्वा दक्षिणां बिभिदुः पुनः ।  
 दक्षिणस्यामपि दिशि ददृशुस्ते महागजम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,12 +773,15 @@ _________________
 
 पूर्वदिक्कन्नु भेदिसिद बळिक अवरु दक्षिणद दिक्कन्नु अगॆयलु तॊडगिदरु. दक्षिण दिक्किनल्लियू अवरिगॆ ऒन्दु महा दिग्गज कण्डुबन्तु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महापद्मं महात्मानं सुमहत्पर्वतोपमम् ।  
 शिरसा धारयन्तं गां विस्मयं जग्मुरुत्तमम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +825,15 @@ After splitting the eastern direction then they split opened the southern
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तं प्रदक्षिणं कृत्वा सगरस्य महात्मनः ।  
 षष्टिः पुत्रसहस्राणि पश्चिमां बिभिदुर्दिशम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,12 +868,15 @@ On circumabulating that elephant Mahaapada in supplication, they the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्चिमायामपि दिशि महान्तमचलोपमम् ।  
 दिशागजं सौमनसं ददृशुस्ते महाबलाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +912,15 @@ Even in the westerly direction those great mighty sons of Sagara beheld
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तं प्रदक्षिणं कृत्वा पृष्ट्वा चापि निरामयम् ।  
 खनन्तः समुपाक्रान्ता दिशं सोमवतीं तदा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +968,15 @@ Circumambulating that elephant namely Sumanasa in western side, and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरस्यां रघुश्रेष्ठ ददृशुर्हिमपाण्डुरम् ।  
 भद्रं भद्रेण वपुषा धारयन्तं महीमिमाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -951,12 +1013,15 @@ In the northern direction, oh, Rama, they beheld Bhadra, a snow-white
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समालभ्य ततः सर्वे कृत्वा चैनं प्रदक्षिणम् ।  
 षष्टिः पुत्रसहस्राणि बिभिदुर्वसुधातलम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1057,15 @@ On touching that elephant reverently and also circumambulating it,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रागुत्तरां गत्वा सागराः प्रथितां दिशम् ।  
 रोषादभ्यखनन् सर्वे पृथिवीं सगरात्मजाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,12 +1103,15 @@ The sons of Sagara have then gone to the auspicious northeast direction,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु सर्वे महात्मानो भीमवेगा महाबलाः ।  
 ददृशुः कपिलं तत्र वासुदेवं सनातनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1128,15 @@ The sons of Sagara have then gone to the auspicious northeast direction,
 
 ईग महात्मराद, महाबलि हागू भयङ्कर वेगशालिगळाद राजकुमाररॆल्लरू अल्लि सनातन वासुदेव स्वरूपी भगवान् वासुदेव कपिलनन्नु नोडिदरु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयं च तस्य देवस्य चरन्तमविदूरतः ।  
 प्रहर्षमतुलं प्राप्ताः सर्वे ते रघुनन्दन ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1104,12 +1178,15 @@ But all those great-souled and great-mighty ones with terrible dash
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तं यज्ञहनं ज्ञात्वा क्रोधपर्याकुलेक्षणाः ।  
 खनित्रलाङ्गलधरा नानावृक्षशिलाधराः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,6 +1234,7 @@ The eyes of the princes are agitated in fury in construing the sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1164,6 +1242,8 @@ The eyes of the princes are agitated in fury in construing the sage
 अस्माकं त्वं हि तुरगं यज्ञियं हृतवानसि ॥ २८ ॥  
 दुर्मेधस्त्वं हि सम्प्राप्तान् विद्धि नः सगरात्मजान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1285,15 @@ You the malicious one, you have indeed stolen our ritual-horse, and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तद् वचनं तेषां कपिलो रघुनन्दन ॥ २९ ॥  
 रोषेण महताविष्टो हुङ्कारमकरोत् तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1246,12 +1329,15 @@ On hearing their words, oh, Rama, the descendant of Raghu, then sage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तेनाप्रमेयेण कपिलेन महात्मना ।  
 भस्मराशीकृताः सर्वे काकुत्स्थ सगरात्मजाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1298,5 +1384,6 @@ On hearing their words, oh, Rama, the descendant of Raghu, then sage
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तनॆय सर्ग पूर्णवायितु.॥40॥
+</details>
 </details>
 

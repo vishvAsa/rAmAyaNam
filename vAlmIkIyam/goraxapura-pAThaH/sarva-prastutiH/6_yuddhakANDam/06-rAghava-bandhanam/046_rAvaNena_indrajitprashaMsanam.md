@@ -2,6 +2,8 @@
 title = "०४६ रावणेन इन्द्रजित्प्रशंसनम्"
 title_english = "046 Ravana applauds his son for his daring act"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ have been killed. Ravana applauds his son for his daring act.
 
 46. श्रीराम और लक्ष्मणको मूर्च्छित देख वानरोंका शोक, इन्द्रजित् का हर्षोद‍्गार, विभीषणका सुग्रीवको समझाना, इन्द्रजित् का लङ्कामें जाकर पिताको शत्रुवधका वृत्तान्त बताना और प्रसन्न हुए रावणके द्वारा अपने पुत्रका अभिनन्दन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो द्यां पृथिवीं चैव वीक्षमाणा वनौकसः ।  
 ददृशुः सन्ततौ बाणैर्भ्रातरौ रामलक्ष्मणौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ and Lakshmana, covered with arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृष्ट्वेवोपरते देवे कृतकर्मणि राक्षसे ।  
 आजगामाथ तं देशं ससुग्रीवो विभीषणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ his work and retired; even as Indra* would, after raining.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलश्च द्विविदो मैन्दः सुषेणः कुमुदोऽङ्गदः ।  
 तूर्णं हनुमता सार्धमन्वशोचन्त राघवौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ grieve for Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचेष्टौ मन्दनिःश्वासौ शोणितेन परिप्लुतौ ।  
 शरजालाचितौ स्तब्धौ शयानौ शरतल्पगौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +201,15 @@ grieve for Rama and Lakshmana.
 
 आग अवरिब्बरु सहोदररु हसिविनिन्द व्याकुलरागि शरशय्यॆयल्लि बिद्दिद्दरु. बाणगळिन्द अवर इडी शरीर नोयुत्तित्तु. अवरु निश्चलरागि निधानवागि उसिराडुत्तिद्दरु. अवर चेष्टॆगळॆल्ल निन्तु होगिद्दवु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःश्वसन्तौ यथा सर्पौ निश्चेष्टौ मन्दविक्रमौ ।  
 रुधिरस्रावदिग्धाङ्गौ तपनीयाविव ध्वजौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +226,15 @@ grieve for Rama and Lakshmana.
 
 सर्पगळन्तॆ निट्टुसिरुबिडुत्ता निश्चेष्टितरागि बिद्दिरुव अवर पराक्रम मङ्कागित्तु. अवर इडी देहगळु रक्तदिन्द तोय्दु होगिद्दवु. मुरिदुबिद्द ऎरडु सुवर्णध्वजगळन्तॆ अवरु काणुत्तिद्दरु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ वीरशयने वीरौ शयानौ मन्दचेष्टितौ ।  
 यूथपैः स्वैः परिवृतौ बाष्पव्याकुललोचनैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +254,15 @@ _________________
 
 वीर शय्यॆयल्लि मलगिद्द, चेष्टाहीनराद आ वीररु, कण्णीरु तुम्बिद वानर सेनानायकरिन्द सुत्तुवरॆदिद्दरु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवौ पतितौ दृष्ट्वा शरजालसमन्वितौ ।  
 बभूवुर्व्यथिताः सर्वे वानराः सविभीषणाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +314,15 @@ multitude of arrows, all the monkeys along with Vibhishana became perturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरिक्षं निरीक्षन्तो दिशः सर्वाश्च वानराः ।  
 न चैनं मायया छन्नं ददृशू रावणिं रणे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +362,7 @@ Indrajit (the son of Ravana), who was veiled by his magic powers in the fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,6 +370,8 @@ Indrajit (the son of Ravana), who was veiled by his magic powers in the fight.
 वीक्षमाणो ददर्शाग्रे भ्रातुः पुत्रमवस्थितम् ।  
 तमप्रतिमकर्माणमप्रतिद्वन्द्वमाहवे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +412,15 @@ hidden by his occult power.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्शान्तर्हितं वीरं वरदानाद् विभीषणः ।  
 तेजसा यशसा चैव विक्रमेण च संयुतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +464,15 @@ was full of energy, glory and prowess.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजित् त्वात्मनः कर्म तौ शयानौ समीक्ष्य च ।  
 उवाच परमप्रीतो हर्षयन् सर्वराक्षसान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +513,15 @@ earth and in excess of joy, wishing to share it with all the demons, said.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दूषणस्य च हन्तारौ खरस्य च महाबलौ ।  
 सादितौ मामकैर्बाणैर्भ्रातरौ रामलक्ष्मणौ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +555,15 @@ Dushana have been killed by my arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेमौ मोक्षयितुं शक्यावेतस्मादिषुबन्धनात् ।  
 सर्वैरपि समागम्य सर्षिसङ्घैः सुरासुरैः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,6 +606,7 @@ brothers would never be able to release themselves from those arrows that paraly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -573,6 +615,8 @@ brothers would never be able to release themselves from those arrows that paraly
 कृत्स्नेयं यत्कृते लङ्का नदी वर्षास्विवाकुला ।  
 सोऽयं मूलहरोऽनर्थः सर्वेषां शमितो मया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +674,15 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य लक्ष्मणस्यैव सर्वेषां च वनौकसाम् ।  
 विक्रमा निष्फलाः सर्वे यथा शरदि तोयदाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +725,15 @@ all the monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु तान् सर्वान् राक्षसान् परिपश्यतः ।  
 यूथपानपि तान् सर्वांस्ताडयत् स च रावणिः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +773,15 @@ the monkey chief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलं नवभिराहत्य मैन्दं सद्विविदं तथा ।  
 त्रिभिस्त्रिभिरमित्रघ्नस्तताप परमेषुभिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,12 +825,15 @@ Dvivida with three superb arrows on each.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवन्तं महेष्वासो विद्‍ध्वा बाणेन वक्षसि ।  
 हनूमतो वेगवतो विससर्ज शरान् दश ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +868,15 @@ arrow and released ten arrows towards Hanuman, the swift monkey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गवाक्षं शरभं चैव तावप्यमितविक्रमौ ।  
 द्वाभ्यां द्वाभ्यां महावेगो विव्याध युधि रावणिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,12 +910,15 @@ unbounded valour with two arrows on each of them, in that battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोलाङ्गूलेश्वरं चैव वालिपुत्रमथाङ्गदम् ।  
 विव्याध बहुभिर्बाणैस्त्वरमाणोऽथ रावणिः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,12 +952,15 @@ Gavaksha (the ruler of golangulas) and then Angada the son of Vali too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् वानरवरान् भित्त्वा शरैरग्निशिखोपमैः ।  
 ननाद बलवांस्तत्र महासत्त्वः स रावणिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,12 +995,15 @@ monkeys there with his arrows which resembled flames of fire and began to shout 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानर्दयित्वा बाणौघैस्त्रसयित्वा च वानरान् ।  
 प्रजहास महाबाहुर्वचनं चेदमब्रवीत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -979,12 +1047,15 @@ armed Indrajit heartily laughed and spoke (as follows).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरबन्धेन घोरेण मया बद्धौ चमूमुखे ।  
 सहितौ भ्रातरावेतौ निशामयत राक्षसाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1024,12 +1095,15 @@ Lakshmana) bound together by me by a terrible net work of my arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्तु ते सर्वे राक्षसाः कूटयोधिनः ।  
 परं विस्मयमापन्नाः कर्मणा तेन हर्षिताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1143,15 @@ Indrajit, were seized with a great wonder and were overjoyed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनेदुश्च महानादान् सर्वे ते जलदोपमाः ।  
 हतो राम इति ज्ञात्वा रावणिं समपूजयन् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1114,12 +1191,15 @@ is dead".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्पन्दौ तु तदा दृष्ट्वा भ्रातरौ रामलक्ष्मणौ ।  
 वसुधायां निरुच्छ्वासौ हतावित्यन्वमन्यत ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1239,15 @@ floor, Indrajit thought they were dead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षेण तु समाविष्ट इन्द्रजित् समितिञ्जयः ।  
 प्रविवेश पुरीं लङ्कां हर्षयन् सर्वनैर्ऋतान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,12 +1287,15 @@ happiness among the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणयोर्दृष्ट्वा शरीरे सायकैश्चिते ।  
 सर्वाणि चाङ्गोपाङ्गानि सुग्रीवं भयमाविशत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,6 +1336,7 @@ their bodies, a great fear had taken possession of Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1257,6 +1344,8 @@ their bodies, a great fear had taken possession of Sugreeva.
 सबाष्पवदनं दीनं शोकव्याकुललोचनम् ॥ ३० ॥  
 अलं त्रासेन सुग्रीव बाष्पवेगो निगृह्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1301,6 +1390,7 @@ with tears, looking helpless and whose eyes were agitated in grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1310,6 +1400,8 @@ with tears, looking helpless and whose eyes were agitated in grief.
 पर्यवस्थापयात्मानमनाथं मां च वानर ।  
 सत्यधर्माभिरक्तानां नास्ति मृत्युकृतं भयम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1394,12 +1486,15 @@ not certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा ततस्तस्य जलक्लिन्नेन पाणिना ।  
 सुग्रीवस्य शुभे नेत्रे प्रममार्ज विभीषणः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1439,12 +1534,15 @@ moistened in water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सलिलमादाय विद्यया परिजप्य च ।  
 सुग्रीवनेत्रे धर्मात्मा प्रममार्ज विभीषणः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,12 +1576,15 @@ wiped the eyes of Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमृज्य वदनं तस्य कपिराजस्य धीमतः ।  
 अब्रवीत् कालसम्प्राप्तमसम्भ्रान्तमिदं वचः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1523,12 +1624,15 @@ of good sense and comfort.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कालः कपिराजेन्द्र वैक्लव्यमवलम्बितुम् ।  
 अतिस्नेहोऽपि कालेऽस्मिन् मरणायोपकल्पते ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1568,12 +1672,15 @@ this hour, even too much attachment leads to death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादुत्सृज्य वैक्लव्यं सर्वकार्यविनाशनम् ।  
 हितं रामपुरोगाणां सैन्यानामनुचिन्तय ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1616,12 +1723,15 @@ to serve the troops which have Rama going before them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वा रक्ष्यतां रामो यावत्सञ्ज्ञाविपर्ययः ।  
 लब्धसञ्ज्ञौ हि काकुत्स्थौ भयं नौ व्यपनेष्यतः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1665,12 +1775,15 @@ consciousness, Rama and Lakshmana can indeed drive away the fear of both of us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतत् किञ्चन रामस्य न च रामो मुमूर्षति ।  
 नह्येनं हास्यते लक्ष्मीर्दुर्लभा या गतायुषाम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1711,12 +1824,15 @@ difficult to be found in those whose longevity of life has run out; is not aband
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादाश्वासयात्मानं बलं चाश्वासय स्वकम् ।  
 यावत् सैन्यानि सर्वाणि पुनः संस्थापयाम्यहम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1756,12 +1872,15 @@ the entire ranks."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते हि फुल्लनयनास्त्रासादागतसाध्वसाः ।  
 कर्णे कर्णे प्रकथिता हरयो हरिसत्तम ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1801,12 +1920,15 @@ are signaling some words into each other's ear, terrified as they were."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां तु दृष्ट्वा प्रधावन्तमनीकं सम्प्रहर्षितम् ।  
 त्यजन्तु हरयस्त्रासं भुक्तपूर्वामिव स्रजम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1847,12 +1969,15 @@ seeing me running about to activate the troops."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाश्वास्य तु सुग्रीवं राक्षसेन्द्रो विभीषणः ।  
 विद्रुतं वानरानीकं तत् समाश्वासयत् पुनः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1892,12 +2017,15 @@ that army of monkeys, who were pushing away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजित् तु महामायः सर्वसैन्यसमावृतः ।  
 विवेश नगरीं लङ्कां पितरं चाभ्युपागमत् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1936,12 +2064,15 @@ Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र रावणमासाद्य अभिवाद्य कृताञ्जलिः ।  
 आचचक्षे प्रियं पित्रे निहतौ रामलक्ष्मणौ ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1982,12 +2113,15 @@ father in pleasing words that both Rama and Lakshmana had been slain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पपात ततो हृष्टः पुत्रं च परिषस्वजे ।  
 रावणो रक्षसां मध्ये श्रुत्वा शत्रू निपातितौ ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2028,6 +2162,7 @@ Ravana forthwith sprang on his feet in joy and embraced his son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2035,6 +2170,8 @@ Ravana forthwith sprang on his feet in joy and embraced his son.
 पृच्छते च यथावृत्तं पित्रे तस्मै न्यवेदयत् ॥ ४८ ॥  
 यथा तौ शरबन्धेन निश्चेष्टौ निष्प्रभौ कृतौ ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2080,6 +2217,7 @@ Lakshmana were made motion-less and luster-less by entwining them with arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2088,6 +2226,8 @@ Lakshmana were made motion-less and luster-less by entwining them with arrows.
 जहौ ज्वरं दाशरथेः समुत्थं  
 प्रहृष्टवाचाभिननन्द पुत्रम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2149,5 +2289,6 @@ pleasing words.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तारनॆय सर्ग पूर्णवायितु.॥46॥
+</details>
 </details>
 

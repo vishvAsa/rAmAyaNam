@@ -2,6 +2,8 @@
 title = "००५ वसिष्ठकृतव्रतादेशः"
 title_english = "005 Festivities in Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ anticipating Rama's coronation the next day.
 
 5. राजा दशरथके अनुरोधसे वसिष्ठजीका सीतासहित श्रीरामको उपवासव्रतकी दीक्षा देकर आना और राजाको इस समाचारसे अवगत कराना; राजाका अन्तःपुरमें प्रवेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दिश्य रामं नृपतिः श्वोभाविन्यभिषेचने ।  
 पुरोहितं समाहूय वसिष्ठमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ him as follows about the ensuing anointment ceremony of the next day.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छोपवासं काकुत्स्थं कारयाद्य तपोधन ।  
 श्रेयसे राज्यलाभाय वध्वा सह यतव्रत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,6 +115,7 @@ perform fasting for obtaining prosperity, glory and sovereignty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,6 +124,8 @@ perform fasting for obtaining prosperity, glory and sovereignty."
 उपवासयितुं वीरं मन्त्रविन्मन्त्रकोविदम् ।  
 ब्राह्मं रथवरं युक्तमास्थाय सुधृतव्रतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ undertake a fast (with mantras) performed by Rama, a knower of mantras.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामभवनं प्राप्य पाण्डुराभ्रघनप्रभम् ।  
 तिस्रः कक्ष्या रथेनैव विवेश मुनिसत्तमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ entered the three gateways of the house by the chariot itself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमागतमृषिं रामस्त्वरन्निव ससम्भ्रमम् ।  
 मानयिष्यन् स मानार्हं निश्चक्राम निवेशनात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ the house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्येत्य त्वरमाणोऽथ रथाभ्याशं मनीषिणः ।  
 ततोऽवतारयामास परिगृह्य रथात् स्वयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ from the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चैनं प्रश्रितं दृष्ट्वा सम्भाष्याभिप्रसाद्य च ।  
 प्रियार्हं हर्षयन् राममित्युवाच पुरोहितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +369,15 @@ words, bringing cheerfulness and happiness to him:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसन्नस्ते पिता राम यत्त्वं राज्यमवाप्स्यसि ।  
 उपवासं भवानद्य करोतु सह सीतया ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,12 +420,15 @@ kingdom. Hence, you and Seetha perform fasting today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रातस्त्वामभिषेक्ता हि यौवराज्ये नराधिपः ।  
 पिता दशरथः प्रीत्या ययातिं नहुषो यथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ kingdom tomorrow at dawn; even as king Nahusha has done to Yayati".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा स तदा राममुपवासं यतव्रतः ।  
 मन्त्रवत् कारयामास वैदेह्या सहितं शुचिः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +511,15 @@ with Seetha, in the accompaniment of mantras.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो यथावद् रामेण स राज्ञो गुरुरर्चितः ।  
 अभ्यनुज्ञाप्य काकुत्स्थं ययौ रामनिवेशनात् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ Rama's permission and left his house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुहृद्भिस्तत्र रामोऽपि सहासीनः प्रियंवदैः ।  
 सभाजितो विवेशाथ ताननुज्ञाप्य सर्वशः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +606,15 @@ congratulated by them in various ways went into his palace after taking leave of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टनारीनरयुतं रामवेश्म तदा बभौ ।  
 यथा मत्तद्विजगणं प्रफुल्लनलिनं सरः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +654,15 @@ lake filled with opened lotuses and visited by innumerable happy birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजभवनप्रख्यात् तस्माद् रामनिवेशनात् ।  
 निर्गत्य ददृशे मार्गं वसिष्ठो जनसंवृतम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,12 +696,15 @@ filled with people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृन्दवृन्दैरयोध्यायां राजमार्गाः समन्ततः ।  
 बभूवुरभिसम्बाधाः कुतूहलजनैर्वृताः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,12 +744,15 @@ delighted people and became congested.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनवृन्दोर्मिसङ्घर्षहर्षस्वनवृतस्तदा ।  
 बभूव राजमार्गस्य सागरस्येव निःस्वनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +796,15 @@ ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिक्तसम्मृष्टरथ्या हि तथा च वनमालिनी ।  
 आसीदयोध्या तदहः समुच्छ्रितगृहध्वजा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +847,15 @@ water. There were rows of trees on both sides of the roads and flags hoisted on 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा ह्ययोध्यानिलयः सस्त्रीबालाकुलो जनः ।  
 रामाभिषेकमाकाङ्क्षन्नाकाङ्क्षन्नुदयं रवेः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +895,15 @@ for sunrise, wishing the anointment ceremony of Rama to happen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजालङ्कारभूतं च जनस्यानन्दवर्धनम् ।  
 उत्सुकोऽभूज्जनो द्रष्टुं तमयोध्यामहोत्सवम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -878,12 +937,15 @@ decorative to the community and which would bring forward an increased joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तज्जनसम्बाधं राजमार्गं पुरोहितः ।  
 व्यूहन्निव जनौघं तं शनै राजकुलं ययौ ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +988,15 @@ royal palace slowly by forcing a passage through that crowd.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिताभ्रशिखरप्रख्यं प्रासादमधिरुह्य च ।  
 समीयाय नरेन्द्रेण शक्रेणेव बृहस्पतिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1039,15 @@ white cloud and met king Dasaratha in the manner Brihaspati met Devendra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमागतमभिप्रेक्ष्य हित्वा राजासनं नृपः ।  
 पप्रच्छ स्वमतं तस्मै कृतमित्यभिवेदयत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1088,15 @@ with regard to his mission. Vasistha informed him that it was accomplished.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन चैव तदा तुल्यं सहासीनाः सभासदः ।  
 आसनेभ्यः समुत्तस्थुः पूजयन्तः पुरोहितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1130,15 @@ obeisance to Vasishta from their seats, following the example of the king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुणा त्वभ्यनुज्ञातो मनुजौघं विसृज्य तम् ।  
 विवेशान्तःपुरं राजा सिंहो गिरिगुहामिव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1104,6 +1178,7 @@ and entered his palace as a lion enters a mountain cave.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1112,6 +1187,8 @@ and entered his palace as a lion enters a mountain cave.
 व्यदीपयंश्चारु विवेश पार्थिवः  
 शशीव तारागणसङ्कुलं नभः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,5 +1249,6 @@ sky with its stars.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐदनॆय सर्ग पूर्णवायितु.॥5॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०६४ रावण-कुम्भकर्णसंवादः"
 title_english = "064 He advises Kumbhakarna"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ Mahodara then suggests to Ravana a strategy to fulfill his purpose without a com
 
 64. महोदरका कुम्भकर्णके प्रति आक्षेप करके रावणको बिना युद्धके ही अभीष्ट वस्तुकी प्राप्तिका उपाय बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदुक्तमतिकायस्य बलिनो बाहुशालिनः ।  
 कुम्भकर्णस्य वचनं श्रुत्वोवाच महोदरः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ arms, Mahodara spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्ण कुले जातो धृष्टः प्राकृतदर्शनः ।  
 अवलिप्तो न शक्नोषि कृत्यं सर्वत्र वेदितुम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -101,12 +109,15 @@ of an ordinary man as also arrogant. You are unable to know the right to be done
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि राजा न जानीते कुम्भकर्ण नयानयौ ।  
 त्वं तु कैशोरकाद् धृष्टः केवलं वक्तुमिच्छसि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +153,15 @@ talk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थानं वृद्धिं च हानिं च देशकालविधानवित् ।  
 आत्मनश्च परेषां च बुध्यते राक्षसर्षभः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +203,15 @@ position of others."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वशक्यं बलवता वक्तुं प्राकृतबुद्धिना ।  
 अनुपासितवृद्धेन कः कुर्यात् तादृशं बुधः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ ordinary intellect, though strong, does not sever his elders?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यांस्तु धर्मार्थकामांस्त्वं ब्रवीषि पृथगाश्रयान् ।  
 अवबोद्धुं स्वभावेन नहि लक्षणमस्ति तान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ things."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म चैव हि सर्वेषां कारणानां प्रयोजनम् ।  
 श्रेयः पापीयसां चात्र फलं भवति कर्मणाम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +347,15 @@ spring up into a fruit of prosperity!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःश्रेयसफलावेव धर्मार्थावितरावपि ।  
 अधर्मानर्थयोः प्राप्तं फलं च प्रत्यवायिकम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,12 +397,15 @@ injustice and non-value gain the fruit of offence of omission."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐहलौकिकपारक्यं कर्म पुम्भिर्निषेव्यते ।  
 कर्माण्यपि तु कल्याणि लभते काममास्थितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ enjoys blessing even in this life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र क्लृप्तमिदं राज्ञा हृदि कार्यं मतं च नः ।  
 शत्रौ हि साहसं यत् तत् किमिवात्रापनीयते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +509,15 @@ against the enemy?"
 
 * यहाँ महोदरने रावणकी चापलूसी करनेके लिये ‘कामवाद’ की स्थापना या प्रशंसा की है । यह आदर्श मत नहीं है । वास्तवमें धर्म, अर्थ और काममें धर्म ही प्रधान है; अतः उसीके सेवनसे प्राणिमात्रका कल्याण हो सकता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकस्यैवाभियाने तु हेतुर्यः प्राहृतस्त्वया ।  
 तत्राप्यनुपपन्नं ते वक्ष्यामि यदसाधु च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +558,15 @@ encounter, I shall tell you what is irrelevant and not so good."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन पूर्वं जनस्थाने बहवोऽतिबला हताः ।  
 राक्षसा राघवं तं त्वं कथमेको जयिष्यसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +601,15 @@ destroyed in Janasthana earlier."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये पूर्वं निर्जितास्तेन जनस्थाने महौजसः ।  
 राक्षसांस्तान् पुरे सर्वान् भीतानद्य न पश्यसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ staying in the City, but who were earlier conquered by Rama in Janasthana?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं सिंहमिव सङ्क्रुद्धं रामं दशरथात्मजम् ।  
 सर्पं सुप्तमहो बुद्‍ध्वा प्रबोधयितुमिच्छसि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +697,15 @@ to awaken a serpent, who is sleeping."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्वलन्तं तेजसा नित्यं क्रोधेन च दुरासदम् ।  
 कस्तं मृत्युमिवासह्यमासादयितुमर्हति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +739,15 @@ splendour, dangerous to catch-up and as unbearable as death?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संशयस्थमिदं सर्वं शत्रोः प्रतिसमासने ।  
 एकस्य गमनं तात नहि मे रोचते भृशम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -737,12 +787,15 @@ single-handed does not indeed find favour with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीनार्थस्तु समृद्धार्थं को रिपुं प्राकृतं यथा ।  
 निश्चितं जीवितत्यागे वशमानेतुमिच्छति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +836,15 @@ enemy, who is rich in advantage and determined to lay down his life, as an ordin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य नास्ति मनुष्येषु सदृशो राक्षसोत्तम ।  
 कथमाशंससे योद्धुं तुल्येनेन्द्रविवस्वतोः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +878,15 @@ with whom none in the human beings is equal and who is equal of Indra and the su
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु संरब्धं कुम्भकर्णं महोदरः ।  
 उवाच रक्षसां मध्ये रावणं लोकरावणम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +926,15 @@ follows, in the midst of demons, to Ravana, who made the people cry.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लब्ध्वा पुरस्ताद् वैदेहीं किमर्थं त्वं विलम्बसे ।  
 यदीच्छसि तदा सीता वशगा ते भविष्यति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +974,15 @@ wish, Seetha will be submissive to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टः कश्चिदुपायो मे सीतोपस्थानकारकः ।  
 रुचितश्चेत् स्वया बुद्ध्या राक्षसेन्द्र ततः शृणु ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1025,15 @@ found agreeable to your intellect, then listen to it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं द्विजिह्वः संह्रादी कुम्भकर्णो वितर्दनः ।  
 पञ्च रामवधायैते निर्यान्तीत्यवघोषय ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1067,15 @@ Kumbhakarna and Vitardana these five demons are setting out for the battle to ki
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गत्वा वयं युद्धं दास्यामस्तस्य यत्नतः ।  
 जेष्यामो यदि ते शत्रून् नोपायैः कार्यमस्ति नः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1116,15 @@ If we conquer your enemies, there is no need for any strategies to us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ जीवति नः शत्रुर्वयं च कृतसंयुगाः ।  
 ततः समभिपत्स्यामो मनसा यत् समीक्षितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1090,6 +1164,7 @@ implement the plan which was resolved by us in the mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1098,6 +1173,8 @@ implement the plan which was resolved by us in the mind."
 भक्षितो राघवोऽस्माभिर्लक्ष्मणश्चेति वादिनः ।  
 ततः पादौ ग्रहीष्यामस्त्वं नः कामं प्रपूरय ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1164,12 +1241,15 @@ Rama engraved on them, we shall come back here from the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽवघोषय पुरे गजस्कन्धेन पार्थिव ।  
 हतो रामः सह भ्रात्रा ससैन्य इति सर्वतः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1207,6 +1287,7 @@ back of an elephant, that Rama has been killed along with his brother and his ar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1215,6 +1296,8 @@ back of an elephant, that Rama has been killed along with his brother and his ar
 ततो माल्यानि वासांसि वीराणामनुलेपनम् ।  
 पेयं च बहु योधेभ्यः स्वयं च मुदितः पिब ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1281,6 +1364,7 @@ your servants, objects of enjoyment, other desired objects and gold."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1289,6 +1373,8 @@ your servants, objects of enjoyment, other desired objects and gold."
 प्रविश्याश्वास्य चापि त्वं सीतां रहसि सान्त्वयन् ।  
 धनधान्यैश्च कामैश्च रत्नैश्चैनां प्रलोभय ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1338,12 +1424,15 @@ tones."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनयोपधया राजन् भूयः शोकानुबन्धया ।  
 अकामा त्वद्वशं सीता नष्टनाथा गमिष्यति ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,12 +1475,15 @@ husband, will submit reluctantly to your will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रमणीयं हि भर्तारं विनष्टमधिगम्य सा ।  
 नैराश्यात् स्त्रीलघुत्वाच्च त्वद्वशं प्रतिपत्स्यते ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,12 +1523,15 @@ feminine feeling of flexibility, will come to your will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा पुरा सुखसंवृद्धा सुखार्हा दुःखकर्शिता ।  
 त्वय्यधीनं सुखं ज्ञात्वा सर्वथैव गमिष्यति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1477,6 +1572,7 @@ grief, knowing that her happiness depends on you, will by all means come near to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1485,6 +1581,8 @@ grief, knowing that her happiness depends on you, will by all means come near to
 इहैव ते सेत्स्यति मोत्सुको भू-  
 र्महानयुद्धेन सुखस्य लाभः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1528,6 +1626,7 @@ benefit of happiness. Do not become restless."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1536,6 +1635,8 @@ benefit of happiness. Do not become restless."
 यशश्च पुण्यं च महान्महीपते  
 श्रियं च कीर्तिं च चिरं समश्नुते ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,5 +1693,6 @@ glory."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥64॥
+</details>
 </details>
 

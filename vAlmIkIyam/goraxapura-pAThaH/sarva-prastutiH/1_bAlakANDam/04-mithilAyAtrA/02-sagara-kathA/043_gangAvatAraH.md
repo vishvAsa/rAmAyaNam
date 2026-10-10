@@ -2,6 +2,8 @@
 title = "०४३ गङ्गावतारः"
 title_english = "043 River ganga s descent onto earth"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -25,12 +27,15 @@ Ganga descends to earth by the extraordinary effort of Bhageeratha.
 
 43. भगीरथकी तपस्यासे संतुष्ट हुए भगवान् शङ्करका गंगाको अपने सिरपर धारण करके बिन्दुसरोवरमें छोड़ना और उनका सात धाराओंमें विभक्त हो भगीरथके साथ जाकर उनके पितरोंका उद्धार करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदेवे गते तस्मिन् सोऽङ्गुष्ठाग्रनिपीडिताम् ।  
 कृत्वा वसुमतीं राम वत्सरं समुपासत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,12 +80,15 @@ Bhageeratha stood on one big-toe with an unwavering intent and bodily
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ संवत्सरे पूर्णे सर्वलोकनमस्कृतः ।  
 उमापतिः पशुपती राजानमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ On completion of one year, he who is venerated by all worlds, the consort
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रीतस्तेऽहं नरश्रेष्ठ करिष्यामि तव प्रियम् ।  
 शिरसा धारयिष्यामि शैलराजसुतामहम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,6 +170,7 @@ Oh, best one among humans, I am delighted with your unwavering effort,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -166,6 +178,8 @@ Oh, best one among humans, I am delighted with your unwavering effort,
 तदा सातिमहद्रूपं कृत्वा वेगं च दुःसहम् ॥ ४ ॥  
 आकाशादपतद् राम शिवे शिवशिरस्युत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ Afterwards, she who is reverenced by all the worlds and who is the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिन्तयच्च सा देवी गङ्गा परमदुर्धरा ॥ ५ ॥  
 विशाम्यहं हि पातालं स्रोतसा गृह्य शङ्करम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ She who is an extremely unendurable river that goddess Ganga even speculated
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यावलेपनं ज्ञात्वा क्रुद्धस्तु भगवान् हरः ॥ ६ ॥  
 तिरोभावयितुं बुद्धिं चक्रे त्रिनयनस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,6 +317,7 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -304,6 +325,8 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 हिमवत्प्रतिमे राम जटामण्डलगह्वरे ।  
 सा कथञ्चिन्महीं गन्तुं नाशक्नोद् यत्नमास्थिता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +386,15 @@ And oh, Rama, she that holy River Ganga swooped down into the cavernous
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव सा निर्गमं लेभे जटामण्डलमन्ततः ।  
 तत्रैवाबभ्रमद् देवी संवत्सरगणान् बहून् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +438,15 @@ Goddess Ganga whirled round and round in the coils of tufts alone for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामपश्यत् पुनस्तत्र तपः परममास्थितः ।  
 स तेन तोषितश्चासीदत्यन्तं रघुनन्दन ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +488,15 @@ Oh, Rama, the legatee of Raghu, with that ascesis of Bhageeratha god
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विससर्ज ततो गङ्गां हरो बिन्दुसरः प्रति ।  
 तस्यां विसृज्यमानायां सप्त स्रोतांसि जज्ञिरे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,12 +513,15 @@ Oh, Rama, the legatee of Raghu, with that ascesis of Bhageeratha god
 
 आग महादेवनु गङ्गॆयन्नु बिन्दु सरोवरक्कॆ कॊण्डु होगिबिट्टनु. अल्लि बिडुत्तले गङ्गॆय एळु प्रवाहगळागि हरिदळु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्लादिनी पावनी चैव नलिनी च तथैव च ।  
 तिस्रः प्राचीं दिशं जग्मुर्गङ्गाः शिवजलाः शुभाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ While god Shiva released Ganga into Bindu Lake seven streams have emerged
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुचक्षुश्चैव सीता च सिन्धुश्चैव महानदी ।  
 तिस्रश्चैता दिशं जग्मुः प्रतीचीं तु दिशं शुभाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,6 +610,7 @@ Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -580,6 +619,8 @@ Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
 प्रायादग्रे महातेजा गङ्गा तं चाप्यनुव्रजत् ।  
 गगनाच्छङ्करशिरस्ततो धरणिमागता ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,6 +699,7 @@ Of them the seventh Ganga flowed towards the path of Bhageeratha' chariot,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -665,6 +707,8 @@ Of them the seventh Ganga flowed towards the path of Bhageeratha' chariot,
 मत्स्यकच्छपसङ्घैश्च शिंशुमारगणैस्तथा ॥ १६ ॥  
 पतद्भिः पतितैश्चैव व्यरोचत वसुन्धरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,6 +747,7 @@ The earth then verily shone forth with the shoals of fish, schools
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -710,6 +755,8 @@ The earth then verily shone forth with the shoals of fish, schools
 व्यलोकयन्त ते तत्र गगनाद् गां गतां तदा ।  
 विमानैर्नगराकारैर्हयैर्गजवरैस्तदा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,6 +824,7 @@ Later, they the gods, sages, gandharva-s, yaksha-s, and the assemblages
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -784,6 +832,8 @@ Later, they the gods, sages, gandharva-s, yaksha-s, and the assemblages
 तदद्भुतमिमं लोके गङ्गावतरमुत्तमम् ॥ १९ ॥  
 दिदृक्षवो देवगणाः समीयुरमितौजसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,12 +881,15 @@ The gods whose animation is unlimited, and who are anxious to see the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पतद्भिः सुरगणैस्तेषां चाभरणौजसा ॥ २० ॥  
 शतादित्यमिवाभाति गगनं गततोयदम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +926,15 @@ The gods whose animation is unlimited, and who are anxious to see the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिंशुमारोरगगणैर्मीनैरपि च चञ्चलैः ॥ २१ ॥  
 विद्युद्भिरिव विक्षिप्तैराकाशमभवत् तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,12 +971,15 @@ At that time, with the falling and rising of scores of porpoises and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरैः सलिलोत्पीडैः कीर्यमाणैः सहस्रधा ॥ २२ ॥  
 शारदाभ्रैरिवाकीर्णं गगनं हंससम्प्लवैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,6 +1016,7 @@ Spattered innumerably with the whitish froth from the splashes of Ganga,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,6 +1024,8 @@ Spattered innumerably with the whitish froth from the splashes of Ganga,
 विनतं क्वचिदुद्भूतं क्वचिद् याति शनैः शनैः ।  
 सलिलेनैव सलिलं क्वचिदभ्याहतं पुनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1041,6 +1103,7 @@ Somewhere Ganga is coursing precipitately in declivities, elsewhere
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1048,6 +1111,8 @@ Somewhere Ganga is coursing precipitately in declivities, elsewhere
 तच्छङ्करशिरोभ्रष्टं भ्रष्टं भूमितले पुनः ॥ २५ ॥  
 व्यरोचत तदा तोयं निर्मलं गतकल्मषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,12 +1154,15 @@ That impeccable and immaculate water of Ganga then became outstanding
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रर्षिगणगन्धर्वा वसुधातलवासिनः ॥ २६ ॥  
 भवाङ्गपतितं तोयं पवित्रमिति पस्पृशुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1132,6 +1200,7 @@ And asserting that the water as holy, because it descended touching
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1140,6 +1209,8 @@ And asserting that the water as holy, because it descended touching
 धूतपापाः पुनस्तेन तोयेनाथ शुभान्विताः ॥ २८ ॥  
 पुनराकाशमाविश्य स्वाल्ँ लोकान् प्रतिपेदिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,12 +1273,15 @@ Also those that have fallen from heaven onto the surface of earth by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुदे मुदितो लोकस्तेन तोयेन भास्वता ॥ २९ ॥  
 कृताभिषेको गङ्गायां बभूव गतकल्मषः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,12 +1324,15 @@ With her splendorous water people are blissful, and on taking dip-baths
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथो हि राजर्षिर्दिव्यं स्यन्दनमास्थितः ॥ ३० ॥  
 प्रायादग्रे महाराजस्तं गङ्गा पृष्ठतोऽन्वगात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1304,6 +1381,7 @@ This verse is almost similar to the verse No. 14 above. But here, the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1312,6 +1390,8 @@ This verse is almost similar to the verse No. 14 above. But here, the
 सर्पाश्चाप्सरसो राम भगीरथरथानुगाः ॥ ३२ ॥  
 गङ्गामन्वगमन् प्रीताः सर्वे जलचराश्च ये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1363,12 +1443,15 @@ Oh, Rama, all of the gods along with the assemblages of sages, ogres,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतो भगीरथो राजा ततो गङ्गा यशस्विनी ॥ ३३ ॥  
 जगाम सरितां श्रेष्ठा सर्वपापप्रणाशिनी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1406,12 +1489,15 @@ In whichever direction king Bhageeratha has advanced, that glorious
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हि यजमानस्य जह्नोरद्भुतकर्मणः ॥ ३४ ॥  
 गङ्गा सम्प्लावयामास यज्ञवाटं महात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1454,12 +1540,15 @@ While in flow she started to completely inundate the field of Vedic-ritual
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यावलेपनं ज्ञात्वा क्रुद्धो जह्नुश्च राघव ॥ ३५ ॥  
 अपिबत् तु जलं सर्वं गङ्गायाः परमाद्भुतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1495,12 +1584,15 @@ But on knowing her hubris, oh, Raghava, that sage Jahnu has become
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वा ऋषयश्च सुविस्मिताः ॥ ३६ ॥  
 पूजयन्ति महात्मानं जह्नुं पुरुषसत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1520,6 +1612,7 @@ _________________
 
 आग देवतॆगळु, गन्धर्वरु, ऋषिगळु, अत्यन्त विस्मितरागि पुरुष प्रवर महात्मा जह्नुवन्नु स्तुतिसतॊडगिदरु.॥36½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1527,6 +1620,8 @@ _________________
 ततस्तुष्टो महातेजाः श्रोत्राभ्यामसृजत् प्रभुः ।  
 तस्माज्जह्नुसुता गङ्गा प्रोच्यते जाह्नवीति च ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1588,6 +1683,7 @@ Thereupon, the gods along with gandharva-s and sages at that extremely
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1595,6 +1691,8 @@ Thereupon, the gods along with gandharva-s and sages at that extremely
 सागरं चापि सम्प्राप्ता सा सरित्प्रवरा तदा ॥ ३९ ॥  
 रसातलमुपागच्छत् सिद्ध्यर्थं तस्य कर्मणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1641,12 +1739,15 @@ Some take the word *saagaram* as the netherworld dug by the sons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथोऽपि राजर्षिर्गङ्गामादाय यत्नतः ॥ ४० ॥  
 पितामहान् भस्मकृतानपश्यद् गतचेतनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1688,12 +1789,15 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तद्भस्मनां राशिं गङ्गासलिलमुत्तमम् ।  
 प्लावयत् पूतपाप्मानः स्वर्गं प्राप्ता रघूत्तम ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1746,5 +1850,6 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तमूरनॆय सर्ग पूर्णवायितु. ॥43॥
+</details>
 </details>
 

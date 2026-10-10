@@ -2,6 +2,8 @@
 title = "११५ नन्दिग्रामनिवासः"
 title_english = "115 Bharata expresses his desire to proceed to Nandigrama village"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ holding the royal canopy over them.
 
 115. भरतका नन्दिग्राममें जाकर श्रीरामकी चरणपादुकाओंको राज्यपर अभिषिक्त करके उन्हें निवेदनपूर्वक राज्यका सब कार्य करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निक्षिप्य मातॄस्ता अयोध्यायां दृढव्रतः ।  
 भरतः शोकसन्तप्तो गुरूनिदमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ stricken with grief, spoke to Vasishta and the elders (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्दिग्रामं गमिष्यामि सर्वानामन्त्रयेऽत्र वः ।  
 तत्र दुःखमिदं सर्वं सहिष्ये राघवं विना ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ able to endure all this woe, occasioned by Rama's absence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतश्चाहो दिवं राजा वनस्थः स गुरुर्मम ।  
 रामं प्रतीक्षे राज्याय स हि राजा महायशाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ for Rama to return to the kingdom; since verily he alone is the celebrated Lord 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा शुभं वाक्यं भरतस्य महात्मनः ।  
 अब्रुवन् मन्त्रिणः सर्वे वसिष्ठश्च पुरोहितः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ and all the ministers spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुभृशं श्लाघनीयं च यदुक्तं भरत त्वया ।  
 वचनं भ्रातृवात्सल्यादनुरूपं तवैव तत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,12 +274,15 @@ very much appreciable. It is worthy of you alone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यं ते बन्धुलुब्धस्य तिष्ठतो भ्रातृसौहृदे ।  
 मार्गमार्यं प्रपन्नस्य नानुमन्येत कः पुमान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ elders?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिणां वचनं श्रुत्वा यथाभिलषितं प्रियम् ।  
 अब्रवीत् सारथिं वाक्यं रथो मे युज्यतामिति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ Bharata said to his charioteer, "Let my chariot be made ready!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टवदनः सर्वा मातॄः समभिभाष्य च ।  
 आरुरोह रथं श्रीमान्शत्रुघ्नेन समन्वितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +422,15 @@ mothers, entered his chariot along with Shatrughna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुह्य तु रथं क्षिप्रं शत्रुघ्नभरतावुभौ ।  
 ययतुः परमप्रीतौ वृतौ मन्त्रिपुरोहितैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ rejoiced, set out, accompanied by ministers and family-priests.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतो गुरवः सर्वे वसिष्ठप्रमुखा द्विजाः ।  
 प्रययुः प्राङ्मुखाः सर्वे नन्दिग्रामो यतो भवेत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ forefront, proceeded eastward, in which direction Nandigrama village was situate
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलं च तदनाहूतं गजाश्वरथसङ्कुलम् ।  
 प्रययौ भरते याते सर्वे च पुरवासिनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,12 +571,15 @@ marched unbidden. The residents of the city also followed suit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथस्थः स तु धर्मात्मा भरतो भ्रातृवत्सलः ।  
 नन्दिग्रामं ययौ तूर्णं शिरस्यादाय पादुके ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +623,15 @@ Rama on his head, set out for Nandigrama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु ततः क्षिप्रं नन्दिग्रामं प्रविश्य सः ।  
 अवतीर्य रथात् तूर्णं गुरूनिदमभाषत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +672,15 @@ and spoke to his preceptors as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् राज्यं मम भ्रात्रा दत्तं सन्न्यासमुत्तमम् ।  
 योगक्षेमवहे चेमे पादुके हेमभूषिते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +723,15 @@ embellished with gold diffuse gain and security to the people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतः शिरसा कृत्वा सन्न्यासं पादुके ततः ।  
 अब्रवीद् दुःखसन्तप्तः सर्वं प्रकृतिमण्डलम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,12 +765,15 @@ anguish, spoke to the entire body of his ministers as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छत्रं धारयत क्षिप्रमार्यपादाविमौ मतौ ।  
 आभ्यां राज्ये स्थितो धर्मः पादुकाभ्यां गुरोर्मम ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +815,15 @@ brother here, a piety has been established in the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रात्रा तु मयि सन्न्यासो निक्षिप्तः सौहृदादयम् ।  
 तमिमं पालयिष्यामि राघवागमनं प्रति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +864,15 @@ There trust as such will be preserved till his return."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं संयोजयित्वा तु राघवस्य पुनः स्वयम् ।  
 चरणौ तौ तु रामस्य द्रक्ष्यामि सहपादुकौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,12 +907,15 @@ his return, I shall behold those feet of Rama along with these sandals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निक्षिप्तभारोऽहं राघवेण समागतः ।  
 निवेद्य गुरवे राज्यं भजिष्ये गुरुवर्तिताम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,12 +956,15 @@ laying down the burden, I shall then assume the role of a servant of my elder br
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवाय च सन्न्यासं दत्त्वेमे वरपादुके ।  
 राज्यं चेदमयोध्यां च धूतपापो भवाम्यहम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -942,12 +1004,15 @@ as well as the City of Ayodhya to Rama, I shall be washed of all my sins."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषिक्ते तु काकुत्स्थे प्रहृष्टमुदिते जने ।  
 प्रीतिर्मम यशश्चैव भवेद् राज्याच्चतुर्गुणम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1056,15 @@ fame and happiness for me than that having obtained from the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तु विलपन् दीनो भरतः स महायशाः ।  
 नन्दिग्रामेऽकरोद् राज्यं दुःखितो मन्त्रिभिः सह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1037,12 +1105,15 @@ looked after the state administration along with his ministers from Nandigrama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वल्कलजटाधारी मुनिवेषधरः प्रभुः ।  
 नन्दिग्रामेऽवसद् धीरः ससैन्यो भरतस्तदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1082,6 +1153,7 @@ hero Bharata dwelt in Nandigrama, protected by the army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1089,6 +1161,8 @@ hero Bharata dwelt in Nandigrama, protected by the army.
 भ्रातुर्वचनकारी च प्रतिज्ञापारगस्तदा ।  
 पादुके त्वभिषिच्याथ नन्दिग्रामेऽवसत् तदा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1137,12 +1211,15 @@ for the return of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवालव्यजनं छत्रं धारयामास स स्वयम् ।  
 भरतः शासनं सर्वं पादुकाभ्यां निवेदयन् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1260,15 @@ canopy together with the chowrie to those sandals.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु भरतः श्रीमानभिषिच्यार्यपादुके ।  
 तदधीनस्तदा राज्यं कारयामास सर्वदा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1222,6 +1302,7 @@ thereafter carried out the state administration, always maintaining his subservi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1230,6 +1311,8 @@ thereafter carried out the state administration, always maintaining his subservi
 स पादुकाभ्यां प्रथमं निवेद्य  
 चकार पश्चाद् भरतो यथावत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1278,5 +1361,6 @@ the proper way afterwards.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनैदनॆय सर्ग पूर्णवायितु ॥115॥
+</details>
 </details>
 

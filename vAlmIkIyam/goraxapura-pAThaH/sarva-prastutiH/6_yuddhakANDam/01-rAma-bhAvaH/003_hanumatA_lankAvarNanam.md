@@ -2,6 +2,8 @@
 title = "००३ हनुमता लङ्कावर्णनम्"
 title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ Hanuma gives a detailed description of Lanka as he saw it.
 
 3. हनुमान् जी का लङ्काके दुर्ग, फाटक, सेना-विभाग और संक्रम आदिका वर्णन करके भगवान् श्रीरामसे सेनाको कूच करनेकी आज्ञा देनेके लिये प्रार्थना करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्य वचः श्रुत्वा हेतुमत् परमार्थवत् ।  
 प्रतिजग्राह काकुत्स्थो हनूमन्तमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ with him and spoke then to Hanuma as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपसा सेतुबन्धेन सागरोच्छोषणेन च ।  
 सर्वथापि समर्थोऽस्मि सागरस्यास्य लङ्घने ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ by forming a bridge or by drying up the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कति दुर्गाणि दुर्गाया लङ्कायास्तद् ब्रवीष्व मे ।  
 ज्ञातुमिच्छामि तत् सर्वं दर्शनादिव वानर ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,6 +166,7 @@ know all that, as though viewed with an eye."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +175,8 @@ know all that, as though viewed with an eye."
 यथासुखं यथावच्च लङ्कायामसि दृष्टवान् ।  
 सर्वमाचक्ष्व तत्त्वेन सर्वथा कुशलो ह्यसि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +231,15 @@ ways."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा रामस्य वचनं हनूमान् मारुतात्मजः ।  
 वाक्यं वाक्यविदां श्रेष्ठो रामं पुनरथाब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,6 +283,7 @@ of expression, forthwith spoke once more to Rama as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -276,6 +294,8 @@ of expression, forthwith spoke once more to Rama as follows:
 विभागं च बलौघस्य निर्देशं वाहनस्य च ।  
 एवमुक्त्वा कपिश्रेष्ठः कथयामास तत्त्वतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +376,15 @@ by the various methods of fortification and how it has been guarded by the troop
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टप्रमुदिता लङ्का मत्तद्विपसमाकुला ।  
 महती रथसम्पूर्णा रक्षोगणनिषेविता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,12 +427,15 @@ chariots and inhabited by gangs of ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृढबद्धकपाटानि महापरिघवन्ति च ।  
 चत्वारि विपुलान्यस्या द्वाराणि सुमहान्ति च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -449,12 +475,15 @@ beams for locking those gates."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रेषूपलयन्त्राणि बलवन्ति महान्ति च ।  
 आगतं प्रतिसैन्यं तैस्तत्र प्रतिनिवार्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +527,15 @@ gates."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वारेषु संस्कृता भीमाः कालायसमयाः शिताः ।  
 शतशो रचिता वीरैः शतघ्न्यो रक्षसां गणैः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -553,12 +585,15 @@ so called because they are supposed to kill hundreds at a time.
 
 * शतघ्नी च चतुर्हस्ता लोहकंटकिनी गदा । इति वैजयन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौवर्णस्तु महांस्तस्याः प्राकारो दुष्प्रधर्षणः ।  
 मणिविद्रुमवैदूर्यमुक्ताविरचितान्तरः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +633,15 @@ inlaid at intervals with gems, corals, cat's eyes and pearls, encircle that Lank
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वतश्च महाभीमाः शीततोया महाशुभाः ।  
 अगाधा ग्राहवत्यश्च परिखा मीनसेविताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +683,15 @@ city."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वारेषु तासां चत्वारः सङ्क्रमाः परमायताः ।  
 यन्त्रैरुपेता बहुभिर्महद्भिर्गृहपङ्क्तिभिः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +741,15 @@ those entrusted with the duty of guarding the entrances)."
 
 * मालूम होता है ‘संक्रम’ इस प्रकारके पुल थे, जिन्हें जब आवश्यकता होती, तभी यन्त्रोंद्वारा गिरा दिया जाता था । इसीसे शत्रुकी सेना आनेपर उसे खाईमें गिरा देनेकी बात कही गयी है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रायन्ते सङ्क्रमास्तत्र परसैन्यागते सति ।  
 यन्त्रैस्तैरवकीर्यन्ते परिखासु समन्ततः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +789,15 @@ the aforesaid engines and the enemy-battalions are flung into the moats on every
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकस्त्वकम्प्यो बलवान् सङ्क्रमः सुमहादृढः ।  
 काञ्चनैर्बहुभिः स्तम्भैर्वेदिकाभिश्च शोभितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +837,15 @@ strong, is dazzling with numerous gold pillars and pedestals."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयं प्रकृतिमापन्नो युयुत्सू राम रावणः ।  
 उत्थितश्चाप्रमत्तश्च बलानामनुदर्शने ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +893,15 @@ treasure, army, territory and fortresses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्का पुनर्निरालम्बा देवदुर्गा भयावहा ।  
 नादेयं पार्वतं वान्यं कृत्रिमं च चतुर्विधम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -898,12 +951,15 @@ means.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थिता पारे समुद्रस्य दूरपारस्य राघव ।  
 नौपथश्चापि नास्त्यत्र निरुद्देशश्च सर्वतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1001,15 @@ sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलाग्रे रचिता दुर्गा सा पूर्देवपुरोपमा ।  
 वाजिवारणसम्पूर्णा लङ्का परमदुर्जया ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1051,15 @@ conquer."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिखाश्च शतघ्न्यश्च यन्त्राणि विविधानि च ।  
 शोभयन्ति पुरीं लङ्कां रावणस्य दुरात्मनः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1037,12 +1099,15 @@ the city of wicked Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयुतं रक्षसामत्र पूर्वद्वारं समाश्रितम् ।  
 शूलहस्ता दुराधर्षाः सर्वे खड्गाग्रयोधिनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,12 +1151,15 @@ swords, who are difficult to assail, are positioned at the eastern gate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियुतं रक्षसामत्र दक्षिणद्वारमाश्रितम् ।  
 चतुरङ्गेण सैन्येन योधास्तत्राप्यनुत्तमाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1133,12 +1201,15 @@ unsurpassed by others constitute that army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयुतं रक्षसामत्र पश्चिमद्वारमाश्रितम् ।  
 चर्मखड्गधराः सर्वे तथा सर्वास्त्रकोविदाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1182,12 +1253,15 @@ of all mystic missiles, are positioned at the western gate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यर्बुदं रक्षसामत्र उत्तरद्वारमाश्रितम् ।  
 रथिनश्चाश्ववाहाश्च कुलपुत्राः सुपूजिताः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,12 +1302,15 @@ of distinguished families and greatly honored, are positioned there at the north
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतशोऽथ सहस्राणि मध्यमं स्कन्धमाश्रिताः ।  
 यातुधाना दुराधर्षाः साग्रकोटिश्च रक्षसाम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1274,6 +1351,7 @@ to one and quarter of a crore of ogres are positioned at the central division."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1281,6 +1359,8 @@ to one and quarter of a crore of ogres are positioned at the central division."
 दग्धा च नगरी लङ्का प्राकाराश्चावसादिताः ।  
 बलैकदेशः क्षपितो राक्षसानां महात्मनाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1325,12 +1405,15 @@ the gigantic ogres was destroyed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन केन तु मार्गेण तराम वरुणालयम् ।  
 हतेति नगरी लङ्का वानरैरुपधार्यताम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1371,12 +1454,15 @@ then as destroyed by the monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदो द्विविदो मैन्दो जाम्बवान् पनसो नलः ।  
 नीलः सेनापतिश्चैव बलशेषेण किं तव ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,6 +1479,7 @@ then as destroyed by the monkeys."
 
 अङ्गद, द्विविद, मैन्द, जाम्बवन्त, पनस, नल, सेनापति नील-इष्टॆ वानररु लङ्कॆयन्नु जयिसलु सालुवष्टिद्दारॆ. उळिद सैन्यदिन्द एनु माडुवुदिदॆ.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1400,6 +1487,8 @@ then as destroyed by the monkeys."
 सपर्वतवनां भित्त्वा सखातां च सतोरणाम् ।  
 सप्राकारां सभवनामानयिष्यन्ति राघव ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1421,12 +1510,15 @@ _________________
 
 रघुनन्दन! ई अङ्गदने आदि वीररु आकाशमार्गदिन्द हारि होगि रावणन लङ्कॆयन्नु वन, पर्वत, कन्दक, बागिलु गळन्नु प्राकारगळन्नु, मनॆगळ सहित नाश माडि सीतॆयन्नु इल्लिगॆ करॆदुकॊण्डु बरुवरु.॥32॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमाज्ञापय क्षिप्रं बलानां सर्वसङ्ग्रहम् ।  
 मुहूर्तेन तु युक्तेन प्रस्थानमभिरोचय ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1477,5 +1569,6 @@ walls and buildings, will recover Seetha."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु.॥3॥
+</details>
 </details>
 

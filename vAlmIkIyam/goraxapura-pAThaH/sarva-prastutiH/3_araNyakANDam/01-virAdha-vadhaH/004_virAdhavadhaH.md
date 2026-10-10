@@ -2,6 +2,8 @@
 title = "००४ विराधवधः"
 title_english = "004 Curse of Viradha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - Forest
@@ -26,12 +28,15 @@ a separate chapter in Baroda edition. But in Gorakhpur and Eastern versions it i
 
 4. श्रीराम और लक्ष्मणके द्वारा विराधका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रियमाणौ तु काकुत्स्थौ दृष्ट्वा सीता रघूत्तमौ ।  
 उच्चैः स्वरेण चुक्रोश प्रगृह्य सुमहाभुजौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ grabbed and being carried off, Seetha screamed in a high-pitched voice.[3-4-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष दाशरथी रामः सत्यवाञ्छीलवान् शुचिः ।  
 रक्षसा रौद्ररूपेण ह्रियते सहलक्ष्मणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,12 +114,15 @@ a ferocious look... [3-4-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मामृक्षा भक्षयिष्यन्ति शार्दूलद्वीपिनस्तथा ।  
 मां हरोत्सृज काकुत्स्थौ नमस्ते राक्षसोत्तम ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +164,15 @@ to thee..." [Said Seetha.] [3-4-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा वैदेह्या रामलक्ष्मणौ ।  
 वेगं प्रचक्रतुर्वीरौ वधे तस्य दुरात्मनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +211,15 @@ evil-minded demon Viradha. [3-4-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य रौद्रस्य सौमित्रिः सव्यं बाहुं बभञ्ज ह ।  
 रामस्तु दक्षिणं बाहुं तरसा तस्य रक्षसः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +257,15 @@ Soumitri indeed severed the left arm of that ferocious one, while Rama rent the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भग्नबाहुः संविग्नः पपाताशु विमूर्च्छितः ।  
 धरण्यां मेघसङ्काशो वज्रभिन्न इवाचलः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +307,15 @@ demolished by the Thunderbolt of Indra. [3-4-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुष्टिभिर्बाहुभिः पद्भिः सूदयन्तौ तु राक्षसम् ।  
 उद्यम्योद्यम्य चाप्येनं स्थण्डिले निष्पिपेषतुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +354,15 @@ pounded on him on the ground. [3-4-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विद्धौ बहुभिर्बाणैः खड्गाभ्यां च परिक्षतः ।  
 निष्पिष्टो बहुधा भूमौ न ममार स राक्षसः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,12 +401,15 @@ on the ground he is not killed. [3-4-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रेक्ष्य रामः सुभृशमवध्यमचलोपमम् ।  
 भयेष्वभयदः श्रीमानिदं वचनमब्रवीत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ shelter in fear, spoke this sentence to Lakshmana. [3-4-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपसा पुरुषव्याघ्र राक्षसोऽयं न शक्यते ।  
 शस्त्रेण युधि निर्जेतुं राक्षसं निखनावहे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +489,15 @@ this demon... [3-4-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
 वनेऽस्मिन् सुमहच्छ्वभ्रं खन्यतां रौद्रवर्चसः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +539,15 @@ demon; *kunjarasya iva* = for an elephant, as though; *asmin* = in forest; *su m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति ।  
 तस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +586,15 @@ stood by. [3-4-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राघवेणोक्तं राक्षसः प्रश्रितं वचः ।  
 इदं प्रोवाच काकुत्स्थं विराधः पुरुषर्षभम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,12 +633,15 @@ dynasty. [3-4-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतोऽहं पुरुषव्याघ्र शक्रतुल्यबलेन वै ।  
 मया तु पूर्वं त्वं मोहान्न ज्ञातः पुरुषर्षभ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +680,15 @@ oh, best one among men... [3-4-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या सुप्रजास्तात रामस्त्वं विदितो मया ।  
 वैदेही च महाभागा लक्ष्मणश्च महायशाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,12 +727,15 @@ are now known to me... [3-4-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिशापादहं घोरां प्रविष्टो राक्षसीं तनुम् ।  
 तुम्बुरुर्नाम गन्धर्वः शप्तो वैश्रवणेन हि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,6 +777,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -734,6 +785,8 @@ _________________
 यदा दाशरथी रामस्त्वां वधिष्यति संयुगे ॥ १७ ॥  
 तदा प्रकृतिमापन्नो भवान् स्वर्गं गमिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +828,15 @@ you will attain your nature of celestial body and you will go to heavens...' [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुपस्थीयमानो मां स क्रुद्धो व्याजहार ह ॥ १८ ॥  
 इति वैश्रवणो राजा रम्भासक्तमुवाच ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -819,12 +875,15 @@ Rambha, and indeed he alone said this curse-clearance to me... [3-4-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव प्रसादान्मुक्तोऽहमभिशापात् सुदारुणात् ॥ १९ ॥  
 भुवनं स्वं गमिष्यामि स्वस्ति वोऽस्तु परन्तप ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,6 +938,7 @@ the 'y' and the 'u' being interchangeable as in Greek..."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -886,6 +946,8 @@ the 'y' and the 'u' being interchangeable as in Greek..."
 अध्यर्धयोजने तात महर्षिः सूर्यसन्निभः ।  
 तं क्षिप्रमभिगच्छ त्वं स ते श्रेयोऽभिधास्यति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -931,12 +993,15 @@ sage with sun-like resplendence dwells, you shall quickly approach him for he ad
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवटे चापि मां राम निक्षिप्य कुशली व्रज ।  
 रक्षसां गतसत्त्वानामेष धर्मः सनातनः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -977,6 +1042,7 @@ are inhumed in pit, to them there will be the worlds of manes..." [3-4-22, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -984,6 +1050,8 @@ are inhumed in pit, to them there will be the worlds of manes..." [3-4-22, 23a]
 एवमुक्त्वा तु काकुत्स्थं विराधः शरपीडितः ॥ २३ ॥  
 बभूव स्वर्गसम्प्राप्तो न्यस्तदेहो महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,6 +1090,7 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1029,6 +1098,8 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
 वनेऽस्मिन्सुमहान् श्वभ्रः खन्यतां रौद्रकर्मणः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1117,15 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 
 अवन मातन्नु केळि श्रीरघुनाथनु लक्ष्मणनिगॆ - लक्ष्मणा! भयङ्कर कर्ममाडुव, आनॆयन्तॆ भयानक ई राक्षसनिगॆ हॊण्डवन्नु अगॆदु सिद्धगॊळिसु ऎन्दु आज्ञापिसिदनु.॥24-25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति ।  
 तस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,12 +1163,15 @@ then Rama repressively placed his foot on the throat of Viradha, and stood by. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः खनित्रमादाय लक्ष्मणः श्वभ्रमुत्तमम् ।  
 अखनत् पार्श्वतस्तस्य विराधस्य महात्मनः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,12 +1211,15 @@ Then, on taking a digging tool Lakshmana dug a deep pit beside the great soul Vi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मुक्तकण्ठमुत्क्षिप्य शङ्कुकर्णं महास्वनम् ।  
 विराधं प्राक्षिपच्छ्वभ्रे नदन्तं भैरवस्वनम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1182,6 +1262,7 @@ he is still blaring with his horrific voice. [3-4-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1190,6 +1271,8 @@ he is still blaring with his horrific voice. [3-4-28]
 मुदान्वितौ चिक्षिपतुर्भयावहं  
 नदन्तमुत्क्षिप्य बलेन राक्षसम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,6 +1317,7 @@ a ghoulish one in fight, a terrifying demon who is still blaring, with all their
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1242,6 +1326,8 @@ a ghoulish one in fight, a terrifying demon who is still blaring, with all their
 समर्थ्य चात्यर्थविशारदावुभौ  
 बिले विराधस्य वधं प्रचक्रतुः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1286,6 +1372,7 @@ that are very expertly skilled have thought over well and undertook the eliminat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1294,6 +1381,8 @@ that are very expertly skilled have thought over well and undertook the eliminat
 निवेदितः काननचारिणा स्वयं  
 न मे वधः शस्त्रकृतो भवेदिति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1342,6 +1431,7 @@ himself appraised that, "Killing me with any weapon is impossible..." [3-4-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1350,6 +1440,8 @@ himself appraised that, "Killing me with any weapon is impossible..." [3-4-31]
 बिलं च तेनातिबलेन रक्षसा  
 प्रवेश्यमानेन वनं विनादितम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,6 +1485,7 @@ being flung into the pit the whole forest blared with that demon's cries. [3-4-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1401,6 +1494,8 @@ being flung into the pit the whole forest blared with that demon's cries. [3-4-3
 ननन्दतुर्वीतभयौ महावने  
 शिलाभिरन्तर्दधतुश्च राक्षसम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1450,6 +1545,7 @@ Here also, Viradha's grave is covered with stones and boulders, as a kind of Sto
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1458,6 +1554,8 @@ Here also, Viradha's grave is covered with stones and boulders, as a kind of Sto
 विजह्रतुस्तौ मुदितौ महावने  
 दिवि स्थितौ चन्द्रदिवाकराविव ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1526,5 +1624,6 @@ in their appeasing personalities and sun-like in their radiant valour.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नाल्कनॆय सर्ग सम्पूर्णवायितु.॥4॥
+</details>
 </details>
 

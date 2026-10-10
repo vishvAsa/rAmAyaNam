@@ -2,6 +2,8 @@
 title = "०९३ रामाश्रमदर्शनम्"
 title_english = "093 Bharata and his army reach Chitrakuta mountain"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -25,12 +27,15 @@ hermitage.
 
 93. सेनासहित भरतकी चित्रकूट-यात्राका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया महत्या यायिन्या ध्वजिन्या वनवासिनः ।  
 अर्दिता यूथपा मत्ताः सयूथाः सम्प्रदुद्रुवुः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ denizens of the woods were frightened and ran away together.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाः पृषतमुख्याश्च रुरवश्च समन्ततः ।  
 दृश्यन्ते वनवाटेषु गिरिष्वपि नदीषु च ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ forest, on the hills and by the rivers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्रतस्थे धर्मात्मा प्रीतो दशरथात्मजः ।  
 वृतो महत्या नादिन्या सेनया चतुरङ्गया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ army of four divisions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरौघनिभा सेना भरतस्य महात्मनः ।  
 महीं सञ्छादयामास प्रावृषि द्यामिवाम्बुदः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ covered the earth as clouds cover the sky in a rainy season.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुरङ्गौघैरवतता वारणैश्च महाबलैः ।  
 अनालक्ष्या चिरं कालं तस्मिन् काले बभूव सा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,12 +262,15 @@ earth became invisible for a long time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा दूरमध्वानं सम्परिश्रान्तवाहनः ।  
 उवाच वचनं श्रीमान् वसिष्ठं मन्त्रिणां वरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +311,15 @@ fully exhausted, said to Vasishta, the most segaceios of his counsellors (as fol
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशं लक्ष्यते रूपं यथा चैव मया श्रुतम् ।  
 व्यक्तं प्राप्ताः स्म तं देशं भरद्वाजो यमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,6 +363,7 @@ that we reached that area of which Bharadwaja spoke."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,6 +373,8 @@ that we reached that area of which Bharadwaja spoke."
 गिरेः सानूनि रम्याणि चित्रकूटस्य सम्प्रति ।  
 वारणैरवमृद्यन्ते मामकैः पर्वतोपमैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,12 +441,15 @@ a blue cloud from a distance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुञ्चन्ति कुसुमान्येते नगाः पर्वतसानुषु ।  
 नीला इवातपापाये तोयं तोयधरा घनाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,12 +489,15 @@ clouds shower water in a rainy season."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किन्नराचरितं देशं पश्य शत्रुघ्न पर्वते ।  
 हयैः समन्तादाकीर्णं मकरैरिव सागरम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +540,15 @@ with horses on every side, as a sea is infested by allegators."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते मृगगणा भान्ति शीघ्रवेगाः प्रचोदिताः ।  
 वायुप्रविद्धाः शरदि मेघजाला इवाम्बरे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +589,15 @@ appear like a mass of clouds driven by the wind in the sky in antumn."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुर्वन्ति कुसुमापीडान् शिरःसु सुरभीनमी ।  
 मेघप्रकाशैः फलकैर्दाक्षिणात्या नरा यथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +640,15 @@ of flowers, resemble the people of the south."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्कूजमिव भूत्वेदं वनं घोरप्रदर्शनम् ।  
 अयोध्येव जनाकीर्णा सम्प्रति प्रतिभाति मे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,12 +688,15 @@ like Ayodhya, swarning with people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खुरैरुदीरितो रेणुर्दिवं प्रच्छाद्य तिष्ठति ।  
 तं वहत्यनिलः शीघ्रं कुर्वन्निव मम प्रियम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +737,15 @@ carries it away immediately as if to give me pleasure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्यन्दनांस्तुरगोपेतान् सूतमुख्यैरधिष्ठितान् ।  
 एतान् सम्पततः शीघ्रं पश्य शत्रुघ्न कानने ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +786,15 @@ charioteers are rushing together rapidly in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतान् वित्रासितान् पश्य बर्हिणः प्रियदर्शनान् ।  
 एवमापततः शैलमधिवासं पतत्त्रिणः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +815,15 @@ _________________
 
 ‘जो देखनेमें बड़े प्यारे लगते हैं उन मोरोंको तो देखो । ये हमारे सैनिकोंके भयसे कितने डरे हुए हैं । इसी प्रकार अपने आवास-स्थान पर्वतकी ओर उड़ते हुए अन्य पक्षियोंपर भी दृष्टिपात करो ॥ १७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिमात्रमयं देशो मनोज्ञः प्रतिभाति मे ।  
 तापसानां निवासोऽयं व्यक्तं स्वर्गपथोऽनघ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +864,15 @@ threshold of heaven, it is clearly an abode of ascetics."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगा मृगीभिः सहिता बहवः पृषता वने ।  
 मनोज्ञरूपा लक्ष्यन्ते कुसुमैरिव चित्रिताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +913,15 @@ are seen as if studded with flowers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु सैन्याः प्रतिष्ठन्तां विचन्वन्तु च काननम् ।  
 यथा तौ पुरुषव्याघ्रौ दृश्येते रामलक्ष्मणौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -899,12 +958,15 @@ men, Rama and Lakshamana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्य वचः श्रुत्वा पुरुषाः शस्त्रपाणयः ।  
 विविशुस्तद्वनं शूरा धूमाग्रं ददृशुस्ततः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1010,15 @@ into the forest suddenly they observed a plume of smoke rising.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते समालोक्य धूमाग्रमूचुर्भरतमागताः ।  
 नामनुष्ये भवत्यग्निर्व्यक्तमत्रैव राघवौ ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,12 +1059,15 @@ fire in a deserted place. Assuredly, Rama and Lakshmana are there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ नात्र नरव्याघ्रौ राजपुत्रौ परन्तपौ ।  
 अन्ये रामोपमाः सन्ति व्यक्तमत्र तपस्विनः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,12 +1108,15 @@ foes here, obviously there are other ascetics like Rama here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भरतस्तेषां वचनं साधुसम्मतम् ।  
 सैन्यानुवाच सर्वांस्तानमित्रबलमर्दनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1085,12 +1156,15 @@ forces, spoke to the entire army (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्ता भवन्तस्तिष्ठन्तु नेतो गन्तव्यमग्रतः ।  
 अहमेव गमिष्यामि सुमन्त्रो धृतिरेव च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,12 +1205,15 @@ Sumantra and also Dhriti, my spiritual preceptor."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्ततः सैन्यास्तत्र तस्थुः समन्ततः ।  
 भरतो यत्र धूमाग्रं तत्र दृष्टिं समादधत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,6 +1254,7 @@ column of smoke, went forward.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,6 +1263,8 @@ column of smoke, went forward.
 बभूव हृष्टा नचिरेण जानती  
 प्रियस्य रामस्य समागमं तदा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,5 +1342,6 @@ and are entering their dwelling places hastily."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥93॥
+</details>
 </details>
 

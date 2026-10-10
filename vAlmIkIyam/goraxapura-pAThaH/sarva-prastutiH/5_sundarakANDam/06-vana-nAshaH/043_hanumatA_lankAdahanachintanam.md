@@ -2,6 +2,8 @@
 title = "०४३ हनुमता लङ्कादहनचिन्तनम्"
 title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -24,12 +26,15 @@ the sanctuary by producing a fire, created out of its friction with the other pi
 
 43. हनुमान् जी के द्वारा चैत्यप्रासादका विध्वंस तथा उसके रक्षकोंका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स किङ्करान् हत्वा हनूमान् ध्यानमास्थितः ।  
 वनं भग्नं मया चैत्यप्रासादो न विनाशितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -49,6 +54,7 @@ _________________
 
 * लङ्कामें राक्षसोंके कुलदेवताका जो स्थान था, उसीका नाम ‘चैत्यप्रासाद’ रखा गया था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,6 +63,8 @@ _________________
 चैत्यप्रासादमुत्प्लुत्य मेरुशृङ्गमिवोन्नतम् ।  
 आरुरोह हरिश्रेष्ठो हनूमान् मारुतात्मजः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ as a mountain-top of Meru.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुह्य गिरिसङ्काशं प्रासादं हरियूथपः ।  
 बभौ स सुमहातेजाः प्रतिसूर्य इवोदितः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,12 +159,15 @@ lofty palatial mansion similar to a mountain shone like a second rising sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रधृष्य तु दुर्धर्षश्चैत्यप्रासादमुन्नतम् ।  
 हनूमान् प्रज्वलल्ँ लक्ष्म्या पारियात्रोपमोऽभवत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,12 +188,15 @@ _________________
 
 उस ऊँचे प्रासादपर आक्रमण करके दुर्धर्ष वीर हनुमान् जी अपनी सहज शोभासे उद्भासित होते हुए पारियात्र पर्वतके समान प्रतीत होने लगे ॥ ५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भूत्वा सुमहाकायः प्रभावान् मारुतात्मजः ।  
 धृष्टमास्फोटयामास लङ्कां शब्देन पूरयन् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +253,15 @@ meta morposed into a towering sized body equal to that of Pariyatra mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्फोटितशब्देन महता श्रोत्रघातिना ।  
 पेतुर्विहङ्गमास्तत्र चैत्यपालाश्च मोहिताः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,6 +301,7 @@ protecting the sanctuary unconsciously fell down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,6 +314,8 @@ protecting the sanctuary unconsciously fell down.
 धर्षयित्वा पुरीं लङ्कामभिवाद्य च मैथिलीम् ।  
 समृद्धार्थो गमिष्यामि मिषतां सर्वरक्षसाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +390,15 @@ salutation to Seetha, I will go back duly completing my task."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाकायश्चैत्यस्थो हरियूथपः ।  
 ननाद भीमनिर्ह्रादो रक्षसां जनयन् भयम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,12 +441,15 @@ and creating a terror to the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन नादेन महता चैत्यपालाः शतं ययुः ।  
 गृहीत्वा विविधानस्त्रान् प्रासान् खड्गान् परश्वधान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,6 +496,7 @@ those weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -474,6 +504,8 @@ those weapons.
 ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः ॥ १४ ॥  
 आजग्मुर्वानरश्रेष्ठं बाणैश्चादित्यसन्निभैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ _________________
 
 उन विशालकाय राक्षसोंने उन सब अस्त्रोंका प्रहार करते हुए वहाँ पवनकुमार हनुमान् जी को घेर लिया । विचित्र गदाओं, सोनेके पत्र जड़े हुए परिघों और सूर्यतुल्य तेजस्वी बाणोंसे सुसज्जित हो वे सब-के-सब उन वानरश्रेष्ठ हनुमान् पर चढ़ आये ॥ १४ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवर्त इव गङ्गायास्तोयस्य विपुलो महान् ॥ १५ ॥  
 परिक्षिप्य हरिश्रेष्ठं स बभौ रक्षसां गणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,6 +566,7 @@ extensive whirlpool in the waters of River Ganga.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,6 +576,8 @@ extensive whirlpool in the waters of River Ganga.
 ततस्तं भ्रामयामास शतधारं महाबलः ।  
 तत्र चाग्निः समभवत् प्रासादश्चाप्यदह्यत ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,6 +621,7 @@ then speedily whirled it around.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -590,6 +629,8 @@ then speedily whirled it around.
 स राक्षसशतं हत्वा वज्रेणेन्द्र इवासुरान् ॥ १९ ॥  
 अन्तरिक्षस्थितः श्रीमानिदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +673,15 @@ demons with his thunderbolt and gloriously staying in the sky, spoke (the follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मादृशानां सहस्राणि विसृष्टानि महात्मनाम् ॥ २० ॥  
 बलिनां वानरेन्द्राणां सुग्रीववशवर्तिनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,6 +693,7 @@ demons with his thunderbolt and gloriously staying in the sky, spoke (the follow
 
 ‘राक्षसो! सुग्रीवके वशमें रहनेवाले मेरे-जैसे सहस्रों विशालकाय बलवान् वानरश्रेष्ठ सब ओर भेजे गये हैं ॥ २० १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -656,6 +701,8 @@ demons with his thunderbolt and gloriously staying in the sky, spoke (the follow
 दशनागबलाः केचित् केचिद् दशगुणोत्तराः ।  
 केचिन्नागसहस्रस्य बभूवुस्तुल्यविक्रमाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +738,15 @@ orders of Sugreeva. We and other monkeys are now roaming the entire earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति चौघबलाः केचित् सन्ति वायुबलोपमाः ।  
 अप्रमेयबलाः केचित् तत्रासन् हरियूथपाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -751,6 +801,7 @@ of a hundred elephants. Some are having a prowess equal to that of a thousand el
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -758,6 +809,8 @@ of a hundred elephants. Some are having a prowess equal to that of a thousand el
 शतैः शतसहस्रैश्च कोटिभिश्चायुतैरपि ॥ २४ ॥  
 आगमिष्यति सुग्रीवः सर्वेषां वो निषूदनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +833,15 @@ _________________
 
 ‘दाँत और नख ही जिनके आयुध हैं ऐसे अनन्त बलशाली सैकड़ों, हजारों, लाखों और करोड़ों वानरोंसे घिरे हुए वानरराज सुग्रीव यहाँ पधारेंगे, जो तुम सब निशाचरोंका संहार करनेमें समर्थ हैं ॥ २४ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेयमस्ति पुरी लङ्का न यूयं न च रावणः ।  
 यस्य त्विक्ष्वाकुवीरेण बद्धं वैरं महात्मना ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,5 +912,6 @@ and nails as their weapons, Sugreeva, who is capable of destroying you all, will
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

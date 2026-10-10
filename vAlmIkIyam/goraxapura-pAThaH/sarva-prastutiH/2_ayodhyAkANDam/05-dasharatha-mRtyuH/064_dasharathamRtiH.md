@@ -2,6 +2,8 @@
 title = "०६४ दशरथमृतिः"
 title_english = "064 Dasaratha continued to narrate to Kausalya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -26,12 +28,15 @@ grief.
 
 64. राजा दशरथका अपने द्वारा मुनिकुमारके वधसे दुःखी हुए उनके माता-पिताके विलाप और उनके दिये हुए शापका प्रसंग सुनाकर कौसल्याके समीप रोते-बिलखते हुए आधी रातके समय अपने प्राणोंको त्याग देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधमप्रतिरूपं तु महर्षेस्तस्य राघवः ।  
 विलपन्नेव धर्मात्मा कौसल्यामिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ spoke further to Kausalya as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदज्ञानान्महत्पापं कृत्वा सङ्कुलितेन्द्रियः ।  
 एकस्त्वचिन्तयं बुद‍्ध्या कथं नु सुकृतं भवेत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ alone, I thought of using my reason of what best can be done."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं घटमादाय पूर्णं परमवारिणा ।  
 आश्रमं तमहं प्राप्य यथाख्यातपथं गतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ as directed by the young sage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राहं दुर्बलावन्धौ वृद्धावपरिणायकौ ।  
 अपश्यं तस्य पितरौ लूनपक्षाविव द्विजौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,12 +202,15 @@ _________________
 
 अल्लिगॆ तलुपि दुर्बलरू, कुरुडरू, मुदुकरू आद, बेरॆ यारू सहायकरिल्लद, रॆक्कॆ तुण्डाद पक्षिगळन्तॆ इरुव अवन तन्दॆ-तायियरन्नु नोडिदॆ.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्निमित्ताभिरासीनौ कथाभिरपरिश्रमौ ।  
 तामाशां मत्कृते हीनावुपासीनावनाथवत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ their son, because of me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकोपहतचित्तश्च भयसन्त्रस्तचेतनः ।  
 तच्चाश्रमपदं गत्वा भूयः शोकमहं गतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ prey to further grief after reaching the hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदशब्दं तु मे श्रुत्वा मुनिर्वाक्यमभाषत ।  
 किं चिरायसि मे पुत्र पानीयं क्षिप्रमानय ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +343,15 @@ you late? Give me the water soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्निमित्तमिदं तात सलिले क्रीडितं त्वया ।  
 उत्कण्ठिता ते मातेयं प्रविश क्षिप्रमाश्रमम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +392,15 @@ Enter the hermitage quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् व्यलीकं कृतं पुत्र मात्रा ते यदि वा मया ।  
 न तन्मनसि कर्तव्यं त्वया तात तपस्विना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,12 +435,15 @@ you, as a sage ought not have kept it in your mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं गतिस्त्वगतीनां च चक्षुस्त्वं हीनचक्षुषाम् ।  
 समासक्तास्त्वयि प्राणाः कथं त्वं नाभिभाषसे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ are encircled around you. Why are you not talking with us?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनिमव्यक्तया वाचा तमहं सज्जमानया ।  
 हीनव्यञ्जनया प्रेक्ष्य भीतचित्त इवाब्रुवम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +531,15 @@ indistinct inarticulate and without some consonants?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसः कर्म चेष्टाभिरभिसंस्तभ्य वाग्बलम् ।  
 आचचक्षे त्वहं तस्मै पुत्रव्यसनजं भयम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +579,15 @@ by deliberate efforts, I told him of the alarm that awaited him of his son's dea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियोऽहं दशरथो नाहं पुत्रो महात्मनः ।  
 सज्जनावमतं दुःखमिदं प्राप्तं स्वकर्मजम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +628,15 @@ calamity created by my own act, despised by noble men, befell upon me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवंश्चापहस्तोऽहं सरयूतीरमागतः ।  
 जिघांसुः श्वापदं किञ्चिन्निपाने वागतं गजम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +677,15 @@ an intent to kill an elephant arrived to a ford (for drinking water) or any othe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः श्रुतो मया शब्दो जले कुम्भस्य पूर्यतः ।  
 द्विपोऽयमिति मत्वाहं बाणेनाभिहतो मया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +726,15 @@ an elephant, I killed it with an arrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गत्वा तस्यास्ततस्तीरमपश्यमिषुणा हृदि ।  
 विनिर्भिन्नं गतप्राणं शयानं भुवि तापसम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +775,15 @@ the ground, with the arrow pierced into his heart."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्यैव वचनादुपेत्य परितप्यतः ।  
 स मया सहसा बाण उद्‍धृतो मर्मतस्तदा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +824,15 @@ released an iron arrow, and thus your son was killed (hit)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चोद‍्धृतेन बाणेन सहसा स्वर्गमास्थितः ।  
 भगवन्तावुभौ शोचन्नन्धाविति विलप्य च ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +873,15 @@ out the arrow soon from his vital part."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञानाद् भवतः पुत्रः सहसाभिहतो मया ।  
 शेषमेवं गते यत् स्यात् तत् प्रसीदतु मे मुनिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +922,15 @@ lamenting that you were blind and there itself he attained Heaven"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तच्छ्रुत्वा वचः क्रूरं मया तदघशंसिना ।  
 नाशकत् तीव्रमायासं स कर्तुं भगवानृषिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -908,12 +970,15 @@ Let the honorable sage command me what to do in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बाष्पपूर्णवदनो निःश्वसन् शोकमूर्च्छितः ।  
 मामुवाच महातेजाः कृताञ्जलिमुपस्थितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,12 +1019,15 @@ could not resist his severe anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्येतदशुभं कर्म न स्म मे कथयेः स्वयम् ।  
 फलेन्मूर्धा स्म ते राजन् सद्यः शतसहस्रधा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1067,15 @@ sorrow, spoke with a sigh to me who came near him with joined palms"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियेण वधो राजन् वानप्रस्थे विशेषतः ।  
 ज्ञानपूर्वं कृतः स्थानाच्च्यावयेदपि वज्रिणम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1119,15 @@ have burst instantly into a hundred thousand pieces."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तधा तु भवेन्मूर्धा मुनौ तपसि तिष्ठति ।  
 ज्ञानाद् विसृजतः शस्त्रं तादृशे ब्रह्मवादिनि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,12 +1167,15 @@ would expel even Indra from his post."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञानाद्धि कृतं यस्मादिदं ते तेन जीवसे ।  
 अपि ह्यकुशलं न स्याद् राघवाणां कुतो भवान् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,12 +1217,15 @@ seven pieces."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नय नौ नृप तं देशमिति मां चाभ्यभाषत ।  
 अद्य तं द्रष्टुमिच्छावः पुत्रं पश्चिमदर्शनम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1186,6 +1266,7 @@ today the whole of Ikshvaaku dynasty would have been no more, if it is not the c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1194,6 +1275,8 @@ today the whole of Ikshvaaku dynasty would have been no more, if it is not the c
 अथाहमेकस्तं देशं नीत्वा तौ भृशदुःखितौ ।  
 अस्पर्शयमहं पुत्रं तं मुनिं सह भार्यया ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1243,12 +1326,15 @@ place."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ पुत्रमात्मनः स्पृष्ट्वा तमासाद्य तपस्विनौ ।  
 निपेततुः शरीरेऽस्य पिता चैनमुवाच ह ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1288,12 +1374,15 @@ one made that sage and his wife to touch their son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाभिवादयसे माद्य न च मामभिभाषसे ।  
 किं च शेषे तु भूमौ त्वं वत्स किं कुपितो ह्यसि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,12 +1423,15 @@ it . Then, his father spoke as follows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्वहं तेऽप्रियः पुत्र मातरं पश्य धार्मिकीम् ।  
 किं च नालिङ्गसे पुत्र सुकुमार वचो वद ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1379,12 +1471,15 @@ you sleeping on the floor? Are you angry?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य वा पररात्रेऽहं श्रोष्यामि हृदयङ्गमम् ।  
 अधीयानस्य मधुरं शास्त्रं वान्यद् विशेषतः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1425,12 +1520,15 @@ embracing, my son? Utter some words, O delicate youth!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को मां सन्ध्यामुपास्यैव स्नात्वा हुतहुताशनः ।  
 श्लाघयिष्यत्युपासीनः पुत्रशोकभर्यादितम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,12 +1572,15 @@ particular at the end of the night, shall I hear from now?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कन्दमूलफलं हृत्वा यो मां प्रियमिवातिथिम् ।  
 भोजयिष्यत्यकर्मण्यमप्रग्रहमनायकम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1524,12 +1625,15 @@ afflicted with grief and fear?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमामन्धां च वृद्धां च मातरं ते तपस्विनीम् ।  
 कथं पुत्र भरिष्यामि कृपणां पुत्रगर्धिनीम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1570,12 +1674,15 @@ walk?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठ मा मा गमः पुत्र यमस्य सदनं प्रति ।  
 श्वो मया सह गन्तासि जनन्या च समेधितः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1616,12 +1723,15 @@ woman in a pitiable condition, longing for her son?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभावपि च शोकार्तावनाथौ कृपणौ वने ।  
 क्षिप्रमेव गमिष्यावस्त्वया हीनौ यमक्षयम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1661,12 +1771,15 @@ and with your mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वैवस्वतं दृष्ट्वा तं प्रवक्ष्यामि भारतीम् ।  
 क्षमतां धर्मराजो मे बिभृयात् पितरावयम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1706,12 +1819,15 @@ both of us also will come soon along with you to Yama's abode."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दातुमर्हति धर्मात्मा लोकपालो महायशाः ।  
 ईदृशस्य ममाक्षय्यामेकामभयदक्षिणाम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1752,6 +1868,7 @@ this boy nourish his parents.' "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1760,6 +1877,8 @@ this boy nourish his parents.' "
 यां हि शूरा गतिं यान्ति सङ्ग्रामेष्वनिर्वितनः ।  
 हतास्त्वभिमुखाः पुत्र गतिं तां परमां व्रज ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1828,12 +1947,15 @@ condition."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां गतिं सगरः शैब्यो दिलीपो जनमेजयः ।  
 नहुषो धुन्धुमारश्च प्राप्तास्तां गच्छ पुत्रक ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1875,6 +1997,7 @@ battles."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1883,6 +2006,8 @@ battles."
 गोसहस्रप्रदातॄणां गुरुसेवाभृतामपि ।  
 देहन्यासकृतां या च तां गतिं गच्छ पुत्रक ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1923,12 +2048,15 @@ Nahusha and Dundumara."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि त्वस्मिन् कुले जातो गच्छत्यकुशलां गतिम् ।  
 स तु यास्यति येन त्वं निहतो मम बान्धवः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1972,12 +2100,15 @@ journeying to Himalayan Mountains, or drowning themselves in water or leaping in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स कृपणं तत्र पर्यदेवयतासकृत् ।  
 ततोऽस्मै कर्तुमुदकं प्रवृत्तः सह भार्यया ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2018,12 +2149,15 @@ who killed you, my son, will obtain that bad destiny."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु दिव्येन रूपेण मुनिपुत्रः स्वकर्मभिः ।  
 स्वर्गमध्यारुहत् क्षिप्रं शक्रेण सह धर्मवित् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2064,12 +2198,15 @@ started doing the ceremony of offering water to his demised son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आबभाषे च तौ वृद्धौ शक्रेण सह तापसः ।  
 आश्वस्य च मुहूर्तं तु पितरं वाक्यमब्रवीत् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2109,12 +2246,15 @@ wonderful form along with Indra (the king of celestials) as a result of his own 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थानमस्मि महत् प्राप्तो भवतोः परिचारणात् ।  
 भवन्तावपि च क्षिप्रं मम मूलमुपैष्यथः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2155,12 +2295,15 @@ his parents for a while, he spoke the following words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु दिव्येन विमानेन वपुष्मता ।  
 आरुरोह दिवं क्षिप्रं मुनिपुत्रो जितेन्द्रियः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2200,12 +2343,15 @@ obtain soon my vicinity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वाथोदकं तूर्णं तापसः सह भार्यया ।  
 मामुवाच महातेजाः कृताञ्जलिमुपस्थितम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2245,12 +2391,15 @@ plane with beautiful form, quickly reached Heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यैव जहि मां राजन् मरणे नास्ति मे व्यथा ।  
 यः शरेणैकपुत्रं मां त्वमकार्षीरपुत्रकम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2291,12 +2440,15 @@ offering water to his dead son and spoke to me, who was standing near him with f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयापि च यदज्ञानान्निहतो मे स बालकः ।  
 तेन त्वामपि शप्स्येऽहं सुदुःखमतिदारुणम् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2337,12 +2489,15 @@ by an arrow. You kill me also now. I am not frightened about death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रव्यसनजं दुःखं यदेतन्मम साम्प्रतम् ।  
 एवं त्वं पुत्रशोकेन राजन् कालं करिष्यसि ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2385,6 +2540,7 @@ painful and very cruel curse on you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2393,6 +2549,8 @@ painful and very cruel curse on you."
 त्वामप्येतादृशो भावः क्षिप्रमेव गमिष्यति ।  
 जीवितान्तकरो घोरो दातारमिव दक्षिणाम् ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2445,12 +2603,15 @@ the same manner; you will also die due to agony caused by the loss of your son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं शापं मयि न्यस्य विलप्य करुणं बहु ।  
 चितामारोप्य देहं तन्मिथुनं स्वर्गमभ्ययात् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2485,12 +2646,15 @@ quickly come to you, even as a merit accrues to the donor of a donation to the p
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतच्चिन्तयानेन स्मृतं पापं मया स्वयम् ।  
 तदा बाल्यात् कृतं देवि शब्दवेध्यनुकर्षिणा ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2525,6 +2689,7 @@ their body on the funeral pile and proceeded to heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2532,6 +2697,8 @@ their body on the funeral pile and proceeded to heaven."
 अपथ्यैः सह सम्भुक्ते व्याधिरन्नरसे यथा ॥ ५९ ॥  
 तस्मान्मामागतं भद्रे तस्योदारस्य तद् वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2574,6 +2741,7 @@ reflection over it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2581,6 +2749,8 @@ reflection over it."
 यदहं पुत्रशोकेन सन्त्यजिष्यामि जीवितम् ।  
 चक्षुर्भ्यां त्वां न पश्यामि कौसल्ये त्वं हि मां स्पृश ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2637,6 +2807,7 @@ forbidden things, this present occurrence came as a result of the sinful act by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2644,6 +2815,8 @@ forbidden things, this present occurrence came as a result of the sinful act by 
 यदि मां संस्पृशेद् रामः सकृदन्वारभेत वा ॥ ६२ ॥  
 धनं वा यौवराज्यं वा जीवेयमिति मे मतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2688,12 +2861,15 @@ King Dasaratha, terribly weeping said to his wife as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तन्मे सदृशं देवि यन्मया राघवे कृतम् ॥ ६३ ॥  
 सदृशं तत्तु तस्यैव यदनेन कृतं मयि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2734,12 +2910,15 @@ But the good that was done by Rama in my case was worthy only of him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्वृत्तमपि कः पुत्रं त्यजेद् भुवि विचक्षणः ॥ ६४ ॥  
 कश्च प्रव्राज्यमानो वा नासूयेत् पितरं सुतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2774,12 +2953,15 @@ Which son, even if he is sent to an exile, cannot become angry with his father?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्षुषा त्वां न पश्यामि स्मृतिर्मम विलुप्यते ॥ ६५ ॥  
 दूता वैवस्वतस्यैते कौसल्ये त्वरयन्ति माम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2820,12 +3002,15 @@ maanavaaH = Men; *anupraaptaaH* = who attained; *yamakshhayam* = the world of Ya
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतस्तु किं दुःखतरं यदहं जीवितक्षये ॥ ६६ ॥  
 नहि पश्यामि धर्मज्ञं रामं सत्यपराक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2868,12 +3053,15 @@ away. Messengers of Yama (god of death) are hastening me to come."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यादर्शनजः शोकः सुतस्याप्रतिकर्मणः ॥ ६७ ॥  
 उच्छोषयति वै प्राणान् वारि स्तोकमिवातपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2912,12 +3100,15 @@ righteousness and who is a truly brave man, at the time of my death?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते मनुष्या देवास्ते ये चारुशुभकुण्डलम् ॥ ६८ ॥  
 मुखं द्रक्ष्यन्ति रामस्य वर्षे पञ्चदशे पुनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2956,12 +3147,15 @@ actions, is parching up my life, as sun- shine dries up a water drop"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मपत्रेक्षणं सुभ्रु सुदंष्ट्रं चारुनासिकम् ॥ ६९ ॥  
 धन्या द्रक्ष्यन्ति रामस्य ताराधिपसमं मुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3002,6 +3196,7 @@ year, the beautiful face of Rama, wearing his handsome ear-rings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3010,6 +3205,8 @@ year, the beautiful face of Rama, wearing his handsome ear-rings."
 निवृत्तवनवासं तमयोध्यां पुनरागतम् ॥ ७१ ॥  
 द्रक्ष्यन्ति सुखिनो रामं शुक्रं मार्गगतं यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3076,12 +3273,15 @@ nose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्ये चित्तमोहेन हृदयं सीदतेतराम् ॥ ७२ ॥  
 वेदये न च संयुक्तान् शब्दस्पर्शरसानहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3121,12 +3321,15 @@ the planet Venus coming from a journey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्तनाशाद् विपद्यन्ते सर्वाण्येवेन्द्रियाणि हि ।  
 क्षीणस्नेहस्य दीपस्य संरक्ता रश्मयो यथा ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3160,12 +3363,15 @@ the related sound, touch and the smell."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमात्मभवः शोको मामनाथमचेतनम् ।  
 संसाधयति वेगेन यथा कूलं नदीरयः ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3205,12 +3411,15 @@ of a lamp whose oil is exhausted, starts splattering."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा राघव महाबाहो हा ममायासनाशन ।  
 हा पितृप्रिय मे नाथ हा ममासि गतः सुत ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3251,12 +3460,15 @@ like a river bank being collapsed by the floods of a river stream."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा कौसल्ये न पश्यामि हा सुमित्रे तपस्विनि ।  
 हा नृशंसे ममामित्रे कैकेयि कुलपांसनि ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3296,12 +3508,15 @@ father! O, my protector! O, my son! Where have you gone?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति मातुश्च रामस्य सुमित्रायाश्च सन्निधौ ।  
 राजा दशरथः शोचञ्जीवितान्तमुपागमत् ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3341,6 +3556,7 @@ The disgrace of my family! I am going to die."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3349,6 +3565,8 @@ The disgrace of my family! I am going to die."
 गतेऽर्धरात्रे भृशदुःखपीडित-  
 स्तदा जहौ प्राणमुदारदर्शनः ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3400,5 +3618,6 @@ the presence of Kausalya and Sumitra.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥64॥
+</details>
 </details>
 

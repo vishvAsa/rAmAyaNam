@@ -2,6 +2,8 @@
 title = "०४७ रामलक्ष्मणविषयकसीताशोकवर्णनम्"
 title_english = "047 Seetha s anguish about Rama and Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ Lakshmana to have been dead, Seetha bursts into sobs.
 
 47. वानरोंद्वारा श्रीराम और लक्ष्मणकी रक्षा, रावणकी आज्ञासे राक्षसियोंका सीताको पुष्पकविमानद्वारा रणभूमिमें ले जाकर श्रीराम और लक्ष्मणका दर्शन कराना और सीताका दुःखी होकर रोना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् प्रविष्टे लङ्कायां कृतार्थे रावणात्मजे ।  
 राघवं परिवार्याथ ररक्षुर्वानरर्षभाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,6 +69,7 @@ leading monkeys surrounded Rama in order to watch over him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -72,6 +78,8 @@ leading monkeys surrounded Rama in order to watch over him.
 जाम्बवानृषभः स्कन्धो रम्भः शतबलिः पृथुः ।  
 व्यूढानीकाश्च यत्ताश्च द्रुमानादाय सर्वतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -85,12 +93,15 @@ leading monkeys surrounded Rama in order to watch over him.
 
 हनुमान्, अङ्गद, नील, सुषेण, कुमुद, नल, गज, गवाक्ष, गवय, शरभ, गन्धमादन, जाम्बवान्, ऋषभ, स्कन्ध, रम्भ, शतबलि और पृथु—ये सब सावधान हो अपनी सेनाकी व्यूहरचना करके हाथोंमें वृक्ष लिये सब ओरसे पहरा देने लगे ॥ २-३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षमाणा दिशः सर्वास्तिर्यगूर्ध्वं च वानराः ।  
 तृणेष्वपि च चेष्टत्सु राक्षसा इति मेनिरे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -129,12 +140,15 @@ every side and, even if a grass stirred, they exclaimed, "It is a demon!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणश्चापि संहृष्टो विसृज्येन्द्रजितं सुतम् ।  
 आजुहाव ततः सीतारक्षणी राक्षसीस्तदा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +183,15 @@ the female demons who guarded Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षस्यस्त्रिजटा चापि शासनात् तमुपस्थिताः ।  
 ता उवाच ततो हृष्टो राक्षसी राक्षसाधिपः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +228,15 @@ Then, the rejoiced Ravana said to them as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हताविन्द्रजिताख्यात वैदेह्या रामलक्ष्मणौ ।  
 पुष्पकं तत्समारोप्य दर्शयध्वं रणे हतौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +272,15 @@ Pushpaka the aeroplane and show her Rama and Lakshman who were killed in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदाश्रयादवष्टब्धा नेयं मामुपतिष्ठते ।  
 सोऽस्या भर्ता सह भ्रात्रा निहतो रणमूर्धनि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +315,15 @@ united with me, lies there killed with his brother in the battle-front."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्विशङ्का निरुद्विग्ना निरपेक्षा च मैथिली ।  
 मामुपस्थास्यते सीता सर्वाभरणभूषिता ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,6 +359,7 @@ princess of Mithila kingdom, adorned in all her jewels, will submit herself to m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,6 +367,8 @@ princess of Mithila kingdom, adorned in all her jewels, will submit herself to m
 अवेक्ष्य विनिवृत्ता सा चान्यां गतिमपश्यती ॥ १० ॥  
 अनपेक्षा विशालाक्षी मामुपस्थास्यते स्वयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,12 +408,15 @@ seek refuge with me!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा रावणस्य दुरात्मनः ॥ ११ ॥  
 राक्षस्यस्तास्तथेत्युक्त्वा जग्मुर्वै यत्र पुष्पकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +452,15 @@ where the Pushpaka chariot was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पुष्पकमादाय राक्षस्यो रावणाज्ञया ॥ १२ ॥  
 अशोकवनिकास्थां तां मैथिलीं समुपानयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,12 +496,15 @@ instructions of Ravana and carried it nearer to Seetha who was staying in Ashoka
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामादाय तु राक्षस्यो भर्तृशोकपराजिताम् ॥ १३ ॥  
 सीतामारोपयामासुर्विमानं पुष्पकं तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,6 +539,7 @@ made her to ascend Pushpaka-plane.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -508,6 +547,8 @@ made her to ascend Pushpaka-plane.
 जग्मुर्दर्शयितुं तस्यै राक्षस्यो रामलक्ष्मणौ ।  
 रावणश्चारयामास पताकाध्वजमालिनीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +578,15 @@ proceeded to show her Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राघोषयत हृष्टश्च लङ्कायां राक्षसेश्वरः ।  
 राघवो लक्ष्मणश्चैव हताविन्द्रजिता रणे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +618,15 @@ Lakshmana had been slain by Indrajit in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानेनापि गत्वा तु सीता त्रिजटया सह ।  
 ददर्श वानराणां तु सर्वं सैन्यं निपातितम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +661,15 @@ had been slain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टमनसश्चापि ददर्श पिशिताशनान् ।  
 वानरांश्चातिदुःखार्तान् रामलक्ष्मणपार्श्वतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +704,15 @@ standing round Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीता ददर्शोभौ शयानौ शरतल्पगौ ।  
 लक्ष्मणं चैव रामं च विसञ्ज्ञौ शरपीडितौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +724,15 @@ standing round Rama and Lakshmana.
 
 तदनन्तर सीताने बाणशय्यापर सोये हुए दोनों भाई श्रीराम और लक्ष्मणको भी देखा, जो बाणोंसे पीड़ित हो संज्ञाशून्य होकर पड़े थे ॥ १९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विध्वस्तकवचौ वीरौ विप्रविद्धशरासनौ ।  
 सायकैश्छिन्नसर्वाङ्गौ शरस्तम्बमयौ क्षितौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,6 +766,7 @@ shattered, their bows cast aside at a distance and their entire body transfixed 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -718,6 +775,8 @@ shattered, their bows cast aside at a distance and their entire body transfixed 
 शरतल्पगतौ वीरौ तथाभूतौ नरर्षभौ ।  
 दुःखार्ता करुणं सीता सुभृशं विललाप ह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +821,15 @@ stricken as she was with a great agony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तारमनवद्याङ्गी लक्ष्मणं चासितेक्षणा ।  
 प्रेक्ष्य पांसुषु चेष्टन्तौ रुरोद जनकात्मजा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,6 +858,7 @@ lord and Lakshmana lying in the dust, burst into sobs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -804,6 +867,8 @@ lord and Lakshmana lying in the dust, burst into sobs.
 वितर्कयन्ती निधनं तयोः सा  
 दुःखान्विता वाक्यमिदं जगाद ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,5 +913,6 @@ sorrow, believing their death, spoke with grief the following words.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तचत्वारिंशः सर्गः ॥ ४७ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ ॥ ४७ ॥
+</details>
 </details>
 

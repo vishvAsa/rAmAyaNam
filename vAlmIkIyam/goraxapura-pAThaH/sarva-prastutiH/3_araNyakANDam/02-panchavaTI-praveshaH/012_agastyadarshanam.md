@@ -2,6 +2,8 @@
 title = "०१२ अगस्त्यदर्शनम्"
 title_english = "012 Entering the hermitage of Sage Agastya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -23,12 +25,15 @@ Rama, Lakshmana, and Seetha enter the hermitage of Sage Agastya. Sage Agastya is
 
 12. श्रीराम आदिका अगस्त्यके आश्रममें प्रवेश, अतिथि-सत्कार तथा मुनिकी ओरसे उन्हें दिव्य अस्त्र-शस्त्रोंकी प्राप्ति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्याश्रमपदं लक्ष्मणो राघवानुजः ।  
 अगस्त्यशिष्यमासाद्य वाक्यमेतदुवाच ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ spoke this sentence to him. [3-12-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो नाम ज्येष्ठस्तस्य सुतो बली ।  
 रामः प्राप्तो मुनिं द्रष्टुं भार्यया सह सीतया ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ his wife Seetha to see the sage. [3-12-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणो नाम तस्याहं भ्राता त्ववरजो हितः ।  
 अनुकूलश्च भक्तश्च यदि ते श्रोत्रमागतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ us. [3-12-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वयं वनमत्युग्रं प्रविष्टाः पितृशासनात् ।  
 द्रष्टुमिच्छामहे सर्वे भगवन्तं निवेद्यताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ sage, let this be informed to him." Said Lakshmana to the disciple of Agastya. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा लक्ष्मणस्य तपोधनः ।  
 तथेत्युक्त्वाग्निशरणं प्रविवेश निवेदितुम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,6 +272,7 @@ coming verses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,6 +280,8 @@ coming verses.
 कृताञ्जलिरुवाचेदं रामागमनमञ्जसा ॥ ६ ॥  
 यथोक्तं लक्ष्मणेनैव शिष्योऽगस्त्यस्य सम्मतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,6 +325,7 @@ and said this to the eminent sage about about the arrival of Rama, exactly as sa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,6 +334,8 @@ and said this to the eminent sage about about the arrival of Rama, exactly as sa
 द्रष्टुं भवन्तमायातौ शुश्रूषार्थमरिन्दमौ ॥ ८ ॥  
 यदत्रानन्तरं तत् त्वमाज्ञापयितुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +396,15 @@ with the wife of Rama, namely Seetha. [3-12-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शिष्यादुपश्रुत्य प्राप्तं रामं सलक्ष्मणम् ॥ ९ ॥  
 वैदेहीं च महाभागामिदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,6 +444,7 @@ the sage said this to him. [3-12-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -426,6 +453,8 @@ the sage said this to him. [3-12-9b, 10a]
 गम्यतां सत्कृतो रामः सभार्यः सहलक्ष्मणः ॥ ११ ॥  
 प्रवेश्यतां समीपं मे किमसौ न प्रवेशितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +523,15 @@ see me." [3-12-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु मुनिना धर्मज्ञेन महात्मना ॥ १२ ॥  
 अभिवाद्याब्रवीच्छिष्यस्तथेति नियताञ्जलिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +573,15 @@ saying that "as you say." [3-12-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा निष्क्रम्य सम्भ्रान्तः शिष्यो लक्ष्मणमब्रवीत् ॥ १३ ॥  
 कोऽसौ रामो मुनिं द्रष्टुमेतु प्रविशतु स्वयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +623,15 @@ He may come to see the sage and let him enter hermitage on his own." Said that d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गत्वाऽऽश्रमपदं शिष्येण सह लक्ष्मणः ॥ १४ ॥  
 दर्शयामास काकुत्स्थं सीतां च जनकात्मजाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +670,15 @@ Rama and Janaka's daughter Seetha. [3-12-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शिष्यः प्रश्रितं वाक्यमगस्त्यवचनं ब्रुवन् ॥ १५ ॥  
 प्रावेशयद् यथान्यायं सत्कारार्हं सुसत्कृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,6 +718,7 @@ on receiving him well. [3-12-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -684,6 +726,8 @@ on receiving him well. [3-12-15b, 16a]
 प्रशान्तहरिणाकीर्णमाश्रमं ह्यवलोकयन् ।  
 स तत्र ब्रह्मणः स्थानमग्नेः स्थानं तथैव च ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,6 +761,7 @@ docile deer. [ 3-12-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -728,6 +773,8 @@ docile deer. [ 3-12-16b, 17a]
 स्थानं च नागराजस्य गरुडस्थानमेव च ॥ २० ॥  
 कार्तिकेयस्य च स्थानं धर्मस्थानं च पश्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,6 +848,7 @@ As such Rama wanted an entry in to hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -808,6 +856,8 @@ As such Rama wanted an entry in to hermitage.
 तं ददर्शाग्रतो रामो मुनीनां दीप्ततेजसाम् ।  
 अब्रवीद् वचनं वीरो लक्ष्मणं लक्ष्मिवर्धनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +906,15 @@ tatra agni shabdena shambhuH ucyate* By the nomenclature of Fire, Shiva is to be
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहिर्लक्ष्मण निष्क्रामत्यगस्त्यो भगवानृषिः ।  
 औदार्येणावगच्छामि निधानं तपसामिमम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,12 +950,15 @@ a depository of all ascesis." [3-12-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाबाहुरगस्त्यं सूर्यवर्चसम् ।  
 जग्राहापततस्तस्य पादौ च रघुनन्दनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -942,12 +998,15 @@ fell on the feet of Agastya touching them reverentially. [3-12-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य तु धर्मात्मा तस्थौ रामः कृताञ्जलिः ।  
 सीतया सह वैदेह्या तदा रामः सलक्ष्मणः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1040,15 @@ and Seetha, the princess from Videha, stood aside with his palms adjoined. [3-12
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य च काकुत्स्थमर्चयित्वाऽऽसनोदकैः ।  
 कुशलप्रश्नमुक्त्वा च आस्यतामिति सोऽब्रवीत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1026,12 +1088,15 @@ to him, "please be seated." [3-12-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निं हुत्वा प्रदायार्घ्यमतिथीन् प्रतिपूज्य च ।  
 वानप्रस्थेन धर्मेण स तेषां भोजनं ददौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1077,6 +1142,7 @@ light the fire, cook his own food to the chanting of hymns, like Agastya which i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1086,6 +1152,8 @@ light the fire, cook his own food to the chanting of hymns, like Agastya which i
 अन्यथा खलु काकुत्स्थ तपस्वी समुदाचरन् ।  
 दुःसाक्षीव परे लोके स्वानि मांसानि भक्षयेत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1227,15 @@ prudent Rama of righteousness itself, and who by now is sitting with his palms a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा सर्वस्य लोकस्य धर्मचारी महारथः ।  
 पूजनीयश्च मान्यश्च भवान् प्राप्तः प्रियातिथिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1214,12 +1285,15 @@ in the household. Here that deity himself is the real guest, i.e., Narayana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा फलैर्मूलैः पुष्पैश्चान्यैश्च राघवम् ।  
 पूजयित्वा यथाकामं ततोऽगस्त्यस्तमब्रवीत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,6 +1337,7 @@ and then he said this to Rama. [3-12-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1280,6 +1355,8 @@ and then he said this to Rama. [3-12-31]
 महाराजत-कोशो ऽयम्  
 **असिर्** हेमविभूषितः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1356,6 +1433,7 @@ pertains to Vishnu, and these unwasteful arrows equalling sun in their blaze are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1368,6 +1446,8 @@ pertains to Vishnu, and these unwasteful arrows equalling sun in their blaze are
 जयाय **प्रतिगृह्णीष्व**  
 वज्रं वज्रधरो यथा ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,6 +1512,7 @@ to the celestials. [3-12-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1440,6 +1521,8 @@ to the celestials. [3-12-35]
 **दत्त्वा** रामाय भगवान्  
 अगस्त्यः पुनर् **अब्रवीत्** ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1488,5 +1571,6 @@ and again spoke to Rama [3-12-37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हन्नॆरडनॆय सर्ग सम्पूर्णवायितु.॥12॥
+</details>
 </details>
 

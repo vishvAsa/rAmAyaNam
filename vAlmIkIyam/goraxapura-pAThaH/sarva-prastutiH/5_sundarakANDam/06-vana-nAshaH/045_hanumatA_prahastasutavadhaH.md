@@ -2,6 +2,8 @@
 title = "०४५ हनुमता प्रहस्तसुतवधः"
 title_english = "045 Hanuma kills Prahasta s seven sons"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -22,12 +24,15 @@ those demons, Hanuma climbs up the archy door-way and takes up his position ther
 
 45. मन्त्रीके सात पुत्रोंका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसेन्द्रेण चोदिता मन्त्रिणः सुताः ।  
 निर्ययुर्भवनात् तस्मात् सप्त सप्तार्चिवर्चसः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -47,12 +52,15 @@ _________________
 
 बळिक रावणेश्वरन आदेशदन्तॆ एळु मन्दि मन्त्रि कुमाररु, अग्निय ज्वालॆगळन्तॆ रावणन अरमनॆयिन्द हॊरबिद्दरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महद‍्बलपरीवारा धनुष्मन्तो महाबलाः ।  
 कृतास्त्रास्त्रविदां श्रेष्ठाः परस्परजयैषिणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +75,7 @@ _________________
 
 उनके साथ बहुत बड़ी सेना थी । वे अत्यन्त बलवान्, धनुर्धर, अस्त्रवेत्ताओंमें श्रेष्ठ तथा परस्पर होड़ लगाकर शत्रुपर विजय पानेकी इच्छा रखनेवाले थे ॥ २ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +84,8 @@ _________________
 तप्तकाञ्चनचित्राणि चापान्यमितविक्रमाः ।  
 विस्फारयन्तः संहृष्टास्तडिद्वन्त इवाम्बुदाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,12 +142,15 @@ their bows inlaid with refined gold and looking colourful like clouds accompanie
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनन्यस्तास्ततस्तेषां विदित्वा किङ्करान् हतान् ।  
 बभूवुः शोकसम्भ्रान्ताः सबान्धवसुहृज्जनाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -179,12 +193,15 @@ relatives and friends were tormented with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते परस्परसङ्घर्षात् तप्तकाञ्चनभूषणाः ।  
 अभिपेतुर्हनूमन्तं तोरणस्थमवस्थितम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -224,12 +241,15 @@ who was ready for battle and who stood on the archy gate-way motionless.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृजन्तो बाणवृष्टिं ते रथगर्जितनिःस्वनाः ।  
 प्रावृट्काल इवाम्भोदा विचेरुर्नैर्ऋताम्बुदाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +292,15 @@ discharging a shower of arrows, moved in different directions resembling rainy c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवकीर्णस्ततस्ताभिर्हनूमान् शरवृष्टिभिः ।  
 अभवत् संवृताकारः शैलराडिव वृष्टिभिः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ is concealed by incessant showers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरान् वञ्चयामास तेषामाशुचरः कपिः ।  
 रथवेगांश्च वीराणां विचरन् विमलेऽम्बरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +393,15 @@ chariots of those virile demons, useless.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैः क्रीडन् धनुष्मद्भिर्व्योम्नि वीरः प्रकाशते ।  
 धनुष्मद्भिर्यथा मेघैर्मारुतः प्रभुरम्बरे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +441,15 @@ of Wind, playing with clouds brandishing a rain bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वा निनदं घोरं त्रासयंस्तां महाचमूम् ।  
 चकार हनुमान् वेगं तेषु रक्षःसु वीर्यवान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +489,15 @@ those demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तलेनाभिहनत् कांश्चित् पादैः कांश्चित् परन्तपः ।  
 मुष्टिभिश्चाहनत् कांश्चिन्नखैः कांश्चिद् व्यदारयत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +518,15 @@ _________________
 
 शत्रुओंको संताप देनेवाले उन वानरवीरने किन्हींको थप्पड़से ही मार गिराया, किन्हींको पैरोंसे कुचल डाला, किन्हींका घूँसोंसे काम तमाम किया और किन्हींको नखोंसे फाड़ डाला ॥ १२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रममाथोरसा कांश्चिदूरुभ्यामपरानपि ।  
 केचित् तस्यैव नादेन तत्रैव पतिता भुवि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +586,15 @@ and some others with his fists. He tore down some others with his nails.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तेष्ववसन् नेषु भूमौ निपतितेषु च ।  
 तत्सैन्यमगमत् सर्वं दिशो दश भयार्दितम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -593,12 +634,15 @@ with fear, fled in ten different directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनेदुर्विस्वरं नागा निपेतुर्भुवि वाजिनः ।  
 भग्ननीडध्वजच्छत्रैर्भूश्च कीर्णाभवद् रथैः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,12 +685,15 @@ earth was filled with chariots which had their seats, banners and canopies broke
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्रवता रुधिरेणाथ स्रवन्त्यो दर्शिताः पथि ।  
 विविधैश्च स्वनैर्लङ्का ननाद विकृतं तदा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,6 +733,7 @@ kinds of horrible voices.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -694,6 +742,8 @@ kinds of horrible voices.
 युयुत्सुरन्यैः पुनरेव राक्षसै-  
 स्तदेव वीरोऽभिजगाम तोरणम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,5 +803,6 @@ and being desirous of a combat with the other demons, again reached that archy d
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तैदनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०५३ शबला-याचना"
 title_english = "053 vishvamitra tries to gain kaamadhenu"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Chapter [Sarga] 53**
@@ -22,12 +24,15 @@ Vashishta. Yet, Vishvamitra goes on his bidding, but in vain.
 
 53. कामधेनुकी सहायतासे उत्तम अन्न-पानद्वारा सेनासहित तृप्त हुए विश्वामित्रका वसिष्ठसे उनकी कामधेनुको माँगना और उनका देनेसे अस्वीकार करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता वसिष्ठेन शबला शत्रुसूदन ।  
 विदधे कामधुक् कामान् यस्य यस्येप्सितं यथा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ of Vishvamitra to Rama and others. [1-53-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्षून् मधूंस्तथा लाजान् मैरेयांश्च वरासवान् ।  
 पानानि च महार्हाणि भक्ष्यांश्चोच्चावचानपि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ diverse and verily apposite to royalties and army-men. [1-53-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उष्णाढ्यस्यौदनस्यात्र राशयः पर्वतोपमाः ।  
 मृष्टान्यन्नानि सूपांश्च दधिकुल्यास्तथैव च ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,12 +152,15 @@ diverse and verily apposite to royalties and army-men. [1-53-2]
 
 बिसि-बिसि अन्नद राशि-राशिगळे सिद्धवादुवु, मृष्टान्न (पायस) तॊव्वॆ, सारु, सिद्धवायितु. हालु, मॊसरु, तुप्प, मॊदलादवुगळ कालुवॆगळे हरिदवु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानास्वादुरसानां च खाण्डवानां तथैव च ।  
 भोजनानि सुपूर्णानि गौडानि च सहस्रशः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +203,15 @@ six tastes have come up together with delectable foodstuffs made out of treacly 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वमासीत् सुसन्तुष्टं हृष्टपुष्टजनायुतम् ।  
 विश्वामित्रबलं राम वसिष्ठेन सुतर्पितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +246,15 @@ by Sage Vashishta, in which they rejoiced and regaled, for a good measure. [1-53
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रो हि राजर्षिर्हृष्टपुष्टस्तदाभवत् ।  
 सान्तःपुरवरो राजा सब्राह्मणपुरोहितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ and energetic. [1-53-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामात्यो मन्त्रिसहितः सभृत्यः पूजितस्तदा ।  
 युक्तः परमहर्षेण वसिष्ठमिदमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +337,15 @@ king Vishvamitra then in high admiration spoke this to Vashishta. [1-53-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजितोऽहं त्वया ब्रह्मन् पूजार्हेण सुसत्कृतः ।  
 श्रूयतामभिधास्यामि वाक्यं वाक्यविशारद ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,6 +380,7 @@ in sententiousness, now I wish to say for myself to which you may please listen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -361,6 +388,8 @@ in sententiousness, now I wish to say for myself to which you may please listen.
 रत्नं हि भगवन्नेतद् रत्नहारी च पार्थिवः ॥ ९ ॥  
 तस्मान्मे शबलां देहि ममैषा धर्मतो द्विज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,12 +427,15 @@ this cow to me. As rule this cow also belongs to me.' Thus Vishvamitra said to V
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भगवान् वसिष्ठो मुनिपुङ्गवः ॥ १० ॥  
 विश्वामित्रेण धर्मात्मा प्रत्युवाच महीपतिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,6 +475,7 @@ eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -450,6 +483,8 @@ eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
 राजन् दास्यामि शबलां राशिभी रजतस्य वा ।  
 न परित्यागमर्हेयं मत्सकाशादरिन्दम ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -503,12 +538,15 @@ of cows, nor by lots and lots of silver, either. [1-53-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाश्वती शबला मह्यं कीर्तिरात्मवतो यथा ।  
 अस्यां हव्यं च कव्यं च प्राणयात्रा तथैव च ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +595,15 @@ darshapaurNamaasi, all are dependent on her. [1-53-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयत्तमग्निहोत्रं च बलिर्होमस्तथैव च ।  
 स्वाहाकारवषट्कारौ विद्याश्च विविधास्तथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,6 +656,7 @@ at wish, without a hassle, either to the teacher or to the taught.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -622,6 +664,8 @@ at wish, without a hassle, either to the teacher or to the taught.
 सर्वस्वमेतत् सत्येन मम तुष्टिकरी तथा ॥ १५ ॥  
 कारणैर्बहुभी राजन् न दास्ये शबलां तव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,12 +700,15 @@ I cannot afford Shabala to you or to anyone." So said Vashishta to Vishvamitra. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठेनैवमुक्तस्तु विश्वामित्रोऽब्रवीत् तदा ॥ १६ ॥  
 संरब्धतरमत्यर्थं वाक्यं वाक्यविशारदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +742,15 @@ compellingly and argumentatively. [1-53-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हैरण्यकक्षग्रैवेयान् सुवर्णाङ्कुशभूषितान् ॥ १७ ॥  
 ददामि कुञ्जराणां ते सहस्राणि चतुर्दश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,6 +793,7 @@ goads. [1-53-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -753,6 +804,8 @@ goads. [1-53-17b, 18a]
 नानावर्णविभक्तानां वयःस्थानां तथैव च ।  
 ददाम्येकां गवां कोटिं शबला दीयतां मम ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +878,15 @@ horses trimmed up with the sets of tintinnabulating bells. [1-53-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावदिच्छसि रत्नानि हिरण्यं वा द्विजोत्तम ।  
 तावद् ददामि ते सर्वं दीयतां शबला मम ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,12 +920,15 @@ much as you can yearn, let Shabala be given to me." Thus Vishvamitra entreated a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भगवान् विश्वामित्रेण धीमता ।  
 न दास्यामीति शबलां प्राह राजन् कथञ्चन ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -903,12 +962,15 @@ When the shrewd king Vishvamitra spoke to the reverential sage Vashishta, that s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदेव हि मे रत्नमेतदेव हि मे धनम् ।  
 एतदेव हि सर्वस्वमेतदेव हि जीवितम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1011,15 @@ cannot separate me from myself. [1-53-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शश्च पौर्णमासश्च यज्ञाश्चैवाप्तदक्षिणाः ।  
 एतदेव हि मे राजन् विविधाश्च क्रियास्तथा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,12 +1054,15 @@ activities of mine. [1-53-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतोमूलाः क्रियाः सर्वा मम राजन् न संशयः ।  
 बहुना किं प्रलापेन न दास्ये कामदोहिनीम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,5 +1116,6 @@ Shataananda continued his narration of the legend of Sacred Cow. [1-53-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
+</details>
 </details>
 

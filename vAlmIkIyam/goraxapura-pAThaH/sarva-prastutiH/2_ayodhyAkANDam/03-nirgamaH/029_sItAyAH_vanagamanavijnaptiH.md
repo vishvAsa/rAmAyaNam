@@ -2,6 +2,8 @@
 title = "०२९ सीतायाः वनगमनविज्ञप्तिः"
 title_english = "029 Seetha s insistence on going to the forest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ lonely parted with her husband.
 
 29. सीताका श्रीरामके समक्ष उनके साथ अपने वनगमनका औचित्य बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तु वचनं श्रुत्वा सीता रामस्य दुःखिता ।  
 प्रसक्ताश्रुमुखी मन्दमिदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ her face with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वया कीर्तिता दोषा वने वस्तव्यतां प्रति ।  
 गुणानित्येव तान् विद्धि तव स्नेहपुरस्कृता ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +125,7 @@ advantages to me, if your affection is placed before them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,6 +134,8 @@ advantages to me, if your affection is placed before them."
 अदृष्टपूर्वरूपत्वात् सर्वे ते तव राघव ।  
 रूपं दृष्ट्वापसर्पेयुस्तव सर्वे हि **बिभ्यति** ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,12 +186,15 @@ fear?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया च सह गन्तव्यं मया गुरुजनाज्ञया ।  
 त्वद्वियोगेन मे राम त्यक्तव्यमिह जीवितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +234,15 @@ life is to be abandoned here, if I were separated from you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मां त्वत्समीपस्थामपि शक्रोऽपि राघव ।  
 सुराणामीश्वरः शक्तः प्रधर्षयितुमोजसा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,12 +285,15 @@ me, who is in your vicinity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतिहीना तु या नारी न सा शक्ष्यति जीवितुम् ।  
 काममेवंविधं राम त्वया मम निदर्शितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ her husband should not be able to survive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथापि च महाप्राज्ञ ब्राह्मणानां मया श्रुतम् ।  
 पुरा पितृगृहे सत्यं वस्तव्यं किल मे वने ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,12 +382,15 @@ from the month of brahmanas that I was destined to stay really in a forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्षणिभ्यो द्विजातिभ्यः श्रुत्वाहं वचनं गृहे ।  
 वनवासकृतोत्साहा नित्यमेव महाबल ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +431,15 @@ can interpret marks on the body, I was always eager to stay in a forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदेशो वनवासस्य प्राप्तव्यः स मया किल ।  
 सा त्वया सह भर्त्राहं यास्यामि प्रिय नान्यथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +482,15 @@ me. I must accordingly accompany you to the forest, it cannot be otherwise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **कृतादेशा भविष्यामि गमिष्यामि** त्वया सह ।  
 कालश्चायं समुत्पन्नः सत्यवान् भवतु द्विजः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +531,15 @@ the forest. The time has come for brahmana's words to come true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनवासे हि जानामि दुःखानि बहुधा किल ।  
 प्राप्यन्ते नियतं वीर पुरुषैरकृतात्मभिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,6 +579,7 @@ invariably obtained by men having unformed minds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -552,6 +588,8 @@ invariably obtained by men having unformed minds."
 **भिक्षिण्याः** शमवृत्ताया,  
 मम मातुर् इहाग्रतः +++(श्रुतः)+++ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -593,6 +631,7 @@ mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -601,6 +640,8 @@ mother."
 गमनं वनवासस्य  
 काङ्क्षितं हि सह त्वया ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,12 +681,15 @@ with you indeed for the tour of a forest, as longed by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतक्षणाहं भद्रं ते गमनं प्रति राघव ।  
 वनवासस्य शूरस्य मम चर्या हि रोचते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,12 +729,15 @@ work-out of adventurist is really delightful to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुद्धात्मन् प्रेमभावाद्धि भविष्यामि विकल्मषा ।  
 भर्तारमनुगच्छन्ती भर्ता हि परदैवतम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +777,15 @@ sin-less; for husband is the supreme deity to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेत्यभावे हि कल्याणः सङ्गमो मे सदा त्वया ।  
 श्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां यशस्विनाम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +805,15 @@ _________________
 
 निम्मन्नु हिम्बालिसुवुदरिन्द परलोकदल्लियू नन्न श्रेयस्सु आगुवुदु हागू सदा निम्मॊन्दिगॆ नन्न संयोग इरुवुदु. ई विषयदल्लि यशस्वी ब्राह्मणरिन्दॊन्दु पवित्र श्रुति केळलागुत्तदॆ. अदु ई प्रकार इदॆ.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहलोके च पितृभिर्या स्त्री यस्य महाबल ।  
 अद्भिर्दत्ता स्वधर्मेण प्रेत्यभावेऽपि तस्य सा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +853,15 @@ even after death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्मात् स्वकां नारीं सुवृत्तां हि पतिव्रताम् ।  
 नाभिरोचयसे नेतुं त्वं मां केनेह हेतुना ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +902,15 @@ conduct, devoted to her husband and belonging to you, from this place?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्तां पतिव्रतां दीनां मां समां सुखदुःखयोः ।  
 नेतुमर्हसि काकुत्स्थ समानसुखदुःखिनीम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +952,15 @@ sorrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां दुःखितामेवं वनं नेतुं न चेच्छसि ।  
 विषमग्निं जलं वाहमास्थास्ये मृत्युकारणात् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,12 +1000,15 @@ take me, afflicted as I am, as above."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं बहुविधं तं सा याचते गमनं प्रति ।  
 नानुमेने महाबाहुस्तां नेतुं विजनं वनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -987,12 +1052,15 @@ not agree to take her to the forest, which is a solitary place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सा चिन्तां मैथिली समुपागता ।  
 स्नापयन्तीव गामुष्णैरश्रुभिर्नयनच्युतैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,12 +1100,15 @@ with burning tears, trickling down her eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयन्तीं तदा तां तु निवर्तयितुमात्मवान् ।  
 क्रोधाविष्टां तु वैदेहीं काकुत्स्थो बह्वसान्त्वयत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1090,5 +1161,6 @@ who was sorrowful as above.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥29॥
+</details>
 </details>
 

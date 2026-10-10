@@ -2,6 +2,8 @@
 title = "०२२ रावणेन अन्तसमयसूचना"
 title_english = "022 Ravana gives deadline"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ his control. Ravana then goes back to his own house with his consorts.
 
 22. रावणका सीताको दो मासकी अवधि देना, सीताका उसे फटकारना, फिर रावणका उन्हें धमकाकर राक्षसियोंके नियन्त्रणमें रखकर स्त्रियोंसहित पुनः महलको लौट जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा परुषं राक्षसेश्वरः ।  
 प्रत्युवाच ततः सीतां विप्रियं प्रियदर्शनाम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ which are seen to be pleasant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा यथा सान्त्वयिता वश्यः स्त्रीणां तथा तथा ।  
 यथा यथा प्रियं वक्ता परिभूतस्तथा तथा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ way men speak dear words, in that way they will be rejected."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्नियच्छति मे क्रोधं त्वयि कामः समुत्थितः ।  
 द्रवतो मार्गमासाद्य हयानिव सुसारथिः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ bad path being subdued by a good charioteer."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वामः कामो मनुष्याणां यस्मिन् किल निबध्यते ।  
 जने तस्मिंस्त्वनुक्रोशः स्नेहश्च किल जायते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +211,15 @@ and fondness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मात् कारणान्न त्वां घातयामि वरानने ।  
 वधार्हामवमानार्हां मिथ्या प्रव्रजने रताम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,12 +262,15 @@ to be humilaited, interested in Rama who is in sham exile, I am not killing you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परुषाणि हि वाक्यानि यानि यानि ब्रवीषि माम् ।  
 तेषु तेषु वधो युक्तस्तव मैथिलि दारुणः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +307,15 @@ suitable to be horribly slayed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु वैदेहीं रावणो राक्षसाधिपः ।  
 क्रोधसंरम्भसंयुक्तः सीतामुत्तरमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +354,15 @@ to Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ मासौ रक्षितव्यौ मे योऽवधिस्ते मया कृतः ।  
 ततः शयनमारोह मम त्वं वरवर्णिनि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,12 +396,15 @@ protectable to me. Thereafter ascend my bed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वाभ्यामूर्ध्वं तु मासाभ्यां भर्तारं मामनिच्छतीम् ।  
 मम त्वां प्रातराशार्थे सूदाश्छेत्स्यन्ति खण्डशः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,12 +446,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां भर्त्स्यमानां सम्प्रेक्ष्य राक्षसेन्द्रेण जानकीम् ।  
 देवगन्धर्वकन्यास्ता विषेदुर्विकृतेक्षणाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +490,15 @@ eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओष्ठप्रकारैरपरा नेत्रैर्वक्त्रैस्तथापराः ।  
 सीतामाश्वासयामासुस्तर्जितां तेन रक्षसा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +540,15 @@ frightened by that ogre.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभिराश्वासिता सीता रावणं राक्षसाधिपम् ।  
 उवाचात्महितं वाक्यं वृत्तशौटीर्यगर्वितम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +584,15 @@ ogres Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं न ते जनः कश्चिदस्मिन्निःश्रेयसि स्थितः ।  
 निवारयति यो न त्वां कर्मणोऽस्माद् विगर्हितात् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +629,15 @@ welfare there is none. This is definite."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां हि धर्मात्मनः पत्नीं शचीमिव शचीपतेः ।  
 त्वदन्यस्त्रिषु लोकेषु प्रार्थयेन्मनसापि कः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +674,15 @@ Rama like Sachi the wife of Indra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाधम रामस्य भार्याममिततेजसः ।  
 उक्तवानसि यत् पापं क्व गतस्तस्य मोक्ष्यसे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +716,15 @@ from that word where will you go to be released?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा दृप्तश्च मातङ्गः शशश्च सहितौ वने ।  
 तथा द्विरदवद् रामस्त्वं नीच शशवत् स्मृतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,12 +761,15 @@ an elephant and you are said to be like a hare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वमिक्ष्वाकुनाथं वै क्षिपन्निह न लज्जसे ।  
 चक्षुषो विषये तस्य न यावदुपगच्छसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +805,15 @@ matter so much."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे ते नयने क्रूरे विकृते कृष्णपिङ्गले ।  
 क्षितौ न पतिते कस्मान्मामनार्य निरीक्षतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +856,15 @@ are seeing me, for what reason are they not falling down."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य धर्मात्मनः पत्नी स्नुषा दशरथस्य च ।  
 कथं व्याहरतो मां ते न जिह्वा पाप शीर्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +900,15 @@ your tongue did not fall off."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असन्देशात्तु रामस्य तपसश्चानुपालनात् ।  
 न त्वां कुर्मि दशग्रीव भस्म भस्मार्हतेजसा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +948,15 @@ austerity, I am not reducing you into ashes with my glory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापहर्तुमहं शक्या तस्य रामस्य धीमतः ।  
 विधिस्तव वधार्थाय विहितो नात्र संशयः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -931,12 +996,15 @@ In this there is no doubt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूरेण धनदभ्रात्रा बलैः समुदितेन च ।  
 अपोह्य रामं कस्माच्चिद् दारचौर्यं त्वया कृतम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -979,12 +1047,15 @@ of wife has been done."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा रावणो राक्षसाधिपः ।  
 विवृत्य नयने क्रूरे जानकीमन्ववैक्षत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,12 +1093,15 @@ King of rakshasas Ravana listening to Seetha's words turned around his cruel eye
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलजीमूतसङ्काशो महाभुजशिरोधरः ।  
 सिंहसत्त्वगतिः श्रीमान् दीप्तजिह्वोग्रलोचनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,6 +1122,7 @@ _________________
 
 वह नीलमेघके समान काला और विशालकाय था । उसकी भुजाएँ और ग्रीवा बड़ी थीं । वह गति और पराक्रममें सिंहके समान था और तेजस्वी दिखायी देता था । उसकी जीभ आगकी लपटके समान लपलपा रही थी तथा नेत्र बड़े भयंकर प्रतीत होते थे ॥ २४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1056,6 +1131,8 @@ _________________
 श्रोणीसूत्रेण महता मेचकेन सुसंवृतः ।  
 अमृतोत्पादने नद्धो भुजङ्गेनेव मन्दरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1190,15 @@ red garlands and clothes, with ornaments made of refined gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभ्यां स परिपूर्णाभ्यां भुजाभ्यां राक्षसेश्वरः ।  
 शुशुभेऽचलसङ्काशः शृङ्गाभ्यामिव मन्दरः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1167,12 +1247,15 @@ glorious with radiant tip of tongue and eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणादित्यवर्णाभ्यां कुण्डलाभ्यां विभूषितः ।  
 रक्तपल्लवपुष्पाभ्यामशोकाभ्यामिवाचलः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1288,15 @@ with red flowers and shoots.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कल्पवृक्षप्रतिमो वसन्त इव मूर्तिमान् ।  
 श्मशानचैत्यप्रतिमो भूषितोऽपि भयङ्करः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1334,15 @@ grave-yard was horrible even though decorated.
 
 * प्राचीनकालमें नगरकी श्मशानभूमिके पास एक गोलाकार देवालय-सा बना रहता था, जहाँ राजाकी आज्ञासे प्राणदण्डके अपराधियोंका जल्लादोंके द्वारा वध कराया जाता था । जब वहाँ किसीको प्राणदण्ड देनेका अवसर आता, तब उस देवालयको लीप-पोतकर फूलोंकी बन्दनवारोंसे सजाया जाता था । उस विभूषित श्मशानचैत्यको देखते ही लोग यह सोचकर भयभीत हो उठते थे कि आज यहाँ किसीके जीवनका अन्त होनेवाला है । इस तरह जैसे वह श्मशानचैत्य विभूषित होनेपर भी भयंकर लगता था, उसी प्रकार रावण सुन्दर शृङ्गार करके भी सीताको भयानक प्रतीत होता था; क्योंकि वह उनके सतीत्वको नष्ट करना चाहता था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेक्षमाणो वैदेहीं कोपसंरक्तलोचनः ।  
 उवाच रावणः सीतां भुजङ्ग इव निःश्वसन् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1285,12 +1374,15 @@ With red eyes due to anger Ravana was looking at Seetha sighing like a serpant a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनयेनाभिसम्पन्नमर्थहीनमनुव्रते ।  
 नाशयाम्यहमद्य त्वां सूर्यः सन्ध्यामिवौजसा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,12 +1416,15 @@ morning twilight with light.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः ।  
 सन्ददर्श ततः सर्वा राक्षसीर्घोरदर्शनाः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1372,6 +1467,7 @@ women with horrible appearances.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1387,6 +1483,8 @@ women with horrible appearances.
 प्रतिलोमानुलोमैश्च सामदानादिभेदनैः ॥ ३७ ॥  
 आवर्जयत वैदेहीं दण्डस्योद्यमनेन च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1501,12 +1599,15 @@ nose, one with the face of a lion, one with the face of a cow,one with the face 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिश्य राक्षसेन्द्रः पुनः पुनः ॥ ३८ ॥  
 काममन्युपरीतात्मा जानकीं प्रति गर्जत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1527,12 +1628,15 @@ _________________
 
 राक्षसियोंको इस प्रकार बारम्बार आज्ञा देकर काम और क्रोधसे व्याकुल हुआ राक्षसराज रावण जानकीजीकी ओर देखकर गर्जना करने लगा ॥ ३८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपगम्य ततः क्षिप्रं राक्षसी धान्यमालिनी ॥ ३९ ॥  
 परिष्वज्य दशग्रीवमिदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1566,12 +1670,15 @@ Thereafter an ogre named Dhanyamalini quickly neared Ravana, embraced him and sp
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया क्रीड महाराज सीतया किं तवानया ॥ ४० ॥  
 विवर्णया कृपणया मानुष्या राक्षसेश्वर ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1600,12 +1707,15 @@ a wreched human."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनमस्यां महाराज न देवा भोगसत्तमान् ॥ ४१ ॥  
 विदधत्यमरश्रेष्ठास्तव बाहुबलार्जितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1643,12 +1753,15 @@ arms. This is definite."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकामां कामयानस्य शरीरमुपतप्यते ॥ ४२ ॥  
 इच्छतीं कामयानस्य प्रीतिर्भवति शोभना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,12 +1798,15 @@ one who loves a woman who desires him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु राक्षस्या समुत्क्षिप्तस्ततो बली ।  
 प्रहसन् मेघसङ्काशो राक्षसः स न्यवर्तत ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1739,12 +1855,15 @@ Ravana thus ordered again and again with a mind full of lust and anger frightene
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्थितः स दशग्रीवः कम्पयन्निव मेदिनीम् ।  
 ज्वलद्भास्करसङ्काशं प्रविवेश निवेशनम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1786,12 +1905,15 @@ blazing sun shine.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवगन्धर्वकन्याश्च नागकन्याश्च तास्ततः ।  
 परिवार्य दशग्रीवं प्रविशुस्ता गृहोत्तमम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1834,6 +1956,7 @@ among houses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1842,6 +1965,8 @@ among houses.
 विहाय सीतां मदनेन मोहितः  
 स्वमेव वेश्म प्रविवेश रावणः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1902,5 +2027,6 @@ Seetha, infatuated by love, entered his own house which was shining.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

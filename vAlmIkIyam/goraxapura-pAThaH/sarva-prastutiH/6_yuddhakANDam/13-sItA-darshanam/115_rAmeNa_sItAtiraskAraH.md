@@ -1,6 +1,8 @@
 +++
 title = "११५ रामेण सीतातिरस्कारः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,6 +23,7 @@ asks her to seek shelter elsewhere.
 
 115. सीताके चरित्रपर संदेह करके श्रीरामका उन्हें ग्रहण करनेसे इनकार करना और अन्यत्र जानेके लिये कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ asks her to seek shelter elsewhere.
 हृदयान्तर्गतं भावं  
 **व्याहर्तुम् उपचक्रमे** ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +73,7 @@ feeling hidden in his heart (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ feeling hidden in his heart (as follows):
 पौरुषाद् यद् अनुष्ठेयं  
 मयैतद् उपपादितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,6 +118,7 @@ lady! That which is to be done through human effort, has been accomplished by me
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +127,8 @@ lady! That which is to be done through human effort, has been accomplished by me
 अवमानश् च शत्रुश् च  
 युगपन् निहतौ मया ॥ ३ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +169,7 @@ requited as also the contempt against the enemy have been wiped out, all at once
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -166,6 +178,8 @@ requited as also the contempt against the enemy have been wiped out, all at once
 अद्य तीर्ण-प्रतिज्ञोऽहं  
 **प्रभवाम्य् अद्य चात्मनः** ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,6 +214,7 @@ have fulfilled my promise. Today, I am the master of myself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,6 +223,8 @@ have fulfilled my promise. Today, I am the master of myself."
 दैव-सम्पादितो **दोषो**  
 मानुषेण मया **जितः** ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,6 +259,7 @@ being."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -250,6 +268,8 @@ being."
 **कस्** तस्य **पौरुषेणार्थो**  
 महता ऽप्य् अल्पचेतसः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,6 +306,7 @@ wipe out, by his energy, the insult fallen to his lot?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -294,6 +315,8 @@ wipe out, by his energy, the insult fallen to his lot?"
 सफलं तस्य च **श्लाघ्यम्**  
 अद्य **कर्म हनूमतः** ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,6 +357,7 @@ destroying of Lanka, has borne fruit today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -342,6 +366,8 @@ destroying of Lanka, has borne fruit today."
 **सुग्रीवस्य** ससैन्यस्य  
 **सफलो** ऽद्य **परिश्रमः** ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,6 +401,7 @@ army and tendered a good advice, is fruitful today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,6 +410,8 @@ army and tendered a good advice, is fruitful today."
 विगुणं भ्रातरं **त्यक्त्वा**  
 यो मां स्वयम् **उपस्थितः** ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -423,6 +452,7 @@ void of good qualities, sought my presence, is fruitful today.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,6 +461,8 @@ void of good qualities, sought my presence, is fruitful today.
 मृगीवोत्फुल्ल-नयना  
 **बभूवा ऽश्रु-परिप्लुता** ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,6 +496,7 @@ of a female-deer, was bathed in tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -472,6 +505,8 @@ of a female-deer, was bathed in tears.
 जन-वाद-भयाद् राज्ञो  
 **बभूव हृदयं द्विधा** ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,6 +540,7 @@ torn for fear of public scandal.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -513,6 +549,8 @@ torn for fear of public scandal.
 **अवदद्** वै वरारोहां  
 मध्ये वानर-रक्षसाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,6 +584,7 @@ resembled the petals of a lotus, who wore dark curly hair and was endowed with f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -554,6 +593,8 @@ resembled the petals of a lotus, who wore dark curly hair and was endowed with f
 तत् **कृतं** रावणं **हत्वा**  
 मयेदं मान-काङ्क्षिणा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,6 +635,7 @@ a man, in killing Ravana and thus wiping away the insult meted out to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -602,6 +644,8 @@ a man, in killing Ravana and thus wiping away the insult meted out to me."
 अगस्त्येन दुराधर्षा  
 मुनिना **दक्षिणेव दिक्** ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,6 +681,7 @@ Agastya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -645,6 +690,8 @@ Agastya."
 सुतीर्णः सुहृदां वीर्यान्  
 **न त्वद्-अर्थं** मया कृतः ॥ १५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,6 +708,7 @@ Agastya."
 
 निनगॆ मङ्गळवागलि. नानु माडिद युद्धद परिश्रम हागू ई मित्रर पराक्रमदिन्द पडॆद विजय, इदॆल्ल निन्नन्नु पडॆयलु अल्लवॆम्बुदन्नु नीनु तिळिदुकॊळ्ळबेकु.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -669,6 +717,8 @@ Agastya."
 प्रख्यातस्यात्म-वंशस्य  
 **न्यङ्गं** च **परिमार्जता** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,6 +759,7 @@ the evil-speaking from all sides as well as the insinuation on my own illustriou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -717,6 +768,8 @@ the evil-speaking from all sides as well as the insinuation on my own illustriou
 दीपो नेत्रातुरस्येव  
 **प्रतिकूलासि** मे दृढा ॥ १७ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,6 +810,7 @@ extremely disagreeable to me, even as a light to one, who is suffering from a po
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,6 +819,8 @@ extremely disagreeable to me, even as a light to one, who is suffering from a po
 एता दश दिशो भद्रे  
 **कार्यम्** अस्ति **न मे** त्वया ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +855,7 @@ directions are open to you, my dear lady! There is no work to be done to me, by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -807,6 +864,8 @@ directions are open to you, my dear lady! There is no work to be done to me, by 
 तेजस्वी **पुनर् आदद्यात्**  
 सुहृल्-लोभेन चेतसा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,6 +905,7 @@ another's abode, with an eager mind?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -854,6 +914,8 @@ another's abode, with an eager mind?"
 **कथं** त्वां पुनर् **आदद्यां**  
 कुलं **व्यपदिशन्** महत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,6 +951,7 @@ looks?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -897,6 +960,8 @@ looks?"
 **नास्ति** मे त्वय्य् **अभिष्वङ्गो**  
 यथेष्टं **गम्यताम्** इति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,6 +1004,7 @@ wherever you like from here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -947,6 +1013,8 @@ wherever you like from here."
 लक्ष्मणे वाथ भरते  
 **कुरु बुद्धिं** यथासुखम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,6 +1049,7 @@ Set you mind on Lakshmana or Bharata, as per your ease."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -989,6 +1058,8 @@ Set you mind on Lakshmana or Bharata, as per your ease."
 **निवेशय मनः** सीते  
 यथा वा सुखम् आत्मना ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1031,6 +1102,7 @@ Vibhishana the demon; or according to your own comfort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1039,6 +1111,8 @@ Vibhishana the demon; or according to your own comfort."
 **मर्षयेत** चिरं सीते  
 स्वगृहे पर्यवस्थिताम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,6 +1153,7 @@ detained for long in his abode, Ravana could not have endured your separation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1087,6 +1162,8 @@ detained for long in his abode, Ravana could not have endured your separation."
 **मुमोच बाष्पं रुदती** तदा भृशं  
 गजेन्द्र-हस्ताभिहतेव वल्लरी ॥ २५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1148,5 +1225,6 @@ an elephant and thereupon shed tears.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनैदनॆय सर्ग पूर्णवायितु.॥115॥
+</details>
 </details>
 

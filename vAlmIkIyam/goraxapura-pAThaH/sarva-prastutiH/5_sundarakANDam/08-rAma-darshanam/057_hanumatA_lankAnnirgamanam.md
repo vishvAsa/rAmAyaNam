@@ -2,6 +2,8 @@
 title = "०५७ हनुमता लङ्कान्निर्गमनम्"
 title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty
@@ -27,6 +29,7 @@ Hanuma leaps from the coast of Lanka and touches Mount Mainaka, which he came ac
 
 57. हनुमान् जी का समुद्रको लाँघकर जाम्बवान् और अङ्गद आदि सुहृदोंसे मिलना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -39,6 +42,8 @@ Hanuma leaps from the coast of Lanka and touches Mount Mainaka, which he came ac
 वातसङ्घातजालोर्मिचन्द्रांशुशिशिराम्बुमत् ।  
 हनूमानपरिश्रान्तः पुप्लुवे गगनार्णवम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,6 +121,7 @@ Hanuma, with a rush equal to that of wind, withaut a fatigue, leapt across the b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +130,8 @@ Hanuma, with a rush equal to that of wind, withaut a fatigue, leapt across the b
 अपारमपरिश्रान्तश्चाम्बुधिं समगाहत ।  
 हनूमान् मेघजालानि विकर्षन्निव गच्छति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,12 +184,15 @@ While moving in the sky, the illustrious Hanuma, the son of wind-god and the gre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरारुणवर्णानि नीलमाञ्जिष्ठकानि च ।  
 हरितारुणवर्णानि महाभ्राणि चकाशिरे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -224,12 +235,15 @@ Dense clauds, with white and red colaurs, blue and yellow colaurs as also green 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविशन्नभ्रजालानि निष्क्रमंश्च पुनः पुनः ।  
 प्रकाशश्चाप्रकाशश्च चन्द्रमा इव दृश्यते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +286,15 @@ Time and again, entering and coming out of the clusters of clouds, Hanuma appear
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विविधाभ्रघनापन्नगोचरो धवलाम्बरः ।  
 दृश्यादृश्यतनुर्वीरस्तथा चन्द्रायतेऽम्बरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +339,15 @@ The heroic Hanuma, who was clad in white clothes, having faund his way into vari
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तार्क्ष््यायमाणो गगने स बभौ वायुनन्दनः ।  
 दारयन् मेघवृन्दानि निष्पतंश्च पुनः पुनः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +392,7 @@ Tearing asunder the clusters of clouds again and again as also energing from the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -381,6 +402,8 @@ Tearing asunder the clusters of clouds again and again as also energing from the
 अर्दयित्वा महावीरान् वैदेहीमभिवाद्य च ॥ १२ ॥  
 आजगाम महातेजाः पुनर्मध्येन सागरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +464,15 @@ Killing the foremost of demons, becoming famaus by is name, making Lanka perplex
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्वतेन्द्रं सुनाभं च समुपस्पृश्य वीर्यवान् ॥ १३ ॥  
 ज्यामुक्त इव नाराचो महावेगोऽभ्युपागमत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +515,15 @@ Touching Mount Mainaka, the victorious Hanuma came with a great speed resembling
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स किञ्चिदारात् सम्प्राप्तः समालोक्य महागिरिम् ॥ १४ ॥  
 महेन्द्रं मेघसङ्काशं ननाद स महाकपिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +566,15 @@ Approaching a bit near and observing Maunt Mahendra, the great mauntain looking 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पूरयामास कपिर्दिशो दश समन्ततः ॥ १५ ॥  
 नदन् नादेन महता मेघस्वनमहास्वनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +614,15 @@ Emitting a great roar, that Hanuma, whole loud noise resembled the rumbling of a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं देशमनुप्राप्तः सुहृद्दर्शनलालसः ॥ १६ ॥  
 ननाद सुमहानादं लाङ्गूलं चाप्यकम्पयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +659,15 @@ Having reached that place, Hanuma who was ardently desiraus of seeing his friend
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य नानद्यमानस्य सुपर्णाचरिते पथि ॥ १७ ॥  
 फलतीवास्य घोषेण गगनं सार्कमण्डलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +711,7 @@ The sky, with the disc of the sun, began to crack as it were, due to his roar, e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -681,6 +720,8 @@ The sky, with the disc of the sun, began to crack as it were, due to his roar, e
 महतो वायुनुन्नस्य तोयदस्येव निःस्वनम् ।  
 शुश्रुवुस्ते तदा घोषमूरुवेगं हनूमतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +774,15 @@ Those mighty heroes who were waiting already on the northern shore of the sea, w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते दीनमनसः सर्वे शुश्रुवुः काननौकसः ।  
 वानरेन्द्रस्य निर्घोषं पर्जन्यनिनदोपमम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +819,15 @@ All those monkeys, who were distressed in mind (for not having heard the news of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशम्य नदतो नादं वानरास्ते समन्ततः ।  
 बभूवुरुत्सुकाः सर्वे सुहृद्दर्शनकाङ्क्षिणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,12 +867,15 @@ Hearing that roar of Hanuma, who was making the saund, all those mokeys statione
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवान् स हरिश्रेष्ठः प्रीतिसंहृष्टमानसः ।  
 उपामन्त्र्य हरीन् सर्वानिदं वचनमब्रवीत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +918,15 @@ The Jambavan, the foremot among the monkesy and bears, with his mind thrilled wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा कृतकार्योऽसौ हनूमान् नात्र संशयः ।  
 न ह्यस्याकृतकार्यस्य नाद एवंविधो भवेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,12 +967,15 @@ The Jambavan, the foremot among the monkesy and bears, with his mind thrilled wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बाहूरुवेगं च निनादं च महात्मनः ।  
 निशम्य हरयो हृष्टाः समुत्पेतुर्यतस्ततः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1018,15 @@ Hearing the sound of the dashing movement of the high souled Hanuma's arms and t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते नगाग्रान्नगाग्राणि शिखराच्छिखराणि च ।  
 प्रहृष्टाः समपद्यन्त हनूमन्तं दिदृक्षवः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1066,15 @@ Those monkeys with joy, longing to see Hanuma, took off from the top of one tree
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रीताः पादपाग्रेषु गृह्य शाखामवस्थिताः ।  
 वासांसि च प्रकाशानि समाविध्यन्त वानराः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,12 +1117,15 @@ Those monkeys, grasping the boughs at the tops of trees, and standing there firm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिगह्वरसंलीनो यथा गर्जति मारुतः ।  
 एवं जगर्ज बलवान् हनूमान् मारुतात्मजः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1100,12 +1165,15 @@ The mighty, Hanuma the son of wind-god, roared as thaugh the wind roars while it
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमभ्रघनसङ्काशमापतन्तं महाकपिम् ।  
 दृष्ट्वा ते वानराः सर्वे तस्थुः प्राञ्जलयस्तदा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,12 +1213,15 @@ Seeing that Hanuma then rushing like a dense cloud, all those monkeys stood ther
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु वेगवान् वीरो गिरेर्गिरिनिभः कपिः ।  
 निपपात गिरेस्तस्य शिखरे पादपाकुले ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1193,12 +1264,15 @@ The swift Hanuma, looking like a mauntain, then descended on the summit of that 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षेणापूर्यमाणोऽसौ रम्ये पर्वतनिर्झरे ।  
 छिन्नपक्ष इवाकाशात् पपात धरणीधरः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,12 +1315,15 @@ Hanuma like a mountain with its wings torn off, thrilled with joy, fell from the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते प्रीतमनसः सर्वे वानरपुङ्गवाः ।  
 हनूमन्तं महात्मानं परिवार्योपतस्थिरे ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,6 +1340,7 @@ Hanuma like a mountain with its wings torn off, thrilled with joy, fell from the
 
 आग परमानन्दभरितराद अङ्गदादि वानरोत्तमरॆल्लरू महात्मनाद हनुमन्तन बळि सारि सुत्तलू नॆरॆदरु.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1271,6 +1349,8 @@ Hanuma like a mountain with its wings torn off, thrilled with joy, fell from the
 उपायनानि चादाय मूलानि च फलानि च ।  
 प्रत्यर्चयन् हरिश्रेष्ठं हरयो मारुतात्मजम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1335,12 +1415,15 @@ Then, all the foremost of those monkeys, with their pleasing hearts, stood surra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनेदुर्मुदिताः केचित् केचित् किलकिलां तथा ।  
 हृष्टाः पादपशाखाश्च आनिन्युर्वानरर्षभाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1383,12 +1466,15 @@ Then, Hanuma the excellent one among the monkeys, on his part, offered his salut
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमांस्तु गुरून् वृद्धाञ्जाम्बवत्प्रमुखांस्तदा ।  
 कुमारमङ्गदं चैव सोऽवन्दत महाकपिः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,12 +1518,15 @@ Jambavan and Angada honoured that victorious and venerable Hanuma. The other mon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ताभ्यां पूजितः पूज्यः कपिभिश्च प्रसादितः ।  
 दृष्टा देवीति विक्रान्तः सङ्क्षेपेण न्यवेदयत् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1480,6 +1569,7 @@ Then, seizing the hand of Angada, Vali's son, Hanuma sat down at a distinct spot
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1488,6 +1578,8 @@ Then, seizing the hand of Angada, Vali's son, Hanuma sat down at a distinct spot
 हनूमानब्रवीत् पृष्टस्तदा तान् वानरर्षभान् ।  
 अशोकवनिकासंस्था दृष्टा सा जनकात्मजा ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1516,6 +1608,7 @@ _________________
 
 बळिक हनुमन्तनु वालिय मगनाद अङ्गदन कै हिडिदुकॊण्डु महेन्द्रपर्वतद रमणीय वनप्रदेशक्कॆ करकॊण्डु होगि कुळितुकॊण्डनु.॥37॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1523,6 +1616,8 @@ _________________
 एकवेणीधरा बाला रामदर्शनलालसा ॥ ३९ ॥  
 उपवासपरिश्रान्ता मलिना जटिला कृशा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,12 +1632,15 @@ _________________
 
 ‘अत्यन्त भयंकर आकारवाली राक्षसियाँ उनकी रखवाली करती हैं । साध्वी सीता बड़ी भोली-भाली हैं । वे एक वेणी धारण किये वहाँ रहती हैं और श्रीरामचन्द्रजीके दर्शनके लिये बहुत ही उत्सुक हैं । उपवासके कारण बहुत थक गयी हैं, दुर्बल और मलिन हो रही हैं तथा उनके केश जटाके रूपमें परिणत हो गये हैं’ ॥ ३९ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दृष्टेति वचनं महार्थममृतोपमम् ॥ ४० ॥  
 निशम्य मारुतेः सर्वे मुदिता वानराभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1607,12 +1705,15 @@ Then, the pleased Hanuma spoke the following words to those excellent monkeys: "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्ष्वेडन्त्यन्ये नदन्त्यन्ये गर्जन्त्यन्ये महाबलाः ॥ ४१ ॥  
 चक्रुः किलकिलामन्ये प्रतिगर्जन्ति चापरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1633,12 +1734,15 @@ _________________
 
 कोई हर्षनाद और कोई सिंहनाद करने लगे । दूसरे महाबली वानर गर्जने लगे । कितने ही किलकारियाँ भरने लगे और दूसरे वानर एककी गर्जनाके उत्तरमें स्वयं भी गर्जना करने लगे ॥ ४१ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिदुच्छ्रितलाङ्गूलाः प्रहृष्टाः कपिकुञ्जराः ॥ ४२ ॥  
 आयताञ्चितदीर्घाणि लाङ्गूलानि प्रविव्यधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1700,12 +1804,15 @@ Some mighty monkeys made a lion's roar. Some were making a sound of approbation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरे तु हनूमन्तं श्रीमन्तं वानरोत्तमम् ॥ ४३ ॥  
 आप्लुत्य गिरिशृङ्गेषु संस्पृशन्ति स्म हर्षिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1726,12 +1833,15 @@ _________________
 
 कितने ही वानर हर्षोल्लाससे भरकर छलाँगे भरते हुए पर्वत-शिखरोंपर वानरशिरोमणि श्रीमान् हनुमान् को  छूने लगे ॥ ४३ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्यं हनूमन्तमङ्गदस्तु तदाब्रवीत् ॥ ४४ ॥  
 सर्वेषां हरिवीराणां मध्ये वाचमनुत्तमाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1791,12 +1901,15 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वे वीर्ये न ते कश्चित् समो वानर विद्यते ॥ ४५ ॥  
 यदवप्लुत्य विस्तीर्णं सागरं पुनरागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1814,12 +1927,15 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 
 ‘वानरश्रेष्ठ! बल और पराक्रममें तुम्हारे समान कोई नहीं है; क्योंकि तुम इस विशाल समुद्रको लाँघकर फिर इस पार लौट आये ॥ ४५ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितस्य प्रदाता नस्त्वमेको वानरोत्तम ॥ ४६ ॥  
 त्वत्प्रसादात् समेष्यामः सिद्धार्था राघवेण ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1873,6 +1989,7 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1880,6 +1997,8 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 दिष्ट्या दृष्टा त्वया देवी रामपत्नी यशस्विनी ।  
 दिष्ट्या त्यक्ष्यति काकुत्स्थः शोकं सीतावियोगजम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1914,6 +2033,7 @@ Very much delighted, the monkeys then sat on extensive flat rocks encircling Ang
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1924,6 +2044,8 @@ Very much delighted, the monkeys then sat on extensive flat rocks encircling Ang
 दर्शनं चापि लङ्कायाः सीताया रावणस्य च ।  
 तस्थुः प्राञ्जलयः सर्वे हनूमद्वदनोन्मुखाः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2011,12 +2133,15 @@ Longing to hear abaut crossing of ocean and the seeing of Lanka, Sheetha and Rav
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्थौ तत्राङ्गदः श्रीमान् वानरैर्बहुभिर्वृतः ।  
 उपास्यमानो विबुधैर्दिवि देवपतिर्यथा ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2038,6 +2163,7 @@ _________________
 
 बुद्धिशालियू, कीर्तिवन्तनू, महापराक्रमियू आगिद्द हनुमन्तनिन्दलू, भुजकीर्तिगळिन्द शोभितनाद अङ्गदनिन्दलू, सन्तसदिन्द आश्रयिसल्पट्ट आ महेन्द्रपर्वतद शिखरवु अनुपमवाद कान्तियिन्द बॆळगुत्तिद्दितु.॥52॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2046,6 +2172,8 @@ _________________
 मुदा तदाध्यासितमुन्नतं मह-  
 न्महीधराग्रं ज्वलितं श्रियाभवत् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2069,5 +2197,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तेळनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

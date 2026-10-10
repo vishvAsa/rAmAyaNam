@@ -2,6 +2,8 @@
 title = "०६२ रामविलापः"
 title_english = "062 Rama laments for Seetha contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ aloud, weighing pros and cons of his situation.
 
 62. श्रीरामका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतामपश्यन् धर्मात्मा शोकोपहतचेतनः ।  
 विललाप महाबाहू रामः कमललोचनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,12 +83,15 @@ wailing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यन्निव च तां सीतामपश्यन्मन्मथार्दितः ।  
 उवाच राघवो वाक्यं विलापाश्रयदुर्वचम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,12 +142,15 @@ poetry.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमशोकस्य शाखाभिः पुष्पप्रियतरा प्रिये ।  
 आवृणोषि शरीरं ते मम शोकविवर्धनी ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +196,15 @@ We may recount the idea reg. Ashoka flowers expressed at 3-60-17.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदलीकाण्डसदृशौ कदल्या संवृतावुभौ ।  
 ऊरू पश्यामि ते देवि नासि शक्ता निगूहितुम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +246,15 @@ sight of them, oh, lady, you are inapt at least to cover them from me. [3-62-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्णिकारवनं भद्रे हसन्ती देवि सेवसे ।  
 अलं ते परिहासेन मम बाधावहेन वै ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -273,6 +290,7 @@ lady, enough, enough is this facetiousness of yours. [3-62-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -280,6 +298,8 @@ lady, enough, enough is this facetiousness of yours. [3-62-5]
 अवगच्छामि ते शीलं परिहासप्रियं प्रिये ॥ ६ ॥  
 आगच्छ त्वं विशालाक्षि शून्योऽयमुटजस्तव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,12 +353,15 @@ is not there...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुव्यक्तं राक्षसैः सीता भक्षिता वा हृतापि वा ॥ ७ ॥  
 न हि सा विलपन्तं मामुपसम्प्रैति लक्ष्मण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,12 +402,15 @@ abducted her, because she is not returning to me who am whiny indeed for her. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतानि मृगयूथानि साश्रुनेत्राणि लक्ष्मण ॥ ८ ॥  
 शंसन्तीव हि मे देवीं भक्षितां रजनीचरैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,12 +450,15 @@ gluttonised my lady. [3-62-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा ममार्ये क्व यातासि हा साध्वि वरवर्णिनि ॥ ९ ॥  
 हा सकामाद्य कैकेयी देवि मेऽद्य भविष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +503,15 @@ last owing to your straying... [3-62-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतया सह निर्यातो विना सीतामुपागतः ॥ १० ॥  
 कथं नाम प्रवेक्ष्यामि शून्यमन्तःपुरं मम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +552,15 @@ How, in all but name, can I step into an oblivion called my palace-chambers? [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्वीर्य इति लोको मां निर्दयश्चेति वक्ष्यति ॥ ११ ॥  
 कातरत्वं प्रकाशं हि सीतापनयनेन मे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +602,15 @@ indeed be self-evident, for Seetha is led away from me by some tactical being...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तवनवासश्च जनकं मिथिलाधिपम् ॥ १२ ॥  
 कुशलं परिपृच्छन्तं कथं शक्ष्ये निरीक्षितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +650,15 @@ after the completion of forest living, how do I have the face to stand him? [3-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदेहराजो नूनं मां दृष्ट्वा विरहितं तया ॥ १३ ॥  
 सुताविनाशसन्तप्तो मोहस्य वशमेष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +698,15 @@ of his daughter, and he defiantly goes under the preponderance of perplexity... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा न गमिष्यामि पुरीं भरतपालिताम् ॥ १४ ॥  
 स्वर्गोऽपि हि तया हीनः शून्य एव मतो मम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,12 +748,15 @@ be a void to me without her... I believe so... [3-62-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मामुत्सृज्य हि वने गच्छायोध्यापुरीं शुभाम् ॥ १५ ॥  
 न त्वहं तां विना सीतां जीवेयं हि कथञ्चन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +797,15 @@ forests, because I have no existence without Seetha, isn't it! [3-62-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाढमाश्लिष्य भरतो वाच्यो मद्वचनात् त्वया ॥ १६ ॥  
 अनुज्ञातोऽसि रामेण पालयेति वसुन्धराम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -795,6 +845,7 @@ authorises you to reign the earth...' [3-62-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -802,6 +853,8 @@ authorises you to reign the earth...' [3-62-16]
 कौसल्या च यथान्यायमभिवाद्या ममाज्ञया ।  
 रक्षणीया प्रयत्नेन भवता सूक्तचारिणा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +901,15 @@ you, you have to effortfully protect my mother Kausalya by doing whatever she sa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतायाश्च विनाशोऽयं मम चामित्रसूदन ।  
 विस्तरेण जनन्या मे विनिवेद्यस्त्वया भवेत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,6 +949,7 @@ about this perish of Seetha, also that of mine, to our mothers. [3-62-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -901,6 +958,8 @@ about this perish of Seetha, also that of mine, to our mothers. [3-62-19]
 भयविकलमुखस्तु लक्ष्मणोऽपि  
 व्यथितमना भृशमातुरो बभूव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -959,5 +1018,6 @@ looming large on them. [3-62-20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥62॥
+</details>
 </details>
 

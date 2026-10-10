@@ -1,6 +1,8 @@
 +++
 title = "११४ विभीषणेन रामान्तिके सीताप्रेषणम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -19,12 +21,15 @@ Rama's presence. Seetha casts her looks on the moon-like face of Rama, her belov
 
 114. श्रीरामकी आज्ञासे विभीषणका सीताको उनके समीप लाना और सीताका प्रियतमके मुखचन्द्रका दर्शन करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महाप्राज्ञः सोऽभिवाद्य प्लवङ्गमः ।  
 रामं कमलपत्राक्षं वरं सर्वधनुष्मताम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -47,12 +52,15 @@ Rama's presence. Seetha casts her looks on the moon-like face of Rama, her belov
 
 अनन्तर परम बुद्धिशाली वानर वीर हनुमन्तनु समस्त धनुर्धारिगळल्लि श्रेष्ठनाद कमलनयन श्रीरामनिगॆ नमस्करिसि हेळिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्निमित्तोऽयमारम्भः कर्मणां यः फलोदयः ।  
 तां देवीं शोकसन्तप्तां द्रष्टुमर्हसि मैथिलीम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,12 +101,15 @@ this course of actions was undertaken and which has (now) borne fruit."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि शोकसमाविष्टा बाष्पपर्याकुलेक्षणा ।  
 मैथिली विजयं श्रुत्वा द्रष्टुं त्वामभिकाङ्क्षति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,12 +135,15 @@ _________________
 
 अवळु शोकदल्लि मुळुगिद्दु, कण्णुगळु कम्बनि तुम्बिकॊण्डिवॆ. निम्म विजयद समाचार केळि आ मैथिलियु निम्मन्नु दर्शिसलु बयसुत्तिरुवळु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वकात् प्रत्ययाच्चाहमुक्तो विश्वस्तया तया ।  
 द्रष्टुमिच्छामि भर्तारमिति पर्याकुलेक्षणा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,6 +186,7 @@ see my husband, who has accomplished his purpose, together with Lakshmana.'"
 
 मॊदल सल नानु निम्म सन्देशवन्नित्तिकॊण्डु होगिद्दॆनो, अन्दिनिन्द अवरिगॆ नन्न मेलॆ इवनु नन्न स्वामिय आत्मीयनॆम्ब विश्वास उण्टागित्तु. अदे विश्वासदिन्द कूडि अवरु कण्णिरु तुम्बि ‘नानु प्राणनाथन दर्शन माडलु बयसुत्तिरुवॆनु’ ऎन्दु नन्नल्लि हेळिदरु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -180,6 +195,8 @@ see my husband, who has accomplished his purpose, together with Lakshmana.'"
 स दीर्घमभिनिःश्वस्य जगतीमवलोकयन् ।  
 उवाच मेघसङ्काशं विभीषणमुपस्थितम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +263,15 @@ righteousness, was a little over whelmed with tears and suddenly became a bit th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्याङ्गरागां वैदेहीं दिव्याभरणभूषिताम् ।  
 इह सीतां शिरःस्नातामुपस्थापय मा चिरम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ cosmetics and adorned with beautiful jewels. Let there be no delay."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण त्वरमाणो विभीषणः ।  
 प्रविश्यान्तःपुरं सीतां स्त्रीभिः स्वाभिरचोदयत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +347,15 @@ communicated his presence to Seetha, through his own women.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतां महाभागां दृष्ट्वोवाच विभीषणः ।  
 मूर्ध्नि बद्धाञ्जलिः श्रीमान् विनीतो राक्षसेश्वरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +390,15 @@ Seetha, with his palms joined over his head, humbly spoke to her as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्याङ्गरागा वैदेहि दिव्याभरणभूषिता ।  
 यानमारोह भद्रं ते भर्ता त्वां द्रष्टुमिच्छति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +436,15 @@ please, mount on the vehicle. Your husband wants to see you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही प्रत्युवाच विभीषणम् ।  
 अस्नात्वा द्रष्टुमिच्छामि भर्तारं राक्षसेश्वर ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ see my husband, even without taking my bath."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा प्रत्युवाच विभीषणः ।  
 यथाऽऽह रामो भर्ता ते तत् तथा कर्तुमर्हसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +533,15 @@ bidding of Rama, your husband, as he has enjoined you to do."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा मैथिली पतिदेवता ।  
 भर्तृभक्त्यावृता साध्वी तथेति प्रत्यभाषत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +582,15 @@ divinity, endowed as she was with a devotion to her husband, said in reply, "So 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतां शिरःस्नातां संयुक्तां प्रतिकर्मणा ।  
 महार्हाभरणोपेतां महार्हाम्बरधारिणीम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,12 +607,15 @@ divinity, endowed as she was with a devotion to her husband, said in reply, "So 
 
 अनन्तर वैदेहियु तलॆगॆ स्नानमाडि सुन्दरवागि शृङ्गरिसिकॊण्डु, बहुमूल्य वस्त्राभूषणगळन्नु धरिसि हॊरटळु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोप्य शिबिकां दीप्तां परार्घ्याम्बरसंवृताम् ।  
 रक्षोभिर्बहुभिर्गुप्तामाजहार विभीषणः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +658,15 @@ brought her to the presence of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिगम्य महात्मानं ज्ञात्वापि ध्यानमास्थितम् ।  
 प्रणतश्च प्रहृष्टश्च प्राप्तां सीतां न्यवेदयत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +708,15 @@ announced to him that Seetha had arrived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामागतामुपश्रुत्य रक्षोगृहचिरोषिताम् ।  
 रोषं हर्षं च दैन्यं च राघवः प्राप शत्रुहा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +775,15 @@ as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो यानगतां सीतां सविमर्शं विचारयन् ।  
 विभीषणमिदं वाक्यमहृष्टो राघवोऽब्रवीत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,12 +825,15 @@ beside him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाधिपते सौम्य नित्यं मद्विजये रत ।  
 वैदेही सन्निकर्षं मे क्षिप्रं समभिगच्छतु ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +870,15 @@ seek my presence quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राघवस्य विभीषणः ।  
 तूर्णमुत्सारणं तत्र कारयामास धर्मवित् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,12 +918,15 @@ disperse the crowd there quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कञ्चुकोष्णीषिणस्तत्र वेत्रझर्झरपाणयः ।  
 उत्सारयन्तस्तान् योधान् समन्तात् परिचक्रमुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,12 +969,15 @@ jingling sound, walked there all round, dispersing those warriors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाणां वानराणां च राक्षसानां च सर्वशः ।  
 वृन्दान्युत्सार्यमाणानि दूरमुत्तस्थुरन्ततः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1017,15 @@ from their nearness to the palanquin.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामुत्सार्यमाणानां निःस्वनः सुमहानभूत् ।  
 वायुनोद्‍धूयमानस्य सागरस्येव निःस्वनः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -997,12 +1065,15 @@ resembling the roar of a sea, lashed by a storm.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सार्यमाणांस्तान् दृष्ट्वा समन्ताज्जातसम्भ्रमान् ।  
 दाक्षिण्यात्तदमर्षाच्च वारयामास राघवः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,12 +1109,15 @@ resentment (at the behaviour of the demons who were dispersing them).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संरम्भाच्चाब्रवीद् रामश्चक्षुषा प्रदहन्निव ।  
 विभीषणं महाप्राज्ञं सोपालम्भमिदं वचः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1083,12 +1157,15 @@ following reproaching words to the highly intelligent Vibhishana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं मामनादृत्य क्लिश्यतेऽयं त्वया जनः ।  
 निवर्तयैनमुद्वेगं जनोऽयं स्वजनो मम ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,12 +1205,15 @@ my own people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न गृहाणि न वस्त्राणि न प्राकारस्तिरस्क्रिया ।  
 नेदृशा राजसत्कारा वृत्तमावरणं स्त्रियाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,12 +1257,15 @@ nor concealments nor such royal honours. Her character is her shield."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यसनेषु न कृच्छ्रेषु न युद्धेषु स्वयंवरे ।  
 न क्रतौ नो विवाहे वा दर्शनं दूष्यते स्त्रियाः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,12 +1310,15 @@ assembly of suitors, nor in sacrificial ceremonies nor in marriage-functions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैषा विपद‍्गता चैव कृच्छ्रेण च समन्विता ।  
 दर्शने नास्ति दोषोऽस्या मत्समीपे विशेषतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1273,12 +1359,15 @@ fault in her appearance in public, particularly in my presence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसृज्य शिबिकां तस्मात् पद्भ्यामेवापसर्पतु ।  
 समीपे मम वैदेहीं पश्यन्त्वेते वनौकसः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1318,12 +1407,15 @@ monkeys see Seetha in my presence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण सविमर्शो विभीषणः ।  
 रामस्योपानयत् सीतां सन्निकर्षं विनीतवत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1357,12 +1449,15 @@ to Rama's vicinity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो लक्ष्मणसुग्रीवौ हनूमांश्च प्लवङ्गमः ।  
 निशम्य वाक्यं रामस्य बभूवुर्व्यथिता भृशम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1396,12 +1491,15 @@ much perturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कलत्रनिरपेक्षैश्च इङ्गितैरस्य दारुणैः ।  
 अप्रीतमिव सीतायां तर्कयन्ति स्म राघवम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1435,12 +1533,15 @@ conjectured as if Rama had some displeasure towards Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लज्जया त्ववलीयन्ती स्वेषु गात्रेषु मैथिली ।  
 विभीषणेनानुगता भर्तारं साभ्यवर्तत ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,12 +1575,15 @@ duly followed by Vibhishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्मयाच्च प्रहर्षाच्च स्नेहाच्च पतिदेवता ।  
 उदैक्षत मुखं भर्तुः सौम्यं सौम्यतरानना ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1520,6 +1624,7 @@ charming face of her husband, with a surprise, rejoice and affection.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1528,6 +1633,8 @@ charming face of her husband, with a surprise, rejoice and affection.
 वदनमुदितपूर्णचन्द्रकान्तं  
 विमलशशाङ्कनिभानना तदाऽऽसीत् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,5 +1699,6 @@ now longing to see you, her eyes filled with tears of joy."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर हदिनाल्कनॆय सर्ग पूर्णवायितु.॥114॥
+</details>
 </details>
 

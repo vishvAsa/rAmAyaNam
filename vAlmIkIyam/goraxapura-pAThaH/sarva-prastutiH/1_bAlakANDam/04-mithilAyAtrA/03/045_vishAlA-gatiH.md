@@ -2,6 +2,8 @@
 title = "०४५ विशाला-गतिः"
 title_english = "045 The legend of churning Milk Ocean"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -23,12 +25,15 @@ the churning in His incarnation as Tortoise.
 
 45. देवताओं और दैत्योंद्वारा क्षीर-समुद्र-मन्थन, भगवान् रुद्रद्वारा हालाहल विषका पान, भगवान् विष्णुके सहयोगसे मन्दराचलका पातालसे उद्धार और उसके द्वारा मन्थन, धन्वन्तरि, अप्सरा, वारुणी, उच्चैःश्रवा, कौस्तुभ तथा अमृतकी उत्पत्ति और देवासुर-संग्राममें दैत्योंका संहार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा राघवः सहलक्ष्मणः ।  
 विस्मयं परमं गत्वा विश्वामित्रमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ Lakshmana, Rama went into a great astonishment, and then addressed Vishvamitra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यद्भुतमिदं ब्रह्मन् कथितं परमं त्वया ।  
 गङ्गावतरणं पुण्यं सागरस्यापि पूरणम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -103,12 +111,15 @@ is sacrosanct and even highly amazing. [1-45-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षणभूतेव नौ रात्रिः संवृत्तेयं परन्तप ।  
 इमां चिन्तयतोः सर्वां निखिलेन कथां तव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -146,12 +157,15 @@ while we were thinking about the episode you have narrated in its entirety. [1-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सा शर्वरी सर्वा मम सौमित्रिणा सह ।  
 जगाम चिन्तयानस्य विश्वामित्र कथां शुभाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ insofar as Rama's speech is concerned. Other versions have a continuity of narra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते विमले विश्वामित्रं तपोधनम् ।  
 उवाच राघवो वाक्यं कृताह्निकमरिन्दमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +252,15 @@ performed his daily chores of rituals. [1-45-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गता भगवती रात्रिः श्रोतव्यं परमं श्रुतम् ।  
 तराम सरितां श्रेष्ठां पुण्यां त्रिपथगां नदीम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,12 +302,15 @@ same prominent and merited River Ganga, the tri-path-cruiser. [1-45-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नौरेषा हि सुखास्तीर्णा ऋषीणां पुण्यकर्मणाम् ।  
 भगवन्तमिह प्राप्तं ज्ञात्वा त्वरितमागता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,12 +348,15 @@ it." Thus Rama spoke to Vishvamitra. [1-45-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राघवस्य महात्मनः ।  
 सन्तारं कारयामास सर्षिसङ्घस्य कौशिकः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +392,15 @@ the Raghava-s. [1-45-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरं तीरमासाद्य सम्पूज्यर्षिगणं ततः ।  
 गङ्गाकूले निविष्टास्ते विशालां ददृशुः पुरीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +442,15 @@ of Ganga they have seen the city called Vishaala. [1-45-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मुनिवरस्तूर्णं जगाम सहराघवः ।  
 विशालां नगरीं रम्यां दिव्यां स्वर्गोपमां तदा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +485,15 @@ the charming and admirable city Vishaala, which in comparison is like heaven. [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामो महाप्राज्ञो विश्वामित्रं महामुनिम् ।  
 पप्रच्छ प्राञ्जलिर्भूत्वा विशालामुत्तमां पुरीम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +529,15 @@ his palms, and enquired about the prominent city Vishala with the great Sage Vis
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कतमो राजवंशोऽयं विशालायां महामुने ।  
 श्रोतुमिच्छामि भद्रं ते परं कौतूहलं हि मे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +573,15 @@ about it." Thus Rama spoke to Vishvamitra. [1- 45-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा रामस्य मुनिपुङ्गवः ।  
 आख्यातुं तत्समारेभे विशालायाः पुरातनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +621,15 @@ narrate the legend of ancient Vishaala. [1-45-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां राम शक्रस्य कथां कथयतः श्रुताम् ।  
 अस्मिन् देशे हि यद् वृत्तं शृणु तत्त्वेन राघव ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +668,15 @@ of what has happened in this country. [1-45-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वं कृतयुगे राम दितेः पुत्रा महाबलाः ।  
 अदितेश्च महाभागा वीर्यवन्तः सुधार्मिकाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,12 +719,15 @@ gave birth to the progeny of sura-s, later generally called as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तेषां नरव्याघ्र बुद्धिरासीन्महात्मनाम् ।  
 अमरा विजराश्चैव कथं स्यामो निरामयाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +772,15 @@ without ageing, illness, and likewise without death.' [1-45-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां चिन्तयतां तत्र बुद्धिरासीद् विपश्चिताम् ।  
 क्षीरोदमथनं कृत्वा रसं प्राप्स्याम तत्र वै ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +815,15 @@ them up, 'we indeed can get elixir of life by churning the Milky Ocean.' [1-45-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निश्चित्य मथनं योक्त्रं कृत्वा च वासुकिम् ।  
 मन्थानं मन्दरं कृत्वा ममन्थुरमितौजसः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +859,15 @@ energy is unlimited have started churning the Milky Ocean thoroughly. [1-45-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्षसहस्रेण योक्त्रसर्पशिरांसि च ।  
 वमन्तोऽतिविषं तत्र ददंशुर्दशनैः शिलाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +911,15 @@ the holocaustic poison called *haalaahala*. [1-45-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पपाताग्निसङ्काशं हालाहलमहाविषम् ।  
 तेन दग्धं जगत् सर्वं सदेवासुरमानुषम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -892,12 +954,15 @@ therefrom, by which whole universe of gods, non-gods and humans is burnt down. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ देवा महादेवं शङ्करं शरणार्थिनः ।  
 जग्मुः पशुपतिं रुद्रं त्राहि त्राहीति तुष्टुवुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +998,15 @@ and they prayed to him saying 'save, save us.' [1-45-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्ततो देवैर्देवदेवेश्वरः प्रभुः ।  
 प्रादुरासीत् ततोऽत्रैव शङ्खचक्रधरो हरिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,6 +1042,7 @@ handling his disc and conch-shell Vishnu has also revealed himself at that place
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -982,6 +1051,8 @@ handling his disc and conch-shell Vishnu has also revealed himself at that place
 तत् त्वदीयं सुरश्रेष्ठ सुराणामग्रतो हि यत् ।  
 अग्रपूजामिह स्थित्वा गृहाणेदं विषं प्रभो ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,6 +1107,7 @@ to your godhood'. [1-45-23, 24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1044,6 +1116,8 @@ to your godhood'. [1-45-23, 24]
 हालाहलं विषं घोरं सञ्जग्राहामृतोपमम् ।  
 देवान् विसृज्य देवेशो जगाम भगवान् हरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1181,15 @@ of Bow called *shaar~Nga*, namely Vishnu, god Shiva gulped that lethal poison,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवासुराः सर्वे ममन्थू रघुनन्दन ।  
 प्रविवेशाथ पातालं मन्थानः पर्वतोत्तमः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,6 +1230,7 @@ to Madhusuudana, the other name of Vishnu. [1-45-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1160,6 +1238,8 @@ to Madhusuudana, the other name of Vishnu. [1-45-27b, 28a]
 त्वं गतिः सर्वभूतानां विशेषेण दिवौकसाम् ॥ २८ ॥  
 पालयास्मान् महाबाहो गिरिमुद्धर्तुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,12 +1275,15 @@ mountain.' So prayed gods to Vishnu. [1-45-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रुत्वा हृषीकेशः कामठं रूपमास्थितः ॥ २९ ॥  
 पर्वतं पृष्ठतः कृत्वा शिश्ये तत्रोदधौ हरिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,12 +1324,15 @@ he lay recumbent at the bottom of Milky Ocean as a base to the stirrer. [1-45-29
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्वताग्रं तु लोकात्मा हस्तेनाक्रम्य केशवः ॥ ३० ॥  
 देवानां मध्यतः स्थित्वा ममन्थ पुरुषोत्तमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1282,6 +1368,7 @@ ocean by holding the stirring mountain upright. [1-45-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1289,6 +1376,8 @@ ocean by holding the stirring mountain upright. [1-45-30b, 31a]
 उदतिष्ठत् सुधर्मात्मा सदण्डः सकमण्डलुः ।  
 पूर्वं धन्वन्तरिर्नाम अप्सराश्च सुवर्चसः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1333,12 +1422,15 @@ from the Milky Ocean. [1-45-31b, 32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सु निर्मथनादेव रसात् तस्माद् वरस्त्रियः ।  
 उत्पेतुर्मनुजश्रेष्ठ तस्मादप्सरसोऽभवन् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1377,12 +1469,15 @@ Apsara-s. [1-45-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्टिः कोट्योऽभवंस्तासामप्सराणां सुवर्चसाम् ।  
 असङ्ख्येयास्तु काकुत्स्थ यास्तासां परिचारिकाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1422,12 +1517,15 @@ emerged along with them are innumerable. [1-45-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ताः स्म प्रतिगृह्णन्ति सर्वे ते देवदानवाः ।  
 अप्रतिग्रहणादेव ता वै साधारणाः स्मृताः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1476,12 +1574,15 @@ Pt. Satya Vrat - Ramayana - A Linguistic Study.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरुणस्य ततः कन्या वारुणी रघुनन्दन ।  
 उत्पपात महाभागा मार्गमाणा परिग्रहम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1517,12 +1618,15 @@ who incidentally is the presiding deity of hard liquors and also called as *sura
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दितेः पुत्रा न तां राम जगृहुर्वरुणात्मजाम् ।  
 अदितेस्तु सुता वीर जगृहुस्तामनिन्दिताम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1561,12 +1665,15 @@ espoused that impeccable Vaaruni. [1-45-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असुरास्तेन दैतेयाः सुरास्तेनादितेः सुताः ।  
 हृष्टाः प्रमुदिताश्चासन् वारुणीग्रहणात् सुराः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,12 +1709,15 @@ called *suraa*-s, and gods are delighted and rejoiced on espousing Vaaruni.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्चैःश्रवा हयश्रेष्ठो मणिरत्नं च कौस्तुभम् ।  
 उदतिष्ठन्नरश्रेष्ठ तथैवामृतमुत्तमम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1642,12 +1752,15 @@ Supreme ambrosial elixir of gods, have also emerged. [1-45-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्य कृते राम महानासीत् कुलक्षयः ।  
 अदितेस्तु ततः पुत्रा दितिपुत्रानयोधयन् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1688,12 +1801,15 @@ sons of Diti. [1-45-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकतामगमन् सर्वे असुरा राक्षसैः सह ।  
 युद्धमासीन्महाघोरं वीर त्रैलोक्यमोहनम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,12 +1844,15 @@ real and surreal spheres. [1-45-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा क्षयं गतं सर्वं तदा विष्णुर्महाबलः ।  
 अमृतं सोऽहरत् तूर्णं मायामास्थाय मोहिनीम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1783,12 +1902,15 @@ recognising this as Vishnu's Maya, illusory power.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये गताभिमुखं विष्णुमक्षरं पुरुषोत्तमम् ।  
 सम्पिष्टास्ते तदा युद्धे विष्णुना प्रभविष्णुना ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1825,12 +1947,15 @@ has pulverised him. [1-45-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदितेरात्मजा वीरा दितेः पुत्रान् निजघ्निरे ।  
 अस्मिन् घोरे महायुद्धे दैतेयादित्ययोर्भृशम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1865,12 +1990,15 @@ demonic sons of Diti. [1-45-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहत्य दितिपुत्रांस्तु राज्यं प्राप्य पुरन्दरः ।  
 शशास मुदितो लोकान् सर्षिसङ्घान् सचारणान् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1923,5 +2051,6 @@ city and its emergence. [1-45-45]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तैदनॆय सर्ग पूर्णवायितु.॥45॥
+</details>
 </details>
 

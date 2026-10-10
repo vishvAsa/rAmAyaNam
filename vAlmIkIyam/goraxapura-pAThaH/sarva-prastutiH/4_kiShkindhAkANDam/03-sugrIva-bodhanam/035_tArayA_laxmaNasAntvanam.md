@@ -2,6 +2,8 @@
 title = "०३५ तारया लक्ष्मणसान्त्वनम्"
 title_english = "035 Tara appeases Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,12 +25,15 @@ themselves before Rama on this very day.
 
 35. ताराका लक्ष्मणको युक्तियुक्त वचनोंद्वारा शान्त करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रूवाणं सौमित्रिं प्रदीप्तमिव तेजसा ।  
 अब्रवील्लक्ष्मणं तारा ताराधिपनिभानना ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ namely Lakshmana, who while he is speaking is as though blazing with his own res
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवं लक्ष्मण वक्तव्यो नायं परुषमर्हति ।  
 हरीणामीश्वरः श्रोतुं तव वक्त्राद् विशेषतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ tongue-lashing, especially from your tongue. [4-35-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवाकृतज्ञः सुग्रीवो न शठो नापि दारुणः ।  
 नैवानृतकथो वीर न जिह्मश्च कपीश्वरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ of untruth - no; a duplicitous one, no, this king of monkeys is not even that. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपकारं कृतं वीरो नाप्ययं विस्मृतः कपिः ।  
 रामेण वीर सुग्रीवो यदन्यैर्दुष्करं रणे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ oh, valiant Lakshmana, which in combat is impractical for others. [4-35-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामप्रसादात् कीर्तिं च कपिराज्यं च शाश्वतम् ।  
 प्राप्तवानिह सुग्रीवो रुमां मां च परन्तप ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ kingship of monkeys, more so with Ruma and me as well. [4-35-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुदुःखशयितः पूर्वं प्राप्येदं सुखमुत्तमम् ।  
 प्राप्तकालं न जानीते विश्वामित्रो यथा मुनिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ himself to the time-oriented actions as with saint Vishvamitra. [4-35-6]
 
 * यह प्रसंग बालकाण्डके तिरसठवें सर्गमें आया है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृताच्यां किल संसक्तो दश वर्षाणि लक्ष्मण ।  
 अहोऽमन्यत धर्मात्मा विश्वामित्रो महामुनिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ ten years of his association with Ghritaachi.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि प्राप्तं न जानीते कालं कालविदां वरः ।  
 विश्वामित्रो महातेजाः किं पुनर्यः पृथग्जनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ to the occasioned time for a good many years, why talking about a commoner again
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देहधर्मगतस्यास्य परिश्रान्तस्य लक्ष्मण ।  
 अवितृप्तस्य कामेषु रामः क्षन्तुमिहार्हति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ bhaya 'food, sleep, sex, and fear.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च रोषवशं तात गन्तुमर्हसि लक्ष्मण ।  
 निश्चयार्थमविज्ञाय सहसा प्राकृतो यथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +523,15 @@ of your rancour like a commoner. [4-35-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वयुक्ता हि पुरुषास्त्वद्विधाः पुरुषर्षभ ।  
 अविमृश्य न रोषस्य सहसा यान्ति वश्यताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ by their own rancour, unconscionably. [4-35-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादये त्वां धर्मज्ञ सुग्रीवार्थं समाहिता ।  
 महान् रोषसमुत्पन्नः संरम्भस्त्यज्यतामयम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +621,15 @@ this clangour upshot in high dudgeon of yours. [4-35-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुमां मां चाङ्गदं राज्यं धनधान्यपशूनि च ।  
 रामप्रियार्थं सुग्रीवस्त्यजेदिति मतिर्मम ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +669,15 @@ kingdom with its riches, food grains, livestock and whatnot, as I can infer. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समानेष्यति सुग्रीवः सीतया सह राघवम् ।  
 शशाङ्कमिव रोहिण्या हत्वा तं राक्षसाधमम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +728,15 @@ Rohini.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतकोटिसहस्राणि लङ्कायां किल रक्षसाम् ।  
 अयुतानि च षट‍‍्त्रिंशत्सहस्राणि शतानि च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,12 +787,15 @@ women that are held captive in that island.
 
 * आधुनिक गणनाके अनुसार यह संख्या दस खरब तीन लाख निन्यानबे हजार छः सौ होती है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहत्वा तांश्च दुर्धर्षान् राक्षसान् कामरूपिणः ।  
 न शक्यो रावणो हन्तुं येन सा मैथिली हृता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +834,15 @@ abducted Maithili, namely Ravana. [4-35-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते न शक्या रणे हन्तुमसहायेन लक्ष्मण ।  
 रावणः क्रूरकर्मा च सुग्रीवेण विशेषतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +896,15 @@ the import of the verse 19 also in view.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमाख्यातवान् वाली स ह्यभिज्ञो हरीश्वरः ।  
 आगमस्तु न मे व्यक्तः श्रवात् तस्य ब्रवीम्यहम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,12 +953,15 @@ of Ravana's capabilities to Tara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वत्सहायनिमित्तं हि प्रेषिता हरिपुङ्गवाः ।  
 आनेतुं वानरान् युद्धे सुबहून् हरिपुङ्गवान् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1007,15 @@ kiirtan-s *'musical exalts and extols.' Thereby Sugreeva has done the need of th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांश्च प्रतीक्षमाणोऽयं विक्रान्तान् सुमहाबलान् ।  
 राघवस्यार्थसिद्ध्यर्थं न निर्याति हरीश्वरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,12 +1055,15 @@ awaiting the return of those venturesome and very great mighty monkey-warriors w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृता सुसंस्था सौमित्रे सुग्रीवेण पुरा यथा ।  
 अद्य तैर्वानरैः सर्वैरागन्तव्यं महाबलैः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,6 +1103,7 @@ monkeys have to arrive here today itself. [4-35-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1045,6 +1111,8 @@ monkeys have to arrive here today itself. [4-35-21]
 अद्य त्वामुपयास्यन्ति जहि कोपमरिन्दम ।  
 कोट्योऽनेकास्तु काकुत्स्थ कपीनां दीप्ततेजसाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,6 +1161,7 @@ therefore rebut your rage. [4-35-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1101,6 +1170,8 @@ therefore rebut your rage. [4-35-22]
 हरिवरवनिता न यान्ति शान्तिं  
 प्रथमभयस्य हि शङ्किताः स्म सर्वाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,5 +1233,6 @@ premonished about such a happening in respect of Sugreeva too. [4-35-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥35॥
+</details>
 </details>
 

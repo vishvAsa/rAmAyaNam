@@ -2,6 +2,8 @@
 title = "०६१ कपिभिः मधुवने विश्रान्तिः"
 title_english = "061 Monkeys took halt at Madhuvana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty
@@ -24,12 +26,15 @@ teeth.
 
 61. वानरोंका मधुवनमें जाकर वहाँके मधु एवं फलोंका मनमाना उपभोग करना और वनरक्षकको घसीटना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो जाम्बवतो वाक्यमगृह्णन्त वनौकसः ।  
 अङ्गदप्रमुखा वीरा हनूमांश्च महाकपिः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ the monkeys accepted the words of Jambavan.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रीतिमन्तस्ततः सर्वे वायुपुत्रपुरःसराः ।  
 महेन्द्राग्रात् समुत्पत्य पुप्लुवुः प्लवगर्षभाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +102,15 @@ _________________
 
 अनन्तर कपिश्रेष्ठरॆल्लरू अत्यन्त सन्तोषदिन्द वायुपुत्रनाद हनुमन्तन्नु मुन्दिरिसिकॊण्डु महेन्द्र पर्वतवन्नु बिट्टु मेलक्कॆहारिदरु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेरुमन्दरसङ्काशा मत्ता इव महागजाः ।  
 छादयन्त इवाकाशं महाकाया महाबलाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +127,15 @@ _________________
 
 महाकायराद, महाबलिष्ठराद, मेरुमन्दर पर्वतगळन्तॆ काणुत्तिद्द, मदिसिद सलगगळन्तिद्द कपि वीररु आकाशवन्ने मुच्चिबिडुवरो ऎम्बन्तॆ हारिकॊण्डु होगुत्तिद्दरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सभाज्यमानं भूतैस्तमात्मवन्तं महाबलम् ।  
 हनूमन्तं महावेगं वहन्त इव दृष्टिभिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,6 +155,7 @@ _________________
 
 सकल प्राणिगळिन्द गौरविसल्पडुत्तिरुववनू, महाप्राज्ञशालियू, अतुळ बल सम्पन्ननू, शीघ्रवागि सागुत्तिद्द आ हनुमन्तनन्नु अवरॆल्लरू दिट्टिसि नोडुत्ता तम्म कण्णुगळ नोटदिन्दले ऒय्युत्तिरुवरो ऎम्बन्तॆ अवन कुरितु आदरभावदिन्द अवनन्ने नोडुत्तिद्दरु.*॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,6 +164,8 @@ _________________
 प्रियाख्यानोन्मुखाः सर्वे सर्वे युद्धाभिनन्दिनः ।  
 सर्वे रामप्रतीकारे निश्चितार्था मनस्विनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +219,15 @@ against the evil-minded Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लवमानाः खमाप्लुत्य ततस्ते काननौकसः ।  
 नन्दनोपममासेदुर्वनं द्रुमशतायुतम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,12 +270,15 @@ like Nandanavana the divine grove filled with trees and creepers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तन्मधुवनं नाम सुग्रीवस्याभिरक्षितम् ।  
 अधृष्यं सर्वभूतानां सर्वभूतमनोहरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +318,15 @@ grove, unapproachable for all and looking fascinated to the soul of all beings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् रक्षति महावीरः सदा दधिमुखः कपिः ।  
 मातुलः कपिमुख्यस्य सुग्रीवस्य महात्मनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +369,15 @@ maternal uncle of Sugreeva always protected that garden.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तद् वनमुपागम्य बभूवुः परमोत्कटाः ।  
 वानरा वानरेन्द्रस्य मनःकान्तं महावनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +420,15 @@ became highly excessive in their behaviour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते वानरा हृष्टा दृष्ट्वा मधुवनं महत् ।  
 कुमारमभ्ययाचन्त मधूनि मधुपिङ्गलाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +470,15 @@ the honey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुमारस्तान् वृद्धाञ्जाम्बवत्प्रमुखान् कपीन् ।  
 अनुमान्य ददौ तेषां निसर्गं मधुभक्षणे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +518,15 @@ gave the monkeys a liberty to drink honey there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते निसृष्टाः कुमारेण धीमता वालिसूनुना ।  
 हरयः समपद्यन्त द्रुमान् मधुकराकुलान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +569,15 @@ Then, those excited monkeys felt glad and began dancing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्षयन्तः सुगन्धीनि मूलानि च फलानि च ।  
 जग्मुः प्रहर्षं ते सर्वे बभूवुश्च मदोत्कटाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +628,15 @@ were talking incoherently.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चानुमताः सर्वे सुसंहृष्टा वनौकसः ।  
 मुदिताश्च ततस्ते च प्रनृत्यन्ति ततस्ततः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,6 +684,7 @@ disputing with one another. Some were playing with one another.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -648,6 +693,8 @@ disputing with one another. Some were playing with one another.
 पतन्ति केचित् प्रचरन्ति केचित्  
 प्लवन्ति केचित् प्रलपन्ति केचित् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,6 +746,7 @@ the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -707,6 +755,8 @@ the ground.
 द्रुमाद् द्रुमं केचिदभिद्रवन्ति  
 क्षितौ नगाग्रान्निपतन्ति केचित् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,6 +807,7 @@ another approached him roaring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,6 +816,8 @@ another approached him roaring.
 गायन्तमन्यः प्रहसन्नुपैति  
 हसन्तमन्यः प्ररुदन्नुपैति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,6 +867,7 @@ None in that army was not drunk. None in that army was not satiated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,6 +876,8 @@ None in that army was not drunk. None in that army was not satiated.
 न चात्र कश्चिन्न बभूव मत्तो  
 न चात्र कश्चिन्न बभूव दृप्तः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,6 +927,7 @@ the monkey named Dadhimukha (who was incharge of the grove) then angrily interru
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -879,6 +936,8 @@ the monkey named Dadhimukha (who was incharge of the grove) then angrily interru
 समीक्ष्य कोपाद् दधिवक्त्रनामा  
 निवारयामास कपिः कपींस्तान् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,6 +989,7 @@ the means to protect that grove from the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -938,6 +998,8 @@ the means to protect that grove from the monkeys.
 चकार भूयो मतिमुग्रतेजा  
 वनस्य रक्षां प्रति वानरेभ्यः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -988,6 +1050,7 @@ created a quarrel by coming into collusion with some, and approached some in a c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -996,6 +1059,8 @@ created a quarrel by coming into collusion with some, and approached some in a c
 समेत्य कैश्चित् कलहं चकार  
 तथैव साम्नोपजगाम कांश्चित् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,6 +1087,7 @@ _________________
 
 उन्होंने निर्भय होकर किन्हीं-किन्हींको कड़ी बातें सुनायीं । कितनोंको थप्पड़ोंसे मारा । बहुतोंके साथ भिड़कर झगड़ा किया और किन्हीं-किन्हींके प्रति शान्तिपूर्ण उपायसे ही काम लिया ॥ २२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1030,6 +1096,8 @@ _________________
 प्रधर्षणे त्यक्तभयैः समेत्य  
 प्रकृष्यते चाप्यनवेक्ष्य दोषम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,6 +1170,7 @@ of their act.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1110,6 +1179,8 @@ of their act.
 मदात् कपिं ते कपयः समन्ता-  
 न्महावनं निर्विषयं च चक्रुः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1133,5 +1204,6 @@ of their act.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तॊन्दनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

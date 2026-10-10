@@ -2,6 +2,8 @@
 title = "०३३ हनुमति सीताविश्वासः"
 title_english = "033 Seetha antecedents to Hanuma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -22,6 +24,7 @@ also informs Hanuma about her snatching away of Ravana from the forest.
 
 33. सीताजीका हनुमान् जी को अपना परिचय देते हुए अपने वनगमन और अपहरणका वृत्तान्त बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ also informs Hanuma about her snatching away of Ravana from the forest.
 तामब्रवीन्महातेजा हनूमान् मारुतात्मजः ।  
 शिरस्यञ्जलिमाधाय सीतां मधुरया गिरा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +86,7 @@ on his head and spoke the following sweet words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,6 +95,8 @@ on his head and spoke the following sweet words:
 किमर्थं तव नेत्राभ्यां वारि स्रवति शोकजम् ।  
 पुण्डरीकपलाशाभ्यां विप्रकीर्णमिवोदकम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,6 +163,7 @@ one! You have stood, holding by the hand a branch of the tree who are you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +172,8 @@ one! You have stood, holding by the hand a branch of the tree who are you?"
 का त्वं भवसि रुद्राणां मरुतां वा वरानने ।  
 वसूनां वा वरारोहे देवता प्रतिभासि मे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +246,15 @@ or in celestial musicians or in demons or in semi-divine beings or in mythical b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु चन्द्रमसा हीना पतिता विबुधालयात् ।  
 रोहिणी ज्योतिषां श्रेष्ठा श्रेष्ठा सर्वगुणाधिका ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,12 +297,15 @@ excellent among stars."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोपाद् वा यदि वा मोहाद् भर्तारमसितेक्षणे ।  
 वसिष्ठं कोपयित्वा त्वं वासि कल्याण्यरुन्धती ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +348,15 @@ sage either by anger or by error?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को नु पुत्रः पिता भ्राता भर्ता वा ते सुमध्यमे ।  
 अस्माल्लोकादमुं लोकं गतं त्वमनुशोचसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,6 +397,7 @@ father or brother or husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -385,6 +406,8 @@ father or brother or husband."
 व्यञ्जनानि हि ते यानि लक्षणानि च लक्षये ।  
 महिषी भूमिपालस्य राजकन्या च मे मता ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +468,15 @@ in you. According to these things, I do not consider you as a divine woman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेन जनस्थानाद् बलात् प्रमथिता यदि ।  
 सीता त्वमसि भद्रं ते तन्ममाचक्ष्व पृच्छतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +519,15 @@ please!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हि तव वै दैन्यं रूपं चाप्यतिमानुषम् ।  
 तपसा चान्वितो वेषस्त्वं राममहिषी ध्रुवम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +561,15 @@ austerity, surely you are Rama's wife."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तस्य वचनं श्रुत्वा रामकीर्तनहर्षिता ।  
 उवाच वाक्यं वैदेही हनूमन्तं द्रुमाश्रितम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,6 +612,7 @@ who was dwelling on a tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -588,6 +621,8 @@ who was dwelling on a tree.
 दुहिता जनकस्याहं वैदेहस्य महात्मनः ।  
 सीतेति नाम्ना चोक्ताहं भार्या रामस्य धीमतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +680,15 @@ the nature of the spirit and who torments the army of the adversary."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समा द्वादश तत्राहं राघवस्य निवेशने ।  
 भुञ्जाना मानुषान् भोगान् सर्वकामसमृद्धिनी ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +732,15 @@ kind and fulfilling all my desires."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्रयोदशे वर्षे राज्ये चेक्ष्वाकुनन्दनम् ।  
 अभिषेचयितुं राजा सोपाध्यायः प्रचक्रमे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,12 +781,15 @@ anointment of the kingdom to Rama, a celebrity of Ikshvaku dynasty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् सम्भ्रियमाणे तु राघवस्याभिषेचने ।  
 कैकेयी नाम भर्तारमिदं वचनमब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +832,15 @@ to Dasaratha, her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पिबेयं न खादेयं प्रत्यहं मम भोजनम् ।  
 एष मे जीवितस्यान्तो रामो यद्यभिषिच्यते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +859,15 @@ to Dasaratha, her husband.
 
 ‘अब न तो मैं जलपान करूँगी और न प्रतिदिनका भोजन ही ग्रहण करूँगी । यदि श्रीरामका राज्याभिषेक हुआ तो यही मेरे जीवनका अन्त होगा ॥ २० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तदुक्तं त्वया वाक्यं प्रीत्या नृपतिसत्तम ।  
 तच्चेन्न वितथं कार्यं वनं गच्छतु राघवः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,12 +924,15 @@ my food daily. This is the end to my life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा सत्यवाग् देव्या वरदानमनुस्मरन् ।  
 मुमोह वचनं श्रुत्वा कैकेय्याः क्रूरमप्रियम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -920,12 +973,15 @@ queen, King Dasaratha who was true to his word, fell unconscious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं स्थविरो राजा सत्यधर्मे व्यवस्थितः ।  
 ज्येष्ठं यशस्विनं पुत्रं रुदन् राज्यमयाचत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,12 +1024,15 @@ his illustrious eldest son to give back the kingdom, which he bestowed him earli
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पितुर्वचनं श्रीमानभिषेकात् परं प्रियम् ।  
 मनसा पूर्वमासाद्य वाचा प्रतिगृहीतवान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,12 +1073,15 @@ his anointment to the kingdom and accepted them with his word."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दद्यान्न प्रतिगृह्णीयात् सत्यं ब्रूयान्न चानृतम् ।  
 अपि जीवितहेतोर्हि रामः सत्यपराक्रमः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1063,12 +1125,15 @@ He does not speak just a little of a disagreeable word even for the cause of his
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विहायोत्तरीयाणि महार्हाणि महायशाः ।  
 विसृज्य मनसा राज्यं जनन्यै मां समादिशत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1174,15 @@ illustrious Rama gave up his kingdom willingly and assigned me to his mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहं तस्याग्रतस्तूर्णं प्रस्थिता वनचारिणी ।  
 नहि मे तेन हीनाया वासः स्वर्गेऽपि रोचते ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,12 +1223,15 @@ to proceed to the forest and soon was ready to start even ahead of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रागेव तु महाभागः सौमित्रिर्मित्रनन्दनः ।  
 पूर्वजस्यानुयात्रार्थे कुशचीरैरलङ्कृतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,12 +1273,15 @@ to follow his elder brother even before (me)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वयं भर्तुरादेशं बहुमान्य दृढव्रताः ।  
 प्रविष्टाः स्म पुरादृष्टं वनं गम्भीरदर्शनम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1322,15 @@ the forest, which we have never seen before and which was deep and profound in a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसतो दण्डकारण्ये तस्याहममितौजसः ।  
 रक्षसापहृता भार्या रावणेन दुरात्मना ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1293,12 +1370,15 @@ took me, Rama's wife, away."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ मासौ तेन मे कालो जीवितानुग्रहः कृतः ।  
 ऊर्ध्वं द्वाभ्यां तु मासाभ्यां ततस्त्यक्ष्यामि जीवितम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1349,5 +1429,6 @@ the said two months, I shall give up my life."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

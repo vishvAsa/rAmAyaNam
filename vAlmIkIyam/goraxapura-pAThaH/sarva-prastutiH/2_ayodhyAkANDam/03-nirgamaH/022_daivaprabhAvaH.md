@@ -2,6 +2,8 @@
 title = "०२२ दैवप्रभावः"
 title_english = "022 Rama tries to pacify Lakshmana further"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,6 +22,7 @@ forest is the will of gods. He also wants all the celebration for his coronation
 
 22. श्रीरामका लक्ष्मणको समझाते हुए अपने वनवासमें दैवको ही कारण बताना और अभिषेककी सामग्रीको हटा लेनेका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ forest is the will of gods. He also wants all the celebration for his coronation
 आसाद्य रामः सौमित्रिं सुहृदं भ्रातरं प्रियम् ।  
 उवाचेदं स धैर्येण धारयन् सत्त्वमात्मवान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,6 +80,7 @@ angry like a hissing king cobra ,with his eyes dilated with wrath and spoke the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -83,6 +89,8 @@ angry like a hissing king cobra ,with his eyes dilated with wrath and spoke the 
 उपक्लृप्तं यदैतन्मे अभिषेकार्थमुत्तमम् ।  
 सर्वं निवर्तय क्षिप्रं कुरु कार्यं निरव्ययम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +138,15 @@ that is faultless ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रे योऽभिषेकार्थे मम सम्भारसम्भ्रमः ।  
 अभिषेकनिवृत्त्यर्थे सोऽस्तु सम्भारसम्भ्रमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +189,15 @@ earlier in preparations for my coronation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्या मदभिषेकार्थे मानसं परितप्यते ।  
 माता नः सा यथा न स्यात् सविशङ्का तथा कुरु ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -223,12 +237,15 @@ apprehension comes to her mind on this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः शङ्कामयं दुःखं मुहूर्तमपि नोत्सहे ।  
 मनसि प्रतिसञ्जातं सौमित्रेऽहमुपेक्षितुम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,12 +284,15 @@ the form of suspision; *pratisanjaatamapi* = created; *manasi* = in mind ; *tasy
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न बुद्धिपूर्वं नाबुद्धं स्मरामीह कदाचन ।  
 मातॄणां वा पितुर्वाहं कृतमल्पं च विप्रियम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ mothers or to my father, either intentionally or unintentionally."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यः सत्याभिसन्धश्च नित्यं सत्यपराक्रमः ।  
 परलोकभयाद् भीतो निर्भयोऽस्तु पिता मम ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,12 +381,15 @@ of the fear of the other world, become true .Let him be fearless."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापि हि भवेदस्मिन् कर्मण्यप्रतिसंहृते ।  
 सत्यं नेति मनस्तापस्तस्य तापस्तपेच्च माम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ not withdrawn. His distress will cause pain to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकविधानं तु तस्मात् संहृत्य लक्ष्मण ।  
 अन्वगेवाहमिच्छामि वनं गन्तुमितः पुरः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +480,15 @@ coronation arrangement."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम प्रव्राजनादद्य कृतकृत्या नृपात्मजा ।  
 सुतं भरतमव्यग्रमभिषेचयतां ततः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +530,15 @@ will coolly get her son coronated."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयि चीराजिनधरे जटामण्डलधारिणि ।  
 गतेऽरण्यं च कैकेय्या भविष्यति मनः सुखम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,6 +577,7 @@ will have mental peace."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -550,6 +586,8 @@ will have mental peace."
 तं नु नार्हामि सङ्क्लेष्टुं  
 प्रव्रजिष्यामि मा चिरम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +629,15 @@ mind . Hence, I will go to the forest at once
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतान्त एव सौमित्रे द्रष्टव्यो मत्प्रवासने ।  
 राज्यस्य च वितीर्णस्य पुनरेव निवर्तने ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +676,15 @@ is sending me to exile"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्याः प्रतिपत्तिर्हि कथं स्यान्मम वेदने ।  
 यदि तस्या न भावोऽयं कृतान्तविहितो भवेत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +723,15 @@ to harass?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानासि हि यथा सौम्य न मातृषु ममान्तरम् ।  
 भूतपूर्वं विशेषो वा तस्या मयि सुतेऽपि वा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -724,12 +771,15 @@ no discrimination between me and her son Bharata"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिषेकनिवृत्त्यर्थैः प्रवासार्थैश्च दुर्वचैः ।  
 उग्रैर्वाक्यैरहं तस्या नान्यद् दैवात् समर्थये ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +819,15 @@ coronation , to send me to exile ,and to speak ferocious words ,not to be talked
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं प्रकृतिसम्पन्ना राजपुत्री तथागुणा ।  
 ब्रूयात् सा प्राकृतेव स्त्री मत्पीड्यं भर्तृसन्निधौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ who is born in a royal family can tell like a common woman to her husband to cre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदचिन्त्यं तु तद् दैवं भूतेष्वपि न हन्यते ।  
 व्यक्तं मयि च तस्यां च पतितो हि विपर्ययः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -860,12 +916,15 @@ An adverse fate has befallen on me and on her .It is clear now ."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च दैवेन सौमित्रे योद्धुमुत्सहते पुमान् ।  
 यस्य नु ग्रहणं किञ्चित् कर्मणोऽन्यन्न दृश्यते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,12 +963,15 @@ the course of destiny. Who will be able to fight against the destiny. ?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखदुःखे भयक्रोधौ लाभालाभौ भवाभवौ ।  
 यस्य किञ्चित् तथाभूतं ननु दैवस्य कर्म तत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1010,15 @@ are all the acts of destiny"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयोऽप्युग्रतपसो दैवेनाभिप्रचोदिताः ।  
 उत्सृज्य नियमांस्तीव्रान् भ्रश्यन्ते काममन्युभिः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1057,15 @@ restraint and get ruined by lust and anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असङ्कल्पितमेवेह यदकस्मात् प्रवर्तते ।  
 निवर्त्यारब्धमारम्भैर्ननु दैवस्य कर्म तत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,12 +1104,15 @@ undertaken in the world ,at the starting point itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना ।  
 व्याहतेऽप्यभिषेके मे परितापो न विद्यते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,12 +1151,15 @@ by myself with real consciousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादपरितापः संस्त्वमप्यनुविधाय माम् ।  
 प्रतिसंहारय क्षिप्रमाभिषेचनिकीं क्रियाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,12 +1198,15 @@ without any anguish"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एभिरेव घटैः सर्वैरभिषेचनसम्भृतैः ।  
 मम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1171,6 +1248,7 @@ for my bath after completing the religious vow of asceticism."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1179,6 +1257,8 @@ for my bath after completing the religious vow of asceticism."
 उद‍्धृतं मे स्वयं तोयं  
 व्रतादेशं करिष्यति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1220,12 +1300,15 @@ out by myself ,will be used for my bath after completing the religious vow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा च लक्ष्मण सन्तापं कार्षीर्लक्ष्म्या विपर्यये ।  
 राज्यं वा वनवासो वा वनवासो महोदयः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,6 +1345,7 @@ When you talk of kingdom or dwelling in the forest, this is the final beautitude
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1270,6 +1354,8 @@ When you talk of kingdom or dwelling in the forest, this is the final beautitude
 दैवाभिपन्ना न पिता कथञ्चि-  
 ज्जानासि दैवं हि तथाप्रभावम् ॥३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1329,5 +1415,6 @@ influence."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तॆरडनॆय सर्ग पूर्णवायितु.॥22॥
+</details>
 </details>
 

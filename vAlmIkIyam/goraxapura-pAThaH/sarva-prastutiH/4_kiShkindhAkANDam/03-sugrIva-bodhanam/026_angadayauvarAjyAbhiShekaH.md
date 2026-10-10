@@ -2,6 +2,8 @@
 title = "०२६ अङ्गदयौवराज्याभिषेकः"
 title_english = "026 Sugreeva s coronation"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,6 +25,7 @@ as crown prince of Kishkindha. The regal splendour of the coronation is narrated
 
 26. हनुमान् जी का सुग्रीवके अभिषेकके लिये श्रीरामचन्द्रजीसे किष्किन्धामें पधारनेकी प्रार्थना, श्रीरामका पुरीमें न जाकर केवल अनुमति देना, तत्पश्चात्  सुग्रीव और अङ्गदका अभिषेक
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ as crown prince of Kishkindha. The regal splendour of the coronation is narrated
 अभिगम्य महाबाहुं राममक्लिष्टकारिणम् ।  
 स्थिताः प्राञ्जलयः सर्वे पितामहमिवर्षयः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +96,15 @@ to him. [4-26-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः काञ्चनशैलाभस्तरुणार्कनिभाननः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं हनूमान् मारुतात्मजः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,6 +147,7 @@ of the tender sun in its glint, then spoke this sentence reverently adjoining hi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -148,6 +157,8 @@ of the tender sun in its glint, then spoke this sentence reverently adjoining hi
 भवता समनुज्ञातः प्रविश्य नगरं शुभम् ॥ ५ ॥  
 संविधास्यति कार्याणि सर्वाणि ससुहृद‍्गणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,6 +205,7 @@ impossible for him to regain, Sugreeva regained such a kingdom with your grace. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -202,6 +214,8 @@ impossible for him to regain, Sugreeva regained such a kingdom with your grace. 
 इमां गिरिगुहां रम्यामभिगन्तुं त्वमर्हसि ॥ ७ ॥  
 कुरुष्व स्वामिसम्बन्धं वानरान् सम्प्रहर्षय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +274,15 @@ all the administration. [4-26-5b, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो हनुमता राघवः परवीरहा ॥ ८ ॥  
 प्रत्युवाच हनूमन्तं बुद्धिमान् वाक्यकोविदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +321,15 @@ way. [4-26-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश समाः सौम्य ग्रामं वा यदि वा पुरम् ॥ ९ ॥  
 न प्रवेक्ष्यामि हनुमन् पितुर्निर्देशपालकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +362,15 @@ or a city. [4-26-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुसमृद्धां गुहां दिव्यां सुग्रीवो वानरर्षभः ॥ १० ॥  
 प्रविष्टो विधिवद् वीरः क्षिप्रं राज्येऽभिषिच्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,6 +411,7 @@ he shall be enthroned in the kingdom, immediately and procedurally. [4-26-10b, 1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,6 +419,8 @@ he shall be enthroned in the kingdom, immediately and procedurally. [4-26-10b, 1
 वृत्तज्ञो वृत्तसम्पन्नमुदारबलविक्रमम् ।  
 इममप्यङ्गदं वीरं यौवराज्येऽभिषेचय ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +455,15 @@ an imposing one by his might and valour. [4-26-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठस्य हि सुतो ज्येष्ठः सदृशो विक्रमेण च ।  
 अङ्गदोऽयमदीनात्मा यौवराज्यस्य भाजनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +506,15 @@ based on this rule till a gruesome war has chanced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वोऽयं वार्षिको मासः श्रावणः सलिलागमः ।  
 प्रवृत्ताः सौम्य चत्वारो मासा वार्षिक सञ्ज्ञिताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +563,15 @@ calculations vary in themselves. The Hindu seasons are six as detailed in Bala K
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नायमुद्योगसमयः प्रविश त्वं पुरीं शुभाम् ।  
 अस्मिन् वत्स्याम्यहं सौम्य पर्वते सहलक्ष्मणः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +610,15 @@ I for my part will stay on this mountain along with Lakshmana. [4-26-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं गिरिगुहा रम्या विशाला युक्तमारुता ।  
 प्रभूतसलिला सौम्य प्रभूतकमलोत्पला ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,6 +657,7 @@ and red and blue lotuses are aplenty about this place. [4-26-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -626,6 +665,8 @@ and red and blue lotuses are aplenty about this place. [4-26-16]
 एष नः समयः सौम्य प्रविश त्वं स्वमालयम् ॥ १७ ॥  
 अभिषिञ्चस्व राज्ये च सुहृदः सम्प्रहर्षय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +711,15 @@ in kingdom as well, and exhilarate your friends." [4-26-17, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति रामाभ्यनुज्ञातः सुग्रीवो वानरर्षभः ॥ १८ ॥  
 प्रविवेश पुरीं रम्यां किष्किन्धां वालिपालिताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,12 +761,15 @@ by Vali. [4-26-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वानरसहस्राणि प्रविष्टं वानरेश्वरम् ॥ १९ ॥  
 अभिवार्य प्रविष्टानि सर्वतः प्लवगेश्वरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +809,15 @@ and fenced off that lord of fly-jumpers from all over. [4-26-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रकृतयः सर्वा दृष्ट्वा हरिगणेश्वरम् ॥ २० ॥  
 प्रणम्य मूर्ध्ना पतिता वसुधायं समाहिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,12 +860,15 @@ and they have also prostrated before him with an assiduously polite attitude. [4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवः प्रकृतीः सर्वाः सम्भाष्योत्थाप्य वीर्यवान् ॥ २१ ॥  
 भ्रातुरन्तःपुरं सौम्यं प्रविवेश महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +909,15 @@ and highly mighty Sugreeva entered the beautiful palace-chambers of his brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टं भीमविक्रान्तं सुग्रीवं वानरर्षभम् ॥ २२ ॥  
 अभ्यषिञ्चन्त सुहृदः सहस्राक्षमिवामराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,6 +957,7 @@ would anoint the Thousand-eyed Indra. [4-26-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -916,6 +973,8 @@ would anoint the Thousand-eyed Indra. [4-26-22b, 23a]
 समालम्भनमादाय गोरोचनमनःशिलाम् ।  
 आजग्मुस्तत्र मुदिता वराः कन्याश्च षोडश ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1066,15 @@ Manshila, there arrived sixteen best and cheerful damsels. [4-26-23b, 24, 25, 26
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते वानरश्रेष्ठमभिषेक्तुं यथाविधि ।  
 रत्नैर्वस्त्रैश्च भक्ष्यैश्च तोषयित्वा द्विजर्षभान् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1055,12 +1117,15 @@ the eminent Brahmans with jewels, garments and delicacies. [4-26-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुशपरिस्तीर्णं समिद्धं जातवेदसम् ।  
 मन्त्रपूतेन हविषा हुत्वा मन्त्रविदो जनाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,6 +1159,7 @@ Ritual-fire oblated fire oblations into it duly sanctifying them with hymns. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1101,6 +1167,8 @@ Ritual-fire oblated fire oblations into it duly sanctifying them with hymns. [4-
 प्रासादशिखरे रम्ये चित्रमाल्योपशोभिते ॥ ३१ ॥  
 प्राङ्मुखं विधिवन्मन्त्रैः स्थापयित्वा वरासने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1122,6 +1190,7 @@ _________________
 
 अनन्तर बण्ण-बण्णद पुष्पमालॆगळिन्द सुशोभित, रम्यवाद प्रासादद अग्रभागदल्लिद्द स्वर्ण सिंहासनवन्नु इरिसि, सुन्दरवाद मेलुहॊदिकॆयन्नु हासि अदर मेलॆ सुग्रीवनन्नु पूर्वाभिमुखवागिसि विधिवत्तागि मन्त्रोच्छार माडुत्ता कुळ्ळिरिसलायितु.॥31½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1135,6 +1204,8 @@ _________________
 अभ्यषिञ्चत सुग्रीवं प्रसन्नेन सुगन्धिना ।  
 सलिलेन सहस्राक्षं वसवो वासवं यथा ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,12 +1283,15 @@ horn of rhino is said to be the highest method of *abhiSeka* anointment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषिक्ते तु सुग्रीवे सर्वे वानरपुङ्गवाः ।  
 प्रचुक्रुशुर्महात्मानो हृष्टाः शतसहस्रशः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,12 +1324,15 @@ high hullabaloos while Sugreeva is anointed. [4-26-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु वचः कुर्वन् सुग्रीवो वानरेश्वरः ।  
 अङ्गदं सम्परिष्वज्य यौवराज्येऽभ्यषेचयत् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1371,15 @@ Rama's word. [4-26-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदे चाभिषिक्ते तु सानुक्रोशाः प्लवङ्गमाः ।  
 साधु साध्विति सुग्रीवं महात्मानो ह्यपूजयन् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1339,12 +1419,15 @@ done, well done.' [4-26-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं चैव महात्मानं लक्ष्मणं च पुनः पुनः ।  
 प्रीताश्च तुष्टुवुः सर्वे तादृशे तत्र वर्तिनि ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1384,12 +1467,15 @@ the great-souled Rama, and even Lakshmana too. [4-26-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टपुष्टजनाकीर्णा पताकाध्वजशोभिता ।  
 बभूव नगरी रम्या किष्किन्धा गिरिगह्वरे ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,6 +1517,7 @@ and banners is further splendorous with blithe and burly monkeys overspreading i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,6 +1526,8 @@ and banners is further splendorous with blithe and burly monkeys overspreading i
 रुमां च भार्यामुपलभ्य वीर्यवा-  
 नवाप राज्यं त्रिदशाधिपो यथा ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1500,5 +1589,6 @@ Indra. [4-26-42]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तारनॆय सर्ग सम्पूर्णवायितु.॥26॥
+</details>
 </details>
 

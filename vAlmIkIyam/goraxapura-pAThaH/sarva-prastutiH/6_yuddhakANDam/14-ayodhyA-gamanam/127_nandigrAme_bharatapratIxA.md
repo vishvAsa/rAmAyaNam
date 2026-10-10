@@ -1,6 +1,8 @@
 +++
 title = "१२७ नन्दिग्रामे भरतप्रतीक्षा"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ car to return to Kubera, the lord of riches to whom it originally belonged.
 
 127. अयोध्यामें श्रीरामके स्वागतकी तैयारी, भरतके साथ सबका श्रीरामकी अगवानीके लिये नन्दिग्राममें पहुँचना, श्रीरामका आगमन, भरत आदिके साथ उनका मिलाप तथा पुष्पकविमानको कुबेरके पास भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु परमानन्दं भरतः सत्यविक्रमः ।  
 हृष्टमाज्ञापयामास शत्रुघ्नं परवीरहा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ news."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैवतानि च सर्वाणि चैत्यानि नगरस्य च ।  
 सुगन्धमाल्यैर्वादित्रैरर्चन्तु शुचयो नराः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,6 +113,7 @@ city with sweet-smelling flowers and to the accompaniment of musical instruments
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -114,6 +123,8 @@ city with sweet-smelling flowers and to the accompaniment of musical instruments
 ब्राह्मणाश्च सराजन्याः श्रेणीमुख्यास्तथा गणाः ॥ ४ ॥  
 अभिनिर्यान्तु रामस्य द्रष्टुं शशिनिभं मुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,6 +181,7 @@ artisans, as also their members, come out to see the moon-like countenance of Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,6 +189,8 @@ artisans, as also their members, come out to see the moon-like countenance of Ra
 विष्टीरनेकसाहस्रीश्चोदयामास भागशः ।  
 समीकुरुत निम्नानि विषमाणि समानि च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ and the even places be made flat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थानानि च निरस्यन्तां नन्दिग्रामादितः परम् ।  
 सिञ्चन्तु पृथिवीं कृत्स्नां हिमशीतेन वारिणा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,12 +281,15 @@ all over with parched grains and flowers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽभ्यवकिरन्त्वन्ये लाजैः पुष्पैश्च सर्वतः ।  
 समुच्छ्रितपताकास्तु रथ्याः पुरवरोत्तमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +329,15 @@ dwellings (on the road-side) be decorated, till the time of rising of the sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोभयन्तु च वेश्मानि सूर्यस्योदयनं प्रति ।  
 स्रग्दाममुक्तपुष्पैश्च सुवर्णैः पञ्चवर्णकैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,12 +380,15 @@ and with rows of garlands as well as lose flowers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजमार्गमसम्बाधं किरन्तु शतशो नराः ।  
 ततस्तच्छासनं श्रुत्वा शत्रुघ्नस्य मुदान्विताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +405,7 @@ and with rows of garlands as well as lose flowers."
 
 राजबीदियल्लि हॆच्चिन गद्दल इल्लदिरलि, इदर व्यवस्थॆगागि नूरारु जनरु ऎल्लॆडॆ तॊडगलि. शत्रुघ्नन आ आदेशवन्नु केळि ऎल्लरू सन्तोषदिन्द अदन्नु पालिसलु तॊडगिदरु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -386,6 +413,8 @@ and with rows of garlands as well as lose flowers."
 अशोको मन्त्रपालश्च सुमन्त्रश्चापि निर्ययुः ॥ ११ ॥  
 मत्तैर्नागसहस्रैश्च सध्वजैः सुविभूषितैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +455,15 @@ Arthasadhaka, Ashoka, Mantrapala and Sumantra proceeded with joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरे हेमकक्षाभिः सगजाभिः करेणुभिः ॥ १२ ॥  
 निर्ययुस्तुरगाक्रान्ता रथैश्च सुमहारथाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,6 +510,7 @@ chariot-warriors issued forth in their chariots, with speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -485,6 +518,8 @@ chariot-warriors issued forth in their chariots, with speed.
 तुरगाणां सहस्रैश्च मुख्यैर्मुख्यतरान्वितैः ।  
 पदातीनां सहस्रैश्च वीराः परिवृता ययुः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,6 +568,7 @@ foot-soldiers, sallied forth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,6 +576,8 @@ foot-soldiers, sallied forth.
 कौसल्यां प्रमुखे कृत्वा सुमित्रां चापि निर्ययुः ॥ १५ ॥  
 कैकेय्या सहिताः सर्वा नन्दिग्राममुपागमन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,6 +615,7 @@ Nandigrama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,6 +624,8 @@ Nandigrama.
 शङ्खभेरीनिनादैश्च बन्दिभिश्चाभिनन्दितः ।  
 आर्यपादौ गृहीत्वा तु शिरसा धर्मकोविदः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ _________________
 
 धर्मात्मा मत्तु धर्मज्ञनाद भरतनु मुख्य मुख्य ब्राह्मणरिन्द, व्यवसायि वर्गद मुख्यस्थरिन्द, वैश्यरिन्द, कैयल्लि हूविनहार, मिठायि ऎत्तिकॊण्ड मन्त्रिगळिन्द सुत्तुवरिदु अण्णन चरण पादुकॆगळन्नु शिरदल्लि हॊत्तु, शङ्ख, भेरिगळ गम्भीर ध्वनिगळॊन्दिगॆ हॊरटनु. आग वन्दीजनरु अवनन्नु अभिनन्दिसुत्तिद्दरु.॥17-18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरं छत्रमादाय शुक्लमाल्योपशोभितम् ।  
 शुक्ले च वालव्यजने राजार्हे हेमभूषिते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +674,15 @@ _________________
 
 श्वेत मालॆगळिन्द सुशोभित बॆळ्गॊडॆ हागू राजरिगॆ योग्यवाद स्वर्णभूषित ऎरडु चामरगळन्नु अवनु जॊतॆयल्लिरिसिकॊण्डिद्दनु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासकृशो दीनश्चीरकृष्णाजिनाम्बरः ।  
 भ्रातुरागमनं श्रुत्वा तत्पूर्वं हर्षमागतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,6 +742,7 @@ advance, along with his ministers, to meet Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -703,6 +751,8 @@ advance, along with his ministers, to meet Rama."
 शङ्खदुन्दुभिनादेन सञ्चचालेव मेदिनी ।  
 गजानां बृंहितैश्चापि शङ्खदुन्दुभिनिःस्वनैः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +812,15 @@ rims of chariot-wheels and by the tumults of couches and kettle-drums.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्स्नं तु नगरं तत् तु नन्दिग्राममुपागमत् ।  
 समीक्ष्य भरतो वाक्यमुवाच पवनात्मजम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,6 +856,7 @@ destroyer of adversaries."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -810,6 +864,8 @@ destroyer of adversaries."
 नहि पश्यामि काकुत्स्थं राममार्यं परन्तपम् ॥ २४ ॥  
 कच्चिन्न चानुदृश्यन्ते कपयः कामरूपिणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +911,15 @@ situation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैवमुक्ते वचने हनूमानिदमब्रवीत् ॥ २५ ॥  
 अर्थ्यं विज्ञापयन्नेव भरतं सत्यविक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,12 +936,15 @@ situation.
 
 भरतनु हीगॆ हेळिदाग हनुमन्तनु - सत्यपराक्रमि भरतनल्लि सार्थक मत्तु सत्यवाद मातन्नु हेळिदनु.॥25½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदाफलान् कुसुमितान् वृक्षान् प्राप्य मधुस्रवान् ॥ २६ ॥  
 भरद्वाजप्रसादेन मत्तभ्रमरनादितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +964,15 @@ _________________
 
 मुनिवर्य भरद्वाजर कृपॆयिन्द दारिय ऎल्ल वृक्षगळु सदा हूवु-हण्णुगळन्नु बिडुत्तिवॆ; अवुगळिन्द जेनिन धारॆये ऒसरुत्तिदॆ. आ वृक्षगळल्लि मत्त भ्रमरगळु निरन्तर गुञ्जारव माडुत्तिवॆ. अवन्नु पडॆद वानररु तम्म हसिवु-बायिरिकॆयन्नु तणिसि कॊळ्ळलु तॊडगिद्दारॆ.॥26½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चैव वरो दत्तो वासवेन परन्तप ॥ २७ ॥  
 ससैन्यस्य तदातिथ्यं कृतं सर्वगुणान्वितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1022,15 @@ army. I presume that the aforesaid army of monkeys is crossing the rivers, Gomat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःस्वनः श्रूयते भीमः प्रहृष्टानां वनौकसाम् ॥ २८ ॥  
 मन्ये वानरसेना सा नदीं तरति गोमतीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,12 +1070,15 @@ that the monkeys are shaking the beautiful grove of Sala trees."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजोवर्षं समुद्भूतं पश्य सालवनं प्रति ॥ २९ ॥  
 मन्ये सालवनं रम्यं लोलयन्ति प्लवङ्गमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,6 +1121,7 @@ architect of gods, who has been referred to here as Brahma by virtue of his crea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1057,6 +1129,8 @@ architect of gods, who has been referred to here as Brahma by virtue of his crea
 विमानं पुष्पकं दिव्यं मनसा ब्रह्मनिर्मितम् ।  
 रावणं बान्धवैः सार्धं हत्वा लब्धं महात्मना ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1122,12 +1196,15 @@ grace of brahma, the lord of creation. (Who bestowed it on him)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणादित्यसङ्काशं विमानं रामवाहनम् ।  
 धनदस्य प्रसादेन दिव्यमेतन्मनोजवम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1167,12 +1244,15 @@ from the mouth of women, children, youth and elders touched the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन् भ्रातरौ वीरौ वैदेह्या सह राघवौ ।  
 सुग्रीवश्च महातेजा राक्षसश्च विभीषणः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1213,12 +1293,15 @@ all those people saw, like the moon in the sky, that Rama seated in the aerial c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हर्षसमुद्भूतो निःस्वनो दिवमस्पृशत् ।  
 स्त्रीबालयुववृद्धानां रामोऽयमिति कीर्तिते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1258,12 +1341,15 @@ worshipped and welcomed him in a befitting way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथकुञ्जरवाजिभ्यस्तेऽवतीर्य महीं गताः ।  
 ददृशुस्तं विमानस्थं नराः सोममिवाम्बरे ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,12 +1391,15 @@ his hand.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राञ्जलिर्भरतो भूत्वा प्रहृष्टो राघवोन्मुखः ।  
 यथार्थेनार्घ्यपाद्याद्यैस्ततो राममपूजयत् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,12 +1433,15 @@ aerial car and shining like the sun appearing on Mount Meru.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसा ब्रह्मणा सृष्टे विमाने भरताग्रजः ।  
 रराज पृथुदीर्घाक्षो वज्रपाणिरिवामरः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1389,12 +1481,15 @@ with the images of swans, landed on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विमानाग्रगतं भरतो भ्रातरं तदा ।  
 ववन्दे प्रणतो रामं मेरुस्थमिव भास्करम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,12 +1523,15 @@ valour, greeted him yet again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामाभ्यनुज्ञातं तद् विमानमनुत्तमम् ।  
 हंसयुक्तं महावेगं निपपात महीतलम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1476,12 +1574,15 @@ on his lap, Rama delightfully embraced him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोपितो विमानं तद् भरतः सत्यविक्रमः ।  
 राममासाद्य मुदितः पुनरेवाभ्यवादयत् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1522,12 +1623,15 @@ Lakshmana and Seetha, then saluted them in reverence and also announced his name
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समुत्थाय काकुत्स्थश्चिरस्याक्षिपथं गतम् ।  
 अङ्के भरतमारोप्य मुदितः परिषस्वजे ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1561,12 +1665,15 @@ Rishabha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो लक्ष्मणमासाद्य वैदेहीं च परन्तपः ।  
 अथाभ्यवादयत् प्रीतो भरतो नाम चाब्रवीत् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1606,6 +1713,7 @@ surrounding monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1614,6 +1722,8 @@ surrounding monkeys.
 सुषेणं च नलं चैव गवाक्षं गन्धमादनम् ।  
 शरभं पनसं चैव परितः परिषस्वजे ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1672,12 +1782,15 @@ and rejoicingly asked about the welfare of Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कृत्वा मानुषं रूपं वानराः कामरूपिणः ।  
 कुशलं पर्यपृच्छंस्ते प्रहृष्टा भरतं तदा ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1717,12 +1830,15 @@ affection, while malifience is the attribute of an adversary."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाब्रवीद् राजपुत्रः सुग्रीवं वानरर्षभम् ।  
 परिष्वज्य महातेजा भरतो धर्मिणां वरः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1763,12 +1879,15 @@ very difficult task was accomplished by you, as a companion of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमस्माकं चतुर्णां वै भ्राता सुग्रीव पञ्चमः ।  
 सौहृदाज्जायते मित्रमपकारोऽरिलक्षणम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1809,12 +1928,15 @@ and offered his reverential salutation to Seetha's feet, by bowing in humility.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणं च भरतः सान्त्ववाक्यमथाब्रवीत् ।  
 दिष्ट्या त्वया सहायेन कृतं कर्म सुदुष्करम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1855,12 +1977,15 @@ bowing, seized her feet in salutation, making his mother's heart delighted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुघ्नश्च तदा राममभिवाद्य सलक्ष्मणम् ।  
 सीतायाश्चरणौ वीरो विनयादभ्यवादयत् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1904,12 +2029,15 @@ then went to Vasishta the priest and offered his salutation in reverence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो मातरमासाद्य विवर्णां शोककर्शिताम् ।  
 जग्राह प्रणतः पादौ मनो मातुः प्रहर्षयन् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1943,12 +2071,15 @@ great-armed! O the enhancer of Kausala's delight!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य सुमित्रां च कैकेयीं च यशस्विनीम् ।  
 स मातॄश्च ततः सर्वाः पुरोहितमुपागमत् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1991,12 +2122,15 @@ lotus-flowers in bloom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं ते महाबाहो कौसल्यानन्दवर्धन ।  
 इति प्राञ्जलयः सर्वे नागरा राममब्रुवन् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2030,12 +2164,15 @@ placed them below the feet of Rama, the lord of men.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्यञ्जलिसहस्राणि प्रगृहीतानि नागरैः ।  
 व्याकोशानीव पद्मानि ददर्श भरताग्रजः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2076,6 +2213,7 @@ Having offered his salutation with joined palms, Bharata spoke to Rama as follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2083,6 +2221,8 @@ Having offered his salutation with joined palms, Bharata spoke to Rama as follow
 चरणाभ्यां नरेन्द्रस्य योजयामास धर्मवित् ॥ ५४ ॥  
 अब्रवीच्च तदा रामं भरतः स कृताञ्जलिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2124,6 +2264,7 @@ that I see you, its king, come back to Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2131,6 +2272,8 @@ that I see you, its king, come back to Ayodhya."
 अद्य जन्म कृतार्थं मे संवृत्तश्च मनोरथः ।  
 यत् त्वां पश्यामि राजानमयोध्यां पुनरागतम् ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2183,12 +2326,15 @@ enhanced tenfold by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेक्षतां भवान् कोशं कोष्ठागारं गृहं बलम् ।  
 भवतस्तेजसा सर्वं कृतं दशगुणं मया ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2223,12 +2369,15 @@ monkeys and bears) in that aerial car to the hermitage of Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रुवाणं भरतं दृष्ट्वा तं भ्रातृवत्सलम् ।  
 मुमुचुर्वानरा बाष्पं राक्षसश्च विभीषणः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2265,12 +2414,15 @@ anterior of the aerial car and stood, for the time-being, on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहर्षाद् भरतमङ्कमारोप्य राघवः ।  
 ययौ तेन विमानेन ससैन्यो भरताश्रमम् ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2332,12 +2484,15 @@ them (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरताश्रममासाद्य ससैन्यो राघवस्तदा ।  
 अवतीर्य विमानाग्रादवतस्थे महीतले ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2371,12 +2526,15 @@ northern direction, so as t reach the abode of Kubera the lord of riches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् तु तदा रामस्तद् विमानमनुत्तमम् ।  
 वह वैश्रवणं देवमनुजानामि गम्यताम् ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2410,12 +2568,15 @@ to Kubera, as impelled by Rama's advice.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामाभ्यनुज्ञातं तद् विमानमनुत्तमम् ।  
 उत्तरां दिशमुद्दिश्य जगाम धनदालयम् ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2438,12 +2599,15 @@ _________________
 
 श्रीरामकी आज्ञा पाकर वह परम उत्तम विमान उत्तर दिशाको लक्ष्य करके कुबेरके स्थानपर चला गया ॥ ६२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानं पुष्पकं दिव्यं सङ्गृहीतं तु रक्षसा ।  
 अगमद् धनदं वेगाद् रामवाक्यप्रचोदितम् ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2483,6 +2647,7 @@ the valiant Rama sat by his side, on a separate seat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2491,6 +2656,8 @@ the valiant Rama sat by his side, on a separate seat.
 निपीड्य पादौ पृथगासने शुभे  
 सहैव तेनोपविवेश वीर्यवान् ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2519,5 +2686,6 @@ the valiant Rama sat by his side, on a separate seat.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तेळनॆय सर्ग पूर्णवायितु.॥127॥
+</details>
 </details>
 

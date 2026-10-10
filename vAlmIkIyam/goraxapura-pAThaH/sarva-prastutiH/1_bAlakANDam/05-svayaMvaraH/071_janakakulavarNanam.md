@@ -2,6 +2,8 @@
 title = "०७१ जनककुलवर्णनम्"
 title_english = "071 janaka s lineage detailed"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-071-Janaka_Kula_Vruththanthaha.mp3"></div>
 </details>
@@ -9,6 +11,7 @@ title_english = "071 janaka s lineage detailed"
 <details><summary>भागसूचना</summary>
 
 71. राजा जनकका अपने कुलका परिचय देते हुए श्रीराम और लक्ष्मणके लिये क्रमशः सीता और ऊर्मिलाको देनेकी प्रतिज्ञा करना
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18,6 +21,8 @@ title_english = "071 janaka s lineage detailed"
 प्रदाने हि मुनिश्रेष्ठ कुलं निरवशेषतः ।  
 वक्तव्यं कुलजातेन तन्निबोध महामते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ you all... now, it will be apt of you all to listen to our distinguished lineage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजाभूत् त्रिषु लोकेषु विश्रुतः स्वेन कर्मणा ।  
 निमिः परमधर्मात्मा सर्वसत्त्ववतां वरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ seraphic-souled and a best one among all stalwart emperors... [1-71-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पुत्रो मिथिर्नाम जनको मिथिपुत्रकः ।  
 प्रथमो जनको राजा जनकादप्युदावसुः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ that Janaka it is Udaavasu who took birth... [1-71-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदावसोस्तु धर्मात्मा जातो वै नन्दिवर्धनः ।  
 नन्दिवर्धसुतः शूरः सुकेतुर्नाम नामतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ From Udaavasu it is noble souled Nandivardhana took birth, and Nandivardhana's s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकेतोरपि धर्मात्मा देवरातो महाबलः ।  
 देवरातस्य राजर्षेर्बृहद्रथ इति स्मृतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ who took birth, thus we have heard... [1-71-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहद्रथस्य शूरोऽभून्महावीरः प्रतापवान् ।  
 महावीरस्य धृतिमान् सुधृतिः सत्यविक्रमः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ from Mahaaviira... [1-71-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुधृतेरपि धर्मात्मा धृष्टकेतुः सुधार्मिकः ।  
 धृष्टकेतोश्च राजर्षेर्हर्यश्व इति विश्रुतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +336,15 @@ highly renowned Haryashva is the son... [1-71-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्यश्वस्य मरुः पुत्रो मरोः पुत्रः प्रतीन्धकः ।  
 प्रतीन्धकस्य धर्मात्मा राजा कीर्तिरथः सुतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +377,15 @@ Haryashva's son is Maru, and Maru's, son is Pratiindhaka, and the son of Pratiin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रः कीर्तिरथस्यापि देवमीढ इति स्मृतः ।  
 देवमीढस्य विबुधो विबुधस्य महीध्रकः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +420,15 @@ The son of Kiirtiratha is remembered as Devamiidha, and the son of Devamiidha is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महीध्रकसुतो राजा कीर्तिरातो महाबलः ।  
 कीर्तिरातस्य राजर्षेर्महारोमा व्यजायत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +460,15 @@ Mahiidraka's son is the great mighty king Kiirtiraata, and the son born to sagel
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महारोम्णस्तु धर्मात्मा स्वर्णरोमा व्यजायत ।  
 स्वर्णरोम्णस्तु राजर्षेर्ह्रस्वरोमा व्यजायत ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +503,15 @@ From Mahaaroma it is the virtue-souled Swarnaroma, and from kingly sage Swarnaro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पुत्रद्वयं राज्ञो धर्मज्ञस्य महात्मनः ।  
 ज्येष्ठोऽहमनुजो भ्राता मम वीरः कुशध्वजः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +553,15 @@ brave Kushadhvaja... [1-71-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां तु ज्येष्ठं पिता राज्ये सोऽभिषिच्य पिता मम ।  
 कुशध्वजं समावेश्य भारं मयि वनं गतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,12 +600,15 @@ after Kushadhvaja in me, he departed to forests... [1-71-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धे पितरि स्वर्याते धर्मेण धुरमावहम् ।  
 भ्रातरं देवसङ्काशं स्नेहात् पश्यन् कुशध्वजम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +642,15 @@ around the burden of this kingship... [1-71-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित्त्वथ कालस्य साङ्काश्यादागतः पुरात् ।  
 सुधन्वा वीर्यवान् राजा मिथिलामवरोधकः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +691,15 @@ Then after sometime, a valorous king named Sudhanva came beleaguering Mithila, f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च मे प्रेषयामास शैवं धनुरनुत्तमम् ।  
 सीता च कन्या पद्माक्षी मह्यं वै दीयतामिति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +738,15 @@ me... [1-71-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याप्रदानान्महर्षे युद्धमासीन्मया सह ।  
 स हतोऽभिमुखो राजा सुधन्वा तु मया रणे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +785,15 @@ in that war I have put that Sudhanva to the sword..." [1-71-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहत्य तं मुनिश्रेष्ठ सुधन्वानं नराधिपम् ।  
 साङ्काश्ये भ्रातरं शूरमभ्यषिञ्चं कुशध्वजम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +826,15 @@ Saamkaasha... [1-71-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कनीयानेष मे भ्राता अहं ज्येष्ठो महामुने ।  
 ददामि परमप्रीतो वध्वौ ते मुनिपुङ्गव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,6 +876,7 @@ brides with a highly gladdened heart... Seetha for Rama, and Urmila for Lakshman
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -825,6 +885,8 @@ brides with a highly gladdened heart... Seetha for Rama, and Urmila for Lakshman
 द्वितीयामूर्मिलां चैव त्रिर्वदामि न संशयः ।  
 ददामि परमप्रीतो वध्वौ ते मुनिपुङ्गव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +935,15 @@ of 'munipungava.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणयो राजन् गोदानं कारयस्व ह ।  
 पितृकार्यं च भद्रं ते ततो वैवाहिकं कुरु ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,6 +991,7 @@ hair itself is not there...' is the objection. Whether they have hair or not, th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -933,6 +999,8 @@ hair itself is not there...' is the objection. Whether they have hair or not, th
 फल्गुन्यामुत्तरे राजंस्तस्मिन् वैवाहिकं कुरु ।  
 रामलक्ष्मणयोरर्थे दानं कार्यं सुखोदयम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,5 +1067,6 @@ a problem, and dating with Ramayana prospered.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥71॥
+</details>
 </details>
 

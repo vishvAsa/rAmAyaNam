@@ -2,6 +2,8 @@
 title = "०४६ दितिकथा"
 title_english = "046 Lady diti seeks for a son to kill Indra"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -24,12 +26,15 @@ Diti seeks for a son to kill Indra because Indra and other gods have
 
 46. पुत्रवधसे दुःखी दितिका कश्यपजीसे इन्द्रहन्ता पुत्रकी प्राप्तिके उद्देश्यसे तपके लिये आज्ञा लेकर कुशप्लवमें तप करना, इन्द्रद्वारा उनकी परिचर्या तथा उन्हें अपवित्र अवस्थामें पाकर इन्द्रका उनके गर्भके सात टुकड़े कर डालना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतेषु तेषु पुत्रेषु दितिः परमदुःखिता ।  
 मारीचं कश्यपं नाम भर्तारमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ Diti seeks for a son to kill Indra because Indra and other gods have
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतपुत्रास्मि भगवंस्तव पुत्रौर्महाबलैः ।  
 शक्रहन्तारमिच्छामि पुत्रं दीर्घतपोर्जितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ Oh, god, I am bereaved of my sons who are killed by your great mighty
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहं तपश्चरिष्यामि गर्भं मे दातुमर्हसि ।  
 ईश्वरं शक्रहन्तारं त्वमनुज्ञातुमर्हसि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ A sage's wife requires permission of her husband if she wishes to undertake
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा मारीचः कश्यपस्तदा ।  
 प्रत्युवाच महातेजा दितिं परमदुःखिताम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ On hearing her request the great resplendent sage Kaashyapa, the son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं भवतु भद्रं ते शुचिर्भव तपोधने ।  
 जनयिष्यसि पुत्रं त्वं शक्रहन्तारमाहवे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,12 +267,15 @@ On hearing her request the great resplendent sage Kaashyapa, the son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे वर्षसहस्रे तु शुचिर्यदि भविष्यसि ।  
 पुत्रं त्रैलोक्यहन्तारं मत्तस्त्वं जनयिष्यसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ In some other versions the word *trailokyahantaaram* is carried
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजाः पाणिना सम्ममार्ज ताम् ।  
 तामालभ्य ततः स्वस्ति इत्युक्त्वा तपसे ययौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,12 +376,15 @@ Saying thus that great resplendent sage patted her, and then on his
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते तस्मिन् नरश्रेष्ठ दितिः परमहर्षिता ।  
 कुशप्लवं समासाद्य तपस्तेपे सुदारुणम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,12 +427,15 @@ On the exit of Sage Kaashyapa, oh, best one among men Rama, highly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपस्तस्यां हि कुर्वत्यां परिचर्यां चकार ह ।  
 सहस्राक्षो नरश्रेष्ठ परया गुणसम्पदा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ While she is truly practising asceticism, oh, the best among men Rama,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निं कुशान् काष्ठमपः फलं मूलं तथैव च ।  
 न्यवेदयत् सहस्राक्षो यच्चान्यदपि काङ्क्षितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +519,15 @@ The Thousand-eyed god Indra made available fire, firewood, water, the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गात्रसंवाहनैश्चैव श्रमापनयनैस्तथा ।  
 शक्रः सर्वेषु कालेषु दितिं परिचचार ह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ All the time Indra indeed served Diti by massaging her body, and other
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे वर्षसहस्रे सा दशोने रघुनन्दन ।  
 दितिः परमसंहृष्टा सहस्राक्षमथाब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +614,15 @@ Oh, Rama, the descendent of Raghu, when ten years are less to complete
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपश्चरन्त्या वर्षाणि दश वीर्यवतां वर ।  
 अवशिष्टानि भद्रं ते भ्रातरं द्रक्ष्यसे ततः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +661,15 @@ Oh, best one among the valiant ones, Indra, to me who am practising
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमहं त्वत्कृते पुत्र तमाधास्ये जयोत्सुकम् ।  
 त्रैलोक्यविजयं पुत्र सह भोक्ष्यसि विज्वर ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +721,15 @@ Oh, son Indra, whom I am now bringing up, will be enthusiastic in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याचितेन सुरश्रेष्ठ पित्रा तव महात्मना ।  
 वरो वर्षसहस्रान्ते मम दत्तः सुतं प्रति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -728,12 +775,15 @@ Oh, best one among gods, Indra, on my prayer your high-souled father
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा च दितिस्तत्र प्राप्ते मध्यं दिनेश्वरे ।  
 निद्रयापहृता देवी पादौ कृत्वाथ शीर्षतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +835,15 @@ Hence her meticulousness is defeated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा तामशुचिं शक्रः पादयोः कृतमूर्धजाम् ।  
 शिरःस्थाने कृतौ पादौ जहास च मुमोद च ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +879,15 @@ On observing her who has become impious by placing her head at feet-side
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः शरीरविवरं प्रविवेश पुरन्दरः ।  
 गर्भं च सप्तधा राम चिच्छेद परमात्मवान् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +924,15 @@ Oh, Rama, being a highly courageous one, Indra the destroyer of enemy
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिद्यमानस्ततो गर्भो वज्रेण शतपर्वणा ।  
 रुरोद सुस्वरं राम ततो दितिरबुध्यत ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +970,15 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा रुदो मा रुदश्चेति गर्भं शक्रोऽभ्यभाषत ।  
 बिभेद च महातेजा रुदन्तमपि वासवः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1014,15 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हन्तव्यं न हन्तव्यमित्येव दितिरब्रवीत् ।  
 निष्पपात ततः शक्रो मातुर्वचनगौरवात् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,6 +1064,7 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1007,6 +1073,8 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 तदन्तरमहं लब्ध्वा शक्रहन्तारमाहवे ।  
 अभिन्दं सप्तधा देवि तन्मे त्वं क्षन्तुमर्हसि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,5 +1147,6 @@ Indra humbly folding his palms that are still handling his bloody Thunderbolt
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तारनॆय सर्ग पूर्णवायितु.॥46॥
+</details>
 </details>
 

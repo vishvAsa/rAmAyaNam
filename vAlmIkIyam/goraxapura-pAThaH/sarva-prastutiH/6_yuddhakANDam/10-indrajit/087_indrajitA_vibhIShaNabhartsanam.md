@@ -2,6 +2,8 @@
 title = "०८७ इन्द्रजिता विभीषणभर्त्सनम्"
 title_english = "087 Indrajit s harsh words to Vibhishana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ survive under the range of Lakshmana's arrows.
 
 87. इन्द्रजित् और विभीषणकी रोषपूर्ण बातचीत
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सौमित्रिं जातहर्षो विभीषणः ।  
 धनुष्पाणिं तमादाय त्वरमाणो जगाम सः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ his hand, felt rejoiced and hastened away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविदूरं ततो गत्वा प्रविश्य तु महद् वनम् ।  
 अदर्शयत तत्कर्म लक्ष्मणाय विभीषणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ showed to Lakshmana, the place where Indrajit was going to pour oblations into t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलजीमूतसङ्काशं न्यग्रोधं भीमदर्शनम् ।  
 तेजस्वी रावणभ्राता लक्ष्मणाय न्यवेदयत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +164,15 @@ blace cloud (and spoke as follows).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहोपहारं भूतानां बलवान् रावणात्मजः ।  
 उपहृत्य ततः पश्चात् सङ्ग्राममभिवर्तते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -198,12 +212,15 @@ to the battle afterwards."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृश्यः सर्वभूतानां ततो भवति राक्षसः ।  
 निहन्ति समरे शत्रून् बध्नाति च शरोत्तमैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ and binds some with his excellent arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्रविष्टं न्यग्रोधं बलिनं रावणात्मजम् ।  
 विध्वंसय शरैर्दीप्तैः सरथं साश्वसारथिम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +306,15 @@ releasing your blazing arrows, even while he has not reached the banyan tree."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेत्युक्त्वा महातेजाः सौमित्रिर्मित्रनन्दनः ।  
 बभूवावस्थितस्तत्र चित्रं विस्फारयन् धनुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,12 +348,15 @@ his stand there, twanging his bow at full length.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रथेनाग्निवर्णेन बलवान् रावणात्मजः ।  
 इन्द्रजित् कवची खड्गी सध्वजः प्रत्यदृश्यत ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +394,15 @@ distinguished by his ensign, appeared in a fire-coloured chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महातेजाः पौलस्त्यमपराजितम् ।  
 समाह्वये त्वां समरे सम्यग् युद्धं प्रयच्छ मे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,12 +438,15 @@ in a right manner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महातेजा मनस्वी रावणात्मजः ।  
 अब्रवीत् परुषं वाक्यं तत्र दृष्ट्वा विभीषणम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ seeing Vibhishana there, spoke the following harsh words to him:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह त्वं जातसंवृद्धः साक्षात् भ्राता पितुर्मम ।  
 कथं द्रुह्यसि पुत्रस्य पितृव्यो मम राक्षस ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +533,15 @@ and a paternal uncle to me. How can you be hostile to a son?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ज्ञातित्वं न सौहार्दं न जातिस्तव दुर्मते ।  
 प्रमाणं न च सौदर्यं न धर्मो धर्मदूषण ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,12 +585,15 @@ you, nor friendliness, nor pride of birth, nor a brotherly feeling nor a right c
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोच्यस्त्वमसि दुर्बुद्धे निन्दनीयश्च साधुभिः ।  
 यस्त्वं स्वजनमुत्सृज्य परभृत्यत्वमागतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +628,15 @@ in that having abandoned your onw kind, you have entered into the service of our
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतच्छिथिलया बुद्ध्या त्वं वेत्सि महदन्तरम् ।  
 क्व च स्वजनसंवासः क्व च नीच पराश्रयः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,12 +671,15 @@ living together with one's own kindred and where is taking refuge with low kind 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुणवान् वा परजनः स्वजनो निर्गुणोऽपि वा ।  
 निर्गुणः स्वजनः श्रेयान् यः परः पर एव सः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +713,15 @@ though bereft of merit is preferable. An enemy is, indeed, ever an enemy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः स्वपक्षं परित्यज्य परपक्षं निषेवते ।  
 स स्वपक्षे क्षयं याते पश्चात् तैरेव हन्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +762,15 @@ own knsmen are destroyed just by those people of the other side."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरनुक्रोशता चेयं यादृशी ते निशाचर ।  
 स्वजनेन त्वया शक्यं पौरुषं रावणानुज ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +810,15 @@ exhibited by you (in bringing Lakshmana here) could be possible only by you, our
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तो भ्रातृपुत्रेण प्रत्युवाच विभीषणः ।  
 अजानन्निव मच्छीलं किं राक्षस विकत्थसे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,6 +852,7 @@ do you speak perversely, as though you are not aware of my nature."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -803,6 +860,8 @@ do you speak perversely, as though you are not aware of my nature."
 कुले यद्यप्यहं जातो रक्षसां क्रूरकर्मणाम् ।  
 गुणो यः प्रथमो नॄणां तन्मे शीलमराक्षसम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,12 +906,15 @@ which is prime virtue of human beings and it is not demoniacal."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न रमे दारुणेनाहं न चाधर्मेण वै रमे ।  
 भ्रात्रा विषमशीलोऽपि कथं भ्राता निरस्यते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +955,15 @@ be driven away by his brother, even if the former's nature is different?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मात् प्रच्युतशीलं हि पुरुषं पापनिश्चयम् ।  
 त्यक्त्वा सुखमवाप्नोति हस्तादाशीविषं यथा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1004,15 @@ one attains happiness, as one shakes off a venomous serpent from his hand."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्वहरणे युक्तं परदाराभिमर्शकम् ।  
 त्याज्यमाहुर्दुरात्मानं वेश्म प्रज्वलितं यथा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -988,12 +1056,15 @@ flames."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्वानां च हरणं परदाराभिमर्शनम् ।  
 सुहृदामतिशङ्का च त्रयो दोषाः क्षयावहाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1033,6 +1104,7 @@ another's wife and excessive distrust with one's friends."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1041,6 +1113,8 @@ another's wife and excessive distrust with one's friends."
 एते दोषा मम भ्रातुर्जीवितैश्वर्यनाशनाः ।  
 गुणान् प्रच्छादयामासुः पर्वतानिव तोयदाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1169,15 @@ mountains."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दोषैरेतैः परित्यक्तो मया भ्राता पिता तव ।  
 नेयमस्ति पुरी लङ्का न च त्वं न च ते पिता ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1135,12 +1212,15 @@ me. Neither will this City of Lanka will exist any longer nor you nor your fathe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिमानश्च बालश्च दुर्विनीतश्च राक्षस ।  
 बद्धस्त्वं कालपाशेन ब्रूहि मां यद् यदिच्छसि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1263,15 @@ indisciplined and caught, as you are, in the noose of Death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येह व्यसनं प्राप्तं यन्मां परुषमुक्तवान् ।  
 प्रवेष्टुं न त्वया शक्यं न्यग्रोधं राक्षसाधम ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1229,6 +1312,7 @@ me today. You cannot reach the banyan-tree any longer."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1236,6 +1320,8 @@ me today. You cannot reach the banyan-tree any longer."
 युध्यस्व नरदेवेन लक्ष्मणेन रणे सह ।  
 हतस्त्वं देवताकार्यं करिष्यसि यमक्षयम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1284,6 +1370,7 @@ abode of Yama, the god of Death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1292,6 +1379,8 @@ abode of Yama, the god of Death."
 न लक्ष्मणस्यैत्य हि बाणगोचरं  
 त्वमद्य जीवन् सबलो गमिष्यसि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,5 +1433,6 @@ today."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तेळनॆय सर्ग पूर्णवायितु.॥87॥
+</details>
 </details>
 

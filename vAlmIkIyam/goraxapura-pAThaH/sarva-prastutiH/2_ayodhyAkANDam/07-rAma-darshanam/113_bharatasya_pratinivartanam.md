@@ -2,6 +2,8 @@
 title = "११३ भरतस्य प्रतिनिवर्तनम्"
 title_english = "113 Keeping Rama s sandals on his head Bharata ascends his chariot"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ peace and harmony in Ayodhya.
 
 113. भरतका भरद्वाजसे मिलते हुए अयोध्याको लौट आना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शिरसि कृत्वा तु पादुके भरतस्तदा ।  
 आरुरोह रथं हृष्टः शत्रुघ्नसहितस्तदा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ chariot along with Shatrughna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठो वामदेवश्च जाबालिश्च दृढव्रतः ।  
 अग्रतः प्रययुः सर्वे मन्त्रिणो मन्त्रपूजिताः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ distinguished for their counsels, went ahead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्दाकिनीं नदीं रम्यां प्राङ्मुखास्ते ययुस्तदा ।  
 प्रदक्षिणं च कुर्वाणाश्चित्रकूटं महागिरिम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ of Chitrakuta Mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यन् धातुसहस्राणि रम्याणि विविधानि च ।  
 प्रययौ तस्य पार्श्वेन ससैन्यो भरतस्तदा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ with his troops along the side of the mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदूराच्चित्रकूटस्य ददर्श भरतस्तदा ।  
 आश्रमं यत्र स मुनिर्भरद्वाजः कृतालयः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ Bharadwaja resided.
 
 * यह आश्रम यमुनासे दक्षिण दिशामें चित्रकूटके कुछ निकट था । गङ्गा और यमुनाके बीच प्रयागवाला आश्रम, जहाँ वनमें जाते समय श्रीरामचन्द्रजी तथा भरत आदिने विश्राम किया था, इससे भिन्न जान पड़ता है । तभी इस आश्रमपर भरद्वाजसे मिलनेके बाद भरत आदिके यमुना पार करनेका उल्लेख मिलता है—‘ततस्ते यमुनां दिव्यां नदीं तीर्त्वोर्मिमालिनीम् ।’ इस द्वितीय आश्रमसे श्रीराम और भरतके समागमका समाचार शीघ्र प्राप्त हो सकता था; इसीलिये भरद्वाजजी भरतके लौटनेके समय यहीं मौजूद थे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमाश्रममागम्य भरद्वाजस्य वीर्यवान् ।  
 अवतीर्य रथात् पादौ ववन्दे कुलनन्दनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ descended from his chariot and bowed down to the feet of Bharadwaja in saluation
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हृष्टो भरद्वाजो भरतं वाक्यमब्रवीत् ।  
 अपि कृत्यं कृतं तात रामेण च समागतम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,12 +372,15 @@ purpose been accomplished? Have you met Rama?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स तु ततो भरद्वाजेन धीमता ।  
 प्रत्युवाच भरद्वाजं भरतो धर्मवत्सलः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,12 +420,15 @@ towards his brothers, replied to Bharadvaja (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स याच्यमानो गुरुणा मया च दृढविक्रमः ।  
 राघवः परमप्रीतो वसिष्ठं वाक्यमब्रवीत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +468,15 @@ resolve and most cheerfully spoke the following words to Vasishta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुः प्रतिज्ञां तामेव पालयिष्यामि तत्त्वतः ।  
 चतुर्दश हि वर्षाणि या प्रतिज्ञा पितुर्मम ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,12 +516,15 @@ fourteen years as I promised him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महाप्राज्ञो वसिष्ठः प्रत्युवाच ह ।  
 वाक्यज्ञो वाक्यकुशलं राघवं वचनं महत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +568,15 @@ expression, replied to Rama who is the most skilful of orators, in the following
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते प्रयच्छ संहृष्टः पादुके हेमभूषिते ।  
 अयोध्यायां महाप्राज्ञ योगक्षेमकरो भव ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -578,12 +616,15 @@ yours on us and ensure peace and harmony in Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो वसिष्ठेन राघवः प्राङ्मुखः स्थितः ।  
 पादुके हेमविकृते मम राज्याय ते ददौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,12 +664,15 @@ feet in those sandals and gave them to me as a sign of regency."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तोऽहमनुज्ञातो रामेण सुमहात्मना ।  
 अयोध्यामेव गच्छामि गृहीत्वा पादुके शुभे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +712,15 @@ auspicious sandals. Now, I am proceeding to Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा शुभं वाक्यं भरतस्य महात्मनः ।  
 भरद्वाजः शुभतरं मुनिर्वाक्यमुदाहरत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +760,15 @@ to him the following words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतच्चित्रं नरव्याघ्रे शीलवृत्तविदां वरे ।  
 यदार्यं त्वयि तिष्ठेत्तु निम्नोत्सृष्टमिवोदकम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -763,12 +813,15 @@ to go, always settles downwards."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृणः स महाबाहुः पिता दशरथस्तव ।  
 यस्य त्वमीदृशः पुत्रो धर्मात्मा धर्मवत्सलः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,12 +862,15 @@ knower of righteousness and loving peity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमृषिं तु महाप्राज्ञमुक्तवाक्यं कृताञ्जलिः ।  
 आमन्त्रयितुमारेभे चरणावुपगृह्य च ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +912,15 @@ salutation and began taking leave from him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रदक्षिणं कृत्वा भरद्वाजं पुनः पुनः ।  
 भरतस्तु ययौ श्रीमानयोध्यां सह मन्त्रिभिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +961,15 @@ proceeded to Ayodhya along with hims ministers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानैश्च शकटैश्चैव हयैर्नागैश्च सा चमूः ।  
 पुनर्निवृत्ता विस्तीर्णा भरतस्यानुयायिनी ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1009,15 @@ turned back again towards Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते यमुनां दिव्यां नदीं तीर्त्वोर्मिमालिनीम् ।  
 ददृशुस्तां पुनः सर्वे गङ्गां शिवजलां नदीम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,12 +1058,15 @@ moreover saw the River Ganga with its pure water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रम्यजलसम्पूर्णां सन्तीर्य सहबान्धवः ।  
 शृङ्गवेरपुरं रम्यं प्रविवेश ससैनिकः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,6 +1110,7 @@ again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1049,6 +1118,8 @@ again.
 अयोध्यां तु तदा दृष्ट्वा पित्रा भ्रात्रा विवर्जिताम् ॥ २३ ॥  
 भरतो दुःखसन्तप्तः सारथिं चेदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,12 +1160,15 @@ tormented with grief, spoke the following words to the charioteer:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारथे पश्य विध्वस्ता अयोध्या न प्रकाशते ॥ २४ ॥  
 निराकारा निरानन्दा दीना प्रतिहतस्वना ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,5 +1212,6 @@ miserable, and with an impeded voice."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिमूरनॆय सर्ग पूर्णवायितु ॥113॥
+</details>
 </details>
 

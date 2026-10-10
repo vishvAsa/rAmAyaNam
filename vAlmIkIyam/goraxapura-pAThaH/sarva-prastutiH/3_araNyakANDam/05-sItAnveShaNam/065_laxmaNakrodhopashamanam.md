@@ -2,6 +2,8 @@
 title = "०६५ लक्ष्मणक्रोधोपशमनम्"
 title_english = "065 Lakshmana pacifies Rama s fury"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,6 +25,7 @@ search, then that which is appropriate to the situation obtaining then, it can b
 
 65. लक्ष्मणका श्रीरामको समझा-बुझाकर शान्त करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -33,6 +36,8 @@ search, then that which is appropriate to the situation obtaining then, it can b
 अदृष्टपूर्वं सङ्क्रुद्धं दृष्ट्वा रामं स लक्ष्मणः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं मुखेन परिशुष्यता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -100,12 +105,15 @@ not seen previously, became pale-faced and spoke to Rama with folded palms. [3-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा भूत्वा मृदुर्दान्तः सर्वभूतहिते रतः ।  
 न क्रोधवशमापन्नः प्रकृतिं हातुमर्हसि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,12 +155,15 @@ disposition, which is unapt of you... [3-65-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रे लक्ष्मीः प्रभा सूर्ये गतिर्वायौ भुवि क्षमा ।  
 एतच्च नियतं नित्यं त्वयि चानुत्तमं यशः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +204,15 @@ perpetual and all this perpetuity is available in you, besides an unexcelled hon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकस्य नापराधेन लोकान् हन्तुं त्वमर्हसि ।  
 ननु जानामि कस्यायं भग्नः साङ्ग्रामिको रथः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,6 +259,7 @@ weaponry and paraphernalia... [3-65-6, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,6 +270,8 @@ weaponry and paraphernalia... [3-65-6, 7a]
 नहि वृत्तं हि पश्यामि बलस्य महतः पदम् ।  
 नैकस्य तु कृते लोकान् विनाशयितुमर्हसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +365,15 @@ combat is fought and stalled at this place... [3-65-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युक्तदण्डा हि मृदवः प्रशान्ता वसुधाधिपाः ।  
 सदा त्वं सर्वभूतानां शरण्यः परमा गतिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,6 +414,7 @@ grace... [3-65-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,6 +422,8 @@ grace... [3-65-10b, 11a]
 सरितः सागराः शैला देवगन्धर्वदानवाः ॥ ११ ॥  
 नालं ते विप्रियं कर्तुं दीक्षितस्येव साधवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,11 +468,14 @@ cannot evoke indignation in you, because they are always gentle to you... isn't 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन राजन् हृता सीता तमन्वेषितुमर्हसि ॥ १२ ॥ मद‍‍‍्द्वितीयो धनुष्पाणिः सहायैः परमर्षिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,6 +519,7 @@ this forest... [3-65-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +530,8 @@ this forest... [3-65-12b, 13a]
 न चेत् साम्ना प्रदास्यन्ति पत्नीं ते त्रिदशेश्वराः ।  
 कोसलेन्द्र ततः पश्चात् प्राप्तकालं करिष्यसि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,6 +615,7 @@ different lotus-lakes... [3-65-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -594,6 +624,8 @@ different lotus-lakes... [3-65-13b, 14a]
 ततः समुत्सादय हेमपुङ्खै-  
 र्महेन्द्रवज्रप्रतिमैः शरौघैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,5 +686,6 @@ trajectories..." Thus Lakshmana appealed to ireful Rama. [3-65-16]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अवरत्तैदनॆय सर्ग सम्पूर्णवायितु. ॥65॥
+</details>
 </details>
 

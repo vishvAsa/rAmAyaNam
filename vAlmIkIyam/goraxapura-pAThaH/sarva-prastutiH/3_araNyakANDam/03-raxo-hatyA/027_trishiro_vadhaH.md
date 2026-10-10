@@ -2,6 +2,8 @@
 title = "०२७ त्रिशिरो वधः"
 title_english = "027 Elimination of Trishira"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The
@@ -22,12 +24,15 @@ eliminates Trishira in the battle.
 
 27. त्रिशिराका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरं तु रामाभिमुखं प्रयान्तं वाहिनीपतिः ।  
 राक्षसस्त्रिशिरा नाम सन्निपत्येदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ named Trishira spoke this to him. [3-27-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां नियोजय विक्रान्तं त्वं निवर्तस्व साहसात् ।  
 पश्य रामं महाबाहुं संयुगे विनिपातितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ Arjuna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिजानामि ते सत्यमायुधं चाहमालभे ।  
 यथा रामं वधिष्यामि वधार्हं सर्वरक्षसाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ all the demons by killing. [3-27-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं वास्य रणे मृत्युरेष वा समरे मम ।  
 विनिवर्त्य रणोत्साहं मुहूर्तं प्राश्निको भव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ a judge...' in its fine sense. Secondarily, it is 'a witness' 'a spectator.' [Af
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टो वा हते रामे जनस्थानं प्रयास्यसि ।  
 मयि वा निहते रामं संयुगाय प्रयास्यसि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,12 +283,15 @@ have your turn to get salvation at Rama's arrows...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरस्त्रिशिरसा तेन मृत्युलोभात् प्रसादितः ।  
 गच्छ युध्येत्यनुज्ञातो राघवाभिमुखो ययौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +334,15 @@ and thus permitted, Trishira proceeded to the forefront of Rama. [3-27-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिशिरास्तु रथेनैव वाजियुक्तेन भास्वता ।  
 अभ्यद्रवद् रणे रामं त्रिशृङ्ग इव पर्वतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,12 +381,15 @@ that war, like a tri-peaked mountain, for they say, he is a tri-headed demon. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरधारासमूहान् स महामेघ इवोत्सृजन् ।  
 व्यसृजत् सदृशं नादं जलार्द्रस्येव दुन्दुभेः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,12 +430,15 @@ to the thudding drumbeat when a water-wet war-drum is beaten, rather than a blas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगच्छन्तं त्रिशिरसं राक्षसं प्रेक्ष्य राघवः ।  
 धनुषा प्रतिजग्राह विधुन्वन् सायकान् शितान् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ from his bow. [3-27-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्रहारस्तुमुलो रामत्रिशिरसोस्तदा ।  
 सम्बभूवातिबलिनोः सिंहकुञ्जरयोरिव ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ encounter between a loin and an elephant. [3-27-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्रिशिरसा बाणैर्ललाटे ताडितस्त्रिभिः ।  
 अमर्षी कुपितो रामः संरब्ध इदमब्रवीत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,6 +573,7 @@ and he franticly said this to that demon. [3-27-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -545,6 +581,8 @@ and he franticly said this to that demon. [3-27-11]
 पुष्पैरिव शरैर्योऽहं ललाटेऽस्मि परिक्षतः ॥ १२ ॥  
 ममापि प्रतिगृह्णीष्व शरांश्चापगुणाच्च्युतान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,12 +628,15 @@ me, whose arrows rap my forehead peripherally, like flowers! [3-27-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुसंरब्धः शरानाशीविषोपमान् ॥ १३ ॥  
 त्रिशिरोवक्षसि क्रुद्धो निजघान चतुर्दश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +680,7 @@ his alacritous swiftness hit the chest of Trishira with fourteen arrows similar 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -646,6 +688,8 @@ his alacritous swiftness hit the chest of Trishira with fourteen arrows similar 
 न्यपातयत तेजस्वी चतुरस्तस्य वाजिनः ।  
 अष्टभिः सायकैः सूतं रथोपस्थे न्यपातयत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,6 +754,7 @@ four of the speedy horses of Trishira's chariot. [3-27-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -717,6 +762,8 @@ four of the speedy horses of Trishira's chariot. [3-27-14b, 15a]
 ततो हतरथात् तस्मादुत्पतन्तं निशाचरम् ॥ १६ ॥  
 चिच्छेद रामस्तं बाणैर्हृदये सोऽभवज्जडः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +808,15 @@ and he that Trishira became inert. [3-27-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सायकैश्चाप्रमेयात्मा सामर्षस्तस्य रक्षसः ॥ १७ ॥  
 शिरांस्यपातयत् त्रीणि वेगवद्भिस्त्रिभिः शरैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,12 +860,15 @@ rolled the three heads that demon. [3-27-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स धूमशोणितोद‍्गारी रामबाणाभिपीडितः ॥ १८ ॥  
 न्यपतत् पतितैः पूर्वं समरस्थो निशाचरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +907,15 @@ he is standing in war, at where his three heads rolled just now. [3-27-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतशेषास्ततो भग्ना राक्षसाः खरसंश्रयाः ॥ १९ ॥  
 द्रवन्ति स्म न तिष्ठन्ति व्याघ्रत्रस्ता मृगा इव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,12 +957,15 @@ protected so far and whose confidence is now shattered, are running away, and th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् खरो द्रवतो दृष्ट्वा निवर्त्य रुषितस्त्वरन् ।  
 राममेवाभिदुद्राव राहुश्चन्द्रमसं यथा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -959,5 +1018,6 @@ Rama alone. [3-27-20b, c]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तेळनॆय सर्ग सम्पूर्णवायितु. ॥27॥
+</details>
 </details>
 

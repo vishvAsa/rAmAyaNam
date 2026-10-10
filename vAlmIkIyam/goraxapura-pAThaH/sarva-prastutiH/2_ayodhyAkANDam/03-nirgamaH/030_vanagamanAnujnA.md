@@ -2,6 +2,8 @@
 title = "०३० वनगमनानुज्ञा"
 title_english = "030 Rama agrees to take Seetha to the forest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ and asks her to give away her personal belongings to Brahmins in charity before 
 
 30. सीताका वनमें चलनेके लिये अधिक आग्रह, विलाप और घबराहट देखकर श्रीरामका उन्हें साथ ले चलनेकी स्वीकृति देना, पिता-माता और गुरुजनोंकी सेवाका महत्त्व बताना तथा सीताको वनमें चलनेकी तैयारीके लिये घरकी वस्तुओंका दान करनेकी आज्ञा देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सान्त्व्यमाना तु रामेण मैथिली जनकात्मजा ।  
 वनवासनिमित्तार्थं भर्तारमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ forest, spoke the following words to her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तमुत्तमसंविग्ना सीता विपुलवक्षसम् ।  
 प्रणयाच्चाभिमानाच्च परिचिक्षेप राघवम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ chest, from affection and pride in the following words:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं त्वामन्यत वैदेहः पिता मे मिथिलाधिपः ।  
 राम जामातरं प्राप्य स्त्रियं पुरुषविग्रहम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ himself having got as so-in-law you, a woman having the form of a man?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतं बत लोकोऽयमज्ञानाद् यदि वक्ष्यति ।  
 तेजो नास्ति परं रामे तपतीव दिवाकरे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ excellent valour is lacking in Rama as in a blazing sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं हि कृत्वा विषण्णस्त्वं कुतो वा भयमस्ति ते ।  
 यत् परित्यक्तुकामस्त्वं मामनन्यपरायणाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ to desert me, for whom there is no other recourse."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्युमत्सेनसुतं वीरं सत्यवन्तमनुव्रताम् ।  
 सावित्रीमिव मां विद्धि त्वमात्मवशवर्तिनीम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +313,15 @@ to Satyavan the son of Dyumatsena."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वहं मनसा त्वन्यं द्रष्टास्मि त्वदृतेऽनघ ।  
 त्वया राघव गच्छेयं यथान्या कुलपांसनी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,6 +362,7 @@ other woman bringing disrepute to her family would! I shall accompany you to the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -347,6 +371,8 @@ other woman bringing disrepute to her family would! I shall accompany you to the
 शैलूष इव मां राम  
 परेभ्यो **दातुम् इच्छसि** ॥ ८ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +438,15 @@ your wife. How would you like an actor intend to deliver me to oehrs by your own
 ಪತಿಯು ತನ್ನನ್ನು ಜೊತೆಗೆ ಕರೆದೊಯ್ದಾನೆಂದು ಸೀತೆಯ ಹವಣು.  
 ಹೀಗೆ ಆಕೆಯ ಆಕ್ಷೇಪದ ಹಿಂದಿರುವುದು ಅನುರಾಗವು ಹೂಡಿದ ತಂತ್ರವಲ್ಲದೆ ಕುತ್ತಿತವಾದ ನಿಂದೆಯಲ್ಲ.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य पथ्यञ्चरामात्थ यस्य चार्थेऽवरुध्यसे ।  
 त्वं तस्य भव वश्यश्च विधेयश्च सदानघ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +488,15 @@ him)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मामनादाय वनं न त्वं प्रस्थितुमर्हसि ।  
 तपो वा यदि वारण्यं स्वर्गो वा स्यात् त्वया सह ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ term of austerities or forest or even heaven, let it be to me with you only."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च मे भविता तत्र कश्चित् पथि परिश्रमः ।  
 पृष्ठतस्तव गच्छन्त्या विहारशयनेष्विव ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +585,15 @@ path without any fatigue, as remaining in a place of recreation or as in a sleep
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशकाशशरेषीका ये च कण्टकिनो द्रुमाः ।  
 तूलाजिनसमस्पर्शा मार्गे मम सह त्वया ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +637,15 @@ cotton or soft deerskin."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महावातसमुद्भूतं यन्मामवकरिष्यति ।  
 रजो रमण तन्मन्ये परार्घ्यमिव चन्दनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,12 +688,15 @@ my body as sandal dust of highest advantage."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाद्वलेषु यदा शिश्ये वनान्तर्वनगोचरा ।  
 कुथास्तरणयुक्तेषु किं स्यात् सुखतरं ततः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +740,15 @@ lying in beds with carpets be more comfortable than that?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्रं मूलं फलं यत्तु अल्पं वा यदि वा बहु ।  
 दास्यसे स्वयमाहृत्य तन्मेऽमृतरसोपमम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +789,15 @@ by you yourself will be like nectar to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मातुर्न पितुस्तत्र स्मरिष्यामि न वेश्मनः ।  
 आर्तवान्युपभुञ्जाना पुष्पाणि च फलानि च ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +837,15 @@ recollect my mother nor father nor my home."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तत्र ततः किञ्चिद् द्रष्टुमर्हसि विप्रियम् ।  
 मत्कृते न च ते शोको न भविष्यामि दुर्भरा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +889,15 @@ annoyance to you because of me. I will not be difficult to be maintained."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्त्वया सह स स्वर्गो निरयो यस्त्वया विना ।  
 इति जानन् परां प्रीतिं गच्छ राम मया सह ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -885,12 +941,15 @@ Rama! By knowing thus my great love, obtain supreme joy with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मामेवमव्यग्रां वनं नैव नयिष्यसे ।  
 विषमद्यैव पास्यामि मा वशं द्विषतां गमम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +993,15 @@ shall drink poison now itself. But on no account would I bow to the enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्चादपि हि दुःखेन मम नैवास्ति जीवितम् ।  
 उज्झितायास्त्वया नाथ तदैव मरणं वरम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1042,15 @@ abandoned by you. Death is therefore better at the time of your relinquishment i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमं हि सहितुं शोकं मुहूर्तमपि नोत्सहे ।  
 किं पुनर्दश वर्षाणि त्रीणि चैकं च दुःखिता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1025,12 +1090,15 @@ misery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सा शोकसन्तप्ता विलप्य करुणं बहु ।  
 चुक्रोश पतिमायस्ता भृशमालिङ्ग्य सस्वरम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1070,12 +1138,15 @@ husband and cried a lot with loud voice.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विद्धा बहुभिर्वाक्यैर्दिग्धैरिव गजाङ्गना ।  
 चिरसन्नियतं बाष्पं मुमोचाग्निमिवारणिः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1188,15 @@ attrition with another)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः स्फटिकसङ्काशं वारि सन्तापसम्भवम् ।  
 नेत्राभ्यां परिसुस्राव पङ्कजाभ्यामिवोदकम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,12 +1236,15 @@ lotus flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्सितामलचन्द्राभं मुखमायतलोचनम् ।  
 पर्यशुष्यत बाष्पेण जलोद्‍धृतमिवाम्बुजम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1207,12 +1284,15 @@ tears as a lotus flower pulled out from water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां परिष्वज्य बाहुभ्यां विसञ्ज्ञामिव दुःखिताम् ।  
 उवाच वचनं रामः परिविश्वासयंस्तदा ॥२६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1252,12 +1332,15 @@ spoke the following words, fully reassuring her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न देवि बत दुःखेन स्वर्गमप्यभिरोचये ।  
 नहि मेऽस्ति भयं किञ्चित् स्वयम्भोरिव सर्वतः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1297,12 +1380,15 @@ fear whatsoever to me, like the god of Brahma.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव सर्वमभिप्रायमविज्ञाय शुभानने ।  
 वासं न रोचयेऽरण्ये शक्तिमानपि रक्षणे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1343,12 +1429,15 @@ knowing your entire opinion, I do not like to take you to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् सृष्टासि मया सार्धं वनवासाय मैथिलि ।  
 न विहातुं मया शक्या प्रीतिरात्मवता यथा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1392,12 +1481,15 @@ me. Hence, you cannot be left behind by me, like the honour by a man of self-reg
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मस्तु गजनासोरु सद्भिराचरितः पुरा ।  
 तं चाहमनुवर्तिष्ये यथा सूर्यं सुवर्चला ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1439,12 +1531,15 @@ righteousness, like Suvarchala(wife of the sun) following the sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खल्वहं न गच्छेयं वनं जनकनन्दिनि ।  
 वचनं तन्नयति मां पितुः सत्योपबृंहितम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1484,12 +1579,15 @@ strong by his truthfulnes is taking me to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष धर्मश्च सुश्रोणि पितुर्मातुश्च वश्यता ।  
 आज्ञां चाहं व्यतिक्रम्य नाहं जीवितुमुत्सहे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1533,12 +1631,15 @@ why, I do not wish to survive, in violation of that duty."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्वाधीनं कथं दैवं प्रकारैरभिराध्यते ।  
 स्वाधीनं समतिक्रम्य मातरं पितरं गुरुम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1572,12 +1673,15 @@ how can we worship god, who is not at our disposal, by various modes?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र त्रयं त्रयो लोकाः पवित्रं तत्समं भुवि ।  
 नान्यदस्ति शुभापाङ्गे तेनेदमभिराध्यते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1619,12 +1723,15 @@ worship."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सत्यं दानमानौ वा यज्ञो वाप्याप्तदक्षिणाः ।  
 तथा बलकराः सीते यथा सेवा पितुर्मता ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1666,12 +1773,15 @@ strengthening."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गो धनं वा धान्यं वा विद्या पुत्राः सुखानि च ।  
 गुरुवृत्त्यनुरोधेन न किञ्चिदपि दुर्लभम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1712,12 +1822,15 @@ or leaving, sons or amenities of life - nothing whatsoever is hard to obtain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवगन्धर्वगोलोकान् ब्रह्मलोकांस्तथापरान् ।  
 प्राप्नुवन्ति महात्मानो मातापितृपरायणाः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1763,12 +1876,15 @@ Krishna the first couple).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मा पिता यथा शास्ति सत्यधर्मपथे स्थितः ।  
 तथा वर्तितुमिच्छामि स हि धर्मः सनातनः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1809,12 +1925,15 @@ and virtue, commands me. That itself is indeed the law of morality, which is ete
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम सन्ना मतिः सीते नेतुं त्वां दण्डकावनम् ।  
 वसिष्यामीति सा त्वं मामनुयातुं सुनिश्चिता ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1855,12 +1974,15 @@ saying that you will reside in the forst, duly determined to follow me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि दिष्टानवद्याङ्गि वनाय मदिरेक्षणे ।  
 अनुगच्छस्व मां भीरु सहधर्मचरी भव ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1901,12 +2023,15 @@ come to forest, Oh Seetha the timid lady, follow me and become my help-mate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा सदृशं सीते मम स्वस्य कुलस्य च ।  
 व्यवसायमनुक्रान्ता कान्ते त्वमतिशोभनम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1940,12 +2065,15 @@ to me and to your race."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरभस्व शुभश्रोणि वनवासक्षमाः क्रियाः ।  
 नेदानीं त्वदृते सीते स्वर्गोऽपि मम रोचते ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1980,12 +2108,15 @@ living in exile. Oh, Seetha! Even a heaven is not a liking to me without your pr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणेभ्यश्च रत्नानि भिक्षुकेभ्यश्च भोजनम् ।  
 देहि चाशंसमानेभ्यः सन्त्वरस्व च मा चिरम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2025,6 +2156,7 @@ delay."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2033,6 +2165,8 @@ delay."
 शयनीयानि यानानि मम चान्यानि यानि च ।  
 देहि स्वभृत्यवर्गस्य ब्राह्मणानामनन्तरम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2079,12 +2213,15 @@ articles left after satisfying brahmanas."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुकूलं तु सा भर्तुर्ज्ञात्वा गमनमात्मनः ।  
 क्षिप्रं प्रमुदिता देवी दातुमेव प्रचक्रमे ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2124,6 +2261,7 @@ quickly set about, making gifts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2132,6 +2270,8 @@ quickly set about, making gifts.
 धनानि रत्नानि च दातुमङ्गना  
 प्रचक्रमे धर्मभृतां मनस्विनी ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2192,5 +2332,6 @@ speech of her husband, started giving riches and valuable gifts to virtuous soul
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तनॆय सर्ग पूर्णवायितु ॥30॥
+</details>
 </details>
 

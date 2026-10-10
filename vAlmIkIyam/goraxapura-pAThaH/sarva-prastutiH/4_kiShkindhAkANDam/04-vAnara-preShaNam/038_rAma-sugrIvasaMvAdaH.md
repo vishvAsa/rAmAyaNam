@@ -2,6 +2,8 @@
 title = "०३८ राम-सुग्रीवसंवादः"
 title_english = "038 Sugreeva approaches Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,12 +25,15 @@ is at his job, Rama is pleased heartily.
 
 38. लक्ष्मणसहित सुग्रीवका भगवान् श्रीरामके पास आकर उनके चरणोंमें प्रणाम करना, श्रीरामका उन्हें समझाना, सुग्रीवका अपने किये हुए सैन्यसंग्रहविषयक उद्योगको बताना और उसे सुनकर श्रीरामका प्रसन्न होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य च तत् सर्वमुपायनमुपाहृतम् ।  
 वानरान् सान्त्वयित्वा च सर्वानेव व्यसर्जयत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ On receiving all those gifts brought in by the Vanara-s from Himalayas, Sugreeva
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसर्जयित्वा स हरीन् सहस्रान् कृतकर्मणः ।  
 मेने कृतार्थमात्मानं राघवं च महाबलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ deemed that his own aspirations and as well as those of that great-mighty Rama a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लक्ष्मणो भीमबलं सर्ववानरसत्तमम् ।  
 अब्रवीत् प्रश्रितं वाक्यं सुग्रीवं सम्प्रहर्षयन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +175,7 @@ courteous words to him, "oh, gentle one, if it please you, make an exit from Kis
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,6 +183,8 @@ courteous words to him, "oh, gentle one, if it please you, make an exit from Kis
 तस्य तद् वचनं श्रुत्वा लक्ष्मणस्य सुभाषितम् ॥ ४ ॥  
 सुग्रीवः परमप्रीतो वाक्यमेतदुवाच ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,6 +202,7 @@ courteous words to him, "oh, gentle one, if it please you, make an exit from Kis
 
 सौम्यने! निनगॆ रुचिसिदरॆ ईग किष्किन्धॆयिन्द हॊरडु. लक्ष्मणन ई सुन्दर मातन्नु केळि सुग्रीवनु अत्यन्त प्रसन्ननागि इन्तॆन्दनु .॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,6 +210,8 @@ courteous words to him, "oh, gentle one, if it please you, make an exit from Kis
 तमेवमुक्त्वा सुग्रीवो लक्ष्मणं शुभलक्षणम् ।  
 विसर्जयामास तदा ताराद्याश्चैव योषितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,6 +267,7 @@ him, "So be it. Let us go. I remain biddable in your command." [4-38-4b, 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,6 +275,8 @@ him, "So be it. Let us go. I remain biddable in your command." [4-38-4b, 5]
 तस्य तद् वचनं श्रुत्वा हरयः शीघ्रमाययुः ॥ ७ ॥  
 बद्धाञ्जलिपुटाः सर्वे ये स्युः स्त्रीदर्शनक्षमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ in supplication. [4-38-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानुवाच ततः प्राप्तान् राजार्कसदृशप्रभः ॥ ८ ॥  
 उपस्थापयत क्षिप्रं शिबिकां मम वानराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +368,15 @@ there, "oh, vanara-s, immediately position my palanquin before me." [4-38-8b, 9a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तस्य हरयः शीघ्रविक्रमाः ॥ ९ ॥  
 समुपस्थापयामासुः शिबिकां प्रियदर्शनाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +409,15 @@ and readily started to position it at his nearby. [4-38-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामुपस्थापितां दृष्ट्वा शिबिकां वानराधिपः ॥ १० ॥  
 लक्ष्मणारुह्यतां शीघ्रमिति सौमित्रिमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +457,15 @@ Lakshmana, be quick." [4-38-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा काञ्चनं यानं सुग्रीवः सूर्यसन्निभम् ॥ ११ ॥  
 बहुभिर्हरिभिर्युक्तमारुरोह सलक्ष्मणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,6 +507,7 @@ along with Lakshmana. [4-38-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,6 +516,8 @@ along with Lakshmana. [4-38-11b, 12a]
 शङ्खभेरीनिनादैश्च बन्दिभिश्चाभिनन्दितः ॥ १३ ॥  
 निर्ययौ प्राप्य सुग्रीवो राज्यश्रियमनुत्तमाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +570,15 @@ over, and while conch-shells are blowing loud and drums are drumming high. [4-38
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वानरशतैस्तीक्ष्णैर्बहुभिः शस्त्रपाणिभिः ॥ १४ ॥  
 परिकीर्णो ययौ तत्र यत्र रामो व्यवस्थितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,6 +618,7 @@ to the place where Rama is staying. [4-38-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -587,6 +626,8 @@ to the place where Rama is staying. [4-38-14b, 15a]
 अवातरन्महातेजाः शिबिकायाः सलक्ष्मणः ।  
 आसाद्य च ततो रामं कृताञ्जलिपुटोऽभवत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -646,6 +687,7 @@ descended the palanquin along with Lakshmana. [4-38-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -653,6 +695,8 @@ descended the palanquin along with Lakshmana. [4-38-15b, 16a]
 तटाकमिव तं दृष्ट्वा रामः कुड्मलपङ्कजम् ॥ १७ ॥  
 वानराणां महत् सैन्यं सुग्रीवे प्रीतिमानभूत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +744,15 @@ Sugreeva contains these many prayerful devotees who are praying with lotus-bud-l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादयोः पतितं मूर्ध्ना तमुत्थाप्य हरीश्वरम् ॥ १८ ॥  
 प्रेम्णा च बहुमानाच्च राघवः परिषस्वजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +791,15 @@ the feet of Rama, with care and credit. [4-38-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिष्वज्य च धर्मात्मा निषीदेति ततोऽब्रवीत् ॥ १९ ॥  
 निषण्णं तं ततो दृष्ट्वा क्षितौ रामोऽब्रवीत् ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -793,6 +843,7 @@ seat on ground Rama spoke to him. [4-38-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -801,6 +852,8 @@ seat on ground Rama spoke to him. [4-38-19b, 20a]
 हित्वा धर्मं तथार्थं च कामं यस्तु निषेवते ॥ २१ ॥  
 स वृक्षाग्रे यथा सुप्तः पतितः प्रतिबुध्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +923,15 @@ Say, mornings for duty-bound affairs, afternoons for financial matters, and nigh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमित्राणां वधे युक्तो मित्राणां सङ्ग्रहे रतः ॥ २२ ॥  
 त्रिवर्गफलभोक्ता च राजा धर्मेण युज्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,12 +974,15 @@ and at appreciable limits, unlike Sugreeva who is indulgent in only one among th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्योगसमयस्त्वेष प्राप्तः शत्रुनिषूदन ॥ २३ ॥  
 सञ्चिन्त्यतां हि पिङ्गेश हरिभिः सह मन्त्रिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -963,6 +1022,7 @@ monkey-ministers." Thus Rama spoke to Sugreeva. [4-38-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -970,6 +1030,8 @@ monkey-ministers." Thus Rama spoke to Sugreeva. [4-38-23b, 24a]
 प्रणष्टा श्रीश्च कीर्तिश्च कपिराज्यं च शाश्वतम् ।  
 त्वत्प्रसादान्महाबाहो पुनः प्राप्तमिदं मया ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,12 +1079,15 @@ I have repossessed prosperity, popularity and this everlasting kingdom of monkey
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव देव प्रसादाच्च भ्रातुश्च जयतां वर ।  
 कृतं न प्रतिकुर्याद् यः पुरुषाणां हि दूषकः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1131,15 @@ and he who does not requite the favour that has been done for him will become th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते वानरमुख्याश्च शतशः शत्रुसूदन ।  
 प्राप्ताश्चादाय बलिनः पृथिव्यां सर्ववानरान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,12 +1159,15 @@ _________________
 
 शत्रुसूदन! ई साविरारु बलिष्ठ मत्तु मुख्य वानररु भू मण्डलदल्लि ऎल्ल बलशालि वानररन्नु जॊतॆगॆ करॆदुकॊण्डु बल्लिगॆ बन्दिरुवरु.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाश्च वानराः शूरा गोलाङ्गूलाश्च राघव ।  
 कान्तारवनदुर्गाणामभिज्ञा घोरदर्शनाः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,12 +1201,15 @@ the forceful vanara-s on earth. [4-38-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवगन्धर्वपुत्राश्च वानराः कामरूपिणः ।  
 स्वैः स्वैः परिवृताः सैन्यैर्वर्तन्ते पथि राघव ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1174,12 +1248,15 @@ on their path duly fenced round with one's own forces. [4-38-28, 29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतैः शतसहस्रैश्च वर्तन्ते कोटिभिस्तथा ।  
 अयुतैश्चावृता वीर शङ्कुभिश्च परन्तप ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1199,12 +1276,15 @@ _________________
 
 परन्तप वीरने! इवरल्लि कॆलवर जॊतॆगॆ नूरु, कॆलवरॊन्दिगॆ लक्ष, कॆलवरॊन्दिगॆ कोटि, कॆलवर जॊतॆगॆ अयुत (हत्तुसाविर), कॆलवरॊन्दिगॆ ऒन्दु शङ्कुवानररु इद्दारॆ.॥30॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्बुदैरर्बुदशतैर्मध्यैश्चान्त्यैश्च वानराः ।  
 समुद्राश्च परार्धाश्च हरयो हरियूथपाः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1229,12 +1309,15 @@ _________________
 
 * यहाँ अर्बुद, शंकु, अन्त्य और मध्य आदि संख्या वाचक शब्दोंका आधुनिक गणितके अनुसार मान समझनेके लिये प्राचीन संज्ञाओंका पूर्ण रूपसे उल्लेख किया जाता है और कोष्ठमें उसका आधुनिक मान दिया जा रहा है—एक (इकाई), दश (दहाई), शत (सैकड़ा), सहस्र (हजार), अयुत (दस हजार), लक्ष (लाख), प्रयुत (दस लाख), कोटि (करोड़), अर्बुद (दस करोड़), अब्ज (अरब), खर्व (दस अरब), निखर्व (खर्व), महापद्म (दस खर्व), शंकु (नील), जलधि (दस नील), अन्त्य (पद्म), मध्य (दस पद्म), परार्ध (शंख)—ये संख्याबोधक संज्ञाएँ उत्तरोत्तर दस गुनी मानी गयी हैं । (नारदपुराणसे)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगमिष्यन्ति ते राजन् महेन्द्रसमविक्रमाः ।  
 मेघपर्वतसङ्काशा मेरुविन्ध्यकृतालयाः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1313,12 +1396,15 @@ related to the principal units as powers of ten [units, tens, hundreds, thousand
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते त्वामभिगमिष्यन्ति राक्षसं योद्धुमाहवे ।  
 निहत्य रावणं युद्धे ह्यानयिष्यन्ति मैथिलीम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,6 +1444,7 @@ be approaching you soon." Thus Sugreeva informed Rama. [4-38-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1366,6 +1453,8 @@ be approaching you soon." Thus Sugreeva informed Rama. [4-38-33]
 बभूव हर्षाद् वसुधाधिपात्मजः  
 प्रबुद्धनीलोत्पलतुल्यदर्शनः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1427,5 +1516,6 @@ his control, the eyes of valorous prince Rama are widened in jubilance, like the
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु.॥38॥
+</details>
 </details>
 

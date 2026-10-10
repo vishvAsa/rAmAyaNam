@@ -2,6 +2,8 @@
 title = "०४६ हनुमता पञ्चचमूनायकवधः"
 title_english = "046 Ravana sends five army generals"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -25,12 +27,15 @@ with horses elephants and chariots, he again in returns to the archy door way of
 
 46. रावणके पाँच सेनापतियोंका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतान् मन्त्रिसुतान् बुद्‍ध्वा वानरेण महात्मना ।  
 रावणः संवृताकारश्चकार मतिमुत्तमाम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,6 +75,7 @@ cleverly concealed the expression made an excellent thought.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -78,6 +84,8 @@ cleverly concealed the expression made an excellent thought.
 सन्दिदेश दशग्रीवो वीरान् नयविशारदान् ।  
 हनूमद्‍ग्रहणेऽव्यग्रान् वायुवेगसमान् युधि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +138,15 @@ capture Hanuma and equal to the speed of wind in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यात सेनाग्रगाः सर्वे महाबलपरिग्रहाः ।  
 सवाजिरथमातङ्गाः स कपिः शास्यतामिति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +164,15 @@ capture Hanuma and equal to the speed of wind in battle.
 
 उसने कहा—‘सेनाके अग्रगामी वीरो! तुमलोग घोड़े, रथ और हाथियोंसहित बड़ी भारी सेना साथ लेकर जाओ और उस वानरको बलपूर्वक पकड़कर उसे अच्छी तरह शिक्षा दो ॥ ४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्तैश्च खलु भाव्यं स्यात् तमासाद्य वनालयम् ।  
 कर्म चापि समाधेयं देशकालाविरोधितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ mokey be punished."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्यहं तं कपिं मन्ये कर्मणा प्रति तर्कयन् ।  
 सर्वथा तन्महद् भूतं महाबलपरिग्रहम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +277,15 @@ be an evil spirit, putting on an extraordinary might."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरोऽयमिति ज्ञात्वा नहि शुद्ध्यति मे मनः ।  
 नैवाहं तं कपिं मन्ये यथेयं प्रस्तुता कथा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,6 +305,7 @@ _________________
 
 अदु कपियॆन्दु तिळिदमेलन्तू नन्न मनस्सु हॆच्चु कळवळगॊण्डिदॆ. ननगॆ तिळिदिरुव विवरणॆयन्तॆ अदु सामान्य कपियिरलारदु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,6 +314,8 @@ _________________
 युष्माभिः प्रहितैः सर्वैर्मया सह विनिर्जिताः ।  
 तैरवश्यं विधातव्यं व्यलीकं किञ्चिदेव नः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,6 +365,7 @@ despised by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,6 +373,8 @@ despised by you."
 यात सेनाग्रगाः सर्वे महाबलपरिग्रहाः ॥ १० ॥  
 सवाजिरथमातङ्गाः स कपिः शास्यतामिति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,12 +395,15 @@ _________________
 
 अवरे ई कपियन्नु कळिसिरबेकु. इदरल्लि संशयवे इल्ल. आद्दरिन्द नीवॆल्लरू ईगले होगि आ कपियन्नु बलप्रयोगदिन्द बन्धिसिरि.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावमन्यो भवद्भिश्च कपिर्धीरपराक्रमः ॥ ११ ॥  
 दृष्टा हि हरयः पूर्वे मया विपुलविक्रमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ energy at will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाली च सह सुग्रीवो जाम्बवांश्च महाबलः ॥ १२ ॥  
 नीलः सेनापतिश्चैव ये चान्ये द्विविदादयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +474,15 @@ energy at will."
 
 ‘जिनके नाम इस प्रकार हैं—वाली, सुग्रीव, महाबली जाम्बवान्, सेनापति नील तथा द्विविद आदि अन्य वानर ॥ १२ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव तेषां गतिर्भीमा न तेजो न पराक्रमः ॥ १३ ॥  
 न मतिर्न बलोत्साहो न रूपपरिकल्पनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +520,15 @@ before you in the battle-field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महत्सत्त्वमिदं ज्ञेयं कपिरूपं व्यवस्थितम् ॥ १४ ॥  
 प्रयत्नं महदास्थाय क्रियतामस्य निग्रहः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,12 +585,15 @@ a great effort and capture it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं लोकास्त्रयः सेन्द्राः ससुरासुरमानवाः ॥ १५ ॥  
 भवतामग्रतः स्थातुं न पर्याप्ता रणाजिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +605,15 @@ a great effort and capture it."
 
 ‘भले ही इन्द्रसहित देवता, असुर, मनुष्य एवं तीनों लोक उतर आयें, वे रणभूमिमें तुम्हारे सामने ठहर नहीं सकते ॥ १५ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथापि तु नयज्ञेन जयमाकाङ्क्षता रणे ॥ १६ ॥  
 आत्मा रक्ष्यः प्रयत्नेन युद्धसिद्धिर्हि चञ्चला ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,6 +651,7 @@ ordinary swiftness and various kinds of sharp weapons, sallied forth with a grea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -615,6 +660,8 @@ ordinary swiftness and various kinds of sharp weapons, sallied forth with a grea
 रथैश्च मत्तैर्नागैश्च वाजिभिश्च महाजवैः ॥ १८ ॥  
 शस्त्रैश्च विविधैस्तीक्ष्णैः सर्वैश्चोपहिता बलैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,6 +717,7 @@ strong mental disposition and colossal strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -678,6 +726,8 @@ strong mental disposition and colossal strength.
 तोरणस्थं महावेगं महासत्त्वं महाबलम् ॥ २० ॥  
 महामतिं महोत्साहं महाकायं महाभुजम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +772,15 @@ and yellow tops to descend into Hanuma's head.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्यैव ते सर्वे दिक्षु सर्वास्ववस्थिताः ॥ २१ ॥  
 तैस्तैः प्रहरणैर्भीमैरभिपेतुस्ततस्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +842,15 @@ side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पञ्चायसास्तीक्ष्णाः सिताः पीतमुखाः शराः ।  
 शिरस्युत्पलपत्राभा दुर्धरेण निपातिताः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,12 +893,15 @@ his bow and throwing hundreds of sharp arrows, he attacked Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैः पञ्चभिराविद्धः शरैः शिरसि वानरः ।  
 उत्पपात नदन् व्योम्नि दिशो दश विनादयन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -885,12 +944,15 @@ off a rainy cloud from raining at the end of a monsoon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु दुर्धरो वीरः सरथः सज्जकार्मुकः ।  
 किरन् शरशतैर्नैकैरभिपेदे महाबलः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +995,15 @@ his body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कपिर्वारयामास तं व्योम्नि शरवर्षिणम् ।  
 वृष्टिमन्तं पयोदान्ते पयोदमिव मारुतः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,12 +1043,15 @@ by jumping up from far above with great speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्द्यमानस्ततस्तेन दुर्धरेणानिलात्मजः ।  
 चकार निनदं भूयो व्यवर्धत च वीर्यवान् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,12 +1072,15 @@ _________________
 
 जब दुर्धर अपने बाणोंसे अधिक पीड़ा देने लगा, तब वे परम पराक्रमी पवनकुमार पुनः विकट गर्जना करने और अपने शरीरको बढ़ाने लगे ॥ २६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दूरं सहसोत्पत्य दुर्धरस्य रथे हरिः ।  
 निपपात महावेगो विद्युद्राशिर्गिराविव ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1137,15 @@ Durdhara then dropped down, losing his life, to the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स मथिताष्टाश्वं रथं भग्नाक्षकूबरम् ।  
 विहाय न्यपतद् भूमौ दुर्धरस्त्यक्तजीवितः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,12 +1185,15 @@ clubs that long-armed Hanuma standing in clear sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं विरूपाक्षयूपाक्षौ दृष्ट्वा निपतितं भुवि ।  
 तौ जातरोषौ दुर्धर्षावुत्पेततुररिन्दमौ ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1236,15 @@ is equal to that of Garuda the eagle, again descended on to the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ताभ्यां सहसोत्प्लुत्य विष्ठितो विमलेऽम्बरे ।  
 मुद‍्गराभ्यां महाबाहुर्वक्षस्यभिहतः कपिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1207,12 +1287,15 @@ demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोर्वेगवतोर्वेगं निहत्य स महाबलः ।  
 निपपात पुनर्भूमौ सुपर्ण इव वेगितः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,12 +1310,15 @@ _________________
 
 उन दोनों वेगवान् वीरोंके वेगको विफल करके महाबली हनुमान् जी वेगशाली गरुड़के समान पुनः पृथ्वीपर कूद पड़े ॥ ३१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सालवृक्षमासाद्य समुत्पाट्य च वानरः ।  
 तावुभौ राक्षसौ वीरौ जघान पवनात्मजः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,6 +1357,7 @@ forcefully attacked Hanuma. The valiant Bhasakarna, highly enraged, attacked tak
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1279,6 +1366,8 @@ forcefully attacked Hanuma. The valiant Bhasakarna, highly enraged, attacked tak
 भासकर्णश्च सङ्क्रुद्धः शूलमादाय वीर्यवान् ।  
 एकतः कपिशार्दूलं यशस्विनमवस्थितौ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1351,12 +1440,15 @@ with a sharp-pointed spear and Bhasakarna attacked him with a dart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पट्टिशेन शिताग्रेण प्रघसः प्रत्यपोथयत् ।  
 भासकर्णश्च शूलेन राक्षसः कपिकुञ्जरम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1485,15 @@ the heroic Hanuma the best among monkeys, killed those two demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ताभ्यां विक्षतैर्गात्रैरसृग्दिग्धतनूरुहः ।  
 अभवद् वानरः क्रुद्धो बालसूर्यसमप्रभः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1440,6 +1535,7 @@ army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1447,6 +1543,8 @@ army.
 जघान हनुमान् वीरो राक्षसौ कपिकुञ्जरः ।  
 गिरिशृङ्गसुनिष्पिष्टौ तिलशस्तौ बभूवतुः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1493,12 +1591,15 @@ with chariots.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तेष्ववसन्नेषु सेनापतिषु पञ्चसु ।  
 बलं तदवशेषं तु नाशयामास वानरः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1541,12 +1642,15 @@ with the demons killed and with the big chariots which had their axles broken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वैरश्वान् गजैर्नागान् योधैर्योधान् रथै रथान् ।  
 स कपिर्नाशयामास सहस्राक्ष इवासुरान् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1595,12 +1699,15 @@ the combat, waited for the right moment at the arch-way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयैर्नागैस्तुरङ्गैश्च भग्नाक्षैश्च महारथैः ।  
 हतैश्च राक्षसैर्भूमी रुद्धमार्गा समन्ततः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1620,6 +1727,7 @@ _________________
 
 सत्तु बिद्दिरुव आनॆगळिन्द, कुदुरॆगळ कळेबरगळिन्द, चूरु-चूरागि चॆल्लापिल्लियागि बिद्दिरुव महारथगळ तुण्डुगळिन्द, हतराद राक्षसर शवगळिन्द आ रणभूमियु तुम्बिहोगि ऎल्ल दारिगळू मुच्चिहोदुवु. ॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1628,6 +1736,8 @@ _________________
 तथैव वीरः परिगृह्य तोरणं  
 कृतक्षणः काल इव प्रजाक्षये ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1661,5 +1771,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तारनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

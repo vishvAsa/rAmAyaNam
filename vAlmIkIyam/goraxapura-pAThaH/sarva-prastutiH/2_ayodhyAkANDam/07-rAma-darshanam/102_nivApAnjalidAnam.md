@@ -2,6 +2,8 @@
 title = "१०२ निवापाञ्जलिदानम्"
 title_english = "102 Bharata requests Rama to come to Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ father, who died wtih the thought of Rama alone, absorbed in his mind.
 
 102. भरतका पुनः श्रीरामसे राज्य ग्रहण करनेका अनुरोध करके उनसे पिताकी मृत्युका समाचार बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा भरतः प्रत्युवाच ह ।  
 किं मे धर्माद् विहीनस्य राजधर्मः करिष्यति ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ duties amount to me, who is outside of that code?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाश्वतोऽयं सदा धर्मः स्थितोऽस्मासु नरर्षभ ।  
 ज्येष्ठे पुत्रे स्थिते राजा न कनीयान् भवेन्नृपः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ us that while the elder son is there, the younger one cannot become a king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स समृद्धां मया सार्धमयोध्यां गच्छ राघव ।  
 अभिषेचय चात्मानं कुलस्यास्य भवाय नः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ in kingdom for the welfare of our race."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजानं मानुषं प्राहुर्देवत्वे सम्मतो मम ।  
 यस्य धर्मार्थसहितं वृत्तमाहुरमानुषम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,12 +205,15 @@ god-head."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केकयस्थे च मयि तु त्वयि चारण्यमाश्रिते ।  
 धीमान् स्वर्गं गतो राजा यायजूकः सतां मतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ virtuous, has gone to heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्क्रान्तमात्रे भवति सहसीते सलक्ष्मणे ।  
 दुःखशोकाभिभूतस्तु राजा त्रिदिवमभ्यगात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +297,15 @@ misfortune and grief and ascended to the most sacred heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ पुरुषव्याघ्र क्रियतामुदकं पितुः ।  
 अहं चायं च शत्रुघ्नः पूर्वमेव कृतोदकौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +343,15 @@ our father. Shatrughna and I have previously done it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियेण किल दत्तं हि पितृलोकेषु राघव ।  
 अक्षयं भवतीत्याहुर्भवांश्चैव पितुः प्रियः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,6 +391,7 @@ and you undoubtedly are beloved to our father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -373,6 +400,8 @@ and you undoubtedly are beloved to our father."
 त्वया विहीनस्तव शोकरुग्ण-  
 स्त्वां संस्मरन्नेव गतः पिता ते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,5 +458,6 @@ you, your father died."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नूर ऎरडनॆय सर्ग पूर्णवायितु.॥102॥
+</details>
 </details>
 

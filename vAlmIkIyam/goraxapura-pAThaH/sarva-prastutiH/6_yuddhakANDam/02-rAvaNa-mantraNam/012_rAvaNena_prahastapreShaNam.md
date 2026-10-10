@@ -2,6 +2,8 @@
 title = "०१२ रावणेन प्रहस्तप्रेषणम्"
 title_english = "012 Ravana instructs Prahasta to defend Lanka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -25,12 +27,15 @@ killing the enemies.
 
 12. नगरकी रक्षाके लिये सैनिकोंकी नियुक्ति, रावणका सीताके प्रति अपनी आसक्ति बताकर उनके हरणका प्रसंग बताना और भावी कर्तव्यके लिये सभासदोंकी सम्मति माँगना, कुम्भकर्णका पहले तो उसे फटकारना, फिर समस्त शत्रुओंके वधका स्वयं ही भार उठाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां परिषदं कृत्स्नां समीक्ष्य समितिञ्जयः ।  
 प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ instructed Prahasta the chief of his army (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेनापते यथा ते स्युः कृतविद्याश्चतुर्विधाः ।  
 योधा नगररक्षायां तथा व्यादेष्टुमर्हसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -96,12 +104,15 @@ instructed Prahasta the chief of his army (as follows):
 
 सेनापतिये! अस्त्रविद्या पारङ्गतराद रथी, कुदुरॆ सवाररु, आनॆ सवाररु मत्तु कालाळुगळादि योधरिगॆ नगर रक्षणॆयल्लि तत्पररागिरुवन्तॆ सैनिकरिगॆ आज्ञापिसु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रहस्तः प्रणीतात्मा चिकीर्षन् राजशासनम् ।  
 विनिक्षिपद् बलं सर्वं बहिरन्तश्च मन्दिरे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,12 +155,15 @@ both outside as well as inside the city.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विनिक्षिप्य बलं सर्वं नगरगुप्तये ।  
 प्रहस्तः प्रमुखे राज्ञो निषसाद जगाद च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,12 +197,15 @@ front of the king and spoke (as follows):
 
 नगरद रक्षणॆगागि ऎल्ल सैन्यवन्नु नियमिसि प्रहस्तनु राजा रावणन ऎदुरिगॆ बन्दु कुळितु हीगॆ नुडिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विहितं बहिरन्तश्च बलं बलवतस्तव ।  
 कुरुष्वाविमनाः क्षिप्रं यदभिप्रेतमस्ति ते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +243,15 @@ city. Pray do quickly, with an undistracted mind, whatever is preferable to you.
 
 राक्षस राजने! महाबलि राजराद निम्म सैन्यवन्नु नानु नगरद हॊरगॆ-ऒळगॆ यथा स्थानगळल्लि नियुक्तगॊळिसिरुवॆनु. ईग नीवु नॆम्मदियागि इद्दु, तम्म अभीष्ट कार्यवन्नु नॆरवेरिसिरि.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहस्तस्य वचः श्रुत्वा राजा राज्यहितैषिणः ।  
 सुखेप्सुः सुहृदां मध्ये व्याजहार स रावणः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +268,15 @@ city. Pray do quickly, with an undistracted mind, whatever is preferable to you.
 
 राज्यद हितवन्नु बयसुव प्रहस्तन ई मातन्नु केळि तन्न सुखवन्नु बयसुव रावणनु सुहृदर नडुवॆ हीगॆ हेळिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियाप्रिये सुखे दुःखे लाभालाभे हिताहिते ।  
 धर्मकामार्थकृच्छ्रेषु यूयमर्हथ वेदितुम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +318,15 @@ detriment as well as advantages and disadvantages."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वकृत्यानि युष्माभिः समारब्धानि सर्वदा ।  
 मन्त्रकर्मनियुक्तानि न जातु विफलानि मे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +369,15 @@ vain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससोमग्रहनक्षत्रैर्मरुद्भिरिव वासवः ।  
 भवद्भिरहमत्यर्थं वृतः श्रियमवाप्नुयाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +415,15 @@ properity while abiding with moon, planets, stars and celestials."
 
 चन्द्र, ग्रह-नक्षत्रगळ सहित मरुद्गणरिन्द सुत्तु वरॆदु इन्द्रनु स्वर्गद सम्पत्तन्नु अनुभविसुवन्तॆ, निम्मिन्द सुत्तुवरिद नानू कूड लङ्कॆय विपुल राज्यलक्ष्मिय सुखवन्नु भोगिसुत्ता इरबेकॆम्ब अभिलाषॆ नन्नदु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु खलु सर्वान् वः समर्थयितुमुद्यतः ।  
 कुम्भकर्णस्य तु स्वप्नान् नेममर्थमचोदयम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,12 +463,15 @@ earlier to Kumbhakarna because of his sleep."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि सुप्तः षण्मासान् कुम्भकर्णो महाबलः ।  
 सर्वशस्त्रभृतां मुख्यः स इदानीं समुत्थितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +511,15 @@ indeed sleeping for the last six months and now, he woke up."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं च दण्डकारण्याद् रामस्य महिषी प्रिया ।  
 रक्षोभिश्चरितोद्देशादानीता जनकात्मजा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +580,15 @@ with a desire to obtain happiness, spoke in the desire midst of his friends as f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा मे न शय्यामारोढुमिच्छत्यलसगामिनी ।  
 त्रिषु लोकेषु चान्या मे न सीतासदृशी तथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +629,15 @@ woman similar to Seetha existing in the three worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तनुमध्या पृथुश्रोणी शरदिन्दुनिभानना ।  
 हेमबिम्बनिभा सौम्या मायेव मयनिर्मिता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +677,15 @@ science.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुलोहिततलौ श्लक्ष्णौ चरणौ सुप्रतिष्ठितौ ।  
 दृष्ट्वा ताम्रनखौ तस्या दीप्यते मे शरीरजः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,6 +725,7 @@ the rosy soles, my lust is kindled."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -685,6 +733,8 @@ the rosy soles, my lust is kindled."
 उन्नसं विमलं वल्गु वदनं चारुलोचनम् ॥ १६ ॥  
 पश्यंस्तदवशस्तस्याः कामस्य वशमेयिवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +780,15 @@ unrestrained, having submitted to the will of my passion."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधहर्षसमानेन दुर्वर्णकरणेन च ॥ १७ ॥  
 शोकसन्तापनित्येन कामेन कलुषीकृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,6 +822,7 @@ and I have been ever since in grief and anguish."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -776,6 +830,8 @@ and I have been ever since in grief and anguish."
 प्रतीक्षमाणा भर्तारं राममायतलोचना ।  
 तन्मया चारुनेत्रायाः प्रतिज्ञातं वचः शुभम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,6 +884,7 @@ of this lust, like a horse galloping along a path continuously."
 
 * यहाँ रावणने सभासदोंके सामने अपनी झूठी उदारता दिखानेके लिये सर्वथा असत्य कहा है । सीताजीने कभी अपने मुँहसे यह नहीं कहा था कि ‘मुझे एक वर्षका समय दो । यदि उतने दिनोंतक श्रीराम नहीं आये तो मैं तुम्हारी हो जाऊँगी ।’ सीताने तो सदा तिरस्कारपूर्वक उसके जघन्य प्रस्तावको ठुकराया ही था । इसने स्वयं ही अपनी ओरसे उन्हें एक वर्षका अवसर दिया था । (देखिये अरण्यकाण्ड सर्ग ५६ श्लोक २४-२५)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -835,6 +892,8 @@ of this lust, like a horse galloping along a path continuously."
 कथं सागरमक्षोभ्यं तरिष्यन्ति वनौकसः ॥ २० ॥  
 बहुसत्त्वझषाकीर्णं तौ वा दशरथात्मजौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,6 +938,7 @@ completely infested as it was with sea-animals?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -886,6 +946,8 @@ completely infested as it was with sea-animals?"
 दुर्ज्ञेयाः कार्यगतयो ब्रूत यस्य यथामति ।  
 मानुषान्नो भयं नास्ति तथापि तु विमृश्यताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,6 +984,7 @@ own understanding."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -930,6 +993,8 @@ own understanding."
 परे पारे समुद्रस्य पुरस्कृत्य नृपात्मजौ ।  
 सीतायाः पदवीं प्राप्य सम्प्राप्तौ वरुणालयम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1039,15 @@ and other monkeys reached the other shore of the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदेया च यथा सीता वध्यौ दशरथात्मजौ ।  
 भवद्भिर्मन्त्र्यतां मन्त्रः सुनीतं चाभिधीयताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,12 +1090,15 @@ Seetha may not have to be handed -over to them back and Rama and Lakshmana may b
 
 ईग नीवु परस्पर विचार माडिरि मत्तु सीतॆयन्नु मरळिसिकॊडदन्तह हागू आ इब्बरू दशरथकुमाररन्नु कॊल्लुवन्तह यावुदादरू सुन्दर नीति रूपिसिरि.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि शक्तिं प्रपश्यामि जगत्यन्यस्य कस्यचित् ।  
 सागरं वानरैस्तीर्त्वा निश्चयेन जयो मम ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1070,12 +1141,15 @@ Victory is surely mine."
 
 वानररॊन्दिगॆ समुद्रवन्नु दाटि इल्लियवरॆगॆ बरुव शक्ति जगत्तिनल्लि रामनिगल्लदॆ बेरॆ यारल्लियू नानु नोडुवुदिल्ल. (आदरू राम मत्तु वानररु इल्लिगॆ बन्दरू नन्नदेनू कॆडिसलाररु) आद्दरिन्द जयवु नन्नदे निश्चितवागि आगुवुदु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य कामपरीतस्य निशम्य परिदेवितम् ।  
 कुम्भकर्णः प्रचुक्रोध वचनं चेदमब्रवीत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,6 +1202,7 @@ entrusted with the defense of the city."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1136,6 +1211,8 @@ entrusted with the defense of the city."
 सकृत् समीक्ष्यैव सुनिश्चितं तदा  
 भजेत चित्तं यमुनेव यामुनम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,12 +1266,15 @@ on earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वमेतन्महाराज कृतमप्रतिमं तव ।  
 विधीयेत सहास्माभिरादावेवास्य कर्मणः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1229,12 +1309,15 @@ this action itself (of bringing Seetha here), it would have been worthy of you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यायेन राजकार्याणि यः करोति दशानन ।  
 न स सन्तप्यते पश्चान्निश्चितार्थमतिर्नृपः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1274,12 +1357,15 @@ justice, will not repent thereafter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुपायेन कर्माणि विपरीतानि यानि च ।  
 क्रियमाणानि दुष्यन्ति हवींष्यप्रयतेष्विव ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,12 +1405,15 @@ oblations not intent on devotion got spoiled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः पश्चात् पूर्वकार्याणि कर्माण्यभिचिकीर्षति ।  
 पूर्वं चापरकार्याणि स न वेद नयानयौ ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1454,15 @@ done before at a later stage and actions which are to be done later at a stage b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चपलस्य तु कृत्येषु प्रसमीक्ष्याधिकं बलम् ।  
 छिद्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,12 +1515,15 @@ javelin. (Mahabharata, Salya Parva 46-84).
 
 * कुमार कार्तिकेयने अपनी शक्तिके द्वारा क्रौञ्चपर्वतको विदीर्ण करके उसमें छेद कर दिया था—यह प्रसंग महाभारतमें आया है । (देखिये शल्यप० ४६ । ८४)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयेदं महदारब्धं कार्यमप्रतिचिन्तितम् ।  
 दिष्ट्या त्वां नावधीद् रामो विषमिश्रमिवामिषम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1469,12 +1564,15 @@ did not kill you even as the meat mixed with poison would kill the consumer."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् त्वया समारब्धं कर्म ह्यप्रतिमं परैः ।  
 अहं समीकरिष्यामि हत्वा शत्रूंस्तवानघ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1518,6 +1616,7 @@ the dishonourable act undertaken by you in relation to your enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1525,6 +1624,8 @@ the dishonourable act undertaken by you in relation to your enemies."
 यदि शक्रविवस्वन्तौ यदि पावकमारुतौ ।  
 तावहं योधयिष्यामि कुबेरवरुणावपि ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1562,12 +1663,15 @@ god of riches) and Varuna (the god of water).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिमात्रशरीरस्य महापरिघयोधिनः ।  
 नर्दतस्तीक्ष्णदंष्ट्रस्य बिभीयाद् वै पुरन्दरः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1601,12 +1705,15 @@ and attacking with an immense bludgeon, I shall strike terror in Indra himself!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनर्मां स द्वितीयेन शरेण निहनिष्यति ।  
 ततोऽहं तस्य पास्यामि रुधिरं काममाश्वस ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1641,6 +1748,7 @@ Cheer up freely.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1649,6 +1757,8 @@ Cheer up freely.
 हत्वा च रामं सह लक्ष्मणेन  
 खादामि सर्वान् हरियूथमुख्यान् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1693,6 +1803,7 @@ By exterminating Rama along with Lakshmana, I shall devour all the leaders of mo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1701,6 +1812,8 @@ By exterminating Rama along with Lakshmana, I shall devour all the leaders of mo
 मया तु रामे गमिते यमक्षयं  
 चिराय सीता वशगा भविष्यति ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1756,5 +1869,6 @@ your disposal forever."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हन्नॆरडनॆय सर्ग पूर्णवायितु.॥12॥
+</details>
 </details>
 

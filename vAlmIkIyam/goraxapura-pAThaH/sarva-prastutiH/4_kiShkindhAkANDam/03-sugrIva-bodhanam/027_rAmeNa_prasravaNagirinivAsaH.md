@@ -2,6 +2,8 @@
 title = "०२७ रामेण प्रस्रवणगिरिनिवासः"
 title_english = "027 Rama at Mt Prasavana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -30,12 +32,15 @@ than to worry about global warming, ozone depletion, deforestation etc.
 
 27. प्रस्रवणगिरिपर श्रीराम और लक्ष्मणकी परस्पर बातचीत
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषिक्ते तु सुग्रीवे प्रविष्टे वानरे गुहाम् ।  
 आजगाम सह भ्रात्रा रामः प्रस्रवणं गिरिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ Sugreeva entered the cave-city Kishkindha. [4-27-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्दूलमृगसङ्घुष्टं सिंहैर्भीमरवैर्वृतम् ।  
 नानागुल्मलतागूढं बहुपादपसङ्कुलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +102,15 @@ Sugreeva entered the cave-city Kishkindha. [4-27-1]
 
 अदु हुलिगळिन्दलू इतर मृगगळिन्दलू निनादितवागित्तु. भयङ्कर गर्जिसुव सिंहगळिन्द आ स्थान तुम्बिहोगित्तु. नाना प्रकारद गिडगळिन्द, लतॆगळिन्द आ पर्वतवु आच्छादितवागि, दट्टवाद वृक्षगळिन्द अदु ऎल्लॆडॆ व्याप्तवागित्तु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानरगोपुच्छैर्मार्जारैश्च निषेवितम् ।  
 मेघराशिनिभं शैलं नित्यं शुचिकरं शिवम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +156,15 @@ and other water resorts. Hence, it is water giving earthly cloud.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य शैलस्य शिखरे महतीमायतां गुहाम् ।  
 प्रत्यगृह्णीत वासार्थं रामः सौमित्रिणा सह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,6 +203,7 @@ cliff of that mountain. [4-27-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -196,6 +211,8 @@ cliff of that mountain. [4-27-4]
 कालयुक्तं महद्वाक्यमुवाच रघुनन्दनः ॥ ५ ॥  
 विनीतं भ्रातरं भ्राता लक्ष्मणं लक्ष्मिवर्धनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +257,15 @@ enhancer of prosperity. [4-27-5, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं गिरिगुहा रम्या विशाला युक्तमारुता ॥ ६ ॥  
 अस्यां वत्स्याम सौमित्रे वर्षरात्रमरिन्दम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ Soumitri, let us stay in this during rainy nights. [4-27-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिशृङ्गमिदं रम्यमुत्तमं पार्थिवात्मज ॥ ७ ॥  
 श्वेताभिः कृष्णताम्राभिः शिलाभिरुपशोभितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,6 +330,7 @@ Soumitri, let us stay in this during rainy nights. [4-27-6]
 
 राजकुमार! पर्वतद ई शिखरवु बहळ रमणीयवागिदॆ. बिळिय, कप्पाद, कॆम्पाद ऎल्ल रीतिय कल्लुगळिन्द इदु शोभिसुत्तिदॆ.॥7½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,6 +338,8 @@ Soumitri, let us stay in this during rainy nights. [4-27-6]
 विविधैर्वृक्षषण्डैश्च चारुचित्रलतायुतम् ।  
 नानाविहगसङ्घुष्टं मयूरवरनादितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +357,15 @@ Soumitri, let us stay in this during rainy nights. [4-27-6]
 
 इल्लि नाना प्रकारद धातुगळ गणिगळिवॆ. सनिहदल्ले नदि हरियुत्तिदॆ. अदरल्लि इरुव कप्पॆगळु नॆगॆयुत्ता इल्लिगू बरुत्तिवॆ. नाना प्रकारद वृक्षगळु इदर शोभॆयन्नु हॆच्चिसिवॆ. सुन्दर विचित्र लतॆगळिन्द ई शैल शिखरवु हसुरागि काणुत्तिदॆ. बगॆ-बगॆय पक्षिगळु कूगुत्तिद्दु, सुन्दर नविलुगळ केकारववु निनादितवागिदॆ.॥8-9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मालतीकुन्दगुल्मैश्च सिन्दुवारैः शिरीषकैः ।  
 कदम्बार्जुनसर्जैश्च पुष्पितैरुपशोभितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +424,15 @@ chapter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं च नलिनी रम्या फुल्लपङ्कजमण्डिता ।  
 नातिदूरे गुहाया नौ भविष्यति नृपात्मज ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +472,15 @@ available not far away from our cave. [4-27-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रागुदक्प्रवणे देशे गुहा साधु भविष्यति ।  
 पश्चाच्चैवोन्नता सौम्य निवातेयं भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +526,15 @@ be less of gusts that come from east. [4-27-12]
 
 * ईशानकोणकी ओर नीची तथा नैर्ऋत्यकोणकी ओरसे ऊँची होनेसे उसका द्वार नैर्ऋत्यकोणकी ओर था—यह प्रतीत होता है, इससे उसमें पूर्वी हवा और उधरसे आनेवाली वर्षाका प्रवेश नहीं था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहाद्वारे च सौमित्रे शिला समतला शिवा ।  
 कृष्णा चैवायता चैव भिन्नाञ्जनचयोपमा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,12 +574,15 @@ mound of mascara is broad, even-surfaced, and will be pleasant for a repose. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिशृङ्गमिदं तात पश्य चोत्तरतः शुभम् ।  
 भिन्नाञ्जनचयाकारमम्भोधरमिवोदितम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +627,15 @@ side. [4-27-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणस्यामपि दिशि स्थितं श्वेतमिवाम्बरम् ।  
 कैलासशिखरप्रख्यं नानाधातुविराजितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +675,15 @@ spread on sky, which is vying with Mt. Kailash and abounding with many an ore. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम् ।  
 गुहायाः परतः पश्य त्रिकूटे जाह्नवीमिव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,12 +703,15 @@ _________________
 
 अदो नोडु, ई गुहॆय ऒन्दु कडॆ चित्रकूट पर्वतद हत्तिर हरियुव मन्दाकिनी नदियन्तॆ तुङ्गभद्रा नदियु हरियुत्तिदॆ. अदु पश्चिमद कडॆगॆ हरियुत्तिद्दु, अदरल्लि कॆसरिन हॆसरे इल्ल.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनैस्तिलकैः सालैस्तमालैरतिमुक्तकैः ।  
 पद्मकैः सरलैश्चैव अशोकैश्चैव शोभिताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -706,6 +756,7 @@ the river is Tungabhadra, which is affectionately remembered as River Ganga.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -714,6 +765,8 @@ the river is Tungabhadra, which is affectionately remembered as River Ganga.
 तीरजैः शोभिता भाति नानारूपैस्ततस्ततः ।  
 वसनाभरणोपेता प्रमदेवाभ्यलङ्कृता ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +815,15 @@ bedecked with raiment and ornaments. [4-27-18, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतशः पक्षिसङ्घैश्च नानानादविनादिता ।  
 एकैकमनुरक्तैश्च चक्रवाकैरलङ्कृता ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +840,15 @@ bedecked with raiment and ornaments. [4-27-18, 19]
 
 साविरारु पक्षि समूहगळिन्द कूडिद ई नदियु अवुगळ नाना रीतिय कलरवगळिन्द निनादिसुत्तिदॆ. परस्पर अनुरक्त चक्रवाकगळु ई सरितॆय शोभॆयन्नु हॆच्चिसिवॆ.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुलिनैरतिरम्यैश्च हंससारससेविता ।  
 प्रहसन्त्येव भात्येषा नानारत्नसमन्विता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,12 +901,15 @@ clucking sounds of the birds are like the tinkles from the tinkling bells of tha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचिन्नीलोत्पलैश्छन्ना भातिरक्तोत्पलैः क्वचित् ।  
 क्वचिदाभाति शुक्लैश्च दिव्यैः कुमुदकुड्मलैः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +951,15 @@ else. [4-27-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पारिप्लवशतैर्जुष्टा बर्हिक्रौञ्चविनादिता ।  
 रमणीया नदी सौम्य मुनिसङ्घनिषेविता ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,12 +1000,15 @@ heart-pleasing. [4-27-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य चन्दनवृक्षाणां पङ्‍क्तिः सुरुचिरा इव ।  
 ककुभानां च दृश्यन्ते मनसैवोदिताः समम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1053,15 @@ appear in a similar pattern. [4-27-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो सुरमणीयोऽयं देशः शत्रुनिषूदन ।  
 दृढं रंस्याव सौमित्रे साध्वत्र निवसावहे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,12 +1101,15 @@ enemy-eliminator, we can certainly take delight in this environ. [4-27-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश्च नातिदूरे सा किष्किन्धा चित्रकानना ।  
 सुग्रीवस्य पुरी रम्या भविष्यति नृपात्मज ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1075,12 +1149,15 @@ of Sugreeva, will not be very far off from here. [4-27-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गीतवादित्रनिर्घोषः श्रूयते जयतां वर ।  
 नदतां वानराणां च मृदङ्गाडम्बरैः सह ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,12 +1198,15 @@ together with their snobbish drumming is heard, hence it is not far away. [4-27-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लब्ध्वा भार्यां कपिवरः प्राप्य राज्यं सुहृद्‍वृतः ।  
 ध्रुवं नन्दति सुग्रीवः सम्प्राप्य महतीं श्रियम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1171,12 +1251,15 @@ kingdom." Rama thus spoke to Lakshmana. [4-27-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा न्यवसत् तत्र राघवः सहलक्ष्मणः ।  
 बहुदृश्यदरीकुञ्जे तस्मिन् प्रस्रवणे गिरौ ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1216,6 +1299,7 @@ many sightly caves and arbours are there. [4-27-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1223,6 +1307,8 @@ many sightly caves and arbours are there. [4-27-29]
 वसतस्तस्य रामस्य रतिरल्पापि नाभवत् ॥ ३० ॥  
 हृतां हि भार्यां स्मरतः प्राणेभ्योऽपि गरीयसीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,12 +1356,15 @@ resided there. [4-27-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदयाभ्युदितं दृष्ट्वा शशाङ्कं च विशेषतः ॥ ३१ ॥  
 आविवेश न तं निद्रा निशासु शयनं गतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1314,6 +1403,7 @@ who is kidnapped, especially on seeing the moon just risen on the eastern mounta
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1321,6 +1411,8 @@ who is kidnapped, especially on seeing the moon just risen on the eastern mounta
 तं शोचमानं काकुत्स्थं नित्यं शोकपरायणम् ।  
 तुल्यदुःखोऽब्रवीद्‍भ्राता लक्ष्मणोऽनुनयं वचः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,12 +1477,15 @@ tears, thereby sleep has no effect on him even if he has gone to bed in nights. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलं वीर व्यथां गत्वा न त्वं शोचितुमर्हसि ।  
 शोचतो ह्यवसीदन्ति सर्वार्था विदितं हि ते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1435,12 +1530,15 @@ know clearly. [4-27-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् क्रियापरो लोके भवान् देवपरायणः ।  
 आस्तिको धर्मशीलश्च व्यवसायी च राघव ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1491,12 +1589,15 @@ certain tasks for which you are mobilised by all the divinities and you have als
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्यव्यवसितः शत्रुं राक्षसं तं विशेषतः ।  
 समर्थस्त्वं रणे हन्तुं विक्रमे जिह्मकारिणम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1538,12 +1639,15 @@ enemy in war, specially a demon, especially a trickster, let alone all of your d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुन्मूलय शोकं त्वं व्यवसायं स्थिरीकुरु ।  
 ततः सपरिवारं तं राक्षसं हन्तुमर्हसि ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1586,12 +1690,15 @@ you will be able to eliminate that demon Ravana along with his followers. [4-27-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवीमपि काकुत्स्थ ससागरवनाचलाम् ।  
 परिवर्तयितुं शक्तः किं पुनस्तं हि रावणम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1631,12 +1738,15 @@ oceans, forests, and mountains, then what to speak of that Ravana, all the more.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरत्कालं प्रतीक्षस्व प्रावृट्कालोऽयमागतः ।  
 ततः सराष्ट्रं सगणं रावणं तं वधिष्यसि ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1681,12 +1791,15 @@ rains, and thereafter, you will eradicate that Ravana along with his city-state 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु खलु ते वीर्यं प्रसुप्तं प्रतिबोधये ।  
 दीप्तैराहुतिभिः काले भस्मच्छन्नमिवानलम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,12 +1841,15 @@ Lakshmana to Rama. [4-27-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य हि तद् वाक्यं प्रतिपूज्य हितं शुभम् ।  
 राघवः सुहृदं स्निग्धमिदं वचनमब्रवीत् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1776,12 +1892,15 @@ sentence to that good-hearted and good-natured Lakshmana. [4-27-41]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच्यं यदनुरक्तेन स्निग्धेन च हितेन च ।  
 सत्यविक्रमयुक्तेन तदुक्तं लक्ष्मण त्वया ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1821,12 +1940,15 @@ courage is truth itself, that you have said it, Lakshmana. [4-27-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष शोकः परित्यक्तः सर्वकार्यावसादकः ।  
 विक्रमेष्वप्रतिहतं तेजः प्रोत्साहयाम्यहम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1870,12 +1992,15 @@ completely. As an undefeatable one in my triumphs I am invigorating my ebullienc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरत्कालं प्रतीक्षिष्ये स्थितोऽस्मि वचने तव ।  
 सुग्रीवस्य नदीनां च प्रसादमनुपालयन् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1915,12 +2040,15 @@ in their abatement, I look forward for the autumn remaining true to your words. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपकारेण वीरस्तु प्रतिकारेण युज्यते ।  
 अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1962,6 +2090,7 @@ keeping Sugreeva in view. [4-27-45]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1970,6 +2099,8 @@ keeping Sugreeva in view. [4-27-45]
 उवाच रामं स्वभिरामदर्शनं  
 प्रदर्शयन् दर्शनमात्मनः शुभम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2022,6 +2153,7 @@ opportune viewpoint, Lakshmana spoke to Rama who by his own aspect is a delightf
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2030,6 +2162,8 @@ opportune viewpoint, Lakshmana spoke to Rama who by his own aspect is a delightf
 शरत्प्रतीक्षः क्षमतामिमं भवान्  
 जलप्रपातं रिपुनिग्रहे धृतः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2077,6 +2211,7 @@ besides bearing with the idea of disciplining the enemy. [4-27-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2085,6 +2220,8 @@ besides bearing with the idea of disciplining the enemy. [4-27-47]
 वसाचलेऽस्मिन् मृगराजसेविते  
 संवर्तयन् शत्रुवधे समर्थः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2146,5 +2283,6 @@ lion, although you are capable to eliminate the enemy at any moment like a lion.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तेळनॆय सर्ग सम्पूर्णवायितु.॥27॥
+</details>
 </details>
 

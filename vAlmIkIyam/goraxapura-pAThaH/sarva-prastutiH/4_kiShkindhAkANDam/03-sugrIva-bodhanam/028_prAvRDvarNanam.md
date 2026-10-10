@@ -2,6 +2,8 @@
 title = "०२८ प्रावृड्वर्णनम्"
 title_english = "028 Eulogy on Rainy Season"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,12 +25,15 @@ here.
 
 28. श्रीरामके द्वारा वर्षा-ऋतुका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा वालिनं हत्वा सुग्रीवमभिषिच्य च ।  
 वसन् माल्यवतः पृष्ठे रामो लक्ष्मणमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ the elimination of Vali and enthronement of Sugreeva. [3-28-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं स कालः सम्प्राप्तः समयोऽद्य जलागमः ।  
 सम्पश्य त्वं नभो मेघैः संवृतं गिरिसन्निभैः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +123,7 @@ covered with mountainous clouds. [3-28-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,6 +132,8 @@ covered with mountainous clouds. [3-28-2]
 **पीत्वा रसं** समुद्राणां  
 **द्यौः प्रसूते रसायनम्** ॥ ३ ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -179,12 +190,15 @@ nava maasa dhR^itam sasyaanaam ShaD rasa sampatti hetu bhuutam shuddham udakam s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्यमम्बरमारुह्य मेघसोपानपङ्क्तिभिः ।  
 कुटजार्जुनमालाभिरलङ्कर्तुं दिवाकरः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ not at his side. Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ध्यारागोत्थितैस्ताम्रैरन्तेष्वपि च पाण्डुभिः ।  
 स्निग्धैरभ्रपटच्छेदैर्बद्धव्रणमिवाम्बरम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +301,15 @@ clouds, while the colour of spilt blood is still appearing on those dressings bo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्दमारुतिनिःश्वासं सन्ध्याचन्दनरञ्जितम् ।  
 आपाण्डुजलदं भाति कामातुरमिवाम्बरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,12 +357,15 @@ and daubing of sandal pastes to cool off her yearning for love.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा घर्मपरिक्लिष्टा नववारिपरिप्लुता ।  
 सीतेव शोकसन्तप्ता मही बाष्पं विमुञ्चति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +414,15 @@ is like Seetha who is also in the same predicament of earth, as the heat called 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघोदरविनिर्मुक्ताः कर्पूरदलशीतलाः ।  
 शक्यमञ्जलिभिः पातुं वाताः केतकगन्धिनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +462,15 @@ such as these breezes are it is possible to have a draught of them with the bowl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष फुल्लार्जुनः शैलः केतकैरभिवासितः ।  
 सुग्रीव इव शान्तारिर्धाराभिरभिषिच्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,6 +518,7 @@ by rainy downpours.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -497,6 +527,8 @@ by rainy downpours.
 मारुतापूरित-गुहाः  
 प्राधीता इव पर्वताः ॥ १० ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -554,12 +586,15 @@ brahmacaariNaam kR^iShNa ajina yaj~nopaviita aadi dhaaraNam dharma iti uktam - d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कशाभिरिव हैमीभिर्विद्युद्भिरभिताडितम् ।  
 अन्तःस्तनितनिर्घोषं सवेदनमिवाम्बरम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +637,15 @@ of thunders holding out against its inly throes. [3-28-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलमेघाश्रिता विद्युत् स्फुरन्ती प्रतिभाति मे ।  
 स्फुरन्ती रावणस्याङ्के वैदेहीव तपस्विनी ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +687,15 @@ of Ravana. [3-28-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमास्ता मन्मथवतां हिताः प्रतिहता दिशः ।  
 अनुलिप्ता इव घनैर्नष्टग्रहनिशाकराः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,6 +736,7 @@ have their planets and even their moon lost, and they look as though begrimed wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -702,6 +744,8 @@ have their planets and even their moon lost, and they look as though begrimed wi
 कुटजान् पश्य सौमित्रे पुष्पितान् गिरिसानुषु ।  
 मम शोकाभिभूतस्य कामसन्दीपनान् स्थितान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,6 +802,7 @@ path.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -766,6 +811,8 @@ path.
 स्थिता हि यात्रा वसुधाधिपानां  
 प्रवासिनो यान्ति नराः स्वदेशान् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,6 +878,7 @@ salvation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -839,6 +887,8 @@ salvation.
 अभीक्ष्णवर्षोदकविक्षतेषु  
 यानानि मार्गेषु न सम्पतन्ति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,6 +950,7 @@ the seekers to seek the Supreme, without any bickerings due from the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -908,6 +959,8 @@ the seekers to seek the Supreme, without any bickerings due from the world.
 क्वचित् क्वचित् पर्वतसन्निरुद्धं  
 रूपं यथा शान्तमहार्णवस्य ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,6 +1013,7 @@ of that sky, or Supreme Being.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -968,6 +1022,8 @@ of that sky, or Supreme Being.
 मयूरकेकाभिरनुप्रयातं  
 शैलापगाः शीघ्रतरं वहन्ति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1024,6 +1080,7 @@ and screeching peacocks indicate such simple devotees. Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1032,6 +1089,8 @@ and screeching peacocks indicate such simple devotees. Govindaraja.
 अनेकवर्णं पवनावधूतं  
 भूमौ पतत्याम्रफलं विपक्वम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1085,6 +1144,7 @@ actions but not according to their richness or otherwise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1093,6 +1153,8 @@ actions but not according to their richness or otherwise.
 गर्जन्ति मेघाः समुदीर्णनादा  
 मत्ता गजेन्द्रा इव संयुगस्थाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,6 +1207,7 @@ opponents.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1153,6 +1216,8 @@ opponents.
 वनानि निर्वृष्टबलाहकानि  
 पश्यापराह्णेष्वधिकं विभान्ति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,6 +1271,7 @@ morning, morning, noon, afternoon, and evening.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1214,6 +1280,8 @@ morning, morning, noon, afternoon, and evening.
 महत्सु शृङ्गेषु महीधराणां  
 विश्रम्य विश्रम्य पुनः प्रयान्ति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,6 +1339,7 @@ cranes, both trying to carry the seed, the Supreme Being, in their wombs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1279,6 +1348,8 @@ cranes, both trying to carry the seed, the Supreme Being, in their wombs.
 वातावधूता वरपौण्डरीकी  
 लम्बेव माला रुचिराम्बरस्य ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1337,6 +1408,7 @@ that of the colourless sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1345,6 +1417,8 @@ that of the colourless sky.
 गात्रानुपृक्तेन शुकप्रभेण  
 नारीव लाक्षोक्षितकम्बलेन ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1396,6 +1470,7 @@ opportunely, and the green pastures are His fertile kindness that reveal after h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1404,6 +1479,8 @@ opportunely, and the green pastures are His fertile kindness that reveal after h
 हृष्टा बलाका घनमभ्युपैति  
 कान्ता सकामा प्रियमभ्युपैति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,6 +1551,7 @@ meghasandesha*.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1482,6 +1560,8 @@ meghasandesha*.
 जाता वृषा गोषु समानकामा  
 जाता मही सस्यवनाभिरामा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1533,6 +1613,7 @@ earth with its enrapturing crops and orchards, and all are adaptive to the seaso
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1541,6 +1622,8 @@ earth with its enrapturing crops and orchards, and all are adaptive to the seaso
 नद्यो घना मत्तगजा वनान्ताः  
 प्रियाविहीनाः शिखिनः प्लवङ्गमाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1591,6 +1674,7 @@ at any one place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1599,6 +1683,8 @@ at any one place.
 प्रपातशब्दाकुलिता गजेन्द्राः  
 सार्धं मयूरैः समदा नदन्ति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1657,6 +1743,7 @@ start dancing in the rain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1665,6 +1752,8 @@ start dancing in the rain.
 क्षणार्जितं पुष्परसावगाढं  
 शनैर्मदं षट्चरणास्त्यजन्ति ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1711,6 +1800,7 @@ flowers. [3-28-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1719,6 +1809,8 @@ flowers. [3-28-29]
 जम्बूद्रुमाणां प्रविभान्ति शाखा  
 निपीयमाना इव षट्पदौघैः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1764,6 +1856,7 @@ the branches of those trees shine forth as though swilled by hives of honeybees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1772,6 +1865,8 @@ the branches of those trees shine forth as though swilled by hives of honeybees.
 विभान्ति रूपाणि बलाहकानां  
 रणोत्सुकानामिव वारणानाम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1821,6 +1916,7 @@ appearances are verily shining forth like the elephants enthusiastic for a war. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1829,6 +1925,8 @@ appearances are verily shining forth like the elephants enthusiastic for a war. 
 युद्धाभिकामः प्रतिनादशङ्की  
 मत्तो गजेन्द्रः प्रतिसन्निवृत्तः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1886,6 +1984,7 @@ Thus, he takes an elephantine U-turn to colloid headlong with his opponent to es
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1894,6 +1993,8 @@ Thus, he takes an elephantine U-turn to colloid headlong with his opponent to es
 क्वचित् प्रमत्ता इव वारणेन्द्रै-  
 र्विभान्त्यनेकाश्रयिणो वनान्ताः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1941,6 +2042,7 @@ retreats to many bees, birds and animals. [3-28-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1949,6 +2051,8 @@ retreats to many bees, birds and animals. [3-28-33]
 मयूरमत्ताभिरुतप्रनृत्तै-  
 रापानभूमिप्रतिमा विभाति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2002,6 +2106,7 @@ is metaphoric with the liquor-drunk boozers, or, say cabaret artists, and the la
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2010,6 +2115,8 @@ is metaphoric with the liquor-drunk boozers, or, say cabaret artists, and the la
 हृष्टा विवर्णच्छदना विहङ्गाः  
 सुरेन्द्रदत्तं तृषिताः पिबन्ति ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2062,6 +2169,7 @@ and the whole of natural happenings are at Indra's behest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2070,6 +2178,8 @@ and the whole of natural happenings are at Indra's behest.
 आविष्कृतं मेघ-मृदङ्ग-नादैर्  
 वनेषु सङ्गीतम् इव प्रवृत्तम् ॥ ३६ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -2138,6 +2248,7 @@ varNitam | gaana arthatayaa raama nikaTe kusha lavayoH preShaNam tu*.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2146,6 +2257,8 @@ varNitam | gaana arthatayaa raama nikaTe kusha lavayoH preShaNam tu*.
 व्यालम्बबर्हाभरणैर्मयूरै-  
 र्वनेषु सङ्गीतमिव प्रवृत्तम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2191,6 +2304,7 @@ in the forests as programmed. [3-28-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2199,6 +2313,8 @@ in the forests as programmed. [3-28-37]
 अनेक-रूपाकृति-वर्ण-नादा  
 नवाम्बु-धाराभिहता नदन्ति ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -2266,6 +2382,7 @@ alike, as amphibians, for their happy dwelling.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2274,6 +2391,8 @@ alike, as amphibians, for their happy dwelling.
 दृप्ता नवप्रावृतपूर्णभोगा-  
 दृतं स्वभर्तारमुपोपयान्ति ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2334,6 +2453,7 @@ around them, as though their lust is overflowing the brims of riverbanks, called
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2342,6 +2462,8 @@ around them, as though their lust is overflowing the brims of riverbanks, called
 दवाग्निदग्धेषु दवाग्निदग्धाः  
 शैलेषु शैला इव बद्धमूलाः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2385,6 +2507,7 @@ mountains burnt by wildfire docking among other mountains that are already burnt
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2393,6 +2516,8 @@ mountains burnt by wildfire docking among other mountains that are already burnt
 चरन्ति नीपार्जुनवासितानि  
 गजाः सुरम्याणि वनान्तराणि ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2437,6 +2562,7 @@ are overspread with red-beetles, and where they are fragranced with the flowers 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2445,6 +2571,8 @@ are overspread with red-beetles, and where they are fragranced with the flowers 
 कदम्बपुष्पाणि सकेसराणि  
 नवानि हृष्टा भ्रमराः पिबन्ति ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2494,6 +2622,7 @@ honeybees are quaffing the Kadamba flowers with new fibrils. [3-28-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2502,6 +2631,8 @@ honeybees are quaffing the Kadamba flowers with new fibrils. [3-28-42]
 रम्या नगेन्द्राः निभृता नरेन्द्राः  
 प्रक्रीडितो वारिधरैः सुरेन्द्रः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2554,6 +2685,7 @@ of gods, Indra, is playing well with water giving clouds. [3-28-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2562,6 +2694,8 @@ of gods, Indra, is playing well with water giving clouds. [3-28-43]
 नदीस्तटाकानि सरांसि वापी-  
 र्महीं च कृत्स्नामपवाहयन्ति ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2606,6 +2740,7 @@ are inundating rivers, lakes, pools, tanks and even the earth. [3-28-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2614,6 +2749,8 @@ are inundating rivers, lakes, pools, tanks and even the earth. [3-28-44]
 प्रणष्टकूलाः प्रवहन्ति शीघ्रं  
 नद्यो जलं विप्रतिपन्नमार्गाः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2658,6 +2795,7 @@ are conducting water speedily over their eroded riverbanks and far afield of the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2666,6 +2804,8 @@ are conducting water speedily over their eroded riverbanks and far afield of the
 घनाम्बुकुम्भैरभिषिच्यमाना  
 रूपं श्रियं स्वामिव दर्शयन्ति ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2713,6 +2853,7 @@ thus these lordly mountains are standing alone as if showing their grandeur and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2721,6 +2862,8 @@ thus these lordly mountains are standing alone as if showing their grandeur and 
 नवैर्जलौघैर्धरणी वितृप्ता  
 तमोविलिप्ता न दिशः प्रकाशाः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2772,6 +2915,7 @@ after inaccessible desires, thus they cycle through the karmic cycle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2780,6 +2924,8 @@ after inaccessible desires, thus they cycle through the karmic cycle.
 महाप्रमाणैर्विपुलैः प्रपातै-  
 र्मुक्ताकलापैरिव लम्बमानैः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2826,6 +2972,7 @@ pendulous on the chests of mountains. [3-28-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2834,6 +2981,8 @@ pendulous on the chests of mountains. [3-28-48]
 गुहासु सन्नादितबर्हिणासु  
 हारा विकीर्यन्त इवावभान्ति ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2887,6 +3036,7 @@ gems, and if many such pendants are strewn around, each of its studded stone emi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2895,6 +3045,8 @@ gems, and if many such pendants are strewn around, each of its studded stone emi
 मुक्ताकलापप्रतिमाः पतन्तो  
 महागुहोत्सङ्गतलैर्ध्रियन्ते ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2948,12 +3100,15 @@ of mountains. Those caves are glittering with the colours of peacocks, pearly wa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरतामर्दविच्छिन्नाः स्वर्गस्त्रीहारमौक्तिकाः ।  
 पतन्ति चातुला दिक्षु तोयधाराः समन्ततः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2997,12 +3152,15 @@ streams of water are falling all over and in all directions. [3-28-51]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलीयमानैर्विहगैर्निमीलद्भिश्च पङ्कजैः ।  
 विकसन्त्या च मालत्या गतोऽस्तं ज्ञायते रविः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3041,6 +3199,7 @@ gone into dusk. [3-28-52]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3049,6 +3208,8 @@ gone into dusk. [3-28-52]
 वैराणि चैव मार्गाश् च  
 सलिलेन समीकृताः ॥ ५३ ॥ +++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3087,6 +3248,7 @@ roadways. [3-28-53]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3095,6 +3257,8 @@ roadways. [3-28-53]
 अयम् **अध्याय-समयः**  
 सामगानाम् **उपस्थितः** ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -3148,12 +3312,15 @@ this time young celibates are initiated into Vedic studies which commences on *b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तकर्मायतनो नूनं सञ्चितसञ्चयः ।  
 आषाढीमभ्युपगतो भरतः कोसलाधिपः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3192,12 +3359,15 @@ of Kosala, might have definitely undertaken the 'four-month-vow' on the full moo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनमापूर्यमाणायाः सरय्वा वर्धते रयः ।  
 मां समीक्ष्य समायान्तमयोध्याया इव स्वनः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3243,12 +3413,15 @@ swashing of Sarayu, as both soundalike.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमाः स्फीतगुणा वर्षाः सुग्रीवः सुखमश्नुते ।  
 विजितारिः सदारश्च राज्ये महति च स्थितः ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3289,12 +3462,15 @@ as a king of an admirable kingdom. [3-28-57]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु हृतदारश्च राज्याच्च महतश्च्युतः ।  
 नदीकूलमिव क्लिन्नमवसीदामि लक्ष्मण ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3334,12 +3510,15 @@ am toppling down like a riverbank that is toppled over. [3-28-58]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकश्च मम विस्तीर्णो वर्षाश्च भृशदुर्गमाः ।  
 रावणश्च महाञ्छत्रुरपारः प्रतिभाति मे ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3382,12 +3561,15 @@ one, thus these three appear to me as insurmountable obstacles. [3-28-59]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयात्रां चैव दृष्ट्वेमां मार्गांश्च भृशदुर्गमान् ।  
 प्रणते चैव सुग्रीवे न मया किञ्चिदीरितम् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3430,12 +3612,15 @@ any campaign, and even the pathways are rendered highly impassable I have not sa
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चापि परिक्लिष्टं चिराद् दारैः समागतम् ।  
 आत्मकार्यगरीयस्त्वाद् वक्तुं नेच्छामि वानरम् ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3476,12 +3661,15 @@ monkey. [3-28-61]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयमेव हि विश्रम्य ज्ञात्वा कालमुपागतम् ।  
 उपकारं च सुग्रीवो वेत्स्यते नात्र संशयः ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3520,12 +3708,15 @@ something to requite, isn't it! So, there needn't be any doubt in that matter. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् कालप्रतीक्षोऽहं स्थितोऽस्मि शुभलक्षण ।  
 सुग्रीवस्य नदीनां च प्रसादमभिकाङ्क्षयन् ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3567,12 +3758,15 @@ the generosity of Sugreeva and of these rivers. [3-28-63]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपकारेण वीरो हि प्रतीकारेण युज्यते ।  
 अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3613,6 +3807,7 @@ soft-hearted people." Rama said so to Lakshmana, keeping Sugreeva in view. [3-28
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3621,6 +3816,8 @@ soft-hearted people." Rama said so to Lakshmana, keeping Sugreeva in view. [3-28
 उवाच रामं स्वभिरामदर्शनं  
 प्रदर्शयन् दर्शनमात्मनः शुभम् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3667,6 +3864,7 @@ his own aspect is a delightful one for a ken. [3-28-65]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3675,6 +3873,8 @@ his own aspect is a delightful one for a ken. [3-28-65]
 शरत्प्रतीक्षः क्षमतामिमं भवान्  
 जलप्रपातं रिपुनिग्रहे धृतः ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3740,5 +3940,6 @@ verses in this canto bear the blemish of interpolations.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥28॥
+</details>
 </details>
 

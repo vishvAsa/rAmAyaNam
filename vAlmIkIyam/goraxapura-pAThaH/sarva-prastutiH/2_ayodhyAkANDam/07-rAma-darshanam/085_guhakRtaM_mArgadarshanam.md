@@ -2,6 +2,8 @@
 title = "०८५ गुहकृतं मार्गदर्शनम्"
 title_english = "085 Bharata thanks Guha for his hospitality"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -25,12 +27,15 @@ Bharata thanks Guha for having come forward to offer hospitality to him and his
 
 85. गुह और भरतकी बातचीत तथा भरतका शोक
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भरतो निषादाधिपतिं गुहम् ।  
 प्रत्युवाच महाप्राज्ञो वाक्यं हेत्वर्थसंहितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ in words that were full of reason and meaning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्जितः खलु ते कामः कृतो मम गुरोः सखे ।  
 यो मे त्वमीदृशीं सेनामभ्यर्चयितुमिच्छसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ such a magnitude, is great.?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा स महातेजा गुहं वचनमुत्तमम् ।  
 अब्रवीद् भरतः श्रीमान् पन्थानं दर्शयन् पुनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ of great splendor, said again to Guha the kingof Nishadas (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कतरेण गमिष्यामि भरद्वाजाश्रमं यथा ।  
 गहनोऽयं भृशं देशो गङ्गानूपो दुरत्ययः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ engulfed in waters of Ganga River is not very much easy to negotiate and is diff
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राजपुत्रस्य धीमतः ।  
 अब्रवीत् प्राञ्जलिर्भूत्वा गुहो गहनगोचरः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,12 +262,15 @@ answered as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दाशास्त्वनुगमिष्यन्ति देशज्ञाः सुसमाहिताः ।  
 अहं चानुगमिष्यामि राजपुत्र महाबल ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +313,15 @@ certainly accompany you. I too will follow you (inperson).?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न दुष्टो व्रजसि रामस्याक्लिष्टकर्मणः ।  
 इयं ते महती सेना शङ्कां जनयतीव मे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +361,15 @@ of yours is begetting an apprehension in my mind.?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमभिभाषन्तमाकाश इव निर्मलः ।  
 भरतः श्लक्ष्णया वाचा गुहं वचनमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +409,15 @@ to that Guha, who confessed his doubt asaforesaid.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा भूत् स कालो यत् कष्टं न मां शङ्कितुमर्हसि ।  
 राघवः स हि मे भ्राता ज्येष्ठः पितृसमो मतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +457,15 @@ Rama my elder brother is indeed regarded as my father.?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं निवर्तयितुं यामि काकुत्स्थं वनवासिनम् ।  
 बुद्धिरन्या न मे कार्या गुह सत्यं ब्रवीमि ते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,12 +505,15 @@ should be made by you. I am telling you the truth.?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु संहृष्टवदनः श्रुत्वा भरतभाषितम् ।  
 पुनरेवाब्रवीद् वाक्यं भरतं प्रति हर्षितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +553,15 @@ again to Bharata as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्यस्त्वं न त्वया तुल्यं पश्यामि जगतीतले ।  
 अयत्नादागतं राज्यं यस्त्वं त्यक्तुमिहेच्छसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +601,15 @@ empire you acquired now, even without effort.?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाश्वती खलु ते र्कीतिर्लोकाननु चरिष्यति ।  
 यस्त्वं कृच्छ्रगतं रामं प्रत्यानयितुमिच्छसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,12 +652,15 @@ who wishes to bring back Rama from his terribleplight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्भाषमाणस्य गुहस्य भरतं तदा ।  
 बभौ नष्टप्रभः सूर्यो रजनी चाभ्यवर्तत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +699,15 @@ While Guha was talking thus to Bharata, the sun diffused lesslight and the night
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्निवेश्य स तां सेनां गुहेन परितोषितः ।  
 शत्रुघ्नेन समं श्रीमाञ्छयनं पुनरागमत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +750,15 @@ returned to his camp and took rest along withShatrughna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामचिन्तामयः शोको भरतस्य महात्मनः ।  
 उपस्थितो ह्यनर्हस्य धर्मप्रेक्षस्य तादृशः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,12 +797,15 @@ sorrow, indeed felt grief, born of anguish for Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्दाहेन दहनः सन्तापयति राघवम् ।  
 वनदाहाग्निसन्तप्तं गूढोऽग्निरिव पादपम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +845,15 @@ of anguish burn with in his heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसृतः सर्वगात्रेभ्यः स्वेदं शोकाग्निसम्भवम् ।  
 यथा सूर्यांशुसन्तप्तो हिमवान् प्रसृतो हिमम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,6 +893,7 @@ by solar rays melts and flows from Himavat mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -845,6 +902,8 @@ by solar rays melts and flows from Himavat mountain.
 प्रमोहानन्तसत्त्वेन सन्तापौषधिवेणुना ।  
 आक्रान्तो दुःखशैलेन महता कैकयीसुतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,6 +952,7 @@ fatigue, countless wild beasts in the shape of swoons, herbs and bamboos inthe f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -901,6 +961,8 @@ fatigue, countless wild beasts in the shape of swoons, herbs and bamboos inthe f
 शमं न लेभे हृदयज्वरार्दितो  
 नरर्षभो यूथहतो यथर्षभः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,6 +1014,7 @@ in his breast and likea bull strayed from its herd, found no peace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -960,6 +1023,8 @@ in his breast and likea bull strayed from its herd, found no peace.
 सुदुर्मनास्तं भरतं तदा पुन-  
 र्गुहः समाश्वासयदग्रजं प्रति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,5 +1079,6 @@ reassured Bharata again as regards his elderbrother.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तैदनॆय सर्ग पूर्णवायितु ॥85॥
+</details>
 </details>
 

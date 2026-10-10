@@ -2,6 +2,8 @@
 title = "०३० रावणेन शार्दूलप्रेषणम्"
 title_english = "030 Ravana dispatches Sardula the demon spy"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ monkeys.
 
 30. रावणके भेजे हुए गुप्तचरों एवं शार्दूलका उससे वानर-सेनाका समाचार बताना और मुख्य-मुख्य वीरोंका परिचय देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तमक्षोभ्यबलं लङ्काधिपतये चराः ।  
 सुवेले राघवं शैले निविष्टं प्रत्यवेदयन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ having encamped on Suvela Mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम् ।  
 जातोद्वेगोऽभवत् किञ्चिच्छार्दूलं वाक्यमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ became a little perturbed and spoke to Shardula as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयथावच्च ते वर्णो दीनश्चासि निशाचर ।  
 नासि कच्चिदमित्राणां क्रुद्धानां वशमागतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ that you have not fallen a victim to the enraged monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तेनानुशिष्टस्तु वाचं मन्दमुदीरयन् ।  
 तदा राक्षसशार्दूलं शार्दूलो भयविक्लवः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ following words to Ravana the tiger among demons:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते चारयितुं शक्या राजन् वानरपुङ्गवाः ।  
 विक्रान्ता बलवन्तश्च राघवेण च रक्षिताः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ of being spied upon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि सम्भाषितुं शक्याः सम्प्रश्नोऽत्र न लभ्यते ।  
 सर्वतो रक्ष्यते पन्था वानरैः पर्वतोपमैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ with them. The entire path is being protected by the monkeys looking like mounta
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टमात्रे ज्ञातोऽहं बले तस्मिन् विचारिते ।  
 बलाद् गृहीतो रक्षोभिर्बहुधास्मि विचारितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ me in various ways."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानुभिर्मुष्टिभिर्दन्तैस्तलैश्चाभिहतो भृशम् ।  
 परिणीतोऽस्मि हरिभिर्बलमध्ये अमर्षणैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ monkeys. I was also paraded round in the midst of their army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिणीय च सर्वत्र नीतोऽहं रामसंसदि ।  
 रुधिरस्राविदीनाङ्गो विह्वलश्चलितेन्द्रियः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ disturbed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरिभिर्वध्यमानश्च याचमानः कृताञ्जलिः ।  
 राघवेण परित्रातो मा मेति च यदृच्छया ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +511,15 @@ was saved fortunately by Rama, saying �stay!stay!'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष शैलशिलाभिस्तु पूरयित्वा महार्णवम् ।  
 द्वारमाश्रित्य लङ्काया रामस्तिष्ठति सायुधः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ gates of Lanka and stands there, well-equipped with weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गरुडव्यूहमास्थाय सर्वतो हरिभिर्वृतः ।  
 मां विसृज्य महातेजा लङ्कामेवातिवर्तते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +612,15 @@ approaching; *laN^kaameva* = towards Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा प्राकारमायाति क्षिप्रमेकतरं कुरु ।  
 सीतां वापि प्रयच्छाशु युद्धं वापि प्रदीयताम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +660,15 @@ Seetha immediately or even offer him battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसा तत् तदा प्रेक्ष्य तच्छ्रुत्वा राक्षसाधिपः ।  
 शार्दूलं सुमहद्वाक्यमथोवाच स रावणः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,12 +709,15 @@ spoke the following significant words to Shardula.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां प्रतियुध्यन्ते देवगन्धर्वदानवाः ।  
 नैव सीतां प्रदास्यामि सर्वलोकभयादपि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,12 +757,15 @@ musicians or the demons were to fight against me or even under danger from all b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा रावणः पुनरब्रवीत् ।  
 चरिता भवता सेना केऽत्र शूराः प्लवङ्गमाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +806,15 @@ the army been espied by you? Who are the valiant monkeys among them?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम्प्रभाः कीदृशाः सौम्य वानरा ये दुरासदाः ।  
 कस्य पुत्राश्च पौत्राश्च तत्त्वमाख्याहि राक्षस ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +856,15 @@ information."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथात्र प्रतिपत्स्यामि ज्ञात्वा तेषां बलाबलम् ।  
 अवश्यं खलु सङ्ख्यानं कर्तव्यं युद्धमिच्छता ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,12 +906,15 @@ battle?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैवमुक्तः शार्दूलो रावणेनोत्तमश्चरः ।  
 इदं वचनमारेभे वक्तुं रावणसन्निधौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -898,12 +957,15 @@ words for Ravana's information:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथर्क्षरजसः पुत्रो युधि राजन् सुदुर्जयः ।  
 गद‍्गदस्याथ पुत्रोऽत्र जाम्बवानिति विश्रुतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1006,15 @@ battle. Here is the son of Gadgada, famously called as Jambavan."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गद‍्गदस्याथ पुत्रोऽन्यो गुरुपुत्रः शतक्रतोः ।  
 कदनं यस्य पुत्रेण कृतमेकेन रक्षसाम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1056,15 @@ destroyed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषेणश्चात्र धर्मात्मा पुत्रो धर्मस्य वीर्यवान् ।  
 सौम्यः सोमात्मजश्चात्र राजन् दधिमुखः कपिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1037,12 +1105,15 @@ virtuous, as well as a monkey called Dadhimukha, the cool-minded, who is the son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमुखो दुर्मुखश्चात्र वेगदर्शी च वानरः ।  
 मृत्युर्वानररूपेण नूनं सृष्टः स्वयम्भुवा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1082,12 +1153,15 @@ death in the form of monkeys, created by Brahma, the Lord of creation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रो हुतवहस्यात्र नीलः सेनापतिः स्वयम् ।  
 अनिलस्य तु पुत्रोऽत्र हनूमानिति विश्रुतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,12 +1204,15 @@ the son of Vayu the Lord of Wind well- known as Hanuman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नप्ता शक्रस्य दुर्धर्षो बलवानङ्गदो युवा ।  
 मैन्दश्च द्विविदश्चोभौ बलिनावश्विसम्भवौ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,12 +1232,15 @@ _________________
 
 बलवन्त हागू दुर्जयवीर अङ्गदनु इन्द्रन मॊम्मगनागिद्दानॆ. अवनु इन्नू तरुणनागिद्दानॆ. बलिष्ठराद मैन्द-द्विविदरु अश्विनी कुमारर पुत्ररागिद्दारॆ.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रा वैवस्वतस्याथ पञ्च कालान्तकोपमाः ।  
 गजो गवाक्षो गवयः शरभो गन्धमादनः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,12 +1257,15 @@ _________________
 
 गज, गवाक्ष, गवय, शरभ मत्तु गन्धमादन इवरु यमन पुत्ररागिद्दु, कालान्तकनन्तॆ पराक्रमिगळागिद्दारॆ.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश वानरकोट्यश्च शूराणां युद्धकाङ्क्षिणाम् ।  
 श्रीमतां देवपुत्राणां शेषं नाख्यातुमुत्सहे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1233,12 +1316,15 @@ sickness; they are considered as the physicians of heaven.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रो दशरथस्यैष सिंहसंहननो युवा ।  
 दूषणो निहतो येन खरश्च त्रिशिरास्तथा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,12 +1365,15 @@ Dushana ws killed as also Khara and Trishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्ति रामस्य सदृशे विक्रमे भुवि कश्चन ।  
 विराधो निहतो येन कबन्धश्चान्तकोपमः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,12 +1413,15 @@ killed as also Kabandha who was equal to Yama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वक्तुं न शक्तो रामस्य गुणान् कश्चिन्नरः क्षितौ ।  
 जनस्थानगता येन तावन्तो राक्षसा हताः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1366,12 +1458,15 @@ demons staying in Janasthana were killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्चात्र धर्मात्मा मातङ्गानामिवर्षभः ।  
 यस्य बाणपथं प्राप्य न जीवेदपि वासवः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1389,12 +1484,15 @@ demons staying in Janasthana were killed."
 
 ‘धर्मात्मा लक्ष्मण भी श्रेष्ठ गजराजके समान पराक्रमी हैं, उनके बाणोंका निशाना बन जानेपर देवराज इन्द्र भी जीवित नहीं रह सकते ॥ ३१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वेतो ज्योतिर्मुखश्चात्र भास्करस्यात्मसम्भवौ ।  
 वरुणस्याथ पुत्रोऽथ हेमकूटः प्लवङ्गमः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1438,12 +1536,15 @@ survive
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वकर्मसुतो वीरो नलः प्लवगसत्तमः ।  
 विक्रान्तो वेगवानत्र वसुपुत्रः स दुर्धरः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1482,12 +1583,15 @@ mighty and swift Durdhara the son of Vasus are all here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां वरिष्ठश्च तव भ्राता विभीषणः ।  
 प्रतिगृह्य पुरीं लङ्कां राघवस्य हिते रतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1531,12 +1635,15 @@ of Lanka (as a prospective gift from Rama) remains devoted to the good of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सर्वं समाख्यातं तथा वै वानरं बलम् ।  
 सुवेलेऽधिष्ठितं शैले शेषकार्ये भवान् गतिः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1591,5 +1698,6 @@ Suvela. Now, it is for you to decide what remains to be done!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तनॆय सर्गवु पूर्णवायितु.॥30॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०८५ इन्द्रजिद्धननाय लक्ष्मणप्रेषणम्"
 title_english = "085 Rama sends Lakshmana to kill Indrajit"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ Nikumbhila.
 
 85. विभीषणके अनुरोधसे श्रीरामचन्द्रजीका लक्ष्मणको इन्द्रजित् के वधके लिये जानेकी आज्ञा देना और सेनासहित लक्ष्मणका निकुम्भिला-मन्दिरके पास पहुँचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राघवः शोककर्शितः ।  
 नोपधारयते व्यक्तं यदुक्तं तेन रक्षसा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ understand clearly what was spoken by that demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो धैर्यमवष्टभ्य रामः परपुरञ्जयः ।  
 विभीषणमुपासीनमुवाच कपिसन्निधौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ to Vibhishana who was sitting nearby and in front of the monkeys (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैर्ऋताधिपते वाक्यं यदुक्तं ते विभीषण ।  
 भूयस्तच्छ्रोतुमिच्छामि ब्रूहि यत्ते विवक्षितम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ to hear again, whatever you intend to tell me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य वचः श्रुत्वा वाक्यं वाक्यविशारदः ।  
 यत् तत् पुनरिदं वाक्यं बभाषेऽथ विभीषणः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ expression, again spoke his words gently as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाऽऽज्ञप्तं महाबाहो त्वया गुल्मनिवेशनम् ।  
 तत् तथानुष्ठितं वीर त्वद्वाक्यसमनन्तरम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +251,15 @@ was done by me in the manner as enjoined by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्यनीकानि सर्वाणि विभक्तानि समन्ततः ।  
 विन्यस्ता यूथपाश्चैव यथान्यायं विभागशः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +300,15 @@ those divisions were arrayed and distributed according to their ranks."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयस्तु मम विज्ञाप्यं तच्छृणुष्व महाप्रभो ।  
 त्वय्यकारणसन्तप्ते सन्तप्तहृदया वयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,12 +348,15 @@ are lamenting without any cause, we feel painful at our hearts."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यज राजन्निमं शोकं मिथ्या सन्तापमागतम् ।  
 यदियं त्यज्यतां चिन्ता शत्रुहर्षविवर्धिनी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,12 +397,15 @@ which augments the pleasure of your adversaries be therefore abandoned."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यमः क्रियतां वीर हर्षः समुपसेव्यताम् ।  
 प्राप्तव्या यदि ते सीता हन्तव्याश्च निशाचराः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +439,7 @@ up for the occasion. Keep yourself cheerful."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +447,8 @@ up for the occasion. Keep yourself cheerful."
 साध्वयं यातु सौमित्रिर्बलेन महता वृतः ॥ १० ॥  
 निकुम्भिलायां सम्प्राप्तं हन्तुं रावणिमाहवे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +466,15 @@ up for the occasion. Keep yourself cheerful."
 
 रघुनन्दन! नानॊन्दु आवश्यक मातन्नु हेळुत्तेनॆ. नन्न हितकर मातन्नु केळिरि. रावणियु निकुम्भिळा मन्दिरक्कॆ होगिद्दानॆ. आद्दरिन्द ई सुमित्राकुमार लक्ष्मणनु विशाल सैन्यदॊन्दिगॆ अवन मेलॆ आक्रमण माडलि. आ रावणपुत्रनन्नु आक्रमिसुवुदे ऒळ्ळॆयदु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुर्मण्डलनिर्मुक्तैराशीविषविषोपमैः ॥ ११ ॥  
 शरैर्हन्तुं महेष्वासो रावणिं समितिञ्जयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +512,15 @@ serpentine poison released from his snake-like bow in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन वीरेण तपसा वरदानात् स्वयम्भुवः ।  
 अस्त्रं ब्रह्मशिरः प्राप्तं कामगाश्च तुरङ्गमाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,12 +554,15 @@ from Brahma and also horses, which are coursing at his will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष किल सैन्येन प्राप्तः किल निकुम्भिलाम् ।  
 यद्युत्तिष्ठेत् कृतं कर्म हतान् सर्वांश्च विद्धि नः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,6 +603,7 @@ If he comes forth after completing his sacrificial act, know that all of us as k
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -570,6 +612,8 @@ If he comes forth after completing his sacrificial act, know that all of us as k
 वरो दत्तो महाबाहो सर्वलोकेश्वरेण वै ।  
 इत्येवं विहितो राजन् वधस्तस्यैष धीमतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +668,15 @@ to be the cause of your killing."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधायेन्द्रजितो राम सन्दिशस्व महाबलम् ।  
 हते तस्मिन् हतं विद्धि रावणं ससुहृद‍्गणम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +716,15 @@ that Ravana along with his associate troops also as killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा रामो वाक्यमथाब्रवीत् ।  
 जानामि तस्य रौद्रस्य मायां सत्यपराक्रम ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,12 +759,15 @@ true prowess! I know the conjuring trick of that terrific demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि ब्रह्मास्त्रवित् प्राज्ञो महामायो महाबलः ।  
 करोत्यसञ्ज्ञान् सङ्ग्रामे देवान् सवरुणानपि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +809,7 @@ unconscious in battle even the gods along with Varuna the king of gods."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -764,6 +818,8 @@ unconscious in battle even the gods along with Varuna the king of gods."
 राघवस्तु रिपोर्ज्ञात्वा मायावीर्यं दुरात्मनः ।  
 लक्ष्मणं कीर्तिसम्पन्नमिदं वचनमब्रवीत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,6 +878,7 @@ movement is not known to others, as the sun is not seen beneath a dense mass of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +887,8 @@ movement is not known to others, as the sun is not seen beneath a dense mass of 
 जाम्बवेनर्क्षपतिना सह सैन्येन संवृतः ।  
 जहि तं राक्षससुतं मायाबलसमन्वितम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -878,12 +937,15 @@ power of conjuring tricks."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं त्वां सचिवैः सार्धं महात्मा रजनीचरः ।  
 अभिज्ञस्तस्य मायानां पृष्ठतोऽनुगमिष्यति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +979,15 @@ with his counsellors, will follow behind you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य वचः श्रुत्वा लक्ष्मणः सविभीषणः ।  
 जग्राह कार्मुकश्रेष्ठमन्यद् भीमपराक्रमः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1027,15 @@ Vibhishana, took hold of his excellent bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्नद्धः कवची खड्गी सशरी वामचापभृत् ।  
 रामपादावुपस्पृश्य हृष्टः सौमित्रिरब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1077,15 @@ spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मत्कार्मुकोन्मुक्ताः शरा निर्भिद्य रावणिम् ।  
 लङ्कामभिपतिष्यन्ति हंसाः पुष्करिणीमिव ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1119,15 @@ of Lanka, as swans descend into a louts-pond.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यैव तस्य रौद्रस्य शरीरं मामकाः शराः ।  
 विधमिष्यन्ति भित्त्वा तं महाचापगुणच्युताः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1170,15 @@ splitting his terrific body, will blow him away."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु वचनं द्युतिमान् भ्रातुरग्रतः ।  
 स रावणिवधाकाङ्क्षी लक्ष्मणस्त्वरितं ययौ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1135,12 +1212,15 @@ forward, with an intent to kill Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिवाद्य गुरोः पादौ कृत्वा चापि प्रदक्षिणम् ।  
 निकुम्भिलामभिययौ चैत्यं रावणिपालितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1174,12 +1254,15 @@ Lakshmana went to the sanctuary named Nikumbhila, which was protected by Indraji
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणेन सहितो राजपुत्रः प्रतापवान् ।  
 कृतस्वस्त्ययनो भ्रात्रा लक्ष्मणस्त्वरितो ययौ ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1213,12 +1296,15 @@ quickly sallied forth along with Vibhishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराणां सहस्रैस्तु हनूमान् बहुभिर्वृतः ।  
 विभीषणश्च सामात्यो लक्ष्मणं त्वरितं ययौ ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1258,12 +1344,15 @@ counsellors went behind Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महता हरिसैन्येन सवेगमभिसंवृतः ।  
 ऋक्षराजबलं चैव ददर्श पथि विष्ठितम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1297,12 +1386,15 @@ Jambavan also stationed in the way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा दूरमध्वानं सौमित्रिर्मित्रनन्दनः ।  
 राक्षसेन्द्रबलं दूरादपश्यद् व्यूहमाश्रितम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1340,12 +1432,15 @@ army of Ravana, ranged in battle-array, from a distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्राप्य धनुष्पाणिर्मायायोगमरिन्दमः ।  
 तस्थौ ब्रह्मविधानेन विजेतुं रघुनन्दनः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1387,12 +1482,15 @@ ordinance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणेन सहितो राजपुत्रः प्रतापवान् ।  
 अङ्गदेन च वीरेण तथानिलसुतेन च ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1426,6 +1524,7 @@ Hanuma, the son of wind-god.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1434,6 +1533,8 @@ Hanuma, the son of wind-god.
 प्रतिभयतममप्रमेयवेगं  
 तिमिरमिव द्विषतां बलं विवेश ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,5 +1591,6 @@ terrific, with unimaginable swiftness, even as one would enter a thick veil of d
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तैदनॆय सर्ग पूर्णवायितु.॥85॥
+</details>
 </details>
 

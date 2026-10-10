@@ -2,6 +2,8 @@
 title = "००२ विराधेन सीतापहरणम्"
 title_english = "002 Confrontation with Viraadha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - Forest Treck**
@@ -28,12 +30,15 @@ Viradha the demon confronts Rama and other and tries to abduct Seetha, and
 
 2. वनके भीतर श्रीराम, लक्ष्मण और सीतापर विराधका आक्रमण
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतातिथ्योऽथ रामस्तु सूर्यस्योदयनं प्रति ।  
 आमन्त्र्य स मुनीन् सर्वान् वनमेवान्वगाहत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,6 +83,7 @@ Then, on receiving the hospitality in that hermitage for that day, and on the ne
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -86,6 +92,8 @@ Then, on receiving the hospitality in that hermitage for that day, and on the ne
 निष्कूजमानशकुनिं झिल्लिकागणनादितम् ।  
 लक्ष्मणानुचरो रामो वनमध्यं ददर्श ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,12 +151,15 @@ Rama followed by Lakshmana has indeed seen that midst of the forest which is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतया सह काकुत्स्थस्तस्मिन् घोरमृगायुते ।  
 ददर्श गिरिशृङ्गाभं पुरुषादं महास्वनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +206,15 @@ Therein Rama has seen along with Seetha, a lurid voiced man-eater who is akin to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गभीराक्षं महावक्त्रं विकटं विकटोदरम् ।  
 बीभत्सं विषमं दीर्घं विकृतं घोरदर्शनम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,12 +258,15 @@ Deep eyed, huge mouthed, horrible with a monstrous belly, hideously misshapen, a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसानं चर्म वैयाघ्रं वसार्द्रं रुधिरोक्षितम् ।  
 त्रासनं सर्वभूतानां व्यादितास्यमिवान्तकम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +309,7 @@ Wearing tiger's skin that is wetted with fat and dampened with blood, he is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -299,6 +317,8 @@ Wearing tiger's skin that is wetted with fat and dampened with blood, he is
 सविषाणं वसादिग्धं गजस्य च शिरो महत् ॥ ७ ॥  
 अवसज्यायसे शूले विनदन्तं महास्वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,6 +371,7 @@ He skewered three lions, four tigers, two wolves, ten spotted deer, and a big he
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -358,6 +379,8 @@ He skewered three lions, four tigers, two wolves, ten spotted deer, and a big he
 अभ्यधावत् सुसङ्क्रुद्धः प्रजाः काल इवान्तकः ॥ ८ ॥  
 स कृत्वा भैरवं नादं चालयन्निव मेदिनीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -423,6 +446,7 @@ He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -430,6 +454,8 @@ He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily
 युवां जटाचीरधरौ सभार्यौ क्षीणजीवितौ ॥ १० ॥  
 प्रविष्टौ दण्डकारण्यं शरचापासिपाणिनौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +501,15 @@ He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं तापसयोर्वां च वासः प्रमदया सह ॥ ११ ॥  
 अधर्मचारिणौ पापौ कौ युवां मुनिदूषकौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +564,15 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं वनमिदं दुर्गं विराधो नाम राक्षसः ॥ १२ ॥  
 चरामि सायुधो नित्यमृषिमांसानि भक्षयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +616,15 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं नारी वरारोहा मम भार्या भविष्यति ॥ १३ ॥  
 युवयोः पापयोश्चाहं पास्यामि रुधिरं मृधे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,6 +668,7 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -640,6 +676,8 @@ This demon Viradha could not comprehend their identity prima facie. By their
 श्रुत्वा सगर्वितं वाक्यं सम्भ्रान्ता जनकात्मजा ।  
 सीता प्रवेपितोद्वेगात् प्रवाते कदली यथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +730,15 @@ Here Viradha said that Seetha would become his *
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा राघवः सीतां विराधाङ्कगतां शुभाम् ।  
 अब्रवील्लक्ष्मणं वाक्यं मुखेन परिशुष्यता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,12 +777,15 @@ Seetha in fear wiggled like a plantain tree in a whirlwind, and on seeing at the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य सौम्य नरेन्द्रस्य जनकस्यात्मसम्भवाम् ।  
 मम भार्यां शुभाचारां विराधाङ्के प्रवेशिताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,6 +834,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -798,6 +843,8 @@ _________________
 कैकेय्यास्तु सुसंवृत्तं क्षिप्रमद्यैव लक्ष्मण ।  
 या न तुष्यति राज्येन पुत्रार्थे दीर्घदर्शिनी ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,12 +889,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ययाहं सर्वभूतानां प्रियः प्रस्थापितो वनम् ।  
 अद्येदानीं सकामा सा या माता मध्यमा मम ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +939,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्पर्शात् तु वैदेह्या न दुःखतरमस्ति मे ।  
 पितुर्विनाशात् सौमित्रे स्वराज्य हरणात् तथा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1005,15 @@ Here Rama says that 'my' kingdom is grabbed away, and now the grabbing away of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवति काकुत्स्थे बाष्पशोकपरिप्लुतः ।  
 अब्रवील्लक्ष्मणः क्रुद्धो रुद्धो नाग इव श्वसन् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,12 +1066,15 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाथ इव भूतानां नाथस्त्वं वासवोपमः ।  
 मया प्रेष्येण काकुत्स्थ किमर्थं परितप्यसे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1118,15 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरेण निहतस्याद्य मया क्रुद्धेन रक्षसः ।  
 विराधस्य गतासोर्हि मही पास्यति शोणितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1169,15 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यकामे मम क्रोधो भरते यो बभूव ह ।  
 तं विराधे विमोक्ष्यामि वज्री वज्रमिवाचले ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,6 +1220,7 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1163,6 +1229,8 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 व्यपनयतु तनोश्च जीवितं  
 पततु ततश्च महीं विघूर्णितः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1221,5 +1289,6 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎरडनॆय सर्ग सम्पूर्णवायितु.॥2॥
+</details>
 </details>
 

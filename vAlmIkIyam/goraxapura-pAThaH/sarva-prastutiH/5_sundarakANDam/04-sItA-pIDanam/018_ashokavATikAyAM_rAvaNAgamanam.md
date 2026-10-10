@@ -2,6 +2,8 @@
 title = "०१८ अशोकवाटिकायां रावणागमनम्"
 title_english = "018 Ravana comes to Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ him.
 
 18. अपनी स्त्रियोंसे घिरे हुए रावणका अशोकवाटिकामें आगमन और हनुमान् जी का उसे देखना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा विप्रेक्षमाणस्य वनं पुष्पितपादपम् ।  
 विचिन्वतश्च वैदेहीं किञ्चिच्छेषा निशाभवत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ flowers in blossom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षडङ्गवेदविदुषां क्रतुप्रवरयाजिनाम् ।  
 शुश्राव ब्रह्मघोषान् स विरात्रे ब्रह्मरक्षसाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,12 +114,15 @@ of Vedas and those who performed excellent sacrifices.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मङ्गलवादित्रैः शब्दैः श्रोत्रमनोहरैः ।  
 प्राबोध्यत महाबाहुर्दशग्रीवो महाबलः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ musical instruments pleasing to the ear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विबुध्य तु महाभागो राक्षसेन्द्रः प्रतापवान् ।  
 स्रस्तमाल्याम्बरधरो वैदेहीमन्वचिन्तयत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +215,15 @@ garlands remembered about Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भृशं नियुक्तस्तस्यां च मदनेन मदोत्कटः ।  
 न तु तं राक्षसः कामं शशाकात्मनि गूहितुम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +260,7 @@ was not capable to suppress in self that desire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,6 +273,8 @@ was not capable to suppress in self that desire.
 नानामृगगणाकीर्णां फलैः प्रपतितैर्वृताम् ।  
 अशोकवनिकामेव प्राविशत् सन्ततद्रुमाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +371,15 @@ lot of trees with all fruits and flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गनाः शतमात्रं तु तं व्रजन्तमनुव्रजन् ।  
 महेन्द्रमिव पौलस्त्यं देवगन्धर्वयोषितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +418,15 @@ Indra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीपिकाः काञ्चनीः काश्चिज्जगृहुस्तत्र योषितः ।  
 वालव्यजनहस्ताश्च तालवृन्तानि चापराः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +459,15 @@ leaves in their hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काञ्चनैश्चैव भृङ्गारैर्जह्रुः सलिलमग्रतः ।  
 मण्डलाग्रा बृसीश्चैव गृह्यान्याः पृष्ठतो ययुः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +511,15 @@ with circular ends.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काचिद् रत्नमयीं पात्रीं पूर्णां पानस्य भ्राजतीम् ।  
 दक्षिणा दक्षिणेनैव तदा जग्राह पाणिना ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +563,15 @@ liqour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजहंसप्रतीकाशं छत्रं पूर्णशशिप्रभम् ।  
 सौवर्णदण्डमपरा गृहीत्वा पृष्ठतो ययौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +610,15 @@ moon with a golden handle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निद्रामदपरीताक्ष्यो रावणस्योत्तमस्त्रियः ।  
 अनुजग्मुः पतिं वीरं घनं विद्युल्लता इव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +660,15 @@ With sleepy eyes best women of Ravana followed mighty husband like lightning fol
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याविद्धहारकेयूराः समामृदितवर्णकाः ।  
 समागलितकेशान्ताः सस्वेदवदनास्तथा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +685,15 @@ With sleepy eyes best women of Ravana followed mighty husband like lightning fol
 
 रावणन प्रिय सतियरू, मधुलोचनॆयराद आ तरुणीमणिगळ हार केयूरगळु अस्तव्यस्तवागिद्दवु. अङ्गरागगळॆल्लवू अळिसिहोगित्तु. तलॆ कूदलु कॆदरि होगि मुखदल्लि बॆवरु तुम्बित्तु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घूर्णन्त्यो मदशेषेण निद्रया च शुभाननाः ।  
 स्वेदक्लिष्टाङ्गकुसुमाः समाल्याकुलमूर्धजाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,12 +713,15 @@ _________________
 
 सुन्दर मुखियरागिद्द अवरु पूर्ति इळियद मधुविन मत्तिनिन्दलू, निद्रॆयिन्दलू जोलाडुत्तिद्दरु. अवरु धरिसिद्द हारगळु बॆवरिनिन्द बाडिहोगिद्दवु. तलॆयल्लि मुडिद हूविन दण्डॆगळु बाडि अत्तलित्त तूगुत्तिद्दवु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयान्तं नैर्ऋतपतिं नार्यो मदिरलोचनाः ।  
 बहुमानाच्च कामाच्च प्रियभार्यास्तमन्वयुः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,12 +765,15 @@ were dear wives followed that king of Rakshasas who was going due to respect and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च कामपराधीनः पतिस्तासां महाबलः ।  
 सीतासक्तमना मन्दो मन्दाञ्चितगतिर्बभौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +810,15 @@ witted, with his mind interested in Seetha shone with a slow and beautiful gait.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः काञ्चीनिनादं च नूपुराणां च निःस्वनम् ।  
 शुश्राव परमस्त्रीणां कपिर्मारुतनन्दनः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +860,15 @@ of those excellent women.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं चाप्रतिमकर्माणमचिन्त्यबलपौरुषम् ।  
 द्वारदेशमनुप्राप्तं ददर्श हनुमान् कपिः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +902,15 @@ might and virility, reaching the entrance region.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीपिकाभिरनेकाभिः समन्तादवभासितम् ।  
 गन्धतैलावसिक्ताभिर्ध्रियमाणाभिरग्रतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,12 +949,15 @@ directions by many lamps.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामदर्पमदैर्युक्तं जिह्मताम्रायतेक्षणम् ।  
 समक्षमिव कन्दर्पमपविद्धशरासनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +991,15 @@ like the god of love in person with bow kept at a distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मथितामृतफेनाभमरजोवस्त्रमुत्तमम् ।  
 सपुष्पमवकर्षन्तं विमुक्तं सक्तमङ्गदे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,12 +1041,15 @@ nectar froth, without stain,slipping being entangled in armlet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पत्रविटपे लीनः पत्रपुष्पशतावृतः ।  
 समीपमुपसङ्क्रान्तं विज्ञातुमुपचक्रमे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,12 +1091,15 @@ that Ravana as though coming near Him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेक्षमाणस्तु तदा ददर्श कपिकुञ्जरः ।  
 रूपयौवनसम्पन्ना रावणस्य वरस्त्रियः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1070,12 +1141,15 @@ of beauty and youth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभिः परिवृतो राजा सुरूपाभिर्महायशाः ।  
 तन्मृगद्विजसङ्घुष्टं प्रविष्टः प्रमदावनम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1114,12 +1188,15 @@ resounded by animals and birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षीबो विचित्राभरणः शङ्कुकर्णो महाबलः ।  
 तेन विश्रवसः पुत्रः स दृष्टो राक्षसाधिपः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1139,6 +1216,7 @@ _________________
 
 आग मदोन्मत्तनाद रावणनु विचित्रवाद आभरणगळन्नु धरिसिद्दनु. कोनवुळ्ळ कर्णाभरणगळन्नु धरिसिद्दु, गर्वदिन्द अवुगळु नॆट्टगागिद्दवु. महाबलशालियू, विश्रवसुविन मगनू, राक्षसर अधिपतियू आद रावणनन्नु हनुमन्तनु नोडिदनु.॥28॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1148,6 +1226,8 @@ _________________
 सोऽयमेव पुरा शेते पुरमध्ये गृहोत्तमे ।  
 अवप्लुतो महातेजा हनूमान् मारुतात्मजः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1214,12 +1294,15 @@ with great brilliance saw that Ravana with glory.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथाप्युग्रतेजाः स निर्धूतस्तस्य तेजसा ।  
 पत्रे गुह्यान्तरे सक्तो मतिमान् संवृतोऽभवत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,12 +1346,15 @@ behind a group of leaves and was concealed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तामसितकेशान्तां सुश्रोणीं संहतस्तनीम् ।  
 दिदृक्षुरसितापाङ्गीमुपावर्तत रावणः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1321,5 +1407,6 @@ corners of eyes, wishing to see Her.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हदिनॆण्टनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

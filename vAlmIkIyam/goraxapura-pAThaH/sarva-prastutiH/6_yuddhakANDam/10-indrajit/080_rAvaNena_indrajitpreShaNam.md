@@ -2,6 +2,8 @@
 title = "०८० रावणेन इन्द्रजित्प्रेषणम्"
 title_english = "080 Ravana instructs Indrajit to enter the battle field"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ various ways and means to destroy Indrajit.
 
 80. रावणकी आज्ञासे इन्द्रजित् का घोर युद्ध तथा उसके वधके विषयमें श्रीराम और लक्ष्मणकी बातचीत
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मकराक्षं हतं श्रुत्वा रावणः समितिञ्जयः ।  
 रोषेण महताविष्टो दन्तान् कटकटाय्य च ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,12 +53,15 @@ various ways and means to destroy Indrajit.
 
 मकराक्षनु हतनादनॆन्दु केळि समर विजयि रावणनु महा कोपगॊण्डु कटकटनॆ हल्लु कडिय तॊडगिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुपितश्च तदा तत्र किं कार्यमिति चिन्तयन् ।  
 आदिदेशाथ सङ्क्रुद्धो रणायेन्द्रजितं सुतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +78,15 @@ various ways and means to destroy Indrajit.
 
 कुपितनाद निशाचरनु ईगेनु माडबेकु ऎम्ब चिन्तॆगॊळगादनु. अवनु अत्यन्त क्रोधगॊण्डु तन्न पुत्र इन्द्रजितनन्नु युद्धक्कॆ होगलु आज्ञापिसिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जहि वीर महावीर्यौ भ्रातरौ रामलक्ष्मणौ ।  
 अदृश्यो दृश्यमानो वा सर्वथा त्वं बलाधिकः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +121,15 @@ the brothers of great prowess. You are superior in strength by all means."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमप्रतिमकर्माणमिन्द्रं जयसि संयुगे ।  
 किं पुनर्मानुषौ दृष्ट्वा न वधिष्यसि संयुगे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +163,15 @@ two men, on seeing them in the battle-field?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तो राक्षसेन्द्रेण प्रतिगृह्य पितुर्वचः ।  
 यज्ञभूमौ स विधिवत् पावकं जुहुवेन्द्रजित् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +212,15 @@ poured oblations into the sacred fire, with due ceremony, on the sacrificial gro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुह्वतश्चापि तत्राग्निं रक्तोष्णीषधराः स्त्रियः ।  
 आजग्मुस्तत्र सम्भ्रान्ता राक्षस्यो यत्र रावणिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +256,15 @@ there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शस्त्राणि शरपत्राणि समिधोऽथ बिभीतकाः ।  
 लोहितानि च वासांसि स्रुवं कार्ष्णायसं तथा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,12 +311,15 @@ melted butter into the sacrificial fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वतोऽग्निं समास्तीर्य शरपत्रैः सतोमरैः ।  
 छागस्य सर्वकृष्णस्य गलं जग्राह जीवतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,12 +361,15 @@ consigned it to the fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकृद्धोमसमिद्धस्य विधूमस्य महार्चिषः ।  
 बभूवुस्तानि लिङ्गानि विजयं दर्शयन्ति च ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +403,15 @@ mighty flames, when it was fully aroused by that single offering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदक्षिणावर्तशिखस्तप्तहाटकसन्निभः ।  
 हविस्तत् प्रतिजग्राह पावकः स्वयमुत्थितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,12 +448,15 @@ right and who shone brightly like refined gold, received that offering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हुत्वाग्निं तर्पयित्वाथ देवदानवराक्षसान् ।  
 आरुरोह रथश्रेष्ठमन्तर्धानगतं शुभम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,12 +497,15 @@ ascended an excellent and splendid chariot, capable of disappearing from sight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वाजिभिश्चतुर्भिस्तु बाणैस्तु निशितैर्युतः ।  
 आरोपितमहाचापः शुशुभे स्यन्दनोत्तमः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +542,15 @@ excellent chariot looked beautiful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाज्वल्यमानो वपुषा तपनीयपरिच्छदः ।  
 मृगैश्चन्द्रार्धचन्द्रैश्च स रथः समलङ्कृतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +584,15 @@ with carved images of antelopes, full moons and crescents.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बूनदमहाकम्बुर्दीप्तपावकसन्निभः ।  
 बभूवेन्द्रजितः केतुर्वैदूर्यसमलङ्कृतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +629,15 @@ rings of gold and decorated with cat's eye gems.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन चादित्यकल्पेन ब्रह्मास्त्रेण च पालितः ।  
 स बभूव दुराधर्षो रावणिः सुमहाबलः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +677,15 @@ that Indrajit endowed with exceptional strength, became difficult to be attacked
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिनिर्याय नगरादिन्द्रजित् समितिञ्जयः ।  
 हुत्वाग्निं राक्षसैर्मन्त्रैरन्तर्धानगतोऽब्रवीत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +728,15 @@ that indrajit, who was ever victorious in war, spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य हत्वा रणे यौ तौ मिथ्या प्रव्रजितौ वने ।  
 जयं पित्रे प्रदास्यामि रावणाय रणेऽधिकम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +778,15 @@ today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य निर्वानरामुर्वीं हत्वा रामं च लक्ष्मणम् ।  
 करिष्ये परमां प्रीतिमित्युक्त्वान्तरधीयत ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +821,15 @@ will create a great spleasure". Thus speaking, Indrajit vanished from thes sight
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपपाताथ सङ्क्रुद्धो दशग्रीवेण चोदितः ।  
 तीक्ष्णकार्मुकनाराचैस्तीक्ष्णस्त्विन्द्ररिपू रणे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +872,15 @@ arrows, swiftly came to the battle-field enraged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श महावीर्यौ नागौ त्रिशिरसाविव ।  
 सृजन्ताविषुजालानि वीरौ वानरमध्यगौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -853,12 +915,15 @@ having mighty prowess, looked like three- hooded serpents in the middle of the m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमौ ताविति सञ्चिन्त्य सज्यं कृत्वा च कार्मुकम् ।  
 सन्ततानेषुधाराभिः पर्जन्य इव वृष्टिमान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +960,15 @@ his bow, he covered them with a flood of arrows, as the rainy clouds do.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु वैहायसरथो युधि तौ रामलक्ष्मणौ ।  
 अचक्षुर्विषये तिष्ठन् विव्याध निशितैः शरैः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,12 +1008,15 @@ Rama and Lakshmana with his sharp arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तस्य शरवेगेन परीतौ रामलक्ष्मणौ ।  
 धनुषी सशरे कृत्वा दिव्यमस्त्रं प्रचक्रतुः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -979,12 +1050,15 @@ bows and revealed divine missiles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रच्छादयन्तौ गगनं शरजालैर्महाबलौ ।  
 तमस्त्रैः सूर्यसङ्काशैर्नैव पस्पर्शतुः शरैः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1102,15 @@ sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि धूमान्धकारं च चक्रे प्रच्छादयन्नभः ।  
 दिशश्चान्तर्दधे श्रीमान् नीहारतमसा वृताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,12 +1151,15 @@ quarters also invisible, by enclosing them with mist-liek darkness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव ज्यातलनिर्घोषो न च नेमिखुरस्वनः ।  
 शुश्रुवे चरतस्तस्य न च रूपं प्रकाशते ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,12 +1195,15 @@ horses could be heard, nor did his form come tot he view.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घनान्धकारे तिमिरे शिलावर्षमिवाद्भुतम् ।  
 स ववर्ष महाबाहुर्नाराचशरवृष्टिभिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1160,12 +1243,15 @@ like wonderful shower of rocks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामं सूर्यसङ्काशैः शरैर्दत्तवरैर्भृशम् ।  
 विव्याध समरे क्रुद्धः सर्वगात्रेषु रावणिः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1230,12 +1316,15 @@ as he was, instructed Indrajit, his son to proceed to the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ हन्यमानौ नाराचैर्धाराभिरिव पर्वतौ ।  
 हेमपुङ्खान् नरव्याघ्रौ तिग्मान् मुमुचतुः शरान् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,12 +1359,15 @@ arrows, like two mountains being hit by torrents, released sharp golden-shafted 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरिक्षे समासाद्य रावणिं कङ्कपत्रिणः ।  
 निकृत्य पतगा भूमौ पेतुस्ते शोणिताप्लुताः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1315,12 +1407,15 @@ piercing him, fell to the ground, soaked in blood.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिमात्रं शरौघेण दीप्यमानौ नरोत्तमौ ।  
 तानिषून् पततो भल्लैरनेकैर्विचकर्ततुः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1364,12 +1459,15 @@ off those arrows which were falling on them with many arrows called by the name 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतो हि ददृशाते तौ शरान् निपतिताञ्छितान् ।  
 ततस्तु तौ दाशरथी ससृजातेऽस्त्रमुत्तमम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1413,12 +1511,15 @@ direction from which they saw the aforesaid sharp arrows, fallen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणिस्तु दिशः सर्वा रथेनातिरथोऽपतत् ।  
 विव्याध तौ दाशरथी लघ्वस्त्रो निशितैः शरैः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1460,12 +1561,15 @@ arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनातिविद्धौ तौ वीरौ रुक्मपुङ्खैः सुसंहतैः ।  
 बभूवतुर्दाशरथी पुष्पिताविव किंशुकौ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1499,12 +1603,15 @@ shafted arrows, appeared like two Kamshuka trees in flowering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्य वेगगतिं कश्चिन्न च रूपं धनुः शरान् ।  
 न चास्य विदितं किञ्चित् सूर्यस्येवाभ्रसम्प्लवे ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1546,12 +1653,15 @@ him whatsoever could be known.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन विद्धाश्च हरयो निहताश्च गतासवः ।  
 बभूवुः शतशस्तत्र पतिता धरणीतले ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,12 +1695,15 @@ the earth's surface there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्तु ततः क्रुद्धो भ्रातरं वाक्यमब्रवीत् ।  
 ब्राह्ममस्त्रं प्रयोक्ष्यामि वधार्थं सर्वरक्षसाम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1631,12 +1744,15 @@ the missile presided over by Brahma for the purpose of killing all the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच ततो रामो लक्ष्मणं शुभलक्षणम् ।  
 नैकस्य हेतो रक्षांसि पृथिव्यां हन्तुमर्हसि ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1672,6 +1788,7 @@ demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1680,6 +1797,8 @@ demon."
 तस्यैव तु वधे यत्नं करिष्यामि महाभुज ।  
 आदेक्ष्यावो महावेगानस्त्रानाशीविषोपमान् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1745,12 +1864,15 @@ one who seeks refuge with joined palms or is fleeing or is intoxicated."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेनं मायिनं क्षुद्रमन्तर्हितरथं बलात् ।  
 राक्षसं निहनिष्यन्ति दृष्ट्वा वानरयूथपाः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1784,6 +1906,7 @@ demon, who is skilled in conjuring tricks and whose chariot remains invisible."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1792,6 +1915,8 @@ demon, who is skilled in conjuring tricks and whose chariot remains invisible."
 एवं विगूढोऽपि ममास्त्रदग्धः  
 पतिष्यते भूमितले गतासुः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1847,6 +1972,7 @@ remains completely hidden in this manner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1855,6 +1981,8 @@ remains completely hidden in this manner."
 वधाय रौद्रस्य नृशंसकर्मण-  
 स्तदा महात्मा त्वरितं निरीक्षते ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1912,5 +2040,6 @@ furious Indrajit, the demons of cruel deeds.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तनॆय सर्ग पूर्णवायितु.॥80॥
+</details>
 </details>
 

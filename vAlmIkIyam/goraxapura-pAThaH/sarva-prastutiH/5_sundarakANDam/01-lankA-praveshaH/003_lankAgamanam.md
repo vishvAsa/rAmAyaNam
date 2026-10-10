@@ -2,6 +2,8 @@
 title = "००३ लङ्कागमनम्"
 title_english = "003 Hanuma conquers Lanka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -19,6 +21,7 @@ In this chapter Hanuma faces Lanka, the city of Lanka herself in the form of a d
 
 3. लंकापुरीका अवलोकन करके हनुमान् जी का विस्मित होना, उसमें प्रवेश करते समय निशाचरी लंकाका उन्हें रोकना और उनकी मारसे विह्वल होकर उन्हें पुरीमें प्रवेश करनेकी अनुमति देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27,6 +30,8 @@ In this chapter Hanuma faces Lanka, the city of Lanka herself in the form of a d
 निशि लङ्कां महासत्त्वो विवेश कपिकुञ्जरः ।  
 रम्यकाननतोयाढ्यां पुरीं रावणपालिताम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ of Lanka ruled by Ravana and filled with beautiful forests and places of water s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शारदाम्बुधरप्रख्यैर्भवनैरुपशोभिताम् ।  
 सागरोपमनिर्घोषां सागरानिलसेविताम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -96,12 +104,15 @@ of Lanka ruled by Ravana and filled with beautiful forests and places of water s
 
 आ लङ्कानगरवु शरत्कालद मेघगळन्तॆ श्वेतभवनगळिन्द शोभायमानवागित्तु. समुद्र घोषवन्नु मीरि राक्षसर भयङ्कर ध्वनिगळिन्द तुम्बि होगित्तु. समुद्रद मेलिनिन्द बीसुवन्तह गाळियु ऎल्लॆडॆ बीसुतित्तु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपुष्टबलसम्पुष्टां यथैव विटपावतीम् ।  
 चारुतोरणनिर्यूहां पाण्डुरद्वारतोरणाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,6 +154,7 @@ of Kubera. It had elephants positioned at archways and had white gates and archw
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,6 +162,8 @@ of Kubera. It had elephants positioned at archways and had white gates and archw
 तां सविद्युद‍्घनाकीर्णां ज्योतिर्गणनिषेविताम् ॥ ५ ॥  
 चण्डमारुतनिर्ह्रादां यथा चाप्यमरावतीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +181,15 @@ of Kubera. It had elephants positioned at archways and had white gates and archw
 
 सर्पगळ सञ्चारवुळ्ळ हागू सर्पगळ पट्टणवाद भोगवति (पाताळ)यन्तॆये लङ्कापट्टणवु राक्षसरिन्द रक्षितवागित्तु. अदु इन्द्रन अमरावतियन्तॆ, मिञ्चिनिन्द कूडिद मेघगळिन्द व्याप्तवाद नक्षत्र मण्डलदन्तॆ शोभिसुतित्तु. अल्लि तङ्गाळियु बीसुतिद्दु, सकल वैभवदिन्द विराजमानवागित्तु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शातकुम्भेन महता प्राकारेणाभिसंवृताम् ॥ ६ ॥  
 किङ्किणीजालघोषाभिः पताकाभिरलङ्कृताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -192,12 +209,15 @@ _________________
 
 आ लङ्कापुरियु ऎत्तरवाद सुवर्णमय प्राकारगळिन्द सुत्तुवरियल्पट्टित्तु. शब्द माडुत्तिद्द किरु गण्टॆगळिन्द कूडिद्द पताकॆगळिन्द समलङ्कृतवागित्तु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसाद्य सहसा हृष्टः प्राकारमभिपेदिवान् ॥ ७ ॥  
 विस्मयाविष्टहृदयः पुरीमालोक्य सर्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,6 +258,7 @@ a golden hue, decorated by flags with sounds from groups of small bells. He beca
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,6 +268,8 @@ a golden hue, decorated by flags with sounds from groups of small bells. He beca
 वैदूर्यकृतसोपानैः स्फाटिकान्तरपांसुभिः ।  
 चारुसञ्जवनोपेतैः खमिवोत्पतितैः शुभैः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +293,15 @@ _________________
 
 लङ्कानगरिय सौधगळ बागिलुगळॆल्लवू सुवर्णमयवागिद्दुवु. वैडूर्यदिन्दले निर्मितवाद जगुलिगळिद्दवु. वज्रगळिन्दलू, स्फटिकगळिन्दलू, मुत्तुगळिन्दलू, मणिगळिन्दलू कूडिद नॆलगळिन्द समलङ्कृतवागिद्दुवु. सौधगळु पुटविट्ट भङ्गारदिन्द निर्मितवाद गोपुरगळिन्द कूडिद्दु, हॊरभागवु परिशुद्धवाद बॆळ्ळियन्तॆ बिळुपागिद्दवु. वैडूर्यदिन्दले निर्मितवाद सोपानगळिन्द (महडि मॆट्टलु) कूडिद्दवु. स्फटिकमयवाद ऒळ अङ्गणगळु धूळुरहितवागिद्दुवु. रमणीयवाद चतुःशालगळिन्द (सभाभवनगळु) परिशोभिसुत्तिद्दुवु. अवुगळु हॆच्चु ऎत्तरवागिद्दु अम्बरवन्नु चुम्बिसुत्तिरुवन्तॆ काणुत्तिद्दु शुभावहगळागिद्दवु.॥8-10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रौञ्चबर्हिणसङ्घुष्टै राजहंसनिषेवितैः ।  
 तूर्याभरणनिर्घोषैः सर्वतः परिनादिताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +316,15 @@ _________________
 
 वहाँ क्रौञ्च और मयूरोंके कलरव गूँजते रहते थे, उन द्वारोंपर राजहंस नामक पक्षी भी निवास करते थे । वहाँ भाँति-भाँतिके वाद्यों और आभूषणोंकी मधुर ध्वनि होती रहती थी, जिससे लंकापुरी सब ओरसे प्रतिध्वनित हो रही थी ॥ ११ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वस्वोकसारप्रतिमां समीक्ष्य नगरीं ततः ।  
 खमिवोत्पतितां लङ्कां जहर्ष हनुमान् कपिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +376,15 @@ the city of Vasvaukasaara, as though flying towards the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां समीक्ष्य पुरीं लङ्कां राक्षसाधिपतेः शुभाम् ।  
 अनुत्तमामृद्धिमतीं चिन्तयामास वीर्यवान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +425,15 @@ city, that powerful Hanuma thought thus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेयमन्येन नगरी शक्या धर्षयितुं बलात् ।  
 रक्षिता रावणबलैरुद्यतायुधपाणिभिः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,6 +475,7 @@ by armies of Ravana with raised weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -448,6 +484,8 @@ by armies of Ravana with raised weapons."
 विवस्वतस्तनूजस्य हरेश्च कुशपर्वणः ।  
 ऋक्षस्य कपिमुख्यस्य मम चैव गतिर्भवेत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -511,12 +549,15 @@ This land may be conquerable by Kumuda or Angada, to the great monkey Sushena or
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीक्ष्य च महाबाहो राघवस्य पराक्रमम् ।  
 लक्ष्मणस्य च विक्रान्तमभवत् प्रीतिमान् कपिः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +596,7 @@ Considering the long armed Sri Rama's strength and Lakshmana's valour, Hanuma be
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,6 +605,8 @@ Considering the long armed Sri Rama's strength and Lakshmana's valour, Hanuma be
 तां नष्टतिमिरां दीपैर्भास्वरैश्च महाग्रहैः ।  
 नगरीं राक्षसेन्द्रस्य स ददर्श महाकपिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +659,15 @@ illuminated the radiant great houses, all darkness was lost.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सा हरिशार्दूलं प्रविशन्तं महाकपिम् ।  
 नगरी स्वेन रूपेण ददर्श पवनात्मजम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +709,15 @@ the mighty one, entering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तं हरिवरं दृष्ट्वा लङ्का रावणपालिता ।  
 स्वयमेवोत्थिता तत्र विकृताननदर्शना ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +729,15 @@ the mighty one, entering.
 
 वानरश्रेष्ठ हनुमान् को देखते ही रावणपालित लंका स्वयं ही उठ खड़ी हुई । उसका मुँह देखनेमें बड़ा विकट था ॥ २१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरस्तात् तस्य वीरस्य वायुसूनोरतिष्ठत ।  
 मुञ्चमाना महानादमब्रवीत् पवनात्मजम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +796,15 @@ horrific appearance of face an eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्त्वं केन च कार्येण इह प्राप्तो वनालय ।  
 कथयस्वेह यत् तत्त्वं यावत् प्राणा धरन्ति ते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -782,12 +838,15 @@ are sustained, tell me the truth here before that."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्यं खल्वियं लङ्का प्रवेष्टुं वानर त्वया ।  
 रक्षिता रावणबलैरभिगुप्ता समन्ततः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +858,7 @@ are sustained, tell me the truth here before that."
 
 ‘वानर! रावणकी सेना सब ओरसे इस पुरीकी रक्षा करती है, अतः निश्चय ही तू इस लंकामें प्रवेश नहीं कर सकता’ ॥ २४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -807,6 +867,8 @@ are sustained, tell me the truth here before that."
 का त्वं विरूपनयना पुरद्वारेऽवतिष्ठसे ।  
 किमर्थं चापि मां क्रोधान्निर्भर्त्सयसि दारुणे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +948,15 @@ Ravana's forces and strongly guarded all around."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनुमद्वचनं श्रुत्वा लङ्का सा कामरूपिणी ।  
 उवाच वचनं क्रुद्धा परुषं पवनात्मजम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,12 +993,15 @@ spoke these strong words to Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं राक्षसराजस्य रावणस्य महात्मनः ।  
 आज्ञाप्रतीक्षा दुर्धर्षा रक्षामि नगरीमिमाम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,12 +1035,15 @@ great one."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्यं मामवज्ञाय प्रवेष्टुं नगरीमिमाम् ।  
 अद्य प्राणैः परित्यक्तः स्वप्स्यसे निहतो मया ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1080,15 @@ leave life and have a permanent sleep."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि नगरी लङ्का स्वयमेव प्लवङ्गम ।  
 सर्वतः परिरक्षामि अतस्ते कथितं मया ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,12 +1124,15 @@ to you by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्काया वचनं श्रुत्वा हनुमान् मारुतात्मजः ।  
 यत्नवान् स हरिश्रेष्ठः स्थितः शैल इवापरः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,12 +1175,15 @@ with a purpose.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां स्त्रीरूपविकृतां दृष्ट्वा वानरपुङ्गवः ।  
 आबभाषेऽथ मेधावी सत्त्ववान् प्लवगर्षभः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1147,12 +1227,15 @@ among Vanaras, saw that city of Lanka in the form of an ugly woman and spoke thu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रक्ष्यामि नगरीं लङ्कां साट्टप्राकारतोरणाम् ।  
 इत्यर्थमिह सम्प्राप्तः परं कौतूहलं हि मे ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1186,12 +1269,15 @@ here for that reason. I am very curious to see them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनान्युपवनानीह लङ्कायाः काननानि च ।  
 सर्वतो गृहमुख्यानि द्रष्टुमागमनं हि मे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1223,12 +1309,15 @@ see; *laN^kaayaaH* = Lanka's; *vanaani* = gardens; *upavanaani* = parks; *kaanan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा लङ्का सा कामरूपिणी ।  
 भूय एव पुनर्वाक्यं बभाषे परुषाक्षरम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,12 +1329,15 @@ see; *laN^kaayaaH* = Lanka's; *vanaani* = gardens; *upavanaani* = parks; *kaanan
 
 हनुमान् जी का यह कथन सुनकर इच्छानुसार रूप धारण करनेवाली लंका पुनः कठोर वाणीमें बोली— ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मामनिर्जित्य दुर्बुद्धे राक्षसेश्वरपालिताम् ।  
 न शक्यं ह्यद्य ते द्रष्टुं पुरीयं वानराधम ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,12 +1397,15 @@ than before.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स हरिशार्दूलस्तामुवाच निशाचरीम् ।  
 दृष्ट्वा पुरीमिमां भद्रे पुनर्यास्ये यथागतम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1350,12 +1445,15 @@ city I will return back again to where I came from."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कृत्वा महानादं सा वै लङ्का भयङ्करम् ।  
 तलेन वानरश्रेष्ठं ताडयामास वेगिता ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,12 +1489,15 @@ with her palm quickly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स हरिशार्दूलो लङ्कया ताडितो भृशम् ।  
 ननाद सुमहानादं वीर्यवान् मारुतात्मजः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1438,12 +1539,15 @@ sound.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः संवर्तयामास वामहस्तस्य सोऽङ्गुलीः ।  
 मुष्टिनाभिजघानैनां हनुमान् क्रोधर्मूच्छितः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1488,6 +1592,7 @@ her with His fist. "She is a woman" - thinking thus He did not show much anger b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1495,6 +1600,8 @@ her with His fist. "She is a woman" - thinking thus He did not show much anger b
 सा तु तेन प्रहारेण विह्वलाङ्गी निशाचरी ।  
 पपात सहसा भूमौ विकृताननदर्शना ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1513,12 +1620,15 @@ her with His fist. "She is a woman" - thinking thus He did not show much anger b
 
 उसे स्त्री समझकर हनुमान् जी ने स्वयं ही अधिक क्रोध नहीं किया । किंतु उस लघु प्रहारसे ही उस निशाचरीके सारे अंग व्याकुल हो गये । वह सहसा पृथ्वीपर गिर पड़ी । उस समय उसका मुख बड़ा विकराल दिखायी देता था ॥ ४१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु हनुमान् वीरस्तां दृष्ट्वा विनिपातिताम् ।  
 कृपां चकार तेजस्वी मन्यमानः स्त्रियं च ताम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1557,12 +1667,15 @@ showed kindness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वै भृशमुद्विग्ना लङ्का सा गद‍्गदाक्षरम् ।  
 उवाचागर्वितं वाक्यं हनुमन्तं प्लवङ्गमम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1601,12 +1714,15 @@ to Hanuma the Vanara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसीद सुमहाबाहो त्रायस्व हरिसत्तम ।  
 समये सौम्य तिष्ठन्ति सत्त्ववन्तो महाबलाः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1642,12 +1758,15 @@ great strength and courage always stand firm on tradition."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु नगरी लङ्का स्वयमेव प्लवङ्गम ।  
 निर्जिताहं त्वया वीर विक्रमेण महाबल ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1675,12 +1794,15 @@ strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं च तथ्यं शृणु मे ब्रुवन्त्या वै हरीश्वर ।  
 स्वयं स्वयम्भुवा दत्तं वरदानं यथा मम ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1740,12 +1862,15 @@ face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा त्वां वानरः कश्चिद् विक्रमाद् वशमानयेत् ।  
 तदा त्वया हि विज्ञेयं रक्षसां भयमागतम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1764,12 +1889,15 @@ face.
 
 ‘उन्होंने कहा था—‘जब कोई वानर तुझे अपने पराक्रमसे वशमें कर ले, तब तुझे यह समझ लेना चाहिये कि अब राक्षसोंपर बड़ा भारी भय आ पहुँचा है ॥ ४७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि मे समयः सौम्य प्राप्तोऽद्य तव दर्शनात् ।  
 स्वयम्भूविहितः सत्यो न तस्यास्ति व्यतिक्रमः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1829,12 +1957,15 @@ for Rakshasas."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतानिमित्तं राज्ञस्तु रावणस्य दुरात्मनः ।  
 रक्षसां चैव सर्वेषां विनाशः समुपागतः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1855,12 +1986,15 @@ _________________
 
 ‘अब सीताके कारण दुरात्मा राजा रावण तथा समस्त राक्षसोंके विनाशका समय आ पहुँचा है ॥ ४९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् प्रविश्य हरिश्रेष्ठ पुरीं रावणपालिताम् ।  
 विधत्स्व सर्वकार्याणि यानि यानीह वाञ्छसि ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1916,6 +2050,7 @@ of Ravana; *durraatmanaH* = the evil minded; *raaJNAH* = king; *sarveshhaam raks
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1924,6 +2059,8 @@ of Ravana; *durraatmanaH* = the evil minded; *raaJNAH* = king; *sarveshhaam raks
 यदृच्छया त्वं जनकात्मजां सतीं  
 विमार्ग सर्वत्र गतो यथासुखम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1979,5 +2116,6 @@ Rakshasas, roam everywhere and search for the chaste wife Seetha according to yo
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षि वाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डएदल्लि मूरने सर्गवु मुगियितु.
+</details>
 </details>
 

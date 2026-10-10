@@ -2,6 +2,8 @@
 title = "०३८ रामेण सुवेलपर्वतनिवासनिश्चयः"
 title_english = "038 Rama decides to stay on Suvela mountain"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI :Yuddha Kanda - Book Of War**
@@ -21,6 +23,7 @@ ascend the mountain and witness the beauty of Lanka. They halt on that mountain-
 
 38. श्रीरामका प्रमुख वानरोंके साथ सुवेल पर्वतपर चढ़कर वहाँ रातमें निवास करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ ascend the mountain and witness the beauty of Lanka. They halt on that mountain-
 विभीषणं च धर्मज्ञमनुरक्तं निशाचरम् ।  
 मन्त्रज्ञं च विधिज्ञं च श्लक्ष्णया परया गिरा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -50,12 +55,15 @@ ascend the mountain and witness the beauty of Lanka. They halt on that mountain-
 
 सुवेल पर्वतपर चढ़नेका विचार करके जिनके पीछे लक्ष्मणजी चल रहे थे, वे भगवान् श्रीराम सुग्रीवसे और धर्मके ज्ञाता, मन्त्रवेत्ता, विधिज्ञ एवं अनुरागी निशाचर विभीषणसे भी उत्तम एवं मधुर वाणीमें बोले— ॥ १-२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवेलं साधु शैलेन्द्रमिमं धातुशतैश्चितम् ।  
 अध्यारोहामहे सर्वे वत्स्यामोऽत्र निशामिमाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ a demon devoted to him who was experienced in counsel and a knower of prescribed
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्कां चालोकयिष्यामो निलयं तस्य रक्षसः ।  
 येन मे मरणान्ताय हृता भार्या दुरात्मना ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +149,15 @@ a demon devoted to him who was experienced in counsel and a knower of prescribed
 
 नावु इल्लिन्द नन्न पत्नियन्नु कद्दु तन्दु मृत्यु मुखनाद आ दुरात्मनाद रावणन निवासवाद लङ्कॆयन्नू अवलोकिसबहुदु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन धर्मो न विज्ञातो न वृत्तं न कुलं तथा ।  
 राक्षस्या नीचया बुद्ध्या येन तद् गर्हितं कृतम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,12 +197,15 @@ mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् मे वर्तते रोषः कीर्तिते राक्षसाधमे ।  
 यस्यापराधान्नीचस्य वधं द्रक्ष्यामि रक्षसाम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +246,15 @@ by him, I shall see that all these demons are destroyed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एको हि कुरुते पापं कालपाशवशं गतः ।  
 नीचेनात्मापचारेण कुलं तेन विनश्यति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +294,15 @@ committed by him the vilest, his lineage is destroyed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्मन्त्रयन् नेव सक्रोधो रावणं प्रति ।  
 रामः सुवेलं वासाय चित्रसानुमुपारुहत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ with its conspicuous summits.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठतो लक्ष्मणश्चैनमन्वगच्छत् समाहितः ।  
 सशरं चापमुद्यम्य सुमहद्विक्रमे रतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,6 +394,7 @@ the mountain, by following him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -380,6 +407,8 @@ the mountain, by following him.
 एते चान्ये च बहवो वानराः शीघ्रगामिनः ।  
 ते वायुवेगप्रवणास्तं गिरिं गिरिचारिणः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +480,15 @@ Rama ascended.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्यारोहन्त शतशः सुवेलं यत्र राघवः ।  
 ते त्वदीर्घेण कालेन गिरिमारुह्य सर्वतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,6 +528,7 @@ the city of Lanka which appeared as though it was hanging in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +536,8 @@ the city of Lanka which appeared as though it was hanging in the sky.
 तां शुभां प्रवरद्वारां प्राकारवरशोभिताम् ॥ १५ ॥  
 लङ्कां राक्षससम्पूर्णां ददृशुर्हरियूथपाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +578,15 @@ gates, enriched with exquisitc ramparts and pervaded all over with demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकारवरसंस्थैश्च तथा नीलैश्च राक्षसैः ॥ १६ ॥  
 ददृशुस्ते हरिश्रेष्ठाः प्राकारमपरं कृतम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +645,15 @@ together scribble on that existing exquisite rampart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते दृष्ट्वा वानराः सर्वे राक्षसान् युद्धकाङ्क्षिणः ।  
 मुमुचुर्विविधान् नादांस्तस्य रामस्य पश्यतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,12 +693,15 @@ moon arrived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽस्तमगमत् सूर्यः सन्ध्यया प्रतिरञ्जितः ।  
 पूर्णचन्द्रप्रदीप्ता च क्षपा समतिवर्तत ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -705,6 +749,7 @@ happily on the mountain resort of Suvela.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -713,6 +758,8 @@ happily on the mountain resort of Suvela.
 सलक्ष्मणो यूथपयूथसंयुतः  
 सुवेलपृष्ठे न्यवसद् यथासुखम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,5 +788,6 @@ happily on the mountain resort of Suvela.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥38॥
+</details>
 </details>
 

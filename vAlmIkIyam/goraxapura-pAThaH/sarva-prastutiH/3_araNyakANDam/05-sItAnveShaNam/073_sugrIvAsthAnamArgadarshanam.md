@@ -2,6 +2,8 @@
 title = "०७३ सुग्रीवास्थानमार्गदर्शनम्"
 title_english = "073 Kabandha extols Pampa Lake"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - Book Of Forest**
@@ -21,12 +23,15 @@ name Shabari, who is waiting for ages to have a glimpse of Rama.
 
 दिव्य रूपधारी कबन्धका श्रीराम और लक्ष्मणको ऋष्यमूक और पम्पासरोवरका मार्ग बताना तथा मतङ्गमुनिके वन एवं आश्रमका परिचय देकर प्रस्थान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयित्वा तु रामाय सीतायाः परिमार्गणे ।  
 वाक्यमन्वर्थमर्थज्ञः कबन्धः पुनरब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ which is inclusive of right concept to Rama. [3-73-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष राम शिवः पन्था यत्रैते पुष्पिता द्रुमाः ।  
 प्रतीचीं दिशमाश्रित्य प्रकाशन्ते मनोरमाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,6 +99,7 @@ _________________
 
 श्रीराम! इल्लिन्द पश्चिम दिक्कन्नु आश्रयिसि ई हूवुगळिन्द तुम्बिरुव मनोहर वृक्षगळु शोभिसुत्तिरुवल्लिये निमगॆ होगलु ऒळ्ळॆय सुखकर मार्गवागिदॆ.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -102,6 +111,8 @@ _________________
 तानारुह्याथवा भूमौ पातयित्वा च तान् बलात् ॥ ५ ॥  
 फलान्यमृतकल्पानि भक्षयित्वा गमिष्यथः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -179,6 +190,7 @@ The botanical terms for some of these trees are given to some of the above in th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -186,6 +198,8 @@ The botanical terms for some of these trees are given to some of the above in th
 नन्दनप्रतिमं चान्यत् कुरवस्तूत्तरा इव ।  
 सर्वकालफला यत्र पादपा मधुरस्रवाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +265,15 @@ replicates the heavenly Nandana gardens, and a replica of North-Kuru, an all-end
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे च ऋतवस्तत्र वने चैत्ररथे यथा ।  
 फलभारनतास्तत्र महाविटपधारिणः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,6 +317,7 @@ and everywhere such trees will be shining forth like shiny clouds and shining mo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +325,8 @@ and everywhere such trees will be shining forth like shiny clouds and shining mo
 तानारुह्याथवा भूमौ पातयित्वाथवा सुखम् ॥ ९ ॥  
 फलान्यमृतकल्पानि लक्ष्मणस्ते प्रदास्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +367,15 @@ or else by pelting them to ground, according to his convenience... [3-73-9b-10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चङ्क्रमन्तौ वरान् शैलान् शैलाच्छैलं वनाद् वनम् ॥ १० ॥  
 ततः पुष्करिणीं वीरौ पम्पां नाम गमिष्यथः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +420,15 @@ ones, you will trek to an auspicious lotus-lake, called Pampa... [3-73-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशर्करामविभ्रंशां समतीर्थामशैवलाम् ॥ ११ ॥  
 राम सञ्जातवालूकां कमलोत्पलशोभिताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,6 +468,7 @@ its sandbanks, red and blue lotuses beautify that Pampa Lake... [3-73-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -449,6 +476,8 @@ its sandbanks, red and blue lotuses beautify that Pampa Lake... [3-73-11b, 12a]
 वल्गुस्वरा निकूजन्ति पम्पासलिलगोचराः ।  
 नोद्विजन्ते नरान् दृष्ट्वा वधस्याकोविदाः शुभाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,6 +543,7 @@ will be letting out peeps in tuneful voice... [3-73-12a, 13b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -523,6 +553,8 @@ will be letting out peeps in tuneful voice... [3-73-12a, 13b]
 निस्त्वक्पक्षानयस्तप्तानकृशानैककण्टकान् ॥ १५ ॥  
 तव भक्त्या समायुक्तो लक्ष्मणः सम्प्रदास्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,6 +574,7 @@ will be letting out peeps in tuneful voice... [3-73-12a, 13b]
 
 बाणगळ तुदियिन्द सिप्पॆ तॆगॆद, ऒन्दु मुळ्ळु इल्लदिरुव, बॆण्णॆयन्तॆ तिरुळु उळ्ळ स्निग्धवाद, हसियागिरुवुदन्नु बाणगळिगॆ पोणिसि बॆङ्कियल्लि बेयिसिद फल-मूलगळ भक्ष पदार्थराशि राशियागि अल्लि निमगॆ सिगुवुदु. निन्न कुरितु भक्तिभावदिन्द सम्पन्न लक्ष्मणनु निनगॆ आ भक्ष्यगळन्नु अर्पिसुवनु. नीविब्बरू आ पदार्थगळन्नु ऎत्तिकॊण्डु आ सरोवरद दप्प दप्पवाद प्रसिद्ध जलचर पक्षिगळन्नु हागू श्रेष्ठ रोहित, वक्रतुण्ड, नलमीन मुन्ताद मीनुगळिगॆ स्वल्प-स्वल्प तिन्निसिरि. अदरिन्द निमगॆ मनोरञ्जनवादीतु.॥14-15½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -550,6 +583,8 @@ will be letting out peeps in tuneful voice... [3-73-12a, 13b]
 उद‍्धृत्य स तदाक्लिष्टं रूप्यस्फटिकसन्निभम् ॥ १७ ॥  
 अथ पुष्करपर्णेन लक्ष्मणः पाययिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +655,15 @@ and de-finning them. [3-73-14b, 15, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थूलान् गिरिगुहाशय्यान् वानरान् वनचारिणः ॥ १८ ॥  
 सायाह्ने विचरन् राम दर्शयिष्यति लक्ष्मणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +680,15 @@ and de-finning them. [3-73-14b, 15, 16a]
 
 श्रीराम! सायङ्कालदल्लि निन्नॊन्दिगॆ विहरिसुव लक्ष्मणनु निनगॆ स्थूलकायराद वनचर वानरन्नु तॊरिसुवनु, अवु पर्वतगळ गुहॆगळल्लि मलगुत्ता इरुत्तवॆ.॥18½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपां लोभादुपावृत्तान् वृषभानिव नर्दतः ॥ १९ ॥  
 स्थूलान् पीतांश्च पम्पायां द्रक्ष्यसि त्वं नरोत्तम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +727,15 @@ will show them to you... [3-73-18b, 19, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सायाह्ने विचरन् राम विटपी माल्यधारिणः ॥ २० ॥  
 शिवोदकं च पम्पायां दृष्ट्वा शोकं विहास्यसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +787,15 @@ then, 'trees garlanded with its own blooms and twigs...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमनोभिश्चितास्तत्र तिलका नक्तमालकाः ॥ २१ ॥  
 उत्पलानि च फुल्लानि पङ्कजानि च राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +836,15 @@ and fully bloomed red and blue lotuses, as well... [3-73-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तानि कश्चिन्माल्यानि तत्रारोपयिता नरः ॥ २२ ॥  
 न च वै म्लानतां यान्ति न च शीर्यन्ति राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,6 +884,7 @@ dry up, nor drop down... [3-73-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -843,6 +894,8 @@ dry up, nor drop down... [3-73-22b, 23a]
 तानि माल्यानि जातानि मुनीनां तपसा तदा ।  
 स्वेदबिन्दुसमुत्थानि न विनश्यन्ति राघव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,6 +966,7 @@ trees: - R.T.H. Griffith
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -921,6 +975,8 @@ trees: - R.T.H. Griffith
 त्वां तु धर्मे स्थिता नित्यं सर्वभूतनमस्कृतम् ।  
 दृष्ट्वा देवोपमं राम स्वर्गलोकं गमिष्यति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -983,12 +1039,15 @@ a long-lived one and an anchoress, named Shabari, can be seen there, even today.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद्राम पम्पायास्तीरमाश्रित्य पश्चिमम् ।  
 आश्रमस्थानमतुलं गुह्यं काकुत्स्थ पश्यसि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1087,15 @@ you will see the unequalled and arcane place of hermitage of sage Matanga... [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तत्राक्रमितुं नागाः शक्नुवन्ति तदाश्रमे ।  
 ऋषेस्तस्य मतङ्गस्य विधानात् तच्च काननम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1076,6 +1138,7 @@ in that hermitage of sage Matanga disturbing its serenity... [3-73-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1083,6 +1146,8 @@ in that hermitage of sage Matanga disturbing its serenity... [3-73-29]
 तस्मिन् नन्दनसङ्काशे देवारण्योपमे वने ॥ ३० ॥  
 नानाविहगसङ्कीर्णे रंस्यसे राम निर्वृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1127,6 +1192,7 @@ take delight rejoicingly in that woodland... [3-73-30, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1134,6 +1200,8 @@ take delight rejoicingly in that woodland... [3-73-30, 31a]
 सुदुःखारोहणश्चैव शिशुनागाभिरक्षितः ।  
 उदारो ब्रह्मणा चैव पूर्वकालेऽभिनिर्मितः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,6 +1257,7 @@ to the presage of Brahma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1197,6 +1266,8 @@ to the presage of Brahma.
 यस्त्वेनं विषमाचारः पापकर्माधिरोहति ।  
 तत्रैव प्रहरन्त्येनं सुप्तमादाय राक्षसाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,12 +1333,15 @@ in that sleep, he gains that much when he wakes up... [3-73-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रापि शिशुनागानामाक्रन्दः श्रूयते महान् ।  
 क्रीडतां राम पम्पायां मतङ्गाश्रमवासिनाम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1307,6 +1381,7 @@ of those that are the indwellers of Matanga hermitage, even there on Mt. Rishyam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1316,6 +1391,8 @@ of those that are the indwellers of Matanga hermitage, even there on Mt. Rishyam
 अत्यन्तसुखसंस्पर्शं सर्वगन्धसमन्वितम् ॥ ३७ ॥  
 निर्वृत्ताः संविगाहन्ते वनानि वनगोचराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1389,12 +1466,15 @@ for yet another round of head-to-head collision... [3-73-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षांश्च द्वीपिनश्चैव नीलकोमलकप्रभान् ॥ ३८ ॥  
 रुरूनपेतानजयान् दृष्ट्वा शोकं प्रहास्यसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1435,12 +1515,15 @@ stripes there, you will discard your distress... [3-73-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम तस्य तु शैलस्य महती शोभते गुहा ॥ ३९ ॥  
 शिलापिधाना काकुत्स्थ दुःखं चास्याः प्रवेशनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1479,12 +1562,15 @@ problematic is an entry into it... [3-73-39b, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या गुहायाः प्राग्द्वारे महान् शीतोदको ह्रदः ॥ ॥ ४०  
 बहुमूलफलो रम्यो नानानगसमाकुलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1518,12 +1604,15 @@ with divers trees and fraught with numerous tubers and fruits... [3-73-40b, 41a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां वसति धर्मात्मा सुग्रीवः सह वानरैः ॥ ४१ ॥  
 कदाचिच्छिखरे तस्य पर्वतस्यापि तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1564,12 +1653,15 @@ informed them. [3-73-41b, 42a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कबन्धस्त्वनुशास्यैवं तावुभौ रामलक्ष्मणौ ॥ ४२ ॥  
 स्रग्वी भास्करवर्णाभः खे व्यरोचत वीर्यवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1614,12 +1706,15 @@ from them. [3-73-42b, 43a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु खस्थं महाभागं तावुभौ रामलक्ष्मणौ ॥ ४३ ॥  
 प्रस्थितौ त्वं व्रजस्वेति वाक्यमूचतुरन्तिके ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1660,12 +1755,15 @@ Kabandha, who is temporising in the sky in their vicinity, thus as "you may proc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गम्यतां कार्यसिद्ध्यर्थमिति तावब्रवीत् स च ॥ ४४ ॥  
 सुप्रीतौ तावनुज्ञाप्य कबन्धः प्रस्थितस्तदा ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1707,6 +1805,7 @@ the purpose of achieving your task..." [3-73-44b, 45]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1715,6 +1814,8 @@ the purpose of achieving your task..." [3-73-44b, 45]
 निदर्शयन् राममवेक्ष्य खस्थः  
 सख्यं कुरुष्वेति तदाभ्युवाच ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1777,5 +1878,6 @@ at the side of Mt. Rishyamuka, and then he reiterated, "you befriend Sugreeva...
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥73॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३० खरवधः"
 title_english = "030 Elimination of Khara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The
@@ -22,12 +24,15 @@ from their hiding cave and Seetha becomes very happy on seeing her victorious an
 
 30. श्रीरामके व्यङ्ग करनेपर खरका उन्हें फटकारकर उनके ऊपर सालवृक्षका प्रहार करना, श्रीरामका उस वृक्षको काटकर एक तेजस्वी बाणसे खरको मार गिराना तथा देवताओं और महर्षियोंद्वारा श्रीरामकी प्रशंसा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भित्त्वा तु तां गदां बाणै राघवो धर्मवत्सलः ।  
 स्मयमान इदं वाक्यं संरब्धमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +85,15 @@ itself has become an alienated language.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् ते बलसर्वस्वं दर्शितं राक्षसाधम ।  
 शक्तिहीनतरो मत्तो वृथा त्वमुपगर्जसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ is it! You wretched demon, it is paltriest compared to my strength, yet you vaun
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा बाणविनिर्भिन्ना गदा भूमितलं गता ।  
 अभिधानप्रगल्भस्य तव प्रत्ययघातिनी ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ has gone onto the surface of earth, so also is your vanity. [3-30-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वयोक्तं विनष्टानामिदमश्रुप्रमार्जनम् ।  
 राक्षसानां करोमीति मिथ्या तदपि ते वचः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ this word of yours is a fake. [3-30-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीचस्य क्षुद्रशीलस्य मिथ्यावृत्तस्य रक्षसः ।  
 प्राणानपहरिष्यामि गरुत्मानमृतं यथा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ I will take your life away as the Divine Eagle Garuda took away Ambrosia. [3-30-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य ते भिन्नकण्ठस्य फेनबुद‍्बुदभूषितम् ।  
 विदारितस्य मद‍्बाणैर्मही पास्यति शोणितम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ garnished with froth and foam. [3-30-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पांसुरूषितसर्वाङ्गः स्रस्तन्यस्तभुजद्वयः ।  
 स्वप्स्यसे गां समाश्लिष्य दुर्लभां प्रमदामिव ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ arms are knocked down to slide on earth, and limbs smeared with dirt. [3-30-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृद्धनिद्रे शयिते त्वयि राक्षसपांसने ।  
 भविष्यन्ति शरण्यानां शरण्या दण्डका इमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +418,15 @@ shelter-worthy sages and saints. [3-30-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनस्थाने हतस्थाने तव राक्षस मच्छरैः ।  
 निर्भया विचरिष्यन्ति सर्वतो मुनयो वने ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +466,15 @@ will move about everywhere, fearlessly. [3-30-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य विप्रसरिष्यन्ति राक्षस्यो हतबान्धवाः ।  
 बाष्पार्द्रवदना दीना भयादन्यभयावहाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +514,15 @@ quickly with tear-wet faces as their kinsmen are killed. [3-30-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य शोकरसज्ञास्ता भविष्यन्ति निरर्थिकाः ।  
 अनुरूपकुलाः पत्न्यो यासां त्वं पतिरीदृशः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +543,15 @@ _________________
 
 ‘जिनका तुझ-जैसा दुराचारी पति है, वे तदनुरूप कुलवाली तेरी पत्नियाँ आज तेरे मारे जानेपर काम आदि पुरुषार्थोंसे वञ्चित हो शोकरूपी स्थायी भाववाले करुणरसका अनुभव करनेवाली होंगी ॥ ११ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृशंसशील क्षुद्रात्मन् नित्यं ब्राह्मणकण्टक ।  
 त्वत्कृते शङ्कितैरग्नौ मुनिभिः पात्यते हविः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ they will become the enjoyers of the empathy of grief. [3-30-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमभिसंरब्धं ब्रुवाणं राघवं वने ।  
 खरो निर्भर्त्सयामास रोषात् खरतरस्वरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,12 +670,15 @@ him rancorously in a voice stridulous than braying. [3-30-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृढं खल्ववलिप्तोऽसि भयेष्वपि च निर्भयः ।  
 वाच्यावाच्यं ततो हि त्वं मृत्योर्वश्यो न बुध्यसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +721,15 @@ Thus, Khara started his tongue-lashing. [3-30-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालपाशपरिक्षिप्ता भवन्ति पुरुषा हि ये ।  
 कार्याकार्यं न जानन्ति ते निरस्तषडिन्द्रियाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -737,6 +784,7 @@ people's mind deranges...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -745,6 +793,8 @@ people's mind deranges...'
 रणे प्रहरणस्यार्थे सर्वतो ह्यवलोकयन् ।  
 स तमुत्पाटयामास सन्दष्टदशनच्छदम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +837,15 @@ tree. [3-30-16, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समुत्क्षिप्य बाहुभ्यां विनर्दित्वा महाबलः ।  
 राममुद्दिश्य चिक्षेप हतस्त्वमिति चाब्रवीत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +885,15 @@ at him 'you are dead...' [3-30-17b, 18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं बाणौघैश्छित्त्वा रामः प्रतापवान् ।  
 रोषमाहारयत् तीव्रं निहन्तुं समरे खरम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +943,15 @@ is lost, but still trying to be aggressive, rancorously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जातस्वेदस्ततो रामो रोषरक्तान्तलोचनः ।  
 निर्बिभेद सहस्रेण बाणानां समरे खरम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,12 +991,15 @@ Khara with a thousand arrows in that war. [3-30-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बाणान्तराद् रक्तं बहु सुस्राव फेनिलम् ।  
 गिरेः प्रस्रवणस्येव धाराणां च परिस्रवः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -983,12 +1045,15 @@ waiting for Sugreeva's help.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकलः स कृतो बाणैः खरो रामेण संयुगे ।  
 मत्तो रुधिरगन्धेन तमेवाभ्यद्रवद् द्रुतम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1093,15 @@ stinking body he quickly bolted towards that Rama alone. [3-30-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं सङ्क्रुद्धं कृतास्त्रो रुधिराप्लुतम् ।  
 अपासर्पद् द्वित्रिपदं किञ्चित्त्वरितविक्रमः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,12 +1169,15 @@ vegena iiptaasyam rudhira plutam | apasR^itya tataH sthaanaat dR^iShTvaa tvarita
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पावकसङ्काशं वधाय समरे शरम् ।  
 खरस्य रामो जग्राह ब्रह्मदण्डमिवापरम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,12 +1217,15 @@ missile, namely the Brahma-missile, for the elimination of Khara in war. [3-30-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तद् दत्तं मघवता सुरराजेन धीमता ।  
 सन्दधे च स धर्मात्मा मुमोच च खरं प्रति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1192,12 +1266,15 @@ impossible weaponry, and now Rama fitted such an arrow on his bow and released i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विमुक्तो महाबाणो निर्घातसमनिःस्वनः ।  
 रामेण धनुरायम्य खरस्योरसि चापतत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,12 +1316,15 @@ and that has come and plunged inthe chest of Khara. [3-30-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पपात खरो भूमौ दह्यमानः शराग्निना ।  
 रुद्रेणेव विनिर्दग्धः श्वेतारण्ये यथान्धकः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1370,15 @@ point of River Kauvery in ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वृत्र इव वज्रेण फेनेन नमुचिर्यथा ।  
 बलो वेन्द्राशनिहतो निपपात हतः खरः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,6 +1424,7 @@ foam and forth, which are neither wet nor dry, to eliminated him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1351,6 +1435,8 @@ foam and forth, which are neither wet nor dry, to eliminated him.
 चतुर्दश सहस्राणि रक्षसां कामरूपिणाम् ।  
 खरदूषणमुख्यानां निहतानि महामृधे ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1419,12 +1505,15 @@ flowers on Rama from all over. [3-30-29, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो बत महत्कर्म रामस्य विदितात्मनः ।  
 अहो वीर्यमहो दार्ढ्यं विष्णोरिव हि दृश्यते ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1470,6 +1559,7 @@ away as the have come. [3-30-32, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1477,6 +1567,8 @@ away as the have come. [3-30-32, 33a]
 ततो राजर्षयः सर्वे सङ्गताः परमर्षयः ॥ ३३ ॥  
 सभाज्य मुदिता रामं सागस्त्या इदमब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1517,6 +1609,7 @@ the victory of Rama, then on foregathering near at Rama delightedly said this on
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1524,6 +1617,8 @@ the victory of Rama, then on foregathering near at Rama delightedly said this on
 शरभङ्गाश्रमं पुण्यमाजगाम पुरन्दरः ।  
 आनीतस्त्वमिमं देशमुपायेन महर्षिभिः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,6 +1680,7 @@ of demons. [3-30-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1592,6 +1688,8 @@ of demons. [3-30-34b, 35a]
 तदिदं नः कृतं कार्यं त्वया दशरथात्मज ॥ ३६ ॥  
 स्वधर्मं प्रचरिष्यन्ति दण्डकेषु महर्षयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1632,12 +1730,15 @@ expressed their thanksgiving. [3-30-36b, 37a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे वीरो लक्ष्मणः सह सीतया ।  
 गिरिदुर्गाद् विनिष्क्रम्य संविवेशाश्रमे सुखी ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1681,12 +1782,15 @@ hermitage, and he is charmed at the victory of his brother Rama. [3-30-37b, 38a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामस्तु विजयी पूज्यमानो महर्षिभिः ॥ ३८ ॥  
 प्रविवेशाश्रमं वीरो लक्ष्मणेनाभिपूजितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,6 +1832,7 @@ and he entered the hermitage while Lakshmana came forward to greet him. [3-30-38
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1736,6 +1841,8 @@ and he entered the hermitage while Lakshmana came forward to greet him. [3-30-38
 मुदा परमया युक्ता दृष्ट्वा रक्षोगणान् हतान् ।  
 रामं चैवाव्ययं दृष्ट्वा तुतोष जनकात्मजा ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1805,6 +1912,7 @@ her husband Rama, rejoicingly. [3-30-39b, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1813,6 +1921,8 @@ her husband Rama, rejoicingly. [3-30-39b, 40a]
 पुनः परिष्वज्य मुदान्वितानना  
 बभूव हृष्टा जनकात्मजा तदा ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1867,5 +1977,6 @@ demonic troops, and whom great-sages are worshipping, again embraced him and bec
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तनॆय सर्ग सम्पूर्णवायितु. ॥30॥
+</details>
 </details>
 

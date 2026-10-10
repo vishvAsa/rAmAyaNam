@@ -2,6 +2,8 @@
 title = "०६० सम्पातिना स्वकथानिरूपणम्"
 title_english = "060 Sampaati narrates his legend"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ difficulty.
 
 60. सम्पातिकी आत्मकथा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कृतोदकं स्नातं तं गृध्रं हरियूथपाः ।  
 उपविष्टा गिरौ रम्ये परिवार्य समन्ततः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ purification. [4-60-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमङ्गदमुपासीनं तैः सर्वैर्हरिभिर्वृतम् ।  
 जनितप्रत्ययो हर्षात् सम्पातिः पुनरब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ monkeys, again gladly spoke to Angada who sat at his close by. [4-60-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वा निःशब्दमेकाग्राः शृण्वन्तु हरयो मम ।  
 तथ्यं सङ्कीर्तयिष्यामि यथा जानामि मैथिलीम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ the actuality as to how I came to know about Maithili... [4-60-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य विन्ध्यस्य शिखरे पतितोऽस्मि पुरानघ ।  
 सूर्यतापपरीताङ्गो निर्दग्धः सूर्यरश्मिभिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ sunrays completely burned my wings and limbs scorching in sun's heat... [4-60-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लब्धसञ्ज्ञस्तु षड्रात्राद् विवशो विह्वलन्निव ।  
 वीक्षमाणो दिशः सर्वा नाभिजानामि किञ्चन ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ recognise anything in the least, as I was helpless and frantic... [4-60-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु सागरान् शैलान् नदीः सर्वाः सरांसि च ।  
 वनानि च प्रदेशांश्च निरीक्ष्य मतिरागता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +318,15 @@ forests, I could regain senses... [4-60-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टपक्षिगणाकीर्णः कन्दरोदरकूटवान् ।  
 दक्षिणस्योदधेस्तीरे विन्ध्योऽयमिति निश्चितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +367,15 @@ ocean... [4-60-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीच्चात्राश्रमं पुण्यं सुरैरपि सुपूजितम् ।  
 ऋषिर्निशाकरो नाम यस्मिन्नुग्रतपाऽभवत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +415,15 @@ Nishaakara which was reverenced even by gods. [4-60-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टौ वर्षसहस्राणि तेनास्मिन्नृषिणा गिरौ ।  
 वसतो मम धर्मज्ञे स्वर्गते तु निशाकरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -435,12 +464,15 @@ departure of that probity knowing sage Nishakara to heaven. [4-60-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवतीर्य च विन्ध्याग्रात् कृच्छ्रेण विषमाच्छनैः ।  
 तीक्ष्णदर्भां वसुमतीं दुःखेन पुनरागतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +518,15 @@ up and became thorny for a wingless eagle perching almost on its belly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमृषिं द्रष्टुकामोऽस्मि दुःखेनाभ्यागतो भृशम् ।  
 जटायुषा मया चैव बहुशोऽधिगतो हि सः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +566,15 @@ and Jataayu approached that sage for many a time in earlier times... [4-60-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याश्रमपदाभ्याशे ववुर्वाताः सुगन्धिनः ।  
 वृक्षो नापुष्पितः कश्चिदफलो वा न दृश्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +617,15 @@ and no tree is fruitless, whatsoever it is... [4-60-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपेत्य चाश्रमं पुण्यं वृक्षमूलमुपाश्रितः ।  
 द्रष्टुकामः प्रतीक्षे च भगवन्तं निशाकरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,12 +666,15 @@ waited there desirous to see that godly Nishaakara... [4-60-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ पश्यामि दूरस्थमृषिं ज्वलिततेजसम् ।  
 कृताभिषेकं दुर्धर्षमुपावृत्तमुदङ्मुखम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +718,15 @@ his holy bath, an unassailable sage irradiating the ambience with his radiance..
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमृक्षाः सृमरा व्याघ्राः सिंहा नानासरीसृपाः ।  
 परिवार्योपगच्छन्ति दातारं प्राणिनो यथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +770,15 @@ at his heel, as with living beings following a donor, or all-donating Brahma... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्राप्तमृषिं ज्ञात्वा तानि सत्त्वानि वै ययुः ।  
 प्रविष्टे राजनि यथा सर्वं सामात्यकं बलम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +820,15 @@ hermitage, retraced their steps and went away... [4-60-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिस्तु दृष्ट्वा मां तुष्टः प्रविष्टश्चाश्रमं पुनः ।  
 मुहूर्तमात्रान्निर्गम्य ततः कार्यमपृच्छत ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ he again came out in a moment and asked about the objective of my visit... [4-60
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य वैकल्यतां दृष्ट्वा रोम्णां ते नावगम्यते ।  
 अग्निदग्धाविमौ पक्षौ प्राणाश्चापि शरीरके ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -862,12 +918,15 @@ Thus, the sage started to talk to me... [4-60-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृध्रौ द्वौ दृष्टपूर्वौ मे मातरिश्वसमौ जवे ।  
 गृध्राणां चैव राजानौ भ्रातरौ कामरूपिणौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +961,15 @@ in your speed to Wind-god and form-changers by your wish... [4-60-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठोऽवितस्त्वं सम्पाते जटायुरनुजस्तव ।  
 मानुषं रूपमास्थाय गृह्णीतां चरणौ मम ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1010,15 @@ touch my feet taking up human forms... [4-60-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ते व्याधिसमुत्थानं पक्षयोः पतनं कथम् ।  
 दण्डो वायं धृतः केन सर्वमाख्याहि पृच्छतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,5 +1073,6 @@ any scourge imposed on you, if so, who is he... tell me all who am inquiring int
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तनॆय सर्ग सम्पूर्णवायितु.॥60॥
+</details>
 </details>
 

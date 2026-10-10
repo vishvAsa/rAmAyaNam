@@ -2,6 +2,8 @@
 title = "०९८ भरतेन रामाश्रमगमनम्"
 title_english = "098 Bharata continues his search for Rama s hermitage"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,6 +26,7 @@ Rama.
 
 98. भरतके द्वारा श्रीरामके आश्रमकी खोजका प्रबन्ध तथा उन्हें आश्रमका दर्शन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ Rama.
 निविष्टमात्रे सैन्ये तु यथोद्देशं विनीतवत् ।  
 भरतो भ्रातरं वाक्यं शत्रुघ्नमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,12 +98,15 @@ approach on foot, Rama who was complying with the words of his father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं वनमिदं सौम्य नरसङ्घैः समन्ततः ।  
 लुब्धैश्च सहितैरेभिस्त्वमन्वेषितुमर्हसि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +146,15 @@ all sides of this forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहो ज्ञातिसहस्रेण शरचापासिपाणिना ।  
 समन्वेषतु काकुत्स्थावस्मिन् परिवृतः स्वयम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +197,15 @@ multitude of his kinsmen, duly wielding their bows, arrows and swords."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमात्यैः सह पौरैश्च गुरुभिश्च द्विजातिभिः ।  
 सह सर्वं चरिष्यामि पद‍्भ्यां परिवृतः स्वयम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,12 +245,15 @@ personally go round the entire forest on foot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्न रामं द्रक्ष्यामि लक्ष्मणं वा महाबलम् ।  
 वैदेहीं वा महाभागां न मे शान्तिर्भविष्यति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +287,15 @@ the illustrious Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्न चन्द्रसङ्काशं तद् द्रक्ष्यामि शुभाननम् ।  
 भ्रातुः पद्मविशालाक्षं न मे शान्तिर्भविष्यति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +336,15 @@ brother, resembling the moon and having eyes bearing resemblance to lotus-leaves
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्थः खलु सौमित्रिर्यश्चन्द्रविमलोपमम् ।  
 मुखं पश्यति रामस्य राजीवाक्षं महाद्युतिम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -361,12 +384,15 @@ elder brother, bearing royal insignia.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्न चरणौ भ्रातुः पार्थिवव्यञ्जनान्वितौ ।  
 शिरसा प्रग्रहीष्यामि न मे शान्तिर्भविष्यति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,12 +434,15 @@ consecrated by sprinkling water on his head (as a symbol of crowing the kingdom)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्न राज्ये राज्यार्हः पितृपैतामहे स्थितः ।  
 अभिषिक्तो जलक्लिन्नो न मे शान्तिर्भविष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,12 +482,15 @@ resembling the bright moon and having lotus eyes, is indeed an accomplished man.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतकृत्या महाभागा वैदेही जनकात्मजा ।  
 भर्तारं सागरान्तायाः पृथिव्या यानुगच्छति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +531,15 @@ Lord of the earth extending to the sea, has fulfilled her object."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुशुभश्चित्रकूटोऽसौ गिरिराजसमो गिरिः ।  
 यस्मिन् वसति काकुत्स्थः कुबेर इव नन्दने ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +583,15 @@ Rama is residing, as Kubera the Lord of riches is living in the garden of Nandan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतकार्यमिदं दुर्गवनं व्यालनिषेवितम् ।  
 यदध्यास्ते महाराजो रामः शस्त्रभृतां वरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -593,12 +631,15 @@ warrior and the excellent man among the wielders of weapons, dwells."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महाबाहुर्भरतः पुरुषर्षभः ।  
 पद्‍भ्यामेव महातेजाः प्रविवेश महद् वनम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +656,15 @@ warrior and the excellent man among the wielders of weapons, dwells."
 
 हीगॆ हेळि महातेजस्वी पुरुषप्रवर महाबाहु भरतनु आ विशाल वनवन्नु काल्नडिगॆयिन्दले प्रवेशिसिदनु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तानि द्रुमजालानि जातानि गिरिसानुषु ।  
 पुष्पिताग्राणि मध्येन जगाम वदतां वरः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +681,15 @@ warrior and the excellent man among the wielders of weapons, dwells."
 
 मातिनल्लि श्रेष्ठनाद भरतनु पर्वत शिखरगळल्लिन हूवुगळिन्द तुम्बिद कॊम्बॆगळुळ्ळ वृक्ष समूहगळ नडुविनिन्द हॊरटनु.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गिरेश्चित्रकूटस्य सालमारुह्य सत्वरम् ।  
 रामाश्रमगतस्याग्नेर्ददर्श ध्वजमुच्छ्रितम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +709,15 @@ _________________
 
 मुन्दॆ होगि अवनु वेगवागि चित्रकूट पर्वतद ऒन्दु साल वृक्षवन्नु हत्ति अल्लिन्द श्रीरामन आश्रमदिन्द मेलेरुत्तिरुव हॊगॆयन्नु नोडिदनु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा भरतः श्रीमान् मुमोद सहबान्धवः ।  
 अत्र राम इति ज्ञात्वा गतः पारमिवाम्भसः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,6 +734,7 @@ _________________
 
 आ हॊगॆयन्नु नोडि श्रीमान् भरतनु तन्न अनुज शत्रुघ्नसहित सन्तोषदिन्द ‘इल्ले श्रीरामन आश्रमविदॆ’ ऎन्दु हेळुत्ता अवनिगॆ आळवाद नीरन्नु दाटिदष्टु सन्तोष प्राप्तवायितु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -692,6 +743,8 @@ _________________
 गुहेन सार्धं त्वरितो जगाम  
 पुनर्निवेश्यैव चमूं महात्मा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -720,5 +773,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॆण्टनॆय सर्ग पूर्णवायितु.॥98॥
+</details>
 </details>
 

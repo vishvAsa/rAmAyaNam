@@ -2,6 +2,8 @@
 title = "०२४ रामस्य युद्धोद्योगः"
 title_english = "024 Rama s readiness to war with Khara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ demons.
 
 24. श्रीरामका तात्कालिक शकुनोंद्वारा राक्षसोंके विनाश और अपनी विजयकी सम्भावना करके सीतासहित लक्ष्मणको पर्वतकी गुफामें भेजना और युद्धके लिये उद्यत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रमं प्रतियाते तु खरे खरपराक्रमे ।  
 तानेवौत्पातिकान् रामः सह भ्रात्रा ददर्श ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ has indeed seen the very same auguries which have earlier appeared to Khara. [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानुत्पातान् महाघोरान् रामो दृष्ट्वात्यमर्षणः ।  
 प्रजानामहितान् दृष्ट्वा वाक्यं लक्ष्मणमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ spoke this sentence to Lakshmana. [3-24-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमान् पश्य महाबाहो सर्वभूतापहारिणः ।  
 समुत्थितान् महोत्पातान् संहर्तुं सर्वराक्षसान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ arisen, as though betokening the annihilation of all beings. See them. [3-24-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमी रुधिरधारास्तु विसृजन्ते खरस्वनाः ।  
 व्योम्नि मेघा निवर्तन्ते परुषा गर्दभारुणाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ and copiously showering streams of blood. [3-24-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सधूमाश्च शराः सर्वे मम युद्धाभिनन्दिताः ।  
 रुक्मपृष्ठानि चापानि विचेष्टन्ते विचक्षण ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +268,15 @@ of mine are incessantly spurring to hook up those arrows, telling apart the impe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशा इह कूजन्ति पक्षिणो वनचारिणः ।  
 अग्रतो नोऽभयं प्राप्तं संशयो जीवितस्य च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ with uncertainty of our lives. [3-24-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रहारस्तु सुमहान् भविष्यति न संशयः ।  
 अयमाख्याति मे बाहुः स्फुरमाणो मुहुर्मुहुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +341,15 @@ with uncertainty of our lives. [3-24-6]
 
 नन्न बलभुजवु पदे-पदे अदुरुत्तिरुवुदरिन्द स्वल्प हॊत्तिनल्ले दॊड्ड युद्धवागुवुदॆम्बुदन्नु सूचिसुत्तिदॆ. इदरल्लि याव सन्देहवू इल्ल.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्निकर्षे तु नः शूर जयं शत्रोः पराजयम् ।  
 सुप्रभं च प्रसन्नं च तव वक्त्रं हि लक्ष्यते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +391,15 @@ and for sure, your face is also appearing brightish and aglow, which itself is a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यतानां हि युद्धार्थं येषां भवति लक्ष्मण ।  
 निष्प्रभं वदनं तेषां भवत्यायुः परिक्षयः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +439,15 @@ on their longevity too. [3-24-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षसां नर्दतां घोरः श्रूयतेऽयं महाध्वनिः ।  
 आहतानां च भेरीणां राक्षसैः क्रूरकर्मभिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,12 +487,15 @@ by the demons of fiendish activities, and this is ear-splitting. [3-24-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनागतविधानं तु कर्तव्यं शुभमिच्छता ।  
 आपदं शङ्कमानेन पुरुषेण विपश्चिता ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +541,15 @@ and cannot become a maxim or axiom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् गृहीत्वा वैदेहीं शरपाणिर्धनुर्धरः ।  
 गुहामाश्रय शैलस्य दुर्गां पादपसङ्कुलाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +588,15 @@ cave of a mountain overgrown with trees. [3-24-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिकूलितुमिच्छामि न हि वाक्यमिदं त्वया ।  
 शापितो मम पादाभ्यां गम्यतां वत्स मा चिरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +637,15 @@ long. [3-24-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं हि शूरश्च बलवान् हन्या एतान् न संशयः ।  
 स्वयं निहन्तुमिच्छामि सर्वानेव निशाचरान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,12 +685,15 @@ long to eliminate all of the nightwalkers, personally" Rama said thus to Lakshma
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण लक्ष्मणः सह सीतया ।  
 शरानादाय चापं च गुहां दुर्गां समाश्रयत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +750,15 @@ verse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् प्रविष्टे तु गुहां लक्ष्मणे सह सीतया ।  
 हन्त निर्युक्तमित्युक्त्वा रामः कवचमाविशत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -749,12 +799,15 @@ good-idea!" and thus saying he donned his shield. [3-24-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेनाग्निनिकाशेन कवचेन विभूषितः ।  
 बभूव रामस्तिमिरे महानग्निरिवोत्थितः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +847,15 @@ up-shot in utter darkness. [3-24-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चापमुद्यम्य महच्छरानादाय वीर्यवान् ।  
 सम्बभूवास्थितस्तत्र ज्यास्वनैः पूरयन् दिशः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +895,15 @@ all the directions with the tinny sounds of bowstring. [3-24-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च सह चारणैः ।  
 समेयुश्च महात्मानो युद्धदर्शनकाङ्क्षया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,6 +942,7 @@ there aspiring to see the war. [3-24-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -892,6 +952,8 @@ there aspiring to see the war. [3-24-19]
 जयतां राघवो युद्धे पौलस्त्यान् रजनीचरान् ॥ २१ ॥  
 चक्रहस्तो यथा युद्धे सर्वानसुरपुङ्गवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,6 +1019,7 @@ those beings of pious exploits spoke to one another, among themselves. [3-24-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,6 +1027,8 @@ those beings of pious exploits spoke to one another, among themselves. [3-24-20]
 चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम् ।  
 एकश्च रामो धर्मात्मा कथं युद्धं भविष्यति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1072,15 @@ Thus the sages discussed among themselves. [3-24-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति राजर्षयः सिद्धाः सगणाश्च द्विजर्षभाः ।  
 जातकौतूहलास्तस्थुर्विमानस्थाश्च देवताः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,12 +1119,15 @@ in their aircrafts, tarried there in the firmament peering inquisitively at Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आविष्टं तेजसा रामं सङ्ग्रामशिरसि स्थितम् ।  
 दृष्ट्वा सर्वाणि भूतानि भयाद् विव्यथिरे तदा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1167,15 @@ at him all beings went into the throes of dread. [3-24-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपमप्रतिमं तस्य रामस्याक्लिष्टकर्मणः ।  
 बभूव रूपं क्रुद्धस्य रुद्रस्येव महात्मनः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,6 +1227,7 @@ Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1160,6 +1235,8 @@ Tiirtha.
 ततो गम्भीरनिर्ह्रादं घोरचर्मायुधध्वजम् ॥ २७ ॥  
 अनीकं यातुधानानां समन्तात् प्रत्यपद्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,6 +1254,7 @@ Tiirtha.
 
 देवतॆगळु, गन्धर्वरु, चारणरु हिन्दिनन्तॆ श्रीरामन मङ्गलकामनॆ माडुत्तिद्दाग, भयङ्कर कत्ति-गुराणि मॊदलाद आयुधगळिन्द मत्तु ध्वजगळिन्द कूडिद निशाचरर आ सैन्यवु गम्भीरवागि गर्जिसुत्ता नाल्कु कडॆगळिन्द श्रीरामन बळिगॆ बन्तु.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,6 +1263,8 @@ Tiirtha.
 विप्रघुष्टस्वनानां च दुन्दुभींश्चापि निघ्नताम् ॥ २९ ॥  
 तेषां सुतुमुलः शब्दः पूरयामास तद् वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1229,12 +1309,15 @@ filled with very loud and clamorous noise. [3-24-27, 28, 29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शब्देन वित्रस्ताः श्वापदा वनचारिणः ॥ ३० ॥  
 दुद्रुवुर्यत्र निःशब्दं पृष्ठतो नावलोकयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1363,15 @@ without looking back. [3-24-30, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चानीकं महावेगं रामं समनुवर्तत ॥ ३१ ॥  
 धृतनानाप्रहरणं गम्भीरं सागरोपमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,12 +1414,15 @@ handling many assault weapons. [3-24-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽपि चारयंश्चक्षुः सर्वतो रणपण्डितः ॥ ३२ ॥  
 ददर्श खरसैन्यं तद् युद्धायाभिमुखो गतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1373,6 +1462,7 @@ Casting his sight all-over even that war-expert Rama has seen that army of Khara
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1380,6 +1470,8 @@ Casting his sight all-over even that war-expert Rama has seen that army of Khara
 क्रोधमाहारयत् तीव्रं वधार्थं सर्वरक्षसाम् ।  
 दुष्प्रेक्ष्यश्चाभवत् क्रुद्धो युगान्ताग्निरिव ज्वलन् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1456,6 +1548,7 @@ lives. But Khara, as his name itself indicates that he has an asinine mentality,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1463,6 +1556,8 @@ lives. But Khara, as his name itself indicates that he has an asinine mentality,
 तस्य रुष्टस्य रूपं तु रामस्य ददृशे तदा ।  
 दक्षस्येव क्रतुं हन्तुमुद्यतस्य पिनाकिनः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,6 +1598,7 @@ embarking on to ruin the Vedic ritual of Daksha Prajaapati. [3-24-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1511,6 +1607,8 @@ embarking on to ruin the Vedic ritual of Daksha Prajaapati. [3-24-35]
 बभूव सैन्यं पिशिताशनानां  
 सूर्योदये नीलमिवाभ्रजालम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1575,5 +1673,6 @@ of them, the evil-doers, after a short while.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥24॥
+</details>
 </details>
 

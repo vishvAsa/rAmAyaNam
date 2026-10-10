@@ -2,6 +2,8 @@
 title = "०८१ इन्द्रजिता युद्धरङ्गे मायासीताकृतिस्थपनम्"
 title_english = "081 Indrajit places illusory live image of Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ his sword. Indrajit kills the illusory living image of Seetha, with his sharp sw
 
 81. इन्द्रजित् के द्वारा मायामयी सीताका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञाय तु मनस्तस्य राघवस्य महात्मनः ।  
 स निवृत्याहवात् तस्मात् प्रविवेश पुरं ततः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -53,12 +58,15 @@ _________________
 
 महात्मा रघुनाथन मनोभाववन्नु तिळिदु इन्द्रजितु युद्धदिन्द निवृत्तनागि लङ्कॆगॆ हॊरटु होदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽनुस्मृत्य वधं तेषां राक्षसानां तरस्विनाम् ।  
 क्रोधताम्रेक्षणः शूरो निर्जगामाथ रावणिः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ that valiant Indrajit sallied forth (for the fight) with red-hot eyes in anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पश्चिमेन द्वारेण निर्ययौ राक्षसैर्वृतः ।  
 इन्द्रजित् सुमहावीर्यः पौलस्त्यो देवकण्टकः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,12 +155,15 @@ Pulstya's dynasty, accompanied by an army of demons, came forth from the western
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजित्तु ततो दृष्ट्वा भ्रातरौ रामलक्ष्मणौ ।  
 रणायाभ्युुद्यतौ वीरौ मायां प्रादुष्करोत् तदा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +200,15 @@ encounter, Indrajit for his part, then started to demonstrate his conjuring tric
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजित्तु रथे स्थाप्य सीतां मायामयीं तदा ।  
 बलेन महतावृत्य तस्या वधमरोचयत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,12 +248,15 @@ chariot, Indrajit intended to kill her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोहनार्थं तु सर्वेषां बुद्धिं कृत्वा सुदुर्मतिः ।  
 हन्तुं सीतां व्यवसितो वानराभिमुखो ययौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +291,15 @@ monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा त्वभिनिर्यान्तं सर्वे ते काननौकसः ।  
 उत्पेतुरभिसङ्क्रुद्धाः शिलाहस्ता युयुत्सवः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -317,12 +340,15 @@ bounced towards him, with rocks in their hands and with an intent to fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमान् पुरतस्तेषां जगाम कपिकुञ्जरः ।  
 प्रगृह्य सुमहच्छृङ्गं पर्वतस्य दुरासदम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +382,15 @@ which was difficult to be reached by others, marched in front.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श हतानन्दां सीतामिन्द्रजितो रथे ।  
 एकवेणीधरां दीनामुपवासकृशाननाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,12 +407,15 @@ which was difficult to be reached by others, marched in front.
 
 अवनु इन्द्रजितुविन रथदल्लि सीतॆयन्नु नोडिदनु. अवन उत्साह इळिदुहोयितु. अवळु एकवेणि धरॆयागि बहळ दुःखितॆयागिद्दु, उपवासदिन्दागि मुख बाडिहोगित्तु.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिक्लिष्टैकवसनाममृजां राघवप्रियाम् ।  
 रजोमलाभ्यामालिप्तैः सर्वगात्रैर्वरस्त्रियम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -423,12 +455,15 @@ in the chaiot of Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां निरीक्ष्य मुहूर्तं तु मैथिलीमध्यवस्य च ।  
 बभूवाचिरदृष्टा हि तेन सा जनकात्मजा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +503,15 @@ That Seetha was indeed seen by him, not long ago.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् तां तु शोकार्तां निरानन्दां तपस्विनीम् ।  
 दृष्ट्वा रथस्थितां दीनां राक्षसेन्द्रसुतश्रिताम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +528,15 @@ That Seetha was indeed seen by him, not long ago.
 
 राक्षसेन्द्रन पुत्र इन्द्रजितु विन बळि रथदल्लि कुळितिरुव तपस्विनी सीतॆयु शोकदिन्द पीडितळागि दीन हागू आनन्दशून्यळागिद्दळु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं समर्थितमस्येति चिन्तयन् स महाकपिः ।  
 सह तैर्वानरश्रेष्ठैरभ्यधावत रावणिम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +574,15 @@ thinking, he along with those leaders of mnkeys, rushed towards Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वानरबलं दृष्ट्वा रावणिः क्रोधमूर्च्छितः ।  
 कृत्वा विकोशं निस्त्रिंशं मूर्ध्नि सीतामकर्षयत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +643,15 @@ entered the City.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां स्त्रियं पश्यतां तेषां ताडयामास राक्षसः ।  
 क्रोशन्तीं राम रामेति मायया योजितां रथे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +695,15 @@ the chariot by the dint of his conjuring trick and who was crying "Rama! Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतमूर्धजां दृष्ट्वा हनूमान् दैन्यमागतः ।  
 दुःखजं वारि नेत्राभ्यामुत्सृजन् मारुतात्मजः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -687,12 +737,15 @@ affliction and shed tears, in agony from his eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा चारुसर्वाङ्गीं रामस्य महिषीं प्रियाम् ।  
 अब्रवीत् परुषं वाक्यं क्रोधाद् रक्षोधिपात्मजम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +780,15 @@ angrily addressed the foolowing harsh words to Indrajit:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुरात्मन्नात्मनाशाय केशपक्षे परामृशः ।  
 ब्रह्मर्षीणां कुले जातो राक्षसीं योनिमाश्रितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -766,6 +822,7 @@ demoniacal race, you touched a lock of her hair, for your hair, for your own rui
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -773,6 +830,8 @@ demoniacal race, you touched a lock of her hair, for your hair, for your own rui
 नृशंसानार्य दुर्वृत्त क्षुद्र पापपराक्रम ।  
 अनार्यस्येदृशं कर्म घृणा ते नास्ति निर्घृण ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +870,15 @@ worthy of a barbarian. There is no pity in you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च्युता गृहाच्च राज्याच्च रामहस्ताच्च मैथिली ।  
 किं तवैषापराद्धा हि यदेनां हंसि निर्दय ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +919,15 @@ huband's (Rama's) protection. What wrong has Seetha done to you, that you are ki
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां हत्वा तु न चिरं जीविष्यसि कथञ्चन ।  
 वधार्ह कर्मणा तेन मम हस्तगतो ह्यसि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +967,15 @@ death! By your act, you indeed fell into my hands."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये च स्त्रीघातिनां लोका लोकवध्यैश्च कुत्सिताः ।  
 इह जीवितमुत्सृज्य प्रेत्य तान् प्रति लप्स्यसे ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,12 +1014,15 @@ by the people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणो हनुमान् सायुधैर्हरिभिर्वृतः ।  
 अभ्यधावत् सुसङ्क्रुद्धो राक्षसेन्द्रसुतं प्रति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,12 +1065,15 @@ much enraged, rushed headlong towards Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपतन्तं महावीर्यं तदनीकं वनौकसाम् ।  
 रक्षसां भीमकोपानामनीकेन न्यवारयत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1113,15 @@ high prowess and advancing towards them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां बाणसहस्रेण विक्षोभ्य हरिवाहिनीम् ।  
 हनूमन्तं हरिश्रेष्ठमिन्द्रजित् प्रत्युवाच ह ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,6 +1158,7 @@ Hanuma, the foremost of mokeys as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1089,6 +1167,8 @@ Hanuma, the foremost of mokeys as follows:
 इमां हत्वा ततो रामं लक्ष्मणं त्वां च वानर ।  
 सुग्रीवं च वधिष्यामि तं चानार्यं विभीषणम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,12 +1221,15 @@ now itself, while you stand looking on."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हन्तव्याः स्त्रियश्चेति यद् ब्रवीषि प्लवङ्गम ।  
 पीडाकरममित्राणां यच्च कर्तव्यमेव तत् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1187,12 +1270,15 @@ correct. But that which causes tormentation to the enemies indeed needs to be do
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा रुदतीं सीतां मायामयीं च ताम् ।  
 शितधारेण खड्गेन निजघानेन्द्रजित् स्वयम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1235,12 +1321,15 @@ ahd been sobbing all the while, with his sharp-edged sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञोपवीतमार्गेण छिन्ना तेन तपस्विनी ।  
 सा पृथिव्यां पृथुश्रोणी पपात प्रियदर्शना ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1275,6 +1364,7 @@ the sight, fell down on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1282,6 +1372,8 @@ the sight, fell down on the ground.
 मया रामस्य पश्येमां प्रियां शस्त्रनिषूदिताम् ।  
 एषा विशस्ता वैदेही निष्फलो वः परिश्रमः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,12 +1395,15 @@ _________________
 
 आ स्त्रीयन्नु वधिसि इन्द्रजितनु हनुमन्तनल्लि हेळिदनु - नोडु, नानु रामन प्रिय पत्नी वैदेहियन्नु खड्गदिन्द तुण्डरिसिबिट्टिरुवॆनु. इन्नु निम्म युद्धद परिश्रम व्यर्थवागिदॆ.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः खड्गेन महता हत्वा तामिन्द्रजित्स्वयम् ।  
 हृष्टः स रथमास्थाय ननाद च महास्वनम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,12 +1440,15 @@ wife with my weapon. This Seetha is dead and all your labour is in vain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराः शुश्रुवुः शब्दमदूरे प्रत्यवस्थिताः ।  
 व्यादितास्यस्य नदतस्तद्दुर्गं संश्रितस्य तु ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,6 +1489,7 @@ chariot, pleasurefully roared loudly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1399,6 +1498,8 @@ chariot, pleasurefully roared loudly.
 तं हृष्टरूपं समुदीक्ष्य वानरा  
 विषण्णरूपाः समभिप्रदुद्रुवुः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,5 +1547,6 @@ difficult of access for others.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तॊन्दनॆय सर्ग पूर्णवायितु.॥81॥
+</details>
 </details>
 

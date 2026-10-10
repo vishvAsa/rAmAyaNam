@@ -2,6 +2,8 @@
 title = "००६ रामस्य रक्षोवधप्रतिज्ञा"
 title_english = "006 Approach of Sages and Hermits"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -23,12 +25,15 @@ After the heavenward journey of Sage Sharabhanga, Rama is approached by
 
 6. वानप्रस्थ मुनियोंका राक्षसोंके अत्याचारसे अपनी रक्षाके लिये श्रीरामचन्द्रजीसे प्रार्थना करना और श्रीरामका उन्हें आश्वासन देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरभङ्गे दिवं प्राप्ते मुनिसङ्घाः समागताः ।  
 अभ्यगच्छन्त काकुत्स्थं रामं ज्वलिततेजसम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,6 +69,7 @@ On Sage Sharabhanga attaining heaven, groups of sages assembled and approached
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ On Sage Sharabhanga attaining heaven, groups of sages assembled and approached
 तथोर्ध्ववासिनो दान्तास्तथाऽऽर्द्रपटवाससः ।  
 सजपाश्च तपोनिष्ठास्तथा पञ्चतपोऽन्विताः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -222,12 +230,15 @@ The *
 
 १.ऋषियोंका एक समुदाय जो ब्रह्माजीके नखसे उत्पन्न हुआ है । २.ब्रह्माजीके बाल (रोम) से प्रकट हुए महर्षियोंका समूह । ३.जो भोजनके बाद अपने बर्तन धो-पोंछकर रख देते हैं, दूसरे समयके लिये कुछ नहीं बचाते । ४.सूर्य अथवा चन्द्रमाकी किरणोंका पान करके रहनेवाले । ५.कच्चे अन्नको पत्थरसे कूटकर खानेवाले । ६.पत्तोंका आहार करनेवाले । ७. दाँतोंसे ही ऊखलका काम लेनेवाले । ८. कण्ठतक पानीमें डूबकर तपस्या करनेवाले । ९.शरीरसे ही शय्याका काम लेनेवाले अर्थात् बिना बिछौनेके ही भुजापर सिर रखकर सोनेवाले । १०. शय्याके साधनोंसे रहित । ११. निरन्तर सत्कर्ममें लगे रहनेके कारण कभी अवकाश न पानेवाले । १२. जल पीकर रहनेवाले । १३. हवा पीकर जीवननिर्वाह करनेवाले । १४. खुले मैदानमें रहनेवाले । १५. वेदीपर सोनेवाले । १६. पर्वतशिखर आदि ऊँचे स्थानोंमें निवास करनेवाले । १७. मन और इन्द्रियोंको वशमें रखनेवाले । १८. सदा भीगे कपड़े पहननेवाले । १९. निरन्तर जप करनेवाले । २०. तपस्या अथवा परमात्मतत्त्वके विचारमें स्थित रहनेवाले । २१. गर्मीके मौसममें ऊपरसे सूर्यका और चारों ओरसे अग्निका ताप सहन करनेवाले ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे ब्राह्म्या श्रिया युक्ता दृढयोगसमाहिताः ।  
 शरभङ्गाश्रमे राममभिजग्मुश्च तापसाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +285,15 @@ All have Vedic resplendence and firm yogic control, and they have arrived at the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिगम्य च धर्मज्ञा रामं धर्मभृतां वरम् ।  
 ऊचुः परमधर्मज्ञमृषिसङ्घाः समागताः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,12 +347,15 @@ The word *
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमिक्ष्वाकुकुलस्यास्य पृथिव्याश्च महारथः ।  
 प्रधानश्चापि नाथश्च देवानां मघवानिव ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -405,12 +422,15 @@ We have not heard of any chariot or horse being utilised by Rama, let alone in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्रुतस्त्रिषु लोकेषु यशसा विक्रमेण च ।  
 पितृव्रतत्वं सत्यं च त्वयि धर्मश्च पुष्कलः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +488,15 @@ The above is the apparent meaning. The subtext is "Are you, the supreme
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वामासाद्य महात्मानं धर्मज्ञं धर्मवत्सलम् ।  
 अर्थित्वान्नाथ वक्ष्यामस्तच्च नः क्षन्तुमर्हसि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +552,15 @@ Special supplication to god is a waste. His mercy has to flows on its own
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मः सुमहान् नाथ भवेत् तस्य तु भूपतेः ।  
 यो हरेद् बलिषड्भागं न च रक्षति पुत्रवत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,6 +617,7 @@ Special supplication to god is a waste. His mercy has to flows on its own
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -599,6 +626,8 @@ Special supplication to god is a waste. His mercy has to flows on its own
 प्राप्नोति शाश्वतीं राम कीर्तिं स बहुवार्षिकीम् ।  
 ब्रह्मणः स्थानमासाद्य तत्र चापि महीयते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +680,15 @@ Special supplication to god is a waste. His mercy has to flows on its own
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् करोति परं धर्मं मुनिर्मूलफलाशनः ।  
 तत्र राज्ञश्चतुर्भागः प्रजा धर्मेण रक्षतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +735,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽयं ब्राह्मणभूयिष्ठो वानप्रस्थगणो महान् ।  
 त्वन्नाथोऽनाथवद् राम राक्षसैर्हन्यते भृशम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +788,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एहि पश्य शरीराणि मुनीनां भावितात्मनाम् ।  
 हतानां राक्षसैर्घोरैर्बहूनां बहुधा वने ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +839,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पम्पानदीनिवासानामनुमन्दाकिनीमपि ।  
 चित्रकूटालयानां च क्रियते कदनं महत् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +889,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वयं न मृष्यामो विप्रकारं तपस्विनाम् ।  
 क्रियमाणं वने घोरं रक्षोभिर्भीमकर्मभिः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +939,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वां शरणार्थं च शरण्यं समुपस्थिताः ।  
 परिपालय नो राम वध्यमानान् निशाचरैः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1007,15 @@ It is said as 'you are the only refuge' because there is no pre or post verbs
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परा त्वत्तो गतिर्वीर पृथिव्यां नोपपद्यते ।  
 परिपालय नः सर्वान् राक्षसेभ्यो नृपात्मज ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,12 +1071,15 @@ There is no way-out on this earth, for that matter of fact in all the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा तु काकुत्स्थस्तापसानां तपस्विनाम् ।  
 इदं प्रोवाच धर्मात्मा सर्वानेव तपस्विनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1070,12 +1123,15 @@ On hearing all that is said by the sages of great penance, he that virtue souled
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवमर्हथ मां वक्तुमाज्ञाप्योऽहं तपस्विनाम् ।  
 केवलेन स्वकार्येण प्रवेष्टव्यं वनं मया ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1176,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रकारमपाक्रष्टुं राक्षसैर्भवतामिमम् ।  
 पितुस्तु निर्देशकरः प्रविष्टोऽहमिदं वनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1193,12 +1252,15 @@ Griffit's Translit: I wait the hests of all of you. / I by mine own
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवतामर्थसिद्ध्यर्थमागतोऽहं यदृच्छया ।  
 तस्य मेऽयं वने वासो भविष्यति महाफलः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1307,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपस्विनां रणे शत्रून् हन्तुमिच्छामि राक्षसान् ।  
 पश्यन्तु वीर्यमृषयः सभ्रातुर्मे तपोधनाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1292,6 +1357,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1300,6 +1366,8 @@ _________________
 तपोधनैश्चापि सहार्यदत्तः  
 सुतीक्ष्णमेवाभिजगाम वीरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,5 +1426,6 @@ Thus giving his aegis to the sages, that valiant Rama who is firmly virtue-soule
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि आरनॆय सर्ग सम्पूर्णवायितु.॥6॥
+</details>
 </details>
 

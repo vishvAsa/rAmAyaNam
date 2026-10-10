@@ -2,6 +2,8 @@
 title = "०६९ अयोमुख्याः कर्णादिछेदः"
 title_english = "069 Kabandha captures Rama Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ away. The episode of Kabandha has a turning point in the epic.
 
 69. लक्ष्मणका अयोमुखीको दण्ड देना तथा श्रीराम और लक्ष्मणका कबन्धके बाहुबन्धमें पड़कर चिन्तित होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वैवमुदकं तस्मै प्रस्थितौ राघवौ तदा ।  
 अवेक्षन्तौ वने सीतां जग्मतुः पश्चिमां दिशम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ onwards.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दिशं दक्षिणां गत्वा शरचापासिधारिणौ ।  
 अविप्रहतमैक्ष्वाकौ पन्थानं प्रतिपेदतुः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ a pathway which is an off the beaten track. [3-69-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुल्मैर्वृक्षैश्च बहुभिर्लताभिश्च प्रवेष्टितम् ।  
 आवृतं सर्वतो दुर्गं गहनं घोरदर्शनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ from all over, thus that is jammed, blocked and horrid in its appearance. [3-69-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यतिक्रम्य तु वेगेन गृहीत्वा दक्षिणां दिशम् ।  
 सुभीमं तन्महारण्यं व्यतियातौ महाबलौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ both those spryly energetic brothers moved ahead, speedily. [3-69-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परं जनस्थानात् त्रिकोशं गम्य राघवौ ।  
 क्रौञ्चारण्यं विविशतुर्गहनं तौ महौजसौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +286,15 @@ figure in their dictionaries, while traditionally a yojana is said as a distance
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानामेघघनप्रख्यं प्रहृष्टमिव सर्वतः ।  
 नानावर्णैः शुभैः पुष्पैर्मृगपक्षिगणैर्युतम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +311,15 @@ figure in their dictionaries, while traditionally a yojana is said as a distance
 
 आ वनवु मेघ समूहगळन्तॆ श्यामलवागि काणुत्तित्तु. विविध बण्णगळ हूवुगळिन्द सुशोभितवाद्दरिन्द अदु ऎल्लॆडॆ हर्षोल्लासदन्तॆ अनिसुत्तित्तु. अदरॊळगॆ अनेक पशु-पक्षिगळु वासिसुत्तिद्दवु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिदृक्षमाणौ वैदेहीं तद् वनं तौ विचिक्यतुः ।  
 तत्र तत्रावतिष्ठन्तौ सीताहरणदुःखितौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,12 +360,15 @@ highly rejoiced everywhere. [3-69-6, 7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पूर्वेण तौ गत्वा त्रिक्रोशं भ्रातरौ तदा ।  
 क्रौञ्चारण्यमतिक्रम्य मतङ्गाश्रममन्तरे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,12 +388,15 @@ _________________
 
 अनन्तर अवरिब्बरु सोदररु मूरु रहदारि पूर्वक्कॆ होगि क्रौञ्चारण्यवन्नु दाटि मतङ्ग मुनिय आश्रमद बळिगॆ बन्दरु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा तु तद् वनं घोरं बहुभीममृगद्विजम् ।  
 नानावृक्षसमाकीर्णं सर्वं गहनपादपम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +413,15 @@ _________________
 
 आ वनवु भारी भयङ्करवागित्तु. अदरल्लि अनेक भयानक पशु-पक्षि वासिसुत्तिद्दवु. अनेक वृक्षगळिन्द व्याप्तवाद आ वनवॆल्ल दट्टवाद काडिनिन्द कूडित्तु.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददृशाते गिरौ तत्र दरीं दशरथात्मजौ ।  
 पातालसमगम्भीरां तमसा नित्यसंवृताम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +466,15 @@ they saw a cave in a mountain, which is abyssal, equal to infernal region, and e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसाद्य च नरव्याघ्रौ दर्यास्तस्याविदूरतः ।  
 ददर्शतुर्महारूपां राक्षसीं विकृताननाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +517,15 @@ shape and misshapen in her face. [3-69-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भयदामल्पसत्त्वानां बीभत्सां रौद्रदर्शनाम् ।  
 लम्बोदरीं तीक्ष्णदंष्ट्रां करालीं परुषत्वचम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +542,15 @@ shape and misshapen in her face. [3-69-11]
 
 अवळु सण्ण-सण्ण प्राणिगळन्नु भयपडिसुत्ता अतिभयङ्करवागिद्दळु. आकॆय उद्दवाद हॊट्टॆ, चूपाद कोरॆ दाडिगळु, बिरुसाद चर्म इन्तह आकॆय रूप घृणास्पदवागिद्दु बीभत्सवागि काणुत्तित्तु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्षयन्तीं मृगान् भीमान् विकटां मुक्तमूर्धजाम् ।  
 अवैक्षतां तु तौ तत्र भ्रातरौ रामलक्ष्मणौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +591,15 @@ beasts. [3-69-12, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा समासाद्य तौ वीरौ व्रजन्तं भ्रातुरग्रतः ।  
 एहि रंस्यावहेत्युक्त्वा समालम्भत लक्ष्मणम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,12 +639,15 @@ onto Lakshmana who is going ahead of his elder brother, saying, "come... let's r
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच चैनं वचनं सौमित्रिमुपगुह्य च ।  
 अहं त्वयोमुखी नाम लाभस्ते त्वमसि प्रियः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +667,15 @@ _________________
 
 इष्टे अल्लदॆ अवळु सौमित्रियन्नु बाहुगळिन्द बिगिदप्पिकॊण्डु हेळिदळु-नन्न हॆसरु अयोमुखि ऎन्दु. नानु निनगॆ भार्यॆयागि दॊरकिदरॆ दॊड्ड लाभवॆन्दु तिळि. नीनु नन्न प्रिय पतियागिरुवॆ.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाथ पर्वतदुर्गेषु नदीनां पुलिनेषु च ।  
 आयुश्चिरमिदं वीर त्वं मया सह रंस्यसे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +718,15 @@ till the end of this life..." So is the love prattle of that demoness Ayomukhi. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु कुपितः खड्गमुद‍्धृत्य लक्ष्मणः ।  
 कर्णनासस्तनं तस्या निचकर्तारिसूदनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +769,15 @@ off her nose, one ear, and one of her breasts. [3-69-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्णनासे निकृत्ते तु विस्वरं विननाद सा ।  
 यथागतं प्रदुद्राव राक्षसी घोरदर्शना ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +817,15 @@ rushed off as she had rushed in at Lakshmana. [3-69-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां गतायां गहनं व्रजन्तौ वनमोजसा ।  
 आसेदतुरमित्रघ्नौ भ्रातरौ रामलक्ष्मणौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +866,15 @@ force. [3-69-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्तु महातेजाः सत्त्ववाञ्छीलवाञ्छुचिः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं भ्रातरं दीप्ततेजसम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,6 +919,7 @@ by his persona, he prayfully said this sentence to his brother Rama whose anima 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -865,6 +928,8 @@ by his persona, he prayfully said this sentence to his brother Rama whose anima 
 तस्मात् सज्जीभवार्य त्वं कुरुष्व वचनं मम ।  
 ममैव हि निमित्तानि सद्यः शंसन्ति सम्भ्रमम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,12 +989,15 @@ are also bidding fair... [3-69-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष वञ्जुलको नाम पक्षी परमदारुणः ।  
 आवयोर्विजयं युद्धे शंसन्निव विनर्दति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,12 +1037,15 @@ in any given conflict that may ensue..." So said Lakshmana to Rama. [3-69-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोरन्वेषतोरेवं सर्वं तद् वनमोजसा ।  
 सञ्जज्ञे विपुलः शब्दः प्रभञ्जन्निव तद् वनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,12 +1085,15 @@ brouhaha emanated as though to completely shatter down that forest. [3-69-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवेष्टितमिवात्यर्थं गहनं मातरिश्वना ।  
 वनस्य तस्य शब्दोऽभूद् वनमापूरयन्निव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,12 +1136,15 @@ filling up that forest. [3-69-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शब्दं काङ्क्षमाणस्तु रामः खड्गी सहानुजः ।  
 ददर्श सुमहाकायं राक्षसं विपुलोरसम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1108,12 +1185,15 @@ and gigantesque-chested demon in a section of brushwood along with his younger b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसेदतुश्च तद्रक्षस्तावुभौ प्रमुखे स्थितम् ।  
 विवृद्धमशिरोग्रीवं कबन्धमुदरेमुखम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,12 +1234,15 @@ body, which is neckless, ergo headless, ergo mouth in paunch. [3-69-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोमभिर्निशितैस्तीक्ष्णैर्महागिरिमिवोच्छ्रितम् ।  
 नीलमेघनिभं रौद्रं मेघस्तनितनिःस्वनम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,6 +1285,7 @@ gleam is like a dark cloud, and his sounding is like a thunder. [3-69-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1210,6 +1294,8 @@ gleam is like a dark cloud, and his sounding is like a thunder. [3-69-28]
 एकेनोरसि घोरेण नयनेन सुदर्शिना ।  
 महादंष्ट्रोपपन्नं तं लेलिहानं महामुखम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,6 +1352,7 @@ like fangs, as he has just finished a gobble, and the brothers had to drew nigh 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1274,6 +1361,8 @@ like fangs, as he has just finished a gobble, and the brothers had to drew nigh 
 कराभ्यां विविधान् गृह्य ऋक्षान् पक्षिगणान् मृगान् ।  
 आकर्षन्तं विकर्षन्तमनेकान् मृगयूथपान् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1343,6 +1432,7 @@ demon. [3-69-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1351,6 +1441,8 @@ demon. [3-69-31]
 महान्तं दारुणं भीमं कबन्धं भुजसंवृतम् ।  
 कबन्धमिव संस्थानादतिघोरप्रदर्शनम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1408,12 +1500,15 @@ is waylaid by this demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स महाबाहुरत्यर्थं प्रसार्य विपुलौ भुजौ ।  
 जग्राह सहितावेव राघवौ पीडयन् बलात् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1461,12 +1556,15 @@ distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खड‍‍्गिनौ दृढधन्वानौ तिग्मतेजौ महाभुजौ ।  
 भ्रातरौ विवशं प्राप्तौ कृष्यमाणौ महाबलौ ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1505,12 +1603,15 @@ had to yield themselves to that demon when he captured and dragged them. [3-69-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र धैर्याच्च शूरस्तु राघवो नैव विव्यथे ।  
 बाल्यादनाश्रयाच्चैव लक्ष्मणस्त्वभिविव्यथे ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1568,12 +1669,15 @@ if that comes to that.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच च विषण्णः सन् राघवं राघवानुजः ।  
 पश्य मां विवशं वीर राक्षसस्य वशङ्गतम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1615,12 +1719,15 @@ demon... oh, Raghava, you leave me and get yourself released from the grip of th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयैकेन तु निर्युक्तः परिमुच्यस्व राघव ।  
 मां हि भूतबलिं दत्त्वा पलायस्व यथासुखम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1663,6 +1770,7 @@ reach Vaidehi shortly... this is my belief... [3-69-39b, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1670,6 +1778,8 @@ reach Vaidehi shortly... this is my belief... [3-69-39b, 40a]
 प्रतिलभ्य च काकुत्स्थ पितृपैतामहीं महीम् ॥ ४० ॥  
 तत्र मां राम राज्यस्थः स्मर्तुमर्हसि सर्वदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1711,12 +1821,15 @@ it will be apt of you to reminisce me always..." So said Lakshmana to Rama. [3-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणेनैवमुक्तस्तु रामः सौमित्रिमब्रवीत् ॥ ४१ ॥  
 मा स्म त्रासं वृथा वीर नहि त्वादृग् विषीदति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1757,12 +1870,15 @@ your king of persons will not get dismayed, futilely... [3-69-41b, 42a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे क्रूरो भ्रातरौ रामलक्ष्मणौ ॥ ४२ ॥  
 तावुवाच महाबाहुः कबन्धो दानवोत्तमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1805,6 +1921,7 @@ Rama and Lakshmana. [3-69-42b, 43a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1812,6 +1929,8 @@ Rama and Lakshmana. [3-69-42b, 43a]
 घोरं देशमिमं प्राप्तौ दैवेन मम चाक्षुषौ ।  
 वदतं कार्यमिह वां किमर्थं चागतौ युवाम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1881,6 +2000,7 @@ as the 'eyes' is ill fitting in the compound, as this demon has only one eye.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1888,6 +2008,8 @@ as the 'eyes' is ill fitting in the compound, as this demon has only one eye.
 सबाणचापखड्गौ च तीक्ष्णशृङ्गाविवर्षभौ ॥ ४५ ॥  
 मां तूर्णमनुसम्प्राप्तौ दुर्लभं जीवितं हि वाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1934,6 +2056,7 @@ and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1942,6 +2065,8 @@ and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
 कृच्छ्रात् कृच्छ्रतरं प्राप्य दारुणं सत्यविक्रम ॥ ४७ ॥  
 व्यसनं जीवितान्ताय प्राप्तमप्राप्य तां प्रियाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2004,6 +2129,7 @@ On hearing that sentence of that vile-souled Kabandha, Rama said this to Lakshma
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2011,6 +2137,8 @@ On hearing that sentence of that vile-souled Kabandha, Rama said this to Lakshma
 त्वां च मां च नरव्याघ्र व्यसनैः पश्य मोहितौ ।  
 नहि भारोऽस्ति दैवस्य सर्वभूतेषु लक्ष्मण ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2050,12 +2178,15 @@ even though we assert ourselves to be brave and best... [3-69-48b, 49a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूराश्च बलवन्तश्च कृतास्त्राश्च रणाजिरे ।  
 कालाभिपन्नाः सीदन्ति यथा वालुकसेतवः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2099,6 +2230,7 @@ upanishat 6-6.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2107,6 +2239,8 @@ upanishat 6-6.
 अवेक्ष्य सौमित्रिमुदग्रविक्रमः  
 स्थिरां तदा स्वां मतिमात्मनाकरोत् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2155,5 +2289,6 @@ Soumitri, then Rama readied himself by his own steadied thinking. [3-69-51]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अवरत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥69॥
+</details>
 </details>
 

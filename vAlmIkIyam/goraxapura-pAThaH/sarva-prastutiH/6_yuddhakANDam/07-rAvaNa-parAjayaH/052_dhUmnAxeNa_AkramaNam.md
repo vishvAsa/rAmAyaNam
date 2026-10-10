@@ -2,6 +2,8 @@
 title = "०५२ धूम्नाक्षेण आक्रमणम्"
 title_english = "052 Dhumraksha along with army attacks the monkeys"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ him on his head and kills him.
 
 52. धूम्राक्षका युद्ध और हनुमान् जी के द्वारा उसका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षं प्रेक्ष्य निर्यान्तं राक्षसं भीमविक्रमम् ।  
 विनेदुर्वानराः सर्वे प्रहृष्टा युद्धकाङ्क्षिणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ waiting for the war, roared with joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां सुतुमुलं युद्धं सञ्जज्ञे कपिरक्षसाम् ।  
 अन्योन्यं पादपैर्घोरैर्निघ्नतां शूलमुद‍्गरैः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ slaying each other, with terrible trees, lances and maces.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसैर्वानरा घोरा विनिकृत्ताः समन्ततः ।  
 वानरै राक्षसाश्चापि द्रुमैर्भूमिसमीकृताः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ levelled down to the earth with trees by the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसास्त्वभिसङ्क्रुद्धा वानरान् निशितैः शरैः ।  
 विव्यधुर्घोरसङ्काशैः कङ्कपत्रैरजिह्मगैः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,6 +227,7 @@ frightful arrows, going as straight as wings of eagle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,6 +236,8 @@ frightful arrows, going as straight as wings of eagle.
 विदार्यमाणा रक्षोभिर्वानरास्ते महाबलाः ।  
 अमर्षजनितोद्धर्षाश्चक्रुः कर्माण्यभीतवत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +291,15 @@ with an excitement born of anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरनिर्भिन्नगात्रास्ते शूलनिर्भिन्नदेहिनः ।  
 जगृहुस्ते द्रुमांस्तत्र शिलाश्च हरियूथपाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ those leaders of monkeys took up trees and rocks there to fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते भीमवेगा हरयो नर्दमानास्ततस्ततः ।  
 ममन्थू राक्षसान् वीरान् नामानि च बभाषिरे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,12 +381,15 @@ places, by calling out their names.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् बभूवाद्भुतं घोरं युद्धं वानररक्षसाम् ।  
 शिलाभिर्विविधाभिश्च बहुशाखैश्च पादपैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ between monkeys and demons appeared wonderful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसा मथिताः केचिद् वानरैर्जितकाशिभिः ।  
 प्रवेमू रुधिरं केचिन्मुखै रुधिरभोजनाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ demons vomited blood from their mouths.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्श्वेषु दारिताः केचित् केचिद् राशीकृता द्रुमैः ।  
 शिलाभिश्चूर्णिताः केचित् केचिद् दन्तैर्विदारिताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +526,15 @@ trees. Some others were crushed by stones and yet others torn to pieces by the m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्वजैर्विमथितैर्भग्नैः खड्गैश्च विनिपातितैः ।  
 रथैर्विध्वंसितैः केचिद् व्यथिता रजनीचराः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +577,15 @@ overturned, some demons were perturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजेन्द्रैः पर्वताकारैः पर्वताग्रैर्वनौकसाम् ।  
 मथितैर्वाजिभिः कीर्णं सारोहैर्वसुधातलम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ elephants resembling hills and horses with their riders.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरैर्भीमविक्रान्तैराप्लुत्योत्प्लुत्य वेगितैः ।  
 राक्षसाः करजैस्तीक्ष्णैर्मुखेषु विनिदारिताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ nails.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषण्णवदना भूयो विप्रकीर्णशिरोरुहाः ।  
 मूढाः शोणितगन्धेन निपेतुर्धरणीतले ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +723,15 @@ of blood, those demons fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ये तु परमक्रुद्धा राक्षसा भीमविक्रमाः ।  
 तलैरेवाभिधावन्ति वज्रस्पर्शसमैर्हरीन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -724,12 +771,15 @@ the monkeys to attack them with their palms having a diamond-like blow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरैः पातयन्तस्ते वेगिता वेगवत्तरैः ।  
 मुष्टिभिश्चरणैर्दन्तैः पादपैश्चावपोथिताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +819,15 @@ demons with blows of their fists, feet teeth and trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैन्यं तु विद्रुतं दृष्ट्वा धूम्राक्षो राक्षसर्षभः ।  
 रोषेण कदनं चक्रे वानराणां युयुत्सताम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +867,15 @@ create a blood-shed of the monkeys wishing to fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासैः प्रमथिताः केचिद् वानराः शोणितस्रवाः ।  
 मुद‍्गरैराहताः केचित् पतिता धरणीतले ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +919,15 @@ blows of axe, fell to the earth's surface.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिघैर्मथिताः केचिद् भिन्दिपालैश्च दारिताः ।  
 पट्टिशैर्मथिताः केचिद् विह्वलन्तो गतासवः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +970,15 @@ javelins, all exhausted and lost their lives.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद् विनिहता भूमौ रुधिरार्द्रा वनौकसः ।  
 केचिद् विद्राविता नष्टाः सङ्क्रुद्धै राक्षसैर्युधि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1019,15 @@ ground and some others disappeared, having been driven away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभिन्नहृदयाः केचिदेकपार्श्वेन शायिताः ।  
 विदारितास्त्रिशूलैश्च केचिदान्त्रैर्विनिःसृताः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,12 +1070,15 @@ asunder by tridents that even their intestines came out.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सुभीमं महद्युद्धं हरिराक्षससङ्कुलम् ।  
 प्रबभौ शस्त्रबहुलं शिलापादपसङ्कुलम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,12 +1121,15 @@ crammed with rocks, trees and multitude of weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुर्ज्यातन्त्रिमधुरं हिक्कातालसमन्वितम् ।  
 मन्दस्तनितगीतं तद् युद्धगान्धर्वमाबभौ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,12 +1169,15 @@ and the trumpeting of elephants as the vocal music, the whole battle resembled a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षस्तु धनुष्पाणिर्वानरान् रणमूर्धनि ।  
 हसन् विद्रावयामास दिशस्ताञ्छरवृष्टिभिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,12 +1220,15 @@ made those monkeys to run away to all the quarters by a shower of his arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षेणार्दितं सैन्यं व्यथितं प्रेक्ष्य मारुतिः ।  
 अभ्यवर्तत सङ्क्रुद्धः प्रगृह्य विपुलां शिलाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1192,12 +1269,15 @@ turned towards him, taking a gigantic rock in his hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधाद् द्विगुणताम्राक्षः पितुस्तुल्यपराक्रमः ।  
 शिलां तां पातयामास धूम्राक्षस्य रथं प्रति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1237,12 +1317,15 @@ flung the rock on the chariot of Dhumraksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपतन्तीं शिलां दृष्ट्वा गदामुद्यम्य सम्भ्रमात् ।  
 रथादाप्लुत्य वेगेन वसुधायां व्यतिष्ठत ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1283,12 +1366,15 @@ speedily from the chariot and stood there on the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्रमथ्य रथं तस्य निपपात शिला भुवि ।  
 सचक्रकूबरं साश्वं सध्वजं सशरासनम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,12 +1414,15 @@ bows, that rock rolled down to the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भङ्‍क्त्वा तु रथं तस्य हनूमान् मारुतात्मजः ।  
 रक्षसां कदनं चक्रे सस्कन्धविटपैर्द्रुमैः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1374,12 +1463,15 @@ destroyed the demons with trunks of trees furnished with their branches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभिन्नशिरसो भूत्वा राक्षसा रुधिरोक्षिताः ।  
 द्रुमैः प्रमथिताश्चान्ये निपेतुर्धरणीतले ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1419,12 +1511,15 @@ crunched by the trees and fell down to the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्राव्य राक्षसं सैन्यं हनूमान् मारुतात्मजः ।  
 गिरेः शिखरमादाय धूम्राक्षमभिदुद्रुवे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1463,12 +1558,15 @@ of a mountain, ran towards Dhumraksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं धूम्राक्षो गदामुद्यम्य वीर्यवान् ।  
 विनर्दमानः सहसा हनूमन्तमभिद्रवत् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1511,12 +1609,15 @@ Hanuman who was rushing on him suddenly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य क्रुद्धस्य रोषेण गदां तां बहुकण्टकाम् ।  
 पातयामास धूम्राक्षो मस्तकेऽथ हनूमतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,6 +1660,7 @@ countless spikes on the head of that Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1566,6 +1668,8 @@ countless spikes on the head of that Hanuma.
 स कपिर्मारुतबलस्तं प्रहारमचिन्तयन् ॥ ३५ ॥  
 धूम्राक्षस्य शिरोमध्ये गिरिशृङ्गमपातयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,12 +1713,15 @@ disturbed by that blow but struck Dhumraksha on the middle of his skull with his
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विस्फारितसर्वाङ्गो गिरिशृङ्गेण ताडितः ॥ ३६ ॥  
 पपात सहसा भूमौ विकीर्ण इव पर्वतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1654,12 +1761,15 @@ down on the ground like a mountain crumbling.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षं निहतं दृष्ट्वा हतशेषा निशाचराः ।  
 त्रस्ताः प्रविविशुर्लङ्कां वध्यमानाः प्लवङ्गमैः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1700,6 +1810,7 @@ being killled by the monkeys and re entered Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1708,6 +1819,8 @@ being killled by the monkeys and re entered Lanka.
 रिपुवधजनितश्रमो महात्मा  
 मुदमगमत् कपिभिः सुपूज्यमानः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1769,5 +1882,6 @@ felicitations by the monkeys.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॆरडनॆ सर्ग पूर्णवायितु.॥52॥
+</details>
 </details>
 

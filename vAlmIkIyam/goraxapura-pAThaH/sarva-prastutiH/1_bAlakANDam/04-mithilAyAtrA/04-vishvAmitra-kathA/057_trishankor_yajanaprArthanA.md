@@ -2,6 +2,8 @@
 title = "०५७ त्रिशङ्कोर् यजनप्रार्थना"
 title_english = "057 The Legend of trishanku"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -25,6 +27,7 @@ The legend of Trishanku is narrated to Rama, which forms a part of Vishvamitra's
 
 57. विश्वामित्रकी तपस्या, राजा त्रिशंकुका अपना यज्ञ करानेके लिये पहले वसिष्ठजीसे प्रार्थना करना और उनके इन्कार कर देनेपर उन्हींके पुत्रोंकी शरणमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -33,6 +36,8 @@ The legend of Trishanku is narrated to Rama, which forms a part of Vishvamitra's
 स दक्षिणां दिशं गत्वा महिष्या सह राघव ।  
 तताप परमं घोरं विश्वामित्रो महातपाः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,6 +98,7 @@ legend. [1-57-1, 2, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,6 +106,8 @@ legend. [1-57-1, 2, 3a]
 अथास्य जज्ञिरे पुत्राः सत्यधर्मपरायणाः ॥ ३ ॥  
 हविष्पन्दो मधुष्पन्दो दृढनेत्रो महारथः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +148,7 @@ who conduct themselves in candour and chivalry. [1-57-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -148,6 +157,8 @@ who conduct themselves in candour and chivalry. [1-57-3]
 जिता राजर्षिलोकास्ते तपसा कुशिकात्मज ॥ ५ ॥  
 अनेन तपसा त्वां हि राजर्षिरिति विद्महे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +198,15 @@ by your ascesis.' [1-57-4b, 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा जगाम सह दैवतैः ॥ ६ ॥  
 त्रिविष्टपं ब्रह्मलोकं लोकानां परमेश्वरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +249,7 @@ while the gods in Brahma's convoy went to Indra's Heaven. [1-57-6, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,6 +258,8 @@ while the gods in Brahma's convoy went to Indra's Heaven. [1-57-6, 7a]
 तपश्च सुमहत् तप्तं राजर्षिरिति मां विदुः ॥ ८ ॥  
 देवाः सर्षिगणाः सर्वे नास्ति मन्ये तपः फलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +314,15 @@ prevailed over him, he rancorously soliloquised this. [1-57-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं निश्चित्य मनसा भूय एव महातपाः ॥ ९ ॥  
 तपश्चचार धर्मात्मा काकुत्स्थ परमात्मवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +362,15 @@ Vishvamitra again undertook a supreme ascesis as he is a great-ascetic. [1-57-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु सत्यवादी जितेन्द्रियः ॥ १० ॥  
 त्रिशङ्कुरिति विख्यात इक्ष्वाकुकुलवर्धनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,12 +404,15 @@ Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिः समुत्पन्ना यजेयमिति राघव ॥ ११ ॥  
 गच्छेयं स्वशरीरेण देवतानां परां गतिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
 
 रघुनन्दन! अवन मनस्सिनलि - ‘नन्न ई शरीरदॊन्दिगॆ देवतॆगळ परमगतियाद स्वर्गलोकक्कॆ होगुवन्तह यज्ञवन्नु माडुवॆनु’ ऎम्ब विचार बन्तु.॥11½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठं स समाहूय कथयामास चिन्तितम् ॥ १२ ॥  
 अशक्यमिति चाप्युक्तो वसिष्ठेन महात्मना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ and told him what his thinking is. [1-57-11b, 12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्यातो वसिष्ठेन स ययौ दक्षिणां दिशम् ॥ १३ ॥  
 ततस्तत्कर्मसिद्ध्यर्थं पुत्रांस्तस्य गतो नृपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,6 +528,7 @@ and that king has gone to the sons of Vashishta. [1-57-13, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +536,8 @@ and that king has gone to the sons of Vashishta. [1-57-13, 14a]
 त्रिशङ्कुस्तु महातेजाः शतं परमभास्वरम् ।  
 वसिष्ठपुत्रान् ददृशे तप्यमानान् मनस्विनः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,6 +584,7 @@ are supremely self-luminescent and superbly self-refulgent by their ascesis. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -556,6 +592,8 @@ are supremely self-luminescent and superbly self-refulgent by their ascesis. [1-
 अभिवाद्यानुपूर्वेण ह्रिया किञ्चिदवाङ्मुखः ॥ १६ ॥  
 अब्रवीत् स महात्मानः सर्वानेव कृताञ्जलिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,6 +640,7 @@ making palm-fold in supplication. [1-57-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -609,6 +648,8 @@ making palm-fold in supplication. [1-57-16]
 प्रत्याख्यातो हि भद्रं वो वसिष्ठेन महात्मना ।  
 यष्टुकामो महायज्ञं तदनुज्ञातुमर्हथ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,6 +685,7 @@ of the needy, you all be safe, as the great-souled Vashishta has repudiated me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -652,6 +694,8 @@ of the needy, you all be safe, as the great-souled Vashishta has repudiated me.
 ते मां भवन्तः सिद्ध्यर्थं याजयन्तु समाहिताः ।  
 सशरीरो यथाहं वै देवलोकमवाप्नुयाम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -721,12 +765,15 @@ you. [1-57-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्यातो वसिष्ठेन गतिमन्यां तपोधनाः ।  
 गुरुपुत्रानृते सर्वान् नाहं पश्यामि काञ्चन ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +807,15 @@ another recourse excepting you, who are all the sons of mentor Vashishta. [1-57-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां हि सर्वेषां पुरोधाः परमा गतिः ।  
 तस्मादनन्तरं सर्वे भवन्तो दैवतं मम ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,5 +861,6 @@ narration. [1-57-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तेळनॆय सर्ग पूर्णवायितु.॥57॥
+</details>
 </details>
 

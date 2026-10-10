@@ -2,6 +2,8 @@
 title = "०८२ हनुमता युद्धे कपिसैन्यनिर्वहणम्"
 title_english = "082 Hanuma Leads the monkey army"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ Nikumbhila.
 
 82. हनुमान् जी के नेतृत्वमें वानरों और निशाचरोंका युद्ध, हनुमान् जी का श्रीरामके पास लौटना और इन्द्रजित् का निकुम्भिला-मन्दिरमें जाकर होम करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु भीमनिर्ह्रादं शक्राशनिसमस्वनम् ।  
 वीक्ष्यमाणा दिशः सर्वा दुद्रुवुर्वानरा भृशम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ looking hither and thither, ran away in all directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानुवाच ततः सर्वान् हनूमान् मारुतात्मजः ।  
 विषण्णवदनान् दीनांस्त्रस्तान् विद्रवतः पृथक् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +99,15 @@ looking hither and thither, ran away in all directions.
 
 दीन, विषाद ग्रस्तरागि भयदिन्द ओडुत्तिरुव वानररॆल्लरन्नु नोडि हनुमन्तनु हेळिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्माद् विषण्णवदना विद्रवध्वं प्लवङ्गमाः ।  
 त्यक्तयुद्धसमुत्साहाः शूरत्वं क्व नु वो गतम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +141,15 @@ fight? Where has your valour gone?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठतोऽनुव्रजध्वं मामग्रतो यान्तमाहवे ।  
 शूरैरभिजनोपेतैरयुक्तं हि निवर्तितुम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +184,15 @@ valiant who are born in a good family, it is not indeed proper to shrink back fr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ताः सुसङ्क्रुद्धा वायुपुत्रेण धीमता ।  
 शैलशृङ्गान् द्रुमांश्चैव जगृहुर्हृष्टमानसाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +229,15 @@ mountain-peaks and trees in a great fury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिपेतुश्च गर्जन्तो राक्षसान् वानरर्षभाः ।  
 परिवार्य हनूमन्तमन्वयुश्च महाहवे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +271,15 @@ him, by surrounding Hanuma on all sides, in that great battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैर्वानरमुख्यैस्तु हनूमान् सर्वतो वृतः ।  
 हुताशन इवार्चिष्मानदहच्छत्रुवाहिनीम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +313,15 @@ that army of adversaries as a flaming fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राक्षसानां कदनं चकार सुमहाकपिः ।  
 वृतो वानरसैन्येन कालान्तकयमोपमः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +355,15 @@ demons, as Yama the lord of death does at the time of universal dissolution.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु शोकेन चाविष्टः कोपेन महता कपिः ।  
 हनूमान् रावणिरथे महतीं पातयच्छिलाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +403,15 @@ rock on Indrajit's chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामापतन्तीं दृष्ट्वैव रथः सारथिना तदा ।  
 विधेयाश्वसमायुक्तः विदूरमपवाहितः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +454,15 @@ chariot, carried the chariot off to a far-distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमिन्द्रजितमप्राप्य रथस्थं सहसारथिम् ।  
 विवेश धरणीं भित्त्वा सा शिला व्यर्थमुद्यता ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -468,12 +503,15 @@ sitting in the chariot, split itself into fragments and penetrated the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतितायां शिलायां तु व्यथिता रक्षसां चमूः ।  
 निपतन्त्या च शिलया राक्षसा मथिता भृशम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +551,15 @@ demons was perturbed over the rock thus falling upon them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमभ्यधावन् शतशो नदन्तः काननौकसः ।  
 ते द्रुमांश्च महाकाया गिरिशृङ्गाणि चोद्यताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,6 +593,7 @@ rushed roaring towards Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -559,6 +601,8 @@ rushed roaring towards Indrajit.
 वृक्षशैलमहावर्षं विसृजन्तः प्लवङ्गमाः ॥ १४ ॥  
 शत्रूणां कदनं चक्रुर्नेदुश्च विविधैः स्वनैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +648,15 @@ their enemies. They roared in various high tones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरैस्तैर्महाभीमैर्घोररूपा निशाचराः ॥ १५ ॥  
 वीर्यादभिहता वृक्षैर्व्यचेष्टन्त रणक्षितौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +696,15 @@ frightful appearance, rolled about restlessly in the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सैन्यमभिवीक्ष्याथ वानरार्दितमिन्द्रजित् ॥ १६ ॥  
 प्रगृहीतायुधः क्रुद्धः परानभिमुखो ययौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,6 +745,7 @@ his weapons, sallied forth, facing towards his enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -702,6 +753,8 @@ his weapons, sallied forth, facing towards his enemies.
 जघान कपिशार्दूलान् सुबहून् दृढविक्रमः ।  
 शूलैरशनिभिः खड्गैः पट्टिशैः शूलमुद‍्गरैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -766,6 +819,7 @@ of arrows, killed a very many number of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -773,6 +827,8 @@ of arrows, killed a very many number of monkeys.
 सुस्कन्धविटपैः शैलैः शिलाभिश्च महाबलः ॥ १९ ॥  
 हनूमान् कदनं चक्रे रक्षसां भीमकर्मणाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +873,15 @@ distinguished by excellent trunks and branches as with rocks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्निवार्य परानीकमब्रवीत् तान् वनौकसः ॥ २० ॥  
 हनूमान् सन्निवर्तध्वं न नः साध्यमिदं बलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,12 +924,15 @@ Keeping the hostile army back, that Hanuma spoke to those monkeys as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यक्त्वा प्राणान् विचेष्टन्तो रामप्रियचिकीर्षवः ॥ २१ ॥  
 यन्निमित्तं हि युध्यामो हता सा जनकात्मजा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,12 +967,15 @@ pleasing to Rama, making a special effort to win, risking our lives has been kil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इममर्थं हि विज्ञाप्य रामं सुग्रीवमेव च ॥ २२ ॥  
 तौ यत् प्रतिविधास्येते तत् करिष्यामहे वयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1009,15 @@ them are prepared to do in return."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा वानरश्रेष्ठो वारयन् सर्ववानरान् ॥ २३ ॥  
 शनैः शनैरसन्त्रस्तः सबलः सन्न्यवर्तत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,12 +1057,15 @@ absence of fear, along with his army, gradually turned back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रेक्ष्य हनूमन्तं व्रजन्तं यत्र राघवः ॥ २४ ॥  
 स होतुकामो दुष्टात्मा गतश्चैत्यं निकुम्भिलाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,6 +1106,7 @@ went to a sanctuary called Nikumbhila, seeking to pour oblations into the sacred
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1044,6 +1116,8 @@ went to a sanctuary called Nikumbhila, seeking to pour oblations into the sacred
 सार्चिःपिनद्धो ददृशे होमशोणिततर्पितः ।  
 सन्ध्यागत इवादित्यः सुतीव्रोऽग्निः समुत्थितः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,6 +1190,7 @@ blazed up on consuming the oblations of flesh and blood.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1124,6 +1199,8 @@ blazed up on consuming the oblations of flesh and blood.
 दृष्ट्वा व्यतिष्ठन्त च राक्षसास्ते  
 महासमूहेषु नयानयज्ञाः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1199,5 +1276,6 @@ running away widely apart, looking dejected, miserable and frightened.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तॆरडनॆय सर्ग पूर्णवायितु.॥82॥
+</details>
 </details>
 

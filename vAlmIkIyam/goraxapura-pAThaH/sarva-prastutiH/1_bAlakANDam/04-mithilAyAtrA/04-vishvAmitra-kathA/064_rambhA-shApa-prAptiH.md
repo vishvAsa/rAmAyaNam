@@ -2,6 +2,8 @@
 title = "०६४ रम्भा-शाप-प्राप्तिः"
 title_english = "064 Legend of vishvamitra contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I :
@@ -22,12 +24,15 @@ another round of ascesis to conquer is own senses.
 
 64. विश्वामित्रका रम्भाको शाप देकर पुनः घोर तपस्याके लिये दीक्षा लेना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरकार्यमिदं रम्भे कर्तव्यं सुमहत् त्वया ।  
 लोभनं कौशिकस्येह काममोहसमन्वितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ continued the legend of Vishvamitra to Rama. [1-64-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्ता साप्सरा राम सहस्राक्षेण धीमता ।  
 व्रीडिता प्राञ्जलिर्वाक्यं प्रत्युवाच सुरेश्वरम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ to that chief of gods while adjoining her palms suppliantly. [1-64-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सुरपते घोरो विश्वामित्रो महामुनिः ।  
 क्रोधमुत्स्रक्ष्यते घोरं मयि देव न संशयः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,6 +166,7 @@ to accord forbearance.' So said Rambha to Indra. [1-64-3, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +175,8 @@ to accord forbearance.' So said Rambha to Indra. [1-64-3, 4a]
 तामुवाच सहस्राक्षो वेपमानां कृताञ्जलिम् ।  
 मा भैषी रम्भे भद्रं ते कुरुष्व मम शासनम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ in fear and making palm fold in supplication. [1-64-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोकिलो हृदयग्राही माधवे रुचिरद्रुमे ।  
 अहं कन्दर्पसहितः स्थास्यामि तव पार्श्वतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,12 +261,15 @@ black-songbird will be at your side along with Love-god in the pleasing trees of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं हि रूपं बहुगुणं कृत्वा परमभास्वरम् ।  
 तमृषिं कौशिकं भद्रे भेदयस्व तपस्विनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +310,15 @@ to Rambha. [1-64-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा श्रुत्वा वचनं तस्य कृत्वा रूपमनुत्तमम् ।  
 लोभयामास ललिता विश्वामित्रं शुचिस्मिता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +352,15 @@ damsel she started to entice Vishvamitra with giggly grins. [1-64-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोकिलस्य तु शुश्राव वल्गु व्याहरतः स्वनम् ।  
 सम्प्रहृष्टेन मनसा स चैनामन्ववैक्षत ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ about the ambience, he incidentally saw and stared at Rambha. [1-64-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्य च शब्देन गीतेनाप्रतिमेन च ।  
 दर्शनेन च रम्भाया मुनिः सन्देहमागतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,12 +445,15 @@ is on his qui vive. [1-64-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्राक्षस्य तत्सर्वं विज्ञाय मुनिपुङ्गवः ।  
 रम्भां क्रोधसमाविष्टः शशाप कुशिकात्मजः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,12 +492,15 @@ cursed Rambha. [1-64-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्मां लोभयसे रम्भे कामक्रोधजयैषिणम् ।  
 दशवर्षसहस्राणि शैली स्थास्यसि दुर्भगे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +534,15 @@ Rambha, thereof you will become a rocklike statued wastrel. [1-64-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणः सुमहातेजास्तपोबलसमन्वितः ।  
 उद्धरिष्यति रम्भे त्वां मत्क्रोधकलुषीकृताम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +581,15 @@ of Brahma. Even though Vishvamitra is at loggerheads with Vashishta, he holds Va
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा विश्वामित्रो महामुनिः ।  
 अशक्नुवन् धारयितुं कोपं सन्तापमात्मनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +646,15 @@ wisdom, Son of Bharata! - Sir Edwin Arnold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य शापेन महता रम्भा शैली तदाभवत् ।  
 वचः श्रुत्वा च कन्दर्पो महर्षेः स च निर्गतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +688,15 @@ of that great-saint Love-god and Indra also took flight. [1-64-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोपेन च महातेजास्तपोऽपहरणे कृते ।  
 इन्द्रियैरजितै राम न लेभे शान्तिमात्मनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +736,15 @@ he has no peace of mind owing to ungovernable senses. [1-64-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूवास्य मनश्चिन्ता तपोऽपहरणे कृते ।  
 नैवं क्रोधं गमिष्यामि न च वक्ष्ये कथञ्चन ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +784,15 @@ His conscience became sentimental owing to the divesture of his ascetical merit,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नोच्छ्वसिष्यामि संवत्सरशतान्यपि ।  
 अहं हि शोषयिष्यामि आत्मानं विजितेन्द्रियः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +826,15 @@ moods, and I indeed emaciate myself until I become a real conqueror of my own se
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावद् यावद्धि मे प्राप्तं ब्राह्मण्यं तपसार्जितम् ।  
 अनुच्छ्वसन्नभुञ्जानस्तिष्ठेयं शाश्वतीः समाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,6 +879,7 @@ will not undergo any deterioration.' So said Vishvamitra to himself. [1-64-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +887,8 @@ will not undergo any deterioration.' So said Vishvamitra to himself. [1-64-19]
 एवं वर्षसहस्रस्य दीक्षां स मुनिपुङ्गवः ।  
 चकाराप्रतिमां लोके प्रतिज्ञां रघुनन्दन ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,5 +938,6 @@ of Ragu, which is a nonpareil vow in the world." Thus Shataananda continued. [1-
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥64॥
+</details>
 </details>
 

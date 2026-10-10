@@ -2,6 +2,8 @@
 title = "११७ अत्र्याश्रमगमनम्"
 title_english = "117 Rama decides to leave Chitrakuta Mountain"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,6 +25,7 @@ gives her instructions on the role and responsibilities of a devoted wife.
 
 117. श्रीराम आदिका अत्रिमुनिके आश्रमपर जाकर उनके द्वारा सत्कृत होना तथा अनसूयाद्वारा सीताका सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ gives her instructions on the role and responsibilities of a devoted wife.
 **न तत्रारोचयद् वासं**  
 कारणैर्बहुभिस् तदा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,6 +79,7 @@ pleasure to remain in that place for many reasons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -82,6 +88,8 @@ pleasure to remain in that place for many reasons.
 सा च मे **स्मृतिर् अन्वेति**  
 तान् नित्यम् **अनुशोचतः** ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,6 +130,7 @@ me. That memory haunts me, who lament for them daily."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -130,6 +139,8 @@ me. That memory haunts me, who lament for them daily."
 हय-हस्ति-करीषैश् च  
 **उपमर्दः कृतो** भृशम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,6 +180,7 @@ caused much spoliation (around here)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,6 +189,8 @@ caused much spoliation (around here)."
 **प्रातिष्ठत** स वैदेह्या  
 लक्ष्मणेन च **सङ्गतः** ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,6 +230,7 @@ Lakshmana left that place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -224,6 +239,8 @@ Lakshmana left that place.
 तं चापि भगवान् अत्रिः  
 पुत्रवत् **प्रत्यपद्यत** ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -265,6 +282,7 @@ own son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,6 +291,8 @@ own son.
 सौमित्रिं च महाभागं  
 सीतां च **समसान्त्वयत्** ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,6 +333,7 @@ rendered equal honour to Lakshmana and the highly blessed Seetha too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,6 +346,8 @@ rendered equal honour to Lakshmana and the highly blessed Seetha too.
 **प्रतिगृह्णीष्व** वैदेहीम्  
 **अब्रवीद्** ऋषिसत्तमः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,6 +419,7 @@ gently to her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -412,6 +436,8 @@ gently to her.
 अनसूया-**व्रतैस्** तात  
 **प्रत्यूहाश्** च **निबर्हिताः** ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,6 +458,7 @@ gently to her.
 
 अनन्तर अवरु श्रीरामचन्द्रनिगॆ धर्मपारायण तपस्विनी अनसूयॆय परिचयाडिसुत्ता हेळिदरु - हिन्दॊम्मॆ हत्तु वर्षगळ काल मळॆये आगलिल्ल, आग इडी जगत्तु निरन्तर सुडतॊडगिदाग, ईकॆयु उग्रतपस्सु माडुत्ता, कठोर नियमगळिन्द अलङ्कृतळागि, तन्न तपस्सिन प्रभावदिन्द इल्लि फल-मूलगळन्नु उत्पन्नगॊळिसि, मन्दाकिनिय पवित्र प्रवाहवन्नु हरिसिदळु. अय्या! इवळु हत्तु साविर वर्ष भारी तपस्सु माडि, तन्न उत्तम व्रतगळ प्रभावदिन्द ऋषिगळन्नु ऎल्ल विघ्नगळिन्द कापाडिद अनसूयादेवि इवळे आगिरुवळु.॥9-11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -440,6 +467,8 @@ gently to her.
 दशरात्रं **कृता रात्रिः**  
 सेयं मातेव तेऽनघ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -511,12 +540,15 @@ hermittess, husband and accomplished the purpose of gods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामिमां सर्वभूतानां नमस्कार्यां तपस्विनीम् ।  
 अभिगच्छतु वैदेही वृद्धामक्रोधनां सदा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,12 +588,15 @@ as she is and though old is ever free from anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं तमृषिं तथेत्युक्त्वा स राघवः ।  
 सीतामालोक्य धर्मज्ञामिदं वचनमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +637,15 @@ virtuous Seetha, the following excellent words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजपुत्रि श्रुतं त्वेतन्मुनेरस्य समीरितम् ।  
 श्रेयोऽर्थमात्मनः शीघ्रमभिगच्छ तपस्विनीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,12 +685,15 @@ saintly Anasuya without delay."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनसूयेति या लोके कर्मभिः ख्यातिमागता ।  
 तां शीघ्रमभिगच्छ त्वमभिगम्यां तपस्विनीम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +734,15 @@ Mithila circumambulated around Anasuya, Atri's wife, who knows piety.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीता त्वेतद् वचः श्रुत्वा राघवस्य यशस्विनी ।  
 तामत्रिपत्नीं धर्मज्ञामभिचक्राम मैथिली ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +759,15 @@ Mithila circumambulated around Anasuya, Atri's wife, who knows piety.
 
 श्रीरामचन्द्रन मातन्नु केळि यशस्विनी मिथिलेश कुमारि सीतॆयु धर्मवन्नु तिळिदिरुव अत्रि पत्नी अनसूयॆय बळिगॆ होदळु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिथिलां वलितां वृद्धां जरापाण्डुरमूर्धजाम् ।  
 सततं वेपमानाङ्गीं प्रवाते कदलीमिव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +807,15 @@ name to Anasuya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु सीता महाभागामनसूयां पतिव्रताम् ।  
 अभ्यवादयदव्यग्रा स्वं नाम समुदाहरत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +858,15 @@ about he well-being.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य च वैदेही तापसीं तां दमान्विताम् ।  
 बद्धाञ्जलिपुटा हृष्टा पर्यपृच्छदनामयम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +907,15 @@ rejoicingly spoke as follows: "Luckily enough, you are attending to righteousnes
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतां महाभागां दृष्ट्वा तां धर्मचारिणीम् ।  
 सान्त्वयन्त्यब्रवीद् वृद्धा दिष्ट्या धर्ममवेक्षसे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +956,15 @@ prosperity, you are accompanying Rama, who is expelled into a forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यक्त्वा ज्ञातिजनं सीते मानवृद्धिं च मानिनि ।  
 अवरुद्धं वने रामं दिष्ट्या त्वमनुगच्छसि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1008,15 @@ is dear no matter whether he lives in a city or in a forest; whether he is sinfu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नगरस्थो वनस्थो वा शुभो वा यदि वाशुभः ।  
 यासां स्त्रीणां प्रियो भर्ता तासां लोका महोदयाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,12 +1056,15 @@ ill-behaved or licentious or devoid of riches."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःशीलः कामवृत्तो वा धनैर्वा परिवर्जितः ।  
 स्त्रीणामार्यस्वभावानां परमं दैवतं पतिः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,12 +1105,15 @@ who protects his wife in all circumstances, like the imperishable fruit of one's
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नातो विशिष्टं पश्यामि बान्धवं विमृशन्त्यहम् ।  
 सर्वत्र योग्यं वैदेहि तपःकृतमिवाव्ययम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,6 +1155,7 @@ aforesaid manner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1095,6 +1164,8 @@ aforesaid manner."
 कामवक्तव्यहृदया  
 भर्तृ-नाथाश्+++(←तत्पुरुषः)+++ चरन्ति याः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1134,6 +1205,7 @@ their husbands reap infamy and decline in righteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1142,6 +1214,8 @@ their husbands reap infamy and decline in righteousness."
 अकार्यवशमापन्नाः  
 स्त्रियो याः खलु तद्विधाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1257,15 @@ performed meritorious deeds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वद्विधास्तु गुणैर्युक्ता दृष्टलोकपरावराः ।  
 स्त्रियः स्वर्गे चरिष्यन्ति यथा पुण्यकृतस्तथा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1231,6 +1308,7 @@ become an honest wife to your husband and obtain merit and renown."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1239,6 +1317,8 @@ become an honest wife to your husband and obtain merit and renown."
 भव स्वभर्तुः सहधर्मचारिणी  
 यशश्च धर्मं च ततः समाप्स्यसि ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1267,5 +1347,6 @@ become an honest wife to your husband and obtain merit and renown."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनॆळनॆय सर्ग पूर्णवायितु ॥117॥
+</details>
 </details>
 

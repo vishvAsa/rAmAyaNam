@@ -2,6 +2,8 @@
 title = "००५ रामेण सीतास्मरणम्"
 title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ Lakshmana consoles him and there approaches the sun-set.
 
 5. श्रीरामका सीताके लिये शोक और विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु नीलेन विधिवत्स्वारक्षा सुसमाहिता ।  
 सागरस्योत्तरे तीरे साधु सा विनिवेशिता ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ shore of the ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैन्दश्च द्विविदश्चोभौ तत्र वानरपुङ्गवौ ।  
 विचेरतुश्च तां सेनां रक्षार्थं सर्वतोदिशम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,12 +118,15 @@ through that army, for the purpose of vigilance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निविष्टायां तु सेनायां तीरे नदनदीपतेः ।  
 पार्श्वस्थं लक्ष्मणं दृष्ट्वा रामो वचनमब्रवीत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ side (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकश्च किल कालेन गच्छता ह्यपगच्छति ।  
 मम चापश्यतः कान्तामहन्यहनि वर्धते ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ seeing my beloved is getting increased every day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे दुःखं प्रिया दूरे न मे दुःखं हृतेति च ।  
 एतदेवानुशोचामि वयोऽस्या ह्यतिवर्तते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ away. Her age is indeed passing away. Only about this, I am repenting."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाहि वात यतः कान्ता तां स्पृष्ट्वा मामपि स्पृश ।  
 त्वयि मे गात्रसंस्पर्शश्चन्द्रे दृष्टिसमागमः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +319,15 @@ eyes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मे दहति गात्राणि विषं पीतमिवाशये ।  
 हा नाथेति प्रिया सा मां ह्रियमाणा यदब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +371,15 @@ That thought is like poison gulped by me, hovering in my stomach and scorching m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वियोगेन्धनवता तच्चिन्ताविमलार्चिषा ।  
 रात्रिन्दिवं शरीरं मे दह्यते मदनाग्निना ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,12 +422,15 @@ separation from her and my thoughts of her flaring into shimmering flames."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवगाह्यार्णवं स्वप्स्ये सौमित्रे भवता विना ।  
 एवं च प्रज्वलन् कामो न मा सुप्तं जले दहेत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +474,15 @@ flaming passion will not thus scorch me, lying down in water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बह्वेतत् कामयानस्य शक्यमेतेन जीवितुम् ।  
 यदहं सा च वामोरुरेकां धरणिमाश्रितौ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +526,15 @@ are resting on one the same earth and on this fact I am able to survive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केदारस्येवाकेदारः सोदकस्य निरूदकः ।  
 उपस्नेहेन जीवामि जीवन्तीं यच्छृणोमि ताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +577,15 @@ paddy-field under water, I also survive since I am hearing her as surviving.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा नु खलु सुश्रोणीं शतपत्रायतेक्षणाम् ।  
 विजित्य शत्रून् द्रक्ष्यामि सीतां स्फीतामिव श्रियम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +626,15 @@ flourishing as prosperity, by conquering the enemies?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा सुचारुदन्तोष्ठं तस्याः पद्ममिवाननम् ।  
 ईषदुन्नाम्य पास्यामि रसायनमिवातुरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +678,15 @@ lips, shall I drink as a sick man the sovereign drink of remedy?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तस्याः सहितौ पीनौ स्तनौ तालफलोपमौ ।  
 कदा न खलु सोत्कम्पौ श्लिष्यन्त्या मां भजिष्यतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,12 +729,15 @@ like palmary fruits, indeed press me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा नूनमसितापाङ्गी रक्षोमध्यगता सती ।  
 मन्नाथा नाथहीनेव त्रातारं नाधिगच्छति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +780,15 @@ not getting any defender, she resembling an orphan, though I am her support."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं जनकराजस्य दुहिता मम च प्रिया ।  
 राक्षसीमध्यगा शेते स्नुषा दशरथस्य च ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +831,15 @@ is sleeping among ogresses?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविक्षोभ्याणि रक्षांसि सा विधूयोत्पतिष्यति ।  
 विधूय जलदान् नीलान् शशिलेखा शरत्स्विव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +883,15 @@ driving away black clouds by a digit of the moon, in autumn."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वभावतनुका नूनं शोकेनानशनेन च ।  
 भूयस्तनुतरा सीता देशकालविपर्ययात् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,12 +931,15 @@ her anguish, her abstinence from food and her adverse position of time and place
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा नु राक्षसेन्द्रस्य निधायोरसि सायकान् ।  
 शोकं प्रत्याहरिष्यामि शोकमुत्सृज्य मानसम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -923,12 +982,15 @@ abandoned this mental agony?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा नु खलु मे साध्वी सीतामरसुतोपमा ।  
 सोत्कण्ठा कण्ठमालम्ब्य मोक्ष्यत्यानन्दजं जलम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,12 +1031,15 @@ excited longing, will embrace my neck and release tears of joy?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा शोकमिमं घोरं मैथिलीविप्रयोगजम् ।  
 सहसा विप्रमोक्ष्यामि वासः शुक्लेतरं यथा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,12 +1082,15 @@ from Seetha so soon, as we abandon a soiled clothing?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपतस्तस्य तत्र रामस्य धीमतः ।  
 दिनक्षयान्मन्दवपुर्भास्करोऽस्तमुपागमत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,12 +1130,15 @@ day-decline, approached the dusk.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्वासितो लक्ष्मणेन रामः सन्ध्यामुपासत ।  
 स्मरन् कमलपत्राक्षीं सीतां शोकाकुलीकृतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,5 +1191,6 @@ lotus-eyed Seetha. Thereafter, Rama worshipped the evening-twilight.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐदनॆय सर्ग पूर्णवायितु.॥5॥
+</details>
 </details>
 

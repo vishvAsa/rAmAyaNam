@@ -2,6 +2,8 @@
 title = "०३० यज्ञरक्षणम्"
 title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -36,12 +38,15 @@ the other, namely Subaahu. Rama thus makes the ritual of sage Vishvamitra a succ
 
 इति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तौ देशकालज्ञौ राजपुत्रावरिन्दमौ ।  
 देशे काले च वाक्यज्ञावब्रूतां कौशिकं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,12 +82,15 @@ and place, those princes then spoke this sentence to Vishvamitra. [1-30-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवञ्छ्रोतुमिच्छावो यस्मिन् काले निशाचरौ ।  
 संरक्षणीयौ तौ ब्रूहि नातिवर्तेत तत्क्षणम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,12 +136,15 @@ ritual is to be safeguarded'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणौ काकुत्स्थौ त्वरमाणौ युयुत्सया ।  
 सर्वे ते मुनयः प्रीताः प्रशशंसुर्नृपात्मजौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ them. [1-30-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यप्रभृति षड्रात्रं रक्षतां राघवौ युवाम् ।  
 दीक्षां गतो ह्येष मुनिर्मौनित्वं च गमिष्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ by the vow." Thus said the other sages near at ritual place. [1-30-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु तद्वचनं श्रुत्वा राजपुत्रौ यशस्विनौ ।  
 अनिद्रं षडहोरात्रं तपोवनमरक्षताम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +277,15 @@ safeguarded that woodland of the ritual for six nights and days. [1-30-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपासाञ्चक्रतुर्वीरौ यत्तौ परमधन्विनौ ।  
 ररक्षतुर्मुनिवरं विश्वामित्रमरिन्दमौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +320,15 @@ the wielders of great bows and valiant ones have protected the best sage Vishvam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ काले गते तस्मिन् षष्ठेऽहनि तदागते ।  
 सौमित्रिमब्रवीद् रामो यत्तो भव समाहितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +368,15 @@ Rama said to Saumitri, "you be prepared and be on alert." [1-30-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्यैवं ब्रुवाणस्य त्वरितस्य युयुत्सया ।  
 प्रजज्वाल ततो वेदिः सोपाध्यायपुरोहिता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +418,15 @@ thereby. The demons enter just at this juncture to spoil the ritual.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदर्भचमसस्रुक्का ससमित्कुसुमोच्चया ।  
 विश्वामित्रेण सहिता वेदिर्जज्वाल सर्त्विजा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +471,15 @@ trees and a variety of other items that are offered into fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रवच्च यथान्यायं यज्ञोऽसौ सम्प्रवर्तते ।  
 आकाशे च महान् शब्दः प्रादुरासीद् भयानकः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,6 +514,7 @@ generated in the sky. [1-30-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -490,6 +523,8 @@ generated in the sky. [1-30-10]
 मारीचश्च सुबाहुश्च तयोरनुचरास्तथा ।  
 आगम्य भीमसङ्काशा रुधिरौघानवासृजन् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,6 +580,7 @@ the Altar of Fire. [1-30-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -553,6 +589,8 @@ the Altar of Fire. [1-30-11]
 तावापतन्तौ सहसा दृष्ट्वा राजीवलोचनः ।  
 लक्ष्मणं त्वभिसम्प्रेक्ष्य रामो वचनमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,6 +651,7 @@ towards that direction and saw the demons in the sky. [1-30-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -620,6 +659,8 @@ towards that direction and saw the demons in the sky. [1-30-13]
 मानवास्त्रसमाधूताननिलेन यथा घनान् ॥ १५ ॥  
 करिष्यामि न सन्देहो नोत्सहे हन्तुमीदृशान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,6 +700,7 @@ gust puffing thick clouds, you may see." Thus Rama said to Lakshmana. [1-30-15,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -666,6 +708,8 @@ gust puffing thick clouds, you may see." Thus Rama said to Lakshmana. [1-30-15,
 मानवं परमोदारमस्त्रं परमभास्वरम् ।  
 चिक्षेप परमक्रुद्धो मारीचोरसि राघवः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +747,15 @@ it on the chest of Maareecha. [1-30-16b, 17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेन परमास्त्रेण मानवेन समाहतः ।  
 सम्पूर्णं योजनशतं क्षिप्तः सागरसम्प्लवे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +792,15 @@ yojana lengths in full, and flung down into an ocean rocking with tidewaters. [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचेतनं विघूर्णन्तं शीतेषुबलपीडितम् ।  
 निरस्तं दृश्य मारीचं रामो लक्ष्मणमब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +835,15 @@ with the strength of that Cold arrow Rama said this to Lakshmana. [1-30-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण शीतेषुं मानवं मनुसंहितम् ।  
 मोहयित्वा नयत्येनं न च प्राणैर्वियुज्यते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +891,15 @@ at Maareecha till such time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमानपि वधिष्यामि निर्घृणान् दुष्टचारिणः ।  
 राक्षसान् पापकर्मस्थान् यज्ञघ्नान् रुधिराशनान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,6 +937,7 @@ ritual-hinderers and blood-drinkers." So said Rama to Lakshmana. [1-30-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -890,6 +947,8 @@ ritual-hinderers and blood-drinkers." So said Rama to Lakshmana. [1-30-21]
 शेषान् वायव्यमादाय निजघान महायशाः ।  
 राघवः परमोदारो मुनीनां मुदमावहन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,12 +1013,15 @@ fell flat on ground. [1-30-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हत्वा राक्षसान् सर्वान् यज्ञघ्नान् रघुनन्दनः ।  
 ऋषिभिः पूजितस्तत्र यथेन्द्रो विजये पुरा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,12 +1062,15 @@ idealised him as Indra was idealised once, when he became victories on demons. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यज्ञे समाप्ते तु विश्वामित्रो महामुनिः ।  
 निरीतिका दिशो दृष्ट्वा काकुत्स्थमिदमब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,6 +1104,7 @@ the great sage Vishvamitra said this to Rama. [1-30-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1046,6 +1112,8 @@ the great sage Vishvamitra said this to Rama. [1-30-25]
 सिद्धाश्रममिदं सत्यं कृतं वीर महायशः ।  
 स हि रामं प्रशस्यैवं ताभ्यां सन्ध्यामुपागमत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,5 +1165,6 @@ vespertine prayers on Sandhya, the goddess of gloaming. [1-30-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तनॆय सर्ग पूर्णवायितु. ॥30॥
+</details>
 </details>
 

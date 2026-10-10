@@ -2,6 +2,8 @@
 title = "१०० रामस्य कुशलप्रश्नः"
 title_english = "100 Rama enquires his father s welfare with Bharata"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,6 +23,7 @@ others.
 
 100. श्रीरामका भरतको कुशल-प्रश्नके बहाने राजनीतिका उपदेश करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ others.
 आघ्राय रामस्तं मूर्ध्नि परिष्वज्य च राघवम् ।  
 अङ्के भरतमारोप्य पर्यपृच्छत सादरम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +117,15 @@ world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व नु तेऽभूत् पिता तात यदरण्यं त्वमागतः ।  
 न हि त्वं जीवतस्तस्य वनमागन्तुमर्हसि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +166,15 @@ you ought not have to come to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिरस्य बत पश्यामि दूराद् भरतमागतम् ।  
 दुष्प्रतीकमरण्येऽस्मिन् किं तात वनमागतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +215,15 @@ face into this forest Alas! Why have you come to the forest, my darling?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्नु धरते तात राजा यत् त्वमिहागतः ।  
 कच्चिन्न दीनः सहसा राजा लोकान्तरं गतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +263,15 @@ king has not indeed departed to the other world, all of a sudden."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् सौम्य न ते राज्यं भ्रष्टं बालस्य शाश्वतम् ।  
 कच्चिच्छुश्रूषसे तात पितुः सत्यपराक्रम ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +316,15 @@ valiant?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् दशरथो राजा कुशली सत्यसङ्गरः ।  
 राजसूयाश्वमेधानामाहर्ता धर्मनिश्चितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +364,15 @@ performs Rajasuya and Ashvamedha Sacrifices and he who has a righteous resolve."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कच्चिद् ब्राह्मणो विद्वान् धर्मनित्यो महाद्युतिः ।  
 इक्ष्वाकूणामुपाध्यायो यथावत् तात पूज्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +414,15 @@ learned who constantly keep up the virtues and he who has a great splendour?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तात कच्चिच्च कौसल्या सुमित्रा च प्रजावती ।  
 सुखिनी कच्चिदार्या च देवी नन्दति कैकयी ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +463,15 @@ hope the venerable queen Kaikeyi is rejoicing."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् विनयसम्पन्नः कुलपुत्रो बहुश्रुतः ।  
 अनसूयुरनुद्रष्टा सत्कृतस्ते पुरोहितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,12 +513,15 @@ of insight, is duly honoured by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदग्निषु ते युक्तो विधिज्ञो मतिमानृजुः ।  
 हुतं च होष्यमाणं च काले वेदयते सदा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +563,15 @@ going to be fed with oblations."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् देवान् पितॄन् भृत्यान् गुरून् पितृसमानपि ।  
 वृद्धांश्च तात वैद्यांश्च ब्राह्मणांश्चाभिमन्यसे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +612,15 @@ dependents and teachers of your father's age the doctors and the brahmins."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्वस्त्रवरसम्पन्नमर्थशास्त्रविशारदम् ।  
 सुधन्वानमुपाध्यायं कच्चित् त्वं तात मन्यसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,12 +662,15 @@ economy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदात्मसमाः शूराः श्रुतवन्तो जितेन्द्रियाः ।  
 कुलीनाश्चेङ्गितज्ञाश्च कृतास्ते तात मन्त्रिणः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +712,15 @@ you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रो विजयमूलं हि राज्ञां भवति राघव ।  
 सुसंवृतो मन्त्रिधुरैरमात्यैः शास्त्रकोविदैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,12 +761,15 @@ who are well-versed in political sciences and who can hide their thoughts within
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्निद्रावशं नैषि कच्चित् कालेऽवबुध्यसे ।  
 कच्चिच्चापररात्रेषु चिन्तयस्यर्थनैपुणम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -766,12 +813,15 @@ action."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्मन्त्रयसे नैकः कच्चिन्न बहुभिः सह ।  
 कच्चित् ते मन्त्रितो मन्त्रो राष्ट्रं न परिधावति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +863,15 @@ carried out)".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदर्थं विनिश्चित्य लघुमूलं महोदयम् ।  
 क्षिप्रमारभसे कर्म न दीर्घयसि राघव ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,12 +912,15 @@ which has maximum benefit with minimum coast and indeed do not delay it further.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्नु सुकृतान्येव कृतरूपाणि वा पुनः ।  
 विदुस्ते सर्वकार्याणि न कर्तव्यानि पार्थिवाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +962,15 @@ undertakings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न तर्कैर्युक्त्या वा ये चाप्यपरिकीर्तिताः ।  
 त्वया वा तव वामात्यैर्बुध्यते तात मन्त्रितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1012,15 @@ ministers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् सहस्रैर्मूर्खाणामेकमिच्छसि पण्डितम् ।  
 पण्डितो ह्यर्थकृच्छ्रेषु कुर्यान्निःश्रेयसं महत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,12 +1064,15 @@ man can be of a great help to you in difficult matters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्राण्यपि मूर्खाणां यद्युपास्ते महीपतिः ।  
 अथवाप्ययुतान्येव नास्ति तेषु सहायता ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,12 +1112,15 @@ helpful to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकोऽप्यमात्यो मेधावी शूरो दक्षो विचक्षणः ।  
 राजानं राजपुत्रं वा प्रापयेन्महतीं श्रियम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,12 +1161,15 @@ great prosperity to the king or to one who enjoys royal authority."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्मुख्या महत्स्वेव मध्यमेषु च मध्यमाः ।  
 जघन्याश्च जघन्येषु भृत्यास्ते तात योजिताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,12 +1213,15 @@ in mediocre works and inferior servants in inferior works."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमात्यानुपधातीतान् पितृपैतामहान् शुचीन् ।  
 श्रेष्ठान् श्रेष्ठेषु कच्चित् त्वं नियोजयसि कर्मसु ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,12 +1263,15 @@ importance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्नोग्रेण दण्डेन भृशमुद्वेजिताः प्रजाः ।  
 राष्ट्रे तवावजानन्ति मन्त्रिणः कैकयीसुत ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1235,12 +1312,15 @@ scepter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् त्वां नावजानन्ति याजकाः पतितं यथा ।  
 उग्रप्रतिग्रहीतारं कामयानमिव स्त्रियः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1284,12 +1364,15 @@ men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायकुशलं वैद्यं भृत्यसन्दूषणे रतम् ।  
 शूरमैश्वर्यकामं च यो हन्ति न स हन्यते ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,12 +1417,15 @@ disease, a servant intent on bringing disgrace and a valiant warrior seeking kin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् धृष्टश्च शूरश्च धृतिमान् मतिमान् शुचिः ।  
 कुलीनश्चानुरक्तश्च दक्षः सेनापतिः कृतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1381,12 +1467,15 @@ born in a good family, who is beloved by his subordinates and efficient, is sele
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलवन्तश्च कच्चित् ते मुख्या युद्धविशारदाः ।  
 दृष्टापदाना विक्रान्तास्त्वया सत्कृत्य मानिताः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,12 +1517,15 @@ you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् बलस्य भक्तं च वेतनं च यथोचितम् ।  
 सम्प्राप्तकालं दातव्यं ददासि न विलम्बसे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1473,12 +1565,15 @@ salary to them, without any delay."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालातिक्रमणे ह्येव भक्तवेतनयोर्भृताः ।  
 भर्तुरप्यतिकुप्यन्ति सोऽनर्थः सुमहान् कृतः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1519,12 +1614,15 @@ their master and become corrupt; and that is said to be a great unfortunate occu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् सर्वेऽनुरक्तास्त्वां कुलपुत्राः प्रधानतः ।  
 कच्चित् प्राणांस्तवार्थेषु सन्त्यजन्ति समाहिताः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1565,12 +1663,15 @@ and do they lay down their lives steadfastly for your sake?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिज्जानपदो विद्वान् दक्षिणः प्रतिभानवान् ।  
 यथोक्तवादी दूतस्ते कृतो भरत पण्डितः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1613,12 +1714,15 @@ as an ambassador by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदष्टादशान्येषु स्वपक्षे दश पञ्च च ।  
 त्रिभिस्त्रिभिरविज्ञातैर्वेत्सि तीर्थानि चारकैः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1678,12 +1782,15 @@ viz; the chief ministers, the family priest and the crown prince.
 १. शत्रुपक्षके मन्त्री, पुरोहित, युवराज, सेनापति, द्वारपाल, अन्तर्वेशिक (अन्तःपुरका अध्यक्ष), कारागाराध्यक्ष, कोषाध्यक्ष, यथायोग्य कार्योंमें धनका व्यय करनेवाला सचिव, प्रदेष्टा (पहरेदारोंको काम बतानेवाला), नगराध्यक्ष (कोतवाल), कार्यनिर्माणकर्ता (शिल्पियोंका परिचालक), धर्माध्यक्ष, सभाध्यक्ष, दण्डपाल, दुर्गपाल, राष्ट्रसीमापाल तथा वनरक्षक—ये अठारह तीर्थ हैं, जिनपर राजाको दृष्टि रखनी चाहिये । मतान्तरसे ये अठारह तीर्थ इस प्रकार हैं—मन्त्री, पुरोहित, युवराज, सेनापति, द्वारपाल, अन्तःपुराध्यक्ष, कारागाराध्यक्ष, धनाध्यक्ष, राजाकी आज्ञासे सेवकोंको काम बतानेवाला, वादी-प्रतिवादीसे मामलेकी पूछताछ करनेवाला, प्राड‍‍्विवाक (वकील), धर्मासनाधिकारी (न्यायाधीश), व्यवहार-निर्णेता, सभ्य, सेनाको जीविका-निर्वाहके लिये धन देनेका अधिकारी (सेनानायक) कर्मचारियोंको काम पूरा होनेपर वेतन देनेके लिये राजासे धन लेनेवाला, नगराध्यक्ष, राष्ट्रसीमापाल तथा वनरक्षक, दुष्टोंको दण्ड देनेका अधिकारी तथा जल, पर्वत, वन एवं दुर्गम भूमिकी रक्षा करनेवाला—इनपर राजाको दृष्टि रखनी चाहिये ।  
 २. उपर्युक्त अठारह तीर्थोंमेंसे आदिके तीनको छोड़कर शेष पंद्रह तीर्थ अपने पक्षके भी सदा परीक्षणीय हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् व्यपास्तानहितान् प्रतियातांश्च सर्वदा ।  
 दुर्बलाननवज्ञाय वर्तसे रिपुसूदन ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1726,12 +1833,15 @@ are weak and having been expelled, return again."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न लोकायतिकान् ब्राह्मणांस्तात सेवसे ।  
 अनर्थकुशला ह्येते बालाः पण्डितमानिनः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1775,12 +1885,15 @@ skilled in perverting the mind, ignorant as they are and thinking themselves to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मशास्त्रेषु मुख्येषु विद्यमानेषु दुर्बुधाः ।  
 बुद्धिमान्वीक्षिकीं प्राप्य निरर्थं प्रवदन्ति ते ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1814,6 +1927,7 @@ meaninglessly, in the presence of eminent books on righteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1824,6 +1938,8 @@ meaninglessly, in the presence of eminent books on righteousness."
 प्रासादैर्विविधाकारैर्वृतां वैद्यजनाकुलाम् ।  
 कच्चित् समुदितां स्फीतामयोध्यां परिरक्षसे ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1885,6 +2001,7 @@ abound there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1897,6 +2014,8 @@ abound there."
 विवर्जितो नरैः पापैर्मम पूर्वैः सुरक्षितः ।  
 कच्चिज्जनपदः स्फीतः सुखं वसति राघव ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1972,12 +2091,15 @@ well-protected by our fore-fathers, is prosperous and an abode of happiness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् ते दयिताः सर्वे कृषिगोरक्षजीविनः ।  
 वार्तायां संश्रितस्तात लोकोऽयं सुखमेधते ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2018,12 +2140,15 @@ borhter! The people living on agriculture and cattle-rearing indeed prosper well
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां गुप्तिपरीहारैः कच्चित् ते भरणं कृतम् ।  
 रक्ष्या हि राज्ञा धर्मेण सर्वे विषयवासिनः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2068,12 +2193,15 @@ righteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् स्त्रियः सान्त्वयसे कच्चित् तास्ते सुरक्षिताः ।  
 कच्चिन्न श्रद्दधास्यासां कच्चिद् गुह्यं न भाषसे ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2114,12 +2242,15 @@ not believing the words of these women and not telling them the secrets."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्नागवनं गुप्तं कच्चित् ते सन्ति धेनुकाः ।  
 कच्चिन्न गणिकाश्वानां कुञ्जराणां च तृप्यसि ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2161,12 +2292,15 @@ female elephants, horses and male-elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् दर्शयसे नित्यं मानुषाणां विभूषितम् ।  
 उत्थायोत्थाय पूर्वाह्णे राजपुत्र महापथे ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2206,12 +2340,15 @@ morning, on the great high way?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न सर्वे कर्मान्ताः प्रत्यक्षास्तेऽविशङ्कया ।  
 सर्वे वा पुनरुत्सृष्टा मध्यमेवात्र कारणम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2256,12 +2393,15 @@ course only in the principle to be followed in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् दुर्गाणि सर्वाणि धनधान्यायुधोदकैः ।  
 यन्त्रैश्च प्रतिपूर्णानि तथा शिल्पिधनुर्धरैः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2302,12 +2442,15 @@ mechanical contrivances as well as artisans and archers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयस्ते विपुलः कच्चित् कच्चिदल्पतरो व्ययः ।  
 अपात्रेषु न ते कच्चित् कोषो गच्छति राघव ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2348,12 +2491,15 @@ not reach undeserving people, O, Bharata!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतार्थे च पित्रर्थे ब्राह्मणाभ्यागतेषु च ।  
 योधेषु मित्रवर्गेषु कच्चिद् गच्छति ते व्ययः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2393,12 +2539,15 @@ unexpected visitors, soldiers and hosts of friends."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदार्योऽपि शुद्धात्मा क्षारितश्चापकर्मणा ।  
 अदृष्टः शास्त्रकुशलैर्न लोभाद् बध्यते शुचिः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2440,12 +2589,15 @@ law-books."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतश्चैव पृष्टश्च काले दृष्टः सकारणः ।  
 कच्चिन्न मुच्यते चोरो धनलोभान्नरर्षभ ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2486,12 +2638,15 @@ sufficient ground and interrogated-I hope, he is not released from greed of weal
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यसने कच्चिदाढ्यस्य दुर्बलस्य च राघव ।  
 अर्थं विरागाः पश्यन्ति तवामात्या बहुश्रुताः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2533,12 +2688,15 @@ carefully."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि मिथ्याभिशस्तानां पतन्त्यश्रूणि राघव ।  
 तानि पुत्रपशून् घ्नन्ति प्रीत्यर्थमनुशासतः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2580,12 +2738,15 @@ pleasure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् वृद्धांश्च बालांश्च वैद्यान् मुख्यांश्च राघव ।  
 दानेन मनसा वाचा त्रिभिरेतैर्बुभूषसे ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2629,12 +2790,15 @@ loving mind and polite words- the aged, the children and the foremost physicians
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् गुरूंश्च वृद्धांश्च तापसान् देवतातिथीन् ।  
 चैत्यांश्च सर्वान् सिद्धार्थान् ब्राह्मणांश्च नमस्यसि ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2677,12 +2841,15 @@ conduct."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदर्थेन वा धर्ममर्थं धर्मेण वा पुनः ।  
 उभौ वा प्रीतिलोभेन कामेन न विबाधसे ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2726,12 +2893,15 @@ of the senses."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदर्थं च कामं च धर्मं च जयतां वर ।  
 विभज्य काले कालज्ञ सर्वान् वरद सेवसे ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2776,12 +2946,15 @@ O, the bestower of boons!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् ते ब्राह्मणाः शर्म सर्वशास्त्रार्थकोविदाः ।  
 आशंसन्ते महाप्राज्ञ पौरजानपदैः सह ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2821,6 +2994,7 @@ knowledge of the scriptures, the inhabitants of town and the country pray for yo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2831,6 +3005,8 @@ knowledge of the scriptures, the inhabitants of town and the country pray for yo
 मङ्गलाद्यप्रयोगं च प्रत्युत्थानं च सर्वतः ।  
 कच्चित् त्वं वर्जयस्येतान् राजदोषांश्चतुर्दश ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2890,6 +3066,7 @@ from one's seat (indiscriminately) to receive all.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2900,6 +3077,8 @@ from one's seat (indiscriminately) to receive all.
 यात्रादण्डविधानं च द्वियोनी सन्धिविग्रहौ ।  
 कच्चिदेतान् महाप्राज्ञ यथावदनुमन्यसे ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2993,12 +3172,15 @@ is in the clutches of adverse times and; 20. who is not devoted to truth and pie
 
 १. कामसे उत्पन्न होनेवाले दस दोषोंको दशवर्ग कहते है । ये राजाके लिये त्याज्य हैं । मनुजीने उनके नाम इस प्रकार गिनाये हैं—आखेट, जुआ, दिनमें सोना, दूसरोंकी निन्दा करना, स्त्रीमें आसक्त होना, मद्यपान, नाचना, गाना, बाजा बजाना और व्यर्थ घूमना । २. जलदुर्ग, पर्वतदुर्ग, वृक्षदुर्ग, ईरिणदुर्ग और धन्वदुर्ग—ये पाँच प्रकारके दुर्ग पञ्चवर्ग कहलाते हैं । इनमें आरम्भके तीन तो प्रसिद्ध ही हैं । जहाँ किसी प्रकारकी खेती नहीं होती, ऐसे प्रदेशको ईरिण कहते हैं । बालूसे भरी मरुभूमिको धन्व कहते हैं । गर्मीके दिनोंमें वह शत्रुओंके लिये दुर्गम होती है । इन सब दुर्गोंका यथासमय उपयोग करके राजाको आत्मरक्षा करनी चाहिये । ३. साम, दान, भेद और दण्ड—इन चार प्रकारकी नीतिको चतुर्वर्ग कहते हैं । ४. राजा, मन्त्री, राष्ट्र, किला, खजाना, सेना और मित्रवर्ग—ये परस्पर उपकार करनेवाले राज्यके सात अङ्ग हैं । इन्हींको सप्तवर्ग कहा गया है । ५. चुगली, साहस, द्रोह, ईर्ष्या, दोषदर्शन, अर्थदूषण, वाणीकी कठोरता और दण्डकी कठोरता—ये क्रोधसे उत्पन्न होनेवाले आठ दोष अष्टवर्ग माने गये हैं । किसी-किसीके मतमें खेतीकी उन्नति करना, व्यापारको बढ़ाना, दुर्ग बनवाना, पुल निर्माण कराना, जंगलसे हाथी पकड़कर मँगवाना, खानोंपर अधिकार प्राप्त करना, अधीन राजाओंसे कर लेना और निर्जन प्रदेशको आबाद करना—ये राजाके लिये उपादेय आठ गुण ही अष्टवर्ग हैं । ६. धर्म, अर्थ और कामको अथवा उत्साह-शक्ति, प्रभुशक्ति तथा मन्त्रशक्तिको त्रिवर्ग कहते हैं । ७. त्रयी, वार्ता और दण्डनीति—ये तीन विद्याएँ हैं । इनमें तीनों वेदोंको त्रयी कहते हैं । कृषि और गोरक्षा आदि वार्ताके अन्तर्गत हैं तथा नीतिशास्त्रका नाम दण्डनीति है । ८. संधि, विग्रह, यान, आसन, द्वैधीभाव और समाश्रय—ये छः गुण हैं । इनमें शत्रुसे मेल रखना संधि, उससे लड़ाई छेड़ना विग्रह, आक्रमण करना यान, अवसरकी प्रतीक्षामें बैठे रहना आसन, दुरंगी नीति बर्तना द्वैधीभाव और अपनेसे बलवान् राजाकी शरण लेना समाश्रय कहलाता है । ९. आग लगना, बाढ़ आना, बीमारी फैलना, अकाल पड़ना और महामारीका प्रकोप होना—ये पाँच दैवी बाधाएँ हैं । राज्यके अधिकारियों, चोरों, शत्रुओं और राजाके प्रिय व्यक्तियोंसे तथा स्वयं राजाके लोभसे जो भय प्राप्त होता है, उसे मानवी बाधा कहते हैं । १०. शत्रु राजाओंके सेवकोंमेंसे जिनको वेतन न मिला हो, जो अपमानित किये गये हों, जो अपने मालिकके किसी बर्तावसे कुपित हों तथा जिन्हें भय दिखाकर डराया गया हो, ऐसे लोगोंको मनचाही वस्तु देकर फोड़ लेना राजाका कृत्य (नीतिपूर्ण कार्य) माना गया है । ११. बालक, वृद्ध, दीर्घकालका रोगी, जातिच्युत, डरपोक, भीरु मनुष्योंको साथ रखनेवाला, लोभी-लालची लोगोंको आश्रय देनेवाला, मन्त्री, सेनापति आदि प्रकृतियोंको असंतुष्ट रखनेवाला, विषयोंमें आसक्त, चञ्चलचित्त मनुष्योंसे सलाह लेनेवाला, देवता और ब्राह्मणोंकी निन्दा करनेवाला, दैवका मारा हुआ, भाग्यके भरोसे पुरुषार्थ न करनेवाला, दुर्भिक्षसे पीड़ित, सैनिक-कष्टसे युक्त (सेनारहित), स्वदेशमें न रहनेवाला, अधिक शत्रुओंवाला, अकाल (क्रूर ग्रहदशा आदिसे युक्त) और सत्यधर्मसे रहित—ये बीस प्रकारके राजा संधिके योग्य नहीं माने गये हैं । इन्हींको विंशतिवर्गके नामसे कहा गया है । १२. राज्यके स्वामी, अमात्य, सुहृद्, कोष, राष्ट्र, दुर्ग और सेना—राज्यके इन सात अङ्गोंको ही प्रकृतिमण्डल कहते हैं । किसी-किसीके मतमें मन्त्री, राष्ट्र, किला, खजाना और दण्ड—ये पाँच प्रकृतियाँ अलग हैं और बारह राजाओंके समूहको मण्डल कहा है । १३. द्वैधीभाव और समाश्रय—ये इनकी योनिसंधि हैं और यान तथा आसन इनकी योनिविग्रह हैं, अर्थात् प्रथम दो संधिमूलक और अन्तिम दो विग्रहमूलक हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिभिस्त्वं यथोद्दिष्टं चतुर्भिस्त्रिभिरेव वा ।  
 कच्चित् समस्तैर्व्यस्तैश्च मन्त्रं मन्त्रयसे बुध ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3039,12 +3221,15 @@ proposal collectively and singly with each of them in secret."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् ते सफला वेदाः कच्चित् ते सफलाः क्रियाः ।  
 कच्चित् ते सफला दाराः कच्चित् ते सफलं श्रुतम् ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3082,12 +3267,15 @@ results? Do you benefit from the company of your consorts? Has your learning bee
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदेषैव ते बुद्धिर्यथोक्ता मम राघव ।  
 आयुष्या च यशस्या च धर्मकामार्थसंहिता ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3129,12 +3317,15 @@ wealth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां वृत्तिं वर्तते तातो यां च नः प्रपितामहः ।  
 तां वृत्तिं वर्तसे कच्चिद् या च सत्पथगा शुभा ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3175,12 +3366,15 @@ accord with the path of the virtuous and which is distinguished in itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् स्वादुकृतं भोज्यमेको नाश्नासि राघव ।  
 कच्चिदाशंसमानेभ्यो मित्रेभ्यः सम्प्रयच्छसि ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3220,6 +3414,7 @@ friends, who seek it?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3228,6 +3423,8 @@ friends, who seek it?"
 अवाप्य कृत्स्नां वसुधां यथाव-  
 दितश्च्युतः स्वर्गमुपैति विद्वान् ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3282,5 +3479,6 @@ from the mortal body."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नूरनॆय सर्ग पूर्णवायितु ॥100॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४२ राक्षसीभिः हनुमन्तं प्रति सीताप्रच्छनम्"
 title_english = "042 Female demons enquires Seetha about Hanuma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -27,12 +29,15 @@ of Hanuma.
 
 42. राक्षसियोंके मुखसे एक वानरके द्वारा प्रमदावनके विध्वंसका समाचार सुनकर रावणका किंकर नामक राक्षसोंको भेजना और हनुमान् जी के द्वारा उन सबका संहार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पक्षिनिनादेन वृक्षभङ्गस्वनेन च ।  
 बभूवुस्त्राससम्भ्रान्ताः सर्वे लङ्कानिवासिनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ inhabitants of Lanka then became trembled with fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्रुताश्च भयत्रस्ता विनेदुर्मृगपक्षिणः ।  
 रक्षसां च निमित्तानि क्रूराणि प्रतिपेदिरे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ omens made their appearance before the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गतायां निद्रायां राक्षस्यो विकृताननाः ।  
 तद् वनं ददृशुर्भग्नं तं च वीरं महाकपिम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ and saw that great heroic monkey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ता दृष्ट्वा महाबाहुर्महासत्त्वो महाबलः ।  
 चकार सुमहद्रूपं राक्षसीनां भयावहम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ might, assumed a gigantic form which created a terror to the female-demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु गिरिसङ्काशमतिकायं महाबलम् ।  
 राक्षस्यो वानरं दृष्ट्वा पप्रच्छुर्जनकात्मजाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +273,7 @@ then asked Seetha (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -268,6 +286,8 @@ then asked Seetha (as follows):
 संवादम् असितापाङ्गि  
 त्वया किं कृतवान् अयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,6 +354,7 @@ Wherefore a conversation was held by him with you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -343,6 +364,8 @@ Wherefore a conversation was held by him with you?"
 > रक्षसां कामरूपाणां  
 विज्ञाने का गतिर् मम ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,6 +386,7 @@ _________________
 
 तब सर्वांगसुन्दरी साध्वी सीताने कहा—‘इच्छानुसार रूप धारण करनेवाले राक्षसोंको समझने या पहचाननेका मेरे पास क्या उपाय है? ॥ ८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +395,8 @@ _________________
 अहिर् एव ह्य् अहेः पादान्  
 विजानाति न संशयः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,6 +434,7 @@ feet of another serpent. There is no doubt about it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -416,6 +443,8 @@ feet of another serpent. There is no doubt about it."
 वेद्मि राक्षसम् एवैनं  
 कामरूपिणमागतम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,6 +510,7 @@ Thereupon Seetha the virtuous lady, having a complete beauty of all limbs, spoke
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,6 +519,8 @@ Thereupon Seetha the virtuous lady, having a complete beauty of all limbs, spoke
 स्थिताः काश्चिद‍् गताः काश्चिद्  
 रावणाय निवेदितुम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +564,15 @@ back. Some others went to Ravana to inform about the matter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य समीपे तु राक्षस्यो विकृताननाः ।  
 विरूपं वानरं भीमं रावणाय न्यवेदिषुः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +615,15 @@ of the monstrous and terrific monkey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोकवनिकामध्ये राजन् भीमवपुः कपिः ।  
 सीतया कृतसंवादस्तिष्ठत्यमितविक्रमः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -603,12 +641,15 @@ of the monstrous and terrific monkey.
 
 वे बोलीं—‘राजन्! अशोकवाटिकामें एक वानर आया है, जिसका शरीर बड़ा भयंकर है । उसने सीतासे बातचीत की है । वह महापराक्रमी वानर अभी वहीं मौजूद है ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तं जानकी सीता हरिं हरिणलोचना ।  
 अस्माभिर्बहुधा पृष्टा निवेदयितुमिच्छति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,12 +706,15 @@ middle of Ashoka grove and made a conversation with Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासवस्य भवेद् दूतो दूतो वैश्रवणस्य वा ।  
 प्रेषितो वापि रामेण सीतान्वेषणकाङ्क्षया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,12 +754,15 @@ king of riches or even a messenger sent by Rama to search for Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनैवाद्भुतरूपेण यत्तत्तव मनोहरम् ।  
 नानामृगगणाकीर्णं प्रमृष्टं प्रमदावनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +805,15 @@ is fascinating and extending with many kinds of animal-flock."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तत्र कश्चिदुद्देशो यस्तेन न विनाशितः ।  
 यत्र सा जानकी देवी स तेन न विनाशितः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +857,15 @@ place, where Seetha the daughter of Janaka was sitting, was not destroyed by him
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानकीरक्षणार्थं वा श्रमाद् वा नोपलक्ष्यते ।  
 अथवा कः श्रमस्तस्य सैव तेनाभिरक्षिता ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +905,15 @@ undestroyed, or else, what fatigue is there for him? He has done it to protect S
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारुपल्लवपत्राढ्यं यं सीता स्वयमास्थिता ।  
 प्रवृद्धः शिंशपावृक्षः स च तेनाभिरक्षितः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +956,15 @@ Seetha herself took shelter, has been spared by him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्योग्ररूपस्योग्रं त्वं दण्डमाज्ञातुमर्हसि ।  
 सीता सम्भाषिता येन वनं तेन विनाशितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1006,15 @@ To that terribly looking monkey by whom Seetha was spoken to and that grove dest
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनःपरिगृहीतां तां तव रक्षोगणेश्वर ।  
 कः सीतामभिभाषेत यो न स्यात् त्यक्तजीवितः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1054,15 @@ accepted by you, except perhaps he who is ready to abandon his life?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसीनां वचः श्रुत्वा रावणो राक्षसेश्वरः ।  
 चिताग्निरिव जज्वाल कोपसंवर्तितेक्षणः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,12 +1105,15 @@ fire, his eyes spinning with anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य क्रुद्धस्य नेत्राभ्यां प्रापतन्नश्रुबिन्दवः ।  
 दीप्ताभ्यामिव दीपाभ्यां सार्चिषः स्नेहबिन्दवः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,12 +1155,15 @@ lamps.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मनः सदृशान् वीरान् किङ्करान्नाम राक्षसान् ।  
 व्यादिदेश महातेजा निग्रहार्थं हनूमतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1135,12 +1206,15 @@ in order to catch hold of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामशीतिसाहस्रं किङ्कराणां तरस्विनाम् ।  
 निर्ययुर्भवनात् तस्मात् कूटमुद‍्गरपाणयः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1231,15 @@ in order to catch hold of Hanuma.
 
 महाबलशालिगळाद ऎम्भत्तु साविर किङ्कर सैनिकरु कूट, मुद्गरगळे मुन्ताद आयुधगळन्नु पिडिदु रावणन आज्ञॆयन्तॆ हनुमन्तनन्नु निग्रहिसलु अरमनॆयिन्द हॊरबिद्दरु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरा महादंष्ट्रा घोररूपा महाबलाः ।  
 युद्धाभिमनसः सर्वे हनूमद्‍ग्रहणोन्मुखाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1203,12 +1280,15 @@ in hand, in eagerness to lay hold on Hanuma, started from that place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कपिं तं समासाद्य तोरणस्थमवस्थितम् ।  
 अभिपेतुर्महावेगाः पतङ्गा इव पावकम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1328,15 @@ with a great speed, like locusts rushing towards a fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः ।  
 आजग्मुर्वानरश्रेष्ठं शरैरादित्यसन्निभैः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1296,12 +1379,15 @@ shining like the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुद‍्गरैः पट्टिशैः शूलैः प्रासतोमरपाणयः ।  
 परिवार्य हनूमन्तं सहसा तस्थुरग्रतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,12 +1430,15 @@ and swords, they stood in front of him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमानपि तेजस्वी श्रीमान् पर्वतसन्निभः ।  
 क्षितावाविद्ध्य लाङ्गूलं ननाद च महाध्वनिम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1392,12 +1481,15 @@ tail on the ground, making a thunderous noise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भूत्वा तु महाकायो हनूमान् मारुतात्मजः ।  
 पुच्छमास्फोटयामास लङ्कां शब्देन पूरयन् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1440,12 +1532,15 @@ tail on the ground, making a thunderous noise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्फोटितशब्देन महता चानुनादिना ।  
 पेतुर्विहङ्गा गगनादुच्चैश्चेदमघोषयत् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1485,6 +1580,7 @@ birds fell down from the sky. Hanuma also then cried aloud with a clamorous voic
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1497,6 +1593,8 @@ birds fell down from the sky. Hanuma also then cried aloud with a clamorous voic
 अर्दयित्वा पुरीं लङ्कामभिवाद्य च मैथिलीम् ।  
 समृद्धार्थो गमिष्यामि मिषतां सर्वरक्षसाम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1596,12 +1694,15 @@ by Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सन्नादशब्देन तेऽभवन् भयशङ्किताः ।  
 ददृशुश्च हनूमन्तं सन्ध्यामेघमिवोन्नतम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1641,12 +1742,15 @@ to be as high as a twilight rain-cloud.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वामिसन्देशनिःशङ्कास्ततस्ते राक्षसाः कपिम् ।  
 चित्रैः प्रहरणैर्भीमैरभिपेतुस्ततस्ततः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1689,12 +1793,15 @@ rushed towards Hanuma, with their terrific and amazing weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैः परिवृतः शूरैः सर्वतः स महाबलः ।  
 आससादायसं भीमं परिघं तोरणाश्रितम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1734,12 +1841,15 @@ seized a huge iron bar belonging to the arched gate.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं परिघमादाय जघान रजनीचरान् ।  
 सपन्नगमिवादाय स्फुरन्तं विनतासुतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1761,12 +1871,15 @@ _________________
 
 जैसे विनतानन्दन गरुड़ने छटपटाते हुए सर्पको पंजोंमें दाब रखा हो, उसी प्रकार उस परिघको हाथमें लेकर हनुमान् जी ने उन निशाचरोंका संहार आरम्भ किया ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचचाराम्बरे वीरः परिगृह्य च मारुतिः ।  
 सूदयामास वज्रेण दैत्यानिव सहस्रदृक् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1824,12 +1937,15 @@ taking that iron rod in his hand, as Garuda the eagle would carrying a serpent i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हत्वा राक्षसान् वीरः किङ्करान् मारुतात्मजः ।  
 युद्धाकाङ्क्षी महावीरस्तोरणं समवस्थितः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1872,12 +1988,15 @@ all the Kinkaras have been killed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्माद् भयान्मुक्ताः कतिचित्तत्र राक्षसाः ।  
 निहतान् किङ्करान् सर्वान् रावणाय न्यवेदयन् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1921,6 +2040,7 @@ in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1929,6 +2049,8 @@ in battle.
 समादिदेशाप्रतिमं पराक्रमे  
 प्रहस्तपुत्रं समरे सुदुर्जयम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1962,5 +2084,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

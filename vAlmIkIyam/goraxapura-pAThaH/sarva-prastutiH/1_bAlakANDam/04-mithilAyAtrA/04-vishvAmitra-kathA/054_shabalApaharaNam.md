@@ -2,6 +2,8 @@
 title = "०५४ शबलापहरणम्"
 title_english = "054 Sacred Cow creates forces to fightback"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -22,12 +24,15 @@ generates newer forces and a war ensues.
 
 54. विश्वामित्रका वसिष्ठजीकी गौको बलपूर्वक ले जाना, गौका दुःखी होकर वसिष्ठजीसे इसका कारण पूछना और उनकी आज्ञासे शक, यवन, पह्लव आदि वीरोंकी सृष्टि करके उनके द्वारा विश्वामित्रजीकी सेनाका संहार करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामधेनुं वसिष्ठोऽपि यदा न त्यजते मुनिः ।  
 तदास्य शबलां राम विश्वामित्रोऽन्वकर्षत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ of the legend of Vishvamitra. [1-54-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीयमाना तु शबला राम राज्ञा महात्मना ।  
 दुःखिता चिन्तयामास रुदन्ती शोककर्शिता ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ from the sage. [1-54-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परित्यक्ता वसिष्ठेन किमहं सुमहात्मना ।  
 याहं राजभृतैर्दीना ह्रियेय भृशदुःखिता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ what? [1-54-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं मयापकृतं तस्य महर्षेर्भावितात्मनः ।  
 यन्मामनागसं दृष्ट्वा भक्तां त्यजति धार्मिकः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +221,7 @@ and am I no errant.' That cow eulogised in this manner. [1-54-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -214,6 +229,8 @@ and am I no errant.' That cow eulogised in this manner. [1-54-4]
 जगाम वेगेन तदा वसिष्ठं परमौजसम् ॥ ५ ॥  
 निर्धूय तांस्तदा भृत्यान् शतशः शत्रुसूदन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +252,7 @@ _________________
 
 शत्रुसूदन! हीगॆ योचिसुत्ता आ गोवु पदे पदे निट्टुसिरुबिडतॊडगितु. राजन नूरारु सेवकरन्नु कॊडहि महातेजस्वि वसिष्ठर बळिगॆ वेगवागि ओडुत्ता बन्दळु.॥5½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -242,6 +260,8 @@ _________________
 शबला सा रुदन्ती च क्रोशन्ती चेदमब्रवीत् ।  
 वसिष्ठस्याग्रतः स्थित्वा रुदन्ती मेघनिःस्वना ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ her, and then she straight went to the base of the feet of the great-souled Vash
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् किं परित्यक्ता त्वयाहं ब्रह्मणः सुत ।  
 यस्माद् राजभटा मां हि नयन्ते त्वत्सकाशतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ are weaning me away from your proximity.' So Shabala urged Vashishta. [1-54-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु ब्रह्मर्षिरिदं वचनमब्रवीत् ।  
 शोकसन्तप्तहृदयां स्वसारमिव दुःखिताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +409,15 @@ in her worriment. [1-54-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वां त्यजामि शबले नापि मेऽपकृतं त्वया ।  
 एष त्वां नयते राजा बलान्मत्तो महाबलः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,12 +453,15 @@ weaning you away from me as he is beside himself with kingly arrogance. [1-54-10
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तुल्यं बलं मह्यं राजा त्वद्य विशेषतः ।  
 बली राजा क्षत्रियश्च पृथिव्याः पतिरेव च ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,12 +497,15 @@ and thus we have to be subservient to a Kshatriya, isn't it. [1-54-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमक्षौहिणी पूर्णा गजवाजिरथाकुला ।  
 हस्तिध्वजसमाकीर्णा तेनासौ बलवत्तरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +544,15 @@ he is mightier than me.' Thus Vashishta tried to pacify that Sacred-Cow. [1-54-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता वसिष्ठेन प्रत्युवाच विनीतवत् ।  
 वचनं वचनज्ञा सा ब्रह्मर्षिमतुलप्रभम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +588,15 @@ resplendence. [1-54-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न बलं क्षत्रियस्याहुर्ब्राह्मणा बलवत्तराः ।  
 ब्रह्मन् ब्रह्मबलं दिव्यं क्षात्राच्च बलवत्तरम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ lethal poison...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयं बलं तुभ्यं न त्वया बलवत्तरः ।  
 विश्वामित्रो महावीर्यस्तेजस्तव दुरासदम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -680,12 +724,15 @@ invincible is your dynamism. [1-54-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियुङ्क्ष्व मां महातेजस्त्वं ब्रह्मबलसम्भृताम् ।  
 तस्य दर्पं बलं यत्नं नाशयामि दुरात्मनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ king for this injudicious seizure.' Thus Shabala implored the sage Vashishta. [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तस्तु तया राम वसिष्ठस्तु महायशाः ।  
 सृजस्वेति तदोवाच बलं परबलार्दनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,12 +824,15 @@ said so to Shabala.[1-54-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा सुरभिः सासृजत् तदा ।  
 तस्या हुम्भारवोत्सृष्टाः पह्लवाः शतशो नृप ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +878,15 @@ army of Vishvamitra in its entirety just while Vishvamitra is witnessing it. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाशयन्ति बलं सर्वं विश्वामित्रस्य पश्यतः ।  
 स राजा परमक्रुद्धः क्रोधविस्फारितेक्षणः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,6 +926,7 @@ destroy those Pahlava-s with many a kind of his weaponry. [1-54-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -878,6 +935,8 @@ destroy those Pahlava-s with many a kind of his weaponry. [1-54-19b, 20a]
 भूय एवासृजद् घोरान् शकान् यवनमिश्रितान् ।  
 तैरासीत् संवृता भूमिः शकैर्यवनमिश्रितैः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,6 +1008,7 @@ of thin air by this Sacred Cow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -958,6 +1018,8 @@ of thin air by this Sacred Cow.
 ततोऽस्त्राणि महातेजा विश्वामित्रो मुमोच ह ।  
 तैस्ते यवनकाम्बोजा बर्बराश्चाकुलीकृताः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,5 +1107,6 @@ burnt down entire force of Vishvamitra. [1-54-22, 23a]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥54॥
+</details>
 </details>
 

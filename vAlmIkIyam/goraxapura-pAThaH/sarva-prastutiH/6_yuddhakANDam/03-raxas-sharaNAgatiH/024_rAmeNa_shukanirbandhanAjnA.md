@@ -2,6 +2,8 @@
 title = "०२४ रामेण शुकनिर्बन्धनाज्ञा"
 title_english = "024 Rama orders for release of Suka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ his own army's strength.
 
 24. श्रीरामका लक्ष्मणसे लङ्काकी शोभाका वर्णन करके सेनाको व्यूहबद्ध खड़ी होनेके लिये आदेश देना, श्रीरामकी आज्ञासे बन्धनमुक्त हुए शुकका रावणके पास जाकर उनकी सैन्यशक्तिकी प्रबलता बताना तथा रावणका अपने बलकी डींग हाँकना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा वीरसमिती राज्ञा विरराज व्यवस्थिता ।  
 शशिना शुभनक्षत्रा पौर्णमासीव शारदी ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ moon night in autumn presided over by the moon and illuminated by bright stars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचचाल च वेगेन त्रस्ता चैव वसुन्धरा ।  
 पीड्यमाना बलौघेन तेन सागरवर्चसा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,12 +114,15 @@ sea, was trembled with fear by the rapid movement of that army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शुश्रुवुराक्रुष्टं लङ्कायां काननौकसः ।  
 भेरीमृदङ्गसङ्घुष्टं तुमुलं लोमहर्षणम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ kettledrums and tabours, which caused their hair to stand on end.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूवुस्तेन घोषेण संहृष्टा हरियूथपाः ।  
 अमृष्यमाणास्तद् घोषं विनेदुर्घोषवत्तरम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ sound, they emitted shouts, which surpassed that uproar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसास्तत् प्लवङ्गानां शुश्रुवुस्तेऽपि गर्जितम् ।  
 नर्दतामिव दृप्तानां मेघानामम्बरे स्वनम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,12 +261,15 @@ sounded like thundering of clouds in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
 जगाम मनसा सीतां दूूयमानेन चेतसा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +312,15 @@ of Sita and his heart was filled with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र सा मृगशावाक्षी रावणेनोपरुध्यते ।  
 अभिभूता ग्रहेणेव लोहिताङ्गेन रोहिणी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,12 +360,15 @@ Rohini star is overshadowed by the red bodied planet (mars)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घमुष्णं च निःश्वस्य समुद्वीक्ष्य च लक्ष्मणम् ।  
 उवाच वचनं वीरस्तत्कालहितमात्मनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ words, which were beneficial for him at that time :-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आलिखन्तीमिवाकाशमुत्थितां पश्य लक्ष्मण ।  
 मनसेव कृतां लङ्कां नगाग्रे विश्वकर्मणा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -423,12 +452,15 @@ by Visvakarma with his imagination and so elevated scraping the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानैर्बहुभिर्लङ्का सङ्कीर्णा रचिता पुरा ।  
 विष्णोः पदमिवाकाशं छादितं पाण्डुभिर्घनैः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,12 +501,15 @@ appears like a sky the abode of Vishnu (the all pervaded), covered with white cl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पितैः शोभिता लङ्का वनैश्चित्ररथोपमैः ।  
 नानापतगसङ्घुष्टफलपुष्पोपगैः शुभैः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +553,15 @@ bloom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य मत्तविहङ्गानि प्रलीनभ्रमराणि च ।  
 कोकिलाकुलखण्डानि दोधवीति शिवोऽनिलः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,12 +604,15 @@ swarm and where the birds are excited with joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति दाशरथी रामो लक्ष्मणं समभाषत ।  
 बलं च तत्र विभजच्छास्त्रदृष्टेन कर्मणा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +656,15 @@ divided into battalions according to the procedure found in scriptures.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शशास कपिसेनां तां बलादादाय वीर्यवान् ।  
 अङ्गदः सह नीलेन तिष्ठेदुरसि दुर्जयः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +706,15 @@ formation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठेद् वानरवाहिन्या वानरौघसमावृतः ।  
 आश्रितो दक्षिणं पार्श्वमृषभो नाम वानरः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +755,15 @@ recourse to the right side of the army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धहस्तीव दुर्धर्षस्तरस्वी गन्धमादनः ।  
 तिष्ठेद् वानरवाहिन्याः सव्यं पार्श्वमधिष्ठितः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,6 +803,7 @@ his position superintending the left side of the monkey troops."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -760,6 +811,8 @@ his position superintending the left side of the monkey troops."
 जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ॥ १७ ॥  
 ऋक्षमुख्या महात्मानः कुक्षिं रक्षन्तु ते त्रयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +855,15 @@ monkeys- protest the belly portion of the army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जघनं कपिसेनायाः कपिराजोऽभिरक्षतु ।  
 पश्चार्धमिव लोकस्य प्रचेतास्तेजसा वृतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +905,15 @@ earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुविभक्तमहाव्यूहा महावानररक्षिता ।  
 अनीकिनी सा विबभौ यथा द्यौः साभ्रसम्प्लवा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -888,12 +947,15 @@ foremost of monkeys, resembled heavens with their mass of clouds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रगृह्य गिरिशृङ्गाणि महतश्च महीरुहान् ।  
 आसेदुर्वानरा लङ्कां मिमर्दयिषवो रणे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +995,15 @@ and gigantic trees, reached Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखरैर्विकिरामैनां लङ्कां मुष्टिभिरेव वा ।  
 इति स्म दधिरे सर्वे मनांसि हरिपुङ्गवाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -979,12 +1044,15 @@ of mountains or with our bare fists even, we shall shatter this Lanka into piece
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजाः सुग्रीवमिदमब्रवीत् ।  
 सुविभक्तानि सैन्यानि शुक एष विमुच्यताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1086,15 @@ properly marshaled. Let this Shuka be released."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु वचः श्रुत्वा वानरेन्द्रो महाबलः ।  
 मोचयामास तं दूतं शुकं रामस्य शासनात् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1128,15 @@ as per the order of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोचितो रामवाक्येन वानरैश्च निपीडितः ।  
 शुकः परमसन्त्रस्तो रक्षोधिपमुपागमत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,6 +1170,7 @@ was trembling with great fear and reached Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1103,6 +1178,8 @@ was trembling with great fear and reached Ravana.
 किमिमौ ते सितौ पक्षौ लूनपक्षश्च दृश्यसे ॥ २५ ॥  
 कच्चिन्नानेकचित्तानां तेषां त्वं वशमागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1197,15 @@ was trembling with great fear and reached Ravana.
 
 आग रावणनु नगुत्ता शुकनल्लि केळुत्तानॆ - शुकने! इदेनिदु? निन्न ऎरडू रॆक्कॆगळु कत्तरिसल्प ट्टन्तॆ काणुत्तिवॆ. चञ्चलचित्तराद आ कपिगळिगॆ नीनु बन्दियागिल्लवल्ल.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स भयसंविग्नस्तेन राज्ञाभिचोदितः ।  
 वचनं प्रत्युवाचेदं राक्षसाधिपमुत्तमम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,12 +1242,15 @@ various fickle minds?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरस्योत्तरे तीरेऽब्रुवं ते वचनं तथा ।  
 यथा सन्देशमक्लिष्टं सान्त्वयन् श्लक्ष्णया गिरा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,12 +1267,15 @@ various fickle minds?"
 
 महाराजा! नानु समुद्रद उत्तर तटक्कॆ होगि निम्म सन्देशवन्नु स्पष्ट शब्दगळल्लि, मधुर वाणियिन्द सान्त्वन नीडुत्ता हेळिदॆ.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धैस्तैरहमुत्प्लुत्य दृष्टमात्रः प्लवङ्गमैः ।  
 गृहीतोऽस्म्यपि चारब्धो हन्तुं लोप्तुं च मुष्टिभिः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1231,12 +1317,15 @@ smooth tone, conciliating and without any ambiguity exactly as per your instruct
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते सम्भाषितुं शक्याः सम्प्रश्नोऽत्र न विद्यते ।  
 प्रकृत्या कोपनास्तीक्ष्णा वानरा राक्षसाधिप ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1276,12 +1365,15 @@ started beating and plucking me with their fists."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च हन्ता विराधस्य कबन्धस्य खरस्य च ।  
 सुग्रीवसहितो रामः सीतायाः पदमागतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1322,12 +1414,15 @@ being questioned in this matter. Monkeys, by their very nature, are angry and fe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वा सागरे सेतुं तीर्त्वा च लवणोदधिम् ।  
 एष रक्षांसि निर्धूय धन्वी तिष्ठति राघवः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1361,12 +1456,15 @@ place of Sita."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानरसङ्घानामनीकानि सहस्रशः ।  
 गिरिमेघनिकाशानां छादयन्ति वसुन्धराम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1407,12 +1505,15 @@ expelling the demons, here stands Rama wielding a bow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां बलौघस्य वानरेन्द्रबलस्य च ।  
 नैतयोर्विद्यते सन्धिर्देवदानवयोरिव ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1452,12 +1553,15 @@ clouds, cover the earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा प्राकारमायान्ति क्षिप्रमेकतरं कुरु ।  
 सीतां चास्मै प्रयच्छाशु युद्धं वापि प्रदीयताम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1494,12 +1598,15 @@ demons and the army of monkeys- than between a God and a demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुकस्य वचनं श्रुत्वा रावणो वाक्यमब्रवीत् ।  
 रोषसंरक्तनयनो निर्दहन्निव चक्षुषा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1540,12 +1647,15 @@ either to restore Sita or to offer a combat to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां प्रति युद्धेरन् देवगन्धर्वदानवाः ।  
 नैव सीतां प्रदास्यामि सर्वलोकभयादपि ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1579,12 +1689,15 @@ he would consume him with his glance, said as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा समभिधावन्त मामका राघवं शराः ।  
 वसन्ते पुष्पितं मत्ता भ्रमरा इव पादपम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1627,12 +1740,15 @@ celestials or Gandharvas (celestial singers) or demons, I would not give back Si
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा शोणितदिग्धाङ्गं दीप्तैः कार्मुकविच्युतैः ।  
 शरैरादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1672,12 +1788,15 @@ upon a tree in bloom at spring time?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चास्य बलमादास्ये बलेन महता वृतः ।  
 ज्योतिषामिव सर्वेषां प्रभामुद्यन् दिवाकरः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1717,12 +1836,15 @@ from my bow, as flaming torches destroy an elephant?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरस्येव मे वेगो मारुतस्येव मे बलम् ।  
 न च दाशरथिर्वेद तेन मां योद्धुमिच्छति ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1757,12 +1879,15 @@ brilliance of all stars is obscured at the rising of the sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे तूणीशयान् बाणान् सविषानिव पन्नगान् ।  
 रामः पश्यति सङ्ग्रामे तेन मां योद्धुमिच्छति ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1802,6 +1927,7 @@ is not aware of it. That is why, he is desirous of meeting me in a combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1811,6 +1937,8 @@ is not aware of it. That is why, he is desirous of meeting me in a combat."
 नाराचतलसन्नादां नदीमहितवाहिनीम् ।  
 अवगाह्य महारङ्गं वादयिष्याम्यहं रणे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1847,6 +1975,7 @@ is why, he desires to fight with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1855,6 +1984,8 @@ is why, he desires to fight with me."
 यमेन वा धर्षयितुं शराग्निना  
 महाहवे वैश्रवणेन वा पुनः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1904,5 +2035,6 @@ in that battle."
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुर्विंशः सर्गः ॥ २४ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौबीसवाँ सर्ग पूरा हुआ ॥ २४ ॥
+</details>
 </details>
 

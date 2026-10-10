@@ -2,6 +2,8 @@
 title = "०१४ सुग्रीवेण वालिनं प्रति युद्धाह्वानम्"
 title_english = "014 The second challenge"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ inciting Vali to the duel.
 
 14. वाली-वधके लिये श्रीरामका आश्वासन पाकर सुग्रीवकी विकट गर्जना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे ते त्वरितं गत्वा किष्किन्धां वालिनः पुरीम् ।  
 वृक्षैरात्मानमावृत्य व्यतिष्ठन् गहने वने ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ thickets of forest trees and waited. [4-14-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसार्य सर्वतो दृष्टिं कानने काननप्रियः ।  
 सुग्रीवो विपुलग्रीवः क्रोधमाहारयद् भृशम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ tremendous fury. [4-14-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु निनदं घोरं कृत्वा युद्धाय चाह्वयत् ।  
 परिवारैः परिवृतो नादैर्भिन्दन्निवाम्बरम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ Vali for fight. [4-14-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गर्जन्निव महामेघो वायुवेगपुरःसरः ।  
 अथ बालार्कसदृशो दृप्तसिंहगतिस्ततः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,6 +220,7 @@ lion saw the adroit Rama and then said this sentence. [4-14-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,6 +230,8 @@ lion saw the adroit Rama and then said this sentence. [4-14-4b, 5a]
 प्रतिज्ञा या कृता वीर त्वया वालिवधे पुरा ॥ ६ ॥  
 सफलां कुरु तां क्षिप्रं लतां काल इवागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +310,15 @@ and who is impregnated with flags and machinery, we arrived at such city of Vali
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु धर्मात्मा सुग्रीवेण स राघवः ॥ ७ ॥  
 तमेवोवाच वचनं सुग्रीवं शत्रुसूदनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,6 +361,7 @@ Sugreeva. [4-14-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,6 +370,8 @@ Sugreeva. [4-14-7b, 8a]
 शोभसेऽप्यधिकं वीर लतया कण्ठसक्तया ॥ ९ ॥  
 विपरीत इवाकाशे सूर्यो नक्षत्रमालया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,12 +477,15 @@ creeper-garland of gaja-flowers alone your identification is marked. [4-14-8b, 9
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य वालिसमुत्थं ते भयं वैरं च वानर ॥ १० ॥  
 एकेनाहं प्रमोक्ष्यामि बाणमोक्षेण संयुगे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +525,15 @@ Vali by releasing a single arrow in fight. [4-14-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम दर्शय सुग्रीव वैरिणं भ्रातृरूपिणम् ॥ ११ ॥  
 वाली विनिहतो यावद्वने पांसुषु चेष्टते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +567,15 @@ in the dust of this forest eliminated by me. [4-14-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि दृष्टिपथं प्राप्तो जीवन् स विनिवर्तते ॥ १२ ॥  
 ततो दोषेण मागच्छेत् सद्यो गर्हेच्च मां भवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +613,15 @@ with me, you can even deride me. [4-14-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षं सप्त ते साला मया बाणेन दारिताः ॥ १३ ॥  
 तेनावेहि बलेनाद्य वालिनं निहतं रणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +661,7 @@ thereby be sure that Vali will be dispatched now, by my might. [4-14-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -633,6 +669,8 @@ thereby be sure that Vali will be dispatched now, by my might. [4-14-13b, 14a]
 धर्मलोभपरीतेन न च वक्ष्ये कथञ्चन ।  
 सफलां च करिष्यामि प्रतिज्ञां जहि सम्भ्रमम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,6 +735,7 @@ anywise. [4-14-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -704,6 +743,8 @@ anywise. [4-14-14b, 15a]
 तदाह्वाननिमित्तं च वालिनो हेममालिनः ॥ १६ ॥  
 सुग्रीव कुरु तं शब्दं निष्पतेद् येन वानरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +789,15 @@ war-cry by which that monkey Vali comes out. [4-14-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जितकाशी जयश्लाघी त्वया चाधर्षितः पुरात् ॥ १७ ॥  
 निष्पतिष्यत्यसङ्गेन वाली स प्रियसंयुगः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +856,15 @@ vaali yuddha sannadho bahir nirgacched eva --- iti raama vacanam - dharmaakuutam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रिपूणां धर्षितं श्रुत्वा मर्षयन्ति न संयुगे ॥ १८ ॥  
 जानन्तस्तु स्वकं वीर्यं स्त्रीसमक्षं विशेषतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +904,15 @@ a brawl, that too in the presence of ladies." So said Rama to Sugreeva. [4-14-18
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु रामवचः श्रुत्वा सुग्रीवो हेमपिङ्गलः ॥ १९ ॥  
 ननर्द क्रूरनादेन विनिर्भिन्दन्निवाम्बरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +952,15 @@ gruesome blare as though to completely rend the sky. [4-14-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र शब्देन वित्रस्ता गावो यान्ति हतप्रभाः ॥ २० ॥  
 राजदोषपरामृष्टाः कुलस्त्रिय इवाकुलाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1005,15 @@ own king. [4-14-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रवन्ति च मृगाः शीघ्रं भग्ना इव रणे हयाः ।  
 पतन्ति च खगा भूमौ क्षीणपुण्या इव ग्रहाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,6 +1067,7 @@ planets, or meteors. This expression is *shleSa* with *kaanti guNa* ; Metaphoric
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1019,6 +1076,8 @@ planets, or meteors. This expression is *shleSa* with *kaanti guNa* ; Metaphoric
 सूर्यात्मजः शौर्यविवृद्धतेजाः  
 सरित्पतिर्वाऽनिलचञ्चलोर्मिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,5 +1133,6 @@ splashing waves drifted by gales. [4-14-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥14॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०६४ वानरैः सागरतीरगमनम्"
 title_english = "064 Monkeys arrive at seashore"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -21,12 +23,15 @@ capability to jump over the ocean.
 
 64. समुद्रकी विशालता देखकर विषादमें पड़े हुए वानरोंको आश्वासन दे अङ्गदका उनसे पृथक्-पृथक् समुद्र-लङ्घनके लिये उनकी शक्ति पूछना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आख्याता गृध्रराजेन समुत्प्लुत्य प्लवङ्गमाः ।  
 सङ्गताः प्रीतिसंयुक्ता विनेदुः सिंहविक्रमाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ and screamed in league [4-64-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पातेर्वचनं श्रुत्वा हरयो रावणक्षयम् ।  
 हृष्टाः सागरमाजग्मुः सीतादर्शनकाङ्क्षिणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,12 +113,15 @@ longing for a glimpse of Seetha. [4-64-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिगम्य तु तं देशं ददृशुर्भीमविक्रमाः ।  
 कृत्स्नं लोकस्य महतः प्रतिबिम्बमवस्थितम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ to Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणस्य समुद्रस्य समासाद्योत्तरां दिशम् ।  
 सन्निवेशं ततश्चक्रुर्हरिवीरा महाबलाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ here for an easy comprehension of the later verses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसुप्तमिव चान्यत्र क्रीडन्तमिव चान्यतः ।  
 क्वचित् पर्वतमात्रैश्च जलराशिभिरावृतम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,12 +258,15 @@ _________________
 
 आ समुद्रवु कॆलवॆडॆ तरङ्गगळिल्लदॆ शान्तवाद्दरिन्द मलगिदन्तॆ कण्डु बन्दरॆ, इन्नॊन्दॆडॆ स्वल्पवागि एळुव अलॆगळिन्दागि क्रीडिसुत्तिरुवन्तॆ काणुत्तित्तु. मत्तॊन्दॆडॆ ऎत्तरवागि एळुत्तिरुव तरङ्गगळिन्द पर्वतदन्तह जलराशियिन्द कूडिदन्तॆ तोरुत्तित्तु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्कुलं दानवेन्द्रैश्च पातालतलवासिभिः ।  
 रोमहर्षकरं दृष्ट्वा विषेदुः कपिकुञ्जराः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ ocean.. [4-64-5, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाशमिव दुष्पारं सागरं प्रेक्ष्य वानराः ।  
 विषेदुः सहिताः सर्वे कथं कार्यमिति ब्रुवन् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,12 +353,15 @@ each to each, "how to vault this ocean?" [4-64-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषण्णां वाहिनीं दृष्ट्वा सागरस्य निरीक्षणात् ।  
 आश्वासयामास हरीन् भयार्तान् हरिसत्तमः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +400,15 @@ their gazing at the ocean. [4-64-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न विषादे मनः कार्यं विषादो दोषवत्तरः ।  
 विषादो हन्ति पुरुषं बालं क्रुद्ध इवोरगः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ a person, as a vicious viper unworkably ruins an innocent child... [4-64-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो विषादं प्रसहते विक्रमे समुपस्थिते ।  
 तेजसा तस्य हीनस्य पुरुषार्थो न सिद्ध्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,12 +505,15 @@ Gita, esp., in the Ch. of *arjuna viSaadayoga* 'Arjuna's Despair'.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां रात्र्यां व्यतीतायामङ्गदो वानरैः सह ।  
 हरिवृद्धैः समागम्य पुनर्मन्त्रममन्त्रयत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +552,15 @@ deliberated with them. [4-64-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा वानराणां ध्वजिनी परिवार्याङ्गदं बभौ ।  
 वासवं परिवार्येव मरुतां वाहिनी स्थिता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,12 +600,15 @@ When those troops of monkey army stood encircling Angada, it beamed forth like t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽन्यस्तां वानरीं सेनां शक्तः स्तम्भयितुं भवेत् ।  
 अन्यत्र वालितनयादन्यत्र च हनूमतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +660,15 @@ excepting Angada and Hanuma, some other vaulter is needed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तान् हरिवृद्धांश्च तच्च सैन्यमरिन्दमः ।  
 अनुमान्याङ्गदः श्रीमान् वाक्यमर्थवदब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -664,12 +708,15 @@ the army of monkeys, spoke this meaningful sentence. [4-64-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क इदानीं महातेजा लङ्घयिष्यति सागरम् ।  
 कः करिष्यति सुग्रीवं सत्यसन्धमरिन्दमम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +755,15 @@ Sugreeva to become truthful to his word... [4-64-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को वीरो योजनशतं लङ्घयेत प्लवङ्गमः ।  
 इमांश्च यूथपान् सर्वान् मोचयेत् को महाभयात् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +806,15 @@ emancipate all these monkey commanders from the great fear of Sugreeva... [4-64-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य प्रसादाद् दारांश्च पुत्रांश्चैव गृहाणि च ।  
 इतो निवृत्ताः पश्येम सिद्धार्थाः सुखिनो वयम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +854,15 @@ the purpose of our task... [4-64-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य प्रसादाद् रामं च लक्ष्मणं च महाबलम् ।  
 अभिगच्छेम संहृष्टाः सुग्रीवं च वनौकसम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +905,15 @@ as well... [4-64-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि कश्चित् समर्थो वः सागरप्लवने हरिः ।  
 स ददात्विह नः शीघ्रं पुण्यामभयदक्षिणाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -894,12 +953,15 @@ called a solemn impunity from Sugreeva..." Angada addressed monkeys in this way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्य वचः श्रुत्वा न कश्चित् किञ्चिदब्रवीत् ।  
 स्तिमितेवाभवत् सर्वा सा तत्र हरिवाहिनी ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,6 +1000,7 @@ as though dumbfounded. [4-64-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -945,6 +1008,8 @@ as though dumbfounded. [4-64-20]
 सर्वे बलवतां श्रेष्ठा भवन्तो दृढविक्रमाः ।  
 व्यपदेशकुले जाताः पूजिताश्चाप्यभीक्ष्णशः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,12 +1054,15 @@ for your adventures... [4-64-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि वो गमने भङ्गः कदाचित् कस्यचिद् भवेत् ।  
 ब्रुवध्वं यस्य या शक्तिः प्लवने प्लवगर्षभाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,5 +1115,6 @@ each one you may give an account as to which one has got which capability in jum
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥64॥
+</details>
 </details>
 

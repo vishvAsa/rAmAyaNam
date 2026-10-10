@@ -2,6 +2,8 @@
 title = "०६२ अम्बरीशयज्ञः"
 title_english = "062 Legend of shunashshepa contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -25,12 +27,15 @@ in these many episodes.
 
 62. विश्वामित्रद्वारा शुनःशेपकी रक्षाका सफल प्रयत्न और तपस्या
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुनःशेपं नरश्रेष्ठ गृहीत्वा तु महायशाः ।  
 व्यश्रमत् पुष्करे राजा मध्याह्ने रघुनन्दन ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ legend. [1-62-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,6 +87,8 @@ legend. [1-62-1]
 विषण्णवदनो दीनस्तृष्णया च श्रमेण च ॥ ३ ॥  
 पपाताङ्के मुने राम वाक्यं चेदमुवाच ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -146,12 +154,15 @@ maternal uncle Sage Vishvamitra who is performing ascesis along with other sages
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मेऽस्ति माता न पिता ज्ञातयो बान्धवाः कुतः ॥ ४ ॥  
 त्रातुमर्हसि मां सौम्य धर्मेण मुनिपुङ्गव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,6 +197,7 @@ you to protect me according to saintliness. [1-62-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,6 +205,8 @@ you to protect me according to saintliness. [1-62-4b, 5a]
 राजा च कृतकार्यः स्यादहं दीर्घायुरव्ययः ।  
 स्वर्गलोकमुपाश्नीयां तपस्तप्त्वा ह्यनुत्तमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ and indeed on performing an unexcelled ascesis, I wish to enjoy in heavenly worl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मे नाथो ह्यनाथस्य भव भव्येन चेतसा ।  
 पितेव पुत्रं धर्मात्मंस्त्रातुमर्हसि किल्बिषात् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,12 +296,15 @@ like a father protecting his own son.' Thus Shunashepa appealed to Vishvamitra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा विश्वामित्रो महातपाः ।  
 सान्त्वयित्वा बहुविधं पुत्रानिदमुवाच ह ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +338,15 @@ of higher ascesis, indeed said this to his sons. [1-62-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्कृते पितरः पुत्राञ्जनयन्ति शुभार्थिनः ।  
 परलोकहितार्थाय तस्य कालोऽयमागतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,12 +390,15 @@ me in heavens...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं मुनिसुतो बालो मत्तः शरणमिच्छति ।  
 अस्य जीवितमात्रेण प्रियं कुरुत पुत्रकाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,12 +432,15 @@ sons, give him satisfaction just by giving life to him. [1-62-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे सुकृतकर्माणः सर्वे धर्मपरायणाः ।  
 पशुभूता नरेन्द्रस्य तृप्तिमग्नेः प्रयच्छत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ in lieu of this boy Shunashepa. [1-62-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाथवांश्च शुनःशेपो यज्ञश्चाविघ्नतो भवेत् ।  
 देवतास्तर्पिताश्च स्युर्मम चापि कृतं वचः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ to his sons. [1-62-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनेस्तद् वचनं श्रुत्वा मधुच्छन्दादयः सुताः ।  
 साभिमानं नरश्रेष्ठ सलीलमिदमब्रुवन् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ and the other sons of Vishvamitra said this, haughtily and disparagingly. [1-62-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथमात्मसुतान् हित्वा त्रायसेऽन्यसुतं विभो ।  
 अकार्यमिव पश्यामः श्वमांसमिव भोजने ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +623,15 @@ also he curses his own sons with the same theme.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा पुत्राणां मुनिपुङ्गवः ।  
 क्रोधसंरक्तनयनो व्याहर्तुमुपचक्रमे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,6 +664,7 @@ them while fury reddened his eyes. [1-62-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -631,6 +673,8 @@ them while fury reddened his eyes. [1-62-15]
 श्वमांसभोजिनः सर्वे वासिष्ठा इव जातिषु ।  
 पूर्णं वर्षसहस्रं तु पृथिव्यामनुवत्स्यथ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +730,15 @@ manner which is abhorrent and hair-raising, and recriminatory according to probi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वा शापसमायुक्तान् पुत्रान् मुनिवरस्तदा ।  
 शुनःशेपमुवाचार्तं कृत्वा रक्षां निरामयाम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -731,6 +778,7 @@ Shunashepa, on making unharmed invulnerability to him with sanctifying hymns. [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -739,6 +787,8 @@ Shunashepa, on making unharmed invulnerability to him with sanctifying hymns. [1
 इमे च गाथे द्वे दिव्ये गायेथा मुनिपुत्रक ।  
 अम्बरीषस्य यज्ञेऽस्मिंस्ततः सिद्धिमवाप्स्यसि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +850,15 @@ the Fire-god with the words I going to impart to you in Vedic hymns. [1-62-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुनःशेपो गृहीत्वा ते द्वे गाथे सुसमाहितः ।  
 त्वरया राजसिंहं तमम्बरीषमुवाच ह ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -843,12 +896,15 @@ gone to that lion-king Ambariisha and indeed spoke to him. [1-62-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजसिंह महाबुद्धे शीघ्रं गच्छावहे वयम् ।  
 निवर्तयस्व राजेन्द्र दीक्षां च समुदाहर ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +942,15 @@ animal,' thus the boy said. [1-62-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वाक्यमृषिपुत्रस्य श्रुत्वा हर्षसमन्वितः ।  
 जगाम नृपतिः शीघ्रं यज्ञवाटमतन्द्रितः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +985,15 @@ and proceeded to the ritual hall immediately and spiritedly. [1-62-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदस्यानुमते राजा पवित्रकृतलक्षणम् ।  
 पशुं रक्ताम्बरं कृत्वा यूपे तं समबन्धयत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,12 +1030,15 @@ him securely fastened to the sacrificial post. [1-62-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बद्धो वाग्भिरग्र्याभिरभितुष्टाव वै सुरौ ।  
 इन्द्रमिन्द्रानुजं चैव यथावन्मुनिपुत्रकः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,12 +1076,15 @@ and Upendra as well, with those two hymns he got from Vishvamitra. [1-62-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रीतः सहस्राक्षो रहस्यस्तुतितोषितः ।  
 दीर्घमायुस्तदा प्रादाच्छुनःशेपाय वासवः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1124,15 @@ and oh, Raghava, then he bestowed longevity to Shunashepa. [1-62-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च राजा नरश्रेष्ठ यज्ञस्य च समाप्तवान् ।  
 फलं बहुगुणं राम सहस्राक्षप्रसादजम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1167,15 @@ of that Vedic-ritual in manyfold, resulted from the grace of Thousand-eyed Indra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रोऽपि धर्मात्मा भूयस्तेपे महातपाः ।  
 पुष्करेषु नरश्रेष्ठ दशवर्षशतानि च ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,5 +1220,6 @@ Sage Shataananda continued the narration of Vishvamitra's legend. [1-62-28]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तॆरडनॆय सर्ग पूर्णवायितु. ॥62॥
+</details>
 </details>
 

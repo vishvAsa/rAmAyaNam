@@ -2,6 +2,8 @@
 title = "०५३ रावणनिन्दा"
 title_english = "053 Seetha denounces Ravana s misdeeds"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ abducting other's wives, in vainglory.
 
 53. सीताका रावणको धिक्कारना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खमुत्पतन्तं तं दृष्ट्वा मैथिली जनकात्मजा ।  
 दुःखिता परमोद्विग्ना भये महति वर्तिनी ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ along became highly frantic and remaining in highest dismay she is distraught. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोषरोदनताम्राक्षी भीमाक्षं राक्षसाधिपम् ।  
 रुदती करुणं सीता ह्रियमाणा तमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ tears while being abducted she piteously poured this scorn on that gory-eyed dem
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न व्यपत्रपसे नीच कर्मणानेन रावण ।  
 ज्ञात्वा विरहितां यो मां चोरयित्वा पलायसे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ loneliness, such as you are, are you not ashamed in the least for this subterfug
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयैव नूनं दुष्टात्मन् भीरुणा हर्तुमिच्छता ।  
 ममापवाहितो भर्ता मृगरूपेण मायया ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ guise of Golden Deer wishful to abduct me as you are a coward. [3-53-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि मामुद्यतस्त्रातुं सोऽप्ययं विनिपातितः ।  
 गृध्रराजः पुराणोऽसौ श्वशुरस्य सखा मम ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,6 +279,7 @@ to your crown?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -270,6 +288,8 @@ to your crown?'
 ईदृशं गर्हितं कर्म कथं कृत्वा न लज्जसे ।  
 स्त्रियाश्चाहरणं नीच रहिते च परस्य च ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +370,15 @@ really triumphed over by a lowly demon like you... [3-53-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथयिष्यन्ति लोकेषु पुरुषाः कर्म कुत्सितम् ।  
 सुनृशंसमधर्मिष्ठं तव शौटीर्यमानिनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,12 +424,15 @@ also to retroject your self-vainglory...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिक् ते शौर्यं च सत्त्वं च यत्त्वया कथितं तदा ।  
 कुलाक्रोशकरं लोके धिक् ते चारित्रमीदृशम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,12 +481,15 @@ arrows...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं शक्यं कर्तुमेवं हि यज्जवेनैव धावसि ।  
 मुहूर्तमपि तिष्ठ त्वं न जीवन् प्रतियास्यसि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +537,15 @@ deadened you...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि चक्षुःपथं प्राप्य तयोः पार्थिवपुत्रयोः ।  
 ससैन्योऽपि समर्थस्त्वं मुहूर्तमपि जीवितुम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +589,15 @@ whole of your military, you will be incapacitated to live on, indeed even for a 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वं तयोः शरस्पर्शं सोढुं शक्तः कथञ्चन ।  
 वने प्रज्वलितस्येव स्पर्शमग्नेर्विहङ्गमः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,6 +647,7 @@ you, or with what you can retaliate them...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -619,6 +655,8 @@ you, or with what you can retaliate them...'
 मत्प्रधर्षणसङ्क्रुद्धो भ्रात्रा सह पतिर्मम ॥ १३ ॥  
 विधास्यति विनाशाय त्वं मां यदि न मुञ्चसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,12 +710,15 @@ well-being? These questions have their answers in mythology.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन त्वं व्यवसायेन बलान्मां हर्तुमिच्छसि ॥ १४ ॥  
 व्यवसायस्तु ते नीच भविष्यति निरर्थकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +766,15 @@ in her 'husband-devoutness...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्यहं तमपश्यन्ती भर्तारं विबुधोपमम् ॥ १५ ॥  
 उत्सहे शत्रुवशगा प्राणान् धारयितुं चिरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +823,7 @@ of Lakshmana's steadfastness in his duty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -786,6 +831,8 @@ of Lakshmana's steadfastness in his duty.
 मृत्युकाले यथा मर्त्यो विपरीतानि सेवते ।  
 मुमूर्षूणां तु सर्वेषां यत् पथ्यं तन्न रोचते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -860,12 +907,15 @@ with hellish edibles...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यामीह हि कण्ठे त्वां कालपाशावपाशितम् ।  
 यथा चास्मिन् भयस्थाने न बिभेषि निशाचर ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -910,6 +960,7 @@ demon, indeed it is clear that you are clearly fantasising the ill-omened golden
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -919,6 +970,8 @@ demon, indeed it is clear that you are clearly fantasising the ill-omened golden
 तप्तकाञ्चनपुष्पां च वैदूर्यप्रवरच्छदाम् ॥ २० ॥  
 द्रक्ष्यसे शाल्मलीं तीक्ष्णामायसैः कण्टकैश्चिताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,6 +1055,7 @@ streaming with blood streams, also thus you will see the grisly sword-leaved-for
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1009,6 +1063,8 @@ streaming with blood streams, also thus you will see the grisly sword-leaved-for
 धारितुं शक्ष्यसि चिरं विषं पीत्वेव निर्घृण ।  
 बद्धस्त्वं कालपाशेन दुर्निवारेण रावण ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,6 +1143,7 @@ you are, anywhere you go...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1096,6 +1153,8 @@ you are, anywhere you go...'
 कथं स राघवो वीरः सर्वास्त्रकुशलो बली ॥ २४ ॥  
 न त्वां हन्याच्छरैस्तीक्ष्णैरिष्टभार्यापहारिणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1152,12 +1211,15 @@ mordant arrows?" Thus Seetha poured forth her ire at Ravana. [3-53-23b, 24, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्चान्यच्च परुषं वैदेही रावणाङ्कगा ।  
 भयशोकसमाविष्टा करुणं विललाप ह ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,6 +1259,7 @@ Ravana, indeed lamented lamentably as her dismay is coalesced with her distress.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1205,6 +1268,8 @@ Ravana, indeed lamented lamentably as her dismay is coalesced with her distress.
 जहार पापस्तरुणीं विचेष्टतीं  
 नृपात्मजामागतगात्रवेपथुः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1268,5 +1333,6 @@ way that sinner stole that princess Seetha. [3-53-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥53॥
+</details>
 </details>
 

@@ -1,6 +1,8 @@
 +++
 title = "१२३ पुष्पके सीता-रामसंवादः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ hermitage of Bharadwaja, Ganga-river, Sarayu-river and finally the City of Ayodh
 
 123. अयोध्याकी यात्रा करते समय श्रीरामका सीताजीको मार्गके स्थान दिखाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञातं तु रामेण तद् विमानमनुत्तमम् ।  
 हंसयुक्तं महानादमुत्पपात विहायसम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ flew into the sky, with a great sound.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पातयित्वा ततश्चक्षुः सर्वतो रघुनन्दनः ।  
 अब्रवीन्मैथिलीं सीतां रामः शशिनिभाननाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ Seetha, who had a moon-like face (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासशिखराकारे त्रिकूटशिखरे स्थिताम् ।  
 लङ्कामीक्षस्व वैदेहि निर्मितां विश्वकर्मणा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,12 +158,15 @@ looking like a peak of Mount Kailasa and built by Viswarakarma, the universal ar
 
 विदेहराजनन्दिनी! कैलास शिखरदन्तॆ सुन्दर त्रिकूट पर्वतद विशाल शृङ्गदल्लि नॆलॆसिद, विश्वकर्मनु रचिसिद लङ्कापुरियन्नु नोडु, ऎष्टु सुन्दरवागि काणुत्तिदॆ.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदायोधनं पश्य मांसशोणितकर्दमम् ।  
 हरीणां राक्षसानां च सीते विशसनं महत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +200,15 @@ also a cause for the death of monkeys and demons."
 
 इत्त ई युद्धभूमियन्नु नोडु इल्लि रक्त-मांसद कॆसरे तुम्बिदॆ. सीते! ई युद्धक्षेत्रदल्लि वानरर मत्तु राक्षसर महासंहारवागित्तु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष दत्तवरः शेते प्रमाथी राक्षसेश्वरः ।  
 तव हेतोर्विशालाक्षि निहतो रावणो मया ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +252,15 @@ people, on whom boons were conferred by Brahma and who was killed by me for your
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णोऽत्र निहतः प्रहस्तश्च निशाचरः ।  
 धूम्राक्षश्चात्र निहतो वानरेण हनूमता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +300,15 @@ by Hanuma, the monkey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्युन्माली हतश्चात्र सुषेणेन महात्मना ।  
 लक्ष्मणेनेन्द्रजिच्चात्र रावणिर्निहतो रणे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +342,15 @@ son of Ravana, killed by Lakshmana in a combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदेनात्र निहतो विकटो नाम राक्षसः ।  
 विरूपाक्षश्च दुष्प्रेक्षो महापार्श्वमहोदरौ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +367,15 @@ son of Ravana, killed by Lakshmana in a combat."
 
 इल्ले अङ्गदनु विकटनॆम्ब राक्षस वधॆ माडिद्दनु. नोडलू कूड कठिणवागिद्द विरूपाक्ष, महापार्श्व मत्तु महोदररू इल्ले हतरादरु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनश्च निहतो बलिनोऽन्ये च राक्षसाः ।  
 त्रिशिराश्चातिकायश्च देवान्तकनरान्तकौ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +413,15 @@ mighty demons were also killed here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धोन्मत्तश्च मत्तश्च राक्षसप्रवरावुभौ ।  
 निकुम्भश्चैव कुम्भश्च कुम्भकर्णात्मजौ बली ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,12 +438,15 @@ mighty demons were also killed here."
 
 युद्धोन्मत्त मत्तु मत्त ऎम्ब ऎरडु श्रेष्ठ राक्षसरु हागू कुम्भ-निकुम्भ ई कुम्भकर्णन इब्बरू पुत्ररु इल्ले मृत्युवन्नैदिदरु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रदंष्ट्रश्च दंष्ट्रश्च बहवो राक्षसा हताः ।  
 मकराक्षश्च दुर्धर्षो मया युधि निपातितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +486,15 @@ battle-field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनश्च निहतः शोणिताक्षश्च वीर्यवान् ।  
 यूपाक्षश्च प्रजङ्घश्च निहतौ तु महाहवे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +534,15 @@ Yupaksa and Prajangha were killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्युज्जिह्वोऽत्र निहतो राक्षसो भीमदर्शनः ।  
 यज्ञशत्रुश्च निहतः सुप्तघ्नश्च महाबलः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,6 +585,7 @@ Brahma shatru was too killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -551,6 +593,8 @@ Brahma shatru was too killed."
 अत्र मन्दोदरी नाम भार्या तं पर्यदेवयत् ॥ १४ ॥  
 सपत्नीनां सहस्रेण साग्रेण परिवारिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +635,15 @@ Mandodari lamented for Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तु दृश्यते तीर्थं समुद्रस्य वरानने ॥ १५ ॥  
 यत्र सागरमुत्तीर्य तां रात्रिमुषिता वयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +677,15 @@ sea-shore, where having crossed the ocean, we spent that night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष सेतुर्मया बद्धः सागरे लवणार्णवे ॥ १६ ॥  
 तव हेतोर्विशालाक्षि नलसेतुः सुदुष्करः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,12 +722,15 @@ difficult to execute for others, got built by me over the salt-sea for your sake
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य सागरमक्षोभ्यं वैदेहि वरुणालयम् ॥ १७ ॥  
 अपारमिव गर्जन्तं शङ्खशुक्तिसमाकुलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,12 +771,15 @@ oyster-shells."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यनाभं शैलेन्द्रं काञ्चनं पश्य मैथिलि ॥ १८ ॥  
 विश्रमार्थं हनुमतो भित्त्वा सागरमुत्थितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,6 +814,7 @@ passing through the ocean, in order to provide rest and relaxation to Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -766,6 +823,8 @@ passing through the ocean, in order to provide rest and relaxation to Hanuma."
 अत्र पूर्वं महादेवः  
 प्रसादम् अकरोद् विभुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +866,15 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तु दृश्यते तीर्थं सागरस्य महात्मनः ॥ २० ॥  
 सेतुबन्ध इति ख्यातं त्रैलोक्येन च पूजितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,12 +891,15 @@ me."
 
 ई पुण्यस्थळदल्लि विशालकाय समुद्रद तीर्थ कण्डु बरुत्तिदॆ, अदु सेतु निर्माणद मूलप्रदेशदल्लिद्दुदरिन्द सेतुबन्ध ऎम्ब हॆसरिनिन्द विख्यातनागि मूरु लोकगळिन्द पूजितवागुवुदु.॥20½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् पवित्रं परमं महापातकनाशनम् ॥ २१ ॥  
 अत्र राक्षसराजोऽयमाजगाम विभीषणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +937,15 @@ this very place, Vibhishana the king of demons first came."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा सा दृश्यते सीते किष्किन्धा चित्रकानना ॥ २२ ॥  
 सुग्रीवस्य पुरी रम्या यत्र वाली मया हतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +979,15 @@ colourful groves, where Vali was killed by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ दृष्ट्वा पुरीं सीता किष्किन्धां वालिपालिताम् ॥ २३ ॥  
 अब्रवीत् प्रश्रितं वाक्यं रामं प्रणयसाध्वसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -951,6 +1022,7 @@ feeling timid through love, then spoke the following courteous words to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -958,6 +1030,8 @@ feeling timid through love, then spoke the following courteous words to Rama.
 अन्येषां वानरेन्द्राणां स्त्रीभिः परिवृता ह्यहम् ।  
 गन्तुमिच्छे सहायोध्यां राजधानीं त्वया सह ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,6 +1079,7 @@ the wives of other monkey-chiefs with Tara and other beloved wives of Sugreeva."
 
 * सीताजीने जो यहाँ वानरोंकी स्त्रियोंको साथ ले चलनेकी इच्छा प्रकट की है, इसके लिये किष्किन्धामें विमानको रोककर सबको एक दिन रुकना पड़ा । ऐसा रामायण-तिलककारका मत है । उनके कथनानुसार आश्विन शुक्ला चतुर्थीको किष्किन्धामें रहकर पञ्चमीको वहाँसे प्रस्थान किया गया था । भगवान् रामने वहाँ रुककर उसी दिन अङ्गदका किष्किन्धाके युवराजपदपर अभिषेक करवाया था, जैसा कि महाभारत, वनपर्व अध्याय २९१ श्लोक ५८-५९ से सूचित होता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1012,6 +1087,8 @@ the wives of other monkey-chiefs with Tara and other beloved wives of Sugreeva."
 एवमस्त्विति किष्किन्धां प्राप्य संस्थाप्य राघवः ॥ २६ ॥  
 विमानं प्रेक्ष्य सुग्रीवं वाक्यमेतदुवाच ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,6 +1133,7 @@ following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1064,6 +1142,8 @@ following words:
 तथा त्वमपि सर्वाभिः स्त्रीभिः सह महाबल ॥ २८ ॥  
 अभित्वरय सुग्रीव गच्छामः प्लवगाधिप ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1129,6 +1209,7 @@ company of their wives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1136,6 +1217,8 @@ company of their wives."
 वानराधिपतिः श्रीमांस्तैश्च सर्वैः समावृतः ।  
 प्रविश्यान्तःपुरं शीघ्रं तारामुद्वीक्ष्य सोऽब्रवीत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,6 +1256,7 @@ follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1181,6 +1265,8 @@ follows:
 त्वर त्वमभिगच्छामो गृह्य वानरयोषितः ।  
 अयोध्यां दर्शयिष्यामः सर्वा दशरथस्त्रियः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,12 +1325,15 @@ company of the wives of the great-souled monkeys, with an intent to gratify Seet
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्य वचः श्रुत्वा तारा सर्वाङ्गशोभना ।  
 आहूय चाब्रवीत् सर्वा वानराणां तु योषितः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1278,6 +1367,7 @@ spouses of the monkeys and spoke to them as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1286,6 +1376,8 @@ spouses of the monkeys and spoke to them as follows:
 प्रवेशं चैव रामस्य पौरजानपदैः सह ।  
 विभूतिं चैव सर्वासां स्त्रीणां दशरथस्य च ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1339,6 +1431,7 @@ kindly act will be done to me too, through the sight of Ayodhya (which is so dea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1346,6 +1439,8 @@ kindly act will be done to me too, through the sight of Ayodhya (which is so dea
 नेपथ्यविधिपूर्वं तु कृत्वा चापि प्रदक्षिणम् ॥ ३६ ॥  
 अध्यारोहन् विमानं तत् सीतादर्शनकाङ्क्षया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1381,12 +1476,15 @@ rule and going round the aerial car clockwise, ascended it with an intent to see
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभिः सहोत्थितं शीघ्रं विमानं प्रेक्ष्य राघवः ॥ ३७ ॥  
 ऋष्यमूकसमीपे तु वैदेहीं पुनरब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1424,12 +1522,15 @@ too, Rama again spoke to Seetha at the vicinity of Mount Rishyamuka (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृश्यतेऽसौ महान् सीते सविद्युदिव तोयदः ॥ ३८ ॥  
 ऋष्यमूको गिरिवरः काञ्चनैर्धातुभिर्वृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1472,12 +1573,15 @@ gold and looking like a cloud with lightning."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राहं वानरेन्द्रेण सुग्रीवेण समागतः ॥ ३९ ॥  
 समयश्च कृतः सीते वधार्थं वालिनो मया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1511,12 +1615,15 @@ made by me for the killing of Vali."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा सा दृश्यते पम्पा नलिनी चित्रकानना ॥ ४० ॥  
 त्वया विहीनो यत्राहं विललाप सुदुःखितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1550,12 +1657,15 @@ where I lamented with great pain, having been separated from you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्यास्तीरे मया दृष्टा शबरी धर्मचारिणी ॥ ४१ ॥  
 अत्र योजनबाहुश्च कबन्धो निहतो मया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,6 +1702,7 @@ Kabandha, having arms, a Yojana (eight miles) long."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1599,6 +1710,8 @@ Kabandha, having arms, a Yojana (eight miles) long."
 जटायुश्च महातेजास्तव हेतोर्विलासिनि ।  
 रावणेन हतो यत्र पक्षिणां प्रवरो बली ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1643,12 +1756,15 @@ Ravana, for your sake, O sporting lady!."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरश्च निहतो यत्र दूषणश्च निपातितः ।  
 त्रिशिराश्च महावीर्यो मया बाणैरजिह्मगैः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1665,6 +1781,7 @@ Ravana, for your sake, O sporting lady!."
 
 नन्न बाणगळिन्द खर-दूषणरु धराशायियादरो, महा पराक्रमि त्रिशरनन्नु कॊन्दुहाकिदॆनो अदे ई स्थानवागिदॆ.॥44॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1672,6 +1789,8 @@ Ravana, for your sake, O sporting lady!."
 पर्णशाला तथा चित्रा दृश्यते शुभदर्शने ॥ ४५ ॥  
 यत्र त्वं राक्षसेन्द्रेण रावणेन हृता बलात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1715,12 +1834,15 @@ charming lady!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा गोदावरी रम्या प्रसन्नसलिला शुभा ॥ ४६ ॥  
 अगस्त्यस्याश्रमश्चैव दृश्यते कदलीवृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1762,6 +1884,7 @@ Citadels, came."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1769,6 +1892,8 @@ Citadels, came."
 दृश्यते चैव वैदेहि शरभङ्गाश्रमो महान् ।  
 उपयातः सहस्राक्षो यत्र शक्रः पुरन्दरः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1817,12 +1942,15 @@ Citadels, came."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् देशे महाकायो विराधो निहतो मया ।  
 एते ते तापसा देवि दृश्यन्ते तनुमध्यमे ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1861,12 +1989,15 @@ hermitage, was equal in splendour to the sun and the fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रिः कुलपतिर्यत्र सूर्यवैश्वानरोपमः ।  
 अत्र सीते त्वया दृष्टा तापसी धर्मचारिणी ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1907,12 +2038,15 @@ you, the virtuous Anasuya, the ascetic lady (the wife of sage, Atri)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असौ सुतनु शैलेन्द्रश्चित्रकूटः प्रकाशते ।  
 अत्र मां कैकयीपुत्रः प्रसादयितुमागतः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1953,12 +2087,15 @@ shining. Bharata came here to seek my favour (in the form of my consent to retur
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा सा यमुना रम्या दृश्यते चित्रकानना ।  
 भरद्वाजाश्रमः श्रीमान् दृश्यते चैष मैथिलि ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1998,12 +2135,15 @@ groves. Here is seen the illustrious hermitage of Sage Bharadwaja."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं च दृश्यते गङ्गा पुण्या त्रिपथगा नदी ।  
 नानाद्विजगणाकीर्णा सम्प्रपुष्पितकानना ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2039,6 +2179,7 @@ and which is lined with trees in full-flowering."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2047,6 +2188,8 @@ and which is lined with trees in full-flowering."
 एषा सा दृश्यते सीते राजधानी पितुर्मम ।  
 अयोध्यां कुरु वैदेहि प्रणामं पुनरागता ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2116,12 +2259,15 @@ to time by Ikshvaku dynasty), bordered with hundreds of trees and with groves in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते वानराः सर्वे राक्षसाः सविभीषणाः ।  
 उत्पत्योत्पत्य संहृष्टास्तां पुरीं ददृशुस्तदा ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2164,6 +2310,7 @@ time, bounding again and again (to have a glimpse of it) saw that City.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2172,6 +2319,8 @@ time, bounding again and again (to have a glimpse of it) saw that City.
 पुरीमपश्यन् प्लवगाः सराक्षसाः  
 पुरीं महेन्द्रस्य यथामरावतीम् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2228,5 +2377,6 @@ Amaravathi, the City of Indra the lord of Celestials.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रयोविंशत्यधिकशततमः सर्गः ॥ १२३ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ तेईसवाँ सर्ग पूरा हुआ ॥ १२३ ॥
+</details>
 </details>
 

@@ -1,6 +1,8 @@
 +++
 title = "१०८ रामेण रावणवधः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ from his chariot to the earth.
 
 108. श्रीरामके द्वारा रावणका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ संस्मारयामास मातली राघवं तदा ।  
 अजानन्निव किं वीर त्वमेनमनुवर्तसे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ him)?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसृजास्मै वधाय त्वमस्त्रं पैतामहं प्रभो ।  
 विनाशकालः कथितो यः सुरैः सोऽद्य वर्तते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,12 +115,15 @@ creation. The time for his destruction has come now, as expressed by the celesti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः संस्मारितो रामस्तेन वाक्येन मातलेः ।  
 जग्राह स शरं दीप्तं निःश्वसन्तमिवोरगम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -129,12 +140,15 @@ creation. The time for his destruction has come now, as expressed by the celesti
 
 मातलिय ई वाक्यदिन्द श्रीरामचन्द्रगॆ आ अस्त्रवु स्मरणॆगॆ बन्तु. मत्तॆ अवनु बुसुगुट्टुव सर्पदन्तह ऒन्दु तेजस्वी बाणवन्नु कैगॆत्तिकॊण्डनु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं तस्मै प्रथमं प्रादादगस्त्यो भगवानृषिः ।  
 ब्रह्मदत्तं महद् बाणममोघं युधि वीर्यवान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -173,12 +187,15 @@ earlier in the battle-field and which looked like a hissing serpent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मणा निर्मितं पूर्वमिन्द्रार्थममितौजसा ।  
 दत्तं सुरपतेः पूर्वं त्रिलोकजयकाङ्क्षिणः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +231,15 @@ of conquering the three worlds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य वाजेषु पवनः फले पावकभास्करौ ।  
 शरीरमाकाशमयं गौरवे मेरुमन्दरौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,6 +279,7 @@ In its heaviness were Mounts Meru and Mandara. Its shaft was made of ether.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,6 +288,8 @@ In its heaviness were Mounts Meru and Mandara. Its shaft was made of ether.
 सधूममिव कालाग्निं दीप्तमाशीविषोपमम् ।  
 नरनागाश्ववृन्दानां भेदनं क्षिप्रकारिणम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,6 +344,7 @@ been made up of the efficacy of all the elements and an illuminating power of th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -331,6 +355,8 @@ been made up of the efficacy of all the elements and an illuminating power of th
 कङ्कगृध्रबकानां च गोमायुगणरक्षसाम् ।  
 नित्यभक्षप्रदं युद्धे यमरूपं भयावहम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,12 +436,15 @@ victims and quoted with their marrow, it presented a very terrific appearance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्दनं वानरेन्द्राणां रक्षसामवसादनम् ।  
 वाजितं विविधैर्वाजैश्चारुचित्रैर्गरुत्मतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,6 +485,7 @@ it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -464,6 +494,8 @@ it.
 अभिमन्त्र्य ततो रामस्तं महेषुं महाबलः ।  
 वेदप्रोक्तेन विधिना सन्दधे कार्मुके बली ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,12 +542,15 @@ the enemies and bestowing joy to one's own self on his bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् सन्धीयमाने तु राघवेण शरोत्तमे ।  
 सर्वभूतानि सन्त्रेसुश्चचाल च वसुन्धरा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +584,15 @@ and the earth trembled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रावणाय सङ्क्रुद्धो भृशमायम्य कार्मुकम् ।  
 चिक्षेप परमायत्तः शरं मर्मविदारणम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +626,15 @@ arrow which can tear off the vitals, towards Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वज्र इव दुर्धर्षो वज्रिबाहुविसर्जितः ।  
 कृतान्त इव चावार्यो न्यपतद् रावणोरसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,12 +668,15 @@ irresistible as Yama the lord of Death, fell upon Ravana's chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विसृष्टो महावेगः शरीरान्तकरः परः ।  
 बिभेद हृदयं तस्य रावणस्य दुरात्मनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,12 +716,15 @@ tore off the heart of that evil-minded Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिराक्तः स वेगेन शरीरान्तकरः शरः ।  
 रावणस्य हरन् प्राणान् विवेश धरणीतलम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -720,12 +767,15 @@ life of Ravana and having been anointed with blood, penetrated the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरो रावणं हत्वा रुधिरार्द्रकृतच्छविः ।  
 कृतकर्मा निभृतवत् स तूणीं पुनराविशत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -768,12 +818,15 @@ that arrow re-entered its own quiver (of Rama) silently.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य हस्ताद्धतस्याशु कार्मुकं तत् ससायकम् ।  
 निपपात सह प्राणैर्भ्रश्यमानस्य जीवितात् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,12 +866,15 @@ bow with its arrows (fitted to it), at the same time coinciding indeed with his 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतासुर्भीमवेगस्तु नैर्ऋतेन्द्रो महाद्युतिः ।  
 पपात स्यन्दनाद् भूमौ वृत्रो वज्रहतो यथा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -860,12 +916,15 @@ like Vritra the demon when the latter was struck down by the thunderbolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा पतितं भूमौ हतशेषा निशाचराः ।  
 हतनाथा भयत्रस्ताः सर्वतः सम्प्रदुद्रुवुः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +959,15 @@ were panic stricken and ran away to all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर्दन्तश्चाभिपेतुस्तान् वानरा द्रुमयोधिनः ।  
 दशग्रीववधं दृष्ट्वा वानरा जितकाशिनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1010,15 @@ killing of Rvana, the monkeys assumed a triumphant appearance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्दिता वानरैर्हृष्टैर्लङ्कामभ्यपतन् भयात् ।  
 हताश्रयत्वात् करुणैर्बाष्पप्रस्रवणैर्मुखैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,12 +1059,15 @@ faces looking miserable and tears flowing down, their supporter having been kill
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विनेदुः संहृष्टा वानरा जितकाशिनः ।  
 वदन्तो राघवजयं रावणस्य च तद्वधम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1034,12 +1102,15 @@ and the killing of Ravana in his hands, the monkeys behaved like conquerors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथान्तरिक्षे व्यनदत् सौम्यस्त्रिदशदुन्दुभिः ।  
 दिव्यगन्धवहस्तत्र मारुतः सुसुखो ववौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,12 +1150,15 @@ winds, carrying divine odour, blew there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपपातान्तरिक्षाच्च पुष्पवृष्टिस्तदा भुवि ।  
 किरन्ती राघवरथं दुरावापा मनोहरा ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,12 +1202,15 @@ difficult to be accomplished (elsewhere), fell from the heavens to the earth on 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्तवसंयुक्ता गगने च विशुश्रुवे ।  
 साधुसाध्विति वागग्र्या देवतानां महात्मनाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,12 +1250,15 @@ combined with a panegyric in praise of Rama, was distinctly heard in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आविवेश महान् हर्षो देवानां चारणैः सह ।  
 रावणे निहते रौद्रे सर्वलोकभयङ्करे ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1218,12 +1298,15 @@ rejoice filled the hearts of gods and charanas the celestial bards.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सकामं सुग्रीवमङ्गदं च विभीषणम् ।  
 चकार राघवः प्रीतो हत्वा राक्षसपुङ्गवम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,6 +1340,7 @@ Sugreeva, Angada and Vibhishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1265,6 +1349,8 @@ Sugreeva, Angada and Vibhishana.
 मही चकम्पे न च मारुतो ववौ  
 स्थिरप्रभश्चाप्यभवद् दिवाकरः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,6 +1389,7 @@ steady light.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1311,6 +1398,8 @@ steady light.
 समेत्य हृष्टा विजयेन राघवं  
 रणेऽभिरामं विधिनाभ्यपूजयन् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1362,6 +1451,7 @@ charming.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1370,6 +1460,8 @@ charming.
 रघुकुलनृपनन्दनो महौजा-  
 स्त्रिदशगणैरभिसंवृतो महेन्द्रः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,5 +1523,6 @@ on the battle-field by his own people and the army shone like Indra the lord of 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर ऎण्टनॆय सर्ग पूर्णवायितु. ॥108॥
+</details>
 </details>
 

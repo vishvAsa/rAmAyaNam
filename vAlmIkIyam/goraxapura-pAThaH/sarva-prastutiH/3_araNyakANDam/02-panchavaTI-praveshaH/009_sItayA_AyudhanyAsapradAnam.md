@@ -2,6 +2,8 @@
 title = "००९ सीतया आयुधन्यासप्रदानम्"
 title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda
@@ -22,12 +24,15 @@ Seetha foresees danger in Rama's decision to eliminate the demons in Dandaka for
 
 9. सीताका श्रीरामसे निरपराध प्राणियोंको न मारने और अहिंसा-धर्मका पालन करनेके लिये अनुरोध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतीक्ष्णेनाभ्यनुज्ञातं प्रस्थितं रघुनन्दनम् ।  
 हृद्यया स्निग्धया वाचा भर्तारमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,12 +83,15 @@ that may disrupt soon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मं तु सुसूक्ष्मेण विधिना प्राप्यते महान् ।  
 निवृत्तेन च शक्योऽयं व्यसनात् कामजादिह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -132,6 +140,7 @@ performed in a different way...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -140,6 +149,8 @@ performed in a different way...'
 परदाराभिगमनं विना वैरं च रौद्रता ।  
 मिथ्यावाक्यं न ते भूतं न भविष्यति राघव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,6 +228,7 @@ acts are defined as:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,6 +239,8 @@ acts are defined as:
 धर्मिष्ठः सत्यसन्धश्च पितुर्निर्देशकारकः ।  
 त्वयि धर्मश्च सत्यं च त्वयि सर्वं प्रतिष्ठितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +305,15 @@ is such a desire in any corner of your heart oh, prince, for you are always inte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च सर्वं महाबाहो शक्यं वोढुं जितेन्द्रियैः ।  
 तव वश्येन्द्रियत्वं च जानामि शुभदर्शन ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +359,15 @@ to me...' so says Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृतीयं यदिदं रौद्रं परप्राणाभिहिंसनम् ।  
 निर्वैरं क्रियते मोहात् तच्च ते समुपस्थितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +407,15 @@ unwarily, has now suddenly chanced before you... [3-9-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिज्ञातस्त्वया वीर दण्डकारण्यवासिनाम् ।  
 ऋषीणां रक्षणार्थाय वधः संयति रक्षसाम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,12 +454,15 @@ that you would eliminate demons in a fight... [3-9-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्निमित्तं च वनं दण्डका इति विश्रुतम् ।  
 प्रस्थितस्त्वं सह भ्रात्रा धृतबाणशरासनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +501,15 @@ and wielding bow and arrows...[3-9-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वां प्रस्थितं दृष्ट्वा मम चिन्ताकुलं मनः ।  
 त्वद‍्धृत्तं चिन्तयन्त्या वै भवेन्निःश्रेयसं हितम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +567,15 @@ the associated troubles which you are going to undergo..."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे रोचते वीर गमनं दण्डकान् प्रति ।  
 कारणं तत्र वक्ष्यामि वदन्त्याः श्रूयतां मम ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +596,15 @@ _________________
 
 ‘वीर! मुझे इस समय आपका दण्डकारण्यमें जाना अच्छा नहीं लगता है । इसका क्या कारण है—यह बता रही हूँ; आप मेरे मुँहसे सुनिये ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं हि बाणधनुष्पाणिर्भ्रात्रा सह वनं गतः ।  
 दृष्ट्वा वनचरान् सर्वान् कच्चित् कुर्याः शरव्ययम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +666,15 @@ and listen to it as I tell...[3-9-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियाणामिह धनुर्हुताशस्येन्धनानि च ।  
 समीपतः स्थितं तेजोबलमुच्छ्रयते भृशम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +717,15 @@ their strength... [3-9-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा किल महाबाहो तपस्वी सत्यवान् शुचिः ।  
 कस्मिंश्चिदभवत् पुण्ये वने रतमृगद्विजे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,12 +767,15 @@ that was wonted by animals and birds... [3-9-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैव तपसो विघ्नं कर्तुमिन्द्रः शचीपतिः ।  
 खड्गपाणिरथागच्छदाश्रमं भटरूपधृक् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +817,15 @@ to that hermit's ascesis... [3-9-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस्तदाश्रमपदे निहितः खड्ग उत्तमः ।  
 स न्यासविधिना दत्तः पुण्ये तपसि तिष्ठतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,12 +867,15 @@ on a redeemable basis... [3-9-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तच्छस्त्रमनुप्राप्य न्यासरक्षणतत्परः ।  
 वने तु विचरत्येव रक्षन् प्रत्ययमात्मनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,12 +915,15 @@ handling the sword, to safeguard the confidence reposed in him... [3-9-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र गच्छत्युपादातुं मूलानि च फलानि च ।  
 न विना याति तं खड्गं न्यासरक्षणतत्परः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +965,15 @@ not go without that sword... [3-9-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यं शस्त्रं परिवहन् क्रमेण स तपोधनः ।  
 चकार रौद्रीं स्वां बुद्धिं त्यक्त्वा तपसि निश्चयम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1006,15 @@ in ascesis... [3-9-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स रौद्राभिरतः प्रमत्तोऽधर्मकर्षितः ।  
 तस्य शस्त्रस्य संवासाज्जगाम नरकं मुनिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,12 +1054,15 @@ by vice he went to hell... [3-9-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतत् पुरावृत्तं शस्त्रसंयोगकारणम् ।  
 अग्निसंयोगवद्धेतुः शस्त्रसंयोग उच्यते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,6 +1102,7 @@ the sequel of constant association with weapon is as good as constant associatio
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1048,6 +1111,8 @@ the sequel of constant association with weapon is as good as constant associatio
 बुद्धिर्वैरं विना हन्तुं राक्षसान् दण्डकाश्रितान् ।  
 अपराधं विना हन्तुं लोको वीर न मंस्यते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1160,15 @@ undesirable is the killing of offenceless... [3-9-24, 25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियाणां तु वीराणां वनेषु नियतात्मनाम् ।  
 धनुषा कार्यमेतावदार्तानामभिरक्षणम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1150,12 +1218,15 @@ next chapter at 3-10-3, Rama retorts with the same expression in answering Seeth
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व च शस्त्रं क्व च वनं क्व च क्षात्रं तपः क्व च ।  
 व्याविद्धमिदमस्माभिर्देशधर्मस्तु पूज्यताम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,12 +1267,15 @@ this is inconsistent... let us esteem the laws of the land... [3-9-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदर्यकलुषा बुद्धिर्जायते शस्त्रसेवनात् ।  
 पुनर्गत्वा त्वयोध्यायां क्षत्रधर्मं चरिष्यसि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1244,12 +1318,15 @@ on going to Ayodhya again... [3-9-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षया तु भवेत् प्रीतिः श्वश्रूश्वशुरयोर्मम ।  
 यदि राज्यं हि सन्न्यस्य भवेस्त्वं निरतो मुनिः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1367,15 @@ devout sage even after forfeiture of kingdom... [3-9-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मादर्थः प्रभवति धर्मात् प्रभवते सुखम् ।  
 धर्मेण लभते सर्वं धर्मसारमिदं जगत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1337,12 +1417,15 @@ achieved, and this universe is the essence of probity... [3-9-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानं नियमैस्तैस्तैः कर्षयित्वा प्रयत्नतः ।  
 प्राप्तये निपुणैर्धर्मो न सुखाल्लभते सुखम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,12 +1468,15 @@ sublimity... unachievable is pleasure by pleasuring alone... [3-9-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यं शुचिमतिः सौम्य चर धर्मं तपोवने ।  
 सर्वं तु विदितं तुभ्यं त्रैलोक्यामपि तत्त्वतः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,6 +1517,7 @@ forests... you know everything in all the three worlds, in all its nuances... [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,6 +1526,8 @@ forests... you know everything in all the three worlds, in all its nuances... [3
 विचार्य बुद्ध्या तु सहानुजेन  
 यद् रोचते तत् कुरु माचिरेण ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1492,5 +1581,6 @@ along with your brother, and what that is appropriate, you do it...but not belat
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऒम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥9॥
+</details>
 </details>
 

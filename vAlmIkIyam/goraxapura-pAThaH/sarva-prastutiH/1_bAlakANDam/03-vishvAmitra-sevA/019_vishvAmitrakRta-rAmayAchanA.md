@@ -2,6 +2,8 @@
 title = "०१९ विश्वामित्रकृत-रामयाचना"
 title_english = "019 Sage vishvamitra s arrival to take rAma along with him to guard ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -28,12 +30,15 @@ Sage Vishvamitra asks King Dasharatha to send Rama to protect the Vedic ritual
 
 एकोनविंशे —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राजसिंहस्य वाक्यमद्भुतविस्तरम् ।  
 हृष्टरोमा महातेजा विश्वामित्रोऽभ्यभाषत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशं राजशार्दूल तवैव भुवि नान्यतः ।  
 महावंशप्रसूतस्य वसिष्ठव्यपदेशिनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु मे हृद‍्गतं वाक्यं तस्य कार्यस्य निश्चयम् ।  
 कुरुष्व राजशार्दूल भव सत्यप्रतिश्रवः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -179,12 +190,15 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 इत्य् उक्तवान् । अनेन नियम-निष्ठेन स्वकर्म-विरोध-परिहारार्थम् अपि कोपो न कर्तव्य इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं नियममातिष्ठे सिद्ध्यर्थं पुरुषर्षभ ।  
 तस्य विघ्नकरौ द्वौ तु राक्षसौ कामरूपिणौ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +234,15 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रते तु बहुशश्चीर्णे समाप्त्यां राक्षसाविमौ ।  
 मारीचश्च सुबाहुश्च वीर्यवन्तौ सुशिक्षितौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,6 +287,7 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,6 +295,8 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 अवधूते तथाभूते तस्मिन् नियमनिश्चये ॥ ६ ॥  
 कृतश्रमो निरुत्साहस्तस्माद् देशादपाक्रमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,11 +335,14 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च मे क्रोधमुत्स्रष्टुं बुद्धिर्भवति पार्थिव ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,6 +383,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,6 +391,8 @@ _________________
 स्वपुत्रं राजशार्दूल रामं सत्यपराक्रमम् ॥ ८ ॥  
 काकपक्षधरं वीरं ज्येष्ठं मे दातुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,6 +443,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -424,6 +451,8 @@ _________________
 राक्षसा ये विकर्तारस्तेषामपि विनाशने ।  
 श्रेयश्चास्मै प्रदास्यामि बहुरूपं न संशयः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +511,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणामपि लोकानां येन ख्यातिं गमिष्यति ।  
 न च तौ राममासाद्य शक्तो स्थातुं कथञ्चन ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,6 +569,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -544,6 +577,8 @@ _________________
 वीर्योत्सिक्तौ हि तौ पापौ कालपाशवशं गतौ ॥ १२ ॥  
 रामस्य राजशार्दूल न पर्याप्तौ महात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +614,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पुत्रगतं स्नेहं कर्तुमर्हसि पार्थिव ॥ १३ ॥  
 अहं ते प्रतिजानामि हतौ तौ विद्धि राक्षसौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -618,12 +656,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं वेद्मि महात्मानं रामं सत्यपराक्रमम् ॥ १४ ॥  
 वसिष्ठोऽपि महातेजा ये चेमे तपसि स्थिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +764,15 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि ते धर्मलाभं तु यशश्च परमं भुवि ॥ १५ ॥  
 स्थिरमिच्छसि राजेन्द्र रामं मे दातुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +811,15 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 इत्य्-अनेन कल्प-स्थायि-यशो-लाभाय अति-बालः परम-प्रेम-आस्पदं ज्येष्ठ-पुत्रो ऽपि देय इति विश्वामित्र-वचनेन अन्येनापि तादृश-फलार्थिना परम-प्रेमास्पदम् अपि वस्तु सत्पात्रे देयम् इति सूचितम् । ततः,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यभ्यनुज्ञां काकुत्स्थ ददते तव मन्त्रिणः ॥ १६ ॥  
 वसिष्ठप्रमुखाः सर्वे ततो रामं विसर्जय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +859,15 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 अनेन राज्ञा मन्त्रि-पुरोहिताभ्यनुज्ञातेनैव कार्यं कर्तव्यम् इति सूचितम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिप्रेतमसंसक्तमात्मजं दातुमर्हसि ॥ १७ ॥  
 दशरात्रं हि यज्ञस्य रामं राजीवलोचनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -852,12 +902,15 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नात्येति कालो यज्ञस्य यथायं मम राघव ॥ १८ ॥  
 तथा कुरुष्व भद्रं ते मा च शोके मनः कृथाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +946,15 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा धर्मात्मा धर्मार्थसहितं वचः ॥ १९ ॥  
 विरराम महातेजा विश्वामित्रो महामतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +989,15 @@ On saying those words that comprise fairness and meaningfulness that virtue-soul
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तन्निशम्य राजेन्द्रो विश्वामित्रवचः शुभम् ॥ २० ॥  
 शोकेन महताविष्टश्चचाल च मुमोह च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -955,6 +1014,7 @@ On saying those words that comprise fairness and meaningfulness that virtue-soul
 
 विश्वामित्रर ई शुभ वचनवन्नु केळि महाराजा दशरथनिगॆ पुत्रवियोगद आशङ्कॆयिन्द महा दुःखवायितु. अवनु अदरिन्द पीडितनागि नडुगुत्ता निश्चेष्टितनादनु.॥20½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,6 +1024,8 @@ On saying those words that comprise fairness and meaningfulness that virtue-soul
 नरपतिरभवन्महान् महात्मा  
 व्यथितमनाः प्रचचाल चासनात् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,5 +1101,6 @@ On hearing the propitious words of sage Vishvamitra that best king Dasharatha
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥19॥
+</details>
 </details>
 

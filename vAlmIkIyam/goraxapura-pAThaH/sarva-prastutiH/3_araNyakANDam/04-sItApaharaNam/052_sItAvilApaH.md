@@ -2,6 +2,8 @@
 title = "०५२ सीताविलापः"
 title_english = "052 The combat of Jataayu and Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ poetic niceties, and hence more stuffing in introduction is unbefitting.
 
 52. रावणद्वारा सीताका अपहरण
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु ताराधिपमुखी रावणेन निरीक्ष्य तम् ।  
 गृध्रराजं विनिहतं विललाप सुदुःखिता ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ thereby giving some time to Seetha to recollect what has happened.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमित्तं लक्षणं स्वप्नं शकुनिस्वरदर्शनम् ।  
 अवश्यं सुखदुःखेषु नराणां परिदृश्यते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ is happening to me and thus why not come to my rescue?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनं राम जानासि महद्‍व्यसनमात्मनः ।  
 धावन्ति नूनं काकुत्स्थ मदर्थं मृगपक्षिणः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +192,15 @@ these animals, presuming that they are pestering you...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि कृपया राम मां त्रातुमिह सङ्गतः ।  
 शेते विनिहतो भूमौ ममाभाग्याद् विहङ्गमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +247,15 @@ ill luck is holding sway, it is for you, and you alone, oh, Rama, to come for my
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्राहि मामद्य काकुत्स्थ लक्ष्मणेति वराङ्गना ।  
 सुसन्त्रस्ता समाक्रन्दच्छृण्वतां तु यथान्तिके ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +308,15 @@ of a parrot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां क्लिष्टमाल्याभरणां विलपन्तीमनाथवत् ।  
 अभ्यधावत वैदेहीं रावणो राक्षसाधिपः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,12 +356,15 @@ and who is bawling like an orphanized one. [3-52-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां लतामिव वेष्टन्तीमालिङ्गन्तीं महाद्रुमान् ।  
 मुञ्च मुञ्चेति बहुशः प्राप तां राक्षसाधिपः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -361,6 +384,7 @@ _________________
 
 अवळु हब्बिद लतॆयन्तॆ दॊड्ड-दॊड्ड मरगळन्नु अप्पिकॊळ्ळुत्तिद्दळु मत्तु ‘नन्नन्नु सङ्कटदिन्द पारु माडिरि, बिडिसिरि’ ऎन्दु पदे पदे हेळुत्तिरुवागले रावणनु आकॆय बळिगॆ बन्दनु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -369,6 +393,8 @@ _________________
 प्रधर्षितायां वैदेह्यां बभूव सचराचरम् ।  
 जगत् सर्वममर्यादं तमसान्धेन संवृतम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,6 +458,7 @@ capture is viewed on a human plane, rather than a conjuror's trick.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -439,6 +466,8 @@ capture is viewed on a human plane, rather than a conjuror's trick.
 दृष्ट्वा सीतां परामृष्टां देवो दिव्येन चक्षुषा ॥ १० ॥  
 कृतं कार्यमिति श्रीमान् व्याजहार पितामहः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,6 +509,7 @@ darkness. Sun is gloomy, wind is gloomy, and the entire nature is in oblivion of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -487,6 +517,8 @@ darkness. Sun is gloomy, wind is gloomy, and the entire nature is in oblivion of
 दृष्ट्वा सीतां परामृष्टां दण्डकारण्यवासिनः ।  
 रावणस्य विनाशं च प्राप्तं बुद्‍ध्वा यदृच्छया ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +592,15 @@ beings in Dandaka forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तां राम रामेति रुदतीं लक्ष्मणेति च ।  
 जगामादाय चाकाशं रावणो राक्षसेश्वरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +643,15 @@ took flight skyward. [3-52-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्ताभरणवर्णाङ्गी पीतकौशेयवासिनी ।  
 रराज राजपुत्री तु विद्युत्सौदामनी यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,12 +701,15 @@ alone will electrocute that cloud, called Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद‍्धूतेन च वस्त्रेण तस्याः पीतेन रावणः ।  
 अधिकं परिबभ्राज गिरिर्दीप्त इवाग्निना ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -721,12 +762,15 @@ a mountain with a self-ruinous fire, overly and muchly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः परमकल्याण्यास्ताम्राणि सुरभीणि च ।  
 पद्मपत्राणि वैदेह्या अभ्यकीर्यन्त रावणम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +822,15 @@ the middle foot, that also says the same.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः कौशेयमुद‍्धूतमाकाशे कनकप्रभम् ।  
 बभौ चादित्यरागेण ताम्रमभ्रमिवातपे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,12 +875,15 @@ it is a bad omen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् विमलं वक्त्रमाकाशे रावणाङ्कगम् ।  
 न रराज विना रामं विनालमिव पङ्कजम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,6 +930,7 @@ devoid of him, she is lost to the world for a glimpse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -888,6 +939,8 @@ devoid of him, she is lost to the world for a glimpse.
 शुक्लैः सुविमलैर्दन्तैः प्रभावद्भिरलङ्कृतम् ।  
 तस्याः सुनयनं वक्त्रमाकाशे रावणाङ्कगम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,6 +959,7 @@ devoid of him, she is lost to the world for a glimpse.
 
 सुन्दर ललाट मत्तु मनोहर केशयुक्त, कमलद ऒळभागदन्तॆ कान्तियुळ्ळ, यावुदे कलॆगळिल्लद, बिळिय निर्मलवागि हॊळॆयुव दन्तपङ्क्तियिन्द अलङ्कृत, सुन्दर नेत्रगळिन्द सुशोभित आकाशदल्लि रावणन अधीनदल्लिद्द सीतॆय मुखवु कप्पाद मोडगळन्नु भेदिसि उदयिसिद चन्द्रनन्तॆ कण्डुबरुत्तित्तु.॥19-20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -914,6 +968,8 @@ devoid of him, she is lost to the world for a glimpse.
 राक्षसेन्द्रसमाधूतं तस्यास्तद् वदनं शुभम् ।  
 शुशुभे न विना रामं दिवा चन्द्र इवोदितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1046,15 @@ such an immaculate face of Seetha turned like a palish moon that has just risen 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हेमवर्णा नीलाङ्गं मैथिली राक्षसाधिपम् ।  
 शुशुभे काञ्चनी काञ्ची नीलं गजमिवाश्रिता ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1115,15 @@ concerned...' it is said so.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा पद्मपीता हेमाभा रावणं जनकात्मजा ।  
 विद्युद् घनमिवाविश्य शुशुभे तप्तभूषणा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,12 +1174,15 @@ silvery lightning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या भूषणघोषेण वैदेह्या राक्षसेश्वरः ।  
 बभूव विमलो नीलः सघोष इव तोयदः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,12 +1227,15 @@ and short. So also, this Ravana may appear like a thunderous cloud as of now, bu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तमाङ्गच्युता तस्याः पुष्पवृष्टिः समन्ततः ।  
 सीताया ह्रियमाणायाः पपात धरणीतले ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1210,12 +1278,15 @@ the surface of earth like showers of flowers while she is being abducted. [3-52-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु रावणवेगेन पुष्पवृष्टिः समन्ततः ।  
 समाधूता दशग्रीवं पुनरेवाभ्यवर्तत ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1268,12 +1339,15 @@ idol in a temple, becoming worthy to wear on heads of devotees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्यवर्तत पुष्पाणां धारा वैश्रवणानुजम् ।  
 नक्षत्रमाला विमला मेरुं नगमिवोन्नतम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1313,12 +1387,15 @@ by Ravana's speed and thus it is recurrent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरणान्नूपुरं भ्रष्टं वैदेह्या रत्नभूषितम् ।  
 विद्युन्मण्डलसङ्काशं पपात धरणीतले ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1359,12 +1436,15 @@ and descended onto earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुप्रवालरक्ता सा नीलाङ्गं राक्षसेश्वरम् ।  
 प्रशोभयत वैदेही गजं कक्ष्येव काञ्चनी ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1416,12 +1496,15 @@ Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां महोल्कामिवाकाशे दीप्यमानां स्वतेजसा ।  
 जहाराकाशमाविश्य सीतां वैश्रवणानुजः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1472,12 +1555,15 @@ but indirectly through Hanuma, in Sundara Kanda, as a coincidence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तान्यग्निवर्णानि भूषणानि महीतले ।  
 सघोषाण्यवशीर्यन्त क्षीणास्तारा इवाम्बरात् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1520,12 +1606,15 @@ are strewn about on the plane of earth with much clatter like the stars pelted d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः स्तनान्तराद् भ्रष्टो हारस्ताराधिपद्युतिः ।  
 वैदेह्या निपतन् भाति गङ्गेव गगनच्युता ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1580,12 +1669,15 @@ and fell from mountainous heights.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पातवाताभिरता नानाद्विजगणायुताः ।  
 मा भैरिति विधूताग्रा व्याजह्रुरिव पादपाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1638,12 +1730,15 @@ Nature itself is assuring Seetha to not to fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नलिन्यो ध्वस्तकमलास्त्रस्तमीनजलेचराः ।  
 सखीमिव गतोत्साहां शोचन्तीव स्म मैथिलीम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1691,12 +1786,15 @@ is beleaguered, and thus they are sorrowing for such a selfsame Maithili. [3-52-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समन्तादभिसम्पत्य सिंहव्याघ्रमृगद्विजाः ।  
 अन्वधावंस्तदा रोषात् सीताच्छायानुगामिनः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1745,12 +1843,15 @@ Animal Rights Activists.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलप्रपातास्रमुखाः शृङ्गैरुच्छ्रितबाहुभिः ।  
 सीतायां ह्रियमाणायां विक्रोशन्तीव पर्वताः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1801,12 +1902,15 @@ out their caves, which in normal situations will be like the booming voicing of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रियमाणां तु वैदेहीं दृष्ट्वा दीनो दिवाकरः ।  
 प्रविध्वस्तप्रभः श्रीमानासीत् पाण्डुरमण्डलः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1847,6 +1951,7 @@ is his sunshine, palely whitened is his sun-disc, and faintly deadened is his so
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1855,6 +1960,8 @@ is his sunshine, palely whitened is his sun-disc, and faintly deadened is his so
 इति भूतानि सर्वाणि गणशः पर्यदेवयन् ।  
 वित्रस्तका दीनमुखा रुरुदुर्मृगपोतकाः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1933,6 +2040,7 @@ regretted. [3-52-39, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1940,6 +2048,8 @@ regretted. [3-52-39, 40a]
 सुप्रवेपितगात्राश्च बभूवुर्वनदेवताः ॥ ४१ ॥  
 विक्रोशन्तीं दृढं सीतां दृष्ट्वा दुःखं तथा गताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1985,6 +2095,7 @@ worst way. [3-52-41b, 42a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1993,6 +2104,8 @@ worst way. [3-52-41b, 42a]
 स तामाकुलकेशान्तां विप्रमृष्टविशेषकाम् ।  
 जहारात्मविनाशाय दशग्रीवो मनस्विनीम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2047,6 +2160,7 @@ husband-devout, Vaidehi, only for his self-ruination. [3-52-42a, 43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2055,6 +2169,8 @@ husband-devout, Vaidehi, only for his self-ruination. [3-52-42a, 43]
 अपश्यती राघवलक्ष्मणावुभौ  
 विवर्णवक्त्रा भयभारपीडिता ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2113,5 +2229,6 @@ or both are unseen by her, and thus her face is paled for she is chastened by th
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥52॥
+</details>
 </details>
 

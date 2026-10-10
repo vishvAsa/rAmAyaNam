@@ -2,6 +2,8 @@
 title = "०२० सीता-रावणसंवादः"
 title_english = "020 Ravana talks to Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -19,12 +21,15 @@ In this chapter Ravana entices Seetha with wealth, gems, sovereignty over all wi
 
 20. रावणका सीताजीको प्रलोभन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां परिवृतां दीनां निरानन्दां तपस्विनीम् ।  
 साकारैर्मधुरैर्वाक्यैर्न्यदर्शयत रावणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ happiness and pitiable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां दृष्ट्वा नागनासोरु गूहमाना स्तनोदरम् ।  
 अदर्शनमिवात्मानं भयान्नेतुं त्वमिच्छसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,12 +114,15 @@ you desire obtaining disappearance of self due to fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामये त्वां विशालाक्षि बहु मन्यस्व मां प्रिये ।  
 सर्वाङ्गगुणसम्पन्ने सर्वलोकमनोहरे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,12 +155,15 @@ O lovable one! respect me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेह किञ्चिन्मनुष्या वा राक्षसाः कामरूपिणः ।  
 व्यपसर्पतु ते सीते भयं मत्तः समुत्थितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +200,15 @@ due to me be removed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वधर्मो रक्षसां भीरु सर्वदैव न संशयः ।  
 गमनं वा परस्त्रीणां हरणं सम्प्रमथ्य वा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,12 +245,15 @@ for ogres by all means. There is no doubt in this."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं चैवमकामां त्वां न च स्प्रक्ष्यामि मैथिलि ।  
 कामं कामः शरीरे मे यथाकामं प्रवर्तताम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +297,15 @@ I will not touch you without lust."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवि नेह भयं कार्यं मयि विश्वसिहि प्रिये ।  
 प्रणयस्व च तत्त्वेन मैवं भूः शोकलालसा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +345,15 @@ with love. Do not become absorbed in sorrow like this."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकवेणी अधःशय्या ध्यानं मलिनमम्बरम् ।  
 अस्थानेऽप्युपवासश्च नैतान्यौपयिकानि ते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,6 +389,7 @@ are not useful to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +398,8 @@ are not useful to you."
 महार्हाणि च पानानि शयनान्यासनानि च ।  
 गीतं नृत्यं च वाद्यं च लभ मां प्राप्य मैथिलि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ and best ornaments, the best drinks, beds and seats, song and dance and musical 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीरत्नमसि मैवं भूः कुरु गात्रेषु भूषणम् ।  
 मां प्राप्य हि कथं वा स्यास्त्वमनर्हा सुविग्रहे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +495,15 @@ body! Getting me how will you become unsuited for luxuries?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं ते चारु सञ्जातं यौवनं ह्यतिवर्तते ।  
 यदतीतं पुनर्नैति स्रोतः स्रोतस्विनामिव ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -511,12 +546,15 @@ not come back again like the flow of water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां कृत्वोपरतो मन्ये रूपकर्ता स विश्वकृत् ।  
 नहि रूपोपमा ह्यन्या तवास्ति शुभदर्शने ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +598,15 @@ has made you and stopped - I think thus. There is not another who is equal to yo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां समासाद्य वैदेहि रूपयौवनशालिनीम् ।  
 कः पुनर्नातिवर्तेत साक्षादपि पितामहः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +648,15 @@ will disregard (leave) you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् यत् पश्यामि ते गात्रं शीतांशुसदृशानने ।  
 तस्मिंस्तस्मिन् पृथुश्रोणि चक्षुर्मम निबध्यते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +697,15 @@ getting tied in that that limb."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भव मैथिलि भार्या मे मोहमेतं विसर्जय ।  
 बह्वीनामुत्तमस्त्रीणां ममाग्रमहिषी भव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +750,15 @@ there, become foremost consort. Let there be auspicious to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकेभ्यो यानि रत्नानि सम्प्रमथ्याहृतानि मे ।  
 तानि ते भीरु सर्वाणि राज्यं चैव ददामि ते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +802,15 @@ myself belong to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विजित्य पृथिवीं सर्वां नानानगरमालिनीम् ।  
 जनकाय प्रदास्यामि तव हेतोर्विलासिनि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +843,15 @@ I can give to king Janaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेह पश्यामि लोकेऽन्यं यो मे प्रतिबलो भवेत् ।  
 पश्य मे सुमहद्वीर्यमप्रतिद्वन्द्वमाहवे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +883,15 @@ I can give to king Janaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असकृत् संयुगे भग्ना मया विमृदितध्वजाः ।  
 अशक्ताः प्रत्यनीकेषु स्थातुं मम सुरासुराः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,12 +925,15 @@ an army against me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच्छ मां क्रियतामद्य प्रतिकर्म तवोत्तमम् ।  
 सुप्रभाण्यवसज्जन्तां तवाङ्गे भूषणानि हि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +948,15 @@ _________________
 
 ‘तुम मुझे स्वीकार करो । आज तुम्हारा उत्तम शृंगार किया जाय और तुम्हारे अंगोंमें चमकीले आभूषण पहनाये जायँ ॥ २१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु पश्यामि ते रूपं सुयुक्तं प्रतिकर्मणा ।  
 प्रतिकर्माभिसंयुक्ता दाक्षिण्येन वरानने ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +976,15 @@ _________________
 
 * यहाँ भविष्यका वर्तमानकी भाँति वर्णन होनेसे ‘भाविक’ अलंकार समझना चाहिये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुङ्क्ष्व भोगान् यथाकामं पिब भीरु रमस्व च ।  
 यथेष्टं च प्रयच्छ त्वं पृथिवीं वा धनानि च ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -973,12 +1041,15 @@ be fit. I will see well your form together with decoration."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ललस्व मयि विस्रब्धा धृष्टमाज्ञापयस्व च ।  
 मत्प्रासादाल्ललन्त्याश्च ललतां बान्धवस्तव ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1091,15 @@ Fearlessly order also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋद्धिं ममानुपश्य त्वं श्रियं भद्रे यशस्विनि ।  
 किं करिष्यसि रामेण सुभगे चीरवासिना ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1142,15 @@ wealth and my fame."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निक्षिप्तविजयो रामो गतश्रीर्वनगोचरः ।  
 व्रती स्थण्डिलशायी च शङ्के जीवति वा न वा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,12 +1192,15 @@ fortune. Roaming in forests, observing austerities and also sleeping on floor, I
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि वैदेहि रामस्त्वां द्रष्टुं वाप्युपलभ्यते ।  
 पुरोबलाकैरसितैर्मेघैर्ज्योत्स्नामिवावृताम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1164,12 +1244,15 @@ clous with cranes at the front."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चापि मम हस्तात् त्वां प्राप्तुमर्हति राघवः ।  
 हिरण्यकशिपुः कीर्तिमिन्द्रहस्तगतामिव ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,12 +1284,15 @@ clous with cranes at the front."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारुस्मिते चारुदति चारुनेत्रे विलासिनि ।  
 मनो हरसि मे भीरु सुपर्णः पन्नगं यथा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1247,12 +1333,15 @@ one! O timid one! You are stealing my heart like a serpent stolen by Garuda.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्लिष्टकौशेयवसनां तन्वीमप्यनलङ्कृताम् ।  
 त्वां दृष्ट्वा स्वेषु दारेषु रतिं नोपलभाम्यहम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1286,12 +1375,15 @@ seeing you I am not getting happiness in my wives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुरनिवासिन्यः स्त्रियः सर्वगुणान्विताः ।  
 यावत्यो मम सर्वासामैश्वर्यं कुरु जानकि ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1331,12 +1423,15 @@ of them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम ह्यसितकेशान्ते त्रैलोक्यप्रवरस्त्रियः ।  
 तास्त्वां परिचरिष्यन्ति श्रियमप्सरसो यथा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1372,12 +1467,15 @@ serve you like the goddess of wealth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि वैश्रवणे सुभ्रु रत्नानि च धनानि च ।  
 तानि लोकांश्च सुश्रोणि मया भुङ्क्ष्व यथासुखम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1421,12 +1519,15 @@ gems and wealth belonging to Kubera, all those three worlds and me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न रामस्तपसा देवि न बलेन च विक्रमैः ।  
 न धनेन मया तुल्यस्तेजसा यशसापि वा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1469,6 +1570,7 @@ equal by wealth, by brilliance and by fame."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1477,6 +1579,8 @@ equal by wealth, by brilliance and by fame."
 मयि लल ललने यथासुखं त्वं  
 त्वयि च समेत्य ललन्तु बान्धवास्ते ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1522,6 +1626,7 @@ Sport according to comfort in me. Your relatives may sport together in you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1530,6 +1635,8 @@ Sport according to comfort in me. Your relatives may sport together in you."
 कनकविमलहारभूषिताङ्गी  
 विहर मया सह भीरु काननानि ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1580,5 +1687,6 @@ at sea shore filled with groups of flowered trees and with humble bees."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

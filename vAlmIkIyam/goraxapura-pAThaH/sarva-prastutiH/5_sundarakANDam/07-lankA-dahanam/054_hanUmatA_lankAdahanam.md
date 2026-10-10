@@ -2,6 +2,8 @@
 title = "०५४ हनूमता लङ्कादहनम्"
 title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -23,12 +25,15 @@ the celestials and musicians (Gandharvas) gain a great delight.
 
 54. लङ्कापुरीका दहन और राक्षसोंका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षमाणस्ततो लङ्कां कपिः कृतमनोरथः ।  
 वर्धमानसमुत्साहः कार्यशेषमचिन्तयत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ remaining act to be done, with an augmented energy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु खल्ववशिष्टं मे कर्तव्यमिह साम्प्रतम् ।  
 यदेषां रक्षसां भूयः सन्तापजननं भवेत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ to these demons?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं तावत्प्रमथितं प्रकृष्टा राक्षसा हताः ।  
 बलैकदेशः क्षपितः शेषं दुर्गविनाशनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ of the army. The demolition of the fort is still remaining."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्गे विनाशिते कर्म भवेत् सुखपरिश्रमम् ।  
 अल्पयत्नेन कार्येऽस्मिन् मम स्यात् सफलः श्रमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ Even with a small effort in this task, the work will become fruitful."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो ह्ययं मम लाङ्गूले दीप्यते हव्यवाहनः ।  
 अस्य सन्तर्पणं न्याय्यं कर्तुमेभिर्गृहोत्तमैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ with these excellent houses (in the city of Lanka)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रदीप्तलाङ्गूलः सविद्युदिव तोयदः ।  
 भवनाग्रेषु लङ्काया विचचार महाकपिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +312,15 @@ charged with lightning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहाद् गृहं राक्षसानामुद्यानानि च वानरः ।  
 वीक्षमाणो ह्यसन्त्रस्तः प्रासादांश्च चचार सः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,6 +354,7 @@ from one house to another, of the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -339,6 +363,8 @@ from one house to another, of the demons.
 ततोऽन्यत् पुप्लुवे वेश्म महापार्श्वस्य वीर्यवान् ।  
 मुमोच हनुमानग्निं कालानलशिखोपमम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,12 +424,15 @@ fire that is to destroy the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रदंष्ट्रस्य च तथा पुप्लुवे स महाकपिः ।  
 शुकस्य च महातेजाः सारणस्य च धीमतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ fire that is to destroy the world.
 
 तत्पश्चात् वे महातेजस्वी महाकपि क्रमशः वज्रदंष्ट्र, शुक और बुद्धिमान् सारणके घरोंपर कूदे और उनमें आग लगाकर आगे बढ़ गये ॥ १० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चेन्द्रजितो वेश्म ददाह हरियूथपः ।  
 जम्बुमालेः सुमालेश्च ददाह भवनं ततः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,6 +492,7 @@ Sarana, the intelligent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -472,6 +505,8 @@ Sarana, the intelligent.
 नरान्तकस्य कुम्भस्य निकुम्भस्य दुरात्मनः ।  
 यज्ञशत्रोश्च भवनं ब्रह्मशत्रोस्तथैव च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +524,15 @@ Sarana, the intelligent.
 
 तदनन्तर रश्मिकेतु, सूर्यशत्रु, ह्रस्वकर्ण, दंष्ट्र, राक्षसरोमश, रणोन्मत्त मत्त, ध्वजग्रीव, भयानक विद्युज्जिह्व, हस्तिमुख, कराल, विशाल, शोणिताक्ष, कुम्भकर्ण, मकराक्ष, नरान्तक, कुम्भ, दुरात्मा निकुम्भ, यज्ञशत्रु और ब्रह्मशत्रु आदि राक्षसोंके घरोंमें जा-जाकर उन्होंने आग लगायी ॥ १२—१५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्जयित्वा महातेजा विभीषणगृहं प्रति ।  
 क्रममाणः क्रमेणैव ददाह हरिपुङ्गवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +577,15 @@ Yajnashatru, Brahmashatru, Narantaka, Kumbha as also the evil-minded Nikumbha an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु तेषु महार्हेषु भवनेषु महायशाः ।  
 गृहेष्वृद्धिमतामृद्धिं ददाह कपिकुञ्जरः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +620,15 @@ That Hanuma of great fame burnt away wealth in the mansions of the rich.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषां समतिक्रम्य राक्षसेन्द्रस्य वीर्यवान् ।  
 आससादाथ लक्ष्मीवान् रावणस्य निवेशनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -618,6 +662,7 @@ the house of Ravana the king of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -626,6 +671,8 @@ the house of Ravana the king of demons.
 प्रदीप्तमग्निमुत्सृज्य लाङ्गूलाग्रे प्रतिष्ठितम् ।  
 ननाद हनुमान् वीरो युगान्तजलदो यथा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +725,15 @@ with all good work, the valiant Hanuma roared like a cloud thundering at noon-ti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वसनेन च संयोगादतिवेगो महाबलः ।  
 कालाग्निरिव जज्वाल प्रावर्धत हुताशनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +776,7 @@ like a fire that is to destroy the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -734,6 +785,8 @@ like a fire that is to destroy the world.
 भवनानि व्यशीर्यन्त रत्नवन्ति महान्ति च ।  
 तानि भग्नविमानानि निपेतुर्वसुधातले ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,6 +857,7 @@ fire became very swift.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -811,6 +865,8 @@ fire became very swift.
 सञ्जज्ञे तुमुलः शब्दो राक्षसानां प्रधावताम् ॥ २४ ॥  
 स्वे स्वे गृहपरित्राणे भग्नोत्साहोज्झितश्रियाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +911,15 @@ in a form of this monkey!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनमेषोऽग्निरायातः कपिरूपेण हा इति ॥ २५ ॥  
 क्रन्दन्त्यः सहसा पेतुः स्तनन्धयधराः स्त्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,12 +939,15 @@ _________________
 
 स्वगृहगळन्नु रक्षिसिकॊळ्ळलु परदाडुत्तिद्दवरू, उत्साह, बल, सम्पत्तन्नु कळकॊण्डवराद राक्षसरु - अय्यो! ऎन्दु विकारवागि कूगुत्ता ओडुत्तिद्दरु.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काश्चिदग्निपरीताङ्ग्यो हर्म्येभ्यो मुक्तमूर्धजाः ॥ २६ ॥  
 पतन्त्योरेजिरेऽभ्रेभ्यः सौदामन्य इवाम्बरात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,12 +987,15 @@ clouds in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रविद्रुमवैदूर्यमुक्तारजतसंहतान् ॥ २७ ॥  
 विचित्रान् भवनाद्धातून् स्यन्दमानान् ददर्श सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -973,6 +1038,7 @@ silver, surging from every marvellous house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -980,6 +1046,8 @@ silver, surging from every marvellous house.
 हनूमान् राक्षसेन्द्राणां वधे किञ्चिन्न तृप्यति ।  
 न हनूमद्विशस्तानां राक्षसानां वसुन्धरा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1122,15 @@ of demons killed by Hanuma (in her lap).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमता वेगवता वानरेण महात्मना ।  
 लङ्कापुरं प्रदग्धं तद् रुद्रेण त्रिपुरं यथा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,6 +1166,7 @@ the city of Tripura.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1103,6 +1175,8 @@ the city of Tripura.
 प्रसार्य चूडावलयं प्रदीप्तो  
 हनूमता वेगवतोपसृष्टः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1150,6 +1224,7 @@ a circle of flames, blazed and rose up to the summit of the mountain on which th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1158,6 +1233,8 @@ a circle of flames, blazed and rose up to the summit of the mountain on which th
 विधूमरश्मिर्भवनेषु सक्तो  
 रक्षःशरीराज्यसमर्पितार्चिः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,6 +1283,7 @@ splendour. Those flames of fire shot up, as inflamed by ghee
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1214,6 +1292,8 @@ splendour. Those flames of fire shot up, as inflamed by ghee
 शब्दैरनेकैरशनिप्ररूढै-  
 र्भिन्दन्निवाण्डं प्रबभौ महाग्निः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,6 +1320,7 @@ _________________
 
 समूची लङ्कापुरीको अपनी लपटोंमें लपेटकर फैली हुई वह प्रचण्ड आग करोड़ों सूर्योंके समान प्रज्वलित हो रही थी । मकानों और पर्वतोंके फटने आदिसे होनेवाले नाना प्रकारके धड़ाकोंके शब्द बिजलीकी कड़कको भी मात करते थे, उस समय वह विशाल अग्नि ब्रह्माण्डको फोड़ती हुई-सी प्रकाशित हो रही थी ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1248,6 +1329,8 @@ _________________
 निर्वाणधूमाकुलराजयश्च  
 नीलोत्पलाभाः प्रचकाशिरेऽभ्राः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1293,6 +1376,7 @@ of the extinguished fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1313,6 +1397,8 @@ of the extinguished fire.
 सप्राणिसङ्घां सगृहां सवृक्षां  
 दग्धां पुरीं तां सहसा समीक्ष्य ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1438,6 +1524,7 @@ of a wide-spread thunderbolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1446,6 +1533,8 @@ of a wide-spread thunderbolt.
 सपक्षिसङ्घा समृगा सवृक्षा  
 रुरोद दीना तुमुलं सशब्दम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1504,6 +1593,7 @@ has arrived here in the guise of a monkey, playing the role of a destroyer of de
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1512,6 +1602,8 @@ has arrived here in the guise of a monkey, playing the role of a destroyer of de
 रक्षोभिरेवं बहुधा ब्रुवद्भिः  
 शब्दः कृतो घोरतरः सुभीमः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1563,6 +1655,7 @@ with enjoyments!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1571,6 +1664,8 @@ with enjoyments!"
 हनूमतः क्रोधबलाभिभूता  
 बभूव शापोपहतेव लङ्का ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1619,6 +1714,7 @@ enveloped by flames of fire, with its distinguished heroes killed and with its w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1627,6 +1723,8 @@ enveloped by flames of fire, with its distinguished heroes killed and with its w
 ददर्श लङ्कां हनुमान् महामनाः  
 स्वयम्भुरोषोपहतामिवावनिम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1676,6 +1774,7 @@ marked by blazing flames of fire and afflicted by the fury of Brahma the creator
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1684,6 +1783,8 @@ marked by blazing flames of fire and afflicted by the fury of Brahma the creator
 दग्ध्वा पुरीं तां गृहरत्नमालिनीं  
 तस्थौ हनूमान् पवनात्मजः कपिः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1727,6 +1828,7 @@ son of wind-god, stood at ease.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1735,6 +1837,8 @@ son of wind-god, stood at ease.
 विसृज्य रक्षोभवनेषु चाग्निं  
 जगाम रामं मनसा महात्मा ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1777,6 +1881,7 @@ of rays.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1785,6 +1890,8 @@ of rays.
 महामतिं वायुसुतं वरिष्ठं  
 प्रतुष्टुवुर्देवगणाश्च सर्वे ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1834,6 +1941,7 @@ and scattering fire on the houses of demons, the high-souled Hanuma sought Rama 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1842,6 +1950,8 @@ and scattering fire on the houses of demons, the high-souled Hanuma sought Rama 
 भूतानि सर्वाणि महान्ति तत्र  
 जग्मुः परां प्रीतिमतुल्यरूपाम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1892,12 +2002,15 @@ most excellent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भङ्‍क्त्वा वनं महातेजा हत्वा रक्षांसि संयुगे ।  
 दग्ध्वा लङ्कापुरीं भीमां रराज स महाकपिः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1936,6 +2049,7 @@ brightly, after burning the beautiful City of Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1944,6 +2058,8 @@ brightly, after burning the beautiful City of Lanka.
 प्रदीप्तलाङ्गूलकृतार्चिमाली  
 व्यराजतादित्य इवार्चिमाली ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1990,12 +2106,15 @@ celestial's musicians, got a colossal surprise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्कां समस्तां सम्पीड्य लाङ्गूलाग्निं महाकपिः ।  
 निर्वापयामास तदा समुद्रे हरिपुङ्गवः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2032,12 +2151,15 @@ beings were frightened, thinking of him as a fire that is to destroy the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 दृष्ट्वा लङ्कां प्रदग्धां तां विस्मयं परमं गताः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2080,12 +2202,15 @@ serpents, Yakshas the spirits and all great living beings attained a great joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा वानरश्रेष्ठं हनूमन्तं महाकपिम् ।  
 कालाग्निरिति सञ्चिन्त्य सर्वभूतानि तत्रसुः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2110,5 +2235,6 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुःपञ्चाशः सर्गः ॥ ५४ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौवनवाँ सर्ग पूरा हुआ ॥ ५४ ॥
+</details>
 </details>
 

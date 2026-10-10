@@ -2,6 +2,8 @@
 title = "०२९ सीतया शुभशकुनानुभवः"
 title_english = "029 Seetha experiences some good omens"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,6 +22,7 @@ as also her clothing slipped a bit. Feeling these omens, her consciousness was a
 
 29. सीताजीके शुभ शकुन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ as also her clothing slipped a bit. Feeling these omens, her consciousness was a
 शुभां निमित्तानि शुभानि भेजिरे  
 नरं श्रिया जुष्टमिवोपसेविनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,6 +84,7 @@ servants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,6 +93,8 @@ servants.
 प्रास्पन्दतैकं नयनं सुकेश्या  
 मीनाहतं पद्ममिवाभिताम्रम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,6 +145,7 @@ by the blow of a fish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,6 +154,8 @@ by the blow of a fish.
 अनुत्तमेनाघ्युषितः प्रियेण  
 चिरेण वामः समवेपताशु ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,6 +206,7 @@ with excellent black aloe and sandalwood paste, which had been used
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,6 +215,8 @@ with excellent black aloe and sandalwood paste, which had been used
 प्रस्पन्दमानः पुनरूरुरस्या  
 रामं पुरस्तात् स्थितमाचचक्षे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,6 +267,7 @@ trunk of a princely elephant was predominantly quivering, spoke indistinctly of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,6 +276,8 @@ trunk of a princely elephant was predominantly quivering, spoke indistinctly of 
 वासः स्थितायाः शिखराग्रदन्त्याः  
 किञ्चित् परिस्रंसत चारुगात्र्याः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,6 +329,7 @@ down, which appeared auspicious (for her).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -320,6 +338,8 @@ down, which appeared auspicious (for her).
 वातातपक्लान्तमिव प्रणष्टं  
 वर्षेण बीजं प्रतिसञ्जहर्ष ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +391,7 @@ by the wind and the sun, got sprouted by rain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,6 +400,8 @@ by the wind and the sun, got sprouted by rain.
 वक्त्रं बभासे सितशुक्लदंष्ट्रं  
 राहोर्मुखाच्चन्द्र इव प्रमुक्तः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,6 +453,7 @@ Rahu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -438,6 +462,8 @@ Rahu.
 अशोभतार्या वदनेन शुक्ले  
 शीतांशुना रात्रिरिवोदितेन ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,5 +525,6 @@ moon appears during the bright fortnight.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

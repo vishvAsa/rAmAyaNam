@@ -2,6 +2,8 @@
 title = "०२४ सीता-राक्षसीसंवादः"
 title_english = "024 Seetha s reply to Ogres"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ Ogre women threaten to kill Seetha and eat her.
 
 24. सीताजीका राक्षसियोंकी बात माननेसे इनकार कर देना तथा राक्षसियोंका उन्हें मारने-काटनेकी धमकी देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतां समस्तास्ता राक्षस्यो विकृताननाः ।  
 परुषं परुषानर्हामूचुस्तद्वाक्यमप्रियम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ words harshly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं त्वमन्तःपुरे सीते सर्वभूतमनोरमे ।  
 महार्हशयनोपेते न वासमनुमन्यसे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ very best beds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषी मानुषस्यैव भार्यात्वं बहु मन्यसे ।  
 प्रत्याहर मनो रामान्नैवं जातु भविष्यति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,12 +162,15 @@ from Rama. Otherwise you will not exist at all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रैलोक्यवसुभोक्तारं रावणं राक्षसेश्वरम् ।  
 भर्तारमुपसङ्गम्य विहरस्व यथासुखम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +203,15 @@ of the three worlds and taking him as husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषी मानुषं तं तु राममिच्छसि शोभने ।  
 राज्याद् भ्रष्टमसिद्धार्थं विक्लवन्तमनिन्दिते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ human, banished from kingdom, unsuccessful and gloomy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसीनां वचः श्रुत्वा सीता पद्मनिभेक्षणा ।  
 नेत्राभ्यामश्रुपूर्णाभ्यामिदं वचनमब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,12 +296,15 @@ with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदिदं लोकविद्विष्टमुदाहरत सङ्गताः ।  
 नैतन्मनसि वाक्यं मे किल्बिषं प्रतितिष्ठति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +341,15 @@ this does it not seem sinful in your mind?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मानुषी राक्षसस्य भार्या भवितुमर्हति ।  
 कामं खादत मां सर्वा न करिष्यामि वो वचः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,12 +383,15 @@ your words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीनो वा राज्यहीनो वा यो मे भर्ता स मे गुरुः ।  
 तं नित्यमनुरक्तास्मि यथा सूर्यं सुवर्चला ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +408,7 @@ your words."
 
 नन्न पतियु दीननागिरली, राज्यहीननागिरली, अवने ननगॆ गुरुवु. सुवर्चला देवियु सूर्यनल्लिरुवन्तॆ नानु सदा काल पतियल्ले अनुरक्तळागिरुववळु.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -390,6 +420,8 @@ your words."
 नैषधं दमयन्तीव भैमी पतिमनुव्रता ॥ १२ ॥  
 तथाहमिक्ष्वाकुवरं रामं पतिमनुव्रता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +484,15 @@ with the Sun God, I am fond of Him always."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा राक्षस्यः क्रोधमूर्च्छिताः ।  
 भर्त्सयन्ति स्म परुषैर्वाक्यै रावणचोदिताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,6 +534,7 @@ Her with harsh words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -507,6 +543,8 @@ Her with harsh words.
 सीतां सन्तर्जयन्तीस् ता  
 राक्षसीर् **अशृणोत्** कपिः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,12 +585,15 @@ Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामभिक्रम्य संरब्धा वेपमानां समन्ततः ।  
 भृशं संलिलिहुर्दीप्तान् प्रलम्बान् दशनच्छदान् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,12 +636,15 @@ and hanging lips.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊचुश्च परमक्रुद्धाः प्रगृह्याशु परश्वधान् ।  
 नेयमर्हति भर्तारं रावणं राक्षसाधिपम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,6 +656,7 @@ and hanging lips.
 
 उनका क्रोध बहुत बढ़ा हुआ था । वे सब-की-सब तुरंत हाथोंमें फरसे लेकर बोल उठीं—‘यह राक्षसराज रावणको पतिरूपमें पानेयोग्य है ही नहीं’ ॥ १६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -620,6 +665,8 @@ and hanging lips.
 सा बाष्पम् अपमार्जन्ती  
 **शिंशपां** ताम् **उपागमत्** ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,6 +726,7 @@ the king of ogres Ravana as husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -687,6 +735,8 @@ the king of ogres Ravana as husband."
 **अभिगम्य** विशालाक्षी  
 तस्थौ शोकपरिप्लुता ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,12 +779,15 @@ there with gloom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां कृशां दीनवदनां मलिनाम्बरवासिनीम् ।  
 भर्त्सयाञ्चक्रिरे भीमा राक्षस्यस्ताः समन्ततः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +809,15 @@ _________________
 
 वे बहुत ही दुर्बल हो गयी थीं । उनके मुखपर दीनता छा रही थी और उन्होंने मलिन वस्त्र पहन रखा था । उस अवस्थामें उन जनकनन्दिनीको चारों ओर खड़ी हुई भयानक राक्षसियोंने फिर धमकाना आरम्भ किया ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु विनता नाम राक्षसी भीमदर्शना ।  
 अब्रवीत् कुपिताकारा कराला निर्णतोदरी ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -819,12 +875,15 @@ wearing dirty garments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीते पर्याप्तमेतावद् भर्तुः स्नेहः प्रदर्शितः ।  
 सर्वत्रातिकृतं भद्रे व्यसनायोपकल्पते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +926,15 @@ doing something excessively serves as vice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परितुष्टास्मि भद्रं ते मानुषस्ते कृतो विधिः ।  
 ममापि तु वचः पथ्यं ब्रुवन्त्याः कुरु मैथिलि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +968,15 @@ to my wholesome words being told."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं भज भर्तारं भर्तारं सर्वरक्षसाम् ।  
 विक्रान्तमापतन्तं च सुरेशमिव वासवम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,12 +995,15 @@ _________________
 
 ऎलै सीतॆ! ओर्व मानवस्त्रीय धर्मवन्नु नीनु चॆन्नागि आचरिसिद्दिये. इदरिन्द ननगॆ सन्तोषवागिदॆ. निनगॆ मङ्गळवागलि. आदरॆ निनगॆ हितवागुवुदन्नु नानु हेळुत्तेनॆ. अदरन्तॆ नडॆ.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणं त्यागशीलं च सर्वस्य प्रियवादिनम् ।  
 मानुषं कृपणं रामं त्यक्त्वा रावणमाश्रय ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1017,15 @@ _________________
 
 ‘दीन-हीन मनुष्य रामका परित्याग करके सबसे प्रिय वचन बोलनेवाले, उदार और त्यागी रावणका आश्रय लो ॥ २४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्याङ्गरागा वैदेहि दिव्याभरणभूषिता ।  
 अद्यप्रभृति लोकानां सर्वेषामीश्वरी भव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,12 +1087,15 @@ of Devas, able one and liberal with a pleasing appearance to all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नेः स्वाहा यथा देवी शची वेन्द्रस्य शोभने ।  
 किं ते रामेण वैदेहि कृपणेन गतायुषा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,12 +1136,15 @@ of all worlds. O Seetha! What is the use with Rama who is miserable and with gon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदुक्तं च मे वाक्यं यदि त्वं न करिष्यसि ।  
 अस्मिन् मुहूर्ते सर्वास्त्वां भक्षयिष्यामहे वयम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,12 +1183,15 @@ If you do not do my this spoken word, all of us in this moment will eat you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्या तु विकटा नाम लम्बमानपयोधरा ।  
 अब्रवीत् कुपिता सीतां मुष्टिमुद्यम्य तर्जती ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1231,15 @@ Another ogre named Vikata with hanging breasts raising fist and roaring with ang
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहून्यप्रतिरूपाणि वचनानि सुदुर्मते ।  
 अनुक्रोशान्मृदुत्वाच्च सोढानि तव मैथिलि ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1198,6 +1281,7 @@ and due to softness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1206,6 +1290,8 @@ and due to softness."
 रावणान्तःपुरे घोरे प्रविष्टा चासि मैथिलि ।  
 रावणस्य गृहे रुद्धा अस्माभिस्त्वभिरक्षिता ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1260,12 +1346,15 @@ of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वां शक्तः परित्रातुमपि साक्षात् पुरन्दरः ।  
 कुरुष्व हितवादिन्या वचनं मम मैथिलि ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1277,12 +1366,15 @@ of Ravana."
 
 ‘मैथिलि! साक्षात् इन्द्र भी यहाँ तुम्हारी रक्षा करनेमें समर्थ नहीं हो सकते । अतः मेरा कहना मानो, मैं तुम्हारे हितकी बात बता रही हूँ ॥ ३२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलमश्रुनिपातेन त्यज शोकमनर्थकम् ।  
 भज प्रीतिं प्रहर्षं च त्यजन्ती नित्यदैन्यताम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,12 +1433,15 @@ protect you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीते राक्षसराजेन परिक्रीड यथासुखम् ।  
 जानीमहे यथा भीरु स्त्रीणां यौवनमध्रुवम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1366,6 +1461,7 @@ _________________
 
 ‘सीते! राक्षसराज रावणके साथ सुखपूर्वक क्रीडाविहार करो । भीरु! हम सभी स्त्रियाँ जानती हैं कि नारियोंका यौवन टिकनेवाला नहीं होता ॥ ३४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1374,6 +1470,8 @@ _________________
 सह राक्षसराजेन चर त्वं मदिरेक्षणे ।  
 स्त्रीसहस्राणि ते देवि वशे स्थास्यन्ति सुन्दरि ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,6 +1530,7 @@ king of ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,6 +1538,8 @@ king of ogres."
 उत्पाट्य वा ते हृदयं भक्षयिष्यामि मैथिलि ॥ ३७ ॥  
 यदि मे व्याहृतं वाक्यं न यथावत् करिष्यसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1494,12 +1595,15 @@ nearby forests.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चण्डोदरी नाम राक्षसी क्रूरदर्शना ॥ ३८ ॥  
 भ्रामयन्ती महच्छूलमिदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1535,6 +1639,7 @@ plucking it out."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1543,6 +1648,8 @@ plucking it out."
 यकृत्प्लीहं महत् क्रोडं हृदयं च सबन्धनम् ॥ ४० ॥  
 गात्राण्यपि तथा शीर्षं खादेयमिति मे मतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1605,6 +1712,7 @@ this word.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1613,6 +1721,8 @@ this word.
 निवेद्यतां ततो राज्ञे मानुषी सा मृतेति ह ॥ ४२ ॥  
 नात्र कश्चन सन्देहः खादतेति स वक्ष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1653,6 +1763,7 @@ entrails and the head."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1661,6 +1772,8 @@ entrails and the head."
 विभजाम ततः सर्वा विवादो मे न रोचते ॥ ४४ ॥  
 पेयमानीयतां क्षिप्रं माल्यं च विविधं बहु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1717,6 +1830,7 @@ delay?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1725,6 +1839,8 @@ delay?"
 सुरा चानीयतां क्षिप्रं सर्वशोकविनाशिनी ॥ ४६ ॥  
 मानुषं मांसमास्वाद्य नृत्यामोऽथ निकुम्भिलाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1782,12 +1898,15 @@ do equal pieces."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं निर्भर्त्स्यमाना सा सीता सुरसुतोपमा ।  
 राक्षसीभिर्विरूपाभिर्धैर्यमुत्सृज्य रोदिति ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1851,5 +1970,6 @@ is desirable to me."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तनाल्कनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

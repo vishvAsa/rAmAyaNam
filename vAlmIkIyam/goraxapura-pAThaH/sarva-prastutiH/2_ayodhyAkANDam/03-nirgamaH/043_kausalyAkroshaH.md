@@ -2,6 +2,8 @@
 title = "०४३ कौसल्याक्रोशः"
 title_english = "043 Lamentation of Kausalya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-043-Kousalya_Kroshaha.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "043 Lamentation of Kausalya"
 
 43. महारानी कौसल्याका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समीक्ष्य शयने सन्नं शोकेन पार्थिवम् ।  
 कौसल्या पुत्रशोकार्ता तमुवाच महीपतिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,12 +61,15 @@ depressed with sorrow, spoke to the monarch as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवे नरशार्दूले विषं मुक्त्वाहिजिह्मगा ।  
 विचरिष्यति कैकेयी निर्मुक्तेव हि पन्नगी ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ ways will surely wander about freely like a female serpent that has cast off its
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवास्य रामं सुभगा लब्धकामा समाहिता ।  
 त्रासयिष्यति मां भूयो दुष्टाहिरिव वेश्मनि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ woman will frighten by clamping down upon me, like a dangerous serpent in the ho
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथास्मिन् नगरे रामश्चरन् भैक्षं गृहे वसेत् ।  
 कामकारो वरं दातुमपि दासं ममात्मजम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +211,15 @@ asking alms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पातयित्वा तु कैकेय्या रामं स्थानाद् यथेष्टतः ।  
 प्रविद्धो रक्षसां भागः पर्वणीवाहिताग्निना ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ moon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नागराजगतिर्वीरो महाबाहुर्धनुर्धरः ।  
 वनमाविशते नूनं सभार्यः सहलक्ष्मणः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +313,15 @@ having a bow in hand, the mighty armed hero surely will have entered the forest 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वने त्वदृष्टदुःखानां कैकेय्यनुमते त्वया ।  
 त्यक्तानां वनवासाय कान्यावस्था भविष्यति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ before and who have been sent by you to a forest life as per the wishes of Kaike
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रत्नहीनास्तरुणाः फलकाले विवासिताः ।  
 कथं वत्स्यन्ति कृपणाः फलमूलैः कृताशनाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +417,15 @@ their nourishment?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपीदानीं स कालः स्यान्मम शोकक्षयः शिवः ।  
 सहभार्यं सह भ्रात्रा पश्येयमिह राघवम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +465,15 @@ I shall see Rama with his wife and brother returning here?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वैवोपस्थितौ वीरौ कदायोध्या भविष्यति ।  
 यशस्विनी हृष्टजना सूच्छ्रितध्वजमालिनी ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +515,15 @@ Lakshmana) being present ? "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा प्रेक्ष्य नरव्याघ्रावरण्यात् पुनरागतौ ।  
 भविष्यति पुरी हृष्टा समुद्र इव पर्वणि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +564,15 @@ to perceive the two princes who are tigers among men come back from the forest? 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदायोध्यां महाबाहुः पुरीं वीरः प्रवेक्ष्यति ।  
 पुरस्कृत्य रथे सीतां वृषभो गोवधूमिव ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +612,15 @@ his front in the chariot as a bull would follow a cow?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा प्राणिसहस्राणि राजमार्गे ममात्मजौ ।  
 लाजैरवकरिष्यन्ति प्रविशन्तावरिन्दमौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +661,15 @@ over my two sons (Rama and Lakshmana) the subduer of their enemies, entering the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविशन्तौ कदायोध्यां द्रक्ष्यामि शुभकुण्डलौ ।  
 उदग्रायुधनिस्त्रिंशौ सशृङ्गाविव पर्वतौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,12 +709,15 @@ excellent bows and swords, entering Ayodhya like a pair of mountains crowned wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा सुमनसः कन्या द्विजातीनां फलानि च ।  
 प्रदिशन्त्यः पुरीं हृष्टाः करिष्यन्ति प्रदक्षिणम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ away flowers and fruits to virgins and brahmanas?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा परिणतो बुद्ध्या वयसा चामरप्रभाः ।  
 अभ्युपैष्यति धर्मात्मा सुवर्ष इव लालयन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +807,15 @@ of age ,return to me, cherishing the world like the proportious and timely rain?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःसंशयं मया मन्ये पुरा वीर कदर्यया ।  
 पातुकामेषु वत्सेषु मातॄणां शातिताः स्तनाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +856,15 @@ that the teats of cows were cut off by me while their calves were longing to suc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहं गौरिव सिंहेन विवत्सा वत्सला कृता ।  
 कैकेय्या पुरुषव्याघ्र बालवत्सेव गौर्बलात् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,12 +906,15 @@ deprived of her calf by a lion."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तावद्‍गुणैर्जुष्टं सर्वशास्त्रविशारदम् ।  
 एकपुत्रा विना पुत्रमहं जीवितुमुत्सहे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +954,15 @@ and is well-versed in all scriptures."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि मे जीविते किञ्चित् सामर्थ्यमिह कल्प्यते ।  
 अपश्यन्त्याः प्रियं पुत्रं लक्ष्मणं च महाबलम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,6 +1006,7 @@ I fail to perceive my beloved son (Rama) who is mighty armed and Lakshmana of gr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -952,6 +1015,8 @@ I fail to perceive my beloved son (Rama) who is mighty armed and Lakshmana of gr
 महीमिमां रश्मिभिरुत्तमप्रभो  
 यथा निदाघे भगवान् दिवाकरः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,5 +1073,6 @@ rays in summer."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तमूरनॆय सर्ग पूर्णवायितु.॥43॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०९१ भरद्वाजकृतातिथ्यम्"
 title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ and requests him to arrange for a befitting hopsitality to Bharata,
 
 91. भरद्वाज मुनिके द्वारा सेनासहित भरतका दिव्य सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतबुद्धिं निवासाय तत्रैव स मुनिस्तदा ।  
 भरतं केकयीपुत्रमातिथ्येन न्यमन्त्रयत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ prepared to offer Bharata the son of Kaikeyi the full honours due to a guest
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीद् भरतस्त्वेनं नन्विदं भवता कृतम् ।  
 पाद्यमर्घ्यमथातिथ्यं वने यदुपपद्यते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ to wash my hands and feet and offered me this hospitality fitting for a guest in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच भरद्वाजो भरतं प्रहसन्निव ।  
 जाने त्वां प्रीतिसंयुक्तं तुष्येस्त्वं येन केनचित् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ friendly disposition and you are pleased with whatever is offered to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेनायास्तु तवैवास्याः कर्तुमिच्छामि भोजनम् ।  
 मम प्रीतिर्यथारूपा त्वमर्हो मनुजर्षभ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ fulfil my satisfaction in every suitable way."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं चापि निक्षिप्य दूरे बलमिहागतः ।  
 कस्मान्नेहोपयातोऽसि सबलः पुरुषर्षभ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,12 +267,15 @@ come to my place with your army?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतः प्रत्युवाचेदं प्राञ्जलिस्तं तपोधनम् ।  
 न सैन्येनोपयातोऽस्मि भगवन् भगवद्भयात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञा हि भगवन् नित्यं राजपुत्रेण वा तथा ।  
 यत्नतः परिहर्तव्या विषयेषु तपस्विनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ places occupied by ascetics"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाजिमुख्या मनुष्याश्च मत्ताश्च वरवारणाः ।  
 प्रच्छाद्य भगवन् भूमिं महतीमनुयान्ति माम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +413,15 @@ area are accompanying me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वृक्षानुदकं भूमिमाश्रमेषूटजांस्तथा ।  
 न हिंस्युरिति तेनाहमेक एवागतस्ततः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -435,12 +464,15 @@ thought; *aham* = I; *samaagataH* = came; *eka eva* = alone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनीयतामितः सेनेत्याज्ञप्तः परमर्षिणा ।  
 तथानुचक्रे भरतः सेनायाः समुपागमम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +512,15 @@ there, allowed the army's arrival to the hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निशालां प्रविश्याथ पीत्वापः परिमृज्य च ।  
 आतिथ्यस्य क्रियाहेतोर्विश्वकर्माणमाह्वयत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ order to fulfil his duties towards the guests (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह्वये विश्वकर्माणमहं त्वष्टारमेव च ।  
 आतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +612,15 @@ divine carpenter. Let arrangements be made in that connection for me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह्वये लोकपालांस्त्रीन् देवान् शक्रपुरोगमान् ।  
 आतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +662,15 @@ made in this connection for me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राक्स्रोतसश्च या नद्यस्तिर्यक्स्रोतस एव च ।  
 पृथिव्यामन्तरिक्षे च समायान्त्वद्य सर्वशः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +711,15 @@ across the earth and in the aerial region now come together here from all quarte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्याः स्रवन्तु मैरेयं सुरामन्याः सुनिष्ठिताम् ।  
 अपराश्चोदकं शीतमिक्षुकाण्डरसोपमम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,12 +761,15 @@ of sugarcane."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह्वये देवगन्धर्वान् विश्वावसुहहाहुहून् ।  
 तथैवाप्सरसो देवगन्धर्वैश्चापि सर्वशः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +810,15 @@ Apsaras (nymphs) belonging to the celestial and celestial musicians' race from a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृताचीमथ विश्वाचीं मिश्रकेशीमलम्बुषाम् ।  
 नागदत्तां च हेमां च सोमामद्रिकृतस्थलीम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +859,15 @@ Nagadanta and Hema as also Hima who has an abode made in mountains."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्रं याश्चोपतिष्ठन्ति ब्रह्माणं याश्च भामिनीः ।  
 सर्वास्तुम्बुरुणा सार्धमाह्वये सपरिच्छदाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +913,15 @@ Tumburu."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं कुरुषु यद् दिव्यं वासोभूषणपत्रवत् ।  
 दिव्यनारीफलं शश्वत् तत्कौबेरमिहैव तु ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,12 +966,15 @@ the form of heavenly damsels appear in this place."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह मे भगवान् सोमो विधत्तामन्नमुत्तमम् ।  
 भक्ष्यं भोज्यं च चोष्यं च लेह्यं च विविधं बहु ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1015,15 @@ this place, excellent food of every variety, confections, sweets, sauces and syr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्राणि च माल्यानि पादपप्रच्युतानि च ।  
 सुरादीनि च पेयानि मांसानि विविधानि च ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1064,15 @@ meat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं समाधिना युक्तस्तेजसाप्रतिमेन च ।  
 शिक्षास्वरसमायुक्तं सुव्रतश्चाब्रवीन्मुनिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1114,15 @@ scriptural texts:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसा ध्यायतस्तस्य प्राङ्मुखस्य कृताञ्जलेः ।  
 आजग्मुस्तानि सर्वाणि दैवतानि पृथक् पृथक् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1166,15 @@ east, all those celestials came one by one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मलयं दर्दुरं चैव ततः स्वेदनुदोऽनिलः ।  
 उपस्पृश्य ववौ युक्त्या सुप्रियात्मा सुखं शिवः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,12 +1218,15 @@ Malaya and Dardura, began to blw, removing sweat by its influence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽभ्यवर्षन्त घना दिव्याः कुसुमवृष्टयः ।  
 देवदुन्दुभिघोषश्च दिक्षु सर्वासु शुश्रुवे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,12 +1266,15 @@ gongs could be heard on every side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रववुश्चोत्तमा वाता ननृतुश्चाप्सरोगणाः ।  
 प्रजगुर्देवगन्धर्वा वीणाः प्रमुमुचुः स्वरान् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1236,12 +1316,15 @@ tunes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शब्दो द्यां च भूमिं च प्राणिनां श्रवणानि च ।  
 विवेशोच्चावचः श्लक्ष्णः समो लयगुणान्वितः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1281,12 +1364,15 @@ beings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन्नेवङ्गते शब्दे दिव्ये श्रोत्रसुखे नृणाम् ।  
 ददर्श भारतं सैन्यं विधानं विश्वकर्मणः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1329,12 +1415,15 @@ Bharata's army saw the wonderful creations of Visvakarma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव हि समा भूमिः समन्तात् पञ्चयोजनम् ।  
 शाद्वलैर्बहुभिश्छन्ना नीलवैदूर्यसन्निभैः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1377,12 +1466,15 @@ carpets of grass, dark as emerald.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् बिल्वाः कपित्थाश्च पनसा बीजपूरकाः ।  
 आमलक्यो बभूवुश्च चूताश्च फलभूषिताः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1422,12 +1514,15 @@ fruit appeared.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरेभ्यः कुरुभ्यश्च वनं दिव्योपभोगवत् ।  
 आजगाम नदी सौम्या तीरजैर्बहुभिर्वृता ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1470,12 +1565,15 @@ river shaped with various trees on its bank appeared there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुःशालानि शुभ्राणि शालाश्च गजवाजिनाम् ।  
 हर्म्यप्रासादसंयुक्ततोरणानि शुभानि च ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1515,12 +1613,15 @@ resplendent gates with watch-towers flanked by turrets were seen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सितमेघनिभं चापि राजवेश्म सुतोरणम् ।  
 शुक्लमाल्यकृताकारं दिव्यगन्धसमुक्षितम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1537,12 +1638,15 @@ resplendent gates with watch-towers flanked by turrets were seen.
 
 राजपरिवारदवरिगॆ निर्मिसिद सुन्दर द्वारगळिन्द कूडिद दिव्य भवनवु बिळिय मोडगळन्तॆ सुशोभितवागित्तु. अवन्नु बिळिय हूवुगळिन्द अलङ्करिसि सुगन्धित जलवन्नु सिम्पडिसलागित्तु.॥33॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुरस्रमसम्बाधं शयनासनयानवत् ।  
 दिव्यैः सर्वरसैर्युक्तं दिव्यभोजनवस्त्रवत् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,12 +1663,15 @@ resplendent gates with watch-towers flanked by turrets were seen.
 
 आ भवनवु चौकाकारविद्दु विस्तारवागित्तु. अदरल्लि सङ्कीर्णतॆये इरलिल्ल. अदरल्लि मलगलु कुळितुकॊळ्ळलु वाहनगळन्नु निल्लिसलु बेरॆ-बेरॆ स्थानगळिद्दवु. अल्लि ऎल्ल रीतिय दिव्य रस, दिव्य भोजन, दिव्यवस्त्रगळिन्द तुम्बि तुळुकुत्तित्तु.॥34॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपकल्पितसर्वान्नं धौतनिर्मलभाजनम् ।  
 क्लृप्तसर्वासनं श्रीमत्स्वास्तीर्णशयनोत्तमम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,6 +1716,7 @@ charming with superb couches duly covered with rich carpets.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1617,6 +1725,8 @@ charming with superb couches duly covered with rich carpets.
 अनुजग्मुश्च ते सर्वे मन्त्रिणः सपुरोहिताः ।  
 बभूवुश्च मुदा युक्तास्तं दृष्ट्वा वेश्मसंविधिम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1683,12 +1793,15 @@ that palace filled with precious gems.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र राजासनं दिव्यं व्यजनं छत्रमेव च ।  
 भरतो मन्त्रिभिः सार्धमभ्यवर्तत राजवत् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,12 +1841,15 @@ whisk and the royal umbrella kept there, as if they were utilized by a king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसनं पूजयामास रामायाभिप्रणम्य च ।  
 वालव्यजनमादाय न्यषीदत् सचिवासने ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1775,12 +1891,15 @@ minister.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनुपूर्व्यान्निषेदुश्च सर्वे मन्त्रिपुरोहिताः ।  
 ततः सेनापतिः पश्चात् प्रशास्ता च न्यषीदत ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1820,12 +1939,15 @@ of the army and at last the officer-in-charge of the encampment occupied their s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तत्र मुहूर्तेन नद्यः पायसकर्दमाः ।  
 उपातिष्ठन्त भरतं भरद्वाजस्य शासनात् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1865,12 +1987,15 @@ rice in the place of mud, flowed towards Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसामुभयतःकूलं पाण्डुमृत्तिकलेपनाः ।  
 रम्याश्चावसथा दिव्या ब्राह्मणस्य प्रसादजाः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1910,12 +2035,15 @@ white clay born out of the grace of Brahma the Lord of creation, appeared.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनैव च मुहूर्तेन दिव्याभरणभूषिताः ।  
 आगुर्विंशतिसाहस्राः ब्रह्मणा प्रहिताः स्त्रियः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1958,6 +2086,7 @@ by Brahma, arrived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1965,6 +2094,8 @@ by Brahma, arrived.
 आगुर्विंशतिसाहस्राः कुबेरप्रहिताः स्त्रियः ॥ ४४ ॥  
 याभिर्गृहीतः पुरुषः सोन्माद इव लक्ष्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2004,6 +2135,7 @@ corals came from the region of Kubera.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2011,6 +2143,8 @@ corals came from the region of Kubera.
 नारदस्तुम्बुरुर्गोपः प्रभया सूर्यवर्चसः ।  
 एते गन्धर्वराजानो भरतस्याग्रतो जगुः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2071,12 +2205,15 @@ with insanity, came from Nandana grove.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलम्बुषा मिश्रकेशी पुण्डरीकाथ वामना ।  
 उपानृत्यन्त भरतं भरद्वाजस्य शासनात् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2116,12 +2253,15 @@ in the presence of Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि माल्यानि देवेषु यानि चैत्ररथे वने ।  
 प्रयागे तान्यदृश्यन्त भरद्वाजस्य तेजसा ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2162,12 +2302,15 @@ those which grow in the woods of chaitra ratha were seen at Prayaga.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बिल्वा मार्दङ्गिका आसन् शम्याग्राहा बिभीतकाः ।  
 अश्वत्था नर्तकाश्चासन् भरद्वाजस्य तेजसा ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2208,12 +2351,15 @@ trees assumed the form of cymbalists and Peepul trees assumed the form of dancer
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सरलतालाश्च तिलकाः सतमालकाः ।  
 प्रहृष्टास्तत्र सम्पेतुः कुब्जा भूत्वाथ वामनाः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2253,6 +2399,7 @@ hunch backs and dwarfs and joyfully arrived there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2260,6 +2407,8 @@ hunch backs and dwarfs and joyfully arrived there.
 मालती मल्लिका जातिर्याश्चान्याः कानने लताः ।  
 प्रमदाविग्रहं कृत्वा भरद्वाजाश्रमेऽवसन् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2304,12 +2453,15 @@ hermitage of Bharadwaja and they spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरां सुरापाः पिबत पायसं च बुभुक्षिताः ।  
 मांसानि च सुमेध्यानि भक्ष्यन्तां यो यदिच्छति ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2326,12 +2478,15 @@ hermitage of Bharadwaja and they spoke as follows:
 
 (अवरु भरतन सैनिकरिगॆ करॆ-करॆदु हेळुत्तिद्दरु-) मधुपान माडुव जनरिरा! इदो, मधुपान माडिरि, निम्मल्लि हसिवादवरु ई पायस तिन्निरि हागू परम पवित्र फलगळ तिरुळू कूड सिद्धविदॆ अदन्नु सवियिरि. निम्म इच्छॆयन्तॆ भोजनमाडिरि.॥52॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्छोद्य स्नापयन्ति स्म नदीतीरेषु वल्गुषु ।  
 अप्येकमेकं पुरुषं प्रमदाः सप्त चाष्ट च ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2367,12 +2522,15 @@ will)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवाहन्त्यः समापेतुर्नार्यो विपुललोचनाः ।  
 परिमृज्य तदान्योन्यं पाययन्ति वराङ्गनाः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2416,12 +2574,15 @@ after massaging their body with oil.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयान् गजान् खरानुष्ट्रांस्तथैव सुरभेः सुतान् ।  
 अभोजयन् वाहनपास्तेषां भोज्यं यथाविधि ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2463,12 +2624,15 @@ mutually sharing them among each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्षूंश्च मधुलाजांश्च भोजयन्ति स्म वाहनान् ।  
 इक्ष्वाकुवरयोधानां चोदयन्तो महाबलाः ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2509,12 +2673,15 @@ offspring of Surabhi the divine cow) with their suitable feed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाश्वबन्धोऽश्वमाजानान्न गजं कुञ्जरग्रहः ।  
 मत्तप्रमत्तमुदिता सा चमूस्तत्र सम्बभौ ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2556,12 +2723,15 @@ cajoling them to eat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तर्पिताः सर्वकामैश्च रक्तचन्दनरूषिताः ।  
 अप्सरोगणसंयुक्ताः सैन्या वाचमुदीरयन् ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2602,12 +2772,15 @@ elephant. That army there appeared intoxicated, maddened and enraptured on that 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवायोध्यां गमिष्यामो न गमिष्याम दण्डकान् ।  
 कुशलं भरतस्यास्तु रामस्यास्तु तथा सुखम् ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2647,12 +2820,15 @@ surrounded by a company of Apsaras, those soldiers uttered the following words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति पादातयोधाश्च हस्त्यश्वारोहबन्धकाः ।  
 अनाथास्तं विधिं लब्ध्वा वाचमेतामुदीरयन् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2692,12 +2868,15 @@ Likewise, let Rama too be at east!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रहृष्टा विनेदुस्ते नरास्तत्र सहस्रशः ।  
 भरतस्यानुयातारः स्वर्गोऽयमिति चाब्रुवन् ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2739,12 +2918,15 @@ words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृत्यन्तश्च हसन्तश्च गायन्तश्चैव सैनिकाः ।  
 समन्तात् परिधावन्तो माल्योपेताः सहस्रशः ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2787,12 +2969,15 @@ out, "This is verily of heaven!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भुक्तवतां तेषां तदन्नममृतोपमम् ।  
 दिव्यानुद्वीक्ष्य भक्ष्यांस्तानभवद् भक्षणे मतिः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2832,12 +3017,15 @@ and thither.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेष्याश्चेट्यश्च वध्वश्च बलस्थाश्चापि सर्वशः ।  
 बभूवुस्ते भृशं प्रीताः सर्वे चाहतवाससः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2881,12 +3069,15 @@ they saw again those fresh dishes, there arose in them a desire to eat them agai
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुञ्जराश्च खरोष्ट्राश्च गोऽश्वाश्च मृगपक्षिणः ।  
 बभूवुः सुभृतास्तत्र नातो ह्यन्यमकल्पयत् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2927,12 +3118,15 @@ clad in new raiment, became very much contented.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाशुक्लवासास्तत्रासीत् क्षुधितो मलिनोऽपि वा ।  
 रजसा ध्वस्तकेशो वा नरः कश्चिददृश्यत ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2972,6 +3166,7 @@ well-fed. Hence, one did not afflict the other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2980,6 +3175,8 @@ well-fed. Hence, one did not afflict the other.
 पुष्पध्वजवतीः पूर्णाः शुक्लस्यान्नस्य चाभितः ।  
 ददृशुर्विस्मितास्तत्र नरा लौहीः सहस्रशः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3015,12 +3212,15 @@ with dust.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूवुर्वनपार्श्वेषु कूपाः पायसकर्दमाः ।  
 ताश्च कामदुघा गावो द्रुमाश्चासन् मधुच्युतः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3063,12 +3263,15 @@ with wonder on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाप्यो मैरेयपूर्णाश्च मृष्टमांसचयैर्वृताः ।  
 प्रतप्तपिठरैश्चापि मार्गमायूरकौक्कुटैः ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3113,12 +3316,15 @@ into cows of plenty and the trees dripped honey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पात्रीणां च सहस्राणि स्थालीनां नियुतानि च ।  
 न्यर्बुदानि च पात्राणि शातकुम्भमयानि च ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3157,6 +3363,7 @@ of various dressed meats pertaining to deer, peacocks and wild cocks; cooked in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3165,6 +3372,8 @@ of various dressed meats pertaining to deer, peacocks and wild cocks; cooked in 
 ह्रदाः पूर्णा रसालस्य दध्नः श्वेतस्य चापरे ।  
 बभूवुः पायसस्यान्ये शर्कराणां च सञ्चयाः ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3202,12 +3411,15 @@ golden vessels, well-cleaned bowls filled with curds, small water-jars and wide-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्कांश्चूर्णकषायांश्च स्नानानि विविधानि च ।  
 ददृशुर्भाजनस्थानि तीर्थेषु सरितां नराः ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3246,12 +3458,15 @@ formed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लानंशुमतश्चापि दन्तधावनसञ्चयान् ।  
 शुक्लांश्चन्दनकल्कांश्च समुद्रेष्ववतिष्ठतः ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3292,12 +3507,15 @@ accessories used in bathing, kept stored in vessels, on the banks of rivers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्पणान् परिमृष्टांश्च वाससां चापि सञ्चयान् ।  
 पादुकोपानहं चैव युग्मान्यत्र सहस्रशः ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3317,12 +3535,15 @@ _________________
 
 इष्टे अल्लदॆ अल्लि अनेक स्वच्छ कन्नडिगळु, राशि-राशि बट्टॆगळु मत्तु साविरारु पादुकॆगळन्नु, पादरक्षॆगळन्नु इट्टिरुवुदन्नु भरतन जनरु नोडिदरु.॥76॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आञ्जनीः कङ्कतान् कूर्चांश्छत्राणि च धनूंषि च ।  
 मर्मत्राणानि चित्राणि शयनान्यासनानि च ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3342,6 +3563,7 @@ _________________
 
 काडिगॆय करण्डगळू, बाचणिगॆ, कूर्चगळू (तुलिका अथवा ब्रश्), छत्र धनुस्सुगळू, मर्मस्थानगळल्लि तॊडुव कवचगळू, चित्रित शय्यॆगळू, आसनगळू अल्लि काणिसुत्तिद्दवु.॥77॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3349,6 +3571,8 @@ _________________
 अवगाह्यसुतीर्थांश्च ह्रदान् सोत्पलपुष्करान् ।  
 आकाशवर्णप्रतिमान् स्वच्छतोयान् सुखाप्लवान् ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3370,12 +3594,15 @@ _________________
 
 हेसरगत्तॆ, ऒण्टॆ, आनॆ, कुदुरॆ इवुगळिगॆ नीरु कुडियलु अनेक जलाशयगळु अल्लिद्दवु. जनरु सुखवागि इळिदु स्नानमाडलु सुन्दर घट्टगळिद्दवु. आ जलाशयगळल्लि कमलगळु मत्तु नैदिलॆगळु शोभिसुत्तिद्दवु. अवुगळ नीरु आकाशदन्तॆ स्वच्छवागिद्दु, अवुगळल्लि सुखवागि ईजुवन्तिद्दवु.॥78॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलवैदूर्यवर्णांश्च मृदून् यवससञ्चयान् ।  
 निर्वापार्थं पशूनां ते ददृशुस्तत्र सर्वशः ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3395,12 +3622,15 @@ _________________
 
 पशुगळिगॆ तिन्नलु अल्लि ऎल्लॆडॆ नील वैडूर्यदन्तॆ हसिरु हुल्लिन राशिगळे बिद्दिद्दवु. अदॆल्लवन्नु भरतन जॊतॆगॆ बन्द जनरु नोडिदरु.॥79॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यस्मयन्त मनुष्यास्ते स्वप्नकल्पं तदद्भुतम् ।  
 दृष्ट्वाऽऽतिथ्यं कृतं तादृग् भरतस्य महर्षिणा ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3458,12 +3688,15 @@ Nipa tree: Nanclea cadamba
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं रममाणानां देवानामिव नन्दने ।  
 भरद्वाजाश्रमे रम्ये सा रात्रिर्व्यत्यवर्तत ॥ ८१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3503,12 +3736,15 @@ Bharadwaja, all those men were surprised.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिजग्मुश्च ता नद्यो गन्धर्वाश्च यथागतम् ।  
 भरद्वाजमनुज्ञाप्य ताश्च सर्वा वराङ्गनाः ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3548,6 +3784,7 @@ manner as celestials enjoy the garden of Nandna, that night had elapsed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3556,6 +3793,8 @@ manner as celestials enjoy the garden of Nandna, that night had elapsed.
 तथैव दिव्या विविधाः स्रगुत्तमाः  
 पृथग्विकीर्णा मनुजैः प्रमर्दिताः ॥ ८३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3608,5 +3847,6 @@ those beautiful women went back by the same way they came.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॊन्दनॆय सर्ग पूर्णवायितु.॥91॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०१४ अशोकवाटिकाप्रवेशः"
 title_english = "014 Hanuma enters the Ashoka garden"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ He thinks that Seetha would definitely come to that garden if she were to be ali
 
 14. हनुमान् जी का अशोकवाटिकामें प्रवेश करके उसकी शोभा देखना तथा एक अशोकवृक्षपर छिपे रहकर वहींसे सीताका अनुसन्धान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुहूर्तमिव ध्यात्वा मनसा चाधिगम्य ताम् ।  
 अवप्लुतो महातेजाः प्राकारं तस्य वेश्मनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ jumped from the compound wall of that house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु संहृष्टसर्वाङ्गः प्राकारस्थो महाकपिः ।  
 पुष्पिताग्रान् वसन्तादौ ददर्श विविधान् द्रुमान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -88,6 +96,7 @@ jumped from the compound wall of that house.
 
 प्राकारद मेलिद्द आ महाकपिवरनु पुलकितगात्रनागि, वसन्त ऋतुविन प्रारम्भदल्लि समृद्धवागि पुष्पगळिन्द कूडिरुव विध-विधवाद वृक्षगळन्नु आ अशोकवनदल्लि नोडिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,6 +109,8 @@ jumped from the compound wall of that house.
 ज्यामुक्त इव नाराचः  
 पुप्लुवे वृक्षवाटिकाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,6 +171,7 @@ monkey, in full blossom at the start of the spring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -172,6 +184,8 @@ monkey, in full blossom at the start of the spring.
 उदितादित्य-सङ्काशां  
 ददर्श हनुमान् बली ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -198,6 +212,7 @@ _________________
 
 अवनु चित्र-विचित्रवाद वृक्षवाटिकॆयन्नु हॊक्कनु. अल्लि पक्षिगळ किल-किल ध्वनिगळु तुम्बिद्दवु. चिन्न मत्तु बॆळ्ळियन्तॆ शोभिसुव वृक्षगळिन्दलू, पक्षिगळ, मृगगळ समूहगळिन्द कूडिद्दु विचित्रवागि काणुत्तित्तु. अदु उदिसिद सूर्यकान्तियन्तॆ प्रकाशिसुत्ता विराजिसुत्तिद्दितु. हनुमन्तनु अन्तह विचित्रवाद उद्यानवनवन्नु नोडिदनु.॥5-6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -206,6 +221,8 @@ _________________
 कोकिलैर् भृङ्गराजैश्च  
 मत्तैर्नित्यनिषेविताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +237,15 @@ _________________
 
 फूलों और फलोंसे लदे हुए नाना प्रकारके वृक्षोंसे व्याप्त हुई उस अशोकवाटिकाका मतवाले कोकिल और भ्रमर सेवन करते थे ॥ ७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टमनुजां काले मृगपक्षिमदाकुलाम् ।  
 मत्तबर्हिणसङ्घुष्टां नानाद्विजगणायुताम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -273,6 +293,7 @@ peacocks in heat and with groups of birds of various kinds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,6 +302,8 @@ peacocks in heat and with groups of birds of various kinds.
 सुखप्रसुप्तान् विहगान्  
 बोधयामास वानरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +343,15 @@ in comfortable sleep.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पतद्भिर्द्विजगणैः पक्षैर्वातैः समाहताः ।  
 अनेकवर्णा विविधा मुमुचुः पुष्पवृष्टयः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,6 +388,7 @@ of various kinds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -370,6 +397,8 @@ of various kinds.
 अशोकवनिकामध्ये  
 यथा पुष्पमयो गिरिः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +440,15 @@ of Ashoka garden.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशः सर्वाभिधावन्तं वृक्षखण्डगतं कपिम् ।  
 दृष्ट्वा सर्वाणि भूतानि वसन्त इति मेनिरे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,12 +492,15 @@ thought Him to be Vasanta, the lord of spring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षेभ्यः पतितैः पुष्पैरवकीर्णाः पृथग्विधैः ।  
 रराज वसुधा तत्र प्रमदेव विभूषिता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +544,15 @@ decorated woman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरस्विना ते तरवस्तरसा बहु कम्पिताः ।  
 कुसुमानि विचित्राणि ससृजुः कपिना तदा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,12 +593,15 @@ Then those trees, shaken by the might of Hanuma the mighty one, showered wonderf
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्धूतपत्रशिखराः शीर्णपुष्पफलद्रुमाः ।  
 निक्षिप्तवस्त्राभरणा धूर्ता इव पराजिताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +645,15 @@ gamblers with their clothes and jewellery kept down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमता वेगवता कम्पितास्ते नगोत्तमाः ।  
 पुष्पपत्रफलान्याशु मुमुचुः फलशालिनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +695,15 @@ The excellent trees shining with best flowers fell down instantly flowers, leave
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विहङ्गसङ्घैर्हीनास्ते स्कन्धमात्राश्रया द्रुमाः ।  
 बभूवुरगमाः सर्वे मारुतेन विनिर्धुताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,6 +747,7 @@ by wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -712,6 +760,8 @@ by wind.
 तथैवाशोकवनिका  
 प्रभग्न-वन-पादपा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -764,12 +814,15 @@ by nails and by teeth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महालतानां दामानि व्यधमत् तरसा कपिः ।  
 यथा प्रावृषि वेगेन मेघजालानि मारुतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +859,15 @@ the groups of clouds of mountain Vindhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तत्र मणिभूमीश्च राजतीश्च मनोरमाः ।  
 तथा काञ्चनभूमीश्च विचरन् ददृशे कपिः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,6 +910,7 @@ floors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -862,6 +919,8 @@ floors.
 मुक्ताप्रवालसिकताः स्फाटिकान्तरकुट्टिमाः ।  
 काञ्चनैस्तरुभिश्चित्रैस्तीरजैरुपशोभिताः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,12 +934,15 @@ floors.
 
 उस वाटिकामें उन्होंने जहाँ-तहाँ विभिन्न आकारोंकी बावड़ियाँ देखीं, जो उत्तम जलसे भरी हुईं और मणिमय सोपानोंसे युक्त थीं । उनके भीतर मोती और मूँगोंकी बालुकाएँ थीं । जलके नीचेकी फर्श स्फटिक मणिकी बनी हुई थी और उन बावड़ियोंके तटोंपर तरह-तरहके विचित्र सुवर्णमय वृक्ष शोभा दे रहे थे ॥ २२-२३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धपद्मोत्पलवनाश्चक्रवाकोपशोभिताः ।  
 नत्यूहरुतसङ्घुष्टा हंससारसनादिताः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +957,15 @@ _________________
 
 उनमें खिले हुए कमलोंके वन और चक्रवाकोंके जोड़े शोभा बढ़ा रहे थे तथा पपीहा, हंस और सारसोंके कलनाद गूँज रहे थे ॥ २४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घाभिर्द्रुमयुक्ताभिः सरिद्भिश्च समन्ततः ।  
 अमृतोपमतोयाभिः शिवाभिरुपसंस्कृताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,12 +977,15 @@ _________________
 
 अनेकानेक विशाल, तटवर्ती वृक्षोंसे सुशोभित, अमृतके समान मधुर जलसे पूर्ण तथा सुखदायिनी सरिताएँ चारों ओरसे उन बावड़ियोंका सदा संस्कार करती थीं (उन्हें स्वच्छ जलसे परिपूर्ण बनाये रखती थीं) ॥ २५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लताशतैरवतताः सन्तानकुसुमावृताः ।  
 नानागुल्मावृतवनाः करवीरकृतान्तराः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,6 +1036,7 @@ by various shrubs with middle regions of karaveera and also wells and in various
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -976,6 +1045,8 @@ by various shrubs with middle regions of karaveera and also wells and in various
 शिलागृहैरवततं नानावृक्षसमावृतम् ।  
 ददर्श कपिशार्दूलो रम्यं जगति पर्वतम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1099,15 @@ covered by different trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्श च नगात् तस्मान्नदीं निपतितां कपिः ।  
 अङ्कादिव समुत्पत्य प्रियस्य पतितां प्रियाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,12 +1124,15 @@ covered by different trees.
 
 प्रियतमन तॊडॆयिन्द मेलॆद्दु दूरसरिदु निल्लुव प्रेयसियन्तॆ आ पर्वतदिन्द कॆळक्कॆ धुमुकुत्तिद्द नदियॊन्दन्नु हनुमन्तनु नोडिदनु.॥29॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जले निपतिताग्रैश्च पादपैरुपशोभिताम् ।  
 वार्यमाणामिव क्रुद्धां प्रमदां प्रियबन्धुभिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,12 +1149,15 @@ covered by different trees.
 
 अल्लिद्द वृक्षगळ तुदिगळु धुमुकुत्तिद्द नदिय नीरिनिन्द तॊय्दुहोगिद्दवु. पर्वतद मेलिनिन्द हरिदुबरुत्तिद्द नदिय नीरु दट्टवागि बॆळॆदु निन्तिद्द वृक्षगळिन्द तडॆयल्पडुत्तित्तु. अदन्नु नोडिदरॆ क्रुद्धळागि प्रियनन्नु अगलि हॊरट प्रमदॆयन्नु सखीगडणवु तडॆयुत्तिरुवरो ऎम्बन्तॆ काणुत्तित्तु.॥30॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरावृत्ततोयां च ददर्श स महाकपिः ।  
 प्रसन्नामिव कान्तस्य कान्तां पुनरुपस्थिताम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1118,12 +1198,15 @@ woman reaching her beloved again, being reconciled to her beloved one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यादूरात् स पद्मिन्यो नानाद्विजगणायुताः ।  
 ददर्श कपिशार्दूलो हनूमान् मारुतात्मजः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1167,12 +1250,15 @@ together with many groups of birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्रिमां दीर्घिकां चापि पूर्णां शीतेन वारिणा ।  
 मणिप्रवरसोपानां मुक्तासिकतशोभिताम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1192,6 +1278,7 @@ _________________
 
 मुन्दॆ होगुत्तिद्दाग हनुमन्तनु अल्लि कृत्रिमवाद सरोवरगळन्नु नोडिदनु. अवु शीतलवाद नीरिनिन्द तुम्बिद्दवु. श्रेष्ठवाद रत्नगळिन्द कल्पितवाद सोपानगळिन्द कूडिद्दु, मुत्तिन मरळिनिन्द शोभिसुत्तिद्दवु.॥33॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1202,6 +1289,8 @@ _________________
 काननैः कृत्रिमैश्चापि  
 सर्वतः समलङ्कृताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,12 +1329,15 @@ trees decorated in all directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये केचित् पादपास्तत्र पुष्पोपगफलोपगाः ॥ ३५ ॥  
 सच्छत्राः सवितर्दीकाः सर्वे सौवर्णवेदिकाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1289,6 +1381,7 @@ together with big platforms and with smaller golden platforms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1299,6 +1392,8 @@ together with big platforms and with smaller golden platforms.
 वृतां हेम-मयीभिस् तु  
 वेदिकाभिः समन्ततः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1352,6 +1447,7 @@ creepers and with many leaves surrounded everywhere with platforms made of gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1360,6 +1456,8 @@ creepers and with many leaves surrounded everywhere with platforms made of gold.
 सुवर्ण-वृक्षान् अपरान्  
 ददर्श शिखिसन्निभान् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1381,6 +1479,7 @@ _________________
 
 इसके सिवा उन्होंने और भी बहुत-से खुले मैदान, पहाड़ी झरने और अग्निके समान दीप्तिमान् सुवर्णमय वृक्ष देखे ॥ ३८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1389,6 +1488,8 @@ _________________
 अमन्यत तदा वीरः  
 काञ्चनो ऽस्मीति सर्वतः ॥ ३९ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1447,6 +1548,7 @@ Hanuma saw lands, mountain springs, and some other golden trees equal to fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1457,6 +1559,8 @@ Hanuma saw lands, mountain springs, and some other golden trees equal to fire.
 सुपुष्पिताग्रान् रुचिरांस्  
 तरुणाङ्कुर-पल्लवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1503,6 +1607,7 @@ of hundreds of tinkle bells, Hanuma got surprised.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1514,6 +1619,8 @@ of hundreds of tinkle bells, Hanuma got surprised.
 इतश् चेतश् च दुःखार्तां  
 सम्पतन्तीं यद्-ऋच्छया ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1582,6 +1689,7 @@ mature with young shoots and leaves and covered by leaves (thought thus).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1594,6 +1702,8 @@ mature with young shoots and leaves and covered by leaves (thought thus).
 इमां सा राज-महिषी  
 नूनम् एष्यति जानकी ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1662,6 +1772,7 @@ trees, by sandal trees and by Vakula trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1670,6 +1781,8 @@ trees, by sandal trees and by Vakula trees.
 वन-सञ्चार-कुशला  
 ध्रुवम् एष्यति जानकी ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1690,6 +1803,7 @@ _________________
 
 ‘रघुनाथजीकी प्रियतमा राजरानी रामा सती-साध्वी जानकी वनमें घूमने-फिरनेमें बहुत कुशल हैं । वे अवश्य इधर आयेंगी ॥ ४५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1698,6 +1812,8 @@ _________________
 वनम् एष्यति साद्येह  
 राम-चिन्ता-सुकर्शिता ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1756,6 +1872,7 @@ forest, that Janaki will definitely come."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1764,6 +1881,8 @@ forest, that Janaki will definitely come."
 वन-वास-रता नित्यम्  
 एष्यते वनचारिणी ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1805,6 +1924,7 @@ Devi moving about in the garden will come."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1813,6 +1933,8 @@ Devi moving about in the garden will come."
 रामस्य दयिता चार्या  
 जनकस्य सुता सती ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1849,6 +1971,7 @@ interested the denizens of the garden. This is true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1857,6 +1980,8 @@ interested the denizens of the garden. This is true."
 नदीं चेमां शुभजलां  
 सन्ध्यार्थे वरवर्णिनी ॥ ४९ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1900,6 +2025,7 @@ will definitely come to this river with the auspicious water for Sandhya rite."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1908,6 +2034,8 @@ will definitely come to this river with the auspicious water for Sandhya rite."
 शुभायाः पार्थिवेन्द्रस्य  
 पत्नी रामस्य सम्मता ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1951,6 +2079,7 @@ this Ashoka garden, an auspicious one, is well suited also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1959,6 +2088,8 @@ this Ashoka garden, an auspicious one, is well suited also."
 आगमिष्यति सावश्यम्  
 इमां शीतजलां नदीम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2001,6 +2132,7 @@ with auspicious water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2009,6 +2141,8 @@ with auspicious water."
 अवेक्षमाणश् च ददर्श सर्वं  
 सुपुष्पिते पर्णघने निलीनः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2063,5 +2197,6 @@ observing everywhere.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुर्दशः सर्गः ॥ १४ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौदहवाँ सर्ग पूरा हुआ ॥ १४ ॥
+</details>
 </details>
 

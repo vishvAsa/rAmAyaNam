@@ -2,6 +2,8 @@
 title = "०५० मिथिला-गतिः"
 title_english = "050 Redemption of ahalya from her curse cont"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -22,12 +24,15 @@ them as the sons of Dasharatha and informs about the adventurous deeds the boys 
 
 50. श्रीराम आदिका मिथिला-गमन, राजा जनकद्वारा विश्वामित्रका सत्कार तथा उनका श्रीराम और लक्ष्मणके विषयमें जिज्ञासा करना एवं परिचय पाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रागुत्तरां गत्वा रामः सौमित्रिणा सह ।  
 विश्वामित्रं पुरस्कृत्य यज्ञवाटमुपागमत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +70,7 @@ This direction is presided over by *iishaana* The God.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ This direction is presided over by *iishaana* The God.
 बहूनीह सहस्राणि नानादेशनिवासिनाम् ।  
 ब्राह्मणानां महाभाग वेदाध्ययनशालिनाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ Janaka is excellent, indeed with bountifully garnered paraphernalia of the ritua
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिवाटाश्च दृश्यन्ते शकटीशतसङ्कुलाः ।  
 देशो विधीयतां ब्रह्मन् यत्र वत्स्यामहे वयम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ may be decided for us too, as I discern every inch is inhabited." Thus Rama spok
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा विश्वामित्रो महामुनिः ।  
 निवासमकरोद् देशे विविक्ते सलिलान्विते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ has refreshing water. [1-50-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रमनुप्राप्तं श्रुत्वा नृपवरस्तदा ।  
 शतानन्दं पुरस्कृत्य पुरोहितमनिन्दितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,6 +272,7 @@ Vishvamitra. [1-50-6, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,6 +280,8 @@ Vishvamitra. [1-50-6, 7a]
 प्रत्युज्जगाम सहसा विनयेन समन्वितः ॥ ७ ॥  
 विश्वामित्राय धर्मेण ददौ धर्मपुरस्कृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ with post-haste taking holy waters, and they have ritualistically offered that s
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य तु तां पूजां जनकस्य महात्मनः ॥ ८ ॥  
 पप्रच्छ कुशलं राज्ञो यज्ञस्य च निरामयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ the king Janaka, as well about the unhindered proceedings of that Vedic-ritual. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तांश्चाथ मुनीन् पृष्ट्वा सोपाध्यायपुरोधसः ॥ ९ ॥  
 यथार्हमृषिभिः सर्वैः समागच्छत् प्रहृष्टवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +408,15 @@ and joined the company of all of the sages as a happy-souled sage. [1-50-9b, 10a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजा मुनिश्रेष्ठं कृताञ्जलिरभाषत ॥ १० ॥  
 आसने भगवानास्तां सहैभिर्मुनिपुङ्गवैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,6 +460,7 @@ Janaka spoke to Vishvamitra [1-50-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -438,6 +468,8 @@ Janaka spoke to Vishvamitra [1-50-10b, 11a]
 पुरोधा ऋत्विजश्चैव राजा च सहमन्त्रिभिः ।  
 आसनेषु यथान्यायमुपविष्टाः समन्ततः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ and along with his ministers. [1-50-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा स नृपतिस्तत्र विश्वामित्रमथाब्रवीत् ।  
 अद्य यज्ञसमृद्धिर्मे सफला दैवतैः कृता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,6 +572,7 @@ you here today. [1-50-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -544,6 +580,8 @@ you here today. [1-50-13b, 14a]
 धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गवः ॥ १४ ॥  
 यज्ञोपसदनं ब्रह्मन् प्राप्तोऽसि मुनिभिः सह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +623,15 @@ mine, whereby, oh, eminent saint, I feel that I am honoured and hallowed. [1-50-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वादशाहं तु ब्रह्मर्षे दीक्षामाहुर्मनीषिणः ॥ १५ ॥  
 ततो भागार्थिनो देवान् द्रष्टुमर्हसि कौशिक ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +667,15 @@ ritual." So said king Janaka to Vishvamitra. [1-50-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मुनिशार्दूलं प्रहृष्टवदनस्तदा ॥ १६ ॥  
 पुनस्तं परिपप्रच्छ प्राञ्जलिः प्रयतो नृपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,6 +709,7 @@ inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -679,6 +724,8 @@ inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
 परस्परस्य सदृशौ प्रमाणेङ्गितचेष्टितैः ।  
 काकपक्षधरौ वीरौ श्रोतुमिच्छामि तत्त्वतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +822,15 @@ These foots are the same as king Sumati's dialogue at 1-48-2, 3, 4 including *an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा जनकस्य महात्मनः ।  
 न्यवेदयदमेयात्मा पुत्रौ दशरथस्य तौ ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,6 +864,7 @@ that those two as the sons of king Dasharatha. [1-50-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,6 +873,8 @@ that those two as the sons of king Dasharatha. [1-50-22]
 अहल्यादर्शनं चैव गौतमेन समागमम् ।  
 महाधनुषि जिज्ञासां कर्तुमागमनं तथा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -845,12 +898,15 @@ _________________
 
 अनन्तर अवरिब्बरु सिद्धाश्रमदल्लि वासिसिदुदु, राक्षसर वधॆ, यावुदे व्यग्रतॆ इल्लदॆ मिथिलॆयवरॆगॆ आगमन, विशालापुरिय दर्शन, अहल्यॆगॆ आद साक्षात्कार, महर्षि गौतमरॊन्दिगॆ समागम, मुन्तादुदन्नु विस्तारवागि वर्णिसि, कॊनॆगॆ इवरु निन्नल्लि इट्टिरुव महाधनुस्सिन सम्बन्धवागि तिळिदुकॊळ्ळुव इच्छॆयिन्द इल्लियवरॆगॆ बन्दिरुवरु ऎम्बुदन्नु तिळिसिदरु.॥23-24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् सर्वं महातेजा जनकाय महात्मने ।  
 निवेद्य विररामाथ विश्वामित्रो महामुनिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,5 +963,6 @@ the son of Ahalya, sage Vishvamitra paused. [1-50-23, 24, 25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तनॆय सर्ग पूर्णवायितु.॥50॥
+</details>
 </details>
 

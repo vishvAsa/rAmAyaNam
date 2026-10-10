@@ -2,6 +2,8 @@
 title = "०४६ तपस्वीरूपेण रावणागमनम्"
 title_english = "046 Ravana praises Seetha s beauty"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,6 +23,7 @@ Unable to refute him, because he is in such a pious garb, she had to invite him 
 
 46. रावणका साधुवेषमें सीताके पास जाकर उनका परिचय पूछना और सीताका आतिथ्यके लिये उसे आमन्त्रित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ Unable to refute him, because he is in such a pious garb, she had to invite him 
 स **विकाङ्क्षन्** भृशं रामं  
 **प्रतस्थे** नचिराद् इव ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,6 +82,7 @@ wanted him to stand guard to Seetha. [3-46-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +91,8 @@ wanted him to stand guard to Seetha. [3-46-1]
 **अभिचक्राम** वैदेहीम्  
 परिव्राजक-रूप-**धृक्** ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,6 +138,7 @@ of a sanyaasi, a meandering Brahman friar. [3-46-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -138,6 +147,8 @@ of a sanyaasi, a meandering Brahman friar. [3-46-2]
 वामे चांसे ऽवसज्याथ  
 शुभे यष्टि-कमण्डलू ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +214,7 @@ an unmistakable Brahman sanyaasi, with an unbridled tongue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,6 +223,8 @@ an unmistakable Brahman sanyaasi, with an unbridled tongue.
 ताम् **आससादातिबलो**  
 भ्रातृभ्यां रहितां वने ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,6 +274,7 @@ came over to Vaidehi in that forest, when she is without two of the brothers, na
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -270,6 +285,8 @@ came over to Vaidehi in that forest, when she is without two of the brothers, na
 रोहिणीं शशिना हीनां  
 ग्रहवद् भृश-दारुणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,6 +342,7 @@ Ravana is compared with such a planet and Seetha with Rohini.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,6 +355,8 @@ Ravana is compared with such a planet and Seetha with Rohini.
 **स्तिमितं गन्तुम् आरेभे**  
 भयाद् गोदावरी नदी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,6 +423,7 @@ sway, nor the wind is in full swing. [3-46-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,6 +432,8 @@ sway, nor the wind is in full swing. [3-46-6b, 7a]
 **उपतस्थे** च वैदेहीं  
 भिक्षु-रूपेण रावणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,6 +478,7 @@ Vaidehi in the getup of a sanyaasi. [3-46-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,6 +487,8 @@ Vaidehi in the getup of a sanyaasi. [3-46-8b, 9a]
 **अभ्यवर्तत** वैदेहीं  
 चित्राम् इव शनैश्चरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,6 +528,7 @@ over her husband, like the slow moving Saturn making advance to Star Citra which
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -510,6 +537,8 @@ over her husband, like the slow moving Saturn making advance to Star Citra which
 **अतिष्ठत् प्रेक्ष्य** वैदेहीं  
 राम-पत्नीं यशस्विनीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,6 +593,7 @@ Act 5.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -574,6 +604,8 @@ Act 5.
 **आसीनां** पर्ण-शालायां  
 बाष्प-शोकाभिपीडिताम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,6 +632,7 @@ _________________
 
 आग रावणनु अल्लि निन्तुकॊण्डे सीतॆयन्नु नोडतॊडगिदनु. अवळु बहळ सुन्दरियागिद्दळु. आकॆय हल्लु, तुटिगळु अन्दवागिद्दवु. मुखवु पूर्णचन्द्रनन्तित्तु. आकॆ पर्णशालॆयल्लि कुळितु शोकदिन्द कण्णीरन्नु सुरिसुत्तिद्दळु.॥11-12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -608,6 +641,8 @@ _________________
 **अभ्यगच्छत** वैदेहीं  
 हृष्ट-चेता निशाचरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,6 +687,7 @@ silks, as that night-walker is gladdened at his heart for her solitude. [3-46-11
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,6 +696,8 @@ silks, as that night-walker is gladdened at his heart for her solitude. [3-46-11
 **अब्रवीत्** प्रश्रितं वाक्यं  
 रहिते राक्षसाधिपः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,6 +745,7 @@ to her who is in solitariness. [3-46-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -715,6 +754,8 @@ to her who is in solitariness. [3-46-14]
 **विभ्राजमानां** वपुषा  
 रावणः **प्रशशंस** ह ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +795,7 @@ devoid of her settling, namely Rama. [3-46-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +804,8 @@ devoid of her settling, namely Rama. [3-46-15]
 कमलानां शुभां मालां  
 पद्मिनीव च **बिभ्रती** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -813,6 +857,7 @@ very limited use.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -821,6 +866,8 @@ very limited use.
 भूतिर् वा त्वं वरारोहे  
 रतिर् वा स्वैर-चारिणी ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,6 +927,7 @@ woman in the group of: *varaarohaa, matta kaashinii, uttamaa, vara varNiniii - a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -890,6 +938,8 @@ woman in the group of: *varaarohaa, matta kaashinii, uttamaa, vara varNiniii - a
 विशालं जघनं पीनम्  
 ऊरू करि-करोपमौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -936,6 +986,7 @@ spotless, reddish at ends, and pupils are black. [3-46-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -946,6 +997,8 @@ spotless, reddish at ends, and pupils are black. [3-46-18]
 मणि-प्रवेकाभरणौ  
 रुचिरौ ते पयोधरौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,6 +1057,7 @@ are covetable for they are beautiful. [3-46-19, 20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1012,6 +1066,8 @@ are covetable for they are beautiful. [3-46-19, 20]
 मनो **हरसि** मे रामे  
 नदी-कूलम् इवाम्भसा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,6 +1118,7 @@ is palmful, your hair velvety, your breasts are jostling, and you rob my soul as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1070,6 +1127,8 @@ is palmful, your hair velvety, your breasts are jostling, and you rob my soul as
 नैव देवी न गन्धर्वी  
 न यक्षी न च किन्नरी ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,6 +1265,7 @@ as yourself should be living here in the thick of forest. [3-46-23b, 24, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1216,6 +1276,8 @@ as yourself should be living here in the thick of forest. [3-46-23b, 24, 25a]
 सम्पन्नानि सुगन्धीनि  
 **युक्तान्य् आचरितुं** त्वया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,6 +1326,7 @@ are meetly to you to saunter. [3-46-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1272,6 +1335,8 @@ are meetly to you to saunter. [3-46-25b, 26a]
 भर्तारं च वरं मन्ये  
 त्वद्-युक्तम् असितेक्षणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1321,6 +1386,7 @@ is meet and right to you to choose such a husband, [aside: me alone.] [3-46-26b,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1329,6 +1395,8 @@ is meet and right to you to choose such a husband, [aside: me alone.] [3-46-26b,
 वसूनां वा वरारोहे  
 देवता **प्रतिभासि** मे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,6 +1454,7 @@ smiles, that smile will be impeccable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1394,6 +1463,8 @@ smiles, that smile will be impeccable.
 **राक्षसानाम् अयम्** वासः  
 कथं तु त्वम् इहागता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1437,6 +1508,7 @@ but how you have come here? [3-46-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1445,6 +1517,8 @@ but how you have come here? [3-46-28b, 29a]
 ऋक्षास् तरक्षवः कङ्काः+++(=गृध्राः)+++  
 कथं तेभ्यो **न बिभ्यसे** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,6 +1564,7 @@ How you are not frightened from them? [3-46-29b, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1498,6 +1573,8 @@ How you are not frightened from them? [3-46-29b, 30a]
 कथम् एका महारण्ये  
 **न बिभेषि** वरानने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1542,6 +1619,7 @@ elephants possessed of rut? [3-46-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1550,6 +1628,8 @@ elephants possessed of rut? [3-46-30b, 31a]
 एका **चरसि** कल्याणि  
 घोरान् राक्षस-सेवितान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1596,6 +1676,7 @@ you are moving in dreadful Dandaka forest that is adored by demons?" Thus Ravana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1606,6 +1687,8 @@ you are moving in dreadful Dandaka forest that is adored by demons?" Thus Ravana
 सर्वैर् अतिथि-सत्कारैः  
 **पूजयाम् आस** मैथिली ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1659,6 +1742,7 @@ a casual guest. [3-46-32b, 33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1667,6 +1751,8 @@ a casual guest. [3-46-32b, 33]
 **अब्रवीत्** सिद्धम् इत्य् एव  
 तदा तं सौम्य-दर्शनम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1714,6 +1800,7 @@ looked gracious in his bearing, 'alms are ready.' [3-46-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1722,6 +1809,8 @@ looked gracious in his bearing, 'alms are ready.' [3-46-34]
 **अशक्यम् उद‍्द्वेष्टुम्** उपाय-दर्शनान्  
 **न्यमन्त्रयद्** ब्राह्मणवत् तथा-गतम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1826,6 +1915,7 @@ death. But Seetha is addressing him contrary to his stance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1834,6 +1924,8 @@ death. But Seetha is addressing him contrary to his stance.
 "इदम् च **सिद्धं** वन-जातम् उत्तमम्  
 त्वद्-अर्थम् अव्यग्रम् **इहोपभुज्यताम्**" ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1886,6 +1978,7 @@ Thus Seetha said to Ravana. [3-46-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1894,6 +1987,8 @@ Thus Seetha said to Ravana. [3-46-36]
 **प्रसह्य** तस्या **हरणे** दृढम् मनः  
 **समर्पयाम् आस वधाय** रावणः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1951,6 +2046,7 @@ forcibly, and started to dedicate himself for destruction. [3-46-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1959,6 +2055,8 @@ forcibly, and started to dedicate himself for destruction. [3-46-37]
 **निरीक्षमाणा** हरितं **ददर्श** तन्  
 महद् वनं नैव तु राम-लक्ष्मणौ ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2027,4 +2125,5 @@ forest, but not Rama or Lakshmana. [3-46-38]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥46॥
+</details>
 </details>

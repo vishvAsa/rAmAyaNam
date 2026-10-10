@@ -2,6 +2,8 @@
 title = "०६५ विश्वामित्र-ब्रह्मर्षित्व-प्राप्तिः"
 title_english = "065 Legend of vishvamitra concluded"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -22,12 +24,15 @@ on him. Thus Sage Shataananda concludes his narration about the legend of Vishva
 
 65. विश्वामित्रकी घोर तपस्या, उन्हें ब्राह्मणत्वकी प्राप्ति तथा राजा जनकका उनकी प्रशंसा करके उनसे विदा ले राजभवनको लौटना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ हैमवतीं राम दिशं त्यक्त्वा महामुनिः ।  
 पूर्वां दिशमनुप्राप्य तपस्तेपे सुदारुणम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ Shataananda continued the legend of Vishvamitra. [1-65-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मौनं वर्षसहस्रस्य कृत्वा व्रतमनुत्तमम् ।  
 चकाराप्रतिमं राम तपः परमदुष्करम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ unmatched ascesis which is highly impracticable for others to perform. [1-65-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे वर्षसहस्रे तु काष्ठभूतं महामुनिम् ।  
 विघ्नैर्बहुभिराधूतं क्रोधो नान्तरमाविशत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,6 +165,7 @@ hearts, for he stood fast in an unmitigated ascesis on making a firm determinati
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,6 +174,8 @@ hearts, for he stood fast in an unmitigated ascesis on making a firm determinati
 भोक्तुमारब्धवानन्नं तस्मिन् काले रघूत्तम ।  
 इन्द्रो द्विजातिर्भूत्वा तं सिद्धमन्नमयाचत ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ sambhojya iti suucitam - dk*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मै दत्त्वा तदा सिद्धं सर्वं विप्राय निश्चितः ।  
 निःशेषितेऽन्ने भगवानभुक्त्वैव महातपाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +250,15 @@ _________________
 
 आग अवरु आ ऎल्ल सिद्धतॆगळिसिद भोजनवन्नु आ ब्राह्मणनिगॆ कॊडलु निश्चयिसि कॊट्टुबिट्टरु. आ अन्नदल्लि एनू उळियलिल्ल. अदक्कागि आ महातपस्वी भगवान् विश्वामित्ररु उण्णदॆ कुडियदॆ हागे इद्दुबिट्टरु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न किञ्चिदवदद् विप्रं मौनव्रतमुपास्थितः ।  
 तथैवासीत् पुनर्मौनमनुच्छ्वासं चकार ह ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +304,15 @@ Like that, he indeed carried on his ascesis. [1-65-6, 7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्षसहस्रं च नोच्छ्वसन् मुनिपुङ्गवः ।  
 तस्यानुच्छ्वसमानस्य मूर्ध्नि धूमो व्यजायत ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,6 +357,7 @@ all the worlds. [1-65-8, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -342,6 +366,8 @@ all the worlds. [1-65-8, 9a]
 मोहितास्तपसा तस्य तेजसा मन्दरश्मयः ।  
 कश्मलोपहताः सर्वे पितामहमथाब्रुवन् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ all of them addressed the Grandparent, Brahma. [1-65-9b, 10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुभिः कारणैर्देव विश्वामित्रो महामुनिः ।  
 लोभितः क्रोधितश्चैव तपसा चाभिवर्धते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,6 +457,7 @@ these lures, angers, and passions by his ascesis. [1-65-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -436,6 +466,8 @@ these lures, angers, and passions by his ascesis. [1-65-11]
 विनाशयति त्रैलोक्यं तपसा सचराचरम् ।  
 व्याकुलाश्च दिशः सर्वा न च किञ्चित् प्रकाशते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ his ascetic power. [1-65-12, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागराः क्षुभिताः सर्वे विशीर्यन्ते च पर्वताः ।  
 प्रकम्पते च वसुधा वायुर्वातीह सङ्कुलः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +586,15 @@ tend to become non-theistic and we do not know what to do. [1-65-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मन् न प्रतिजानीमो नास्तिको जायते जनः ।  
 सम्मूढमिव त्रैलोक्यं सम्प्रक्षुभितमानसम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +635,7 @@ before the resplendence of that great sage. [1-65-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -604,6 +643,8 @@ before the resplendence of that great sage. [1-65-15b, 16a]
 बुद्धिं न कुरुते यावन्नाशे देव महामुनिः ॥ १६ ॥  
 तावत् प्रसादो भगवन्नग्निरूपो महाद्युतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,12 +686,15 @@ total destruction of all worlds he is to be placated. [1-65-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालाग्निना यथा पूर्वं त्रैलोक्यं दह्यतेऽखिलम् ॥ १७ ॥  
 देवराज्यं चिकीर्षेत दीयतामस्य यन्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +738,15 @@ gods appealed to Brahma [1-65-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुरगणाः सर्वे पितामहपुरोगमाः ॥ १८ ॥  
 विश्वामित्रं महात्मानं वाक्यं मधुरमब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +781,15 @@ appeared before that great souled Vishvamitra and said this harmonious word. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मर्षे स्वागतं तेऽस्तु तपसा स्म सुतोषिताः ॥ १९ ॥  
 ब्राह्मण्यं तपसोग्रेण प्राप्तवानसि कौशिक ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +823,15 @@ Kaushika, you have achieved Bahaman-hood by your rigorous ascesis. [1-65-19b, 20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घमायुश्च ते ब्रह्मन् ददामि समरुद्‍गणः ॥ २० ॥  
 स्वस्ति प्राप्नुहि भद्रं ते गच्छ सौम्य यथासुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +867,15 @@ you please.' Thus, Brahma said to Vishvamitra. [1-65-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहवचः श्रुत्वा सर्वेषां त्रिदिवौकसाम् ॥ २१ ॥  
 कृत्वा प्रणामं मुदितो व्याजहार महामुनिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,6 +910,7 @@ on paying good devoirs to all of them that great saint cheerfully said. [1-65-21
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -863,6 +920,8 @@ on paying good devoirs to all of them that great saint cheerfully said. [1-65-21
 ब्रह्मपुत्रो वसिष्ठो मामेवं वदतु देवताः ।  
 यद्येवं परमः कामः कृतो यान्तु सुरर्षभाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +992,15 @@ and vaSat syllables, and even all Veda-s patronise me. [1-65-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रसादितो देवैर्वसिष्ठो जपतां वरः ।  
 सख्यं चकार ब्रह्मर्षिरेवमस्त्विति चाब्रवीत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1036,15 @@ way to Vishvamitra, 'you are a Brahma-sage.' [1-65-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मर्षिस्त्वं न सन्देहः सर्वं सम्पद्यते तव ।  
 इत्युक्त्वा देवताश्चापि सर्वा जग्मुर्यथागतम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1083,15 @@ all the gods have gone away as they have come. [1-65-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रोऽपि धर्मात्मा लब्ध्वा ब्राह्मण्यमुत्तमम् ।  
 पूजयामास ब्रह्मर्षिं वसिष्ठं जपतां वरम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1058,12 +1126,15 @@ the supreme among meditators and his counterpart Brahma-sage, namely Vashishta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतकामो महीं सर्वां चचार तपसि स्थितः ।  
 एवं त्वनेन ब्राह्मण्यं प्राप्तं राम महात्मना ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,12 +1170,15 @@ and oh, Rama, this great souled sage Vishvamitra achieved Brahman-hood in this w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष राम मुनिश्रेष्ठ एष विग्रहवांस्तपः ।  
 एष धर्मः परो नित्यं वीर्यस्यैष परायणम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,6 +1218,7 @@ with righteousness, and he is the stronghold for fortitude." [1-65-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1151,6 +1226,8 @@ with righteousness, and he is the stronghold for fortitude." [1-65-29]
 शतानन्दवचः श्रुत्वा रामलक्ष्मणसन्निधौ ॥ ३० ॥  
 जनकः प्राञ्जलिर्वाक्यमुवाच कुशिकात्मजम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,6 +1266,7 @@ son, Vishvamitra, with suppliantly adjoined palms. [1-65-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1196,6 +1274,8 @@ son, Vishvamitra, with suppliantly adjoined palms. [1-65-30b, 31a]
 यज्ञं काकुत्स्थसहितः प्राप्तवानसि कौशिक ।  
 पावितोऽहं त्वया ब्रह्मन् दर्शनेन महामुने ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,6 +1334,7 @@ of Kakutstha, thereby I am fortunate, I am much obliged. [31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1262,6 +1343,8 @@ of Kakutstha, thereby I am fortunate, I am much obliged. [31b, 32a]
 श्रुतं मया महातेजो रामेण च महात्मना ।  
 सदस्यैः प्राप्य च सदः श्रुतास्ते बहवो गुणाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,12 +1386,15 @@ your great ascesis when Sage Shataananda extolled it comprehensively. [1-65-33b,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयं तपस्तुभ्यमप्रमेयं च ते बलम् ।  
 अप्रमेया गुणाश्चैव नित्यं ते कुशिकात्मज ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,12 +1431,15 @@ and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृप्तिराश्चर्यभूतानां कथानां नास्ति मे विभो ।  
 कर्मकालो मुनिश्रेष्ठ लम्बते रविमण्डलम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,12 +1475,15 @@ is dangling westward. [1-65-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वः प्रभाते महातेजो द्रष्टुमर्हसि मां पुनः ।  
 स्वागतं जपतां श्रेष्ठ मामनुज्ञातुमर्हसि ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1426,12 +1518,15 @@ leave from Vishvamitra. [1-65-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो मुनिवरः प्रशस्य पुरुषर्षभम् ।  
 विससर्जाशु जनकं प्रीतं प्रीतमनास्तदा ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1473,12 +1568,15 @@ the best one among men, namely Janaka. [1-65-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा मुनिश्रेष्ठं वैदेहो मिथिलाधिपः ।  
 प्रदक्षिणं चकाराशु सोपाध्यायः सबान्धवः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1513,12 +1611,15 @@ to Vishvamitra in veneration. [1-65-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रोऽपि धर्मात्मा सहरामः सलक्ष्मणः ।  
 स्ववासमभिचक्राम पूज्यमानो महात्मभिः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1572,5 +1673,6 @@ and Lakshmana, while being venerated by great sages who are available in the rit
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तैदनॆय सर्ग पूर्णवायितु. ॥65॥
+</details>
 </details>
 

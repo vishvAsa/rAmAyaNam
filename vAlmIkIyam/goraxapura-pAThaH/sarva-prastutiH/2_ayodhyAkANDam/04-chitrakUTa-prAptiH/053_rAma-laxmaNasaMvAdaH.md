@@ -2,6 +2,8 @@
 title = "०५३ राम-लक्ष्मणसंवादः"
 title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ the forest with him.
 
 53. श्रीरामका राजाको उपालम्भ देते हुए कैकेयीसे कौसल्या आदिके अनिष्टकी आशङ्का बताकर लक्ष्मणको अयोध्या लौटानेके लिये प्रयत्न करना, लक्ष्मणका श्रीरामके बिना अपना जीवन असम्भव बताकर वहाँ जानेसे इनकार करना, फिर श्रीरामका उन्हें वनवासकी अनुमति देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं वृक्षं समासाद्य सन्ध्यामन्वास्य पश्चिमाम् ।  
 रामो रमयतां श्रेष्ठ इति होवाच लक्ष्मणम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ tree, worshipped the western twilight and spoke to Lakshmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येयं प्रथमा रात्रिर्याता जनपदाद् बहिः ।  
 या सुमन्त्रेण रहिता तां नोत्कण्ठितुमर्हसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ night which has passed without Sumantra. You ought not repent over it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जागर्तव्यमतन्द्रिभ्यामद्यप्रभृति रात्रिषु ।  
 योगक्षेमौ हि सीताया वर्तेते लक्ष्मणावयोः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ Lakshmana! The safety and welfare of Sita indeed depend on us two."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रात्रिं कथञ्चिदेवेमां सौमित्रे वर्तयामहे ।  
 अपवर्तामहे भूमावास्तीर्य स्वयमर्जितैः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ it by straw, leaves and so on, procured by our own hands."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु संविश्य मेदिन्यां महार्हशयनोचितः ।  
 इमाः सौमित्रये रामो व्याजहार कथाः शुभाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ uttered the following suitable words to Lakshmana:
 
 * श्लोक ६ से लेकर २६ तक श्रीरामचन्द्रजीने जो बातें कही हैं, वे लक्ष्मणकी परीक्षाके लिये तथा उन्हें अयोध्या लौटानेके लिये कही गयी हैं; वास्तवमें उनकी ऐसी मान्यता नहीं थी । यही बात यहाँ सभी व्याख्याकारोंने स्वीकार की है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवमद्य महाराजो दुःखं स्वपिति लक्ष्मण ।  
 कृतकामा तु कैकेयी तुष्टा भवितुमर्हति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ ambitions, ought to feel satisfied."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि देवी महाराजं कैकेयी राज्यकारणात् ।  
 अपि न च्यावयेत् प्राणान् दृष्ट्वा भरतमागतम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,12 +375,15 @@ emperor for the sake of kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाथश्च हि वृद्धश्च मया चैव विना कृतः ।  
 किं करिष्यति कामात्मा कैकेय्या वशमागतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +423,15 @@ as he is by his passion for Kaikeyi and who has fallen into the clutches of Kaik
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं व्यसनमालोक्य राज्ञश्च मतिविभ्रमम् ।  
 काम एवार्थधर्माभ्यां गरीयानिति मे मतिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +472,15 @@ passion alone is greater than early gain and religious merit."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को ह्यविद्वानपि पुमान् प्रमदायाः कृते त्यजेत् ।  
 छन्दानुवर्तिनं पुत्रं तातो मामिव लक्ष्मण ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +523,15 @@ pleasure, abandon a son like myself?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखी बत सुभार्यश्च भरतः केकयीसुतः ।  
 मुदितान् कोसलानेको यो भोक्ष्यत्यधिराजवत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ he is going to enjoy the prosperous kingdom of Kosala."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि राज्यस्य सर्वस्य सुखमेकं भविष्यति ।  
 ताते तु वयसातीते मयि चारण्यमाश्रिते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +620,15 @@ head for the entire kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थधर्मौ परित्यज्य यः काममनुवर्तते ।  
 एवमापद्यते क्षिप्रं राजा दशरथो यथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,12 +668,15 @@ comes to distress; in the same way as king Dasaratha has."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये दशरथान्ताय मम प्रव्राजनाय च ।  
 कैकेयी सौम्य सम्प्राप्ता राज्याय भरतस्य च ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,12 +717,15 @@ to Dasaratha, to send me into exile and to secure kingship for Bharata."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपीदानीं तु कैकेयी सौभाग्यमदमोहिता ।  
 कौसल्यां च सुमित्रां च सा प्रबाधेत मत्कृते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,12 +765,15 @@ Sumitra because of their relationship with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातास्मत्कारणाद् देवी सुमित्रा दुःखमावसेत् ।  
 अयोध्यामित एव त्वं काले प्रविश लक्ष्मण ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -764,6 +814,7 @@ very place, you proceed to Ayodhya next morning, oh, Lakshmana!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -772,6 +823,8 @@ very place, you proceed to Ayodhya next morning, oh, Lakshmana!"
 अनाथाया हि नाथस् त्वं  
 कौसल्याया **भविष्यसि** ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,6 +867,7 @@ for Kausalya, who has no defender."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,6 +876,8 @@ for Kausalya, who has no defender."
 **परिदद्याद्**+धि धर्मज्ञ  
 **गरं** ते मम मातरम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ protection) my mother to Bharata, oh virtuous Prince!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं जात्यन्तरे तात स्त्रियः पुत्रैर्वियोजिताः ।  
 जनन्या मम सौमित्रे तदद्यैतदुपस्थितम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +965,15 @@ mother (Kausalya), oh, Lakshmana! For that reason this has arisen certainly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया हि चिरपुष्टेन दुःखसंवर्धितेन च ।  
 विप्रयुज्यत कौसल्या फलकाले धिगस्तु माम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1014,15 @@ with great pains. Woe to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा स्म सीमन्तिनी काचिज्जनयेत् पुत्रमीदृशम् ।  
 सौमित्रे योऽहमम्बाया दद्मि शोकमनन्तकम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1063,15 @@ grief to my mother, oh, Lakshmana!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्ये प्रीतिविशिष्टा सा मत्तो लक्ष्मण सारिका ।  
 यत्तस्याः श्रूयते वाक्यं शुक पादमरेर्दश ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1113,15 @@ enemy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोचन्त्याश्चाल्पभाग्याया न किञ्चिदुपकुर्वता ।  
 पुत्रेण किमपुत्राया मया कार्यमरिन्दम ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,12 +1162,15 @@ mother, who is weeping, who is unfortunate and who has no son, oh conqueror of f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पभाग्या हि मे माता कौसल्या रहिता मया ।  
 शेते परमदुःखार्ता पतिता शोकसागरे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1136,12 +1210,15 @@ melancholy and lies plunged in a sea of grief"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एको ह्यहमयोध्यां च पृथिवीं चापि लक्ष्मण ।  
 तरेयमिषुभिः क्रुद्धो ननु वीर्यमकारणम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,12 +1258,15 @@ earth. But it is not a question of valor here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मभयभीतश्च परलोकस्य चानघ ।  
 तेन लक्ष्मण नाद्याहमात्मानमभिषेचये ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,12 +1306,15 @@ prospects in the other world. Hence, I do not allow myself to be crowned."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदन्यच्च करुणं विलप्य विजने बहु ।  
 अश्रुपूर्णमुखो दीनो निशि तूष्णीमुपाविशत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,12 +1354,15 @@ other ways and sat quite, his face full of tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलापोपरतं रामं गतार्चिषमिवानलम् ।  
 समुद्रमिव निर्वेगमाश्वासयत लक्ष्मणः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1315,12 +1401,15 @@ Lakshmana consoled Rama as follows when the later had ceased lamenting like a fi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवमद्य पुरी राम अयोध्याऽऽयुधिनां वर ।  
 निष्प्रभा त्वयि निष्क्रान्ते गतचन्द्रेव शर्वरी ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1362,12 +1451,15 @@ warriors!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतदौपयिकं राम यदिदं परितप्यसे ।  
 विषादयसि सीतां च मां चैव पुरुषर्षभ ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1407,12 +1499,15 @@ to Sita and me too, oh jewel among men!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सीता त्वया हीना न चाहमपि राघव ।  
 मुहूर्तमपि जीवावो जलान्मत्स्याविवोद्‍धृतौ ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1455,12 +1550,15 @@ like fish pulled out of water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तातं न शत्रुघ्नं न सुमित्रां परन्तप ।  
 द्रष्टुमिच्छेयमद्याहं स्वर्गं चापि त्वया विना ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1501,12 +1599,15 @@ father or Satrughna or Sumitra or even the heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तत्र समासीनौ नातिदूरे निरीक्ष्य ताम् ।  
 न्यग्रोधे सुकृतां शय्यां भेजाते धर्मवत्सलौ ॥३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1546,6 +1647,7 @@ a bed well- prepared under a banyan tree, sought for the bed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1554,6 +1656,8 @@ a bed well- prepared under a banyan tree, sought for the bed.
 समाः समस्ता विदधे परन्तपः  
 प्रपद्य धर्मं सुचिराय राघवः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1601,6 +1705,7 @@ spend all the fourteen years in exile with Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1609,6 +1714,8 @@ spend all the fourteen years in exile with Lakshmana.
 न तौ भयं सम्भ्रममभ्युपेयतु-  
 र्यथैव सिंहौ गिरिसानुगोचरौ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1664,5 +1771,6 @@ couple of lions on the slopes of a mountain.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
+</details>
 </details>
 

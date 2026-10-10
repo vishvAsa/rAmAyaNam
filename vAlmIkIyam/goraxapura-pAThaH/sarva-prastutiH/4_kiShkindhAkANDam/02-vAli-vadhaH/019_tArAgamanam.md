@@ -2,6 +2,8 @@
 title = "०१९ तारागमनम्"
 title_english = "019 Tara s arrival at Vali in battlefield"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -22,12 +24,15 @@ her husband Vali and his brother Sugreeva. She faints and wails for the departin
 
 19. अङ्गदसहित ताराका भागे हुए वानरोंसे बात करके वालीके समीप आना और उसकी दुर्दशा देखकर रोना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वानरमहाराजः शयानः शरपीडितः ।  
 प्रत्युक्तो हेतुमद्वाक्यैर्नोत्तरं प्रत्यपद्यत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ words did not find any other reply to be given to Rama. [4-19-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्मभिः परिभिन्नाङ्गः पादपैराहतो भृशम् ।  
 रामबाणेन चाक्रान्तो जीवितान्ते मुमोह सः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ arrow finally vanquished, that Vali fainted at the time of his breathing his las
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं भार्या बाणमोक्षेण रामदत्तेन संयुगे ।  
 हतं प्लवगशार्दूलं तारा शुश्राव वालिनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ moksheNa*, but it is said to be a squeezed meaning according to the style of old
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सपुत्राप्रियं श्रुत्वा वधं भर्तुः सुदारुणम् ।  
 निष्पपात भृशं तस्मादुद्विग्ना गिरिकन्दरात् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -200,12 +214,15 @@ rushed out of Kishkindha along with Angada. [4-19-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वङ्गदपरीवारा वानरा हि महाबलाः ।  
 ते सकार्मुकमालोक्य रामं त्रस्ताः प्रदुद्रुवुः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +265,15 @@ and they very quickly fled from there towards Kishkindha. [4-19-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा ददर्श ततस्त्रस्तान् हरीनापततो द्रुतम् ।  
 यूथादेव परिभ्रष्टान् मृगान् निहतयूथपान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ like those animals that have wandered off from their herd when their master is k
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानुवाच समासाद्य दुःखितान् दुःखिता सती ।  
 रामवित्रासितान् सर्वाननुबद्धानिवेषुभिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ of them, distressed as she is. [4-19-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरा राजसिंहस्य यस्य यूयं पुरःसराः ।  
 तं विहाय सुवित्रस्ताः कस्माद् द्रवत दुर्गताः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,12 +407,15 @@ king to whom all of you are ushers?" Thus Tara enquired with the monkeys. [4-19-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यहेतोः स चेद् भ्राता भ्रात्रा क्रूरेण पातितः ।  
 रामेण प्रहितैर्दूरान्मार्गणैर्दूरपातिभिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +467,15 @@ in information and orderliness of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिपत्न्या वचः श्रुत्वा कपयः कामरूपिणः ।  
 प्राप्तकालमविश्लिष्टमूचुर्वचनमङ्गनाम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,12 +518,15 @@ lady Tara, befitting to present time of chaos. [4-19-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवपुत्रे निवर्तस्व पुत्रं रक्षस्व चाङ्गदम् ।  
 अन्तको रामरूपेण हत्वा नयति वालिनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,12 +566,15 @@ taking away Vali on killing. [4-19-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्तान् वृक्षान् समाविध्य विपुलाश्च तथा शिलाः ।  
 वाली वज्रसमैर्बाणैर्वज्रेणेव निपातितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +622,15 @@ monkey is multiplying one arrow to become many. Rumours multiply thus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिभूतमिदं सर्वं विद्रुतं वानरं बलम् ।  
 अस्मिन् प्लवगशार्दूले हते शक्रसमप्रभे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +672,15 @@ felt defenceless and fled. [4-19-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्ष्यतां नगरी शूरैरङ्गदश्चाभिषिच्यताम् ।  
 पदस्थं वालिनः पुत्रं भजिष्यन्ति प्लवङ्गमाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,6 +719,7 @@ enthroned all the fly-jumpers will stand by him. [4-19-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -683,6 +728,8 @@ enthroned all the fly-jumpers will stand by him. [4-19-14]
 अभार्याः सहभार्याश्च सन्त्यत्र वनचारिणः ।  
 लुब्धेभ्यो विप्रलब्धेभ्यस्तेभ्यो नः सुमहद्भयम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +802,15 @@ promptly enter our strongholds on this day itself. [4-19-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पान्तरगतानां तु श्रुत्वा वचनमङ्गना ।  
 आत्मनः प्रतिरूपं सा बभाषे चारुहासिनी ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +856,15 @@ her. She paced still ahead, gained a pause and then started to speak to them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रेण मम किं कार्यं राज्येनापि किमात्मना ।  
 कपिसिंहे महाभागे तस्मिन् भर्तरि नश्यति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,12 +904,15 @@ honour perished. [4-19-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादमूलं गमिष्यामि तस्यैवाहं महात्मनः ।  
 योऽसौ रामप्रयुक्तेन शरेण विनिपातितः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,12 +952,15 @@ by Rama." So said Tara to fleeing monkeys. [4-19-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा प्रदुद्राव रुदती शोकमूर्च्छिता ।  
 शिरश्चोरश्च बाहुभ्यां दुःखेन समभिघ्नती ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1003,15 @@ hands while she speedily rushed towards Vali. [4-19-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा व्रजन्ती ददर्शाथ पतिं निपतितं भुवि ।  
 हन्तारं दानवेन्द्राणां समरेष्वनिवर्तिनाम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,6 +1054,7 @@ and Dundubhi, and who never retreated in combats, but now fallen down on ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1006,6 +1069,8 @@ and Dundubhi, and who never retreated in combats, but now fallen down on ground.
 शार्दूलेनामिषस्यार्थे  
 मृगराजम् इवाहतम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,6 +1145,7 @@ blaster as with great gusty winds, and who is a roarer as with a cluster of grea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1088,6 +1154,8 @@ blaster as with great gusty winds, and who is a roarer as with a cluster of grea
 नाग-हेतोः सुपर्णेन  
 चैत्यम् उन्मथितं यथा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
@@ -1142,12 +1210,15 @@ onto ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवष्टभ्यावतिष्ठन्तं ददर्श धनुरूर्जितम् ।  
 रामं रामानुजं चैव भर्तुश्चैव तथानुजम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1192,12 +1263,15 @@ is appearing behind Rama while Sugreeva, over dying Vali.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानतीत्य समासाद्य भर्तारं निहतं रणे ।  
 समीक्ष्य व्यथिता भूमौ सम्भ्रान्ता निपपात ह ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1237,12 +1311,15 @@ fell down on earth as she is distraught and dumbfounded. [4-19-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्तेव पुनरुत्थाय आर्यपुत्रेति वादिनी ।  
 रुरोद सा पतिं दृष्ट्वा संवीतं मृत्युदामभिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1286,12 +1363,15 @@ and then she wailingly addressed him as, "oh, nobleman's son..." [4-19-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामवेक्ष्य तु सुग्रीवः क्रोशन्तीं कुररीमिव ।  
 विषादमगमत् कष्टं दृष्ट्वा चाङ्गदमागतम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,5 +1421,6 @@ a miserable remorse came upon Sugreeva. [4-19-28]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु. ॥19॥
+</details>
 </details>
 

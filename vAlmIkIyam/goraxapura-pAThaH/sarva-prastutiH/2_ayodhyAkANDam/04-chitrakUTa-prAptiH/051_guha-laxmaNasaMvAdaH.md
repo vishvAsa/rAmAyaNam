@@ -2,6 +2,8 @@
 title = "०५१ गुह-लक्ष्मणसंवादः"
 title_english = "051 Guha requests Lakshmana to take rest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ mothers.
 
 51. निषादराज गुहके समक्ष लक्ष्मणका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं जाग्रतमदम्भेन भ्रातुरर्थाय लक्ष्मणम् ।  
 गुहः सन्तापसन्तप्तो राघवं वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ brother Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं तात सुखा शय्या त्वदर्थमुपकल्पिता ।  
 प्रत्याश्वसिहि साध्वस्यां राजपुत्र यथासुखम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ Oh, prince!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उचितोऽयं जनः सर्वः क्लेशानां त्वं सुखोचितः ।  
 गुप्त्यर्थं जागरिष्यामः काकुत्स्थस्य वयं निशाम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ keep awake this night, for the protection of Rama"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि रामात् प्रियतमो ममास्ते भुवि कश्चन ।  
 ब्रवीम्येव च ते सत्यं सत्येनैव च ते शपे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ you by truth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य प्रसादादाशंसे लोकेऽस्मिन् सुमहद् यशः ।  
 धर्मावाप्तिं च विपुलामर्थकामौ च पुष्कलौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,12 +274,15 @@ reward of wealth, by the sole grace of Rama"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं प्रियसखं रामं शयानं सह सीतया ।  
 रक्षिष्यामि धनुष्पाणिः सर्वथा ज्ञातिभिः सह ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ with Sita in every way, with bow in hand."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मेऽस्त्यविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा ।  
 चतुरङ्गं ह्यतिबलं सुमहत् सन्तरेमहि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,6 +375,7 @@ infantry)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -360,6 +384,8 @@ infantry)."
 कथं दाशरथौ भूमौ शयाने सह सीतया ।  
 शक्या निद्रा मया लब्धुं जीवितं वा सुखानि वा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +440,15 @@ you, who keep your duty alone in view, all of us are fearless in this land."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो न देवासुरैः सर्वैः शक्यः प्रसहितुं युधि ।  
 तं पश्य सुखसंसुप्तं तृणेषु सह सीतया ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,6 +489,7 @@ combined, now sleeping profoundly on the grass along with Sita."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -468,6 +498,8 @@ combined, now sleeping profoundly on the grass along with Sita."
 अस्मिन् प्रव्रजिते राजा न चिरं वर्तयिष्यति ।  
 विधवा मेदिनी नूनं क्षिप्रमेव भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +555,15 @@ exile, the king will not live long and the earth will become surely widowed fort
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनद्य सुमहानादं श्रमेणोपरताः स्त्रियः ।  
 निर्घोषोपरतं तात मन्ये राजनिवेशनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,12 +604,15 @@ fallen silent and I am sure that a profound stillness reigns in the palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या चैव राजा च तथैव जननी मम ।  
 नाशंसे यदि जीवन्ति सर्वे ते शर्वरीमिमाम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +652,15 @@ this night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवेदपि हि मे माता शत्रुघ्नस्यान्ववेक्षया ।  
 तद् दुःखं यदि कौसल्या वीरसूर्विनशिष्यति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +700,15 @@ be painful if Kausalya who has given birth to a heroic son, dies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्तजनाकीर्णा सुखालोकप्रियावहा ।  
 राजव्यसनसंसृष्टा सा पुरी विनशिष्यति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,12 +748,15 @@ brought pleasure to the world, when seized with agony over the king's death, wil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं पुत्रं महात्मानं ज्येष्ठपुत्रमपश्यतः ।  
 शरीरं धारयिष्यन्ति प्राणा राज्ञो महात्मनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -750,12 +797,15 @@ in the body of the generous king be maintained?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टे नृपतौ पश्चात् कौसल्या विनशिष्यति ।  
 अनन्तरं च मातापि मम नाशमुपैष्यति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +838,15 @@ behind. anantaramcha = Afterwards; *mama maataa.api* = my mother also; *upaishhy
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिक्रान्तमतिक्रान्तमनवाप्य मनोरथम् ।  
 राज्ये राममनिक्षिप्य पिता मे विनशिष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +889,15 @@ cherished wish of his heart, my father will leave this world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्थाः पितरं वृत्तं तस्मिन् काले ह्युपस्थिते ।  
 प्रेतकार्येषु सर्वेषु संस्करिष्यन्ति राघवम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,6 +937,7 @@ course of all funeral rites, when the hour has struck.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -891,6 +948,8 @@ course of all funeral rites, when the hour has struck.
 आरामोद्यानसम्पन्नां समाजोत्सवशालिनीम् ।  
 सुखिता विचरिष्यन्ति राजधानीं पितुर्मम ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,12 +1015,15 @@ and bright with festivities carried on under the patronage of associations.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि जीवेद् दशरथो वनवासात् पुनर्वयम् ।  
 प्रत्यागम्य महात्मानमपि पश्याम सुव्रतम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,12 +1063,15 @@ king Dasaratha of noble vows again?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि सत्यप्रतिज्ञेन सार्धं कुशलिना वयम् ।  
 निवृत्ते वनवासेऽस्मिन्नयोध्यां प्रविशेमहि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1111,15 @@ with Rama who is faithful to his promises?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिदेवयमानस्य दुःखार्तस्य महात्मनः ।  
 तिष्ठतो राजपुत्रस्य शर्वरी सात्यवर्तत ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,6 +1159,7 @@ anguish as he was, that night rolled away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1099,6 +1168,8 @@ anguish as he was, that night rolled away.
 मुमोच बाष्पं व्यसनाभिपीडितो  
 ज्वरातुरो नाग इव व्यथातुरः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,5 +1228,6 @@ fever.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग पूर्णवायितु ॥51॥
+</details>
 </details>
 

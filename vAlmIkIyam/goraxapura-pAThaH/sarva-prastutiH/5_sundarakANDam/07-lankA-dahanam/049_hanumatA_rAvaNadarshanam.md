@@ -2,6 +2,8 @@
 title = "०४९ हनुमता रावणदर्शनम्"
 title_english = "049 Hanuma sees well adorned Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -22,12 +24,15 @@ but for his gross unrighteousness, which pulled him down.
 
 49. रावणके प्रभावशाली स्वरूपको देखकर हनुमान् जी के मनमें अनेक प्रकारके विचारोंका उठना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स कर्मणा तस्य विस्मितो भीमविक्रमः ।  
 हनूमान् क्रोधताम्राक्षो रक्षोऽधिपमवैक्षत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ and saw Ravana with his red hot eyes. He was surprised by that deed of Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राजमानं महार्हेण काञ्चनेन विराजता ।  
 मुक्ताजालवृतेनाथ मुकुटेन महाद्युतिम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ of gold as also encircled with strings of pearls.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रसंयोगसंयुक्तैर्महार्हमणिविग्रहैः ।  
 हैमैराभरणैश्चित्रैर्मनसेव प्रकल्पितैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ decorated with worthy gems, which appeared as though they were prepared with the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महार्हक्षौमसंवीतं रक्तचन्दनरूषितम् ।  
 स्वनुलिप्तं विचित्राभिर्विविधाभिश्च भक्तिभिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,12 +222,15 @@ and well painted with various brightly coloured designs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्रं दर्शनीयैश्च रक्ताक्षैर्भीमदर्शनैः ।  
 दीप्ततीक्ष्णमहादंष्ट्रं प्रलम्बं दशनच्छदैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,12 +245,15 @@ _________________
 
 उसकी आँखें देखने योग्य लाल-लाल और भयावनी थीं; उनसे और चमकीली तीखी एवं बड़ी-बड़ी दाढ़ों तथा लंबे-लंबे ओठोंके कारण उसकी विचित्र शोभा होती थी ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरोभिर्दशभिर्वीरो भ्राजमानं महौजसम् ।  
 नानाव्यालसमाकीर्णैः शिखरैरिव मन्दरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ of different varieties.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलाञ्जनचयप्रख्यं हारेणोरसि राजता ।  
 पूर्णचन्द्राभवक्त्रेण सबालार्कमिवाम्बुदम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +347,15 @@ a cloud illumined by the rising sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुभिर्बद्धकेयूरैश्चन्दनोत्तमरूषितैः ।  
 भ्राजमानाङ्गदैर्भीमैः पञ्चशीर्षैरिवोरगैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ serpents.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महति स्फाटिके चित्रे रत्नसंयोगचित्रिते ।  
 उत्तमास्तरणास्तीर्णे सूपविष्टं वरासने ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ by being embedded with jewels and overspread with an exquisite covering.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलङ्कृताभिरत्यर्थं प्रमदाभिः समन्ततः ।  
 वालव्यजनहस्ताभिरारात्समुपसेवितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,6 +497,7 @@ and with whisks in their hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,6 +506,8 @@ and with whisks in their hands.
 उपोपविष्टं रक्षोभिश्चतुर्भिर्बलदर्पितम् ।  
 कृत्स्नं परिवृतं लोकं चतुर्भिरिव सागरैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ and the counselor Nikumbha and looked like the entire terrestrial globe enclosed
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिभिर्मन्त्रतत्त्वज्ञैरन्यैश्च शुभदर्शिभिः ।  
 आश्वास्यमानं सचिवैः सुरैरिव सुरेश्वरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +612,15 @@ with auspicious minds, as Indra the lord of celestials is reassured by celestial
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपश्यद् राक्षसपतिं हनूमानतितेजसम् ।  
 वेष्टितं मेरुशिखरे सतोयमिव तोयदम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +662,15 @@ cloud on the peak of Mount Meru.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैः सम्पीड्यमानोऽपि रक्षोभिर्भीमविक्रमैः ।  
 विस्मयं परमं गत्वा रक्षोऽधिपमवैक्षत ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +710,15 @@ surprise, looked attentively at Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राजमानं ततो दृष्ट्वा हनुमान् राक्षसेश्वरम् ।  
 मनसा चिन्तयामास तेजसा तस्य मोहितः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,12 +758,15 @@ and thought in his mind as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो रूपमहो धैर्यमहो सत्त्वमहो द्युतिः ।  
 अहो राक्षसराजस्य सर्वलक्षणयुक्तता ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +806,15 @@ marks, alas, this king of demons has!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यधर्मो न बलवान् स्यादयं राक्षसेश्वरः ।  
 स्यादयं सुरलोकस्य सशक्रस्यापि रक्षिता ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,6 +854,7 @@ protector of even the world of celestials together with Indra the lord of celest
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -810,6 +864,8 @@ protector of even the world of celestials together with Indra the lord of celest
 इति चिन्तां बहुविधामकरोन्मतिमान् कपिः ।  
 दृष्ट्वा राक्षसराजस्य प्रभावममितौजसः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,5 +952,6 @@ ocean."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

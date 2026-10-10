@@ -2,6 +2,8 @@
 title = "०३५ सरमया रावणनिर्धारकथनम्"
 title_english = "035 Seetha asks Sarama about Ravana s decision"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ Seetha to him as he is perceiving adverse omens.
 
 35. माल्यवान् का रावणको श्रीरामसे संधि करनेके लिये समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शङ्खविमिश्रेण भेरीशब्देन नादिना ।  
 उपयाति महाबाहू रामः परपुरञ्जयः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ resonant roll of kettle drums, mingled with the blast of couches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं निनादं निशम्याथ रावणो राक्षसेश्वरः ।  
 मुहूर्तं ध्यानमास्थाय सचिवानभ्युदैक्षत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +120,7 @@ looked towards his ministers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +128,8 @@ looked towards his ministers.
 सभां सन्नादयन् सर्वामित्युवाच महाबलः ॥ ३ ॥  
 जगत्सन्तापनः क्रूरोऽगर्हयन् राक्षसेश्वरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,6 +173,7 @@ none.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -170,6 +182,8 @@ none.
 भवतश्चाप्यहं वेद्मि युद्धे सत्यपराक्रमान् ।  
 तूष्णीकानीक्षतोऽन्योन्यं विदित्वा रामविक्रमम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -230,12 +244,15 @@ strength and heroism."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु सुमहाप्राज्ञो माल्यवान् नाम राक्षसः ।  
 रावणस्य वचः श्रुत्वा इति मातामहोऽब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,12 +295,15 @@ intelligent demon called Malyavan, answered him thus:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्यास्वभिविनीतो यो राजा राजन् नयानुगः ।  
 स शास्ति चिरमैश्वर्यमरींश्च कुरुते वशे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +349,15 @@ constitute fourteen sciences.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दधानो हि कालेन विगृह्णंश्चारिभिः सह ।  
 स्वपक्षे वर्धनं कुर्वन्महदैश्वर्यमश्नुते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,12 +397,15 @@ his own party and attains a great power."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीयमानेन कर्तव्यो राज्ञा सन्धिः समेन च ।  
 न शत्रुमवमन्येत ज्यायान् कुर्वीत विग्रहम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +447,15 @@ enemy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मह्यं रोचते सन्धिः सह रामेण रावण ।  
 यदर्थमभियुक्तोऽसि सीता तस्मै प्रदीयताम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +496,15 @@ for whose sake you are being attacked, be restored to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य देवर्षयः सर्वे गन्धर्वाश्च जयैषिणः ।  
 विरोधं मा गमस्तेन सन्धिस्ते तेन रोचताम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +545,15 @@ victory of Rama. Do not get an enmity with them. Let alliance with him be accept
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असृजद् भगवान् पक्षौ द्वावेव हि पितामहः ।  
 सुराणामसुराणां च धर्माधर्मौ तदाश्रयौ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,12 +594,15 @@ and the demons. Celestials take refuge in righteousness and demons in unrighteou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मो हि श्रूयते पक्ष अमराणां महात्मनाम् ।  
 अधर्मो रक्षसां पक्षो ह्यसुराणां च राक्षस ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +643,15 @@ Unrighteousness is indeed on the side of ogres and demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मो वै ग्रसतेऽधर्मं यदा कृतमभूद् युगम् ।  
 अधर्मो ग्रसते धर्मं यदा तिष्यः प्रवर्तते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +695,15 @@ When unrighteousness swallows righteousness, it incites Kali Yuga the fourth age
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् त्वया चरता लोकान् धर्मोऽपि निहतो महान् ।  
 अधर्मः प्रगृहीतश्च तेनास्मद् बलिनः परे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +744,15 @@ destroyed and unrighteousness favoured by you. So, the enemies are stronger than
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रमादात् प्रवृद्धस्तेऽधर्मोऽहिर्ग्रसते हि नः ।  
 विवर्धयति पक्षं च सुराणां सुरभावनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +793,15 @@ favourable to demons, the sect of demons is thereby getting augmented."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषयेषु प्रसक्तेन यत्किञ्चित्कारिणा त्वया ।  
 ऋषीणामग्निकल्पानामुद्वेगो जनितो महान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +844,15 @@ created a great alarm in the sages, having the nature of fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां प्रभावो दुर्धर्षः प्रदीप्त इव पावकः ।  
 तपसा भावितात्मानो धर्मस्यानुग्रहे रताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ created a great alarm in the sages, having the nature of fire."
 
 अवर प्रभाव उरियुव अग्नियन्तॆ दुर्धर्षवागिदॆ. आ ऋषि मुनिगळु तपस्सिन आचरणॆयिन्द तम्म अन्तःकरणवन्नु शुद्धगॊळिसि कॊण्डु धर्मद सङ्ग्रहदल्ले तत्पररागिरुत्तारॆ.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुख्यैर्यज्ञैर्यजन्त्येते तैस्तैर्यत्ते द्विजातयः ।  
 जुह्वत्यग्नींश्च विधिवद् वेदांश्चोच्चैरधीयते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +894,15 @@ created a great alarm in the sages, having the nature of fire."
 
 ई द्विजरु मुख्य-मुख्य यज्ञगळ मूलक यजन माडुत्तारॆ. विधिवत्तागि अग्नियल्लि आहुतिगळन्नु कॊट्टु, उच्चस्वरदल्लि वेदगळन्नु पठिसुत्तारॆ.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिभूय च रक्षांसि ब्रह्मघोषानुदीरयन् ।  
 दिशो विप्रद्रुताः सर्वाः स्तनयित्नुरिवोष्णगे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +952,15 @@ all directions, as thundering clouds in a hot season."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषीणामग्निकल्पानामग्निहोत्रसमुत्थितः ।  
 आदत्ते रक्षसां तेजो धूमो व्याप्य दिशो दश ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1001,15 @@ brilliance), enveloping the ten directions, takes away the magical power of the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु तेषु च देशेषु पुण्येष्वेव दृढव्रतैः ।  
 चर्यमाणं तपस्तीव्रं सन्तापयति राक्षसान् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -984,6 +1049,7 @@ countries torment the demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -991,6 +1057,8 @@ countries torment the demons."
 मनुष्या वानरा ऋक्षा गोलाङ्गूला महाबलाः ।  
 बलवन्त इहागम्य गर्जन्ति दृढविक्रमाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,12 +1076,15 @@ countries torment the demons."
 
 नीनु देवतॆगळिन्द, दानवरिन्द, राक्षसरिन्दले अवध्यनागलु वर पडॆदिरुवॆ, आदरॆ मनुष्यरिन्द इल्ल. आदरॆ इल्लादरो मनुष्यरु, वानररु, करडिगळु, गोलाङ्गूलरु बन्दु गर्जिसुत्तिद्दारॆ. अवरॆल्लरू भारी बलवन्तरू, सैन्यशक्तियिन्द सम्पन्नरू, सुदृढ पराक्रमिगळू आगिद्दारॆ.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पातान् विविधान् दृष्ट्वा घोरान् बहुविधान् बहून् ।  
 विनाशमनुपश्यामि सर्वेषां रक्षसामहम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,12 +1121,15 @@ are coming hither, roaring like lions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खराभिस्तनिता घोरा मेघाः प्रतिभयङ्कराः ।  
 शोणितेनाभिवर्षन्ति लङ्कामुष्णेन सर्वतः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1170,15 @@ things, I am perceiving a destruction of all the demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुदतां वाहनानां च प्रपतन्त्यश्रुबिन्दवः ।  
 रजोध्वस्ता विवर्णाश्च न प्रभान्ति यथापुरम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,12 +1218,15 @@ Lanka on every side."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याला गोमायवो गृध्रा वाश्यन्ति च सुभैरवम् ।  
 प्रविश्य लङ्कामारामे समवायांश्च कुर्वते ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1186,12 +1266,15 @@ discoloured, covered with dust and are not shining as before."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालिकाः पाण्डुरैर्दन्तैः प्रहसन्त्यग्रतः स्थिताः ।  
 स्त्रियः स्वप्नेषु मुष्णन्त्यो गृहाणि प्रतिभाष्य च ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1231,12 +1314,15 @@ are in the groves, forming into groups."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहाणां बलिकर्माणि श्वानः पर्युपभुञ्जते ।  
 खरा गोषु प्रजायन्ते मूषका नकुलेषु च ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1366,15 @@ in front, laughing loudly with their white teeth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्जारा द्वीपिभिः सार्धं सूकराः शुनकैः सह ।  
 किन्नरा राक्षसैश्चापि समेयुर्मानुषैः सह ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,12 +1417,15 @@ rats of mongoose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरा रक्तपादाश्च विहगाः कालचोदिताः ।  
 राक्षसानां विनाशाय कपोता विचरन्ति च ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1375,12 +1467,15 @@ men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चीचीकूचीति वाशन्त्यः शारिका वेश्मसु स्थिताः ।  
 पतन्ति ग्रथिताश्चापि निर्जिताः कलहैषिभिः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,6 +1518,7 @@ foretelling the extermination of demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1430,6 +1526,8 @@ foretelling the extermination of demons."
 करालो विकटो मुण्डः पुरुषः कृष्णपिङ्गलः ॥ ३३ ॥  
 कालो गृहाणि सर्वेषां काले कालेऽन्ववेक्षते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,6 +1572,7 @@ bellicose birds drop down, being twined together in groups."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1484,6 +1583,8 @@ bellicose birds drop down, being twined together in groups."
 कुरुष्व नरराजेन सन्धिं रामेण रावण ।  
 ज्ञात्वावधार्य कर्माणि क्रियतामायतिक्षमम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1526,6 +1627,7 @@ dwellings, both morning and evening. These and such other sinister omens appear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1534,6 +1636,8 @@ dwellings, both morning and evening. These and such other sinister omens appear.
 अनुत्तमेषूत्तमपौरुषो बली  
 बभूव तूष्णीं समवेक्ष्य रावणम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1588,5 +1692,6 @@ is good for the future be done after a mature understanding."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु.॥35॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००७ रावणेन राक्षसाह्वानम्"
 title_english = "007 The demons inspire Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,6 +22,7 @@ that Indrajit alone is enough to kill the army of monkeys together with Rama.
 
 7. राक्षसोंका रावण और इन्द्रजित् के बल-पराक्रमका वर्णन करते हुए उसे रामपर विजय पानेका विश्वास दिलाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27,6 +30,8 @@ that Indrajit alone is enough to kill the army of monkeys together with Rama.
 ऊचुः प्राञ्जलयः सर्वे रावणं राक्षसेश्वरम् ॥ १ ॥  
 द्विषत्पक्षमविज्ञाय नीतिबाह्यास्त्वबुद्धयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,12 +80,15 @@ of their enemy's side (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् परिघशक्त्यृष्टिशूलपट्टिशकुन्तलम् ॥ २ ॥  
 सुमहन्नो बलं कस्माद् विषादं भजते भवान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,6 +131,7 @@ sharp-edged spears, is very great. Why are you getting worried?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -130,6 +139,8 @@ sharp-edged spears, is very great. Why are you getting worried?"
 कैलासशिखरावासी यक्षैर्बहुभिरावृतः ।  
 सुमहत्कदनं कृत्वा वश्यस्ते धनदः कृतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +191,15 @@ doing a great battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स महेश्वरसख्येन श्लाघमानस्त्वया विभो ।  
 निर्जितः समरे रोषाल्लोकपालो महाबलः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +243,15 @@ by you in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनिपात्य च यक्षौघान् विक्षोभ्य विनिगृह्य च ।  
 त्वया कैलासशिखराद् विमानमिदमाहृतम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +291,15 @@ in prison, this aerial car (Pushpak) was procured by you from Mount Kailasa."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयेन दानवेन्द्रेण त्वद्भयात् सख्यमिच्छता ।  
 दुहिता तव भार्यार्थे दत्ता राक्षसपुङ्गव ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +339,15 @@ to you in marriage, due to fear from you and duly desiring your friendship."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दानवेन्द्रो महाबाहो वीर्योत्सिक्तो दुरासदः ।  
 विगृह्य वशमानीतः कुम्भीनस्याः सुखावहः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +388,15 @@ having won a battle against him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्जितास्ते महाबाहो नागा गत्वा रसातलम् ।  
 वासुकिस्तक्षकः शङ्खो जटी च वशमाहृताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +438,7 @@ as your subjects."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -420,6 +447,8 @@ as your subjects."
 स्वबलं समुपाश्रित्य नीता वशमरिन्दम ।  
 मायाश्चाधिगतास्तत्र बह्व्यो वै राक्षसाधिप ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +503,15 @@ also were learnt from them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूराश्च बलवन्तश्च वरुणस्य सुता रणे ।  
 निर्जितास्ते महाभाग चतुर्विधबलानुगाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,6 +552,7 @@ having four limbs (viz. elephants, chariots, cavalry and infantry) were defeated
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -530,6 +563,8 @@ having four limbs (viz. elephants, chariots, cavalry and infantry) were defeated
 जयश्च विपुलः प्राप्तो मृत्युश्च प्रतिषेधितः ।  
 सुयुद्धेन च ते सर्वे लोकस्तत्र सुतोषिताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +623,15 @@ warded off by you. All the people there were delighted to see your good battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियैर्बहुभिर्वीरैः शक्रतुल्यपराक्रमैः ।  
 आसीद् वसुमती पूर्णा महद्भिरिव पादपैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +671,15 @@ courage equal to that Devendra (Lord of celestials).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां वीर्यगुणोत्साहैर्न समो राघवो रणे ।  
 प्रसह्य ते त्वया राजन् हताः समरदुर्जयाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +720,15 @@ Those warriors, who were difficult to be overcome in battle, were overpowered an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठ वा किं महाराज श्रमेण तव वानरान् ।  
 अयमेको महाबाहुरिन्द्रजित् क्षपयिष्यति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -724,12 +768,15 @@ destroy the monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन च महाराज माहेश्वरमनुत्तमम् ।  
 इष्ट्वा यज्ञं वरो लब्धो लोके परमदुर्लभः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,6 +819,7 @@ lord shiva), a boon very rare to be obtained in the world, was acquired by him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -782,6 +830,8 @@ lord shiva), a boon very rare to be obtained in the world, was acquired by him."
 अनेन हि समासाद्य देवानां बलसागरम् ।  
 गृहीतो दैवतपतिर्लङ्कां चापि प्रवेशितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +898,15 @@ impelled to come to Lanka (as a detenu).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहनियोगाच्च मुक्तः शम्बरवृत्रहा ।  
 गतस्त्रिविष्टपं राजन् सर्वदेवनमस्कृतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,12 +949,15 @@ killed demons called Shambara and Vrita and who was adored by all celestials, we
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेव त्वं महाराज विसृजेन्द्रजितं सुतम् ।  
 यावद् वानरसेनां तां सरामां नयति क्षयम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1000,15 @@ Rama will be brought to an end."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन्नापदयुक्तेयमागता प्राकृताज्जनात् ।  
 हृदि नैव त्वया कार्या त्वं वधिष्यसि राघवम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1002,5 +1061,6 @@ be kept by you in mind, you will kill Rama."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि एळनॆय सर्ग पूर्णवायितु.॥7॥
+</details>
 </details>
 

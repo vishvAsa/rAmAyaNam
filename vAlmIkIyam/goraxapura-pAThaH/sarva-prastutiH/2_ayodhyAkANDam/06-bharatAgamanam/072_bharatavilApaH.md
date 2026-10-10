@@ -2,6 +2,8 @@
 title = "०७२ भरतविलापः"
 title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ meet the chief of Brahmans like Vasista and others to get himself crowned for th
 
 72. भरतका कैकेयीके भवनमें जाकर उसे प्रणाम करना, उसके द्वारा पिताके परलोकवासका समाचार पा दुःखी हो विलाप करना तथा श्रीरामके विषयमें पूछनेपर कैकेयीद्वारा उनका श्रीरामके वनगमनके वृत्तान्तसे अवगत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपश्यंस्तु ततस्तत्र पितरं पितुरालये ।  
 जगाम भरतो द्रष्टुं मातरं मातुरालये ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ apartment to see his mother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुप्राप्तं तु तं दृष्ट्वा कैकेयी प्रोषितं सुतम् ।  
 उत्पपात तदा हृष्टा त्यक्त्वा सौवर्णमासनम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ delighted and then sprang up, leaving her golden seat to receive him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्यैव धर्मात्मा स्वगृहं श्रीविवर्जितम् ।  
 भरतः प्रेक्ष्य जग्राह जनन्याश्चरणौ शुभौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ righteous man, grasped the auspicious feet of his mother in obeisance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मूर्ध्नि समुपाघ्राय परिष्वज्य यशस्विनम् ।  
 अङ्के भरतमारोप्य प्रष्टुं समुपचक्रमे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ him, made him to ascend on her lap and started questions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य ते कतिचिद् रात्र्यश्च्युतस्यार्यकवेश्मनः ।  
 अपि नाध्वश्रमः शीघ्रं रथेनापततस्तव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +277,15 @@ there no travel fatigue to you, who have come speedily in a chariot?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्यकस्ते सुकुशली युधाजिन्मातुलस्तव ।  
 प्रवासाच्च सुखं पुत्र सर्वं मे वक्तुमर्हसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ well? Were you happy in being absent from home ? Be good enough to tell me all?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पृष्टस्तु कैकेय्या प्रियं पार्थिवनन्दनः ।  
 आचष्ट भरतः सर्वं मात्रे राजीवलोचनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ narrated all to his mother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मे सप्तमी रात्रिश्च्युतस्यार्यकवेश्मनः ।  
 अम्बायाः कुशली तातो युधाजिन्मातुलश्च मे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,6 +425,7 @@ father as well as my maternal uncle are doing well"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -407,6 +434,8 @@ father as well as my maternal uncle are doing well"
 राजवाक्यहरैर्दूतैस्त्वर्यमाणोऽहमागतः ।  
 यदहं प्रष्टुमिच्छामि तदम्बा वक्तुमर्हति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +503,15 @@ followers became tired on the way and I arrived ahead of them"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शून्योऽयं शयनीयस्ते पर्यङ्को हेमभूषितः ।  
 न चायमिक्ष्वाकुजनः प्रहृष्टः प्रतिभाति मे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +552,15 @@ men and women of Ikshvaku race do not appear to me to be cheerful."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा भवति भूयिष्ठमहाम्बाया निवेशने ।  
 तमहं नाद्य पश्यामि द्रष्टुमिच्छन्निहागतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,12 +604,15 @@ here, desirous of seeing him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुर्ग्रहीष्ये पादौ च तं ममाख्याहि पृच्छतः ।  
 आहोस्विदम्बाज्येष्ठायाः कौसल्याया निवेशने ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +653,15 @@ you. Or is he in the house of Kausalya the senior most of my mothers?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रत्युवाच कैकेयी प्रियवद् घोरमप्रियम् ।  
 अजानन्तं प्रजानन्ती राज्यलोभेन मोहिता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ delightful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या गतिः सर्वभूतानां तां गतिं ते पिता गतः ।  
 राजा महात्मा तेजस्वी यायजूकः सतां गतिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,6 +747,7 @@ follow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -711,6 +756,8 @@ follow."
 हा हतोऽस्मीति कृपणां दीनां वाचमुदीरयन् ।  
 निपपात महाबाहुर्बाहू विक्षिप्य वीर्यवान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +820,15 @@ immediately fell down on the ground, being exceedingly tormented by the grief fo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शोकेन संवीतः पितुर्मरणदुःखितः ।  
 विललाप महातेजा भ्रान्ताकुलितचेतनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -818,6 +868,7 @@ troubled by reeling under the death of his father, lamented profusely.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -826,6 +877,8 @@ troubled by reeling under the death of his father, lamented profusely.
 तदिदं न विभात्यद्य विहीनं तेन धीमता ।  
 व्योमेव शशिना हीनमप्शुष्क इव सागरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,12 +932,15 @@ splendor, as the moon irradiates the stainless sky in the night at the end of a 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पमुत्सृज्य कण्ठेन स्वात्मना परिपीडितः ।  
 प्रच्छाद्य वदनं श्रीमद् वस्त्रेण जयतां वरः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,6 +981,7 @@ victorious, with a proffond distress in his mind shed tears in lamentation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -933,6 +990,8 @@ victorious, with a proffond distress in his mind shed tears in lamentation.
 माता मातङ्गसङ्काशं चन्द्रार्कसदृशं सुतम् ।  
 उत्थापयित्वा शोकार्तं वचनं चेदमब्रवीत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1040,15 @@ following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठोत्तिष्ठ किं शेषे राजन्नत्र महायशः ।  
 त्वद्विधा नहि शोचन्ति सन्तः सदसि सम्मताः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1026,12 +1088,15 @@ like you, respected in the assembly of men, do not grieve indeed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दानयज्ञाधिकारा हि शीलश्रुतितपोनुगा ।  
 बुद्धिस्ते बुद्धिसम्पन्न प्रभेवार्कस्य मन्दिरे ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1138,15 @@ splendor in the abode of the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रुदित्वा चिरं कालं भूमौ परिविवृत्य च ।  
 जननीं प्रत्युवाचेदं शोकैर्बहुभिरावृतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1119,12 +1187,15 @@ floor and replied to his mother as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेक्ष्यति रामं तु राजा यज्ञं नु यक्ष्यते ।  
 इत्यहं कृतसङ्कल्पो हृष्टो यात्रामयासिषम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1167,12 +1238,15 @@ or to perform a sacrifice, I cheerfully got into the journey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं ह्यन्यथाभूतं व्यवदीर्णं मनो मम ।  
 पितरं यो न पश्यामि नित्यं प्रियहिते रतम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1213,12 +1287,15 @@ interested in my wishes and welfare, my heart is broken to pieces"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अम्ब केनात्यगाद् राजा व्याधिना मय्यनागते ।  
 धन्या रामादयः सर्वे यैः पिता संस्कृतः स्वयम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,12 +1339,15 @@ who performed purificatory rites by themselves for our father indeed fortunate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनं मां महाराजः प्राप्तं जानाति कीर्तिमान् ।  
 उपजिघ्रेत् तु मां मूर्ध्नि तातः सन्नाम्य सत्वरम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1308,12 +1388,15 @@ Otherwise, my father quickly would have indeed smelled my head, by bending me in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व स पाणिः सुखस्पर्शस्तातस्याक्लिष्टकर्मणः ।  
 यो हि मां रजसा ध्वस्तमभीक्ष्णं परिमार्जति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1357,12 +1440,15 @@ dust with which I am covered?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो मे भ्राता पिता बन्धुर्यस्य दासोऽस्मि सम्मतः ।  
 तस्य मां शीघ्रमाख्याहि रामस्याक्लिष्टकर्मणः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1403,12 +1489,15 @@ brother to me, my father, my friend and to whom Iam a servant."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता हि भवति ज्येष्ठो धर्ममार्यस्य जानतः ।  
 तस्य पादौ ग्रहीष्यामि स हीदानीं गतिर्मम ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1449,6 +1538,7 @@ righteousness. I will grasp his feet in obeisance. He is indeed the refuge for m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1456,6 +1546,8 @@ righteousness. I will grasp his feet in obeisance. He is indeed the refuge for m
 आर्ये किमब्रवीद् राजा पिता मे सत्यविक्रमः ॥ ३४ ॥  
 पश्चिमं साधुसन्देशमिच्छामि श्रोतुमात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1502,6 +1594,7 @@ to his promise, who was strictly truthful, who was truly valiant and who was hon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1509,6 +1602,8 @@ to his promise, who was strictly truthful, who was truly valiant and who was hon
 रामेति राजा विलपन् हा सीते लक्ष्मणेति च ।  
 स महात्मा परं लोकं गतो मतिमतां वरः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1570,12 +1665,15 @@ Bharata, Kaikeyi spoke the following words in accordance with truth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीमां पश्चिमां वाचं व्याजहार पिता तव ।  
 कालधर्मं परिक्षिप्तः पाशैरिव महागजः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1615,12 +1713,15 @@ operation of time , like a huge elephant surrendered into a trap."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्थास्तु नरा राममागतं सह सीतया ।  
 लक्ष्मणं च महाबाहुं द्रक्ष्यन्ति पुनरागतम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1660,12 +1761,15 @@ are those who are fortunate enough"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा विषसादैव द्वितीयाप्रियशंसनात् ।  
 विषण्णवदनो भूत्वा भूयः पप्रच्छ मातरम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1706,12 +1810,15 @@ was dejected. Becoming gloomy faced, he once again asked his mother as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व चेदानीं स धर्मात्मा कौसल्यानन्दवर्धनः ।  
 लक्ष्मणेन सह भ्रात्रा सीतया च समागतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1751,12 +1858,15 @@ brother Lakshmana and with Sita?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा पृष्टा यथान्यायमाख्यातुमुपचक्रमे ।  
 मातास्य युगपद्वाक्यं विप्रियं प्रियशंसया ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1796,12 +1906,15 @@ words, exactly as it had happened, as though they were very pleasant words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि राजसुतः पुत्र चीरवासा महावनम् ।  
 दण्डकान् सह वैदेह्या लक्ष्मणानुचरो गतः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1841,12 +1954,15 @@ the great forest of Dandaka, followed by Lakshmana and also sita."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भरतस्त्रस्तो भ्रातुश्चारित्रशङ्कया ।  
 स्वस्य वंशस्य माहात्म्यात् प्रष्टुं समुपचक्रमे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1888,12 +2004,15 @@ mother as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न ब्राह्मणधनं हृतं रामेण कस्यचित् ।  
 कच्चिन्नाढ्यो दरिद्रो वा तेनापापो विहिंसितः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1936,12 +2055,15 @@ either to a rich or to a poor virtuous man?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न परदारान् वा राजपुत्रोऽभिमन्यते ।  
 कस्मात् स दण्डकारण्ये भ्राता रामो विवासितः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1981,12 +2103,15 @@ expelled to the forest of Dandaka?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथास्य चपला माता तत् स्वकर्म यथातथम् ।  
 तेनैव स्त्रीस्वभावेन व्याहर्तुमुपचक्रमे ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2027,12 +2152,15 @@ narrate her act which was the exact state of the case.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु कैकेयी भरतेन महात्मना ।  
 उवाच वचनं हृष्टा वृथापण्डितमानिनी ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2072,6 +2200,7 @@ virtuous Bharata, delightfully spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2079,6 +2208,8 @@ virtuous Bharata, delightfully spoke the following words:
 कश्चिन्नाढ्यो दरिद्रो वा तेनापापो विहिंसितः ।  
 न रामः परदारान् स चक्षुर्भ्यामपि पश्यति ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2127,12 +2258,15 @@ others."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया तु पुत्र श्रुत्वैव रामस्येहाभिषेचनम् ।  
 याचितस्ते पिता राज्यं रामस्य च विवासनम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2176,6 +2310,7 @@ me then, I asked your father to bestow kingdom to you and for banishment of Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2184,6 +2319,8 @@ me then, I asked your father to bestow kingdom to you and for banishment of Rama
 तमपश्यन् प्रियं पुत्रं महीपालो महायशाः ।  
 पुत्रशोकपरिद्यूनः पञ्चत्वमुपपेदिवान् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2244,12 +2381,15 @@ requested by me. Rama along with Lakshmana and Sita too were sent into exile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया त्विदानीं धर्मज्ञ राजत्वमवलम्ब्यताम् ।  
 त्वत्कृते हि मया सर्वमिदमेवंविधं कृतम् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2289,12 +2429,15 @@ All this was indeed done for your sake in this manner by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा शोकं मा च सन्तापं धैर्यमाश्रय पुत्रक ।  
 त्वदधीना हि नगरी राज्यं चैतदनामयम् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2329,6 +2472,7 @@ the salubrious kingdom indeed is subservient to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2337,6 +2481,8 @@ the salubrious kingdom indeed is subservient to you."
 सङ्काल्य राजानमदीनसत्त्व-  
 मात्मानमुर्व्यामभिषेचयस्व ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2397,5 +2543,6 @@ not depressed in spirit.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॆरडनॆय सर्ग पूर्णवायितु ॥72॥
+</details>
 </details>
 

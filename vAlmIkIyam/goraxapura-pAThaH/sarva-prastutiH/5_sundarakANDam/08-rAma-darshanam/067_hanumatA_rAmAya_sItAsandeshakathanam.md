@@ -2,6 +2,8 @@
 title = "०६७ हनुमता रामाय सीतासन्देशकथनम्"
 title_english = "067 Hanuma narrates an incident connected with a crow"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -24,12 +26,15 @@ to give a token of remembrance to be handed over to Rama, she gives him a jewel 
 
 67. हनुमान् जी का भगवान् श्रीरामको सीताका संदेश सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु हनुमान् राघवेण महात्मना ।  
 सीताया भाषितं सर्वं न्यवेदयत राघवे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ by Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमुक्तवती देवी जानकी पुरुषर्षभ ।  
 पूर्ववृत्तमभिज्ञानं चित्रकूटे यथातथम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ which occurred long ago in Mount Chitrakuta, as a token of recollection."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखसुप्ता त्वया सार्धं जानकी पूर्वमुत्थिता ।  
 वायसः सहसोत्पत्य विददार स्तनान्तरम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ down quickly, tore her flesh at an area in the midst of her breasts (with its be
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्यायेण च सुप्तस्त्वं देव्यङ्के भरताग्रज ।  
 पुनश्च किल पक्षी स देव्या जनयति व्यथा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +227,15 @@ torment the princess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पुनरुपागम्य विददार भृशं किल ।  
 ततस्त्वं बोधितस्तस्याः शोणितेन समुक्षितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ then were awakened by her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायसेन च तेनैवं सततं बाध्यमानया ।  
 बोधितः किल देव्या त्वं सुखसुप्तः परन्तप ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ princess, who was being ceaselessly tormented by the crow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां च दृष्ट्वा महाबाहो दारितां च स्तनान्तरे ।  
 आशीविष इव क्रुद्धस्ततो वाक्यं त्वमूचिवान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ enraged like a hissing snake and spoke to her as follows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नखाग्रैः केन ते भीरु दारितं वै स्तनान्तरम् ।  
 कः क्रीडति सरोषेण पञ्चवक्त्रेण भोगिना ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,12 +428,15 @@ Who is playing with an angry five-hooded serpent?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरीक्षमाणः सहसा वायसं समुदैक्षथाः ।  
 नखैः सरुधिरैस्तीक्ष्णैस्तामेवाभिमुखं स्थितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +479,15 @@ sharp nails stained with blood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतः किल स शक्रस्य वायसः पततां वरः ।  
 धरान्तरगतः शीघ्रं पवनस्य गतौ समः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +530,15 @@ dwelling in the middle of the mountains and equal in speed to the wind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्मिन् महाबाहो कोपसंवर्तितेक्षणः ।  
 वायसे त्वं व्यधाः क्रूरां मतिं मतिमतां वर ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +581,15 @@ you then harboured a cruel intention against that crow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दर्भसंस्तराद् गृह्य ब्रह्मास्त्रेण न्ययोजयः ।  
 स दीप्त इव कालाग्निर्जज्वालाभिमुखं खगम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +634,15 @@ end facing the bird."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं प्रदीप्तं चिक्षेप दर्भं तं वायसं प्रति ।  
 ततस्तु वायसं दीप्तः स दर्भोऽनुजगाम ह ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +685,15 @@ grass for its part followed the crow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भीतैश्च सम्परित्यक्तः सुरैः सर्वैश्च वायसः ।  
 त्रील्ँ लोकान् सम्परिक्रम्य त्रातारं नाधिगच्छति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,6 +736,7 @@ find a protector even after going round all the three worlds (heaven, earth and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -699,6 +744,8 @@ find a protector even after going round all the three worlds (heaven, earth and 
 त्वं तं निपतितं भूमौ शरण्यः शरणागतम् ॥ १५ ॥  
 वधार्हमपि काकुत्स्थ कृपया परिपालयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +769,15 @@ _________________
 
 ‘शत्रुदमन श्रीराम! सब ओरसे निराश होकर वह कौआ फिर वहीं आपकी शरणमें आया । शरणमें आकर पृथ्वीपर पड़े हुए उस कौएको आपने शरणमें ले लिया; क्योंकि आप शरणागतवत्सल हैं । यद्यपि वह वधके योग्य था तो भी आपने कृपापूर्वक उसकी रक्षा की ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोघमस्त्रं न शक्यं तु कर्तुमित्येव राघव ॥ १६ ॥  
 भवांस्तस्याक्षि काकस्य हिनस्ति स्म स दक्षिणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +837,15 @@ crow, protected that crow which had fallen flat on the ground."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम त्वां स नमस्कृत्य राज्ञो दशरथस्य च ॥ १७ ॥  
 विसृष्टस्तु तदा काकः प्रतिपेदे स्वमालयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,12 +888,15 @@ after offering salutation to you and to king Dasaratha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्त्रविदां श्रेष्ठः सत्त्ववाञ्छीलवानपि ॥ १८ ॥  
 किमर्थमस्त्रं रक्षःसु न योजयसि राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,12 +939,15 @@ are the foremost among the wielders of missiles, though courageous and possessed
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न दानवा न गन्धर्वा नासुरा न मरुद‍्गणाः ॥ १९ ॥  
 तव राम रणे शक्तास्तथा प्रतिसमासितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,12 +991,15 @@ of fighting with Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव वीर्यवतः कश्चिन्मयि यद्यस्ति सम्भ्रमः ॥ २० ॥  
 क्षिप्रं सुनिशितैर्बाणैर्हन्यतां युधि रावणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1042,15 @@ his exceptionally sharp arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुरादेशमाज्ञाय लक्ष्मणो वा परन्तपः ॥ २१ ॥  
 स किमर्थं नरवरो न मां रक्षति राघवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,12 +1094,15 @@ in Raghu dynasty is not saving me, by taking orders from Rama his brother?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्तौ तौ पुरुषव्याघ्रौ वाय्वग्निसमतेजसौ ॥ २२ ॥  
 सुराणामपि दुर्धर्षौ किमर्थं मामुपेक्षतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,12 +1147,15 @@ me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममैव दुष्कृतं किञ्चिन्महदस्ति न संशयः ॥ २३ ॥  
 समर्थौ सहितौ यन्मां न रक्षेते परन्तपौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,12 +1199,15 @@ Rama and Lakshmana, who torment the enemies, even though capable, are not paying
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेह्या वचनं श्रुत्वा करुणं साधुभाषितम् ॥ २४ ॥  
 पुनरप्यहमार्यां तामिदं वचनमब्रुवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1176,12 +1250,15 @@ Seetha the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वच्छोकविमुखो रामो देवि सत्येन ते शपे ॥ २५ ॥  
 रामे दुःखाभिभूते च लक्ष्मणः परितप्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1225,12 +1302,15 @@ from you. I swear it to you truly. Rama, being overwhelmed with grief, Lakshmana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथञ्चिद् भवती दृष्टा न कालः परिशोचितुम् ॥ २६ ॥  
 अस्मिन् मुहूर्ते दुःखानामन्तं द्रक्ष्यसि भामिनि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1273,12 +1353,15 @@ and which can beget happiness to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावुभौ नरशार्दूलौ राजपुत्रौ परन्तपौ ॥ २७ ॥  
 त्वद्दर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1320,12 +1403,15 @@ you. They can reduce Lanka to ashes'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हत्वा च समरे रौद्रं रावणं सहबान्धवम् ॥ २८ ॥  
 राघवस्त्वां वरारोहे स्वपुरीं नयिता ध्रुवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,12 +1432,15 @@ _________________
 
 ‘वरारोहे! समराङ्गणमें रौद्र राक्षस रावणको बन्धु-बान्धवोंसहित मारकर रघुनाथजी अवश्य ही आपको अपनी पुरीमें ले जायँगे ॥ २८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु रामो विजानीयादभिज्ञानमनिन्दिते ॥ २९ ॥  
 प्रीतिसञ्जननं तस्य प्रदातुं तत् त्वमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1411,12 +1500,15 @@ in battle, Rama will certainly take you to his City of Ayodhya'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साभिवीक्ष्य दिशः सर्वा वेण्युद्‍ग्रथनमुत्तमम् ॥ ३० ॥  
 मुक्त्वा वस्त्राद् ददौ मह्यं मणिमेतं महाबल ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1437,12 +1529,15 @@ _________________
 
 ‘महाबली वीर! तब उन्होंने चारों ओर देखकर वेणीमें बाँधने योग्य इस उत्तम मणिको अपने वस्त्रसे खोलकर मुझे दे दिया ॥ ३० १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य मणिं दोर्भ्यां तव हेतो रघुप्रिय ॥ ३१ ॥  
 शिरसा सम्प्रणम्यैनामहमागमने त्वरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1504,6 +1599,7 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1515,6 +1611,8 @@ me."
 यद् द्रक्ष्यसि महाबाहुं रामं कमललोचनम् ।  
 लक्ष्मणं च महाबाहुं देवरं मे यशस्विनम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1608,6 +1706,7 @@ having a beautiful complexion spoke to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1616,6 +1715,8 @@ having a beautiful complexion spoke to me."
 यावत्ते दर्शयाम्यद्य ससुग्रीवं सलक्ष्मणम् ।  
 राघवं च महाभागे भर्तारमसितेक्षणे ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1668,12 +1769,15 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साब्रवीन्मां ततो देवी नैष धर्मो महाकपे ।  
 यत्ते पृष्ठं सिषेवेऽहं स्ववशा हरिपुङ्गव ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1685,6 +1789,7 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 
 ‘यह सुनकर सीतादेवी मुझसे बोलीं—‘महाकपे! वानरशिरोमणे! मेरा यह धर्म नहीं है कि मैं अपने वशमें होती हुई भी स्वेच्छासे तुम्हारी पीठका आश्रय लूँ ॥ ३८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1692,6 +1797,8 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 तत्राहं किं करिष्यामि कालेनोपनिपीडिता ॥ ३९ ॥  
 गच्छ त्वं कपिशार्दूल यत्र तौ नृपतेः सुतौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1709,6 +1816,7 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 
 नन्न मातन्नु केळि आ देवियु इन्तॆन्दळु ऎलै वानरोत्तमा! नानागिये निन्न बॆन्निनमेलॆ कुळितुबरुवुदु धर्मवल्ल. महावीरने! कालवु प्रतिकूलवादाग पीडितळाद नन्न शरीरवन्नु हिन्दॆ राक्षसनाद रावणनु मुट्टिद्दु निज. अन्तह दुःस्थितियल्लि निस्सहायकळाद नानु एनुताने माडबहुदु.॥38-39॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1716,6 +1824,8 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 हनूमन् सिंहसङ्काशौ तावुभौ रामलक्ष्मणौ ।  
 सुग्रीवं च सहामात्यं सर्वान् ब्रूया अनामयम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1736,12 +1846,15 @@ _________________
 
 ‘‘ऎलै कपिवरा! आ राजकुमाररिब्बरू इरुवल्लिगॆ नीनॊब्बने बेग होगु’’ ऎन्दु हेळि मरळि अवळु नन्न बळि ऒन्दु सन्देशवन्नु कळिसिरुवळु. ऎलै मारुतिये! सिंहपराक्रमिगळाद आ राम-लक्ष्मणर क्षेम समाचारवन्नु नानु केळिदॆनॆन्दु हेळु. हागॆये सुग्रीवनल्लियू, अवन अमात्यरल्लियू, इतररॆल्लरल्लियू कुशलप्रस्तापवन्नु केळिदॆनॆन्दु हेळु.॥40-41॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा च स महाबाहुर्मां तारयति राघवः ।  
 अस्माद्दुःखाम्बुसंरोधात् तत् त्वमाख्यातुमर्हसि ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1761,6 +1874,7 @@ _________________
 
 महाबाहुवाद श्रीरामनु नन्नन्नु ई दुःखसमुद्रदिन्द बेगने पारुमाडुवन्तॆ नीनु अवनिगॆ हेळि समाधानमाडु.॥42॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1769,6 +1883,8 @@ _________________
 ब्रूयास्तु रामस्य गतः समीपं  
 शिवश्च तेऽध्वास्तु हरिप्रवीर ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1792,6 +1908,7 @@ _________________
 
 ऎलै वानरवीरने! नन्न ई इरुविकॆयन्नु, दुःखातिरेकस्थितियन्नु, ई राक्षस स्त्रीयरु भयपडिसुव विषयवन्नु नीनु श्रीरामन बळिगॆ होदाक्षणवे तिळिसु. निन्न प्रयाणवु मङ्गळवागली. ॥43॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1800,6 +1917,8 @@ _________________
 एतच्च बुद्‍ध्वा गदितं यथा त्वं  
 श्रद्धत्स्व सीतां कुशलां समग्राम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1833,5 +1952,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तेळनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

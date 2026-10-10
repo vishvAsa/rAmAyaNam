@@ -2,6 +2,8 @@
 title = "०३४ सीतापहरणे रावणोत्तेजनम्"
 title_english = "034 Surpanakha allures Ravana to marry Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ wife, for none surpasses Seetha in her beauty.
 
 34. रावणके पूछनेपर शूर्पणखाका उससे राम, लक्ष्मण और सीताका परिचय देते हुए सीताको भार्या बनानेके लिये उसे प्रेरित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखां दृष्ट्वा ब्रुवन्तीं परुषं वचः ।  
 अमात्यमध्ये सङ्क्रुद्धः परिपप्रच्छ रावणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ Ravana is highly infuriated and queried her. [1-34-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च रामः कथंवीर्यः किंरूपः किम्पराक्रमः ।  
 किमर्थं दण्डकारण्यं प्रविष्टश्च सुदुस्तरम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +134,15 @@ Kishkindha belonged to them, as said by Rama at the time of eliminating of Vali.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुधं किं च रामस्य येन ते राक्षसा हताः ।  
 खरश्च निहतः सङ्ख्ये दूषणस्त्रिशिरास्तथा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,12 +201,15 @@ or missile, that too when wielded by a single human...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वं ब्रूहि मनोज्ञाङ्गि केन त्वं च विरूपिता ।  
 इत्युक्ता राक्षसेन्द्रेण राक्षसी क्रोधमूर्च्छिता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +253,7 @@ commenced to describe Rama in the point of fact. [3-34-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -246,6 +261,8 @@ commenced to describe Rama in the point of fact. [3-34-4b, 5a]
 दीर्घबाहुर्विशालाक्षश्चीरकृष्णाजिनाम्बरः ॥ ५ ॥  
 कन्दर्पसमरूपश्च रामो दशरथात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +303,15 @@ of black-deer for his dress, yet in semblance he is similar to the Love-god. [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्रचापनिभं चापं विकृष्य कनकाङ्गदम् ॥ ६ ॥  
 दीप्तान् क्षिपति नाराचान् सर्पानिव महाविषान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +352,15 @@ candent iron-arrows that simulate snakes with deadly poison. [3-34-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाददानं शरान् घोरान् विमुञ्चन्तं महाबलम् ॥ ७ ॥  
 न कार्मुकं विकर्षन्तं रामं पश्यामि संयुगे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +407,15 @@ in the fastness of his action. [3-34-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यमानं तु तत्सैन्यं पश्यामि शरवृष्टिभिः ॥ ८ ॥  
 इन्द्रेणेवोत्तमं सस्यमाहतं त्वश्मवृष्टिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,6 +456,7 @@ is being annihilated with a downpour of arrows. [3-34-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -438,6 +465,8 @@ is being annihilated with a downpour of arrows. [3-34-8b, 9a]
 अर्धाधिकमुहूर्तेन खरश्च सहदूषणः ॥ १० ॥  
 ऋषीणामभयं दत्तं कृतक्षेमाश्च दण्डकाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,12 +510,15 @@ ati bhayankaram ruupam aavahati - dk*.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एका कथञ्चिन्मुक्ताहं परिभूय महात्मना ।  
 स्त्रीवधं शङ्कमानेन रामेण विदितात्मना ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,6 +566,7 @@ vidhaaya danDakaaraNyam api sakala muni jana sharaNyam atanuta - dk*.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -542,6 +575,8 @@ vidhaaya danDakaaraNyam api sakala muni jana sharaNyam atanuta - dk*.
 अमर्षी दुर्जयो जेता विक्रान्तो बुद्धिमान् बली ।  
 रामस्य दक्षिणो बाहुर्नित्यं प्राणो बहिश्चरः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -603,12 +638,15 @@ of his brother, such a stout-hearted one is Rama's brother known as Lakshmana. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु विशालाक्षी पूर्णेन्दुसदृशानना ।  
 धर्मपत्नी प्रिया नित्यं भर्तुः प्रियहिते रता ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +686,15 @@ she always takes delight in the well-being of her dear one, namely Rama. [1-34-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सुकेशी सुनासोरूः सुरूपा च यशस्विनी ।  
 देवतेव वनस्यास्य राजते श्रीरिवापरा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,12 +738,15 @@ turn is like Goddess Lakshmi in a temporal form. [1-34-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्तकाञ्चनवर्णाभा रक्ततुङ्गनखी शुभा ।  
 सीता नाम वरारोहा वैदेही तनुमध्यमा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +789,15 @@ her curvaceous hips and slim waist is the daughter of King of Videha, and known 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव देवी न गन्धर्वी न यक्षी न च किन्नरी ।  
 तथारूपा मया नारी दृष्टपूर्वा महीतले ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +838,15 @@ kinnaraa-female, even; *na* = no; *naarii mahiitale* = woman, on the face of ear
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य सीता भवेद् भार्या यं च हृष्टा परिष्वजेत् ।  
 अभिजीवेत् स सर्वेषु लोकेष्वपि पुरन्दरात् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +889,15 @@ lives more grandly than Indra in all the worlds. [1-34-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सुशीला वपुःश्लाघ्या रूपेणाप्रतिमा भुवि ।  
 तवानुरूपा भार्या सा त्वं च तस्याः पतिर्वरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,6 +940,7 @@ she will become a seemly wife of yours, and you too will become a best husband o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -894,6 +948,8 @@ she will become a seemly wife of yours, and you too will become a best husband o
 भार्यार्थे तु तवानेतुमुद्यताहं वराननाम् ॥ २१ ॥  
 विरूपितास्मि क्रूरेण लक्ष्मणेन महाभुज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,12 +994,15 @@ bosom fat and bulgy, face excellent, that cruel Lakshmana disfigured me. [1-34-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु दृष्ट्वाद्य वैदेहीं पूर्णचन्द्रनिभाननाम् ॥ २२ ॥  
 मन्मथस्य शराणां च त्वं विधेयो भविष्यसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -983,12 +1042,15 @@ like full-moon. [1-34-22, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तस्यामभिप्रायो भार्यात्वे तव जायते ।  
 शीघ्रमुद्ध्रियतां पादो जयार्थमिह दक्षिणः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,12 +1090,15 @@ put your best foot, namely your right foot, forward. [1-34-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोचते यदि ते वाक्यं ममैतद् राक्षसेश्वर ।  
 क्रियतां निर्विशङ्केन वचनं मम रावण ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1138,15 @@ without any shilly-shallying in your mind. [1-34-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञायैषामशक्तिं च क्रियतां च महाबल ।  
 सीता तवानवद्याङ्गी भार्यात्वे राक्षसेश्वर ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,6 +1189,7 @@ limbed Seetha be abducted to become your wife. [1-34-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1129,6 +1198,8 @@ limbed Seetha be abducted to become your wife. [1-34-25]
 खरं च दृष्ट्वा निहतं च दूषणं  
 त्वमद्य कृत्यं प्रतिपत्तुमर्हसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,5 +1256,6 @@ you to awake to a workable action." Thus Shuurpanakha has earbashed Ravana. [1-3
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥34॥
+</details>
 </details>
 

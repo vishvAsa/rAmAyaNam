@@ -2,6 +2,8 @@
 title = "०५६ वसिष्ठ-विश्वामित्र-सङ्घर्षः"
 title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Chapter [Sarga] 56**
@@ -25,12 +27,15 @@ sublime ascesis for Brahma-hood.
 
 56. विश्वामित्रद्वारा वसिष्ठजीपर नाना प्रकारके दिव्यास्त्रोंका प्रयोग और वसिष्ठद्वारा ब्रह्मदण्डसे ही उनका शमन एवं विश्वामित्रका ब्राह्मणत्वकी प्राप्तिके लिये तप करनेका निश्चय
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो वसिष्ठेन विश्वामित्रो महाबलः ।  
 आग्नेयमस्त्रमुद्दिश्य तिष्ठ तिष्ठेति चाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ continued his narration of Vishvamitra's legend. [1-56-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मदण्डं समुद्यम्य कालदण्डमिवापरम् ।  
 वसिष्ठो भगवान् क्रोधादिदं वचनमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ the other baton of the Terminator, spoke this sentence furiously. [1-56-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रबन्धो स्थितोऽस्म्येष यद् बलं तद् विदर्शय ।  
 नाशयाम्यद्य ते दर्पं शस्त्रस्य तव गाधिज ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ you or your missiles have. [1-56-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व च ते क्षत्रियबलं क्व च ब्रह्मबलं महत् ।  
 पश्य ब्रह्मबलं दिव्यं मम क्षत्रियपांसन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +209,15 @@ So said Vashishta to Vishvamitra. [1-56-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्त्रं गाधिपुत्रस्य घोरमाग्नेयमुत्तमम् ।  
 ब्रह्मदण्डेन तच्छान्तमग्नेर्वेग इवाम्भसा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +252,15 @@ of Gaadhi's son, namely Vishvamitra, as a deluge of water silencing a rage of fi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणं चैव रौद्रं च ऐन्द्रं पाशुपतं तथा ।  
 ऐषीकं चापि चिक्षेप कुपितो गाधिनन्दनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,6 +307,7 @@ not reiterated here but just catalogued.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,6 +324,8 @@ not reiterated here but just catalogued.
 त्रिशूलमस्त्रं घोरं च कापालमथ कङ्कणम् ।  
 एतान्यस्त्राणि चिक्षेप सर्वाणि रघुनन्दन ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -449,12 +472,15 @@ Yawner, Intoxicator, also thus Humidifier, Weep-inducer. [1-56-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठे जपतां श्रेष्ठे तदद्भुतमिवाभवत् ।  
 तानि सर्वाणि दण्डेन ग्रसते ब्रह्मणः सुतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,6 +521,7 @@ all of them are thus silenced, Gaadhi's son Vishvamitra touched off Brahma's mis
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +530,8 @@ all of them are thus silenced, Gaadhi's son Vishvamitra touched off Brahma's mis
 देवर्षयश्च सम्भ्रान्ता गन्धर्वाः समहोरगाः ।  
 त्रैलोक्यमासीत् सन्त्रस्तं ब्रह्मास्त्रे समुदीरिते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +572,15 @@ with gandharva-s are perplexed, and the triad of worlds itself is perturbed. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदप्यस्त्रं महाघोरं ब्राह्मं ब्राह्मेण तेजसा ।  
 वसिष्ठो ग्रसते सर्वं ब्रह्मदण्डेन राघव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +614,15 @@ the seraphic resplendence of Brahma-baton of Sage Vashishta. [1-56-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मास्त्रं ग्रसमानस्य वसिष्ठस्य महात्मनः ।  
 त्रैलोक्यमोहनं रौद्रं रूपमासीत् सुदारुणम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +656,15 @@ he is finishing off that Brahma missile as if to surely petrify the Tri-world. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोमकूपेषु सर्वेषु वसिष्ठस्य महात्मनः ।  
 मरीच्य इव निष्पेतुरग्नेर्धूमाकुलार्चिषः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +699,15 @@ speak. [1-56-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राज्वलद् ब्रह्मदण्डश्च वसिष्ठस्य करोद्यतः ।  
 विधूम इव कालाग्नेर्यमदण्ड इवापरः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +749,15 @@ the Terminator. [1-56-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽस्तुवन् मुनिगणा वसिष्ठं जपतां वरम् ।  
 अमोघं ते बलं ब्रह्मंस्तेजो धारय तेजसा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +774,15 @@ the Terminator. [1-56-19]
 
 आग समस्त मुनिगळु मन्त्रजपदल्लि श्रेष्ठराद वसिष्ठ मुनियन्नु स्तुतिसुत्ता-ब्रह्मर्षिये! निम्म बलवु अमोघवागिदॆ. नीवु निम्म तेजवन्नु निम्म शक्तियिन्दले अडगिसिकॊळ्ळि ऎन्दु हेळिदरु.॥20॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निगृहीतस्त्वया ब्रह्मन् विश्वामित्रो महाबलः ।  
 अमोघं ते बलं श्रेष्ठ लोकाः सन्तु गतव्यथाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +825,15 @@ So said saints to Vashishta. [1-56-20, 21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महातेजाः शमं चक्रे महाबलः ।  
 विश्वामित्रो विनिकृतो विनिःश्वस्येदमब्रवीत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +875,15 @@ himself, and then that estranged Vishvamitra spoke this to himself with heavy su
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिग् बलं क्षत्रियबलं ब्रह्मतेजोबलं बलम् ।  
 एकेन ब्रह्मदण्डेन सर्वास्त्राणि हतानि मे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,12 +917,15 @@ only with one baton of Brahma all of my missiles are defused. [1-56-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतत् प्रसमीक्ष्याहं प्रसन्नेन्द्रियमानसः ।  
 तपो महत् समास्थास्ये यद् वै ब्रह्मत्वकारणम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,5 +980,6 @@ narration of Vishvamitra's legend. [1-56-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तारनॆय सर्ग पूर्णवायितु. ॥56॥
+</details>
 </details>
 

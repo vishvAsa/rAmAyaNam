@@ -1,6 +1,8 @@
 +++
 title = "११७ लङ्कां प्रति देवैः आगमनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ Brahma (the creator) proclaims his divinity and eulogizes him with hymns.
 
 117. भगवान् श्रीरामके पास देवताओंका आगमन तथा ब्रह्माद्वारा उनकी भगवत्ताका प्रतिपादन एवं स्तवन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हि दुर्मना रामः श्रुत्वैवं वदतां गिरः ।  
 दध्यौ मुहूर्तं धर्मात्मा बाष्पव्याकुललोचनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,6 +68,7 @@ became thoughtful for a while, afflicted as he was with melancholy, his eyes fil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ became thoughtful for a while, afflicted as he was with melancholy, his eyes fil
 एते सर्वे समागम्य विमानैः सूर्यसन्निभैः ।  
 आगम्य नगरीं लङ्कामभिजग्मुश्च राघवम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,12 +145,15 @@ reaching the City of Lanka in aerial cars, shining like the sun approached Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सहस्ताभरणान् प्रगृह्य विपुलान् भुजान् ।  
 अब्रुवंस्त्रिदशश्रेष्ठा राघवं प्राञ्जलिं स्थितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,6 +189,7 @@ his folded hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,6 +197,8 @@ his folded hands.
 उपेक्षसे कथं सीतां पतन्तीं हव्यवाहने ।  
 कथं देवगणश्रेष्ठमात्मानं नावबुद‍्ध््यसे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ recognize yourself to be the foremost of the troop of gods?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतधामा वसुः पूर्वं वसूनां च प्रजापतिः ।  
 त्रयाणामपि लोकानामादिकर्ता स्वयम्प्रभुः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +292,15 @@ ruler, the first creator of all the three worlds and the lord of creatures."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्राणामष्टमो रुद्रः साध्यानामपि पञ्चमः ।  
 अश्विनौ चापि कर्णौ ते सूर्याचन्द्रमसौ दृशौ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +346,15 @@ your ears. The sun and the moon constitute your eyes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ते चादौ च मध्ये च दृश्यसे च परन्तप ।  
 उपेक्षसे च वैदेहीं मानुषः प्राकृतो यथा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,12 +394,15 @@ the end of creation. Yet, you ignore Seetha, just like a common man."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तो लोकपालैस्तैः स्वामी लोकस्य राघवः ।  
 अब्रवीत् त्रिदशश्रेष्ठान् रामो धर्मभृतां वरः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,12 +444,15 @@ god-chiefs as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानं मानुषं मन्ये रामं दशरथात्मजम् ।  
 सोऽहं यश्च यतश्चाहं भगवांस्तद् ब्रवीतु मे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,12 +493,15 @@ a gracious Divinity, tell me that which I as such really am like this."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणं काकुत्स्थं ब्रह्मा ब्रह्मविदां वरः ।  
 अब्रवीच्छृणु मे वाक्यं सत्यं सत्यपराक्रम ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +545,15 @@ Brahma the Absolute, spoke as follows: "Listen to my true word, O the truly brav
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् नारायणो देवः श्रीमांश्चक्रायुधः प्रभुः ।  
 एकशृङ्गो वराहस्त्वं भूतभव्यसपत्नजित् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -553,12 +588,15 @@ the Divine Boar with a single tusk, the conqueror of your past and future enemie
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षरं ब्रह्म सत्यं च मध्ये चान्ते च राघव ।  
 लोकानां त्वं परो धर्मो विष्वक्सेनश्चतुर्भुजः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,12 +638,15 @@ are the four-armed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्ङ्गधन्वा हृषीकेशः पुरुषः पुरुषोत्तमः ।  
 अजितः खड्गधृग् विष्णुः कृष्णश्चैव बृहद‍्बलः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +692,15 @@ all-pervader, the bestower of happiness to the earth and endowed with great migh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेनानीर्ग्रामणीश्च त्वं बुद्धिः सत्त्वं क्षमा दमः ।  
 प्रभवश्चाप्ययश्च त्वमुपेन्द्रो मधुसूदनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +744,15 @@ demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रकर्मा महेन्द्रस्त्वं पद्मनाभो रणान्तकृत् ।  
 शरण्यं शरणं च त्वामाहुर्दिव्या महर्षयः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,12 +795,15 @@ to be fit to afford protection to all and the refuge for all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्रशृङ्गो वेदात्मा शतशीर्षो महर्षभः ।  
 त्वं त्रयाणां हि लोकानामादिकर्ता स्वयम्प्रभुः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +820,15 @@ to be fit to afford protection to all and the refuge for all."
 
 नीने साविर शाखॆगळुळ्ळ सायवेद स्वरूपनु, नूरारु विधि वाक्यरूपी मस्तकगळिन्द कूडिद वेदस्वरूप महावृषभनू, लोकगळ आदिकर्तनू, स्वयम्प्रभुवू आगिरुवॆ.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धानामपि साध्यानामाश्रयश्चासि पूर्वजः ।  
 त्वं यज्ञस्त्वं वषट्कारस्त्वमोङ्कारः परात्परः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,12 +874,15 @@ beings.)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभवं निधनं चापि नो विदुः को भवानिति ।  
 दृश्यसे सर्वभूतेषु गोषु च ब्राह्मणेषु च ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +925,15 @@ origin nor who you are in reality."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिक्षु सर्वासु गगने पर्वतेषु नदीषु च ।  
 सहस्रचरणः श्रीमान् शतशीर्षः सहस्रदृक् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,12 +973,15 @@ quarters, in the sky, in mountains and in rivers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं धारयसि भूतानि पृथिवीं सर्वपर्वतान् ।  
 अन्ते पृथिव्याः सलिले दृश्यसे त्वं महोरगः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,12 +1023,15 @@ mountains."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रील्ँ लोकान् धारयन् राम देवगन्धर्वदानवान् ।  
 अहं ते हृदयं राम जिह्वा देवी सरस्वती ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,12 +1075,15 @@ bearing the three worlds, gods, Gandharvas, the celestial musicians and the demo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा रोमाणि गात्रेषु ब्रह्मणा निर्मिताः प्रभो ।  
 निमेषस्ते स्मृता रात्रिरुन्मेषो दिवसस्तथा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1127,15 @@ tongue. O lord! The gods created by Brahma are the hair on all your limbs."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्कारास्त्वभवन् वेदा नैतदस्ति त्वया विना ।  
 जगत् सर्वं शरीरं ते स्थैर्यं ते वसुधातलम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,6 +1177,7 @@ universe does not exist."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1114,6 +1186,8 @@ universe does not exist."
 त्वया लोकास् त्रयः क्रान्ताः  
 पुरा स्वैर्विक्रमैस् त्रिभिः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,6 +1229,7 @@ curl of white hair on his breast)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1163,6 +1238,8 @@ curl of white hair on his breast)."
 सीता लक्ष्मीर् भवान् विष्णुर्  
 देवः कृष्णः प्रजापतिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,12 +1281,15 @@ king (by you)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधार्थं रावणस्येह प्रविष्टो मानुषीं तनुम् ।  
 तदिदं नस्त्वया कार्यं कृतं धर्मभृतां वर ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1255,12 +1335,15 @@ For the destruction of Ravana, you entered a human body here, on this earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहतो रावणो राम प्रहृष्टो दिवमाक्रम ।  
 अमोघं देव वीर्यं ते न ते मोघाः पराक्रमाः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,12 +1388,15 @@ rejoice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमोघं दर्शनं राम अमोघस्तव संस्तवः ।  
 अमोघास्ते भविष्यन्ति भक्तिमन्तो नरा भुवि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1351,12 +1437,15 @@ blessed sight is powerful. The songs in praise of you never go in vain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वां देवं ध्रुवं भक्ताः पुराणं पुरुषोत्तमम् ।  
 प्राप्नुवन्ति तथा कामानिह लोके परत्र च ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1373,12 +1462,15 @@ blessed sight is powerful. The songs in praise of you never go in vain."
 
 नीनु पुराण पुरुषनागिरुवॆ. दिव्यरूपधारि परमात्मा निन्नल्लि भक्तियन्नु इट्टिरुववरु ई लोक मत्तु परलोकगळल्लि तम्म मनोरथ पडॆयुवरु.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इममार्षं स्तवं दिव्यमितिहासं पुरातनम् ।  
 ये नराः कीर्तयिष्यन्ति नास्ति तेषां पराभवः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1429,5 +1521,6 @@ and the Supreme Person, will forever attain their desired objects here as well a
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनेळनॆय सर्ग पूर्णवायितु.॥117॥
+</details>
 </details>
 

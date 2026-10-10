@@ -2,6 +2,8 @@
 title = "०१३ सप्तजनाश्रमवर्णनम्"
 title_english = "013 Saptajana hermitage"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -22,12 +24,15 @@ of Seven Sages.' On worshipping it they proceed to Kishkindha.
 
 13. श्रीराम आदिका मार्गमें वृक्षों, विविध जन्तुओं, जलाशयों तथा सप्तजन आश्रमका दूरसे दर्शन करते हुए पुनः किष्किन्धापुरीमें पहुँचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूकात् स धर्मात्मा किष्किन्धां लक्ष्मणाग्रजः ।  
 जगाम सह सुग्रीवो वालिविक्रमपालिताम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,12 +49,15 @@ of Seven Sages.' On worshipping it they proceed to Kishkindha.
 
 लक्ष्मणाग्रज धर्मात्मा श्रीराम सुग्रीवनन्नु जॊतॆगॆ करॆदुकॊण्डु पुनः ऋष्यमूकदिन्द वालिय पराक्रमदिन्द सुरक्षितवाद आ किष्किन्धापुरिगॆ हॊरटरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्यम्य महच्चापं रामः काञ्चनभूषितम् ।  
 शरांश्चादित्यसङ्काशान् गृहीत्वा रणसाधकान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -86,12 +94,15 @@ the valour of Vali, namely Kishkindha. [4-13-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतस्तु ययौ तस्य राघवस्य महात्मनः ।  
 सुग्रीवः संहतग्रीवो लक्ष्मणश्च महाबलः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -129,12 +140,15 @@ Stern-necked Sugreeva and the great mighty Lakshmana strode ahead of that great 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठतो हनुमान् वीरो नलो नीलश्च वीर्यवान् ।  
 तारश्चैव महातेजा हरियूथपयूथपः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -173,6 +187,7 @@ followed them rearward. [4-13-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,6 +196,8 @@ followed them rearward. [4-13-4]
 कन्दराणि च शैलांश्च निर्दराणि गुहास्तथा ।  
 शिखराणि च मुख्यानि दरीश्च प्रियदर्शनाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +263,15 @@ that are carrying pleasant water while themselves are coursing towards ocean. [4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदूर्यविमलैस्तोयैः पद्मैश्चाकोशकुड्मलैः ।  
 शोभितान् सजलान् मार्गे तटाकांश्चावलोकयन् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +334,15 @@ the unbroken compound and segregated word order are given below for reading plea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारण्डैः सारसैर्हंसैर्वञ्जुलैर्जलकुक्कुटैः ।  
 चक्रवाकैस्तथा चान्यैः शकुनैः प्रतिनादितान् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +388,15 @@ like that with Chakravaaka-s and other birds. [4-13-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृदुशष्पाङ्कुराहारान्निर्भयान् वनगोचरान् ।  
 चरतः सर्वतः पश्यन् स्थलीषु हरिणान् स्थितान् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,6 +441,7 @@ in the forest, and else where standing. [4-13-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -425,6 +452,8 @@ in the forest, and else where standing. [4-13-9]
 वने वनचरांश्चान्यान् खेचरांश्च विहङ्गमान् ।  
 पश्यन्तस्त्वरिता जग्मुः सुग्रीववशवर्तिनः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +552,15 @@ in herds, and which are the dangerous enemies of lakes as they destroy lakebeds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तु गच्छतां तत्र त्वरितं रघुनन्दनः ।  
 द्रुमषण्डवनं दृष्ट्वा रामः सुग्रीवमब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +599,15 @@ and he asked Sugreeva like this. [4-13-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मेघ इवाकाशे वृक्षषण्डः प्रकाशते ।  
 मेघसङ्घातविपुलः पर्यन्तकदलीवृतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +647,15 @@ is shining forth like a cloudscape in sky. [4-13-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमेतज्ज्ञातुमिच्छामि सखे कौतूहलं मम ।  
 कौतूहलापनयनं कर्तुमिच्छाम्यहं त्वया ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,12 +693,15 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद्वचनं श्रुत्वा राघवस्य महात्मनः ।  
 गच्छन् नेवाचचक्षेऽथ सुग्रीवस्तन्महद् वनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,12 +740,15 @@ of that forest while proceeding on the way. [4-13-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् राघव विस्तीर्णमाश्रमं श्रमनाशनम् ।  
 उद्यानवनसम्पन्नं स्वादुमूलफलोदकम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +787,15 @@ remover." Thus Sugreeva started telling Rama. [4-13-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र सप्तजना नाम मुनयः संशितव्रताः ।  
 सप्तैवासन्नधःशीर्षा नियतं जलशायिनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +839,15 @@ the upside-down yogic body posture, and who always reclined in water. [4-13-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तरात्रे कृताहारा वायुनाचलवासिनः ।  
 दिवं वर्षशतैर्याताः सप्तभिः सकलेवराः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -840,12 +890,15 @@ they practised their asceticism for seven hundred years and went to heavens with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामेतत्प्रभावेण द्रुमप्राकारसंवृतम् ।  
 आश्रमं सुदुराधर्षमपि सेन्द्रैः सुरासुरैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +940,15 @@ for Indra together with all gods and demons. [4-13-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पक्षिणो वर्जयन्त्येतत् तथान्ये वनचारिणः ।  
 विशन्ति मोहाद् येऽप्यत्र न निवर्तन्ति ते पुनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +990,15 @@ they do not return. [4-13-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभूषणरवाश्चात्र श्रूयन्ते सकलाक्षराः ।  
 तूर्यगीतस्वनश्चापि गन्धो दिव्यश्च राघव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -979,12 +1038,15 @@ audible, and oh, Raghava, one can sense a divine fragrance too. [4-13-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रेताग्नयोऽपि दीप्यन्ते धूमो ह्येष प्रदृश्यते ।  
 वेष्टयन्निव वृक्षाग्रान् कपोताङ्गारुणो घनः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1025,12 +1087,15 @@ pigeon is apparent muffling the treetops. [4-13-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते वृक्षाः प्रकाशन्ते धूमसंसक्तमस्तकाः ।  
 मेघजालप्रतिच्छन्ना वैडूर्यगिरयो यथा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1131,15 @@ with clusters of clouds. [4-13-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरु प्रणामं धर्मात्मंस्तेषामुद्दिश्य राघव ।  
 लक्ष्मणेन सह भ्रात्रा प्रयतः संहताञ्जलिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,12 +1179,15 @@ along with brother Lakshmana [4-13-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणमन्ति हि ये तेषामृषीणां भावितात्मनाम् ।  
 न तेषामशुभं किञ्चिच्छरीरे राम विद्यते ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1230,15 @@ the least." Thus said Sugreeva to Rama. [4-13-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामः सह भ्रात्रा लक्ष्मणेन कृताञ्जलिः ।  
 समुद्दिश्य महात्मानस्तानृषीनभ्यवादयत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1203,12 +1277,15 @@ as Seven Persons, and offered salutations to them. [4-13-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य च धर्मात्मा रामो भ्राता च लक्ष्मणः ।  
 सुग्रीवो वानराश्चैव जम्मुः संहृष्टमानसाः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,12 +1327,15 @@ sages proceeded to Kishkindha well-pleased at heart. [4-13-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गत्वा दूरमध्वानं तस्मात् सप्तजनाश्रमात् ।  
 ददृशुस्तां दुराधर्षां किष्किन्धां वालिपालिताम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1295,6 +1375,7 @@ ruled city namely Kishkindha. [4-13-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1303,6 +1384,8 @@ ruled city namely Kishkindha. [4-13-29]
 पुरीं सुरेशात्मजवीर्यपालितां  
 वधाय शत्रोः पुनरागतास्त्विह ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,5 +1441,6 @@ same Vali, the son of Indra. [4-13-30]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिमूरनॆय सर्ग सम्पूर्णवायितु.॥13॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००९ राज-सूत-संवादः"
 title_english = "009 Legend of Sage Rishyasringa"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-009-Raajaa_-Sootha_Samvaadaha.mp3"></div>
 </details>
@@ -15,12 +17,15 @@ title_english = "009 Legend of Sage Rishyasringa"
 
 नवम-सर्गे -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा रहः सूतो राजानमिदमब्रवीत् ।  
 श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -55,6 +60,7 @@ will tell an early legend, an early legendary narration that I listened... [1-9-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -62,6 +68,8 @@ will tell an early legend, an early legendary narration that I listened... [1-9-
 सनत्कुमारो भगवान् पूर्वं कथितवान् कथाम् ॥ २ ॥  
 ऋषीणां सन्निधौ राजंस्तव पुत्रागमं प्रति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +107,7 @@ presence of other sages, and sage Sanat Kumara said... [1-9-2, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,6 +115,8 @@ presence of other sages, and sage Sanat Kumara said... [1-9-2, 3a]
 ऋष्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति ।  
 स वने नित्यसंवृद्धो मुनिर्वनचरः सदा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +169,7 @@ means a peak.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,6 +177,8 @@ means a peak.
 द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः ॥ ५ ॥  
 लोकेषु प्रथितं राजन् विप्रैश्च कथितं सदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +234,15 @@ deciphered by some commentators.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैवं वर्तमानस्य कालः समभिवर्तत ॥ ६ ॥  
 अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,6 +275,7 @@ Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -266,6 +284,8 @@ Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]
 तस्य व्यतिक्रमाद् राज्ञो भविष्यति सुदारुणा ॥ ८ ॥  
 अनावृष्टिः सुघोरा वै सर्वलोकभयावहा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +349,7 @@ king Romapaada, a valiant in Anga country... [1-9-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,6 +358,8 @@ king Romapaada, a valiant in Anga country... [1-9-7, 8a]
 भवन्तः श्रुतकर्माणो लोकचारित्रवेदिनः ॥ १० ॥  
 समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +426,15 @@ Brahmans and learned scholars he will address them... [1-9-9b. 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः ॥ ११ ॥  
 वक्ष्यन्ति ते महीपालं ब्राह्मणा वेदपारगाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -425,6 +451,7 @@ Brahmans and learned scholars he will address them... [1-9-9b. 10a]
 
 राजनु हीगॆ हेळिदाग आ वेदपारङ्गत विद्वांसराद ऎल्ल श्रेष्ठ ब्राह्मणरु अवनिगॆ ई प्रकार सलहॆ नीडिदरु.॥11½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -433,6 +460,8 @@ Brahmans and learned scholars he will address them... [1-9-9b. 10a]
 विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम् ।  
 प्रयच्छ कन्यां शान्तां वै विधिना सुसमाहितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +524,15 @@ king, son of Sage Vibhaandaka, namely Rishyasringa, is to be fetched by all meth
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तु वचनं श्रुत्वा राजा चिन्तां प्रपत्स्यते ।  
 केनोपायेन वै शक्यमिहानेतुं स वीर्यवान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +570,15 @@ that self-controlled sage to his place... [1-9-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान् ।  
 पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +612,15 @@ honouring them well, and then sends them... [1-9-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः ।  
 न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -616,12 +654,15 @@ not go there as we are afraid of sage Vibhandaka, father of Rishyasringa...' [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान् क्षमान् ।  
 आनेष्यामो वयं विप्रं न च दोषो भविष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ plan to bring that sage, 'we will fetch that Brahman and also by that no stigma 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमङ्गाधिपेनैव गणिकाभिर्ऋषेः सुतः ।  
 आनीतोऽवर्षयद् देवः शान्ता चास्मै प्रदीयते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +746,15 @@ in marriage to that sage...' [1-9-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति ।  
 सनत्कुमारकथितमेतावद् व्याहृतं मया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +800,15 @@ of Anga. Thus Sumantra's saying son-in-law also means Dasharatha's son-in-law, b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ हृष्टो दशरथः सुमन्त्रं प्रत्यभाषत ।  
 यथर्ष्यशृङ्गस्त्वानीतो येनोपायेन सोच्यताम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,5 +860,6 @@ is brought to Anga kingdom, that shall be said elaborately..." [1-9-20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऒम्भत्तनॆय सर्ग पूर्णवायितु. ॥9॥
+</details>
 </details>
 

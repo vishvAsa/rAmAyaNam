@@ -2,6 +2,8 @@
 title = "०२६ सीतायाः प्राणत्यागनिश्चयः"
 title_english = "026 Seetha decides to give up life"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -19,6 +21,7 @@ In this chapter Seetha ponders a lot and decides to give up life without Rama.
 
 26. सीताका करुण-विलाप तथा अपने प्राणोंको त्याग देनेका निश्चय करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27,6 +30,8 @@ In this chapter Seetha ponders a lot and decides to give up life without Rama.
 उन्मत्तेव प्रमत्तेव भ्रान्तचित्तेव शोचती ।  
 उपावृत्ता किशोरीव विचेष्टन्ती महीतले ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -88,12 +93,15 @@ started to weep.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य प्रमत्तस्य रक्षसा कामरूपिणा ।  
 रावणेन प्रमथ्याहमानीता क्रोशती बलात् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,12 +135,15 @@ overpowered by the ogre Ravana who can wear desired form."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसीवशमापन्ना भर्त्स्यमाना च दारुणम् ।  
 चिन्तयन्ती सुदुःखार्ता नाहं जीवितुमुत्सहे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ by grief, I do not desire to live."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवितेनार्थो नैवार्थैर्न च भूषणैः ।  
 वसन्त्या राक्षसीमध्ये विना रामं महारथम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ to me; not with wealth, not with ornaments."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्मसारमिदं नूनमथवाप्यजरामरम् ।  
 हृदयं मम येनेदं न दुःखेन विशीर्यते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ it not destroying with sorrow?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिङ्मामनार्यामसतीं याहं तेन विना कृता ।  
 मुहूर्तमपि जीवामि जीवितं पापजीविका ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ me who am ignoble, who am bad wife, shame on me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरणेनापि सव्येन न स्पृशेयं निशाचरम् ।  
 रावणं किं पुनरहं कामयेयं विगर्हितम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +368,15 @@ is the interest to me in life or in comfort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्यानं न जानाति नात्मानं नात्मनः कुलम् ।  
 यो नृशंसस्वभावेन मां प्रार्थयितुमिच्छति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,12 +420,15 @@ not tolerate sorrow for a long time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छिन्ना भिन्ना प्रभिन्ना वा दीप्ता वाग्नौ प्रदीपिता ।  
 रावणं नोपतिष्ठेयं किं प्रलापेन वश्चिरम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ desiring him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ख्यातः प्राज्ञः कृतज्ञश्च सानुक्रोशश्च राघवः ।  
 सद‍्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसङ्क्षयात् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ be refused; he does not know his race."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां जनस्थाने सहस्राणि चतुर्दश ।  
 एकेनैव निरस्तानि स मां किं नाभिपद्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ with your prattling for a long time?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरुद्धा रावणेनाहमल्पवीर्येण रक्षसा ।  
 समर्थः खलु मे भर्ता रावणं हन्तुमाहवे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ of my fortune, I doubt He became hard hearted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विराधो दण्डकारण्ये येन राक्षसपुङ्गवः ।  
 रणे रामेण निहतः स मां किं नाभिपद्यते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,12 +674,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं मध्ये समुद्रस्य लङ्केयं दुष्प्रधर्षणा ।  
 न तु राघवबाणानां गतिरोधो भविष्यति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +718,15 @@ Ravana in a war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु तत् कारणं येन रामो दृढपराक्रमः ।  
 रक्षसापहृतां भार्यामिष्टां यो नाभिपद्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +763,15 @@ He not saving me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहस्थां मां न जानीते शङ्के लक्ष्मणपूर्वजः ।  
 जानन्नपि स तेजस्वी धर्षणां मर्षयिष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +808,15 @@ be an obstacle to flying of Rama's arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृतेति मां योऽधिगत्य राघवाय निवेदयेत् ।  
 गृध्रराजोऽपि स रणे रावणेन निपातितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +859,15 @@ by an ogre."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं कर्म महत् तेन मां तथाभ्यवपद्यता ।  
 तिष्ठता रावणवधे वृद्धेनापि जटायुषा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +910,15 @@ Rama tolerate this outrage?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मामिह जानीयाद् वर्तमानां हि राघवः ।  
 अद्य बाणैरभिक्रुद्धः कुर्याल्लोकमराक्षसम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +961,15 @@ has been killed by Ravana in war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्दहेच्च पुरीं लङ्कां निर्दहेच्च महोदधिम् ।  
 रावणस्य च नीचस्य कीर्तिं नाम च नाशयेत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -943,12 +1005,15 @@ a dual combat with Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निहतनाथानां राक्षसीनां गृहे गृहे ।  
 यथाहमेवं रुदती तथा भूयो न संशयः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -963,12 +1028,15 @@ _________________
 
 ‘फिर तो निःसंदेह अपने पतियोंका संहार हो जानेसे घर-घरमें राक्षसियोंका इसी प्रकार क्रन्दन होता, जैसे आज मैं रो रही हूँ ॥ २२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्विष्य रक्षसां लङ्कां कुर्याद् रामः सलक्ष्मणः ।  
 नहि ताभ्यां रिपुर्दृष्टो मुहूर्तमपि जीवति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1048,15 @@ _________________
 
 ‘श्रीराम और लक्ष्मण लङ्काका पता लगाकर निश्चय ही राक्षसोंका संहार करेंगे । जिस शत्रुको उन दोनों भाइयोंने एक बार देख लिया, वह दो घड़ी भी जीवित नहीं रह सकता ॥ २३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिताधूमाकुलपथा गृध्रमण्डलमण्डिता ।  
 अचिरेणैव कालेन श्मशानसदृशी भवेत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ with His arrows now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिरेणैव कालेन प्राप्स्याम्येनं मनोरथम् ।  
 दुष्प्रस्थानोऽयमाभाति सर्वेषां वो विपर्ययः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,12 +1184,15 @@ those two will indeed not live even for a moment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशानि तु दृश्यन्ते लङ्कायामशुभानि तु ।  
 अचिरेणैव कालेन भविष्यति हतप्रभा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1234,15 @@ crowded with a group of vultures."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं लङ्का हते पापे रावणे राक्षसाधिपे ।  
 शोषमेष्यति दुर्धर्षा प्रमदा विधवा यथा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1285,15 @@ all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्योत्सवसमृद्धा च नष्टभर्त्री सराक्षसा ।  
 भविष्यति पुरी लङ्का नष्टभर्त्री यथाङ्गना ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1253,12 +1336,15 @@ will become deprived of glory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं राक्षसकन्यानां रुदतीनां गृहे गृहे ।  
 श्रोष्यामि नचिरादेव दुःखार्तानामिह ध्वनिम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1301,12 +1387,15 @@ will get drying up like a woman who lost husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सान्धकारा हतद्योता हतराक्षसपुङ्गवा ।  
 भविष्यति पुरी लङ्का निर्दग्धा रामसायकैः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1350,12 +1439,15 @@ become like a woman with lost husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि नाम स शूरो मां रामो रक्तान्तलोचनः ।  
 जानीयाद् वर्तमानां यां राक्षसस्य निवेशने ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,12 +1483,15 @@ tormented by grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन तु नृशंसेन रावणेनाधमेन मे ।  
 समयो यस्तु निर्दिष्टस्तस्य कालोऽयमागतः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1411,12 +1506,15 @@ _________________
 
 ‘इस नीच और नृशंस रावणने मेरे लिये जो समय नियत किया है, उसकी पूर्ति भी निकट भविष्यमें ही हो जायगी ॥ ३२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च मे विहितो मृत्युरस्मिन् दुष्टेन वर्तते ।  
 अकार्यं ये न जानन्ति नैर्ऋताः पापकारिणः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1473,12 +1571,15 @@ with killed best ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मात् तु महोत्पातो भविष्यति हि साम्प्रतम् ।  
 नैते धर्मं विजानन्ति राक्षसाः पिशिताशनाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1502,12 +1603,15 @@ _________________
 
 ‘इस समय अधर्मसे ही महान् उत्पात होनेवाला है । ये मांसभक्षी राक्षस धर्मको बिलकुल नहीं जानते हैं ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवं मां प्रातराशार्थं राक्षसः कल्पयिष्यति ।  
 साहं कथं करिष्यामि तं विना प्रियदर्शनम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1521,12 +1625,15 @@ _________________
 
 ‘वह राक्षस अवश्य ही अपने कलेवेके लिये मेरे शरीरके टुकड़े-टुकड़े करा डालेगा । उस समय अपने प्रियदर्शन पतिके बिना मैं असहाय अबला क्या करूँगी? ॥ ३५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं रक्तान्तनयनमपश्यन्ती सुदुःखिता ।  
 क्षिप्रं वैवस्वतं देवं पश्येयं पतिना विना ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1582,12 +1689,15 @@ That death decreed to me does not hold good to this evil one (Ravana)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाजानाज्जीवतीं रामः स मां भरतपूर्वजः ।  
 जानन्तौ तु न कुर्यातां नोर्व्यां हि परिमार्गणम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1611,12 +1721,15 @@ _________________
 
 ‘भरतके बड़े भाई भगवान् श्रीराम यह नहीं जानते हैं कि मैं जीवित हूँ । यदि उन्हें इस बातका पता होता तो ऐसा सम्भव नहीं था कि वे पृथ्वीपर मेरी खोज नहीं करते ॥ ३७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं ममैव शोकेन स वीरो लक्ष्मणाग्रजः ।  
 देवलोकमितो यातस्त्यक्त्वा देहं महीतले ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1678,12 +1791,15 @@ appearance? I am grieving a lot not seeing Rama with red eye corners."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्या देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 मम पश्यन्ति ये वीरं रामं राजीवलोचनम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1727,12 +1843,15 @@ it cannot be said that they will not do my search on earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नहि तस्यार्थो धर्मकामस्य धीमतः ।  
 मया रामस्य राजर्षेर्भार्यया परमात्मनः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1775,12 +1894,15 @@ earth has gone to celestial world. This is certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृश्यमाने भवेत् प्रीतिः सौहृदं नास्त्यदृश्यतः ।  
 नाशयन्ति कृतघ्नास्तु न रामो नाशयिष्यति ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1824,12 +1946,15 @@ with Gandharvas and great sages are fortunate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वा मय्यगुणाः केचित् किं वा भाग्यक्षयो हि मे ।  
 या हि सीता वरार्हेण हीना रामेण भामिनी ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1873,12 +1998,15 @@ there is no use with me, his wife."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रेयो मे जीवितान्मर्तुं विहीनाया महात्मना ।  
 रामादक्लिष्टचारित्राच्छूराच्छत्रुनिबर्हणात् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1922,12 +2050,15 @@ not see. Ungrateful ones destroy frindship. But Rama will not destroy friendship
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा न्यस्तशस्त्रौ तौ वने मूलफलाशनौ ।  
 भ्रातरौ हि नरश्रेष्ठौ चरन्तौ वनगोचरौ ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1971,12 +2102,15 @@ or has my fortune diminished."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा राक्षसेन्द्रेण रावणेन दुरात्मना ।  
 छद्मना घातितौ शूरौ भ्रातरौ रामलक्ष्मणौ ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2020,12 +2154,15 @@ great soul, more than living, death is good."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहमेवंविधे काले मर्तुमिच्छामि सर्वतः ।  
 न च मे विहितो मृत्युरस्मिन् दुःखेऽतिवर्तति ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2069,12 +2206,15 @@ of forest eating roots and fruits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्याः खलु महात्मानो मुनयः सत्यसम्मताः ।  
 जितात्मानो महाभागा येषां न स्तः प्रियाप्रिये ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2116,12 +2256,15 @@ Ravana by deceit."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियान्न सम्भवेद् दुःखमप्रियादधिकं भवेत् ।  
 ताभ्यां हि ते वियुज्यन्ते नमस्तेषां महात्मनाम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2166,12 +2309,15 @@ death is not bestowed on me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहं त्यक्ता प्रियेणैव रामेण विदितात्मना ।  
 प्राणांस्त्यक्ष्यामि पापस्य रावणस्य गता वशम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2224,5 +2370,6 @@ are indeed fortunate to whom there is no pleasure and displeasure."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तारनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

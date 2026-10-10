@@ -2,6 +2,8 @@
 title = "०४७ मरुदुत्पत्तिः"
 title_english = "047 The legend of Seven maruts wind gods"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -23,12 +25,15 @@ later became the City of Vishaala.
 
 47. दितिका अपने पुत्रोंको मरुद्‍गण बनाकर देवलोकमें रखनेके लिये इन्द्रसे अनुरोध, इन्द्रद्वारा उसकी स्वीकृति, दितिके तपोवनमें ही इक्ष्वाकु-पुत्र विशालद्वारा विशाला नगरीका निर्माण तथा वहाँके तत्कालीन राजा सुमतिद्वारा विश्वामित्र मुनिका सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तधा तु कृते गर्भे दितिः परमदुःखिता ।  
 सहस्राक्षं दुराधर्षं वाक्यं सानुनयाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ City Vishala. [1-47-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममापराधाद् गर्भोऽयं सप्तधा शकलीकृतः ।  
 नापराधो हि देवेश तवात्र बलसूदन ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -103,12 +111,15 @@ this matter.' Thus Diti started speaking to Indra. [1-47-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियं त्वत्कृतमिच्छामि मम गर्भविपर्यये ।  
 मरुतां सप्त सप्तानां स्थानपाला भवन्तु ते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ of seven Marut-s, thus they are forty-nine entities, in total.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातस्कन्धा इमे सप्त चरन्तु दिवि पुत्रक ।  
 मारुता इति विख्याता दिव्यरूपा ममात्मजाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ Cosmic Air Divisions and let them move in heaven with heavenly forms. [1-47-4]
 
 * आवह, प्रवह, संवह, उद्वह, विवह, परिवह और परावह—ये सात मरुत् हैं । इन्हींको सात वातस्कन्ध कहते हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मलोकं चरत्वेक इन्द्रलोकं तथापरः ।  
 दिव्यवायुरिति ख्यातस्तृतीयोऽपि महायशाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,6 +268,7 @@ and he may circulate in entire universe. [1-47-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -258,6 +276,8 @@ and he may circulate in entire universe. [1-47-5]
 सञ्चरिष्यन्ति भद्रं ते कालेन हि ममात्मजाः ॥ ६ ॥  
 त्वत्कृतेनैव नाम्ना वै मारुता इति विश्रुताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ you as 'Marut,' because you have coaxed the crying fragments of foetus saying, '
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा सहस्राक्षः पुरन्दरः ॥ ७ ॥  
 उवाच प्राञ्जलिर्वाक्यमतीदं बलसूदनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +374,15 @@ Bala, namely Indra, spoke this word to Diti, humbly adjoining his palms. [1-47-7
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वमेतद् यथोक्तं ते भविष्यति न संशयः ॥ ८ ॥  
 विचरिष्यन्ति भद्रं ते देवरूपास्तवात्मजाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ Bala, namely Indra, spoke this word to Diti, humbly adjoining his palms. [1-47-7
 
 अम्मा! ‘निनगॆ मङ्गळवागलि’ नीनु हेळिदन्तॆये ऎल्लवू आगुवुदु; इदरल्लि सन्देहवे इल्ल. निन्न ई पुत्ररु देवरूपरागि विचरिसलि.॥8½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तौ निश्चयं कृत्वा मातापुत्रौ तपोवने ॥ ९ ॥  
 जग्मतुस्त्रिदिवं राम कृतार्थाविति नः श्रुतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,12 +447,15 @@ their purposes. Thus we heard the legend." Thus Vishvamitra continued his narrat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष देशः स काकुत्स्थ महेन्द्राध्युषितः पुरा ॥ १० ॥  
 दितिं यत्र तपःसिद्धामेवं परिचचार सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,6 +491,7 @@ and where he rendered services to that accomplished one in her asceticism, namel
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -466,6 +499,8 @@ and where he rendered services to that accomplished one in her asceticism, namel
 अलम्बुषायामुत्पन्नो विशाल इति विश्रुतः ।  
 तेन चासीदिह स्थाने विशालेति पुरी कृता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +543,15 @@ The Bhaagavata Puraana says separately in its seventh canto about this dynasty o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशालस्य सुतो राम हेमचन्द्रो महाबलः ।  
 सुचन्द्र इति विख्यातो हेमचन्द्रादनन्तरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +584,15 @@ renowned as Suchandra.. [1-47-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुचन्द्रतनयो राम धूम्राश्व इति विश्रुतः ।  
 धूम्राश्वतनयश्चापि सृञ्जयः समपद्यत ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +625,15 @@ his son named Srinjaya. [1-47-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृञ्जयस्य सुतः श्रीमान् सहदेवः प्रतापवान् ।  
 कुशाश्वः सहदेवस्य पुत्रः परमधार्मिकः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +666,15 @@ most righteous Kushaashva. [1-47-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशाश्वस्य महातेजाः सोमदत्तः प्रतापवान् ।  
 सोमदत्तस्य पुत्रस्तु काकुत्स्थ इति विश्रुतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +708,15 @@ son is highly reputed as Kakutstha. [1-47-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पुत्रो महातेजाः सम्प्रत्येष पुरीमिमाम् ।  
 आवसत् परमप्रख्यः सुमतिर्नाम दुर्जयः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +758,15 @@ with the grandparents of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकोस्तु प्रसादेन सर्वे वैशालिका नृपाः ।  
 दीर्घायुषो महात्मानो वीर्यवन्तः सुधार्मिकाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,12 +800,15 @@ well-off in generosity, and they were great-souled ones. [1-47-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहाद्य रजनीमेकां सुखं स्वप्स्यामहे वयम् ।  
 श्वः प्रभाते नरश्रेष्ठ जनकं द्रष्टुमर्हसि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +846,15 @@ to Rama and Lakshmana. [1-47-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमतिस्तु महातेजा विश्वामित्रमुपागतम् ।  
 श्रुत्वा नरवरश्रेष्ठः प्रत्यागच्छन्महायशाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,12 +890,15 @@ a warm welcome. [1-47-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजां च परमां कृत्वा सोपाध्यायः सबान्धवः ।  
 प्राञ्जलिः कुशलं पृष्ट्वा विश्वामित्रमथाब्रवीत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +935,15 @@ to Vishvamitra, and then spoke to the sage with adjoined palms enquiring about h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे विषयं मुने ।  
 सम्प्राप्तो दर्शनं चैव नास्ति धन्यतरो मम ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,5 +989,6 @@ king Sumati to Vishvamitra. [1-47-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तेळनॆय सर्ग पूर्णवायितु. ॥47॥
+</details>
 </details>
 

@@ -1,6 +1,8 @@
 +++
 title = "१२६ हनुमता रामागमनसन्देशः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ is killed.
 
 126. हनुमान् जी का भरतको श्रीराम, लक्ष्मण और सीताके वनवाससम्बन्धी सारे वृत्तान्तोंको सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहूनि नाम वर्षाणि गतस्य सुमहद्वनम् ।  
 शृणोम्यहं प्रीतिकरं मम नाथस्य कीर्तनम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -59,12 +64,15 @@ so many years ago.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्याणी बत गाथेयं लौकिकी प्रतिभाति माम् ।  
 एति जीवन्तमानन्दो नरं वर्षशतादपि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ it be after a hundred years!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य हरीणां च कथमासीत् समागमः ।  
 कस्मिन् देशे किमाश्रित्य तत्त्वमाख्याहि पृच्छतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,12 +154,15 @@ and at what place? Tell the truth to me, enquiring as I am."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पृष्टो राजपुत्रेण बृस्यां समुपवेशितः ।  
 आचचक्षे ततः सर्वं रामस्य चरितं वने ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,6 +197,7 @@ to narrate the entire exploits of Rama in the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,6 +212,8 @@ to narrate the entire exploits of Rama in the forest.
 सर्वमेतन्महाबाहो यथावद् विदितं तव ।  
 त्वयि प्रतिप्रयाते तु यद् वृत्तं तन्निबोध मे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,6 +300,7 @@ now, that which occurred after you had returned to Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,6 +309,8 @@ now, that which occurred after you had returned to Ayodhya."
 तद्धस्तिमृदितं घोरं सिंहव्याघ्रमृगाकुलम् ।  
 प्रविवेशाथ विजनं स महद् दण्डकावनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,12 +377,15 @@ appearance, with the frightened animals and birds (on seeing strange people ther
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां पुरस्ताद् बलवान् गच्छतां गहने वने ।  
 विनदन् सुमहानादं विराधः प्रत्यदृश्यत ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +422,15 @@ Viradha, a demon, uttering forth a very loud roar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुत्क्षिप्य महानादमूर्ध्वबाहुमधोमुखम् ।  
 निखाते प्रक्षिपन्ति स्म नदन्तमिव कुञ्जरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +464,15 @@ head bent low, and who was emitting a loud cry, like an elephant."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् कृत्वा दुष्करं कर्म भ्रातरौ रामलक्ष्मणौ ।  
 सायाह्ने शरभङ्गस्य रम्यमाश्रममीयतुः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +506,15 @@ beautiful hermitage of Sharbhanga, in that evening.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरभङ्गे दिवं प्राप्ते रामः सत्यपराक्रमः ।  
 अभिवाद्य मुनीन् सर्वाञ्जनस्थानमुपागमत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,6 +548,7 @@ who truly mighty, reached the region of Janasthana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -523,6 +556,8 @@ who truly mighty, reached the region of Janasthana."
 ततो रामेण सन्दिष्टो लक्ष्मणः सहसोत्थितः ॥ १६ ॥  
 प्रगृह्य खड्गं चिच्छेद कर्णनासं महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +602,15 @@ ears and nose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम् ॥ १७ ॥  
 हतानि वसता तत्र राघवेण महात्मना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +644,15 @@ great-souled Rama, while sojourning that region."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकेन सह सङ्गम्य रामेण रणमूर्धनि ॥ १८ ॥  
 अह्नश्चतुर्थभागेन निःशेषा राक्षसाः कृताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,12 +688,15 @@ alone, in a fraction of a quarter of a day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबला महावीर्यास्तपसो विघ्नकारिणः ॥ १९ ॥  
 निहता राघवेणाजौ दण्डकारण्यवासिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +730,15 @@ obstacles to the austerity of the ascetics, were killed by Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाश्च विनिष्पिष्टाः खरश्च निहतो रणे ॥ २० ॥  
 दूषणं चाग्रतो हत्वा त्रिशिरास्तदनन्तरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -731,6 +778,7 @@ killing Dushana (his brother) first, Trishira (the other brother) was killed the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -738,6 +786,8 @@ killing Dushana (his brother) first, Trishira (the other brother) was killed the
 रावणानुचरो घोरो मारीचो नाम राक्षसः ।  
 लोभयामास वैदेहीं भूत्वा रत्नमयो मृगः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +825,15 @@ by name, Maricha, a follower of Ravana, allured Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा राममब्रवीद् दृष्ट्वा वैदेही गृह्यतामिति ।  
 अयं मनोहरः कान्त आश्रमो नो भविष्यति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +876,15 @@ turn out to be charming and pleasing to the eye'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो धनुष्पाणिर्मृगं तमनुधावति ।  
 स तं जघान धावन्तं शरेणानतपर्वणा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +924,15 @@ one, with an arrow of curved knots."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सौम्य दशग्रीवो मृगं याति तु राघवे ।  
 लक्ष्मणे चापि निष्क्रान्ते प्रविवेशाश्रमं तदा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,6 +973,7 @@ Ravana forthwith entered their hermitage during that interval."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -921,6 +981,8 @@ Ravana forthwith entered their hermitage during that interval."
 त्रातुकामं ततो युद्धे हत्वा गृध्रं जटायुषम् ॥ २६ ॥  
 प्रगृह्य सहसा सीतां जगामाशु स राक्षसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,6 +1032,7 @@ went quickly in haste, taking Seetha with him"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -977,6 +1040,8 @@ went quickly in haste, taking Seetha with him"
 सीतां गृहीत्वा गच्छन्तं वानराः पर्वतोपमाः ।  
 ददृशुर्विस्मिताकारा रावणं राक्षसाधिपम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,6 +1086,7 @@ way, taking away Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1028,6 +1094,8 @@ way, taking away Seetha."
 आरुह्य सह वैदेह्या पुष्पकं स महाबलः ॥ २९ ॥  
 प्रविवेश तदा लङ्कां रावणो राक्षसेश्वरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1076,12 +1144,15 @@ Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां सुवर्णपरिष्कारे शुभे महति वेश्मनि ॥ ३० ॥  
 प्रवेश्य मैथिलीं वाक्यैः सान्त्वयामास रावणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,12 +1192,15 @@ Ravana sought to cajole her gently with his words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृणवद् भाषितं तस्य तं च नैर्ऋतपुङ्गवम् ॥ ३१ ॥  
 अचिन्तयन्ती वैदेही ह्यशोकवनिकां गता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1169,6 +1243,7 @@ Ashoka-grove."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1176,6 +1251,8 @@ Ashoka-grove."
 निवर्तमानः काकुत्स्थो दृष्ट्वा गृध्रं स विव्यथे ।  
 गृध्रं हतं तदा दृष्ट्वा रामः प्रियतरं पितुः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1225,12 +1302,15 @@ him than his own father killed, Rama was disturbed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गमाणस्तु वैदेहीं राघवः सहलक्ष्मणः ।  
 गोदावरीमनुचरन् वनोद्देशांश्च पुष्पितान् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,6 +1344,7 @@ woodlands along the bank of Godavari-river."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1271,6 +1352,8 @@ woodlands along the bank of Godavari-river."
 ततः कबन्धवचनाद् रामः सत्यपराक्रमः ॥ ३५ ॥  
 ऋष्यमूकगिरिं गत्वा सुग्रीवेण समागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1317,6 +1400,7 @@ advice of Kabandha, Rama of true prowess met Sugreeva, after heading for Mount R
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1324,6 +1408,8 @@ advice of Kabandha, Rama of true prowess met Sugreeva, after heading for Mount R
 भ्रात्रा निरस्तः क्रुद्धेन सुग्रीवो वालिना पुरा ।  
 इतरेतरसंवादात् प्रगाढः प्रणयस्तयोः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,12 +1454,15 @@ of mutual talks, affection deeply arose between Rama and Sugreeva."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः स्वबाहुवीर्येण स्वराज्यं प्रत्यपादयत् ।  
 वालिनं समरे हत्वा महाकायं महाबलम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1407,12 +1496,15 @@ colossal body, Rama caused the kingdom of Sugreeva restored.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवः स्थापितो राज्ये सहितः सर्ववानरैः ।  
 रामाय प्रतिजानीते राजपुत्र्यास्तु मार्गणम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,12 +1538,15 @@ pledge to Rama, to commence a search for Seetha the princess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदिष्टा वानरेन्द्रेण सुग्रीवेण महात्मना ।  
 दश कोट्यः प्लवङ्गानां सर्वाः प्रस्थापिता दिशः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1485,12 +1580,15 @@ sent to all the four quarters."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां नो विप्रकृष्टानां विन्ध्ये पर्वतसत्तमे ।  
 भृशं शोकाभितप्तानां महान् कालोऽत्यवर्तत ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1530,12 +1628,15 @@ slipped past us and we felt sore-stricken with sorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राता तु गृध्रराजस्य सम्पातिर्नाम वीर्यवान् ।  
 समाख्याति स्म वसतीं सीतां रावणमन्दिरे ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1576,6 +1677,7 @@ communicated to us that Seetha was dwelling in the habitation of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1583,6 +1685,8 @@ communicated to us that Seetha was dwelling in the habitation of Ravana."
 आत्मवीर्यं समास्थाय योजनानां शतं प्लुतः ।  
 तत्राहमेकामद्राक्षमशोकवनिकां गताम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1628,6 +1732,7 @@ one hundred yojanas (eight hundred miles of the ocean), resorting to my own stre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1636,6 +1741,8 @@ one hundred yojanas (eight hundred miles of the ocean), resorting to my own stre
 अभिज्ञानं मया दत्तं रामनामाङ्गुलीयकम् ।  
 अभिज्ञानं मणिं लब्ध्वा चरितार्थोऽहमागतः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1694,12 +1801,15 @@ silk-saree, looking cheerless, but unflinching in her vow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया च पुनरागम्य रामस्याक्लिष्टकर्मणः ।  
 अभिज्ञानं मया दत्तमर्चिष्मान् स महामणिः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1742,12 +1852,15 @@ given by me as a token to Rama who was unweary in action."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तां मैथिलीं रामस्त्वाशशंसे च जीवितम् ।  
 जीवितान्तमनुप्राप्तः पीत्वामृतमिवातुरः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1787,12 +1900,15 @@ dying patient would, on drinking the ambrosia."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्योजयिष्यन्नुद्योगं दध्रे लङ्कावधे मनः ।  
 जिघांसुरिव लोकान्ते सर्वाल्ँ लोकान् विभावसुः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1837,12 +1953,15 @@ universe."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुद्रमासाद्य नलं सेतुमकारयत् ।  
 अतरत् कपिवीराणां वाहिनी तेन सेतुना ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1876,12 +1995,15 @@ bridge, the army of the valiant monkeys crossed the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहस्तमवधीन्नीलः कुम्भकर्णं तु राघवः ।  
 लक्ष्मणो रावणसुतं स्वयं रामस्तु रावणम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1915,12 +2037,15 @@ Kumbhakarna and Ravana. Lakshmana killed Indrajit, the son of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शक्रेण समागम्य यमेन वरुणेन च ।  
 महेश्वरस्वयम्भूभ्यां तथा दशरथेन च ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1937,12 +2062,15 @@ Kumbhakarna and Ravana. Lakshmana killed Indrajit, the son of Ravana."
 
 अनन्तर श्रीरघुनाथनु क्रमवागि इन्द्र, यम, वरुण, महादेव, ब्रह्मदेवरु हागू महाराजा दशरथनन्नु भॆट्टियादनु.॥51॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैश्च दत्तवरः श्रीमानृषिभिश्च समागतैः ।  
 सुरर्षिभिश्च काकुत्स्थो वराल्ँ लेभे परन्तपः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1985,12 +2113,15 @@ by them. Sages and celestial masters who came there, too gave boons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु दत्तवरः प्रीत्या वानरैश्च समागतैः ।  
 पुष्पकेण विमानेन किष्किन्धामभ्युपागमत् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2027,12 +2158,15 @@ called Pushpaka, along with the monkeys who gathered there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां गङ्गां पुनरासाद्य वसन्तं मुनिसन्निधौ ।  
 अविघ्नं पुष्ययोगेन श्वो रामं द्रष्टुमर्हसि ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2077,6 +2211,7 @@ will be able to see Rama, without any obstacle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2085,6 +2220,8 @@ will be able to see Rama, without any obstacle."
 उवाच वाणीं मनसः प्रहर्षिणीं  
 चिरस्य पूर्णः खलु मे मनोरथः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2142,5 +2279,6 @@ enraptured his mind: 'My desire has been fulfilled indeed after a long time'."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तारनॆय सर्ग पूर्णवायितु.॥126॥
+</details>
 </details>
 

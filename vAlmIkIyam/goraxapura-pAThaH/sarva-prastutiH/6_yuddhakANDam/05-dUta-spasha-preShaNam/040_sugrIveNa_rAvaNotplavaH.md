@@ -2,6 +2,8 @@
 title = "०४० सुग्रीवेण रावणोत्प्लवः"
 title_english = "040 On seeing Ravana Sugreeva bounces on him"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ Sugreeva comes back and rejoins his monkey-troops.
 
 40. सुग्रीव और रावणका मल्लयुद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामः सुवेलाग्रं योजनद्वयमण्डलम् ।  
 उपारोहत् ससुग्रीवो हरियूथैः समन्वितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,6 +51,7 @@ Sugreeva comes back and rejoins his monkey-troops.
 
 अनन्तर वानर सेनापतिगळिन्द कूडिद सुग्रीवनॊन्दिगॆ श्रीरामनु ऎरडु योजन विस्तारवाद सुवेल पर्वत शिखरवन्नु हत्तिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,6 +59,8 @@ Sugreeva comes back and rejoins his monkey-troops.
 त्रिकूटशिखरे रम्ये निर्मितां विश्वकर्मणा ॥ २ ॥  
 ददर्श लङ्कां सुन्यस्तां रम्यकाननशोभिताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,6 +106,7 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,6 +114,8 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 श्वेतचामरपर्यन्तं विजयच्छत्रशोभितम् ।  
 रक्तचन्दनसंलिप्तं रत्नाभरणभूषितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +133,15 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 
 आग लङ्कापट्टणद गोपुरद तुदियल्लि कुळितिद्द दुर्जय रावणनू कण्डुबन्दनु. अवन इक्कॆलगळल्लि बिळिय चामर बीसुत्तिद्दरु, तलॆय मेलॆ श्वेतछत्र शोभिसुत्तित्तु. रावणनु शरीर कॆम्पाद आभरणगळिन्द अलङ्कृतवागि रक्तचन्दनदिन्द चर्चितवागित्तु.॥3-4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलजीमूतसङ्काशं हेमसञ्छादिताम्बरम् ।  
 ऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,12 +158,15 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 
 अवनु कप्पाद मोडदन्तॆ काणुत्तिद्दनु. चिन्नद जरतारी वस्त्रगळन्नु धरिसिद्दनु. ऐरावतद दाडॆगळिन्द आद एटिन चिह्नॆ ऎदॆयमेलॆ काणुत्तित्तु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शशलोहितरागेण संवीतं रक्तवाससा ।  
 सन्ध्यातपेन सञ्छन्नं मेघराशिमिवाम्बरे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +214,15 @@ sunshine at sunset.
 
 मॊलद रक्तदन्तॆ कॆम्पाद वस्त्रगळन्नु हॊद्दुकॊण्डु, अवनु आकाशदल्लिन सन्ध्याकालद कॆम्पाद मोडगळन्तॆ कण्डु बरुत्तिद्दनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यतां वानरेन्द्राणां राघवस्यापि पश्यतः ।  
 दर्शनाद् राक्षसेन्द्रस्य सुग्रीवः सहसोत्थितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +256,15 @@ of monkeys were looking on.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधवेगेन संयुक्तः सत्त्वेन च बलेन च ।  
 अचलाग्रादथोत्थाय पुप्लुवे गोपुरस्थले ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,12 +299,15 @@ the summit of the mountain and then sprang to the top of the gate (where Ravana 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थित्वा मुहूर्तं सम्प्रेक्ष्य निर्भयेनान्तरात्मना ।  
 तृणीकृत्य च तद् रक्षः सोऽब्रवीत् परुषं वचः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,12 +342,15 @@ regarded as a mere straw and thereafter spoke the following words harshly:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकनाथस्य रामस्य सखा दासोऽस्मि राक्षस ।  
 न मया मोक्ष्यसेऽद्य त्वं पार्थिवेन्द्रस्य तेजसा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,12 +391,15 @@ be spared by me today, by the inspiring grace of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा सहसोत्पत्य पुप्लुवे तस्य चोपरि ।  
 आकृष्य मुकुटं चित्रं पातयामास तद् भुवि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,12 +440,15 @@ brightly coloured crown from his head and threw it away on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीक्ष्य तूर्णमायान्तं बभाषे तं निशाचरः ।  
 सुग्रीवस्त्वं परोक्षं मे हीनग्रीवो भविष्यसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +493,15 @@ will now become Hinagriva bereft of your neck."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वोत्थाय तं क्षिप्रं बाहुभ्यामाक्षिपत् तले ।  
 कन्दुवत् स समुत्थाय बाहुभ्यामाक्षिपद्धरिः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,6 +536,7 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -506,6 +545,8 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 परस्परं श्लिष्टनिरुद्धचेष्टौ  
 परस्परं शाल्मलिकिंशुकाविव ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,6 +565,7 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 
 मत्तॆ अवरिब्बरू परस्पर द्वन्द्वयुद्धक्कॆ तॊडगिदरु. इब्बर शरीरगळू बॆवरिनिन्द हागू रक्तदिन्द तॊय्दु होयितु. ऒब्बरन्नॊब्बरु बाचि तब्बिकॊण्डाग आ बिगितदिन्द इब्बरू निश्चेष्टितरन्तादरु. आग आ राक्षस-वानररु बूरुगद मत्तु मुत्तुगद मरगळन्तॆ काणुत्तिद्दरु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -532,6 +574,8 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 तौ चक्रतुर्युद्धमसह्यरूपं  
 महाबलौ राक्षसवानरेन्द्रौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,6 +624,7 @@ fists, slaps of hands blows of elbows and blows of fingers on each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -588,6 +633,8 @@ fists, slaps of hands blows of elbows and blows of fingers on each other.
 उत्क्षिप्य चोत्क्षिप्य विनम्य देहौ  
 पादक्रमाद् गोपुरवेदिलग्नौ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +673,7 @@ highly swift combatants remained in that flat roof of the gate way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -634,6 +682,8 @@ highly swift combatants remained in that flat roof of the gate way.
 उत्पेततुर्भूमितलं स्पृशन्तौ  
 स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,6 +753,7 @@ the top of Suvela mountain which was having a circumference of sixteen miles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -711,6 +762,8 @@ the top of Suvela mountain which was having a circumference of sixteen miles.
 संरम्भशिक्षाबलसम्प्रयुक्तौ  
 सुचेरतुः सम्प्रति युद्धमार्गैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,6 +815,7 @@ were now moving to and fro in the arena.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -770,6 +824,8 @@ were now moving to and fro in the arena.
 संहत्य संवेद्य च तौ कराभ्यां  
 तौ पेततुर्वै युगपद् धरायाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,6 +872,7 @@ their strength, fell on the ground together.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -824,6 +881,8 @@ their strength, fell on the ground together.
 व्यायामशिक्षाबलसम्प्रयुक्तौ  
 क्लमं न तौ जग्मतुराशु वीरौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,6 +924,7 @@ the arena again and again, like skilled and mighty wrestlers, nor were they easi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,6 +933,8 @@ the arena again and again, like skilled and mighty wrestlers, nor were they easi
 चिरेण कालेन भृशं प्रयुद्धौ  
 सञ्चेरतुर्मण्डलमार्गमाशु ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -923,12 +985,15 @@ circular arena.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ परस्परमासाद्य यत्तावन्योन्यसूदने ।  
 मार्जाराविव भक्षार्थेऽवतस्थाते मुहुर्मुहुः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1027,15 @@ kill each other, they stood growling again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मण्डलानि विचित्राणि स्थानानि विविधानि च ।  
 गोमूत्रकाणि चित्राणि गतप्रत्यागतानि च ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,6 +1058,7 @@ kill each other, they stood growling again and again.
 १. भरतने मल्लयुद्धमें चार प्रकारके मण्डल बताये हैं । इनके नाम हैं—चारिमण्डल, करणमण्डल, खण्डमण्डल और महामण्डल । इनके लक्षण इस प्रकार हैं—एक पैरसे आगे बढ़कर चक्कर काटते हुए शत्रुपर आक्रमण करना चारिमण्डल कहलाता है । दो पैरसे मण्डलाकार घूमते हुए आक्रमण करना करणमण्डल कहा गया है । अनेक करणमण्डलोंका संयोग होनेसे खण्डमण्डल होता है और तीन या चार खण्डमण्डलोंके संयोगसे महामण्डल कहा गया है ।  
 २. भरत मुनिने मल्लयुद्धमें छः स्थानोंका उल्लेख किया है—वैष्णव, समपाद, वैशाख, मण्डल, प्रत्यालीढ़ और अनालीढ़ । पैरोंको आगे-पीछे अगल-बगलमें चलाते हुए विशेष प्रकारसे उन्हें यथास्थान स्थापित करना ही स्थान कहलाता है । कोई-कोई बाघ, सिंह आदि जन्तुओंके समान खड़े होनेकी रीतिको ही स्थान कहते हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1000,6 +1069,8 @@ kill each other, they stood growling again and again.
 उपन्यस्तमपन्यस्तं युद्धमार्गविशारदौ ।  
 तौ विचेरतुरन्योन्यं वानरेन्द्रश्च रावणः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,6 +1122,7 @@ and by letting go or stealing away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1059,6 +1131,8 @@ and by letting go or stealing away.
 उत्पपात तदाऽऽकाशं जितकाशी जितक्लमः ।  
 रावणः स्थित एवात्र हरिराजेन वञ्चितः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,6 +1180,7 @@ confounded there alone.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1114,6 +1189,8 @@ confounded there alone.
 गगनमतिविशालं लङ्घयित्वार्कसूनु-  
 र्हरिगणबलमध्ये रामपार्श्वं जगाम ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,6 +1242,7 @@ Rama, who as in the middle of the mokye-troops.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1173,6 +1251,8 @@ Rama, who as in the middle of the mokye-troops.
 रघुवरनृपसूनोर्वर्धयन् युद्धहर्षं  
 तरुमृगगणमुख्यैः पूज्यमानो हरीन्द्रः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1224,5 +1304,6 @@ honoured by the monkey leaders and delighted, rejoined the army.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चत्वारिंशः सर्गः ॥ ४० ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चालीसवाँ सर्ग पूरा हुआ ॥ ४० ॥
+</details>
 </details>
 

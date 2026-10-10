@@ -2,6 +2,8 @@
 title = "०११ अगस्त्यमाहात्म्यम्"
 title_english = "011 Stories of Sages Mandakarani and Agastya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda
@@ -27,12 +29,15 @@ Rama comes across lake from which divine music is heard. Surprised at the musica
 
 11. पञ्चाप्सर तीर्थ एवं माण्डकर्णि मुनिकी कथा, विभिन्न आश्रमोंमें घूमकर श्रीराम आदिका सुतीक्ष्णके आश्रममें आना, वहाँ कुछ कालतक रहकर उनकी आज्ञासे अगस्त्यके भाई तथा अगस्त्यके आश्रमपर जाना तथा अगस्त्यके प्रभावका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतः प्रययौ रामः सीता मध्ये सुशोभना ।  
 पृष्ठतस्तु धनुष्पाणिर्लक्ष्मणोऽनुजगाम ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -101,12 +106,15 @@ three letters of Om.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ पश्यमानौ विविधान् शैलप्रस्थान् वनानि च ।  
 नदीश्च विविधा रम्या जग्मतुः सह सीतया ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +153,15 @@ along with Seetha. [4-11-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारसांश्चक्रवाकांश्च नदीपुलिनचारिणः ।  
 सरांसि च सपद्मानि युतानि जलजैः खगैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -192,12 +203,15 @@ also the lakes that contain lotuses and water born birds, they moved on. [4-11-3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यूथबद्धांश्च पृषतान् मदोन्मत्तान् विषाणिनः ।  
 महिषांश्च वराहांश्च गजांश्च द्रुमवैरिणः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +251,15 @@ in virility, and the ruttish elephants rending trees like their enemies. [4-11-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गत्वा दूरमध्वानं लम्बमाने दिवाकरे ।  
 ददृशुः सहिता रम्यं तटाकं योजनायुतम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ in virility, and the ruttish elephants rending trees like their enemies. [4-11-4
 
 बहळ दूर प्रयाणिसिदाग सूर्यनु अस्ताचलक्कॆ होदाग अवरु मूवरू ऒन्दॊन्दु योजन उद्द - अगलवाद ऒन्दु दॊड्ड सुन्दर सरोवरवन्नु ऒट्टिगॆ नोडिदरु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मपुष्करसम्बाधं गजयूथैरलङ्कृतम् ।  
 सारसैर्हंसकादम्बैः सङ्कुलं जलजातिभिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ and over-flurried with waterfowls like saarasa birds, kaadamba birds, swans and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसन्नसलिले रम्ये तस्मिन् सरसि शुश्रुवे ।  
 गीतवादित्रनिर्घोषो न तु कश्चन दृश्यते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +364,15 @@ instruments, but none is visible. [4-11-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कौतूहलाद् रामो लक्ष्मणश्च महारथः ।  
 मुनिं धर्मभृतं नाम प्रष्टुं समुपचक्रमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +412,15 @@ about it. [4-11-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमत्यद्भुतं श्रुत्वा सर्वेषां नो महामुने ।  
 कौतूहलं महज्जातं किमिदं साधु कथ्यताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +462,15 @@ in all of us, why this, please tell us clearly about it." Thus Rama asked. [4-11
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनैवमुक्तो धर्मात्मा राघवेण मुनिस्तदा ।  
 प्रभावं सरसः क्षिप्रमाख्यातुमुपचक्रमे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +509,15 @@ lake. [4-11-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं पञ्चाप्सरो नाम तटाकं सार्वकालिकम् ।  
 निर्मितं तपसा राम मुनिना माण्डकर्णिना ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +556,15 @@ Apsara Lake. [4-11-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि तेपे तपस्तीव्रं माण्डकर्णिर्महामुनिः ।  
 दशवर्षसहस्राणि वायुभक्षो जलाशये ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +606,15 @@ of the lake, and consuming air alone. [4-11-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रव्यथिताः सर्वे देवाः साग्निपुरोगमाः ।  
 अब्रुवन् वचनं सर्वे परस्परसमागताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -612,12 +653,15 @@ among themselves. [4-11-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माकं कस्यचित् स्थानमेष प्रार्थयते मुनिः ।  
 इति संविग्नमनसः सर्वे तत्र दिवौकसः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +703,15 @@ at heart. [4-11-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कर्तुं तपोविघ्नं सर्वदेवैर्नियोजिताः ।  
 प्रधानाप्सरसः पञ्च विद्युच्चलितवर्चसः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ of the lightning, to effectuate hindrance in that sage's ascesis. [4-11-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सरोभिस्ततस्ताभिर्मुनिर्दृष्टपरावरः ।  
 नीतो मदनवश्यत्वं देवानां कार्यसिद्धये ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +803,15 @@ restraint by, as though to achieve god's task.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताश्चैवाप्सरसः पञ्च मुनेः पत्नीत्वमागताः ।  
 तटाके निर्मितं तासां तस्मिन्नन्तर्हितं गृहम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -798,12 +851,15 @@ in there, concealed inside that lake. [4-11-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रैवाप्सरसः पञ्च निवसन्त्यो यथासुखम् ।  
 रमयन्ति तपोयोगान्मुनिं यौवनमास्थितम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +902,15 @@ his delight as youthfulness came upon that sage owing to his power of asceticism
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां सङ्क्रीडमानानामेष वादित्रनिःस्वनः ।  
 श्रूयते भूषणोन्मिश्रो गीतशब्दो मनोहरः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -891,12 +950,15 @@ to Rama. [4-11-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्चर्यमिति तस्यैतद् वचनं भावितात्मनः ।  
 राघवः प्रतिजग्राह सह भ्रात्रा महायशाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -936,12 +998,15 @@ exclaiming it as "amazing is this..." [4-11-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कथयमानः स ददर्शाश्रममण्डलम् ।  
 कुशचीरपरिक्षिप्तं ब्राह्म्या लक्ष्म्या समावृतम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -987,6 +1052,7 @@ Lakshmana. [4-11-21, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -994,6 +1060,8 @@ Lakshmana. [4-11-21, 22a]
 तदा तस्मिन् स काकुत्स्थः श्रीमत्याश्रममण्डले ॥ २२ ॥  
 उषित्वा स सुखं तत्र पूज्यमानो महर्षिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,12 +1079,15 @@ Lakshmana. [4-11-21, 22a]
 
 विदेहनन्दिनी सीतॆ हागू लक्ष्मणनॊन्दिगॆ आ तेजस्वी आश्रममण्डलवन्नु प्रवेशिसि ककुत्स्थकुलभूषण श्रीरामनु आग सुखवागि वासिसिदनु. अल्लिय महर्षिगळु अवनन्नु बहळवागि आदरिसि सत्करिसिदरु.॥22½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगाम चाश्रमांस्तेषां पर्यायेण तपस्विनाम् ॥ २३ ॥  
 येषामुषितवान् पूर्वं सकाशे स महास्त्रवित् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,6 +1127,7 @@ earlier, for another round. [4-11-22, 23, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1064,6 +1136,8 @@ earlier, for another round. [4-11-22, 23, 24a]
 अपरत्राधिकान् मासानध्यर्धमधिकं क्वचित् ॥ २५ ॥  
 त्रीन् मासानष्टमासांश्च राघवो न्यवसत् सुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1191,15 @@ and for more than one and half months elsewhere. [4-11-24, 25, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र संवसतस्तस्य मुनीनामाश्रमेषु वै ॥ २६ ॥  
 रमतश्चानुकूल्येन ययुः संवत्सरा दश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1171,12 +1248,15 @@ two years are spent. Then the search for Seetha and final war should happen in t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिसृत्य च धर्मज्ञो राघवः सह सीतया ॥ २७ ॥  
 सुतीक्ष्णस्याश्रमपदं पुनरेवाजगाम ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1218,12 +1298,15 @@ to the hermitage of Sage Suteekshna again. [4-11-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमाश्रममागम्य मुनिभिः परिपूजितः ॥ २८ ॥  
 तत्रापि न्यवसद् रामः किञ्चित् कालमरिन्दमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1262,12 +1345,15 @@ On coming at that hermitage that enemy destroyer is adored by sages, and he resi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाश्रमस्थो विनयात् कदाचित् तं महामुनिम् ॥ २९ ॥  
 उपासीनः स काकुत्स्थः सुतीक्ष्णमिदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1307,6 +1393,7 @@ who is sitting nearby. [4-11-29b, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1314,6 +1401,8 @@ who is sitting nearby. [4-11-29b, 30a]
 वसतीति मया नित्यं कथाः कथयतां श्रुतम् ।  
 न तु जानामि तं देशं वनस्यास्य महत्तया ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1375,6 +1464,7 @@ that astute sage? [4-11-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1383,6 +1473,8 @@ that astute sage? [4-11-31b, 32a]
 अगस्त्यमधिगच्छेयमभिवादयितुं मुनिम् ।  
 मनोरथो महानेष हृदि सम्परिवर्तते ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,6 +1538,7 @@ to venerate him. [4-11-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1453,6 +1546,8 @@ to venerate him. [4-11-32b, 33a]
 इति रामस्य स मुनिः श्रुत्वा धर्मात्मनो वचः ॥ ३४ ॥  
 सुतीक्ष्णः प्रत्युवाचेदं प्रीतो दशरथात्मजम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1494,6 +1589,7 @@ this to him. [4-11-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1501,6 +1597,8 @@ this to him. [4-11-34b, 35a]
 अगस्त्यमभिगच्छेति सीतया सह राघव ।  
 दिष्ट्या त्विदानीमर्थेऽस्मिन् स्वयमेव ब्रवीषि माम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1564,6 +1662,7 @@ Seetha. [4-1-35b, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1571,6 +1670,8 @@ Seetha. [4-1-35b, 36a]
 योजनान्याश्रमात् तात याहि चत्वारि वै ततः ।  
 दक्षिणेन महान् श्रीमानगस्त्यभ्रातुराश्रमः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1610,6 +1711,7 @@ of Agastya's brother on the southern side. [4-11-37b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1618,6 +1720,8 @@ of Agastya's brother on the southern side. [4-11-37b, c]
 पद्मिन्यो विविधास्तत्र प्रसन्नसलिलाशयाः ।  
 हंसकारण्डवाकीर्णाश्चक्रवाकोपशोभिताः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1672,6 +1776,7 @@ flowers and fruits, thickets of long pepper, and reechoed with the callings of v
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1680,6 +1785,8 @@ flowers and fruits, thickets of long pepper, and reechoed with the callings of v
 तत्रागस्त्याश्रमपदं गत्वा योजनमन्तरम् ।  
 रमणीये वनोद्देशे बहुपादपशोभिते ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1719,12 +1826,15 @@ Agastya's hermitage. [4-11-40b, 41a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रंस्यते तत्र वैदेही लक्ष्मणश्च त्वया सह ।  
 स हि रम्यो वनोद्देशो बहुपादपसंयुतः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1758,12 +1868,15 @@ abounding with diverse trees will naturally be delightful, isn't it. [4-11-41b, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि बुद्धिः कृता द्रष्टुमगस्त्यं तं महामुनिम् ।  
 अद्यैव गमने बुद्धिं रोचयस्व महामते ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1802,12 +1915,15 @@ in going only today." So said Sage Suteekshna to Rama. [4-11-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति रामो मुनेः श्रुत्वा सह भ्रात्राभिवाद्य च ।  
 प्रतस्थेऽगस्त्यमुद्दिश्य सानुगः सह सीतया ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1847,12 +1963,15 @@ he journeyed with Seetha and his follower Lakshmana aiming to reach Agastya. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यन् वनानि चित्राणि पर्वतांश्चाभ्रसन्निभान् ।  
 सरांसि सरितश्चैव पथि मार्गवशानुगान् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1869,12 +1988,15 @@ he journeyed with Seetha and his follower Lakshmana aiming to reach Agastya. [4-
 
 दारियल्लि सिक्किद चित्र-विचित्र वनगळन्नु, मेघमालॆगळन्तिरुव पर्वत पङ्क्तिगळन्नु, सरोवरगळन्नु नदिगळन्नु नोडुत्ता अवरु मुन्दक्कॆ नडॆदरु.॥45॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतीक्ष्णेनोपदिष्टेन गत्वा तेन पथा सुखम् ।  
 इदं परमसंहृष्टो वाक्यं लक्ष्मणमब्रवीत् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1911,12 +2033,15 @@ this sentence to Lakshmana. [4-11-45, 46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदेवाश्रमपदं नूनं तस्य महात्मनः ।  
 अगस्त्यस्य मुनेर्भ्रातुर्दृश्यते पुण्यकर्मणः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1955,12 +2080,15 @@ pious deeds. [4-11-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हीमे वनस्यास्य ज्ञाताः पथि सहस्रशः ।  
 सन्नताः फलभारेण पुष्पभारेण च द्रुमाः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2000,12 +2128,15 @@ I perceive it to be the hermitage of Agastya's bother. [4-11-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिप्पलीनां च पक्वानां वनादस्मादुपागतः ।  
 गन्धोऽयं पवनोत्क्षिप्तः सहसा कटुकोदयः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2043,12 +2174,15 @@ I perceive it to be the hermitage of Agastya's bother. [4-11-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र तत्र च दृश्यन्ते सङ्क्षिप्ताः काष्ठसञ्चयाः ।  
 लूनाश्च परिदृश्यन्ते दर्भा वैदूर्यवर्चसः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2091,12 +2225,15 @@ grass snipped at its top and gemlike in its tinge. [4-11-50]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्च वनमध्यस्थं कृष्णाभ्रशिखरोपमम् ।  
 पावकस्याश्रमस्थस्य धूमाग्रं सम्प्रदृश्यते ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2136,12 +2273,15 @@ visible as high as the vertex of a black rainy cloud. [4-11-51]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विविक्तेषु च तीर्थेषु कृतस्नाना द्विजातयः ।  
 पुष्पोपहारं कुर्वन्ति कुसुमैः स्वयमर्जितैः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2195,12 +2335,15 @@ that are brought by others, the worst."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुतीक्ष्णवचनं यथा सौम्य मया श्रुतम् ।  
 अगस्त्यस्याश्रमो भ्रातुर्नूनमेष भविष्यति ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2242,12 +2385,15 @@ be that of Sage Agastya's brother. [4-11-53]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निगृह्य तरसा मृत्युं लोकानां हितकाम्यया ।  
 यस्य भ्रात्रा कृतेयं दिक्शरण्या पुण्यकर्मणा ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2292,12 +2438,15 @@ of such a sage, such Agatya's brother. [4-11-54]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैकदा किल क्रूरो वातापिरपि चेल्वलः ।  
 भ्रातरौ सहितावास्तां ब्राह्मणघ्नौ महासुरौ ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2336,6 +2485,7 @@ demons, they say, used to be Bhraman-killers. [4-11-55]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2344,6 +2494,8 @@ demons, they say, used to be Bhraman-killers. [4-11-55]
 भ्रातरं संस्कृतं कृत्वा ततस्तं मेषरूपिणम् ।  
 तान् द्विजान् भोजयामास श्राद्धदृष्टेन कर्मणा ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2414,12 +2566,15 @@ verse also has the same word, meaning refinement.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भुक्तवतां तेषां विप्राणामिल्वलोऽब्रवीत् ।  
 वातापे निष्क्रमस्वेति स्वरेण महता वदन् ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2458,12 +2613,15 @@ you may come out." [4-11-58]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भ्रातुर्वचः श्रुत्वा वातापिर्मेषवन्नदन् ।  
 भित्त्वा भित्त्वा शरीराणि ब्राह्मणानां विनिष्पतत् ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2503,12 +2661,15 @@ the bodies of those Brahmans. [4-11-59]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणानां सहस्राणि तैरेवं कामरूपिभिः ।  
 विनाशितानि संहत्य नित्यशः पिशिताशनैः ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2555,12 +2716,15 @@ used to kill.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगस्त्येन तदा देवैः प्रार्थितेन महर्षिणा ।  
 अनुभूय किल श्राद्धे भक्षितः स महासुरः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2600,12 +2764,15 @@ they say, had finished him off. [4-11-61]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सम्पन्नमित्युक्त्वा दत्त्वा हस्तेऽवनेजनम् ।  
 भ्रातरं निष्क्रमस्वेति चेल्वलः समभाषत ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2646,12 +2813,15 @@ out. [4-11-62]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा भाषमाणं तु भ्रातरं विप्रघातिनम् ।  
 अब्रवीत् प्रहसन् धीमानगस्त्यो मुनिसत्तमः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2690,12 +2860,15 @@ brother to come out. [4-11-63]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतो निष्क्रमितुं शक्तिर्मया जीर्णस्य रक्षसः ।  
 भ्रातुस्तु मेषरूपस्य गतस्य यमसादनम् ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2746,12 +2919,15 @@ cursed Brahmans to be diverse, *braahmaNaanaam anekatvam* as none will concur wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्य वचः श्रुत्वा भ्रातुर्निधनसंश्रितम् ।  
 प्रधर्षयितुमारेभे मुनिं क्रोधान्निशाचरः ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2790,12 +2966,15 @@ commenced to assault the sage. [4-11-65]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभ्यद्रवद् द्विजेन्द्रं तं मुनिना दीप्ततेजसा ।  
 चक्षुषानलकल्पेन निर्दग्धो निधनं गतः ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2838,12 +3017,15 @@ burnt him down just by his flame-like eyes and doomed him to death. [4-11-66]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यायमाश्रमो भ्रातुस्तटाकवनशोभितः ।  
 विप्रानुकम्पया येन कर्मेदं दुष्करं कृतम् ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2884,12 +3066,15 @@ about Agastya. [4-11-67]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कथयमानस्य तस्य सौमित्रिणा सह ।  
 रामस्यास्तं गतः सूर्यः सन्ध्याकालोऽभ्यवर्तत ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2928,12 +3113,15 @@ While Rama narrated that way to Lakshmana sun went into dusk and the vesperal ti
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपास्य पश्चिमां सन्ध्यां सह भ्रात्रा यथाविधि ।  
 प्रविवेशाश्रमपदं तमृषिं चाभ्यवादयत् ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2973,12 +3161,15 @@ Worshipping sunset along with brother as per custom, Rama entered that hermitage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्यक्प्रतिगृहीतस्तु मुनिना तेन राघवः ।  
 न्यवसत् तां निशामेकां प्राश्य मूलफलानि च ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3020,12 +3211,15 @@ Raghava spent one night there when that sage received him well and when they din
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां रात्र्यां व्यतीतायामुदिते रविमण्डले ।  
 भ्रातरं तमगस्त्यस्य आमन्त्रयत राघवः ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3064,12 +3258,15 @@ Agastya saying the following. [4-11-71]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवादये त्वां भगवन् सुखमस्म्युषितो निशाम् ।  
 आमन्त्रये त्वां गच्छामि गुरुं ते द्रष्टुमग्रजम् ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3110,12 +3307,15 @@ as I wish to proceed to see your mentor and elder brother Agastya. [4-11-72]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गम्यतामिति तेनोक्तो जगाम रघुनन्दनः ।  
 यथोद्दिष्टेन मार्गेण वनं तच्चावलोकयन् ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3159,6 +3359,7 @@ The name of this brother of Agastya is Sudarshana. But none calls him by that na
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3169,6 +3370,8 @@ The name of this brother of Agastya is Sudarshana. But none calls him by that na
 हस्तिहस्तैर्विमृदितान् वानरैरुपशोभितान् ।  
 मत्तैः शकुनिसङ्घैश्च शतशः प्रतिनादितान् ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3238,12 +3441,15 @@ trees, lemons trees, saplings of bilva trees and also madhuka and bilva trees he
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीत् समीपस्थं रामो राजीवलोचनः ।  
 पृष्ठतोऽनुगतं वीरं लक्ष्मणं लक्ष्मिवर्धनम् ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3285,12 +3491,15 @@ and who is near at hand. [4-11-77]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्निग्धपत्रा यथा वृक्षा यथा क्षान्ता मृगद्विजाः ।  
 आश्रमो नातिदूरस्थो महर्षेर्भावितात्मनः ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3332,12 +3541,15 @@ very far from here. [4-11-78]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगस्त्य इति विख्यातो लोके स्वेनैव कर्मणा ।  
 आश्रमो दृश्यते तस्य परिश्रान्तश्रमापहः ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3385,12 +3597,15 @@ The name Agastya is cleavable like *aga+ stha* mountain, who stayed, stopped fro
 
 * अगं पर्वतं स्तम्भयति इति अगस्त्यः—जो अग अर्थात् पर्वतको स्तम्भित कर दे, उसे अगस्त्य कहते हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राज्यधूमाकुलवनश्चीरमालापरिष्कृतः ।  
 प्रशान्तमृगयूथश्च नानाशकुनिनादितः ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3431,6 +3646,7 @@ of the birds. [4-11-80]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3439,6 +3655,8 @@ of the birds. [4-11-80]
 तस्येदमाश्रमपदं प्रभावाद् यस्य राक्षसैः ।  
 दिगियं दक्षिणा त्रासाद् दृश्यते नोपभुज्यते ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3494,12 +3712,15 @@ There is some problem in copying. These stanzas of verse have already appeared a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदाप्रभृति चाक्रान्ता दिगियं पुण्यकर्मणा ।  
 तदाप्रभृति निर्वैराः प्रशान्ता रजनीचराः ॥ ८३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3538,12 +3759,15 @@ are calmed down and remained without feud. [4-11-83]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाम्ना चेयं भगवतो दक्षिणा दिक्प्रदक्षिणा ।  
 प्रथिता त्रिषु लोकेषु दुर्धर्षा क्रूरकर्मभिः ॥ ८४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3583,12 +3807,15 @@ unattackable to the demons with cruel deeds. [4-11-84]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गं निरोद‍्धुं सततं भास्करस्याचलोत्तमः ।  
 सन्देशं पालयंस्तस्य विन्ध्यशैलो न वर्धते ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3605,12 +3832,15 @@ unattackable to the demons with cruel deeds. [4-11-84]
 
 ऒम्मॆ पर्वत श्रेष्ठ विन्ध्यनु सूर्यन मार्गवन्नु तडॆयलु ऎत्तरवागि बॆळॆदिद्दनु, आदरॆ महर्षि अगस्त्यरु हेळिद्दरिन्द अवनु नम्रनागिद्दनु. अन्दिनिन्द इन्दिनवरॆगॆ निरन्तर अवर आदेशवन्नु पालिसुत्ता अवनु ऎन्दू बॆळॆयलिल्ल.॥85॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं दीर्घायुषस्तस्य लोके विश्रुतकर्मणः ।  
 अगस्त्यस्याश्रमः श्रीमान् विनीतमृगसेवितः ॥ ८६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3670,12 +3900,15 @@ saintly lady will be quoted in Lalitha Sahasra Naamaavali. The thousand name of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष लोकार्चितः साधुर्हिते नित्यं रतः सताम् ।  
 अस्मानधिगतानेष श्रेयसा योजयिष्यति ॥ ८७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3714,12 +3947,15 @@ in the world, and for us when we approach him he accords beneficence. [4-11-87]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आराधयिष्याम्यत्राहमगस्त्यं तं महामुनिम् ।  
 शेषं च वनवासस्य सौम्य वत्स्याम्यहं प्रभो ॥ ८८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3759,12 +3995,15 @@ one, I think of living the remainder of forest living here only. [4-11-88]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 अगस्त्यं नियताहाराः सततं पर्युपासते ॥ ८९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3807,12 +4046,15 @@ self-disciplinary. [4-11-89]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नात्र जीवेन्मृषावादी क्रूरो वा यदि वा शठः ।  
 नृशंसः पापवृत्तो वा मुनिरेष तथाविधः ॥ ९० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3855,12 +4097,15 @@ behaviour, for that sage is of that nature. [4-11-90]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र देवाश्च यक्षाश्च नागाश्च पतगैः सह ।  
 वसन्ति नियताहारा धर्ममाराधयिष्णवः ॥ ९१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3900,12 +4145,15 @@ to.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र सिद्धा महात्मानो विमानैः सूर्यसन्निभैः ।  
 त्यक्त्वा देहान् नवैर्देहैः स्वर्याताः परमर्षयः ॥ ९२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3946,12 +4194,15 @@ in resplendence, on relinquishing their mortal bodies here and on obtaining new 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यक्षत्वममरत्वं च राज्यानि विविधानि च ।  
 अत्र देवाः प्रयच्छन्ति भूतैराराधिताः शुभैः ॥ ९३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3990,12 +4241,15 @@ auspicious beings that worship them. [4-11-93]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगताः स्माश्रमपदं सौमित्रे प्रविशाग्रतः ।  
 निवेदयेह मां प्राप्तमृषये सह सीतया ॥ ९४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4055,5 +4309,6 @@ the arrival of time to eradicate Ravana, Rama seeks this protocol.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हन्नॊन्दनॆय सर्ग सम्पूर्णवायितु. ॥11॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०२८ सीतया रावणवाक्यमननम्"
 title_english = "028 Seetha recollects the time limit"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -21,6 +23,7 @@ moment, a propitious omen never seen before appears on her person.
 
 28. विलाप करती हुई सीताका प्राण-त्यागके लिये उद्यत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ moment, a propitious omen never seen before appears on her person.
 सीता वितत्रास यथा वनान्ते  
 सिंहाभिपन्ना गजराजकन्या ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +70,7 @@ a tiny female-elephant overpowered by a lion in the middle of a forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ a tiny female-elephant overpowered by a lion in the middle of a forest.
 कान्तारमध्ये विजने विसृष्टा  
 बालेव कन्या विललाप सीता ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +117,7 @@ with his words galore, lamented (as follows) like a young virgin who was left lo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,6 +126,8 @@ with his words galore, lamented (as follows) like a young virgin who was left lo
 यत्राहमेवं परिभर्त्स्यमाना  
 जीवामि यस्मात् क्षणमप्यपुण्या ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +178,7 @@ even for an instant, though being threatened in this way."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,6 +187,8 @@ even for an instant, though being threatened in this way."
 विदीर्यते यन्न सहस्रधाद्य  
 वज्राहतं शृङ्गमिवाचलस्य ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -224,6 +238,7 @@ it does not break into a thousand pieces today like a mountain-top struck by lig
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -232,6 +247,8 @@ it does not break into a thousand pieces today like a mountain-top struck by lig
 भावं न चास्याहमनुप्रदातु-  
 मलं द्विजो मन्त्रमिवाद्विजाय ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,6 +300,7 @@ would offer a mystical verse to one not belonging to the twice-born classes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,6 +309,8 @@ would offer a mystical verse to one not belonging to the twice-born classes."
 नूनं ममाङ्गान्यचिरादनार्यः  
 शस्त्रैः शितैश्छेत्स्यति राक्षसेन्द्रः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,6 +347,7 @@ off my limbs with his sharpened weapons, even as a surgeon would cut the limbs o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -335,6 +356,8 @@ off my limbs with his sharpened weapons, even as a surgeon would cut the limbs o
 बद्धस्य वध्यस्य यथा निशान्ते  
 राजोपरोधादिव तस्करस्य ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,6 +399,7 @@ and to be capitally punished under the detention orders of a king. Alas! This is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -384,6 +408,8 @@ and to be capitally punished under the detention orders of a king. Alas! This is
 एषा विपद्याम्यहमल्पभाग्या  
 महार्णवे नौरिव मूढवाता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -425,6 +451,7 @@ like a ship driven out of its course by a strong wind in a mighty ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -433,6 +460,8 @@ like a ship driven out of its course by a strong wind in a mighty ocean."
 नूनं विशस्तौ मम कारणात् तौ  
 सिंहर्षभौ द्वाविव वैद्युतेन ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,6 +498,7 @@ as two excellent lions killed by a flashing thunderbolt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -477,6 +507,8 @@ as two excellent lions killed by a flashing thunderbolt."
 यत्रार्यपुत्रौ विससर्ज मूढा  
 रामानुजं लक्ष्मणपूर्वजं च ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -519,6 +551,7 @@ brother of Lakshmana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -527,6 +560,8 @@ brother of Lakshmana."
 हा जीवलोकस्य हितः प्रियश्च  
 वध्यां न मां वेत्सि हि राक्षसानाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,6 +599,7 @@ by the demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -572,6 +608,8 @@ by the demons."
 पतिव्रतात्वं विफलं ममेदं  
 कृतं कृतघ्नेष्विव मानुषाणाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,6 +655,7 @@ men becoming waste".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -625,6 +664,8 @@ men becoming waste".
 या त्वां न पश्यामि कृशा विवर्णा  
 हीना त्वया सङ्गमने निराशा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,6 +708,7 @@ Likewise, this state of my being only one wife to you has become useless.."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -675,6 +717,8 @@ Likewise, this state of my being only one wife to you has become useless.."
 स्त्रीभिस्तु मन्ये विपुलेक्षणाभिः  
 संरंस्यसे वीतभयः कृतार्थः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,6 +761,7 @@ women."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -725,6 +770,8 @@ women."
 मोघं चरित्वाथ तपो व्रतं च  
 त्यक्ष्यामि धिग्जीवितमल्पभाग्याम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,6 +809,7 @@ to me of my little fortune!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -770,6 +818,8 @@ to me of my little fortune!"
 विषस्य दाता न तु मेऽस्ति कश्चि-  
 च्छस्त्रस्य वा वेश्मनि राक्षसस्य ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,6 +870,7 @@ is a giver either of a poison or of a sharp weapon in the house of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -828,6 +879,8 @@ is a giver either of a poison or of a sharp weapon in the house of Ravana."
 उद‍्बद‍्ध्य वेण्युद्‍ग्रथनेन शीघ्र-  
 महं गमिष्यामि यमस्य मूलम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,6 +921,7 @@ and emaciated face, approached that excellent tree in bloom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -880,6 +934,8 @@ and emaciated face, approached that excellent tree in bloom.
 प्रादुर्निमित्तानि तदा बभूवुः  
 पुरापि सिद्धान्युपलक्षितानि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,5 +1026,6 @@ God of Death by tying my neck quickly with my braid of hair looking like a hangi
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॆण्टनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

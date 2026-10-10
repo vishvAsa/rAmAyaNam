@@ -2,6 +2,8 @@
 title = "०६३ लक्ष्मणेन रामसान्त्वनम्"
 title_english = "063 Rama laments for Seetha contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,6 +24,7 @@ sinks into his own anguish.
 
 63. श्रीरामका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ sinks into his own anguish.
 विषादयन् भ्रातरमार्तरूपो  
 भूयो विषादं प्रविवेश तीव्रम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,6 +80,7 @@ drifted into a dire desperation while despairing his brother Lakshmana. [3-63-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -83,6 +89,8 @@ drifted into a dire desperation while despairing his brother Lakshmana. [3-63-1]
 उवाच वाक्यं व्यसनानुरूप-  
 मुष्णं विनिःश्वस्य रुदन् सशोकम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -129,6 +137,7 @@ the sway of sorrow. [3-63-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,6 +146,8 @@ the sway of sorrow. [3-63-2]
 शोकानुशोको हि परम्पराया  
 मामेति भिन्दन् हृदयं मनश्च ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,6 +193,7 @@ by woe are getting at me in seriation to burst my heart and mind... [3-63-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -190,6 +202,8 @@ by woe are getting at me in seriation to burst my heart and mind... [3-63-3]
 तत्रायमद्यापतितो विपाको  
 दुःखेन दुःखं यदहं विशामि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +257,7 @@ bechances at a later time in the shape of misfortune.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,6 +266,8 @@ bechances at a later time in the shape of misfortune.
 सर्वाणि मे लक्ष्मण शोकवेग-  
 मापूरयन्ति प्रविचिन्तितानि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,6 +313,7 @@ are replenishing the haste of my agony... [3-63-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -304,6 +322,8 @@ are replenishing the haste of my agony... [3-63-5]
 सीतावियोगात् पुनरप्युदीर्णं  
 काष्ठैरिवाग्निः सहसोपदीप्तः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,6 +369,7 @@ fire which flares up in a flash when fuel is added... [3-63-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -357,6 +378,8 @@ fire which flares up in a flash when fuel is added... [3-63-6]
 अपस्वरं सुस्वरविप्रलापा  
 भयेन विक्रन्दितवत्यभीक्ष्णम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,6 +426,7 @@ sweet voice might have wept a lot fearfully, and it is definite that she must ha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,6 +435,8 @@ sweet voice might have wept a lot fearfully, and it is definite that she must ha
 वृत्तौ स्तनौ शोणितपङ्कदिग्धौ  
 नूनं प्रियाया मम नाभिपातः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,6 +483,7 @@ they are extricated from her body for devouring. [3-63-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -465,6 +492,8 @@ they are extricated from her body for devouring. [3-63-8]
 रक्षोवशं नूनमुपागताया  
 न भ्राजते राहुमुखे यथेन्दुः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,6 +545,7 @@ planet Raahu, it is definite... [3-63-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -524,6 +554,8 @@ planet Raahu, it is definite... [3-63-9]
 रक्षांसि नूनं परिपीतवन्ति  
 शून्ये हि भित्त्वा रुधिराशनानि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,6 +606,7 @@ might have drunk her blood, it is definite... [3-63-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -582,6 +615,8 @@ might have drunk her blood, it is definite... [3-63-10]
 नूनं विनादं कुररीव दीना  
 सा मुक्तवत्यायतकान्तनेत्रा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,6 +664,7 @@ a piteous she-dove, it is definite... [3-63-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -637,6 +673,8 @@ a piteous she-dove, it is definite... [3-63-11]
 कान्तस्मिता लक्ष्मण जातहासा  
 त्वामाह सीता बहुवाक्यजातम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,6 +756,7 @@ same everywhere.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,6 +765,8 @@ same everywhere.
 अप्यत्र गच्छेदिति चिन्तयामि  
 नैकाकिनी याति हि सा कदाचित् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,6 +810,7 @@ I think she would have gone thereunto. But, at anytime she did not go there, sin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -777,6 +819,8 @@ I think she would have gone thereunto. But, at anytime she did not go there, sin
 तदप्ययुक्तं नहि सा कदाचि-  
 न्मया विना गच्छति पङ्कजानि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,6 +865,7 @@ is incongruous, for she never goes to get lotuses, indeed without me... [3-63-14
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -829,6 +874,8 @@ is incongruous, for she never goes to get lotuses, indeed without me... [3-63-14
 वनं प्रयाता नु तदप्ययुक्त-  
 मेकाकिनी सातिबिभेति भीरुः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -879,6 +926,7 @@ kind! Nay, that thought also is incongruent, because she as a timid one is much 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,6 +935,8 @@ kind! Nay, that thought also is incongruent, because she as a timid one is much 
 मम प्रिया सा क्व गता हृता वा  
 शंसस्व मे शोकहतस्य सर्वम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,6 +983,7 @@ stolen... [3-63-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -941,6 +992,8 @@ stolen... [3-63-16]
 शंसस्व वायो कुलपालिनीं तां  
 मृता हृता वा पथि वर्तते वा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,6 +1047,7 @@ Thus Rama begged of the Eternals for locating Seetha. [3-63-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1002,6 +1056,8 @@ Thus Rama begged of the Eternals for locating Seetha. [3-63-17]
 उवाच सौमित्रिरदीनसत्त्वो  
 न्याय्ये स्थितः कालयुतं च वाक्यम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1047,6 +1103,7 @@ in that way, Soumitri whose courage is un-dispirited gave a justifiable and time
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1055,6 +1112,8 @@ in that way, Soumitri whose courage is un-dispirited gave a justifiable and time
 उत्साहवन्तो हि नरा न लोके  
 सीदन्ति कर्मस्वतिदुष्करेषु ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1116,6 +1175,7 @@ killing of lonesome Abhimanyu, the son of Arjuna, in Maha Bharata war.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1124,6 +1184,8 @@ killing of lonesome Abhimanyu, the son of Arjuna, in Maha Bharata war.
 न चिन्तयामास धृतिं विमुक्तवान्  
 पुनश्च दुःखं महदभ्युपागमत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1178,5 +1240,6 @@ no heed to it, and since he castaway his fortitude he again encountered an inexp
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥63॥
+</details>
 </details>
 

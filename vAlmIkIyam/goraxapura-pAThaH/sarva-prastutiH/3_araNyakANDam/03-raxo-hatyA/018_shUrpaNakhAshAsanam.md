@@ -2,6 +2,8 @@
 title = "०१८ शूर्पणखाशासनम्"
 title_english = "018 Lakshmana punishes Surpanakha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -23,12 +25,15 @@ Rama averts Shuurpanakha's advances toward him and asks her to seek Lakshmana in
 
 18. श्रीरामके टाल देनेपर शूर्पणखाका लक्ष्मणसे प्रणययाचना करना, फिर उनके भी टालनेपर उसका सीतापर आक्रमण और लक्ष्मणका उसके नाक-कान काट लेना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु शूर्पणखां रामः कामपाशावपाशिताम् ।  
 स्वेच्छया श्लक्ष्णया वाचा स्मितपूर्वमथाब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ smile preceding his words. [3-18-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतदारोऽस्मि भवति भार्येयं दयिता मम ।  
 त्वद्विधानां तु नारीणां सुदुःखा ससपत्नता ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +121,7 @@ of females to live with a co-wife. [3-18-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ of females to live with a co-wife. [3-18-2]
 अपूर्वी भार्यया चार्थी तरुणः प्रियदर्शनः ।  
 अनुरूपश्च ते भर्ता रूपस्यास्य भविष्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +258,15 @@ in palace-chambers, hence he has no wife.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एनं भज विशालाक्षि भर्तारं भ्रातरं मम ।  
 असपत्ना वरारोहे मेरुमर्कप्रभा यथा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +315,15 @@ Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति रामेण सा प्रोक्ता राक्षसी काममोहिता ।  
 विसृज्य रामं सहसा ततो लक्ष्मणमब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +362,15 @@ to Lakshmana. [3-18-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य रूपस्य ते युक्ता भार्याहं वरवर्णिनी ।  
 मया सह सुखं सर्वान् दण्डकान् विचरिष्यसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +410,15 @@ all over Dandaka forest along with me." So Shuurpanakha ran after Lakshmana. [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सौमित्री राक्षस्या वाक्यकोविदः ।  
 ततः शूर्पनखीं स्मित्वा लक्ष्मणो युक्तमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +461,15 @@ and appropriately replied Shuurpanakha. [3-18-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं दासस्य मे दासी भार्या भवितुमिच्छसि ।  
 सोऽहमार्येण परवान् भ्रात्रा कमलवर्णिनि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +509,15 @@ servant like me? I am just a vassal of my adorable brother. [3-18-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समृद्धार्थस्य सिद्धार्था मुदितामलवर्णिनी ।  
 आर्यस्य त्वं विशालाक्षि भार्या भव यवीयसी ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +569,15 @@ worst wife? No, never you can.' Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतां विरूपामसतीं करालां निर्णतोदरीम् ।  
 भार्यां वृद्धां परित्यज्य त्वामेवैष भजिष्यति ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +651,15 @@ wording. Maheshvara Tiirtha.
 
 * यहाँ लक्ष्मणने उन्हीं विशेषणोंको दुहराया है, जिन्हें शूर्पणखाने सीताके लिये प्रयुक्त किया था । शूर्पणखाकी दृष्टिसे जो अर्थ है, वह ऊपर दे दिया है; परंतु लक्ष्मणकी दृष्टिमें वे विशेषण निन्दापरक नहीं, स्तुतिपरक है, अतः उनकी दृष्टिसे उन विशेषणोंका अर्थ यहाँ दिया जाता है—विरूपा—विशिष्टरूपवाली त्रिभुवनसुन्दरी । असती—जिससे बढ़कर दूसरी कोई सती नहीं है ऐसी । कराला—शरीरकी गठनके अनुसार ऊँचे-नीचे अङ्गोंवाली । निर्णतोदरी—निम्न उदर अथवा क्षीण कटि-प्रदेशवाली । वृद्धा—ज्ञानमें बढ़ी-चढ़ी । अर्थात् तुम्हें छोड़कर उक्त विशेषणोंवाली सीताको ही वे ग्रहण करेंगे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को हि रूपमिदं श्रेष्ठं सन्त्यज्य वरवर्णिनि ।  
 मानुषीषु वरारोहे कुर्याद् भावं विचक्षणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +702,15 @@ personality, indeed, in preference to human females?" Lakshmana said so to Shuur
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सा लक्ष्मणेनोक्ता कराला निर्णतोदरी ।  
 मन्यते तद्वचः सत्यं परिहासाविचक्षणा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +753,15 @@ to be truthful, for she is equivocal of that equivoque. [3-18-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा रामं पर्णशालायामुपविष्टं परन्तपम् ।  
 सीतया सह दुर्धर्षमब्रवीत् काममोहिता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +801,15 @@ along with Seetha. [3-18-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां विरूपामसतीं करालां निर्णतोदरीम् ।  
 वृद्धां भार्यामवष्टभ्य न मां त्वं बहु मन्यसे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -808,12 +852,15 @@ not regarding me high. [3-18-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येमां भक्षयिष्यामि पश्यतस्तव मानुषीम् ।  
 त्वया सह चरिष्यामि निःसपत्ना यथासुखम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -853,12 +900,15 @@ along with you, without the botheration of a co-wife." Said Shuurpanakha to Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मृगशावाक्षीमलातसदृशेक्षणा ।  
 अभ्यगच्छत् सुसङ्क्रुद्धा महोल्का रोहिणीमिव ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,12 +951,15 @@ as a great meteor would dash towards Rohini, the brightest star in the sky. [3-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां मृत्युपाशप्रतिमामापतन्तीं महाबलः ।  
 विगृह्य रामः कुपितस्ततो लक्ष्मणमब्रवीत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +998,15 @@ down on Seetha said to Lakshmana. [3-18-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रूरैरनार्यैः सौमित्रे परिहासः कथञ्चन ।  
 न कार्यः पश्य वैदेहीं कथञ्चित् सौम्य जीवतीम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1046,15 @@ somehow surviving [3-18-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां विरूपामसतीमतिमत्तां महोदरीम् ।  
 राक्षसीं पुरुषव्याघ्र विरूपयितुमर्हसि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1034,12 +1093,15 @@ paunchy demoness " Thus Rama said to Lakshmana. [3-18-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तो लक्ष्मणस्तस्याः क्रुद्धो रामस्य पश्यतः ।  
 उद‍्धृत्य खड्गं चिच्छेद कर्णनासे महाबलः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1082,12 +1144,15 @@ the very eyes of Rama. [3-18-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकृत्तकर्णनासा तु विस्वरं सा विनद्य च ।  
 यथागतं प्रदुद्राव घोरा शूर्पणखा वनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1127,12 +1192,15 @@ speedily fled into forest as she came. [3-18-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विरूपा महाघोरा राक्षसी शोणितोक्षिता ।  
 ननाद विविधान् नादान् यथा प्रावृषि तोयदः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,12 +1240,15 @@ in cloudburst. [3-18-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विक्षरन्ती रुधिरं बहुधा घोरदर्शना ।  
 प्रगृह्य बाहू गर्जन्ती प्रविवेश महावनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1211,6 +1282,7 @@ forest while her blood fountained and profusely exuded. [3-18-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1219,6 +1291,8 @@ forest while her blood fountained and profusely exuded. [3-18-24]
 उपेत्य तं भ्रातरमुग्रतेजसं  
 पपात भूमौ गगनाद् यथाशनिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,6 +1338,7 @@ fell onto ground like a thunderbolt from the sky. [3-18-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1272,6 +1347,8 @@ fell onto ground like a thunderbolt from the sky. [3-18-25]
 विरूपणं चात्मनि शोणितोक्षिता  
 शशंस सर्वं भगिनी खरस्य सा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,5 +1409,6 @@ his misshaping her. [3-18-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनॆण्टनॆय सर्ग सम्पूर्णवायितु.॥18॥
+</details>
 </details>
 

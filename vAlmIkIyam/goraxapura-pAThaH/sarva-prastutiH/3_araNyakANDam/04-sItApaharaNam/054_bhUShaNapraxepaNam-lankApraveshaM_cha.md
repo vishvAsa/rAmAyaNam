@@ -2,6 +2,8 @@
 title = "०५४ भूषणप्रक्षेपणम्-लङ्काप्रवेशं च"
 title_english = "054 Seetha drops jewellery at Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ hypocritically feels elated in gaining both Seetha and an animosity with Rama.
 
 54. सीताका पाँच वानरोंके बीच अपने भूषण और वस्त्रको गिराना, रावणका लङ्कामें पहुँचकर सीताको अन्तःपुरमें रखना तथा जनस्थानमें आठ राक्षसोंको गुप्तचरके रूपमें रहनेके लिये भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रियमाणा तु वैदेही कञ्चिन्नाथमपश्यती ।  
 ददर्श गिरिशृङ्गस्थान् पञ्च वानरपुङ्गवान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +73,7 @@ prominent vanara-s staying on a mountaintop. [3-54-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ prominent vanara-s staying on a mountaintop. [3-54-1]
 मुमोच यदि रामाय शंसेयुरिति भामिनी ।  
 वस्त्रमुत्सृज्य तन्मध्ये निक्षिप्तं सहभूषणम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,6 +179,7 @@ bundled with ornaments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,6 +187,8 @@ bundled with ornaments.
 पिङ्गाक्षास्तां विशालाक्षीं नेत्रैरनिमिषैरिव ॥ ४ ॥  
 विक्रोशन्तीं तदा सीतां ददृशुर्वानरोत्तमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,12 +244,15 @@ they firstly met.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च पम्पामतिक्रम्य लङ्कामभिमुखः पुरीम् ॥ ५ ॥  
 जगाम मैथिलीं गृह्य रुदतीं राक्षसेश्वरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +299,15 @@ Pampa, there is no more self-confessed fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां जहार सुसंहृष्टो रावणो मृत्युमात्मनः ॥ ६ ॥  
 उत्सङ्गेनैव भुजगीं तीक्ष्णदंष्ट्रां महाविषाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,12 +347,15 @@ carry a stingingly fanged and lethally venomous she-snake in his own lap. [3-54-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनानि सरितः शैलान् सरांसि च विहायसा ॥ ७ ॥  
 स क्षिप्रं समतीयाय शरश्चापादिव च्युतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,12 +395,15 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिमिनक्रनिकेतं तु वरुणालयमक्षयम् ॥ ८ ॥  
 सरितां शरणं गत्वा समतीयाय सागरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,12 +421,15 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 
 उसने तिमि नामक मत्स्यों और नाकोंके निवासस्थान एवं वरुणके अक्षय गृह समुद्रको भी, जो समस्त नदियोंका आश्रय है, पार कर लिया ॥ ८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्भ्रमात् परिवृत्तोर्मी रुद्धमीनमहोरगः ॥ ९ ॥  
 वैदेह्यां ह्रियमाणायां बभूव वरुणालयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +489,15 @@ never-draining deep and an ultimate course of the rivers, he hastily crossed it 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरिक्षगता वाचः ससृजुश्चारणास्तदा ॥ १० ॥  
 एतदन्तो दशग्रीव इति सिद्धास्तथाब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +537,15 @@ the end of Decahedron Ravana." [3-54-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु सीतां विचेष्टन्तीमङ्केनादाय रावणः ॥ ११ ॥  
 प्रविवेश पुरीं लङ्कां रूपिणीं मृत्युमात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +586,15 @@ flank, who appeared like the personified death of Ravana wriggling its way into 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिगम्य पुरीं लङ्कां सुविभक्तमहापथाम् ॥ १२ ॥  
 संरूढकक्ष्यां बहुलां स्वमन्तःपुरमाविशत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +640,15 @@ very many chambers. [3-54-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र तामसितापाङ्गीं शोकमोहसमन्विताम् ॥ १३ ॥  
 निदधे रावणः सीतां मयो मायामिवासुरीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,12 +737,15 @@ eyelashes are tear-wet and slanted edge-ward to give a blackish shade at the end
 
 *रामायणतिलक नामक व्याख्याके विद्वान् लेखकने यह बताया है कि यहाँ जो सीताकी मायासे उपमा दी गयी है, उसके द्वारा यह अभिप्राय व्यक्त किया गया है कि मायामयी सीता ही लङ्कामें आयी थीं; मुख्य सीता तो अग्निमें प्रविष्ट हो चुकी थीं । इसीलिये रावण इन्हें ला सका । मायारूपिणी होनेके कारण ही रावणको इनके स्वरूपका ज्ञान न हो सका ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च दशग्रीवः पिशाचीर्घोरदर्शनाः ॥ १४ ॥  
 यथा नैनां पुमान् स्त्री वा सीतां पश्यत्यसम्मतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,12 +787,15 @@ ward shall be in such a way that neither a female nor a male can see Seetha impe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तामणिसुवर्णानि वस्त्राण्याभरणानि च ॥ १५ ॥  
 यद् यदिच्छेत् तदैवास्या देयं मच्छन्दतो यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -795,12 +839,15 @@ be given to her as you would give me according to my whimsies. [3-54-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या च वक्ष्यति वैदेहीं वचनं किञ्चिदप्रियम् ॥ १६ ॥  
 अज्ञानाद् यदि वा ज्ञानान्न तस्या जीवितं प्रियम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,6 +889,7 @@ knowingly, her life becomes unpleasant for herself." Thus Ravana ordered the cha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -849,6 +897,8 @@ knowingly, her life becomes unpleasant for herself." Thus Ravana ordered the cha
 निष्क्रम्यान्तःपुरात् तस्मात् किं कृत्यमिति चिन्तयन् ।  
 ददर्शाष्टौ महावीर्यान् राक्षसान् पिशिताशनान् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -894,12 +944,15 @@ highly vigorous demons, the feasters on raw-flesh. [3-54-17b, 18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तान् दृष्ट्वा महावीर्यो वरदानेन मोहितः ।  
 उवाच तानिदं वाक्यं प्रशस्य बलवीर्यतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +994,15 @@ might and valour. [3-54-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाप्रहरणाः क्षिप्रमितो गच्छत सत्वराः ।  
 जनस्थानं हतस्थानं भूतपूर्वं खरालयम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1047,15 @@ Janasthaana speedily, a place now deadpanned for demons, which earlier was the p
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रास्यतां जनस्थाने शून्ये निहतराक्षसे ।  
 पौरुषं बलमाश्रित्य त्रासमुत्सृज्य दूरतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1105,15 @@ personally...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुसैन्यं महावीर्यं जनस्थाने निवेशितम् ।  
 सदूषणखरं युद्धे निहतं रामसायकैः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,12 +1156,15 @@ canto of Great War.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधो ममापूर्वो धैर्यस्योपरि वर्धते ।  
 वैरं च सुमहज्जातं रामं प्रति सुदारुणम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,12 +1218,15 @@ and uncomfortable, as of now...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्यातयितुमिच्छामि तच्च वैरं महारिपोः ।  
 नहि लप्स्याम्यहं निद्रामहत्वा संयुगे रिपुम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1273,15 @@ balavataa durbalam hiina saadhanam | hR^ita svam kaaminam coram aavishanti pra j
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं त्विदानीमहं हत्वा खरदूषणघातिनम् ।  
 रामं शर्मोपलप्स्यामि धनं लब्ध्वेव निर्धनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1251,12 +1322,15 @@ and Duushana as with a pauper acquiring riches. [3-54-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनस्थाने वसद्भिस्तु भवद्भी राममाश्रिता ।  
 प्रवृत्तिरुपनेतव्या किं करोतीति तत्त्वतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1296,12 +1370,15 @@ about Rama's activities and deportment. [3-54-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमादाच्च गन्तव्यं सर्वैरेव निशाचरैः ।  
 कर्तव्यश्च सदा यत्नो राघवस्य वधं प्रति ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,12 +1422,15 @@ that Raghava. [3-54-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युष्माकं तु बलं ज्ञातं बहुशो रणमूर्धनि ।  
 अतश्चास्मिञ्जनस्थाने मया यूयं निवेशिताः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1390,6 +1470,7 @@ commissioned you all in that Janasthaana." Thus Ravana spoke to those eight demo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1398,6 +1479,8 @@ commissioned you all in that Janasthaana." Thus Ravana spoke to those eight demo
 विहाय लङ्कां सहिताः प्रतस्थिरे  
 यतो जनस्थानमलक्ष्यदर्शनाः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1445,6 +1528,7 @@ direction of Janasthaana with their imperceivable appearances. [3-54-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1453,6 +1537,8 @@ direction of Janasthaana with their imperceivable appearances. [3-54-29]
 प्रसज्य रामेण च वैरमुत्तमं  
 बभूव मोहान्मुदितः स रावणः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1530,5 +1616,6 @@ And the releaser or the deliverer is Rama, and hence Ravana is happy.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥54॥
+</details>
 </details>
 

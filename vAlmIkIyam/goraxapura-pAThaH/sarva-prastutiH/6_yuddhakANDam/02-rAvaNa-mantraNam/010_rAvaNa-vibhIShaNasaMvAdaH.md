@@ -2,6 +2,8 @@
 title = "०१० रावण-विभीषणसंवादः"
 title_english = "010 Vibhishana advises Ravana to restore Seetha to Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,6 +23,7 @@ forces. Ravana turns a deaf ear to Vibhishana's counsel and sends him away.
 
 10. विभीषणका रावणके महलमें जाना, उसे अपशकुनोंका भय दिखाकर सीताको लौटा देनेके लिये प्रार्थना करना और रावणका उनकी बात न मानकर उन्हें वहाँसे विदा कर देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -39,6 +42,8 @@ forces. Ravana turns a deaf ear to Vibhishana's counsel and sends him away.
 तं महाभ्रमिवादित्यस्तेजोविस्तृतरश्मिवान् ।  
 अग्रजस्यालयं वीरः प्रविवेश महाद्युतिः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +192,15 @@ wealth and who was terrible in his act, on arrival of the dawn, entered the pala
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्यान् पुण्याहघोषांश्च वेदविद्भिरुदाहृतान् ।  
 शुश्राव सुमहातेजा भ्रातुर्विजयसंश्रितान् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +242,15 @@ brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजितान् दधिपात्रैश्च सर्पिभिः सुमनोक्षतैः ।  
 मन्त्रवेदविदो विप्रान् ददर्श स महाबलः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +292,15 @@ and unbroken rice.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पूज्यमानो रक्षोभिर्दीप्यमानं स्वतेजसा ।  
 आसनस्थं महाबाहुर्ववन्दे धनदानुजम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +345,15 @@ occupied the throne.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजदृष्टिसम्पन्नमासनं हेमभूषितम् ।  
 जगाम समुदाचारं प्रयुज्याचारकोविदः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,6 +387,7 @@ a seat adorned with gold, as endowed to him by a glance of the king.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -378,6 +396,8 @@ a seat adorned with gold, as endowed to him by a glance of the king.
 प्रसाद्य भ्रातरं ज्येष्ठं सान्त्वेनोपस्थितक्रमः ।  
 देशकालार्थसंवादि दृष्टलोकपरावरः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +457,15 @@ the words convinced of reason and which were very much beneficial.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदाप्रभृति वैदेही सम्प्राप्तेह परन्तप ।  
 तदाप्रभृति दृश्यन्ते निमित्तान्यशुभानि नः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +505,15 @@ here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सस्फुलिङ्गः सधूमार्चिः सधूमकलुषोदयः ।  
 मन्त्रसन्धुक्षितोऽप्यग्निर्न सम्यगभिवर्धते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -532,12 +558,15 @@ enveloped in smoke and are coming forth, polluted with soot."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निष्टेष्वग्निशालासु तथा ब्रह्मस्थलीषु च ।  
 सरीसृपाणि दृश्यन्ते हव्येषु च पिपीलिकाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +611,15 @@ in things to be offered as oblations."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गवां पयांसि स्कन्नानि विमदा वरकुञ्जराः ।  
 दीनमश्वाः प्रहेषन्ते नवग्रासाभिनन्दिनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +662,15 @@ neighing miserably and are not rejoiced in eating grass."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरोष्ट्राश्वतरा राजन् भिन्नरोमाः स्रवन्ति च ।  
 न स्वभावेऽवतिष्ठन्ते विधानैरपि चिन्तिताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,12 +710,15 @@ treated asper medical procedures are not getting cured."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायसाः सङ्घशः क्रूरा व्याहरन्ति समन्ततः ।  
 समवेताश्च दृश्यन्ते विमानाग्रेषु सङ्घशः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +761,15 @@ together on house-tops."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृध्राश्च परिलीयन्ते पुरीमुपरि पिण्डिताः ।  
 उपपन्नाश्च सन्ध्ये द्वे व्याहरन्त्यशिवं शिवाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +806,15 @@ at the approach of both dawn and the dusk."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रव्यादानां मृगाणां च पुरीद्वारेषु सङ्घशः ।  
 श्रूयन्ते विपुला घोषाः सविस्फूर्जितनिःस्वनाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,12 +854,15 @@ thundering noise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेवं प्रस्तुते कार्ये प्रायश्चित्तमिदं क्षमम् ।  
 रोचये वीर वैदेही राघवाय प्रदीयताम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,12 +906,15 @@ this atonement is appropriate that Seetha be given away to Rama and I like it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं च यदि वा मोहाल्लोभाद् वा व्याहृतं मया ।  
 तत्रापि च महाराज न दोषं कर्तुमर्हसि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,12 +957,15 @@ also, you ought not to find fault with me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि दोषः सर्वस्य जनस्यास्योपलक्ष्यते ।  
 रक्षसां राक्षसीनां च पुरस्यान्तःपुरस्य च ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,6 +1005,7 @@ the gynaeceum as well as all these people here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -959,6 +1013,8 @@ the gynaeceum as well as all these people here."
 अवश्यं च मया वाच्यं यद् दृष्टमथवा श्रुतम् ।  
 सम्प्रधार्य यथान्यायं तद् भवान् कर्तुमर्हति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,12 +1064,15 @@ things for the occasion."
 
 ई मातन्नु निम्म किविगॆ हाकलु प्रायशः ऎल्ल मन्त्रिगळु सङ्कोचपडुत्तारॆ. आदरॆ नानु नोडिद, केळिद सङ्गतियन्नु निम्म मुन्दॆ निवेदिसुवुदु ननगॆ अवश्यकतॆ इवॆ. आद्दरिन्द इदर कुरितु यथोचित विचारमाडि निमगॆ उचितवागि कण्डन्तॆ माडिरि..॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति स्वमन्त्रिणां मध्ये भ्राता भ्रातरमूचिवान् ।  
 रावणं रक्षसां श्रेष्ठं पथ्यमेतद् विभीषणः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,6 +1110,7 @@ demons in the midst of his half-brother's ministers.
 
 ई प्रकार विभीषणनु मन्त्रिगळ नडुवॆ तन्न अण्ण राक्षसराज रावणनल्लि हीगॆ हितकर मातन्नु हेळिदनु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1063,6 +1123,8 @@ demons in the midst of his half-brother's ministers.
 सुरैः सहेन्द्रैरपि सङ्गरे कथं  
 ममाग्रतः स्थास्यति लक्ष्मणाग्रजः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1133,6 +1195,7 @@ enraged and uttered this reply.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1141,6 +1204,8 @@ enraged and uttered this reply.
 दशाननो भ्रातरमाप्तवादिनं  
 विसर्जयामास तदा विभीषणम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,5 +1277,6 @@ well-divided into spacious apartments and occupied by eminent men.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हत्तनॆय सर्ग पूर्णवायितु.॥10॥
+</details>
 </details>
 

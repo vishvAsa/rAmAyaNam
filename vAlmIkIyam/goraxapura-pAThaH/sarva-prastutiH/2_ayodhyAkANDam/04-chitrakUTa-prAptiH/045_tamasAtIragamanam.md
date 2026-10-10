@@ -2,6 +2,8 @@
 title = "०४५ तमसातीरगमनम्"
 title_english = "045 Rama requests the citizens to return to Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ in vain. Rama along with all of them reach the bank of Tamasa.
 
 45. श्रीरामका पुरवासियोंसे भरत और महाराज दशरथके प्रति प्रेम-भाव रखनेका अनुरोध करते हुए लौट जानेके लिये कहना; नगरके वृद्ध ब्राह्मणोंका श्रीरामसे लौट चलनेके लिये आग्रह करना तथा उन सबके साथ श्रीरामका तमसातटपर पहुँचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्ता महात्मानं रामं सत्यपराक्रमम् ।  
 अनुजग्मुः प्रयान्तं तं वनवासाय मानवाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ his way to the forest for exile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तितेऽतीव बलात् सुहृद्धर्मेण राजनि ।  
 नैव ते सन्न्यवर्तन्त रामस्यानुगता रथम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ friends who were following Rama's chariot did not return.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यानिलयानां हि पुरुषाणां महायशाः ।  
 बभूव गुणसम्पन्नः पूर्णचन्द्र इव प्रियः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ resembling the full moon, had indeed become the favorite for the people living i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स याच्यमानः काकुत्स्थस्ताभिः प्रकृतिभिस्तदा ।  
 कुर्वाणः पितरं सत्यं वनमेवान्वपद्यत ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ in order to honor his father's vow; proceeded towards the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेक्षमाणः सस्नेहं चक्षुषा प्रपिबन्निव ।  
 उवाच रामः सस्नेहं ताः प्रजाः स्वाः प्रजा इव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ Fondly gazing on the people as though drinking with his eyes, Rama lovingly spok
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या प्रीतिर्बहुमानश्च मय्ययोध्यानिवासिनाम् ।  
 मत्प्रियार्थं विशेषेण भरते सा विधीयताम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ Ayodhya) may for my satisfaction be bestowed in a special measure on Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि कल्याणचारित्रः कैकेय्यानन्दवर्धनः ।  
 करिष्यति यथावद् वः प्रियाणि च हितानि च ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +364,15 @@ will indeed do pleasing and beneficial things to you appropriately."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञानवृद्धो वयोबालो मृदुर्वीर्यगुणान्वितः ।  
 अनुरूपः स वो भर्ता भविष्यति भयापहः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +413,15 @@ with virility and virtue, will become your worthy master who can dispel your fea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि राजगुणैर्युक्तो युवराजः समीक्षितः ।  
 अपि चापि मया शिष्टैः कार्यं वो भर्तृशासनम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +465,15 @@ king's command is to be carried out by me and the rest of you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सन्तप्येद् यथा चासौ वनवासं गते मयि ।  
 महाराजस्तथा कार्यो मम प्रियचिकीर्षया ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +514,15 @@ gone to forest for exile"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा यथा दाशरथिर्धर्ममेवाश्रितो भवेत् ।  
 तथा तथा प्रकृतयो रामं पतिमकामयन् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ more the people wished to have him as their master "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पेण पिहितं दीनं रामः सौमित्रिणा सह ।  
 चकर्षेव गुणैर्बद्धं जनं पुरनिवासिनम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,12 +611,15 @@ piteously, after him as if tied and pulled with cords.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते द्विजास्त्रिविधं वृद्धा ज्ञानेन वयसौजसा ।  
 वयःप्रकम्पशिरसो दूरादूचुरिदं वचः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +660,15 @@ spirituality, their heads shaking with advanced years, cried out :
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वहन्तो जवना रामं भो भो जात्यास्तुरङ्गमाः ।  
 निवर्तध्वं न गन्तव्यं हिता भवत भर्तरि ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +712,15 @@ disservice to him)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्णवन्ति हि भूतानि विशेषेण तुरङ्गमाः ।  
 यूयं तस्मान्निवर्तध्वं याचनां प्रतिवेदिताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +760,15 @@ our entreaty. Therefore, you return."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मतः स विशुद्धात्मा वीरः शुभदृढव्रतः ।  
 उपवाह्यस्तु वो भर्ता नापवाह्यः पुराद् वनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +808,15 @@ deserves to be brought back to the city and not to be taken to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमार्तप्रलापांस्तान् वृद्धान् प्रलपतो द्विजान् ।  
 अवेक्ष्य सहसा रामो रथादवततार ह ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +856,15 @@ the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद‍्भ्यामेव जगामाथ ससीतः सहलक्ष्मणः ।  
 सन्निकृष्टपदन्यासो रामो वनपरायणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +904,15 @@ forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विजातीन् हि पदातींस्तान् रामश्चारित्रवत्सलः ।  
 न शशाक घृणाचक्षुः परिमोक्तुं रथेन सः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +952,15 @@ could not abandon those brahmanas walking on foot, far behind the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छन्तमेव तं दृष्ट्वा रामं सम्भ्रान्तमानसाः ।  
 ऊचुः परमसन्तप्ता रामं वाक्यमिदं द्विजाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,12 +1000,15 @@ and greatly distressed, spoke the following words :
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मण्यं कृत्स्नमेतत् त्वां ब्रह्मण्यमनुगच्छति ।  
 द्विजस्कन्धाधिरूढास्त्वामग्नयोऽप्यनुयान्त्वमी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -987,12 +1052,15 @@ brahmanas. See, they are bearing the sacred fires on their shoulders"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाजपेयसमुत्थानि च्छत्राण्येतानि पश्य नः ।  
 पृष्ठतोऽनुप्रयातानि मेघानिव जलात्यये ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,12 +1108,15 @@ supplied with a white canopy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनवाप्तातपत्रस्य रश्मिसन्तापितस्य ते ।  
 एभिश्छायां करिष्यामः स्वैश्छत्रैर्वाजपेयकैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,12 +1159,15 @@ are being scored with rays (of the sun.)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या हि नः सततं बुद्धिर्वेदमन्त्रानुसारिणी ।  
 त्वत्कृते सा कृता वत्स वनवासानुसारिणी ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1133,12 +1207,15 @@ study of Vedic texts has been now made to follow the course of exile to the fore
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृदयेष्ववतिष्ठन्ते वेदा ये नः परं धनम् ।  
 वत्स्यन्त्यपि गृहेष्वेव दाराश्चारित्ररक्षिताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1179,12 +1256,15 @@ will remain at home, protected by their character"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनर्न निश्चयः कार्यस्त्वद्‍गतौ सुकृता मतिः ।  
 त्वयि धर्मव्यपेक्षे तु किं स्याद् धर्मपथे स्थितम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,12 +1306,15 @@ of virtue?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याचितो नो निवर्तस्व हंसशुक्लशिरोरुहैः ।  
 शिरोभिर्निभृताचार महीपतनपांसुलैः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1273,12 +1356,15 @@ the white color of the swans, that are soiled with dust as a result of their fal
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहूनां वितता यज्ञा द्विजानां य इहागताः ।  
 तेषां समाप्तिरायत्ता तव वत्स निवर्तने ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1322,12 +1408,15 @@ Their completion, oh dear child, depends on your return"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्तिमन्तीह भूतानि जङ्गमाजङ्गमानि च ।  
 याचमानेषु तेषु त्वं भक्तिं भक्तेषु दर्शय ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,12 +1459,15 @@ affection to those devotees, who entreat you to return."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुगन्तुमशक्तास्त्वां मूलैरुद्धतवेगिनः ।  
 उन्नता वायुवेगेन विक्रोशन्तीव पादपाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1415,12 +1507,15 @@ hump-backed by the force of wind"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निश्चेष्टाहारसञ्चारा वृक्षैकस्थाननिश्चिताः ।  
 पक्षिणोऽपि प्रयाचन्ते सर्वभूतानुकम्पिनम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1462,12 +1557,15 @@ to all created beings"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विक्रोशतां तेषां द्विजातीनां निवर्तने ।  
 ददृशे तमसा तत्र वारयन्तीव राघवम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1507,6 +1605,7 @@ river Tamasa appeared there, as though retarding the progress of Rama "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1515,6 +1614,8 @@ river Tamasa appeared there, as though retarding the progress of Rama "
 पीतोदकांस्तोयपरिप्लुताङ्गा-  
 नचारयद् वै तमसाविदूरे ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1571,5 +1672,6 @@ Tamasa once they had drunk water and had their body washed in the river."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवतैदनॆय सर्ग पूर्णवायितु.॥45॥
+</details>
 </details>
 

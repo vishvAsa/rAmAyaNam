@@ -2,6 +2,8 @@
 title = "०१५ तारोपदेशः"
 title_english = "015 Tara s advice"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -27,12 +29,15 @@ intellect by his brawny might slights her far fetching advice.
 
 15. सुग्रीवकी गर्जना सुनकर वालीका युद्धके लिये निकलना और ताराका उसे रोककर सुग्रीव और श्रीरामके साथ मैत्री कर लेनेके लिये समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्य निनादं तं सुग्रीवस्य महात्मनः ।  
 शुश्रावान्तःपुरगतो वाली भ्रातुरमर्षणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,12 +80,15 @@ Sugreeva from his palace chambers. [4-15-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु तस्य निनदं सर्वभूतप्रकम्पनम् ।  
 मदश्चैकपदे नष्टः क्रोधश्चापादितो महान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ diminished as high furore superimposed on it. [4-15-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रोषपरीताङ्गो वाली स कनकप्रभः ।  
 उपरक्त इवादित्यः सद्यो निष्प्रभतां गतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ immediately rendered non-luminous like the eclipsed sun. [4-15-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाली दंष्ट्राकरालस्तु क्रोधाद् दीप्ताग्निलोचनः ।  
 भात्युत्पतितपद्माभः समृणाल इव ह्रदः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ turning reddish due to the elephant's heaving of the slushy red-mud. Maheshvara 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शब्दं दुर्मर्षणं श्रुत्वा निष्पपात ततो हरिः ।  
 वेगेन च पदन्यासैर्दारयन्निव मेदिनीम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ chambers thumping his feet as though to shatter the earth. [4-15-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु तारा परिष्वज्य स्नेहाद् दर्शितसौहृदा ।  
 उवाच त्रस्तसम्भ्रान्ता हितोदर्कमिदं वचः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,12 +327,15 @@ fear and bewilderment, and said this word that is beneficial in its futurity if 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु क्रोधमिमं वीर नदीवेगमिवागतम् ।  
 शयनादुत्थितः काल्यं त्यज भुक्तामिव स्रजम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,6 +379,7 @@ gushing river as is done with an enjoyed chaplet on getting up from bed in early
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -364,6 +388,8 @@ gushing river as is done with an enjoyed chaplet on getting up from bed in early
 सहसा तव निष्क्रामो मम तावन्न रोचते ।  
 श्रूयतामभिधास्यामि यन्निमित्तं निवार्यते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +459,15 @@ differently.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमापतितः क्रोधात् स त्वामाह्वयते युधि ।  
 निष्पत्य च निरस्तस्ते हन्यमानो दिशो गतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +508,15 @@ gone out and rendered him as a nonentity, and being battered by you he fled in a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया तस्य निरस्तस्य पीडितस्य विशेषतः ।  
 इहैत्य पुनराह्वानं शङ्कां जनयतीव मे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,12 +556,15 @@ here again and inviting you for a duel is causing a doubt in me. [4-15-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्पश्च व्यवसायश्च यादृशस्तस्य नर्दतः ।  
 निनादस्य च संरम्भो नैतदल्पं हि कारणम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,12 +604,15 @@ these will not have a trivial reason, isn't it. [4-15-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नासहायमहं मन्ये सुग्रीवं तमिहागतम् ।  
 अवष्टब्धसहायश्च यमाश्रित्यैष गर्जति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +652,15 @@ dependant must be an unflinching support foregathered by Sugreeva. [4-15-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्या निपुणश्चैव बुद्धिमांश्चैव वानरः ।  
 नापरीक्षितवीर्येण सुग्रीवः सख्यमेष्यति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ into friendship with anyone without examining his mettle. [4-15-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमेव मया वीर श्रुतं कथयतो वचः ।  
 अङ्गदस्य कुमारस्य वक्ष्याम्यद्य हितं वचः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,12 +754,15 @@ now relate that helpful word to you. [4-15-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्तु कुमारोऽयं वनान्तमुपनिर्गतः ।  
 प्रवृत्तिस्तेन कथिता चारैरासीन्निवेदिता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,12 +801,15 @@ said to have reported this. [4-15-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्याधिपतेः पुत्रौ शूरौ समरदुर्जयौ ।  
 इक्ष्वाकूणां कुले जातौ प्रथितौ रामलक्ष्मणौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +857,7 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -815,6 +866,8 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 स ते भ्रातुर् हि विख्यातः  
 सहायो रण-कर्मणि ॥ १८ ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,6 +880,7 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 स ते भ्रातुर् हि विख्यातः सहायो रण कर्मणि ॥ ४-१५-१८
 रामः पर बलमर्दी युगान्त अग्निः इव उत्थितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -836,6 +890,8 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 निवास-वृक्षस् साधूनाम्  
 आपन्नानां परा गतिः +++(इत्य् उपेयतोक्ता)+++ ॥ १९ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +949,15 @@ era he shatters the strength of enemies, and he is Rama your brother's helpmate,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तानां संश्रयश्चैव यशसश्चैकभाजनम् ।  
 ज्ञानविज्ञानसम्पन्नो निदेशे निरतः पितुः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -940,6 +999,7 @@ the greatest mine of merits. [4-15-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -947,6 +1007,8 @@ the greatest mine of merits. [4-15-20b, 21a]
 तत् क्षमो न विरोधस्ते सह तेन महात्मना ॥ २१ ॥  
 दुर्जयेनाप्रमेयेण रामेण रणकर्मसु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1108,15 @@ the pursuit to establish dharma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूर वक्ष्यामि ते किञ्चिन्न चेच्छाम्यभ्यसूयितुम् ॥ २२ ॥  
 श्रूयतां क्रियतां चैव तव वक्ष्यामि यद्धितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1161,15 @@ him, and what I say is beneficial to you that may now be listened and even imple
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यौवराज्येन सुग्रीवं तूर्णं साध्वभिषेचय ॥ २३ ॥  
 विग्रहं मा कृथा वीर भ्रात्रा राजन् यवीयसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,12 +1209,15 @@ resolute one, let there be no hostility to your own younger brother. [4-15-23b, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि ते क्षमं मन्ये तेन रामेण सौहृदम् ॥ २४ ॥  
 सुग्रीवेण च सम्प्रीतिं वैरमुत्सृज्य दूरतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1186,6 +1257,7 @@ effect is appropriate for you, thus I deem. [4-15-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1193,6 +1265,8 @@ effect is appropriate for you, thus I deem. [4-15-24b, 25a]
 तत्र वा सन्निहस्थो वा सर्वथा बन्धुरेव ते ।  
 नहि तेन समं बन्धुं भुवि पश्यामि कञ्चन ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,12 +1301,15 @@ and whether he is here or there in Rishyamuka he is just your brother. [4-15-25b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दानमानादिसत्कारैः कुरुष्व प्रत्यनन्तरम् ।  
 वैरमेतत् समुत्सृज्य तव पार्श्वे स तिष्ठतु ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1272,12 +1349,15 @@ at your side. [4-15-26b, 27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवो विपुलग्रीवो महाबन्धुर्मतस्तव ।  
 भ्रातृसौहृदमालम्ब्य नान्या गतिरिहास्ति ते ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,12 +1399,15 @@ and hence brace yourself with the fondness of brotherhood, as there is no other 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि ते मत्प्रियं कार्यं यदि चावैषि मां हिताम् ।  
 याच्यमानः प्रियत्वेन साधु वाक्यं कुरुष्व मे ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,6 +1451,7 @@ one, I beg of you in our loving attachment that my gentle word of advise be done
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1376,6 +1460,8 @@ one, I beg of you in our loving attachment that my gentle word of advise be done
 क्षमो हि ते कोशलराजसूनुना  
 न विग्रहः शक्रसमानतेजसा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1427,6 +1513,7 @@ Vali. [4-15-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1435,6 +1522,8 @@ Vali. [4-15-30]
 न रोचते तद् वचनं हि तस्य  
 कालाभिपन्नस्य विनाशकाले ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1489,5 +1578,6 @@ for he is impounded by fatality and driven by time to his doom. [4-15-31]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनैदनॆय सर्ग सम्पूर्णवायितु. ॥15॥
+</details>
 </details>
 

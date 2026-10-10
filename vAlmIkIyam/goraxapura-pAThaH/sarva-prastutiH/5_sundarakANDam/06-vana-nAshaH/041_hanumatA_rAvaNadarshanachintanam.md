@@ -2,6 +2,8 @@
 title = "०४१ हनुमता रावणदर्शनचिन्तनम्"
 title_english = "041 Hanuma thinks to meet Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -22,12 +24,15 @@ gynaecium at Lanka and then proceeds to do that task.
 
 41. हनुमान् जी के द्वारा प्रमदावन (अशोकवाटिका)-का विध्वंस
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च वाग्भिः प्रशस्ताभिर्गमिष्यन् पूजितस्तया ।  
 तस्माद् देशादपाक्रम्य चिन्तयामास वानरः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ a distance from that place, thought within himself (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पशेषमिदं कार्यं दृष्टेयमसितेक्षणा ।  
 त्रीनुपायानतिक्रम्य चतुर्थ इह दृश्यते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +125,7 @@ to implement here the fourth strategy viz. open assault."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,6 +134,8 @@ to implement here the fourth strategy viz. open assault."
 न भेदसाध्या बलदर्पिता जनाः  
 पराक्रमस्त्वेष ममेह रोचते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,6 +187,7 @@ strength, the strategy of sowing dissension is not amenable. Prowess alone is ag
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,6 +196,8 @@ strength, the strategy of sowing dissension is not amenable. Prowess alone is ag
 हतप्रवीराश्च रणे तु राक्षसाः  
 कथञ्चिदीयुर्यदिहाद्य मार्दवम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +248,15 @@ are somehow killed here and now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्ये कर्मणि निर्वृत्ते यो बहून्यपि साधयेत् ।  
 पूर्वकार्याविरोधेन स कार्यं कर्तुमर्हति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,12 +299,15 @@ the initial task has been carried through, without impairing the previous achiev
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्येकः साधको हेतुः स्वल्पस्यापीह कर्मणः ।  
 यो ह्यर्थं बहुधा वेद स समर्थोऽर्थसाधने ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +349,7 @@ that task."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,6 +358,8 @@ that task."
 परात्मसम्मर्दविशेषतत्त्ववित्  
 ततः कृतं स्यान्मम भर्तृशासनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,6 +410,7 @@ command of my master have been carried out by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,6 +419,8 @@ command of my master have been carried out by me."
 तथैव खल्वात्मबलं च सारवत्  
 समानयेन्मां च रणे दशाननः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,6 +470,7 @@ strength become fruitful? How indeed will that Ravana applaud me in battle?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -452,6 +479,8 @@ strength become fruitful? How indeed will that Ravana applaud me in battle?"
 हृदि स्थितं तस्य मतं बलं च  
 सुखेन मत्वाहमितः पुनर्व्रजे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,12 +531,15 @@ as well as knowing his designs and strength, I will go back from here happily."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमस्य नृशंसस्य नन्दनोपममुत्तमम् ।  
 वनं नेत्रमनःकान्तं नानाद्रुमलतायुतम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,12 +579,15 @@ which is pleasing to the eyes and the mind, is looking like Nandana, Indra's par
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं विध्वंसयिष्यामि शुष्कं वनमिवानलः ।  
 अस्मिन् भग्ने ततः कोपं करिष्यति स रावणः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,6 +630,7 @@ demolished, Ravana will then be angry."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -603,6 +639,8 @@ demolished, Ravana will then be angry."
 त्रिशूलकालायसपट्टिशायुधं  
 ततो महद्युद्धमिदं भविष्यति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,6 +690,7 @@ and armed with weapons like great tridents and spears made of iron. Then, a grea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,6 +699,8 @@ and armed with weapons like great tridents and spears made of iron. Then, a grea
 निहत्य तद् रावणचोदितं बलं  
 सुखं गमिष्यामि हरीश्वरालयम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,12 +750,15 @@ that army instigated by Ravana and return to the place of Sugreeva happily."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मारुतवत् क्रुद्धो मारुतिर्भीमविक्रमः ।  
 ऊरुवेगेन महता द्रुमान् क्षेप्तुमथारभत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,12 +798,15 @@ by a highly violent jerk of his thighs akin to the jerk of a wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद्धनुमान् वीरो बभञ्ज प्रमदावनम् ।  
 मत्तद्विजसमाघुष्टं नानाद्रुमलतायुतम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +849,15 @@ with cries of birds in heat and endowed with various kinds of trees and creepers
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वनं मथितैर्वृक्षैर्भिन्नैश्च सलिलाशयैः ।  
 चूर्णितैः पर्वताग्रैश्च बभूवाप्रियदर्शनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,6 +897,7 @@ hills to powder. Thus, that grove became nasty at sight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -855,6 +906,8 @@ hills to powder. Thus, that grove became nasty at sight.
 न बभौ तद् वनं तत्र दावानलहतं यथा ।  
 व्याकुलावरणा रेजुर्विह्वला इव ता लताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -908,6 +961,7 @@ like distressed woman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -916,6 +970,8 @@ like distressed woman.
 शिलागृहैरुन्मथितैस्तथा गृहैः  
 प्रणष्टरूपं तदभून्महद् वनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1021,7 @@ emitting cries of distress, its grottos and other structures demolished, that gr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -973,6 +1030,8 @@ emitting cries of distress, its grottos and other structures demolished, that gr
 जाता दशास्यप्रमदावनस्य  
 कपेर्बलाद्धि प्रमदावनस्य ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,6 +1069,7 @@ women; by the violence of Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1018,6 +1078,8 @@ women; by the violence of Hanuma."
 युयुत्सुरेको बहुभिर्महाबलैः  
 श्रिया ज्वलंस्तोरणमाश्रितः कपिः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1078,5 +1140,6 @@ land of Lanka; that Hanuma decided to fight alone against many mighty demons and
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तॊन्दनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

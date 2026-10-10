@@ -2,6 +2,8 @@
 title = "०८३ इन्द्रजिता मायासीताकृतिवधः"
 title_english = "083 Seetha has been killed by Indrajit"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ virtue in life. After consoling Rama, Lakshmana prepares for a fight with Indraj
 
 83. सीताके मारे जानेकी बात सुनकर श्रीरामका शोकसे मूर्च्छित होना और लक्ष्मणका उन्हें समझाते हुए पुरुषार्थके लिये उद्यत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवश्चापि विपुलं तं राक्षसवनौकसाम् ।  
 श्रुत्वा सङ्ग्रामनिर्घोषं जाम्बवन्तमुवाच ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ Jambavan as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य नूनं हनुमता कृतं कर्म सुदुष्करम् ।  
 श्रूयते च यथा भीमः सुमहानायुधस्वनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,12 +113,15 @@ certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् गच्छ कुरु साहाय्यं स्वबलेनाभिसंवृतः ।  
 क्षिप्रमृक्षपते तस्य कपिश्रेष्ठस्य युध्यतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ your help to that Hanuma, who is fighting."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षराजस्तथेत्युक्त्वा स्वेनानीकेन संवृतः ।  
 आगच्छत् पश्चिमं द्वारं हनूमान् यत्र वानरः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ gate, where the monkey, Hanuma was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथायान्तं हनूमन्तं ददर्शर्क्षपतिस्तदा ।  
 वानरैः कृतसङ्ग्रामैः श्वसद्भिरभिसंवृतम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,12 +262,15 @@ sighing (on account of grief caused by the destruction of Seetha).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा पथि हनूमांश्च तदृक्षबलमुद्यतम् ।  
 नीलमेघनिभं भीमं सन्निवार्य न्यवर्तत ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -291,12 +311,15 @@ Seeing that terrible army of bears, looking like a dark cloud on their way, read
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेन सह सैन्येन सन्निकर्षं महायशाः ।  
 शीघ्रमागम्य रामाय दुःखितो वाक्यमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,12 +362,15 @@ with sorrow, spoke the following words to Rama:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समरे युध्यमानानामस्माकं प्रेक्षतां च सः ।  
 जघान रुदतीं सीतामिन्द्रजिद् रावणात्मजः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,12 +407,15 @@ Ravana killed Seetha in front of us, even though she continued to weep."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद‍्भ्रान्तचित्तस्तां दृष्ट्वा विषण्णोऽहमरिन्दम ।  
 तदहं भवतो वृत्तं विज्ञापयितुमागतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +449,15 @@ to report the event to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राघवः शोकमूर्च्छितः ।  
 निपपात तदा भूमौ छिन्नमूल इव द्रुमः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +495,15 @@ the ground, like a tree with its bottom chopped off.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं भूमौ देवसङ्काशं पतितं दृश्य राघवम् ।  
 अभिपेतुः समुत्पत्य सर्वतः कपिसत्तमाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,12 +537,15 @@ chiefs of monkeys came bouncing from all sides and rushed towards him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसिञ्चन् सलिलैश्चैनं पद्मोत्पलसुगन्धिभिः ।  
 प्रदहन्तमसंहार्यं सहसाग्निमिवोत्थितम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +587,15 @@ flared up suddenly and is burning all.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं लक्ष्मणोऽथ बाहुभ्यां परिष्वज्य सुदुःखितः ।  
 उवाच राममस्वस्थं वाक्यं हेत्वर्थसंयुतम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +613,15 @@ flared up suddenly and is burning all.
 
 भाईकी यह अवस्था देखकर लक्ष्मणको बड़ा दुःख हुआ । वे उन्हें दोनों भुजाओंमें भरकर बैठ गये और अस्वस्थ हुए श्रीरामसे यह युक्तियुक्त एवं प्रयोजनभरी बात बोले— ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुभे वर्त्मनि तिष्ठन्तं त्वामार्य विजितेन्द्रियम् ।  
 अनर्थेभ्यो न शक्नोति त्रातुं धर्मो निरर्थकः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +678,15 @@ spoke the following meaningful words, endowed with reason:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूतानां स्थावराणां च जङ्गमानां च दर्शनम् ।  
 यथास्ति न तथा धर्मस्तेन नास्तीति मे मतिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +721,15 @@ visible. Therefore, my opinion is that virtue is non-existent."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव स्थावरं व्यक्तं जङ्गमं च तथाविधम् ।  
 नायमर्थस्तथा युक्तस्त्वद्विधो न विपद्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +765,15 @@ have this misfortune."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यधर्मो भवेद् भूतो रावणो नरकं व्रजेत् ।  
 भवांश्च धर्मसंयुक्तो नैव व्यसनमाप्नुयात् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +811,15 @@ endowed with virtue, would never obtain such troubles."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य च व्यसनाभावाद् व्यसनं चागते त्वयि ।  
 धर्मो भवत्यधर्मश्च परस्परविरोधिनौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,6 +859,7 @@ contraries of each other have changed the roles with each other."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -811,6 +868,8 @@ contraries of each other have changed the roles with each other."
 न धर्मेण वियुज्येरन्नाधर्मरुचयो जनाः ।  
 धर्मेणाचरतां तेषां तथा धर्मफलं भवेत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +922,15 @@ virtue alone would have accrued to those who administer righteousness through th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मादर्था विवर्धन्ते येष्वधर्मः प्रतिष्ठितः ।  
 क्लिश्यन्ते धर्मशीलाश्च तस्मादेतौ निरर्थकौ ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -903,12 +965,15 @@ who have a conduct of virtue suffer, hence these two (virtue and vice) are usele
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वध्यन्ते पापकर्माणो यद्यधर्मेण राघव ।  
 वधकर्महतोऽधर्मः स हतः कं वधिष्यति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,12 +1009,15 @@ does, in the act of killing, will be forthwith destroyed. Whom will that unright
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा विहितेनायं हन्यते हन्ति चापरम् ।  
 विधिः स लिप्यते तेन न स पापेन कर्मणा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1060,15 @@ ritual, is tainted by that sinful act and not the agent."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टप्रतिकारेण अव्यक्तेनासता सता ।  
 कथं शक्यं परं प्राप्तुं धर्मेणारिविकर्षण ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,12 +1109,15 @@ non-existent."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि सत् स्यात् सतां मुख्य नासत् स्यात् तव किञ्चन ।  
 त्वया यदीदृशं प्राप्तं तस्मात् तन्नोपपद्यते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,12 +1172,15 @@ grief of Rama and spur him on to action.
 
 * इस अध्यायके १४ वेंसे २५ वें श्लोकतक लक्ष्मणजीने जो धर्म और अधर्मकी सत्ताका खण्डन किया है, वह श्रीरामको दुःखी देखकर स्वयं उनसे भी अधिक दुःखी होकर ही किया है । जिस प्रकार परात्पर श्रीरामके लिये अपनी प्रियाकी माया-मूर्तिके वधको देखकर शोकसे अभिभूत हो जाना प्रेमकी लीलामात्र है, उसी प्रकार प्रियतम प्रभुके दुःखको देखकर दुःखावेशकी लीलासे इस प्रकारकी असंगत-सी लगनेवाली बातें कहना भी प्रेमजनित कातरताका ही परिचायक है । आगे चलकर दुःखका आवेश कुछ कम हो जानेपर तो स्वयं लक्ष्मणजीने ही ४४ वें श्लोकमें स्पष्ट कहा है कि श्रीरामका शोकापनोदन करके उन्हें युद्धमें प्रवृत्त करनेके लिये ही उन्होंने ये सब बातें कही थीं । —सम्पादक
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा दुर्बलः क्लीबो बलं धर्मोऽनुवर्तते ।  
 दुर्बलो हृतमर्यादो न सेव्य इति मे मतिः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,12 +1192,15 @@ grief of Rama and spur him on to action.
 
 ‘यदि दुर्बल और कातर (स्वतः कार्य-साधनमें असमर्थ) होनेके कारण धर्म पुरुषार्थका अनुसरण करता है, तब तो दुर्बल और फलदानकी मर्यादासे रहित धर्मका सेवन ही नहीं करना चाहिये—यह मेरी स्पष्ट राय है ॥ २६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलस्य यदि चेद् धर्मो गुणभूतः पराक्रमैः ।  
 धर्ममुत्सृज्य वर्तस्व यथा धर्मे तथा बले ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,12 +1264,15 @@ capacity, should no longer be pursued."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ चेत् सत्यवचनं धर्मः किल परन्तप ।  
 अनृतं त्वय्यकरणे किं न बद्धस्त्वया विना ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1234,12 +1317,15 @@ announcement made by our father regarding your installation as the Prince Regent
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि धर्मो भवेद् भूत अधर्मो वा परन्तप ।  
 न स्म हत्वा मुनिं वज्री कुर्यादिज्यां शतक्रतुः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1366,15 @@ Bhagavata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मसंश्रितो धर्मो विनाशयति राघव ।  
 सर्वमेतद् यथाकामं काकुत्स्थ कुरुते नरः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1320,12 +1409,15 @@ virtue). O Rama! A man does all this, according to his will."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम चेदं मतं तात धर्मोऽयमिति राघव ।  
 धर्ममूलं त्वया छिन्नं राज्यमुत्सृजता तदा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1457,15 @@ been chopped off by you in that you spurned the sovereignty the other day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थेभ्योऽथ प्रवृद्धेभ्यः संवृत्तेभ्यस्ततस्ततः ।  
 क्रियाः सर्वाः प्रवर्तन्ते पर्वतेभ्य इवापगाः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1414,12 +1509,15 @@ strategies, all the tasks are indeed fulfilled, as the rivers flow from the moun
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थेन हि विमुक्तस्य पुरुषस्याल्पचेतसः ।  
 विच्छिद्यन्ते क्रियाः सर्वा ग्रीष्मे कुसरितो यथा ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1459,12 +1557,15 @@ small rivers dry up in summer-season."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽयमर्थं परित्यज्य सुखकामः सुखैधितः ।  
 पापमाचरते कर्तुं तदा दोषः प्रवर्तते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1506,12 +1607,15 @@ from it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः ।  
 यस्यार्थाः स पुमाल्ँ लोके यस्यार्थाः स च पण्डितः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1556,12 +1660,15 @@ He alone is virile in the world, who has riches. He alone is a learned man, who 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यार्थाः स च विक्रान्तो यस्यार्थाः स च बुद्धिमान् ।  
 यस्यार्थाः स महाभागो यस्यार्थाः स गुणाधिकः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,12 +1709,15 @@ riches. He alone is highly fortunate. He alone is distinguished, who has riches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थस्यैते परित्यागे दोषाः प्रव्याहृता मया ।  
 राज्यमुत्सृजता धीर येन बुद्धिस्त्वया कृता ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1649,12 +1759,15 @@ The ground on which you made the resolve to sacrifice the kingdom was not known 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यार्था धर्मकामार्थास्तस्य सर्वं प्रदक्षिणम् ।  
 अधनेनार्थकामेन नार्थः शक्यो विचिन्वता ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1693,12 +1806,15 @@ wealth, it is not possible to attain wealth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षः कामश्च दर्पश्च धर्मः क्रोधः शमो दमः ।  
 अर्थादेतानि सर्वाणि प्रवर्तन्ते नराधिप ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1733,12 +1849,15 @@ senses all these are attained from wealth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येषां नश्यत्ययं लोकश्चरतां धर्मचारिणाम् ।  
 तेऽर्थास्त्वयि न दृश्यन्ते दुर्दिनेषु यथा ग्रहाः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1773,12 +1892,15 @@ days."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयि प्रव्रजिते वीर गुरोश्च वचने स्थिते ।  
 रक्षसापहृता भार्या प्राणौः प्रियतरा तव ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1816,12 +1938,15 @@ your wife who was more beloved than life itself, was stolen away by a demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदद्य विपुलं वीर दुःखमिन्द्रजिता कृतम् ।  
 कर्मणा व्यपनेष्यामि तस्मादुत्तिष्ठ राघव ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1856,12 +1981,15 @@ Indrajit. Therefore, rise O Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ नरशार्दूल दीर्घबाहो धृतव्रत ।  
 किमात्मानं महात्मानमात्मानं नावबुध्यसे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1904,6 +2032,7 @@ disciplined?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1912,6 +2041,8 @@ disciplined?"
 सरथगजहयां सराक्षसेन्द्रां  
 भृशमिषुभिर्विनिपातयामि लङ्काम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1973,5 +2104,6 @@ with Ravana."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥83॥
+</details>
 </details>
 

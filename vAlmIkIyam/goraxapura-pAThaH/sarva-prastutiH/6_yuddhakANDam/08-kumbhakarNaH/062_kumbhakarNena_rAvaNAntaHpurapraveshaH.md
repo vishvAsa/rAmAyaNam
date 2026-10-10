@@ -2,6 +2,8 @@
 title = "०६२ कुम्भकर्णेन रावणान्तःपुरप्रवेशः"
 title_english = "062 Kumbhakarna enters the abode of Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ Kumbhakarna to show his terrible prowess in killing all the adversaries in battl
 
 62. कुम्भकर्णका रावणके भवनमें प्रवेश तथा रावणका रामसे भय बताकर उसे शत्रुसेनाके विनाशके लिये प्रेरित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु राक्षसशार्दूलो निद्रामदसमाकुलः ।  
 राजमार्गं श्रिया जुष्टं ययौ विपुलविक्रमः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ drowsiness, marched along the king's highway, full of royal dignity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां सहस्रैश्च वृतः परमदुर्जयः ।  
 गृहेभ्यः पुष्पवर्षेण कीर्यमाणस्तदा ययौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ way).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हेमजालविततं भानुभास्वरदर्शनम् ।  
 ददर्श विपुलं रम्यं राक्षसेन्द्रनिवेशनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,6 +152,7 @@ beautiful, like a shining sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,6 +161,8 @@ beautiful, like a shining sun.
 ददर्श दूरेऽग्रजमासनस्थं  
 स्वयम्भुवं शक्र इवासनस्थम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +200,15 @@ saw from of distance his brother seated on a throne, as Indra saw Brahma perched
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुः स भवनं गच्छन् रक्षोगणसमन्वितः ।  
 कुम्भकर्णः पदन्यासैरकम्पयत मेदिनीम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,12 +248,15 @@ demons, caused the earth to shake with his stamping strides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभिगम्य गृहं भ्रातुः कक्ष्यामभिविगाह्य च ।  
 ददर्शोद्विग्नमासीनं विमाने पुष्पके गुरुम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +290,15 @@ worried brother sitting in Pushpaka, a self-moving aerial car.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ दृष्ट्वा दशग्रीवः कुम्भकर्णमुपस्थितम् ।  
 तूर्णमुत्थाय संहृष्टः सन्निकर्षमुपानयत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +332,15 @@ delighted and brought him nearer to his side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथासीनस्य पर्यङ्के कुम्भकर्णो महाबलः ।  
 भ्रातुर्ववन्दे चरणौ किं कृत्यमिति चाब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,12 +375,15 @@ sitting on a sofa, asked him, "What is to be done?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पत्य चैनं मुदितो रावणः परिषस्वजे ।  
 स भ्रात्रा सम्परिष्वक्तो यथावच्चाभिनन्दितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,6 +425,7 @@ embraced and made happy by his brother, occupied an auspicious, charming and exc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -403,6 +433,8 @@ embraced and made happy by his brother, occupied an auspicious, charming and exc
 स तदासनमाश्रित्य कुम्भकर्णो महाबलः ॥ १० ॥  
 संरक्तनयनः क्रोधाद् रावणं वाक्यमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +475,15 @@ spoke to Ravana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थमहमादृत्य त्वया राजन् प्रबोधितः ॥ ११ ॥  
 शंस कस्माद् भयं तेऽत्र को वा प्रेतो भविष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,12 +524,15 @@ whom is the danger for you here and who is to be killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातरं रावणः क्रुद्धं कुम्भकर्णमवस्थितम् ॥ १२ ॥  
 रोषेण परिवृत्ताभ्यां नेत्राभ्यां वाक्यमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +566,15 @@ was there with anger (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य ते सुमहान् कालः शयानस्य महाबल ॥ १३ ॥  
 सुषुप्तस्त्वं न जानीषे मम रामकृतं भयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +615,15 @@ not know about the fear created by Rama in me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष दाशरथिः श्रीमान् सुग्रीवसहितो बली ॥ १४ ॥  
 समुद्रं लङ्घयित्वा तु मूलं नः परिकृन्तति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +663,15 @@ the ocean, is cutting short our race."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त पश्यस्व लङ्कायां वनान्युपवनानि च ॥ १५ ॥  
 सेतुना सुखमागत्य वानरैकार्णवं कृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -664,6 +711,7 @@ with an ocean full of monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -671,6 +719,8 @@ with an ocean full of monkeys."
 वानराणां क्षयं युद्धे न पश्यामि कथञ्चन ।  
 न चापि वानरा युद्धे जितपूर्वाः कदाचन ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +765,15 @@ time before, in a combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतद् भयमुत्पन्नं त्रायस्वेह महाबल ।  
 नाशय त्वमिमानद्य तदर्थं बोधितो भवान् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +808,15 @@ destroyed now. You have been woken up solely for that purpose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वक्षपितकोशं च स त्वमभ्युपपद्य माम् ।  
 त्रायस्वेमां पुरीं लङ्कां बालवृद्धावशेषिताम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -794,12 +850,15 @@ of Lanka, where only the children and the aged are left over."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुरर्थे महाबाहो कुरु कर्म सुदुष्करम् ।  
 मयैवं नोक्तपूर्वो हि भ्राता कश्चित् परन्तप ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,6 +901,7 @@ request anyone ever before."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -849,6 +909,8 @@ request anyone ever before."
 देवासुरेषु युद्धेषु बहुशो राक्षसर्षभ ॥ २१ ॥  
 त्वया देवाः प्रतिव्यूह्य निर्जिताश्चासुरा युधि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,12 +980,15 @@ attacking them in the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतत् सर्वमातिष्ठ वीर्यं भीमपराक्रम ।  
 नहि ते सर्वभूतेषु दृश्यते सदृशो बली ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,6 +1033,7 @@ adversaries by your vital power, as an autumnal cloud is blown away by a high-ri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -976,6 +1042,8 @@ adversaries by your vital power, as an autumnal cloud is blown away by a high-ri
 स्वतेजसा व्यथय सपत्नवाहिनीं  
 शरद्घनं पवन इवोद्यतो महान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,5 +1072,6 @@ adversaries by your vital power, as an autumnal cloud is blown away by a high-ri
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तॆरडनॆय सर्ग पूर्णवायितु.॥62॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४८ हनुमद्-इन्द्रजिद्युद्धम्"
 title_english = "048 Ravana sends his son Indrajit"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book 48**
@@ -25,6 +27,7 @@ capable of aborting it, eager as he was to meet Ravana.
 
 48. इन्द्रजित् और हनुमान् जी का युद्ध, उसके दिव्यास्त्रके बन्धनमें बँधकर हनुमान् जी का रावणके दरबारमें उपस्थित होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -33,6 +36,8 @@ capable of aborting it, eager as he was to meet Ravana.
 मनः समाधाय स देवकल्पं  
 समादिदेशेन्द्रजितं सरोषः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,6 +88,7 @@ possessing the qualities of god (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,6 +97,8 @@ possessing the qualities of god (as follows):
 सुरेषु सेन्द्रेषु च दृष्टकर्मा  
 पितामहाराधनसञ्चितास्त्रः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,12 +142,15 @@ perceived your performance with your missiles acquired by propitiating Brahma th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वदस्त्रबलमासाद्य ससुराः समरुद‍्गणाः ।  
 न शेकुः समरे स्थातुं सुरेश्वरसमाश्रिताः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,6 +193,7 @@ not able to endure the strength of your missiles in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -189,6 +201,8 @@ not able to endure the strength of your missiles in battle."
 भुजवीर्याभिगुप्तश्च तपसा चाभिरक्षितः ।  
 देशकालप्रधानश्च त्वमेव मतिसत्तमः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +251,7 @@ apportioning place and time properly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,6 +260,8 @@ apportioning place and time properly."
 न सोऽस्ति कश्चित् त्रिषु सङ्ग्रहेषु  
 न वेद यस्तेऽस्त्रबलं बलं च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,6 +305,7 @@ as also your (physical) strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -296,6 +314,8 @@ as also your (physical) strength."
 न त्वां समासाद्य रणावमर्दे  
 मनः श्रमं गच्छति निश्चितार्थम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +352,15 @@ Admitting you in the squeeze of battle, my mind does not get fatigues because of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहताः किङ्कराः सर्वे जम्बुमाली च राक्षसः ।  
 अमात्यपुत्रा वीराश्च पञ्च सेनाग्रगामिनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,6 +382,7 @@ _________________
 
 ‘देखो, किंकर नामवाले समस्त राक्षस मार डाले गये । जम्बुमाली नामका राक्षस भी जीवित न रह सका, मन्त्रीके सातों वीर पुत्र तथा मेरे पाँच सेनापति भी कालके गालमें चले गये ॥ ७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,6 +390,8 @@ _________________
 सहोदरस्ते दयितः कुमारोऽक्षश्च सूदितः ।  
 न तु तेष्वेव मे सारो यस्त्वय्यरिनिषूदन ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,6 +450,7 @@ and chariots."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -432,6 +459,8 @@ and chariots."
 त्वमात्मनश्चापि निरीक्ष्य सारं  
 कुरुष्व वेगं स्वबलानुरूपम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,6 +510,7 @@ in view your own strength, exhibit your valour accordingly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,6 +519,8 @@ in view your own strength, exhibit your valour accordingly."
 तथा समीक्ष्यात्मबलं परं च  
 समारभस्वास्त्रभृतां वरिष्ठ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,6 +572,7 @@ whose enemies have died, have arrived near Hanuma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -548,6 +581,8 @@ whose enemies have died, have arrived near Hanuma."
 न मारुतस्यास्ति गतिप्रमाणं  
 न चाग्निकल्पः करणेन हन्तुम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,6 +635,7 @@ Hanuma the son of wind-god. It is not possible to kill him, who resembles fire, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -608,6 +644,8 @@ Hanuma the son of wind-god. It is not possible to kill him, who resembles fire, 
 स्मरंश्च दिव्यं धनुषोऽस्य वीर्यं  
 व्रजाक्षतं कर्म समारभस्व ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +697,15 @@ bow, go and duly proceed with your work, without any hindrance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खल्वियं मतिश्रेष्ठ यत्त्वां सम्प्रेषयाम्यहम् ।  
 इयं च राजधर्माणां क्षत्रस्य च मतिर्मता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +748,15 @@ said to be according to the duties of a king and is the commendation of a warrio
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाशस्त्रेषु सङ्ग्रामे वैशारद्यमरिन्दम ।  
 अवश्यमेव बोद्धव्यं काम्यश्च विजयो रणे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,6 +799,7 @@ in battle. You have to aspire for a victory too in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -763,6 +808,8 @@ in battle. You have to aspire for a victory too in battle."
 चकार भर्तारमतित्वरेण  
 रणाय वीरः प्रतिपन्नबुद्धिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +861,15 @@ in honour of Ravana the lord.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तैः स्वगणैरिष्टैरिन्द्रजित् प्रतिपूजितः ।  
 युद्धोद्धतकृतोत्साहः सङ्ग्रामं सम्प्रपद्यत ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -862,12 +912,15 @@ then entered the battle-field with an accomplished enthusiasm.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीमान् पद्मविशालाक्षो राक्षसाधिपतेः सुतः ।  
 निर्जगाम महातेजाः समुद्र इव पर्वणि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +957,7 @@ extra ordinary energy, rushed forth like an ocean on full-moon days.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -912,6 +966,8 @@ extra ordinary energy, rushed forth like an ocean on full-moon days.
 रथं समायुक्तमसह्यवेगः  
 समारुरोहेन्द्रजिदिन्द्रकल्पः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1018,15 @@ eagles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रथी धन्विनां श्रेष्ठः शस्त्रज्ञोऽस्त्रविदां वरः ।  
 रथेनाभिययौ क्षिप्रं हनूमान् यत्र सोऽभवत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,12 +1068,15 @@ to where Hanuma was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य रथनिर्घोषं ज्यास्वनं कार्मुकस्य च ।  
 निशम्य हरिवीरोऽसौ सम्प्रहृष्टतरोऽभवत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1116,15 @@ became more thrilled with delight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजिच्चापमादाय शितशल्यांश्च सायकान् ।  
 हनूमन्तमभिप्रेत्य जगाम रणपण्डितः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,6 +1166,7 @@ towards Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1109,6 +1175,8 @@ towards Hanuma.
 दिशश्च सर्वाः कलुषा बभूवु-  
 र्मृगाश्च रौद्रा बहुधा विनेदुः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,6 +1226,7 @@ a bow in his hand, all the quarters became gloomy and ferocious animals howled i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1166,6 +1235,8 @@ a bow in his hand, all the quarters became gloomy and ferocious animals howled i
 नभः समावृत्य च पक्षिसङ्घा  
 विनेदुरुच्चैः परमप्रहृष्टाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1207,12 +1278,15 @@ of birds going around the sky, gathered there and clamoured loudly with a great 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयान्तं स रथं दृष्ट्वा तूर्णमिन्द्रध्वजं कपिः ।  
 ननाद च महानादं व्यवर्धत च वेगवान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1255,12 +1329,15 @@ and grew up his body speedily.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रजित् स रथं दिव्यमाश्रितश्चित्रकार्मुकः ।  
 धनुर्विस्फारयामास तडिदूर्जितनिःस्वनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,6 +1380,7 @@ stretched his bow, which made a glaring sound like that accompanying a stroke li
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1311,6 +1389,8 @@ stretched his bow, which made a glaring sound like that accompanying a stroke li
 कपिश्च रक्षोऽधिपतेस्तनूजः  
 सुरासुरेन्द्राविव बद्धवैरौ ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1362,6 +1442,7 @@ Lord of demons who tightened hostility with each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1370,6 +1451,8 @@ Lord of demons who tightened hostility with each other.
 शरप्रवेगं व्यहनत् प्रवृद्ध-  
 श्चचार मार्गे पितुरप्रमेयः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1412,6 +1495,7 @@ Hanuma wheeled about in the path of wind-god, his father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1420,6 +1504,8 @@ Hanuma wheeled about in the path of wind-god, his father.
 मुमोच वीरः परवीरहन्ता  
 सुसन्ततान् वज्रसमानवेगान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1470,6 +1556,7 @@ as swift as lightning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1478,6 +1565,8 @@ as swift as lightning.
 विकृष्यमाणस्य च कार्मुकस्य  
 निशम्य घोषं पुनरुत्पपात ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1519,12 +1608,15 @@ and war-drums as also the sound of the bow-string being plucked, Hanuma sprang u
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शराणामन्तरेष्वाशु व्यावर्तत महाकपिः ।  
 हरिस्तस्याभिलक्ष्यस्य मोक्षयल्ँ लक्ष्यसङ्ग्रहम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1567,12 +1659,15 @@ the great monkey swiftly wheeled about between the arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शराणामग्रतस्तस्य पुनः समभिवर्तत ।  
 प्रसार्य हस्तौ हनुमानुत्पपातानिलात्मजः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1606,12 +1701,15 @@ hands, sprang up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावुभौ वेगसम्पन्नौ रणकर्मविशारदौ ।  
 सर्वभूतमनोग्राहि चक्रतुर्युद्धमुत्तमम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1645,6 +1743,7 @@ battle, which captivated the minds of all beings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1653,6 +1752,8 @@ battle, which captivated the minds of all beings.
 परस्परं निर्विषहौ बभूवतुः  
 समेत्य तौ देवसमानविक्रमौ ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1703,6 +1804,7 @@ became unbearable to each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1711,6 +1813,8 @@ became unbearable to each other.
 जगाम चिन्तां महतीं महात्मा  
 समाधिसंयोगसमाहितात्मा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1747,6 +1851,7 @@ high-minded Indrajit, who was well-known for hitting his target, got hold of a g
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1755,6 +1860,8 @@ high-minded Indrajit, who was well-known for hitting his target, got hold of a g
 अवध्यतां तस्य कपेः समीक्ष्य  
 कथं निगच्छेदिति निग्रहार्थम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1796,12 +1903,15 @@ then formed an idea as to how to resort to capture of that Hanuma the chief of m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पैतामहं वीरः सोऽस्त्रमस्त्रविदां वरः ।  
 सन्दधे सुमहातेजास्तं हरिप्रवरं प्रति ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1841,12 +1951,15 @@ splendor, then fitted to his bow, a missile presided over by Brahma the creator.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवध्योऽयमिति ज्ञात्वा तमस्त्रेणास्त्रतत्त्ववित् ।  
 निजग्राह महाबाहुं मारुतात्मजमिन्द्रजित् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1890,12 +2003,15 @@ of being killed, bound that Hanuma, the son of wind-god, by that presided over b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन बद्धस्ततोऽस्त्रेण राक्षसेन स वानरः ।  
 अभवन्निर्विचेष्टश्च पपात च महीतले ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1935,6 +2051,7 @@ on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1943,6 +2060,8 @@ on the ground.
 पितामहानुग्रहमात्मनश्च  
 विचिन्तयामास हरिप्रवीरः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1993,12 +2112,15 @@ him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स्वायम्भुवैर्मन्त्रैर्ब्रह्मास्त्रं चाभिमन्त्रितम् ।  
 हनूमांश्चिन्तयामास वरदानं पितामहात् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2043,6 +2165,7 @@ the entire creation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2051,6 +2174,8 @@ the entire creation.
 इत्येवमेवं विहितोऽस्त्रबन्धो  
 मयाऽऽत्मयोनेरनुवर्तितव्यः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2102,6 +2227,7 @@ creator imposed by the enemy, it must be obeyed by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2110,6 +2236,8 @@ creator imposed by the enemy, it must be obeyed by me."
 विमोक्षशक्तिं परिचिन्तयित्वा  
 पितामहाज्ञामनुवर्तते स्म ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2157,12 +2285,15 @@ creation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्रेणापि हि बद्धस्य भयं मम न जायते ।  
 पितामहमहेन्द्राभ्यां रक्षितस्यानिलेन च ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2201,12 +2332,15 @@ I am fastened by the missile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रहणे चापि रक्षोभिर्महन्मे गुणदर्शनम् ।  
 राक्षसेन्द्रेण संवादस्तस्माद् गृह्णन्तु मां परे ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2243,6 +2377,7 @@ a dialogue with Ravana. Therefore, let the enemies capture me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2251,6 +2386,8 @@ a dialogue with Ravana. Therefore, let the enemies capture me."
 परैः प्रसह्याभिगतैर्निगृह्य  
 ननाद तैस्तैः परिभर्त्स्यमानः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2289,12 +2426,15 @@ as also frightened by them, he made a loud scream.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसा दृष्ट्वा विनिश्चेष्टमरिन्दमम् ।  
 बबन्धुः शणवल्कैश्च द्रुमचीरैश्च संहतैः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2331,6 +2471,7 @@ him with plaited chords of hemp and bark of trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2339,6 +2480,8 @@ him with plaited chords of hemp and bark of trees.
 कौतूहलान्मां यदि राक्षसेन्द्रो  
 द्रष्टुं व्यवस्येदिति निश्चितार्थः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2388,12 +2531,15 @@ that Ravana was curious as he was, to see him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बद्धस्तेन वल्केन विमुक्तोऽस्त्रेण वीर्यवान् ।  
 अस्त्रबन्धः स चान्यं हि न बन्धमनुवर्तते ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2427,6 +2573,7 @@ since the bondage of that missile does not indeed coexist with another bondage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2439,6 +2586,8 @@ since the bondage of that missile does not indeed coexist with another bondage.
 पुनश्च नास्त्रे विहतेऽस्त्रमन्यत्  
 प्रवर्तते संशयिताः स्म सर्वे ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2510,6 +2659,7 @@ follows: "A person tied with other means cannot indeed be bound again by the mis
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2518,6 +2668,8 @@ follows: "A person tied with other means cannot indeed be bound again by the mis
 हन्यमानस्ततः क्रूरै राक्षसैः कालमुष्टिभिः ।  
 समीपं राक्षसेन्द्रस्य प्राकृष्यत स वानरः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2575,6 +2727,7 @@ the ties of ropes, could not realize that he was liberated from the missile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2583,6 +2736,8 @@ the ties of ropes, could not realize that he was liberated from the missile.
 व्यदर्शयत् तत्र महाबलं तं  
 हरिप्रवीरं सगणाय राज्ञे ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2626,12 +2781,15 @@ with a body of his attendants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मत्तमिव मातङ्गं बद्धं कपिवरोत्तमम् ।  
 राक्षसा राक्षसेन्द्राय रावणाय न्यवेदयन् ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2665,12 +2823,15 @@ the foremost of monkeys who looked like an elephant in rut.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽयं कस्य कुतो वापि किं कार्यं कोऽभ्युपाश्रयः ।  
 इति राक्षसवीराणां दृष्ट्वा सञ्जज्ञिरे कथाः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2713,12 +2874,15 @@ being? Whose savant is he? Where has he come from? What is his pursuit? Who is h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यतां दह्यतां वापि भक्ष्यतामिति चापरे ।  
 राक्षसास्तत्र सङ्क्रुद्धाः परस्परमथाब्रुवन् ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2752,6 +2916,7 @@ be killed, even roasted alive and devoured."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2760,6 +2925,8 @@ be killed, even roasted alive and devoured."
 ददर्श राज्ञः परिचारवृद्धान्  
 गृहं महारत्नविभूषितं च ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2804,12 +2971,15 @@ Ravana, decorated with highly precious stones and his elderly attendants sitting
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श महातेजा रावणः कपिसत्तमम् ।  
 रक्षोभिर्विकृताकारैः कृष्यमाणमितस्ततः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2843,12 +3013,15 @@ monkeys, being dragged hither and thither by demons of ugly countenance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाधिपतिं चापि ददर्श कपिसत्तमः ।  
 तेजोबलसमायुक्तं तपन्तमिव भास्करम् ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2881,6 +3054,7 @@ and strength and blazing like the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2889,6 +3063,8 @@ and strength and blazing like the sun.
 अथोपविष्टान् कुलशीलवृद्धान्  
 समादिशत् तं प्रति मुख्यमन्त्रीन् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2939,6 +3115,7 @@ to interrogate Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2947,6 +3124,8 @@ to interrogate Hanuma.
 निवेदयामास हरीश्वरस्य  
 दूतः सकाशादहमागतोऽस्मि ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2998,5 +3177,6 @@ motive of his act, that Hanuma at the outset informed, "I came from Sugreeva as 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तॆण्टनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "११० वसिष्ठसूचनम्"
 title_english = "110 Vasishta gives details of the creation of the world to Sri Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ Sri Rama not to violate this tradition and take over the reins of Ayodhya.
 
 110. वसिष्ठजीका सृष्टिपरम्पराके साथ इक्ष्वाकुकुलकी परम्परा बताकर ज्येष्ठके ही राज्याभिषेकका औचित्य सिद्ध करना और श्रीरामसे राज्य ग्रहण करनेके लिये कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धमाज्ञाय रामं तु वसिष्ठः प्रत्युवाच ह ।  
 जाबालिरपि जानीते लोकस्यास्य गतागतिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -52,12 +57,15 @@ Sri Rama not to violate this tradition and take over the reins of Ayodhya.
 
 श्रीरामचन्द्रनु क्रुद्धनादुदन्नु तिळिदु महर्षि वसिष्ठरु अवनल्लि हेळिदरु - रघुनन्दन! ई लोकद जनरु परलोकक्कॆ होगुवुदु मत्तु बरुवुदु इदु महर्षि जाबालिगळू तिळिदिद्दारॆ. (आद्दरिन्द इवरु नास्तिकरल्ल).॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तयितुकामस्तु त्वामेतद् वाक्यमब्रवीत् ।  
 इमां लोकसमुत्पत्तिं लोकनाथ निबोध मे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +88,15 @@ Sri Rama not to violate this tradition and take over the reins of Ayodhya.
 
 जगदीश्वर! ईग निन्नन्नु मरळि करॆदुकॊण्डु होगुव इच्छॆयिन्दले इवरु ई नास्तिक मातु गळन्नु आडिद्दरु. नीनु नन्निन्द ई लोकद उत्पत्तिय वृत्तान्तवन्नु केळु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं सलिलमेवासीत् पृथिवी तत्र निर्मिता ।  
 ततः समभवद् ब्रह्मा स्वयम्भूर्दैवतैः सह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +137,15 @@ that, the self-existent Brahma with all the gods came into existence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वराहस्ततो भूत्वा प्रोज्जहार वसुन्धराम् ।  
 असृजच्च जगत् सर्वं सह पुत्रैः कृतात्मभिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,12 +186,15 @@ water and with his sons of pure soul, created the entire world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाशप्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः ।  
 तस्मान्मरीचिः सञ्जज्ञे मरीचेः कश्यपः सुतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +235,15 @@ his was born Marichi. Marichi's son was kashyapa."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवस्वान् कश्यपाज्जज्ञे मनुर्वैवस्वतः स्वयम् ।  
 स तु प्रजापतिः पूर्वमिक्ष्वाकुस्तु मनोः सुतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,12 +284,15 @@ his part, was formerly the lord of creation. Ikshvaku was Manu' s son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्येयं प्रथमं दत्ता समृद्धा मनुना मही ।  
 तमिक्ष्वाकुमयोध्यायां राजानं विद्धि पूर्वकम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -310,12 +333,15 @@ thus the first king of Ayodhya!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकोस्तु सुतः श्रीमान् कुक्षिरित्येव विश्रुतः ।  
 कुक्षेरथात्मजो वीरो विकुक्षिरुदपद्यत ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +381,15 @@ the valiant Vikukshi."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकुक्षेस्तु महातेजाः बाणः पुत्रः प्रतापवान् ।  
 बाणस्य च महाबाहुरनरण्यो महातपाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +432,15 @@ Anaranya the mighty armed and the most illustrious son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानावृष्टिर्बभूवास्मिन् न दुर्भिक्षः सतां वरे ।  
 अनरण्ये महाराजे तस्करो वापि कश्चन ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +480,15 @@ neither dearth of rain nor a drought. No one was a thief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनरण्यान्महाराज पृथू राजा बभूव ह ।  
 तस्मात् पृथोर्महातेजास्त्रिशङ्कुरुदपद्यत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +532,15 @@ true eloquence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सत्यवचनाद् वीरः सशरीरो दिवं गतः ।  
 त्रिशङ्कोरभवत् सूनुर्धुन्धुमारो महायशाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +580,15 @@ born the hero, Yuvanasva."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धुन्धुमारान्महातेजा युवनाश्वो व्यजायत ।  
 युवनाश्वसुतः श्रीमान् मान्धाता समपद्यत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,12 +608,15 @@ _________________
 
 धुन्धुमारनिन्द महातेजस्वी युवनाश्वन जन्मवायितु. युवनाश्वन पुत्र श्रीमान् मान्धाता आदनु.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान्धातुस्तु महातेजाः सुसन्धिरुदपद्यत ।  
 सुसन्धेरपि पुत्रौ द्वौ ध्रुवसन्धिः प्रसेनजित् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -610,12 +654,15 @@ born the illustrious Bharata, the annihilator of enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यशस्वी ध्रुवसन्धेस्तु भरतो रिपुसूदनः ।  
 भरतात् तु महाबाहोरसितो नाम जायत ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +679,15 @@ born the illustrious Bharata, the annihilator of enemies."
 
 ध्रुवसन्धिय यशस्वी पुत्र शत्रुसूदन भरतनागिद्दनु. महाबाहु भरतनिन्द असित ऎम्ब पुत्रनु जनिसिदनु.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यैते प्रतिराजान उदपद्यन्त शत्रवः ।  
 हैहयास्तालजङ्घाश्च शूराश्च शशबिन्दवः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,12 +725,15 @@ adversaries, Haihayas, Talajanghas and the valiant Shashibindavas became the ene
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु सर्वान् प्रतिव्यूह्य युद्धे राजा प्रवासितः ।  
 स च शैलवरे रम्ये बभूवाभिरतो मुनिः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +778,7 @@ mountain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -733,6 +787,8 @@ mountain."
 ववन्दे पद्मपत्राक्षी काङ्क्षिणी पुत्रमुत्तमम् ।  
 एका गर्भविनाशाय सपत्न्यै गरलं ददौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +859,15 @@ poison to the other co-wife in order to destroy her foetus."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्गवश्च्यवनो नाम हिमवन्तमुपाश्रितः ।  
 तमृषिं साभ्युपागम्य कालिन्दी त्वभ्यवादयत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,6 +908,7 @@ a perpetuator of the race and an annihilator of enemies will be born to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -856,6 +916,8 @@ a perpetuator of the race and an annihilator of enemies will be born to you."
 पुत्रस्ते भविता देवि महात्मा लोकविश्रुतः ॥ २१ ॥  
 धार्मिकश्च सुभीमश्च वंशकर्तारिसूदनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +969,7 @@ aware of the going and coming of this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -914,6 +977,8 @@ aware of the going and coming of this world."
 पद्मपत्रसमानाक्षं पद्मगर्भसमप्रभम् ।  
 ततः सा गृहमागम्य पत्नी पुत्रमजायत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -973,12 +1038,15 @@ having a radiance like that of Brahama the Lord of creation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सपत्न्या तु गरस्तस्यै दत्तो गर्भजिघांसया ।  
 गरेण सह तेनैव तस्मात् स सगरोऽभवत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1019,12 +1087,15 @@ the full moon, by his energy, frightened the people here by the speed of his dig
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा सगरो नाम यः समुद्रमखानयत् ।  
 इष्ट्वा पर्वणि वेगेन त्रासयान इमाः प्रजाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ Asamanja was banished by his father even during his life time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असमञ्जस्तु पुत्रोऽभूत् सगरस्येति नः श्रुतम् ।  
 जीवन्नेव स पित्रा तु निरस्तः पापकर्मकृत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1187,15 @@ Bhagiratha was Dilipa's son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अंशुमानपि पुत्रोऽभूदसमञ्जस्य वीर्यवान् ।  
 दिलीपोऽंशुमतः पुत्रो दिलीपस्य भगीरथः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,12 +1235,15 @@ Kakutsthas was born a son called Raghu, from whence spring Raghavas."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथात् ककुत्स्थश्च काकुत्स्था येन तु स्मृताः ।  
 ककुत्स्थस्य तु पुत्रोऽभूद् रघुर्येन तु राघवाः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1203,12 +1283,15 @@ names Purushadaka, Kalmashapada and Soudasa."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रघोस्तु पुत्रस्तेजस्वी प्रवृद्धः पुरुषादकः ।  
 कल्माषपादः सौदास इत्येवं प्रथितो भुवि ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1331,15 @@ valour, perished (in a battle) along with his army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्माषपादपुत्रोऽभूच्छङ्खणस्त्विति नः श्रुतम् ।  
 यस्तु तद्वीर्यमासाद्य सहसैन्यो व्यनीनशत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,12 +1356,15 @@ valour, perished (in a battle) along with his army."
 
 कल्माषपादन पुत्र शङ्खणनादनु. अवनु युद्धदल्लि सुप्रसिद्ध पराक्रम पडॆदिद्दरू सैन्यसहित नाशवागिद्दनॆन्दु नावु केळुत्ता बन्दिद्देवॆ.॥30॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्खणस्य तु पुत्रोऽभूच्छूरः श्रीमान् सुदर्शनः ।  
 सुदर्शनस्याग्निवर्ण अग्निवर्णस्य शीघ्रगः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1292,12 +1381,15 @@ valour, perished (in a battle) along with his army."
 
 शङ्खणनिगॆ शूर-वीर पुत्र श्रीमान् सुदर्शननादनु. सुदर्शनन पुत्र अग्निवर्ण मत्तु अग्निवर्णन पुत्र शीघ्रगनागिद्दनु.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीघ्रगस्य मरुः पुत्रो मरोः पुत्रः प्रशुश्रुवः ।  
 प्रशुश्रुवस्य पुत्रोऽभूदम्बरीषो महामतिः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1317,12 +1409,15 @@ _________________
 
 शीघ्रगन पुत्र मरु, मरुविन पुत्र प्रशुश्रुव, प्रशुश्रुवन पुत्र महाबुद्धिवन्त अम्बरीषनादनु.॥32॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अम्बरीषस्य पुत्रोऽभून्नहुषः सत्यविक्रमः ।  
 नहुषस्य च नाभागः पुत्रः परमधार्मिकः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1369,12 +1464,15 @@ two sons of Nabhaga and it was Aja who begot the virtuous King Dasartha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजश्च सुव्रतश्चैव नाभागस्य सुतावुभौ ।  
 अजस्य चैव धर्मात्मा राजा दशरथः सुतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1416,12 +1514,15 @@ there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ज्येष्ठोऽसि दायादो राम इत्यभिविश्रुतः ।  
 तद् गृहाण स्वकं राज्यमवेक्षस्व जगन्नृप ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1466,12 +1567,15 @@ crown.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां हि सर्वेषां राजा भवति पूर्वजः ।  
 पूर्वजे नावरः पुत्रो ज्येष्ठो राजाभिषिच्यते ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1516,6 +1620,7 @@ with precious metals, as did your father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1524,6 +1629,8 @@ with precious metals, as did your father."
 प्रभूतरत्नामनुशाधि मेदिनीं  
 प्रभूतराष्ट्रां पितृवन्महायशः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1552,5 +1659,6 @@ with precious metals, as did your father."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हत्तनॆय सर्ग पूर्णवायितु ॥110॥
+</details>
 </details>
 

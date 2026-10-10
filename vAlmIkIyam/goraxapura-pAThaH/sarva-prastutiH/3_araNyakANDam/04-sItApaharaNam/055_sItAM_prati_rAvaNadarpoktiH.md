@@ -2,6 +2,8 @@
 title = "०५५ सीतां प्रति रावणदर्पोक्तिः"
 title_english = "055 Ravana entices Seetha to marry him"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The forest Trek**
@@ -21,12 +23,15 @@ and they are included here, as far as possible.
 
 55. रावणका सीताको अपने अन्तःपुरका दर्शन कराना और अपनी भार्या बन जानेके लिये समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दिश्य राक्षसान् घोरान् रावणोऽष्टौ महाबलान् ।  
 आत्मानं बुद्धिवैक्लव्यात् कृत्कृत्यममन्यत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ a great feat. [3-55-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चिन्तयानो वैदेहीं कामबाणैः प्रपीडितः ।  
 प्रविवेश गृहं रम्यं सीतां द्रष्टुमभित्वरन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +123,7 @@ on Seetha he post-hastily entered the beautiful palace. [3-55-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +133,8 @@ on Seetha he post-hastily entered the beautiful palace. [3-55-2]
 वायुवेगैरिवाक्रान्तां मज्जन्तीं नावमर्णवे ॥ ४ ॥  
 मृगयूथपरिभ्रष्टां मृगीं श्वभिरिवावृताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,6 +176,7 @@ demonesses. [3-55-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -172,6 +184,8 @@ demonesses. [3-55-3]
 तां तु शोकवशाद् दीनामवशां राक्षसाधिपः ।  
 सबलाद् दर्शयामास गृहं देवगृहोपमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,12 +245,15 @@ slants given to Ravana's dialogs, to portray him as a devotee, in this chapter i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्म्यप्रासादसम्बाधं स्त्रीसहस्रनिषेवितम् ।  
 नानापक्षिगणैर्जुष्टं नानारत्नसमन्वितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ slants given to Ravana's dialogs, to portray him as a devotee, in this chapter i
 
 अदु ऎत्तरवाद सौधगळिन्द एळु अन्तस्तिन मनॆगळिन्द तुम्बित्तु. अवुगळल्लि साविरारु स्त्रीयरु वासिसुत्तिद्दरु. गुम्पु गुम्पाद नाना जातिय पक्षिगळु अल्लि कलरव माडुत्तिद्दवु. नाना प्रकारद रत्नगळु आ अन्तःपुरद शोभॆयन्नु हॆच्चिसिद्दवु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दान्तकैस्तापनीयैश्च स्फाटिकै राजतैस्तथा ।  
 वज्रवैदूर्यचित्रैश्च स्तम्भैर्दृष्टिमनोरमैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ of pure gold. [3-55-7, 8, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यदुन्दुभिनिर्घोषं तप्तकाञ्चनभूषणम् ।  
 सोपानं काञ्चनं चित्रमारुरोह तया सह ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +351,15 @@ of pure gold. [3-55-7, 8, 9a]
 
 आ भवनदल्लि दिव्य दुन्दुभिगळ मधुर घोष आगुत्तित्तु. आ अन्तःपुरवन्नु पुटक्किट्ट बङ्गारद ऒडवॆगळिन्द अलङ्करिसलागित्तु. रावणनु सीतॆयन्नु करॆदुकॊण्डु चिन्नदिन्द निर्मिसिद विचित्र मॆट्टिलुगळन्नु हत्तिदनु.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दान्तका राजताश्चैव गवाक्षाः प्रियदर्शनाः ।  
 हेमजालावृताश्चासंस्तत्र प्रासादपङ्‍क्तयः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,12 +404,15 @@ after Ravana, but defiantly and straggly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुधामणिविचित्राणि भूमिभागानि सर्वशः ।  
 दशग्रीवः स्वभवने प्रादर्शयत मैथिलीम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,12 +446,15 @@ and diamond encrusted to Maithili. [3-55-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घिकाः पुष्करिण्यश्च नानापुष्पसमावृताः ।  
 रावणो दर्शयामास सीतां शोकपरायणाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,12 +505,15 @@ entity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयित्वा तु वैदेहीं कृत्स्नं तद्भवनोत्तमम् ।  
 उवाच वाक्यं पापात्मा सीतां लोभितुमिच्छया ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,6 +556,7 @@ to Seetha in order that she may be tempted on her own, lustily. [3-55-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -529,6 +565,8 @@ to Seetha in order that she may be tempted on her own, lustily. [3-55-13]
 तेषां प्रभुरहं सीते सर्वेषां भीमकर्मणाम् ।  
 सहस्रमेकमेकस्य मम कार्यपुरःसरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,12 +607,15 @@ started his self-eulogy. [3-55-14, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदिदं राज्यतन्त्रं मे त्वयि सर्वं प्रतिष्ठितम् ।  
 जीवितं च विशालाक्षि त्वं मे प्राणैर्गरीयसी ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +655,15 @@ you are loftier than my lives. [3-55-15b, 16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बह्वीनामुत्तमस्त्रीणां मम योऽसौ परिग्रहः ।  
 तासां त्वमीश्वरी सीते मम भार्या भव प्रिये ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +712,15 @@ bhaa= cidruupiNii*= oh, Subtlety; *aaryaa* = oh, adorable one; *a+bhava* = oh, R
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु किं तेऽन्यथाबुद्‍ध्या रोचयस्व वचो मम ।  
 भजस्व माभितप्तस्य प्रसादं कर्तुमर्हसि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +769,15 @@ dhvani/innuendo: The word *kaama* is ellipted here as it appears in other mms. T
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिक्षिप्ता समुद्रेण लङ्केयं शतयोजना ।  
 नेयं धर्षयितुं शक्या सेन्द्रैरपि सुरासुरैः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -767,12 +817,15 @@ enshrouds this Lanka which is hundred-yojana-s witdthwise. [3-55-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न देवेषु न यक्षेषु न गन्धर्वेषु नर्षिषु ।  
 अहं पश्यामि लोकेषु यो मे वीर्यसमो भवेत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +865,15 @@ no; *R^iSiSu na* = among sage, no.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यभ्रष्टेन दीनेन तापसेन पदातिना ।  
 किं करिष्यसि रामेण मानुषेणाल्पतेजसा ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +927,15 @@ parama puruSa* the Supreme Person?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भजस्व सीते मामेव भर्ताहं सदृशस्तव ।  
 यौवनं त्वध्रुवं भीरु रमस्वेह मया सह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,12 +997,15 @@ through Rama...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शने मा कृथा बुद्धिं राघवस्य वरानने ।  
 कास्य शक्तिरिहागन्तुमपि सीते मनोरथैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1053,15 @@ here, hence oh, Seetha, you needn't worry...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्यो वायुराकाशे पाशैर्बद‍्धुं महाजवः ।  
 दीप्यमानस्य वाप्यग्नेर्ग्रहीतुं विमलाः शिखाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1104,15 @@ lay hold on the tongues of radiately irradiant fire. [3-55-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणामपि लोकानां न तं पश्यामि शोभने ।  
 विक्रमेण नयेद् यस्त्वां मद‍्बाहुपरिपालिताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1163,15 @@ don't get perturbed at mind in not seeing Rama... he comes soon...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्कायाः सुमहद्राज्यमिदं त्वमनुपालय ।  
 त्वत्प्रेष्या मद्विधाश्चैव देवाश्चापि चराचरम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1149,6 +1220,7 @@ dedication...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1156,6 +1228,8 @@ dedication...'
 दुष्कृतं यत्पुरा कर्म वनवासेन तद्‍गतम् ॥ २७ ॥  
 यच्च ते सुकृतं कर्म तस्येह फलमाप्नुहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1218,12 +1292,15 @@ or unintentionally, I surrender the fruits of all those merits even, unto to you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह सर्वाणि माल्यानि दिव्यगन्धानि मैथिलि ॥ २८ ॥  
 भूषणानि च मुख्यानि तानि सेव मया सह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1267,6 +1344,7 @@ ellipted: 'offered...' *saha= ekadaiva* 'at least once...' *sevasva* 'accept the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1275,6 +1353,8 @@ ellipted: 'offered...' *saha= ekadaiva* 'at least once...' *sevasva* 'accept the
 विशालं रमणीयं च तद्विमानं मनोजवम् ॥ ३० ॥  
 तत्र सीते मया सार्धं विहरस्व यथासुखम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1342,12 +1422,15 @@ Kubera in a war with him, which is similar sun in its shine. [3-55-29b. 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वदनं पद्मसङ्काशं विमलं चारुदर्शनम् ॥ ३१ ॥  
 शोकार्तं तु वरारोहे न भ्राजति वरानने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1388,12 +1471,15 @@ of mine is unbright, thus marry me to brighten everything" Thus Ravana spoke to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वदति तस्मिन् सा वस्त्रान्तेन वराङ्गना ॥ ३२ ॥  
 पिधायेन्दुनिभं सीता मन्दमश्रूण्यवर्तयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1434,12 +1520,15 @@ of her sari, and stiflingly dispelled tears on that mooniest face behind her hal
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्यायन्तीं तामिवास्वस्थां सीतां चिन्ताहतप्रभाम् ॥ ३३ ॥  
 उवाच वचनं वीरो रावणो रजनीचरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1492,12 +1581,15 @@ leeching.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलं व्रीडेन वैदेहि धर्मलोपकृतेन ते ॥ ३४ ॥  
 आर्षोऽयं देवि निष्पन्दो यस्त्वामभिभविष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,12 +1701,15 @@ Seetha, namely Goddess Lakshmi, legendarily.
 
 * ऐसा कहकर रावण देवी सीताको धोखा देना चाहता है । वास्तवमें ऐसे पापपूर्ण कृत्योंका समर्थन धर्मशास्त्रोंमें कहीं नहीं है । कुमारी कन्याका बलपूर्वक अपहरण शास्त्रोंमें राक्षसविवाह कहा गया है; किंतु वह भी निन्द्य ही माना गया है, यहाँ तो वह भी नहीं है । विवाहिता सती साध्वीका अपहरण घोर पाप माना गया है । इसी पापसे सोनेकी लङ्का मिट्टीमें मिल गयी और रावण दल-बल-कुल-परिवारसहित नष्ट हो गया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ पादौ मया स्निग्धौ शिरोभिः परिपीडितौ ॥ ३५ ॥  
 प्रसादं कुरु मे क्षिप्रं वश्यो दासोऽहमस्मि ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1655,12 +1750,15 @@ and servant. [3-55-35b. 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमाः शून्या मया वाचः शुष्यमाणेन भाषिताः ॥ ३६ ॥  
 न चापि रावणः काञ्चिन्मूर्ध्ना स्त्रीं प्रणमेत ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1710,12 +1808,15 @@ Tiirtha calls this as *rasaabhaasa* 'desiring an undesirous woman of others, by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा दशग्रीवो मैथिलीं जनकात्मजाम् ।  
 कृतान्तवशमापन्नो ममेयमिति मन्यते ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1767,5 +1868,6 @@ is mine,' as he has gone under the sway of the Terminator. [3-55-37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥55॥
+</details>
 </details>
 

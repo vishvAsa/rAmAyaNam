@@ -2,6 +2,8 @@
 title = "०१५ सुमन्त्रस्य रामगृहगमनम्"
 title_english = "015 Sumantra arrives at Sri Rama s chambers"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ of Sri Rama.
 
 15. सुमन्त्रका राजाकी आज्ञासे श्रीरामको बुलानेके लिये उनके महलमें जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु तां रजनीमुष्य ब्राह्मणा वेदपारगाः ।  
 उपतस्थुरुपस्थानं सह राजपुरोहिताः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ along with the royal priest, Vashishta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमात्या बलमुख्याश्च मुख्या ये निगमस्य च ।  
 राघवस्याभिषेकार्थे प्रीयमाणाः सुसङ्गताः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,6 +119,7 @@ cause of Rama's coronation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,6 +130,8 @@ cause of Rama's coronation.
 रथश्च सम्यगास्तीर्णो भास्वता व्याघ्रचर्मणा ।  
 गङ्गायमुनयोः पुण्यात् सङ्गमादाहृतं जलम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,6 +194,7 @@ rises clearly at the arrival of Pushya star and on arrival of Rama's auspicious 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -194,6 +206,8 @@ rises clearly at the arrival of Pushya star and on arrival of Rama's auspicious 
 सजलाः क्षीरिभिश्छन्ना घटाः काञ्चनराजताः ॥ ८ ॥  
 पद्मोत्पलयुता भान्ति पूर्णाः परमवारिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +284,15 @@ from oceans in all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रांशुविकचप्रख्यं पाण्डुरं रत्नभूषितम् ॥ ९ ॥  
 सज्जं तिष्ठति रामस्य वालव्यजनमुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +332,15 @@ with diamonds was kept ready for Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रमण्डलसङ्काशमातपत्रं च पाण्डुरम् ॥ १० ॥  
 सज्जं द्युतिकरं श्रीमदभिषेकपुरस्सरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,11 +383,14 @@ was also kept ready.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरश्च वृषः सज्जः पाण्डुराश्वश्च संस्थितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,6 +430,7 @@ by kings were readily waiting.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -415,6 +439,8 @@ by kings were readily waiting.
 तथाजातीयमादाय राजपुत्राभिषेचनम् ।  
 ते राजवचनात् तत्र समवेता महीपतिम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,6 +476,7 @@ panegyrists and others were also waiting.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,6 +484,8 @@ panegyrists and others were also waiting.
 न पश्यामश्च राजानमुदितश्च दिवाकरः ॥ १४ ॥  
 यौवराज्याभिषेकश्च सज्जो रामस्य धीमतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +524,15 @@ discussed among themselves about how to inform the king regarding their arrival.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तेषु ब्रुवाणेषु सर्वांस्तांश्च महीपतीन् ॥ १५ ॥  
 अब्रवीत् तानिदं वाक्यं सुमन्त्रो राजसत्कृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,6 +567,7 @@ of Rama, the wise".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -542,6 +575,8 @@ of Rama, the wise".
 पूज्या राज्ञो भवन्तश्च रामस्य तु विशेषतः ।  
 अयं पृच्छामि वचनात् सुखमायुष्मतामहम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -601,12 +636,15 @@ those kings, who came from different countries.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञः सम्प्रतिबुद्धस्य चानागमनकारणम् ।  
 इत्युक्त्वान्तःपुरद्वारमाजगाम पुराणवित् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -646,12 +684,15 @@ the reason of his not coming here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदा सक्तं च तद् वेश्म सुमन्त्रः प्रविवेश ह ।  
 तुष्टावास्य तदा वंशं प्रविश्य स विशाम्पतेः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +732,7 @@ and entered the inner quarters which is always kept closed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -698,6 +740,8 @@ and entered the inner quarters which is always kept closed.
 सोऽत्यासाद्य तु तद् वेश्म तिरस्करणिमन्तरा ॥ २० ॥  
 आशीर्भिर्गुणयुक्ताभिरभितुष्टाव राघवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +786,15 @@ bedroom and stood there at a distance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ॥ २१ ॥  
 वरुणश्चाग्निरिन्द्रश्च विजयं प्रदिशन्तु ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +836,15 @@ qualities with blessings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गता भगवती रात्रिरहः शिवमुपस्थितम् ॥ २२ ॥  
 बुद्ध्यस्व राजशार्दूल कुरु कार्यमनन्तरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,12 +884,15 @@ Varuna, Agni and Indra grant victory to you!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणा बलमुख्याश्च नैगमाश्चागतास्त्विह ॥ २३ ॥  
 दर्शनं तेऽभिकाङ्क्षन्ते प्रतिबुद्ध्यस्व राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,12 +935,15 @@ up and do whatever needs to be done thereafter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुवन्तं तं तदा सूतं सुमन्त्रं मन्त्रकोविदम् ॥ २४ ॥  
 प्रतिबुद्ध्य ततो राजा इदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,6 +986,7 @@ you. Please wake up."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -937,6 +994,8 @@ you. Please wake up."
 किमिदं कारणं येन ममाज्ञा प्रतिवाह्यते ।  
 न चैव सम्प्रसुप्तोऽहमानयेहाशु राघवम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -987,6 +1046,7 @@ was skilled in giving advice and who was his charioteer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -995,6 +1055,8 @@ was skilled in giving advice and who was his charioteer.
 निर्जगाम नृपावासान्मन्यमानः प्रियं महत् ।  
 प्रपन्नो राजमार्गं च पताकाध्वजशोभितम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1060,6 +1122,7 @@ Rama here soon".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1067,6 +1130,8 @@ Rama here soon".
 स सूतस्तत्र शुश्राव रामाधिकरणाः कथाः ॥ २९ ॥  
 अभिषेचनसंयुक्ताः सर्वलोकस्य हृष्टवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,6 +1176,7 @@ and banners.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1118,6 +1184,8 @@ and banners.
 रामवेश्म सुमन्त्रस्तु शक्रवेश्मसमप्रभम् ।  
 महाकपाटपिहितं वितर्दिशतशोभितम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1179,12 +1247,15 @@ joyful people there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काञ्चनप्रतिमैकाग्रं मणिविद्रुमतोरणम् ।  
 शारदाभ्रघनप्रख्यं दीप्तं मेरुगुहासमम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,12 +1272,15 @@ joyful people there.
 
 अदर प्रधान मुम्बागिलु बङ्गारद देवता प्रतिमॆगळिन्द अलङ्कृतवागित्तु. आ इडी भवनवु शरद् ऋतुविन मेघगळन्तॆ बॆळ्ळगिन कान्तियिन्द कूडि देदीप्यमान मेरुपर्वतद गुहॆयन्तित्तु.॥32॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिभिर्वरमाल्यानां सुमहद्भिरलङ्कृतम् ।  
 मुक्तामणिभिराकीर्णं चन्दनागुरुभूषितम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1223,12 +1297,15 @@ joyful people there.
 
 सुवर्णनिर्मित पुष्पगळ मूलॆगळल्लि नडु-नडुवॆ पोणिसिद अमूल्य मणिगळिन्द कूडिद हारगळिन्द आ भवनवु अलङ्कृतवागित्तु, गोडॆगळल्लि कोद मुक्तामणिगळिन्द हॊळॆयुत्तित्तु. मुत्तु रत्नगळ भण्डारवे ऎल्लॆडॆ तुम्बित्तु. चन्दन, अगरुगळ सुगन्धदिन्द अदर शोभॆ इन्नू हॆच्चित्तु.॥33॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धान् मनोज्ञान् विसृजद् दार्दुरं शिखरं यथा ।  
 सारसैश्च मयूरैश्च विनदद्भिर्विराजितम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1325,15 @@ _________________
 
 आ भवनदल्लि मलयाचलद दुर्दर ऎम्ब चन्दनगिरि शिखरदन्तॆ ऎल्लॆडॆ मनोहर सुगन्धवु हरडिकॊण्डित्तु. सारस, मयूरवे मॊदलाद पक्षिगळ कलरवदिन्द अदर शोभॆ इम्मडियागित्तु.॥34॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकृतेहामृगाकीर्णमुत्कीर्णं भक्तिभिस्तथा ।  
 मनश्चक्षुश्च भूतानामाददत् तिग्मतेजसा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,12 +1350,15 @@ _________________
 
 स्वर्णवे मॊदलाद धातुगळिन्द सुन्दरवागि निर्मिसिद तोळगळे मॊदलाद मूर्तिगळिन्द अदु आवरिसित्तु. शिल्पिगळु अदर गोडॆगळल्लि मनोहर चित्तारगळन्नु कॆत्तिद्दरु. अदु तन्न उत्कृष्ट शोभॆयिन्द समस्त प्राणिगळ कण्मनगळन्नु आकर्षिसुत्तित्तु.॥35॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रभास्करसङ्काशं कुबेरभवनोपमम् ।  
 महेन्द्रधामप्रतिमं नानापक्षिसमाकुलम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1292,12 +1375,15 @@ _________________
 
 चन्द्र-सूर्यरन्तॆ तेजस्वी, कुबेरन भवनदन्तॆ अक्षय सम्पत्तिनिन्द पूर्ण हागू इन्द्रधामदन्तॆ भव्य मत्तु मनोहरवाद आ श्रीरामभवनदल्लि नाना विधद पक्षिगळु तुम्बिद्दवु.॥36॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेरुशृङ्गसमं सूतो रामवेश्म ददर्श ह ।  
 उपस्थितैः समाकीर्णं जनैरञ्जलिकारिभिः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1314,12 +1400,15 @@ _________________
 
 श्रीरामभवनवु मेरु पर्वतद शिखरदन्तॆ शोभिसुत्तित्तु. श्रीरामनिगॆ कैमुगिदु वन्दिसलु बन्दिरुव असङ्ख्य जनरिन्द तुम्बिहोद अदन्नु सुमन्त्रनु नोडिदनु.॥37॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपादाय समाक्रान्तैस्तदा जानपदैर्जनैः ।  
 रामाभिषेकसुमुखैरुन्मुखैः समलङ्कृतम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1336,12 +1425,15 @@ _________________
 
 बगॆ-बगॆय उडुगॊरॆगळन्नॆत्तिकॊण्डु प्रजा जनरु अल्लि नॆरॆदिद्दरु. श्रीरामन पट्टाभिषेकद समाचार केळि अवर मुखगळु अरळिद्दवु, अवरु आ उत्सववन्नु नोडलु उत्कण्ठितरागिद्दरु. अवरॆल्लर उपस्थितियिन्द आ भवनवु शोभिसुत्तित्तु.॥38॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महामेघसमप्रख्यमुदग्रं सुविराजितम् ।  
 नानारत्नसमाकीर्णं कुब्जकैरपि चावृतम् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,6 +1450,7 @@ _________________
 
 आ विशाल भवनवु महामेघ खण्डदन्तॆ ऎत्तरवागि, सुन्दरवागि शोभा सम्पन्नवागित्तु. अदर गोडॆगळल्लि नाना विधद रत्नगळन्नु जोडिसिद्दरु मत्तु कुळ्ळराद सेवकरिन्द अदु तुम्बिहोगित्तु.॥39॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1366,6 +1459,8 @@ _________________
 वरूथिना राजगृहाभिपातिना  
 पुरस्य सर्वस्य मनांसि हर्षयन् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1434,6 +1529,7 @@ house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1442,6 +1538,8 @@ house.
 मृगैर्मयूरैश्च समाकुलोल्बणं  
 गृहं वरार्हस्य शचीपतेरिव ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1486,6 +1584,7 @@ Rama's palace, beautifying the human and the royal races, gladdened the hearts o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1494,6 +1593,8 @@ Rama's palace, beautifying the human and the royal races, gladdened the hearts o
 प्रियान् वरान् राममते स्थितान् बहून्  
 व्यपोह्य शुद्धान्तमुपस्थितौ रथी ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1538,6 +1639,7 @@ filled with various deer and peacocks. After approaching that palace, he became 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1546,6 +1648,8 @@ filled with various deer and peacocks. After approaching that palace, he became 
 नरेन्द्रसूनोरभिमङ्गलार्थाः  
 सर्वस्य लोकस्य गिरः प्रहृष्टाः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1592,6 +1696,7 @@ and approached Rama's inner apartment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1600,6 +1705,8 @@ and approached Rama's inner apartment.
 ददर्श मेरोरिव शृङ्गमुच्चं  
 विभ्राजमानं प्रभया सुमन्त्रः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1644,6 +1751,7 @@ to be performed for the sake of Rama's prosperity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1652,6 +1760,8 @@ to be performed for the sake of Rama's prosperity.
 कोट्या परार्धैश्च विमुक्तयानैः  
 समाकुलं द्वारपदं ददर्श ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1696,6 +1806,7 @@ of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1704,6 +1815,8 @@ of Rama.
 रामोपवाह्यं रुचिरं ददर्श  
 शत्रुञ्जयं नागमुदग्रकायम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1740,6 +1853,7 @@ the area leaving their respective vehicles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1748,6 +1862,8 @@ the area leaving their respective vehicles.
 व्यपोह्य सूतः सहितान् समन्ततः  
 समृद्धमन्तःपुरमाविवेश ह ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1792,6 +1908,7 @@ royal conveyance. It was like a great cloud and a mountain. It was intoxicated, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1800,6 +1917,8 @@ royal conveyance. It was like a great cloud and a mountain. It was intoxicated, 
 अवार्यमाणः प्रविवेश सारथिः  
 प्रभूतरत्नं मकरो यथार्णवम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1855,5 +1974,6 @@ the rich inner apartment.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनैदनॆय सर्ग पूर्णवायितु.॥15॥
+</details>
 </details>
 

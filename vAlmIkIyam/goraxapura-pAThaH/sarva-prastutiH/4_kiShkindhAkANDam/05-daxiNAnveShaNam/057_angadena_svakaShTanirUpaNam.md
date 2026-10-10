@@ -2,6 +2,8 @@
 title = "०५७ अङ्गदेन स्वकष्टनिरूपणम्"
 title_english = "057 Angada informs their plight to Sampaati"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ and therefore they resorted to fast-unto-death.
 
 57. अङ्गदका सम्पातिको पर्वत-शिखरसे नीचे उतारकर उन्हें जटायुके मारे जानेका वृत्तान्त बताना तथा राम-सुग्रीवकी मित्रता एवं वालिवधका प्रसंग सुनाकर अपने आमरण उपवासका कारण निवेदन करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकाद् भ्रष्टस्वरमपि श्रुत्वा वानरयूथपाः ।  
 श्रद्दधुर्नैव तद्वाक्यं कर्मणा तस्य शङ्किताः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ his being an eagle intending to kill and eat up all the monkeys. [4-57-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रायमुपविष्टास्तु दृष्ट्वा गृध्रं प्लवङ्गमाः ।  
 चक्रुर्बुद्धिं तदा रौद्रां सर्वान् नो भक्षयिष्यति ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ deliberated the eagle's words. [4-57-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा प्रायमासीनान् यदि नो भक्षयिष्यति ।  
 कृतकृत्या भविष्यामः क्षिप्रं सिद्धिमितो गताः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ other monkeys gave thought to lower that eagle down. [4-57-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतां बुद्धिं ततश्चक्रुः सर्वे ते हरियूथपाः ।  
 अवतार्य गिरेः शृङ्गाद् गृध्रमाहाङ्गदस्तदा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,6 +226,7 @@ going to the mountaintop brought that eagle down, and then Angada spoke to the e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -220,6 +235,8 @@ going to the mountaintop brought that eagle down, and then Angada spoke to the e
 सुग्रीवश्चैव वाली च पुत्रौ घनबलावुभौ ।  
 लोके विश्रुतकर्माभूद् राजा वाली पिता मम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,6 +291,7 @@ and he became the king later to my grandfather... [4-57-5, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -282,6 +300,8 @@ and he became the king later to my grandfather... [4-57-5, 6]
 लक्ष्मणेन सह भ्रात्रा वैदेह्या सह भार्यया ।  
 पितुर्निदेशनिरतो धर्मं पन्थानमाश्रितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,6 +355,7 @@ brother Lakshmana and even with his wife Vaidehi... [4-57-7, 8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -344,6 +365,8 @@ brother Lakshmana and even with his wife Vaidehi... [4-57-7, 8]
 रावणं विरथं कृत्वा स्थापयित्वा च मैथिलीम् ।  
 परिश्रान्तश्च वृद्धश्च रावणेन हतो रणे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,12 +432,15 @@ has seen her while she was being abducted by skyway. [4-57-9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं गृध्रो हतस्तेन रावणेन बलीयसा ।  
 संस्कृतश्चापि रामेण जगाम गतिमुत्तमाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,12 +480,15 @@ performed by Rama, he departed on a sublime avenue to heavens... [4-57-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मम पितृव्येण सुग्रीवेण महात्मना ।  
 चकार राघवः सख्यं सोऽवधीत् पितरं मम ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +505,15 @@ performed by Rama, he departed on a sublime avenue to heavens... [4-57-11]
 
 अनन्तर श्रीरामनु नन्न चिक्कप्प महात्मा सुग्रीवनॊन्दिगॆ मैत्रि माडिकॊण्डनु. सुग्रीवनु हेळिदन्तॆ श्रीरामनु नन्न पितनन्नु वधिसिदनु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम पित्रा निरुद्धो हि सुग्रीवः सचिवैः सह ।  
 निहत्य वालिनं रामस्ततस्तमभिषेचयत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,12 +555,15 @@ interdicted him along with his ministers, and Rama killed my father Vali and ano
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राज्ये स्थापितस्तेन सुग्रीवो वानरेश्वरः ।  
 राजा वानरमुख्यानां तेन प्रस्थापिता वयम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +603,15 @@ chiefs expedited all of us... [4-57-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं रामप्रयुक्तास्तु मार्गमाणास्ततस्ततः ।  
 वैदेहीं नाधिगच्छामो रात्रौ सूर्यप्रभामिव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ the behest of Sugreeva, as with a nightly sunshine Vaidehi is unattainable for u
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वयं दण्डकारण्यं विचित्य सुसमाहिताः ।  
 अज्ञानात् तु प्रविष्टाः स्म धरण्या विवृतं बिलम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +700,15 @@ entered into a wide-opened Black Hole of the earth... [4-57-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयस्य मायाविहितं तद् बिलं च विचिन्वताम् ।  
 व्यतीतस्तत्र नो मासो यो राज्ञा समयः कृतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +751,15 @@ Maya, the month fixed by our king for our return has been elapsed... [4-57-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वयं कपिराजस्य सर्वे वचनकारिणः ।  
 कृतां संस्थामतिक्रान्ता भयात् प्रायमुपासिताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +800,15 @@ fast-unto-death... [4-57-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धे तस्मिंस्तु काकुत्स्थे सुग्रीवे च सलक्ष्मणे ।  
 गतानामपि सर्वेषां तत्र नो नास्ति जीवितम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,5 +859,6 @@ for all of us..." Thus Angada narrated their plight to Sampaati. [4-57-19]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तेळनॆय सर्ग सम्पूर्णवायितु. ॥57॥
+</details>
 </details>
 

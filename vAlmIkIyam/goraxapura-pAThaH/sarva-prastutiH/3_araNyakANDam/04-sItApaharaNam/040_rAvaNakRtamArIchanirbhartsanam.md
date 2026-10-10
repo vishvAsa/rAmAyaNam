@@ -2,6 +2,8 @@
 title = "०४० रावणकृतमारीचनिर्भर्त्सनम्"
 title_english = "040 Ravana rebuts Maareecha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ are disobeyed, and Maareecha may perhaps have no opportunity to die at the hands
 
 40. रावणका मारीचको फटकारना और सीताहरणके कार्यमें सहायता करनेकी आज्ञा देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीचस्य तु तद् वाक्यं क्षमं युक्तं च रावणः ।  
 उक्तो न प्रतिजग्राह मर्तुकाम इवौषधम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ a person with a death wish rejects medicament. [3-40-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पथ्यहितवक्तारं मारीचं राक्षसाधिपः ।  
 अब्रवीत् परुषं वाक्यमयुक्तं कालचोदितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ unbefitting words to Maareecha who had been speaking conducive and beneficial wo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुष्कुलैतदयुक्तार्थं मारीच मयि कथ्यते ।  
 वाक्यं निष्फलमत्यर्थं बीजमुप्तमिवोषरे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ effect, like the seeds seeded in wastelands. [3-40-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वद्वाक्यैर्न तु मां शक्यं भेत्तुं रामस्य संयुगे ।  
 मूर्खस्य पापशीलस्य मानुषस्य विशेषतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,6 +227,7 @@ destroy me in war' will be the meaning, as per Eastern recension.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,6 +236,8 @@ destroy me in war' will be the meaning, as per Eastern recension.
 अवश्यं तु मया तस्य संयुगे खरघातिनः ।  
 प्राणैः प्रियतरा सीता हर्तव्या तव सन्निधौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,12 +293,15 @@ you cannot scare me away from such a Rama. [3-40-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मे निश्चिता बुद्धिर्हृदि मारीच विद्यते ।  
 न व्यावर्तयितुं शक्या सेन्द्रैरपि सुरासुरैः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +342,15 @@ impossible to roll back my mind or heart even for Indra coming along with gods a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दोषं गुणं वा सम्पृष्टस्त्वमेवं वक्तुमर्हसि ।  
 अपायं वा उपायं वा कार्यस्यास्य विनिश्चये ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,12 +391,15 @@ but I did not seek any viewpoints of yours. [3-40-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पृष्टेन तु वक्तव्यं सचिवेन विपश्चिता ।  
 उद्यताञ्जलिना राज्ञो य इच्छेद् भूतिमात्मनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +458,15 @@ vaktavyam eva - dk* .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्यमप्रतिकूलं तु मृदुपूर्वं शुभं हितम् ।  
 उपचारेण वक्तव्यो युक्तं च वसुधाधिपः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +520,15 @@ bruuyaat bhartruH kShiptaH uttaram vacaH | praviiNo api hi medhaavii varjayet ab
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावमर्दं तु यद्वाक्यमथवा हितमुच्यते ।  
 नाभिनन्देत तद् राजा मानार्थी मानवर्जितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,6 +571,7 @@ dishonourable, let alone reprehension. [3-40-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -547,6 +580,8 @@ dishonourable, let alone reprehension. [3-40-11]
 औष्ण्यं तथा विक्रमं च सौम्यं दण्डं प्रसन्नताम् ।  
 धारयन्ति महात्मानो राजानः क्षणदाचर ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +661,7 @@ Terminator, and that of Indra, the Administrator of Natural Forces. [3-40-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -634,6 +670,8 @@ Terminator, and that of Indra, the Administrator of Natural Forces. [3-40-12]
 अभ्यागतं तु दौरात्म्यात् परुषं वदसीदृशम् ।  
 गुणदोषौ न पृच्छामि क्षेमं चात्मनि राक्षस ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +740,15 @@ and holding on to your obsession, and wishing ill of me, as I am on your doorste
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयोक्तमपि चैतावत् त्वां प्रत्यमितविक्रम ।  
 अस्मिंस्तु स भवान् कृत्ये साहाय्यं कर्तुमर्हसि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,6 +793,7 @@ course of your assistance as I detail it to you. [3-40-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -760,6 +802,8 @@ course of your assistance as I detail it to you. [3-40-16]
 आश्रमे तस्य रामस्य सीतायाः प्रमुखे चर ।  
 प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +847,15 @@ hermitage of Rama, and on verily alluring Vaidehi you can go away as you like. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां हि मायामयं दृष्ट्वा काञ्चनं जातविस्मया ।  
 आनयैनमिति क्षिप्रं रामं वक्ष्यति मैथिली ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,12 +898,15 @@ indeed she tells Rama, 'bring that one quickly.' [3-40-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपक्रान्ते च काकुत्स्थे दूरं गत्वाप्युदाहर ।  
 हा सीते लक्ष्मणेत्येवं रामवाक्यानुरूपकम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,12 +947,15 @@ this way, 'ha Seetha' and even as, 'ha, Lakshmana,' mimicking Rama's voice. [3-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा रामपदवीं सीतया च प्रचोदितः ।  
 अनुगच्छति सम्भ्रान्तः सौमित्रिरपि सौहृदात् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +998,15 @@ follows the path of Rama in all his fondness for Rama. [3-40-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपक्रान्ते च काकुत्स्थे लक्ष्मणे च यथासुखम् ।  
 आहरिष्यामि वैदेहीं सहस्राक्षः शचीमिव ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1046,15 @@ effortlessly like the Thousand-eyed Indra who once carried off Sachi Devi. [3-40
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कृत्वा त्विदं कार्यं यथेष्टं गच्छ राक्षस ।  
 राज्यस्यार्धं प्रदास्यामि मारीच तव सुव्रत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,12 +1094,15 @@ you oh, Maareecha with solemn vows, I will grant half of my kingdom. [3-40-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छ सौम्य शिवं मार्गं कार्यस्यास्य विवृद्धये ।  
 अहं त्वानुगमिष्यामि सरथो दण्डकावनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,12 +1142,15 @@ the task, and I for myself will follow you to Dandaka forest along with the char
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्य सीतामयुद्धेन वञ्चयित्वा तु राघवम् ।  
 लङ्कां प्रति गमिष्यामि कृतकार्यः सह त्वया ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,6 +1193,7 @@ a conflict, then I will proceed to Lanka along with you. [3-40-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1135,6 +1201,8 @@ a conflict, then I will proceed to Lanka along with you. [3-40-25]
 एतत् कार्यमवश्यं मे बलादपि करिष्यसि ।  
 राज्ञो विप्रतिकूलस्थो न जातु सुखमेधते ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,6 +1251,7 @@ king will never succeed safely. [3-40-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1191,6 +1260,8 @@ king will never succeed safely. [3-40-26]
 एतद् यथावत् परिगण्य बुद‍्ध्या  
 यदत्र पथ्यं कुरु तत्तथा त्वम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,5 +1319,6 @@ Ravana spoke to Maareecha. [3-40-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तनॆय सर्ग सम्पूर्णवायितु. ॥40 ॥
+</details>
 </details>
 

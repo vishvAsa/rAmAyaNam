@@ -2,6 +2,8 @@
 title = "०३२ हनुमन्तं वीक्ष्य सीतायाः भयम्"
 title_english = "032 Seetha is shocked to see Hanuma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -21,6 +23,7 @@ is quite a reality. She prays Lord Brihaspati and Brahma to make he words spoken
 
 32. सीताजीका तर्क-वितर्क
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ is quite a reality. She prays Lord Brihaspati and Brahma to make he words spoken
 सा ददर्श कपिं तत्र प्रश्रितं प्रियवादिनम् ।  
 फुल्लाशोकोत्कराभासं तप्तचामीकरेक्षणम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -92,12 +97,15 @@ a white cloth and hiding behind the branches of a tree, Seetha had her mind shak
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साथ दृष्ट्वा हरिश्रेष्ठं विनीतवदवस्थितम् ।  
 मैथिली चिन्तयामास विस्मयं परमं गता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +150,15 @@ fearful and difficult to be looked at." Thus thinking, she was bewildered again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो भीममिदं सत्त्वं वानरस्य दुरासदम् ।  
 दुर्निरीक्ष्यमिदं मत्वा पुनरेव मुमोह सा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,12 +177,15 @@ _________________
 
 आहा! ई वानरन रूपवु ऎष्टु आश्चर्यवागिदॆ. इदु भयङ्करवू, बळिगॆ होगलू, नोडलू असाध्यवागिदॆ. हीगॆ भाविसि सीतादेवियु पुनः मोहितळादळु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विललाप भृशं सीता करुणं भयमोहिता ।  
 राम रामेति दुःखार्ता लक्ष्मणेति च भामिनी ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,6 +220,7 @@ saying "O, Rama! O, Rama! and "O Lakshmana!". Seetha wept faintly in a low voice
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,6 +228,8 @@ saying "O, Rama! O, Rama! and "O Lakshmana!". Seetha wept faintly in a low voice
 साथ दृष्ट्वा हरिवरं विनीतवदुपागतम् ।  
 मैथिली चिन्तयामास स्वप्नोऽयमिति भामिनी ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,6 +267,7 @@ Seeing that excellent monkey appraching humbly, that splendid woman Seetha thoug
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -258,6 +276,8 @@ Seeing that excellent monkey appraching humbly, that splendid woman Seetha thoug
 ददर्श पिङ्गप्रवरं महार्हं  
 वातात्मजं बुद्धिमतां वरिष्ठम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,6 +319,7 @@ acts as told by sugreeva the king of monkeys, the foremost of monkeys, greatly a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +328,8 @@ acts as told by sugreeva the king of monkeys, the foremost of monkeys, greatly a
 चिरेण सञ्ज्ञां प्रतिलभ्य चैवं  
 विचिन्तयामास विशालनेत्रा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,6 +378,7 @@ Regaining her consciousness after a long time the wide eyed Seetha moreover thou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,6 +387,8 @@ Regaining her consciousness after a long time the wide eyed Seetha moreover thou
 स्वस्त्यस्तु रामाय सलक्ष्मणाय  
 तथा पितुर्मे जनकस्य राज्ञः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +438,7 @@ May it be well with Rama together with Lakshmana and with my father, King Janaka
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -420,6 +447,8 @@ May it be well with Rama together with Lakshmana and with my father, King Janaka
 सुखं हि मे नास्ति यतो विहीना  
 तेनेन्दुपूर्णप्रतिमाननेन ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,6 +499,7 @@ from Rama whose countenance resembles a full moon, there is no happiness indeed!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -478,6 +508,8 @@ from Rama whose countenance resembles a full moon, there is no happiness indeed!
 तस्यानुरूपं च कथां तदर्था-  
 मेवं प्रपश्यामि तथा शृणोमि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,6 +558,7 @@ confomably I am seeing and hearing a story thus corresponding to he same thought
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -534,6 +567,8 @@ confomably I am seeing and hearing a story thus corresponding to he same thought
 विचिन्तयन्ती सततं तमेव  
 तथैव पश्यामि तथा शृणोमि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,6 +618,7 @@ of him alone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -591,6 +627,8 @@ of him alone."
 किं कारणं तस्य हि नास्ति रूपं  
 सुव्यक्तरूपश्च वदत्ययं माम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +680,7 @@ reason?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -650,6 +689,8 @@ reason?"
 अनेन चोक्तं यदिदं ममाग्रतो  
 वनौकसा तच्च तथास्तु नान्यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,5 +751,6 @@ monkey be true! Let them not be untrue!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

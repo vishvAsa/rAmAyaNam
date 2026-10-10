@@ -2,6 +2,8 @@
 title = "०५६ चित्रकूटदर्शनम्"
 title_english = "056 The Chitrakuta Mountain"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ purification ceremony.
 
 56. वनकी शोभा देखते-दिखाते हुए श्रीराम आदिका चित्रकूटमें पहुँचना, वाल्मीकिजीका दर्शन करके श्रीरामकी आज्ञासे लक्ष्मणद्वारा पर्णशालाका निर्माण तथा उसकी वास्तुशान्ति करके उन सबका कुटीमें प्रवेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां व्यातीतायामवसुप्तमनन्तरम् ।  
 प्रबोधयामास शनैर्लक्ष्मणं रघुपुङ्गवः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ night was passing away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रे शृणु वन्यानां वल्गु व्याहरतां स्वनम् ।  
 सम्प्रतिष्ठामहे कालः प्रस्थानस्य परन्तप ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ for our journey. Let us start."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसुप्तस्तु ततो भ्रात्रा समये प्रतिबोधितः ।  
 जहौ निद्रां च तन्द्रां च प्रसक्तं च परिश्रमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ had relinquished sleep, sloth and strain which resulted on the way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत उत्थाय ते सर्वे स्पृष्ट्वा नद्याः शिवं जलम् ।  
 पन्थानमृषिभिर्जुष्टं चित्रकूटस्य तं ययुः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ Bharadwaja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सम्प्रस्थितः काले रामः सौमित्रिणा सह ।  
 सीतां कमलपत्राक्षीमिदं वचनमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,6 +270,7 @@ eyes looked like lotus leaves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,6 +279,8 @@ eyes looked like lotus leaves.
 स्वैः पुष्पैः किंशुकान् पश्य  
 मालिनः शिशिरात्यये ॥ ६ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +320,15 @@ as if they are blazing up, in this winter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य भल्लातकान् बिल्वान् नरैरनुपसेवितान् ।  
 फलपुष्पैरवनतान् नूनं शक्ष्याम जीवितुम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +368,15 @@ with fruits and leaves, all unplucked by men. We can certainly live here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य द्रोणप्रमाणानि लम्बमानानि लक्ष्मण ।  
 मधूनि मधुकारीभिः सम्भृतानि नगे नगे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +410,15 @@ water-trough, gathered by honey-bees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष क्रोशति नत्यूहस्तं शिखी प्रतिकूजति ।  
 रमणीये वनोद्देशे पुष्पसंस्तरसङ्कटे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +458,15 @@ bird is crying and a peacock is responding to it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातङ्गयूथानुसृतं पक्षिसङ्घानुनादितम् ।  
 चित्रकूटमिमं पश्य प्रवृद्धशिखरं गिरिम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,12 +505,15 @@ multitude of elephants and made to resound by a congregation of birds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समभूमितले रम्ये द्रुमैर्बहुभिरावृते ।  
 पुण्ये रंस्यामहे तात चित्रकूटस्य कानने ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -512,12 +547,15 @@ beautifully extensive with many trees and is pure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तौ पादचारेण गच्छन्तौ सह सीतया ।  
 रम्यमासेदतुः शैलं चित्रकूटं मनोरमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +595,15 @@ mountain of Chitrakuta, which was pleasant and lovely.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु पर्वतमासाद्य नानापक्षिगणायुतम् ।  
 बहुमूलफलं रम्यं सम्पन्नसरसोदकम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,12 +643,15 @@ lovely and rich in streaming water, Rama said to Lakshmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोज्ञोऽयं गिरिः सौम्य नानाद्रुमलतायुतः ।  
 बहुमूलफलो रम्यः स्वाजीवः प्रतिभाति मे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +693,15 @@ kinds of roots and fruits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनयश्च महात्मानो वसन्त्यस्मिन् शिलोच्चये ।  
 अयं वासो भवेत् तात वयमत्र वसेमहि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +741,15 @@ become the dwelling. Let us have a pleasant resort here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सीता च रामश्च लक्ष्मणश्च कृताञ्जलिः ।  
 अभिगम्याश्रमं सर्वे वाल्मीकिमभिवादयन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +784,15 @@ hermitage and offered salutation to the sage Valmiki.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् महर्षिः प्रमुदितः पूजयामास धर्मवित् ।  
 आस्यतामिति चोवाच स्वागतं तं निवेद्य च ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +832,7 @@ honour, offered cordial welcome and requested them to sit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -787,6 +841,8 @@ honour, offered cordial welcome and requested them to sit.
 सन्निवेद्य यथान्यायम्  
 आत्मानम् ऋषये प्रभुः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,6 +883,7 @@ ascetic all that concerned them and spoke to Lakshmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -835,6 +892,8 @@ ascetic all that concerned them and spoke to Lakshmana as follows:
 कुरुष्वावसथं सौम्य  
 वासे मेऽभिरतं मनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +933,7 @@ dwelling. My mind is fascinated in dwelling here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -882,6 +942,8 @@ dwelling. My mind is fascinated in dwelling here."
 आजहार ततश्चक्रे  
 पर्णशालाम् अरिन्दमः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,12 +986,15 @@ he the annihilator of enemies, constructed a leaf-hut.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां निष्ठितां बद्धकटां दृष्ट्वा रामः सुदर्शनाम् ।  
 शुश्रूषमाणमेकाग्रमिदं वचनमब्रवीत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1036,15 @@ attentive to him:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐणेयं मांसमाहृत्य शालां यक्ष्यामहे वयम् ।  
 कर्तव्यं वास्तुशमनं सौमित्रे चिरजीविभिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,12 +1090,15 @@ ceremony while entering the house. Which is to be done by those who wish to live
 
 * यहाँ ‘ऐणेयं मांसम्’ का अर्थ है—गजकन्द नामक कन्द विशेषका गूदा । इस प्रसंगमें मांसपरक अर्थ नहीं लेना चाहिये; क्योंकि ऐसा अर्थ लेनेपर ‘हित्वा मुनिवदामिषम्’ (२ । २० । २९), ‘फलानि मूलानि च भक्षयन् वने’ (२ । ३४ । ५९) तथा ‘धर्ममेवाचरिष्यामस्तत्र मूलफलाशनाः’ (२ । ५४ । १६) इत्यादि रूपसे की हुई श्रीरामकी प्रतिज्ञाओंसे विरोध पड़ेगा । इन वचनोंमें निरामिष रहने और फल-मूल खाकर धर्माचरण करनेकी ही बात कही गयी है । ‘रामो द्विर्नाभिभाषते’ (श्रीराम दो तरहकी बात नहीं कहते हैं, एक बार जो कह दिया, वह अटल है) इस कथनके अनुसार श्रीरामकी प्रतिज्ञा टलनेवाली नहीं है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगं हत्वाऽऽनय क्षिप्रं लक्ष्मणेह शुभेक्षण ।  
 कर्तव्यः शास्त्रदृष्टो हि विधिर्धर्ममनुस्मर ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,12 +1145,15 @@ sacred obligation."
 
 * मदनपाल-निघण्टुके अनुसार ‘मृग’ का अर्थ गजकन्द है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुर्वचनमाज्ञाय लक्ष्मणः परवीरहा ।  
 चकार च यथोक्तं हि तं रामः पुनरब्रवीत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1194,15 @@ instructed. Rama spoke again to Lakshmana as follows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐणेयं श्रपयस्वैतच्छालां यक्ष्यामहे वयम् ।  
 त्वर सौम्यमुहूर्तोऽयं ध्रुवश्च दिवसो ह्ययम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,12 +1249,15 @@ day and this instant also are of a distinctive character. Be quick."
 * ‘उत्तरात्रयरोहिण्यो भास्करश्च ध्रुवं स्थिरम् ।’ (मुहूर्तचिन्तामणि)  
 अर्थात तीनों उत्तरा और रोहिणी नक्षत्र तथा रविवार—ये ‘ध्रुव’ एवं ‘स्थिर’ संज्ञक हैं । इसमें गृहशान्ति या वास्तुशान्ति आदि कार्य अच्छे माने गये हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लक्ष्मणः कृष्णमृगं हत्वा मेध्यं प्रतापवान् ।  
 अथ चिक्षेप सौमित्रिः समिद्धे जातवेदसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1217,12 +1297,15 @@ tossed it in an ignited fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् तु पक्वं समाज्ञाय निष्टप्तं छिन्नशोणितम् ।  
 लक्ष्मणः पुरुषव्याघ्रमथ राघवमब्रवीत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1267,12 +1350,15 @@ Lakshmana spoke to Rama the lion among man as follows:
 
 *	‘छिन्नशोणितम्’ की व्युत्पत्ति इस प्रकार है—‘छिन्नं शोणितं रक्तविकाररूपं रोगजातं येन सः तम् ।’ ‘गजकन्द’ रोगविकारका नाशक है’ यह वैद्यकमें प्रसिद्ध है । मदनपाल-निघण्टुके ‘षड्दोषादिकुष्ठहन्ता’ आदि वचनसे भी यह चर्मदोष तथा कुष्ठ आदि रक्तविकारका नाशक सिद्ध होता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सर्वः समस्ताङ्गः शृतः कृष्णमृगो मया ।  
 देवता देवसङ्काश यजस्व कुशलो ह्यसि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1318,12 +1404,15 @@ Rama resembling God! Worship the concerned deity, as you are skilled in that act
 
 * ‘समस्ताङ्गः’ की व्युत्पत्ति यों समझनी चाहिये—‘सम्यग् भवन्ति अस्तानि अङ्गानि येन सः ।’
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः स्नात्वा तु नियतो गुणवाञ्जपकोविदः ।  
 सङ्ग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1454,15 @@ of a purifactory ceremony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्ट्वा देवगणान् सर्वान् विवेशावसथं शुचिः ।  
 बभूव च मनोह्लादो रामस्यामिततेजसः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,12 +1497,15 @@ house. There was a heartful joy in rama, with his limitless splendour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेवबलिं कृत्वा रौद्रं वैष्णवमेव च ।  
 वास्तुसंशमनीयानि मङ्गलानि प्रवर्तयन् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1427,12 +1522,15 @@ house. There was a heartful joy in rama, with his limitless splendour.
 
 अनन्तर बलि-वैश्वदेव कर्म, रुद्रयाग मत्तु वैष्णवयाग माडि श्रीरामनु वास्तुदोषद शान्तिगागि स्वस्तिवाचन माडिदनु.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जपं च न्यायतः कृत्वा स्नात्वा नद्यां यथाविधि ।  
 पापसंशमनं रामश्चकार बलिमुत्तमम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,12 +1576,15 @@ gods especially the god of fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदिस्थलविधानानि चैत्यान्यायतनानि च ।  
 आश्रमस्यानुरूपाणि स्थापयामास राघवः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1519,6 +1620,7 @@ and others)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1527,6 +1629,8 @@ and others)
 वासाय सर्वे विविशुः समेताः  
 सभां यथा देवगणाः सुधर्माम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1545,6 +1649,7 @@ and others)
 
 आ मनोहर कुटीरवु उपयुक्त स्थानदल्लि निर्माणवागित्तु. अदन्नु मरगळ सॊप्पिनिन्द हॊदिसित्तु. प्रचण्ड गाळियिन्द रक्षिसिकॊळ्ळुव व्यवस्थॆ इत्तु. सीता, लक्ष्मण मत्तु श्रीराम ऎल्लरू ऒट्टिगॆ देवतॆगळु सुधर्मा सभॆयन्नु प्रवेशिसुवन्तॆ अदरल्लि वासक्कागि प्रवेशिसिदरु.॥34॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1553,6 +1658,8 @@ and others)
 ननन्द हृष्टो मृगपक्षिजुष्टां  
 जहौ च दुःखं पुरविप्रवासात् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1605,5 +1712,6 @@ entered the auspicious leaf-hut.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तारनॆय सर्ग पूर्णवायितु ॥56॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४५ सीतादुर्वचनात्-लक्ष्मणनिर्गमनम्"
 title_english = "045 Seetha rebukes Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -45,12 +47,15 @@ oddity in the shrewd talk of Seetha. Some more discussion is incorporated in the
 
 45. सीताके मार्मिक वचनोंसे प्रेरित होकर लक्ष्मणका श्रीरामके पास जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तस्वरं तु तं भर्तुर्विज्ञाय सदृशं वने ।  
 उवाच लक्ष्मणं सीता गच्छ जानीहि राघवम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,12 +95,15 @@ On identifying the grievous voice that is identifiable with her husband's voice,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवितं स्थाने हृदयं वावतिष्ठते ।  
 क्रोशतः परमार्तस्य श्रुतः शब्दो मया भृशम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,6 +146,7 @@ in the forest. [3-45-2, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -146,6 +155,8 @@ in the forest. [3-45-2, 3a]
 रक्षसां वशमापन्नं सिंहानामिव गोवृषम् ।  
 न जगाम तथोक्तस्तु भ्रातुराज्ञाय शासनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,6 +222,7 @@ toi Lakshmana. [3-45-3b, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -219,6 +231,8 @@ toi Lakshmana. [3-45-3b, 4a]
 यस्त्वमस्यामवस्थायां भ्रातरं नाभिपद्यसे ।  
 इच्छसि त्वं विनश्यन्तं रामं लक्ष्मण मत्कृते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +301,15 @@ a brother even if he is in an emergency. [3-45-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोभात्तु मत्कृते नूनं नानुगच्छसि राघवम् ।  
 व्यसनं ते प्रियं मन्ये स्नेहो भ्रातरि नास्ति ते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,6 +352,7 @@ brother, and as you complacently stay behind even when that great-resplendent Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -342,6 +360,8 @@ brother, and as you complacently stay behind even when that great-resplendent Ra
 किं हि संशयमापन्ने तस्मिन्निह मया भवेत् ॥ ८ ॥  
 कर्तव्यमिह तिष्ठन्त्या यत्प्रधानस्त्वमागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +404,15 @@ so to Lakshmana. [3-45-8, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणां वैदेहीं बाष्पशोकसमन्विताम् ॥ ९ ॥  
 अब्रवील्लक्ष्मणस्त्रस्तां सीतां मृगवधूमिव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,12 +453,15 @@ anguish in that way, as she is fretful like a she-deer. [3-45-9a, 10b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पन्नगासुरगन्धर्वदेवदानवराक्षसैः ॥ १० ॥  
 अशक्यस्तव वैदेहि भर्ता जेतुं न संशयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,6 +504,7 @@ fiends, demons, no doubt about it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -487,6 +514,8 @@ fiends, demons, no doubt about it.
 यो रामं प्रतियुध्येत समरे वासवोपमम् ।  
 अवध्यः समरे रामो नैवं त्वं वक्तुमर्हसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +584,7 @@ with Indra in any given war. [3-45-11b, 12, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,6 +593,8 @@ with Indra in any given war. [3-45-11b, 12, 13a]
 त्रिभिर्लोकैः समुदितैः सेश्वरैः सामरैरपि ।  
 हृदयं निर्वृतं तेऽस्तु सन्तापस्त्यज्यतां तव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +657,7 @@ Rama's prowess is irrestrainable. [3-45, 14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -632,6 +665,8 @@ Rama's prowess is irrestrainable. [3-45, 14b, 15a]
 न स तस्य स्वरो व्यक्तं न कश्चिदपि दैवतः ॥ १६ ॥  
 गन्धर्वनगरप्रख्या माया तस्य च रक्षसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,12 +714,15 @@ nagaram proktam indrajaalam maniiShibhiH* 'magic show of showing celestial citie
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यासभूतासि वैदेहि न्यस्ता मयि महात्मना ॥ १७ ॥  
 रामेण त्वं वरारोहे न त्वां त्यक्तुमिहोत्सहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +763,15 @@ security, as such I do not dare to leave you off now. [3-45-17, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतवैराश्च कल्याणि वयमेतैर्निशाचरैः ॥ १८ ॥  
 खरस्य निधने देवि जनस्थानवधं प्रति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +811,15 @@ of Khara and others, and concerning the eradication of Janasthaana. [3-45-18b, 1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसा विविधा वाचो व्याहरन्ति महावने ॥ १९ ॥  
 हिंसाविहारा वैदेहि न चिन्तयितुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -814,12 +858,15 @@ Therefore Vaidehi, just do not bother about it." Thus Lakshmana advised Seetha. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणेनैवमुक्ता तु क्रुद्धा संरक्तलोचना ॥ २० ॥  
 अब्रवीत् परुषं वाक्यं लक्ष्मणं सत्यवादिनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,6 +910,7 @@ bloodshot she spoke these rude sentences to that veracious Lakshmana. [3-45-20b,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -870,6 +918,8 @@ bloodshot she spoke these rude sentences to that veracious Lakshmana. [3-45-20b,
 अहं तव प्रियं मन्ये रामस्य व्यसनं महत् ।  
 रामस्य व्यसनं दृष्ट्वा तेनैतानि प्रभाषसे ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +961,15 @@ of an untoward deed.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव चित्रं सपत्नेषु पापं लक्ष्मण यद् भवेत् ।  
 त्वद्विधेषु नृशंसेषु नित्यं प्रच्छन्नचारिषु ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -955,12 +1008,15 @@ deadly sins, Lakshmana, and it is not uncommon. [3-45-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुदुष्टस्त्वं वने राममेकमेकोऽनुगच्छसि ।  
 मम हेतोः प्रतिच्छन्नः प्रयुक्तो भरतेन वा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,6 +1067,7 @@ sent 'you' alone.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1018,6 +1075,8 @@ sent 'you' alone.'
 कथमिन्दीवरश्यामं रामं पद्मनिभेक्षणम् ॥ २५ ॥  
 उपसंश्रित्य भर्तारं कामयेयं पृथग्जनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1127,15 @@ mine, To love of other men decline? - Griffith.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समक्षं तव सौमित्रे प्राणांस्त्यक्ष्याम्यसंशयम् ॥ २६ ॥  
 रामं विना क्षणमपि नैव जीवामि भूतले ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1118,6 +1180,7 @@ do not eke out an existence on this earth even for a moment without Rama." Thus 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1125,6 +1188,8 @@ do not eke out an existence on this earth even for a moment without Rama." Thus 
 अब्रवील्लक्ष्मणः सीतां प्राञ्जलिः स जितेन्द्रियः ।  
 उत्तरं नोत्सहे वक्तुं दैवतं भवती मम ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1159,12 +1224,15 @@ he spoke to her suppliantly adjoining his palm-fold. [3-45-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्यमप्रतिरूपं तु न चित्रं स्त्रीषु मैथिलि ।  
 स्वभावस्त्वेष नारीणामेषु लोकेषु दृश्यते ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,6 +1269,7 @@ nature of women and it is obvious in the world. [3-45-28b, 29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1208,6 +1277,8 @@ nature of women and it is obvious in the world. [3-45-28b, 29]
 न सहे हीदृशं वाक्यं वैदेहि जनकात्मजे ॥ ३० ॥  
 श्रोत्रयोरुभयोर्मध्ये तप्तनाराचसन्निभम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1267,6 +1338,7 @@ yet he is tolerating.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1276,6 +1348,8 @@ yet he is tolerating.
 स्त्रीत्वाद् दुष्टस्वभावेन गुरुवाक्ये व्यवस्थितम् ।  
 गच्छामि यत्र काकुत्स्थः स्वस्ति तेऽस्तु वरानने ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,6 +1444,7 @@ I am reasoning with you conscientiously, and let them become my corroborators fo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1377,6 +1452,8 @@ I am reasoning with you conscientiously, and let them become my corroborators fo
 निमित्तानि हि घोराणि यानि प्रादुर्भवन्ति मे ।  
 अपि त्वां सह रामेण पश्येयं पुनरागतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1430,12 +1507,15 @@ Rama that cannot be ridiculed, especially his mother-like elder sister-in-law.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणेनैवमुक्ता तु रुदती जनकात्मजा ।  
 प्रत्युवाच ततो वाक्यं तीव्रबाष्पपरिप्लुता ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,6 +1558,7 @@ him, while tears whelmed her to a fault. [3-45-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1486,6 +1567,8 @@ him, while tears whelmed her to a fault. [3-45-35]
 पिबामि वा विषं तीक्ष्णं प्रवेक्ष्यामि हुताशनम् ।  
 न त्वहं राघवादन्यं कदापि पुरुषं स्पृशे ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1573,12 +1656,15 @@ mine from heights..." Thus Seetha started to vent out her feelings. [3-45-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति लक्ष्मणमाश्रुत्य सीता शोकसमन्विता ।  
 पाणिभ्यां रुदती दुःखादुदरं प्रजघान ह ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1618,6 +1704,7 @@ to smite her belly with both of her palms in a heightened agony. [3-45-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1626,6 +1713,8 @@ to smite her belly with both of her palms in a heightened agony. [3-45-38]
 आश्वासयामास न चैव भर्तु-  
 स्तं भ्रातरं किञ्चिदुवाच सीता ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1672,6 +1761,7 @@ brother of her husband, and maintained a silence of antipathy. [3-45-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1680,6 +1770,8 @@ brother of her husband, and maintained a silence of antipathy. [3-45-39]
 अवेक्षमाणो बहुशः स मैथिलीं  
 जगाम रामस्य समीपमात्मवान् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1748,5 +1840,6 @@ he is now sent by her compulsively and compulsorily.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥45॥
+</details>
 </details>
 

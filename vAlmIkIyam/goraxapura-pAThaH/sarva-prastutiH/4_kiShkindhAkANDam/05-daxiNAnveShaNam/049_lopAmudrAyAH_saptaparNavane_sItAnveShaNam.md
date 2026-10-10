@@ -2,6 +2,8 @@
 title = "०४९ लोपामुद्रायाः सप्तपर्णवने सीतान्वेषणम्"
 title_english = "049 Angada encourages all of the monkeys"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ and again start searching Vindhya ranges, from the beginning.
 
 49. अङ्गद और गन्धमादनके आश्वासन देनेपर वानरोंका पुनःउत्साहपूर्वक अन्वेषण-कार्यमें प्रवृत्त होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाङ्गदस्तदा सर्वान् वानरानिदमब्रवीत् ।  
 परिश्रान्तो महाप्राज्ञः समाश्वास्य शनैर्वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ Angada slowly spoke this word to them. [4-49-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ Angada slowly spoke this word to them. [4-49-1]
 तत्र तत्र सहास्माभिर्जानकी न च दृश्यते ।  
 तथा रक्षोऽपहर्ता च सीतायाश्चैव दुष्कृती ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +133,15 @@ not seen Janaki, so also that ill-natured demon, the abductor of Seetha, is not 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालश्च नो महान् यातः सुग्रीवश्चोग्रशासनः ।  
 तस्माद् भवन्तः सहिता विचिन्वन्तु समन्ततः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ severe disciplinarian, therefore let the search continued everywhere collectivel
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विहाय तन्द्रीं शोकं च निद्रां चैव समुत्थिताम् ।  
 विचिनुध्वं तथा सीतां पश्यामो जनकात्मजाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +231,15 @@ best we can find the daughter of Janaka, Seetha. [4-49-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनिर्वेदं च दाक्ष्यं च मनसश्चापराजयम् ।  
 कार्यसिद्धिकराण्याहुस्तस्मादेतद् ब्रवीम्यहम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +291,15 @@ dk*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यापीदं वनं दुर्गं विचिन्वन्तु वनौकसः ।  
 खेदं त्यक्त्वा पुनः सर्वं वनमेव विचिन्वताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +342,15 @@ your rue and let all of this forest be searched in its entirety. [4-49-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं कुर्वतां तस्य दृश्यते कर्मणः फलम् ।  
 परं निर्वेदमागम्य नहि नोन्मीलनं क्षमम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,12 +392,15 @@ earnestly, on the other hand, it will be unforgivable to shut our eyes deriving 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवः क्रोधनो राजा तीक्ष्णदण्डश्च वानराः ।  
 भेतव्यं तस्य सततं रामस्य च महात्मनः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,12 +441,15 @@ shall always be frightened of him, and of self-reliant Rama as well. [4-49-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हितार्थमेतदुक्तं वः क्रियतां यदि रोचते ।  
 उच्यतां हि क्षमं यत् तत् सर्वेषामेव वानराः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,12 +495,15 @@ conducive for all of us, oh, vanara-s, it may be said." Thus Angada spoke to the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्य वचः श्रुत्वा वचनं गन्धमादनः ।  
 उवाच व्यक्तया वाचा पिपासाश्रमखिन्नया ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ spoke this sentence with inexplicit words. [4-49-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशं खलु वो वाक्यमङ्गदो यदुवाच ह ।  
 हितं चैवानुकूलं च क्रियतामस्य भाषितम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +585,15 @@ pragmatic also. Let us carry out as said by him. [4-49-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनर्मार्गामहे शैलान् कन्दरांश्च शिलांस्तथा ।  
 काननानि च शून्यानि गिरिप्रस्रवणानि च ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,12 +633,15 @@ forests and mountain rapids, too. [4-49-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोद्दिष्टानि सर्वाणि सुग्रीवेण महात्मना ।  
 विचिन्वन्तु वनं सर्वे गिरिदुर्गाणि सङ्गताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,12 +682,15 @@ as indicated by that self-assertive Sugreeva." Thus Gandhamaadana spoke to all m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुत्थाय पुनर्वानरास्ते महाबलाः ।  
 विन्ध्यकाननसङ्कीर्णां विचेरुर्दक्षिणां दिशम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +730,15 @@ compass that is overspread with Vindhya forests. [4-49-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते शारदाभ्रप्रतिमं श्रीमद्रजतपर्वतम् ।  
 शृङ्गवन्तं दरीवन्तमधिरुह्य च वानराः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +755,15 @@ compass that is overspread with Vindhya forests. [4-49-15]
 
 ऎदुरिगॆ शरद् ऋतुविन मोडगळन्तह शोभाशाली रजत पर्वत कण्डुबन्तु. अदरल्लि अनेक शिखरगळु मत्तु कन्दकगळिद्दवु. आ वानररॆल्लरू अदन्नु हत्ति हुडुकलु तॊडगिदरु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र लोध्रवनं रम्यं सप्तपर्णवनानि च ।  
 विचिन्वन्तो हरिवराः सीतादर्शनकाङ्क्षिणः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,12 +806,15 @@ of Lodhra trees, and even in the groves of seven-leaved banana plants. [4-49-16,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याग्रमधिरूढास्ते श्रान्ता विपुलविक्रमाः ।  
 न पश्यन्ति स्म वैदेहीं रामस्य महिषीं प्रियाम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,12 +855,15 @@ Seetha, the dear queen of Rama, and though they are immensely venturesome they a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु दृष्टिगतं दृष्ट्वा तं शैलं बहुकन्दरम् ।  
 अध्यारोहन्त हरयो वीक्षमाणाः समन्ततः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -844,12 +900,15 @@ monkeys descended yet keeping an eye on all over that mountain. [4-49-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवरुह्य ततो भूमिं श्रान्ता विगतचेतसः ।  
 स्थिता मुहूर्तं तत्राथ वृक्षमूलमुपाश्रिताः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -892,12 +951,15 @@ and staying there for moment they took shelter at the base of a tree. [4-49-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते मुहूर्तं समाश्वस्ताः किञ्चिद्भग्नपरिश्रमाः ।  
 पुनरेवोद्यताः कृत्स्नां मार्गितुं दक्षिणां दिशम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -937,12 +999,15 @@ again they ventured to search the southern direction in its entirety. [4-49-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनुमत्प्रमुखास्तावत् प्रस्थिताः प्लवगर्षभाः ।  
 विन्ध्यमेवादितः कृत्वा विचेरुश्च समन्ततः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,5 +1059,6 @@ for Seetha. [4-49-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥49॥
+</details>
 </details>
 

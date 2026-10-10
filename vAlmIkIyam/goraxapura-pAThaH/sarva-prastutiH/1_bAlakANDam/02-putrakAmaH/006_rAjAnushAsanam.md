@@ -2,6 +2,8 @@
 title = "००६ राजानुशासनम्"
 title_english = "006 Splendour of ayodhya city described"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala
@@ -28,18 +30,29 @@ The riches and happiness enjoyed by the people, under the rein of Emperor Dashar
 
 अतस् तत्-पितुर् दशरथस्य प्रभावः षष्ठे सर्गे वक्ष्यते -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यां पुर्यामयोध्यायां वेदवित् सर्वसङ्ग्रहः ।  
-दीर्घदर्शी महातेजाः पौरजानपदप्रियः ॥ १ ॥  
-इक्ष्वाकूणामतिरथो यज्वा धर्मपरो वशी ।  
-महर्षिकल्पो राजर्षिस्त्रिषु लोकेषु विश्रुतः ॥ २ ॥  
-बलवान् निहतामित्रो मित्रवान् विजितेन्द्रियः ।  
-धनैश्च सञ्चयैश्चान्यैः शक्रवैश्रवणोपमः ॥ ३ ॥  
-यथा मनुर्महातेजा लोकस्य परिरक्षिता ।  
-तथा दशरथो राजा लोकस्य परिरक्षिता ॥ ४ ॥
+तस्यां पुर्यामयोध्यायां  
+वेदवित् सर्वसङ्ग्रहः ।  
+दीर्घदर्शी महातेजाः  
+पौरजानपदप्रियः ॥ १ ॥  
+इक्ष्वाकूणामतिरथो  
+यज्वा धर्मपरो वशी ।  
+महर्षिकल्पो राजर्षिस्  
+त्रिषु लोकेषु विश्रुतः ॥ २ ॥  
+बलवान् निहतामित्रो  
+मित्रवान् विजितेन्द्रियः ।  
+धनैश्च सञ्चयैश्चान्यैः  
+शक्रवैश्रवणोपमः ॥ ३ ॥  
+यथा मनुर्महातेजा  
+लोकस्य परिरक्षिता ।  
+तथा दशरथो राजा  
+लोकस्य परिरक्षिता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,12 +139,15 @@ He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and
 
 * जो दस हजार महारथियोंके साथ अकेला ही युद्ध करनेमें समर्थ हो, वह ‘अतिरथी’ कहलाता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन सत्याभिसन्धेन त्रिवर्गमनुतिष्ठता ।  
 पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +186,15 @@ He that truth-abiding king, who adheres to the three-fold virtues rules the vast
 
 एतादृशे धार्मिके राज्ञि राज्यं प्रशासति सति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः ।  
 नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +230,15 @@ In that best city Ayodhya all are exuberant yet virtuous ones, and scholars are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाल्पसन्निचयः कश्चिदासीत् तस्मिन् पुरोत्तमे ।  
 कुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,12 +279,15 @@ An ordinary family *kuTumba* is an assemblage of the householder, his wife,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित् ।  
 द्रष्टुं शक्यमयोध्यायां नाविद्वान् न च नास्तिकः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +322,15 @@ None can see a lustful person, or a miser or a cruel one anywhere in that Ayodhy
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः ।  
 मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +372,15 @@ All the ladies and gentlemen in that city are virtuous in mind, self-controlled
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान् ।  
 नामृष्टो न नलिप्ताङ्गो नासुगन्धश्च विद्यते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +431,15 @@ Earrings are the indicators of scholarship, and there are grades in their make
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक् ।  
 नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +475,15 @@ There is none who is famsihed, an uncharitable one in his nature, one with an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाहिताग्निर्नायज्वा न क्षुद्रो वा न तस्करः ।  
 कश्चिदासीदयोध्यायां न चावृत्तो न सङ्करः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +522,15 @@ There is none someone who is without sacrificial fires, and none without perform
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः ।  
 दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,12 +587,15 @@ The donations received by Vedic scholars are not alms to beggars or charities
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्तिको नानृती वापि न कश्चिदबहुश्रुतः ।  
 नासूयको न चाशक्तो नाविद्वान् विद्यते क्वचित् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +642,15 @@ There is no atheist, no liar, and none is less learnt in Veda-s, and no one is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाषडङ्गविदत्रास्ति नाव्रतो नासहस्रदः ।  
 न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -654,12 +700,15 @@ None can be found anywhere in Ayodhya without the knowledge of the six ancillari
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्चिन्नरो वा नारी वा नाश्रीमान् नाप्यरूपवान् ।  
 द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +744,15 @@ Whoever it may be, either a gentleman or a lady, none is without wealth, even
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः ।  
 कृतज्ञाश्च वदान्याश्च शूरा विक्रमसंयुताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,12 +793,15 @@ Though the word 'caste - Spanish and Portuguese *casta *- lineage, race, breed' 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घायुषो नराः सर्वे धर्मं सत्यं च संश्रिताः ।  
 सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -782,12 +837,15 @@ Longevity is there for all of the people, all are with virtuosity and truthfulne
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रं ब्रह्ममुखं चासीद् वैश्याः क्षत्रमनुव्रताः ।  
 शूद्राः स्वकर्मनिरतास्त्रीन् वर्णानुपचारिणः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,12 +895,15 @@ The warrior class Kshatriya-s is turned towards the Brahmans, the scholarly clas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता ।  
 यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,12 +938,15 @@ That city is well protected by that king from Ikshwaku dynasty namely Dasharatha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योधानामग्निकल्पानां पेशलानाममर्षिणाम् ।  
 सम्पूर्णा कृतविद्यानां गुहा केसरिणामिव ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,12 +988,15 @@ That city Ayodhya is replete with firebrand like skillful warriors that are into
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काम्बोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः ।  
 वनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमैः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,12 +1096,15 @@ Sometime back, say during 1985-87, the
 
 इति । एतादृशस्य धर्म-प्रधानस्य दशरथस्य धर्म-प्रधानाः प्रधान-पुरोहिताः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि ।  
 मदान्वितैरतिबलैर्मातङ्गैः पर्वतोपमैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1139,15 @@ Born in Vindhya Mountains, and also from Himalayan regions, mighty are the eleph
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐरावतकुलीनैश्च महापद्मकुलैस्तथा ।  
 अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,6 +1197,7 @@ It is said that eight elephants from eight corners called *aSTadiggaja*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1133,6 +1207,8 @@ It is said that eight elephants from eight corners called *aSTadiggaja*
 सा योजने द्वे च भूयः सत्यनामा प्रकाशते ।  
 यस्यां दशरथो राजा वसञ्जगदपालयत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1207,12 +1283,15 @@ The *bhadra* is the elephant class for King's ride, called *bhadragaja*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां पुरीं स महातेजा राजा दशरथो महान् ।  
 शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1247,6 +1326,7 @@ In which city the great resplendent and admirable king Dasharatha resided, he
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1255,6 +1335,8 @@ In which city the great resplendent and admirable king Dasharatha resided, he
 पुरीमयोध्यां नृसहस्रसङ्कुलां  
 शशास वै शक्रसमो महीपतिः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,5 +1387,6 @@ With gorgeous arches, castle-door-bars and with amazingly built houses that city
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु. ॥6॥
+</details>
 </details>
 

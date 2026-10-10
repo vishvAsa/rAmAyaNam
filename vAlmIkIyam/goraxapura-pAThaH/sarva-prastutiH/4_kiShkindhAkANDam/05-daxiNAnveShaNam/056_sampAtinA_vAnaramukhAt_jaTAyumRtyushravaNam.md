@@ -2,6 +2,8 @@
 title = "०५६ सम्पातिना वानरमुखात् जटायुमृत्युश्रवणम्"
 title_english = "056 Sampaati hears of Jataayu s death"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,6 +26,7 @@ listen more of his brother Jataayu.
 
 56. सम्पातिसे वानरोंको भय, उनके मुखसे जटायुके वधकी बात सुनकर सम्पातिका दुःखी होना और अपनेको नीचे उतारनेके लिये वानरोंसे अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ listen more of his brother Jataayu.
 सम्पातिर्नाम नाम्ना तु चिरजीवी विहङ्गमः ।  
 भ्राता जटायुषः श्रीमान् विख्यातबलपौरुषः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -85,12 +90,15 @@ his forcefulness and aggressiveness, and a celebrated and sempiternal sky-flying
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कन्दरादभिनिष्क्रम्य स विन्ध्यस्य महागिरेः ।  
 उपविष्टान् हरीन् दृष्ट्वा हृष्टात्मा गिरमब्रवीत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,6 +138,7 @@ heart to see the monkeys sitting down there, and he spoke these words. [4-56-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -138,6 +147,8 @@ heart to see the monkeys sitting down there, and he spoke these words. [4-56-3]
 परम्पराणां भक्षिष्ये वानराणां मृतं मृतम् ।  
 उवाचैतद् वचः पक्षी तान् निरीक्ष्य प्लवङ्गमान् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +226,15 @@ why because, this fated and long-waited food has now come nigh of me... [4-56-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा भक्ष्यलुब्धस्य पक्षिणः ।  
 अङ्गदः परमायस्तो हनूमन्तमथाब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +277,15 @@ then spoke to Hanuma. [4-56-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य सीतापदेशेन साक्षाद् वैवस्वतो यमः ।  
 इमं देशमनुप्राप्तो वानराणां विपत्तये ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +332,15 @@ Death, rather than Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य न कृतं कार्यं न कृतं राजशासनम् ।  
 हरीणामियमज्ञाता विपत्तिः सहसाऽऽगता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,12 +380,15 @@ catastrophe has abruptly bechanced for the monkeys... [4-56-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेह्याः प्रियकामेन कृतं कर्म जटायुषा ।  
 गृध्रराजेन यत् तत्र श्रुतं वस्तदशेषतः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,12 +429,15 @@ do good to Vaidehi... [4-56-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सर्वाणि भूतानि तिर्यग्योनिगतान्यपि ।  
 प्रियं कुर्वन्ति रामस्य त्यक्त्वा प्राणान् यथा वयम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +477,15 @@ agreeable to Rama even on forgoing their own lives, as with us... [4-56-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यमुपकुर्वन्ति स्नेहकारुण्ययन्त्रिताः ।  
 ततस्तस्योपकारार्थं त्यजतात्मानमात्मना ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,6 +526,7 @@ camaraderie, therefore, let each of us leave off our souls, soulfully... [4-56-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -504,6 +534,8 @@ camaraderie, therefore, let each of us leave off our souls, soulfully... [4-56-1
 राघवार्थे परिश्रान्ता वयं सन्त्यक्तजीविताः ॥ १२ ॥  
 कान्ताराणि प्रपन्नाः स्म न च पश्याम मैथिलीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +580,15 @@ Maithili... [4-56-12, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुखी गृध्रराजस्तु रावणेन हतो रणे ।  
 मुक्तश्च सुग्रीवभयाद् गतश्च परमां गतिम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -600,12 +635,15 @@ Ravana, Jataayu is absolved of sin and fear of Sugreeva, as well. Maheshvara Tii
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुषो विनाशेन राज्ञो दशरथस्य च ।  
 हरणेन च वैदेह्याः संशयं हरयो गताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,6 +686,7 @@ predicament for us... the monkeys...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -656,6 +695,8 @@ predicament for us... the monkeys...'
 रामकोपादशेषाणां रक्षसां च तथा वधम् ।  
 कैकेय्या वरदानेन इदं च विकृतं कृतम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,6 +750,7 @@ lamenting. [4-56-15,16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -717,6 +759,8 @@ lamenting. [4-56-15,16]
 भृशचकितमतिर्महामतिः  
 कृपणमुदाहृतवान् स गृध्रराजः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,12 +818,15 @@ next verses in the next chapter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् तु श्रुत्वा तथा वाक्यमङ्गदस्य मुखोद‍्गतम् ।  
 अब्रवीद् वचनं गृध्रस्तीक्ष्णतुण्डो महास्वनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +869,15 @@ hearing words voiced by Angada. [4-56-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽयं गिरा घोषयति प्राणैः प्रियतरस्य मे ।  
 जटायुषो वधं भ्रातुः कम्पयन्निव मे मनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +917,15 @@ brother of mine than my own lives, is slain? [4-56-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथमासीज्जनस्थाने युद्धं राक्षसगृध्रयोः ।  
 नामधेयमिदं भ्रातुश्चिरस्याद्य मया श्रुतम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,6 +968,7 @@ hearing this name of my brother after a long time... [4-56-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -923,6 +977,8 @@ hearing this name of my brother after a long time... [4-56-20]
 अतिदीर्घस्य कालस्य परितुष्टोऽस्मि कीर्तनात् ।  
 तदिच्छेयमहं श्रोतुं विनाशं वानरर्षभाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,6 +1047,7 @@ too spoke of him praisefully... [4-56-21, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -998,6 +1055,8 @@ too spoke of him praisefully... [4-56-21, 22a]
 तस्यैव च मम भ्रातुः सखा दशरथः कथम् ॥ २३ ॥  
 यस्य रामः प्रियः पुत्रो ज्येष्ठो गुरुजनप्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1098,15 @@ is the friend of my brother Jatayu/ But how did Dasharatha pass away? [4-56-23b,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्यांशुदग्धपक्षत्वान्न शक्नोमि विसर्पितुम् ।  
 इच्छेयं पर्वतादस्मादवतर्तुमरिन्दमाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,5 +1161,6 @@ help of monkeys. [4-56-24b, c]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥56॥
+</details>
 </details>
 

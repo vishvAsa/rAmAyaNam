@@ -2,6 +2,8 @@
 title = "०३८ रामगुणवर्णनम्"
 title_english = "038 Maareecha s good word to Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,12 +25,15 @@ safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 
 38. श्रीरामकी शक्तिके विषयमें अपना अनुभव बताकर मारीचका रावणको उनका अपराध करनेसे मना करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदाचिदप्यहं वीर्यात् पर्यटन् पृथिवीमिमाम् ।  
 बलं नागसहस्रस्य धारयन् पर्वतोपमः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -45,6 +50,7 @@ safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 
 हिन्दॊम्मॆ नानु नन्न पराक्रमक्कॆ अधीननागि पर्वतदन्तह शरीरवन्नु धरिसिकॊण्डु ई पथ्विय प्रदक्षिणॆ माडुत्तिदॆ. आग नन्नल्लि ऒन्दु साविर आनॆगळ बलवित्तु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,6 +58,8 @@ safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 भयं लोकस्य जनयन् किरीटी परिघायुधः ॥ २ ॥  
 व्यचरन् दण्डकारण्यमृषिमांसानि भक्षयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,12 +106,15 @@ sages." Thus Maareecha started to narrate his experience with Rama. [3-38-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रोऽथ धर्मात्मा मद्वित्रस्तो महामुनिः ॥ ३ ॥  
 स्वयं गत्वा दशरथं नरेन्द्रमिदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,12 +154,15 @@ going to Dasharatha in person that great-saint spoke this to that lord of people
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं रक्षतु मां रामः पर्वकाले समाहितः ॥ ४ ॥  
 मारीचान्मे भयं घोरं समुत्पन्नं नरेश्वर ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -189,12 +203,15 @@ Dasharatha, let Rama safeguard me becoming alert at the opportune time of the Ve
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्तो धर्मात्मा राजा दशरथस्तदा ॥ ५ ॥  
 प्रत्युवाच महाभागं विश्वामित्रं महामुनिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,6 +251,7 @@ great-fortunate and great-saint Vishvamitra in this way. [3-38-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -242,6 +260,8 @@ great-fortunate and great-saint Vishvamitra in this way. [3-38-5b, 6a]
 बलेन चतुरङ्गेण स्वयमेत्य निशाचरम् ॥ ७ ॥  
 वधिष्यामि मुनिश्रेष्ठ शत्रुं तव यथेप्सितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +347,15 @@ Maheshvara Tiirtha says that Maareecha lessened the age of Rama only to intimida
 
 * यद्यपि बालकाण्डके २०वें सर्गके दूसरे श्लोकमें राजा दशरथने श्रीरामकी अवस्था सोलह वर्षसे कम (पंद्रह वर्षकी) बतायी थी, तथापि यहाँ मारीचने रावणके मनमें भय उत्पन्न करनेके लिये चार वर्ष कम अवस्था बतायी है । जो छोटी अवस्थामें इतने महान् पराक्रमी थे, वे अब बड़े होनेपर न जाने कैसे होंगे? यह लक्ष्य कराना ही यहाँ मारीचको अभीष्ट है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स तु मुनी राजानमिदमब्रवीत् ॥ ८ ॥  
 रामान्नान्यद् बलं लोके पर्याप्तं तस्य रक्षसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +396,15 @@ in the world than Rama can counterbalance that demon. [3-38-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानामपि भवान् समरेष्वभिपालकः ॥ ९ ॥  
 आसीत् तव कृतं कर्म त्रिलोकविदितं नृप ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,6 +444,7 @@ undertaken on behalf of gods are well-known in the triad of worlds. [3-38-9b, 10
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -425,6 +452,8 @@ undertaken on behalf of gods are well-known in the triad of worlds. [3-38-9b, 10
 बालोऽप्येष महातेजाः समर्थस्तस्य निग्रहे ।  
 गमिष्ये राममादाय स्वस्ति तेऽस्तु परन्तप ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -471,12 +500,15 @@ with me.' [3-38-10b, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा स मुनिस्तमादाय नृपात्मजम् ।  
 जगाम परमप्रीतो विश्वामित्रः स्वमाश्रमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +526,15 @@ with me.' [3-38-10b, 11]
 
 ‘ऐसा कहकर (लक्ष्मणसहित) राजकुमार श्रीरामको साथ ले महामुनि विश्वामित्र बड़ी प्रसन्नताके साथ अपने आश्रमको गये ॥ १२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तथा दण्डकारण्ये यज्ञमुद्दिश्य दीक्षितम् ।  
 बभूवोपस्थितो रामश्चित्रं विस्फारयन् धनुः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +599,15 @@ highly gladdening to take the prince Rama along with him. [3-38-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजातव्यञ्जनः श्रीमान् बालः श्यामः शुभेक्षणः ।  
 एकवस्त्रधरो धन्वी शिखी कनकमालया ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +624,15 @@ highly gladdening to take the prince Rama along with him. [3-38-12]
 
 आग श्रीरामनु इन्नू तरुणनागिरलिल्ल. अवनु ओर्व शोभाशाली बालकनन्तॆ कण्डुबरुत्तिद्दनु. श्यामलाङ्गनाद अवन कण्णुगळु विशालवागि सुन्दरवागिद्दवु. अवनु ऒन्दु वस्त्र धरिसिद्दु, कैयल्लि धनुस्सन्नु हिडिदुकॊण्डु, सुन्दर शिखॆ मत्तु चिन्नद हारदिन्द सुशोभितनागिद्दनु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोभयन् दण्डकारण्यं दीप्तेन स्वेन तेजसा ।  
 अदृश्यत तदा रामो बालचन्द्र इवोदितः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,12 +699,15 @@ darkish, blackish sky, called the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं मेघसङ्काशस्तप्तकाञ्चनकुण्डलः ।  
 बली दत्तवरो दर्पादाजगामाश्रमान्तरम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +757,15 @@ burnt to ashes in Sundara Kanda.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन दृष्टः प्रविष्टोऽहं सहसैवोद्यतायुधः ।  
 मां तु दृष्ट्वा धनुः सज्यमसम्भ्रान्तश्चकार ह ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,12 +806,15 @@ he unexcitedly strung bowstring to his bow. [3-38-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवजानन्नहं मोहाद् बालोऽयमिति राघवम् ।  
 विश्वामित्रस्य तां वेदिमभ्यधावं कृतत्वरः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +854,15 @@ towards that Fire-altar of Vishvamitra. [3-38-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मुक्तस्ततो बाणः शितः शत्रुनिबर्हणः ।  
 तेनाहं ताडितः क्षिप्तः समुद्रे शतयोजने ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,6 +902,7 @@ plunged into the ocean which was a hundred yojana-s off. [3-38-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -857,6 +911,8 @@ plunged into the ocean which was a hundred yojana-s off. [3-38-19]
 पातितोऽहं तदा तेन गम्भीरे सागराम्भसि ।  
 प्राप्य सञ्ज्ञां चिरात् तात लङ्कां प्रति गतः पुरीम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -924,12 +980,15 @@ legs. [3-38-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्मि तदा मुक्तः सहायास्ते निपातिताः ।  
 अकृतास्त्रेण रामेण बालेनाक्लिष्टकर्मणा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,12 +1029,15 @@ that were my helpmates in that escapade. [3-38-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मया वार्यमाणस्तु यदि रामेण विग्रहम् ।  
 करिष्यस्यापदां घोरां क्षिप्रं प्राप्य न शिष्यसि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1080,15 @@ proscribing you, you will ruin yourself on getting a disastrous calamity. [3-38-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रीडारतिविधिज्ञानां समाजोत्सवदर्शिनाम् ।  
 रक्षसां चैव सन्तापमनर्थं चाहरिष्यसि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1131,15 @@ are also socialising and frolicking, and to them you derive distress and disaste
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्म्यप्रासादसम्बाधां नानारत्नविभूषिताम् ।  
 द्रक्ष्यसि त्वं पुरीं लङ्कां विनष्टां मैथिलीकृते ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,12 +1180,15 @@ Lanka, but you will see it completely shattered down, for the sake of that Maith
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकुर्वन्तोऽपि पापानि शुचयः पापसंश्रयात् ।  
 परपापैर्विनश्यन्ति मत्स्या नागह्रदे यथा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1228,15 @@ interdependence with other sinners, like the fish in a lake with snakes. [3-38-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यचन्दनदिग्धाङ्गान् दिव्याभरणभूषितान् ।  
 द्रक्ष्यस्यभिहतान् भूमौ तव दोषात् तु राक्षसान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,12 +1278,15 @@ yours. [3-38-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृतदारान् सदारांश्च दश विद्रवतो दिशः ।  
 हतशेषानशरणान् द्रक्ष्यसि त्वं निशाचरान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1251,12 +1328,15 @@ for lack of a protector. [3-38-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरजालपरिक्षिप्तामग्निज्वालासमावृताम् ।  
 प्रदग्धभवनां लङ्कां द्रक्ष्यसि त्वमसंशयम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1296,6 +1376,7 @@ enfolded in the tongues of torches, while her buildings are utterly gutting down
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1304,6 +1385,8 @@ enfolded in the tongues of torches, while her buildings are utterly gutting down
 भव स्वदारनिरतः स्वकुलं रक्ष राक्षसान् ।  
 मानं वृद्धिं च राज्यं च जीवितं चेष्टमात्मनः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,12 +1448,15 @@ with another's wife and, besides, you already have a thousand wives, isn't so! [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कलत्राणि च सौम्यानि मित्रवर्गं तथैव च ।  
 यदीच्छसि चिरं भोक्तुं मा कृथा रामविप्रियम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1410,6 +1496,7 @@ circles for a long time, do not do anything undesirable to Rama. [3-38-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1418,6 +1505,8 @@ circles for a long time, do not do anything undesirable to Rama. [3-38-32]
 गमिष्यसि क्षीणबलः सबान्धवो  
 यमक्षयं रामशरास्तजीवितः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1475,5 +1564,6 @@ of Rama." Thus, Maareecha spoke to Ravana. [3-38-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मुवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥38॥
+</details>
 </details>
 

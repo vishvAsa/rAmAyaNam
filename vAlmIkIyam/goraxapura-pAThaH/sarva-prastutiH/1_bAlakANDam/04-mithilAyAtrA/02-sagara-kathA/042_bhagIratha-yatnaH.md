@@ -2,6 +2,8 @@
 title = "०४२ भगीरथ-यत्नः"
 title_english = "042 king bhageeratha s effort to bring river ganga ion to the earth"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -25,12 +27,15 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 
 42. अंशुमान् और भगीरथकी तपस्या, ब्रह्माजीका भगीरथको अभीष्ट वर देकर गंगाजीको धारण करनेके लिये भगवान् शङ्करको राजी करनेके निमित्त प्रयत्न करनेकी सलाह देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालधर्मं गते राम सगरे प्रकृतीजनाः ।  
 राजानं रोचयामासुरंशुमन्तं सुधार्मिकम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा सुमहानासीदंशुमान् रघुनन्दन ।  
 तस्य पुत्रो महानासीद् दिलीप इति विश्रुतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मै राज्यं समादिश्य दिलीपे रघुनन्दन ।  
 हिमवच्छिखरे रम्ये तपस्तेपे सुदारुणम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,12 +160,15 @@ Assigning the kingdom to Dileepa, oh, Rama of Raghu's dynasty, Amshuman
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वात्रिंशच्छतसाहस्रं वर्षाणि सुमहायशाः ।  
 तपोवनगतो राजा स्वर्गं लेभे तपोधनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ Instead of achieving reward of ascesis in the form of descent of River
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिलीपस्तु महातेजाः श्रुत्वा पैतामहं वधम् ।  
 दुःखोपहतया बुद्ध्या निश्चयं नाध्यगच्छत ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +263,15 @@ The great resplendent Dileepa on hearing the elimination of his grandfathers,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं गङ्गावतरणं कथं तेषां जलक्रिया ।  
 तारयेयं कथं चैतानिति चिन्तापरोऽभवत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,12 +309,15 @@ Dileepa became worried as to how River Ganga is to be alighted onto
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चिन्तयतो नित्यं धर्मेण विदितात्मनः ।  
 पुत्रो भगीरथो नाम जज्ञे परमधार्मिकः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +354,15 @@ To him who is self-mortified and who is always thinking righteously
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिलीपस्तु महातेजा यज्ञैर्बहुभिरिष्टवान् ।  
 त्रिंशद्वर्षसहस्राणि राजा राज्यमकारयत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,12 +398,15 @@ That great-resplendent king Dileepa on his part performed numerous
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगत्वा निश्चयं राजा तेषामुद्धरणं प्रति ।  
 व्याधिना नरशार्दूल कालधर्ममुपेयिवान् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +443,15 @@ Oh, tigerly-man Rama, that king Dileepa by not attaining any choice
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रलोकं गतो राजा स्वार्जितेनैव कर्मणा ।  
 राज्ये भगीरथं पुत्रमभिषिच्य नरर्षभः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +486,7 @@ That best one among men, namely king Dileepa, on anointing his son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -462,6 +495,8 @@ That best one among men, namely king Dileepa, on anointing his son
 मन्त्रिष्वाधाय तद् राज्यं गङ्गावतरणे रतः ।  
 तपो दीर्घं समातिष्ठद् गोकर्णे रघुनन्दन ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,6 +568,7 @@ Oh, Rama, the legatee of Raghu, but on his part that self-righteous
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,6 +576,8 @@ Oh, Rama, the legatee of Raghu, but on his part that self-righteous
 तस्य वर्षसहस्राणि घोरे तपसि तिष्ठतः ॥ १३ ॥  
 अतीतानि महाबाहो तस्य राज्ञो महात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,6 +595,7 @@ Oh, Rama, the legatee of Raghu, but on his part that self-righteous
 
 महाबाहुवे! अवनु ऎरडू भुजगळन्नु मेलक्कॆत्ति पञ्चाग्नि साधनॆ माडुत्ता, इन्द्रियगळन्नु हतोटियल्लिट्टुकॊण्डु तिङ्गळल्लि ऒन्दे सल आहार स्वीकरिसुत्तिद्दनु. ई प्रकार घोर तपस्सिनल्लि तॊडगिरुव भगीरथ महाराजन ऒन्दु साविर वर्षगळु कळॆदवु.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -564,6 +603,8 @@ Oh, Rama, the legatee of Raghu, but on his part that self-righteous
 ततः सुरगणैः सार्धमुपागम्य पितामहः ।  
 भगीरथं महात्मानं तप्यमानमथाब्रवीत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +667,15 @@ Thousands of years have rolled by while Bhageeratha stood practising
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथ महाराज प्रीतस्तेऽहं जनाधिप ।  
 तपसा च सुतप्तेन वरं वरय सुव्रत ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +720,15 @@ Oh, great king Bhageeratha, oh, lord of the people, I am delighted
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महातेजाः सर्वलोकपितामहम् ।  
 भगीरथो महाबाहुः कृताञ्जलिपुटः स्थितः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -720,12 +767,15 @@ That great resplendent and highly fortunate king Bhageeratha then remaining
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मे भगवान् प्रीतो यद्यस्ति तपसःफलम् ।  
 सगरस्यात्मजाः सर्वे मत्तः सलिलमाप्नुयुः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +820,15 @@ Oh, god, if you are satisfied with my ascesis, and if there is any
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गङ्गायाः सलिलक्लिन्ने भस्मन्येषां महात्मनाम् ।  
 स्वर्गं गच्छेयुरत्यन्तं सर्वे च प्रपितामहाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ While the ashes of these great souls are drenched with the waters
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव याचे ह सन्तत्यै नावसीदेत् कुलं च नः ।  
 इक्ष्वाकूणां कुले देव एष मेऽस्तु वरः परः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,12 +913,15 @@ Oh, god, I indeed pray for offspring in our Ikshvaku dynasty, let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्यं तु राजानं सर्वलोकपितामहः ।  
 प्रत्युवाच शुभां वाणीं मधुरां मधुराक्षराम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,12 +963,15 @@ The Forefather of all the worlds, Brahma, then replied the king who
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोरथो महानेष भगीरथ महारथ ।  
 एवं भवतु भद्रं ते इक्ष्वाकुकुलवर्धन ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1007,15 @@ Oh, top-speeded chariot-rider Bhageeratha, this aspiration of yours
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं हैमवती ज्येष्ठा गङ्गा हिमवतः सुता ।  
 तां वै धारयितुं राजन् हरस्तत्र नियुज्यताम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1057,15 @@ This Ganga is the one with snow-broth, the elder daughter of Himavanta,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गङ्गायाः पतनं राजन् पृथिवी न सहिष्यते ।  
 तां वै धारयितुं राजन् नान्यं पश्यामि शूलिनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1037,12 +1105,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा राजानं गङ्गां चाभाष्य लोककृत् ।  
 जगाम त्रिदिवं देवैः सर्वैः सह मरुद्‍गणैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,5 +1170,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॆरडनॆय सर्ग पूर्णवायितु.॥42॥
+</details>
 </details>
 

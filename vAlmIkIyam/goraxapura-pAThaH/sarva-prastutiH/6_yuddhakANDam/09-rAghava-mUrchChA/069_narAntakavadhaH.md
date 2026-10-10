@@ -2,6 +2,8 @@
 title = "०६९ नरान्तकवधः"
 title_english = "069 Death of Narantaka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -31,12 +33,15 @@ finally, Narantaka dies.
 
 69. रावणके पुत्रों और भाइयोंका युद्धके लिये जाना और नरान्तकका अङ्गदके द्वारा वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपमानस्य रावणस्य दुरात्मनः ।  
 श्रुत्वा शोकाभिभूतस्य त्रिशिरा वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -59,12 +64,15 @@ finally, Narantaka dies.
 
 दुरात्मनाद रावणनु शोकपीडितनागि हीगॆ विलाप माडुत्तिरुवाग श्रिशिरनु हेळिदनु-॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेव महावीर्यो हतो नस्तातमध्यमः ।  
 न तु सत्पुरुषा राजन् विलपन्ति यथा भवान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,12 +113,15 @@ and uncles) has been killed. But good persons like you do not lament as you are 
 
 राजने! नम्म चिक्कप्पनाद महावीर्यवन्तनागिद्दरू ईग युद्धदल्लि हतनादुदरल्लि सन्देहविल्ल. आदरॆ नीवु अळुत्ता प्रलापिसिदन्तॆ श्रेष्ठपुरुषरु विलाप माडुवुदिल्ल.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं त्रिभुवनस्यापि पर्याप्तस्त्वमसि प्रभो ।  
 स कस्मात् प्राकृत इव शोचस्यात्मानमीदृशम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ lamenting about yourself, as a common person?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मदत्तास्ति ते शक्तिः कवचं सायको धनुः ।  
 सहस्रखरसंयुक्तो रथो मेघसमस्वनः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,12 +210,15 @@ cloud."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयासकृद्धि शस्त्रेण विशस्ता देवदानवाः ।  
 स सर्वायुधसम्पन्नो राघवं शास्तुमर्हसि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,12 +259,15 @@ various types of weapons. As such, you can punish Rama, when endowed with all we
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं तिष्ठ महाराज निर्गमिष्याम्यहं रणे ।  
 उद्धरिष्यामि ते शत्रून् गरुडः पन्नगानिव ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +290,15 @@ various types of weapons. As such, you can punish Rama, when endowed with all we
 
 महाराज! अथवा निमगॆ इच्छॆ इद्दरॆ इल्ले इरि. नानु स्वतः युद्धक्कॆ होगुवॆनु हागू गरुडनु सर्पगळन्नु संहरिसुवन्तॆ नम्म शत्रुगळन्नु बेरुसहित कित्तु बिसुडुवॆनु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शम्बरो देवराजेन नरको विष्णुना यथा ।  
 तथाद्य शयिता रामो मया युधि निपातितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +349,15 @@ Namuchi, Ilwala, Shrimara, Andhaka and Kalanabha.
 
 * यहाँ जिस नरकासुरका नाम आया है, वह विप्रचित्ति नामक दानवके द्वारा सिंहिकाके गर्भसे उत्पन्न हुए वातापि आदि सात पुत्रोंमेंसे एक था । उनके नाम क्रमशः इस प्रकार हैं—वातापि, नमुचि, इल्वल, सृमर, अन्धक, नरक और कालनाभ । भगवान् श्रीकृष्णने द्वापरमें जिस भूमिपुत्र नरकासुरका वध किया था, वह यहाँ उल्लिखित नरकासुरसे भिन्न था । त्रिशिरा और रावणके समयमें तो उसका जन्म ही नहीं हुआ था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा त्रिशिरसो वाक्यं रावणो राक्षसाधिपः ।  
 पुनर्जातमिवात्मानं मन्यते कालचोदितः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +380,15 @@ Namuchi, Ilwala, Shrimara, Andhaka and Kalanabha.
 
 त्रिशिरन मातन्नु केळि राक्षसराज रावणनिगॆ तन्न पुनर्जन्मवादष्टु सन्तोषवायितु. कालप्रेरितनागि अवन बुद्धि हीगागित्तु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा त्रिशिरसो वाक्यं देवान्तकनरान्तकौ ।  
 अतिकायश्च तेजस्वी बभूवुर्युद्धहर्षिताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +428,15 @@ rejoiced of war.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहमहमित्येवं गर्जन्तो नैर्ऋतर्षभाः ।  
 रावणस्य सुता वीराः शक्रतुल्यपराक्रमाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +476,15 @@ demons, roared asserting their superiority saying "I will lead, I will lead!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरिक्षगताः सर्वे सर्वे मायाविशारदाः ।  
 सर्वे त्रिदशदर्पघ्नाः सर्वे समरदुर्मदाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -489,6 +524,7 @@ had humbled the pride of gods. All were fierce in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -498,6 +534,8 @@ had humbled the pride of gods. All were fierce in battle.
 सर्वेऽस्त्रविदुषो वीराः सर्वे युद्धविशारदाः ।  
 सर्वे प्रवरविज्ञानाः सर्वे लब्धवरास्तथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,6 +602,7 @@ while encountering a battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -572,6 +611,8 @@ while encountering a battle.
 रराज राजा मघवान् यथामरै-  
 र्वृतो महादानवदर्पनाशनैः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +658,15 @@ can destroy the pride of gigantic demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुत्रान् सम्परिष्वज्य भूषयित्वा च भूषणैः ।  
 आशीर्भिश्च प्रशस्ताभिः प्रेषयामास वै रणे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +706,15 @@ Ravana sent them to battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धोन्मत्तं च मत्तं च भ्रातरौ चापि रावणः ।  
 रक्षणार्थं कुमाराणां प्रेषयामास संयुगे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +754,15 @@ Mahodara and Mahaparshva), his brothers to the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽभिवाद्य महात्मानं रावणं लोकरावणम् ।  
 कृत्वा प्रदक्षिणं चैव महाकायाः प्रतस्थिरे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,6 +802,7 @@ Those demons with colossal bodies, paid obeisance (by circumambulating) to Ravan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -760,6 +811,8 @@ Those demons with colossal bodies, paid obeisance (by circumambulating) to Ravan
 त्रिशिराश्चातिकायश्च देवान्तकनरान्तकौ ।  
 महोदरमहापार्श्वौ निर्जग्मुः कालचोदिताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +883,15 @@ overcome with grief, Trishira (one of his sons) spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुदर्शनं नागं नीलजीमूतसन्निभम् ।  
 ऐरावतकुले जातमारुरोह महोदरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,12 +931,15 @@ and born in Airavata-race.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वायुधसमायुक्तस्तूणीभिश्चाप्यलङ्कृतः ।  
 रराज गजमास्थाय सवितेवास्तमूर्धनि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -920,12 +979,15 @@ the elephant, shone like the sun on the peak of Ashtachala mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयोत्तमसमायुक्तं सर्वायुधसमाकुलम् ।  
 आरुरोह रथश्रेष्ठं त्रिशिरा रावणात्मजः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,12 +1027,15 @@ horses and filled with all types of armoury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिशिरा रथमास्थाय विरराज धनुर्धरः ।  
 सविद्युदुल्कः सज्वालः सेन्द्रचाप इवाम्बुदः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,12 +1075,15 @@ glittering meteors, illuminations and a rain-bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिभिः किरीटैस्त्रिशिराः शुशुभे स रथोत्तमे ।  
 हिमवानिव शैलेन्द्रस्त्रिभिः काञ्चनपर्वतैः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,12 +1127,15 @@ Himavat, the king of mountains with its three golden hills.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायोऽतितेजस्वी राक्षसेन्द्रसुतस्तदा ।  
 आरुरोह रथश्रेष्ठं श्रेष्ठः सर्वधनुष्मताम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1178,15 @@ the wielders of bow, mounted an excellent chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुचक्राक्षं सुसंयुक्तं स्वनुकर्षं सुकूबरम् ।  
 तूणीबाणासनैर्दीप्तं प्रासासिपरिघाकुलम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1160,12 +1234,15 @@ maces.
 १. रथके धुरेपर कूबरके आधाररूपसे स्थापित काष्ठविशेषको अनुकर्ष कहते हैं ।  
 २. कूबर उस काष्ठको कहते हैं, जिसपर जुआ रखा जाता है । गाड़ीके हरसोंको भी प्राचीनकालमें कूबर कहा जाता था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स काञ्चनविचित्रेण किरीटेन विराजता ।  
 भूषणैश्च बभौ मेरुः प्रभाभिरिव भासयन् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1282,15 @@ Mount Meru, causing to shine with its splendours (by the sun).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रराज रथे तस्मिन् राजसूनुर्महाबलः ।  
 वृतो नैर्ऋतशार्दूलैर्वज्रपाणिरिवामरैः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,12 +1330,15 @@ shone like Indra surrounded by celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयमुच्चैःश्रवःप्रख्यं श्वेतं कनकभूषणम् ।  
 मनोजवं महाकायमारुरोह नरान्तकः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1295,12 +1378,15 @@ Indra), adorned with gold ornaments and as swift as thought.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीत्वा प्रासमुल्काभं विरराज नरान्तकः ।  
 शक्तिमादाय तेजस्वी गुहः शिखिगतो यथा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,12 +1427,15 @@ like Guha (the offspring of Shiva) holding a spear and riding a beautiful peacoc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवान्तकः समादाय परिघं हेमभूषणम् ।  
 परिगृह्य गिरिं दोर्भ्यां वपुर्विष्णोर्विडम्बयन् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,12 +1475,15 @@ Vishnu holding Mandara-mountain in his arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महापार्श्वो महातेजा गदामादाय वीर्यवान् ।  
 विरराज गदापाणिः कुबेर इव संयुगे ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,6 +1523,7 @@ in battle, looked like Kubera the lord of wealth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1438,6 +1531,8 @@ in battle, looked like Kubera the lord of wealth.
 तान् गजैश्च तुरङ्गैश्च रथैश्चाम्बुदनिःस्वनैः ॥ ३३ ॥  
 अनूत्पेतुर्महात्मानो राक्षसाः प्रवरायुधाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1482,12 +1577,15 @@ chariots making sounds of rumbling clouds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते विरेजुर्महात्मानः कुमाराः सूर्यवर्चसः ॥ ३४ ॥  
 किरीटिनः श्रिया जुष्टा ग्रहा दीप्ता इवाम्बरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1527,12 +1625,15 @@ prosperity, shone like glowing planets in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रगृहीता बभौ तेषां शस्त्राणामवलिः सिता ॥ ३५ ॥  
 शरदभ्रप्रतीकाशा हंसावलिरिवाम्बरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1575,12 +1676,15 @@ flock of cranes in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरणं वापि निश्चित्य शत्रूणां वा पराजयम् ॥ ३६ ॥  
 इति कृत्वा मतिं वीराः सञ्जग्मुः संयुगार्थिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1621,12 +1725,15 @@ forward, thus making their courageous resolve, eager to fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगर्जुश्च प्रणेदुश्च चिक्षिपुश्चापि सायकान् ॥ ३७ ॥  
 जगृहुश्च महात्मानो निर्यान्तो युद्धदुर्मदाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1669,12 +1776,15 @@ reverberatory sound, took up arrows and dispatched them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्ष्वेडितास्फोटितानां वै सञ्चचालेव मेदिनी ॥ ३८ ॥  
 रक्षसां सिंहनादैश्च संस्फोटितमिवाम्बरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1714,12 +1824,15 @@ appeared breached, by the lion's roars of the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽभिनिष्क्रम्य मुदिता राक्षसेन्द्रा महाबलाः ॥ ३९ ॥  
 ददृशुर्वानरानीकं समुद्यतशिलानगम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1759,6 +1872,7 @@ monkeys having uplifted rocks as their weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1766,6 +1880,8 @@ monkeys having uplifted rocks as their weapons.
 हस्त्यश्वरथसम्बाधं किङ्किणीशतनादितम् ।  
 नीलजीमूतसङ्काशं समुद्यतमहायुधम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1812,6 +1928,7 @@ resound with hundreds of small bells and wielding well-raised great weaponry.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1820,6 +1937,8 @@ resound with hundreds of small bells and wielding well-raised great weaponry.
 समुद्यतमहाशैलाः सम्प्रणेदुर्मुहुर्मुहुः ।  
 अमृष्यमाणा रक्षांसि प्रतिनर्दन्त वानराः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1870,6 +1989,7 @@ the demons, thus shouted, standing opposite to them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1878,6 +1998,8 @@ the demons, thus shouted, standing opposite to them.
 अमृष्यमाणाः परहर्षमुग्रं  
 महाबला भीमतरं प्रणेदुः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1923,12 +2045,15 @@ more terribly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते राक्षसबलं घोरं प्रविश्य हरियूथपाः ।  
 विचेरुरुद्यतैः शैलैर्नगाः शिखरिणो यथा ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1968,6 +2093,7 @@ mountains, roamed about like mountains with their peaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1975,6 +2101,8 @@ mountains, roamed about like mountains with their peaks.
 रक्षःसैन्येषु सङ्क्रुद्धाः केचिद् द्रुमशिलायुधाः ॥ ४६ ॥  
 द्रुमांश्च विपुलस्कन्धान् गृह्य वानरपुङ्गवाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2020,6 +2148,7 @@ and rocks as their weapons, wandered among the army of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2027,6 +2156,8 @@ and rocks as their weapons, wandered among the army of demons.
 ते पादपशिलाशैलैश्चक्रुर्वृष्टिमनूपमाम् ।  
 बाणौघैर्वार्यमाणाश्च हरयो भीमविक्रमाः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2086,6 +2217,7 @@ about in the battle-field. That battle-front, filled with demons and monkeys, lo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2093,6 +2225,8 @@ about in the battle-field. That battle-front, filled with demons and monkeys, lo
 शिलाभिश्चूर्णयामासुर्यातुधानान् प्लवङ्गमाः ॥ ४९ ॥  
 निर्जघ्नुः संयुगे क्रुद्धाः कवचाभरणावृतान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2138,12 +2272,15 @@ pounded the demons with rocks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद् रथगतान् वीरान् गजवाजिगतानपि ॥ ५० ॥  
 निर्जघ्नुः सहसाऽऽप्लुत्य यातुधानान् प्लवङ्गमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2186,12 +2323,15 @@ demons, sitting or standing in chariots and also those demons mounted on elephan
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलशृङ्गान्विताङ्गास्ते मुष्टिभिर्वान्तलोचनाः ॥ ५१ ॥  
 चेलुः पेतुश्च नेदुश्च तत्र राक्षसपुङ्गवाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2234,12 +2374,15 @@ their bodies were attacked by mountain-peaks and blows of fists, down and roared
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाश्च शरैस्तीक्ष्णैर्बिभिदुः कपिकुञ्जरान् ॥ ५२ ॥  
 शूलमुद‍्गरखड्गैश्च जघ्नुः प्रासैश्च शक्तिभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2279,12 +2422,15 @@ with spears mallets, swords, javelins and lances.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यं पातयामासुः परस्परजयैषिणः ॥ ५३ ॥  
 रिपुशोणितदिग्धाङ्गास्तत्र वानरराक्षसाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2324,12 +2470,15 @@ foes, mowed each other with a desire to conquer each other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शैलैश्च खड्गैश्च विसृष्टैर्हरिराक्षसैः ॥ ५४ ॥  
 मुहूर्तेनावृता भूमिरभवच्छोणितोक्षिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2369,12 +2518,15 @@ covered by the mountains and swords thrown by the monkeys and demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकीर्णैः पर्वताकारै रक्षोभिरभिमर्दितैः ।  
 आसीद् वसुमती पूर्णा तदा युद्धमदान्वितैः ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2417,12 +2569,15 @@ passion for battle, having their colossal bodies devastated and scattered all ov
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आक्षिप्ताः क्षिप्यमाणाश्च भग्नशैलाश्च वानराः ।  
 पुनरङ्गैस्तदा चक्रुरासन्ना युद्धमद्भुतम् ॥ ५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2467,12 +2622,15 @@ their limbs, arms and legs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरान् वानरैरेव जघ्नुस्ते नैर्ऋतर्षभाः ।  
 राक्षसान् राक्षसैरेव जघ्नुस्ते वानरा अपि ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2512,12 +2670,15 @@ also struck the titans with their own dead bodies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आक्षिप्य च शिलाः शैलाञ्जघ्नुस्ते राक्षसास्तदा ।  
 तेषां चाच्छिद्य शस्त्राणि जघ्नू रक्षांसि वानराः ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2557,12 +2718,15 @@ The apes too, snatching away their weapons, struck the titans.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्जघ्नुः शैलशृङ्गैश्च बिभिदुश्च परस्परम् ।  
 सिंहनादान् विनेदुश्च रणे राक्षसवानराः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2604,12 +2768,15 @@ roars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छिन्नवर्मतनुत्राणा राक्षसा वानरैर्हताः ।  
 रुधिरं प्रसृतास्तत्र रससारमिव द्रुमाः ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2649,12 +2816,15 @@ that place, like trees oozing their sap.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथेन च रथं चापि वारणेनापि वारणम् ।  
 हयेन च हयं केचिन्निर्जघ्नुर्वानरा रणे ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2694,12 +2864,15 @@ very elephants and horse by the very horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुरप्रैरर्धचन्द्रैश्च भल्लैश्च निशितैः शरैः ।  
 राक्षसा वानरेन्द्राणां बिभिदुः पादपान् शिलाः ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2740,12 +2913,15 @@ their hoe-shaped head, those arrows with crescent-shaped head and those with spe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकीर्णाः पर्वतास्तैश्च द्रुमच्छिन्नैश्च संयुगे ।  
 हतैश्च कपिरक्षोभिर्दुर्गमा वसुधाभवत् ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2789,6 +2965,7 @@ and titans, became difficult to be traversed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2797,6 +2974,8 @@ and titans, became difficult to be traversed.
 युद्धं स्म सर्वे सह राक्षसैस्ते  
 नानायुधाश्चक्रुरदीनसत्त्वाः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2843,6 +3022,7 @@ teeth and nails) and unrepressed in spirit, carried out battle with the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2851,6 +3031,8 @@ teeth and nails) and unrepressed in spirit, carried out battle with the demons.
 निपात्यमानेषु च राक्षसेषु  
 महर्षयो देवगणाश्च नेदुः ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2895,6 +3077,7 @@ demons falling down, the great sages and troop of celestials emitted shouts of t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2903,6 +3086,8 @@ demons falling down, the great sages and troop of celestials emitted shouts of t
 नरान्तको वानरसैन्यमुग्रं  
 महार्णवं मीन इवाविवेश ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2952,6 +3137,7 @@ javelin, Narantaka entered the terrific army of monkeys, as a fish entering the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2960,6 +3146,8 @@ javelin, Narantaka entered the terrific army of monkeys, as a fish entering the 
 एकः क्षणेनेन्द्ररिपुर्महात्मा  
 जघान सैन्यं हरिपुङ्गवानाम् ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3011,12 +3199,15 @@ foremost of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददृशुश्च महात्मानं हयपृष्ठप्रतिष्ठितम् ।  
 चरन्तं हरिसैन्येषु विद्याधरमहर्षयः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3056,12 +3247,15 @@ seated on the back of a horse and hacking a path way for himself through the arm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य ददृशे मार्गो मांसशोणितकर्दमः ।  
 पतितैः पर्वताकारैर्वानरैरभिसंवृतः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3118,12 +3312,15 @@ Garuda the eagle eradicates the serpents."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावद् विक्रमितुं बुद्धिं चक्रुः प्लवगपुङ्गवाः ।  
 तावदेतानतिक्रम्य निर्बिभेद नरान्तकः ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3166,12 +3363,15 @@ Narantaka overtook and cleaved them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्वलन्तं प्रासमुद्यम्य सङ्ग्रामाग्रे नरान्तकः ।  
 ददाह हरिसैन्यानि वनानीव विभावसुः ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3215,12 +3415,15 @@ as mountains riven by lightning.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावदुत्पाटयामासुर्वृक्षान् शैलान् वनौकसः ।  
 तावत् प्रासहताः पेतुर्वज्रकृत्ता इवाचलाः ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3237,12 +3440,15 @@ as mountains riven by lightning.
 
 वानररु वृक्ष-पर्वतगळन्नु कीळुवष्टरल्लि नरान्तन भल्लॆय एटु तिन्दु वज्रद हॊडॆतदिन्द पर्वत पुडि यागुवन्तॆ सत्तुहोगुत्तिद्दरु.॥72॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिक्षु सर्वासु बलवान् विचचार नरान्तकः ।  
 प्रमृद्नन् सर्वतो युद्धे प्रावृट्काले यथानिलः ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3282,12 +3488,15 @@ earth in a rainy season.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शेकुर्धावितुं वीरा न स्थातुं स्पन्दितुं भयात् ।  
 उत्पतन्तं स्थितं यान्तं सर्वान् विव्याध वीर्यवान् ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3328,12 +3537,15 @@ his javelin, having the sun's splendour and they fell down on the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकेनान्तककल्पेन प्रासेनादित्यतेजसा ।  
 भग्नानि हरिसैन्यानि निपेतुर्धरणीतले ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3376,12 +3588,15 @@ his javelin, having the sun's splendour and they fell down on the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रनिष्पेषसदृशं प्रासस्याभिनिपातनम् ।  
 न शेकुर्वानराः सोढुं ते विनेदुर्महास्वनम् ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3421,12 +3636,15 @@ similar to the striking of a thunderbolt and they shouted with a great uproar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पततां हरिवीराणां रूपाणि प्रचकाशिरे ।  
 वज्रभिन्नाग्रकूटानां शैलानां पततामिव ॥ ७७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3466,12 +3684,15 @@ with their peaks shattered by a thunderbolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये तु पूर्वं महात्मानः कुम्भकर्णेन पातिताः ।  
 ते स्वस्था वानरश्रेष्ठाः सुग्रीवमुपतस्थिरे ॥ ७८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3512,12 +3733,15 @@ Kumbhakarna, regained their self and approached Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेक्षमाणः स सुग्रीवो ददृशे हरिवाहिनीम् ।  
 नरान्तकभयत्रस्तां विद्रवन्तीं यतस्ततः ॥ ७९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3557,12 +3781,15 @@ thither, as they were tormented of the fear of Narantaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्रुतां वाहिनीं दृष्ट्वा स ददर्श नरान्तकम् ।  
 गृहीतप्रासमायान्तं हयपृष्ठप्रतिष्ठितम् ॥ ८० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3602,12 +3829,15 @@ seated on the back of a horse, holding a javelin in his hand.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वोवाच महातेजाः सुग्रीवो वानराधिपः ।  
 कुमारमङ्गदं वीरं शक्रतुल्यपराक्रमम् ॥ ८१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3647,12 +3877,15 @@ thus, to Angada, the valiant prince, having a prowess equal to Indra's (as follo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छैनं राक्षसं वीरं योऽसौ तुरगमास्थितः ।  
 क्षोभयन्तं हरिबलं क्षिप्रं प्राणैर्वियोजय ॥ ८२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3692,12 +3925,15 @@ and consuming the army of his enemies."
 
 मगु! कुदुरॆयन्नेरि वानर सैन्यदल्लि क्षोभॆयन्नॆब्बिसुत्तिरुव वीरराक्षसनन्नु ऎदुरिसलु होगि अवनन्नु बेगनॆ संहरिसिबिडु.॥8.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भर्तुर्वचनं श्रुत्वा निष्पपाताङ्गदस्तदा ।  
 अनीकान्मेघसङ्काशादंशुमानिव वीर्यवान् ॥ ८३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3738,12 +3974,15 @@ from his army, as the sun coming out of a cloud.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलसङ्घातसङ्काशो हरीणामुत्तमोऽङ्गदः ।  
 रराजाङ्गदसन्नद्धः सधातुरिव पर्वतः ॥ ८४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3783,12 +4022,15 @@ upper arms, looked brilliant like a mountain with its metallic streaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरायुधो महातेजाः केवलं नखदंष्ट्रवान् ।  
 नरान्तकमभिक्रम्य वालिपुत्रोऽब्रवीद् वचः ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3828,12 +4070,15 @@ great splendour, approached Narantaka and spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठ किं प्राकृतैरेभिर्हरिभिस्त्वं करिष्यसि ।  
 अस्मिन् वज्रसमस्पर्शं प्रासं क्षिप्र ममोरसि ॥ ८६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3876,6 +4121,7 @@ sensation equal to a thunderbolt, towards my chest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3883,6 +4129,8 @@ sensation equal to a thunderbolt, towards my chest."
 सन्दश्य दशनैरोष्ठं निःश्वस्य च भुजङ्गवत् ।  
 अभिगम्याङ्गदं क्रुद्धो वालिपुत्रं नरान्तकः ॥ ८७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3900,6 +4148,7 @@ sensation equal to a thunderbolt, towards my chest."
 
 अङ्गदन मातु केळि नरान्तकनिगॆ भारी क्रोध उण्टायितु. अवनु कुपितनागि अवुडुगच्चि सर्पदन्तॆ बुसुगुट्टुत्ता वालिपुत्र अङ्गदन बळिगॆ बन्दनु.॥87॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3908,6 +4157,8 @@ sensation equal to a thunderbolt, towards my chest."
 स वालिपुत्रोरसि वज्रकल्पे  
 बभूव भग्नो न्यपतच्च भूमौ ॥ ८८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3957,6 +4208,7 @@ against Angada's chest, that was as hard as a diamond and fell to the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3965,6 +4217,8 @@ against Angada's chest, that was as hard as a diamond and fell to the earth.
 तलं समुद्यम्य स वालिपुत्र-  
 स्तुरङ्गमस्याभिजघान मूर्ध्नि ॥ ८९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4018,6 +4272,7 @@ though born anew, after being summoned by Death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4026,6 +4281,8 @@ though born anew, after being summoned by Death.
 स तस्य वाजी निपपात भूमौ  
 तलप्रहारेण विकीर्णमूर्धा ॥ ९० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4075,6 +4332,7 @@ shattered, feet broken, eyes and pupils put out and tongue come out. It fell dow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4083,6 +4341,8 @@ shattered, feet broken, eyes and pupils put out and tongue come out. It fell dow
 स मुष्टिमुद्यम्य महाप्रभावो  
 जघान शीर्षे युधि वालिपुत्रम् ॥ ९१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4128,6 +4388,7 @@ exceedingly powerful Narantaka in battle struck Angada on his head.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4136,6 +4397,8 @@ exceedingly powerful Narantaka in battle struck Angada on his head.
 मुहुर्विजज्वाल मुमोह चापि  
 सञ्ज्ञां समासाद्य विसिस्मिये च ॥ ९२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4182,6 +4445,7 @@ surprised.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4190,6 +4454,8 @@ surprised.
 निपातयामास तदा महात्मा  
 नरान्तकस्योरसि वालिपुत्रः ॥ ९३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4239,6 +4505,7 @@ with a force equal to death, rushed it against the chest of Narantaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4247,6 +4514,8 @@ with a force equal to death, rushed it against the chest of Narantaka.
 नरान्तको भूमितले पपात  
 यथाचलो वज्रनिपातभग्नः ॥ ९४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4292,6 +4561,7 @@ thundr-bolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4300,6 +4570,8 @@ thundr-bolt.
 बभूव तस्मिन् निहतेऽग्र्यवीर्ये  
 नरान्तके वालिसुतेन सङ्ख्ये ॥ ९५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4345,6 +4617,7 @@ celestials and the monkeys too then emitted a great roar of triumph in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4353,6 +4626,8 @@ celestials and the monkeys too then emitted a great roar of triumph in the sky.
 विसिस्मिये सोऽप्यथ भीमकर्मा  
 पुनश्च युद्धे स बभूव हर्षितः ॥ ९६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -4414,5 +4689,6 @@ terrible acts, was infused with vigour and again showed enthusiasm in battle.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥69॥
+</details>
 </details>
 

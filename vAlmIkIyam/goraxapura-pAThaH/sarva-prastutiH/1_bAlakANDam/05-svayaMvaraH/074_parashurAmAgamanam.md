@@ -2,6 +2,8 @@
 title = "०७४ परशुरामागमनम्"
 title_english = "074 parashu rAma s arrival"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-074-Parushu_Ramaa_Gamanam.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "074 parashu rAma s arrival"
 
 74. विश्वामित्रका अपने आश्रमको प्रस्थान, राजा जनकका कन्याओंको भारी दहेज देकर राजा दशरथ आदिको विदा करना, मार्गमें शुभाशुभ शकुन और परशुरामजीका आगमन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां व्यतीतायां विश्वामित्रो महामुनिः ।  
 आपृष्ट्वा तौ च राजानौ जगामोत्तरपर्वतम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,12 +67,15 @@ When that night is elapsing into the wee hours of next day, then the eminent-sai
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रे गते राजा वैदेहं मिथिलाधिपम् ।  
 आपृष्ट्वैव जगामाशु राजा दशरथः पुरीम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +123,7 @@ When Vishvamitra departed that ruler to the delight of people, namely Dasharatha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,6 +132,8 @@ When Vishvamitra departed that ruler to the delight of people, namely Dasharatha
 कम्बलानां च मुख्यानां क्षौमान् कोट्यम्बराणि च ।  
 हस्त्यश्वरथपादातं दिव्यरूपं स्वलङ्कृतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +196,15 @@ Then that king Janaka of Mithila, the one from Videha lineage, gave innumerable
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ कन्याशतं तासां दासीदासमनुत्तमम् ।  
 हिरण्यस्य सुवर्णस्य मुक्तानां विद्रुमस्य च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,6 +248,7 @@ King Janaka gave beau idéal bridal riches in gold, silver, pearls and corals ev
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -243,6 +258,8 @@ King Janaka gave beau idéal bridal riches in gold, silver, pearls and corals ev
 राजाप्ययोध्याधिपतिः सह पुत्रैर्महात्मभिः ॥ ७ ॥  
 ऋषीन् सर्वान् पुरस्कृत्य जगाम सबलानुगः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,6 +341,7 @@ It is customary to follow the wedding party up to the outskirts of village or
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -331,6 +349,8 @@ It is customary to follow the wedding party up to the outskirts of village or
 घोरास्तु पक्षिणो वाचो व्याहरन्ति समन्ततः ।  
 भौमाश्चैव मृगाः सर्वे गच्छन्ति स्म प्रदक्षिणम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,6 +411,7 @@ But while going with the assemblages of sages and with young Raghava-s, namely
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -398,6 +419,8 @@ But while going with the assemblages of sages and with young Raghava-s, namely
 असौम्याः पक्षिणो घोरा मृगाश्चापि प्रदक्षिणाः ॥ १० ॥  
 किमिदं हृदयोत्कम्पि मनो मम विषीदति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,6 +461,7 @@ But while going with the assemblages of sages and with young Raghava-s, namely
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -446,6 +470,8 @@ But while going with the assemblages of sages and with young Raghava-s, namely
 उपस्थितं भयं घोरं दिव्यं पक्षिमुखाच्च्युतम् ॥ १२ ॥  
 मृगाः प्रशमयन्त्येते सन्तापस्त्यज्यतामयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,6 +546,7 @@ On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -528,6 +555,8 @@ On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
 तमसा संवृतः सूर्यः सर्वे नावेदिषुर्दिशः ॥ १४ ॥  
 भस्मना चावृतं सर्वं सम्मूढमिव तद‍्बलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,6 +620,7 @@ While they are discussing among themselves, a whirlwind started to whirligig
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -598,6 +628,8 @@ While they are discussing among themselves, a whirlwind started to whirligig
 ससञ्ज्ञा इव तत्रासन् सर्वमन्यद्विचेतनम् ।  
 तस्मिंस्तमसि घोरे तु भस्मच्छन्नेव सा चमूः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -638,6 +670,7 @@ Then Vashishta and the other sages, the king Dasharatha along with his sons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -648,6 +681,8 @@ Then Vashishta and the other sages, the king Dasharatha along with his sons
 स्कन्धे चासज्ज्य परशुं धनुर्विद्युद‍्गणोपमम् ।  
 प्रगृह्य शरमुग्रं च त्रिपुरघ्नं यथा शिवम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,6 +744,7 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -716,6 +752,8 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
 वसिष्ठप्रमुखा विप्रा जपहोमपरायणाः ॥ २० ॥  
 सङ्गता मुनयः सर्वे सञ्जजल्पुरथो मिथः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,6 +793,7 @@ On seeing him who is perilous in his propensity and flaming like the Ritual-fire
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +801,8 @@ On seeing him who is perilous in his propensity and flaming like the Ritual-fire
 पूर्वं क्षत्रवधं कृत्वा गतमन्युर्गतज्वरः ।  
 क्षत्रस्योत्सादनं भूयो न खल्वस्य चिकीर्षितम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,12 +852,15 @@ An account of Parashu Rama's elimination of Kshatriya clans is given in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वार्घ्यमादाय भार्गवं भीमदर्शनम् ।  
 ऋषयो राम रामेति मधुरं वाक्यमब्रुवन् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,12 +903,15 @@ After their susurrus the sages have approached him, who in his very look is like
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य तु तां पूजामृषिदत्तां प्रतापवान् ।  
 रामं दाशरथिं रामो जामदग्न्योऽभ्यभाषत ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -912,5 +959,6 @@ On receiving the deference paid by the sage Vashishta, that inexorable Rama of
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥74॥
+</details>
 </details>
 

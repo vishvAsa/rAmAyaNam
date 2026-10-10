@@ -2,6 +2,8 @@
 title = "०२९ हनुमत्-सुग्रीवसंवादः"
 title_english = "029 Hanuma s advise to Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -24,6 +26,7 @@ troops within fifteen days, Sugreeva re-enters his palace-chambers, dragged by h
 
 29. हनुमान् जी के समझानेसे सुग्रीवका नीलको वानर-सैनिकोंको एकत्र करनेका आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,6 +48,8 @@ troops within fifteen days, Sugreeva re-enters his palace-chambers, dragged by h
 प्रणयप्रीतिसंयुक्तं विश्वासकृतनिश्चयम् ॥ ८ ॥  
 हरीश्वरमुपागम्य हनूमान् वाक्यमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +185,15 @@ will pay heed to his words. [4-29-1, 2, 3, 4, 5, 6, 7, 8, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं प्राप्तं यशश्चैव कौली श्रीरभिवर्धिता ॥ ९ ॥  
 मित्राणां सङ्ग्रहः शेषस्तद् भवान् कर्तुमर्हति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +234,15 @@ is still remaining, and it will be apt of you to negotiate it. [4-29-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि मित्रेषु कालज्ञः सततं साधु वर्तते ॥ १० ॥  
 तस्य राज्यं च कीर्तिश्च प्रतापश्चापि वर्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +281,15 @@ flourish. [4-29-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य कोशश्च दण्डश्च मित्राण्यात्मा च भूमिप ।  
 समान्येतानि सर्वाणि स राज्यं महदश्नुते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +332,15 @@ equiponderance. [4-29-11b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् भवान् वृत्तसम्पन्नः स्थितः पथि निरत्यये ।  
 मित्रार्थमभिनीतार्थं यथावत् कर्तुमर्हति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +383,15 @@ alone Rama along with Lakshmana came to you, thus let your power preponderate. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्त्यज्य सर्वकर्माणि मित्रार्थे यो न वर्तते ।  
 सम्भ्रमाद् विकृतोत्साहः सोऽनर्थैर्नावरुध्यते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +440,15 @@ expeditiously for his friend's mission." But Hanuma's dutifulness is to be kept 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि कालव्यतीतेषु मित्रकार्येषु वर्तते ।  
 स कृत्वा महतोऽप्यर्थान्न मित्रार्थेन युज्यते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,12 +487,15 @@ despite of the fact that he has once performed great deeds in respect of the sam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं मित्रकार्यं नः कालातीतमरिन्दम ।  
 क्रियतां राघवस्यैतद् वैदेह्याः परिमार्गणम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +535,15 @@ let it be done. [4-29-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च कालमतीतं ते निवेदयति कालवित् ।  
 त्वरमाणोऽपि स प्राज्ञस्तव राजन् वशानुगः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +584,7 @@ control abiding by your promise. [4-29-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,6 +593,8 @@ control abiding by your promise. [4-29-16]
 तस्य त्वं कुरु वै कार्यं पूर्वं तेन कृतं तव ।  
 हरीश्वर कपिश्रेष्ठानाज्ञापयितुमर्हसि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +662,15 @@ to that peaceful coexistence will be put to an end, may it be Viradha, Kabandha,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तावद् भवेत् कालो व्यतीतश्चोदनादृते ।  
 चोदितस्य हि कार्यस्य भवेत् कालव्यतिक्रमः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,12 +710,15 @@ it as lapsed. [4-29-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकर्तुरपि कार्यस्य भवान् कर्ता हरीश्वर ।  
 किं पुनः प्रतिकर्तुस्ते राज्येन च वधेन च ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +772,15 @@ api saadhaniiyam | adharmiShTsya tu mitra kaaryam upekShaNiiyam iti suucitam | d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्तिमानतिविक्रान्तो वानरर्क्षगणेश्वर ।  
 कर्तुं दाशरथेः प्रीतिमाज्ञायां किं नु सज्जसे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +822,15 @@ temporise in issuing orders to fulfil the cherish of Rama. [4-29-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं खलु शरैः शक्तः सुरासुरमहोरगान् ।  
 वशे दाशरथिः कर्तुं त्वत्प्रतिज्ञामवेक्षते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +869,15 @@ his arrows, but he is anticipating fulfilment of your promise. [4-29-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणत्यागाविशङ्केन कृतं तेन महत् प्रियम् ।  
 तस्य मार्गाम वैदेहीं पृथिव्यामपि चाम्बरे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +916,15 @@ we search for his wife Vaidehi anywhere on earth or even on skies. [4-29-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वा असुराः समरुद‍्गणाः ।  
 न च यक्षा भयं तस्य कुर्युः किमिव राक्षसाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,12 +967,15 @@ thus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेवं शक्तियुक्तस्य पूर्वं प्रतिकृतस्तथा ।  
 रामस्यार्हसि पिङ्गेश कर्तुं सर्वात्मना प्रियम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1015,15 @@ and it will be apt of you requite him with his aspiration at all events. [4-29-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाधस्तादवनौ नाप्सु गतिर्नोपरि चाम्बरे ।  
 कस्यचित् सज्जतेऽस्माकं कपीश्वर तवाज्ञया ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1063,15 @@ either in netherworlds, or in water, or up above on the sky. [4-29-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदाज्ञापय कः किं ते कुतो वापि व्यवस्यतु ।  
 हरयो ह्यप्रधृष्यास्ते सन्ति कोट्यग्रतोऽनघ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1115,15 @@ appealed to Sugreeva. [4-29-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा काले साधु निरूपितम् ।  
 सुग्रीवः सत्त्वसम्पन्नश्चकार मतिमुत्तमाम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,6 +1163,7 @@ took a noble decision. [4-29-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1109,6 +1172,8 @@ took a noble decision. [4-29-28]
 यथा सेना समग्रा मे यूथपालाश्च सर्वशः ।  
 समागच्छन्त्यसङ्गेन सेनाग्र्ये ण तथा कुरु ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1174,6 +1239,7 @@ vanara army, to foregather all of the monkey-forces available in all the directi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1181,6 +1247,8 @@ vanara army, to foregather all of the monkey-forces available in all the directi
 समानयन्तु ते शीघ्रं त्वरिताः शासनान्मम ।  
 स्वयं चानन्तरं कार्यं भवानेवानुपश्यतु ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,12 +1294,15 @@ monitor the military establishment without any heterogeneity. [4-29-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिपञ्चरात्रादूर्ध्वं यः प्राप्नुयादिह वानरः ।  
 तस्य प्राणान्तिको दण्डो नात्र कार्या विचारणा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,6 +1342,7 @@ no business for further adjudication. [4-29-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1279,6 +1351,8 @@ no business for further adjudication. [4-29-32]
 इति व्यवस्थां हरिपुङ्गवेश्वरो  
 विधाय वेश्म प्रविवेश वीर्यवान् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,5 +1420,6 @@ and take Sugreeva to task, and even Lakshmana jumps on Sugreeva like a firebrand
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥29॥
+</details>
 </details>
 

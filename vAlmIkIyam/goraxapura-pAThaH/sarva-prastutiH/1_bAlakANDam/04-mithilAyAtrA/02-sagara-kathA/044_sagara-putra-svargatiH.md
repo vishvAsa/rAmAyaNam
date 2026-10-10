@@ -2,6 +2,8 @@
 title = "०४४ सगर-पुत्र-स्वर्गतिः"
 title_english = "044 brahma commends bhageeratha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -22,6 +24,7 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
 
 44. ब्रह्माजीका भगीरथकी प्रशंसा करते हुए उन्हें गंगाजलसे पितरोंके तर्पणकी आज्ञा देना और राजाका वह सब करके अपने नगरको जाना, गंगावतरणके उपाख्यानकी महिमा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +33,8 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
 भस्मन्यथाप्लुते राम गङ्गायाः सलिलेन वै ।  
 सर्वलोकप्रभुर्ब्रह्मा राजानमिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -88,12 +93,15 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तारिता नरशार्दूल दिवं याताश्च देववत् ।  
 षष्टिः पुत्रसहस्राणि सगरस्य महात्मनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +138,15 @@ Oh, tigerly-man Bhageeratha, the sixty thousands sons of great souled
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरस्य जलं लोके यावत्स्थास्यति पार्थिव ।  
 सगरस्यात्मजाः सर्वे दिवि स्थास्यन्ति देववत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -173,12 +184,15 @@ As long as the water of the ocean abides in the world, oh, king,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं च दुहिता ज्येष्ठा तव गङ्गा भविष्यति ।  
 त्वत्कृतेन च नाम्नाथ लोके स्थास्यति विश्रुता ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +234,15 @@ Otherwise, 'by your fatherhood she will be called Bhaageerathi and your
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गङ्गा त्रिपथगा नाम दिव्या भागीरथीति च ।  
 त्रीन् पथो भावयन्तीति तस्मात् त्रिपथगा स्मृता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +288,15 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहानां सर्वेषां त्वमत्र मनुजाधिप ।  
 कुरुष्व सलिलं राजन् प्रतिज्ञामपवर्जय ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ You may now offer water-oblations to all of your forefathers in the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वकेण हि ते राजंस्तेनातियशसा तदा ।  
 धर्मिणां प्रवरेणाथ नैष प्राप्तो मनोरथः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,6 +379,7 @@ Your ancestor Sagara is a highly glorious one and a best one
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -364,6 +388,8 @@ Your ancestor Sagara is a highly glorious one and a best one
 राजर्षिणा गुणवता महर्षिसमतेजसा ।  
 मत्तुल्यतपसा चैव क्षत्रधर्मस्थितेन च ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,12 +428,15 @@ Like that, your grandfather Amshuman, who is unequalled in his resplendence
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिलीपेन महाभाग तव पित्रातितेजसा ।  
 पुनर्न शकिता नेतुं गङ्गां प्रार्थयतानघ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,12 +484,15 @@ The content of verse 10 at times will be attributed to verse 9, viz.,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वया समतिक्रान्ता प्रतिज्ञा पुरुषर्षभ ।  
 प्राप्तोऽसि परमं लोके यशः परमसम्मतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +528,15 @@ But, you have accomplished that pledge, oh, the best one among men,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च गङ्गावतरणं त्वया कृतमरिन्दम ।  
 अनेन च भवान् प्राप्तो धर्मस्यायतनं महत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ That 'Descent of Ganga' is perfected by you, oh, enemy-represser,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लावयस्व त्वमात्मानं नरोत्तम सदोचिते ।  
 सलिले पुरुषश्रेष्ठ शुचिः पुण्यफलो भव ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +627,15 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहानां सर्वेषां कुरुष्व सलिलक्रियाम् ।  
 स्वस्ति तेऽस्तु गमिष्यामि स्वं लोकं गम्यतां नृप ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +672,15 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा देवेशः सर्वलोकपितामहः ।  
 यथागतं तथागच्छद् देवलोकं महायशाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,6 +716,7 @@ On saying in this way, the forefather of all the worlds, and the great
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -680,6 +725,8 @@ On saying in this way, the forefather of all the worlds, and the great
 कृतोदकः शुची राजा स्वपुरं प्रविवेश ह ।  
 समृद्धार्थो नरश्रेष्ठ स्वराज्यं प्रशशास ह ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,12 +776,15 @@ On according those best water-oblations that endow superior realms
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमुमोद च लोकस्तं नृपमासाद्य राघव ।  
 नष्टशोकः समृद्धार्थो बभूव विगतज्वरः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +825,15 @@ On regaining him as their king the subjects of the kingdom are overjoyed,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष ते राम गङ्गाया विस्तरोऽभिहितो मया ।  
 स्वस्ति प्राप्नुहि भद्रं ते सन्ध्याकालोऽतिवर्तते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -818,6 +871,7 @@ Oh, Rama, this way I described to you about 'The Decent of Ganga' in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -826,6 +880,8 @@ Oh, Rama, this way I described to you about 'The Decent of Ganga' in
 प्रीयन्ते पितरस्तस्य प्रीयन्ते दैवतानि च ।  
 इदमाख्यानमायुष्यं गङ्गावतरणं शुभम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +924,15 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः शृणोति च काकुत्स्थ सर्वान् कामानवाप्नुयात् ।  
 सर्वे पापाः प्रणश्यन्ति आयुः कीर्तिश्च वर्धते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -923,5 +982,6 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥44॥
+</details>
 </details>
 

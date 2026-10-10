@@ -2,6 +2,8 @@
 title = "०१७ ऋक्षवानरोत्पत्तिः"
 title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -27,12 +29,15 @@ The gods become progenitors Vanara heroes at the dictate of Brahma to come to
 
 सप्तदशे सर्गे -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रत्वं तु गते विष्णौ राज्ञस्तस्य महात्मनः ।  
 उवाच देवताः सर्वाः स्वयम्भूर्भगवानिदम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,6 +71,7 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 असंहार्यानुपायज्ञान् दिव्यसंहननान्वितान् ।  
 सर्वास्त्रगुणसम्पन्नानमृतप्राशनानिव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,6 +122,7 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -122,6 +131,8 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 किन्नरीणां च गात्रेषु वानरीणां तनूषु च ।  
 सृजध्वं हरिरूपेण पुत्रांस्तुल्यपराक्रमान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +196,15 @@ Gandharva-s (Southey's Glendoveers) are celestial musicians inhabiting Indra's
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वमेव मया सृष्टो जाम्बवानृक्षपुङ्गवः ।  
 जृम्भमाणस्य सहसा मम वक्त्रादजायत ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +252,15 @@ This is to say that Brahma has already created such a typical being, namely Jamb
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तथोक्ता भगवता तत् प्रतिश्रुत्य शासनम् ।  
 जनयामासुरेवं ते पुत्रान् वानररूपिणः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +301,15 @@ This pedigree is not yet given the label of monkeys. They are look alike of monk
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयश्च महात्मानः सिद्धविद्याधरोरगाः ।  
 चारणाश्च सुतान् वीरान् ससृजुर्वनचारिणः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,12 +343,15 @@ The great-souled celestial groups, namely the sages, siddha-s, vidyaadharaa-s,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरेन्द्रं महेन्द्राभमिन्द्रो वालिनमात्मजम् ।  
 सुग्रीवं जनयामास तपनस्तपतां वरः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -375,12 +398,15 @@ Indra procreated the lord of vanara-s, namely Vali, who by his physique is like
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहस्पतिस्त्वजनयत् तारं नाम महाकपिम् ।  
 सर्ववानरमुख्यानां बुद्धिमन्तमनुत्तमम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +452,15 @@ Tara here is a vanara hero but not Lady Tara, the wife of Vali. Here we have the
 बृहस्पतिस् त्व् अजनयत् तारं नाम महा-हरिम् ।  
 सर्व-वानर-मुख्यानां बुद्धिमन्तम् अनुत्तमम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनदस्य सुतः श्रीमान् वानरो गन्धमादनः ।  
 विश्वकर्मा त्वजनयन्नलं नाम महाकपिम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +504,15 @@ The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vis
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पावकस्य सुतः श्रीमान् नीलोऽग्निसदृशप्रभः ।  
 तेजसा यशसा वीर्यादत्यरिच्यत वीर्यवान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +553,15 @@ The bright son of Fire is Neela whose blaze is like that of fire and who excels
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपद्रविणसम्पन्नावश्विनौ रूपसम्मतौ ।  
 मैन्दं च द्विविदं चैव जनयामासतुः स्वयम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,12 +597,15 @@ The Ashwin twin gods whose wealth is their beautiful appearance have personally
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरुणो जनयामास सुषेणं नाम वानरम् ।  
 शरभं जनयामास पर्जन्यस्तु महाबलः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +645,15 @@ The Rain-god procreated the vanara named Sushena, and Thunder-god gave rise
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुतस्यौरसः श्रीमान् हनूमान् नाम वानरः ।  
 वज्रसंहननोपेतो वैनतेयसमो जवे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +717,15 @@ Garuda: The bird and vehicle of Vishnu. He is generally represented as a being
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्ववानरमुख्येषु बुद्धिमान् बलवानपि ।  
 ते सृष्टा बहुसाहस्रा दशग्रीववधोद्यताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +751,15 @@ _________________
 
 ऎल्ल श्रेष्ठ वानररल्लि अवनु ऎल्लरिगिन्त हॆच्चु बुद्धिवन्त हागू बलवन्तनागिद्दनु. हीगॆ अनेक साविर वानरर उत्पत्तियायितु. अवरॆल्लरू रावणन वधॆगागि उद्युक्तरागिद्दरु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयबला वीरा विक्रान्ताः कामरूपिणः ।  
 ते गजाचलसङ्काशा वपुष्मन्तो महाबलाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,6 +795,7 @@ Thus the gods have procreated many thousands of such valorous and guise changing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -756,6 +804,8 @@ Thus the gods have procreated many thousands of such valorous and guise changing
 अजायत समं तेन तस्य तस्य पृथक् पृथक् ।  
 गोलाङ्गूलेषु चोत्पन्नाः किञ्चिदुन्नतविक्रमाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,6 +872,7 @@ And they with their elephantine, mountainous and prodigious bodies quickly took
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +881,8 @@ And they with their elephantine, mountainous and prodigious bodies quickly took
 नागाः किम्पुरुषाश्चैव सिद्धविद्याधरोरगाः ।  
 बहवो जनयामासुर्हृष्टास्तत्र सहस्रशः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +923,15 @@ Some of the vanara-s endowed with superior valour are born to female langoors,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारणाश्च सुतान् वीरान् ससृजुर्वनचारिणः ।  
 वानरान् सुमहाकायान् सर्वान् वै वनचारिणः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -892,6 +948,7 @@ Some of the vanara-s endowed with superior valour are born to female langoors,
 
 देवतॆगळ गुणगळन्नु हाडुव वनवासी चारणरु बहळष्टु वीर, विशालकाय वानर पुत्ररन्नु उत्पन्न माडिदरु. अवरॆल्लरू काडिन फल-मूलगळन्नु तिन्नुववरागिद्दरु.॥23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -899,6 +956,8 @@ Some of the vanara-s endowed with superior valour are born to female langoors,
 नागकन्यासु च तदा गन्धर्वीणां तनूषु च ।  
 कामरूपबलोपेता यथाकामविचारिणः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,12 +1004,15 @@ Several of the gods, great-sages, gandharva-s, eagles, yaksha-s, and the celebra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहशार्दूलसदृशा दर्पेण च बलेन च ।  
 शिलाप्रहरणाः सर्वे सर्वे पर्वतयोधिनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -991,12 +1053,15 @@ They are endowed with guise changing faculties, with bodily might and by their
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नखदंष्ट्रायुधाः सर्वे सर्वे सर्वास्त्रकोविदाः ।  
 विचालयेयुः शैलेन्द्रान् भेदयेयुः स्थिरान् द्रुमान् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,12 +1114,15 @@ Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षोभयेयुश्च वेगेन समुद्रं सरितां पतिम् ।  
 दारयेयुः क्षितिं पद‍्भ्यामाप्लवेयुर्महार्णवान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,12 +1156,15 @@ They can rock greatest mountains, rip firm rooted trees, and with their speed
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नभस्तलं विशेयुश्च गृह्णीयुरपि तोयदान् ।  
 गृह्णीयुरपि मातङ्गान् मत्तान् प्रव्रजतो वने ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1136,6 +1207,7 @@ They can shatter the ground with their two feet, leap and cross over great ocean
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1144,6 +1216,8 @@ They can shatter the ground with their two feet, leap and cross over great ocean
 शतं शतसहस्राणि यूथपानां महात्मनाम् ।  
 ते प्रधानेषु यूथेषु हरीणां हरियूथपाः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,12 +1278,15 @@ They can catch ruttish elephants that tumultuously move in forests, and just wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूवुर्यूथपश्रेष्ठान् वीरांश्चाजनयन् हरीन् ।  
 अन्ये ऋक्षवतः प्रस्थानुपतस्थुः सहस्रशः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,6 +1322,7 @@ Those vanara generals who took birth thus became the prominent generals among
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1255,6 +1333,8 @@ Those vanara generals who took birth thus became the prominent generals among
 ते तार्क्ष्यबलसम्पन्नाः सर्वे युद्धविशारदाः ।  
 विचरन्तोऽर्दयन् सर्वान् सिंहव्याघ्रमहोरगान् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,12 +1426,15 @@ Some thousands of them stayed on the ridges of Mt. Rikshavat while others reache
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबलो महाबाहुर्वाली विपुलविक्रमः ।  
 जुगोप भुजवीर्येण ऋक्षगोपुच्छवानरान् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,12 +1474,15 @@ He who is adroit, extremely mighty, and highly indomitable, that Vali protected
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैरियं पृथिवी शूरैः सपर्वतवनार्णवा ।  
 कीर्णा विविधसंस्थानैर्नानाव्यञ्जनलक्षणैः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,6 +1518,7 @@ The earth with its mountains, forests and oceanward places is overspread with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1440,6 +1527,8 @@ The earth with its mountains, forests and oceanward places is overspread with
 बभूव भूर्भीमशरीररूपैः  
 समावृता रामसहायहेतोः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1514,5 +1603,6 @@ The earth is thus suffused with those mighty army generals of Vanara race whose
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनेळनॆय सर्ग पूर्णवायितु. ॥17॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०१७ हनुमता राक्षस्यावृतसीतादर्शनम्"
 title_english = "017 Hanuma sees Seetha with ogresses"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -19,6 +21,7 @@ In this chapter Hanuma sees Seetha surrounded by ogresses.
 
 17. भयंकर राक्षसियोंसे घिरी हुई सीताके दर्शनसे हनुमान् जी का प्रसन्न होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27,6 +30,8 @@ In this chapter Hanuma sees Seetha surrounded by ogresses.
 **प्रजगाम** नभश् चन्द्रो  
 हंसो नीलमिवोदकम् ॥ १ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +74,7 @@ the clear sky like a swan obtaining blue water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ the clear sky like a swan obtaining blue water.
 चन्द्रमा रश्मिभिः शीतैः  
 **सिषेवे** पवनात्मजम् ॥ २ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,6 +122,7 @@ That moon with a peaceful glow served Hanuma with cool rays as though performing
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -122,6 +131,8 @@ That moon with a peaceful glow served Hanuma with cool rays as though performing
 शोकभारैर् इव **न्यस्तां**  
 भारैर् नावम् इवाम्भसि ॥ ३ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,6 +166,7 @@ a ship sinking down in water due to weight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +175,8 @@ a ship sinking down in water due to weight.
 स **ददर्शाविदूरस्था**  
 राक्षसीर् घोरदर्शनाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,6 +196,7 @@ _________________
 
 वैदेहियन्नु नोडलु बयसिद्द वायुपुत्रनाद हनुमन्तनु अवळ समीपदल्लिये इद्द भयङ्करवागि काणुत्तिद्द राक्षसियरन्नु नोडिदनु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -190,6 +205,8 @@ _________________
 अकर्णां शङ्कुकर्णां च  
 मस्तकोच्छ्वास-नासिकाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,6 +218,7 @@ _________________
 
 उनमेंसे किसीके एक आँख थी तो दूसरीके एक कान । किसी-किसीके कान इतने बड़े थे कि वह उन्हें चादरकी भाँति ओढ़े हुए थीं । किसीके कान ही नहीं थे और किसीके कान ऐसे दिखायी देते थे मानो खूँटे गड़े हुए हों । किसी-किसीकी साँस लेनेवाली नाक उसके मस्तकपर थी ॥ ५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,6 +227,8 @@ _________________
 ध्वस्तकेशीं तथाकेशीं  
 केशकम्बलधारिणीम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +240,15 @@ _________________
 
 किसीका शरीर बहुत बड़ा था और किसीका बहुत उत्तम । किसीकी गर्दन पतली और बड़ी थी । किसीके केश उड़ गये थे और किसी-किसीके माथेपर केश उगे ही नहीं थे । कोई-कोई राक्षसी अपने शरीरके केशोंका ही कम्बल धारण किये हुए थी ॥ ६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लम्बकर्णललाटां च लम्बोदरपयोधराम् ।  
 लम्बोष्ठीं चिबुकोष्ठीं च लम्बास्यां लम्बजानुकाम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,12 +265,15 @@ _________________
 
 किसीके कान और ललाट बड़े-बड़े थे तो किसीके पेट और स्तन लंबे थे । किसीके ओठ बड़े होनेके कारण लटक रहे थे तो किसीके ठोड़ीमें ही सटे हुए थे । किसीका मुँह बड़ा था और किसीके घुटने ॥ ७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रस्वां दीर्घां च कुब्जां च विकटां वामनां तथा ।  
 करालां भुग्नवक्त्रां च पिङ्गाक्षीं विकृताननाम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,6 +288,7 @@ _________________
 
 कोई नाटी, कोई लंबी, कोई कुबड़ी, कोई टेढ़ी-मेढ़ी, कोई बवनी, कोई विकराल, कोई टेढ़े मुँहवाली, कोई पीली आँखवाली और कोई विकट मुँहवाली थीं ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -270,6 +297,8 @@ _________________
 कालाय-समहाशूल-  
 कूट-मुद‍्गर-धारिणीः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +310,15 @@ _________________
 
 कितनी ही राक्षसियाँ बिगड़े शरीरवाली, काली, पीली, क्रोध करनेवाली और कलह पसंद करनेवाली थीं । उन सबने काले लोहेके बने हुए बड़े-बड़े शूल, कूट और मुद‍्गर धारण कर रखे थे ॥ ९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वराहमृगशार्दूलमहिषाजशिवामुखाः ।  
 गजोष्ट्रहयपादाश्च निखातशिरसोऽपराः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +333,15 @@ _________________
 
 कितनी ही राक्षसियोंके मुख सूअर, मृग, सिंह, भैंस, बकरी और सियारिनोंके समान थे । किन्हींके पैर हाथियोंके समान, किन्हींके ऊँटोंके समान और किन्हींके घोड़ोंके समान थे । किन्हीं-किन्हींके सिर कबन्धकी भाँति छातीमें स्थित थे; अतः गड्ढेके समान दिखायी देते थे । (अथवा किन्हीं-किन्हींके सिरमें गड्ढे थे) ॥ १० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकहस्तैकपादाश्च खरकर्ण्यश्वकर्णिकाः ।  
 गोकर्णीर्हस्तिकर्णीश्च हरिकर्णीस्तथापराः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +353,15 @@ _________________
 
 किन्हींके एक हाथ थे तो किन्हींके एक पैर । किन्हींके कान गदहोंके समान थे तो किन्हींके घोड़ोंके समान । किन्हीं-किन्हींके कान गौओं, हाथियों और सिंहोंके समान दृष्टिगोचर होते थे ॥ ११ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिनासाश्च काश्चिच्च तिर्यङ्नासा अनासिकाः ।  
 गजसन्निभनासाश्च ललाटोच्छ्वासनासिकाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +376,15 @@ _________________
 
 किन्हींकी नासिकाएँ बहुत बड़ी थीं और किन्हींकी तिरछी । किन्हीं-किन्हींके नाक ही नहीं थी । कोई-कोई हाथीकी सूँड़के समान नाकवाली थीं और किन्हीं-किन्हींकी नासिकाएँ ललाटमें ही थीं, जिनसे वे साँस लिया करती थीं ॥ १२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हस्तिपादा महापादा गोपादाः पादचूलिकाः ।  
 अतिमात्रशिरोग्रीवा अतिमात्रकुचोदरीः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,6 +396,7 @@ _________________
 
 किन्हींके पैर हाथियोंके समान थे और किन्हींके गौओंके समान । कोई बड़े-बड़े पैर धारण करती थीं और कितनी ही ऐसी थीं जिनके पैरोंमें चोटीके समान केश उगे हुए थे । बहुत-सी राक्षसियाँ बेहद लंबे सिर और गर्दनवाली थीं और कितनोंके पेट तथा स्तन बहुत बड़े-बड़े थे ॥ १३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -362,6 +404,8 @@ _________________
 अजामुखीर्हस्तिमुखीर्गोमुखीः सूकरीमुखीः ॥ १४ ॥  
 हयोष्ट्रखरवक्त्राश्च राक्षसीर्घोरदर्शनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,6 +422,7 @@ _________________
 
 किन्हींके मुँह और नेत्र सीमासे अधिक बड़े थे, किन्हीं-किन्हींके मुखोंमें बड़ी-बड़ी जिह्वाएँ थीं और कितनी ही ऐसी राक्षसियाँ थीं, जो बकरी, हाथी, गाय, सूअर, घोड़े, ऊँट और गदहोंके समान मुँह धारण करती थीं । इसीलिये वे देखनेमें बड़ी भयंकर थीं ॥ १४ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -388,6 +433,8 @@ _________________
 **पिबन्ति** सततं पानं  
 सुरा-मांस-सदा-प्रियाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,6 +450,7 @@ _________________
 
 किन्हींके हाथमें शूल थे तो किन्हींके मुद‍्गर । कोई क्रोधी स्वभावकी थीं तो कोई कलहसे प्रेम रखती थीं । धुएँ-जैसे केश और विकृत मुखवाली कितनी ही विकराल राक्षसियाँ सदा मद्यपान किया करती थीं । मदिरा और मांस उन्हें सदा प्रिय थे ॥ १५-१६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,6 +459,8 @@ _________________
 ता **ददर्श** कपिश्रेष्ठो  
 रोम-हर्षण-दर्शनाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,6 +559,7 @@ one and also one with high teeth and one with crooked mouth, one with green eyes
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -521,6 +572,8 @@ one and also one with high teeth and one with crooked mouth, one with green eyes
 निष्प्रभां शोकसन्तप्तां  
 मल-सङ्कुल-मूर्धजाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,6 +645,7 @@ that tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -600,6 +654,8 @@ that tree.
 चारित्र-व्यपदेशाढ्यां  
 भर्तृ-दर्शन-दुर्गताम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +698,7 @@ with husband's love as ornament.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -650,6 +707,8 @@ with husband's love as ornament.
 राक्षसाधिपसंरुद्धां  
 बन्धुभिश् च विनाकृताम् ॥ २१ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,6 +751,7 @@ being detained by a lion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -700,6 +760,8 @@ being detained by a lion.
 चन्द्ररेखां पयोदान्ते  
 शारदाभ्रैर् इवावृताम् ॥ २२ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,6 +802,7 @@ lustre due to lack of contact with husband, was like an unplucked Veena.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -752,6 +815,8 @@ lustre due to lack of contact with husband, was like an unplucked Veena.
 ताभिः परिवृतां तत्र  
 सग्रहाम् इव रोहिणीम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,6 +885,7 @@ of Ashoka garden being immersed in an ocean of grief
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +896,8 @@ of Ashoka garden being immersed in an ocean of grief
 मृणाली पङ्क-दिग्धेव  
 विभाति च न भाति च ॥ २५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,6 +936,7 @@ like a lotus-fibre covered with dirt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -876,6 +945,8 @@ like a lotus-fibre covered with dirt.
 संवृतां मृग-शावाक्षीं  
 **ददर्श** हनुमान् कपिः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,6 +960,7 @@ _________________
 
 मैले और पुराने वस्त्रसे ढकी हुई मृगशावकनयनी भामिनी सीताको कपिवर हनुमान् ने उस अवस्थामें देखा ॥ २६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -897,6 +969,8 @@ _________________
 **रक्षितां** स्वेन शीलेन  
 सीताम् असितलोचनाम् ॥ २७ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +981,7 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 यद्यपि देवी सीताके मुखपर दीनता छा रही थी तथापि अपने पतिके तेजका स्मरण हो आनेसे उनके हृदयसे वह दैन्य दूर हो जाता था । कजरारे नेत्रोंवाली सीता अपने शीलसे ही सुरक्षित थीं ॥ २७ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,6 +999,8 @@ _________________
 **प्रहर्षम्** अतुलं **लेभे**  
 मारुतिः **प्रेक्ष्य** मैथिलीम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,6 +1087,7 @@ protected by her own character.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1018,6 +1096,8 @@ protected by her own character.
 **मुमोच** हनुमांस् तत्र  
 नमश् **चक्रे** च राघवम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,6 +1116,7 @@ protected by her own character.
 
 मनोहर नेत्रवाली सीताको वहाँ देखकर हनुमान् जी  हर्षके आँसू बहाने लगे । उन्होंने मन-ही-मन श्रीरघुनाथजीको नमस्कार किया ॥ ३१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1044,6 +1125,8 @@ protected by her own character.
 सीता-दर्शन-संहृष्टो  
 हनुमान् **संवृतो ऽभवत्** ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,5 +1194,6 @@ to Sri Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हदिनेळनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००५ अयोध्यावर्णनम्"
 title_english = "005 City ayodhya detailed"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -21,6 +23,7 @@ along with its town planning and grandeur of the city, and its residents.
 
 5. राजा दशरथद्वारा सुरक्षित अयोध्यापुरीका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ along with its town planning and grandeur of the city, and its residents.
 इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम् ।  
 महदुत्पन्नमाख्यानं रामायणमिति श्रुतम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,12 +98,15 @@ of such Ikshvaku kings this highly revered and reputed epic Ramayana is originat
 
 प्रजापतिर् मनुः । तस्येयं पृथिवी ब्रह्मणा दत्ता । स च एतस्याः परिपालनं वर्णाश्रम-धर्माणां रक्षणं दुष्ट-निग्रहः शिष्ट-परिपालनं च कर्तव्यम् इति बुद्ध्या पृथिव्याम् आर्यावर्त-पुण्य-भूमौ,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं वर्तयिष्यावः सर्वं निखिलमादितः ।  
 धर्मकामार्थसहितं श्रोतव्यमनसूयता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -140,12 +148,15 @@ seeking... and this be listened without any caviling. [1-5-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोशलो नाम मुदितः स्फीतो जनपदो महान् ।  
 निविष्टः सरयूतीरे प्रभूतधनधान्यवान् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +193,15 @@ is snugly situated on the riverbanks of Sarayu. [1-5-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्या नाम नगरी तत्रासील्लोकविश्रुता ।  
 मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +269,15 @@ ruler of mankind. [1-4-6]
 
 इति । एतस्योदाहरणं कुम्भोद्भव-वैन्यादयो बहवः सन्ति । विस्तर-भयान् न लिख्यन्ते । अयं तु श्री-राम-स्वामी विशुद्ध-माता-पितृ-जन्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयता दश च द्वे च योजनानि महापुरी ।  
 श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +331,15 @@ measures can be had from The Artha-Shaastra of Kautilya - a republication of Pen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजमार्गेण महता सुविभक्तेन शोभिता ।  
 मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,12 +373,15 @@ and with flowers strewn and scattered on them. [1-5-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु राजा दशरथो महाराष्ट्रविवर्धनः ।  
 पुरीमावासयामास दिवि देवपतिर्यथा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +420,15 @@ as his abode. [1-5-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपाटतोरणवतीं सुविभक्तान्तरापणाम् ।  
 सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +473,15 @@ in such a city. [1-4-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूतमागधसम्बाधां श्रीमतीमतुलप्रभाम् ।  
 उच्चाट्टालध्वजवतीं शतघ्नीशतसङ्कुलाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +529,15 @@ this *shataghni*, *kshipaNi* are there in *yajuraaraNyaka* .
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधूनाटकसङ्घैश्च संयुक्तां सर्वतः पुरीम् ।  
 उद्यानाम्रवणोपेतां महतीं सालमेखलाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +578,15 @@ cincture ornament. [1-5-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम् ।  
 वाजिवारणसम्पूर्णां गोभिरुष्ट्रैः खरैस्तथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,12 +629,15 @@ and profound moats, and she is abounding with horses, camels, likewise with cows
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामन्तराजसङ्घैश्च बलिकर्मभिरावृताम् ।  
 नानादेशनिवासैश्च वणिग्भिरुपशोभिताम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,12 +678,15 @@ a city Dasharatha dwells. [1-5-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम् ।  
 कूटागारैश्च सम्पूर्णामिन्द्रस्येवामरावतीम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,12 +726,15 @@ she is adorned, and filled with them she is like Amaravati, the capital of Indra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रामष्टापदाकारां वरनारीगणायुताम् ।  
 सर्वरत्नसमाकीर्णां विमानगृहशोभिताम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,12 +780,15 @@ up, and where its seven storied buildings are picturesque. [1-5-16]
 
 * गोविन्दराजकी टीकामें अष्टापदका अर्थ शारिफल या द्यूतफलक किया गया है । वह चौकी जिसपर पासा बिछाया या खेला जाय, द्यूतफलक कहलाती है । पुरीके बीचमें राजमहल था । उसके चारों ओर राजबीथियाँ थीं और बीचमें खाली जगहें थीं । यही ‘अष्टापदाकारा’ का भाव है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहगाढामविच्छिद्रां समभूमौ निवेशिताम् ।  
 शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +823,15 @@ cane juice. [1-5-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुन्दुभीभिर्मृदङ्गैश्च वीणाभिः पणवैस्तथा ।  
 नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +874,15 @@ as a sort of background music, since royalty sponsors these performing arts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानमिव सिद्धानां तपसाधिगतं दिवि ।  
 सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,6 +916,7 @@ are well planned and it is teeming with best people. [1-4-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,6 +927,8 @@ are well planned and it is teeming with best people. [1-4-19]
 तादृशानां सहस्रैस्तामभिपूर्णां महारथैः ।  
 पुरीमावासयामास राजा दशरथस्तदा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,6 +1018,7 @@ incidents would have recurred.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -970,6 +1027,8 @@ incidents would have recurred.
 सहस्रदैः सत्यरतैर्महात्मभि-  
 र्महर्षिकल्पैर्ऋषिभिश्च केवलैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,5 +1089,6 @@ saints, and who are just like sages that are charitable donors, and that abide b
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐदनॆय सर्ग पूर्णवायितु.॥5॥
+</details>
 </details>
 

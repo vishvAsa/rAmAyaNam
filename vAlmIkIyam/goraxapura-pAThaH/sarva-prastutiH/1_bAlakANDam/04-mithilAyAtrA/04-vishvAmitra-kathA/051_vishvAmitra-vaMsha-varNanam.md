@@ -2,6 +2,8 @@
 title = "०५१ विश्वामित्र-वंश-वर्णनम्"
 title_english = "051 The legend of vishvamitra"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -24,12 +26,15 @@ as has been done by Vishvamitra, will be unbecoming for kings.
 
 51. शतानन्दके पूछनेपर विश्वामित्रका उन्हें श्रीरामके द्वारा अहल्याके उद्धारका समाचार बताना तथा शतानन्दद्वारा श्रीरामका अभिनन्दन करते हुए विश्वामित्रजीके पूर्वचरित्रका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा विश्वामित्रस्य धीमतः ।  
 हृष्टरोमा महातेजाः शतानन्दो महातपाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,12 +51,15 @@ as has been done by Vishvamitra, will be unbecoming for kings.
 
 धीमन्तराद विश्वामित्रर मातन्नु केळि महातेजस्वी, महातपस्वी शतानन्दर शरीरदल्लि रोमाञ्चन उण्टायितु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौतमस्य सुतो ज्येष्ठस्तपसा द्योतितप्रभः ।  
 रामसन्दर्शनादेव परं विस्मयमागतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,12 +102,15 @@ amazed just on seeing Rama. [1-51-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ निषण्णौ सम्प्रेक्ष्य शतानन्दो नृपात्मजौ ।  
 सुखासीनौ मुनिश्रेष्ठं विश्वामित्रमथाब्रवीत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,12 +152,15 @@ bending down submissively, then Shataananda spoke to the eminent sage Vishvamitr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि ते मुनिशार्दूल मम माता यशस्विनी ।  
 दर्शिता राजपुत्राय तपोदीर्घमुपागता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +194,15 @@ meted out a marathon ascesis to the princes - Really! [1-51-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि रामे महातेजा मम माता यशस्विनी ।  
 वन्यैरुपाहरत् पूजां पूजार्हे सर्वदेहिनाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,12 +244,15 @@ worthy of worship by every corporeal being, with forest produce, is it so! [1-51
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि रामाय कथितं यद् वृत्तं तत् पुरातनम् ।  
 मम मातुर्महातेजो देवेन दुरनुष्ठितम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +292,15 @@ of my mother by the Providence as has happened anciently, isn't it![1-51-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि कौशिक भद्रं ते गुरुणा मम सङ्गता ।  
 मम माता मुनिश्रेष्ठ रामसन्दर्शनादितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +341,15 @@ beholding and giving hospitality to Rama - Really! [1-51-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि मे गुरुणा रामः पूजितः कुशिकात्मज ।  
 इहागतो महातेजाः पूजां प्राप्य महात्मनः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -361,12 +387,15 @@ the endowment of Ahalya to her husband. [1-51-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि शान्तेन मनसा गुरुर्मे कुशिकात्मज ।  
 इहागतेन रामेण पूजितेनाभिवादितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +440,15 @@ sage Shataananda exclaimed at the marvel occurred through Rama. [1-51-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य विश्वामित्रो महामुनिः ।  
 प्रत्युवाच शतानन्दं वाक्यज्ञो वाक्यकोविदम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +491,15 @@ replied the sentence-precisionist Sage Shataananda. [1-51-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नातिक्रान्तं मुनिश्रेष्ठ यत्कर्तव्यं कृतं मया ।  
 सङ्गता मुनिना पत्नी भार्गवेणेव रेणुका ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -511,12 +546,15 @@ This Parashu Rama confronts Rama of Ramayana after Seetha's marriage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य विश्वामित्रस्य धीमतः ।  
 शतानन्दो महातेजा रामं वचनमब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +588,15 @@ Shataananda spoke these words to Rama. [1-51-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं ते नरश्रेष्ठ दिष्ट्या प्राप्तोऽसि राघव ।  
 विश्वामित्रं पुरस्कृत्य महर्षिमपराजितम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -603,12 +644,15 @@ to the legend of Vishvamitra through Shataananda.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिन्त्यकर्मा तपसा ब्रह्मर्षिरमितप्रभः ।  
 विश्वामित्रो महातेजा वेद्‍म्येनं परमां गतिम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +703,15 @@ some more...' would be better. Because Vishvamitra is a *paramahitasandhaayaka*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्ति धन्यतरो राम त्वत्तोऽन्यो भुवि कश्चन ।  
 गोप्ता कुशिकपुत्रस्ते येन तप्तं महत्तपः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,12 +746,15 @@ care of Vishvamitra, the scion of Kushika, who has practised supreme ascesis. [1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां चाभिधास्यामि कौशिकस्य महात्मनः ।  
 यथाबलं यथातत्त्वं तन्मे निगदतः शृणु ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +792,15 @@ of his legend may be heard from me while I narrate it. [1-51-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजाऽऽसीदेष धर्मात्मा दीर्घकालमरिन्दमः ।  
 धर्मज्ञः कृतविद्यश्च प्रजानां च हिते रतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +843,15 @@ was there as a king for a long time. [1-51-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजापतिसुतस्त्वासीत् कुशो नाम महीपतिः ।  
 कुशस्य पुत्रो बलवान् कुशनाभः सुधार्मिकः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,12 +885,15 @@ powerful and verily righteous Kushanaabha. [1-51-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशनाभसुतस्त्वासीद् गाधिरित्येव विश्रुतः ।  
 गाधेः पुत्रो महातेजा विश्वामित्रो महामुनिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +927,15 @@ son is this great-saint of great resplendence, Vishvamitra. [1-51-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रो महातेजाः पालयामास मेदिनीम् ।  
 बहुवर्षसहस्राणि राजा राज्यमकारयत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +975,15 @@ for many thousands of years. [1-51-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदाचित् तु महातेजा योजयित्वा वरूथिनीम् ।  
 अक्षौहिणीपरिवृतः परिचक्राम मेदिनीम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,6 +1022,7 @@ The army unit called *akshauhini* consists of 21,870 elephants, as many chariots
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -965,6 +1031,8 @@ The army unit called *akshauhini* consists of 21,870 elephants, as many chariots
 वसिष्ठस्याश्रमपदं नानापुष्पलताद्रुमम् ।  
 नानामृगगणाकीर्णं सिद्धचारणसेवितम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -988,6 +1056,7 @@ _________________
 
 अवरु अनेक नगर, राष्ट्रगळन्नु दॊड्ड दॊड्ड पर्वत मत्तु आश्रमगळन्नु क्रमवागि सञ्चरिसुत्ता महर्षि वसिष्ठर आश्रमक्कॆ बन्दु तलुपिदरु. आ आश्रमवु नाना विधद फल-पुष्ट, लतॆगळिन्द, वृक्षगळिन्द सुशोभितवागित्तु. नाना वन्यपशुगळु अल्लि ऎल्लॆडॆगॆ तुम्बिकॊण्डिद्दवु हागू सिद्ध-चारणरू अल्लि वासिसुत्तिद्दरु.॥22-23॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -995,6 +1064,8 @@ _________________
 प्रशान्तहरिणाकीर्णं द्विजसङ्घनिषेवितम् ॥ २४ ॥  
 ब्रह्मर्षिगणसङ्कीर्णं देवर्षिगणसेवितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,6 +1083,7 @@ _________________
 
 देवतॆगळु, दानवरु, गन्धर्वरु, किन्नररु अदर शोभॆयन्नु हॆच्चिसुत्तिद्दरु. शान्तवाद मृगगळु अल्लि तुम्बिद्दवु. बहळष्टु ब्राह्मणरु मत्तु देवर्षिगळ समूह अवन्नु सेविसुत्तित्तु.॥24॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1024,6 +1096,8 @@ _________________
 वसिष्ठस्याश्रमपदं ब्रह्मलोकमिवापरम् ।  
 ददर्श जयतां श्रेष्ठो विश्वामित्रो महाबलः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,5 +1216,6 @@ king Vishvamitra arrived at such a magnificent hermitage of Sage Vashishta. [1-5
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥51॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०७५ युद्धवर्णनम्"
 title_english = "075 The battle resumes"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ army of demons in all sides.
 
 75. लङ्कापुरीका दहन तथा राक्षसों और वानरोंका भयंकर युद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्महातेजाः सुग्रीवो वानरेश्वरः ।  
 अर्थ्यं विज्ञापयंश्चापि हनूमन्तमिदं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ meaningful words to Hanuma, in order to inform him what they should do next.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतो हतः कुम्भकर्णः कुमाराश्च निषूदिताः ।  
 नेदानीमुपनिर्हारं रावणो दातुमर्हति ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ now".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये ये महाबलाः सन्ति लघवश्च प्लवङ्गमाः ।  
 लङ्कामभिपतन्त्वाशु गृह्योल्काः प्लवगर्षभाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +176,15 @@ their hands, rush towards Lanka quickly, in order to set ablaze the abode of Rav
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽस्तं गत आदित्ये रौद्रे तस्मिन् निशामुखे ।  
 लङ्कामभिमुखाः सोल्का जग्मुस्ते प्लवगर्षभाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ towards Lanka, with torches in their hands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उल्काहस्तैर्हरिगणैः सर्वतः समभिद्रुताः ।  
 आरक्षस्था विरूपाक्षाः सहसा विप्रदुद्रुवुः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,12 +260,15 @@ sides, the diversely eyed demons who were holding the position of guards, sudden
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोपुराट्टप्रतोलीषु चर्यासु विविधासु च ।  
 प्रासादेषु च संहृष्टाः ससृजुस्ते हुताशनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,12 +302,15 @@ various byways and mansions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां गृहसहस्राणि ददाह हुतभुक् तदा ।  
 प्रासादाः पर्वताकाराः पतन्ति धरणीतले ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,12 +344,15 @@ fell down on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगुरुर्दह्यते तत्र परं चैव सुचन्दनम् ।  
 मौक्तिका मणयः स्निग्धा वज्रं चापि प्रवालकम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +389,15 @@ were burnt there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षौमं च दह्यते तत्र कौशेयं चापि शोभनम् ।  
 आविकं विविधं चौर्णं काञ्चनं भाण्डमायुधम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,12 +437,15 @@ ornaments and weapons were burnt there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविकृतसंस्थानं वाजिभाण्डपरिच्छदम् ।  
 गजग्रैवेयकक्ष्याश्च रथभाण्डांश्च संस्कृतान् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,6 +490,7 @@ chariots were also burnt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -467,6 +500,8 @@ chariots were also burnt.
 मुक्तामणिविचित्रांश्च प्रासादांश्च समन्ततः ॥ १२ ॥  
 विविधानस्त्रसङ्घातानग्निर्दहति तत्र वै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,6 +545,7 @@ bow-strings, arrows, lances, goads and javelins were burnt there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -517,6 +553,8 @@ bow-strings, arrows, lances, goads and javelins were burnt there.
 आवासान् राक्षसानां च सर्वेषां गृहगृध्नुनाम् ।  
 हेमचित्रतनुत्राणां स्रग्भाण्डाम्बरधारिणाम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,6 +592,7 @@ and gems and various kinds of stores of arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -565,6 +604,8 @@ and gems and various kinds of stores of arms.
 तेषां शतसहस्राणि तदा लङ्कानिवासिनाम् ॥ १७ ॥  
 अदहत् पावकस्तत्र जज्वाल च पुनः पुनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,6 +627,7 @@ and gems and various kinds of stores of arms.
 
 मद्यपान दिन्द कण्णुगळु चञ्चलरागिद्द, अमलिनल्लि विह्वलरागि तूराडुत्तिद्द, यार वसगळन्नु अवन प्रेयसि हिडिदॆळॆयुत्तिद्दळो, शत्रुगळ मेलॆ कुपितरागिद्द, यार कैगळल्लि गदॆ, खड्ग, शूलगळु शोभिसुत्तिद्दवो, यारु भक्ष-भोज्यादिगळल्लि तॊडगिद्दरो, यारु अमूल्य शय्यॆगळल्लि तम्म प्राणवल्लभॆयर सङ्गदल्लि इद्दरो, अग्निय भयदिन्द मक्कळन्नु ऎत्तिकॊण्डु ओडुत्तिद्दरो, इन्तह लक्षान्तर लङ्का निवासिगळन्नु बॆङ्कियु सुट्टु भस्मवागिसुत्ता, पुनः पुनः प्रज्वलिसुत्तले इत्तु.॥15-17½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -596,6 +638,8 @@ and gems and various kinds of stores of arms.
 क्रौञ्चबर्हिणवीणानां भूषणानां च निःस्वनैः ॥ २० ॥  
 नादितान्यचलाभानि वेश्मान्यग्निर्ददाह सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,12 +696,15 @@ again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्वलनेन परीतानि तोरणानि चकाशिरे ॥ २१ ॥  
 विद्युद्भिरिव नद्धानि मेघजालानि घर्मगे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -704,12 +751,15 @@ veena the Indian lute and the jingling of ornaments as also appearing like mount
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्वलनेन परीतानि गृहाणि प्रचकाशिरे ॥ २२ ॥  
 दावाग्निदीप्तानि यथा शिखराणि महागिरेः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +793,15 @@ lightning, at the end of a summer season.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानेषु प्रसुप्ताश्च दह्यमाना वराङ्गनाः ॥ २३ ॥  
 त्यक्ताभरणसंयोगा हाहेत्युच्चैर्विचुक्रुशुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +838,15 @@ a forest-fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र चाग्निपरीतानि निपेतुर्भवनान्यपि ॥ २४ ॥  
 वज्रिवज्रहतानीव शिखराणि महागिरेः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +888,15 @@ seven-storeyed mansions, gave up all connection with their ornaments and screame
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि निर्दह्यमानानि दूरतः प्रचकाशिरे ॥ २५ ॥  
 हिमवच्छिखराणीव दह्यमानानि सर्वशः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,12 +933,15 @@ struck by the thunder-bolt of Indra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्म्याग्रैर्दह्यमानैश्च ज्वालाप्रज्वलितैरपि ॥ २६ ॥  
 रात्रौ सा दृश्यते लङ्का पुष्पितैरिव किंशुकैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +975,15 @@ consumed by fire on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हस्त्यध्यक्षैर्गजैर्मुक्तैर्मुक्तैश्च तुरगैरपि ।  
 बभूव लङ्का लोकान्ते भ्रान्तग्राह इवार्णवः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,12 +1017,15 @@ looked like Kimshuka trees in full bloom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वं मुक्तं गजो दृष्ट्वा क्वचिद् भीतोऽपसर्पति ।  
 भीतो भीतं गजं दृष्ट्वा क्वचिदश्वो निवर्तते ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1067,15 @@ world-cycle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्कायां दह्यमानायां शुशुभे च महोदधिः ।  
 छायासंसक्तसलिलो लोहितोद इवार्णवः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1110,15 @@ seeing a frightened elephant, a horse turned back with an alarm.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा बभूव मुहूर्तेन हरिभिर्दीपिता पुरी ।  
 लोकस्यास्य क्षये घोरे प्रदीप्तेव वसुन्धरा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,12 +1158,15 @@ waters, assumed like a great sea with red waters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारीजनस्य धूमेन व्याप्तस्योच्चैर्विनेदुषः ।  
 स्वनो ज्वलनतप्तस्य शुश्रुवे शतयोजनम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,12 +1203,15 @@ earth burning at the time of terrific dissolution of this world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदग्धकायानपरान् राक्षसान् निर्गतान् बहिः ।  
 सहसा ह्युत्पतन्ति स्म हरयोऽथ युयुत्सवः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1248,15 @@ loudly, was heard upto one hundred Yojanas (or eight hundred miles).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद‍्घुष्टं वानराणां च राक्षसानां च निःस्वनम् ।  
 दिशो दश समुद्रं च पृथिवीं च व्यनादयत् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1208,12 +1291,15 @@ bodies had been severely burnt and who rushed out (to save their lives).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशल्यौ च महात्मानौ तावुभौ रामलक्ष्मणौ ।  
 असम्भ्रान्तौ जगृहतुस्ते उभे धनुषी वरे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1253,12 +1339,15 @@ all the ten quarters, the ocean and the earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विस्फारयामास रामश्च धनुरुत्तमम् ।  
 बभूव तुमुलः शब्दो राक्षसानां भयावहः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1295,12 +1384,15 @@ Lakshmana seized hold of those two excellent bows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोभत तदा रामो धनुर्विस्फारयन् महत् ।  
 भगवानिव सङ्क्रुद्धो भवो वेदमयं धनुः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,12 +1426,15 @@ terror in demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद‍्घुष्टं वानराणां च राक्षसानां च निःस्वनम् ।  
 ज्याशब्दस्तावुभौ शब्दावति रामस्य शुश्रुवे ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1375,12 +1470,15 @@ dissolution of the Universe).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरोद‍्घुष्टघोषश्च राक्षसानां च निःस्वनः ।  
 ज्याशब्दश्चापि रामस्य त्रयं व्याप दिशो दश ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,12 +1521,15 @@ sound of the monkeys and the cry of the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य कार्मुकनिर्मुक्तैः शरैस्तत्पुरगोपुरम् ।  
 कैलासशृङ्गप्रतिमं विकीर्णमभवद् भुवि ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1472,12 +1573,15 @@ bow-string these three sounds pervaded all the ten quarters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामशरान् दृष्ट्वा विमानेषु गृहेषु च ।  
 सन्नाहो राक्षसेन्द्राणां तुमुलः समपद्यत ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1517,12 +1621,15 @@ peak of Mount Kailasa, tumbled down, shattered, to the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां सन्नह्यमानानां सिंहनादं च कुर्वताम् ।  
 शर्वरी राक्षसेन्द्राणां रौद्रीव समपद्यत ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1557,12 +1664,15 @@ houses, the war-preparedness of the leaders of demons got disturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदिष्टा वानरेन्द्रास्ते सुग्रीवेण महात्मना ।  
 आसन्नं द्वारमासाद्य युध्यध्वं च प्लवङ्गमाः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1607,12 +1717,15 @@ destruction).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश्च वो वितथं कुर्यात् तत्र तत्राप्युपस्थितः ।  
 स हन्तव्योऽभिसम्प्लुत्य राजशासनदूषकः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1629,12 +1742,15 @@ destruction).
 
 निम्मल्लि यारादरू युद्धभूमियल्लि उपस्थितनागि, युद्धदिन्द हिम्मॆट्टि ओडिहोदरॆ अवनन्नु नीवु हिडिदु कॊन्दुहाकिरि; एकॆन्दरॆ अवनु राजाज्ञॆ यन्नु उल्लङ्घिसिरुववनु.॥43॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु वानरमुख्येषु दीप्तोल्कोज्ज्वलपाणिषु ।  
 स्थितेषु द्वारमाश्रित्य रावणं क्रोध आविशत् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1674,12 +1790,15 @@ royal command."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य जृम्भितविक्षेपाद् व्यामिश्रा वै दिशो दश ।  
 रूपवानिव रुद्रस्य मन्युर्गात्रेष्वदृश्यत ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1713,12 +1832,15 @@ hands, Ravana was enraged with fury.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कुम्भं च निकुम्भं च कुम्भकर्णात्मजावुभौ ।  
 प्रेषयामास सङ्क्रुद्धो राक्षसैर्बहुभिः सह ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1754,12 +1876,15 @@ appearing with a form.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यूपाक्षः शोणिताक्षश्च प्रजङ्घः कम्पनस्तथा ।  
 निर्ययुः कौम्भकर्णिभ्यां सह रावणशासनात् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1796,12 +1921,15 @@ with a multitude of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शशास चैव तान् सर्वान् राक्षसान् स महाबलान् ।  
 राक्षसा गच्छताद्यैव सिंहनादं च नादयन् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1838,12 +1966,15 @@ aforesaid sons of Kumbhakarna set out for the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु चोदितास्तेन राक्षसा ज्वलितायुधाः ।  
 लङ्काया निर्ययुर्वीराः प्रणदन्तः पुनः पुनः ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1877,12 +2008,15 @@ bellowing a lion's roar."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षसां भूषणस्थाभिर्भाभिः स्वाभिश्च सर्वशः ।  
 चक्रुस्ते सप्रभं व्योम हरयश्चाग्निभिः सह ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1922,12 +2056,15 @@ repeatedly, sallied forth from Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र ताराधिपस्याभा ताराणां भा तथैव च ।  
 तयोराभरणाभा च ज्वलिता द्यामभासयत् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1965,12 +2102,15 @@ monkeys with their fires, made the sky fluorescent on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्राभा भूषणाभा च ग्रहाणां ज्वलतां च भा ।  
 हरिराक्षससैन्यानि भ्राजयामास सर्वतः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2008,12 +2148,15 @@ ornaments of both the armies, while blazing, made the sky brilliant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र चार्धप्रदीप्तानां गृहाणां सागरः पुनः ।  
 भाभिः संसक्तसलिलश्चलोर्मिः शुशुभेऽधिकम् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2056,6 +2199,7 @@ the blazing planets made the armies of monkeys and demons glitter on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2064,6 +2208,8 @@ the blazing planets made the armies of monkeys and demons glitter on all sides.
 दीप्तशूलगदाखड्गप्रासतोमरकार्मुकम् ।  
 तद् राक्षसबलं भीमं घोरविक्रमपौरुषम् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2104,6 +2250,7 @@ agitated waves mingled with water, shone abundantly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2113,6 +2260,8 @@ agitated waves mingled with water, shone abundantly.
 गन्धमाल्यमधूत्सेकसम्मोदितमहानिलम् ॥ ५७ ॥  
 घोरं शूरजनाकीर्णं महाम्बुधरनिःस्वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2132,12 +2281,15 @@ agitated waves mingled with water, shone abundantly.
 
 आ सैन्यदल्लि भल्लॆगळु हॊळॆयुत्तिद्दवु. साविरारु गॆज्जॆगळ झेङ्कार केळि बरुत्तित्तु. सैनिकरु भुजगळल्लि स्वर्ण आभूषणगळु धरिसिद्दरु. कॊडलिगळन्नु बीसुत्ता, दॊड्ड दॊड्ड शस्त्रगळन्नु तिरुगिसुत्तिद्दरु. चन्दन, पुष्पमालॆ मत्तु मधुविनिन्दागि अल्लिय वातावरणदल्लि अनुपम परिमळवु पसरिसित्तु. आ सैन्यवु शूरवीररिन्द व्याप्त हागू मेघगर्जनॆयन्तह सिंहनाददिन्द भयङ्करवागि कण्डु बरुत्तित्तु.॥56-57½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् दृष्ट्वा बलमायातं राक्षसानां दुरासदम् ॥ ५८ ॥  
 सञ्चचाल प्लवङ्गानां बलमुच्चैर्ननाद च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2190,12 +2342,15 @@ garlands and wine.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जवेनाप्लुत्य च पुनस्तद् बलं रक्षसां महत् ॥ ५९ ॥  
 अभ्ययात् प्रत्यरिबलं पतङ्गा इव पावकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2239,12 +2394,15 @@ noise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां भुजपरामर्शव्यामृष्टपरिघाशनि ॥ ६० ॥  
 राक्षसानां बलं श्रेष्ठं भूयः परमशोभत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2278,12 +2436,15 @@ the hostile army, as moths towards a flame.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रोन्मत्ता इवोत्पेतुर्हरयोऽथ युयुत्सवः ॥ ६१ ॥  
 तरुशैलैरभिघ्नन्तो मुष्टिभिश्च निशाचरान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2317,12 +2478,15 @@ being brandished through the action of their arms, shone all the more brightly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैवापततां तेषां हरीणां निशितैः शरैः ॥ ६२ ॥  
 शिरांसि सहसा जह्रू राक्षसा भीमविक्रमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2357,12 +2521,15 @@ rocks and fists, jumped up as though frenzied.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशनैर्हतकर्णाश्च मुष्टिभिर्भिन्नमस्तकाः ।  
 शिलाप्रहारभग्नाङ्गा विचेरुस्तत्र राक्षसाः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2397,12 +2564,15 @@ those monkeys bouncing upon them, with sharp arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैवाप्यपरे तेषां कपीनामसिभिः शितैः ।  
 प्रवरानभितो जघ्नुर्घोररूपा निशाचराः ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2445,12 +2615,15 @@ teeth, their skulls smashed with fists and their limbs broken by crag blows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घ्नन्तमन्यं जघानान्यः पातयन्तमपातयत् ।  
 गर्हमाणं जगर्हान्यो दशन्तमपरोऽदशत् ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2485,12 +2658,15 @@ sharp swords, on all sides of the battle field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देहीत्यन्यो ददात्यन्यो ददामीत्यपरः पुनः ।  
 किं क्लेशयसि तिष्ठेति तत्रान्योन्यं बभाषिरे ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2532,6 +2708,7 @@ one chewed the one chewing another.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2541,6 +2718,8 @@ one chewed the one chewing another.
 वानरान् दश सप्तेति राक्षसा जघ्नुराहवे ॥ ६८ ॥  
 राक्षसान् दश सप्तेति वानराश्चाभ्यपातयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2584,12 +2763,15 @@ There, one said "Give me the blow. Another said, "He is giving". Yet another sai
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रलम्भितवस्त्रं च विमुक्तकवचध्वजम् ।  
 बलं राक्षसमालम्ब्य वानराः पर्यवारयन् ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2635,5 +2817,6 @@ were used as weapons of war.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तैदनॆय सर्ग पूर्णवायितु.॥75॥
+</details>
 </details>
 

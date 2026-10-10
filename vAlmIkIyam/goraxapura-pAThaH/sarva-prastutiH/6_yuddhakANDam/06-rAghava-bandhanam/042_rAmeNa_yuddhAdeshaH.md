@@ -2,6 +2,8 @@
 title = "०४२ रामेण युद्धादेशः"
 title_english = "042 Ravana commands his army to commence combat"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -26,12 +28,15 @@ trees, mountain-tops, nails and teeth.
 
 42. लङ्कापर वानरोंकी चढ़ाई तथा राक्षसोंके साथ उनका घोर युद्ध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसास्तत्र गत्वा रावणमन्दिरम् ।  
 न्यवेदयन् पुरीं रुद्धां रामेण सह वानरैः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,12 +53,15 @@ trees, mountain-tops, nails and teeth.
 
 अनन्तर राक्षसरु रावणन अरमनॆगॆ होगि-श्रीरामनु वानर सैनिकरॊन्दिगॆ लङ्कॆयन्नु आक्रमिसिरुवनॆम्ब समाचार तिळिसिदरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्धां तु नगरीं श्रुत्वा जातक्रोधो निशाचरः ।  
 विधानं द्विगुणं कृत्वा प्रासादं चाप्यरोहत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,12 +101,15 @@ the necessary arrangements for the war and ascended his mansion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श वृतां लङ्कां सशैलवनकाननाम् ।  
 असङ्ख्येयैर्हरिगणैः सर्वतो युद्धकाङ्क्षिभिः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,12 +150,15 @@ forests all being covered by innumerable troops of monkeys, waiting for war.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दृष्ट्वा वानरैः सर्वैर्वसुधां कपिलीकृताम् ।  
 कथं क्षपयितव्याः स्युरिति चिन्तापरोऽभवत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +199,15 @@ reflected: "How can they be exterminated?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चिन्तयित्वा सुचिरं धैर्यमालम्ब्य रावणः ।  
 राघवं हरियूथांश्च ददर्शायतलोचनः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -230,12 +247,15 @@ surprise, Ravana gazed on Rama and his troops of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवः सह सैन्येन मुदितो नाम पुप्लुवे ।  
 लङ्कां ददर्श गुप्तां वै सर्वतो राक्षसैर्वृताम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +290,15 @@ and saw Lanka being guarded on all sides and thronged with demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
 जगाम सहसा सीतां दूयमानेन चेतसा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +338,15 @@ Seetha with a distressed heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र सा मृगशावाक्षी मत्कृते जनकात्मजा ।  
 पीड्यते शोकसन्तप्ता कृशा स्थण्डिलशायिनी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,12 +388,15 @@ account."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपीड्यमानां धर्मात्मा वैदेहीमनुचिन्तयन् ।  
 क्षिप्रमाज्ञापयद् रामो वानरान् द्विषतां वधे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,12 +430,15 @@ the monkeys to destroy the enemies forthwith.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ते तु वचसि रामेणाक्लिष्टकर्मणा ।  
 सङ्घर्षमाणाः प्लवगाः सिंहनादैरनादयन् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +482,15 @@ another filled the air with their roaring resembling those of lion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखरैर्विकिरामैतां लङ्कां मुष्टिभिरेव वा ।  
 इति स्म दधिरे सर्वे मनांसि हरियूथपाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +541,15 @@ besieged by Rama along with his monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यम्य गिरिशृङ्गाणि महान्ति शिखराणि च ।  
 तरूंश्चोत्पाट्य विविधांस्तिष्ठन्ति हरियूथपाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +584,15 @@ monkey-generals stood prepared (for the attack).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेक्षतो राक्षसेन्द्रस्य तान्यनीकानि भागशः ।  
 राघवप्रियकामार्थं लङ्कामारुरुहुस्तदा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +632,15 @@ columns, began to scale the heights of Lanka, while Ravana stood gazing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते ताम्रवक्त्रा हेमाभा रामार्थे त्यक्तजीविताः ।  
 लङ्कामेवाभ्यवर्तन्त सालभूधरयोधिनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -638,12 +682,15 @@ in Rama's service.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते द्रुमैः पर्वताग्रैश्च मुष्टिभिश्च प्लवङ्गमाः ।  
 प्राकाराग्राण्यसङ्ख्यानि ममन्थुस्तोरणानि च ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +730,15 @@ trees, mountain-tops and fists.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिखान् पूरयन्तश्च प्रसन्नसलिलाशयान् ।  
 पांसुभिः पर्वताग्रैश्च तृणैः काष्ठैश्च वानराः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -728,12 +778,15 @@ grasses and logs of wood.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सहस्रयूथाश्च कोटियूथाश्च यूथपाः ।  
 कोटियूथशताश्चान्ये लङ्कामारुरुहुस्तदा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,6 +827,7 @@ thousands, in crores and even hundreds of crores.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -782,6 +836,8 @@ thousands, in crores and even hundreds of crores.
 आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
 लङ्कां तामभिधावन्ति महावारणसन्निभाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,6 +898,7 @@ equaled the peak of Kailasa the mountainous abode of Shiva the Lord of Destructi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -850,6 +907,8 @@ equaled the peak of Kailasa the mountainous abode of Shiva the Lord of Destructi
 इत्येवं घोषयन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
 अभ्यधावन्त लङ्कायाः प्राकारं कामरूपिणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,6 +956,7 @@ rushed towards the defensive walls of Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -904,6 +964,8 @@ rushed towards the defensive walls of Lanka.
 निपीड्योपनिविष्टास्ते प्राकारं हरियूथपाः ।  
 एतस्मिन्नन्तरे चक्रुः स्कन्धावारनिवेशनम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -951,12 +1013,15 @@ Meanwhile, they formed an encampment of a multitude of military divisions there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वद्वारं तु कुमुदः कोटिभिर्दशभिर्वृतः ।  
 आवृत्य बलवांस्तस्थौ हरिभिर्जितकाशिभिः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -997,12 +1062,15 @@ stood besieging the eastern gate (while remaining stationed in north-east).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहायार्थे तु तस्यैव निविष्टः प्रघसो हरिः ।  
 पनसश्च महाबाहुर्वानरैरभिसंवृतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1113,15 @@ too up their position, in order to assist Kumuda himself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणद्वारमासाद्य वीरः शतबलिः कपिः ।  
 आवृत्य बलवांस्तस्थौ विंशत्या कोटिभिर्वृतः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1092,12 +1163,15 @@ the exit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषेणः पश्चिमद्वारं गत्वा तारापिता बली ।  
 आवृत्य बलवांस्तस्थौ कोटिकोटिभिरावृतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1139,12 +1213,15 @@ monkeys, stood besieging that gate.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरद्वारमागम्य रामः सौमित्रिणा सह ।  
 आवृत्य बलवांस्तस्थौ सुग्रीवश्च हरीश्वरः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1190,12 +1267,15 @@ northern gate (while remaining stationed in the north west) stood besieging that
 
 १, २, ३, ४—यहाँ जो पूर्व, दक्षिण, पश्चिम और उत्तर शब्द आये हैं, वे क्रमशः ईशान, अग्नि, नैर्ऋत्य और वायव्यकोणका लक्ष्य करानेवाले हैं; क्योंकि पहले (४१ वें सर्गमें) पूर्व आदि दरवाजोंपर नील आदि यूथपतियोंके आक्रमणकी बात कह दी गयी है वे कुमुद आदि वानर निकटवर्ती ईशान आदि कोणोंमें रहकर पूर्वादि द्वारोंपर आक्रमण करके नील आदिकी सहायता करते थे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोलाङ्गूलो महाकायो गवाक्षो भीमदर्शना ।  
 वृतः कोट्या महावीर्यस्तस्थौ रामस्य पार्श्वतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1236,12 +1316,15 @@ side of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षाणां भीमकोपानां धूम्रः शत्रुनिबर्हणः ।  
 वृतः कोट्या महावीर्यस्तस्थौ रामस्य पार्श्वतः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1282,12 +1365,15 @@ accompanied by his watchful ministers, took his position where the mighty Rama i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्नद्धस्तु महावीर्यो गदापाणिर्विभीषणः ।  
 वृतो यत्तैस्तु सचिवैस्तस्थौ यत्र महाबलः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1330,12 +1416,15 @@ army of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजो गवाक्षो गवयः शरभो गन्धमादनः ।  
 समन्तात् परिधावन्तो ररक्षुर्हरिवाहिनीम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1375,12 +1464,15 @@ decamping of the entire army immediately.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कोपपरीतात्मा रावणो राक्षसेश्वरः ।  
 निर्याणं सर्वसैन्यानां द्रुतमाज्ञापयत् तदा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1420,12 +1512,15 @@ demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा तदा वाक्यं रावणस्य मुखेरितम् ।  
 सहसा भीमनिर्घोषमुद‍्घुष्टं रजनीचरैः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1459,12 +1554,15 @@ whose discs were white as the moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रबोधिता भेर्यश्चन्द्रपाण्डुरपुष्कराः ।  
 हेमकोणैरभिहता राक्षसानां समन्ततः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1507,12 +1605,15 @@ extended to the full, by the most ghastly demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनेदुश्च महाघोषाः शङ्खाः शतसहस्रशः ।  
 राक्षसानां सुघोराणां मुखमारुतपूरिताः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1552,12 +1653,15 @@ clouds bordered with lightning accompanied by rows of cranes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते बभुः शुभनीलाङ्गाः सशङ्खा रजनीचराः ।  
 विद्युन्मण्डलसन्नद्धाः सबलाका इवाम्बुदाः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1598,12 +1702,15 @@ the ocean, which is swollen by the clouds, at the time of universal dissolution.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्पतन्ति ततः सैन्या हृष्टा रावणचोदिताः ।  
 समये पूर्यमाणस्य वेगा इव महोदधेः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1637,12 +1744,15 @@ mountain with its ridges, plains and caves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वानरसैन्येन मुक्तो नादः समन्ततः ।  
 मलयः पूरितो येन ससानुप्रस्थकन्दरः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1676,6 +1786,7 @@ monkey- warriors re-echoed over the earth, sky and sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1684,6 +1795,8 @@ monkey- warriors re-echoed over the earth, sky and sea.
 गजानां बृंहितैः सार्धं हयानां ह्रेषितैरपि ।  
 रथानां नेमिनिर्घोषै रक्षसां वदनस्वनैः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1745,12 +1858,15 @@ sky and sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे घोरः सङ्ग्रामः समपद्यत ।  
 रक्षसां वानराणां च यथा देवासुरे पुरा ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1790,12 +1906,15 @@ their flaming maces, spears, harpoons and axes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गदाभिः प्रदीप्ताभिः शक्तिशूलपरश्वधैः ।  
 निजघ्नुर्वानरान् सर्वान् कथयन्तः स्वविक्रमान् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1812,12 +1931,15 @@ their flaming maces, spears, harpoons and axes.
 
 राक्षसरु तम्म पराक्रमवन्नु उद्घोषिसुत्ता, हॊळॆयुव गदॆ, शक्ति, शूल, गण्डुकॊडलिगळिन्द समस्त वानररन्नु संहरिसतॊडगिदरु.॥42॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा वृक्षैर्महाकायाः पर्वताग्रैश्च वानराः ।  
 निजघ्नुस्तानि रक्षांसि नखैर्दन्तैश्च वेगिनः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1854,12 +1976,15 @@ nails and teeth "Victorious is king Sugreeva" - thus arose a loud war-cry.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा जयति सुग्रीव इति शब्दो महानभूत् ।  
 राजञ्जयजयेत्युक्त्वा स्वस्वनामकथां ततः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1903,12 +2028,15 @@ the monkeys standing on the ground (below) with hooks and harpoons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसास्त्वपरे भीमाः प्राकारस्था महीं गतान् ।  
 वानरान् भिन्दिपालैश्च शूलैश्चैव व्यदारयन् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1952,12 +2080,15 @@ down the demons stationed on the walls by seizing them with their arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराश्चापि सङ्क्रुद्धाः प्राकारस्थान् महीं गताः ।  
 राक्षसान् पातयामासुः खमाप्लुत्य स्वबाहुभिः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1997,12 +2128,15 @@ a mire of flesh and blood.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्प्रहारस्तुमुलो मांसशोणितकर्दमः ।  
 रक्षसां वानराणां च सम्बभूवाद्भुतोपमः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2029,5 +2163,6 @@ a mire of flesh and blood.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तॆरडनॆय सर्ग पूर्णवायितु.॥42॥
+</details>
 </details>
 

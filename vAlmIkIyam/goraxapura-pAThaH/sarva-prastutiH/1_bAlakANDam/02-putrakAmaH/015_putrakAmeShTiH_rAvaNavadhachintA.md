@@ -2,6 +2,8 @@
 title = "०१५ पुत्रकामेष्टिः रावणवधचिन्ता"
 title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharatha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -30,12 +32,15 @@ eliminate Ravana.
 
 पञ्चदशे सर्गे -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेधावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम् ।  
 लब्धसञ्ज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,12 +80,15 @@ and gaining indications as to which ritual is to be performed, then said the kin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टिं तेऽहं करिष्यामि पुत्रीयां पुत्रकारणात् ।  
 अथर्वशिरसि प्रोक्तैर्मन्त्रैः सिद्धां विधानतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ your benefit." [1-15-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्राक्रमदिष्टिं तां पुत्रीयां पुत्रकारणात् ।  
 जुहावाग्नौ च तेजस्वी मन्त्रदृष्टेन कर्मणा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ oblations into sacred fire with ritual acts meticulously contained in hymns. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 भागप्रतिग्रहार्थं वै समवेता यथाविधि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ of the Vedic ritual whenever a yajna is conducted on earth, to receive oblations
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः समेत्य यथान्यायं तस्मिन् सदसि देवताः ।  
 अब्रुवल्ँ लोककर्तारं ब्रह्माणं वचनं ततः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,12 +277,15 @@ the creator of worlds. [1-15-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवंस्त्वत्प्रसादेन रावणो नाम राक्षसः ।  
 सर्वान् नो बाधते वीर्याच्छासितुं तं न शक्नुमः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +319,15 @@ blessed him, and we are unable to control him. [1-15-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया तस्मै वरो दत्तः प्रीतेन भगवंस्तदा ।  
 मानयन्तश्च तं नित्यं सर्वं तस्य क्षमामहे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,12 +410,15 @@ themselves as demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्वेजयति लोकांस्त्रीनुच्छ्रितान् द्वेष्टि दुर्मतिः ।  
 शक्रं त्रिदशराजानं प्रधर्षयितुमिच्छति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +462,15 @@ of all these deities is Indra's function, since he is the presiding deity of Hea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषीन् यक्षान् सगन्धर्वान् ब्राह्मणानसुरांस्तदा ।  
 अतिक्रामति दुर्धर्षो वरदानेन मोहितः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +527,15 @@ namely *yaksha, gandharva, kinnara, kimpurusha* etc.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैनं सूर्यः प्रतपति पार्श्वे वाति न मारुतः ।  
 चलोर्मिमाली तं दृष्ट्वा समुद्रोऽपि न कम्पते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +575,15 @@ may abduct as in the case of Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्महन्नो भयं तस्माद् राक्षसाद् घोरदर्शनात् ।  
 वधार्थं तस्य भगवन्नुपायं कर्तुमर्हसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +617,7 @@ oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -590,6 +626,8 @@ oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
 तेन गन्धर्वयक्षाणां देवतानां च रक्षसाम् ।  
 अवध्योऽस्मीति वागुक्ता तथेत्युक्तं च तन्मया ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -650,12 +688,15 @@ idea to kill that evil-minded Ravana is discerned. [1-15-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाकीर्तयदवज्ञानात् तद् रक्षो मानुषांस्तदा ।  
 तस्मात् स मानुषाद् वध्यो मृत्युर्नान्योऽस्य विद्यते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +736,15 @@ death does not occur otherwise." So said Brahma to gods. [1-15-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा प्रियं वाक्यं ब्रह्मणा समुदाहृतम् ।  
 देवा महर्षयः सर्वे प्रहृष्टास्तेऽभवंस्तदा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,6 +777,7 @@ happy. [1-15-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -742,6 +787,8 @@ happy. [1-15-15]
 तप्तहाटककेयूरो वन्द्यमानः सुरोत्तमैः ॥ १७ ॥  
 ब्रह्मणा च समागत्य तत्र तस्थौ समाहितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +879,15 @@ Ravana, and the sun by showering the gratuitous and cooling rains.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रुवन् सुराः सर्वे समभिष्टूय सन्नताः ॥ १८ ॥  
 त्वां नियोक्ष्यामहे विष्णो लोकानां हितकाम्यया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,6 +920,7 @@ and offering prayers addressed Vishnu. [1-15-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -880,6 +931,8 @@ and offering prayers addressed Vishnu. [1-15-18]
 तत्र त्वं मानुषो भूत्वा प्रवृद्धं लोककण्टकम् ॥ २१ ॥  
 अवध्यं दैवतैर्विष्णो समरे जहि रावणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1013,15 @@ her glory, may it be negative, that may be imagined.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि देवान् सगन्धर्वान् सिद्धांश्च ऋषिसत्तमान् ॥ २२ ॥  
 राक्षसो रावणो मूर्खो वीर्योद्रेकेण बाधते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,12 +1061,15 @@ with eminent saints, gandharva-s, and siddha-s. [1-15-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयश्च ततस्तेन गन्धर्वाप्सरसस्तथा ॥ २३ ॥  
 क्रीडन्तो नन्दनवने रौद्रेण विनिपातिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1052,12 +1111,15 @@ gardens Nandana, where they will be taking delight. [1-15-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधार्थं वयमायातास्तस्य वै मुनिभिः सह ॥ २४ ॥  
 सिद्धगन्धर्वयक्षाश्च ततस्त्वां शरणं गताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1091,12 +1153,15 @@ come for his elimination, and thereby we seek shelter in you. [1-15-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं गतिः परमा देव सर्वेषां नः परन्तप ॥ २५ ॥  
 वधाय देवशत्रूणां नृणां लोके मनः कुरु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1137,6 +1202,7 @@ to Vishnu that way. [1-15-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1144,6 +1210,8 @@ to Vishnu that way. [1-15-25b, 26a]
 पितामहपुरोगांस्तान् सर्वलोकनमस्कृतः ।  
 अब्रवीत् त्रिदशान् सर्वान् समेतान् धर्मसंहितान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,6 +1249,7 @@ and that are in the assemblage, keeping the Forefather Brahma at their helm. [1-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1190,6 +1259,8 @@ and that are in the assemblage, keeping the Forefather Brahma at their helm. [1-
 दशवर्षसहस्राणि दशवर्षशतानि च ॥ २९ ॥  
 वत्स्यामि मानुषे लोके पालयन् पृथिवीमिमाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1255,12 +1326,15 @@ world ruling this earth for eleven thousand years." Thus Vishnu assured the gods
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दत्त्वा वरं देवो देवानां विष्णुरात्मवान् ॥ ३० ॥  
 मानुष्ये चिन्तयामास जन्मभूमिमथात्मनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,12 +1377,15 @@ the instituting base for his birth in human world. [1-15-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पद्मपलाशाक्षः कृत्वाऽऽत्मानं चतुर्विधम् ॥ ३१ ॥  
 पितरं रोचयामास तदा दशरथं नृपम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1354,12 +1431,15 @@ paraphernalia. There is no unanimity on this, as yet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवर्षिगन्धर्वाः सरुद्राः साप्सरोगणाः ।  
 स्तुतिभिर्दिव्यरूपाभिस् तुष्टुवुर् मधुसूदनम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1404,6 +1484,7 @@ He is also called Madhusuudana. This is one the thousand names of Vishnu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1412,6 +1493,8 @@ He is also called Madhusuudana. This is one the thousand names of Vishnu.
 विरावणं साधुतपस्विकण्टकं  
 तपस्विनामुद्धर तं भयावहम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1460,6 +1543,7 @@ loud wailing; hence we pray you to eliminate that Ravana." [1-15-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1468,6 +1552,8 @@ loud wailing; hence we pray you to eliminate that Ravana." [1-15-33]
 स्वर्लोकमागच्छ गतज्वरश्चिरं  
 सुरेन्द्रगुप्तं गतदोषकल्मषम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1530,5 +1616,6 @@ and faultless Vaikuntha. [1-15-34]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनैदनॆय सर्ग पूर्णवायितु. ॥15॥
+</details>
 </details>
 

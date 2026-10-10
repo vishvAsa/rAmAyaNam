@@ -2,6 +2,8 @@
 title = "०४९ सीतापहरणम्"
 title_english = "049 Seetha s abduction takes place now"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ she sees Jatayu, the eagle, and asks him to narrate her abduction to Rama.
 
 49. रावणद्वारा सीताका अपहरण, सीताका विलाप और उनके द्वारा जटायुका दर्शन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा दशग्रीवः प्रतापवान् ।  
 हस्ते हस्तं समाहत्य चकार सुमहद् वपुः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ reality before his Goddess Lakshmi, hence he divulged his real aspect. Maheshvar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मैथिलीं पुनर्वाक्यं बभाषे वाक्यकोविदः ।  
 नोन्मत्तया श्रुतौ मन्ये मम वीर्यपराक्रमौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -133,12 +141,15 @@ for once. Rama Tilaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्वहेयं भुजाभ्यां तु मेदिनीमम्बरे स्थितः ।  
 आपिबेयं समुद्रं च मृत्युं हन्यां रणे स्थितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +189,15 @@ standing in war I can even put the Death to death. [3-49-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्कं तुद्यां शरैस्तीक्ष्णैर्विभिन्द्यां हि महीतलम् ।  
 कामरूपेण उन्मत्ते पश्य मां कामरूपिणम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +239,15 @@ said Ravana when revealing his real nature. [3-49-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तवतस्तस्य रावणस्य शिखिप्रभे ।  
 क्रुद्धस्य हरिपर्यन्ते रक्ते नेत्रे बभूवतुः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +286,15 @@ shine have became further bloodshot and blackened at their edges. [3-49-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सद्यः सौम्यं परित्यज्य तीक्ष्णरूपं स रावणः ।  
 स्वं रूपं कालरूपाभं भेजे वैश्रवणानुजः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,12 +334,15 @@ his own ferocious form which is similar to the form of Terminator. [3-49-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संरक्तनयनः श्रीमांस्तप्तकाञ्चनभूषणः ।  
 क्रोधेन महताविष्टो नीलजीमूतसन्निभः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +387,15 @@ as a black tempestuous cloud. [3-49-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशास्यो विंशतिभुजो बभूव क्षणदाचरः ।  
 स परिव्राजकच्छद्म महाकायो विहाय तत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +412,15 @@ as a black tempestuous cloud. [3-49-7, 8a]
 
 आ विशालकाय निशाचरनु परिव्राजक कपट वेषवन्नु त्यजिसि, हत्तु मुख मत्तु इप्पत्तु तोळुगळिन्द काणिसिकॊण्डनु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिपेदे स्वकं रूपं रावणो राक्षसाधिपः ।  
 रक्ताम्बरधरस्तस्थौ स्त्रीरत्नं प्रेक्ष्य मैथिलीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +461,15 @@ manly physique, which dissimilar to the girlish physique of her husband Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तामसितकेशान्तां भास्करस्य प्रभामिव ।  
 वसनाभरणोपेतां मैथिलीं रावणोऽब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,12 +510,15 @@ silken-ochry-sari, whereby who is imperceivable like sun's glaring shine, to suc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिषु लोकेषु विख्यातं यदि भर्तारमिच्छसि ।  
 मामाश्रय वरारोहे तवाहं सदृशः पतिः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -522,12 +557,15 @@ lady, I alone will match up to you as husband. [3-49-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां भजस्व चिराय त्वमहं श्लाघ्यः पतिस्तव ।  
 नैव चाहं क्वचिद् भद्रे करिष्ये तव विप्रियम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,6 +613,7 @@ your heart towards me. [3-49-12, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -582,6 +621,8 @@ your heart towards me. [3-49-12, 13a]
 राज्याच्च्युतमसिद्धार्थं रामं परिमितायुषम् ॥ १३ ॥  
 कैर्गुणैरनुरक्तासि मूढे पण्डितमानिनि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +640,15 @@ your heart towards me. [3-49-12, 13a]
 
 मनुष्यनाद रामन विषयदल्लि निनगॆ इरुव अनुरागवन्नु त्यजिसिबिडु. तन्नन्नु बुद्धिवन्तॆ ऎन्दु तिळिदिरुव नारिये! राज्यभ्रष्टनाद, विफल मनोरथनाद, सीमित आयुस्सुळ्ळ आ रामनल्लि याव गुणगळिन्द नीनु अनुरक्तळागिरुवॆ.॥13½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः स्त्रियो वचनाद् राज्यं विहाय ससुहृज्जनम् ॥ १४ ॥  
 अस्मिन् व्यालानुचरिते वने वसति दुर्मतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,6 +721,7 @@ accord salvation, as planned by you all...' Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -684,6 +729,8 @@ accord salvation, as planned by you all...' Maheshvara Tiirtha.
 अभिगम्य सुदुष्टात्मा राक्षसः काममोहितः ।  
 जग्राह रावणः सीतां बुधः खे रोहिणीमिव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +791,15 @@ complex.
 
 * यहाँ अभूतोपमालंकार है । बुध चन्द्रमाके पुत्र हैं और रोहिणी चन्द्रमाकी पत्नी । बुधने न तो कभी रोहिणीको पकड़ा है और न वे ऐसा कर ही सकते हैं । यहाँ यह दिखाया गया है कि यदि कदाचित् बुध कामवश अपनी माता रोहिणीको पकड़ लें तो वह जैसा घोर पाप होगा, वही पाप रावणने सीताको पकड़नेके कारण किया था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वामेन सीतां पद्माक्षीं मूर्धजेषु करेण सः ।  
 ऊर्वोस्तु दक्षिणेनैव परिजग्राह पाणिना ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +838,15 @@ at nape, and with his right hand at her thighs. [3-49-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा गिरिशृङ्गाभं तीक्ष्णदंष्ट्रं महाभुजम् ।  
 प्राद्रवन् मृत्युसङ्काशं भयार्ता वनदेवताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +891,15 @@ a mountain crest and similar to Death, the forest deities quickly fled away terr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च मायामयो दिव्यः खरयुक्तः खरस्वनः ।  
 प्रत्यदृश्यत हेमाङ्गो रावणस्य महारथः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -878,12 +934,15 @@ afore Ravana braying noisily. [3-49-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तां परुषैर्वाक्यैरभितर्ज्य महास्वनः ।  
 अङ्केनादाय वैदेहीं रथमारोपयत् तदा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +985,15 @@ intimidating her with bitter words. [3-49-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा गृहीतातिचुक्रोश रावणेन यशस्विनी ।  
 रामेति सीता दुःखार्ता रामं दूरं गतं वने ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1033,15 @@ for Rama saying 'oh, Rama,' which Rama has gone deep into the forest by then. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामकामां स कामार्तः पन्नगेन्द्रवधूमिव ।  
 विचेष्टमानामादाय उत्पपाताथ रावणः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1083,15 @@ her in his air-chariot. [3-49-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सा राक्षसेन्द्रेण ह्रियमाणा विहायसा ।  
 भृशं चुक्रोश मत्तेव भ्रान्तचित्ता यथातुरा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1063,12 +1131,15 @@ and then bawled stridently like a hysterical person. [3-49-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा लक्ष्मण महाबाहो गुरुचित्तप्रसादक ।  
 ह्रियमाणां न जानीषे रक्षसा कामरूपिणा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,12 +1181,15 @@ the hermitage just now, so he must be within earshot, while Rama went into deep 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितं सुखमर्थं च धर्महेतोः परित्यजन् ।  
 ह्रियमाणामधर्मेण मां राघव न पश्यसि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,12 +1230,15 @@ the unrighteousness itself. [3-49-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु नामाविनीतानां विनेतासि परन्तप ।  
 कथमेवंविधं पापं न त्वं शाधि हि रावणम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,12 +1279,15 @@ in wilderness. [3-49-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु सद्योऽविनीतस्य दृश्यते कर्मणः फलम् ।  
 कालोऽप्यङ्गीभवत्यत्र सस्यानामिव पक्तये ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,12 +1328,15 @@ she is addressing Ravana now. [3-49-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं कर्म कृतवानेतत् कालोपहतचेतनः ।  
 जीवितान्तकरं घोरं रामाद् व्यसनमाप्नुहि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1377,15 @@ whereby you will get a devastating and life-ending tribulation from Rama." Thus,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्तेदानीं सकामा तु कैकेयी बान्धवैः सह ।  
 ह्रियेयं धर्मकामस्य धर्मपत्नी यशस्विनः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1350,12 +1436,15 @@ but their antagonists are envisaged, firstly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमन्त्रये जनस्थाने कर्णिकारांश्च पुष्पितान् ।  
 क्षिप्रं रामाय शंसध्वं सीतां हरति रावणः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1394,12 +1483,15 @@ thieving Seetha." Thus, she is addressing the woods and others on the ground fro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंससारससङ्घुष्टां वन्दे गोदावरीं नदीम् ।  
 क्षिप्रं रामाय शंस त्वं सीतां हरति रावणः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1444,12 +1536,15 @@ of Kalidasa and *hamsa sandesha* in *nala damayanti upaakhyaana.*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैवतानि च यान्यस्मिन् वने विविधपादपे ।  
 नमस्करोम्यहं तेभ्यो भर्तुः शंसत मां हृताम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1501,6 +1596,7 @@ necessarily a male and a female, but any two or more, in veneration or friendshi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1509,6 +1605,8 @@ necessarily a male and a female, but any two or more, in veneration or friendshi
 ह्रियमाणां प्रियां भर्तुः प्राणेभ्योऽपि गरीयसीम् ।  
 विवशा ते हृता सीता रावणेनेति शंसत ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1578,12 +1676,15 @@ move on the ground, to locate Rama. This entire criss-cross thinking has happene
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदित्वा तु महाबाहुरमुत्रापि महाबलः ।  
 आनेष्यति पराक्रम्य वैवस्वतहृतामपि ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1624,12 +1725,15 @@ against Yama, the Death God." Thus, she appealed to one and all, but in vain. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तदा करुणा वाचो विलपन्ती सुदुःखिता ।  
 वनस्पतिगतं गृध्रं ददर्शायतलोचना ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1669,12 +1773,15 @@ expectancy saw the eagle Jatayu perching on a tree. [3-49-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशङ्गता ।  
 समाक्रन्दद् भयपरा दुःखोपहतया गिरा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1714,12 +1821,15 @@ and worsted by fear she shrieked squeakily with a stuttering voice that is wallo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायो पश्य मामार्य ह्रियमाणामनाथवत् ।  
 अनेन राक्षसेन्द्रेणाकरुणं पापकर्मणा ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1759,12 +1869,15 @@ sinister deeds. [3-49-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैष वारयितुं शक्यस्त्वया क्रूरो निशाचरः ।  
 सत्ववाञ्जितकाशी च सायुधश्चैव दुर्मतिः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1808,12 +1921,15 @@ with cunning conquests, also thus this wicked minded one is with weaponry. [3-49
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामाय तु यथातत्त्वं जटायो हरणं मम ।  
 लक्ष्मणाय च तत् सर्वमाख्यातव्यमशेषतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1876,5 +1992,6 @@ and animals are not heedful of her request, and this eagle alone is beheld, besi
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥49॥
+</details>
 </details>
 

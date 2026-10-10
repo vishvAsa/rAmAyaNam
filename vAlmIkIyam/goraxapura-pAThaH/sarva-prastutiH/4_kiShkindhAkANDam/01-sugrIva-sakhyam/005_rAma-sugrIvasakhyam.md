@@ -2,6 +2,8 @@
 title = "००५ राम-सुग्रीवसख्यम्"
 title_english = "005 Oath of friendship"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda -
@@ -22,12 +24,15 @@ vice, from the face of earth.
 
 5. श्रीराम और सुग्रीवकी मैत्री तथा श्रीरामद्वारा वालिवधकी प्रतिज्ञा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूकात् तु हनुमान् गत्वा तं मलयं गिरिम् ।  
 आचचक्षे तदा वीरौ कपिराजाय राघवौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ the two valiant Raghava-s. [4-5-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं रामो महाप्राज्ञ सम्प्राप्तो दृढविक्रमः ।  
 लक्ष्मणेन सह भ्रात्रा रामोऽयं सत्यविक्रमः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ Rama arrived along with his brother Lakshmana... [4-5-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकूणां कुले जातो रामो दशरथात्मजः ।  
 धर्मे निगदितश्चैव पितुर्निर्देशकारकः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,6 +163,7 @@ adherent of his father's orders... [4-5-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -160,6 +172,8 @@ adherent of his father's orders... [4-5-3]
 तपसा सत्यवाक्येन वसुधा येन पालिता ।  
 स्त्रीहेतोस्तस्य पुत्रोऽयं रामोऽरण्यं समागतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ to his word, such Dasharatha's son is this Rama, who has to come to forests owin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्य वसतोऽरण्ये नियतस्य महात्मनः ।  
 रावणेन हृता भार्या स त्वां शरणमागतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ he is, he came seeking your refuge... [4-5-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवता सख्यकामौ तौ भ्रातरौ रामलक्ष्मणौ ।  
 प्रगृह्य चार्चयस्वैतौ पूजनीयतमावुभौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ taught. That is what Hanuma's advise to Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनूमतो वाक्यं सुग्रीवो वानराधिपः ।  
 दर्शनीयतमो भूत्वा प्रीत्योवाच च राघवम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +378,15 @@ became 'presentable,' befitting to his honourable kingship.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् धर्मविनीतश्च सुतपाः सर्ववत्सलः ।  
 आख्याता वायुपुत्रेण तत्त्वतो मे भवद‍्गुणाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ so said Air-god's son Hanuma to me about your attributes, in subtlety... [4-5-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्ममैवैष सत्कारो लाभश्चैवोत्तमः प्रभो ।  
 यत्त्वमिच्छसि सौहार्दं वानरेण मया सह ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ a best achievement to me alone... [4-5-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोचते यदि मे सख्यं बाहुरेष प्रसारितः ।  
 गृह्यतां पाणिना पाणिर्मर्यादा बध्यतां ध्रुवा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,6 +524,7 @@ be stably made fast..." Thus Sugreeva proffered friendship to Rama. [4-5-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -499,6 +532,8 @@ be stably made fast..." Thus Sugreeva proffered friendship to Rama. [4-5-11]
 सम्प्रहृष्टमना हस्तं पीडयामास पाणिना ॥ १२ ॥  
 हृष्टः सौहृदमालम्ब्य पर्यष्वजत पीडितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +577,15 @@ hand in his, and ardently abiding by the vow of friendship he embraced Sugreeva,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हनूमान् सन्त्यज्य भिक्षुरूपमरिन्दमः ॥ १३ ॥  
 काष्ठयोः स्वेन रूपेण जनयामास पावकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +602,15 @@ hand in his, and ardently abiding by the vow of friendship he embraced Sugreeva,
 
 (सुग्रीवन बळिगॆ होगुव मॊदलु हनुमन्तनु पुनः भिक्षुरूपवन्नु धरिसिद्दनु.) श्रीराम मत्तु सुग्रीवन मैत्रिय समय शत्रुसूदन हनुमन्तनु भिक्षुरूपवन्नु त्यजिसि, तन्न सहजरूपवन्नु धरिसि, ऎरडु कट्टिगॆगळन्नु तिक्कि बॆङ्कियन्नु उण्टुमाडिदनु.॥13½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्यमानं ततो वह्निं पुष्पैरभ्यर्च्य सत्कृतम् ॥ १४ ॥  
 तयोर्मध्ये तु सुप्रीतो निदधौ सुसमाहितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +656,15 @@ episodes of Ramayana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽग्निं दीप्यमानं तौ चक्रतुश्च प्रदक्षिणम् ॥ १५ ॥  
 सुग्रीवो राघवश्चैव वयस्यत्वमुपागतौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +706,15 @@ entered into the pact of friendship. [4-5-15, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुप्रीतमनसौ तावुभौ हरिराघवौ ॥ १६ ॥  
 अन्योन्यमभिवीक्षन्तौ न तृप्तिमभिजग्मतुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,12 +757,15 @@ but their hearts did not derive any fraternal satisfaction. [4-5-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं वयस्योऽसि हृद्यो मे ह्येकं दुःखं सुखं च नौ ॥ १७ ॥  
 सुग्रीवो राघवं वाक्यमित्युवाच प्रहृष्टवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +808,15 @@ are same for us..." [4-5-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुपर्णबहुलां भङ्‍क्त्वा शाखां सुपुष्पिताम् ॥ १८ ॥  
 सालस्यास्तीर्य सुग्रीवो निषसाद सराघवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +860,15 @@ and sat on it along with Rama. [4-5-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणायाथ संहृष्टो हनुमान् मारुतात्मजः ॥ १९ ॥  
 शाखां चन्दनवृक्षस्य ददौ परमपुष्पिताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +910,15 @@ Then Hanuma the son of Air, gladly gave a well-flowered branch of sandalwood tre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टः सुग्रीवः श्लक्ष्णं मधुरया गिरा ॥ २० ॥  
 प्रत्युवाच तदा रामं हर्षव्याकुललोचनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -899,12 +958,15 @@ Rama softly. [4-5-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं विनिकृतो राम चरामीह भयार्दितः ॥ २१ ॥  
 हृतभार्यो वने त्रस्तो दुर्गमेतदुपाश्रितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1009,15 @@ me... I took refuge in this impenetrable forest... [4-5-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं त्रस्तो वने भीतो वसाम्युद्‍भ्रान्तचेतनः ॥ २२ ॥  
 वालिना निकृतो भ्रात्रा कृतवैरश्च राघव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,12 +1061,15 @@ these forests with scare and fear, and with dismayed vitality... [4-5-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालिनो मे महाभाग भयार्तस्याभयं कुरु ॥ २३ ॥  
 कर्तुमर्हसि काकुत्स्थ भयं मे न भवेद् यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,12 +1110,15 @@ way... [4-5-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु तेजस्वी धर्मज्ञो धर्मवत्सलः ॥ २४ ॥  
 प्रत्यभाषत काकुत्स्थः सुग्रीवं प्रहसन्निव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,12 +1158,15 @@ as though laughing off. [4-5-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपकारफलं मित्रं विदितं मे महाकपे ॥ २५ ॥  
 वालिनं तं वधिष्यामि तव भार्यापहारिणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1132,6 +1206,7 @@ that Vali, the abductor of your wife... [4-5-2b, 26a5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1140,6 +1215,8 @@ that Vali, the abductor of your wife... [4-5-2b, 26a5]
 कङ्कपत्रप्रतिच्छन्ना महेन्द्राशनिसन्निभाः ॥ २७ ॥  
 तीक्ष्णाग्रा ऋजुपर्वाणः सरोषा भुजगा इव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1193,12 +1270,15 @@ and these arrows of mine will be speeded up to fall on that vicious Vali... [4-5
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमद्य वालिनं पश्य तीक्ष्णैराशीविषोपमैः ॥ २८ ॥  
 शरैर्विनिहतं भूमौ प्रकीर्णमिव पर्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,12 +1320,15 @@ in Sugreeva. [4-5-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तद् वचनं श्रुत्वा राघवस्यात्मनो हितम् ।  
 सुग्रीवः परमप्रीतः परमं वाक्यमब्रवीत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1285,6 +1368,7 @@ said this fine sentence. [4-5-29b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1293,6 +1377,8 @@ said this fine sentence. [4-5-29b, c]
 तथा कुरु त्वं नरदेव वैरिणं  
 यथा न हिंस्यात् स पुनर्ममाग्रजम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1339,6 +1425,7 @@ as an enemy of mine suffer me again... [4-5-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1347,6 +1434,8 @@ as an enemy of mine suffer me again... [4-5-30]
 सुग्रीवरामप्रणयप्रसङ्गे  
 वामानि नेत्राणि समं स्फुरन्ति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1410,5 +1499,6 @@ is the seedling point for eradication of vice, namely Vali and Ravana, from face
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐदनॆय सर्ग सम्पूर्णवायितु.॥5॥
+</details>
 </details>
 

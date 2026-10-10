@@ -2,6 +2,8 @@
 title = "०१२ अश्वमेधारम्भः"
 title_english = "012 dasaratha readies to perform asvamedha ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -27,6 +29,7 @@ which the ministers are ordered to supply forthwith. This chapter is almost a re
 
 द्वादशे सर्गे -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ which the ministers are ordered to supply forthwith. This chapter is almost a re
 वसन्ते समनुप्राप्ते  
 राज्ञो **यष्टुं मनो ऽभवत् ॥** १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ Please refer to endnote for Indian seasons and months for vasanta / spring seaso
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,6 +86,8 @@ Please refer to endnote for Indian seasons and months for vasanta / spring seaso
 यज्ञाय **वरयाम् आस**  
 सन्तानार्थं कुलस्य च ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +134,7 @@ to maintaining his family line. [1-12-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -136,6 +145,8 @@ to maintaining his family line. [1-12-2]
 सरय्वाश् चोत्तरे तीरे  
 यज्ञभूमिर् विधीयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,6 +202,7 @@ let the ritual place be decided on the northern banks of Sarayu River...." [1-12
 
 ततः ऋश्यशृङ्गाद्य्-अभ्यनुज्ञयापि यज्ञ आरब्धः । एतेन महतः कर्मण आरम्भे महा-ब्राह्मणानाम् अभ्यनुज्ञा ग्राह्येत्य् अयं धर्मः सूचितः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,6 +215,8 @@ let the ritual place be decided on the northern banks of Sarayu River...." [1-12
 पुरोहितं वसिष्ठं च  
 ये चान्ये द्विजसत्तमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,6 +264,7 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -258,6 +273,8 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 **समानयत्** स तान् सर्वान्  
 समस्तान् वेदपारगान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,6 +291,7 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 
 आग शीघ्रगामि सुमन्त्रनु कूडले होगि वेदविद्यॆयल्लि पारङ्गतराद समस्त ब्राह्मणरन्नु करॆदुकॊण्डु बन्दनु.॥6½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -282,6 +300,8 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 धर्मार्थ-सहितं युक्तं  
 श्लक्ष्णं वचनम् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,6 +339,7 @@ by Sumantra, uttered these words which are with virtue and meaning, in an impres
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,6 +348,8 @@ by Sumantra, uttered these words which are with virtue and meaning, in an impres
 पुत्रार्थं हयमेधेन  
 **यक्ष्यामीति मतिर्** मम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,6 +366,7 @@ by Sumantra, uttered these words which are with virtue and meaning, in an impres
 
 महर्षिगळे! नानु पुत्ररिगागि निरन्तर हम्बलिसुत्तिद्देनॆ. मक्कळिल्लदॆ ई राज्यादिगळिन्द ननगॆ सुख सिगुवुदिल्ल. आद्दरिन्द पुत्रप्राप्तिगागि अश्वमेध यज्ञद अनुष्ठान माडुवुदागि नानु निश्चयिसिरुवॆनु.॥8½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,6 +375,8 @@ by Sumantra, uttered these words which are with virtue and meaning, in an impres
 ऋषि-पुत्र-प्रभावेण  
 कामान् **प्राप्स्यामि** चाप्यहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +416,7 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -398,6 +425,8 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 वसिष्ठ-प्रमुखाः सर्वे  
 पार्थिवस्य मुखाच्च्युतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,6 +443,7 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 
 दशरथ महाराजनु हेळिद मातन्नु वसिष्ठादि ऎल्ल ब्राह्मणरु साधु-साधु ऎन्दु हेळि गौरविसिदरु.॥10½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -424,6 +454,8 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 सरय्वाश्चोत्तरे तीरे  
 यज्ञ-भूमिर् **विधीयताम्** ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,6 +494,7 @@ to the king, in appreciation of that idea. [1-12-10b, 11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,6 +503,8 @@ to the king, in appreciation of that idea. [1-12-10b, 11]
 यस्य ते धार्मिकी **बुद्धिर्**  
 इयं पुत्रार्थम् **आगता** ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,6 +544,7 @@ The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -517,6 +553,8 @@ The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
 अमात्यान ब्रवीद् राजा  
 हर्षेणेदं शुभाक्षरम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,6 +595,7 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -565,6 +604,8 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 समर्थाधिष्ठितश् चाश्वः  
 सोपाध्यायो **विमुच्यताम्** ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,6 +622,7 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 गुरुगळ अप्पणॆयन्तॆ नीवॆल्लरू बेगने नन्न यज्ञक्कागि बेकाद सामग्रिगळन्नु हॊन्दिसिरि. समर्थराद वीरर रक्षणॆयल्लि यज्ञाश्ववन्नु बिडलागुवुदु, अदरॊन्दिगॆ प्रधान ऋत्विजरू इरुवरु.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -589,6 +631,8 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 शान्तयश् **चाभिवर्धन्तां**  
 यथाकल्पं यथाविधि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,6 +649,7 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 सरयूविन उत्तर तीरदल्लि यज्ञभूमिय निर्माणवागली, शास्त्रोक्त विधानदिन्द क्रमवागि शान्तिकर्म- पुण्याहवाचन मुन्तादवन्नु विस्तारवागि अनुष्ठान माडलागुवुदु, इदरिन्द ऎल्ल विघ्नगळ निवारणॆ आगुत्तदॆ.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -613,6 +658,8 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 नापराधो भवेत् कष्टो  
 यद्य् अस्मिन् क्रतुसत्तमे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,6 +676,7 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 ई श्रेष्ठवाद यज्ञदल्लि गुरुतर अपराधवागुव भयविल्लदिद्दरॆ ऎल्ल राजरू इदन्नु नॆरवेरिसबल्लरु.॥17॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -637,6 +685,8 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 विधिहीनस्य यज्ञस्य  
 सद्यः कर्ता **विनश्यति** ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,6 +703,7 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 आदरॆ हीगागुवुदु कठिणवे आगिदॆ; एकॆन्दरॆ ई विद्वांसराद ब्रह्मराक्षसरु यज्ञदल्लि विघ्नवन्नॊड्डलु तप्पुगळन्नु हुडुकुत्तले इरुत्तारॆ. विधिहीन यज्ञवन्नु माडुव यजमाननु कूडले नाशवागुत्तानॆ.॥18॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -661,6 +712,8 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 तथा **विधानं क्रियतां**  
 समर्थाः करणेष्व् इह ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,6 +771,7 @@ are efficient ones in conducting such rituals without faults, I hope you all wil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,6 +780,8 @@ are efficient ones in conducting such rituals without faults, I hope you all wil
 पार्थिवेन्द्रस्य तद् वाक्यं  
 यथाज्ञप्तम् **अकुर्वत** ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,6 +815,7 @@ and indeed they have faultlessly carried out works as ordered. [1-12-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -767,6 +824,8 @@ and indeed they have faultlessly carried out works as ordered. [1-12-20]
 अनुज्ञातास् ततः सर्वे  
 पुनर् **जग्मुर्** यथागतम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,6 +860,7 @@ from there as they have come. [1-12-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -809,6 +869,8 @@ from there as they have come. [1-12-21]
 **विसर्जयित्वा** स्वं वेश्म  
 **प्रविवेश** महामतिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -859,5 +921,6 @@ there for further orders from the king, and then he the great resplendent king h
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हन्नरडनॆय सर्ग पूर्णवायितु. ॥12॥
+</details>
 </details>
 

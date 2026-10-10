@@ -2,6 +2,8 @@
 title = "०५९ लक्ष्मणनिन्दा"
 title_english = "059 Rama reprimands Lakshmana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -25,12 +27,15 @@ the last few verses of last chapter, and on their pathway to their hermitage.
 
 59. श्रीराम और लक्ष्मणकी बातचीत
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाश्रमादुपावृत्तमन्तरा रघुनन्दनः ।  
 परिपप्रच्छ सौमित्रिं रामो दुःखादिदं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ is distressing now, in the middle of path towards their hermitage. [3-59-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच किमर्थं त्वमागतोऽपास्य मैथिलीम् ।  
 यदा सा तव विश्वासाद् वने विरहिता मया ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ reason you came to me on abandoning Maithili? [3-59-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वैवाभ्यागतं त्वां मे मैथिलीं त्यज्य लक्ष्मण ।  
 शङ्कमानं महत् पापं यत्सत्यं व्यथितं मनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +173,15 @@ only you, coming to me leaving off Maithili. [3-59-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्फुरते नयनं सव्यं बाहुश्च हृदयं च मे ।  
 दृष्ट्वा लक्ष्मण दूरे त्वां सीताविरहितं पथि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ and oh, Lakshmana, my heart too has fluttered." Thus Rama said to Lakshmana. [3-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सौमित्रिर्लक्ष्मणः शुभलक्षणः ।  
 भूयो दुःखसमाविष्टो दुःखितं राममब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ and he replied Rama who is anguished in his own way. [3-59-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स्वयं कामकारेण तां त्यक्त्वाहमिहागतः ।  
 प्रचोदितस्तयैवोग्रैस्त्वत्सकाशमिहागतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +320,15 @@ virtually driven by her hurtful words." Thus Lakshmana is relying Rama. [3-59-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्येणेव परिक्रुष्टं लक्ष्मणेति सुविस्वरम् ।  
 परित्राहीति यद्वाक्यं मैथिल्यास्तच्छ्रुतिं गतम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,12 +372,15 @@ ha, Lakshmana... save me immediately...' [3-59-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तमार्तस्वरं श्रुत्वा तव स्नेहेन मैथिली ।  
 गच्छ गच्छेति मामाशु रुदती भयविक्लवा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +421,15 @@ out to me 'hurry up...get going...' [3-59-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचोद्यमानेन मया गच्छेति बहुशस्तया ।  
 प्रत्युक्ता मैथिली वाक्यमिदं तत् प्रत्ययान्वितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ is expressive of my confidence in you. [3-59-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तत् पश्याम्यहं रक्षो यदस्य भयमावहेत् ।  
 निर्वृता भव नास्त्येतत् केनाप्येतदुदाहृतम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +519,15 @@ have typified his voice in this way, please control yourself. [3-59-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विगर्हितं च नीचं च कथमार्योऽभिधास्यति ।  
 त्राहीति वचनं सीते यस्त्रायेत् त्रिदशानपि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ strii samaahvaanasya kshudra kR^ityatvaat kutsitam - Govindaraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किन्निमित्तं तु केनापि भ्रातुरालम्ब्य मे स्वरम् ।  
 विस्वरं व्याहृतं वाक्यं लक्ष्मण त्राहि मामिति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसेनेरितं वाक्यं त्रासात् त्राहीति शोभने ।  
 न भवत्या व्यथा कार्या कुनारीजनसेविता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,6 +675,7 @@ be Maareecha. [3-59-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -642,6 +684,8 @@ be Maareecha. [3-59-13]
 जातो वा जायमानो वा संयुगे यः पराजयेत् ।  
 अजेयो राघवो युद्धे देवैः शक्रपुरोगमैः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +736,15 @@ is what I said to Vaidehi" Thus Lakshmana is informing Rama. [3-59-14, 15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही परिमोहितचेतना ।  
 उवाचाश्रूणि मुञ्चन्ती दारुणं मामिदं वचः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,12 +783,15 @@ me outpouring tears. [3-59-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भावो मयि तवात्यर्थं पाप एव निवेशितः ।  
 विनष्टे भ्रातरि प्राप्तुं न च त्वं मामवाप्स्यसे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +834,15 @@ ruination of your brother, but I am unachievable to you. [3-59-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्केताद् भरतेन त्वं रामं समनुगच्छसि ।  
 क्रोशन्तं हि यथात्यर्थं नैनमभ्यवपद्यसे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +860,15 @@ ruination of your brother, but I am unachievable to you. [3-59-17]
 
 ‘तू भरतके इशारेसे अपने स्वार्थके लिये श्रीरामचन्द्रजीके पीछे-पीछे आया है । तभी तो वे जोर-जोरसे चिल्ला रहे हैं और तू उनके पास जाता तक नहीं है ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रिपुः प्रच्छन्नचारी त्वं मदर्थमनुगच्छसि ।  
 राघवस्यान्तरं प्रेप्सुस्तथैनं नाभिपद्यसे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +929,15 @@ in exile. [3-59-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु वैदेह्या संरब्धो रक्तलोचनः ।  
 क्रोधात् प्रस्फुरमाणोष्ठ आश्रमादभिनिर्गतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -918,12 +977,15 @@ and trembling my lips. [3-59-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं सौमित्रिं रामः सन्तापमोहितः ।  
 अब्रवीद् दुष्कृतं सौम्य तां विना त्वमिहागतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -968,12 +1030,15 @@ an improper deed, oh, gentle one. [3-59-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानन्नपि समर्थं मां रक्षसामपवारणे ।  
 अनेन क्रोधवाक्येन मैथिल्या निर्गतो भवान् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,12 +1077,15 @@ of Maithili? [3-59-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि ते परितुष्यामि त्यक्त्वा यदसि मैथिलीम् ।  
 क्रुद्धायाः परुषं श्रुत्वा स्त्रिया यत् त्वमिहागतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1129,15 @@ am not at all happy with you. [3-59-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा त्वपनीतं ते सीतया यत् प्रचोदितः ।  
 क्रोधस्य वशमागम्य नाकरोः शासनं मम ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,12 +1177,15 @@ compelled by Seetha, or coming under your own ire, it shows your dereliction in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असौ हि राक्षसः शेते शरेणाभिहतो मया ।  
 मृगरूपेण येनाहमाश्रमादपवाहितः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,6 +1225,7 @@ my arrow hit him down. [3-59-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1159,6 +1234,8 @@ my arrow hit him down. [3-59-25]
 मार्गीं तनुं त्यज्य च विक्लवस्वरो  
 बभूव केयूरधरः स राक्षसः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,6 +1274,7 @@ ornaments. [3-59-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1205,6 +1283,8 @@ ornaments. [3-59-26]
 उदाहृतं तद् वचनं सुदारुणं  
 त्वमागतो येन विहाय मैथिलीम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,5 +1341,6 @@ here forsaking Maithili." Thus Rama said to Lakshmana on their way to their herm
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥59॥
+</details>
 </details>
 

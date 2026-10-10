@@ -2,6 +2,8 @@
 title = "०७० दशरथवंशकथनम्"
 title_english = "070 ikshvaaku s lineage detailed"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -23,12 +25,15 @@ holds his family tree, ready at hand.
 
 70. राजा जनकका अपने भाई कुशध्वजको सांकाश्या नगरीसे बुलवाना, राजा दशरथके अनुरोधसे वसिष्ठजीका सूर्यवंशका परिचय देते हुए श्रीराम और लक्ष्मणके लिये सीता तथा ऊर्मिलाको वरण करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते जनकः कृतकर्मा महर्षिभिः ।  
 उवाच वाक्यं वाक्यज्ञः शतानन्दं पुरोहितम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,6 +66,7 @@ this to sage Shataananda, the royal priest. [1-70-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,6 +75,8 @@ this to sage Shataananda, the royal priest. [1-70-1]
 वार्याफलकपर्यन्तां पिबन्निक्षुमतीं नदीम् ।  
 साङ्काश्यां पुण्यसङ्काशां विमानमिव पुष्पकम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ that are famous for health keeping.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमहं द्रष्टुमिच्छामि यज्ञगोप्ता स मे मतः ।  
 प्रीतिं सोऽपि महातेजा इमां भोक्ता मया सह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ hence he is the benefactor of the ritual.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ते तु वचने शतानन्दस्य सन्निधौ ।  
 आगताः केचिदव्यग्रा जनकस्तान् समादिशत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ envoys, and then some alacritous envoys have come, whom Janaka ordered to procee
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शासनात् तु नरेन्द्रस्य प्रययुः शीघ्रवाजिभिः ।  
 समानेतुं नरव्याघ्रं विष्णुमिन्द्राज्ञया यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,12 +260,15 @@ that tigerly man Kushadhvaja that speedily, which is as good as fetching Vishnu 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साङ्काश्यां ते समागम्य ददृशुश्च कुशध्वजम् ।  
 न्यवेदयन् यथावृत्तं जनकस्य च चिन्तितम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,12 +308,15 @@ has two.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद‍्वृत्तं नृपतिः श्रुत्वा दूतश्रेष्ठैर्महाजवैः ।  
 आज्ञया तु नरेन्द्रस्य आजगाम कुशध्वजः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,6 +349,7 @@ the order of king Janaka. [1-70-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -333,6 +357,8 @@ the order of king Janaka. [1-70-8]
 सोऽभिवाद्य शतानन्दं जनकं चातिधार्मिकम् ॥ ९ ॥  
 राजार्हं परमं दिव्यमासनं सोऽध्यरोहत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,6 +407,7 @@ sat upon a majestic seat, that which is befitting to kings. [1-70-9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -389,6 +416,8 @@ sat upon a majestic seat, that which is befitting to kings. [1-70-9, 10a]
 गच्छ मन्त्रिपते शीघ्रमिक्ष्वाकुममितप्रभम् ॥ ११ ॥  
 आत्मजैः सह दुर्धर्षमानयस्व समन्त्रिणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -430,12 +459,15 @@ acts have started to send Sudaamana, the distinguished minister. [1-70-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औपकार्यां स गत्वा तु रघूणां कुलवर्धनम् ॥ १२ ॥  
 ददर्श शिरसा चैनमभिवाद्येदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +519,15 @@ Thus Janaka ordered Sudaamana, the minister. [1-70-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्याधिपते वीर वैदेहो मिथिलाधिपः ॥ १३ ॥  
 स त्वां द्रष्टुं व्यवसितः सोपाध्यायपुरोहितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,12 +561,15 @@ The minister Sudaamana said so to Dasharatha. [1-70-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिश्रेष्ठवचः श्रुत्वा राजा सर्षिगणस्तथा ॥ १४ ॥  
 सबन्धुरगमत् तत्र जनको यत्र वर्तते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,12 +608,15 @@ kinsmen and the assemblages of sages. [1-70-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा च मन्त्रिसहितः सोपाध्यायः सबान्धवः ॥ १५ ॥  
 वाक्यं वाक्यविदां श्रेष्ठो वैदेहमिदमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +650,15 @@ kinsfolk, and ministers. [1-70-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदितं ते महाराज इक्ष्वाकुकुलदैवतम् ॥ १६ ॥  
 वक्ता सर्वेषु कृत्येषु वसिष्ठो भगवानृषिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,12 +691,15 @@ and in all affairs he is our internuncio... [1-70-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्राभ्यनुज्ञातः सह सर्वैर्महर्षिभिः ॥ १७ ॥  
 एष वक्ष्यति धर्मात्मा वसिष्ठो मे यथाक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,12 +719,15 @@ _________________
 
 समस्त महर्षिगळ सहित विश्वामित्ररु अप्पणॆ माडिदरॆ धर्मात्मा ई वसिष्ठरु मॊदलु नन्न कुल परम्परॆय परिचय क्रमवागि माडिसुवरु.॥17½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूष्णीम्भूते दशरथे वसिष्ठो भगवानृषिः ॥ १८ ॥  
 उवाच वाक्यं वाक्यज्ञो वैदेहं सपुरोधसम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,6 +765,7 @@ sententious sage Vashishta who is along with his men of the cloth said these sen
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -722,6 +773,8 @@ sententious sage Vashishta who is along with his men of the cloth said these sen
 तस्मान्मरीचिः सञ्जज्ञे मरीचेः कश्यपः सुतः ।  
 विवस्वान् कश्यपाज्जज्ञे मनुर्वैवस्वतः स्मृतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +842,15 @@ and after, since Vishnu gave rise to Him. Up to here is ultramundane order of pr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुः प्रजापतिः पूर्वमिक्ष्वाकुश्च मनोः सुतः ।  
 तमिक्ष्वाकुमयोध्यायां राजानं विद्धि पूर्वकम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +883,15 @@ thus... [1-70-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकोस्तु सुतः श्रीमान् कुक्षिरित्येव विश्रुतः ।  
 कुक्षेरथात्मजः श्रीमान् विकुक्षिरुदपद्यत ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +930,15 @@ The son of Ikshvaaku is the legendary Kukshi, thus he is renowned, and the famou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकुक्षेस्तु महातेजा बाणः पुत्रः प्रतापवान् ।  
 बाणस्य तु महातेजा अनरण्यः प्रतापवान् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +971,15 @@ the son of Baana... [1-70-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनरण्यात् पृथुर्जज्ञे त्रिशङ्कुस्तु पृथोरपि ।  
 त्रिशङ्कोरभवत् पुत्रो धुन्धुमारो महायशाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1018,15 @@ of Trishanku... [1-70-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धुन्धुमारान्महातेजा युवनाश्वो महारथः ।  
 युवनाश्वसुतश्चासीन्मान्धाता पृथिवीपतिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -997,12 +1065,15 @@ Yuvanaashva... [1-70-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान्धातुस्तु सुतः श्रीमान् सुसन्धिरुदपद्यत ।  
 सुसन्धेरपि पुत्रौ द्वौ ध्रुवसन्धिः प्रसेनजित् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,12 +1106,15 @@ Prasenajit... [1-70-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यशस्वी ध्रुवसन्धेस्तु भरतो नाम नामतः ।  
 भरतात् तु महातेजा असितो नाम जायत ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1147,15 @@ From Dhruvasandhi, an illustrious one named as Bharata is begotten, and Bharata 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यैते प्रतिराजान उदपद्यन्त शत्रवः ।  
 हैहयास्तालजङ्घाश्च शूराश्च शशबिन्दवः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1114,12 +1191,15 @@ hostility, he had to wage war with them... [1-70-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांश्च स प्रतियुध्यन् वै युद्धे राजा प्रवासितः ।  
 हिमवन्तमुपागम्य भार्याभ्यां सहितस्तदा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,12 +1238,15 @@ While counterattacking those kings, Asita is dethroned in war and then he reache
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असितोऽल्पबलो राजा कालधर्ममुपेयिवान् ।  
 द्वे चास्य भार्ये गर्भिण्यौ बभूवतुरिति श्रुतिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1191,11 +1274,14 @@ _________________
 
 राजा असितन बळि स्वल्पवे सैन्य उळिदित्तु. अवनु अल्ले मृत्यु मुखवादनु. राजनु सायुवाग अवन इब्बरू राणियरु गर्भवतियरागिद्दरु ऎन्दु केळिद्देवॆ. अवरल्लि ऒब्बाकॆयु सवतिय गर्भवन्नु नाश माडलिक्कागि ऊटदल्लि विषवन्नु तिन्निसिदळु.॥30½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एका गर्भविनाशार्थं सपत्न्यै सगरं ददौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1224,6 +1310,7 @@ two of his wives were pregnant, and one of two wives gave toxic food to the co-w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1233,6 +1320,8 @@ two of his wives were pregnant, and one of two wives gave toxic food to the co-w
 ववन्दे पद्मपत्राक्षी काङ्क्षन्ती सुतमुत्तमम् ।  
 तमृषिं साभ्युपागम्य कालिन्दी चाभ्यवादयत् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1284,6 +1373,7 @@ shelter on Himalayas. [1-70-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1292,6 +1382,8 @@ shelter on Himalayas. [1-70-31b, 32a]
 महावीर्यो महातेजा अचिरात् सञ्जनिष्यति ।  
 गरेण सहितः श्रीमान् मा शुचः कमलेक्षणे ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1353,12 +1445,15 @@ of poisoning, hence the use of *ca* , she too came to the sage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च्यवनं च नमस्कृत्य राजपुत्री पतिव्रता ।  
 पत्या विरहिता तस्मात् पुत्रं देवी व्यजायत ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1488,15 @@ On reverencing Sage Cyavana that husband devout princess whose husband is no mor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सपत्न्या तु गरस्तस्यै दत्तो गर्भजिघांसया ।  
 सह तेन गरेणैव सञ्जातः सगरोऽभवत् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1447,12 +1545,15 @@ age-old are Indo-Iranian links. Further, the word Asia has its own nearness to t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सगरस्यासमञ्जस्तु असमञ्जादथांशुमान् ।  
 दिलीपोऽंशुमतः पुत्रो दिलीपस्य भगीरथः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1488,12 +1589,15 @@ Bhageeratha... [1-70-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथात् ककुत्स्थश्च ककुत्स्थाच्च रघुस्तथा ।  
 रघोस्तु पुत्रस्तेजस्वी प्रवृद्धः पुरुषादकः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1543,12 +1647,15 @@ water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्माषपादोऽप्यभवत् तस्माज्जातस्तु शङ्खणः ।  
 सुदर्शनः शङ्खणस्य अग्निवर्णः सुदर्शनात् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1565,12 +1672,15 @@ water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
 
 अवने कल्माषपादनॆन्दु प्रसिद्धनागिद्दनु. अवनिगॆ शङ्खणनॆम्ब पुत्रनु हुट्टिदनु. शङ्खणन पुत्र सुदर्शन मत्तु सुदर्शननिगॆ अग्निवर्ण हुट्टिदनु.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीघ्रगस्त्वग्निवर्णस्य शीघ्रगस्य मरुः सुतः ।  
 मरोः प्रशुश्रुकस्त्वासीदम्बरीषः प्रशुश्रुकात् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1604,6 +1714,7 @@ son is Maru and from Maru it is Prashushruka, and Ambariisha is the son of Prash
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1612,6 +1723,8 @@ son is Maru and from Maru it is Prashushruka, and Ambariisha is the son of Prash
 नाभागस्य बभूवाज अजाद् दशरथोऽभवत् ।  
 अस्माद् दशरथाज्जातौ भ्रातरौ रामलक्ष्मणौ ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1669,12 +1782,15 @@ These names Nahusha and Yayaati also occur in other Puraana-s, indicating them i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदिवंशविशुद्धानां राज्ञां परमधर्मिणाम् ।  
 इक्ष्वाकुकुलजातानां वीराणां सत्यवादिनाम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1691,12 +1807,15 @@ These names Nahusha and Yayaati also occur in other Puraana-s, indicating them i
 
 इक्वाक्षु कुलदल्लि उत्पन्नराद राजर वंशवु आदिकालदिन्दले शुद्धवागिदॆ. इवरॆल्लरू परम धर्मात्मरू, वीररू, सत्यवादिगळू आगिद्दरु.॥44॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणयोरर्थे त्वत्सुते वरये नृप ।  
 सदृशाभ्यां नरश्रेष्ठ सदृशे दातुमर्हसि ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1745,5 +1864,6 @@ to king Janaka. [1-70-44, 45]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तनॆय सर्ग पूर्णवायितु. ॥70॥
+</details>
 </details>
 

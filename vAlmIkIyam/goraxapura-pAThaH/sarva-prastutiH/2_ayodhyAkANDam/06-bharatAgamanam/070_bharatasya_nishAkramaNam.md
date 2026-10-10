@@ -2,6 +2,8 @@
 title = "०७० भरतस्य निशाक्रमणम्"
 title_english = "070 The messengers enter the city of Rajagriha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ Ayodhya.
 
 70. दूतोंका भरतको उनके नाना और मामाके लिये उपहारकी वस्तुएँ अर्पित करना और वसिष्ठजीका संदेश सुनाना, भरतका पिता आदिकी कुशल पूछना और नानासे आज्ञा तथा उपहारकी वस्तुएँ पाकर शत्रुघ्नके साथ अयोध्याकी ओर प्रस्थान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरते ब्रुवति स्वप्नं दूतास्ते क्लान्तवाहनाः ।  
 प्रविश्यासह्यपरिखं रम्यं राजगृहं पुरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -45,12 +50,15 @@ Ayodhya.
 
 ई प्रकार भरतनु मित्ररिगॆ तन्न स्वप्नवृत्तान्तवन्नु तिळिसुत्तिरुवाग, बळलिद कुदुरॆगळिन्द बन्द आ दूतरु आ रमणीय राजगृहपुर प्रवेशिसिदरु. सुत्तलिरुव कन्दकवन्नु दाटुवुदु शत्रुगळिगॆ बहळ कठिणवागित्तु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समागम्य च राज्ञा ते राजपुत्रेण चार्चिताः ।  
 राज्ञः पादौ गृहीत्वा च तमूचुर्भरतं वचः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +99,15 @@ Kekeya and spoke the following words to Bharata:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोहितस्त्वां कुशलं प्राह सर्वे च मन्त्रिणः ।  
 त्वरमाणश्च निर्याहि कृत्यमात्ययिकं त्वया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,12 +148,15 @@ Come forth indeed quickly. There is an urgent work with you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमानि च महार्हाणि वस्त्राण्याभरणानि च ।  
 प्रतिगृह्य विशालाक्ष मातुलस्य च दापय ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,12 +199,15 @@ them to your maternal uncle"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र विंशतिकोट्यस्तु नृपतेर्मातुलस्य ते ।  
 दशकोट्यस्तु सम्पूर्णास्तथैव च नृपात्मज ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -230,12 +247,15 @@ the king Kekeya and likewise a worth of ten crores in full to your maternal uncl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य तु तत् सर्वं स्वनुरक्तः सुहृज्जने ।  
 दूतानुवाच भरतः कामैः सम्प्रतिपूज्य तान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,12 +299,15 @@ that, honored these messengers profusely with gifts of their liking and spoke(as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् स कुशली राजा पिता दशरथो मम ।  
 कच्चिदारोग्यता रामे लक्ष्मणे च महात्मनि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +350,15 @@ high-soled Lakshmana are well."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्या च धर्मनिरता धर्मज्ञा धर्मवादिनी ।  
 अरोगा चापि कौसल्या माता रामस्य धीमतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ who visualizes goodness and who is the mother of the wise Rama, also well? "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चित् सुमित्रा धर्मज्ञा जननी लक्ष्मणस्य या ।  
 शत्रुघ्नस्य च वीरस्य अरोगा चापि मध्यमा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ well as the heroic Satrughna and our middle mother, is well."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मकामा सदा चण्डी क्रोधना प्राज्ञमानिनी ।  
 अरोगा चापि मे माता कैकेयी किमुवाच ह ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,12 +496,15 @@ herself to be highly intelligent and my mother, also well? What did she say?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्तु ते दूता भरतेन महात्मना ।  
 ऊचुः सम्प्रश्रितं वाक्यमिदं तं भरतं तदा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -512,12 +547,15 @@ spoke to Bharata as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशलास्ते नरव्याघ्र येषां कुशलमिच्छसि ।  
 श्रीश्च त्वां वृणुते पद्मा युज्यतां चापि ते रथः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -558,12 +596,15 @@ prosperity, holding a lotus in her hand, awaits you. Let your chariot be made re
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतश्चापि तान् दूतानेवमुक्तोऽभ्यभाषत ।  
 आपृच्छेऽहं महाराजं दूताः सन्त्वरयन्ति माम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +648,15 @@ from the monarch(to leave for Ayodhya) saying that the messengers are hastening 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु तान् दूतान् भरतः पार्थिवात्मजः ।  
 दूतैः सञ्चोदितो वाक्यं मातामहमुवाच ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +697,15 @@ spoke as aforesaid to those messengers and uttered the following words to his ma
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् पितुर्गमिष्यामि सकाशं दूतचोदितः ।  
 पुनरप्यहमेष्यामि यदा मे त्वं स्मरिष्यसि ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +745,15 @@ father's presence. I shall again come, whenever you recall me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतेनैवमुक्तस्तु नृपो मातामहस्तदा ।  
 तमुवाच शुभं वाक्यं शिरस्याघ्राय राघवम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +794,15 @@ token of affection) the head of Bharata and spoke the following auspicious words
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छ तातानुजाने त्वां कैकेयी सुप्रजास्त्वया ।  
 मातरं कुशलं ब्रूयाः पितरं च परन्तप ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +843,15 @@ like you. Bear my greetings to your mother and father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोहितं च कुशलं ये चान्ये द्विजसत्तमाः ।  
 तौ च तात महेष्वासौ भ्रातरौ रामलक्ष्मणौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +892,15 @@ and your brothers Rama and Lakshmana the wielders of bows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मै हस्त्युत्तमांश्चित्रान् कम्बलानजिनानि च ।  
 सत्कृत्य केकयो राजा भरताय ददौ धनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,12 +941,15 @@ woolen clothes of varied colors, antelope skins and riches (gold and silver vess
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःपुरेऽतिसंवृद्धान् व्याघ्रवीर्यबलोपमान् ।  
 दंष्ट्रायुक्तान् महाकायान् शुनश्चोपायनं ददौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +989,15 @@ sixteen hundred horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुक्मनिष्कसहस्रे द्वे षोडशाश्वशतानि च ।  
 सत्कृत्य केकयीपुत्रं केकयो धनमादिशत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1040,15 @@ virtues and inmates of his palace with Bharata (to accompany him on the return j
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदामात्यानभिप्रेतान् विश्वास्यांश्च गुणान्वितान् ।  
 ददावश्वपतिः शीघ्रं भरतायानुयायिनः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,12 +1090,15 @@ quickly and were well trained
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐरावतानैन्द्रशिरान् नागान् वै प्रियदर्शनान् ।  
 खरान् शीघ्रान् सुसंयुक्तान् मातुलोऽस्मै धनं ददौ ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ possessing strength and vitality of a tiger and which were using their tusks as 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दत्तं केकयेन्द्रेण धनं तन्नाभ्यनन्दत ।  
 भरतः केकयीपुत्रो गमनत्वरया तदा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,12 +1187,15 @@ son, who was then in a hurry to go.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव ह्यस्य हृदये चिन्ता सुमहती तदा ।  
 त्वरया चापि दूतानां स्वप्नस्यापि च दर्शनात् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,12 +1235,15 @@ formed at that time in his heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसङ्कुलम् ।  
 प्रपेदे सुमहच्छ्रीमान् राजमार्गमनुत्तमम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,12 +1284,15 @@ horses and entered the excellent royal high way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्यतीत्य ततोऽपश्यदन्तःपुरमनुत्तमम् ।  
 ततस्तद् भरतः श्रीमानाविवेशानिवारितः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,12 +1332,15 @@ the glorious Bharata entered those gynoecia.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मातामहमापृच्छ्य मातुलं च युधाजितम् ।  
 रथमारुह्य भरतः शत्रुघ्नसहितो ययौ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1380,15 @@ and set out on a chariot (for Ayodhya) along with Satrughna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथान् मण्डलचक्रांश्च योजयित्वा परः शतम् ।  
 उष्ट्रगोऽश्वखरैर्भृत्या भरतं यान्तमन्वयुः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1348,6 +1437,7 @@ old version is taken -as the clause "chariots with round wheels " appears to be 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1356,6 +1446,8 @@ old version is taken -as the clause "chariots with round wheels " appears to be 
 आदाय शत्रुघ्नमपेतशत्रु-  
 र्गृहाद् ययौ सिद्ध इवेन्द्रलोकात् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1419,5 +1511,6 @@ to possess supernatural faculties) would start from Indraloka( the world of cele
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तनॆय सर्ग पूर्णवायितु.॥70॥
+</details>
 </details>
 

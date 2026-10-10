@@ -2,6 +2,8 @@
 title = "०२६ दूषणवधः"
 title_english = "026 Rama eliminates Dushana and his army"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The
@@ -22,6 +24,7 @@ Rama. Left behind are only two, Khara and Trishira, the chiefs of that demonic f
 
 26. श्रीरामके द्वारा दूषणसहित चौदह सहस्र राक्षसोंका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ Rama. Left behind are only two, Khara and Trishira, the chiefs of that demonic f
 सन्दिदेश महाबाहुर्भीमवेगान् दुरासदान् ॥ १ ॥  
 राक्षसान् पञ्चसाहस्रान् समरेष्वनिवर्तिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ monstrous impetus, and who knew no retreat in war, to attack Rama. [3-26-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते शूलैः पट्टिशैः खड्गैः शिलावर्षैर्द्रुमैरपि ॥ २ ॥  
 शरवर्षैरविच्छिन्नं ववर्षुस्तं समन्ततः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ and inordinately upon Rama from all over. [3-26-2b, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् द्रुमाणां शिलानां च वर्षं प्राणहरं महत् ॥ ३ ॥  
 प्रतिजग्राह धर्मात्मा राघवस्तीक्ष्णसायकैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ and trees with his fierce arrows. [3-26-3b, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य च तद् वर्षं निमीलित इवर्षभः ॥ ४ ॥  
 रामः क्रोधं परं लेभे वधार्थं सर्वरक्षसाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ infuriation for eliminating all of the demons. [3-26-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधसमाविष्टः प्रदीप्त इव तेजसा ॥ ५ ॥  
 शरैरभ्यकिरत् सैन्यं सर्वतः सहदूषणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +271,15 @@ then diffused Duushana and his army with arrows from all over. [3-26-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सेनापतिः क्रुद्धो दूषणः शत्रुदूषणः ॥ ६ ॥  
 शरैरशनिकल्पैस्तं राघवं समवारयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,6 +319,7 @@ forestalled Raghava's onslaught with his arrows that are simulative of thunderbo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +328,8 @@ forestalled Raghava's onslaught with his arrows that are simulative of thunderbo
 हत्वा चाश्वान् शरैस्तीक्ष्णैरर्धचन्द्रेण सारथेः ॥ ८ ॥  
 शिरो जहार तद्रक्षस्त्रिभिर्विव्याध वक्षसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,6 +403,7 @@ sturdy bow of Duushana, shredding four of his horses with four more arrows. [3-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,6 +411,8 @@ sturdy bow of Duushana, shredding four of his horses with four more arrows. [3-2
 जग्राह गिरिशृङ्गाभं परिघं रोमहर्षणम् ।  
 वेष्टितं काञ्चनैः पट्टैर्देवसैन्याभिमर्दनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,12 +430,15 @@ sturdy bow of Duushana, shredding four of his horses with four more arrows. [3-2
 
 धनुष्य तुण्डागि, कुदुरॆगळ सहित सारथियु मडिदुहोदाग रथहीननाद दूषणनु पर्वत शिखरदन्तह ऒन्दु रोमाञ्चकर, चिन्नद पट्टिगळिन्द कूडिद्द देवतॆगळ सैन्यवन्नु हॊसकि हाकुवन्तह परिवन्नॆत्तिकॊण्डनु.॥9-10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयसैः शङ्कुभिस्तीक्ष्णैः कीर्णं परवसोक्षितम् ।  
 वज्राशनिसमस्पर्शं परगोपुरदारणम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +480,15 @@ and a ransacker of the archways of fortresses of his adversaries. [3-26-9b, 10, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं महोरगसङ्काशं प्रगृह्य परिघं रणे ।  
 दूषणोऽभ्यपतद् रामं क्रूरकर्मा निशाचरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +528,15 @@ to snakebite, rushed that nightwalker Duushana with infernal exerts rushed towar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याभिपतमानस्य दूषणस्य च राघवः ।  
 द्वाभ्यां शराभ्यां चिच्छेद सहस्ताभरणौ भुजौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +579,15 @@ on his arms with two arrows. [3-26-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रष्टस्तस्य महाकायः पपात रणमूर्धनि ।  
 परिघश्छिन्नहस्तस्य शक्रध्वज इवाग्रतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,12 +630,15 @@ front, like the flagstaff with flag raised in honour of Indra, and collapsed . [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कराभ्यां च विकीर्णाभ्यां पपात भुवि दूषणः ।  
 विषाणाभ्यां विशीर्णाभ्यां मनस्वीव महागजः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +677,15 @@ when both of its tusks are broken down. [3-26-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा तं पतितं भूमौ दूषणं निहतं रणे ।  
 साधु साध्विति काकुत्स्थं सर्वभूतान्यपूजयन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,6 +725,7 @@ good...' [3-26-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -688,6 +733,8 @@ good...' [3-26-16]
 संहत्याभ्यद्रवन् रामं मृत्युपाशावपाशिताः ॥ १७ ॥  
 महाकपालः स्थूलाक्षः प्रमाथी च महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +779,15 @@ and great mighty Pramaathii, and they collectively ran towards Rama, bound by th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाकपालो विपुलं शूलमुद्यम्य राक्षसः ॥ १८ ॥  
 स्थूलाक्षः पट्टिशं गृह्य प्रमाथी च परश्वधम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -776,12 +826,15 @@ towards Rama. [3-26-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वैवापततस्तांस्तु राघवः सायकैः शितैः ॥ १९ ॥  
 तीक्ष्णाग्रैः प्रतिजग्राह सम्प्राप्तानतिथीनिव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,6 +876,7 @@ arrows, when he saw them coming and falling upon him, inopportunely. [3-26-19b, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +884,8 @@ arrows, when he saw them coming and falling upon him, inopportunely. [3-26-19b, 
 असङ्ख्येयैस्तु बाणौघैः प्रममाथ प्रमाथिनम् ।  
 स्थूलाक्षस्याक्षिणी स्थूले पूरयामास सायकैः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -847,6 +903,7 @@ arrows, when he saw them coming and falling upon him, inopportunely. [3-26-19b, 
 
 श्रीरघुनन्दननु महाकपालन शिरवन्नु मत्तु कपालवन्नु हारिसिदनु. प्रवाथियन्नु असङ्ख्य बाणगळिन्द कॊन्दुहाकिदनु हागू स्थूलाक्षन दॊड्डदाद कण्णुगळन्नु अम्बुगळिन्द तुम्बिदनु.॥20-21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -854,6 +911,8 @@ arrows, when he saw them coming and falling upon him, inopportunely. [3-26-19b, 
 दूषणस्यानुगान् पञ्चसाहस्रान् कुपितः क्षणात् ॥ २२ ॥  
 हत्वा तु पञ्चसाहस्रैरनयद् यमसादनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,6 +964,7 @@ is available in both words. Readers may please refer to the excellent book of Dr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -914,6 +974,8 @@ is available in both words. Readers may please refer to the excellent book of Dr
 महत्या सेनया सार्धं युद‍्ध्वा रामं कुमानुषम् ।  
 शस्त्रैर्नानाविधाकारैर्हनध्वं सर्वराक्षसाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -984,6 +1046,7 @@ his army captains, under whose captaincy mighty forces are there. [3-26-23b, 24a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -994,6 +1057,8 @@ his army captains, under whose captaincy mighty forces are there. [3-26-23b, 24a
 द्वादशैते महावीर्या बलाध्यक्षाः ससैनिकाः ।  
 राममेवाभ्यधावन्त विसृजन्तः शरोत्तमान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1113,15 @@ launching their atrocious arrows. [3-26-26, 27, 28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पावकसङ्काशैर्हेमवज्रविभूषितैः ।  
 जघान शेषं तेजस्वी तस्य सैन्यस्य सायकैः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1092,12 +1160,15 @@ are embellished with gold and diamonds, and that are blazing like ritual-fires. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रुक्मपुङ्खा विशिखाः सधूमा इव पावकाः ।  
 निजघ्नुस्तानि रक्षांसि वज्रा इव महाद्रुमान् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1137,12 +1208,15 @@ fires Rama felled the demons, as Thunderbolts of Indra will be felling gigantic 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षसां तु शतं रामः शतेनैकेन ‍किर्णना ।  
 सहस्रं तु सहस्रेण जघान रणमूर्धनि ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1259,15 @@ more demons are hit in the forefront of that war. [3-26-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्भिन्नवर्माभरणाश्छिन्नभिन्नशरासनाः ।  
 निपेतुः शोणितादिग्धा धरण्यां रजनीचराः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1230,12 +1307,15 @@ fell flat on ground, bodies wholly smudged with blood. [3-26-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्मुक्तकेशैः समरे पतितैः शोणितोक्षितैः ।  
 विस्तीर्णा वसुधा कृत्स्ना महावेदिः कुशैरिव ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1278,12 +1358,15 @@ entire earth looked like a vast altar of fire overspread with holy grass. [3-26-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्क्षणे तु महाघोरं वनं निहतराक्षसम् ।  
 बभूव निरयप्रख्यं मांसशोणितकर्दमम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,12 +1399,15 @@ moment it became identical with hell. [3-26-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दशसहस्राणि रक्षसां भीमकर्मणाम् ।  
 हतान्येकेन रामेण मानुषेण पदातिना ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1361,12 +1447,15 @@ exploits. [3-26-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य सैन्यस्य सर्वस्य खरः शेषो महारथः ।  
 राक्षसस्त्रिशिराश्चैव रामश्च रिपुसूदनः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1417,12 +1506,15 @@ coming chapters.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शेषा हता महावीर्या राक्षसा रणमूर्धनि ।  
 घोरा दुर्विषहाः सर्वे लक्ष्मणस्याग्रजेन ते ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1462,6 +1554,7 @@ highly valorous, ghastly and unbearable. [3-26-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1470,6 +1563,8 @@ highly valorous, ghastly and unbearable. [3-26-37]
 रथेन रामं महता खरस्ततः  
 समाससादेन्द्र इवोद्यताशनिः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1526,5 +1621,6 @@ then marched on to reach Rama in a huge chariot, as with Indra who will march up
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तारनॆय सर्ग सम्पूर्णवायितु. ॥26॥
+</details>
 </details>
 

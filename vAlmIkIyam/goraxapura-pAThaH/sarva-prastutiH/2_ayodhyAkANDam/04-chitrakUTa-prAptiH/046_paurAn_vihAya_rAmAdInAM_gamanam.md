@@ -2,6 +2,8 @@
 title = "०४६ पौरान् विहाय रामादीनां गमनम्"
 title_english = "046 Rama passes the night on the banks of Tamasa river"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ He then ascends the chariot along with Sita and Lakshmana and went ahead to the 
 
 46. सीता और लक्ष्मणसहित श्रीरामका रात्रिमें तमसा-तटपर निवास, माता-पिता और अयोध्याके लिये चिन्ता तथा पुरवासियोंको सोते छोड़कर वनकी ओर जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु तमसातीरं रम्यमाश्रित्य राघवः ।  
 सीतामुद्वीक्ष्य सौमित्रिमिदं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ spoke to Lakshmana as follows :
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमद्य निशा पूर्वा सौमित्रे प्रहिता वनम् ।  
 वनवासस्य भद्रं ते न चोत्कण्ठितुमर्हसि ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ residence in the forest .You ought not feel anxious. May all be well with you!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य शून्यान्यरण्यानि रुदन्तीव समन्ततः ।  
 यथानिलयमायद्भिर्निलीनानि मृगद्विजैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ seeking for shelter, the desolate woods seem to be crying from all sides"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यायोध्या तु नगरी राजधानी पितुर्मम ।  
 सस्त्रीपुंसा गतानस्मान् शोचिष्यति न संशयः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ lament about us that have departed (to the forest). There is no doubt"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्ता हि मनुजा राजानं बहुभिर्गुणैः ।  
 त्वां च मां च नरव्याघ्र शत्रुघ्नभरतौ तथा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +271,15 @@ virtues."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितरं चानुशोचामि मातरं च यशस्विनीम् ।  
 अपि नान्धौ भवेतां नौ रुदन्तौ तावभीक्ष्णशः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,12 +319,15 @@ become even blind, by weeping incessantly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतः खलु धर्मात्मा पितरं मातरं च मे ।  
 धर्मार्थकामसहितैर्वाक्यैराश्वासयिष्यति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +367,15 @@ words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्यानृशंसत्वं सञ्चिन्त्याहं पुनः पुनः ।  
 नानुशोचामि पितरं मातरं च महाभुज ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +418,15 @@ our father and mother"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया कार्यं नरव्याघ्र मामनुव्रजता कृतम् ।  
 अन्वेष्टव्या हि वैदेह्या रक्षणार्थं सहायता ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +466,15 @@ otherwise, a help would have to be sought for by me for protecting Seetha"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्भिरेव हि सौमित्रे वत्स्याम्यद्य निशामिमाम् ।  
 एतद्धि रोचते मह्यं वन्येऽपि विविधे सति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +515,15 @@ of wild fruits and roots, this is indeed a liking for me"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सौमित्रिं सुमन्त्रमपि राघवः ।  
 अप्रमत्तस्त्वमश्वेषु भव सौम्येत्युवाच ह ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ Attend to the horses carefully."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽश्वान् सुमन्त्रः संयम्य सूर्येऽस्तं समुपागते ।  
 प्रभूतयवसान् कृत्वा बभूव प्रत्यनन्तरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +614,15 @@ abundant grass and immediately stood nearest (to Rama).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपास्य तु शिवां सन्ध्यां दृष्ट्वा रात्रिमुपागताम् ।  
 रामस्य शयनं चक्रे सूतः सौमित्रिणा सह ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +663,15 @@ nearer, Sumantra along with Lakshmana made the bed for Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां शय्यां तमसातीरे वीक्ष्य वृक्षदलैर्वृताम् ।  
 रामः सौमित्रिणा सार्धं सभार्यः संविवेश ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +712,15 @@ of Lakshmana, Rama along with his wife laid down on it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सभार्यं सम्प्रसुप्तं तु श्रान्तं सम्प्रेक्ष्य लक्ष्मणः ।  
 कथयामास सूताय रामस्य विविधान् गुणान् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +760,15 @@ virtues to Sumantra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाग्रतोरेव तां रात्रिं सौमित्रेरुदितो रविः ।  
 सूतस्य तमसातीरे रामस्य ब्रुवतो गुणान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +808,15 @@ that whole night at the bank of Tamasa river, the sun rose.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोकुलाकुलतीरायास्तमसाया विदूरतः ।  
 अवसत् तत्र तां रात्रिं रामः प्रकृतिभिः सह ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +856,15 @@ Rama passed that night there with the citizens.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्थाय च महातेजाः प्रकृतीस्ता निशाम्य च ।  
 अब्रवीद् भ्रातरं रामो लक्ष्मणं पुण्यलक्षणम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,12 +905,15 @@ splendor, spoke to his brother, Lakshmana who was endowed with auspicious bodily
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मद्‍व्यपेक्षान् सौमित्रे निर्व्यपेक्षान् गृहेष्वपि ।  
 वृक्षमूलेषु संसक्तान् पश्य लक्ष्मण साम्प्रतम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +954,15 @@ homes, sleeping together at the roots of trees, Oh, the son of Sumitra!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैते नियमं पौराः कुर्वन्त्यस्मन्निवर्तने ।  
 अपि प्राणान् न्यसिष्यन्ति न तु त्यक्ष्यन्ति निश्चयम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +1003,15 @@ resolve"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावदेव तु संसुप्तास्तावदेव वयं लघु ।  
 रथमारुह्य गच्छामः पन्थानमकुतोभयम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,12 +1051,15 @@ chariot and take a route which has no fear from any quarter"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो भूयोऽपि नेदानीमिक्ष्वाकुपुरवासिनः ।  
 स्वपेयुरनुरक्ता मा वृक्षमूलेषु संश्रिताः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1034,12 +1102,15 @@ longing for me, may not sleep as of now, at the roots of trees again and again"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौरा ह्यात्मकृताद् दुःखाद् विप्रमोच्या नृपात्मजैः ।  
 न तु खल्वात्मना योज्या दुःखेन पुरवासिनः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,12 +1152,15 @@ burdened with hardship caused by (princes) them selves as is our case."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवील्लक्ष्मणो रामं साक्षाद् धर्ममिव स्थितम् ।  
 रोचते मे तथा प्राज्ञ क्षिप्रमारुह्यतामिति ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,12 +1202,15 @@ quickly"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामोऽब्रवीत् सूतं शीघ्रं संयुज्यतां रथः ।  
 गमिष्यामि ततोऽरण्यं गच्छ शीघ्रमितः प्रभो ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1174,12 +1251,15 @@ the chariot ready. I shall proceed to the forest. Let us go quickly from here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूतस्ततः सन्त्वरितः स्यन्दनं तैर्हयोत्तमैः ।  
 योजयित्वा तु रामस्य प्राञ्जलिः प्रत्यवेदयत् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1220,12 +1300,15 @@ submitted with joined palms to Rama (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं युक्तो महाबाहो रथस्ते रथिनां वर ।  
 त्वरयाऽऽरोह भद्रं ते ससीतः सहलक्ष्मणः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,12 +1349,15 @@ and with Lakshmana, Oh jewel among car-warriors! May prosperity attend you"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं स्यन्दनमधिष्ठाय राघवः सपरिच्छदः ।  
 शीघ्रगामाकुलावर्तां तमसामतरन्नदीम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1306,12 +1392,15 @@ basket, and so on) and crossed the swift flowing Tamasa river, thickly set with 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सन्तीर्य महाबाहुः श्रीमान् शिवमकण्टकम् ।  
 प्रापद्यत महामार्गमभयं भयदर्शिनाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,6 +1435,7 @@ road free from obstacles and safe even for those who are apprehensive of danger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1354,6 +1444,8 @@ road free from obstacles and safe even for those who are apprehensive of danger.
 मुहूर्तं त्वरितं गत्वा निवर्तय रथं पुनः ।  
 यथा न विद्युः पौरा मां तथा कुरु समाहितः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1416,12 +1508,15 @@ did was righteous.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु वचः श्रुत्वा तथा चक्रे च सारथिः ।  
 प्रत्यागम्य च रामस्य स्यन्दनं प्रत्यवेदयत् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1464,6 +1559,7 @@ suggested and on returning, reported to Rama about the arrival of the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1472,6 +1568,8 @@ suggested and on returning, reported to Rama about the arrival of the chariot.
 प्रचोदयामास ततस्तुरङ्गमान्  
 स सारथिर्येन पथा तपोवनम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1518,6 +1616,7 @@ can reach a grove suited to the practice of austerities.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1526,6 +1625,8 @@ can reach a grove suited to the practice of austerities.
 उदङ्मुखं तं तु रथं चकार  
 प्रयाणमाङ्गल्यनिमित्तदर्शनात् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1582,5 +1683,6 @@ with the charioteer mounted the chariot and proceeded to the forest.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तारनॆय सर्ग पूर्णवायितु.॥46॥
+</details>
 </details>
 

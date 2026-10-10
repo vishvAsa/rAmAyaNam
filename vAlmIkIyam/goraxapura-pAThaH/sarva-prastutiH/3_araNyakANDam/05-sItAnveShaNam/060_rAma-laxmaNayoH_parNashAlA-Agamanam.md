@@ -2,6 +2,8 @@
 title = "०६० राम-लक्ष्मणयोः पर्णशाला-आगमनम्"
 title_english = "060 Rama laments for Seetha s separation"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ is said here.
 
 60. श्रीरामका विलाप करते हुए वृक्षों और पशुओंसे सीताका पता पूछना, भ्रान्त होकर रोना और बारंबार उनकी खोज करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भृशमाव्रजमानस्य तस्याधो वामलोचनम् ।  
 प्रास्फुरच्चास्खलद् रामो वेपथुश्चास्य जायते ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ he missed his footing. [3-60-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपालक्ष्य निमित्तानि सोऽशुभानि मुहुर्मुहुः ।  
 अपि क्षेमं तु सीताया इति वै व्याजहार ह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ On closely watching those inauspicious forebodings Rama indeed uttered oftentime
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वरमाणो जगामाथ सीतादर्शनलालसः ।  
 शून्यमावसथं दृष्ट्वा बभूवोद्विग्नमानसः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,6 +167,7 @@ is distraught. [3-60-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -164,6 +176,8 @@ is distraught. [3-60-3]
 ददर्श पर्णशालां च सीतया रहितां तदा ।  
 श्रिया विरहितां ध्वस्तां हेमन्ते पद्मिनीमिव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,12 +227,15 @@ straw devoid of Seetha, alike a befogged wintry lotus-lake without lustre. [3-60
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुदन्तमिव वृक्षैश्च ग्लानपुष्पमृगद्विजम् ।  
 श्रिया विहीनं विध्वस्तं सन्त्यक्तं वनदैवतैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ _________________
 
 आ स्थानवु वृक्षगळ मूलक अळुत्तिरुवन्तॆ अनिसुत्तित्तु. हूवुगळु बाडिहोगिद्दवु. मृग-पक्षिगळु ग्लानिगॊण्डु सुम्मनॆ कुळितिद्दवु. अल्लिय ऎल्ल शोभॆयू नाशवागि होगित्तु. आश्रमवु पाळुबिद्दन्तॆ काणुत्तित्तु. वनदेवतॆगळू आ स्थळवन्नु बिट्टुहोगिद्दरु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रकीर्णाजिनकुशं विप्रविद्धबृसीकटम् ।  
 दृष्ट्वा शून्योटजस्थानं विललाप पुनः पुनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +313,15 @@ is an out and out human, as of now.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृता मृता वा नष्टा वा भक्षिता वा भविष्यति ।  
 निलीनाप्यथवा भीरुरथवा वनमाश्रिता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +364,15 @@ forest which will be gruelling to locate. [3-60-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गता विचेतुं पुष्पाणि फलान्यपि च वा पुनः ।  
 अथवा पद्मिनीं याता जलार्थं वा नदीं गता ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +412,15 @@ to the river for water." Thinking thus, Rama started his search for Seetha. [3-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्नान्मृगयमाणस्तु नाससाद वने प्रियाम् ।  
 शोकरक्तेक्षणः श्रीमानुन्मत्त इव लक्ष्यते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +467,15 @@ shall also be 'like' a mad-translation, as long as he talks 'like' a madman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षाद् वृक्षं प्रधावन् स गिरींश्चापि नदीनदम् ।  
 बभ्राम विलपन् रामः शोकपङ्कार्णवप्लुतः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,6 +526,7 @@ are presented in the endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -502,6 +535,8 @@ are presented in the endnote.
 स्निग्धपल्लवसङ्काशां पीतकौशेयवासिनीम् ।  
 शंसस्व यदि सा दृष्टा बिल्व बिल्वोपमस्तनी ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +603,15 @@ and a love of mine, thou tellest me if thou knowest. [3-60-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवार्जुन शंस त्वं प्रियां तामर्जुनप्रियाम् ।  
 जनकस्य सुता तन्वी यदि जीवति वा न वा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,6 +652,7 @@ of mine, thou telleth whether that slender-waisted daughter of Janaka liveth or 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -622,6 +661,8 @@ of mine, thou telleth whether that slender-waisted daughter of Janaka liveth or 
 भ्रमरैरुपगीतश्च यथा द्रुमवरो ह्यसि ।  
 एष व्यक्तं विजानाति तिलकस्तिलकप्रियाम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +733,15 @@ this tree knowest Maithili whose thighs can be likened to the smoothish trunk of
 
 * रामायणके व्याख्याकारोंमेंसे किसीने ककुभका अर्थ मरुवक लिखा है और किसीने अर्जुनविशेष, किंतु कोषोंमें यह कुटजका पर्याय बताया गया है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोक शोकापनुद शोकोपहतचेतनम् ।  
 त्वन्नामानं कुरु क्षिप्रं प्रियासन्दर्शनेन माम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,12 +783,15 @@ name me after thine, by showing my ladylove, as my agony has marred my empathy..
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि ताल त्वया दृष्टा पक्वतालोपमस्तनी ।  
 कथयस्व वरारोहां कारुण्यं यदि ते मयि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +830,15 @@ is mine, thou telleth of that shapely lady Seetha... [3-60-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि दृष्टा त्वया जम्बो जाम्बूनदसमप्रभा ।  
 प्रियां यदि विजानासि निःशङ्क कथयस्व मे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -837,12 +887,15 @@ like thine Rose-apples, thou telleth me unhesitatingly... [3-60-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो त्वं कर्णिकाराद्य पुष्पितः शोभसे भृशम् ।  
 कर्णिकारप्रियां साध्वीं शंस दृष्टा यदि प्रिया ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,6 +948,7 @@ gestures, what exactly has happened...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -903,6 +957,8 @@ gestures, what exactly has happened...
 बकुलानथ पुन्नागांश्चन्दनान् केतकांस्तथा ।  
 पृच्छन् रामो वने भ्रान्त उन्मत्त इव लक्ष्यते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1013,15 @@ highly glorious Rama appeared like a madman. [3-60-21, 22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा मृगशावाक्षीं मृग जानासि मैथिलीम् ।  
 मृगविप्रेक्षणी कान्ता मृगीभिः सहिता भवेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1074,15 @@ you are escaping expertly... leave it at that...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गज सा गजनासोरुर्यदि दृष्टा त्वया भवेत् ।  
 तां मन्ये विदितां तुभ्यमाख्याहि वरवारण ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1131,15 @@ with your massive head, trunk or legs, but tell me what exactly has happened...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्दूल यदि सा दृष्टा प्रिया चन्द्रनिभानना ।  
 मैथिली मम विस्रब्धः कथयस्व न ते भयम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1125,12 +1190,15 @@ to rescue Seetha. Such as he is, an uninformed one, he starts a delirious solilo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं धावसि प्रिये नूनं दृष्टासि कमलेक्षणे ।  
 वृक्षैराच्छाद्य चात्मानं किं मां न प्रतिभाषसे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,12 +1240,15 @@ under trees, why do not you reply me... [3-60-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठ तिष्ठ वरारोहे न तेऽस्ति करुणा मयि ।  
 नात्यर्थं हास्यशीलासि किमर्थं मामुपेक्षसे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1218,12 +1289,15 @@ What for you ignore me? [3-60-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पीतकौशेयकेनासि सूचिता वरवर्णिनि ।  
 धावन्त्यपि मया दृष्टा तिष्ठ यद्यस्ति सौहृदम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,12 +1337,15 @@ stay, if you have goodwill for me... [3-60-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव सा नूनमथवा हिंसिता चारुहासिनी ।  
 कृच्छ्रं प्राप्तं न मां नूनं यथोपेक्षितुमर्हति ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1310,12 +1387,15 @@ me who attained this wretched state, hence Seetha with cheery smiles is certainl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्तं सा भक्षिता बाला राक्षसैः पिशिताशनैः ।  
 विभज्याङ्गानि सर्वाणि मया विरहिता प्रिया ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,12 +1435,15 @@ from my dear one... [3-60-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं तच्छुभदन्तोष्ठं सुनासं शुभकुण्डलम् ।  
 पूर्णचन्द्रनिभं ग्रस्तं मुखं निष्प्रभतां गतम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,12 +1488,15 @@ earrings, might have obtained a blanched look when being devoured... [3-60-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि चम्पकवर्णाभा ग्रीवा ग्रैवेयकोचिता ।  
 कोमला विलपन्त्यास्तु कान्ताया भक्षिता शुभा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1450,12 +1536,15 @@ befitting for any neck ornament, indeed it might be glutted down while she is be
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं विक्षिप्यमाणौ तौ बाहू पल्लवकोमलौ ।  
 भक्षितौ वेपमानाग्रौ सहस्ताभरणाङ्गदौ ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1495,12 +1584,15 @@ been definitely nibbled while they are wriggling with quivering fingers... [3-60
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया विरहिता बाला रक्षसां भक्षणाय वै ।  
 सार्थेनेव परित्यक्ता भक्षिता बहुबान्धवा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1543,6 +1635,7 @@ by her caravan who is lonesomely ready for the feast of highwaymen, and demons h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1551,6 +1644,8 @@ by her caravan who is lonesomely ready for the feast of highwaymen, and demons h
 इत्येवं विलपन् रामः परिधावन् वनाद् वनम् ।  
 क्वचिदुद‍्भ्रमते वेगात् क्वचिद् विभ्रमते बलात् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1626,6 +1721,7 @@ gone... oh, auspicious lady... ha, Seetha..." thus Rama lamented again and again
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1633,6 +1729,8 @@ gone... oh, auspicious lady... ha, Seetha..." thus Rama lamented again and again
 स वनानि नदीः शैलान् गिरिप्रस्रवणानि च ।  
 काननानि च वेगेन भ्रमत्यपरिसंस्थितः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1677,6 +1775,7 @@ restlessly. [3-60-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1685,6 +1784,8 @@ restlessly. [3-60-37]
 अनिष्ठिताशः स चकार मार्गणे  
 पुनः प्रियायाः परमं परिश्रमम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1745,5 +1846,6 @@ but again he undertook the search for his ladylove, over-strenuously. [3-60-38]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तनॆय सर्ग सम्पूर्णवायितु.॥60॥
+</details>
 </details>
 

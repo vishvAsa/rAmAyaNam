@@ -2,6 +2,8 @@
 title = "०४० जनाक्रोशः"
 title_english = "040 Rama s departure from Ayodhya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-040-Jana_Kroshaha.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "040 Rama s departure from Ayodhya"
 
 40. सीता, राम और लक्ष्मणका दशरथकी परिक्रमा करके कौसल्या आदिको प्रणाम करना, सुमित्राका लक्ष्मणको उपदेश, सीतासहित श्रीराम और लक्ष्मणका रथमें बैठकर वनकी ओर प्रस्थान, पुरवासियों तथा रानियोंसहित महाराज दशरथकी शोकाकुल अवस्था
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामश्च सीता च लक्ष्मणश्च कृताञ्जलिः ।  
 उपसङ्गृह्य राजानं चक्रुर्दीनाः प्रदक्षिणम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,12 +61,15 @@ of the king and went round him clockwise with joined palms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं चापि समनुज्ञाप्य धर्मज्ञः सह सीतया ।  
 राघवः शोकसम्मूढो जननीमभ्यवादयत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -101,12 +109,15 @@ sorrow, bowed along with Seetha to Kausalya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वक्षं लक्ष्मणो भ्रातुः कौसल्यामभ्यवादयत् ।  
 अपि मातुः सुमित्राया जग्राह चरणौ पुनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,12 +158,15 @@ feet of his mother Sumitra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वन्दमानं रुदती माता सौमित्रिमब्रवीत् ।  
 हितकामा महाबाहुं मूर्ध्न्युपाघ्राय लक्ष्मणम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृष्टस्त्वं वनवासाय स्वनुरक्तः सुहृज्जने ।  
 रामे प्रमादं मा कार्षीः पुत्र भ्रातरि गच्छति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,12 +261,15 @@ half-brother Rama, who is going to the forest, my son!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यसनी वा समृद्धो वा गतिरेष तवानघ ।  
 एष लोके सतां धर्मो यज्ज्येष्ठवशगो भवेत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +312,15 @@ control of his elder brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं हि वृत्तमुचितं कुलस्यास्य सनातनम् ।  
 दानं दीक्षा च यज्ञेषु तनुत्यागो मृधेषु हि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ battles."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणं त्वेवमुक्त्वासौ संसिद्धं प्रियराघवम् ।  
 सुमित्रा गच्छ गच्छेति पुनः पुनरुवाच तम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ Rama dearly, Sumitra repeatedly said to him, "fare forth, fare forth!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामं दशरथं विद्धि मां विद्धि जनकात्मजाम् ।  
 अयोध्यामटवीं विद्धि गच्छ तात यथासुखम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ Consider the forest as Ayodhya and depart happily, my son!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुमन्त्रः काकुत्स्थं प्राञ्जलिर्वाक्यमब्रवीत् ।  
 विनीतो विनयज्ञश्च मातलिर्वासवं यथा ॥१० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +512,15 @@ these words to Rama even as Matali(charioteer of Indra) would to Indra (the rule
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथमारोह भद्रं ते राजपुत्र महायशः ।  
 क्षिप्रं त्वां प्रापयिष्यामि यत्र मां राम वक्ष्यसे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +563,15 @@ shall take you speedily, wherever you direct me to go."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश हि वर्षाणि वस्तव्यानि वने त्वया ।  
 तान्युपक्रमितव्यानि यानि देव्या प्रचोदितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,12 +611,15 @@ the queen, are to be considered having commenced."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रथं सूर्यसङ्काशं सीता हृष्टेन चेतसा ।  
 आरुरोह वरारोहा कृत्वालङ्कारमात्मनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +663,15 @@ mind, that chariot which was shining like the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनवासं हि सङ्ख्याय वासांस्याभरणानि च ।  
 भर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +711,15 @@ replendent like fire and decked with gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैवायुधजातानि भ्रातृभ्यां कवचानि च ।  
 रथोपस्थे प्रविन्यस्य सचर्म कठिनं च यत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +763,15 @@ jewellery, taking into consideration the period for which she had to stay in the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो ज्वलनसङ्काशं चामीकरविभूषितम् ।  
 तमारुरुहतुस्तूर्णं भ्रातरौ रामलक्ष्मणौ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -738,12 +788,15 @@ jewellery, taking into consideration the period for which she had to stay in the
 
 अनन्तर राम-लक्ष्मणरु आ अग्नियन्तॆ हॊळॆयुव सुवर्णभूषित रथदल्लि आरूढरादरु.॥16॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतातृतीयानारूढान् दृष्ट्वा रथमचोदयत् ।  
 सुमन्त्रः सम्मतानश्वान् वायुवेगसमाञ्जवे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,12 +837,15 @@ resembling the velocity of wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाते तु महारण्यं चिररात्राय राघवे ।  
 बभूव नगरे मूर्च्छा बलमूर्च्छा जनस्य च ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,12 +889,15 @@ in the city. There was faintness in the strength of people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् समाकुलसम्भ्रान्तं मत्तसङ्कुपितद्विपम् ।  
 हयसिञ्जितनिर्घोषं पुरमासीन्महास्वनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,12 +940,15 @@ and highly excited and resonant with tinkling of ornaments of horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सबालवृद्धा सा पुरी परमपीडिता ।  
 राममेवाभिदुद्राव घर्मार्तः सलिलं यथा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,12 +990,15 @@ water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्श्वतः पृष्ठतश्चापि लम्बमानास्तदुन्मुखाः ।  
 बाष्पपूर्णमुखाः सर्वे तमूचुर्भृशनिःस्वनाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,12 +1043,15 @@ thus:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयच्छ वाजिनां रश्मीन् सूत याहि शनैः शनैः ।  
 मुखं द्रक्ष्याम रामस्य दुर्दर्शं नो भविष्यति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,12 +1095,15 @@ behold the face of Rama, which would be henceforth difficult to behold for us"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयसं हृदयं नूनं राममातुरसंशयम् ।  
 यद् देवगर्भप्रतिमे वनं याति न भिद्यते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,12 +1144,15 @@ it does not get broken when Rama resembling an offspring of gods is going to the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतकृत्या हि वैदेही छायेवानुगता पतिम् ।  
 न जहाति रता धर्मे मेरुमर्कप्रभा यथा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,12 +1194,15 @@ same way as Mount Meru does not leave the efflugence of sun"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो लक्ष्मण सिद्धार्थः सततं प्रियवादिनम् ।  
 भ्रातरं देवसङ्काशं यस्त्वं परिचरिष्यसि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,12 +1242,15 @@ is equal to the god. Ah, you are the accomplisher of purpose!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महत्येषा हि ते बुद्धिरेष चाभ्युदयो महान् ।  
 एष स्वर्गस्य मार्गश्च यदेनमनुगच्छसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1211,12 +1291,15 @@ it is even a means to heaven that you are following this Rama"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वदन्तस्ते सोढुं न शेकुर्बाष्पमागतम् ।  
 नरास्तमनुगच्छन्ति प्रियमिक्ष्वाकुनन्दनम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1259,12 +1342,15 @@ that Rama, their beloved delight of the Ikshvakus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजा वृतः स्त्रीभिर्दीनाभिर्दीनचेतनः ।  
 निर्जगाम प्रियं पुत्रं द्रक्ष्यामीति ब्रुवन् गृहात् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1308,12 +1394,15 @@ saw, came out of his palace surrounded by women who were too dejected.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रुवे चाग्रतः स्त्रीणां रुदतीनां महास्वनः ।  
 यथा नादः करेणूनां बद्धे महति कुञ्जरे ॥२९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1356,12 +1445,15 @@ female elephants when a lordly elephant has been pinioned.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता हि राजा काकुत्स्थः श्रीमान् सन्नस्तदा बभौ ।  
 परिपूर्णः शशी काले ग्रहेणोपप्लुतो यथा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1405,12 +1497,15 @@ scion of Kakutstha) looked shrunk, like the full moon oversadowed by an eclipse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः ।  
 सूतं सञ्चोदयामास त्वरितं वाह्यतामिति ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1444,12 +1539,15 @@ charioteer in the words "Let the chariot be driven fast."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो याहीति तं सूतं तिष्ठेति च जनस्तथा ।  
 उभयं नाशकत् सूतः कर्तुमध्वनि चोदितः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1493,12 +1591,15 @@ Rama commanded that charioteer with the words "Move on!" The people said to him
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्गच्छति महाबाहौ रामे पौरजनाश्रुभिः ।  
 पतितैरभ्यवहितं प्रणनाश महीरजः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1538,12 +1639,15 @@ by the falling tears of the citizens.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुदिताश्रुपरिद्यूनं हाहाकृतमचेतनम् ।  
 प्रयाणे राघवस्यासीत् पुरं परमपीडितम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1577,12 +1681,15 @@ unconscious with deep agony, at the time of departure of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम् ।  
 मीनसङ्क्षोभचलितैः सलिलं पङ्कजैरिव ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1616,6 +1723,7 @@ from lotuses by the commotion of fish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1624,6 +1732,8 @@ from lotuses by the commotion of fish.
 निपपातैव दुःखेन  
 कृत्तमूल इव द्रुमः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1663,6 +1773,7 @@ with agony, like a tree slain at its root.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1671,6 +1782,8 @@ with agony, like a tree slain at its root.
 नराणां प्रेक्ष्य राजानं  
 सीदन्तं भृशदुःखितम् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1710,6 +1823,7 @@ people rose from the rear of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1718,6 +1832,8 @@ people rose from the rear of Rama.
 अन्तःपुरं समृद्धं च  
 क्रोशन्तं पर्यदेवयन् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1756,12 +1872,15 @@ entire women in the gynaecium to weap.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वीक्षमाणो रामस्तु विषण्णं भ्रान्तचेतसम् ।  
 राजानं मातरं चैव ददर्शानुगतौ पथि ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1801,12 +1920,15 @@ mother following (him) on the road.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बद्ध इव पाशेन किशोरो मातरं यथा ।  
 धर्मपाशेन संयुक्तः प्रकाशं नाभ्युदैक्षत ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1846,12 +1968,15 @@ a foal caught in asnare would not properly look at its dam.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदातिनौ च यानार्हावदुःखार्हौ सुखोचितौ ।  
 दृष्ट्वा सञ्चोदयामास शीघ्रं याहीति सारथिम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1892,12 +2017,15 @@ unworthy of suffering, Rama commanded the charioteer with words: "Drive fast!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तत् पुरुषव्याघ्रो दुःखजं दर्शनं पितुः ।  
 मातुश्च सहितुं शक्तस्तोत्त्रैर्नुन्न इव द्विपः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1941,12 +2069,15 @@ indeed was not able to bear that plight of his father and his mother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यगारमिवायान्ती सवत्सा वत्सकारणात् ।  
 बद्धवत्सा यथा धेनू राममाताभ्यधावत ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1989,6 +2120,7 @@ calf is tied(in a stall), runs home for her calf.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1997,6 +2129,8 @@ calf is tied(in a stall), runs home for her calf.
 रामलक्ष्मणसीतार्थं स्रवन्तीं वारि नेत्रजम् ।  
 असकृत् प्रैक्षत स तां नृत्यन्तीमिव मातरम् ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2045,12 +2179,15 @@ trickling tears descending from her eyes for the sake of Rama Lakshmana and Seet
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठेति राजा चुक्रोश याहि याहीति राघवः ।  
 सुमन्त्रस्य बभूवात्मा चक्रयोरिव चान्तरा ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2090,12 +2227,15 @@ way) Sumantra's mind became confused, as in between two (opposing) whirl pools.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाश्रौषमिति राजानमुपालब्धोऽपि वक्ष्यसि ।  
 चिरं दुःखस्य पापिष्ठमिति रामस्तमब्रवीत् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2139,12 +2279,15 @@ when scolded (later). seeing their grief for a long time is quite unbearbale."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामस्य वचः कुर्वन्ननुज्ञाप्य च तं जनम् ।  
 व्रजतोऽपि हयान् शीघ्रं चोदयामास सारथिः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2185,12 +2328,15 @@ the horses more speedily even while they are going.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यवर्तत जनो राज्ञो रामं कृत्वा प्रदक्षिणम् ।  
 मनसाप्याशुवेगेन न न्यवर्तत मानुषम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2231,12 +2377,15 @@ return. Their impulse of tears also did not get reduced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमिच्छेत् पुनरायातं नैनं दूरमनुव्रजेत् ।  
 इत्यमात्या महाराजमूचुर्दशरथं वचः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2277,6 +2426,7 @@ distance him whom we wish to see come back."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2285,6 +2435,8 @@ distance him whom we wish to see come back."
 निशम्य राजा कृपणः सभार्यो  
 व्यवस्थितस्तं सुतमीक्षमाणः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2341,4 +2493,5 @@ perspiring and wearing a dejected look.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तनॆय सर्ग पूर्णवायितु ॥40॥
+</details>
 </details>

@@ -2,6 +2,8 @@
 title = "०६७ हनुमता सागरोल्लङ्घननिश्चयः"
 title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -26,6 +28,7 @@ Monkeys...' concludes.
 
 67. हनुमान् जी का समुद्र लाँघनेके लिये उत्साह प्रकट करना, जाम्बवान् के द्वारा उनकी प्रशंसा तथा वेगपूर्वक छलाँग मारनेके लिये हनुमान् जी का महेन्द्र पर्वतपर चढ़ना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -34,6 +37,8 @@ Monkeys...' concludes.
 सहसा शोकमुत्सृज्य प्रहर्षेण समन्विताः ।  
 विनेदुस्तुष्टुवुश्चापि हनूमन्तं महाबलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -88,12 +93,15 @@ mighty monkey, Hanuma. [4-67-1, 2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टा विस्मिताश्चापि ते वीक्षन्ते समन्ततः ।  
 त्रिविक्रमं कृतोत्साहं नारायणमिव प्रजाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,12 +145,15 @@ at Hanuma who is now maximising his body. [4-67-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्तूयमानो हनुमान् व्यवर्धत महाबलः ।  
 समाविद्ध्य च लाङ्गूलं हर्षाद् बलमुपेयिवान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,12 +198,15 @@ then he impetuously lashed his tail and oversized himself. [4-67-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य संस्तूयमानस्य वृद्धैर्वानरपुङ्गवैः ।  
 तेजसाऽऽपूर्यमाणस्य रूपमासीदनुत्तमम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +246,15 @@ are eulogising him has become unsurpassed in its form. [4-67-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा विजृम्भते सिंहो विवृते गिरिगह्वरे ।  
 मारुतस्यौरसः पुत्रस्तथा सम्प्रति जृम्भते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +294,15 @@ around a wide-open den of a mountain. [4-67-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोभत मुखं तस्य जृम्भमाणस्य धीमतः ।  
 अम्बरीषोपमं दीप्तं विधूम इव पावकः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +342,15 @@ frying pan and like the fumeless white-hot Ritual-fire. [4-67-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरीणामुत्थितो मध्यात् सम्प्रहृष्टतनूरुहः ।  
 अभिवाद्य हरीन् वृद्धान् हनूमानिदमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,12 +394,15 @@ monkeys, Hanuma said this, with a spine-tingling sensation in his body. [4-67-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुजन् पर्वताग्राणि हुताशनसखोऽनिलः ।  
 बलवानप्रमेयश्च वायुराकाशगोचरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +447,15 @@ mountaintops...... [4-67-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याहं शीघ्रवेगस्य शीघ्रगस्य महात्मनः ।  
 मारुतस्यौरसः पुत्रः प्लवनेनास्मि तत्समः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +504,15 @@ fashion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सहेयं हि विस्तीर्णमालिखन्तमिवाम्बरम् ।  
 मेरुं गिरिमसङ्गेन परिगन्तुं सहस्रशः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -527,12 +559,15 @@ far...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुवेगप्रणुन्नेन सागरेणाहमुत्सहे ।  
 समाप्लावयितुं लोकं सपर्वतनदीह्रदम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +614,15 @@ shoreline in a fashion of misdemeanour, all through the creation, shall I make i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममोरुजङ्घावेगेन भविष्यति समुत्थितः ।  
 समुत्थितमहाग्राहः समुद्रो वरुणालयः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +669,15 @@ in the Great War with Ravana, in future...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पन्नगाशनमाकाशे पतन्तं पक्षिसेवितम् ।  
 वैनतेयमहं शक्तः परिगन्तुं सहस्रशः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,6 +723,7 @@ considerate of me...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -690,6 +732,8 @@ considerate of me...
 ततो भूमिमसंस्पृष्ट्वा पुनरागन्तुमुत्सहे ।  
 प्रवेगेनैव महता भीमेन प्लवगर्षभाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -746,6 +790,7 @@ my touching the land... [4-67-15, 16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -754,6 +799,8 @@ my touching the land... [4-67-15, 16]
 पर्वतांश्चूर्णयिष्यामि प्लवमानः प्लवङ्गमः ।  
 हरिष्याम्युरुवेगेन प्लवमानो महार्णवम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +873,15 @@ Ocean...tear off the ground with their two feet, and can leap great oceans...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लतानां विविधं पुष्पं पादपानां च सर्वशः ।  
 अनुयास्यति मामद्य प्लवमानं विहायसा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,6 +932,7 @@ Hanuma will yield crops in finding Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +940,8 @@ Hanuma will yield crops in finding Seetha.
 चरन्तं घोरमाकाशमुत्पतिष्यन्तमेव च ॥ २० ॥  
 द्रक्ष्यन्ति निपतन्तं च सर्वभूतानि वानराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,6 +987,7 @@ movement across the vast of sky, and my southerly descent from the sky... [4-67-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -942,6 +996,8 @@ movement across the vast of sky, and my southerly descent from the sky... [4-67-
 विधमिष्यामि जीमूतान् कम्पयिष्यामि पर्वतान् ।  
 सागरं शोषयिष्यामि प्लवमानः समाहितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,6 +1062,7 @@ a mountainy peak but with a mountainous base, as well...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1013,6 +1070,8 @@ a mountainy peak but with a mountainous base, as well...'
 ऋते सुपर्णराजानं मारुतं वा महाबलम् ।  
 न तद् भूतं प्रपश्यामि यन्मां प्लुतमनुव्रजेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1064,12 +1123,15 @@ treading after me, as none can surpass me in my speed...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमेषान्तरमात्रेण निरालम्बनमम्बरम् ।  
 सहसा निपतिष्यामि घनाद् विद्युदिवोत्थिता ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1171,15 @@ rocketing from a black-cloud in a trice? [4-67-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भविष्यति हि मे रूपं प्लवमानस्य सागरम् ।  
 विष्णोः प्रक्रममाणस्य तदा त्रीन् विक्रमानिव ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,12 +1219,15 @@ Vishnu who in those days easily paced the triad of worlds just in three paces...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्‍ध्या चाहं प्रपश्यामि मनश्चेष्टा च मे तथा ।  
 अहं द्रक्ष्यामि वैदेहीं प्रमोदध्वं प्लवङ्गमाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,12 +1273,15 @@ hence, rejoice yourselves... [4-67-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुतस्य समो वेगे गरुडस्य समो जवे ।  
 अयुतं योजनानां तु गमिष्यामीति मे मतिः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,6 +1321,7 @@ traverse ten-thousand yojana-s at a stretch... that is my certitude... [4-67-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1257,6 +1329,8 @@ traverse ten-thousand yojana-s at a stretch... that is my certitude... [4-67-27]
 विक्रम्य सहसा हस्तादमृतं तदिहानये ॥ २८ ॥  
 लङ्कां वापि समुत्क्षिप्य गच्छेयमिति मे मतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,12 +1377,15 @@ to other monkeys. [4-67-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवं वानरश्रेष्ठं गर्जन्तममितप्रभम् ॥ २९ ॥  
 प्रहृष्टा हरयस्तत्र समुदैक्षन्त विस्मिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1352,12 +1429,15 @@ gladdened.. [4-67-29b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चास्य वचनं श्रुत्वा ज्ञातीनां शोकनाशनम् ॥ ३० ॥  
 उवाच परिसंहृष्टो जाम्बवान् प्लवगेश्वरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1401,12 +1481,15 @@ of his kinsmen, then the king of fly-jumpers Jambavanta is very much gladdened a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर केसरिणः पुत्र वेगवन् मारुतात्मज ॥ ३१ ॥  
 ज्ञातीनां विपुलः शोकस्त्वया तात प्रणाशितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,12 +1529,15 @@ out the boundless bother of your kinsmen in its entirety... [4-67-30b, 31a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव कल्याणरुचयः कपिमुख्याः समागताः ॥ ३२ ॥  
 मङ्गलान्यर्थसिद्ध्यर्थं करिष्यन्ति समाहिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1493,12 +1579,15 @@ purpose of your attainment of the object, they all obsecrate orisons, devoutly..
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषीणां च प्रसादेन कपिवृद्धमतेन च ॥ ३३ ॥  
 गुरूणां च प्रसादेन सम्प्लव त्वं महार्णवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1545,12 +1634,15 @@ mission in teaching Seetha, about the relativity of soul-body-supreme, in Sundar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थास्यामश्चैकपादेन यावदागमनं तव ॥ ३४ ॥  
 त्वद‍्गतानि च सर्वेषां जीवनानि वनौकसाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1598,12 +1690,15 @@ breather...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्च हरिशार्दूलस्तानुवाच वनौकसः ॥ ३५ ॥  
 कोऽपि लोके न मे वेगं प्लवने धारयिष्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1654,6 +1749,7 @@ Rama who is other who can possibly do so...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1662,6 +1758,8 @@ Rama who is other who can possibly do so...'
 येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम् ॥ ३७ ॥  
 नानाद्रुमविकीर्णेषु धातुनिष्पन्दशोभिषु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,12 +1826,15 @@ crests of this mountain are indeed tough, and even towering... [4-67-35b, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतानि मम वेगं हि शिखराणि महान्ति च ॥ ३८ ॥  
 प्लवतो धारयिष्यन्ति योजनानामितः शतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1792,12 +1893,15 @@ mahendra girim aaruroha || dharmaakuutam- *Thus Hanuma climbs Mt. Mahendra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु मारुतप्रख्यः स हरिर्मारुतात्मजः ।  
 आरुरोह नगश्रेष्ठं महेन्द्रमरिमर्दनः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1814,12 +1918,15 @@ mahendra girim aaruroha || dharmaakuutam- *Thus Hanuma climbs Mt. Mahendra.
 
 हीगॆ हेळि वायुविनन्तॆ महापराक्रमि शत्रुमर्दन पवनकुमार हनुमन्तनु पर्वतश्रेष्ठ महेन्द्रवन्नु हत्तिदनु.॥39॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृतं नानाविधैः पुष्पैर्मृगसेवितशाद्वलम् ।  
 लताकुसुमसम्बाधं नित्यपुष्पफलद्रुमम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1839,12 +1946,15 @@ _________________
 
 आ पर्वतवु नानाप्रकारद पुष्पयुक्त वृक्षगळिन्द तुम्बित्तु. काडुमृगगळु अल्लिय हसुराद हुल्लन्नु मेयुत्तिद्दवु. लतॆगळिन्द हूवुगळिन्द दट्टवागि काणुत्तित्तु मत्तु अल्लिय वृक्षगळु सदा हूवु-हण्णुगळन्नु बिडुत्तिद्दवु.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहशार्दूलसहितं मत्तमातङ्गसेवितम् ।  
 मत्तद्विजगणोद‍्घुष्टं सलिलोत्पीडसङ्कुलम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1892,12 +2002,15 @@ where the flights of birds are uproarious, and pent-up rapids are clangourous. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महद्भिरुच्छ्रितं शृङ्गैर्महेन्द्रं स महाबलः ।  
 विचचार हरिश्रेष्ठो महेन्द्रसमविक्रमः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1937,12 +2050,15 @@ grand monkey Hanuma ambled on loftiest and towery crags of such a mountain. [4-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादाभ्यां पीडितस्तेन महाशैलो महात्मना ।  
 ररास सिंहाभिहतो महान् मत्त इव द्विपः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1989,12 +2105,15 @@ verse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमोच सलिलोत्पीडान् विप्रकीर्णशिलोच्चयः ।  
 वित्रस्तमृगमातङ्गः प्रकम्पितमहाद्रुमः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2040,6 +2159,7 @@ waterfalls have spouted out of that mountain by the impact of foot-stepping of H
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2048,6 +2168,8 @@ waterfalls have spouted out of that mountain by the impact of foot-stepping of H
 त्यज्यमानमहासानुः सन्निलीनमहोरगः ।  
 शैलशृङ्गशिलोत्पातस्तदाभूत् स महागिरिः ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2105,12 +2227,15 @@ that colossal mountain is desolated. [4-67-45, 46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःश्वसद्भिस्तदा तैस्तु भुजगैरर्धनिःसृतैः ।  
 सपताक इवाभाति स तदा धरणीधरः ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2164,12 +2289,15 @@ numerous are their colours, and with them the mountain itself is with flying col
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिभिस्त्राससम्भ्रान्तैस्त्यज्यमानः शिलोच्चयः ।  
 सीदन् महति कान्तारे सार्थहीन इवाध्वगः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2212,6 +2340,7 @@ forest, as a wilting wayfarer. [4-67-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2220,6 +2349,8 @@ forest, as a wilting wayfarer. [4-67-48]
 मनः समाधाय महानुभावो  
 जगाम लङ्कां मनसा मनस्वी ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2283,4 +2414,5 @@ impulses and making soul is quite staid in speediness, he made head away to Lank
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 किष्किन्धाकाण्डवु मुगियितु.
+</details>
 </details>

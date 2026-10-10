@@ -2,6 +2,8 @@
 title = "०२३ लक्ष्मणसान्त्वनम्"
 title_english = "023 Lakshmana s angry words"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,6 +22,7 @@ and proposes to fight with Rama's enemies to endow Rama with Kingdom.
 
 23. लक्ष्मणकी ओजभरी बातें, उनके द्वारा दैवका खण्डन और पुरुषार्थका प्रतिपादन तथा उनका श्रीरामके अभिषेकके निमित्त विरोधियोंसे लोहा लेनेके लिये उद्यत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ and proposes to fight with Rama's enemies to endow Rama with Kingdom.
 ध्यात्वा मध्यं **जगामाशु**  
 सहसा दैन्य-हर्षयोः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,6 +76,7 @@ midst of pain and pleasure effecting his mind again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,6 +85,8 @@ midst of pain and pleasure effecting his mind again and again.
 **निशश्वास** महासर्पो  
 बिलस्थ इव रोषितः ॥ २ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +127,7 @@ from its hole.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,6 +136,8 @@ from its hole.
 **बभौ** क्रुद्धस्य सिंहस्य  
 मुखस्य सदृशं मुखम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +177,7 @@ an angry lion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -176,6 +188,8 @@ an angry lion.
 अग्राक्ष्णा **वीक्षमाणस्** तु  
 तिर्यग् भ्रातरम् **अब्रवीत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,6 +234,7 @@ direction.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -234,6 +249,8 @@ direction.
 किं नाम **कृपणं** दैवम्  
 अशक्तम् **अभिशंससि** ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,6 +320,7 @@ person like you speak a person like you speak thus doubtlessly of the powerless 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -311,6 +329,8 @@ person like you speak a person like you speak thus doubtlessly of the powerless 
 सन्ति धर्मोपधासक्ता+++(→धर्मध्वजाः)+++  
 धर्मात्मन् किं **न बुध्यसे** ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,6 +373,7 @@ with selfish motive and by dishonest means. You are not knowing."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,6 +384,8 @@ with selfish motive and by dishonest means. You are not knowing."
 तयोः **प्राग्** एव **दत्तश्** च  
 स्याद् **वरः** प्रकृतश् च सः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,6 +426,7 @@ the boon must have been given naturally even long ago."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,6 +435,8 @@ the boon must have been given naturally even long ago."
 **नोत्सहे सहितुं** वीर  
 तत्र मे **क्षन्तुम् अर्हसि** ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,6 +476,7 @@ tolerate this act that is started. Excuse me in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -458,6 +485,8 @@ tolerate this act that is started. Excuse me in this matter."
 सोऽपि **धर्मो** मम **द्वेष्यो**  
 यत्-प्रसङ्गाद् **विमुह्यसि** ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,6 +530,7 @@ and by which indulgence, you are stupefied, is disliked by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,6 +539,8 @@ and by which indulgence, you are stupefied, is disliked by me."
 **करिष्यसि** पितुर्वाक्यम्  
 अधर्मिष्ठं **विगर्हितम्** ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,6 +576,7 @@ Kaikeyi?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -552,6 +585,8 @@ Kaikeyi?"
 **जायते** तत्र मे **दुःखं**  
 धर्म-सङ्गश् च गर्हितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,6 +627,7 @@ not grasping it. Such a conduct is to be censured."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -602,6 +638,8 @@ not grasping it. Such a conduct is to be censured."
 तयोस् त्व् अहितयोर् नित्यं  
 शत्र्वोः पित्र्-अभिधानयोः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,6 +686,7 @@ desire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -656,6 +695,8 @@ desire."
 तथाप्य् उपेक्षणीयं ते,  
 **न** मे तद् अपि **रोचते** ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +730,7 @@ I do not like you to be indifferent to this also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -697,6 +739,8 @@ I do not like you to be indifferent to this also."
 वीराः सम्भावितात्मानो  
 **न** दैवं **पर्युपासते** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -739,6 +783,7 @@ self-respect do not honour the destiny."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -747,6 +792,8 @@ self-respect do not honour the destiny."
 **न** दैवेन विपन्नार्थः  
 पुरुषः सो **ऽवसीदति** ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,6 +833,7 @@ regret in the sense of not being failed by destiny."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -794,6 +842,8 @@ regret in the sense of not being failed by destiny."
 दैवमानुषयोर् अद्य  
 **व्यक्ता** व्यक्तिर् **भविष्यति** ॥ १८ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,6 +883,7 @@ distinction between man and the destiny will be clearly perceived."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -841,6 +892,8 @@ distinction between man and the destiny will be clearly perceived."
 यैर् दैवाद् आहतं तेऽद्य  
 दृष्टं राज्याभिषेचनम् ॥ १९ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,6 +934,7 @@ prowess. Let all people see it!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +943,8 @@ prowess. Let all people see it!"
 प्रधावितम् अहं दैवं  
 **पौरुषेण निवर्तये** ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -931,6 +987,7 @@ not caring a hook and which is fiercely running with violent force."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,6 +996,8 @@ not caring a hook and which is fiercely running with violent force."
 **न** च कृत्स्नास् त्रयो लोका  
 **विहन्युः** किं पुनः पिता ॥ २१ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -982,6 +1041,7 @@ withhold Rama's coronation today. Why to talk about father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -990,6 +1050,8 @@ withhold Rama's coronation today. Why to talk about father."
 अरण्ये **ते विवत्स्यन्ति**  
 चतुर्दश समास्तथा ॥ २२ ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,6 +1092,7 @@ years, will have to reside in forest for fourteen years in that manner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1038,6 +1101,8 @@ years, will have to reside in forest for fourteen years in that manner."
 अभिषेक-विघातेन  
 पुत्रराज्याय **वर्तते** ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1077,6 +1142,7 @@ for kingdom to her son by creating obstacle to your coronation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1085,6 +1151,8 @@ for kingdom to her son by creating obstacle to your coronation."
 **प्रभविष्यति** दुःखाय,  
 यथोग्रं पौरुषं मम ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1128,6 +1196,7 @@ prowess will create to those who are opposed to my strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1136,6 +1205,8 @@ prowess will create to those who are opposed to my strength."
 आर्यपुत्राः **करिष्यन्ति**  
 **वनवासं** गते त्वयि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,6 +1246,7 @@ forest, your sons will govern the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1183,6 +1255,8 @@ forest, your sons will govern the kingdom."
 प्रजा **निक्षिप्य** पुत्रेषु  
 पुत्रवत् परिपालने ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1222,6 +1296,7 @@ people, to be nourished as children, into the hands of their sons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1230,6 +1305,8 @@ people, to be nourished as children, into the hands of their sons."
 **नैवम् इच्छसि** धर्मात्मन्  
 राज्यं राम त्वम् आत्मनि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1246,6 +1323,7 @@ people, to be nourished as children, into the hands of their sons."
 
 धर्मात्मा श्रीराम! नम्म महाराजरु वानप्रस्थधर्मद पालनॆयल्लि मनस्सु माडुवुदिल्ल. अदक्कागि अवर आज्ञॆगॆ विरुद्धवागि राज्यवन्नु स्वीकरिसिदरॆ समस्त जनतॆ विद्रोह माडुवरु ऎन्दु नीनु तिळियुत्तिरुवॆ; आद्दरिन्द राज्यवु तन्न कैयल्लि उळियलारदु ऎम्ब आशङ्कॆयिन्द नीनु राज्याधिकारवन्नु स्वीकरिसुवुदिल्ल अथवा काडिगॆ होगलु बयसुवॆयादरॆ आ आशङ्कॆयन्नु बिट्टुबिडु.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1254,6 +1332,8 @@ people, to be nourished as children, into the hands of their sons."
 राज्यं च तव **रक्षेयम्**  
 अहं वेलेव सागरम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1293,6 +1373,7 @@ world of heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1301,6 +1382,8 @@ world of heaven."
 अहम् एको महीपालान्  
 **अलं वारयितुं** बलात् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,6 +1424,7 @@ competent to ward off the kings by force."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1349,6 +1433,8 @@ competent to ward off the kings by force."
 नासिर् आबन्धनार्थाय  
 न शराः स्तम्भहेतवः ॥ ३० ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,6 +1479,7 @@ subduing enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1401,6 +1488,8 @@ subduing enemies."
 **न** चाहं **कामये** ऽत्य्-अर्थं  
 यः स्याच् छत्रुर् मतो मम ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1417,6 +1506,7 @@ subduing enemies."
 
 ई नाल्कु वस्तुगळु शत्रुगळन्नु दमन माडुवुदक्कागि इवॆ. नानु यारन्नु शत्रुगळॆन्दु तिळियुवॆनो, अवनन्नु ऎन्दू जीवितनागिरलु बिडलारॆ.॥31॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1425,6 +1515,8 @@ subduing enemies."
 प्रगृहीतेन वै शत्रुं  
 वज्रिणं वा **न कल्पये** ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1466,6 +1558,7 @@ elephants horses and men crushed, having been hit by my sword."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1474,6 +1567,8 @@ elephants horses and men crushed, having been hit by my sword."
 हस्त्य्-अश्व-रथि-हस्तोरु-  
 शिरोभिर् **भविता मही** ॥ ३३ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1516,6 +1611,7 @@ mountains in blaze, like clouds, savidyutaH = with flashes of lightening.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1524,6 +1620,8 @@ mountains in blaze, like clouds, savidyutaH = with flashes of lightening.
 **पतिष्यन्ति** द्विषो भूमौ  
 मेघा इव सविद्युतः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1563,6 +1661,7 @@ how any man will fancy himself a hero among men?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1571,6 +1670,8 @@ how any man will fancy himself a hero among men?"
 **कथं** पुरुषमानी **स्यात्**  
 पुरुषाणां मयि स्थिते ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1610,6 +1711,7 @@ arrows at vitals of men, horses and elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1618,6 +1720,8 @@ arrows at vitals of men, horses and elephants."
 **विनियोक्ष्याम्य्** अहं बाणान्  
 नृवाजिगज-मर्मसु ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1658,6 +1762,7 @@ sovereign and making Dasaratha devoid of power."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1666,6 +1771,8 @@ sovereign and making Dasaratha devoid of power."
 राज्ञश् चाप्रभुतां कर्तुं  
 प्रभुत्वं च तव प्रभो ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1705,6 +1812,7 @@ Dasaratha and give the lordship to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1717,6 +1825,8 @@ Dasaratha and give the lordship to you."
 अभिषेचन-विघ्नस्य  
 कर्तॄणां ते निवारणे ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1769,6 +1879,7 @@ want to obstruct your coronation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1777,6 +1888,8 @@ want to obstruct your coronation."
 यथा तवेयं वसुधा **वशा भवेत्**  
 तथैव **मां शाधि** तवास्मि किङ्करः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1823,6 +1936,7 @@ by me. Command me so that how this earth will become your dominion. I am your se
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1831,6 +1945,8 @@ by me. Command me so that how this earth will become your dominion. I am your se
 उवाच "पित्रोर् वचने व्यवस्थितं  
 निबोध माम् एष हि सौम्य सत्पथः" ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1892,5 +2008,6 @@ his tears; "Oh, Lakshmana! I stand by the words of our father. This indeed is a 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तमूरनॆय सर्ग पूर्णवायितु. ॥23॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०५० हनुमता रामदूतत्वोद्घोषणम्"
 title_english = "050 Hanuma declares himself to be a messenger of"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -25,12 +27,15 @@ in person.
 
 50. रावणका प्रहस्तके द्वारा हनुमान् जी से लङ्कामें आनेका कारण पुछवाना और हनुमान् का अपनेको श्रीरामका दूत बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुद्वीक्ष्य महाबाहुः पिङ्गाक्षं पुरतः स्थितम् ।  
 रोषेण महताऽऽविष्टो रावणो लोकरावणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,6 +79,7 @@ in front of him, was affected with violent anger, having his mind seized with su
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -82,6 +88,8 @@ in front of him, was affected with violent anger, having his mind seized with su
 येन शप्तोऽस्मि कैलासे मया प्रहसिते पुरा ।  
 सोऽयं वानरमूर्तिः स्यात्किंस्विद् बाणोऽपि वासुरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -132,12 +140,15 @@ of Siva) which cursed me long ago and came here now in this form or whether he i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा रोषताम्राक्षः प्रहस्तं मन्त्रिसत्तमम् ।  
 कालयुक्तमुवाचेदं वचो विपुलमर्थवत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -177,12 +188,15 @@ meaningful words relevant to that occasion, to Prahasta, his chief of ministers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुरात्मा पृच्छ्यतामेष कुतः किं वास्य कारणम् ।  
 वनभङ्गे च कोऽस्यार्थो राक्षसानां च तर्जने ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ _________________
 
 ‘अमात्य! इस दुरात्मासे पूछो तो सही, यह कहाँसे आया है? इसके आनेका क्या कारण है? प्रमदावनको उजाड़ने तथा राक्षसोंको मारनेमें इसका क्या उद्देश्य था? ॥ ५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्पुरीमप्रधृष्यां वै गमने किं प्रयोजनम् ।  
 आयोधने वा कं कार्यं पृच्छ्यतामेष दुर्मतिः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +279,15 @@ and for what purpose did he frighten the female-demons in destroying our garden.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य वचः श्रुत्वा प्रहस्तो वाक्यमब्रवीत् ।  
 समाश्वसिहि भद्रं ते न भीः कार्या त्वया कपे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ and for what purpose did he frighten the female-demons in destroying our garden.
 
 रावणकी बात सुनकर प्रहस्तने हनुमान् जी से कहा—‘वानर! तुम घबराओ न, धैर्य रखो । तुम्हारा भला हो । तुम्हें डरनेकी आवश्यकता नहीं है ॥ ७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तावत् त्वमिन्द्रेण प्रेषितो रावणालयम् ।  
 तत्त्वमाख्याहि मा ते भूद् भयं वानर मोक्ष्यसे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ Happiness to you! You need not get frightened, O monkey!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वैश्रवणस्य त्वं यमस्य वरुणस्य च ।  
 चारुरूपमिदं कृत्वा प्रविष्टो नः पुरीमिमाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +403,15 @@ _________________
 
 ‘अथवा यदि तुम कुबेर, यम या वरुणके दूत हो और यह सुन्दर रूप धारण करके हमारी इस पुरीमें घुस आये हो तो यह भी बता दो ॥ ९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णुना प्रेषितो वापि दूतो विजयकाङ्क्षिणा ।  
 नहि ते वानरं तेजो रूपमात्रं तु वानरम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +472,15 @@ the lord of preservation, as a messenger, longing for a victory?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वतः कथयस्वाद्य ततो वानर मोक्ष्यसे ।  
 अनृतं वदतश्चापि दुर्लभं तव जीवितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,6 +519,7 @@ your entry into Ravana's abode."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -495,6 +528,8 @@ your entry into Ravana's abode."
 अब्रवीन्नास्मि शक्रस्य यमस्य वरुणस्य च ।  
 धनदेन न मे सख्यं विष्णुना नास्मि चोदितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,6 +584,7 @@ came here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -558,6 +594,8 @@ came here."
 ततस्ते राक्षसाः प्राप्ता बलिनो युद्धकाङ्क्षिणः ॥ १५ ॥  
 रक्षणार्थं च देहस्य प्रतियुद्धा मया रणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +646,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्रपाशैर्न शक्योऽहं बद्धुं देवासुरैरपि ॥ १६ ॥  
 पितामहादेष वरो ममापि हि समागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -648,12 +689,15 @@ This boon came to me also from Brahama only."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजानं द्रष्टुकामेन मयास्त्रमनुवर्तितम् ॥ १७ ॥  
 विमुक्तोऽप्यहमस्त्रेण राक्षसैस्त्वभिवेदितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +735,7 @@ body, I had to attack them in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -698,6 +743,8 @@ body, I had to attack them in battle."
 दूतोऽहमिति विज्ञाय राघवस्यामितौजसः ।  
 श्रूयतामेव वचनं मम पथ्यमिदं प्रभो ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,5 +818,6 @@ of Rama."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

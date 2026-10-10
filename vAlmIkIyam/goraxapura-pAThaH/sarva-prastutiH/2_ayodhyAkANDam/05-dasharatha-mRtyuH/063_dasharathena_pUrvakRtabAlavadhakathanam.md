@@ -2,6 +2,8 @@
 title = "०६३ दशरथेन पूर्वकृतबालवधकथनम्"
 title_english = "063 Dasaratha narrates his sin to Kausalya"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -26,12 +28,15 @@ his parents. The boy died soon after the arrow was drawn out from the body.
 
 63. राजा दशरथका शोक और उनका कौसल्यासे अपने द्वारा मुनिकुमारके मारे जानेका प्रसङ्ग सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिबुद्धो मुहूर्तेन शोकोपहतचेतनः ।  
 अथ राजा दशरथः स चिन्तामभ्यपद्यत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ anxious thinking.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणयोश्चैव विवासाद् वासवोपमम् ।  
 आपेदे उपसर्गस्तं तमः सूर्यमिवासुरम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ equal in strength to Indra like sun seized by obscurity, which is attributed to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सभार्ये हि गते रामे कौसल्यां कोसलेश्वरः ।  
 विवक्षुरसितापाङ्गीं स्मृत्वा दुष्कृतमात्मनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा रजनीं षष्ठीं रामे प्रव्राजिते वनम् ।  
 अर्धरात्रे दशरथः सोऽस्मरद् दुष्कृतं कृतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ mid-night, was recalling his sin done (long ago).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा पुत्रशोकार्तः स्मृत्वा दुष्कृतमात्मनः ।  
 कौसल्यां पुत्रशोकार्तामिदं वचनमब्रवीत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ following words to Kausalya who was suffering from sorrow for her son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदाचरति कल्याणि शुभं वा यदि वाशुभम् ।  
 तदेव लभते भद्रे कर्ता कर्मजमात्मनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,12 +326,15 @@ corresponding to the nature of work either good or bad, of that which he does!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुलाघवमर्थानामारम्भे कर्मणां फलम् ।  
 दोषं वा यो न जानाति स बाल इति होच्यते ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,12 +375,15 @@ fruits as well as the utilities or defects accruing from them, is surely called 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्चिदाम्रवणं छित्त्वा पलाशांश्च निषिञ्चति ।  
 पुष्पं दृष्ट्वा फले गृध्नुः स शोचति फलागमे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,12 +428,15 @@ to grief after bearing of their fruit."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविज्ञाय फलं यो हि कर्म त्वेवानुधावति ।  
 स शोचेत् फलवेलायां यथा किंशुकसेचकः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ as a nourisher of Kimsuka trees coming to grief at the time of their fruit-beari
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहमाम्रवणं छित्त्वा पलाशांश्च न्यषेचयम् ।  
 रामं फलागमे त्यक्त्वा पश्चाच्छोचामि दुर्मतिः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +528,15 @@ abandoning Rama at the time of arrival of fruit, I am lamenting thereafter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लब्धशब्देन कौसल्ये कुमारेण धनुष्मता ।  
 कुमारः शब्दवेधीति मया पापमिदं कृतम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +577,15 @@ famous as a young man, who can shoot heard (but unseen) object by an arrow, O Ka
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं मेऽनुसम्प्राप्तं देवि दुःखं स्वयङ्कृतम् ।  
 सम्मोहादिह बालेन यथा स्याद् भक्षितं विषम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +626,15 @@ eating poison in the world; O, Kausalya!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथान्यः पुरुषः कश्चित् पलाशैर्मोहितो भवेत् ।  
 एवं मयाप्यविज्ञातं शब्दवेध्यमिदं फलम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +676,15 @@ sound only."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव्यनूढा त्वमभवो युवराजो भवाम्यहम् ।  
 ततः प्रावृडनुप्राप्ता मम कामविवर्धिनी ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +725,15 @@ the rainy season which enhanced excitement and desire (for hunting)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपास्य हि रसान् भौमांस्तप्त्वा च जगदंशुभिः ।  
 परेताचरितां भीमां रविराचरते दिशम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ the terrible southern quarter haunted by spirits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उष्णमन्तर्दधे सद्यः स्निग्धा ददृशिरे घनाः ।  
 ततो जहृषिरे सर्वे भेकसारङ्गबर्हिणः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,12 +822,15 @@ cuckoos and peacocks were full of joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्लिन्नपक्षोत्तराः स्नाताः कृच्छ्रादिव पतत्त्रिणः ।  
 वृष्टिवातावधूताग्रान् पादपानभिपेदिरे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -818,12 +871,15 @@ difficulty the trees, the tops of which were shaken off by rain and wind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतितेनाम्भसाऽऽच्छन्नः पतमानेन चासकृत् ।  
 आबभौ मत्तसारङ्गस्तोयराशिरिवाचलः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +919,15 @@ mountain with its antelopes in rut, glowed like an ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरारुणवर्णानि स्रोतांसि विमलान्यपि ।  
 सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजङ्गवत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +968,15 @@ way."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन्नतिसुखे काले धनुष्मानिषुमान् रथी ।  
 व्यायामकृतसङ्कल्पः सरयूमन्वगां नदीम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -954,12 +1016,15 @@ waters, carrying water by a wrong way, after the onset of rain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपाने महिषं रात्रौ गजं वाभ्यागतं मृगम् ।  
 अन्यद् वा श्वापदं किञ्चिज्जिघांसुरजितेन्द्रियः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1064,15 @@ along Sarayu River, in a chariot, wearing bow and arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथान्धकारे त्वश्रौषं जले कुम्भस्य पूर्यतः ।  
 अचक्षुर्विषये घोषं वारणस्येव नर्दतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1116,15 @@ drinking water, I was ready with my bow at a solitary place."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं शरमुद‍्धृत्य दीप्तमाशीविषोपमम् ।  
 शब्दं प्रति गजप्रेप्सुरभिलक्ष्यमपातयम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,6 +1165,7 @@ bank of Sarayu River and another violent beast too which came there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1102,6 +1174,8 @@ bank of Sarayu River and another violent beast too which came there."
 हा हेति पततस्तोये बाणाद् व्यथितमर्मणः ।  
 तस्मिन्निपतिते भूमौ वागभूत् तत्र मानुषी ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1167,12 +1241,15 @@ of a pitcher being filled up, the sound of which appeared like that of an elepha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथमस्मद्विधे शस्त्रं निपतेच्च तपस्विनि ।  
 प्रविविक्तां नदीं रात्रावुदाहारोऽहमागतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,6 +1266,7 @@ of a pitcher being filled up, the sound of which appeared like that of an elepha
 
 अय्यो! नन्नन्तह तपस्विय मेलॆ शस्त्रद प्रहार हेगॆ सम्भविसितु? नानादरो नदिय ई एकान्त तीरदल्लि रात्रियल्लि नीरु तरलु बन्दिद्दॆ.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1199,6 +1277,8 @@ of a pitcher being filled up, the sound of which appeared like that of an elepha
 को वधेन ममार्थी स्यात् किं वास्यापकृतं मया ।  
 एवं निष्फलमारब्धं केवलानर्थसंहितम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1275,6 +1355,7 @@ hit by an arrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1286,6 +1367,8 @@ hit by an arrow."
 वृद्धौ च मातापितरावहं चैकेषुणा हतः ॥ ३२ ॥  
 केन स्म निहताः सर्वे सुबालेनाकृतात्मना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,12 +1451,15 @@ wild plants in the forest, how a killing by an arrow is enjoined?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां गिरं करुणं श्रुत्वा मम धर्मानुकाङ्क्षिणः ॥ ३३ ॥  
 कराभ्यां सशरं चापं व्यथितस्यापतद् भुवि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1413,12 +1499,15 @@ case of my death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याहं करुणं श्रुत्वा ऋषेर्विलपतो निशि ॥ ३४ ॥  
 सम्भ्रान्तः शोकवेगेन भृशमासं विचेतनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1458,6 +1547,7 @@ me, support themselves when I obtain my death?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1468,6 +1558,8 @@ me, support themselves when I obtain my death?'
 स मामुद्वीक्ष्य नेत्राभ्यां त्रस्तमस्वस्थचेतनम् ॥ ३७ ॥  
 इत्युवाच वचः क्रूरं दिधक्षन्निव तेजसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1551,12 +1643,15 @@ and being very much a fool, all of as are virtually killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तवापकृतं राजन् वने निवसता मया ॥ ३८ ॥  
 जिहीर्षुरम्भो गुर्वर्थं यदहं ताडितस्त्वया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1576,12 +1671,15 @@ _________________
 
 राजने! वनदल्लि इरुत्ता नानु निनगॆ याव अपराध माडिद्दॆ? अदरिन्द नीनु बाणदिन्द नन्नन्नु हॊडॆदॆयल्ल? नानादरो तायि-तन्दॆयवरिगॆ नीरु तरलु बन्दिद्दॆ.॥38½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकेन खलु बाणेन मर्मण्यभिहते मयि ॥ ३९ ॥  
 द्वावन्धौ निहतौ वृद्धौ माता जनयिता च मे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1621,12 +1719,15 @@ was, hurt by the arrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ नूनं दुर्बलावन्धौ मत्प्रतीक्षौ पिपासितौ ॥ ४० ॥  
 चिरमाशां कृतां कष्टां तृष्णां सन्धारयिष्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1667,12 +1768,15 @@ terrified and sick in mind, he spoke those harsh words then:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनं तपसो वास्ति फलयोगः श्रुतस्य वा ॥ ४१ ॥  
 पिता यन्मां न जानीते शयानं पतितं भुवि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1713,12 +1817,15 @@ harm done to you by me who is residing in a forest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानन्नपि च किं कुर्यादशक्तश्चापरिक्रमः ॥ ४२ ॥  
 भिद्यमानमिवाशक्तस्त्रातुमन्यो नगो नगम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1758,12 +1865,15 @@ and father, who are blind and aged.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुस्त्वमेव मे गत्वा शीघ्रमाचक्ष्व राघव ॥ ४३ ॥  
 न त्वामनुदहेत् क्रुद्धो वनमग्निरिवैधितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1806,12 +1916,15 @@ difficulty and waited with expectation of my arrival since long. I am sure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमेकपदी राजन् यतो मे पितुराश्रमः ॥ ४४ ॥  
 तं प्रसादय गत्वा त्वं न त्वा सङ्कुपितः शपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1856,12 +1969,15 @@ the ground.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशल्यं कुरु मां राजन् मर्म मे निशितः शरः ॥ ४५ ॥  
 रुणद्धि मृदु सोत्सेधं तीरमम्बुरयो यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1901,6 +2017,7 @@ unable to protect another tree which is being cut off?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1909,6 +2026,8 @@ unable to protect another tree which is being cut off?"
 दुःखितस्य च दीनस्य मम शोकातुरस्य च ॥ ४७ ॥  
 लक्षयामास स ऋषिश्चिन्तां मुनिसुतस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1977,6 +2096,7 @@ scorch you by his anger, as a forest is scorched by a flared-up fire.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1984,6 +2104,8 @@ scorch you by his anger, as a forest is scorched by a flared-up fire.'
 सीदमानो विवृत्ताङ्गोऽचेष्टमानो गतः क्षयम् ।  
 संस्तभ्य शोकं धैर्येण स्थिरचित्तो भवाम्यहम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2039,12 +2161,15 @@ height.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्महत्याकृतं तापं हृदयादपनीयताम् ।  
 न द्विजातिरहं राजन् मा भूत् ते मनसो व्यथा ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2087,6 +2212,7 @@ pitiably, suffering from anguish."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2096,6 +2222,8 @@ pitiably, suffering from anguish."
 तस्य त्वाताम्यमानस्य तं बाणमहमुद्धरम् ।  
 स मामुद्वीक्ष्य सन्त्रस्तो जहौ प्राणांस्तपोधनः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2160,6 +2288,7 @@ himself on the floor with extreme pain and having approached the end of his life
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2168,6 +2297,8 @@ himself on the floor with extreme pain and having approached the end of his life
 ततः सरय्वां तमहं शयानं  
 समीक्ष्य भद्रे सुभृशं विषण्णः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2219,5 +2350,6 @@ your mind. I am born through a Sudra woman by a Vysya.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तमूरनॆय सर्ग पूर्णवायितु.॥63॥
+</details>
 </details>
 

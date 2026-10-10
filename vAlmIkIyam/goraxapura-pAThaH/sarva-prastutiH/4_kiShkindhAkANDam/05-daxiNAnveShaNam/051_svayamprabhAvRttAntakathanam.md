@@ -2,6 +2,8 @@
 title = "०५१ स्वयम्प्रभावृत्तान्तकथनम्"
 title_english = "051 The legend of Black Cave"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ to all the monkeys who entered that cave.
 
 51. हनुमान् जी के पूछनेपर वृद्धा तापसीका अपना तथा उस दिव्य स्थानका परिचय देकर सब वानरोंको भोजनके लिये कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा हनुमांस्तत्र चीरकृष्णाजिनाम्बराम् ।  
 अब्रवीत् तां महाभागां तापसीं धर्मचारिणीम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ and sainted lady who is dressed in black deerskin and conducting herself in prob
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -82,6 +88,8 @@ and sainted lady who is dressed in black deerskin and conducting herself in prob
 दृष्ट्वा वयं प्रव्यथिताः सम्भ्रान्ता नष्टचेतसः ।  
 कस्यैते काञ्चना वृक्षास्तरुणादित्यसन्निभाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,6 +160,7 @@ this cavity, which is overspread with darkness..." [Thus Hanuma is speaking to h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,6 +170,8 @@ this cavity, which is overspread with darkness..." [Thus Hanuma is speaking to h
 पुष्पिताः फलवन्तश्च पुण्याः सुरभिगन्धयः ॥ ६ ॥  
 इमे जाम्बूनदमयाः पादपाः कस्य तेजसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -223,6 +234,7 @@ mansions silvern... ventilators golden and encased in jewelly laces... [4-51-5, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -231,6 +243,8 @@ mansions silvern... ventilators golden and encased in jewelly laces... [4-51-5, 
 आत्मनस्त्वनुभावाद् वा कस्य चैतत्तपोबलम् ॥ ८ ॥  
 अजानतां नः सर्वेषां सर्वमाख्यातुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +310,15 @@ tortoises are ostensibly golden? [4-51-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता हनुमता तापसी धर्मचारिणी ॥ ९ ॥  
 प्रत्युवाच हनूमन्तं सर्वभूतहिते रता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +358,15 @@ being of all the beings, she replied Hanuma. [4-51-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयो नाम महातेजा मायावी वानरर्षभ ॥ १० ॥  
 तेनेदं निर्मितं सर्वं मायया काञ्चनं वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +411,15 @@ lady started her narration.] [4-51-10b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा दानवमुख्यानां विश्वकर्मा बभूव ह ॥ ११ ॥  
 येनेदं काञ्चनं दिव्यं निर्मितं भवनोत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +459,15 @@ golden and superb mansion was constructed... [4-51-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु वर्षसहस्राणि तपस्तप्त्वा महद्वने ॥ १२ ॥  
 पितामहाद् वरं लेभे सर्वमौशनसं धनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,12 +530,15 @@ crosswise benefit to gods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधाय सर्वं बलवान् सर्वकामेश्वरस्तदा ॥ १३ ॥  
 उवास सुखितः कालं कञ्चिदस्मिन् महावने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,12 +578,15 @@ forest for some time, privileged with all his wishes... [4-51-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्सरसि हेमायां सक्तं दानवपुङ्गवम् ॥ १४ ॥  
 विक्रम्यैवाशनिं गृह्य जघानेशः पुरन्दरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +628,15 @@ nymph, called Hema... [4-51-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं च ब्रह्मणा दत्तं हेमायै वनमुत्तमम् ॥ १५ ॥  
 शाश्वतः कामभोगश्च गृहं चेदं हिरण्मयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +679,15 @@ mansion, are beneficed by Brahma for Hema... [4-51-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुहिता मेरुसावर्णेरहं तस्याः स्वयम्प्रभा ॥ १६ ॥  
 इदं रक्षामि भवनं हेमाया वानरोत्तम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +727,15 @@ safeguarding this mansion of her, [that apsara] Hema... [4-51-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम प्रियसखी हेमा नृत्तगीतविशारदा ॥ १७ ॥  
 तयादत्तवरा चास्मि रक्षामि भवनं महत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +796,15 @@ hospitality to Bharata, that sage says this.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं कार्यं कस्य वा हेतोः कान्ताराणि प्रपद्यथ ॥ १८ ॥  
 कथं चेदं वनं दुर्गं युष्माभिरुपलक्षितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +844,15 @@ how you all have discovered this impassable forest... [4-51-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुचीन्यभ्यवहाराणि मूलानि च फलानि च ।  
 भुक्त्वा पीत्वा च पानीयं सर्वं मे वक्तुमर्हसि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,5 +903,6 @@ monkeys.] [4-51-19b, 19c]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥51॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३३ रावणनिर्भर्त्सनम्"
 title_english = "033 Shurpanakha accuses Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda
@@ -31,12 +33,15 @@ This chapter vies with the 33rd chapter of Kishkindha Kanda in the attitudes of 
 
 33. शूर्पणखाका रावणको फटकारना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखा दीना रावणं लोकरावणम् ।  
 अमात्यमध्ये सङ्क्रुद्धा परुषं वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ presence of his ministers. [3-33-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमत्तः कामभोगेषु स्वैरवृत्तो निरङ्कुशः ।  
 समुत्पन्नं भयं घोरं बोद्धव्यं नावबुध्यसे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ of a calamitous jeopardy that has surfaced, though you ought to be observant of 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सक्तं ग्राम्येषु भोगेषु कामवृत्तं महीपतिम् ।  
 लुब्धं न बहु मन्यन्ते श्मशानाग्निमिव प्रजाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,12 +187,15 @@ for education-mongers, no comfort, no sleep...' morals.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयं कार्याणि यः काले नानुतिष्ठति पार्थिवः ।  
 स तु वै सह राज्येन तैश्च कार्यैर्विनश्यति ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,12 +245,15 @@ firm by his body and mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयुक्तचारं दुर्दर्शमस्वाधीनं नराधिपम् ।  
 वर्जयन्ति नरा दूरान्नदीपङ्कमिव द्विपाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +304,15 @@ in his kingdom, and his subjects may desert him during wartime, like Vibheeshana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये न रक्षन्ति विषयमस्वाधीनं नराधिपाः ।  
 ते न वृद्ध्या प्रकाशन्ते गिरयः सागरे यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +366,15 @@ and as long as those waters of lust tiderip over his head he cannot surface hims
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मवद्भिर्विगृह्य त्वं देवगन्धर्वदानवैः ।  
 अयुक्तचारश्चपलः कथं राजा भविष्यसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -400,12 +423,15 @@ not those gods take opportunity to hit you back, for everything is lacking in yo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु बालस्वभावश्च बुद्धिहीनश्च राक्षस ।  
 ज्ञातव्यं तन्न जानीषे कथं राजा भविष्यसि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +471,15 @@ you are carefree, and how do you thrive as a king! [3-33-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येषां चाराश्च कोशश्च नयश्च जयतां वर ।  
 अस्वाधीना नरेन्द्राणां प्राकृतैस्ते जनैः समाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +521,15 @@ strategies under their control, but vouchsafe them to others, they are of a piec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मात् पश्यन्ति दूरस्थान् सर्वानर्थान् नराधिपाः ।  
 चारेण तस्मादुच्यन्ते राजानो दीर्घचक्षुषः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -548,12 +580,15 @@ king' thus your doom is certain.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयुक्तचारं मन्ये त्वां प्राकृतैः सचिवैर्युतः ।  
 स्वजनं च जनस्थानं निहतं नावबुध्यसे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,6 +633,7 @@ including Janasthaana. [3-33-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -606,6 +642,8 @@ including Janasthaana. [3-33-11]
 ऋषीणामभयं दत्तं कृतक्षेमाश्च दण्डकाः ।  
 धर्षितं च जनस्थानं रामेणाक्लिष्टकारिणा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +704,15 @@ even Duushana is killed, even Khara is also killed. [3-33-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु लुब्धः प्रमत्तश्च पराधीनश्च राक्षस ।  
 विषये स्वे समुत्पन्नं यद् भयं नावबुध्यसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +753,15 @@ of the calamity rising up against you in your own kingdom. [3-33-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीक्ष्णमल्पप्रदातारं प्रमत्तं गर्वितं शठम् ।  
 व्यसने सर्वभूतानि नाभिधावन्ति पार्थिवम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,12 +803,15 @@ subjects bid goodbye to such a king when he is in strife. [3-33-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिमानिनमग्राह्यमात्मसम्भावितं नरम् ।  
 क्रोधनं व्यसने हन्ति स्वजनोऽपि नराधिपम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -805,12 +852,15 @@ and kin will ruin him when he is in distress. [3-33-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानुतिष्ठति कार्याणि भयेषु न बिभेति च ।  
 क्षिप्रं राज्याच्च्युतो दीनस्तृणैस्तुल्यो भवेदिह ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +905,15 @@ a piece of straw in this world. [3-33-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुष्ककाष्ठैर्भवेत् कार्यं लोष्ठैरपि च पांसुभिः ।  
 न तु स्थानात् परिभ्रष्टैः कार्यं स्याद् वसुधाधिपैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,12 +958,15 @@ are of no avail. [3-33-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपभुक्तं यथा वासः स्रजो वा मृदिता यथा ।  
 एवं राज्यात् परिभ्रष्टः समर्थोऽपि निरर्थकः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -950,12 +1006,15 @@ his kingdom, though functional, is meaningless. [3-33-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमत्तश्च यो राजा सर्वज्ञो विजितेन्द्रियः ।  
 कृतज्ञो धर्मशीलश्च स राजा तिष्ठते चिरम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,12 +1054,15 @@ king survives for a long time. [3-33-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नयनाभ्यां प्रसुप्तो वा जागर्ति नयचक्षुषा ।  
 व्यक्तक्रोधप्रसादश्च स राजा पूज्यते जनैः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1108,15 @@ and who is to be favoured, and thus people will revere him as a judicious king. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु रावण दुर्बुद्धिर्गुणैरेतैर्विवर्जितः ।  
 यस्य तेऽविदितश्चारै रक्षसां सुमहान् वधः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,6 +1161,7 @@ is the very great massacre of demons to you, though not personally, but at least
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1104,6 +1170,8 @@ is the very great massacre of demons to you, though not personally, but at least
 अयुक्तबुद्धिर्गुणदोषनिश्चये  
 विपन्नराज्यो न चिराद् विपत्स्यसे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,6 +1230,7 @@ attitudes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1170,6 +1239,8 @@ attitudes.
 धनेन दर्पेण बलेन चान्वितो  
 विचिन्तयामास चिरं स रावणः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1230,5 +1301,6 @@ over a time. [3-33-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥33॥
+</details>
 </details>
 

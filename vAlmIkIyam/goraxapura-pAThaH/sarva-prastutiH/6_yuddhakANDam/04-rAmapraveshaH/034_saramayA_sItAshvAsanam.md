@@ -2,6 +2,8 @@
 title = "०३४ सरमया सीताश्वासनम्"
 title_english = "034 Sarama consoles Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ with his sharp arrows will kill Ravana and take her back to Ayodhya.
 
 34. सीताके अनुरोधसे सरमाका उन्हें मन्त्रियोंसहित रावणका निश्चित विचार बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तां जातसन्तापां तेन वाक्येन मोहिताम् ।  
 सरमा ह्लादयामास महीं दग्धामिवाम्भसा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -51,12 +56,15 @@ with his sharp arrows will kill Ravana and take her back to Ayodhya.
 
 रावणनु हिन्दॆ आडिद मातुगळिन्द मोहित हागू सन्तृप्तळाद सीतॆगॆ सरमॆयु ग्रीष्मऋतुविन तापदिन्द बॆन्दिरुव भूमियन्नु वर्षाकालद मेघगळु तम्म नीरिनिन्द आह्लादितगॊळिसुवन्तॆ, तन्न मातुगळिन्द आकॆयन्नु सन्तोषपडिसिदळु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्या हितं सख्याश्चिकीर्षन्ती सखी वचः ।  
 उवाच काले कालज्ञा स्मितपूर्वाभिभाषिणी ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,12 +87,15 @@ with his sharp arrows will kill Ravana and take her back to Ayodhya.
 
 बळिक समय प्रज्ञॆयुळ्ळ, मुगुळ्नक्कु मातनाडुव सखी सरमॆयु तन्न प्रियसखी सीतॆय हितवन्नु माडुव इच्छॆयिन्द समयोचित मातन्नु हेळिदळु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सहेयमहं गत्वा त्वद्वाक्यमसितेक्षणे ।  
 निवेद्य कुशलं रामे प्रतिच्छन्ना निवर्तितुम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,12 +135,15 @@ to Rama and to return secretly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे क्रममाणाया निरालम्बे विहायसि ।  
 समर्थो गतिमन्वेतुं पवनो गरुडोऽपि वा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +183,15 @@ the eagle can follow my movement."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणां तां सीता सरमामिदमब्रवीत् ।  
 मधुरं श्लक्ष्णया वाचा पूर्वशोकाभिपन्नया ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +235,15 @@ grief, gently and sweetly replied in the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समर्था गगनं गन्तुमपि च त्वं रसातलम् ।  
 अवगच्छाद्य कर्तव्यं कर्तव्यं ते मदन्तरे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,12 +284,15 @@ from me today the duty that has got to be performed by you for my sake."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्प्रियं यदि कर्तव्यं यदि बुद्धिः स्थिरा तव ।  
 ज्ञातुमिच्छामि तं गत्वा किं करोतीति रावणः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -310,12 +333,15 @@ to go and know what Ravana is doing now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि मायाबलः क्रूरो रावणः शत्रुरावणः ।  
 मां मोहयति दुष्टात्मा पीतमात्रेव वारुणी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,12 +383,15 @@ is imbibed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तर्जापयति मां नित्यं भर्त्सापयति चासकृत् ।  
 राक्षसीभिः सुघोराभिर्यो मां रक्षति नित्यशः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +432,15 @@ who always surround me and insult me by their act repeatedly."
 
 आ राक्षसनु अत्यन्त भयानक राक्षसियरिन्द प्रतिदिन नन्नन्नु गदरिसुत्तिद्दानॆ, हॆदरिसुत्तिद्दानॆ मत्तु सदा नन्न कावलु कायुवन्तॆ माडिरुवनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्विग्ना शङ्किता चास्मि न स्वस्थं च मनो मम ।  
 तद्भयाच्चाहमुद्विग्ना अशोकवनिकां गता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -449,12 +481,15 @@ Staying in Ashoka grove, I am distressed because of his fear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि नाम कथा तस्य निश्चितं वापि यद्भवेत् ।  
 निवेदयेथाः सर्वं तद् वरो मे स्यादनुग्रहः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +531,15 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साप्येवं ब्रुवतीं सीतां सरमा मृदुभाषिणी ।  
 उवाच वदनं तस्याः स्पृशन्ती बाष्पविक्लवम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +583,15 @@ follows to Seetha who was speaking as aforesaid:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष ते यद्यभिप्रायस्तस्माद् गच्छामि जानकि ।  
 गृह्य शत्रोरभिप्रायमुपावर्तामि मैथिलि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +649,15 @@ and rendered happy by Sarama, as parched earth is solaced by rain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा ततो गत्वा समीपं तस्य रक्षसः ।  
 शुश्राव कथितं तस्य रावणस्य समन्त्रिणः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +701,15 @@ conversation of Ravana who was with his ministers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा श्रुत्वा निश्चयं तस्य निश्चयज्ञा दुरात्मनः ।  
 पुनरेवागमत् क्षिप्रमशोकवनिकां शुभाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -703,12 +750,15 @@ returned to Ashoka grove.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्रविष्टा ततस्तत्र ददर्श जनकात्मजाम् ।  
 प्रतीक्षमाणां स्वामेव भ्रष्टपद्मामिव श्रियम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -751,12 +801,15 @@ of prosperity (and the wife of Vishnu); bereft of the lotus and waiting for her 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु सीता पुनः प्राप्तां सरमां प्रियभाषिणीम् ।  
 परिष्वज्य च सुस्निग्धं ददौ च स्वयमासनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +852,15 @@ offered personally a seat to her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहासीना सुखं सर्वमाख्याहि मम तत्त्वतः ।  
 क्रूरस्य निश्चयं तस्य रावणस्य दुरात्मनः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -844,12 +900,15 @@ Ravana"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सरमा सीतया वेपमानया ।  
 कथितं सर्वमाचष्ट रावणस्य समन्त्रिणः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +948,15 @@ of Ravana together with his ministers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनन्या राक्षसेन्द्रो वै त्वन्मोक्षार्थं बृहद्वचः ।  
 अतिस्निग्धेन वैदेहि मन्त्रिवृद्धेन चोदितः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +996,15 @@ aged minister asking for your release, O Seetha!"
 
 विदेहनन्दिनी! राक्षसराजा रावणन तायियु हागू रावणन कुरितु अत्यन्त स्नेहविरुव ओर्व मुदुक मन्त्रियू कूड दॊड्ड दॊड्ड मातुगळन्नाडि निन्नन्नु बिट्टुबिडलु रावणनन्नु हीगॆ प्रेरेपिसिदरु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीयतामभिसत्कृत्य मनुजेन्द्राय मैथिली ।  
 निदर्शनं ते पर्याप्तं जनस्थाने यदद्भुतम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1050,15 @@ Khara and Dushana at Janastana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्घनं च समुद्रस्य दर्शनं च हनूमतः ।  
 वधं च रक्षसां युद्धे कः कुर्यान्मानुषो युधि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,12 +1098,15 @@ Hanuman, and the carnage of the demons in combat on this earth?"
 
 (अवन सेवकरल्लियू अद्भुत शक्ति इदॆ) हनुमन्तनु समुद्रवन्नु दाटि, सीतॆयन्नु कण्डु, युद्धदल्लि अनेक राक्षसरन्नु वधिसिदुदु-इवॆल्ल कार्य बेरॆ याव मनुष्य माडबल्लनु.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स मन्त्रवृद्धैश्च मात्रा च बहुबोधितः ।  
 न त्वामुत्सहते मोक्तुमर्थमर्थपरो यथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,12 +1169,15 @@ appropriate time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नोत्सहत्यमृतो मोक्तुं युद्धे त्वामिति मैथिलि ।  
 सामात्यस्य नृशंसस्य निश्चयो ह्येष वर्तते ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,6 +1218,7 @@ is the resolve of the cruel Ravana along with his ministers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1151,6 +1226,8 @@ is the resolve of the cruel Ravana along with his ministers."
 भयान्न शक्तस्त्वां मोक्तुमनिरस्तः स संयुगे ॥ २५ ॥  
 राक्षसानां च सर्वेषामात्मनश्च वधेन हि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,12 +1274,15 @@ until he is actually defeated in battle through the carnage of all the demons an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहत्य रावणं सङ्ख्ये सर्वथा निशितैः शरैः ।  
 प्रतिनेष्यति रामस्त्वामयोध्यामसितेक्षणे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1242,12 +1322,15 @@ you back to Ayodhya by all means."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे शब्दो भेरीशङ्खसमाकुलः ।  
 श्रुतो वै सर्वसैन्यानां कम्पयन् धरणीतलम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1288,6 +1371,7 @@ of kettle drums, causing earth to shake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga34/yuddhasans34.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1296,6 +1380,8 @@ of kettle drums, causing earth to shake.
 हतौजसो दैन्यपरीतचेष्टाः  
 श्रेयो न पश्यन्ति नृपस्य दोषात् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1354,5 +1440,6 @@ in it, owing to the fault of their king.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥34॥
+</details>
 </details>
 

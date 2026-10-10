@@ -2,6 +2,8 @@
 title = "०४४ रावणेन जम्बुमालिप्रेक्षणम्"
 title_english = "044 Ravana sends Jambumali"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,6 +22,7 @@ Hanuma throws a big sal tree towards Jambumali and the latter succumbs to it.
 <details><summary>भागसूचना</summary>
 
 मारुतियु प्रहस्तन मग जम्बुमालियन्नु संहरिसिदुदु
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

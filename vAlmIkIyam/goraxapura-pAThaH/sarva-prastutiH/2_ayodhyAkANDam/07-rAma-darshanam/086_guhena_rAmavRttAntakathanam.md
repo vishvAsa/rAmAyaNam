@@ -2,6 +2,8 @@
 title = "०८६ गुहेन रामवृत्तान्तकथनम्"
 title_english = "086 Guha narrates Bharata about Rama s stay"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ mass crossed the holy river with Seetha and left for the hermitage of Sage Bhara
 
 86. निषादराज गुहके द्वारा लक्ष्मणके सद्भाव और विलापका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचचक्षेऽथ सद्भावं लक्ष्मणस्य महात्मनः ।  
 भरतायाप्रमेयाय गुहो गहनगोचरः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ qualities, about the quality of goodness of Lakshmana(as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं जाग्रतं गुणैर्युक्तं वरचापेषुधारिणम् ।  
 भ्रातृगुप्त्यर्थमत्यन्तमहं लक्ष्मणमब्रुवम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,6 +122,7 @@ arrows bow and a sword and who was keeping a vigil for the safe guard of his bro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -122,6 +131,8 @@ arrows bow and a sword and who was keeping a vigil for the safe guard of his bro
 उचितोऽयं जनः सर्वो दुःखानां त्वं सुखोचितः ।  
 धर्मात्मंस्तस्य गुप्त्यर्थं जागरिष्यामहे वयम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,12 +194,15 @@ ease. Rest peacefully on this, O, delight of the Raghu race!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि रामात् प्रियतरो ममास्ति भुवि कश्चन ।  
 मोत्सुको भूर्ब्रवीम्येतदथ सत्यं तवाग्रतः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +243,15 @@ I am telling this truth in your presence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य प्रसादादाशंसे लोकेऽस्मिन् सुमहद्यशः ।  
 धर्मावाप्तिं च विपुलामर्थकामौ च केवलौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +292,15 @@ extensive acquisition of righteousness, an unalloyed wealth and enjoyment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं प्रियसखं रामं शयानं सह सीतया ।  
 रक्षिष्यामि धनुष्पाणिः सर्वैः स्वैर्ज्ञातिभिः सह ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +340,15 @@ Rama, who slept together with Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मेऽविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा ।  
 चतुरङ्गं ह्यपि बलं प्रसहेम वयं युधि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,12 +389,15 @@ even an army consisting of all the four limbs in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्माभिरुक्तेन लक्ष्मणेन महात्मना ।  
 अनुनीता वयं सर्वे धर्ममेवानुपश्यता ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +437,15 @@ righteousness alone,politely replied to all of us( as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं दाशरथौ भूमौ शयाने सह सीतया ।  
 शक्या निद्रा मया लब्धुं जीवितानि सुखानि वा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,12 +488,15 @@ reposing on the floor along with Seetha?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो न देवासुरैः सर्वैः शक्यः प्रसहितुं युधि ।  
 तं पश्य गुह संविष्टं तृणेषु सह सीतया ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,6 +537,7 @@ celestials and demons, sleeping on the blades of grass along with Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -513,6 +546,8 @@ celestials and demons, sleeping on the blades of grass along with Seetha."
 अस्मिन् प्रव्राजिते राजा न चिरं वर्तयिष्यति ।  
 विधवा मेदिनी नूनं क्षिप्रमेव भविष्यति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +609,15 @@ king obtained Rama by performing a great penance and after facing various troubl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनद्य सुमहानादं श्रमेणोपरताः स्त्रियः ।  
 निर्घोषो विरतो नूनमद्य राजनिवेशने ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +659,15 @@ now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या चैव राजा च तथैव जननी मम ।  
 नाशंसे यदि ते सर्वे जीवेयुः शर्वरीमिमाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +707,15 @@ Sumitra will survive at all till this night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवेदपि च मे माता शत्रुघ्नस्यान्ववेक्षया ।  
 दुःखिता या हि कौसल्या वीरसूर्विनशिष्यति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +756,15 @@ Kausalya who gave birth to the eminent Rama will surely die."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिक्रान्तमतिक्रान्तमनवाप्य मनोरथम् ।  
 राज्ये राममनिक्षिप्य पिता मे विनशिष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +804,15 @@ of Aodhya, my father Dasaratha will expire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्थाः पितरं वृत्तं तस्मिन् काले ह्युपस्थिते ।  
 प्रेतकार्येषु सर्वेषु संस्करिष्यन्ति भूमिपम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,6 +853,7 @@ the funeal honours to king Dasaratha, my father when the time comes for it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -813,6 +864,8 @@ the funeal honours to king Dasaratha, my father when the time comes for it."
 आरामोद्यानसम्पूर्णां समाजोत्सवशालिनीम् ।  
 सुखिता विचरिष्यन्ति राजधानीं पितुर्मम ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +924,15 @@ festivals that continuously take place inti."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि सत्यप्रतिज्ञेन सार्धं कुशलिना वयम् ।  
 निवृत्ते समये ह्यस्मिन् सुखिताः प्रविशेमहि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,12 +972,15 @@ his promise, when he completed his term of exile?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिदेवयमानस्य तस्यैवं हि महात्मनः ।  
 तिष्ठतो राजपुत्रस्य शर्वरी सात्यवर्तत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,12 +1020,15 @@ passed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभाते विमले सूर्ये कारयित्वा जटा उभौ ।  
 अस्मिन् भागीरथीतीरे सुखं सन्तारितौ मया ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,6 +1063,7 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1009,6 +1072,8 @@ me."
 वरेषुधीचापधरौ परन्तपौ  
 व्यपेक्षमाणौ सह सीतया गतौ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1065,5 +1130,6 @@ elephants, wielding excellent bow, arrows and sword, looking back at me, went aw
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तारनॆय सर्ग पूर्णवायितु ॥86॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४७ रावणेन स्वैश्वर्यकथनम्"
 title_english = "047 The debate of Seetha and Ravana is started"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ her to become his wife. Thereupon she goes into a frenzied state and brainstorms
 
 47. सीताका रावणको अपना और पतिका परिचय देकर वनमें आनेका कारण बताना, रावणका उन्हें अपनी पटरानी बनानेकी इच्छा प्रकट करना और सीताका उसे फटकारना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेन तु वैदेही तदा पृष्टा जिहीर्षुणा ।  
 परिव्राजकरूपेण शशंसात्मानमात्मना ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ mien Seetha informed about herself on her own. [3-47-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणश्चातिथिश्चैष अनुक्तो हि शपेत माम् ।  
 इति ध्यात्वा मुहूर्तं तु सीता वचनमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +130,15 @@ of a demon. So with a half-belief and half-heart she started to talk to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुहिता जनकस्याहं मैथिलस्य महात्मनः ।  
 सीता नाम्नास्मि भद्रं ते रामस्य महिषी प्रिया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,12 +186,15 @@ prevail on whole of your dynasty, for it is hard to deal with Rama or with his d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उषित्वा द्वादश समा इक्ष्वाकूणां निवेशने ।  
 भुञ्जाना मानुषान् भोगान् सर्वकामसमृद्धिनी ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,12 +243,15 @@ Vedavati, in an earlier incarnation, only to end Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र त्रयोदशे वर्षे राजाऽमन्त्रयत प्रभुः ।  
 अभिषेचयितुं रामं समेतो राजमन्त्रिभिः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -273,12 +290,15 @@ to anoint Rama as Crown Prince of Ayodhya. [3-47-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् सम्भ्रियमाणे तु राघवस्याभिषेचने ।  
 कैकेयी नाम भर्तारं ममार्या याचते वरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,6 +338,7 @@ husband Dasharatha for a boon. [3-47-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,6 +346,8 @@ husband Dasharatha for a boon. [3-47-6]
 मम प्रव्राजनं भर्तुर्भरतस्याभिषेचनम् ॥ ७ ॥  
 द्वावयाचत भर्तारं सत्यसन्धं नृपोत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +396,15 @@ two boons from him, namely expatriation of my husband, and anointment of her son
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाद्य भोक्ष्ये न च स्वप्स्ये न पास्ये न कदाचन ॥ ८ ॥  
 एष मे जीवितस्यान्तो रामो यदभिषिच्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,12 +424,15 @@ _________________
 
 इन्दु श्रीरामनिगॆ अभिषेक माडिदरॆ, नानु एनन्नु तिन्नुवुदिल्ल, कुडियुवुदिल्ल हागू ऎन्दू निद्दॆ माडदॆ नन्न जीवनवन्नु कॊनॆगॊळिसुवॆनॆन्दु कैकेयियु हट हिडिदळु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणां कैकेयीं श्वशुरो मे स पार्थिवः ॥ ९ ॥  
 अयाचतार्थैरन्वर्थैर्न च याच्ञां चकार सा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +473,15 @@ riches, but she did not make good on that entreaty. [3-47-8b, 9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम भर्ता महातेजा वयसा पञ्चविंशकः ॥ १० ॥  
 अष्टादश हि वर्षाणि मम जन्मनि गण्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ epic and such grouping of verses is nonexistent now.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामेति प्रथितो लोके सत्यवान् शीलवान् शुचिः ॥ ११ ॥  
 विशालाक्षो महाबाहुः सर्वभूतहिते रतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +587,15 @@ the principle character, Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामार्तश्च महाराजः पिता दशरथः स्वयम् ॥ १२ ॥  
 कैकेय्याः प्रियकामार्थं तं रामं नाभ्यषेचयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +635,15 @@ king did not anoint Rama. [3-47-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकाय तु पितुः समीपं राममागतम् ॥ १३ ॥  
 कैकेयी मम भर्तारमित्युवाच द्रुतं वचः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,6 +682,7 @@ my husband. [3-47-b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -649,6 +691,8 @@ my husband. [3-47-b, 14a]
 त्वया तु खलु वस्तव्यं नव वर्षाणि पञ्च च ॥ १५ ॥  
 वने प्रव्रज काकुत्स्थ पितरं मोचयानृतात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -708,12 +752,15 @@ kingdom be accorded to Bharata.' [3-47-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेत्युवाच तां रामः कैकेयीमकुतोभयः ॥ १६ ॥  
 चकार तद्वचः श्रुत्वा भर्ता मम दृढव्रतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -753,12 +800,15 @@ be it' to Kaikeyi and followed her dictate. [3-47-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दद्यान्न प्रतिगृह्णीयात् सत्यं ब्रूयान्न चानृतम् ॥ १७ ॥  
 एतद् ब्राह्मण रामस्य व्रतं धृतमनुत्तमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,6 +856,7 @@ shall endeavour to govern the people [properly...] *dadyaat raajaa na yaaceta ya
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -813,6 +864,8 @@ shall endeavour to govern the people [properly...] *dadyaat raajaa na yaaceta ya
 रामस्य पुरुषव्याघ्रः सहायः समरेऽरिहा ।  
 स भ्राता लक्ष्मणो नाम ब्रह्मचारी दृढव्रतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,6 +937,7 @@ stepmother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -891,6 +945,8 @@ stepmother.
 जटी तापसरूपेण मया सह सहानुजः ॥ २० ॥  
 प्रविष्टो दण्डकारण्यं धर्मनित्यो दृढव्रतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -931,6 +987,7 @@ aspect of a tufty haired saint along with me and his brother. [3-47-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,6 +996,8 @@ aspect of a tufty haired saint along with me and his brother. [3-47-20b, 21a]
 समाश्वस मुहूर्तं तु शक्यं वस्तुमिह त्वया ॥ २२ ॥  
 आगमिष्यति मे भर्ता वन्यमादाय पुष्कलम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,6 +1033,7 @@ by our own mettle as we fell down from kingdom owing to Kaikeyi. [3-47-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -981,6 +1041,8 @@ by our own mettle as we fell down from kingdom owing to Kaikeyi. [3-47-21b, 22a]
 स त्वं नाम च गोत्रं च कुलमाचक्ष्व तत्त्वतः ।  
 एकश्च दण्डकारण्ये किमर्थं चरसि द्विज ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,12 +1112,15 @@ meat, aplenty. [3-47-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवत्यां सीतायां रामपत्न्यां महाबलः ।  
 प्रत्युवाचोत्तरं तीव्रं रावणो राक्षसाधिपः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,12 +1162,15 @@ speaking in this way. [3-47-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन वित्रासिता लोकाः सदेवासुरमानुषाः ।  
 अहं स रावणो नाम सीते रक्षोगणेश्वरः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,12 +1210,15 @@ sovereign of hosts of demons, known as Ravana. [3-47-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां तु काञ्चनवर्णाभां दृष्ट्वा कौशेयवासिनीम् ।  
 रतिं स्वकेषु दारेषु नाधिगच्छाम्यनिन्दिते ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,12 +1267,15 @@ thus I am ready to renounce this accursed being of Ravana...' Maheshvara Tirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बह्वीनामुत्तमस्त्रीणामाहृतानामितस्ततः ।  
 सर्वासामेव भद्रं ते ममाग्रमहिषी भव ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,12 +1323,15 @@ to me, and to all of us, you be the ruling deity...' Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्का नाम समुद्रस्य मध्ये मम महापुरी ।  
 सागरेण परिक्षिप्ता निविष्टा गिरिमूर्धनि ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1287,12 +1364,15 @@ encompassed by an ocean. [3-47-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र सीते मया सार्धं वनेषु विचरिष्यसि ।  
 न चास्य वनवासस्य स्पृहयिष्यसि भामिनि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1340,12 +1420,15 @@ The word *bhaamini* is an addressing to a beautiful lady, who is with some anger
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च दास्यः सहस्राणि सर्वाभरणभूषिताः ।  
 सीते परिचरिष्यन्ति भार्या भवसि मे यदि ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1392,12 +1475,15 @@ are serving you...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेनैवमुक्ता तु कुपिता जनकात्मजा ।  
 प्रत्युवाचानवद्याङ्गी तमनादृत्य राक्षसम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1442,12 +1528,15 @@ vacana vilakshaNa vacana* it means ultimately as - Seetha spoke in derision.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महागिरिमिवाकम्प्यं महेन्द्रसदृशं पतिम् ।  
 महोदधिमिवाक्षोभ्यमहं राममनुव्रता ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1497,12 +1586,15 @@ fathomless serene ocean... I have avowed to follow him in this lifetime.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलक्षणसम्पन्नं न्यग्रोधपरिमण्डलम् ।  
 सत्यसन्धं महाभागमहं राममनुव्रता ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1555,12 +1647,15 @@ shade, maiden's two breasts, will warm up in cold season and cool down in hot se
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबाहुं महोरस्कं सिंहविक्रान्तगामिनम् ।  
 नृसिंहं सिंहसङ्काशमहं राममनुव्रता ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1608,12 +1703,15 @@ incarnation...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णचन्द्राननं रामं राजवत्सं जितेन्द्रियम् ।  
 पृथुकीर्तिं महाबाहुमहं राममनुव्रता ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1671,12 +1769,15 @@ is *daarDhyata *- said for the purpose of 'reinforcement' of her statement.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं पुनर्जम्बुकः सिंहीं मामिहेच्छसि दुर्लभाम् ।  
 नाहं शक्या त्वया स्प्रष्टुमादित्यस्य प्रभा यथा ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1731,12 +1832,15 @@ of a night and it will be self-ruinous to experiment with such ideas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादपान् काञ्चनान् नूनं बहून् पश्यसि मन्दभाक् ।  
 राघवस्य प्रियां भार्यां यस्त्वमिच्छसि राक्षस ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1785,6 +1889,7 @@ his death is predictable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1795,6 +1900,8 @@ his death is predictable.
 अक्षि सूच्या प्रमृजसि जिह्वया लेढि च क्षुरम् ।  
 राघवस्य प्रियां भार्यामधिगन्तुं त्वमिच्छसि ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1898,6 +2005,7 @@ needs to bother on its own, because its owner takes care of that instrument.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1905,6 +2013,8 @@ needs to bother on its own, because its owner takes care of that instrument.
 सूर्याचन्द्रमसौ चोभौ पाणिभ्यां हर्तुमिच्छसि ॥ ४२ ॥  
 यो रामस्य प्रियां भार्यां प्रधर्षयितुमिच्छसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1949,12 +2059,15 @@ and Moon? [3-47-42, 43a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निं प्रज्वलितं दृष्ट्वा वस्त्रेणाहर्तुमिच्छसि ॥ ४३ ॥  
 कल्याणवृत्तां यो भार्यां रामस्याहर्तुमिच्छसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1995,12 +2108,15 @@ a glowing fire in a cloth-bundle, though evincing it to be highly flaming? [3-47
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोमुखानां शूलानामग्रे चरितुमिच्छसि ।  
 रामस्य सदृशीं भार्यां योऽधिगन्तुं त्वमिच्छसि ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2050,6 +2166,7 @@ pervade all this universe, and as I pervade all over I am the controller and pre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2058,6 +2175,8 @@ pervade all this universe, and as I pervade all over I am the controller and pre
 सुराग्र्यसौवीरकयोर्यदन्तरं  
 तदन्तरं दाशरथेस्तवैव च ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2110,6 +2229,7 @@ Ramayana - A Linguistic Study.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2118,6 +2238,8 @@ Ramayana - A Linguistic Study.
 यदन्तरं हस्तिबिडालयोर्वने  
 तदन्तरं दाशरथेस्तवैव च ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2164,6 +2286,7 @@ an imparity exists between you and the son of Dasharatha. [3-47-46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2172,6 +2295,8 @@ an imparity exists between you and the son of Dasharatha. [3-47-46]
 यदन्तरं हंसकगृध्रयोर्वने  
 तदन्तरं दाशरथेस्तवैव च ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2223,6 +2348,7 @@ obtains betwixt you and the son of Dasharatha. [3-47-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2231,6 +2357,8 @@ obtains betwixt you and the son of Dasharatha. [3-47-47]
 हृतापि तेऽहं न जरां गमिष्ये  
 आज्यं यथा मक्षिकयावगीर्णम् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2286,6 +2414,7 @@ the word is generally translated as ghee.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2294,6 +2423,8 @@ the word is generally translated as ghee.
 गात्रप्रकम्पाद् व्यथिता बभूव  
 वातोद्धता सा कदलीव तन्वी ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2351,6 +2482,7 @@ the prospective elimination of Ravana is making her to tremble, impetuously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2359,6 +2491,8 @@ the prospective elimination of Ravana is making her to tremble, impetuously.
 कुलं बलं नाम च कर्म चात्मनः  
 समाचचक्षे भयकारणार्थम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2414,5 +2548,6 @@ her of his name, caste, competency, and capability as his purpose is to cause sc
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तेळनॆय सर्ग सम्पूर्णवायितु.॥47॥
+</details>
 </details>
 

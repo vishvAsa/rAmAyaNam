@@ -2,6 +2,8 @@
 title = "०१४ अश्वमेधयजनम्"
 title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -26,12 +28,15 @@ Ritual are narrated.
 
 चतुर्दशे सर्गे -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरङ्गमे ।  
 सरय्वाश्चोत्तरे तीरे राज्ञो यज्ञोऽभ्यवर्तत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,12 +53,15 @@ Ritual are narrated.
 
 अश्वविमोचनॆयाद बळिक ऒन्दु वर्ष पूर्ति अदु तिरुगाडि हिन्तिरुगितु. मत्तॆ सरयू नदिय उत्तर तीरदल्लि राजनु यज्ञवन्नु प्रारम्भिसिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यशृङ्गं पुरस्कृत्य कर्म चक्रुर्द्विजर्षभाः ।  
 अश्वमेधे महायज्ञे राज्ञोऽस्य सुमहात्मनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -86,12 +94,15 @@ Keeping Rishyasringa at the helm of affairs those eminent Brahmans commenced, *a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म कुर्वन्ति विधिवद् याजका वेदपारगाः ।  
 यथाविधि यथान्यायं परिक्रामन्ति शास्त्रतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,12 +136,15 @@ works relating to ritual as per canon and rules, and conducted them scripturally
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवर्ग्यं शास्त्रतः कृत्वा तथैवोपसदं द्विजाः ।  
 चक्रुश्च विधिवत् सर्वमधिकं कर्म शास्त्रतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +179,15 @@ main one scripturally. [1-14-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिपूज्य तदा हृष्टाः सर्वे चक्रुर्यथाविधि ।  
 प्रातःसवनपूर्वाणि कर्माणि मुनिपुङ्गवाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +222,15 @@ as enjoined. [1-14-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्रश्च विधिवद् दत्तो राजा चाभिषुतोऽनघः ।  
 माध्यन्दिनं च सवनं प्रावर्तत यथाक्रमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,12 +278,15 @@ hold the view that it is from Sarcostema Viminalis family.
 
 * इस विषयमें सूत्रकारका वचन है—सोमं राजानं दृषदि निधाय......दृषद्भिरभिहन्यात् अर्थात् ‘राजा सोम (सोमलता) को पत्थरपर रखकर........पत्थरसे कूँचे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृतीयसवनं चैव राज्ञोऽस्य सुमहात्मनः ।  
 चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुङ्गवाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +326,15 @@ of that great-exalted soul Dasharatha according to the viewpoint of scriptures. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह्वयाञ्चक्रिरे तत्र शक्रादीन् विबुधोत्तमान् ।  
 ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +371,15 @@ invoked Indra and other gods to that place. [1-14-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गीतिभिर्मधुरैः स्निग्धैर्मन्त्राह्वानैर्यथार्हतः ।  
 होतारो ददुरावाह्य हविर्भागान् दिवौकसाम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +417,15 @@ hymns they have offered oblations to them. [1-14-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाहुतमभूत् तत्र स्खलितं वा न किञ्चन ।  
 दृश्यते ब्रह्मवत् सर्वं क्षेमयुक्तं हि चक्रिरे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +471,15 @@ the ritual is performed in a secure way. [1-14-10]
 
 अनेन यज्ञ-कर्मणि विहिते काले यथा-विध्य्-अनुष्ठान-कुशलैर् अभिज्ञैर् आस्तिकैर् ऋत्विग्भिर् अन्यून-अनतिरेकेण अनुष्ठातव्यम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तेष्वहःसु श्रान्तो वा क्षुधितो वा न दृश्यते ।  
 नाविद्वान् ब्राह्मणः कश्चिन्नाशतानुचरस्तथा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +528,15 @@ person, nor any Brahman without at least a hundred apprentices. [1-14-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणा भुञ्जते नित्यं नाथवन्तश्च भुञ्जते ।  
 तापसा भुञ्जते चापि श्रमणाश्चैव भुञ्जते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +582,15 @@ own salvation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धाश्च व्याधिताश्चैव स्त्रीबालाश्च तथैव च ।  
 अनिशं भुञ्जमानानां न तृप्तिरुपलभ्यते ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +637,15 @@ served. [1-14-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीयतां दीयतामन्नं वासांसि विविधानि च ।  
 इति सञ्चोदितास्तत्र तथा चक्रुरनेकशः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +678,15 @@ king's men have distributed numerously there at the ritual place. [1-14-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्नकूटाश्च दृश्यन्ते बहवः पर्वतोपमाः ।  
 दिवसे दिवसे तत्र सिद्धस्य विधिवत् तदा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +725,15 @@ made available customarily, day after day. [1-14-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानादेशादनुप्राप्ताः पुरुषाः स्त्रीगणास्तथा ।  
 अन्नपानैः सुविहितास्तस्मिन् यज्ञे महात्मनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,12 +767,15 @@ countries, and they are all well-pleased with the sumptuous food and drink suppl
 
 महात्मनाद दशरथन आ यज्ञदल्लि नाना देशगळिन्द बन्दिरुव स्त्री पुरुषरॆल्लरू अन्न पानादिगळिन्द तृप्तरागुत्तिद्दरु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्नं हि विधिवत्स्वादु प्रशंसन्ति द्विजर्षभाः ।  
 अहो तृप्ताः स्म भद्रं ते इति शुश्राव राघवः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,12 +845,15 @@ commence the ritual proper.
 
 अनेनाविशेषेणागताः सर्वे ब्राह्मणा मृष्टान्न-दानेन तोषणीया इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वलङ्कृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन् ।  
 उपासन्ते च तानन्ये सुमृष्टमणिकुण्डलाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,12 +892,15 @@ earrings have helped them. [1-14-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मान्तरे तदा विप्रा हेतुवादान् बहूनपि ।  
 प्राहुः सुवाग्मिनो धीराः परस्परजिगीषया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,12 +961,15 @@ each other, during the gap-periods of ritual works. [1-14-19]
 
 इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवसे दिवसे तत्र संस्तरे कुशला द्विजाः ।  
 सर्वकर्माणि चक्रुस्ते यथाशास्त्रं प्रचोदिताः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +1003,15 @@ and others and as contained in scriptures. [1-14-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाषडङ्गविदत्रासीन्नाव्रतो नाबहुश्रुतः ।  
 सदस्यास्तस्य वै राज्ञो नावादकुशलो द्विजः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -999,12 +1064,15 @@ The six branches of Veda-s are: 1] *shikSaa* - phonetics, 2] *vyaakaraNa* - gram
 
 अनेन सदस्यैर् अपि नियतैः साङ्ग-वेद-विद्भिस् तत्त्व-निर्धारण-कुशलैर् बहुभिर् भवितव्यम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्ते यूपोच्छ्रये तस्मिन् षड् बैल्वाः खादिरास्तथा ।  
 तावन्तो बिल्वसहिताः पर्णिनश्च तथा परे ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,12 +1089,15 @@ The six branches of Veda-s are: 1] *shikSaa* - phonetics, 2] *vyaakaraNa* - gram
 
 आ यज्ञदल्लि बिल्ववृक्षद आरु यूपस्तम्भ (कम्ब)गळन्नु निल्लिसिद्दरु. अष्टे खदिर (कग्गलि) कम्बगळन्नू हागू अष्टे पालाशद (मुत्तुग) यूपगळन्नु बिल्वद यूपगळ जॊतॆगॆ निल्लिसिद्दरु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्लेष्मातकमयो दिष्टो देवदारुमयस्तथा ।  
 द्वावेव तत्र विहितौ बाहुव्यस्तपरिग्रहौ ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,12 +1139,15 @@ is maintained at the length of extended arms. [1-14-22,23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारिताः सर्व एवैते शास्त्रज्ञैर्यज्ञकोविदैः ।  
 शोभार्थं तस्य यज्ञस्य काञ्चनालङ्कृता भवन् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1107,12 +1181,15 @@ they are gold-pleated and decorated for the purpose of elegance to that ritual. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकविंशतियूपास्ते एकविंशत्यरत्नयः ।  
 वासोभिरेकविंशद्भिरेकैकं समलङ्कृताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1228,15 @@ decoratively clothed with each cloth. [1-14-25]
 
 * तथा च सूत्रम्—‘चतुर्विंशत्यङ्गुलयोऽरत्निः’ अर्थात् एक अरत्नि चौबीस अङ्गुलके बराबर होता है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विन्यस्ता विधिवत् सर्वे शिल्पिभिः सुकृता दृढाः ।  
 अष्टास्रयः सर्व एव श्लक्ष्णरूपसमन्विताः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1196,12 +1276,15 @@ that are smoothened, and thereby they are implanted procedurally. [1-14-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आच्छादितास्ते वासोभिः पुष्पैर्गन्धैश्च पूजिताः ।  
 सप्तर्षयो दीप्तिमन्तो विराजन्ते यथा दिवि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1242,12 +1325,15 @@ The Seven Sages is the constellation of stars in the Ursa Major - The Great Bear
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टकाश्च यथान्यायं कारिताश्च प्रमाणतः ।  
 चितोऽग्निर्ब्राह्मणैस्तत्र कुशलैः शिल्पकर्मणि ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1292,12 +1378,15 @@ milk and other sacred liquids to the chanting of Vedic hymns.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चित्यो राजसिंहस्य सञ्चितः कुशलैर्द्विजैः ।  
 गरुडो रुक्मपक्षो वै त्रिगुणोऽष्टादशात्मकः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,12 +1435,15 @@ altar is laid threefold bigger than the usual one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियुक्तास्तत्र पशवस्तत्तदुद्दिश्य दैवतम् ।  
 उरगाः पक्षिणश्चैव यथाशास्त्रं प्रचोदिताः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,12 +1477,15 @@ according to the scriptural directives. [1-14-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शामित्रे तु हयस्तत्र तथा जलचराश्च ये ।  
 ऋषिभिः सर्वमेवैतन्नियुक्तं शास्त्रतस्तदा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,12 +1527,15 @@ to decide which is to be retained or let off.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशूनां त्रिशतं तत्र यूपेषु नियतं तदा ।  
 अश्वरत्नोत्तमं तत्र राज्ञो दशरथस्य ह ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1476,12 +1574,15 @@ of that King Dasharatha. [1-14-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या तं हयं तत्र परिचर्य समन्ततः ।  
 कृपाणैर्विशशारैनं त्रिभिः परमया मुदा ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1533,12 +1634,15 @@ act by piercing that horse, which is already dead, with golden needle-like knive
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतत्त्रिणा तदा सार्धं सुस्थितेन च चेतसा ।  
 अवसद् रजनीमेकां कौसल्या धर्मकाम्यया ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1577,12 +1681,15 @@ that flew away like a bird. [1-14-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 होताध्वर्युस्तथोद्‍गाता हस्तेन समयोजयन् ।  
 महिष्या परिवृत्त्यार्थं वावातामपरां तथा ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1645,12 +1752,15 @@ priests took these wives by hand to bring them in contact with the dead horse.
 
 * जातिके अनुसार नाम अलग-अलग होते हैं । दशरथके तो कौसल्या, कैकेयी और सुमित्रा तीनों क्षत्रिय जातिकी ही थीं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतत्त्रिणस्तस्य वपामुद्‍धृत्य नियतेन्द्रियः ।  
 ऋत्विक्परमसम्पन्नः श्रपयामास शास्त्रतः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1701,12 +1811,15 @@ have omentum according to Vedic texts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूमगन्धं वपायास्तु जिघ्रति स्म नराधिपः ।  
 यथाकालं यथान्यायं निर्णुदन् पापमात्मनः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1749,12 +1862,15 @@ sin. [1-14-37]
 
 इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयस्य यानि चाङ्गानि तानि सर्वाणि ब्राह्मणाः ।  
 अग्नौ प्रास्यन्ति विधिवत् समस्ताः षोडशर्त्विजः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1787,12 +1903,15 @@ oblated all of them into fire. [1-14-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लक्षशाखासु यज्ञानामन्येषां क्रियते हविः ।  
 अश्वमेधस्य यज्ञस्य वैतसो भाग इष्यते ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1826,6 +1945,7 @@ a rattan plant, cane. [1-14-39]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1834,6 +1954,8 @@ a rattan plant, cane. [1-14-39]
 उक्थ्यं द्वितीयं सङ्ख्यातमतिरात्रं तथोत्तरम् ।  
 कारितास्तत्र बहवो विहिताः शास्त्रदर्शनात् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1893,12 +2015,15 @@ and the one performed on the first day is called *chatuSToma* ritual. [1-14-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिष्टोमायुषी चैवमतिरात्रौ च निर्मितौ ।  
 अभिजिद्विश्वजिच्चैवमाप्तोर्यामौ महाक्रतुः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1942,12 +2067,15 @@ And also rituals of great kind like *abhijit, vishwajit, aptoryaama* are perform
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राचीं होत्रे ददौ राजा दिशं स्वकुलवर्धनः ।  
 अध्वर्यवे प्रतीचीं तु ब्रह्मणे दक्षिणां दिशम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1964,12 +2092,15 @@ And also rituals of great kind like *abhijit, vishwajit, aptoryaama* are perform
 
 तन्न कुलद वृद्धिगॊळिसुव राजा दशरथनु यज्ञपूर्णवाद मेलॆ होतृविगॆ दक्षिणॆय रूपदल्लि अयोध्यॆय पूर्वदिक्किन ऎल्ल राज्यवन्नु ऒप्पिसिदनु. अध्वर्युविगॆ पश्चिम दिक्किन हागू ब्रह्मनिगॆ दक्षिण दिक्किन राज्यवन्नु दान माडिदनु.॥43॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्‍गात्रे तु तथोदीचीं दक्षिणैषा विनिर्मिता ।  
 अश्वमेधे महायज्ञे स्वयम्भूविहिते पुरा ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2013,12 +2144,15 @@ by the Self-Created Brahma from earlier times. [1-14-44,43]
 
 * ‘प्रजापतिरश्वमेधमसृजत (प्रजापतिने अश्वमेध यज्ञका अनुष्ठान किया ।)’ इस श्रुतिके द्वारा यह सूचित होता है कि पूर्वकालमें ब्रह्माजीने इस महायज्ञका अनुष्ठान किया था । इसमें दक्षिणारूपसे प्रत्येक दिशाके दानका विधान कल्पसूत्रद्वारा किया गया है । यथा—‘प्रतिदिशं दक्षिणां ददाति प्राची दिग्धोतुर्दक्षिणा ब्रह्मणः प्रतीच्यध्वर्योरुदीच्युद्‍गातुः’ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रतुं समाप्य तु तदा न्यायतः पुरुषर्षभः ।  
 ऋत्विग्भ्यो हि ददौ राजा धरां तां कुलवर्धनः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2057,12 +2191,15 @@ the officiating priests, called ritwiks, to promote his dynasty. [1-14-45]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दत्त्वा प्रहृष्टोऽभूच्छ्रीमानिक्ष्वाकुनन्दनः ।  
 ऋत्विजस्त्वब्रुवन् सर्वे राजानं गतकिल्बिषम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2100,12 +2237,15 @@ his sins. [1-14-46]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवानेव महीं कृत्स्नामेको रक्षितुमर्हति ।  
 न भूम्या कार्यमस्माकं नहि शक्ताः स्म पालने ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2139,12 +2279,15 @@ king. [1-14-47]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रताः स्वाध्यायकरणे वयं नित्यं हि भूमिप ।  
 निष्क्रयं किञ्चिदेवेह प्रयच्छतु भवानिति ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2178,12 +2321,15 @@ may give us something else in barter, any modest thing. " [1-14-48]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिरत्नं सुवर्णं वा गावो यद्वा समुद्यतम् ।  
 तत् प्रयच्छ नृपश्रेष्ठ धरण्या न प्रयोजनम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2223,6 +2369,7 @@ the use of these vast expanses to us." So said the scholars. [1-14-49]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2230,6 +2377,8 @@ the use of these vast expanses to us." So said the scholars. [1-14-49]
 गवां शतसहस्राणि दश तेभ्यो ददौ नृपः ॥ ५० ॥  
 दशकोटिं सुवर्णस्य रजतस्य चतुर्गुणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2289,12 +2438,15 @@ the lands earlier donated, hence it is an acceptable item.
 
 अनेन यजमानेन दक्षिणा-काले विहितम् अभ्यर्हितम् अपि पृथिव्य्-आदिकम् ऋत्विग्भ्यो देयम् एव । ऋत्विग्भिर् अपि भोग्यम् अपि । तद्-रक्षणाशक्तौ विनिमाय निष्क्रयो ग्राह्य इति धर्मः सूचितः । तथा अविक्रेयम् अपि गवाश्वादि दक्षिणा-द्रव्यं विनिमयेन ग्राह्यम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत्विजस्तु ततः सर्वे प्रददुः सहिता वसु ॥ ५१ ॥  
 ऋष्यशृङ्गाय मुनये वसिष्ठाय च धीमते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2333,12 +2485,15 @@ to the enlightened sage Vashishta. [1-14-51b, 52a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते न्यायतः कृत्वा प्रविभागं द्विजोत्तमाः ॥ ५२ ॥  
 सुप्रीतमनसः सर्वे प्रत्यूचुर्मुदिता भृशम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2374,12 +2529,15 @@ wealth passed on by Rishyasringa and Vashishta, and then they said, "We are high
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रसर्पकेभ्यस्तु हिरण्यं सुसमाहितः ॥ ५३ ॥  
 जाम्बूनदं कोटिसङ्ख्यं ब्राह्मणेभ्यो ददौ तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2425,12 +2583,15 @@ ten million gold coins. [1-14-53b, 54a]
 
 अनेन प्रसर्पकेभ्यो ऽपि बहु देयम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दरिद्राय द्विजायाथ हस्ताभरणमुत्तमम् ॥ ५४ ॥  
 कस्मैचिद् याचमानाय ददौ राघवनन्दनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2468,12 +2629,15 @@ Brahman and who is beseeching. [1-14-54a, 55a]
 
 अनेन क्रतु-समाप्त्य्-अनन्तरं याचमानेभ्यो ऽपि तत्तद्-अभीष्टं यथा-शक्ति देयम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रीतेषु विधिवद् द्विजेषु द्विजवत्सलः ॥ ५५ ॥  
 प्रणाममकरोत् तेषां हर्षव्याकुलितेन्द्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2513,12 +2677,15 @@ them dutifully with his senses fluttering with happiness. [1-14-55b, 56a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याशिषोऽथ विविधा ब्राह्मणैः समुदाहृताः ॥ ५६ ॥  
 उदारस्य नृवीरस्य धरण्यां पतितस्य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2577,12 +2744,15 @@ of Veda itself.
 
 अनेन यज्ञान्ते ब्राह्मणान् नमस्कृत्य तेभ्यो यज्ञ-समृद्ध्य्-आशिषो ग्राह्याः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रीतमना राजा प्राप्य यज्ञमनुत्तमम् ॥ ५७ ॥  
 पापापहं स्वर्नयनं दुस्तरं पार्थिवर्षभैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2623,12 +2793,15 @@ be undertaken by many of the best kings. [1-14-57b, 58a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीदृष्यशृङ्गं राजा दशरथस्तदा ॥ ५८ ॥  
 कुलस्य वर्धनं तत् तु कर्तुमर्हसि सुव्रत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2671,12 +2844,15 @@ are eligible to perform the ritual for the expansion of my dynasty." [1-14-58b, 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति च स राजानमुवाच द्विजसत्तमः ।  
 भविष्यन्ति सुता राजंश्चत्वारस्ते कुलोद्वहाः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2709,6 +2885,7 @@ king, there will be four sons to you that ennoble your dynasty. [1-14-59b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2717,6 +2894,8 @@ king, there will be four sons to you that ennoble your dynasty. [1-14-59b, c]
 जगाम हर्षं परमं महात्मा  
 तमृष्यशृङ्गं पुनरप्युवाच ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2771,5 +2950,6 @@ a state of ecstasy and venerating that great soul, Rishyasringa, again said this
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनाल्कनॆय सर्ग पूर्णवायितु. ॥14॥
+</details>
 </details>
 

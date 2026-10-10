@@ -2,6 +2,8 @@
 title = "०४१ सगर-यज्ञ-समाप्तिः"
 title_english = "041 sagara s grandson amshuman s search for the horse"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -25,12 +27,15 @@ Amshuman's search for horse reveals that Kapila rendered his paternal-uncles
 
 41. सगरकी आज्ञासे अंशुमान् का रसातलमें जाकर घोड़ेको ले आना और अपने चाचाओंके निधनका समाचार सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रांश्चिरगतान् ज्ञात्वा सगरो रघुनन्दन ।  
 नप्तारमब्रवीद् राजा दीप्यमानं स्वतेजसा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ Amshuman's search for horse reveals that Kapila rendered his paternal-uncles
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूरश्च कृतविद्यश्च पूर्वैस्तुल्योऽसि तेजसा ।  
 पितॄणां गतिमन्विच्छ येन चाश्वोऽपवाहितः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्भौमानि सत्त्वानि वीर्यवन्ति महान्ति च ।  
 तेषां तु प्रतिघातार्थं सासिं गृह्णीष्व कार्मुकम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,12 +177,15 @@ The living beings in netherworlds of earth are intrepid and they
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्याभिवाद्यांस्त्वं हत्वा विघ्नकरानपि ।  
 सिद्धार्थः सन्निवर्तस्व मम यज्ञस्य पारगः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ The living beings in netherworlds of earth are intrepid and they
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तोऽंशुमान् सम्यक् सगरेण महात्मना ।  
 धनुरादाय खड्गं च जगाम लघुविक्रमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ When the great-souled king Sagara has thoroughly said in this way,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स खातं पितृभिर्मार्गमन्तर्भौमं महात्मभिः ।  
 प्रापद्यत नरश्रेष्ठ तेन राज्ञाभिचोदितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ Motivated by the King Sagara, oh, Rama, the best one among men, Amshuman
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवरक्षोभिः पिशाचपतगोरगैः ।  
 पूज्यमानं महातेजा दिशागजमपश्यत ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +364,15 @@ And he that resplendent Amshuman beheld one of the four directional
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं प्रदक्षिणं कृत्वा पृष्ट्वा चैव निरामयम् ।  
 पितॄन् स परिपप्रच्छ वाजिहर्तारमेव च ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,12 +412,15 @@ On circumambulating that elephant in supplication, and even on enquiring
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशागजस्तु तच्छ्रुत्वा प्रत्युवाच महामतिः ।  
 आसमञ्ज कृतार्थस्त्वं सहाश्वः शीघ्रमेष्यसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,12 +461,15 @@ On hearing that enquiry of Amshuman that directional elephant with
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा सर्वानेव दिशागजान् ।  
 यथाक्रमं यथान्यायं प्रष्टुं समुपचक्रमे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +508,15 @@ On hearing that word of that directional elephant he departed from
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैश्च सर्वैर्दिशापालैर्वाक्यज्ञैर्वाक्यकोविदैः ।  
 पूजितः सहयश्चैवागन्तासीत्यभिचोदितः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +556,15 @@ All the elephants that safeguard the directions of earth which have
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा जगाम लघुविक्रमः ।  
 भस्मराशीकृता यत्र पितरस्तस्य सागराः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +601,15 @@ On hearing that common blessing of all the directional-elephants, he
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दुःखवशमापन्नस्त्वसमञ्जसुतस्तदा ।  
 चुक्रोश परमार्तस्तु वधात् तेषां सुदुःखितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,12 +645,15 @@ But he on whom the control of anguish has chanced for not physically
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञियं च हयं तत्र चरन्तमविदूरतः ।  
 ददर्श पुरुषव्याघ्रो दुःखशोकसमन्वितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +688,15 @@ That tigerly-man Amshuman who is overwhelmed by agony and anguish,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेषां राजपुत्राणां कर्तुकामो जलक्रियाम् ।  
 स जलार्थी महातेजा न चापश्यज्जलाशयम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +739,15 @@ When he that great resplendent Amshuman wanted to offer obsequial waters
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसार्य निपुणां दृष्टिं ततोऽपश्यत् खगाधिपम् ।  
 पितॄणां मातुलं राम सुपर्णमनिलोपमम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +793,15 @@ Spanning his expert glances, oh, Rama, he then saw the rapid-winged
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चैनमब्रवीद् वाक्यं वैनतेयो महाबलः ।  
 मा शुचः पुरुषव्याघ्र वधोऽयं लोकसम्मतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +838,15 @@ That great-mighty son of Lady Vinata, namely Garuda, also spoke this
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिलेनाप्रमेयेण दग्धा हीमे महाबलाः ।  
 सलिलं नार्हसि प्राज्ञ दातुमेषां हि लौकिकम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,12 +884,15 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गङ्गा हिमवतो ज्येष्ठा दुहिता पुरुषर्षभ ।  
 तस्यां कुरु महाबाहो पितॄणां सलिलक्रियाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -876,6 +935,7 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -883,6 +943,8 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 तया क्लिन्नमिदं भस्म गङ्गया लोककान्तया ।  
 षष्टिं पुत्रसहस्राणि स्वर्गलोकं गमिष्यति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +988,15 @@ World purifier River Ganga will drift them who are rendered as mounds
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्गच्छाश्वं महाभाग सङ्गृह्य पुरुषर्षभ ।  
 यज्ञं पैतामहं वीर निर्वर्तयितुमर्हसि ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1039,15 @@ World purifier River Ganga will drift them who are rendered as mounds
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपर्णवचनं श्रुत्वा सोऽंशुमानतिवीर्यवान् ।  
 त्वरितं हयमादाय पुनरायान्महातपाः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,12 +1089,15 @@ On hearing the words of that great-winged eagle, Garuda, he that highly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राजानमासाद्य दीक्षितं रघुनन्दन ।  
 न्यवेदयद् यथावृत्तं सुपर्णवचनं तथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,12 +1133,15 @@ Then on reaching the King Sagara, who is under the vow of the ritual,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा घोरसङ्काशं वाक्यमंशुमतो नृपः ।  
 यज्ञं निर्वर्तयामास यथाकल्पं यथाविधि ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1103,12 +1177,15 @@ On hearing those unendurable words from Amshuman, the king Sagara firstly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वपुरं त्वगमच्छ्रीमानिष्टयज्ञो महीपतिः ।  
 गङ्गायाश्चागमे राजा निश्चयं नाध्यगच्छत ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,12 +1230,15 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगत्वा निश्चयं राजा कालेन महता महान् ।  
 त्रिंशद्वर्षसहस्राणि राज्यं कृत्वा दिवं गतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,5 +1285,6 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥41॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०७८ रावणेन मकराक्षप्रेषणम्"
 title_english = "078 Ravana orders Makaraksha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ battle-field, to reach Rama and Lakshmana.
 
 78. रावणकी आज्ञासे मकराक्षका युद्धके लिये प्रस्थान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकुम्भं निहतं श्रुत्वा कुम्भं च विनिपातितम् ।  
 रावणः परमामर्षी प्रजज्वालानलो यथा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,12 +53,15 @@ _________________
 
 कुम्भ-निकुम्भरु हतरादुदन्नु केळि, रावणनिगॆ भारि कोप बन्दु बॆङ्कियन्तॆ उरियतॊडगिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैर्ऋतः क्रोधशोकाभ्यां द्वाभ्यां तु परिमूर्च्छितः ।  
 खरपुत्रं विशालाक्षं मकराक्षमचोदयत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,12 +87,15 @@ _________________
 
 रावणनु क्रोध-शोकदिन्द व्याकुलनागि विशालाक्ष खरपुत्र मरकार्षनल्लि हेळिदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छ पुत्र मयाऽऽज्ञप्तो बलेनाभिसमन्वितः ।  
 राघवं लक्ष्मणं चैव जहि तौ सवनौकसौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,6 +133,7 @@ the monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -130,6 +142,8 @@ the monkeys."
 सोऽभिवाद्य दशग्रीवं कृत्वा चापि प्रदक्षिणम् ।  
 निर्जगाम गृहाच्छुभ्राद् रावणस्याज्ञया बली ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,12 +202,15 @@ was rejoiced and assured Ravana that he would do it certainly as commanded.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीपस्थं बलाध्यक्षं खरपुत्रोऽब्रवीद् वचः ।  
 रथमानीयतां तूर्णं सैन्यं त्वानीयतां त्वरात् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,12 +245,15 @@ to bring a chariot and the army swiftly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा बलाध्यक्षो निशाचरः ।  
 स्यन्दनं च बलं चैव समीपं प्रत्यपादयत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,12 +287,15 @@ to his proximity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदक्षिणं रथं कृत्वा समारुह्य निशाचरः ।  
 सूतं सञ्चोदयामास शीघ्रं वै रथमावह ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,12 +338,15 @@ charioteer to drive forward the chariot quickly to the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तान् राक्षसान् सर्वान् मकराक्षोऽब्रवीदिदम् ।  
 यूयं सर्वे प्रयुध्यध्वं पुरस्तान्मम राक्षसाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +380,15 @@ begin your fight before my presence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं राक्षसराजेन रावणेन महात्मना ।  
 आज्ञप्तः समरे हन्तुं तावुभौ रामलक्ष्मणौ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,12 +428,15 @@ in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य रामं वधिष्यामि लक्ष्मणं च निशाचराः ।  
 शाखामृगं च सुग्रीवं वानरांश्च शरोत्तमैः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +470,15 @@ my excellent arrows, O demons!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य शूलनिपातैश्च वानराणां महाचमूम् ।  
 प्रदहिष्यामि सम्प्राप्तां शुष्केन्धनमिवानलः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +512,15 @@ arrived today to the battle-field, as the fire destroys the dry wood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मकराक्षस्य तच्छ्रुत्वा वचनं ते निशाचराः ।  
 सर्वे नानायुधोपेता बलवन्तः समाहिताः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,6 +554,7 @@ of weapons, were steadfast to fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -524,6 +563,8 @@ of weapons, were steadfast to fight.
 परिवार्य महाकाया महाकायं खरात्मजम् ।  
 अभिजग्मुस्ततो हृष्टाश्चालयन्तो वसुन्धराम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,12 +614,15 @@ Makaraksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्खभेरीसहस्राणामाहतानां समन्ततः ।  
 क्ष्वेलितास्फोटितानां च तत्र शब्दो महानभूत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +679,15 @@ like fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभ्रष्टोऽथ करात् तस्य प्रतोदः सारथेस्तदा ।  
 पपात सहसा दैवाद् ध्वजस्तस्य तु रक्षसः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,12 +722,15 @@ flag-staff of that demon also suddenly fell down by the will of the province.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ते रथसंयुक्ता हया विक्रमवर्जिताः ।  
 चरणैराकुलैर्गत्वा दीनाः सास्रमुखा ययुः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,12 +767,15 @@ with flurried feet and went timidly, with tears in their eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवाति पवनस्तस्मिन् सपांसुः खरदारुणः ।  
 निर्याणे तस्य रौद्रस्य मकराक्षस्य दुर्मतेः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +813,15 @@ fearful dust-storm blew forth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि दृष्ट्वा निमित्तानि राक्षसा वीर्यवत्तमाः ।  
 अचिन्त्य निर्गताः सर्वे यत्र तौ रामलक्ष्मणौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +855,7 @@ out to the place, where both Rama and Lakshmana were there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -807,6 +864,8 @@ out to the place, where both Rama and Lakshmana were there.
 अहमहमिति युद्धकौशलास्ते  
 रजनिचराः परिबभ्रमुर्मुहुस्ते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,5 +941,6 @@ son of Khara (as follows):
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥78॥
+</details>
 </details>
 

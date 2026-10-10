@@ -2,6 +2,8 @@
 title = "००७ मन्थरामन्त्रणम्"
 title_english = "007 The wicked Manthara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ Manthara one of her jewels.
 
 7. श्रीरामके अभिषेकका समाचार पाकर खिन्न हुई मन्थराका कैकेयीको उभाड़ना, परंतु प्रसन्न हुई कैकेयीका उसे पुरस्काररूपमें आभूषण देना और वर माँगनेके लिये प्रेरित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातिदासी यतो जाता कैकेय्या तु सहोषिता ।  
 प्रासादं चन्द्रसङ्काशमारुरोह यदृच्छया ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ ascended the balcony of Kaikeyi's white palace, which resembled the full moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिक्तराजपथां कृत्स्नां प्रकीर्णकमलोत्पलाम् ।  
 अयोध्यां मन्थरा तस्मात् प्रासादादन्ववैक्षत ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ roads being sprinkled with water and strewn with heaps of flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पताकाभिर्वरार्हाभिर्ध्वजैश्च समलङ्कृताम् ।  
 सिक्तां चन्दनतोयैश्च शिरःस्नातजनैर्युताम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,6 +141,7 @@ roads being sprinkled with water and strewn with heaps of flowers.
 
 ऎल्लॆडॆ सुन्दर पताकॆगळु हाराडुत्तिद्दवु. ध्वजगळिन्द आ पुरिय शोभॆ अपूर्ववागित्तु. राजबीदिगळल्लि सुगन्धित नीरन्नु चिमुकिसलागित्तु. अयोध्यॆय ऎल्ल जनरु अभ्यङ्ग स्नातरागि अलङ्कृतरागि ओडाडुत्तिद्दरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -138,6 +150,8 @@ roads being sprinkled with water and strewn with heaps of flowers.
 सम्प्रहृष्टजनाकीर्णां ब्रह्मघोषनिनादिताम् ।  
 प्रहृष्टवरहस्त्यश्वां सम्प्रणर्दितगोवृषाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +170,15 @@ roads being sprinkled with water and strewn with heaps of flowers.
 
 श्रीरामनिगॆ अर्पिसलु मालॆगळन्नु मत्तु मोदकगळन्नु कैगळल्लॆत्तिकॊण्ड श्रेष्ठ ब्राह्मणरु हर्षनाद माडुत्ता इद्दारॆ. देवालयगळ महाद्वारगळन्नु चन्दनादिगळिन्द सुन्दरवागि अलङ्करिसिद्दरु. ऎल्ल प्रकारद वाद्यगळ मधुर ध्वनि ऎल्लॆडॆ मॊळगुत्तित्तु. अत्यन्त हर्षितराद जनरिन्द नगरवॆल्ल तुम्बिहोगित्तु. ऎल्लॆडॆ वेदपाठिगळ मन्त्र ध्वनिगळु प्रतिध्वनिसुत्तिद्दवु. श्रेष्ठ गज, अश्वगळु हर्षदिन्द मॆरॆयुत्तिद्दवु. हसुगळु मत्तु करुगळु आनन्ददिन्द ‘अम्बा’ ऎन्दु कूगुत्तिद्दवु.॥4-5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टप्रमुदितैः पौरैरुच्छ्रितध्वजमालिनीम् ।  
 अयोध्यां मन्थरा दृष्ट्वा परं विस्मयमागता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +229,15 @@ noise. The highly delighted citizens hoisted rows of flags on their housetops.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हर्षोत्फुल्लनयनां पाण्डुरक्षौमवासिनीम् ।  
 अविदूरे स्थितां दृष्ट्वा धात्रीं पप्रच्छ मन्थरा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,6 +277,7 @@ standing nearby, as follows: -
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -265,6 +286,8 @@ standing nearby, as follows: -
 अतिमात्रं प्रहर्षः किं जनस्यास्य च शंस मे ।  
 कारयिष्यति किं वापि सम्प्रहृष्टो महीपतिः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,6 +348,7 @@ eventhough she is badly lured of money?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -333,6 +357,8 @@ eventhough she is badly lured of money?"
 श्वः पुष्येण जितक्रोधं यौवराज्येन चानघम् ।  
 राजा दशरथो राममभिषेक्ता हि राघवम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ the great honor to be conferred upon Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धात्र्यास्तु वचनं श्रुत्वा कुब्जा क्षिप्रममर्षितः ।  
 कैलासशिखराकारात् प्रासादादवरोहत ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +467,15 @@ the roof of the palace, which was in the shape of mount Kailasa.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा दह्यमाना क्रोधेन मन्थरा पापदर्शिनी ।  
 शयानामेव कैकेयीमिदं वचनमब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -483,12 +515,15 @@ a bed and spoke these words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ मूढे किं शेषे भयं त्वामभिवर्तते ।  
 उपप्लुतमघौघेन नात्मानमवबुध्यसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -529,12 +564,15 @@ flood of troubles submerges you. Why are you not knowing this yourself?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनिष्टे सुभगाकारे सौभाग्येन विकत्थसे ।  
 चलं हि तव सौभाग्यं नद्याः स्रोत इवोष्णगे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +617,15 @@ unsteady".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु कैकेयी रुष्टया परुषं वचः ।  
 कुब्जया पापदर्शिन्या विषादमगमत् परम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -618,12 +659,15 @@ of sinful thoughts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेयी त्वब्रवीत् कुब्जां कच्चित् क्षेमं न मन्थरे ।  
 विषण्णवदनां हि त्वां लक्षये भृशदुःखिताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -664,6 +708,7 @@ You appear to be very sorrowful with your worried face".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -672,6 +717,8 @@ You appear to be very sorrowful with your worried face".
 सा विषण्णतरा भूत्वा कुब्जा तस्यां हितैषिणी ।  
 विषादयन्ती प्रोवाच भेदयन्ती च राघवम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +772,15 @@ with anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षयं सुमहद् देवि प्रवृत्तं त्वद्विनाशनम् ।  
 रामं दशरथो राजा यौवराज्येऽभिषेक्ष्यति ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +823,15 @@ anoint Rama for the princely kingdom".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सास्म्यगाधे भये मग्ना दुःखशोकसमन्विता ।  
 दह्यमानानलेनेव त्वद्धितार्थमिहागता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +865,15 @@ as if by fire. I hastened here to seek you out."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव दुःखेन कैकेयि मम दुःखं महद् भवेत् ।  
 त्वद‍्वृद्धौ मम वृद्धिश्च भवेदिह न संशयः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ name itself will be removed from the royal clan."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नराधिपकुले जाता महिषी त्वं महीपतेः ।  
 उग्रत्वं राजधर्माणां कथं देवि न बुध्यसे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +959,15 @@ that you are not knowing about the cruelty in kingly duties?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मवादी शठो भर्ता श्लक्ष्णवादी च दारुणः ।  
 शुद्धभावेन जानीषे तेनैवमतिसन्धिता ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +1003,15 @@ you thus."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थितः प्रयुञ्जानस्त्वयि सान्त्वमनर्थकम् ।  
 अर्थेनैवाद्य ते भर्ता कौसल्यां योजयिष्यति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,12 +1051,15 @@ on benefit today to Kausalya only."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपवाह्य तु दुष्टात्मा भरतं तव बन्धुषु ।  
 काल्ये स्थापयिता रामं राज्ये निहतकण्टके ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1034,12 +1102,15 @@ is going to install Rama on the throne without hindrance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुः पतिप्रवादेन मात्रेव हितकाम्यया ।  
 आशीविष+++(=सर्प)+++ इवाङ्गेन बाले परिधृतस्त्वया ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,12 +1150,15 @@ and is called husband for a namesake. He is like a poisonous serpent in your bos
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हि कुर्याच्छत्रुर्वा सर्पो वा प्रत्युपेक्षितः ।  
 राज्ञा दशरथेनाद्य सपुत्रा त्वं तथा कृता ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,12 +1198,15 @@ or a serpent would behave if ignored."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापेनानृतसान्त्वेन बाले नित्यं सुखोचिता ।  
 रामं स्थापयता राज्ये सानुबन्धा हता ह्यसि ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1171,12 +1248,15 @@ son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्राप्तकालं कैकेयि क्षिप्रं कुरु हितं तव ।  
 त्रायस्व पुत्रमात्मानं मां च विस्मयदर्शने ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1211,12 +1291,15 @@ save yourself, your son and me too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्थराया वचः श्रुत्वा शयनात् सा शुभानना ।  
 उत्तस्थौ हर्षसम्पूर्णा चन्द्रलेखेव शारदी ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,12 +1340,15 @@ rose from her coach full of delight like unto the crescent moon in autumn.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतीव सा तु सन्तुष्टा कैकेयी विस्मयान्विता ।  
 दिव्यमाभरणं तस्यै कुब्जायै प्रददौ शुभम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1302,6 +1388,7 @@ hunch-backed Manthara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1310,6 +1397,8 @@ hunch-backed Manthara.
 इदं तु मन्थरे मह्यमाख्यातं परमं प्रियम् ।  
 एतन्मे प्रियमाख्यातं किं वा भूयः करोमि ते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,12 +1457,15 @@ follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामे वा भरते वाहं विशेषं नोपलक्षये ।  
 तस्मात् तुष्टास्मि यद् राजा रामं राज्येऽभिषेक्ष्यति ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1408,6 +1500,7 @@ Rama is being anointed for crown by the king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1416,6 +1509,8 @@ Rama is being anointed for crown by the king."
 तथा ह्यवोचस्त्वमतः प्रियोत्तरं  
 वरं परं ते प्रददामि तं वृणु ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1473,5 +1568,6 @@ Ask for it!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि एळनॆय सर्ग पूर्णवायितु. ॥7॥
+</details>
 </details>
 

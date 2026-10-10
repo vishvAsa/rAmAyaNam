@@ -2,6 +2,8 @@
 title = "०२० दशरथविज्ञापना"
 title_english = "020 dasharatha s dissent to spare rAma s servicees"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -26,12 +28,15 @@ the Sage's wrath.
 
 विंशैकविंशयोः — 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम् ।  
 मुहूर्तमिव निःसञ्ज्ञः सञ्ज्ञावानिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ a time, and on redeeming senses he said this. [1-20-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊनषोडशवर्षो मे रामो राजीवलोचनः ।  
 न युद्धयोग्यतामस्य पश्यामि सह राक्षसैः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +160,15 @@ eliminating the vice. This is again rounded off with Vishvamitra's wording in la
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमक्षौहिणी सेना यस्याहं पतिरीश्वरः ।  
 अनया सहितो गत्वा योद्धाहं तैर्निशाचरैः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +217,15 @@ and 1,09,350 of foot soldiers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे शूराश्च विक्रान्ता भृत्या मेऽस्त्रविशारदाः ।  
 योग्या रक्षोगणैर्योद्धुं न रामं नेतुमर्हसि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +261,15 @@ ones to combat the hordes of demons, but, it will be ungentle of you to take Ram
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेव धनुष्पाणिर्गोप्ता समरमूर्धनि ।  
 यावत् प्राणान् धरिष्यामि तावद् योत्स्ये निशाचरैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +303,15 @@ I war with those nightwalkers staying in the van of war. [1-20-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्विघ्ना व्रतचर्या सा भविष्यति सुरक्षिता ।  
 अहं तत्र गमिष्यामि न रामं नेतुमर्हसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,12 +351,15 @@ but, taking Rama with you will be ungracious of you. [1-20-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालो ह्यकृतविद्यश्च न च वेत्ति बलाबलम् ।  
 न चास्त्रबलसंयुक्तो न च युद्धविशारदः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,6 +408,7 @@ demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -394,6 +418,8 @@ demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
 यदि वा राघवं ब्रह्मन् नेतुमिच्छसि सुव्रत ॥ ९ ॥  
 चतुरङ्गसमायुक्तं मया सह च तं नय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +477,15 @@ Rama with you will be unjust. [1-20-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्टिर्वर्षसहस्राणि जातस्य मम कौशिक ॥ १० ॥  
 कृच्छ्रेणोत्पादितश्चायं न रामं नेतुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +527,15 @@ of you. [1-20-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्णामात्मजानां हि प्रीतिः परमिका मम ॥ ११ ॥  
 ज्येष्ठे धर्मप्रधाने च न रामं नेतुमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,6 +571,7 @@ will be unjust of you. [1-20-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,6 +579,8 @@ will be unjust of you. [1-20-11b, 12a]
 कथं प्रमाणाः के चैतान् रक्षन्ति मुनिपुङ्गव ।  
 कथं च प्रतिकर्तव्यं तेषां रामेण रक्षसाम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +632,7 @@ How is their size and shape? Also who protects all of them? [1-20-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -604,6 +640,8 @@ How is their size and shape? Also who protects all of them? [1-20-12b, 13a]
 सर्वं मे शंस भगवन् कथं तेषां मया रणे ॥ १४ ॥  
 स्थातव्यं दुष्टभावानां वीर्योत्सिक्ता हि राक्षसाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,6 +659,7 @@ How is their size and shape? Also who protects all of them? [1-20-12b, 13a]
 
 ब्रह्मन्! नन्न सैनिकरिगॆ अथवा स्वतः ननगॆ आ मायावी राक्षसर प्रतीकार हेगॆ माडबेकु इवॆल्लवन्नु ननगॆ तिळिसिरि. पूज्यरे! अदु राक्षसरन्नु युद्धदल्लि नानु दुष्टरन्नु हेगॆ ऎदुरिसबेकु तिळिसिरि, एकॆन्दरॆ राक्षसरु तुम्बा बलाढ्यरागिरुत्तारॆ.॥14½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -631,6 +670,8 @@ How is their size and shape? Also who protects all of them? [1-20-12b, 13a]
 श्रूयते च महाराज रावणो राक्षसाधिपः ॥ १७ ॥  
 साक्षाद्वैश्रवणभ्राता पुत्रो विश्रवसो मुनेः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,6 +754,7 @@ insistently. On hearing those words Sage Vishvamitra replied this way. [1-20-14b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -720,6 +762,8 @@ insistently. On hearing those words Sage Vishvamitra replied this way. [1-20-14b
 तेन सञ्चोदितौ तौ तु राक्षसौ च महाबलौ ।  
 मारीचश्च सुबाहुश्च यज्ञविघ्नं करिष्यतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -760,12 +804,15 @@ by him." Thus Sage Vishvamitra said to Dasharatha. [1-20-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तो मुनिना तेन राजोवाच मुनिं तदा ।  
 नहि शक्तोऽस्मि सङ्ग्रामे स्थातुं तस्य दुरात्मनः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +848,15 @@ question of deputing my young Rama to confront him? [1-20-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं प्रसादं धर्मज्ञ कुरुष्व मम पुत्रके ।  
 मम चैवाल्पभाग्यस्य दैवतं हि भवान् गुरुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +891,15 @@ a god of ours. [1-20-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वा यक्षाः पतगपन्नगाः ।  
 न शक्ता रावणं सोढुं किं पुनर्मानवा युधि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,6 +933,7 @@ are incapable to bear the brunt of that Ravana in fight, why tell again about hu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,6 +941,8 @@ are incapable to bear the brunt of that Ravana in fight, why tell again about hu
 तेन चाहं न शक्तोऽस्मि संयोद्धुं तस्य वा बलैः ॥ २३ ॥  
 सबलो वा मुनिश्रेष्ठ सहितो वा ममात्मजैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,12 +981,15 @@ forces, or with him, individually. [1-20-23, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथमप्यमरप्रख्यं सङ्ग्रामाणामकोविदम् ॥ २४ ॥  
 बालं मे तनयं ब्रह्मन् नैव दास्यामि पुत्रकम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1024,7 @@ spare my son in anyway. [1-20-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -972,6 +1032,8 @@ spare my son in anyway. [1-20-24b, 25a]
 यज्ञविघ्नकरौ तौ ते नैव दास्यामि पुत्रकम् ।  
 मारीचश्च सुबाहुश्च वीर्यवन्तौ सुशिक्षितौ ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,12 +1073,15 @@ no, I cannot spare my son, in any case. [1-20-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोरन्यतरं योद्धुं यास्यामि ससुहृद‍्गणः ।  
 अन्यथा त्वनुनेष्यामि भवन्तं सहबान्धवः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,6 +1119,7 @@ implore upon you for your exoneration in my failure to comply my own promises. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1062,6 +1128,8 @@ implore upon you for your exoneration in my failure to comply my own promises. [
 सुहुत इव मखेऽग्निराज्यसिक्तः  
 समभवदुज्ज्वलितो महर्षिवह्निः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,5 +1189,6 @@ and which is drenched with a lot of clarified butter, whereby it is flaring up i
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तनॆय सर्ग पूर्णवायितु. ॥20॥
+</details>
 </details>
 

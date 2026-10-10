@@ -2,6 +2,8 @@
 title = "०७२ कन्यादानं गोदानञ्च"
 title_english = "072 Marriage alliance to bharata shatrughna"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-072-Kanya_Daanam_Godaanam_Cha.mp3"></div>
 </details>
@@ -10,12 +12,15 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 
 72. विश्वामित्रद्वारा भरत और शत्रुघ्नके लिये कुशध्वजकी कन्याओंका वरण, राजा जनकद्वारा इसकी स्वीकृति तथा राजा दशरथका अपने पुत्रोंके मंगलके लिये नान्दीश्राद्ध एवं गोदान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुक्तवन्तं वैदेहं विश्वामित्रो महामुनिः ।  
 उवाच वचनं वीरं वसिष्ठसहितो नृपम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,12 +53,15 @@ just said about his lineage. [1-72-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिन्त्यान्यप्रमेयाणि कुलानि नरपुङ्गव ।  
 इक्ष्वाकूणां विदेहानां नैषां तुल्योऽस्ति कश्चन ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -87,12 +95,15 @@ among all men, there is no single king comparable to one from these dynasties...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशो धर्मसम्बन्धः सदृशो रूपसम्पदा ।  
 रामलक्ष्मणयो राजन् सीता चोर्मिलया सह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +137,7 @@ and even it is befitting to the winsome charms of the brides and bridegrooms, bu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -136,6 +148,8 @@ and even it is befitting to the winsome charms of the brides and bridegrooms, bu
 भरतस्य कुमारस्य शत्रुघ्नस्य च धीमतः ।  
 वरये ते सुते राजंस्तयोरर्थे महात्मनोः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +219,15 @@ every kind of probity... [1-72-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रा दशरथस्येमे रूपयौवनशालिनः ।  
 लोकपालसमाः सर्वे देवतुल्यपराक्रमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +263,15 @@ from four quarters, and their valour vies with the valour of God Vishnu... [1-72
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभयोरपि राजेन्द्र सम्बन्धेनानुबध्यताम् ।  
 इक्ष्वाकुकुलमव्यग्रं भवतः पुण्यकर्मणः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +310,15 @@ as well, be interlocked by these wedlock-s..." Thus Vishvamitra advised Janaka. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा वसिष्ठस्य मते तदा ।  
 जनकः प्राञ्जलिर्वाक्यमुवाच मुनिपुङ्गवौ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +351,15 @@ eminent-saints. [1-72-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलं धन्यमिदं मन्ये येषां तौ मुनिपुङ्गवौ ।  
 सदृशं कुलसम्बन्धं यदाज्ञापयतः स्वयम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ is highly honoured... [1-72-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं भवतु भद्रं वः कुशध्वजसुते इमे ।  
 पत्न्यौ भजेतां सहितौ शत्रुघ्नभरतावुभौ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +440,15 @@ as a pair of wives to the paired brothers, namely Bharata and Shatrughna, respec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकाह्ना राजपुत्रीणां चतसॄणां महामुने ।  
 पाणीन् गृह्णन्तु चत्वारो राजपुत्रा महाबलाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -449,12 +481,15 @@ in marriage, in the light of one day... [1-72-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरे दिवसे ब्रह्मन् फल्गुनीभ्यां मनीषिणः ।  
 वैवाहिकं प्रशंसन्ति भगो यत्र प्रजापतिः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,12 +536,15 @@ uttaraphalgunii-svaati iti vivaahasya nakShatraaNi | bodhaayana suutraaNi*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा वचः सौम्यं प्रत्युत्थाय कृताञ्जलिः ।  
 उभौ मुनिवरौ राजा जनको वाक्यमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +577,15 @@ and Vashishta, reverently said this sentence. [1-72-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो धर्मः कृतो मह्यं शिष्योऽस्मि भवतोस्तथा ।  
 इमान्यासनमुख्यानि आस्यतां मुनिपुङ्गवौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +630,15 @@ rulership on the three kingdoms, Ayodhya, Mithila, and Saamkaasya, in getting th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा दशरथस्येयं तथायोध्या पुरी मम ।  
 प्रभुत्वे नास्ति सन्देहो यथार्हं कर्तुमर्हथ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,12 +673,15 @@ as aptly as you can..." So said Janaka to the sages. [1-72-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रुवति वैदेहे जनके रघुनन्दनः ।  
 राजा दशरथो हृष्टः प्रत्युवाच महीपतिम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +714,15 @@ he replied king Janaka in this way. [1-72-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युवामसङ्ख्येयगुणौ भ्रातरौ मिथिलेश्वरौ ।  
 ऋषयो राजसङ्घाश्च भवद्भ्यामभिपूजिताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -718,12 +768,15 @@ comfortably seeing the celebrations...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति प्राप्नुहि भद्रं ते गमिष्यामः स्वमालयम् ।  
 श्राद्धकर्माणि विधिवद्विधास्य इति चाब्रवीत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +818,15 @@ the tributary rituals..." Dasharatha said thus. [1-72-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापृष्ट्वा नरपतिं राजा दशरथस्तदा ।  
 मुनीन्द्रौ तौ पुरस्कृत्य जगामाशु महायशाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +862,15 @@ from there, keeping both of the eminent-saints afore, namely Vishvamitra and Vas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा निलयं राजा श्राद्धं कृत्वा विधानतः ।  
 प्रभाते काल्यमुत्थाय चक्रे गोदानमुत्तमम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +905,15 @@ part. [1-72-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गवां शतसहस्रं च ब्राह्मणेभ्यो नराधिपः ।  
 एकैकशो ददौ राजा पुत्रानुद्दिश्य धर्मतः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,6 +946,7 @@ four sons. [1-72-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -892,6 +955,8 @@ four sons. [1-72-22]
 वित्तमन्यच्च सुबहु द्विजेभ्यो रघुनन्दनः ।  
 ददौ गोदानमुद्दिश्य पुत्राणां पुत्रवत्सलः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1004,15 @@ jugs made with bell metal, and he even donated very many other kinds of assets t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुतैः कृतगोदानैर्वृतः सन्नृपतिस्तदा ।  
 लोकपालैरिवाभाति वृतः सौम्यः प्रजापतिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,5 +1071,6 @@ who are being readied to administer *dharma* in the world.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तॆरडनॆय सर्ग पूर्णवायितु. ॥72॥
+</details>
 </details>
 

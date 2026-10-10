@@ -2,6 +2,8 @@
 title = "०१३ यज्ञशाला-प्रवेशः"
 title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -28,12 +30,15 @@ along with his wives takes ritual vow and enters ritual hall.
 
 त्रयोदशे सर्गे-
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनः प्राप्ते वसन्ते तु पूर्णः संवत्सरोऽभवत् ।  
 प्रसवार्थं गतो यष्टुं हयमेधेन वीर्यवान् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +79,15 @@ succeeding year to the one referred in last chapter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य वसिष्ठं च न्यायतः प्रतिपूज्य च ।  
 अब्रवीत् प्रश्रितं वाक्यं प्रसवार्थं द्विजोत्तमम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ words to him. [1-13-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो मे क्रियतां ब्रह्मन् यथोक्तं मुनिपुङ्गव ।  
 यथा न विघ्नाः क्रियन्ते यज्ञाङ्गेषु विधीयताम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ a way that no obstacle occurs even in its ancillary functions. [1-13-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् स्निग्धः सुहृन्मह्यं गुरुश्च परमो महान् ।  
 वोढव्यो भवता चैव भारो यज्ञस्य चोद्यतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,12 +233,15 @@ shall shoulder the burden of the commenced ritual in all good faith and credence
 
 अनेन यज्ञादि-महा-कर्मारम्भे नूतनेषु ऋत्विक्षु सत्स्व् अपि प्राचीन एव सर्वज्ञे आस्तिके महा-ब्राह्मणे भारं विनिक्षिप्य तद्-वचनानुसारेण कर्म कर्तव्यम् इति सूचितम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति च स राजानमब्रवीद् द्विजसत्तमः ।  
 करिष्ये सर्वमेवैतद् भवता यत् समर्थितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,6 +281,7 @@ by you, I will see that all of them are materialised accordingly. [1-13-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -274,6 +292,8 @@ by you, I will see that all of them are materialised accordingly. [1-13-5]
 तथा शुचीन् शास्त्रविदः पुरुषान् सुबहुश्रुतान् ।  
 यज्ञकर्म समीहन्तां भवन्तो राजशासनात् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ _________________
 
 अनन्तर यज्ञकर्म निपुण वसिष्ठरु ब्राह्मणरन्नु, श्रौतप्रयोग कुशलरन्नु, स्थपतिगळन्नु, परम धार्मिकराद वृद्ध ब्राह्मणरन्नु, यज्ञकर्मवु मुगियुववरॆगू सन्दर्भोचित कार्यगळल्लि नियुक्तराद सेवकरन्नु, शिल्पिगळन्नु, बडगिगळन्नु, नॆल अगॆयुववरन्नु, ज्योतिषिगळन्नु, कुशल कर्मिगळन्नु, नट नर्तकरन्नु, विशुद्ध शास्त्रवेत्तरन्नु, बहुश्रुत विद्वांसरन्नु करॆसि अवरल्लि नीवॆल्लरू महाराजन अप्पणॆयन्तॆ यज्ञकर्मक्कॆ अवश्यवाद ऎल्ल व्यवस्थॆयन्नु माडिरि ऎन्दु हेळिदरु.॥6-8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टका बहुसाहस्री शीघ्रमानीयतामिति ।  
 उपकार्याः क्रियन्तां च राज्ञो बहुगुणान्विताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +396,15 @@ the many tradesmen are listed in a bird's eye view as above.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणावसथाश्चैव कर्तव्याः शतशः शुभाः ।  
 भक्ष्यान्नपानैर्बहुभिः समुपेताः सुनिष्ठिताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,12 +438,15 @@ and well established with very many eatables, foods, and potables. [1-13-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा पौरजनस्यापि कर्तव्याश्च सुविस्तराः ।  
 आगतानां सुदूराच्च पार्थिवानां पृथक् पृथक् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,12 +480,15 @@ severally for the kings arriving from distant places.[1-13-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाजिवारणशालाश्च तथा शय्यागृहाणि च ।  
 भटानां महदावासा वैदेशिकनिवासिनाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,6 +528,7 @@ along with their soldiers. [1-13-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +536,8 @@ along with their soldiers. [1-13-12]
 तथा पौरजनस्यापि जनस्य बहुशोभनम् ॥ १३ ॥  
 दातव्यमन्नं विधिवत् सत्कृत्य न तु लीलया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ and for others coming from distant countries, and a very grand food be given in 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे वर्णा यथा पूजां प्राप्नुवन्ति सुसत्कृताः ॥ १४ ॥  
 न चावज्ञा प्रयोक्तव्या कामक्रोधवशादपि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -585,12 +623,15 @@ disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञकर्मसु ये व्यग्राः पुरुषाः शिल्पिनस्तथा ॥ १५ ॥  
 तेषामपि विशेषेण पूजा कार्या यथाक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,6 +648,7 @@ disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14,
 
 यज्ञकर्मद आवश्यक सिद्धतॆयल्लि तॊडगिरुव शिल्पिगळन्नु, हिरिय-किरिय सेवकरन्नु कुरितु गमन विडुत्ता विशेषरूपदिन्द अवरन्नु सम्मानिसबेकु.॥15½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -614,6 +656,8 @@ disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14,
 यथा सर्वं सुविहितं न किञ्चित् परिहीयते ।  
 तथा भवन्तः कुर्वन्तु प्रीतियुक्तेन चेतसा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,6 +715,7 @@ with funds and food. [1-13-15b, 16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -678,6 +723,8 @@ with funds and food. [1-13-15b, 16]
 यथेष्टं तत् सुविहितं न किञ्चित् परिहीयते ॥ १८ ॥  
 यथोक्तं तत् करिष्यामो न किञ्चित् परिहास्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,6 +761,7 @@ of them will be slighted." So said the artisans to Sage Vashishta. [1-13-18, 19a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -721,6 +769,8 @@ of them will be slighted." So said the artisans to Sage Vashishta. [1-13-18, 19a
 निमन्त्रयस्व नृपतीन् पृथिव्यां ये च धार्मिकाः ।  
 ब्राह्मणान् क्षत्रियान् वैश्यान् शूद्रांश्चैव सहस्रशः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -772,6 +822,7 @@ said Vashishta to Sumantra. [1-13-19b, 20, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -780,6 +831,8 @@ said Vashishta to Sumantra. [1-13-19b, 20, 21a]
 तमानय महाभागं स्वयमेव सुसत्कृतम् ।  
 पूर्वं सम्बन्धिनं ज्ञात्वा ततः पूर्वं ब्रवीमि ते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +875,15 @@ hence I am telling you in the first instance. [1-13-21b,22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा काशिपतिं स्निग्धं सततं प्रियवादिनम् ।  
 सद‍्वृत्तं देवसङ्काशं स्वयमेवानयस्व ह ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,12 +919,15 @@ he shall be invited by you personally. [1-13-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा केकयराजानं वृद्धं परमधार्मिकम् ।  
 श्वशुरं राजसिंहस्य सपुत्रं तमिहानय ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,12 +966,15 @@ Dasharatha, you personally invite him along with his sons. [1-13-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गेश्वरं महेष्वासं रोमपादं सुसत्कृतम् ।  
 वयस्यं राजसिंहस्य सपुत्रं तमिहानय ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,6 +1014,7 @@ invited well honoured, for he is the friend of our lion-king Dasharatha. [1-13-2
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -959,6 +1022,8 @@ invited well honoured, for he is the friend of our lion-king Dasharatha. [1-13-2
 मगधाधिपतिं शूरं सर्वशास्त्रविशारदम् ॥ २६ ॥  
 प्राप्तिज्ञं परमोदारं सत्कृतं पुरुषर्षभम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1057,15 @@ one in all scriptural knowledge, let them be honoured well and be invited. [1-13
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञः शासनमादाय चोदयस्व नृपर्षभान् ।  
 प्राचीनान् सिन्धुसौवीरान् सौराष्ट्रेयांश्च पार्थिवान् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1033,6 +1101,7 @@ the kings of Sindhu, Sauviira and Sauraastra kingdoms may also be invited. [1-13
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1041,6 +1110,8 @@ the kings of Sindhu, Sauviira and Sauraastra kingdoms may also be invited. [1-13
 तानानय यथा क्षिप्रं सानुगान् सहबान्धवान् ।  
 एतान् दूतैर्महाभागैरानयस्व नृपाज्ञया ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1086,12 +1157,15 @@ orders of our king." Thus Sage Vashishta said to minister Sumantra. [1-13-28, 29
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठवाक्यं तच्छ्रुत्वा सुमन्त्रस्त्वरितं तदा ।  
 व्यादिशत् पुरुषांस्तत्र राज्ञामानयने शुभान् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,12 +1205,15 @@ all those kings to their kingdom. [1-13-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयमेव हि धर्मात्मा प्रयातो मुनिशासनात् ।  
 सुमन्त्रस्त्वरितो भूत्वा समानेतुं महामतिः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,12 +1252,15 @@ the rulers on the earth. [1-13-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते च कर्मान्तिकाः सर्वे वसिष्ठाय महर्षये ।  
 सर्वं निवेदयन्ति स्म यज्ञे यदुपकल्पितम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1213,6 +1293,7 @@ ritual works that are accomplished. [1-13-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1220,6 +1301,8 @@ ritual works that are accomplished. [1-13-32]
 अवज्ञया न दातव्यं कस्यचिल्लीलयापि वा ॥ ३३ ॥  
 अवज्ञया कृतं हन्याद् दातारं नात्र संशयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,12 +1349,15 @@ will kill the donor and there is no doubt about it." [1-13-33, 34a]
 
 इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कैश्चिदहोरात्रैरुपयाता महीक्षितः ॥ ३४ ॥  
 बहूनि रत्नान्यादाय राज्ञो दशरथस्य ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1313,6 +1399,7 @@ for Dasharatha. [1-13-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1320,6 +1407,8 @@ for Dasharatha. [1-13-34b, 35a]
 उपयाता नरव्याघ्र राजानस्तव शासनात् ।  
 मयापि सत्कृताः सर्वे यथार्हं राजसत्तम ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1363,12 +1452,15 @@ by me also as per their status. [1-13-35b, 36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञियं च कृतं सर्वं पुरुषैः सुसमाहितैः ।  
 निर्यातु च भवान् यष्टुं यज्ञायतनमन्तिकात् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1411,12 +1503,15 @@ the ritual place that is nearby, to perform your ritual." Said Sage Vashishta to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वकामैरुपहृतैरुपेतं वै समन्ततः ।  
 द्रष्टुमर्हसि राजेन्द्र मनसेव विनिर्मितम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1450,12 +1545,15 @@ of you see ritual hall that is as though built by your mere wish. [1-13-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा वसिष्ठवचनादृष्यशृङ्गस्य चोभयोः ।  
 दिवसे शुभनक्षत्रे निर्यातो जगतीपतिः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1510,6 +1608,7 @@ conducting any auspicious work.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1518,6 +1617,8 @@ conducting any auspicious work.
 यज्ञवाटं गताः सर्वे यथाशास्त्रं यथाविधि ।  
 श्रीमांश्च सह पत्नीभी राजा दीक्षामुपाविशत् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1649,5 +1750,6 @@ entered the ritual hall, to commence the ritual works thus. [1-13-40]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिमूरनॆय सर्ग पूर्णवायितु. ॥13॥
+</details>
 </details>
 

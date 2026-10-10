@@ -2,6 +2,8 @@
 title = "०७४ शबरीकथा"
 title_english = "074 Shabari gets salvation"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -23,6 +25,7 @@ to heaven.
 
 74. श्रीराम और लक्ष्मणका पम्पासरोवरके तटपर मतङ्गवनमें शबरीके आश्रमपर जाना, उसका सत्कार ग्रहण करना और उसके साथ मतङ्गवनको देखना, शबरीका अपने शरीरकी आहुति दे दिव्यधामको प्रस्थान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ to heaven.
 **आतस्थतुर्** दिशं गृह्य  
 **प्रतीचीं** नृवरात्मजौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +77,7 @@ passage to Pampa as shown by Kabandha. [3-74-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,6 +86,8 @@ passage to Pampa as shown by Kabandha. [3-74-1]
 वीक्षन्तौ **जग्मतुर्** द्रष्टुं  
 सुग्रीवं राम-लक्ष्मणौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,6 +128,7 @@ fruits on them moved forward to see Sugreeva. [3-74-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -128,6 +137,8 @@ fruits on them moved forward to see Sugreeva. [3-74-2]
 पम्पायाः **पश्चिमं तीरं**  
 राघवाव् **उपतस्थतुः** ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +177,7 @@ the moorland on the westward of Pampa Lake. [3-74-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -174,6 +186,8 @@ the moorland on the westward of Pampa Lake. [3-74-3]
 अपश्यतां ततस् तत्र  
 शबर्या रम्यम् आश्रमम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,6 +227,7 @@ idyllic hermitage of Shabari. [3-74-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,6 +236,8 @@ idyllic hermitage of Shabari. [3-74-4]
 सुरम्यम् अभिवीक्षन्तौ  
 **शबरीम् अभ्युपेयतुः** ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,6 +277,7 @@ several picturesque trees, those two came nigh of Shabari. [3-74-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -268,6 +286,8 @@ several picturesque trees, those two came nigh of Shabari. [3-74-5]
 **पादौ जग्राह** रामस्य  
 लक्ष्मणस्य च धीमतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,6 +321,7 @@ she braced the feet of Rama, and even that of sagacious Lakshmana, impressively.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -309,6 +330,8 @@ she braced the feet of Rama, and even that of sagacious Lakshmana, impressively.
 **ताम् उवाच** ततो रामः  
 श्रमणीं धर्मसंस्थिताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,6 +374,7 @@ and then Rama asked after that anchoress who is unflinchingly abiding in her dut
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -359,6 +383,8 @@ and then Rama asked after that anchoress who is unflinchingly abiding in her dut
 कच्चित् ते नियतः कोप  
 आहारश् च तपोधने ॥ ८ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +436,7 @@ E. Arnold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,6 +445,8 @@ E. Arnold.
 कच्चित् ते गुरुशुश्रूषा  
 सफला चारुभाषिणि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,6 +481,7 @@ with Shabari. [3-74-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -460,6 +490,8 @@ with Shabari. [3-74-9]
 शशंस शबरी वृद्धा  
 रामाय प्रत्यवस्थिता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,6 +534,7 @@ an adherent to the sublimated yogis of higher rank, informed Rama remaining in h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -510,6 +543,8 @@ an adherent to the sublimated yogis of higher rank, informed Rama remaining in h
 अद्य मे सफलं जन्म  
 गुरवश् च सुपूजिताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -569,6 +604,7 @@ Shabari: Yes, yes, so also I stand ennobled after envisaging you, just now...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -577,6 +613,8 @@ Shabari: Yes, yes, so also I stand ennobled after envisaging you, just now...'
 त्वयि देववरे राम  
 पूजिते पुरुषर्षभ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,6 +670,7 @@ birth no more. - Sir E. Arnold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -640,6 +679,8 @@ birth no more. - Sir E. Arnold.
 **गमिष्याम्य् अक्षयाल्ँ लोकांस्**  
 त्वत्प्रसादाद् अरिन्दम ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,6 +741,7 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -708,6 +750,8 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 इतस् ते **दिवम् आरूढा**  
 यान् अहं पर्यचारिषम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +769,7 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 
 ‘जब आप चित्रकूट पर्वतपर पधारे थे, उसी समय मेरे गुरुजन, जिनकी मैं सदा सेवा किया करती थी, अतुल कान्तिमान् विमानपर बैठकर यहाँसे दिव्य-लोकको चले गये ॥ १४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -737,6 +782,8 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 तं च दृष्ट्वा **वराल्ँ लोकान्**  
 अक्षयांस् त्वं **गमिष्यसि** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,6 +863,7 @@ I was, to welkin on your arriving at Chitrakuta... [3-74-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -826,6 +874,8 @@ I was, to welkin on your arriving at Chitrakuta... [3-74-14]
 तवार्थे पुरुषव्याघ्र  
 पम्पायास् तीर-सम्भवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +954,7 @@ ca | pashcaat nivedayaamaasa raaghaabhyaam dhR^iDhvrataa |*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -912,6 +963,8 @@ ca | pashcaat nivedayaamaasa raaghaabhyaam dhR^iDhvrataa |*
 **राघवः प्राह**, +++(परमार्थ-)+++विज्ञाने  
 तां नित्यम् अ-बहिष्-कृताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,6 +1014,7 @@ deeds but none is barred from esoteric knowledge.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -969,6 +1023,8 @@ deeds but none is barred from esoteric knowledge.
 श्रुतं प्रत्यक्षम् **इच्छामि**  
 **सन्द्रष्टुं** यदि मन्यसे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,6 +1071,7 @@ Matanga, whom this Shabari served that laboriously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1023,6 +1080,8 @@ Matanga, whom this Shabari served that laboriously.
 शबरी **दर्शयामास**  
 तावुभौ तद् वनं महत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1065,6 +1124,7 @@ On hearing those words voiced by Rama, Shabari started to show that unique woodl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1073,6 +1133,8 @@ On hearing those words voiced by Rama, Shabari started to show that unique woodl
 मतङ्ग-वनम् इत्येव  
 विश्रुतं रघुनन्दन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,6 +1151,7 @@ On hearing those words voiced by Rama, Shabari started to show that unique woodl
 
 रघुनन्दन! दट्टवाद मोडगळन्तॆ श्यामल मत्तु नाना प्रकारद पशु-पक्षिगळिन्द तुम्बिरुव ई वनद कडॆगॆ दृष्टि बीरु. इदु मतङ्गवन ऎन्दु विख्यातवागिदॆ.॥21½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1097,6 +1160,8 @@ On hearing those words voiced by Rama, Shabari started to show that unique woodl
 **जुहवां-चक्रिरे** +++(देहरूपं)+++ नीडं  
 मन्त्रवन् मन्त्र-पूजितम् ॥ २२ ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,6 +1209,7 @@ Ritual-fire; *juhaavaan* oblations in fire; *cakruH* conducted, worshipped.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1152,6 +1218,8 @@ Ritual-fire; *juhaavaan* oblations in fire; *cakruH* conducted, worshipped.
 **पुष्पोपहारं कुर्वन्ति**  
 श्रमाद् उद्वेपिभिः करैः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1210,6 +1278,7 @@ Reverend Bishop is the Bishop, but staffers are many.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1218,6 +1287,8 @@ Reverend Bishop is the Bishop, but staffers are many.
 द्योतयन्ती दिशः सर्वाः  
 श्रिया **वेद्य्** अतुलप्रभा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,6 +1332,7 @@ them... [3-74-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1269,6 +1341,8 @@ them... [3-74-24]
 चिन्तितेनागतान् **पश्य**  
 समेतान् **सप्त सागरान्** ॥ २५ ॥ +++(क4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,6 +1390,7 @@ bathing with well or vessel water is worst, in terms of holy baths.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1324,6 +1399,8 @@ bathing with well or vessel water is worst, in terms of holy baths.
 **अद्यापि न विशुष्यन्ति**  
 प्रदेशे रघुनन्दन ॥ २६ ॥ +++(क4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1364,6 +1441,7 @@ their hands... [3-74-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1372,6 +1450,8 @@ their hands... [3-74-26]
 पुष्पैः कुवलयैः सार्धं  
 **म्लानत्वं न** तु यान्ति वै ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1413,12 +1493,15 @@ gods, these are really those garlands, and indeed there is no discolouration to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्स्नं वनमिदं दृष्टं श्रोतव्यं च श्रुतं त्वया ।  
 तदिच्छाम्यभ्यनुज्ञाता त्यक्ष्याम्येतत् कलेवरम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1466,12 +1549,15 @@ of soul, called my body... to make that soul to move nigh of my teachers feet...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामिच्छाम्यहं गन्तुं समीपं भावितात्मनाम् ।  
 मुनीनामाश्रमो येषामहं च परिचारिणी ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1511,6 +1597,7 @@ of those contemplative souls..." Thus, she appealed to Rama. [3-74-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1519,6 +1606,8 @@ of those contemplative souls..." Thus, she appealed to Rama. [3-74-29]
 **प्रहर्षम्** अतुलं **लेभे**  
 **आश्चर्यम्** इति **चाब्रवीत्** ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1566,6 +1655,7 @@ has its own place...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1574,6 +1664,8 @@ has its own place...'
 अर्चितो ऽहं त्वया भद्रे  
 **गच्छ कामं** यथासुखम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1615,6 +1707,7 @@ with your masters... [3-74-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1631,6 +1724,8 @@ with your masters... [3-74-31]
 विराजयन्ती तं देशं  
 विद्युत्-सौदामनी यथा ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1707,6 +1802,7 @@ she went to heaven alone. [3-74-32, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1715,6 +1811,8 @@ she went to heaven alone. [3-74-32, 33a]
 तत् पुण्यं शबरी स्थानं  
 **जगामात्म-समाधिना** ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1781,5 +1879,6 @@ on this *pannagapu doma tera paikettavemayya…* So Shabari is rid of that illus
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥74॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००७ मन्त्रिगुणगौरवम्"
 title_english = "007 Estimable nature of king dasharatha s ministers"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala
@@ -27,6 +29,7 @@ The truthful and upright characters of the ministers of Dasharatha are portrayed
 
 तेषां गुणाः सप्तमे सर्गे -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ The truthful and upright characters of the ministers of Dasharatha are portrayed
 अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः ।  
 शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,12 +110,15 @@ The misters for the great soul from Ikshvaku kings of Emperor Dasharatha, are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धृष्टिर्जयन्तो विजयः सुराष्ट्रो राष्ट्रवर्धनः ।  
 अकोपो धर्मपालश्च सुमन्त्रश्चाष्टमोऽर्थवित् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,6 +167,7 @@ Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,6 +176,8 @@ Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are
 सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः ।  
 मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,6 +247,7 @@ Two venerable saints of eminence are religious ministers for they are authoritie
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -246,6 +258,8 @@ Two venerable saints of eminence are religious ministers for they are authoritie
 तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः ।  
 क्रोधात् कामार्थहेतोर्वा न ब्रूयुरनृतं वचः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +317,15 @@ All the ministers are well versed in scriptures, they shun bad deeds, skilful
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामविदितं किञ्चित् स्वेषु नास्ति परेषु वा ।  
 क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +365,15 @@ They never speak untruthful words in anger or in greed or for monetary reasons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशला व्यवहारेषु सौहृदेषु परीक्षिताः ।  
 प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +409,15 @@ They are efficient in administration and their friendships are well examined by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोशसङ्ग्रहणे युक्ता बलस्य च परिग्रहे ।  
 अहितं चापि पुरुषं न हिंस्युरविदूषकम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -435,12 +458,15 @@ In collections to their treasury and to militarise their armies they are dutiful
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः ।  
 शुचीनां रक्षितारश्च नित्यं विषयवासिनाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -482,12 +508,15 @@ They are valiant ones with engineered enthusiasm, administrators of political
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन् ।  
 सुतीक्ष्णदण्डाः सम्प्रेक्ष्य पुरुषस्य बलाबलम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,6 +552,7 @@ They do not persecute Brahman-s and Kshatriya-s to fill-up the treasury, and hig
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -531,6 +561,8 @@ They do not persecute Brahman-s and Kshatriya-s to fill-up the treasury, and hig
 क्वचिन्न दुष्टस्तत्रासीत् परदाररतिर्नरः ।  
 प्रशान्तं सर्वमेवासीद् राष्ट्रं पुरवरं च तत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,12 +624,15 @@ All of those ministers are clean administrators of kingdom, and are in league
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः ।  
 हितार्थाश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +679,15 @@ Well-dressed and well-decorated and they the ministers of King Dasharatha, obser
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः ।  
 विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +738,15 @@ They acquired good qualities from their mentors and they are renowned by their
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभितो गुणवन्तश्च न चासन् गुणवर्जिताः ।  
 सन्धिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,12 +781,15 @@ Versatile and virtuous are they the ministers and there is none who discarded
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु ।  
 नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -807,12 +851,15 @@ They are capable to keep up the confidentialities of strategies, and also capabl
 
 इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशैस्तैरमात्यैश्च राजा दशरथोऽनघः ।  
 उपपन्नो गुणोपेतैरन्वशासद् वसुन्धराम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -853,12 +900,15 @@ Accompanied with such of those effectual and good-natured ministers the exalted
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेक्ष्यमाणश्चारेण प्रजा धर्मेण रक्षयन् ।  
 प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,12 +934,15 @@ _________________
 
 दशरथनु गुप्तचरर मूलक तन्न मत्तु शत्रुराज्यद आगुहोगुगळ मेलॆ कण्णिडुत्तिद्दनु. धर्मदिन्द प्रजॆगळन्नु पालिसुत्ता, अधर्मदिन्द सदा दूरवागिद्दनु.॥21॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसङ्गरः+++(=सत्यसन्धिः)+++ ।  
 स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,6 +982,7 @@ He that most generous one among men, Dasharatha, while observing through spies,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -936,6 +990,8 @@ He that most generous one among men, Dasharatha, while observing through spies,
 मित्रवान्नतसामन्तः प्रतापहतकण्टकः ।  
 स शशास जगद् राजा दिवि देवपतिर्यथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,6 +1041,7 @@ Emperor Dasharatha has not encountered either a superior or an equal in his king
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -993,6 +1050,8 @@ Emperor Dasharatha has not encountered either a superior or an equal in his king
 स पार्थिवो दीप्तिमवाप युक्त-  
 स्तेजोमयैर्गोभिरिवोदितोऽर्कः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1205,5 +1264,6 @@ In the company of those ministers, who are conducive to the strategies, interest
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि एळनॆय सर्ग पूर्णवायितु. ॥7॥
+</details>
 </details>
 

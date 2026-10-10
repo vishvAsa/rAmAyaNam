@@ -2,6 +2,8 @@
 title = "०४४ रामेण मुद्रिकाप्रदानम्"
 title_english = "044 Rama gives ring to Hanuma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -23,12 +25,15 @@ Then Hanuma starts on the expedition with others.
 
 44. श्रीरामका हनुमान् जी को अँगूठी देकर भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशेषेण तु सुग्रीवो हनूमत्यर्थमुक्तवान् ।  
 स हि तस्मिन् हरिश्रेष्ठे निश्चितार्थोऽर्थसाधने ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +85,15 @@ he this Rama, the valorous scion of Ikshvaku, is the Cosmic Soul and Vishnu in h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च हनूमन्तं विक्रान्तमनिलात्मजम् ।  
 सुग्रीवः परमप्रीतः प्रभुः सर्ववनौकसाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,12 +132,15 @@ spoke to the venturesome son of Air-god, Hanuma. [4-44-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न भूमौ नान्तरिक्षे वा नाम्बरे नामरालये ।  
 नाप्सु वा गतिसङ्गं ते पश्यामि हरिपुङ्गव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,12 +183,15 @@ will not allow mortals like us to meander as we like. [4-44-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सासुराः सहगन्धर्वाः सनागनरदेवताः ।  
 विदिताः सर्वलोकास्ते ससागरधराधराः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,12 +233,15 @@ are known to you. [4-44-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतिर्वेगश्च तेजश्च लाघवं च महाकपे ।  
 पितुस्ते सदृशं वीर मारुतस्य महौजसः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,12 +284,15 @@ to your father Maaruti, the Air-god of marvelling dynamism. [4-44-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजसा वापि ते भूतं न समं भुवि विद्यते ।  
 तद् यथा लभ्यते सीता तत्त्वमेवानुचिन्तय ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +332,15 @@ think about that process as to how to access Seetha. [4-44-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वय्येव हनुमन्नस्ति बलं बुद्धिः पराक्रमः ।  
 देशकालानुवृत्तिश्च नयश्च नयपण्डित ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,12 +380,15 @@ yourself in abidance with time, place and ethicality." Thus Sugreeva said to Han
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कार्यसमासङ्गमवगम्य हनूमति ।  
 विदित्वा हनुमन्तं च चिन्तयामास राघवः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,12 +427,15 @@ as an efficient cause. [4-44-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा निश्चितार्थोऽयं हनूमति हरीश्वरः ।  
 निश्चितार्थतरश्चापि हनूमान् कार्यसाधने ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +475,15 @@ resolute in achieving the task. [4-44-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेवं प्रस्थितस्यास्य परिज्ञातस्य कर्मभिः ।  
 भर्त्रा परिगृहीतस्य ध्रुवः कार्यफलोदयः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +527,15 @@ the fruition of the task is certain." Thus, Rama pondered. [4-44-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्य महातेजा व्यवसायोत्तरं हरिम् ।  
 कृतार्थ इव संहृष्टः प्रहृष्टेन्द्रियमानसः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +575,15 @@ and his heart and senses are elated as if his purpose has been achieved. [4-44-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ तस्य ततः प्रीतः स्वनामाङ्कोपशोभितम् ।  
 अङ्गुलीयमभिज्ञानं राजपुत्र्याः परन्तपः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,12 +628,15 @@ as troop leader why this ring is given to Hanuma - are the debated topics. Pleas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन त्वां हरिश्रेष्ठ चिह्नेन जनकात्मजा ।  
 मत्सकाशादनुप्राप्तमनुद्विग्नानुपश्यति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ proximity, without apprehension. [4-44-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यवसायश्च ते वीर सत्त्वयुक्तश्च विक्रमः ।  
 सुग्रीवस्य च सन्देशः सिद्धिं कथयतीव मे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +722,15 @@ to you, are as if heralding achievement to me." Thus, Rama spoke to Hanuma while
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तद् गृह्य हरिश्रेष्ठः कृत्वा मूर्ध्नि कृताञ्जलिः ।  
 वन्दित्वा चरणौ चैव प्रस्थितः प्लवगर्षभः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +773,7 @@ feet of Rama, and then that noteworthy monkey started off. [4-44-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -734,6 +782,8 @@ feet of Rama, and then that noteworthy monkey started off. [4-44-15]
 गताम्बुदे व्योम्नि विशुद्धमण्डलः  
 शशीव नक्षत्रगणोपशोभितः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,6 +830,7 @@ sphere on a cloudless sky brightened by clusters of stars around. [4-44-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -788,6 +839,8 @@ sphere on a cloudless sky brightened by clusters of stars around. [4-44-16]
 पवनसुत यथाधिगम्यते सा  
 जनकसुता हनुमंस्तथा कुरुष्व ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -845,5 +898,6 @@ daughter, Seetha." Thus, Rama shouted at Hanuma flying in the sky. [4-44-17]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥44॥
+</details>
 </details>
 

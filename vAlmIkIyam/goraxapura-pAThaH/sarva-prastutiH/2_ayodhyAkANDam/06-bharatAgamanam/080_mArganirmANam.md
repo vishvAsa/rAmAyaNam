@@ -2,6 +2,8 @@
 title = "०८० मार्गनिर्माणम्"
 title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,6 +23,7 @@ built on the path.
 
 80. अयोध्यासे गङ्गातटतक सुरम्य शिविर और कूप आदिसे युक्त सुखद राजमार्गका निर्माण
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ built on the path.
 सूपकाराः सुधाकारा वंशचर्मकृतस्तथा ।  
 समर्था ये च द्रष्टारः पुरतश्च प्रतस्थिरे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -89,12 +94,15 @@ sallied forth in advance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु हर्षात् तमुद्देशं जनौघो विपुलः प्रयान् ।  
 अशोभत महावेगः सागरस्येव पर्वणि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -135,12 +143,15 @@ ocean on the day of the full moon having a gigantic commotion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते स्ववारं समास्थाय वर्त्मकर्मणि कोविदाः ।  
 करणैर्विविधोपेतैः पुरस्तात् सम्प्रतस्थिरे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,12 +194,15 @@ of men of their own proper place, marched ahead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लता वल्लीश्च गुल्मांश्च स्थाणूनश्मन एव च ।  
 जनास्ते चक्रिरे मार्गं छिन्दन्तो विविधान् द्रुमान् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -230,12 +244,15 @@ kinds of trees (which obstructed the way), they carved out a path.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवृक्षेषु च देशेषु केचिद् वृक्षानरोपयन् ।  
 केचित् कुठारैष्टङ्कैश्च दात्रैश्छिन्दन् क्वचित् क्वचित् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,6 +293,7 @@ here and there by means of axes, hatchets and sickles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -284,6 +302,8 @@ here and there by means of axes, hatchets and sickles.
 अपरेऽपूरयन् कूपान् पांसुभिः श्वभ्रमायतम् ।  
 निम्नभागांस्तथैवाशु समांश्चक्रुः समन्ततः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +365,15 @@ places here and there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बबन्धुर्बन्धनीयांश्च क्षोद्यान् सञ्चुक्षुदुस्तथा ।  
 बिभिदुर्भेदनीयांश्च तांस्तान् देशान् नरास्तदा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,12 +417,15 @@ be smashed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिरेण तु कालेन परिवाहान् बहूदकान् ।  
 चक्रुर्बहुविधाकारान् सागरप्रतिमान् बहून् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,12 +465,15 @@ were built (by constructing dams on rivulets).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्जलेषु च देशेषु खानयामासुरुत्तमान् ।  
 उदपानान् बहुविधान् वेदिकापरिमण्डितान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,6 +507,7 @@ around with platforms (to rest).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -486,6 +516,8 @@ around with platforms (to rest).
 चन्दनोदकसंसिक्तो नानाकुसुमभूषितः ।  
 बह्वशोभत सेनायाः पन्थाः सुरपथोपमः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,6 +568,7 @@ the path of celestials.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -544,6 +577,8 @@ the path of celestials.
 यो निवेशस्त्वभिप्रेतो भरतस्य महात्मनः ।  
 भूयस्तं शोभयामासुर्भूषाभिर्भूषणोपमम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,12 +634,15 @@ decorations, the tent which itself resembled on ornament.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नक्षत्रेषु प्रशस्तेषु मुहूर्तेषु च तद्विदः ।  
 निवेशान् स्थापयामासुर्भरतस्य महात्मनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,6 +682,7 @@ days when the stars were propitious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -654,6 +693,8 @@ days when the stars were propitious.
 विसर्पद्भिरिवाकाशे विटङ्काग्रविमानकैः ।  
 समुच्छ्रितैर्निवेशास्ते बभुः शक्रपुरोपमाः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,6 +751,7 @@ capitals of Indra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -720,6 +762,8 @@ capitals of Indra.
 नरेन्द्रमार्गः स तदा व्यराजत  
 क्रमेण रम्यः शुभशिल्पिनिर्मितः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -797,5 +841,6 @@ waters, abounding in great fish, flowed between woods and forests of every kind.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तनॆय सर्ग पूर्णवायितु.॥80॥
+</details>
 </details>
 

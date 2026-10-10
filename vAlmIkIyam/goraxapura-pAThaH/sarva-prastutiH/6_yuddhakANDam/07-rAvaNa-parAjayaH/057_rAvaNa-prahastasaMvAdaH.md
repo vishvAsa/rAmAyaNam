@@ -2,6 +2,8 @@
 title = "०५७ रावण-प्रहस्तसंवादः"
 title_english = "057 Ravana asks Prahasta to go to the battle"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ battle-field. The army of monkeys seized hold of trees and rocks, to attack the 
 
 57. प्रहस्तका रावणकी आज्ञासे विशाल सेनासहित युद्धके लिये प्रस्थान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनवधं श्रुत्वा क्रुद्धो वै राक्षसेश्वरः ।  
 किञ्चिद् दीनमुखश्चापि सचिवांस्तानुदैक्षत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,6 +71,7 @@ face, was enraged and looked towards his ministers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ face, was enraged and looked towards his ministers.
 ततस्तु रावणः पूर्वदिवसे राक्षसाधिपः ।  
 पुरीं परिययौ लङ्कां सर्वान् गुल्मानवेक्षितुम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ Demons then passed that forenoon in inspecting his defenses in the City of Lanka
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां राक्षसगणैर्गुप्तां गुल्मैर्बहुभिरावृताम् ।  
 ददर्श नगरीं राजा पताकाध्वजमालिनीम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ troops and decorated with banners and flags.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्धां तु नगरीं दृष्ट्वा रावणो राक्षसेश्वरः ।  
 उवाचात्महितं काले प्रहस्तं युद्धकोविदम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,12 +221,15 @@ was skilled in war-fare and who wished well of him even at a critical time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरस्योपनिविष्टस्य सहसा पीडितस्य ह ।  
 नान्ययुद्धात् प्रपश्यामि मोक्षं युद्धविशारद ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ battle for this city, which is besieged suddenly and being devastated."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं वा कुम्भकर्णो वा त्वं वा सेनापतिर्मम ।  
 इन्द्रजिद् वा निकुम्भो वा वहेयुर्भारमीदृशम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ none else could undertake such a task!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं बलमतः शीघ्रमादाय परिगृह्य च ।  
 विजयायाभिनिर्याहि यत्र सर्वे वनौकसः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +366,15 @@ midst and set forth in order to triumph over all those monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्याणादेव तूर्णं च चलिता हरिवाहिनी ।  
 नर्दतां राक्षसेन्द्राणां श्रुत्वा नादं द्रविष्यति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +417,15 @@ of monkeys will run away on hearing the raring sound of the leaders of demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चपला ह्यविनीताश्च चलचित्ताश्च वानराः ।  
 न सहिष्यन्ति ते नादं सिंहनादमिव द्विपाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -436,12 +465,15 @@ sound, as elephants the lion's roar."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्रुते च बले तस्मिन् रामः सौमित्रिणा सह ।  
 अवशस्ते निरालम्बः प्रहस्त वशमेष्यति ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,12 +513,15 @@ supportless, will fall into your power though unwillingly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपत्संशयिता श्रेयो नात्र निःसंशयीकृता ।  
 प्रतिलोमानुलोमं वा यत् तु नो मन्यसे हितम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -530,12 +565,15 @@ unpleasing to hear or not, say what you consider as an advantage to us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेनैवमुक्तस्तु प्रहस्तो वाहिनीपतिः ।  
 राक्षसेन्द्रमुवाचेदमसुरेन्द्रमिवोशना ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +613,15 @@ Ravana, like Ushana the preceptor of demons would speak to Bali, the king of dem
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् मन्त्रितपूर्वं नः कुशलैः सह मन्त्रिभिः ।  
 विवादश्चापि नो वृत्तः समवेक्ष्य परस्परम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +662,15 @@ having a good dialogue with each other, a disagreement arose between us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदानेन तु सीतायाः श्रेयो व्यवसितं मया ।  
 अप्रदाने पुनर्युद्धं दृष्टमेव तथैव नः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +710,15 @@ foresaw this."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं दानैश्च मानैश्च सततं पूजितस्त्वया ।  
 सान्त्वैश्च विविधैः काले किं न कुर्यां हितं तव ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +759,15 @@ nice words. When the opportunity arises, is it not for me to render you a servic
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवितं रक्ष्यं पुत्रदारधनानि च ।  
 त्वं पश्य मां जुहूषन्तं त्वदर्थे जीवितं युधि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +808,15 @@ intending to sacrifice my life for your sake in the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु भर्तारं रावणं वाहिनीपतिः ।  
 उवाचेदं बलाध्यक्षान् प्रहस्तः पुरतः स्थितान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,6 +856,7 @@ who stood before him as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -810,6 +864,8 @@ who stood before him as follows:
 मद‍्बाणानां तु वेगेन हतानां च रणाजिरे ॥ १८ ॥  
 अद्य तृप्यन्तु मांसादाः पक्षिणः काननौकसाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +883,15 @@ who stood before him as follows:
 
 नीनु शीघ्रवागि राक्षसर विशालवाद सैन्यवन्नु नन्न बळिगॆ करॆदुकॊण्डु बा. इन्दु मांसाहारि पक्षिगळु समराङ्गणदल्लि नन्न बाणगळिन्द सत्त वानरर मांस तिन्दु तृप्तरागुववु.॥18½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा बलाध्यक्षा महाबलाः ॥ १९ ॥  
 बलमुद्योजयामासुस्तस्मिन् राक्षसमन्दिरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +930,15 @@ beasts shall feed on the enemy that I strike down on the battle-field with my sw
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा बभूव मुहूर्तेन भीमैर्नानाविधायुधैः ॥ २० ॥  
 लङ्का राक्षसवीरैस्तैर्गजैरिव समाकुला ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,12 +978,15 @@ forces in the abode of that demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हुताशनं तर्पयतां ब्राह्मणांश्च नमस्यताम् ॥ २१ ॥  
 आज्यगन्धप्रतिवहः सुरभिर्मारुतो ववौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,12 +1026,15 @@ demon-warriors, resembling elephants and wielding various types of weaponry.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्रजश्च विविधाकारा जगृहुस्त्वभिमन्त्रिताः ॥ २२ ॥  
 सङ्ग्रामसज्जाः संहृष्टा धारयन् राक्षसास्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1075,15 @@ Brahmanas, a fragrant freeze bearing the scent of clarified butter, began to blo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सधनुष्काः कवचिनो वेगादाप्लुत्य राक्षसाः ॥ २३ ॥  
 रावणं प्रेक्ष्य राजानं प्रहस्तं पर्यवारयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1052,12 +1123,15 @@ different shapes, consecrated by certain Mantras (sacred formulas).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथामन्त्र्य तु राजानं भेरीमाहत्य भैरवाम् ॥ २४ ॥  
 आरुरोह रथं युक्तः प्रहस्तः सज्जकल्पितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,12 +1171,15 @@ their king Ravana, marched at a brisk pace and ranged themselves round Prahasta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयैर्महाजवैर्युक्तं सम्यक्सूतं सुसंयतम् ॥ २५ ॥  
 महाजलदनिर्घोषं साक्षाच्चन्द्रार्कभास्वरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1122,12 +1199,15 @@ _________________
 
 प्रहस्तन रथक्कॆ वेगशालि कुदुरॆगळन्नु हूडिद्दरु, सारथियू कुशलनागिद्दनु. आ रथवु पूर्णवागि सारथिय नियन्त्रणद्ललित्तु. अदु नडॆदाग महा मेघ गर्जनॆयन्तॆ शब्दमाडुत्तित्तु. रथवु प्रत्यक्ष चन्द्र-सूर्यरन्तॆ प्रकाशमानवागित्तु.॥25½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरगध्वजदुर्धर्षं सुवरूथं स्वपस्करम् ॥ २६ ॥  
 सुवर्णजालसंयुक्तं प्रहसन्तमिव श्रिया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,12 +1224,15 @@ _________________
 
 सर्प चिह्नॆय ध्वजदिन्दागि अदु दुर्धर्षवागि अनिसुत्तित्तु. रथद रक्षाकवचनवु सुन्दरवागित्तु. अदरल्लि श्रेष्ठ सामग्रिगळन्निरिसिदरु. अदु तन्न शान्तियिन्द नगुत्तिरुवन्तॆ कण्डुबरुत्तित्तु.॥26½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं रथमास्थाय रावणार्पितशासनः ॥ २७ ॥  
 लङ्काया निर्ययौ तूर्णं बलेन महता वृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1195,12 +1278,15 @@ were in its magnificence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दुन्दुभिनिर्घोषः पर्जन्यनिनदोपमः ।  
 वादित्राणां च निनदः पूरयन्निव मेदिनीम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,6 +1326,7 @@ from Lanka soon along with a huge army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1247,6 +1334,8 @@ from Lanka soon along with a huge army.
 निनदन्तः स्वरान् घोरान् राक्षसा जग्मुरग्रतः ॥ २९ ॥  
 भीमरूपा महाकायाः प्रहस्तस्य पुरःसराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1379,15 @@ roar of a cloud.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नरान्तकः कुम्भहनुर्महानादः समुन्नतः ।  
 प्रहस्तसचिवा ह्येते निर्ययुः परिवार्य तम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1335,12 +1427,15 @@ in front, as forerunners of Prahasta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यूढेनैव सुघोरेण पूर्वद्वारात् स निर्ययौ ।  
 गजयूथनिकाशेन बलेन महता वृतः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1380,12 +1475,15 @@ surrounding him on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरप्रतिमौघेन वृतस्तेन बलेन सः ।  
 प्रहस्तो निर्ययौ क्रुद्धः कालान्तकयमोपमः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1425,12 +1523,15 @@ arranged army, resembling a herd of elephants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य निर्याणघोषेण राक्षसानां च नर्दताम् ।  
 लङ्कायां सर्वभूतानि विनेदुर्विकृतैः स्वरैः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1470,12 +1571,15 @@ appearing like Death at the end of the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यभ्रमाकाशमाविश्य मांसशोणितभोजनाः ।  
 मण्डलान्यपसव्यानि खगाश्चक्रू रथं प्रति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1515,12 +1619,15 @@ drew sinister answering calls from all creatures in Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वमन्त्यः पावकज्वालाः शिवा घोरा ववाशिरे ।  
 अन्तरिक्षात् पपातोल्का वायुश्च परुषं ववौ ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1560,6 +1667,7 @@ to right towards the chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1569,6 +1677,8 @@ to right towards the chariot.
 केतुमूर्धनि गृध्रस्तु विलीनो दक्षिणामुखः ॥ ३७ ॥  
 नदन्नुभयतः पार्श्वं समग्रां श्रियमाहरत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1611,12 +1721,15 @@ from the sky and the wind blew harshly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारथेर्बहुशश्चास्य सङ्ग्राममवगाहतः ॥ ३८ ॥  
 प्रतोदो न्यपतद्धस्तात् सूतस्य हयसादिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1653,12 +1766,15 @@ front of it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्याणश्रीश्च या च स्याद् भास्वरा च सुदुर्लभा ॥ ३९ ॥  
 सा ननाश मुहूर्तेन समे च स्खलिता हयाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1702,12 +1818,15 @@ both of its sides and deprived the demon of his entire lustre.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहस्तं तं हि निर्यान्तं प्रख्यातगुणपौरुषम् ।  
 युधि नानाप्रहरणा कपिसेनाभ्यवर्तत ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1749,12 +1868,15 @@ entered the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ घोषः सुतुमुलो हरीणां समजायत ।  
 वृक्षानारुजतां चैव गुर्वीर्वै गृह्णतां शिलाः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1795,12 +1917,15 @@ instant and horses stumbled on the even ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नदतां राक्षसानां च वानराणां च गर्जताम् ।  
 उभे प्रमुदिते सैन्ये रक्षोगणवनौकसाम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1841,12 +1966,15 @@ advanced to give battle, the army of monkeys went forward to attack him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेगितानां समर्थानामन्योन्यवधकाङ्क्षिणाम् ।  
 परस्परं चाह्वयतां निनादः श्रूयते महान् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1886,6 +2014,7 @@ up the trees and seized hold of huge rocks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1894,6 +2023,8 @@ up the trees and seized hold of huge rocks.
 विवृद्धवेगां च विवेश तां चमूं  
 यथा मुमूर्षुः शलभो विभावसुम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1943,5 +2074,6 @@ shouts.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तेळनॆय सर्ग पूर्णवायितु.॥57॥
+</details>
 </details>
 

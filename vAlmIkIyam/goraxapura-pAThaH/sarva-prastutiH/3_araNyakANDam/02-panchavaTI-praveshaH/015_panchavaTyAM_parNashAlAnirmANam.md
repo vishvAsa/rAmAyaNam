@@ -2,6 +2,8 @@
 title = "०१५ पञ्चवट्यां पर्णशालानिर्माणम्"
 title_english = "015 The Panchavati"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda
@@ -24,6 +26,7 @@ Rama entrusts the construction work of a parNa shaala, straw-cottage
 
 15. पञ्चवटीके रमणीय प्रदेशमें श्रीरामकी आज्ञासे लक्ष्मणद्वारा सुन्दर पर्णशालाका निर्माण तथा उसमें सीता और लक्ष्मणसहित श्रीरामका निवास
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ Rama entrusts the construction work of a parNa shaala, straw-cottage
 उवाच लक्ष्मणं रामो  
 भ्रातरं दीप्ततेजसम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,6 +78,7 @@ brilliant Lakshmana. [3-15-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,6 +87,8 @@ brilliant Lakshmana. [3-15-1]
 अयं पञ्चवटीदेशः  
 सौम्य पुष्पितकाननः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +127,7 @@ forests is Panchavati." [3-15-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,6 +136,8 @@ forests is Panchavati." [3-15-2]
 आश्रमः कतरस्मिन् नो  
 देशे भवति सम्मतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,6 +176,7 @@ forest, and indeed you are an expert in such matters. [3-15-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,6 +190,8 @@ forest, and indeed you are an expert in such matters. [3-15-3]
 सन्निकृष्टं च यस्मिंस् तु  
 समित्-पुष्प-कुशोदकम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +253,7 @@ time, with his obedient service.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -248,6 +263,8 @@ time, with his obedient service.
 +++(उभाव् अय् उदीक्ष्य)+++  
 इदं वचनम् अब्रवीत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,6 +306,7 @@ of Seetha. [3-15-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -298,6 +316,8 @@ of Seetha. [3-15-6]
 स्वयं तु रुचिरे देशे  
 क्रियताम् इति मां वद ॥ ७ ॥+++(5)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -358,6 +378,7 @@ bhraataa yaviiyasaH| putravat ca api varteran jyeShTho bhraatari dharmataH || dh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,6 +387,8 @@ bhraataa yaviiyasaH| putravat ca api varteran jyeShTho bhraatari dharmataH || dh
 स तं रुचिरमाक्रम्य देशमाश्रमकर्मणि ।  
 हस्ते गृहीत्वा हस्तेन रामः सौमित्रिमब्रवीत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,12 +447,15 @@ of all the attributes. [3-15-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं देशः समः श्रीमान् पुष्पितैस्तरुभिर्वृतः ।  
 इहाश्रमपदं रम्यं यथावत् कर्तुमर्हसि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,12 +495,15 @@ hermitage here, traditionally. [3-15-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमादित्यसङ्काशैः पद्मैः सुरभिगन्धिभिः ।  
 अदूरे दृश्यते रम्या पद्मिनी पद्मशोभिता ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +550,15 @@ a propitious lake to have Vishnu and Lakshmi together.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाख्यातमगस्त्येन मुनिना भावितात्मना ।  
 इयं गोदावरी रम्या पुष्पितैस्तरुभिर्वृता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -572,12 +604,15 @@ beautified with kaarandava, and chakravaaka birds, as that contemplated soul sag
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंसकारण्डवाकीर्णा चक्रवाकोपशोभिता ।  
 नातिदूरे न चासन्ने मृगयूथनिपीडिता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,12 +629,15 @@ beautified with kaarandava, and chakravaaka birds, as that contemplated soul sag
 
 इदरल्लि हंस-कारण्डव मॊदलाद नीरुहक्किगळु विचरिसुत्तिवॆ. चक्रवाकगळु इदर शोभॆयन्नु हॆच्चिसिवॆ. नीरु कुडियलु बन्द जिङ्कॆगळ गुम्पु इदर तीरदल्लि आवरिसिदॆ. ई नदियु ई स्थानदिन्द हॆच्चु दूरविरदॆ बहळ हत्तिरदल्ले इदॆ.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयूरनादिता रम्याः प्रांशवो बहुकन्दराः ।  
 दृश्यन्ते गिरयः सौम्य फुल्लैस्तरुभिरावृताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +675,15 @@ by animal herds, sounded by peacocks, and they are neither far-off nor very near
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौवर्णै राजतैस्ताम्रैर्देशे देशे तथा शुभैः ।  
 गवाक्षिता इवाभान्ति गजाः परमभक्तिभिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,6 +731,7 @@ and as superb streaks of paintings on the bodies of elephants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -700,6 +742,8 @@ and as superb streaks of paintings on the bodies of elephants.
 स्यन्दनैश्चन्दनैर्नीपैः पर्णासैर्लकुचैरपि ।  
 धवाश्वकर्णखदिरैः शमीकिंशुकपाटलैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,12 +806,15 @@ and thus they brighten the mountains. [3-15-16, 17, 18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं पुण्यमिदं रम्यमिदं बहुमृगद्विजम् ।  
 इह वत्स्याम सौमित्रे सार्धमेतेन पक्षिणा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -806,12 +853,15 @@ us reside here along with this bird Jatayu." Thus said Rama to Lakshmana. [3-15-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण लक्ष्मणः परवीरहा ।  
 अचिरेणाश्रमं भ्रातुश्चकार सुमहाबलः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -851,6 +901,7 @@ briskly erected a hermitage for his brother. [3-15-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -861,6 +912,8 @@ briskly erected a hermitage for his brother. [3-15-20]
 समीकृततलां रम्यां चकार सुमहाबलः ।  
 निवासं राघवस्यार्थे प्रेक्षणीयमनुत्तमम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +980,15 @@ Raghava alone, and it resulted as a feast to the eye. [3-15-21, 22, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा लक्ष्मणः श्रीमान् नदीं गोदावरीं तदा ।  
 स्नात्वा पद्मानि चादाय सफलः पुनरागतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1027,15 @@ to the cottage. [3-15-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पुष्पबलिं कृत्वा शान्तिं च स यथाविधि ।  
 दर्शयामास रामाय तदाश्रमपदं कृतम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1016,12 +1075,15 @@ pravesha , entering a new house,] started to show the constructed hermitage to R
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं दृष्ट्वा कृतं सौम्यमाश्रमं सह सीतया ।  
 राघवः पर्णशालायां हर्षमाहारयत् परम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1060,12 +1122,15 @@ that straw-cottage. [3-15-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुसंहृष्टः परिष्वज्य बाहुभ्यां लक्ष्मणं तदा ।  
 अतिस्निग्धं च गाढं च वचनं चेदमब्रवीत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1105,12 +1170,15 @@ friendly words to him. [3-15-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रीतोऽस्मि ते महत् कर्म त्वया कृतमिदं प्रभो ।  
 प्रदेयो यन्निमित्तं ते परिष्वङ्गो मया कृतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1219,15 @@ what I have to give to you a hugging. [3-5-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भावज्ञेन कृतज्ञेन धर्मज्ञेन च लक्ष्मण ।  
 त्वया पुत्रेण धर्मात्मा न संवृत्तः पिता मम ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1217,12 +1288,15 @@ Rama said in this concept also that - 'my father is though 'dead', but 'born' ag
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं लक्ष्मणमुक्त्वा तु राघवो लक्ष्मिवर्धनः ।  
 तस्मिन् देशे बहुफले न्यवसत् स सुखं सुखी ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1270,12 +1344,15 @@ controlled' lived there. That is to suggest the overcoming of the enchantment of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कञ्चित् कालं स धर्मात्मा सीतया लक्ष्मणेन च ।  
 अन्वास्यमानो न्यवसत् स्वर्गलोके यथामरः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1325,5 +1402,6 @@ a Divinity in heavenly world for sometime to come. [3-15-30]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनैदनॆय सर्ग सम्पूर्णवायितु.॥15॥
+</details>
 </details>
 

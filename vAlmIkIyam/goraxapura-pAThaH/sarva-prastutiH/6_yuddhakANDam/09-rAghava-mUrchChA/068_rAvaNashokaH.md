@@ -2,6 +2,8 @@
 title = "०६८ रावणशोकः"
 title_english = "068 Ravana s grief over the deaths"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ in the past.
 
 68. कुम्भकर्णके वधका समाचार सुनकर रावणका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णं हतं दृष्ट्वा राघवेण महात्मना ।  
 राक्षसा राक्षसेन्द्राय रावणाय न्यवेदयन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ to Ravana, the king of demons (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् स कालसङ्काशः संयुक्तः कालकर्मणा ।  
 विद्राव्य वानरीं सेनां भक्षयित्वा च वानरान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,6 +116,7 @@ of monkeys and devouring some monkeys, met with death, the time's act."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +127,8 @@ of monkeys and devouring some monkeys, met with death, the time's act."
 कुम्भकर्णस्तव भ्राता काकुत्स्थशरपीडितः ।  
 अगण्डभूतो विवृतो दावदग्ध इव द्रुमः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +193,15 @@ the main gate of Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा विनिहतं सङ्ख्ये कुम्भकर्णं महाबलम् ।  
 रावणः शोकसन्तप्तो मुमोह च पपात च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -221,12 +235,15 @@ grief and fell down, fainted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृव्यं निहतं श्रुत्वा देवान्तकनरान्तकौ ।  
 त्रिशिराश्चातिकायश्च रुरुदुः शोकपीडिताः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,12 +283,15 @@ Atikaya were afflicted with sorrow and wept.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातरं निहतं श्रुत्वा रामेणाक्लिष्टकर्मणा ।  
 महोदरमहापार्श्वौ शोकाक्रान्तौ बभूवतुः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +332,15 @@ actions, Mahodara and Mahaparshva (step-brothers of Kumbhakarna) were overcome w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कृच्छ्रात् समासाद्य सञ्ज्ञां राक्षसपुङ्गवः ।  
 कुम्भकर्णवधाद् दीनो विललापाकुलेन्द्रियः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,12 +382,15 @@ follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा वीर रिपुदर्पघ्न कुम्भकर्ण महाबल ।  
 त्वं मां विहाय वै दैवाद् यातोऽसि यमसादनम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,12 +430,15 @@ behind, you have gone by divine will to the abode of Yama the lord of death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम शल्यमनुद‍्धृत्य बान्धवानां महाबल ।  
 शत्रुसैन्यं प्रताप्यैकः क्व मां सन्त्यज्य गच्छसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,12 +477,15 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदानीं खल्वहं नास्मि यस्य मे पतितो भुजः ।  
 दक्षिणोऽयं समाश्रित्य न बिभेमि सुरासुरात् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +526,15 @@ when I had no fear of celestials and ogres, has fallen down."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथमेवंविधो वीरो देवदानवदर्पहा ।  
 कालाग्निप्रतिमो ह्यद्य राघवेण रणे हतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +575,15 @@ an image of fire that was to destroy the world, was killed by Rama today in batt
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य ते वज्रनिष्पेषो न कुर्याद् व्यसनं सदा ।  
 स कथं रामबाणार्तः प्रसुप्तोऽसि महीतले ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +624,15 @@ thunder-bolt ever caused any fall, falling now insensibly on the earth's surface
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते देवगणाः सार्धमृषिभिर्गगने स्थिताः ।  
 निहतं त्वां रणे दृष्ट्वा निनदन्ति प्रहर्षिताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +676,15 @@ sky, are shouting with rejoice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवमद्यैव संहृष्टा लब्धलक्षाः प्लवङ्गमाः ।  
 आरोक्ष्यन्तीह दुर्गाणि लङ्काद्वाराणि सर्वशः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +725,15 @@ and now itself will ascend the inaccessible door-ways of Lanka here from all sid
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्येन नास्ति मे कार्यं किं करिष्यामि सीतया ।  
 कुम्भकर्णविहीनस्य जीविते नास्ति मे मतिः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +774,15 @@ intention to live, bereft of Kumbhakarna."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यहं भ्रातृहन्तारं न हन्मि युधि राघवम् ।  
 ननु मे मरणं श्रेयो न चेदं व्यर्थजीवितम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +823,15 @@ death, but in no case this useless life which has no meaning."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यैव तं गमिष्यामि देशं यत्रानुजो मम ।  
 नहि भ्रातॄन् समुत्सृज्य क्षणं जीवितुमुत्सहे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,12 +874,15 @@ wish to live even for a moment, after abandoning my brothers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा हि मां हसिष्यन्ति दृष्ट्वा पूर्वापकारिणम् ।  
 कथमिन्द्रं जयिष्यामि कुम्भकर्ण हते त्वयि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +923,15 @@ Kumbhakarna! Now that you are dead, how can I conquer Indra the lord of celestia
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं मामनुप्राप्तं विभीषणवचः शुभम् ।  
 यदज्ञानान्मया तस्य न गृहीतं महात्मनः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,12 +972,15 @@ ignorance, have come true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचस्तावत् कुम्भकर्णप्रहस्तयोः ।  
 विनाशोऽयं समुत्पन्नो मां व्रीडयति दारुणः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -958,12 +1020,15 @@ shameful."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यायं कर्मणः प्राप्तो विपाको मम शोकदः ।  
 यन्मया धार्मिकः श्रीमान् स निरस्तो विभीषणः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,6 +1069,7 @@ fruit of that painful deed has come to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1012,6 +1078,8 @@ fruit of that painful deed has come to me."
 न्यपतदपि दशाननो भृशार्त-  
 स्तमनुजमिन्द्ररिपुं हतं विदित्वा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,5 +1137,6 @@ demon, whose inner feelings were agitated, even sank down, extremely disturbed.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तॆण्टनॆ सर्ग पूर्णवायितु.॥68॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००४ राम-लक्ष्मणयोः सुग्रीवान्तिके नयनम्"
 title_english = "004 Lakshmana s narration to Hanuma"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -26,12 +28,15 @@ place where Sugreeva is hiding from Vali.
 
 4. लक्ष्मणका हनुमान् जी से श्रीरामके वनमें आने और सीताजीके हरे जानेका वृत्तान्त बताना तथा इस कार्यमें सुग्रीवके सहयोगकी इच्छा प्रकट करना, हनुमान् जी का उन्हें आश्वासन देकर उन दोनों भाइयोंको अपने साथ ले जाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टो हनुमान् कृत्यवानिति तद्वचः ।  
 श्रुत्वा मधुरभावं च सुग्रीवं मनसा गतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ that Sugreeva's effort is going to fructify. [4-4-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भाव्यो राज्यागमस्तस्य सुग्रीवस्य महात्मनः ।  
 यदयं कृत्यवान् प्राप्तः कृत्यं चैतदुपागतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ Sugreeva, and thus all this has came by..." thus thought Hanuma. [4-4-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमसंहृष्टो हनूमान् प्लवगोत्तमः ।  
 प्रत्युवाच ततो वाक्यं रामं वाक्यविशारदः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ over, out of 24,000 of the total epic.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं त्वं वनं घोरं पम्पाकाननमण्डितम् ।  
 आगतः सानुजो दुर्गं नानाव्यालमृगायुतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,12 +230,15 @@ Hanuma asked Rama. [4-4-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा लक्ष्मणो रामचोदितः ।  
 आचचक्षे महात्मानं रामं दशरथात्मजम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ great soul Rama, the son of Dasharatha. [4-4-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो नाम द्युतिमान् धर्मवत्सलः ।  
 चातुर्वर्ण्यं स्वधर्मेण नित्यमेवाभिपालयन् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +321,15 @@ four-caste system... [4-4-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कञ्चन ।  
 स तु सर्वेषु भूतेषु पितामह इवापरः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +368,15 @@ like the Grandparent Brahma on earth... [4-4-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निष्टोमादिभिर्यज्ञैरिष्टवानाप्तदक्षिणैः ।  
 तस्यायं पूर्वजः पुत्रो रामो नाम जनैः श्रुतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +418,15 @@ the name of Rama... [4-4-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरण्यः सर्वभूतानां पितुर्निर्देशपारगः ।  
 ज्येष्ठो दशरथस्यायं पुत्राणां गुणवत्तरः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,12 +446,15 @@ _________________
 
 इवरु ऎल्ल प्राणिगळिगॆ आश्रयकॊडुववरू, तन्दॆय आज्ञॆयन्नु पालिसुववरू आगिद्दारॆ. महाराज दशरथन नाल्कु पुत्ररल्लि इवरु ऎल्लरिगिन्त हॆच्चु गुणवन्तरागिद्दारॆ.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजलक्षणसंयुक्तः संयुक्तो राज्यसम्पदा ।  
 राज्याद् भ्रष्टो मया वस्तुं वने सार्धमिहागतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,12 +497,15 @@ forests... nevertheless, followed by me...[4-4-9, 10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्यया च महाभाग सीतयानुगतो वशी ।  
 दिनक्षये महातेजाः प्रभयेव दिवाकरः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,12 +551,15 @@ resplendence when the day is abated... [4-4-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमस्यावरो भ्राता गुणैर्दास्यमुपागतः ।  
 कृतज्ञस्य बहुज्ञस्य लक्ष्मणो नाम नामतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,6 +599,7 @@ knowledgeable one, and his younger brother, by name I am named as Lakshmana... [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -569,6 +608,8 @@ knowledgeable one, and his younger brother, by name I am named as Lakshmana... [
 रक्षसापहृता भार्या रहिते कामरूपिणा ।  
 तच्च न ज्ञायते रक्षः पत्नी येनास्य वा हृता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,6 +668,7 @@ woods his wife is stolen, paving a way for him to embark on his above mission.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -635,6 +677,8 @@ woods his wife is stolen, paving a way for him to embark on his above mission.
 स ज्ञास्यति महावीर्यस्तव भार्यापहारिणम् ।  
 एवमुक्त्वा दनुः स्वर्गं भ्राजमानो दिवं गतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,12 +729,15 @@ his demon-hood, moved skyward and went away to heavens while becoming self-lumin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् ते सर्वमाख्यातं याथातथ्येन पृच्छतः ।  
 अहं चैव च रामश्च सुग्रीवं शरणं गतौ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +780,15 @@ have our recourse to Sugreeva alone... [4-4-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष दत्त्वा च वित्तानि प्राप्य चानुत्तमं यशः ।  
 लोकनाथः पुरा भूत्वा सुग्रीवं नाथमिच्छति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +828,15 @@ was the lord of this world earlier, now accepts the lordship of Sugreeva... [4-4
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीता यस्य स्नुषा चासीच्छरण्यो धर्मवत्सलः ।  
 तस्य पुत्रः शरण्यश्च सुग्रीवं शरणं गतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -826,12 +879,15 @@ daughter-in-law, such a shelterer's son Rama is now taking shelter under Sugreev
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलोकस्य धर्मात्मा शरण्यः शरणं पुरा ।  
 गुरुर्मे राघवः सोऽयं सुग्रीवं शरणं गतः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,12 +922,15 @@ for all in earlier times... such a Raaghava, my mentor, is now seeking refuge wi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य प्रसादे सततं प्रसीदेयुरिमाः प्रजाः ।  
 स रामो वानरेन्द्रस्य प्रसादमभिकाङ्क्षते ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,6 +970,7 @@ seeking benefaction from the lord of monkeys... [4-4-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -919,6 +979,8 @@ seeking benefaction from the lord of monkeys... [4-4-21]
 तस्यायं पूर्वजः पुत्रस्त्रिषु लोकेषु विश्रुतः ।  
 सुग्रीवं वानरेन्द्रं तु रामः शरणमागतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,12 +1034,15 @@ shelter under monkeys lord Sugreeva... [4-4-22, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकाभिभूते रामे तु शोकार्ते शरणं गते ।  
 कर्तुमर्हति सुग्रीवः प्रसादं सह यूथपैः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,12 +1086,15 @@ Lakshmana said thus to Hanuma. [4-4-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं सौमित्रिं करुणं साश्रुपातनम् ।  
 हनूमान् प्रत्युवाचेदं वाक्यं वाक्यविशारदः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1137,15 @@ lettered Hanumaan said this in his return. [4-4-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशा बुद्धिसम्पन्ना जितक्रोधा जितेन्द्रियाः ।  
 द्रष्टव्या वानरेन्द्रेण दिष्ट्या दर्शनमागताः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1114,12 +1185,15 @@ the chief of monkeys Sugreeva, for your advent is godsend... [4-4-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि राज्याश्च विभ्रष्टः कृतवैरश्च वालिना ।  
 हृतदारो वने त्रस्तो भ्रात्रा विनिकृतो भृशम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1161,12 +1235,15 @@ own brother Vali, that Sugreeva is roaming about forests fearing him alone, his 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करिष्यति स साहाय्यं युवयोर्भास्करात्मजः ।  
 सुग्रीवः सह चास्माभिः सीतायाः परिमार्गणे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,12 +1283,15 @@ like Vanara-s in searching Seetha..." [4-4-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा हनुमान् श्लक्ष्णं मधुरया गिरा ।  
 बभाषे साधु गच्छामः सुग्रीवमिति राघवम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1251,12 +1331,15 @@ Thus Hanuman on speaking melodious words with politeness, also said to Raghava a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवन्तं धर्मात्मा हनूमन्तं स लक्ष्मणः ।  
 प्रतिपूज्य यथान्यायमिदं प्रोवाच राघवम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1299,12 +1382,15 @@ to an envoy, and spoke this to Rama... [4-4-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिः कथयते हृष्टो यथायं मारुतात्मजः ।  
 कृत्यवान् सोऽपि सम्प्राप्तः कृतकृत्योऽसि राघव ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1346,12 +1432,15 @@ them seems to fulfil your mission... [4-4-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसन्नमुखवर्णश्च व्यक्तं हृष्टश्च भाषते ।  
 नानृतं वक्ष्यते वीरो हनूमान् मारुतात्मजः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1395,12 +1484,15 @@ Hanuma, isn't it!" So said Laskhmana to Rama [4-4-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स सुमहाप्राज्ञो हनूमान् मारुतात्मजः ।  
 जगामादाय तौ वीरौ हरिराजाय राघवौ ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1443,12 +1535,15 @@ Raghava-s to go to the king of monkeys Sugreeva. [4-4-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिक्षुरूपं परित्यज्य वानरं रूपमास्थितः ।  
 पृष्ठमारोप्य तौ वीरौ जगाम कपिकुञ्जरः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1489,6 +1584,7 @@ monkey's form, and mounting those two valiant ones onto his back he proceeded to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1497,6 +1593,8 @@ monkey's form, and mounting those two valiant ones onto his back he proceeded to
 गिरिवरमुरुविक्रमः प्रयातः  
 स शुभमतिः सह रामलक्ष्मणाभ्याम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1552,5 +1650,6 @@ gladly travelled to that mountain where Sugreeva is abiding, along with Rama and
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नाल्कनॆय सर्ग सम्पूर्णवायितु. ॥4॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०३६ सिद्धार्थस्य कैकेय्युपदेशः"
 title_english = "036 Siddhartha tries to persuade Kaikeyi"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-036-Sidhdhardasya_Kaikeyyupadeshaha.mp3"></div>
 </details>
@@ -9,6 +11,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 <details><summary>भागसूचना</summary>
 
 36. राजा दशरथका श्रीरामके साथ सेना और खजाना भेजनेका आदेश, कैकेयीद्वारा इसका विरोध, सिद्धार्थका कैकेयीको समझाना तथा राजाका श्रीरामके साथ जानेकी इच्छा प्रकट करना
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18,6 +21,8 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 सबाष्पम् **अति निःश्वस्य**  
 **जगादेदं** पुनर्वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,6 +67,7 @@ agian to Sumantra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -70,6 +76,8 @@ agian to Sumantra.
 राघवस्यानुयात्रार्थं  
 क्षिप्रं **प्रतिविधीयताम्** ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +117,7 @@ filled with the best of its kind, be arranged immediately"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,6 +126,8 @@ filled with the best of its kind, be arranged immediately"
 **शोभयन्तु** कुमारस्य  
 वाहिनीः सुप्रसारिताः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,6 +167,7 @@ exposure for extension of sales bestow elegance to the forces of the Prince"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -164,6 +176,8 @@ exposure for extension of sales bestow elegance to the forces of the Prince"
 तेषां बहुविधं **दत्त्वा**  
 तानप्यत्र **नियोजय** ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,6 +218,7 @@ dependent on Rama and on whom he took delight in gallantry"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -212,6 +227,8 @@ dependent on Rama and on whom he took delight in gallantry"
 **अनुगच्छन्तु** काकुत्स्थं  
 व्याधाश् चारण्यकोविदाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,6 +268,7 @@ of forest accompany Rama(scion of Kakutsa)"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -259,6 +277,8 @@ of forest accompany Rama(scion of Kakutsa)"
 नदीश्च विविधाः **पश्यन्**  
 न राज्यं **संस्मरिष्यति** ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,6 +319,7 @@ not remember of sovereignty"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +328,8 @@ not remember of sovereignty"
 तौ रामम् **अनुगच्छेतां**  
 वसन्तं निर्जने वने ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,6 +370,7 @@ uninhabited forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -355,6 +379,8 @@ uninhabited forest."
 ऋषिभिश् चापि **सङ्गम्य**  
 **प्रवत्स्यति** सुखं वने ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,6 +421,7 @@ disbursing appropriate gifts, along with sages living in the forest "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -403,6 +430,8 @@ disbursing appropriate gifts, along with sages living in the forest "
 सर्वकामैः पुनः श्रीमान्  
 रामः **संसाध्यताम्** इति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,6 +471,7 @@ all objects of enjoyment"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -450,6 +480,8 @@ all objects of enjoyment"
 मुखं चाप्य् अगमच् छोषं  
 स्वरश् चापि **व्यरुध्यत** ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,6 +524,7 @@ parched. her voice also got choked.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -500,6 +533,8 @@ parched. her voice also got choked.
 राजानम् एवाभिमुखी  
 कैकेयी वाक्यम् **अब्रवीत्** ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,6 +574,7 @@ turned towards the king, Kaikeyi spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -547,6 +583,8 @@ turned towards the king, Kaikeyi spoke as follows:
 निरास्वाद्यतमं शून्यं  
 भरतो **नाभिपत्स्यते** ॥ १२ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,6 +636,7 @@ which will be absolutely unenjoyable like wine, quaffed of its spiriteous part, 
 ಅದೇನಿದ್ದರೂ ಸ್ವಾರಸ್ಯವಿಲ್ಲದ, ಮದವೇರದ ಹೆಂಡದ ಬುರುಡೆಯಂತೆಂದು  
 ಆಕ್ಷೇಪಿಸುವ ಕೈಕೇಯಿಯ ಸಂಸ್ಕಾರ ಈ ಒಂದು ಉಪಮೆಯಿಂದಲೇ ಬಟ್ಟ ಬಯಲಾಗಿದೆ.+++(5)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -606,6 +645,8 @@ which will be absolutely unenjoyable like wine, quaffed of its spiriteous part, 
 राजा दशरथो वाक्यम्  
 **उवाचायतलोचनाम्** ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,6 +686,7 @@ King Dasaratha spoke these words to that lady with large eyes:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -653,6 +695,8 @@ King Dasaratha spoke these words to that lady with large eyes:
 अनार्ये कृत्यम् आरब्धं  
 **किं न** पूर्वम् **उपारुधः** ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,6 +739,7 @@ begining itself, Oh the vulgar woman!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -703,6 +748,8 @@ begining itself, Oh the vulgar woman!"
 कैकेयी द्विगुणं क्रुद्धा  
 राजानम् इदम् **अब्रवीत्** ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,6 +790,7 @@ woman replied to the king as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -751,6 +799,8 @@ woman replied to the king as follows:
 असमञ्ज इति ख्यातं  
 तथायं **गन्तुम् अर्हति** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,6 +835,7 @@ Sagara; *upaarudhat* = cast away; *jyeshhTa putram* = his eldest son;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -793,6 +844,8 @@ Sagara; *upaarudhat* = cast away; *jyeshhTa putram* = his eldest son;
 व्रीडितश्च जनः सर्वः  
 सा च तन् **नावबुध्यत** ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,6 +886,7 @@ there were ashamed. But Kaikeyi did not perceive it"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -841,6 +895,8 @@ there were ashamed. But Kaikeyi did not perceive it"
 शुचिर् बहुमतो राज्ञः  
 कैकेयीम् इदम् **अब्रवीत्** ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,6 +937,7 @@ esteemed by the king, spoke to Kaikeyi these words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +946,8 @@ esteemed by the king, spoke to Kaikeyi these words:
 सरय्वां **प्रक्षिपन्न्** अप्सु  
 रमते तेन दुर्मतिः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,6 +991,7 @@ throwing them in the waters of saryu river, took delight in it"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -940,6 +1000,8 @@ throwing them in the waters of saryu river, took delight in it"
 असमञ्जं वृणीष्वैकम्  
 अस्मान् वा राष्ट्रवर्धन ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,6 +1042,7 @@ to keep yourself Asamanja alone or to preserve us, Oh the promoter of the state!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -988,6 +1051,8 @@ to keep yourself Asamanja alone or to preserve us, Oh the promoter of the state!
 ताश्चापि राज्ञा सम्पृष्टा  
 वाक्यं प्रकृतयो **ऽब्रुवन्** ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,6 +1093,7 @@ king, those people also replied these words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1036,6 +1102,8 @@ king, those people also replied these words:
 सरय्वां प्रक्षिपन् मौर्ख्याद्  
 अतुलां **प्रीतिम् अश्नुते** ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1076,6 +1144,7 @@ children in sarayu river in a whirled state of mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1084,6 +1153,8 @@ children in sarayu river in a whirled state of mind."
 तं **तत्याजाहितं** पुत्रं  
 तासां प्रियचिकीर्षया ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1123,6 +1194,7 @@ subjects, in a bid to do good to them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1131,6 +1203,8 @@ subjects, in a bid to do good to them.
 यावज्-जीवं विवास्यो  
 ऽयम् इति **तान् अन्वशात्** पिता ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,6 +1247,7 @@ paraphrenalia (like utensils, implements etc) in a vehicle, the king instructed 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,6 +1260,8 @@ paraphrenalia (like utensils, implements etc) in a vehicle, the king instructed 
 रामः **किम् अकरोत्**  
 पापं येनैवम् **उपरुध्यते** ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,6 +1322,7 @@ passes, by taking a basket and a shovel.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1253,6 +1331,8 @@ passes, by taking a basket and a shovel.
 **दुर्लभो** ह्य् अस्य **निरयः**  
 शशाङ्कस्येव कल्मषम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1292,6 +1372,7 @@ him as in a new moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1300,6 +1381,8 @@ him as in a new moon.
 तमद्य **ब्रूहि** तत्त्वेन  
 तदा रामो **विवास्यते** ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1343,6 +1426,7 @@ Rama will be exiled."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1351,6 +1435,8 @@ Rama will be exiled."
 **निर्दहेद्** अपि शक्रस्य  
 द्युतिं धर्मविरोधवान् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1394,6 +1480,7 @@ devoted to a good path, it would consume the splendour of even Indra (the ruler 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1402,6 +1489,8 @@ devoted to a good path, it would consume the splendour of even Indra (the ruler 
 लोकतोऽपि हि ते रक्ष्यः  
 **परिवादः** शुभानने ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1444,6 +1533,7 @@ lady with a charming face! Even blame from the public should be taken care of by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1452,6 +1542,8 @@ lady with a charming face! Even blame from the public should be taken care of by
 शोकोपहतया वाचा  
 कैकेयीम् इदम् **अब्रवीत्** ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1494,6 +1586,7 @@ tiresome tone, with a voice choked with deep anguish, as follows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1502,6 +1595,8 @@ tiresome tone, with a voice choked with deep anguish, as follows.
 **आस्थाय** मार्गं कृपणं कुचेष्टा  
 चेष्टा हि ते साधु-पथाद् **अपेता** ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1549,6 +1644,7 @@ own. Your action is deprived of a righteous path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1557,6 +1653,8 @@ own. Your action is deprived of a righteous path."
 सर्वे च राज्ञा भरतेन च त्वं  
 यथासुखं **भुङ्क्ष्व** चिराय राज्यम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1617,5 +1715,6 @@ enjoy the kingdom for a long time, happily together with Bharata the King."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तारनॆय सर्ग पूर्णवायितु.॥36॥
+</details>
 </details>
 

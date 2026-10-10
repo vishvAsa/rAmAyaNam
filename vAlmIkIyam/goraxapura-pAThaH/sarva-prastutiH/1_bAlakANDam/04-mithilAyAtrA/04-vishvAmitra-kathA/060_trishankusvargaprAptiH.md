@@ -2,6 +2,8 @@
 title = "०६० त्रिशङ्कुस्वर्गप्राप्तिः"
 title_english = "060 trishanku s ascension to heaven"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The
@@ -24,12 +26,15 @@ also allow Trishanku to inhibit that pseudo Creation, but with an upside down po
 
 60. विश्वामित्रका ऋषियोंसे त्रिशंकुका यज्ञ करानेके लिये अनुरोध, ऋषियोंद्वारा यज्ञका आरम्भ, त्रिशंकुका सशरीर स्वर्गगमन, इन्द्रद्वारा स्वर्गसे उनके गिराये जानेपर क्षुब्ध हुए विश्वामित्रका नूतन देवसर्गके लिये उद्योग, फिर देवताओंके अनुरोधसे उनका इस कार्यसे विरत होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपोबलहतान् ज्ञात्वा वासिष्ठान् समहोदयान् ।  
 ऋषिमध्ये महातेजा विश्वामित्रोऽभ्यभाषत ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ continued his narration of Trishanku's legend. [1-60-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमिक्ष्वाकुदायादस्त्रिशङ्कुरिति विश्रुतः ।  
 धर्मिष्ठश्च वदान्यश्च मां चैव शरणं गतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,6 +119,7 @@ started to speak to sages. [1-60-2, 3b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +127,8 @@ started to speak to sages. [1-60-2, 3b]
 यथायं स्वशरीरेण देवलोकं गमिष्यति ॥ ३ ॥  
 तथा प्रवर्त्यतां यज्ञो भवद्भिश्च मया सह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,6 +163,7 @@ the heaven of gods.' Thus Vishvamitra advised the conductors of the ritual. [1-6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -160,6 +172,8 @@ the heaven of gods.' Thus Vishvamitra advised the conductors of the ritual. [1-6
 अयं कुशिकदायादो मुनिः परमकोपनः ॥ ५ ॥  
 यदाह वचनं सम्यगेतत् कार्यं न संशयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +210,7 @@ Vedic-rituals, but such a ritual is desultory. [1-60-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,6 +218,8 @@ Vedic-rituals, but such a ritual is desultory. [1-60-4b, 5a]
 तस्मात् प्रवर्त्यतां यज्ञः सशरीरो यथा दिवि ।  
 गच्छेदिक्ष्वाकुदायादो विश्वामित्रस्य तेजसा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +280,15 @@ being an extremely furious person. Otherwise this awesome sage gives curse, ranc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रवर्त्यतां यज्ञः सर्वे समधितिष्ठत ।  
 एवमुक्त्वा महर्षयः सञ्जह्रुस्ताः क्रियास्तदा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +329,7 @@ Vishvamitra himself became its principal officiator. [1-60-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -316,6 +337,8 @@ Vishvamitra himself became its principal officiator. [1-60-8b, 9a]
 ऋत्विजश्चानुपूर्व्येण मन्त्रवन्मन्त्रकोविदाः ॥ ९ ॥  
 चक्रुः सर्वाणि कर्माणि यथाकल्पं यथाविधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,6 +374,7 @@ for conducting such rituals. [1-60-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -358,6 +382,8 @@ for conducting such rituals. [1-60-9b, 10a]
 चकारावाहनं तत्र भागार्थं सर्वदेवताः ।  
 नाभ्यागमंस्तदा तत्र भागार्थं सर्वदेवताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,12 +418,15 @@ oblations in that ritual. [1-60-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कोपसमाविष्टो विश्वामित्रो महामुनिः ।  
 स्रुवमुद्यम्य सक्रोधस्त्रिशङ्कुमिदमब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,12 +466,15 @@ and said this to Trishanku. [1-60-11b, 12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य मे तपसो वीर्यं स्वार्जितस्य नरेश्वर ।  
 एष त्वां स्वशरीरेण नयामि स्वर्गमोजसा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,6 +519,7 @@ of people, now you will go to heaven with your own mortal body, which is otherwi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -494,6 +527,8 @@ of people, now you will go to heaven with your own mortal body, which is otherwi
 स्वार्जितं किञ्चिदप्यस्ति मया हि तपसः फलम् ॥ १४ ॥  
 राजंस्त्वं तेजसा तस्य सशरीरो दिवं व्रज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +576,15 @@ heaven with your own body owing to that prowess of my ascesis.' Vishvamitra said
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्ये मुनौ तस्मिन् सशरीरो नरेश्वरः ॥ १५ ॥  
 दिवं जगाम काकुत्स्थ मुनीनां पश्यतां तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -580,12 +618,15 @@ with his mortal body, before the very eyes of other sages." Sage Shataananda con
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गलोकं गतं दृष्ट्वा त्रिशङ्कुं पाकशासनः ॥ १६ ॥  
 सह सर्वैः सुरगणैरिदं वचनमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +663,15 @@ sentence together with all the multitudes of gods. [1-60-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिशङ्को गच्छ भूयस्त्वं नासि स्वर्गकृतालयः ॥ १७ ॥  
 गुरुशापहतो मूढ पत भूमिमवाक्शिराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +714,15 @@ inversed. [1-60-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महेन्द्रेण त्रिशङ्कुरपतत् पुनः ॥ १८ ॥  
 विक्रोशमानस्त्राहीति विश्वामित्रं तपोधनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +759,15 @@ me, save me,' and fell down from heaven. [1-60-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य क्रोशमानस्य कौशिकः ॥ १९ ॥  
 रोषमाहारयत् तीव्रं तिष्ठ तिष्ठेति चाब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -751,6 +801,7 @@ abnormal anger and also said, 'wait... wait...' [1-60-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -758,6 +809,8 @@ abnormal anger and also said, 'wait... wait...' [1-60-19b, 20a]
 सृजन् दक्षिणमार्गस्थान् सप्तर्षीनपरान् पुनः ।  
 नक्षत्रवंशमपरमसृजत् क्रोधमूर्च्छितः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,6 +876,7 @@ constellation is still available in southern hemisphere - is a point left to ast
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -831,6 +885,8 @@ constellation is still available in southern hemisphere - is a point left to ast
 अन्यमिन्द्रं करिष्यामि लोको वा स्यादनिन्द्रकः ।  
 दैवतान्यपि स क्रोधात् स्रष्टुं समुपचक्रमे ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -871,12 +927,15 @@ without any Indra,' and when he is about to proceed to clone even gods in his wr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमसम्भ्रान्ताः सर्षिसङ्घाः सुरासुराः ।  
 विश्वामित्रं महात्मानमूचुः सानुनयं वचः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +968,15 @@ of hermits addressed the great-souled Vishvamitra with placatory words. [1-60-24
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं राजा महाभाग गुरुशापपरिक्षतः ।  
 सशरीरो दिवं यातुं नार्हत्येव तपोधन ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +1011,15 @@ wealthy sage, he is not at all eligible to go to heaven with his mortal body.' S
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा देवानां मुनिपुङ्गवः ।  
 अब्रवीत् सुमहद् वाक्यं कौशिकः सर्वदेवताः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,12 +1055,15 @@ to all of the gods. [1-60-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सशरीरस्य भद्रं वस्त्रिशङ्कोरस्य भूपतेः ।  
 आरोहणं प्रतिज्ञातं नानृतं कर्तुमुत्सहे ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,6 +1097,7 @@ his mortal body, and I am not interested to make it untrue. [1-60-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1037,6 +1106,8 @@ his mortal body, and I am not interested to make it untrue. [1-60-27]
 यावल्लोका धरिष्यन्ति तिष्ठन्त्वेतानि सर्वशः ।  
 यत् कृतानि सुराः सर्वे तदनुज्ञातुमर्हथ ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1084,6 +1155,7 @@ It will be apt of you all gods to accede to this.' So said Vishvamitra to gods. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1095,6 +1167,8 @@ It will be apt of you all gods to accede to this.' So said Vishvamitra to gods. 
 अनुयास्यन्ति चैतानि ज्योतींषि नृपसत्तमम् ॥ ३२ ॥  
 कृतार्थं कीर्तिमन्तं च स्वर्गलोकगतं यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,12 +1255,15 @@ be annulled, and he will be gleaming like a star and similar to any celestial. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रस्तु धर्मात्मा सर्वदेवैरभिष्टुतः ॥ ३३ ॥  
 ऋषिमध्ये महातेजा बाढमित्येव देवताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,12 +1303,15 @@ stirring himself from among the sages said to all gods, 'Agreed!' [1-60-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवा महात्मानो ऋषयश्च तपोधनाः ।  
 जग्मुर्यथागतं सर्वे यज्ञस्यान्ते नरोत्तम ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1278,5 +1358,6 @@ sages went away as they have come. Thus Sage Shataananda continued the narration
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तनॆय सर्ग पूर्णवायितु.॥60॥
+</details>
 </details>
 

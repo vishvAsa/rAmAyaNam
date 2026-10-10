@@ -2,6 +2,8 @@
 title = "०५९ हनुमता सीताशोकवर्णनम्"
 title_english = "059 Hanuma describes the plight of Seetha to his fellow monkeys"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -24,12 +26,15 @@ of a war against Lanka.
 
 59. हनुमान् जी का सीताकी दुरवस्था बताकर वानरोंको लङ्कापर आक्रमण करनेके लिये उत्तेजित करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाख्याय तत् सर्वं हनूमान् मारुतात्मजः ।  
 भूयः समुपचक्राम वचनं वक्तुमुत्तरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सफलो राघवोद्योगः सुग्रीवस्य च सम्भ्रमः ।  
 शीलमासाद्य सीताया मम च प्रीणितं मनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ fulfilled. My mind too is devoted to her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्यायाः सदृशं शीलं सीतायाः प्लवगर्षभाः ।  
 तपसा धारयेल्लोकान् क्रुद्धा वा निर्दहेदपि ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ by the power of his penance. Even if he is enraged, he can scorch away his adver
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथातिप्रकृष्टोऽसौ रावणो राक्षसेश्वरः ।  
 यस्य तां स्पृशतो गात्रं तपसा न विनाशितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +228,15 @@ stirred by anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तदग्निशिखा कुर्यात् संस्पृष्टा पाणिना सती ।  
 जनकस्य सुता कुर्याद् यत् क्रोधकलुषीकृता ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,6 +255,7 @@ _________________
 
 जनकात्मजॆयाद सीतादेवियु कोपगॊण्डरॆ, केवल तन्न करस्पर्शदिन्दले एनन्नादरू भस्मवागिसबल्लळु. आ रीति अग्नियिन्दलू साध्यवागदु. अग्निय ज्वालॆगिन्तलू सीतादेविय कोपवु विशिष्टवादुदु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,6 +263,8 @@ _________________
 अस्मिन् नेवङ्गते कार्ये भवतां च निवेदिते ।  
 न्याय्यं स्म सह वैदेह्या द्रष्टुं तौ पार्थिवात्मजौ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,6 +304,7 @@ permission from all the great monkeys headed by Jambavan.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -292,6 +313,8 @@ permission from all the great monkeys headed by Jambavan.
 किं पुनः सहितो वीरैर्बलवद्भिः कृतात्मभिः ।  
 कृतास्त्रैः प्लवगैः शक्तैर्भवद्भिर्विजयैषिभिः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +378,15 @@ troops of demons as also the mighty Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु रावणं युद्धे ससैन्यं सपुरःसरम् ।  
 सहपुत्रं वधिष्यामि सहोदरयुतं युधि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,6 +419,7 @@ sons and his brothers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -400,6 +427,8 @@ sons and his brothers."
 यदि शक्रजितोऽस्त्राणि दुर्निरीक्ष्याणि संयुगे ।  
 तान्यहं निहनिष्यामि विधमिष्यामि राक्षसान् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,6 +451,7 @@ _________________
 
 ‘यद्यपि इन्द्रजित् के ब्राह्म अस्त्र, रौद्र, वायव्य तथा वारुण आदि अस्त्र युद्धमें दुर्लक्ष्य होते हैं—किसीकी दृष्टिमें नहीं आते हैं, तथापि मैं ब्रह्माजीके वरदानसे उनका निवारण कर दूँगा और राक्षसोंका संहार कर डालूँगा ॥ १० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -429,6 +459,8 @@ _________________
 मयातुला विसृष्टा हि शैलवृष्टिर्निरन्तरा ॥ ११ ॥  
 देवानपि रणे हन्यात् किं पुनस्तान् निशाचरान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,6 +502,7 @@ those missiles even if they are difficult to be looked at, employed by Indrajit 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -477,6 +510,8 @@ those missiles even if they are difficult to be looked at, employed by Indrajit 
 सागरोऽप्यतियाद् वेलां मन्दरः प्रचलेदपि ।  
 न जाम्बवन्तं समरे कम्पयेदरिवाहिनी ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -541,12 +576,15 @@ demons?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वराक्षससङ्घानां राक्षसा ये च पूर्वजाः ।  
 अलमेकोऽपि नाशाय वीरो वालिसुतः कपिः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +627,15 @@ demons and even the demons who were their progenitors."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लवगस्योरुवेगेन नीलस्य च महात्मनः ।  
 मन्दरोऽप्यवशीर्येत किं पुनर्युधि राक्षसाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +678,15 @@ Mandara can be shattered. How much more, the demons in battle?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदेवासुरयक्षेषु गन्धर्वोरगपक्षिषु ।  
 मैन्दस्य प्रतियोद्धारं शंसत द्विविदस्य वा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +721,15 @@ beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्विपुत्रौ महावेगावेतौ प्लवगसत्तमौ ।  
 एतयोः प्रतियोद्धारं न पश्यामि रणाजिरे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +772,15 @@ the monkeys. In the battle-field, I do not find anyone who can fight against the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयैव निहता लङ्का दग्धा भस्मीकृता पुरी ।  
 राजमार्गेषु सर्वेषु नाम विश्रावितं मया ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -751,6 +801,7 @@ _________________
 
 ‘मैंने अकेले ही लङ्कावासियोंको मार गिराया, नगरमें आग लगा दी और सारी पुरीको जलाकर भस्म कर दिया । इतना ही नहीं, वहाँकी सब सड़कोंपर मैंने अपने नामका डंका पीट दिया ॥ १८ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -759,6 +810,8 @@ _________________
 अहं कोसलराजस्य दासः पवनसम्भवः ।  
 हनूमानिति सर्वत्र नाम विश्रावितं मया ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +891,15 @@ in a supreme haughtiness, these two foremost among all the monkeys live on Amrit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोकवनिकामध्ये रावणस्य दुरात्मनः ।  
 अधस्ताच्छिंशपामूले साध्वी करुणमास्थिता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +942,15 @@ capable of destroying the entire city of Lanka together with its horses, chariot
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसीभिः परिवृता शोकसन्तापकर्शिता ।  
 मेघरेखापरिवृता चन्द्ररेखेव निष्प्रभा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -933,12 +992,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिन्तयन्ती वैदेही रावणं बलदर्पितम् ।  
 पतिव्रता च सुश्रोणी अवष्टब्धा च जानकी ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -953,12 +1015,15 @@ _________________
 
 ‘सुन्दर कटिप्रदेशवाली विदेहनन्दिनी जानकी पतिव्रता हैं । वे बलके घमंडमें भरे रहनेवाले रावणको कुछ भी नहीं समझती हैं तो भी उसीकी कैदमें पड़ी हैं ॥ २३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्ता हि वैदेही रामे सर्वात्मना शुभा ।  
 अनन्यचित्ता रामेण पौलोमीव पुरन्दरे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1000,6 +1065,7 @@ way, the name (of Rama and others) was heralded by me everywhere."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1008,6 +1074,8 @@ way, the name (of Rama and others) was heralded by me everywhere."
 राक्षसीभिर्विरूपाभिर्दृष्टा हि प्रमदावने ।  
 एकवेणीधरा दीना भर्तृचिन्तापरायणा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1137,15 @@ that Ravana who is arrogant of his strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधःशय्या विवर्णाङ्गी पद्मिनीव हिमोदये ।  
 रावणाद् विनिवृत्तार्था मर्तव्यकृतनिश्चया ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,12 +1164,15 @@ _________________
 
 बलगर्वितनाद रावणनु अवळन्नु हीगॆ निर्बन्धिसिट्टिद्दरू, सौन्दर्यवतियू, पतिव्रताशिरोमणियू आद जानकिदेवियु अवनन्नु लॆक्किसुवुदे इल्ल.॥27॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथञ्चिन्मृगशावाक्षी विश्वासमुपपादिता ।  
 ततः सम्भाषिता चैव सर्वमर्थं प्रकाशिता ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,12 +1212,15 @@ the goddess, giving her concern to Indra the destroyer of strong holds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामसुग्रीवसख्यं च श्रुत्वा प्रीतिमुपागता ।  
 नियतः समुदाचारो भक्तिर्भर्तरि चोत्तमा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,12 +1242,15 @@ _________________
 
 ‘श्रीराम और सुग्रीवकी मित्रताकी बात सुनकर उन्हें बड़ी प्रसन्नता हुई । सीताजीमें सुदृढ़ सदाचार (पातिव्रत्य) विद्यमान है । अपने पतिके प्रति उनके हृदयमें उत्तम भक्ति है ॥ २९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्न हन्ति दशग्रीवं स महात्मा दशाननः ।  
 निमित्तमात्रं रामस्तु वधे तस्य भविष्यति ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1208,12 +1288,15 @@ grief and anguish, devoted as she was to the welfare of her husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा प्रकृत्यैव तन्वङ्गी तद्वियोगाच्च कर्शिता ।  
 प्रतिपत्पाठशीलस्य विद्येव तनुतां गता ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,12 +1340,15 @@ figure in winter, she had determined to die, utterly averting to do anything wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमास्ते महाभागा सीता शोकपरायणा ।  
 यदत्र प्रतिकर्तव्यं तत् सर्वमुपकल्प्यताम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1312,5 +1398,6 @@ between Rama and Sugreeva."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

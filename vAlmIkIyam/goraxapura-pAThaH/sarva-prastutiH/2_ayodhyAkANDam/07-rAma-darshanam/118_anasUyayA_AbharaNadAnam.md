@@ -2,6 +2,8 @@
 title = "११८ अनसूयया आभरणदानम्"
 title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ Anasuya in detail.
 
 118. सीता-अनसूया-संवाद, अनसूयाका सीताको प्रेमोपहार देना तथा अनसूयाके पूछनेपर सीताका उन्हें अपने स्वयंवरकी कथा सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वेवमुक्ता वैदेही त्वनसूयानसूयया ।  
 प्रतिपूज्य वचो मन्दं प्रवक्तुमुपचक्रमे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ addressed her gently as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतदाश्चर्यमार्यायां यन्मां त्वमनुभाषसे ।  
 विदितं तु ममाप्येतद् यथा नार्याः पतिर्गुरुः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ I know well that a husband is a respectable person for a woman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यप्येष भवेद् भर्ता अनार्यो वृत्तिवर्जितः ।  
 अद्वैधमत्र वर्तव्यं यथाप्येष मया भवेत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ be obeyed by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं पुनर्यो गुणश्लाघ्यः सानुक्रोशो जितेन्द्रियः ।  
 स्थिरानुरागो धर्मात्मा मातृवत्पितृवत्प्रियः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ father to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां वृत्तिं वर्तते रामः कौसल्यायां महाबलः ।  
 तामेव नृपनारीणामन्यासामपि वर्तते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ behaviour towards his mother, Kausalya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकृद् दृष्टास्वपि स्त्रीषु नृपेण नृपवत्सलः ।  
 मातृवद् वर्तते वीरो मानमुत्सृज्य धर्मवित् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ glance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगच्छन्त्याश्च विजनं वनमेवं भयावहम् ।  
 समाहितं हि मे श्वश्र्वा हृदये यत् स्थिरं मम ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,12 +375,15 @@ great message to me, which I have inscribed in my heart."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाणिप्रदानकाले च यत् पुरा त्वग्निसन्निधौ ।  
 अनुशिष्टं जनन्या मे वाक्यं तदपि मे धृतम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +423,15 @@ marriage with Rama, I shall always remember them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न विस्मृतं तु मे सर्वं वाक्यैः स्वैर्धर्मचारिणि ।  
 पतिशुश्रूषणान्नार्यास्तपो नान्यद् विधीयते ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +471,15 @@ than obedience to one's husband is decreed for a woman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्री पतिशुश्रूषां कृत्वा स्वर्गे महीयते ।  
 तथावृत्तिश्च याता त्वं पतिशुश्रूषया दिवम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,12 +525,15 @@ SAvitri was the celebrated wife of Prince Satyavan.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरिष्ठा सर्वनारीणामेषा च दिवि देवता ।  
 रोहिणी न विना चन्द्रं मुहूर्तमपि दृश्यते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ even for a single moment in the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवंविधाश्च प्रवराः स्त्रियो भर्तृदृढव्रताः ।  
 देवलोके महीयन्ते पुण्येन स्वेन कर्मणा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +621,15 @@ are highly honoured in heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽनसूया संहृष्टा श्रुत्वोक्तं सीतया वचः ।  
 शिरसाऽऽघ्राय चोवाच मैथिलीं हर्षयन्त्युत ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +673,15 @@ forehead and spoke delightfully (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियमैर्विविधैराप्तं तपो हि महदस्ति मे ।  
 तत् संश्रित्य बलं सीते छन्दये त्वां शुचिव्रते ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +722,15 @@ my various pious observances. Through that power, I wish to confer a boon on you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपपन्नं च युक्तं च वचनं तव मैथिलि ।  
 प्रीता चास्म्युचितां सीते करवाणि प्रियं च किम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +770,15 @@ satisfied. Tell me what good I may do for you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा विस्मिता मन्दविस्मया ।  
 कृतमित्यब्रवीत् सीता तपोबलसमन्विताम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -770,12 +820,15 @@ your grace).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वेवमुक्ता धर्मज्ञा तया प्रीततराभवत् ।  
 सफलं च प्रहर्षं ते हन्त सीते करोम्यहम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,6 +869,7 @@ Seetha! Alas! I will create a great joy for you, which will be to your advantage
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -824,6 +878,8 @@ Seetha! Alas! I will create a great joy for you, which will be to your advantage
 मया दत्तमिदं सीते तव गात्राणि शोभयेत् ।  
 अनुरूपमसङ्क्लिष्टं नित्यमेव भविष्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +928,15 @@ limbs. They will be ever worthy of your and will remain in tact (even after cons
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गरागेण दिव्येन लिप्ताङ्गी जनकात्मजे ।  
 शोभयिष्यसि भर्तारं यथा श्रीर्विष्णुमव्ययम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -919,6 +978,7 @@ Vishnu (the Lord of Preservation)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -927,6 +987,8 @@ Vishnu (the Lord of Preservation)."
 प्रतिगृह्य च तत् सीता प्रीतिदानं यशस्विनी ।  
 श्लिष्टाञ्जलिपुटा धीरा समुपास्त तपोधनाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,12 +1054,15 @@ unsurpassed gifts of love.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सीतामुपासीनामनसूया दृढव्रता ।  
 वचनं प्रष्टुमारेभे कथां काञ्चिदनुप्रियाम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1104,15 @@ manner.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयंवरे किल प्राप्ता त्वमनेन यशस्विना ।  
 राघवेणेति मे सीते कथा श्रुतिमुपागता ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1090,12 +1158,15 @@ consort from the royal suitors assembled, by placing a garland around his neck.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां कथां श्रोतुमिच्छामि विस्तरेण च मैथिलि ।  
 यथाभूतं च कात्स्‍न्‍‍र्येन तन्मे त्वं वक्तुमर्हसि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,12 +1209,15 @@ full as you experienced it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सा सीता तापसीं धर्मचारिणीम् ।  
 श्रूयतामिति चोक्त्वा वै कथयामास तां कथाम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1184,12 +1258,15 @@ tale of Svayamvara to the virtuous woman, Anasuya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथिलाधिपतिर्वीरो जनको नाम धर्मवित् ।  
 क्षत्रकर्मण्यभिरतो न्यायतः शास्ति मेदिनीम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1231,12 +1308,15 @@ manner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य लाङ्गलहस्तस्य कृषतः क्षेत्रमण्डलम् ।  
 अहं किलोत्थिता भित्त्वा जगतीं नृपतेः सुता ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,12 +1360,15 @@ said that I came forth, splitting up the land, as a daughter of that king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मां दृष्ट्वा नरपतिर्मुष्टिविक्षेपतत्परः ।  
 पांसुगुण्ठितसर्वाङ्गीं विस्मितो जनकोऽभवत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1325,12 +1408,15 @@ see me, with all my limbs covered with dust."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनपत्येन च स्नेहादङ्कमारोप्य च स्वयम् ।  
 ममेयं तनयेत्युक्त्वा स्नेहो मयि निपातितः ॥३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,12 +1456,15 @@ one as his daughter, and was very fond of me since then."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरिक्षे च वागुक्ता प्रतिमामानुषी किल ।  
 एवमेतन्नरपते धर्मेण तनया तव ॥३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1417,12 +1506,15 @@ rightly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टो धर्मात्मा पिता मे मिथिलाधिपः ।  
 अवाप्तो विपुलामृद्धिं मामवाप्य नराधिपः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1463,12 +1555,15 @@ kingdom was rejoiced in my possession and acquired extensive property."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्ता चास्मीष्टवद्देव्यै ज्येष्ठायै पुण्यकर्मणे ।  
 तया सम्भाविता चास्मि स्निग्धया मातृसौहृदात् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1512,12 +1607,15 @@ nourished me fondly and with maternal affection."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतिसंयोगसुलभं वयो दृष्ट्वा तु मे पिता ।  
 चिन्तामभ्यगमद् दीनो वित्तनाशादिवाधनः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,12 +1657,15 @@ possessions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशाच्चापकृष्टाच्च लोके कन्यापिता जनात् ।  
 प्रधर्षणमवाप्नोति शक्रेणापि समो भुवि ॥३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1609,12 +1710,15 @@ him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां धर्षणामदूरस्थां सन्दृश्यात्मनि पार्थिवः ।  
 चिन्तार्णवगतः पारं नाससादाप्लवो यथा ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1656,12 +1760,15 @@ would reach the end of a sea."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोनिजां हि मां ज्ञात्वा नाध्यगच्छत् स चिन्तयन् ।  
 सदृशं चाभिरूपं च महीपालः पतिं मम ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1701,12 +1808,15 @@ reflection, was unable to find a suitable and worthy husband for me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिरियं जाता चिन्तयानस्य सन्ततम् ।  
 स्वयंवरं तनूजायाः करिष्यामीति धर्मतः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1747,12 +1857,15 @@ Svayamvara, a process of self-choosing marriage, for my daughter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महायज्ञे तदा तस्य वरुणेन महात्मना ।  
 दत्तं धनुर्वरं प्रीत्या तूणी चाक्षय्यसायकौ ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1793,12 +1906,15 @@ excellent bow with two quivers that should never lack arrows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असञ्चाल्यं मनुष्यैश्च यत्नेनापि च गौरवात् ।  
 तन्न शक्ता नमयितुं स्वप्नेष्वपि नराधिपाः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1838,12 +1954,15 @@ were bale to bend it even in their dreams."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्धनुः प्राप्य मे पित्रा व्याहृतं सत्यवादिना ।  
 समवाये नरेन्द्राणां पूर्वमामन्त्र्य पार्थिवान् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1883,12 +2002,15 @@ about the bow to be lifted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं च धनुरुद्यम्य सज्यं यः कुरुते नरः ।  
 तस्य मे दुहिता भार्या भविष्यति न संशयः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1928,12 +2050,15 @@ marriage on him. There is no doubt about it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च दृष्ट्वा धनुःश्रेष्ठं गौरवाद् गिरिसन्निभम् ।  
 अभिवाद्य नृपा जग्मुरशक्तास्तस्य तोलने ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1974,6 +2099,7 @@ lift it up, the princes offered salutation to it and went away."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1982,6 +2108,8 @@ lift it up, the princes offered salutation to it and went away."
 लक्ष्मणेन सह भ्रात्रा रामः सत्यपराक्रमः ।  
 विश्वामित्रस्तु धर्मात्मा मम पित्रा सुपूजितः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2046,6 +2174,7 @@ witness a sacrifice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2053,6 +2182,8 @@ witness a sacrifice."
 सुतौ दशरथस्येमौ धनुर्दर्शनकाङ्क्षिणौ ।  
 धनुर्दर्शय रामाय राजपुत्राय दैविकम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2093,12 +2224,15 @@ from gods, to Rama the prince."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तस्तेन विप्रेण तद् धनुः समुपानयत् ।  
 तद् धनुर्दर्शयामास राजपुत्राय दैविकम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2115,12 +2249,15 @@ from gods, to Rama the prince."
 
 विप्रवर विश्वामित्ररु हीगॆ हेळिदाग तन्दॆयवरु आ दिव्य धनुस्सन्नु तरिसि, राजकुमार श्रीरामनिगॆ तोरिसिदरु.॥47॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमेषान्तरमात्रेण तदानम्य महाबलः ।  
 ज्यां समारोप्य झटिति पूरयामास वीर्यवान् ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2157,12 +2294,15 @@ with the bow-cord and drew the bow to the full."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनापूरयता वेगान्मध्ये भग्नं द्विधा धनुः ।  
 तस्य शब्दोऽभवद् भीमः पतितस्याशनेर्यथा ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2204,12 +2344,15 @@ thunderbolt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं तत्र रामाय पित्रा सत्याभिसन्धिना ।  
 उद्यता दातुमुद्यम्य जलभाजनमुत्तमम् ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2249,12 +2392,15 @@ offering him a jar of pure water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीयमानां न तु तदा प्रतिजग्राह राघवः ।  
 अविज्ञाय पितुश्छन्दमयोध्याधिपतेः प्रभोः ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2294,12 +2440,15 @@ and the king of Ayodhya had been made known to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः श्वशुरमामन्त्र्य वृद्धं दशरथं नृपम् ।  
 मम पित्रा त्वहं दत्तां रामाय विदितात्मने ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2342,12 +2491,15 @@ father and with his approval, I was bestowed on Rama, the knower of the self."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम चैवानुजा साध्वी ऊर्मिला शुभदर्शना ।  
 भार्यार्थे लक्ष्मणस्यापि दत्ता पित्रा मम स्वयम् ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2387,12 +2539,15 @@ to Lakshmana by my father himself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दत्तास्मि रामाय तथा तस्मिन् स्वयंवरे ।  
 अनुरक्तास्मि धर्मेण पतिं वीर्यवतां वरम् ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2443,5 +2598,6 @@ became devoted, by my good works, to my husband who is excellent among men of st
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनॆण्टनॆय सर्ग पूर्णवायितु ॥118॥
+</details>
 </details>
 

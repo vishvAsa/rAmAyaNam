@@ -2,6 +2,8 @@
 title = "०६१ सीता-अन्वेषणम्"
 title_english = "061 Rama laments for Seetha contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -29,6 +31,7 @@ this lengthy lamentation has lengthier romanticism.
 
 61. श्रीराम और लक्ष्मणके द्वारा सीताकी खोज और उनके न मिलनेसे श्रीरामकी व्याकुलता
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -37,6 +40,8 @@ this lengthy lamentation has lengthier romanticism.
 अदृष्ट्वा तत्र वैदेहीं सन्निरीक्ष्य च सर्वशः ।  
 उवाच रामः प्राक्रुश्य प्रगृह्य रुचिरौ भुजौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -85,12 +90,15 @@ loudly, and then on clasping the winning shoulders of Lakshmana he said this to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व नु लक्ष्मण वैदेही कं वा देशमितो गता ।  
 केनाहृता वा सौमित्रे भक्षिता केन वा प्रिया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +138,15 @@ who stole her away? Or, who has gorged up my ladylove? [3-61-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षेणावार्य यदि मां सीते हसितुमिच्छसि ।  
 अलं ते हसितेनाद्य मां भजस्व सुदुःखितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,12 +186,15 @@ and games, get in touch with me now, as I am highly anguished... [3-61-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यैः परिक्रीडसे सीते विश्वस्तैर्मृगपोतकैः ।  
 एते हीनास्त्वया सौम्ये ध्यायन्त्यस्राविलेक्षणाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -222,6 +236,7 @@ fluttery looks, without you... [3-61-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,6 +244,8 @@ fluttery looks, without you... [3-61-5]
 वृतं शोकेन महता सीताहरणजेन माम् ॥ ६ ॥  
 परलोके महाराजो नूनं द्रक्ष्यति मे पिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +297,15 @@ I am dead and gone to other world, there my father will ask me...' would then be
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं प्रतिज्ञां संश्रुत्य मया त्वमभियोजितः ॥ ७ ॥  
 अपूरयित्वा तं कालं मत्सकाशमिहागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +322,15 @@ I am dead and gone to other world, there my father will ask me...' would then be
 
 अवरु नन्नन्नु निन्दिसुत्ता हेळुवरु - नानादरो निनगॆ वनवासक्कागि आज्ञापिसिद्दॆ. नीनू कूड अल्लिरलु प्रतिज्ञॆमाडिद्दॆ. मत्तॆ अष्टु समय अल्लिरदॆ प्रतिज्ञॆयन्नु पूर्णगॊळिसदॆये इल्लिगॆ एकॆ बन्दॆ.॥7½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामवृत्तमनार्यं वा मृषावादिनमेव च ॥ ८ ॥  
 धिक् त्वामिति परे लोके व्यक्तं वक्ष्यति मे पिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,6 +373,7 @@ wilful disobedient, despicable and dishonest person, such as you are, fie on you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -357,6 +381,8 @@ wilful disobedient, despicable and dishonest person, such as you are, fie on you
 मामिहोत्सृज्य करुणं कीर्तिर्नरमिवानृजुम् ।  
 क्व गच्छसि वरारोहे मा मोत्सृज सुमध्यमे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,6 +434,7 @@ and running away. [3-61-9b, 10, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -415,6 +442,8 @@ and running away. [3-61-9b, 10, 11a]
 इतीव विलपन् रामः सीतादर्शनलालसः ॥ ११ ॥  
 न ददर्श सुदुःखार्तो राघवो जनकात्मजाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,6 +484,7 @@ though he bewailed this way, that Rama has not found Janaka's daughter, Seetha. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -462,6 +492,8 @@ though he bewailed this way, that Rama has not found Janaka's daughter, Seetha. 
 पङ्कमासाद्य विपुलं सीदन्तमिव कुञ्जरम् ।  
 लक्ष्मणो राममत्यर्थमुवाच हितकाम्यया ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,6 +538,7 @@ chasmal mud, Lakshmana spoke to such a Rama in a positive manner desiring his we
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -517,6 +550,8 @@ chasmal mud, Lakshmana spoke to such a Rama in a positive manner desiring his we
 वित्रासयितुकामा वा लीना स्यात् कानने क्वचित् ॥ १६ ॥  
 जिज्ञासमाना वैदेही त्वां मां च पुरुषर्षभ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -583,12 +618,15 @@ this best mountain is beaming forth with many caves, she may be there somewhere.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या ह्यन्वेषणे श्रीमन् क्षिप्रमेव यतावहे ॥ १७ ॥  
 वनं सर्वं विचिनुवो यत्र सा जनकात्मजा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,6 +667,7 @@ away into forest. Oh, honourable brother, let us endeavour quickly to search her
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -636,6 +675,8 @@ away into forest. Oh, honourable brother, let us endeavour quickly to search her
 एवमुक्तः स सौहार्दाल्लक्ष्मणेन समाहितः ।  
 सह सौमित्रिणा रामो विचेतुमुपचक्रमे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,6 +739,7 @@ Thus Lakshmana advised Rama. [3-61-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -706,6 +748,8 @@ Thus Lakshmana advised Rama. [3-61-18]
 तस्य शैलस्य सानूनि शिलाश्च शिखराणि च ।  
 निखिलेन विचिन्वन्तौ नैव तामभिजग्मतुः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,12 +809,15 @@ thus at rivers and lakes. [3-61-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्य सर्वतः शैलं रामो लक्ष्मणमब्रवीत् ।  
 नेह पश्यामि सौमित्रे वैदेहीं पर्वते शुभाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,12 +857,15 @@ I do not descry auspicious Vaidehi." [3-61-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दुःखाभिसन्तप्तो लक्ष्मणो वाक्यमब्रवीत् ।  
 विचरन् दण्डकारण्यं भ्रातरं दीप्ततेजसम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,12 +904,15 @@ his greatly resplendent brother Rama. [3-61-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्स्यसे त्वं महाप्राज्ञ मैथिलीं जनकात्मजाम् ।  
 यथा विष्णुर्महाबाहुर्बलिं बद्‍ध्वा महीमिमाम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +953,15 @@ Bali and reacquired this earth." [3-61-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु वीरेण लक्ष्मणेन स राघवः ।  
 उवाच दीनया वाचा दुःखाभिहतचेतनः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,6 +1003,7 @@ spoke these pathetic words. [3-61-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -954,6 +1011,8 @@ spoke these pathetic words. [3-61-25]
 गिरिश्चायं महाप्राज्ञ बहुकन्दरनिर्झरः ।  
 नहि पश्यामि वैदेहीं प्राणेभ्योऽपि गरीयसीम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,12 +1057,15 @@ descry Vaidehi who is loftier than my lives." [3-61-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स विलपन् रामः सीताहरणकर्षितः ।  
 दीनः शोकसमाविष्टो मुहूर्तं विह्वलोऽभवत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,12 +1108,15 @@ while sadness besieging him he is perturbed for a moment. [3-61-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विह्वलितसर्वाङ्गो गतबुद्धिर्विचेतनः ।  
 निषसादातुरो दीनो निःश्वस्याशीतमायतम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1095,12 +1160,15 @@ is forlorn and flustered, and such as he is he sank down suspiring swelteringly 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुशः स तु निःश्वस्य रामो राजीवलोचनः ।  
 हा प्रियेति विचुक्रोश बहुशो बाष्पगद‍्गदः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1137,12 +1205,15 @@ with tears stifling his throat. [3-61-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं सान्त्वयामास ततो लक्ष्मणः प्रियबान्धवम् ।  
 बहुप्रकारं शोकार्तः प्रश्रितः प्रश्रिताञ्जलिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1256,15 @@ palms obediently started to pacify Rama with divers methods. [3-61-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनादृत्य तु तद् वाक्यं लक्ष्मणोष्ठपुटच्युतम् ।  
 अपश्यंस्तां प्रियां सीतां प्राक्रोशत् स पुनः पुनः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1241,5 +1315,6 @@ again and again when his dear Seetha has become unseeable. [3-61-32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्य काण्डदल्लि अरवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥61॥
+</details>
 </details>
 

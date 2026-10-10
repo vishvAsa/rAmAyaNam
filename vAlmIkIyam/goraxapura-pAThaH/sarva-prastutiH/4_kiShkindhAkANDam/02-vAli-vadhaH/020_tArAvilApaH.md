@@ -2,6 +2,8 @@
 title = "०२० ताराविलापः"
 title_english = "020 Tara s lamentation for Vali s death"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -23,6 +25,7 @@ empress.
 
 20. ताराका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -33,6 +36,8 @@ empress.
 वानरं पर्वतेन्द्राभं शोकसन्तप्तमानसा ।  
 तारा तरुमिवोन्मूलं पर्यदेवयतातुरा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +107,15 @@ Rama, that resentful lady Tara whose face is lovely like the moon, reached and e
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रणे दारुणविक्रान्त प्रवीर प्लवतां वर ।  
 किमिदानीं पुरोभागामद्य त्वं नाभिभाषसे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +161,15 @@ have never blamed you either in your presence or in your absence, why do not you
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ हरिशार्दूल भजस्व शयनोत्तमम् ।  
 नैवंविधाः शेरते हि भूमौ नृपतिसत्तमाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +212,15 @@ not on repose on soil in this way, isn't it. [4-20-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतीव खलु ते कान्ता वसुधा वसुधाधिप ।  
 गतासुरपि तां गात्रैर्मां विहाय निषेवसे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,12 +268,15 @@ heaven and you go there leaving me, am I unfit to come with you..." and the like
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्तमद्य त्वया वीर धर्मतः सम्प्रवर्तता ।  
 किष्किन्धेव पुरी रम्या स्वर्गमार्गे विनिर्मिता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +318,15 @@ Kishkindha-like delightful city in the pathway to heaven by your leaving lovely 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यान्यस्माभिस्त्वया सार्धं वनेषु मधुगन्धिषु ।  
 विहृतानि त्वया काले तेषामुपरमः कृतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +366,15 @@ forests from time to time by your departing. [4-20-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरानन्दा निराशाहं निमग्ना शोकसागरे ।  
 त्वयि पञ्चत्वमापन्ने महायूथपयूथपे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +420,15 @@ fifth one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृदयं सुस्थितं मह्यं दृष्ट्वा निपतितं भुवि ।  
 यन्न शोकाभिसन्तप्तं स्फुटतेऽद्य सहस्रधा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +472,15 @@ it is not splintering now into thousand splints, though it is tormented by sorro
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्य त्वया भार्या हृता स च विवासितः ।  
 यत् तत् तस्य त्वया व्युष्टिः प्राप्तेयं प्लवगाधिप ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +524,15 @@ even expelled him from Kishkindha, that is the reason why you got this result. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःश्रेयसपरा मोहात् त्वया चाहं विगर्हिता ।  
 यैषाब्रुवं हितं वाक्यं वानरेन्द्र हितैषिणी ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,12 +572,15 @@ wishing your welfare, but oh, best monkey, you unmindfully brushed me off. [4-20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपयौवनदृप्तानां दक्षिणानां च मानद ।  
 नूनमप्सरसामार्य चित्तानि प्रमथिष्यसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +622,15 @@ hearts towards you by your gallantry, definite is that. [4-20-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालो निःसंशयो नूनं जीवितान्तकरस्तव ।  
 बलाद् येनावपन्नोऽसि सुग्रीवस्यावशो वशम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -638,12 +676,15 @@ Sugreeva alone controlled you, who are otherwise an uncontrollable force. [4-20-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्थाने वालिनं हत्वा युध्यमानं परेण च ।  
 न सन्तप्यति काकुत्स्थः कृत्वा कर्मसुगर्हितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,12 +729,15 @@ recension etc.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैधव्यं शोकसन्तापं कृपणाकृपणा सती ।  
 अदुःखोपचिता पूर्वं वर्तयिष्याम्यनाथवत् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +778,15 @@ to undergo widowhood and dolefulness. [4-20-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लालितश्चाङ्गदो वीरः सुकुमारः सुखोचितः ।  
 वत्स्यते कामवस्थां मे पितृव्ये क्रोधमूर्च्छिते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +830,15 @@ gets into a fit of fury. [4-20-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरुष्व पितरं पुत्र सुदृष्टं धर्मवत्सलम् ।  
 दुर्लभं दर्शनं तस्य तव वत्स भविष्यति ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +875,15 @@ impossible to catch a glimpse of him." Thus Tara said to her son Angada. [4-20-1
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाश्वासय पुत्रं त्वं सन्देशं सन्दिशस्व मे ।  
 मूर्ध्न्नि चैनं समाघ्राय प्रवासं प्रस्थितो ह्यसि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +926,15 @@ on his forehead, and give me your parting messages." So said Tara to Vali. [4-20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामेण हि महत् कर्म कृतं त्वामभिनिघ्नता ।  
 आनृण्यं तु गतं तस्य सुग्रीवस्य प्रतिश्रवे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -921,12 +977,15 @@ achieved indebtedness towards Sugreeva, both in a single promise. [4-20-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकामो भव सुग्रीव रुमां त्वं प्रतिपत्स्यसे ।  
 भुङ्क्ष्व राज्यमनुद्विग्नः शस्तो भ्राता रिपुस्तव ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,12 +1026,15 @@ Sugreeva. [4-20-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं मामेवं प्रलपतीं प्रियां त्वं नाभिभाषसे ।  
 इमाः पश्य वरा बाह्व्यो भार्यास्ते वानरेश्वर ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,12 +1079,15 @@ Thus Tara lamented. [4-20-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या विलपितं श्रुत्वा वानर्यः सर्वतश्च ताः ।  
 परिगृह्याङ्गदं दीना दुःखार्ताः प्रतिचुक्रुशुः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,6 +1131,7 @@ saddened pitiably and wept piteously embracing Angada. [4-20-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1074,6 +1140,8 @@ saddened pitiably and wept piteously embracing Angada. [4-20-23]
 न युक्तमेवं गुणसन्निकृष्टं  
 विहाय पुत्रं प्रियचारुवेषम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,6 +1189,7 @@ unbefitting. [4-20-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1129,6 +1198,8 @@ unbefitting. [4-20-24]
 क्षमस्व मे तद्धरिवंशनाथ  
 व्रजामि मूर्ध्ना तव वीर पादौ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,6 +1246,7 @@ monkeys lineage... oh, brave one... [Thus Tara wept for Vali.] [4-20-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1183,6 +1255,8 @@ monkeys lineage... oh, brave one... [Thus Tara wept for Vali.] [4-20-25]
 व्यवस्यत प्रायमनिन्द्यवर्णा  
 उपोपवेष्टुं भुवि यत्र वाली ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1239,5 +1313,6 @@ self-immolate, and thus she flounced down onto ground where Vali is slouching. [
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तनॆय सर्ग सम्पूर्णवायितु. ॥ 20 ॥
+</details>
 </details>
 

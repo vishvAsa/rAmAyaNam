@@ -2,6 +2,8 @@
 title = "०४७ त्रिदिशात् वानरप्रत्यागमनम्"
 title_english = "047 Search for Seetha failed in east north and west"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ out, because he is pursuing the direction in which Seetha was taken away.
 
 47. पूर्व आदि तीन दिशाओंमें गये हुए वानरोंका निराश होकर लौट आना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनार्थं तु वैदेह्याः सर्वतः कपिकुञ्जराः ।  
 व्यादिष्टाः कपिराजेन यथोक्तं जग्मुरञ्जसा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ everywhere with post-hast for a glimpse of Vaidehi. [4-47-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सरांसि सरित्कक्षानाकाशं नगराणि च ।  
 नदीदुर्गांस्तथा देशान् विचिन्वन्ति समन्ततः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ mountains. [4-47-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेण समाख्याताः सर्वे वानरयूथपाः ।  
 तत्र देशान् विचिन्वन्ति सशैलवनकाननान् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,12 +177,15 @@ woodlands, and thick forests of those provinces. [4-47-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्य दिवसं सर्वे सीताधिगमने धृताः ।  
 समायान्ति स्म मेदिन्यां निशाकालेषु वानराः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ earth by day, and at nighttimes they used to come together onto earth at schedul
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वर्तुकांश्च देशेषु वानराः सफलद्रुमान् ।  
 आसाद्य रजनीं शय्यां चक्रुः सर्वेष्वहःसु ते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,12 +289,15 @@ which is intolerable and then they are driven out.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदहः प्रथमं कृत्वा मासे प्रस्रवणं गताः ।  
 कपिराजेन सङ्गम्य निराशाः कपिकुञ्जराः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,12 +339,15 @@ with Rama awaiting the return of monkeys. [4-47-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्य तु दिशं पूर्वां यथोक्तां सचिवैः सह ।  
 अदृष्ट्वा विनतः सीतामाजगाम महाबलः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +387,15 @@ Sugreeva had advised, but without finding Seetha there. [4-47-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशमप्युत्तरां सर्वां विविच्य स महाकपिः ।  
 आगतः सह सैन्येन भीतः शतबलिस्तदा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +439,15 @@ direction along with his army, but he too came back as Seetha is undiscovered th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषेणः पश्चिमामाशां विविच्य सह वानरैः ।  
 समेत्य मासे पूर्णे तु सुग्रीवमुपचक्रमे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,12 +489,15 @@ approached Sugreeva. [4-47-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रस्रवणपृष्ठस्थं समासाद्याभिवाद्य च ।  
 आसीनं सह रामेण सुग्रीवमिदमब्रुवन् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,6 +540,7 @@ with Rama on the peak of Mt. Prasavana and spoke this to him. [4-47-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -516,6 +549,8 @@ with Rama on the peak of Mt. Prasavana and spoke this to him. [4-47-10]
 गुहाश्च विचिताः सर्वा याश्च ते परिकीर्तिताः ।  
 विचिताश्च महागुल्मा लताविततसन्तताः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,6 +619,7 @@ edge of oceans, likewise, all of the inhabitations have been searched. [4-47-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -591,6 +627,8 @@ edge of oceans, likewise, all of the inhabitations have been searched. [4-47-11]
 सत्त्वान्यतिप्रमाणानि विचितानि हतानि च ।  
 ये चैव गहना देशा विचितास्ते पुनः पुनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +677,7 @@ shapes, and the impassable provinces are searched high and low, time and again. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -647,6 +686,8 @@ shapes, and the impassable provinces are searched high and low, time and again. 
 दिशं तु यामेव गता तु सीता  
 तामास्थितो वायुसुतो हनूमान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,5 +748,6 @@ which Seetha is taken away." Thus, monkey chiefs reported to their king Sugreeva
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तेळनॆय सर्ग सम्पूर्णवायितु.॥47॥
+</details>
 </details>
 

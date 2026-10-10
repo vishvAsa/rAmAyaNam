@@ -2,6 +2,8 @@
 title = "१०८ जाबालेः राजनीतिः"
 title_english = "108 Jabali tries to persuade Rama to accept the Kingdom"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -22,12 +24,15 @@ accepting the crown.
 
 108. जाबालिका नास्तिकोंके मतका अवलम्बन करके श्रीरामको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्वासयन्तं भरतं जाबालिर्ब्राह्मणोत्तमः ।  
 उवाच रामं धर्मज्ञं धर्मापेतमिदं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ righteousness and who was assuaging Bharata as aforesaid
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु राघव मा भूत् ते बुद्धिरेवं निरर्थिका ।  
 प्राकृतस्य नरस्येव ह्यार्यबुद्धेस्तपस्विनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ distinguished for your intelligence and virtue."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कः कस्य पुरुषो बन्धुः किमाप्यं कस्य केनचित् ।  
 एको हि जायते जन्तुरेक एव विनश्यति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ creature is born alone and dies alone."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मान्माता पिता चेति राम सज्जेत यो नरः ।  
 उन्मत्त इव स ज्ञेयो नास्ति कश्चिद्धि कस्यचित् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,6 +218,7 @@ he should be known as one who has lost his wits. There is none who belongs to an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -212,6 +227,8 @@ he should be known as one who has lost his wits. There is none who belongs to an
 एवमेव मनुष्याणां पिता माता गृहं वसु ।  
 आवासमात्रं काकुत्स्थ सज्जन्ते नात्र सज्जनाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,12 +278,15 @@ man; they are but a resting place. The wise do not become attached to them".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्र्यं राज्यं समुत्सृज्य स नार्हसि नरोत्तम ।  
 आस्थातुं कापथं दुःखं विषमं बहुकण्टकम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,12 +327,15 @@ dwell in a lonely forest, that is excruciating hard to traverse and full of thor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समृद्धायामयोध्यायामात्मानमभिषेचय ।  
 एकवेणीधरा हि त्वा नगरी सम्प्रतीक्षते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,12 +375,15 @@ you, with your locks duly unfound."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजभोगाननुभवन् महार्हान् पार्थिवात्मज ।  
 विहर त्वमयोध्यायां यथा शक्रस्त्रिविष्टपे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +423,15 @@ the Lord of celestials does in heaven!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते कश्चिद् दशरथस्त्वं च तस्य च कश्चन ।  
 अन्यो राजा त्वमन्यस्तु तस्मात् कुरु यदुच्यते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -443,12 +472,15 @@ are another. Hence, do what is told by me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बीजमात्रं पिता जन्तोः शुक्रं शोणितमेव च ।  
 संयुक्तमृतुमन्मात्रा पुरुषस्येह जन्म तत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ time in the mother's womb, so that a human being is born in this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतः स नृपतिस्तत्र गन्तव्यं यत्र तेन वै ।  
 प्रवृत्तिरेषा भूतानां त्वं तु मिथ्या विहन्यसे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -537,12 +572,15 @@ you are still frustrated over the matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थधर्मपरा ये ये तांस्तान् शोचामि नेतरान् ।  
 ते हि दुःखमिह प्राप्य विनाशं प्रेत्य लेभिरे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +626,15 @@ extermination after death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टकापितृदेवत्यमित्ययं प्रसृतो जनः ।  
 अन्नस्योपद्रवं पश्य मृतो हि किमशिष्यति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +678,15 @@ of our ancestors.' See the waste of food. What will a dead man eat?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि भुक्तमिहान्येन देहमन्यस्य गच्छति ।  
 दद्यात् प्रवसतां श्राद्धं न तत् पथ्यशनं भवेत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ for those who are setting out on a distant journey. Will it not become a food on
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दानसंवनना ह्येते ग्रन्था मेधाविभिः कृताः ।  
 यजस्व देहि दीक्षस्व तपस्तप्यस्व सन्त्यज ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +780,15 @@ give."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नास्ति परमित्येतत् कुरु बुद्धिं महामते ।  
 प्रत्यक्षं यत् तदातिष्ठ परोक्षं पृष्ठतः कुरु ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +830,15 @@ knowledge."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सतां बुद्धिं पुरस्कृत्य सर्वलोकनिदर्शिनीम् ।  
 राज्यं स त्वं निगृह्णीष्व भरतेन प्रसादितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,5 +888,6 @@ the kingdom as propitiated by Bharata."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर ऎण्टनॆय सर्ग पूर्णवायितु ॥108॥
+</details>
 </details>
 

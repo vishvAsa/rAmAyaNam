@@ -2,6 +2,8 @@
 title = "००२ राम-सुग्रीवसंवादः"
 title_english = "002 Sugreeva comforts Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ apprehensive mind and to think of ways and means to cross the ocean.
 
 2. सुग्रीवका श्रीरामको उत्साह प्रदान करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु शोकपरिद्यूनं रामं दशरथात्मजम् ।  
 उवाच वचनं श्रीमान् सुग्रीवः शोकनाशनम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ grief, to Rama the son of Dasaratha who felt miserable with anguish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं त्वया तप्यते वीर यथान्यः प्राकृतस्तथा ।  
 मैवं भूस्त्यज सन्तापं कृतघ्न इव सौहृदम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ sorrowful like this. Abandon your grief, as an ungrateful man abandons friendshi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्तापस्य च ते स्थानं नहि पश्यामि राघव ।  
 प्रवृत्तावुपलब्धायां ज्ञाते च निलये रिपोः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +170,15 @@ scope for your grief Oh, Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मतिमान् शास्त्रवित् प्राज्ञः पण्डितश्चासि राघव ।  
 त्यजेमां प्राकृतां बुद्धिं कृतात्मेवार्थदूषिणीम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ ideas which spoil the purpose.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रं लङ्घयित्वा तु महानक्रसमाकुलम् ।  
 लङ्कामारोहयिष्यामो हनिष्यामश्च ते रिपुम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ crocodiles. We shall destroy your enemy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरुत्साहस्य दीनस्य शोकपर्याकुलात्मनः ।  
 सर्वार्था व्यवसीदन्ति व्यसनं चाधिगच्छति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,6 +314,7 @@ disturbed with grief. Such a person gets into troubles too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,6 +322,8 @@ disturbed with grief. Such a person gets into troubles too."
 त्वत्प्रियार्थं कृतोत्साहाः प्रवेष्टुमपि पावकम् ।  
 एषां हर्षेण जानामि तर्कश्चापि दृढो मम ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ too is sound."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रमेण समानेष्ये सीतां हत्वा यथा रिपुम् ।  
 रावणं पापकर्माणं तथा त्वं कर्तुमर्हसि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ destroying by an attack the enemy Ravana of sinful deeds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेतुरत्र यथा बद्ध्येद् यथा पश्येम तां पुरीम् ।  
 तस्य राक्षसराजस्य तथा त्वं कुरु राघव ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +463,15 @@ reach that city of the king of ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा तां हि पुरीं लङ्कां त्रिकूटशिखरे स्थिताम् ।  
 हतं च रावणं युद्धे दर्शनादवधारय ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,12 +512,15 @@ that city of Lanka standing on a peak of the Trikuta Mountain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अबद्‍ध्वा सागरे सेतुं घोरे च वरुणालये ।  
 लङ्कां न मर्दितुं शक्या सेन्द्रैरपि सुरासुरैः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,6 +561,7 @@ water), Lanka cannot be defeated even by gods and demons including Indra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -533,6 +569,8 @@ water), Lanka cannot be defeated even by gods and demons including Indra."
 सर्वं तीर्णं च मे सैन्यं जितमित्युपधारय ।  
 इमे हि समरे वीरा हरयः कामरूपिणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +592,15 @@ _________________
 
 आद्दरिन्द लङ्कॆयवरॆगॆ समुद्रक्कॆ सेतुवॆ कट्टिदरॆ नम्म ऎल्ल सैन्य आचॆय दड सेरि, नम्म गॆलुवायितॆन्दे नीनु तिळि; एकॆन्दरॆ कामरूपिगळाद ई वानररु युद्धदल्लि भारी कार्यवन्नु तोरिसुववरागिद्दारॆ.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं विक्लवां बुद्धिं राजन् सर्वार्थनाशिनीम् ।  
 पुरुषस्य हि लोकेऽस्मिन् शोकः शौर्यापकर्षणः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +638,15 @@ indeed valiant in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु कार्यं मनुष्येण शौटीर्यमवलम्ब्यताम् ।  
 तदलङ्करणायैव कर्तुर्भवति सत्वरम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,6 +687,7 @@ grief in this world diminishes the might of a man, Oh king!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -650,6 +695,8 @@ grief in this world diminishes the might of a man, Oh king!"
 शूराणां हि मनुष्याणां त्वद्विधानां महात्मनाम् ।  
 विनष्टे वा प्रणष्टे वा शोकः सर्वार्थनाशनः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,12 +737,15 @@ produce competence without doubt to the doer quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वं बुद्धिमतां श्रेष्ठः सर्वशास्त्रार्थकोविदः ।  
 मद्विधैः सचिवैः सार्धमरिं जेतुं समर्हसि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +792,15 @@ magnanimous men like you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि पश्याम्यहं कञ्चित् त्रिषु लोकेषु राघव ।  
 गृहीतधनुषो यस्ते तिष्ठेदभिमुखो रणे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -791,12 +844,15 @@ Hence, you ought to defeat the enemy, with allies like me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरेषु समासक्तं न ते कार्यं विपत्स्यते ।  
 अचिराद् द्रक्ष्यसे सीतां तीर्त्वा सागरमक्षयम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,12 +890,15 @@ worlds, when you are armed with a bow, Oh Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं शोकमालम्ब्य क्रोधमालम्ब भूपते ।  
 निश्चेष्टाः क्षत्रिया मन्दाः सर्वे चण्डस्य बिभ्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,12 +933,15 @@ era imperishable sea."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्घनार्थं च घोरस्य समुद्रस्य नदीपतेः ।  
 सहास्माभिरिहोपेतः सूक्ष्मबुद्धिर्विचारय ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,12 +984,15 @@ wrathful."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्घिते तत्र तैः सैन्यैर्जितमित्येव निश्चिनु ।  
 सर्वं तीर्णं च मे सैन्यं जितमित्यवधार्यताम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,12 +1035,15 @@ cross the sea, the terrible Lord of rivers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे हि हरयः शूराः समरे कामरूपिणः ।  
 तानरीन् विधमिष्यन्ति शिलापादपवृष्टिभिः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,12 +1078,15 @@ all my forces have passed over the sea our triumph is assured!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथञ्चित् परिपश्यामि लङ्घितं वरुणालयम् ।  
 हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1052,12 +1123,15 @@ volition, will crush their opponents with an avalanche of rocks and trees."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमुक्त्वा बहुधा चापि सर्वथा विजयी भवान् ।  
 निमित्तानि च पश्यामि मनो मे सम्प्रहृष्यति ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,5 +1175,6 @@ Ravana is as definitely killed in my eyes, Oh exterminator of enemies!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎरडनॆय सर्ग पूर्णवायितु. ॥2॥
+</details>
 </details>
 

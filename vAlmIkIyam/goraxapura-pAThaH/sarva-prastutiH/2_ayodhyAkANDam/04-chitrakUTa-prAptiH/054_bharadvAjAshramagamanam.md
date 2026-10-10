@@ -2,6 +2,8 @@
 title = "०५४ भरद्वाजाश्रमगमनम्"
 title_english = "054 The hermitage of Bharadwaja"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ Chitrakuta.
 
 54. लक्ष्मण और सीतासहित श्रीरामका प्रयागमें गङ्गा-यमुना-संगमके समीप भरद्वाज-आश्रममें जाना, मुनिके द्वारा उनका अतिथि सत्कार, उन्हें चित्रकूट पर्वतपर ठहरनेका आदेश तथा चित्रकूटकी महत्ता एवं शोभाका वर्णन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु तस्मिन् महावृक्षे उषित्वा रजनीं शुभाम् ।  
 विमलेऽभ्युदिते सूर्ये तस्माद् देशात् प्रतस्थिरे ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ started from that place when the immaculate sun had risen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र भागीरथीं गङ्गां यमुनाभिप्रवर्तते ।  
 जग्मुस्तं देशमुद्दिश्य विगाह्य सुमहद् वनम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,12 +101,15 @@ started from that place when the immaculate sun had risen.
 
 भागीरथी गङ्गॆयॊन्दिगॆ यमुनॆयु सेरुव प्रयागक्कॆ होगलु आ महावनदॊळगिन्द प्रयाण माडतॊडगिदरु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते भूमिभागान् विविधान् देशांश्चापि मनोहरान् ।  
 अदृष्टपूर्वान् पश्यन्तस्तत्र तत्र यशस्विनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +156,15 @@ departed grand uncles.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा क्षेमेण सम्पश्यन् पुष्पितान् विविधान् द्रुमान् ।  
 निर्वृत्तमात्रे दिवसे रामः सौमित्रिमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +207,15 @@ when the day had just receded.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयागमभितः पश्य सौमित्रे धूममुत्तमम् ।  
 अग्नेर्भगवतः केतुं मन्ये सन्निहितो मुनिः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -240,12 +257,15 @@ Bharadwaja is staying nearby."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं प्राप्ताः स्म सम्भेदं गङ्गायमुनयोर्वयम् ।  
 तथाहि श्रूयते शब्दो वारिणोर्वारिघर्षजः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,12 +306,15 @@ produced by clashing of waters is heard."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दारूणि परिभिन्नानि वनजैरुपजीविभिः ।  
 छिन्नाश्चाप्याश्रमे चैते दृश्यन्ते विविधा द्रुमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,12 +358,15 @@ these trees of various kinds are seen in the hermitage of Bharadwaja."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्विनौ तौ सुखं गत्वा लम्बमाने दिवाकरे ।  
 गङ्गायमुनयोः सन्धौ प्रापतुर्निलयं मुनेः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +408,15 @@ the west.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्त्वाश्रममासाद्य त्रासयन् मृगपक्षिणः ।  
 गत्वा मुहूर्तमध्वानं भरद्वाजमुपागमत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +458,15 @@ the vicinity of Bharadwaja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वाश्रममासाद्य मुनेर्दर्शनकाङ्क्षिणौ ।  
 सीतयानुगतौ वीरौ दूरादेवावतस्थतुः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,6 +507,7 @@ accompanied by Seetha, halted at first at some distance off.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,6 +516,8 @@ accompanied by Seetha, halted at first at some distance off.
 हुताग्निहोत्रं दृष्ट्वैव महाभागः कृताञ्जलिः ।  
 रामः सौमित्रिणा सार्धं सीतया चाभ्यवादयत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,6 +573,7 @@ and Seetha greeted him with joined palms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,6 +582,8 @@ and Seetha greeted him with joined palms.
 भार्या ममेयं कल्याणी वैदेही जनकात्मजा ।  
 मां चानुयाता विजनं तपोवनमनिन्दिता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -613,12 +651,15 @@ venerable sage! We both are Rama and Lakshmana the sons of Dasaratha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्रा प्रव्राज्यमानं मां सौमित्रिरनुजः प्रियः ।  
 अयमन्वगमद् भ्राता वनमेव धृतव्रतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -659,12 +700,15 @@ Lakshmana (son of Sumitra) of firm vows has also followed me to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्रा नियुक्ता भगवन् प्रवेक्ष्यामस्तपोवनम् ।  
 धर्ममेवाचरिष्यामस्तत्र मूलफलाशनाः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -705,12 +749,15 @@ practise asceticism, living on roots and fruits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राजपुत्रस्य धीमतः ।  
 उपानयत धर्मात्मा गामर्घ्यमुदकं ततः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,12 +806,15 @@ curds, butter, honey and the milk of the coconut as a welcome-drink.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविधानन्नरसान् वन्यमूलफलाश्रयान् ।  
 तेभ्यो ददौ तप्ततपा वासं चैवाभ्यकल्पयत् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +849,7 @@ prepared from wild roots and fruits and also arranged accommodation for them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -807,6 +858,8 @@ prepared from wild roots and fruits and also arranged accommodation for them.
 प्रतिगृह्य तु तामर्चामुपविष्टं स राघवम् ।  
 भरद्वाजोऽब्रवीद् वाक्यं धर्मयुक्तमिदं तदा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +922,15 @@ sides with beasts, birds and hermits, spoke thus to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिरस्य खलु काकुत्स्थ पश्याम्यहमुपागतम् ।  
 श्रुतं तव मया चैव विवासनमकारणम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,12 +971,15 @@ And I have heard of your unjust banishment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवकाशो विविक्तोऽयं महानद्योः समागमे ।  
 पुण्यश्च रमणीयश्च वसत्विह भवान् सुखम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1019,15 @@ stay here comfortably."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु वचनं भरद्वाजेन राघवः ।  
 प्रत्युवाच शुभं वाक्यं रामः सर्वहिते रतः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,6 +1068,7 @@ interested in the welfare of all, replied in the following pleasant words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1014,6 +1077,8 @@ interested in the welfare of all, replied in the following pleasant words.
 आगमिष्यति वैदेहीं मां चापि प्रेक्षको जनः ।  
 अनेन कारणेनाहमिह वासं न रोचये ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,12 +1126,15 @@ make their appearance at this hermitage. For this reason, I do not wish to stay 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकान्ते पश्य भगवन्नाश्रमस्थानमुत्तमम् ।  
 रमते यत्र वैदेही सुखार्हा जनकात्मजा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,12 +1179,15 @@ delight in it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा शुभं वाक्यं भरद्वाजो महामुनिः ।  
 राघवस्य तु तद् वाक्यमर्थग्राहकमब्रवीत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1163,12 +1234,15 @@ concet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशक्रोश इतस्तात गिरिर्यस्मिन् निवत्स्यसि ।  
 महर्षिसेवितः पुण्यः पर्वतः शुभदर्शनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1190,12 +1264,15 @@ concet.
 
 * रामायणशिरोमणिकार दस कोसका अर्थ तीस कोस करते हैं और ‘दश च दश च दश च’ ऐसी व्युत्पत्ति करके एकशेषके नियमानुसार एक ही दशका प्रयोग होनेपर भी उसे ३० संख्याका बोधक मानते हैं । प्रयागसे चित्रकूटकी दूरी लगभग २८ कोस मानी जाती है, जो उपर्युक्त संख्यासे मिलती-जुलती ही है । आधुनिक मापके अनुसार प्रयागसे चित्रकूट ८० मील है । इस हिसाबसे चालीस कोसकी दूरी हुई । परंतु पहलेका क्रोशमान आधुनिक मानसे कुछ बड़ा रहा होगा, तभी यह अन्तर है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोलाङ्गूलानुचरितो वानरर्क्षनिषेवितः ।  
 चित्रकूट इति ख्यातो गन्धमादनसन्निभः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1322,15 @@ fairly concet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावता चित्रकूटस्य नरः शृङ्गाण्यवेक्षते ।  
 कल्याणानि समाधत्ते न पापे कुरुते मनः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1290,12 +1370,15 @@ virtuous deeds and will never set his mind on a sin."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयस्तत्र बहवो विहृत्य शरदां शतम् ।  
 तपसा दिवमारूढाः कपालशिरसा सह ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,12 +1424,15 @@ emancipation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविविक्तमहं मन्ये तं वासं भवतः सुखम् ।  
 इह वा वनवासाय वस राम मया सह ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1387,12 +1473,15 @@ in. Orelse stay with m here itself, during the period of your exile, Oh Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामं सर्वकामैस्तं भरद्वाजः प्रियातिथिम् ।  
 सभार्यं सह च भ्रात्रा प्रतिजग्राह हर्षयन् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1432,12 +1521,15 @@ and who was accompanied by his consort, Seetha and his brother, Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य प्रयागे रामस्य तं महर्षिमुपेयुषः ।  
 प्रपन्ना रजनी पुण्या चित्राः कथयतः कथाः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,12 +1570,15 @@ Yamuna), was discoursing on various topics, the auspicious night arrived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतातृतीयः काकुत्स्थः परिश्रान्तः सुखोचितः ।  
 भरद्वाजाश्रमे रम्ये तां रात्रिमवसत् सुखम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1525,12 +1620,15 @@ lovely hermitage of Bharadwaja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां भरद्वाजमुपागमत् ।  
 उवाच नरशार्दूलो मुनिं ज्वलिततेजसम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1570,12 +1668,15 @@ Bharadwaja, who was gleaming with resplendence and spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शर्वरीं भगवन्नद्य सत्यशील तवाश्रमे ।  
 उषिताः स्मोऽह वसतिमनुजानातु नो भवान् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1616,6 +1717,7 @@ permission for fixing our residence now, Oh sage practicing truthfulness !"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1623,6 +1725,8 @@ permission for fixing our residence now, Oh sage practicing truthfulness !"
 मधुमूलफलोपेतं चित्रकूटं व्रजेति ह ॥ ३८ ॥  
 वासमौपयिकं मन्ये तव राम महाबल ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1668,6 +1772,7 @@ That night having come to an end, Bharadwaja replied for his part, as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1675,6 +1780,8 @@ That night having come to an end, Bharadwaja replied for his part, as follows:
 मयूरनादाभिरतो गजराजनिषेवितः ।  
 गम्यतां भवता शैलश्चित्रकूटः स विश्रुतः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1726,6 +1833,7 @@ bountiful with tubers and fruits."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1735,6 +1843,8 @@ bountiful with tubers and fruits."
 सरित्प्रस्रवणप्रस्थान् दरीकन्दरनिर्झरान् ।  
 चरतः सीतया सार्धं नन्दिष्यति मनस्तव ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1796,6 +1906,7 @@ there, you will visibly notice them Oh Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1804,6 +1915,8 @@ there, you will visibly notice them Oh Rama!"
 मृगैश्च मत्तैर्बहुभिश्च कुञ्जरैः  
 सुरम्यमासाद्य समावसाश्रयम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1865,5 +1978,6 @@ many kinds of deer and elephants in rut, settle down there in a hermitage."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥54॥
+</details>
 </details>
 

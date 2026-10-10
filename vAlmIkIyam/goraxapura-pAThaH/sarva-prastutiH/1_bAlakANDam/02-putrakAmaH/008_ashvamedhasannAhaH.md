@@ -2,6 +2,8 @@
 title = "००८ अश्वमेधसन्नाहः"
 title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -26,12 +28,15 @@ scholars and ministers of his court, beforehand.
 
 एतादृशः पुत्रो नास्तीति अष्टम-सर्गे उक्तम् -  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चैवम्प्रभावस्य धर्मज्ञस्य महात्मनः ।  
 सुतार्थं तप्यमानस्य नासीद् वंशकरः सुतः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ not begotten though his heart is burning to beget children. [1-8-1]
 
 अतः पुत्रोत्पत्त्य्-उपायं चिन्तयतो धर्म-प्रधानस्यास्य दशरथस्य प्राचीन-भव-परम्परासादित-सुकृत-परिपाक-वशात् प्रकृष्ट-धर्म एवाभिलषित-साधने बुद्धिर् आसीत् - 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयानस्य तस्यैवं बुद्धिरासीन्महात्मनः ।  
 सुतार्थं वाजिमेधेन किमर्थं न यजाम्यहम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,6 +150,7 @@ Horse ritual...[and thus appease the gods in order to beget worthy sons..."] [1-
 
 इति । महा-पुरुषः पुत्रत्वेन भावीत्य् अतो ऽप्य् एवं सर्वोत्कृष्ट एव धर्मे बुद्धिर् आसीत् ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,6 +159,8 @@ Horse ritual...[and thus appease the gods in order to beget worthy sons..."] [1-
 ततोऽब्रवीन्महातेजाः सुमन्त्रं मन्त्रिसत्तम ।  
 शीघ्रमानय मे सर्वान् गुरूंस्तान् सपुरोहितान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +220,15 @@ clerics, quickly.." [1-8-3,4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुमन्त्रस्त्वरितं गत्वा त्वरितविक्रमः ।  
 समानयत् स तान् सर्वान् समस्तान् वेदपारगान् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,6 +245,7 @@ clerics, quickly.." [1-8-3,4]
 
 आग शीघ्रगामियाद सुमन्त्रनु ऒडनॆये होगि वेदवेदाङ्ग पारङ्गतराद मुनिगळन्नु अरमनॆगॆ करॆदुकॊण्डु बन्दनु.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,6 +254,8 @@ clerics, quickly.." [1-8-3,4]
 तान् पूजयित्वा धर्मात्मा राजा दशरथस्तदा ।  
 इदं धर्मार्थसहितं श्लक्ष्णं वचनमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,12 +319,15 @@ scholars. [1-8-5,6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम लालप्यमानस्य सुतार्थं नास्ति वै सुखम् ।  
 तदर्थं हयमेधेन यक्ष्यामीति मतिर्मम ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,12 +361,15 @@ Vedic Horse Ritual... this is my thinking... [1-8-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदहं यष्टुमिच्छामि शास्त्रदृष्टेन कर्मणा ।  
 कथं प्राप्स्याम्यहं कामं बुद्धिरत्रविचिन्त्यताम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +416,15 @@ fulfilled... [1-8-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः साध्विति तद्वाक्यं ब्राह्मणाः प्रत्यपूजयन् ।  
 वसिष्ठप्रमुखाः सर्वे पार्थिवस्य मुखेरितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,6 +465,7 @@ have blessed and honoured him, saying that "splendid is this idea..." thus, for 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -448,6 +475,8 @@ have blessed and honoured him, saying that "splendid is this idea..." thus, for 
 सर्वथा प्राप्स्यसे पुत्रानभिप्रेतांश्च पार्थिव ॥ १२ ॥  
 यस्य ते धार्मिकी बुद्धिरियं पुत्रार्थमागता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,6 +533,7 @@ your ritual-horse be released... [1-8-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -517,6 +547,8 @@ your ritual-horse be released... [1-8-11]
 नापराधो भवेत् कष्टो यद्यस्मिन् क्रतुसत्तमे ।  
 छिद्रं हि मृगयन्ते स्म विद्वांसो ब्रह्मराक्षसाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,6 +668,7 @@ procured... [1-8-13b, 14]
 
 अत्र महर्षिभिर् अपि अनुग्रहं कृत्वा फलम् अवश्यं भावीति निश्चित्य कर्मारम्भो ऽभ्यनुज्ञातः आ सर्ग-समाप्तेः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -643,6 +676,8 @@ procured... [1-8-13b, 14]
 तद्यथा विधिपूर्वं मे क्रतुरेष समाप्यते ॥ १८ ॥  
 तथा विधानं क्रियतां समर्थाः साधनेष्विति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +727,15 @@ Vedic-ritual performer shall be vigilant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति चाब्रुवन् सर्वे मन्त्रिणः प्रतिपूजिताः ॥ १९ ॥  
 पार्थिवेन्द्रस्य तद् वाक्यं यथापूर्वं निशम्य ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -738,12 +776,15 @@ conducted faultlessly as has been conducted earlier...' [1-8-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा द्विजास्ते धर्मज्ञा वर्धयन्तो नृपोत्तमम् ॥ २० ॥  
 अनुज्ञातास्ततः सर्वे पुनर्जग्मुर्यथागतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,12 +818,15 @@ Brahman scholars hailing that best king took leave of him and went away as they 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसर्जयित्वा तान् विप्रान् सचिवानिदमब्रवीत् ॥ २१ ॥  
 ऋत्विग्भिरुपसन्दिष्टो यथावत् क्रतुराप्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +860,15 @@ the Vedic scholars this ritual shall be conducted, procedurally..." [1-8-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा नृपशार्दूलः सचिवान् समुपस्थितान् ॥ २२ ॥  
 विसर्जयित्वा स्वं वेश्म प्रविवेश महामतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +902,15 @@ his audience, sent away those ministers also, and he entered his palace. [1-8-22
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स गत्वा ताः पत्नीर्नरेन्द्रो हृदयङ्गमाः ॥ २३ ॥  
 उवाच दीक्षां विशत यक्ष्येऽहं सुतकारणात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +945,15 @@ Vedic ritual for the reason of begetting sons, and you all shall enter a vow..."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां तेनातिकान्तेन वचनेन सुवर्चसाम् ।  
 मुखपद्मान्यशोभन्त पद्मानीव हिमात्यये ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -945,5 +998,6 @@ like the blooming lotuses after the clearance of dew-fall. [1-8-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎण्टनॆय सर्ग पूर्णवायितु. ॥8॥
+</details>
 </details>
 

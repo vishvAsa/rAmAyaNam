@@ -2,6 +2,8 @@
 title = "०७७ दशरथाद्ययोध्यागमनम्"
 title_english = "077 Happy days after marriages"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -22,12 +24,15 @@ The wedding party arrives at Ayodhya on the exit of Parashu Rama. Yudhaajit, the
 
 77. राजा दशरथका पुत्रों और वधुओंके साथ अयोध्यामें प्रवेश, शत्रुघ्नसहित भरतका मामाके यहाँ जाना, श्रीरामके बर्तावसे सबका संतोष तथा सीता और श्रीरामका पारस्परिक प्रेम
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते रामे प्रशान्तात्मा रामो दाशरथिर्धनुः ।  
 वरुणायाप्रमेयाय ददौ हस्ते महायशाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ On this longbow and its giving to god of Rain, some discussion is incorporated i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य ततो रामो वसिष्ठप्रमुखानृषीन् ।  
 पितरं विकलं दृष्ट्वा प्रोवाच रघुनन्दनः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ addressed his agitated father Dasharatha. [1-77-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जामदग्न्यो गतो रामः प्रयातु चतुरङ्गिणी ।  
 अयोध्याभिमुखी सेना त्वया नाथेन पालिता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,6 +166,7 @@ to move on towards Ayodhya..." So said Rama to his father. [1-77-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +175,8 @@ to move on towards Ayodhya..." So said Rama to his father. [1-77-3]
 गतो राम इति श्रुत्वा हृष्टः प्रमुदितो नृपः ।  
 पुनर्जातं तदा मेने पुत्रमात्मानमेव च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ that he and his sons took a rebirth. [1-77-4, 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चोदयामास तां सेनां जगामाशु ततः पुरीम् ।  
 पताकाध्वजिनीं रम्यां तूर्योद‍्घुष्टनिनादिताम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +254,7 @@ that he and his sons took a rebirth. [1-77-4, 5]
 
 बळिक दशरथनु तन्न सैन्यक्कॆ नगरद कडॆगॆ नडॆयलु आज्ञापिसिदनु. अल्लिन्द हॊरटु शीघ्रवागि अयोध्यॆयन्नु तलुपिदरु. आग अयोध्यॆयु तळिरु तोरण, ध्वज-पताकॆगळिन्द अलङ्कृतवागित्तु; अदरिन्द नगरवु विशेषवागि शोभिसुत्तित्तु. बगॆबगॆय मङ्गळ वाद्यगळ ध्वनिगळिन्द नगरवु प्रतिध्वनिसुत्तित्तु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,6 +263,8 @@ that he and his sons took a rebirth. [1-77-4, 5]
 सम्पूर्णां प्राविशद् राजा जनौघैः समलङ्कृताम् ।  
 पौरैः प्रत्युद‍्गतो दूरं द्विजैश्च पुरवासिभिः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +312,15 @@ at their king's re-entry, and into such an exhilarating city Ayodhya king Dashar
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रैरनुगतः श्रीमान् श्रीमद्भिश्च महायशाः ।  
 प्रविवेश गृहं राजा हिमवत्सदृशं प्रियम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,6 +366,7 @@ four stages of living, 1] celibate scholar, 2] householder, 3] repairing to fore
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -350,6 +374,8 @@ four stages of living, 1] celibate scholar, 2] householder, 3] repairing to fore
 कौसल्या च सुमित्रा च कैकेयी च सुमध्यमा ॥ १० ॥  
 वधूप्रतिग्रहे युक्ता याश्चान्या राजयोषितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,6 +427,7 @@ his affection to Rama, later.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -408,6 +435,8 @@ his affection to Rama, later.
 कुशध्वजसुते चोभे जगृहुर्नृपयोषितः ।  
 मङ्गलालापनैर्होमैः शोभिताः क्षौमवाससः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,6 +496,7 @@ the daughters of Kushadhvaja, namely Maandavi and Shrutakiirti, with pageantry a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -474,6 +504,8 @@ the daughters of Kushadhvaja, namely Maandavi and Shrutakiirti, with pageantry a
 अभिवाद्याभिवाद्यांश्च सर्वा राजसुतास्तदा ॥ १३ ॥  
 रेमिरे मुदिताः सर्वा भर्तृभिर्मुदिता रहः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,6 +555,7 @@ parade until their backs are broken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -531,6 +564,8 @@ parade until their backs are broken.
 कस्यचित्त्वथ कालस्य राजा दशरथः सुतम् ॥ १५ ॥  
 भरतं कैकयीपुत्रमब्रवीद् रघुनन्दनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -582,12 +617,15 @@ around with good hearted people. [1-77-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं केकयराजस्य पुत्रो वसति पुत्रक ॥ १६ ॥  
 त्वां नेतुमागतो वीरो युधाजिन्मातुलस्तव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +659,15 @@ now go with Yudhaajit. [1-77-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा दशरथस्यैतद् भरतः कैकयीसुतः ॥ १७ ॥  
 गमनायाभिचक्राम शत्रुघ्नसहितस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +709,15 @@ to Kekaya province. [1-77-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपृच्छ्य पितरं शूरो रामं चाक्लिष्टकारिणम् ॥ १८ ॥  
 मातॄश्चापि नरश्रेष्ठः शत्रुघ्नसहितो ययौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,12 +761,15 @@ in undertaking deeds, and even from his mothers, Kaikeyi, Sumitra, and Kausalya,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युधाजित् प्राप्य भरतं सशत्रुघ्नं प्रहर्षितः ॥ १९ ॥  
 स्वपुरं प्राविशद् वीरः पिता तस्य तुतोष ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +805,15 @@ indeed to the high rejoice of his father, King of Kekaya. [1-77-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते च भरते रामो लक्ष्मणश्च महाबलः ॥ २० ॥  
 पितरं देवसङ्काशं पूजयामासतुस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +849,15 @@ and programs of his godly father for an ideal-sovereignty. [1-77-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुराज्ञां पुरस्कृत्य पौरकार्याणि सर्वशः ॥ २१ ॥  
 चकार रामः सर्वाणि प्रियाणि च हितानि च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -821,12 +874,15 @@ and programs of his godly father for an ideal-sovereignty. [1-77-20b, 21a]
 
 तन्दॆय आज्ञॆयन्नु शिरसावहिसि अवरु नगरवासियर ऎल्ल कार्यवन्नु नोडिकॊळ्ळुवुदु हागू अवर ऎल्ल प्रियवाद, हितकर कार्यगळन्नु माडतॊडगिदरु.॥21½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातृभ्यो मातृकार्याणि कृत्वा परमयन्त्रितः ॥ २२ ॥  
 गुरूणां गुरुकार्याणि काले कालेऽन्ववैक्षत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,12 +920,15 @@ time to time. [1-77-22b, 22, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दशरथः प्रीतो ब्राह्मणा नैगमास्तथा ॥ २३ ॥  
 रामस्य शीलवृत्तेन सर्वे विषयवासिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +945,15 @@ time to time. [1-77-22b, 22, 23a]
 
 अवर ई सद्वर्तनॆयिन्द दशरथनु, वेदवेत्तराद ब्राह्मणरु हागू वैश्यवर्गवु बहळ प्रसन्नरागिद्दरु. श्रीरामन उत्तम शील, सद् व्यवहारदिन्द आ राज्यदल्लि वासिसुत्तिद्दवरॆल्लरू बहळ सन्तुष्टरादरु.॥23½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामतियशा लोके रामः सत्यपराक्रमः ॥ २४ ॥  
 स्वयम्भूरिव भूतानां बभूव गुणवत्तरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,12 +992,15 @@ and even to all of the living beings in the world, as the Self-Created Brahma. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामश्च सीतया सार्धं विजहार बहूनृतून् ॥ २५ ॥  
 मनस्वी तद‍्गतमनास्तस्या हृदि समर्पितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -990,6 +1055,7 @@ its enrichment - the self-content bliss of monogamy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -997,6 +1063,8 @@ its enrichment - the self-content bliss of monogamy.
 गुणाद्रूपगुणाच्चापि प्रीतिर्भूयोऽभिवर्धते ।  
 तस्याश्च भर्ता द्विगुणं हृदये परिवर्तते ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,6 +1121,7 @@ choice: / He loved her for each charm she wore / And her sweet virtues more and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1060,6 +1129,8 @@ choice: / He loved her for each charm she wore / And her sweet virtues more and 
 तस्य भूयो विशेषेण मैथिली जनकात्मजा ।  
 देवताभिः समा रूपे सीता श्रीरिव रूपिणी ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1098,6 +1169,7 @@ traits and characteristics, Seetha is rejoicing the heart of Rama. [1-77-28b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1106,6 +1178,8 @@ traits and characteristics, Seetha is rejoicing the heart of Rama. [1-77-28b, c]
 अतीव रामः शुशुभे मुदान्वितो  
 विभुः श्रिया विष्णुर् इवामरेश्वरः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1163,4 +1237,5 @@ of my heartstrings, that are the halters with fastness...'
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तसप्ततितमः सर्गः ॥ ७७ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सतहत्तरवाँ सर्ग पूरा हुआ ॥ ७७ ॥  
 ॥ बालकाण्डं सम्पूर्णम् ॥
+</details>
 </details>

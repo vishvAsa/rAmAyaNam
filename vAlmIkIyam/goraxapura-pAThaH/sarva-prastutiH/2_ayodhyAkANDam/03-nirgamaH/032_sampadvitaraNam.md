@@ -2,6 +2,8 @@
 title = "०३२ सम्पद्वितरणम्"
 title_english = "032 Rama distributes his wealth to Rishis"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-032-Lakshmanaaya_Mamathihi.mp3"></div>
 </details>
@@ -9,6 +11,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 <details><summary>भागसूचना</summary>
 
 32. सीतासहित श्रीरामका वसिष्ठपुत्र सुयज्ञको बुलाकर उनके तथा उनकी पत्नीके लिये बहुमूल्य आभूषण, रत्न और धन आदिका दान तथा लक्ष्मणसहित श्रीरामद्वारा ब्राह्मणों, ब्रह्मचारियों, सेवकों, त्रिजट ब्राह्मण और सुहृज्जनोंको धनका वितरण
+</details>
 </details>
 
 ## सुयज्ञाह्वानम्
@@ -19,6 +22,8 @@ title_english = "032 Rama distributes his wealth to Rishis"
 गत्वा स प्रविवेशाशु  
 सुयज्ञस्य निवेशनम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -59,6 +64,7 @@ went immediately to the house of suyajna.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,6 +73,8 @@ went immediately to the house of suyajna.
 सखेऽभ्यागच्छ पश्य त्वं  
 वेश्म दुष्कर-कारिणः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,6 +115,7 @@ follows: "Oh, friend! Come and see the house of Rama who is doing an arduous tas
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,6 +124,8 @@ follows: "Oh, friend! Come and see the house of Rama who is doing an arduous tas
 ऋद्धं स प्राविशल् लक्ष्म्या  
 रम्यं राम-निवेशनम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,6 +170,7 @@ the goddess of wealth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,6 +179,8 @@ the goddess of wealth.
 सुयज्ञम् अभिचक्राम  
 राघवो ऽग्निम् इवार्चितम् ॥ ४ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,6 +220,7 @@ around sacrificial fire, that Suyajna the venerable man who had the knowledge of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -216,6 +231,8 @@ around sacrificial fire, that Suyajna the venerable man who had the knowledge of
 अन्यैश् च रत्नैर् बहुभिः  
 काकुत्स्थः प्रत्य्-अपूजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +254,7 @@ _________________
 
 बळिक काकुत्स्थ श्रीरामनु स्वर्णमय श्रेष्ठ भुजकीर्तिगळन्नु, सुन्दर कुण्डलगळन्नू, चिन्नद सूत्रदल्लि पोणिसिद मणिसरगळन्नू, केयूर, कडगगळन्नु हागू हेरळवाद रत्नगळन्नु अर्पिसि अवरन्नु पूजिसिदनु.॥5½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,6 +265,8 @@ _________________
 रशनां चाथ सा सीता  
 दातुम् इच्छति ते सखी ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,6 +326,7 @@ urged by Seetha, the said Rama then spoke to suyajna as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,6 +335,8 @@ urged by Seetha, the said Rama then spoke to suyajna as follows:
 प्रयच्छति सखी तुभ्यं  
 भार्यायै गच्छती वनम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,6 +379,7 @@ armlets adorned with figures cut in them and beautiful keyuras."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -364,6 +388,8 @@ armlets adorned with figures cut in them and beautiful keyuras."
 तम् अपीच्छति वैदेही  
 प्रतिष्ठापयितुं त्वयि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,6 +430,7 @@ with an excellent coverlet."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -412,6 +439,8 @@ with an excellent coverlet."
 तं ते गज-सहस्रेण  
 ददामि द्विजपुङ्गव ॥ १० ॥+++(2)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,6 +481,7 @@ earlier to me by my maternal uncle as well as those thousand elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -460,6 +490,8 @@ earlier to me by my maternal uncle as well as those thousand elephants."
 राम-लक्ष्मण-सीतानां  
 प्रयुयोजाशिषः शिवाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,6 +531,7 @@ Rama, Lakshmana and Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 ## अन्यदानादेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -508,6 +541,8 @@ Rama, Lakshmana and Seetha.
 सौमित्रिं तमुवाचेदं  
 ब्रह्मेव त्रिदशेश्वरम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -547,6 +582,7 @@ beloved brother Lakshmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -560,6 +596,8 @@ beloved brother Lakshmana as follows:
 सुवर्णरजतैश् चैव  
 मणिभिश् च महाधनैः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +664,7 @@ them with valuable gifts as water is poured to a crop of corn."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -638,6 +677,8 @@ them with valuable gifts as water is poured to a crop of corn."
 कौशेयानि च वस्त्राणि  
 यावत् तुष्यति स द्विजः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,6 +738,7 @@ Shukla Yajurveda)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -707,6 +749,8 @@ Shukla Yajurveda)
 पशुकाभिश् च सर्वाभिर्  
 गवां दश-शतेन च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,6 +796,7 @@ types of small animals and with thousands of cows."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -766,6 +811,8 @@ types of small animals and with thousands of cows."
 शालि-वाह-सहस्रं च  
 द्वे शते भद्रकांस् +++(धान्य-विशेषान्)+++ तथा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,6 +876,7 @@ Give a thousand cows for use in their nourishment, Oh Lakshmana!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -839,6 +887,8 @@ Give a thousand cows for use in their nourishment, Oh Lakshmana!"
 तेषां सहस्रं सौमित्रे  
 प्रत्येकं सम्प्रदापय ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,6 +930,7 @@ given a thousand cows each."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -888,6 +939,8 @@ given a thousand cows each."
 तथा द्विजातींस् तान् सर्वाल्ँ  
 लक्ष्मणार्चय सर्वशः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -931,6 +984,7 @@ to see my gifts."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,6 +993,8 @@ to see my gifts."
 यथोक्तं ब्राह्मणेन्द्राणाम्  
 अददाद् धनदो यथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,6 +1034,7 @@ best of brahmanas as instructed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 ## उपजीविभ्यो वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -992,6 +1049,8 @@ best of brahmanas as instructed.
 अशून्यं कार्यम् एकैकं  
 यावद् आगमनं मम ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1052,6 +1111,7 @@ with tears in their throats, spoke to them as follows;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 ## त्रिजटाय दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1061,6 +1121,8 @@ with tears in their throats, spoke to them as follows;
 **उवाचेदं** धनाध्यक्षं  
 धनम् **आनीयतां** मम ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,6 +1163,7 @@ treasurer as follows: "Let my wealth be brought(here)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1109,6 +1172,8 @@ treasurer as follows: "Let my wealth be brought(here)."
 स राशिस् सुमहांस् तत्र  
 **दर्शनीयो** ह्य् **अदृश्यत** ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,6 +1216,7 @@ wealth there appeared good-looking.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1159,6 +1225,8 @@ wealth there appeared good-looking.
 द्विजेभ्यो बाल-वृद्धेभ्यः  
 कृपणेभ्यो ह्य् **अदापयत्** ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,6 +1270,7 @@ distributed among the brahmanas, the children, the old-aged and the pitiable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1210,6 +1279,8 @@ distributed among the brahmanas, the children, the old-aged and the pitiable.
 क्षत-**वृत्तिर्** +++(→उञ्छवृत्तिः)+++ वने नित्यं  
 +++(यागादि-हेतुक-खननोपकरणी-भूत-)+++फाल+++(=लाङ्गलस्थ-भूमि-विदारक-लौहः)+++-कुद्दाल-लाङ्गली ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,6 +1325,7 @@ carrying an axe, a spade and a plough."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1267,6 +1339,8 @@ carrying an axe, a spade and a plough."
 रामं **दर्शय** धर्मज्ञं  
 यदि किञ्चिद् **अवाप्स्यसि** । ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1333,6 +1407,7 @@ her, spoke to that aged brahmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1341,6 +1416,8 @@ her, spoke to that aged brahmana as follows:
 स **प्रातिष्ठत** पन्थानं  
 यत्र राम-निवेशनम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1381,6 +1458,7 @@ his body and set out towards the track wherein lies Rama's palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1389,6 +1467,8 @@ his body and set out towards the track wherein lies Rama's palace.
 आपञ्चमायाः कक्ष्याया  
 नैतं कश्चिद् **अवारयत्** ॥ ३३ ॥+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1429,6 +1509,7 @@ was equal in spiritual splendour with the sages Bhrigu and Angira.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1440,6 +1521,8 @@ was equal in spiritual splendour with the sages Bhrigu and Angira.
 क्षत-**वृत्तिर्** वने नित्यं  
 **प्रत्यवेक्षस्व** माम्" इति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1485,6 +1568,7 @@ forest, with an occupation of digging the soil. Look to me, as you know."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1496,6 +1580,8 @@ forest, with an occupation of digging the soil. Look to me, as you know."
 **परिक्षिपसि** दण्डेन  
 यावत् तावद् **अवाप्स्यसे** ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1565,6 +1651,7 @@ staff."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1573,6 +1660,8 @@ staff."
 **आविध्य** दण्डं **चिक्षेप**  
 सर्व-प्राणेन वेगतः ॥ ३७ ॥+++(4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1613,6 +1702,7 @@ close to a bull amidst a flock of cows numbering in several thousands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1621,6 +1711,8 @@ close to a bull amidst a flock of cows numbering in several thousands.
 गो-व्रजे बहु-साहस्रे  
 **पपात**+उक्षण-सन्निधौ ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1663,6 +1755,7 @@ the cows up to that bank of Sarayu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1671,6 +1764,8 @@ the cows up to that bank of Sarayu.
 **आनयाम् आस** ता गावस्  
 त्रिजटस्याश्रमं प्रति ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1710,6 +1805,7 @@ express your contempt, for this was only a jest indulged in by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1720,6 +1816,8 @@ express your contempt, for this was only a jest indulged in by me."
 +++(तावद् (एव) दास्यामीति)+++ **परिहासो** ह्य् अयं मम  
 +++(अरण्यगमने ऽपि हास्यावकाशो रामस्य! र५)+++ ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1763,6 +1861,7 @@ for you. If you desire any other thing, opt for it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1771,6 +1870,8 @@ for you. If you desire any other thing, opt for it."
 इमं भवान् अर्थम् **अभि-प्रचोदितो**,  
 **वृणीष्व** - किं चेद् अपरं **व्यवस्यसि** ॥ ४१ ॥ +++(र4)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1817,6 +1918,7 @@ it will bring in joy and fame."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1825,6 +1927,8 @@ it will bring in joy and fame."
 भवत्सु सम्यक् **प्रतिपादनेन**  
 मया **ऽर्जितं** चैव **यशस्-करं** भवेत् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1877,6 +1981,7 @@ strength, delight and happiness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1885,6 +1990,8 @@ strength, delight and happiness.
 यशो-बल-प्रीति-सुखोप-बृंहणीस्  
 तदा ऽऽशिषः **प्रत्यवदन्** महात्मनः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1929,6 +2036,7 @@ immediately bestowed on friendly people, a great wealth earned by righteous migh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 ## अन्येभ्यो दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1938,6 +2046,8 @@ immediately bestowed on friendly people, a great wealth earned by righteous migh
 नियोजयाम् आस सुहृज्-जने चिराद्  
 यथार्ह-सम्मान-वचः-प्रचोदितः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1988,6 +2098,7 @@ mendicant who was not satiated with befittingly deserving honour, gifts and resp
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1996,6 +2107,8 @@ mendicant who was not satiated with befittingly deserving honour, gifts and resp
 न तत्र कश्चिन् न बभूव तर्पितो  
 यथार्ह-सम्मानन-दान-सम्भ्रमैः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2029,5 +2142,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तॆरडनॆय सर्ग पूर्णवायितु.॥32॥
+</details>
 </details>
 

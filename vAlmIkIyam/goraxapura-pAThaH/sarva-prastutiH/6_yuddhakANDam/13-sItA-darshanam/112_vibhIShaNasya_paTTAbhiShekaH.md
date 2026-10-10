@@ -1,6 +1,8 @@
 +++
 title = "११२ विभीषणस्य पट्टाभिषेकः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ to Seetha through Hanuma.
 
 112. विभीषणका राज्याभिषेक और श्रीरघुनाथजीका हनुमान् जी के द्वारा सीताके पास संदेश भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रावणवधं दृष्ट्वा देवगन्धर्वदानवाः ।  
 जग्मुः स्वैः स्वैर्विमानैस्ते कथयन्तः शुभाः कथाः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,6 +67,7 @@ while chatting about the auspicious narrative, went away in their respective aer
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,6 +77,8 @@ while chatting about the auspicious narrative, went away in their respective aer
 पतिव्रतात्वं सीताया हनूमति पराक्रमम् ॥ ३ ॥  
 कथयन्तो महाभागा जग्मुर्हृष्टा यथागतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ of Hanuma, the illustrious celestials and others rejoicingly returned as they ha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्तु रथं दिव्यमिन्द्रदत्तं शिखिप्रभम् ॥ ४ ॥  
 अनुज्ञाप्य महाबाहुर्मातलिं प्रत्यपूजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ celestials and which shone like fire, the mighty armed Rama respectfully saluted
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवेणाभ्यनुज्ञातो मातलिः शक्रसारथिः ॥ ५ ॥  
 दिव्यं तं रथमास्थाय दिवमेवोत्पपात ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +231,15 @@ ascended to the heaven itself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस्तु दिवमारूढे सरथे रथिनां वरः ॥ ६ ॥  
 राघवः परमप्रीतः सुग्रीवं परिषस्वजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +280,15 @@ the chariot-warriors was highly rejoiced and embraced Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिष्वज्य च सुग्रीवं लक्ष्मणेनाभिवादितः ॥ ७ ॥  
 पूज्यमानो हरिगणैराजगाम बलालयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +329,7 @@ monkey-troops. Rama came to the camp where the army had been stationed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -317,6 +338,8 @@ monkey-troops. Rama came to the camp where the army had been stationed.
 विभीषणमिमं सौम्य लङ्कायामभिषेचय ॥ ९ ॥  
 अनुरक्तं च भक्तं च तथा पूर्वोपकारिणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,12 +394,15 @@ strength and having auspicious marks, who stayed nearby.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे परमः कामो यदिमं रावणानुजम् ॥ १० ॥  
 लङ्कायां सौम्य पश्येयमभिषिक्तं विभीषणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,6 +439,7 @@ brother of Ravana being consecrated for throne in Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,6 +448,8 @@ brother of Ravana being consecrated for throne in Lanka."
 तं घटं वानरेन्द्राणां हस्ते दत्त्वा मनोजवान् ॥ १२ ॥  
 व्यादिदेश महासत्त्वान् समुद्रसलिलं तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,12 +503,15 @@ rejoicingly procured a golden pot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिशीघ्रं ततो गत्वा वानरास्ते मनोजवाः ॥ १३ ॥  
 आगतास्तु जलं गृह्य समुद्राद् वानरोत्तमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,6 +545,7 @@ quickly from that place, returned, having obtained the water from the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,6 +555,8 @@ quickly from that place, returned, having obtained the water from the sea.
 विधिना मन्त्रदृष्टेन सुहृद‍्गणसमावृतम् ।  
 अभ्यषिञ्चस्तदा सर्वे राक्षसा वानरास्तथा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +632,7 @@ for Lanka, as directed by Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -605,6 +641,8 @@ for Lanka, as directed by Rama.
 दृष्ट्वाभिषिक्तं लङ्कायां राक्षसेन्द्रं विभीषणम् ।  
 राघवः परमां प्रीतिं जगाम सहलक्ष्मणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -668,12 +706,15 @@ were rejoiced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तद् राज्यं महत् प्राप्य रामदत्तं विभीषणः ।  
 सान्त्वयित्वा प्रकृतयस्ततो राममुपागमत् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,12 +731,15 @@ were rejoiced.
 
 श्रीरामचन्द्रनु करुणिसिद आ विशाल राज्यवन्नु पडॆदु विभीषणनु तन्न प्रजॆगॆ सान्त्वन नीडि श्रीरामन बळिगॆ बन्दनु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दध्यक्षतान् मोदकांश्च लाजाः सुमनसस्तथा ।  
 आजह्रुरथ संहृष्टाः पौरास्तस्मै निशाचराः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +778,15 @@ flowers too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तान् गृहीत्वा दुर्धर्षो राघवाय न्यवेदयत् ।  
 मङ्गल्यं मङ्गलं सर्वं लक्ष्मणाय च वीर्यवान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,12 +824,15 @@ auspicious objects to Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतकार्यं समृद्धार्थं दृष्ट्वा रामो विभीषणम् ।  
 प्रतिजग्राह तत् सर्वं तस्यैव प्रतिकाम्यया ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,12 +870,15 @@ accepted it all, with a sole desire to show gratefulness to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शैलोपमं वीरं प्राञ्जलिं प्रणतं स्थितम् ।  
 उवाचेदं वचो रामो हनूमन्तं प्लवङ्गमम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -867,12 +920,15 @@ salutation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञाप्य महाराजमिमं सौम्य विभीषणम् ।  
 प्रविश्य नगरीं लङ्कां कौशलं ब्रूहि मैथिलीम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -913,6 +969,7 @@ entering into the City of Lanka, inform about our welfare to Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -921,6 +978,8 @@ entering into the City of Lanka, inform about our welfare to Seetha."
 प्रियमेतदिहाख्याहि वैदेह्यास्त्वं हरीश्वर ।  
 प्रतिगृह्य तु सन्देशमुपावर्तितुमर्हसि ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -992,5 +1051,6 @@ Lakshmana and Sugreeva are well and that Ravana had been killed in battle."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहन्नॆरडनॆय सर्ग पूर्णवायितु.॥112॥
+</details>
 </details>
 

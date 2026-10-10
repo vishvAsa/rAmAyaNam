@@ -1,6 +1,8 @@
 +++
 title = "१२४ भरद्वाजाश्रमागमनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,12 +26,15 @@ Thereupon, the troops of monkeys feasted on those fruits at will.
 
 124. श्रीरामका भरद्वाज-आश्रमपर उतरकर महर्षिसे मिलना और उनसे वर पाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे चतुर्दशे वर्षे पञ्चम्यां लक्ष्मणाग्रजः ।  
 भरद्वाजाश्रमं प्राप्य ववन्दे नियतो मुनिम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +72,7 @@ the sage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -74,6 +80,8 @@ the sage.
 शृणोषि कच्चिद् भगवन् सुभिक्षानामयं पुरे ।  
 कच्चित् स युक्तो भरतो जीवन्त्यपि च मातरः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ alive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण भरद्वाजो महामुनिः ।  
 प्रत्युवाच रघुश्रेष्ठं स्मितपूर्वं प्रहृष्टवत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +163,15 @@ smilingly replied to Rama (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञावशत्वे भरतो जटिलस्त्वां प्रतीक्षते ।  
 पादुके ते पुरस्कृत्य सर्वं च कुशलं गृहे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,6 +213,7 @@ All are safe at your home and in the city."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,6 +224,8 @@ All are safe at your home and in the city."
 दृष्ट्वा तु करुणापूर्वं ममासीत् समितिञ्जय ।  
 कैकेयीवचने युक्तं वन्यमूलफलाशिनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,12 +294,15 @@ arose in me earlier."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साम्प्रतं तु समृद्धार्थं समित्रगणबान्धवम् ।  
 समीक्ष्य विजितारिं च ममाभूत् प्रीतिरुत्तमा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,12 +338,15 @@ relatives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं च सुखदुःखं ते विदितं मम राघव ।  
 यत् त्वया विपुलं प्राप्तं जनस्थाननिवासिना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +386,15 @@ Janasthana-forest in completely known to me, O Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणार्थे नियुक्तस्य रक्षतः सर्वतापसान् ।  
 रावणेन हृता भार्या बभूवेयमनिन्दिता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,6 +428,7 @@ the interests of Brahmanas, this irreproachable wife of yours was taken away by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +444,8 @@ the interests of Brahmanas, this irreproachable wife of yours was taken away by 
 समागमश्च त्रिदशैर्यथा दत्तश्च ते वरः ॥ १५ ॥  
 सर्वं ममैतद् विदितं तपसा धर्मवत्सल ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,6 +482,7 @@ _________________
 
 धर्मवत्सल! मारीचनु कपटमृगवागि काणिसिकॊळ्ळुवुदु, सीतॆय बलवन्तवागि अपहरणवागुवुदु, आकॆयन्नु हुडुकुवाग दारियल्लि कबन्धनु सिगुवुदु, नीनु पम्पा सरोवरक्कॆ होगुवुदु, सुग्रीवनॊन्दिगॆ मैत्रि एर्पडुवुदु, निन्न कैयिन्द वालियु हतनागुवुदु, सीतान्वेषण, हनुमन्तन अद्भुत कार्य, सीतॆय शोधवाद बळिक नळनिन्द समुद्रद मेलॆ सेतुनिर्माण, हर्षोत्साह तुम्बिद वानर दळपतिगळिन्द लङ्कादहन, पुत्र, बन्धु, मन्त्रि, सैन्य मत्तु वाहनगळ सहित बलाभिमानी रावणन वधॆ निन्निन्दादुदु, आ देव कण्टक रावणनु हतनादाग देवतॆगळॊन्दिगॆ निन्न समागम, अवरु निनगॆ वर कॊट्टिद्दु - इवॆल्ल सङ्गतिगळु तपस्सिन प्रभाव दिन्द ननगॆ तिळिदिदॆ.॥11-15½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -460,6 +490,8 @@ _________________
 अहमप्यत्र ते दद्मि वरं शस्त्रभृतां वर ।  
 अर्घ्यं प्रतिगृहाणेदमयोध्यां श्वो गमिष्यसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,12 +566,15 @@ from here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तच्छिरसा वाक्यं प्रतिगृह्य नृपात्मजः ।  
 बाढमित्येव संहृष्टः श्रीमान् वरमयाचत ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,6 +610,7 @@ boon:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -582,6 +618,8 @@ boon:
 फलान्यमृतगन्धीनि बहूनि विविधानि च ॥ १९ ॥  
 भवन्तु मार्गे भगवन्नयोध्यां प्रति गच्छतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +668,15 @@ fragrance of nectar, appear on them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेति च प्रतिज्ञाते वचनात् समनन्तरम् ॥ २० ॥  
 अभवन् पादपास्तत्र स्वर्गपादपसन्निभाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,6 +710,7 @@ to be closely like the heavenly trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -676,6 +718,8 @@ to be closely like the heavenly trees.
 शुष्काः समग्रपत्रास्ते नगाश्चैव मधुस्रवाः ।  
 सर्वतो योजनास्तिस्रो गच्छतामभवंस्तदा ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,6 +766,7 @@ with foliage and further began to flow with honey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -730,6 +775,8 @@ with foliage and further began to flow with honey.
 कामादुपाश्नन्ति सहस्रशस्ते  
 मुदान्विताः स्वर्गजितो यथैव ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -784,5 +831,6 @@ at will, thousands of many of those wonderful fruits.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर इप्पत्तनाल्कनॆय सर्ग पूर्णवायितु.॥124॥
+</details>
 </details>
 

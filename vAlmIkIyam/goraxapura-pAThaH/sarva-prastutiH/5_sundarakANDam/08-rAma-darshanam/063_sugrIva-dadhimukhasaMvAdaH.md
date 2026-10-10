@@ -2,6 +2,8 @@
 title = "०६३ सुग्रीव-दधिमुखसंवादः"
 title_english = "063 Dadhimukha reports Madhuvana destruction to Sugreeva"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -23,12 +25,15 @@ Angada and others to him, so as to hear about their efforts in tracing out Seeth
 
 63. दधिमुखसे मधुवनके विध्वंसका समाचार सुनकर सुग्रीवका हनुमान् आदि वानरोंकी सफलताके विषयमें अनुमान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मूर्ध्ना निपतितं वानरं वानरर्षभः ।  
 दृष्ट्वैवोद्विग्नहृदयो वाक्यमेतदुवाच ह ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ of monkeys, with an agitated mind, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठोत्तिष्ठ कस्मात् त्वं पादयोः पतितो मम ।  
 अभयं ते प्रदास्यामि सत्यमेवाभिधीयताम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ from fear. Let the entire truth be spoken!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं सम्भ्रमाद्धितं कृत्स्नं ब्रूहि यद् वक्तुमर्हसि ।  
 कच्चिन्मधुवने स्वस्ति श्रोतुमिच्छामि वानर ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,12 +178,15 @@ rising up, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स समाश्वासितस्तेन सुग्रीवेण महात्मना ।  
 उत्थाय स महाप्राज्ञो वाक्यं दधिमुखोऽब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +229,15 @@ father, or by you, or by even Vali. That Madhuvana has been consumed away by the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवर्क्षरजसा राजन् न त्वया न च वालिना ।  
 वनं निसृष्टपूर्वं ते नाशितं तत्तु वानरैः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +280,15 @@ continue to eat the fruits and drink the honey too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यवारयमहं सर्वान् सहैभिर्वनचारिभिः ।  
 अचिन्तयित्वा मां हृष्टा भक्षयन्ति पिबन्ति च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,12 +333,15 @@ consuming that remnant. When prevented by us, all of them are indeed exhibiting 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एभिः प्रधर्षणायां च वारितं वनपालकैः ।  
 मामप्यचिन्तयन् देव भक्षयन्ति वनौकसः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -361,12 +384,15 @@ those enraged monkeys threatened them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिष्टमत्रापविध्यन्ति भक्षयन्ति तथापरे ।  
 निवार्यमाणास्ते सर्वे भ्रुकुटिं दर्शयन्ति हि ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,12 +435,15 @@ in anger, drove away these monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे हि संरब्धतरास्तदा तैः सम्प्रधर्षिताः ।  
 निवार्यन्ते वनात् तस्मात् क्रुद्धैर्वानरपुङ्गवैः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +486,15 @@ their knees. They dragged some of them and tossed them into air."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तैर्बहुभिर्वीरैर्वानरैर्वानरर्षभाः ।  
 संरक्तनयनैः क्रोधाद्धरयः सम्प्रधर्षिताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ and are eating away the entire Maduvana too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाणिभिर्निहताः केचित् केचिज्जानुभिराहताः ।  
 प्रकृष्टाश्च तदा कामं देवमार्गं च दर्शिताः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -553,12 +588,15 @@ excellent of monkeys (as follows) while Dadhimukha was thus reporting to him:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेते हताः शूरास्त्वयि तिष्ठति भर्तरि ।  
 कृत्स्नं मधुवनं चैव प्रकामं तैश्च भक्ष्यते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -601,12 +639,15 @@ has this monkey in grief, spoken these words to you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विज्ञाप्यमानं तं सुग्रीवं वानरर्षभम् ।  
 अपृच्छत् तं महाप्राज्ञो लक्ष्मणः परवीरहा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -649,12 +690,15 @@ as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमयं वानरो राजन् वनपः प्रत्युपस्थितः ।  
 किं चार्थमभिनिर्दिश्य दुःखितो वाक्यमब्रवीत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,12 +745,15 @@ other heroes consumed honey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सुग्रीवो लक्ष्मणेन महात्मना ।  
 लक्ष्मणं प्रत्युवाचेदं वाक्यं वाक्यविशारदः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,12 +773,15 @@ _________________
 
 पूज्यनाद लक्ष्मणा! अङ्गदने मॊदलाद वीररु मधुवनदल्लिद्द मधुवन्नु पानमाडि, फलगळन्नु भक्षिसिदरॆन्दु ई दधिमुखनु हेळुत्तिद्दानॆ.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्य लक्ष्मण सम्प्राह वीरो दधिमुखः कपिः ।  
 अङ्गदप्रमुखैर्वीरैर्भक्षितं मधु वानरैः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +821,15 @@ not accomplished my purpose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैषामकृतकार्याणामीदृशः स्याद् व्यतिक्रमः ।  
 वनं यदभिपन्नास्ते साधितं कर्म तद् ध्रुवम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -796,6 +849,7 @@ _________________
 
 ‘इसकी बात सुनकर मुझे यह अनुमान होता है कि वे जिस कार्यके लिये गये थे, उसे अवश्य ही उन्होंने पूरा कर लिया है । तभी उन्होंने मधुवनपर आक्रमण किया है । यदि वे अपना कार्य सिद्ध करके न आये होते तो उनके द्वारा ऐसा अपराध नहीं बना होता—वे मेरे मधुवनको लूटनेका साहस नहीं कर सकते थे ॥ १७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -804,6 +858,8 @@ _________________
 पतिर्मम वनस्यायमस्माभिः स्थापितः स्वयम् ।  
 दृष्टा देवी न सन्देहो न चान्येन हनूमता ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -898,6 +954,7 @@ Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -905,6 +962,8 @@ Seetha."
 कार्यसिद्धिर्हनुमति मतिश्च हरिपुङ्गवे ॥ २० ॥  
 व्यवसायश्च वीर्यं च श्रुतं चापि प्रतिष्ठितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,12 +1007,15 @@ chief and the garden-guards who were together preventing the damage, were beaten
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवान् यत्र नेता स्यादङ्गदश्च महाबलः ॥ २१ ॥  
 हनूमांश्चाप्यधिष्ठाता न तत्र गतिरन्यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,6 +1036,7 @@ _________________
 
 ‘जिस दलके नेता जाम्बवान् और महाबली अङ्गद हों तथा अधिष्ठाता हनुमान् हों, उस दलको विपरीत परिणाम— असफलता मिले, यह सम्भव नहीं है ॥ २१ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -985,6 +1048,8 @@ _________________
 एतदर्थमयं प्राप्तो वक्तुं मधुरवागिह ।  
 नाम्ना दधिमुखो नाम हरिः प्रख्यातविक्रमः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1103,12 +1168,15 @@ his celebrated prowess, has come here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टा सीता महाबाहो सौमित्रे पश्य तत्त्वतः ।  
 अभिगम्य यथा सर्वे पिबन्ति मधु वानराः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1151,12 +1219,15 @@ and further spoke to Dadhimukha, the guardian of the grove (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाप्यदृष्ट्वा वैदेहीं विश्रुताः पुरुषर्षभ ।  
 वनं दत्तवरं दिव्यं धर्षयेयुर्वनौकसः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1178,6 +1249,7 @@ _________________
 
 ‘पुरुषप्रवर! विदेहनन्दिनीका दर्शन किये बिना उस दिव्य वनका, जो देवताओंसे मेरे पूर्वजको वरदानके रूपमें प्राप्त हुआ है, वे विख्यात वानर कभी विध्वंस नहीं कर सकते थे’ ॥ २७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,6 +1257,8 @@ _________________
 श्रुत्वा कर्णसुखां वाणीं सुग्रीववदनाच्च्युताम् ॥ २८ ॥  
 प्राहृष्यत भृशं रामो लक्ष्मणश्च महायशाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1328,15 @@ is fit to be forgiven, I pardon them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा दधिमुखस्यैवं सुग्रीवस्तु प्रहृष्य च ॥ २९ ॥  
 वनपालं पुनर्वाक्यं सुग्रीवः प्रत्यभाषत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1310,6 +1387,7 @@ were thrilled with joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1318,6 +1396,8 @@ were thrilled with joy.
 गच्छ शीघ्रं मधुवनं संरक्षस्व त्वमेव हि ।  
 शीघ्रं प्रेषय सर्वांस्तान् हनूमत्प्रमुखान् कपीन् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1331,6 +1411,7 @@ were thrilled with joy.
 
 ‘मामा! अपना कार्य सिद्ध करके लौटे हुए उन वानरोंने जो मेरे मधुवनका उपभोग किया है, उससे मैं बहुत प्रसन्न हुआ हूँ; अतः तुम्हें भी कृतकृत्य होकर आये हुए उन कपियोंकी ढिठाई तथा उद्दण्डतापूर्ण चेष्टाओंको क्षमा कर देना चाहिये । अब शीघ्र जाओ और तुम्हीं उस मधुवनकी रक्षा करो । साथ ही हनुमान् आदि सब वानरोंको जल्दी यहाँ भेजो ॥ ३०-३१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1339,6 +1420,8 @@ were thrilled with joy.
 प्रष्टुं कृतार्थान् सह राघवाभ्यां  
 श्रोतुं च सीताधिगमे प्रयत्नम् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1352,6 +1435,7 @@ were thrilled with joy.
 
 ‘मैं सिंहके समान दर्पसे भरे हुए उन हनुमान् आदि वानरोंसे शीघ्र मिलना चाहता हूँ और इन दोनों रघुवंशी बन्धुओंके साथ मैं उन कृतार्थ होकर लौटे हुए वीरोंसे यह पूछना तथा सुनना चाहता हूँ कि सीताकी प्राप्तिके लिये क्या प्रयत्न किया जाय’ ॥ ३२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1360,6 +1444,8 @@ were thrilled with joy.
 अङ्गैः प्रहृष्टैः कार्यसिद्धिं विदित्वा  
 बाह्वोरासन्नामतिमात्रं ननन्द ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1383,5 +1469,6 @@ were thrilled with joy.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

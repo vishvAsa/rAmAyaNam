@@ -2,6 +2,8 @@
 title = "०३६ सहाय्यार्थं रावणप्रार्थना"
 title_english = "036 Ravana seeks Mareecha s help"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -25,12 +27,15 @@ quintessence.
 
 36. रावणका मारीचसे श्रीरामके अपराध बताकर उनकी पत्नी सीताके अपहरणमें सहायताके लिये कहना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीच श्रूयतां तात वचनं मम भाषतः ।  
 आर्तोऽस्मि मम चार्तस्य भवान् हि परमा गतिः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,6 +76,7 @@ addressing Maareecha. [3-36-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -79,6 +85,8 @@ addressing Maareecha. [3-36-1]
 त्रिशिराश्च महाबाहू राक्षसः पिशिताशनः ।  
 अन्ये च बहवः शूरा लब्धलक्षा निशाचराः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -97,12 +105,15 @@ addressing Maareecha. [3-36-1]
 
 नन्न तम्म खर, महाबाहु दूषण, नम्म तङ्गी शूर्पणखॆ, मांसभोजी महाबाहु राक्षस त्रिशर, हागू इन्नू अनेक लक्षवेधी कुशल शूरवीर निशाचररिद्द जनस्थानवन्नु नीनु बल्लॆ.॥2-3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्ति मन्नियोगेन अधिवासं च राक्षसाः ।  
 बाधमाना महारण्ये मुनीन् ये धर्मचारिणः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +156,15 @@ righteous path to torture, of course, all this as assigned by me. [3-36-2, 3, 4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम् ।  
 शूराणां लब्धलक्षाणां खरचित्तानुवर्तिनाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +208,15 @@ are the troublemakers to the sages of Dandaka forest or to the intruders therein
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते त्विदानीं जनस्थाने वसमाना महाबलाः ।  
 सङ्गताः परमायत्ता रामेण सह संयुगे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,6 +266,7 @@ another point to discuss whether Akampana's episode is an original work or an in
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -256,6 +274,8 @@ another point to discuss whether Akampana's episode is an original work or an in
 तेन सञ्जातरोषेण रामेण रणमूर्धनि ॥ ७ ॥  
 अनुक्त्वा परुषं किञ्चिच्छरैर्व्यापारितं धनुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,6 +320,7 @@ that Rama brought his bow into play with arrows in the van of the combat. [3-36-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -308,6 +329,8 @@ that Rama brought his bow into play with arrows in the van of the combat. [3-36-
 खरश्च निहतः सङ्ख्ये दूषणश्च निपातितः ॥ ९ ॥  
 हत्वा त्रिशिरसं चापि निर्भया दण्डकाः कृताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +396,15 @@ fourteen-thousand demons with flaring fieriness with his fierce arrows. [3-36-8b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्रा निरस्तः क्रुद्धेन सभार्यः क्षीणजीवितः ॥ १० ॥  
 स हन्ता तस्य सैन्यस्य रामः क्षत्रियपांसनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,6 +440,7 @@ lifespan is diminished. [3-36-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -424,6 +451,8 @@ lifespan is diminished. [3-36-10b, 11a]
 अस्य भार्यां जनस्थानात् सीतां सुरसुतोपमाम् ॥ १३ ॥  
 आनयिष्यामि विक्रम्य सहायस्तत्र मे भव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,6 +565,7 @@ thinking.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -543,6 +573,8 @@ thinking.
 भ्रातृभिश्च सुरान् सर्वान् नाहमत्राभिचिन्तये ।  
 तत्सहायो भव त्वं मे समर्थो ह्यसि राक्षस ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,12 +622,15 @@ aide in this venture. [3-36-14b, 15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर्ये युद्धे च दर्पे च न ह्यस्ति सदृशस्तव ।  
 उपायतो महान् शूरो महामायाविशारदः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +671,15 @@ in trickery, and a matchless expert in illusive-tricks. [3-36-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदर्थमहं प्राप्तस्त्वत्समीपं निशाचर ।  
 शृणु तत् कर्म साहाय्ये यत् कार्यं वचनान्मम ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,12 +720,15 @@ deed which you have to do in the course of helping me as I detail you. [3-36-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौवर्णस्त्वं मृगो भूत्वा चित्रो रजतबिन्दुभिः ।  
 आश्रमे तस्य रामस्य सीतायाः प्रमुखे चर ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +768,15 @@ in the hermitage of that Rama. [3-36-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां तु निःसंशयं सीता दृष्ट्वा तु मृगरूपिणम् ।  
 गृह्यतामिति भर्तारं लक्ष्मणं चाभिधास्यति ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,12 +819,15 @@ forthwith, and even Lakshmana, saying, 'lay hold of it.' [3-36-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तयोरपाये तु शून्ये सीतां यथासुखम् ।  
 निराबाधो हरिष्यामि राहुश्चन्द्रप्रभामिव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +870,15 @@ unimpededly abduct Seetha in that lonely place, as planet Rahu abducts the shine
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पश्चात् सुखं रामे भार्याहरणकर्शिते ।  
 विश्रब्धं प्रहरिष्यामि कृतार्थेनान्तरात्मना ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -896,12 +946,15 @@ all-illuminating Moon/Seetha by force.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य रामकथां श्रुत्वा मारीचस्य महात्मनः ।  
 शुष्कं समभवद् वक्त्रं परित्रस्तो बभूव च ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,12 +994,15 @@ completely dried up, and he is fully frightened. [3-36-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओष्ठौ परिलिहन् शुष्कौ नेत्रैरनिमिषैरिव ।  
 मृतभूत इवार्तस्तु रावणं समुदैक्षत ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,6 +1051,7 @@ Maareecha to his own end, of which he is perfectly aware.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1003,6 +1060,8 @@ Maareecha to his own end, of which he is perfectly aware.
 कृताञ्जलिस्तत्त्वमुवाच वाक्यं  
 हितं च तस्मै हितमात्मनश्च ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1060,5 +1119,6 @@ heedful of it. [3-36-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥36॥
+</details>
 </details>
 

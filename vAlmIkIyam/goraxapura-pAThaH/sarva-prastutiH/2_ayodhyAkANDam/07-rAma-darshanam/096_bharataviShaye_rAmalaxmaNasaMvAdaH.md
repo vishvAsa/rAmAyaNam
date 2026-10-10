@@ -2,6 +2,8 @@
 title = "०९६ भरतविषये रामलक्ष्मणसंवादः"
 title_english = "096 Rama hears a gigantic clamour of an army"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ Kaikeyi together with the army.
 
 96. वन-जन्तुओंके भागनेका कारण जाननेके लिये श्रीरामकी आज्ञासे लक्ष्मणका शाल-वृक्षपर चढ़कर भरतकी सेनाको देखना और उनके प्रति अपना रोषपूर्ण उद‍्गार प्रकट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तदा दर्शयित्वा तु मैथिलीं गिरिनिम्नगाम् ।  
 निषसाद गिरिप्रस्थे सीतां मांसेन छन्दयन् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ set on the hill-side in order to gratify her appetite with a piece of flesh.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं मेध्यमिदं स्वादु निष्टप्तमिदमग्निना ।  
 एवमास्ते स धर्मात्मा सीतया सह राघवः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ Rama, whose mind was devoted to righteousness stayed there with Seetha, saying;
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तत्रासतस्तस्य भरतस्योपयायिनः ।  
 सैन्यरेणुश्च शब्दश्च प्रादुरास्तां नभस्पृशौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +168,15 @@ approaching, ascended into the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे त्रस्ताः शब्देन महता ततः ।  
 अर्दिता यूथपा मत्ताः सयूथाद् दुद्रुवुर्दिशः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,12 +216,15 @@ animal - troops, in rut, were tormented and fled in different directions from th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं सैन्यसमुद्धूतं शब्दं शुश्राव राघवः ।  
 तांश्च विप्रद्रुतान् सर्वान् यूथपानन्ववैक्षत ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,12 +267,15 @@ animal-flock, running away from there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांश्च विप्रद्रुतान् दृष्ट्वा तं च श्रुत्वा महास्वनम् ।  
 उवाच रामः सौमित्रिं लक्ष्मणं दीप्ततेजसम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +316,15 @@ Seeing those animals running away and hearing that clamour, Rama spoke to Lakshm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त लक्ष्मण पश्येह सुमित्रा सुप्रजास्त्वया ।  
 भीमस्तनितगम्भीरं तुमुलः श्रूयते स्वनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,6 +365,7 @@ tumultuous sound as terrific as that of a roaring cloud. See what it is."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -350,6 +374,8 @@ tumultuous sound as terrific as that of a roaring cloud. See what it is."
 राजा वा राजपुत्रो वा मृगयामटते वने ।  
 अन्यद्वा श्वापदं किञ्चित् सौमित्रे ज्ञातुमर्हसि ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,12 +442,15 @@ beasts frightened by lions are suddenly running away in various directions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुदुश्चरो गिरिश्चायं पक्षिणामपि लक्ष्मण ।  
 सर्वमेतद् यथातत्त्वमभिज्ञातुमिहार्हसि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -461,12 +490,15 @@ out soon, all this in an accurate manner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लक्ष्मणः सन्त्वरितः सालमारुह्य पुष्पितम् ।  
 प्रेक्षमाणो दिशः सर्वाः पूर्वां दिशमवैक्षत ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +538,15 @@ directions, saw towards eastern side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदङ्मुखः प्रेक्षमाणो ददर्श महतीं चमूम् ।  
 गजाश्वरथसम्बाधां यत्तैर्युक्तां पदातिभिः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +587,15 @@ and elephants accompanied by smart foot-soldiers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामश्वरथसम्पूर्णां रथध्वजविभूषिताम् ।  
 शशंस सेनां रामाय वचनं चेदमब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +635,15 @@ chariots decorated with flags and spoke the following words also.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निं संशमयत्वार्यः सीता च भजतां गुहाम् ।  
 सज्यं कुरुष्व चापं च शरांश्च कवचं तथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,12 +684,15 @@ your bow ready with a bow-string and arrows. Wear an armour."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रामः पुरुषव्याघ्रो लक्ष्मणं प्रत्युवाच ह ।  
 अङ्गावेक्षस्व सौमित्रे कस्येमां मन्यसे चमूम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ army do you think is this?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण लक्ष्मणो वाक्यमब्रवीत् ।  
 दिधक्षन्निव तां सेनां रुषितः पावको यथा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,12 +783,15 @@ words, as though he was wishing to scorch the army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पन्नं राज्यमिच्छंस्तु व्यक्तं प्राप्याभिषेचनम् ।  
 आवां हन्तुं समभ्येति कैकेय्या भरतः सुतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -782,12 +832,15 @@ kingdom free of enemies, is coming here to kill both of us. It is clear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष वै सुमहान् श्रीमान् विटपी सम्प्रकाशते ।  
 विराजत्युज्ज्वलस्कन्धः कोविदारध्वजो रथे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,12 +884,15 @@ chariot."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भजन्त्येते यथाकाममश्वानारुह्य शीघ्रगान् ।  
 एते भ्राजन्ति संहृष्टा गजानारुह्य सादिनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,12 +933,15 @@ are beaming with delight, mounted on their elephants.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतधनुषावावां गिरिं वीर श्रयावहे ।  
 अथवेहैव तिष्ठावः सन्नद्धावुद्यतायुधौ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,6 +981,7 @@ itself, fully prepared with our weapons in our hands."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -930,6 +990,8 @@ itself, fully prepared with our weapons in our hands."
 त्वया राघव सम्प्राप्तं सीतया च मया तथा ।  
 यन्निमित्तं भवान् राज्याच्च्युतो राघव शाश्वतात् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,12 +1056,15 @@ and to me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्राप्तोऽयमरिर्वीर भरतो वध्य एव हि ।  
 भरतस्य वधे दोषं नाहं पश्यामि राघव ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,12 +1104,15 @@ strikes down an aggressor."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वापकारिणं हत्वा न ह्यधर्मेण युज्यते ।  
 पूर्वापकारी भरतस्त्यागेऽधर्मश्च राघव ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,6 +1155,7 @@ the entire earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1094,6 +1163,8 @@ the entire earth."
 अद्य पुत्रं हतं सङ्ख्ये कैकेयी राज्यकामुका ॥ २५ ॥  
 मया पश्येत् सुदुःखार्ता हस्तिभिन्नमिव द्रुमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,12 +1211,15 @@ by me today in battle, as a tree is crushed down by an elephant."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेयीं च वधिष्यामि सानुबन्धां सबान्धवाम् ॥ २६ ॥  
 कलुषेणाद्य महता मेदिनी परिमुच्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1259,15 @@ accomplices. Let the earth today be relieved of a great sinner."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येमं संयतं क्रोधमसत्कारं च मानद ॥ २७ ॥  
 मोक्ष्यामि शत्रुसैन्येषु कक्षेष्विव हुताशनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1231,12 +1308,15 @@ kindled I shall scatter the enemy - battalions as a fire consumes the dry wood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यैव चित्रकूटस्य काननं निशितैः शरैः ॥ २८ ॥  
 छिन्दन् शत्रुशरीराणि करिष्ये शोणितोक्षितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,12 +1359,15 @@ forest of Chitrakuta overflow with blood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरैर्निभिन्नहृदयान् कुञ्जरांस्तुरगांस्तथा ॥ २९ ॥  
 श्वापदाः परिकर्षन्तु नरांश्च निहतान् मया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1327,12 +1410,15 @@ struck down by me, be dragged about by savage beasts."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शराणां धनुषश्चाहमनृणोऽस्मिन् महावने ।  
 ससैन्यं भरतं हत्वा भविष्यामि न संशयः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,5 +1472,6 @@ my debt to my bow and arrows."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तारनॆय सर्ग पूर्णवायितु॥96॥
+</details>
 </details>
 

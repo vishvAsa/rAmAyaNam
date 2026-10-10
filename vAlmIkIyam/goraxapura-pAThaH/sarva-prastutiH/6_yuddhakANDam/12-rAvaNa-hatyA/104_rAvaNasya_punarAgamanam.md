@@ -1,6 +1,8 @@
 +++
 title = "१०४ रावणस्य पुनरागमनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ before Rama on the battle-field.
 
 104. रावणका सारथिको फटकारना और सारथिका अपने उत्तरसे रावणको संतुष्ट करके उसके रथको रणभूमिमें पहुँचाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु मोहात् सुसङ्क्रुद्धः कृतान्तबलचोदितः ।  
 क्रोधसंरक्तनयनो रावणः सूतमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +72,7 @@ infatuation, that Ravana spoke to his charioteer as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +81,8 @@ infatuation, that Ravana spoke to his charioteer as follows:
 विमुक्तमिव मायाभिरस्त्रैरिव बहिष्कृतम् ।  
 मामवज्ञाय दुर्बुद्धे स्वया बुद्ध्या विचेष्टसे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,12 +127,15 @@ conjuring tricks and abandoned by mystic missiles, you are acting as per your di
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं मामवज्ञाय मच्छन्दमनवेक्ष्य च ।  
 त्वया शत्रुसमक्षं मे रथोऽयमपवाहितः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ of my enemies and overlooking my will?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयाद्य हि ममानार्य चिरकालमुपार्जितम् ।  
 यशो वीर्यं च तेजश्च प्रत्ययश्च विनाशितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +226,15 @@ prowess, vital power and the trust of people today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रोः प्रख्यातवीर्यस्य रञ्जनीयस्य विक्रमैः ।  
 पश्यतो युद्धलुब्धोऽहं कृतः कापुरुषस्त्वया ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ who was made contemptible by you!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वं कथमिदं मोहान्न चेद् वहसि दुर्मते ।  
 सत्योऽयं प्रतितर्को मे परेण त्वमुपस्कृतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +328,15 @@ any event, this expectation of mine that you stand corrupted by the enemy, will 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तद् विद्यते कर्म सुहृदो हितकाङ्क्षिणः ।  
 रिपूणां सदृशं त्वेतद् यत् त्वयैतदनुष्ठितम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,12 +377,15 @@ not the work of a friend, who wishes me well."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तय रथं शीघ्रं यावन्नापैति मे रिपुः ।  
 यदि वाध्युषितोऽसि त्वं स्मर्यते यदि मे गुणः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ drive back the chariot swiftly till my enemy does not withdraw."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं परुषमुक्तस्तु हितबुद्धिरबुद्धिना ।  
 अब्रवीद् रावणं सूतो हितं सानुनयं वचः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +471,15 @@ spoke the following conciliatory words of Ravana:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न भीतोऽस्मि न मूढोऽस्मि नोपजप्तोऽस्मि शत्रुभिः ।  
 न प्रमत्तो न निःस्नेहो विस्मृता न च सत्क्रिया ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ I a blunderer. I was not disloyal to you. I have not forgotten the benefits conf
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया तु हितकामेन यशश्च परिरक्षता ।  
 स्नेहप्रस्कन्नमनसा हितमित्यप्रियं कृतम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ towards you through attachment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्मिन्नर्थे महाराज त्वं मां प्रियहिते रतम् ।  
 कश्चिल्लघुरिवानार्यो दोषतो गन्तुमर्हसि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,12 +615,15 @@ me, devoted as I am to your pleasure and good, quilty in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां प्रति दास्यामि यन्निमित्तं मया रथः ।  
 नदीवेग इवाम्भोभिः संयुगे विनिवर्तितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,12 +663,15 @@ me, devoted as I am to your pleasure and good, guilty in this matter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रमं तवावगच्छामि महता रणकर्मणा ।  
 नहि ते वीर्यसौमुख्यं प्रकर्षं नोपधारये ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,12 +714,15 @@ am not reflecting on the inclination of your valour or on your superiority over 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथोद्वहनखिन्नाश्च भग्ना मे रथवाजिनः ।  
 दीना घर्मपरिश्रान्ता गावो वर्षहता इव ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -715,12 +762,15 @@ chariot. They became miserable and thoroughly fatigued, like the cows lashed by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमित्तानि च भूयिष्ठं यानि प्रादुर्भवन्ति नः ।  
 तेषु तेष्वभिपन्नेषु लक्षयाम्यप्रदक्षिणम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,12 +804,15 @@ numbers and duly examined by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देशकालौ च विज्ञेयौ लक्षणानीङ्गितानि च ।  
 दैन्यं हर्षश्च खेदश्च रथिनश्च बलाबलम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,12 +857,15 @@ charioteer)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थलनिम्नानि भूमेश्च समानि विषमाणि च ।  
 युद्धकालश्च विज्ञेयः परस्यान्तरदर्शनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -845,12 +901,15 @@ known (by a charioteer)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयानापयाने च स्थानं प्रत्यपसर्पणम् ।  
 सर्वमेतद् रथस्थेन ज्ञेयं रथकुटुम्बिना ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,12 +943,15 @@ be known by a charioteer, seated in the chariot."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव विश्रामहेतोस्तु तथैषां रथवाजिनाम् ।  
 रौद्रं वर्जयता खेदं क्षमं कृतमिदं मया ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +988,15 @@ horses of the chariot as also to relieve your terrible fatigue."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वेच्छया न मया वीर रथोऽयमपवाहितः ।  
 भर्तुः स्नेहपरीतेन मयेदं यत् कृतं प्रभो ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,12 +1037,15 @@ done by me was because I was overwhelmed with affection for my master."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञापय यथातत्त्वं वक्ष्यस्यरिनिषूदन ।  
 तत् करिष्याम्यहं वीर गतानृण्येन चेतसा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1086,15 @@ enjoin me to do, with due attention and with a mind which feels relieved of all 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्तुष्टस्तेन वाक्येन रावणस्तस्य सारथेः ।  
 प्रशस्यैनं बहुविधं युद्धलुब्धोऽब्रवीदिदम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1067,12 +1138,15 @@ ways, Ravana who was avaricious of fighting, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथं शीघ्रमिमं सूत राघवाभिमुखं नय ।  
 नाहत्वा समरे शत्रून् निवर्तिष्यति रावणः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1113,6 +1187,7 @@ battle, without killing his enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1120,6 +1195,8 @@ battle, without killing his enemies."
 ददौ तस्य शुभं ह्येकं हस्ताभरणमुत्तमम् ।  
 श्रुत्वा रावणवाक्यानि सारथिः सन्न्यवर्तत ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1164,6 +1241,7 @@ drove the chariot back to the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1172,6 +1250,8 @@ drove the chariot back to the battle-field.
 स राक्षसेन्द्रस्य ततो महारथः  
 क्षणेन रामस्य रणाग्रतोऽभवत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,5 +1307,6 @@ battle-field.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरनाल्कनॆय सर्ग पूर्णवायितु.॥104॥
+</details>
 </details>
 

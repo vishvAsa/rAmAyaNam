@@ -2,6 +2,8 @@
 title = "०९७ रामेण लक्ष्मणपरिसान्त्वनम्"
 title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -24,12 +26,15 @@ army encamps around the edge of the mountain, chitrakuta.
 
 97. श्रीरामका लक्ष्मणके रोषको शान्त करके भरतके सद्भावका वर्णन करना, लक्ष्मणका लज्जित हो श्रीरामके पास खड़ा होना और भरतकी सेनाका पर्वतके नीचे छावनी डालना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुसंरब्धं तु भरतं लक्ष्मणं क्रोधमूर्च्छितम् ।  
 रामस्तु परिसान्त्व्याथ वचनं चेदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ agitated and infatuated with anger, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमत्र धनुषा कार्यमसिना वा सचर्मणा ।  
 महाबले महोत्साहे भरते स्वयमागते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ the use of a bow or sword with a shield?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुः सत्यं प्रतिश्रुत्य हत्वा भरतमाहवे ।  
 किं करिष्यामि राज्येन सापवादेन लक्ष्मण ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ with the kingdom by acquiring an ill-fame in killing Bharata who came here to se
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् द्रव्यं बान्धवानां वा मित्राणां वा क्षये भवेत् ।  
 नाहं तत् प्रतिगृह्णीयां भक्ष्यान् विषकृतानिव ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ partaking of a poisoned food."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्ममर्थं च कामं च पृथिवीं चापि लक्ष्मण ।  
 इच्छामि भवतामर्थे एतत् प्रतिशृणोमि ते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ pleasure or even the earth itself. I promise this to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातॄणां सङ्ग्रहार्थं च सुखार्थं चापि लक्ष्मण ।  
 राज्यमप्यहमिच्छामि सत्येनायुधमालभे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ brothers. I touch my weapon and swear this fact."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेयं मम मही सौम्य दुर्लभा सागराम्बरा ।  
 नहीच्छेयमधर्मेण शक्रत्वमपि लक्ष्मण ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -344,12 +367,15 @@ do not indeed wish even the position of Indra by unrighteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् विना भरतं त्वां च शत्रुघ्नं वापि मानद ।  
 भवेन्मम सुखं किञ्चिद् भस्म तत् कुरुतां शिखी ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,6 +417,7 @@ honour-giver!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,6 +428,8 @@ honour-giver!"
 स्नेहेनाक्रान्तहृदयः शोकेनाकुलितेन्द्रियः ।  
 द्रष्टुमभ्यागतो ह्येष भरतो नान्यथाऽऽगतः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +496,15 @@ Bharata has come to see me. He has not come with any other motive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अम्बां च केकयीं रुष्य भरतश्चाप्रियं वदन् ।  
 प्रसाद्य पितरं श्रीमान् राज्यं मे दातुमागतः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,12 +546,15 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तकालं यथैषोऽस्मान् भरतो द्रष्टुमर्हति ।  
 अस्मासु मनसाप्येष नाहितं किञ्चिदाचरेत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,12 +594,15 @@ even think unkindly towards us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रियं कृतपूर्वं ते भरतेन कदा नु किम् ।  
 ईदृशं वा भयं तेऽद्य भरतं यद् विशङ्कसे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +643,15 @@ to be so apprehensive of Bharata now?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि ते निष्ठुरं वाच्यो भरतो नाप्रियं वचः ।  
 अहं ह्यप्रियमुक्तः स्यां भरतस्याप्रिये कृते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +692,15 @@ affront is offered to him, it is offered to me!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नु पुत्राः पितरं हन्युः कस्याञ्चिदापदि ।  
 भ्राता वा भ्रातरं हन्यात् सौमित्रे प्राणमात्मनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -697,12 +741,15 @@ strike a brother who is as dear to him as his life?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि राज्यस्य हेतोस्त्वमिमां वाचं प्रभाषसे ।  
 वक्ष्यामि भरतं दृष्ट्वा राज्यमस्मै प्रदीयताम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +789,15 @@ to give the kingdom to you, when I see him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्यमानो हि भरतो मया लक्ष्मण तद्वचः ।  
 राज्यमस्मै प्रयच्छेति बाढमित्येव मंस्यते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -787,12 +837,15 @@ he will answer, So, be it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तो धर्मशीलेन भ्रात्रा तस्य हिते रतः ।  
 लक्ष्मणः प्रविवेशेव स्वानि गात्राणि लज्जया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +885,15 @@ shrank into himself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वाक्यं लक्ष्मणः श्रुत्वा व्रीडितः प्रत्युवाच ह ।  
 त्वां मन्ये द्रष्टुमायातः पिता दशरथः स्वयम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,12 +937,15 @@ here to see you himself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रीडितं लक्ष्मणं दृष्ट्वा राघवः प्रत्युवाच ह ।  
 एष मन्ये महाबाहुरिहास्मान् द्रष्टुमागतः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -929,12 +988,15 @@ to see us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नौ ध्रुवं मन्ये मन्यमानः सुखोचितौ ।  
 वनवासमनुध्याय गृहाय प्रतिनेष्यति ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -974,12 +1036,15 @@ reflecting that we are dwelling in the forest, he wishes to take us home."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमां चाप्येष वैदेहीमत्यन्तसुखसेविनीम् ।  
 पिता मे राघवः श्रीमान् वनादादाय यास्यति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1021,12 +1086,15 @@ she who has ever lived in the heart of prosperity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ तौ सम्प्रकाशेते गोत्रवन्तौ मनोरमौ ।  
 वायुवेगसमौ वीरौ जवनौ तुरगोत्तमौ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1137,15 @@ vying with the wind in swiftness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष सुमहाकायः कम्पते वाहिनीमुखे ।  
 नागः शत्रुञ्जयो नाम वृद्धस्तातस्य धीमतः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1188,15 @@ Shatrunjaya, the aged companion of our sagacious father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु पश्यामि तच्छत्रं पाण्डुरं लोकविश्रुतम् ।  
 पितुर्दिव्यं महाभाग संशयो भवतीह मे ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,6 +1236,7 @@ well known insignia in the world. An apprehension on this point is created in my
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1170,6 +1245,8 @@ well known insignia in the world. An apprehension on this point is created in my
 अवतीर्य तु सालाग्रात् तस्मात् स समितिञ्जयः ।  
 लक्ष्मणः प्राञ्जलिर्भूत्वा तस्थौ रामस्य पार्श्वतः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1236,12 +1313,15 @@ the virtuous Rama to that Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतेनाथ सन्दिष्टा सम्मर्दो न भवेदिति ।  
 समन्तात् तस्य शैलस्य सेना वासमकल्पयत् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1281,12 +1361,15 @@ Rama, the army was encamped round the mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्यर्धमिक्ष्वाकुचमूर्योजनं पर्वतस्य ह ।  
 पार्श्वे न्यविशदावृत्य गजवाजिनराकुला ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1327,6 +1410,7 @@ encamped around the edge of the mountain occupying an area of one Yojana and a h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1335,6 +1419,8 @@ encamped around the edge of the mountain occupying an area of one Yojana and a h
 प्रसादनार्थं रघुनन्दनस्य  
 विरोचते नीतिमता प्रणीता ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1391,5 +1477,6 @@ in the vicinity of Chitrakuta.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तेळनॆय सर्ग पूर्णवायितु.॥97॥
+</details>
 </details>
 

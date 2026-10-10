@@ -2,6 +2,8 @@
 title = "०३१ रामेण सुवेलपर्वतप्रवेशः"
 title_english = "031 Rama enters Lanka at Suvela Mountain"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>वाचनम्</summary>
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-031-Rama_enters_Lanka_at_Suvela_Mountain_0.mp3"></div>
 </details>
@@ -9,6 +11,7 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 <details><summary>भागसूचना</summary>
 
 31. मायारचित श्रीरामका कटा मस्तक दिखाकर रावणद्वारा सीताको मोहमें डालनेका प्रयत्न
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18,6 +21,8 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम् ।  
 जातोद्वेगोऽभवत् किञ्चित् सचिवानिदमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,12 +81,15 @@ The spies of king Ravana informed him that Rama with his imperturbable army
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिणः शीघ्रमायान्तु सर्वे वै सुसमाहिताः ।  
 अयं नो मन्त्रकालो हि सम्प्राप्त इति राक्षसाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ The spies of king Ravana informed him that Rama with his imperturbable army
 
 सचिवरे! नन्न मन्त्रिगळॆल्लरू आदष्टु बेग इल्लिगॆ बरलि. नावॆल्लरू सेरि गुप्तसमालोचनॆ माडुव काल ईग सन्निहितवागिदॆ.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तच्छासनं श्रुत्वा मन्त्रिणोऽभ्यागमन् द्रुतम् ।  
 ततः स मन्त्रयामास राक्षसैः सचिवैः सह ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,12 +161,15 @@ As per his command, the ministers came instantly. Ravana conferred with the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रयित्वा तु दुर्धर्षः क्षमं यत् तदनन्तरम् ।  
 विसर्जयित्वा सचिवान् प्रविवेश स्वमालयम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +209,15 @@ The dreadful Ravana discussed about the ensuing things to be done immediately.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो राक्षसमादाय विद्युज्जिह्वं महाबलम् ।  
 मायाविनं महामायं प्राविशद् यत्र मैथिली ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,12 +258,15 @@ Thereafter, Ravana the practiser of conjuring tricks, took the exceedingly
 
 मत्तॆ अवनु महाबली, महामायावी, मायाविशारद राक्षस विद्युज्जिह्वनन्नु जॊतयल्लि करॆदु कॊण्डु सीतॆयु इरुव प्रमदावनवन्नु प्रवेशिसिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्युज्जिह्वं च मायाज्ञमब्रवीद् राक्षसाधिपः ।  
 मोहयिष्यावहे सीतां मायया जनकात्मजाम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,12 +307,15 @@ Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरो मायामयं गृह्य राघवस्य निशाचर ।  
 मां त्वं समुपतिष्ठस्व महच्च सशरं धनुः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,12 +355,15 @@ Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तथेत्याह विद्युज्जिह्वो निशाचरः ।  
 दर्शयामास तां मायां सुप्रयुक्तां स रावणे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,6 +408,7 @@ Hearing Ravana's words, the demon Vidyujjihva said, "Be it so". He showed
 
 रावणन अप्पणॆ पडॆदु, निशाचर विद्युज्जिह्वनु ‘हागॆये आगलि’ ऎन्दु हेळि तुम्बा कुशलतॆयिन्द प्रकटिसिद तन्न मायॆयन्नु तोरिसिदनु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -389,6 +416,8 @@ Hearing Ravana's words, the demon Vidyujjihva said, "Be it so". He showed
 अशोकवनिकायां च सीतादर्शनलालसः ॥ १० ॥  
 नैर्ऋतानामधिपतिः संविवेश महाबलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,6 +458,7 @@ The exceedingly strong Ravana the suzerain lord of demons, duly entered the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -436,6 +466,8 @@ The exceedingly strong Ravana the suzerain lord of demons, duly entered the
 अधोमुखीं शोकपरामुपविष्टां महीतले ।  
 भर्तारं समनुध्यान्तीमशोकवनिकां गताम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,6 +513,7 @@ Then, Ravana the younger brother of Kubera ( the god of riches) saw Seetha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -488,6 +521,8 @@ Then, Ravana the younger brother of Kubera ( the god of riches) saw Seetha
 उपसृत्य ततः सीतां प्रहर्षं नाम कीर्तयन् ॥ १३ ॥  
 इदं च वचनं धृष्टमुवाच जनकात्मजाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ Then, approaching Seetha who was attended upon by ghastly ogresses seated
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सान्त्व्यमाना मया भद्रे यमाश्रित्य विमन्यसे ॥ १४ ॥  
 खरहन्ता स ते भर्ता राघवः समरे हतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,6 +603,7 @@ Then, approaching Seetha who was attended upon by ghastly ogresses seated
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -572,6 +611,8 @@ Then, approaching Seetha who was attended upon by ghastly ogresses seated
 व्यसनेनात्मनः सीते मम भार्या भविष्यसि ।  
 विसृजैतां मतिं मूढे किं मृतेन करिष्यसि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,6 +677,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -643,6 +685,8 @@ _________________
 अल्पपुण्ये निवृत्तार्थे मूढे पण्डितमानिनि ।  
 शृणु भर्तृवधं सीते घोरं वृत्रवधं यथा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,12 +729,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समायातः समुद्रान्तं हन्तुं मां किल राघवः ।  
 वानरेन्द्रप्रणीतेन बलेन महता वृतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +777,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्निविष्टः समुद्रस्य पीड्य तीरमथोत्तरम् ।  
 बलेन महता रामो व्रजत्यस्तं दिवाकरे ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,12 +819,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाध्वनि परिश्रान्तमर्धरात्रे स्थितं बलम् ।  
 सुखसुप्तं समासाद्य चरितं प्रथमं चरैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -810,12 +863,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्प्रहस्तप्रणीतेन बलेन महता मम ।  
 बलमस्य हतं रात्रौ यत्र रामः सलक्ष्मणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -850,6 +906,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -858,6 +915,8 @@ _________________
 यष्टीश्च तोमरान् प्रासांश्चक्राणि मुसलानि च ।  
 उद्यम्योद्यम्य रक्षोभिर्वानरेषु निपातिताः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +965,15 @@ The demons wielding harpoons, maces, discus, daggers, sticks, great arrows
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सुप्तस्य रामस्य प्रहस्तेन प्रमाथिना ।  
 असक्तं कृतहस्तेन शिरश्छिन्नं महासिना ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,12 +1008,15 @@ The demons wielding harpoons, maces, discus, daggers, sticks, great arrows
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणः समुत्पत्य निगृहीतो यदृच्छया ।  
 दिशः प्रव्राजितः सैन्यैर्लक्ष्मणः प्लवगैः सह ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -994,12 +1059,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवो ग्रीवया सीते भग्नया प्लवगाधिपः ।  
 निरस्तहनुकः सीते हनूमान् राक्षसैर्हतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1043,12 +1111,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवानथ जानुभ्यामुत्पतन् निहतो युधि ।  
 पट्टिशैर्बहुभिश्छिन्नो निकृत्तः पादपो यथा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,6 +1159,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1095,6 +1167,8 @@ _________________
 निःश्वसन्तौ रुदन्तौ च रुधिरेण परिप्लुतौ ॥ २८ ॥  
 असिना व्यायतौ छिन्नौ मध्ये ह्यरिनिषूदनौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1112,6 +1186,7 @@ _________________
 
 मैन्द-द्विविदरॆम्ब श्रेष्ठवानररु रक्तदिन्द तॊय्दु होगि ऒद्दाडुत्ता बिद्दिद्दरु. दीर्घवागि उसिरुबिडुत्ता अळुत्तिद्दाग इब्बरू विशालकाय शत्रुसूदन वानररन्नु खड्गदिन्द नडुवॆये कत्तरिबिट्टरु.॥28½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1119,6 +1194,8 @@ _________________
 नाराचैर्बहुभिश्छिन्नः शेते दर्यां दरीमुखः ।  
 कुमुदस्तु महातेजा निष्कूजन् सायकैर्हतः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,12 +1233,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदो बहुभिश्छिन्नः शरैरासाद्य राक्षसैः ।  
 परितो रुधिरोद‍्गारी क्षितौ निपतितोऽङ्गदः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1199,12 +1279,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरयो मथिता नागै रथजालैस्तथापरे ।  
 शयाना मृदितास्तत्र वायुवेगैरिवाम्बुदाः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1328,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसृताश्च परे त्रस्ता हन्यमाना जघन्यतः ।  
 अनुद्रुतास्तु रक्षोभिः सिंहैरिव महाद्विपाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1380,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरे पतिताः केचित् केचिद् गगनमाश्रिताः ।  
 ऋक्षा वृक्षानुपारूढा वानरीं वृत्तिमाश्रिताः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1339,12 +1428,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरस्य च तीरेषु शैलेषु च वनेषु च ।  
 पिङ्गलास्ते विरूपाक्षै राक्षसैर्बहवो हताः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,12 +1477,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तव हतो भर्ता ससैन्यो मम सेनया ।  
 क्षतजार्द्रं रजोध्वस्तमिदं चास्याहृतं शिरः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1430,12 +1525,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परमदुर्धर्षो रावणो राक्षसेश्वरः ।  
 सीतायामुपशृण्वन्त्यां राक्षसीमिदमब्रवीत् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1479,12 +1577,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसं क्रूरकर्माणं विद्युज्जिह्वं समानय ।  
 येन तद्राघवशिरः सङ्ग्रामात् स्वयमाहृतम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1541,6 +1642,7 @@ Thereafter, Ravana the Lord of demons who was very much difficult to be attacked
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1549,6 +1651,8 @@ Thereafter, Ravana the Lord of demons who was very much difficult to be attacked
 तमब्रवीत् ततो राजा रावणो राक्षसं स्थितम् ।  
 विद्युज्जिह्वं महाजिह्वं समीपपरिवर्तिनम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1606,12 +1710,15 @@ Holding that head along with a bow, Vidyujjihva making a respectful salute
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतः कुरु सीतायाः शीघ्रं दाशरथेः शिरः ।  
 अवस्थां पश्चिमां भर्तुः कृपणा साधु पश्यतु ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1645,12 +1752,15 @@ Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तं तु तद् रक्षः शिरस्तत् प्रियदर्शनम् ।  
 उपनिक्षिप्य सीतायाः क्षिप्रमन्तरधीयत ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1691,12 +1801,15 @@ Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणश्चापि चिक्षेप भास्वरं कार्मुकं महत् ।  
 त्रिषु लोकेषु विख्यातं रामस्यैतदिति ब्रुवन् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1731,12 +1844,15 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तत् तव रामस्य कार्मुकं ज्यासमावृतम् ।  
 इह प्रहस्तेनानीतं तं हत्वा निशि मानुषम् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1771,6 +1887,7 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1779,6 +1896,8 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 विदेहराजस्य सुतां यशस्विनीं  
 ततोऽब्रवीत् तां भव मे वशानुगा ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1831,5 +1950,6 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥31॥
+</details>
 </details>
 

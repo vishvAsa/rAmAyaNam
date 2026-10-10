@@ -2,6 +2,8 @@
 title = "०१९ खराय अङ्गवैरूप्यकथनम्"
 title_english = "019 Surpanakha s reporting to her brother Khara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ fourteen demons to eliminate Rama.
 
 19. शूर्पणखाके मुखसे उसकी दुर्दशाका वृत्तान्त सुनकर क्रोधमें भरे हुए खरका श्रीराम आदिके वधके लिये चौदह राक्षसोंको भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तथा पतितां दृष्ट्वा विरूपां शोणितोक्षिताम् ।  
 भगिनीं क्रोधसन्तप्तः खरः पप्रच्छ राक्षसः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ up and asked her. [3-19-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठ तावदाख्याहि प्रमोहं जहि सम्भ्रमम् ।  
 व्यक्तमाख्याहि केन त्वमेवंरूपा विरूपिता ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ way. [3-19-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कः कृष्णसर्पमासीनमाशीविषमनागसम् ।  
 तुदत्यभिसमापन्नमङ्गुल्यग्रेण लीलया ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ proximity but slouching down inoffensively. [3-19-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालपाशं समासज्य कण्ठे मोहान्न बुध्यते ।  
 यस्त्वामद्य समासाद्य पीतवान् विषमुत्तमम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +215,15 @@ the noose of Time around his own neck. [3-19-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलविक्रमसम्पन्ना कामगा कामरूपिणी ।  
 इमामवस्थां नीता त्वं केनान्तकसमागता ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +263,15 @@ of Terminator, but to whom you have gone and by whom you are led into this kind 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवगन्धर्वभूतानामृषीणां च महात्मनाम् ।  
 कोऽयमेवं महावीर्यस्त्वां विरूपां चकार ह ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +310,15 @@ sages who indeed rendered you shapeless. [3-19-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि पश्याम्यहं लोके यः कुर्यान्मम विप्रियम् ।  
 अमरेषु सहस्राक्षं महेन्द्रं पाकशासनम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,12 +360,15 @@ the thousand eyed Indra, the controller of demon Paaka. [3-19-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्याहं मार्गणैः प्राणानादास्ये जीवितान्तगैः ।  
 सलिले क्षीरमासक्तं निष्पिबन्निव सारसः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,12 +410,15 @@ a swan would drink milk to dregs even if it is mingled in water, duly separating
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहतस्य मया सङ्ख्ये शरसङ्कृत्तमर्मणः ।  
 सफेनं रुधिरं कस्य मेदिनी पातुमिच्छति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,12 +460,15 @@ and drop him dead in a combat. [3-19-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य पत्ररथाः कायान्मांसमुत्कृत्य सङ्गताः ।  
 प्रहृष्टा भक्षयिष्यन्ति निहतस्य मया रणे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +508,15 @@ I slay him in war. [3-19-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं न देवा न गन्धर्वा न पिशाचा न राक्षसाः ।  
 मयापकृष्टं कृपणं शक्तास्त्रातुं महाहवे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +556,15 @@ celestials, evil spirits, or by demons. [3-19-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपलभ्य शनैः सञ्ज्ञां तं मे शंसितुमर्हसि ।  
 येन त्वं दुर्विनीतेन वने विक्रम्य निर्जिता ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,12 +604,15 @@ and worsted you in the forest." Thus Khara spoke to Shuurpanakha. [3-19-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति भ्रातुर्वचः श्रुत्वा क्रुद्धस्य च विशेषतः ।  
 ततः शूर्पणखा वाक्यं सबाष्पमिदमब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -610,12 +651,15 @@ words, tearfully. [3-19-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणौ रूपसम्पन्नौ सुकुमारौ महाबलौ ।  
 पुण्डरीकविशालाक्षौ चीरकृष्णाजिनाम्बरौ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,12 +676,15 @@ words, tearfully. [3-19-13]
 
 अण्णा! वनदल्लि इब्बरु तरुण पुरुषरु बन्दिरुवरु. अवरु नोडलु बहळ सुकुमाररू, रूपवन्तरू, महाबलवन्तरू आगिरुवरु, अवरिब्बर कण्णुगळु अरळिद कमलगळन्तॆ तोरुत्तवॆ. अवरिब्बरू नारुमडियन्नुट्टु मृगचर्मवन्नु धरिसिरुवरु.॥14॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फलमूलाशनौ दान्तौ तापसौ ब्रह्मचारिणौ ।  
 पुत्रौ दशरथस्यास्तां भ्रातरौ रामलक्ष्मणौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,12 +721,15 @@ they are the sons of Dasharatha, namely Rama and Lakshmana. [3-19-14,15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धर्वराजप्रतिमौ पार्थिवव्यञ्जनान्वितौ ।  
 देवौ वा दानवावेतौ न तर्कयितुमुत्सहे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +782,15 @@ part believes that neither demons nor gods can hurt his race.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणी रूपसम्पन्ना सर्वाभरणभूषिता ।  
 दृष्टा तत्र मया नारी तयोर्मध्ये सुमध्यमा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +838,15 @@ with Ravana after the failure of this Khara and other brothers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभ्यामुभाभ्यां सम्भूय प्रमदामधिकृत्य ताम् ।  
 इमामवस्थां नीताहं यथानाथासती तथा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +895,15 @@ twisting the episode towards her side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याश्चानृजुवृत्तायास्तयोश्च हतयोरहम् ।  
 सफेनं पातुमिच्छामि रुधिरं रणमूर्धनि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +946,15 @@ when they are killed in war. [3-19-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे प्रथमः कामः कृतस्तत्र त्वया भवेत् ।  
 तस्यास्तयोश्च रुधिरं पिबेयमहमाहवे ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +996,15 @@ Shuurpanakha before her brother Khara. [3-19-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्यां ब्रुवाणायां चतुर्दश महाबलान् ।  
 व्यादिदेश खरः क्रुद्धो राक्षसानन्तकोपमान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1045,15 @@ that Khara vengefully summoned fourteen great mighty demons that are similar to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषौ शस्त्रसम्पन्नौ चीरकृष्णाजिनाम्बरौ ।  
 प्रविष्टौ दण्डकारण्यं घोरं प्रमदया सह ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,12 +1095,15 @@ Thus Khara is ordering the fourteen demons. [3-19-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ हत्वा तां च दुर्वृत्तामुपावर्तितुमर्हथ ।  
 इयं च भगिनी तेषां रुधिरं मम पास्यति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,12 +1145,15 @@ treacherous woman, and their blood this sister of mine will drink. [3-19-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोरथोऽयमिष्टोऽस्या भगिन्या मम राक्षसाः ।  
 शीघ्रं सम्पाद्यतां गत्वा तौ प्रमथ्य स्वतेजसा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,12 +1204,15 @@ indicates 'knowing also; so you know that Seetha, meaning 'be absolved by her' *
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युष्माभिर्निहतौ दृष्ट्वा तावुभौ भ्रातरौ रणे ।  
 इयं प्रहृष्टा मुदिता रुधिरं युधि पास्यति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,12 +1260,15 @@ may please be seen. Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिष्टा राक्षसास्ते चतुर्दश ।  
 तत्र जग्मुस्तया सार्धं घना वातेरिता इव ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1242,5 +1322,6 @@ gone to Panchavati along with Shuurpanakha like black-clouds glided by gales. [3
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥19॥
+</details>
 </details>
 

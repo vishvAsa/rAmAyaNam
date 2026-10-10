@@ -2,6 +2,8 @@
 title = "११९ रामस्य दण्डकारण्यप्रवेशः"
 title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ ascetics.
 
 119. अनसूयाकी आज्ञासे सीताका उनके दिये हुए वस्त्राभूषणोंको धारण करके श्रीरामजीके पास आना तथा श्रीराम आदिका रात्रिमें आश्रमपर रहकर प्रातःकाल अन्यत्र जानेके लिये ऋषियोंसे विदा लेना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनसूया तु धर्मज्ञा श्रुत्वा तां महतीं कथाम् ।  
 पर्यष्वजत बाहुभ्यां शिरस्याघ्राय मैथिलीम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ hugged her in her arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्ताक्षरपदं चित्रं भाषितं मधुरं त्वया ।  
 यथा स्वयंवरं वृत्तं तत् सर्वं च श्रुतं मया ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +126,7 @@ O, the sweet speaking Seetha! I am overjoyed by hearing your story."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +135,8 @@ O, the sweet speaking Seetha! I am overjoyed by hearing your story."
 दिवसं परिकीर्णानामाहारार्थं पतत्त्रिणाम् ।  
 सन्ध्याकाले निलीनानां निद्रार्थं श्रूयते ध्वनिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +189,15 @@ evening-twilight."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते चाप्यभिषेकार्द्रा मुनयः कलशोद्यताः ।  
 सहिता उपवर्तन्ते सलिलाप्लुतवल्कलाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -223,12 +237,15 @@ and with uplifted vessels, wet with sprinkled water on them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निहोत्रे च ऋषिणा हुते च विधिपूर्वकम् ।  
 कपोताङ्गारुणो धूमो दृश्यते पवनोद्धतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +286,15 @@ column of smoke with the hue of a Pigeon's neck, raised by the wind, is seen the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पवर्णा हि तरवो घनीभूताः समन्ततः ।  
 विप्रकृष्टेन्द्रिये देशे न प्रकाशन्ति वै दिशः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -317,12 +337,15 @@ the world, by whom the senses are drawn apart, do not shine brilliantly at this 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजनीचरसत्त्वानि प्रचरन्ति समन्ततः ।  
 तपोवनमृगा ह्येते वेदितीर्थेषु शेरते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,12 +385,15 @@ hermitage are sleeping round the sacred altars."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रवृत्ता निशा सीते नक्षत्रसमलङ्कृता ।  
 ज्योत्स्नाप्रावरणश्चन्द्रो दृश्यतेऽभ्युदितोऽम्बरे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +433,15 @@ encircled with light is seen rising in the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गम्यतामनुजानामि रामस्यानुचरी भव ।  
 कथयन्त्या हि मधुरं त्वयाहमपि तोषिता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +481,15 @@ has charmed me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलङ्कुरु च तावत् त्वं प्रत्यक्षं मम मैथिलि ।  
 प्रीतिं जनय मे वत्से दिव्यालङ्कारशोभिनी ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -497,12 +529,15 @@ eyes and cause delight to me in embellishing yourself with heavenly jewels."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तदा समलङ्कृत्य सीता सुरसुतोपमा ।  
 प्रणम्य शिरसा पादौ रामं त्वभिमुखी ययौ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,12 +577,15 @@ to the feet of Anasuya, she went forward to meet Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तु भूषितां सीतां ददर्श वदतां वरः ।  
 राघवः प्रीतिदानेन तपस्विन्या जहर्ष च ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +619,15 @@ the charming gifts of the ascetic.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यवेदयत् ततः सर्वं सीता रामाय मैथिली ।  
 प्रीतिदानं तपस्विन्या वसनाभरणस्रजाम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +671,15 @@ and garlands the affectionate gifts of Anasuya the hermitess.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टस्त्वभवद् रामो लक्ष्मणश्च महारथः ।  
 मैथिल्याः सत्क्रियां दृष्ट्वा मानुषेषु सुदुर्लभाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,12 +720,15 @@ beings, Rama and Lakshmana the great car-warrior felt highly rejoiced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स शर्वरीं प्रीतः पुण्यां शशिनिभाननाम् ।  
 अर्चितस्तापसैः सर्वैरुवास रघुनन्दनः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +769,15 @@ ascetics, was delighted and spent that auspicious night there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां रात्र्यां व्यतीतायामभिषिच्य हुताग्निकान् ।  
 आपृच्छेतां नरव्याघ्रौ तापसान् वनगोचरान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -769,6 +819,7 @@ the sacred fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -777,6 +828,8 @@ the sacred fire.
 रक्षांसि पुरुषादानि नानारूपाणि राघव ।  
 वसन्त्यस्मिन् महारण्ये व्यालाश्च रुधिराशनाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,6 +891,7 @@ about the region of that forest, which was infested with demons (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -846,6 +900,8 @@ about the region of that forest, which was infested with demons (as follows):
 अदन्त्य् अस्मिन् महारण्ये  
 तान् निवारय राघव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +942,15 @@ finishing his meal or who is inattentive in this great forest. (Pray ward them o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष पन्था महर्षीणां फलान्याहरतां वने ।  
 अनेन तु वनं दुर्गं गन्तुं राघव ते क्षमम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,6 +994,7 @@ in this forest. It is appropriate for you to go by this path in this dangerous f
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -943,6 +1003,8 @@ in this forest. It is appropriate for you to go by this path in this dangerous f
 वनं सभार्यः प्रविवेश राघवः  
 सलक्ष्मणः सूर्य इवाभ्रमण्डलम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,4 +1058,5 @@ with his consort along with Lakshmana, as sun enters a mass of clouds.
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनविंशत्यधिकशततमः सर्गः ॥ ११९ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ उन्नीसवाँ सर्ग पूरा हुआ ॥ ११९ ॥  
 ॥ अयोध्याकाण्डं सम्पूर्णम् ॥
+</details>
 </details>

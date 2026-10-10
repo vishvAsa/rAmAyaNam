@@ -2,6 +2,8 @@
 title = "०६७ जटायुषा सीतावृत्तान्तकथनम्"
 title_english = "067 Rama spots wing clipped Jataayu"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,6 +26,7 @@ recognises and laments for his wretched situation.
 
 67. श्रीराम और लक्ष्मणकी पक्षिराज जटायुसे भेंट तथा श्रीरामका उन्हें गलेसे लगाकर रोना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ recognises and laments for his wretched situation.
 सार-ग्राही महा-सारं  
 प्रतिजग्राह राघवः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +86,7 @@ can be taken like gold from the coals...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,6 +95,8 @@ can be taken like gold from the coals...'
 अवष्टभ्य धनुश्-चित्रं  
 रामो लक्ष्मणम् अब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,6 +139,7 @@ propping against his bedazzling bow spoke this to Lakshmana. [3-67-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,6 +148,8 @@ propping against his bedazzling bow spoke this to Lakshmana. [3-67-2]
 केनोपायेन पश्यावः  
 सीताम् इह विचिन्तय ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,6 +189,7 @@ device Seetha is discernable... Lakshmana, now you think of it, clearly... [3-67
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -186,6 +198,8 @@ device Seetha is discernable... Lakshmana, now you think of it, clearly... [3-67
 इदम् एव जन-स्थानं  
 त्वम् अन्वेषितुम् अर्हसि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,6 +246,7 @@ and climber-plants... [3-67-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -240,6 +255,8 @@ and climber-plants... [3-67-4]
 सन्तीह गिरि-दुर्गाणि  
 निर्दराः कन्दराणि च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +273,7 @@ and climber-plants... [3-67-4]
 
 नाना प्रकारद वृक्ष-लतॆगळिन्द कूडिद ई घन वनवु अनेक राक्षसरिन्द तुम्बिदॆ. इदरल्लि पर्वतगळ मेलॆ अनेक दुर्गम स्थान, ऒडॆद बण्डॆगळु मत्तु कन्दकगळिवॆ.॥5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -264,6 +282,8 @@ and climber-plants... [3-67-4]
 आवासाः किन्नराणां च  
 गन्धर्व-भवनानि च ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,6 +320,7 @@ kinnaraa-s and palaces of gandharva-s, as well... [3-67-5b, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -310,6 +331,8 @@ kinnaraa-s and palaces of gandharva-s, as well... [3-67-5b, 6]
 आपत्सु न प्रकम्पन्ते  
 वायु-वेगैर् इवाचलाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,6 +382,7 @@ mountains unfluctuating in windstorms..." Lakshmana said so Rama. [3-67-6, 7, 8a
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,6 +391,8 @@ mountains unfluctuating in windstorms..." Lakshmana said so Rama. [3-67-6, 7, 8a
 क्रुद्धो रामः शरं घोरं  
 सन्धाय धनुषि क्षुरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,6 +433,7 @@ with Lakshmana readying a crescent-shaped razor-sharp deadly arrow on his bow. [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +444,8 @@ with Lakshmana readying a crescent-shaped razor-sharp deadly arrow on his bow. [
 तं दृष्ट्वा गिरि-शृङ्गाभं  
 रामो लक्ष्मणम् अब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,6 +510,7 @@ beatific brave bird among all the birds, but bloodstained and buckling on earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,6 +519,8 @@ beatific brave bird among all the birds, but bloodstained and buckling on earth.
 गृध्र-रूपम् इदं व्यक्तं  
 रक्षो भ्रमति काननम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,6 +540,7 @@ _________________
 
 लक्ष्मणा! ई गृध्ररूपदल्लि खण्डितवागि यावनो राक्षसनॆन्दु अनिसुत्तदॆ. इवनु ई वनदल्लि सुत्ताडुत्ता इरुत्तानॆ. निस्संशयवागि इवने विदेहनन्दिनि सीतॆयन्नु तिन्दु हाकिरबहुदु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -516,6 +549,8 @@ _________________
 एनं **वधिष्ये** दीप्ताग्रैः  
 शरैर् घोरैर् अ-जिह्म-गैः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,6 +589,7 @@ declared. [3-67-11b, 12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -562,6 +598,8 @@ declared. [3-67-11b, 12]
 क्रुद्धो रामः समुद्रान्तां  
 **चालयन्न्** इव मेदिनीम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,6 +644,7 @@ which is within the perimeter of oceans. [3-67-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -614,6 +653,8 @@ which is within the perimeter of oceans. [3-67-13]
 **अभ्यभाषत** पक्षी स  
 रामं दशरथात्मजम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,6 +703,7 @@ non-non-essential.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -670,6 +712,8 @@ non-non-essential.
 सा देवी मम च प्राणा  
 रावणेनोभयं **हृतम्** ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,6 +757,7 @@ search of a rejuvenescent herb in the vast of forest, Ravana stole that lady and
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -721,6 +766,8 @@ search of a rejuvenescent herb in the vast of forest, Ravana stole that lady and
 **ह्रियमाणा** मया **दृष्टा**  
 रावणेन बलीयसा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +801,7 @@ Lakshmana absented from her... [3-67-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -762,6 +810,8 @@ Lakshmana absented from her... [3-67-16]
 **विध्वंसित**-रथ-च्छत्रः  
 **पतितो** धरणी-तले ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,6 +861,7 @@ Some mms use Chatram 'parasol...' for the word atra for 'there...' and prabho
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -819,6 +870,8 @@ Some mms use Chatram 'parasol...' for the word atra for 'there...' and prabho
 अयम् अस्य रणे राम  
 **भग्नः** साङ्ग्रामिको रथः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -863,6 +916,7 @@ for sharaavaram 'armour...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -875,6 +929,8 @@ for sharaavaram 'armour...'
 रक्षसा **निहतं** पूर्वं  
 मां **न हन्तुं** त्वम् **अर्हसि** ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,6 +984,7 @@ inapt of you to kill me who am already killed by the demon..." Thus Jataayu appe
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -940,6 +997,8 @@ inapt of you to kill me who am already killed by the demon..." Thus Jataayu appe
 द्वि-गुणीकृत-तापार्तो  
 रामो धीरतरो ऽपि सन् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,6 +1077,7 @@ while hugging that kingly eagle Jataayu. [3-67-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1026,6 +1086,8 @@ while hugging that kingly eagle Jataayu. [3-67-21]
 **समीक्ष्य** दुःखितो रामः  
 सौमित्रिम् इदम् अब्रवीत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,6 +1136,7 @@ than a single-strait, or a narrow pathway, which are not uncommon in forests.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1082,6 +1145,8 @@ than a single-strait, or a narrow pathway, which are not uncommon in forests.
 ईदृशीयं ममालक्ष्मीर्  
 **दहेद्** अपि हि पावकम् ॥ २४ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1123,6 +1188,7 @@ Divine-Incinerator... [3-67-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1131,6 +1197,8 @@ Divine-Incinerator... [3-67-24]
 सो ऽपि नूनं ममालक्ष्म्या  
 **विशुष्येत्** सरितां पतिः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,6 +1240,7 @@ dry, owing to my misfortune, it is definite... [3-67-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1180,6 +1249,8 @@ dry, owing to my misfortune, it is definite... [3-67-25]
 येनेयं महती प्राप्ता  
 मया व्यसन-वागुरा ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1222,6 +1293,7 @@ as this is derived... [3-67-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1230,6 +1302,8 @@ as this is derived... [3-67-26]
 **शेते** विनिहतो भूमौ  
 मम भाग्य-विपर्ययात् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1275,6 +1349,7 @@ jaraanvita 'old aged, decrepit...' for a pathetic touch.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1283,6 +1358,8 @@ jaraanvita 'old aged, decrepit...' for a pathetic touch.
 जटायुषं च **पस्पर्श**  
 पितृ-स्नेहं निदर्शयन् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1322,6 +1399,7 @@ with Lakshmana instancing his parental regard. [3-67-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1330,6 +1408,8 @@ with Lakshmana instancing his parental regard. [3-67-28]
 क्व मैथिली प्राण-समा गतेति  
 **विमुच्य** वाचं **निपपात** भूमौ ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,4 +1465,5 @@ collapsed to earth. [3-67-29]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तेळनॆय सर्ग सम्पूर्णवायितु. ॥67॥
+</details>
 </details>

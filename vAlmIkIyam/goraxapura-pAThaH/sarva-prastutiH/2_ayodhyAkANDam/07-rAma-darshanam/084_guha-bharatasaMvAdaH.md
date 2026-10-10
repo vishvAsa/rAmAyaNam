@@ -2,6 +2,8 @@
 title = "०८४ गुह-भरतसंवादः"
 title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -21,12 +23,15 @@ of honey, meat and fish. He asks Bharata with his army to accept his hospitality
 
 84. निषादराज गुहका अपने बन्धुओंको नदीकी रक्षा करते हुए युद्धके लिये तैयार रहनेका आदेश दे भेंटकी सामग्री ले भरतके पास जाना और उनसे आतिथ्य स्वीकार करनेके लिये अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निविष्टां ध्वजिनीं गङ्गामन्वाश्रितां नदीम् ।  
 निषादराजो दृष्ट्वैव ज्ञातीन् स परितोऽब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ of Nishadas hastily spoke to his relatives as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महतीयमितः सेना सागराभा प्रदृश्यते ।  
 नास्यान्तमवगच्छामि मनसापि विचिन्तयन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ extent of this army even by my discerning mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा नु खलु दुर्बुद्धिर्भरतः स्वयमागतः ।  
 स एष हि महाकायः कोविदारध्वजो रथे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ Kovidara tree: pomegranate tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बन्धयिष्यति वा पाशैरथ वास्मान् वधिष्यति ।  
 अनु दाशरथिं रामं पित्रा राज्याद् विवासितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,12 +204,15 @@ Kovidara tree: pomegranate tree.
 
 इवनु तन्न मन्त्रिगळिन्द मॊदलु नम्मॆल्लरन्नु पाशगळिन्द बन्धिसियानु, अथवा कॊल्लिसलूबहुदु; अनन्तर यारन्नु तन्दॆयु राज्यदिन्द हॊरहाकिद आ दशरथनन्दन श्रीरामनन्नू कूड कॊन्दुहाकुवनॆन्दु ननगॆ अनिसुत्तदॆ.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पन्नां श्रियमन्विच्छंस्तस्य राज्ञः सुदुर्लभाम् ।  
 भरतः कैकयीपुत्रो हन्तुं समधिगच्छति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +254,15 @@ is to get the prosperous Ayodhya kingdom, a luxury and that which is inaccessibl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्ता चैव सखा चैव रामो दाशरथिर्मम ।  
 तस्यार्थकामाः सन्नद्धा गङ्गानूपेऽत्र तिष्ठत ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,12 +303,15 @@ armor, be stationed on this bank of Ganga River, desiring to advance the interes
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठन्तु सर्वदाशाश्च गङ्गामन्वाश्रिता नदीम् ।  
 बलयुक्ता नदीरक्षा मांसमूलफलाशनाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +351,15 @@ and fruits ( in their boats), stay positioned along the River Ganga."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावां शतानां पञ्चानां कैवर्तानां शतं शतम् ।  
 सन्नद्धानां तथा यूनां तिष्ठन्त्वत्यभ्यचोदयत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,12 +402,15 @@ and made ready" -thus announced Guha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तुष्टस्तु भरतो रामस्येह भविष्यति ।  
 इयं स्वस्तिमती सेना गङ्गामद्य तरिष्यति ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ allowed to) cross the River Ganga in safety."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वोपायनं गृह्य मत्स्यमांसमधूनि च ।  
 अभिचक्राम भरतं निषादाधिपतिर्गुहः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -471,12 +503,15 @@ offering and approached Bharata.
 
 * यहाँ मूलमें ‘मत्स्य’ शब्द ‘मत्स्यण्डी’ अर्थात् मिश्रीका वाचक है । ‘मत्स्यण्डी’ इस नामका एक अंश ‘मत्स्य’ है, अतः नामके एक अंशके ग्रहणसे सम्पूर्ण नामका ग्रहण किया गया है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमायान्तं तु सम्प्रेक्ष्य सूतपुत्रः प्रतापवान् ।  
 भरतायाचचक्षेऽथ समयज्ञो विनीतवत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,6 +552,7 @@ discipline, humbly told Bharata as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -525,6 +561,8 @@ discipline, humbly told Bharata as follows:
 तस्मात् पश्यतु काकुत्स्थं त्वां निषादाधिपो गुहः ।  
 असंशयं विजानीते यत्र तौ रामलक्ष्मणौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -592,12 +630,15 @@ with the forest of Dandaka and also an old friend of your elder brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तु वचनं श्रुत्वा सुमन्त्राद् भरतः शुभम् ।  
 उवाच वचनं शीघ्रं गुहः पश्यतु मामिति ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +678,15 @@ without delay."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लब्ध्वानुज्ञां सम्प्रहृष्टो ज्ञातिभिः परिवारितः ।  
 आगम्य भरतं प्रह्वो गुहो वचनमब्रवीत् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ approached Bharata and spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्कुटश्चैव देशोऽयं वञ्चिताश्चापि ते वयम् ।  
 निवेदयाम ते सर्वं स्वके दाशगृहे वस ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -728,12 +775,15 @@ reporting to you as such. Stay in this servant's house."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्ति मूलफलं चैतन्निषादैः स्वयमर्जितम् ।  
 आर्द्रं शुष्कं तथा मांसं वन्यं चोच्चावचं तथा ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,12 +827,15 @@ of great quality and of various kinds, and all a produce of the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशंसे स्वाशिता सेना वत्स्यत्येनां विभावरीम् ।  
 अर्चितो विविधैः कामैः श्वः ससैन्यो गमिष्यसि ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -836,5 +889,6 @@ you could desire, you can continue your journey tomorrow along with your troops.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥84॥
+</details>
 </details>
 

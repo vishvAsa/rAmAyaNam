@@ -2,6 +2,8 @@
 title = "००८ राक्षसैः स्वबलप्रशंसनम्"
 title_english = "008 All demons eulogising their strengths"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,12 +23,15 @@ individually kill Rama and his army within no time.
 
 8. प्रहस्त, दुर्मुख, वज्रदंष्ट्र, निकुम्भ और वज्रहनुका रावणके सामने शत्रु-सेनाको मार गिरानेका उत्साह दिखाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नीलाम्बुदप्रख्यः प्रहस्तो नाम राक्षसः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं शूरः सेनापतिस्तदा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -52,12 +57,15 @@ _________________
 
 अनन्तर नीलमेघदन्तॆ कप्पुबण्णद शूर सेनापति प्रहस्त ऎम्ब राक्षसनु कैमुगिदु हेळिदनु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वाः पिशाचपतगोरगाः ।  
 सर्वे धर्षयितुं शक्याः किं पुनर्मानवौ रणे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -100,12 +108,15 @@ battle. Why to talk about two human beings?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे प्रमत्ता विश्वस्ता वञ्चिताः स्म हनूमता ।  
 नहि मे जीवतो गच्छेज्जीवन् स वनगोचरः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,12 +156,15 @@ cannot go alive, while I am alive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वां सागरपर्यन्तां सशैलवनकाननाम् ।  
 करोम्यवानरां भूमिमाज्ञापयतु मां भवान् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,12 +204,15 @@ forests and woods, bereft of monkeys. You command me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षां चैव विधास्यामि वानराद् रजनीचर ।  
 नागमिष्यति ते दुःखं किञ्चिदात्मापराधजम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +253,15 @@ will come to you on account of your guilt (abduction of Seetha)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् तु सुसङ्क्रुद्धो दुर्मुखो नाम राक्षसः ।  
 इदं न क्षमणीयं हि सर्वेषां नः प्रधर्षणम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,12 +301,15 @@ humiliation meted out to us by that monkey is indeed not to be tolerated."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं परिभवो भूयः पुरस्यान्तःपुरस्य च ।  
 श्रीमतो राक्षसेन्द्रस्य वानरेण प्रधर्षणम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +349,15 @@ on the glorious Ravana are still outrageous."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् मुहूर्ते गत्वैको निवर्तिष्यामि वानरान् ।  
 प्रविष्टान् सागरं भीममम्बरं वा रसातलम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,12 +398,15 @@ entered the ocean or the subterranean region or the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीत् सुसङ्क्रुद्धो वज्रदंष्ट्रो महाबलः ।  
 प्रगृह्य परिघं घोरं मांसशोणितरूषितम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -421,12 +450,15 @@ terrific iron club smeared with flesh and blood and spoke (as follows):
 
 इष्टरल्लि महाबलि वज्रदंष्ट्रनु अत्यन्त क्रोधितनागि रक्त-मांसगळु मॆत्तिकॊण्ड भयानक परिघवन्नु कैयल्लॆत्तिकॊण्डु हेळिदनु .॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नो हनूमता कार्यं कृपणेन तपस्विना ।  
 रामे तिष्ठति दुर्धर्षे सुग्रीवेऽपि सलक्ष्मणे ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +499,15 @@ Lakshmana and Sugreeva who are difficult to be conquered exist?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य रामं ससुग्रीवं परिघेण सलक्ष्मणम् ।  
 आगमिष्यामि हत्वैको विक्षोभ्य हरिवाहिनीम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,12 +551,15 @@ perturbing the army of monkeys, I shall come back."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं ममापरं वाक्यं शृणु राजन् यदिच्छसि ।  
 उपायकुशलो ह्येव जयेच्छत्रूनतन्द्रितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,6 +600,7 @@ stratagem alone will be without lassitude and can indeed defeat the enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -572,6 +611,8 @@ stratagem alone will be without lassitude and can indeed defeat the enemies."
 प्रेषिता भरतेनैव भ्रात्रा तव यवीयसा ।  
 स हि सेनां समुत्थाप्य क्षिप्रमेवोपयास्यति ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +671,15 @@ without embarrassment and all speak to Rama (as follows).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वयमितस्तूर्णं शूलशक्तिगदाधराः ।  
 चापबाणासिहस्ताश्च त्वरितास्तत्र यामहे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -675,12 +719,15 @@ will quickly go there from here soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाशे गणशः स्थित्वा हत्वा तां हरिवाहिनीम् ।  
 अश्मशस्त्रमहावृष्ट्या प्रापयाम यमक्षयम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -721,12 +768,15 @@ of stones and missiles, we should send them to the world of Death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं चेदुपसर्पेतामनयं रामलक्ष्मणौ ।  
 अवश्यमपनीतेन जहतामेव जीवितम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +828,15 @@ cloud, joined his palms in salutation and spoke these words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौम्भकर्णिस्ततो वीरो निकुम्भो नाम वीर्यवान् ।  
 अब्रवीत् परमक्रुद्धो रावणं लोकरावणम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,6 +876,7 @@ angry and spoke (as follows) to Ravana, who made people cry.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -830,6 +884,8 @@ angry and spoke (as follows) to Ravana, who made people cry.
 अहमेको हनिष्यामि राघवं सहलक्ष्मणम् ॥ २० ॥  
 सुग्रीवं सहनूमन्तं सर्वांश्चैवात्र वानरान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +929,15 @@ Lakshman, Sugreeva along with Hanuma and all the monkeys also.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वज्रहनुर्नाम राक्षसः पर्वतोपमः ॥ २१ ॥  
 क्रुद्धः परिलिहन् सृक्कां जिह्वया वाक्यमब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,12 +981,15 @@ licking the corners of his mouth with his tongue, spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वैरं कुर्वन्तु कार्याणि भवन्तो विगतज्वराः ॥ २२ ॥  
 एकोऽहं भक्षयिष्यामि तां सर्वां हरिवाहिनीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -944,6 +1006,7 @@ licking the corners of his mouth with his tongue, spoke as follows:
 
 नीवॆल्लरू निश्चिन्तरागि स्वेच्छॆयिन्द निम्म-निम्म कॆलस माडुत्ता इरि. नानॊब्बने ऎल्ल वानर सैन्यवन्नु तिन्दुबिडुवॆनु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -951,6 +1014,8 @@ licking the corners of his mouth with his tongue, spoke as follows:
 अहमेको वधिष्यामि सुग्रीवं सहलक्ष्मणम् ।  
 साङ्गदं च हनूमन्तं सर्वांश्चैवात्र वानरान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1014,5 +1079,6 @@ spirituous liquor without any worry. I alone will devour the entire army of monk
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎण्टनॆय सर्ग पूर्णवायितु.॥8॥
+</details>
 </details>
 

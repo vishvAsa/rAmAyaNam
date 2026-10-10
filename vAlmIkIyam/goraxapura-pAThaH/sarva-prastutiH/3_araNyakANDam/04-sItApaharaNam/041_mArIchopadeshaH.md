@@ -2,6 +2,8 @@
 title = "०४१ मारीचोपदेशः"
 title_english = "041 Maareecha dissuades Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -24,12 +26,15 @@ rather than by his own clansman, Ravana.
 
 41. मारीचका रावणको विनाशका भय दिखाकर पुनः समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञप्तो रावणेनेत्थं प्रतिकूलं च राजवत् ।  
 अब्रवीत् परुषं वाक्यं निःशङ्को राक्षसाधिपम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ words caustically and frankly to that king of demons. [3-41-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनायमुपदिष्टस्ते विनाशः पापकर्मणा ।  
 सपुत्रस्य सराज्यस्य सामात्यस्य निशाचर ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ along with your progeny, kingdom and ministers put together, is taught to you? [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्त्वया सुखिना राजन् नाभिनन्दति पापकृत् ।  
 केनेदमुपदिष्टं ते मृत्युद्वारमुपायतः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ this door of demise is ingeniously shown to you? [3-41-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रवस्तव सुव्यक्तं हीनवीर्या निशाचर ।  
 इच्छन्ति त्वां विनश्यन्तमुपरुद्धं बलीयसा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ that you should be completely ruined coming into conflict with more mighty Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनेदमुपदिष्टं ते क्षुद्रेणाहितबुद्धिना ।  
 यस्त्वामिच्छति नश्यन्तं स्वकृतेन निशाचर ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ scoundrel with a pernicious intent, as such, by whom you are counselled to do th
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वध्याः खलु न वध्यन्ते सचिवास्तव रावण ।  
 ये त्वामुत्पथमारूढं न निगृह्णन्ति सर्वशः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,12 +323,15 @@ their dereliction. [3-41-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमात्यैः कामवृत्तो हि राजा कापथमाश्रितः ।  
 निग्राह्यः सर्वथा सद्भिः स निग्राह्यो न गृह्यसे ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +373,15 @@ though you are taking a wrong-route. [3-41-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्ममर्थं च कामं च यशश्च जयतां वर ।  
 स्वामिप्रसादात् सचिवाः प्राप्नुवन्ति निशाचर ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,12 +432,15 @@ wishes him to be living, he used that chosen word.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विपर्यये तु तत्सर्वं व्यर्थं भवति रावण ।  
 व्यसनं स्वामिवैगुण्यात् प्राप्नुवन्तीतरे जनाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,12 +481,15 @@ derive distress by the negative virtue of their master. [3-41-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजमूलो हि धर्मश्च यशश्च जयतां वर ।  
 तस्मात् सर्वास्ववस्थासु रक्षितव्या नराधिपाः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +531,15 @@ influences. [3-41-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं पालयितुं शक्यं न तीक्ष्णेन निशाचर ।  
 न चातिप्रतिकूलेन नाविनीतेन राक्षस ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -545,12 +580,15 @@ acridity, with hostility, or with immorality. [3-41-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये तीक्ष्णमन्त्राः सचिवा भुज्यन्ते सह तेन वै ।  
 विषमेषु रथाः शीघ्रं मन्दसारथयो यथा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,12 +644,15 @@ one wise man than a thousand stupid persons as minister.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहवः साधवो लोके युक्तधर्ममनुष्ठिताः ।  
 परेषामपराधेन विनष्टाः सपरिच्छदाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,12 +692,15 @@ are completely ruined together with their kinsmen owing to the misdeeds of other
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वामिना प्रतिकूलेन प्रजास्तीक्ष्णेन रावण ।  
 रक्ष्यमाणा न वर्धन्ते मेषा गोमायुना यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +740,15 @@ coerciveness safeguards them, just like goats guarded by a fox. [3-41-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं विनशिष्यन्ति सर्वे रावण राक्षसाः ।  
 येषां त्वं कर्कशो राजा दुर्बुद्धिरजितेन्द्रियः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -742,12 +789,15 @@ and malicious king with unconquered senses, though you have conquered the heaven
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं काकतालीयं घोरमासादितं मया ।  
 अत्र त्वं शोचनीयोऽसि ससैन्यो विनशिष्यसि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +849,15 @@ named for such fortuitous happenings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां निहत्य तु रामोऽसावचिरात् त्वां वधिष्यति ।  
 अनेन कृतकृत्योऽस्मि म्रिये चाप्यरिणा हतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -855,12 +908,15 @@ puraaNa - *but yet he is trying to divert Ravana from self-ruination.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनादेव रामस्य हतं मामवधारय ।  
 आत्मानं च हतं विद्धि हृत्वा सीतां सबान्धवम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,12 +956,15 @@ along with your kinsmen just when you steal Seetha. [3-41-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनयिष्यसि चेत् सीतामाश्रमात् सहितो मया ।  
 नैव त्वमपि नाहं वै नैव लङ्का न राक्षसाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,6 +1006,7 @@ you will not be there, I will not be there, Lanka will not be there, the demons 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -955,6 +1015,8 @@ you will not be there, I will not be there, Lanka will not be there, the demons 
 परेतकल्पा हि गतायुषो नरा  
 हितं न गृह्णन्ति सुहृद्भिरीरितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,5 +1074,6 @@ corpses and a corpse cannot take in the expedient spoken by considerate confidan
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥41॥
+</details>
 </details>
 

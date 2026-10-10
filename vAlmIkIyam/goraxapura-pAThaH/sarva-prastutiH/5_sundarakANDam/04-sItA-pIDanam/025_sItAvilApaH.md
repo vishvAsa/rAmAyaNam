@@ -2,6 +2,8 @@
 title = "०२५ सीताविलापः"
 title_english = "025 Seetha bursts into a wail"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -20,12 +22,15 @@ ogre women.
 
 25. राक्षसियोंकी बात माननेसे इनकार करके शोक-संतप्त सीताका विलाप करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तासां वदन्तीनां परुषं दारुणं बहु ।  
 राक्षसीनामसौम्यानां रुरोद जनकात्मजा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ As those ogre woman with a cruel nature were speaking a lot harshly and horribly
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही राक्षसीभिर्मनस्विनी ।  
 उवाच परमत्रस्ता बाष्पगद‍्गदया गिरा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ with a voice indistinct due to tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मानुषी राक्षसस्य भार्या भवितुमर्हति ।  
 कामं खादत मां सर्वा न करिष्यामि वो वचः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,12 +149,15 @@ I will not do according to your words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा राक्षसीमध्यगता सीता सुरसुतोपमा ।  
 न शर्म लेभे शोकार्ता रावणेनेव भर्त्सिता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +194,15 @@ Seetha did not get comfort being tormented by grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेपते स्माधिकं सीता विशन्तीवाङ्गमात्मनः ।  
 वने यूथपरिभ्रष्टा मृगी कोकैरिवार्दिता ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,6 +242,7 @@ into own body and shook a lot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,6 +251,8 @@ into own body and shook a lot.
 चिन्तयाम् आस शोकेन  
 भर्तारं भग्नमानसा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,12 +289,15 @@ about Her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा स्नापयन्ती विपुलौ स्तनौ नेत्रजलस्रवैः ।  
 चिन्तयन्ती न शोकस्य तदान्तमधिगच्छति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +331,15 @@ get end of sorrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा वेपमाना पतिता प्रवाते कदली यथा ।  
 राक्षसीनां भयत्रस्ता विवर्णवदनाभवत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,12 +382,15 @@ with fear of the ogre women, and became with a pale face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः सा दीर्घबहुला वेपन्त्याः सीतया तदा ।  
 ददृशे कम्पिता वेणी व्यालीव परिसर्पती ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +432,15 @@ motion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा निःश्वसन्ती शोकार्ता कोपोपहतचेतना ।  
 आर्ता व्यसृजदश्रूणि मैथिली विललाप च ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,12 +482,15 @@ down tears and also cried.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा रामेति च दुःखार्ता हा पुनर्लक्ष्मणेति च ।  
 हा श्वश्रूर्मम कौसल्ये हा सुमित्रेति भामिनी ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,12 +533,15 @@ mother-in-law" "Oh! Sumitra!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकप्रवादः सत्योऽयं पण्डितैः समुदाहृतः ।  
 अकाले दुर्लभो मृत्युः स्त्रिया वा पुरुषस्य वा ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +553,15 @@ mother-in-law" "Oh! Sumitra!"
 
 ‘हाय! पण्डितोंने यह लोकोक्ति ठीक ही कही है कि ‘किसी भी स्त्री या पुरुषकी मृत्यु बिना समय आये नहीं होती’ ॥ १२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्राहमाभिः क्रूराभी राक्षसीभिरिहार्दिता ।  
 जीवामि हीना रामेण मुहूर्तमपि दुःखिता ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -560,12 +601,15 @@ saying in the world is true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषाल्पपुण्या कृपणा विनशिष्याम्यनाथवत् ।  
 समुद्रमध्ये नौः पूर्णा वायुवेगैरिवाहता ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +649,15 @@ ocean being hit by the speed of wind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तारं तमपश्यन्ती राक्षसीवशमागता ।  
 सीदामि खलु शोकेन कूलं तोयहतं यथा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +691,15 @@ am verily perishing with sorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पद्मदलपत्राक्षं सिंहविक्रान्तगामिनम् ।  
 धन्याः पश्यन्ति मे नाथं कृतज्ञं प्रियवादिनम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,12 +740,15 @@ gait of a lion, correct in conduct and a pleasant talker."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा तेन हीनाया रामेण विदितात्मना ।  
 तीक्ष्णं विषमिवास्वाद्य दुर्लभं मम जीवनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -731,12 +784,15 @@ is hard."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कीदृशं तु महापापं मया देहान्तरे कृतम् ।  
 तेनेदं प्राप्यते घोरं महादुःखं सुदारुणम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,12 +835,15 @@ done by me in another life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितं त्यक्तुमिच्छामि शोकेन महता वृता ।  
 राक्षसीभिश्च रक्षन्त्या रामो नासाद्यते मया ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +884,15 @@ I am well protected by ogre women."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिगस्तु खलु मानुष्यं धिगस्तु परवश्यताम् ।  
 न शक्यं यत् परित्यक्तुमात्मच्छन्देन जीवितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,5 +936,6 @@ according to own desire to give up life."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तैदनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

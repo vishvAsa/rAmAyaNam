@@ -2,6 +2,8 @@
 title = "०२२ सेतुबन्धनम्"
 title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ accordingly constructs a bridge across the sea with the help of other monkeys.
 
 22. समुद्रकी सलाहके अनुसार नलके द्वारा सागरपर सौ योजन लंबे पुलका निर्माण तथा उसके द्वारा श्रीराम आदिसहित वानरसेनाका उस पार पहुँचकर पड़ाव डालना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच रघुश्रेष्ठः सागरं दारुणं वचः ।  
 अद्य त्वां शोषयिष्यामि सपातालं महार्णव ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,12 +66,15 @@ now along with your nethermost subterranean region."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरनिर्दग्धतोयस्य परिशुष्कस्य सागर ।  
 मया निहतसत्त्वस्य पांसुरुत्पद्यते महान् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,12 +91,15 @@ now along with your nethermost subterranean region."
 
 सागरने! नन्न बाणगळिन्द निन्न ऎल्ल जलराशियु सुट्टु होगि नीनु ऒणगि होगुवॆ. निन्नॊळगॆ वासिसुव ऎल्ल जीविगळु नाशवागि होगुवुदु. आ स्थितियल्लि निन्न नीरिन स्थानदल्लि विशाल मरळराशियु तुम्बिकॊळ्ळुत्तदॆ.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्कार्मुकविसृष्टेन शरवर्षेण सागर ।  
 परं तीरं गमिष्यन्ति पद्भिरेव प्लवङ्गमाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,12 +142,15 @@ even by foot; O, ocean!"
 
 समुद्रवे! धनुस्सिनिन्द नानु माडिद बाणद मळॆयिन्द इन्तह स्थिति उण्टादाग वानररु काल्नडिगॆयिन्दले आचॆय दडवन्नु सेरुवरु.॥.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचिन्वन्नाभिजानासि पौरुषं नापि विक्रमम् ।  
 दानवालय सन्तापं मत्तो नाम गमिष्यसि ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,12 +190,15 @@ through your intelligence .You will indeed get repentance at my hands."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मेणास्त्रेण संयोज्य ब्रह्मदण्डनिभं शरम् ।  
 संयोज्य धनुषि श्रेष्ठे विचकर्ष महाबलः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +234,15 @@ the sea."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् विकृष्टे सहसा राघवेण शरासने ।  
 रोदसी सम्पफालेव पर्वताश्च चकम्पिरे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,12 +262,15 @@ _________________
 
 श्रीरघुनाथनु कूडले आ धनुस्सन्नु सॆळॆयुत्तले भूमि-आकाशगळु सीळि होगुववो ऎम्बन्तॆ काणुत्तित्तु. पर्वतगळु नडुगिदवु.॥6॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमश्च लोकमावव्रे दिशश्च न चकाशिरे ।  
 प्रतिचुक्षुभिरे चाशु सरांसि सरितस्तथा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -273,12 +296,15 @@ _________________
 
 प्रपञ्चद ऎल्लॆडॆ अन्धकार आवरिसितु. याव दिक्किन ज्ञानवू उळियलिल्ल. नदिगळू, सरोवरगळू अल्लोलकल्लोलवादुवु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिर्यक् च सह नक्षत्रैः सङ्गतौ चन्द्रभास्करौ ।  
 भास्करांशुभिरादीप्तं तमसा च समावृतम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,12 +321,15 @@ _________________
 
 सूर्य-चन्द्ररु नक्षत्रगळॊन्दिगॆ अड्डड्डवागि सञ्चरिस तॊडगिदवु. सूर्य किरणगळिन्द प्रकाशितवागिद्दरू आकाशवु अन्धकारदिन्द तुम्बिहोयितु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचकाशे तदाऽऽकाशमुल्काशतविदीपितम् ।  
 अन्तरिक्षाच्च निर्घाता निर्जग्मुरतुलस्वनाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -341,6 +370,7 @@ reverberated with an unparalleled sound in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -348,6 +378,8 @@ reverberated with an unparalleled sound in the sky.
 बभञ्ज च तदा वृक्षाञ्जलदानुद्वहन्मुहुः ॥ १० ॥  
 आरुजंश्चैव शैलाग्रान् शिखराणि बभञ्ज च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,6 +424,7 @@ away the clouds, tore up the trees again and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -400,6 +433,8 @@ away the clouds, tore up the trees again and again.
 यानि भूतानि दृश्यानि चुक्रुशुश्चाशनेः समम् ॥ १२ ॥  
 अदृश्यानि च भूतानि मुमुचुर्भैरवस्वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +480,15 @@ with a great sound and then there were great thunders.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिश्यिरे चाभिभूतानि सन्त्रस्तान्युद्विजन्ति च ॥ १३ ॥  
 सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,6 +528,7 @@ very much anguished. They did not move due to fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -497,6 +536,8 @@ very much anguished. They did not move due to fear.
 सहसाभूत् ततो वेगाद् भीमवेगो महोदधिः ।  
 योजनं व्यतिचक्राम वेलामन्यत्र सम्प्लवात् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,12 +576,15 @@ waters, the ocean crossed beyond the other shore to the extent of a Yojana (eigh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तथा समतिक्रान्तं नातिचक्राम राघवः ।  
 समुद्धतममित्रघ्नो रामो नदनदीपतिम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +618,15 @@ that ocean, which swelled and crossed its limits.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मध्यात् समुद्रस्य सागरः स्वयमुत्थितः ।  
 उदयाद्रिमहाशैलान्मेरोरिव दिवाकरः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,12 +666,15 @@ rises at dawn from the huge mountain of Meru.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पन्नगैः सह दीप्तास्यैः समुद्रः प्रत्यदृश्यत ।  
 स्निग्धवैदूर्यसङ्काशो जाम्बूनदविभूषणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +717,15 @@ adorned with gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्तमाल्याम्बरधरः पद्मपत्रनिभेक्षणः ।  
 सर्वपुष्पमयीं दिव्यां शिरसा धारयन् स्रजम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,12 +742,15 @@ adorned with gold.
 
 कॆम्पु बण्णद हूविन मालॆयन्नु कॆम्पाद वस्त्रवन्नु अवनु धरिसिद्दनु. अवन नेत्रगळु अरळिद तावरॆयन्तॆ सुन्दरवागिद्दवु. अवनु तलॆय मेलॆ ऎल्ल प्रकारद पुष्पगळिन्द माडिद दिव्यपुष्पमालॆयन्नु धरिसिद्दनु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जातरूपमयैश्चैव तपनीयविभूषणैः ।  
 आत्मजानां च रत्नानां भूषितो भूषणोत्तमैः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -728,6 +784,7 @@ arrows; when you get dried up and the creatures inhabiting you get destroyed by 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -735,6 +792,8 @@ arrows; when you get dried up and the creatures inhabiting you get destroyed by 
 एकावलीमध्यगतं तरलं पाण्डरप्रभम् ॥ २१ ॥  
 विपुलेनोरसा बिभ्रत्कौस्तुभस्य सहोदरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -752,12 +811,15 @@ arrows; when you get dried up and the creatures inhabiting you get destroyed by 
 
 समुद्रराजनु अनेक प्रकारद गैरिकादि धातु गळिन्द अलङ्कृतवाद हिमवन्तनन्तॆ शोभिसुत्तिद्दनु. तन्न विशालवक्षस्थळदल्लि कौस्तुभमणियन्तॆ ऒन्दु श्वेत प्रभॆयुळ्ळ रत्नवन्नु धरिसिद्दनु, अदु मुत्तिन हारद मध्यभागदल्लि प्रकाशिसुत्तित्तु.॥21½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आघूर्णिततरङ्गौघः कालिकानिलसङ्कुलः ॥ २२ ॥  
 गङ्गासिन्धुप्रधानाभिरापगाभिः समावृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,6 +836,7 @@ arrows; when you get dried up and the creatures inhabiting you get destroyed by 
 
 मेघ मालॆ मत्तु वायुविनिन्द व्याप्तवाद चञ्चल तरङ्गगळु अवनन्नु सुत्तुवरिदिद्दवु. गङ्गा-सिन्धु मॊदलाद नदिगळु अवनन्नु आवरिसि निन्तिद्दरु.॥22½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -782,6 +845,8 @@ arrows; when you get dried up and the creatures inhabiting you get destroyed by 
 सागरः समुपक्रम्य पूर्वमामन्त्र्य वीर्यवान् ॥ २४ ॥  
 अब्रवीत् प्राञ्जलिर्वाक्यं राघवं शरपाणिनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +888,15 @@ nature, resorting to their eternal path."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी वायुराकाशमापो ज्योतिश्च राघव ।  
 स्वभावे सौम्य तिष्ठन्ति शाश्वतं मार्गमाश्रिताः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +938,15 @@ me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्स्वभावो ममाप्येष यदगाधोऽहमप्लवः ।  
 विकारस्तु भवेद् गाध एतत् ते प्रवदाम्यहम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -915,12 +986,15 @@ to solidify my waters inhabited by alligators."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कामान्न च लोभाद् वा न भयात् पार्थिवात्मज ।  
 ग्राहनक्राकुलजलं स्तम्भयेयं कथञ्चन ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1039,7 @@ crocodiles will not be aggressive to them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -972,6 +1047,8 @@ crocodiles will not be aggressive to them."
 न ग्राहा विधमिष्यन्ति यावत्सेना तरिष्यति ।  
 हरीणां तरणे राम करिष्यामि यथा स्थलम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1011,12 +1088,15 @@ not go in vain. In which region should it be descended?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रवीत् तदा रामः शृणु मे वरुणालय ।  
 अमोघोऽयं महाबाणः कस्मिन् देशे निपात्यताम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,12 +1131,15 @@ the following words to Rama:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा तं च दृष्ट्वा महाशरम् ।  
 महोदधिर्महातेजा राघवं वाक्यमब्रवीत् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,12 +1176,15 @@ the same way as you are well known to this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरेणावकाशोऽस्ति कश्चित् पुण्यतरो मम ।  
 द्रुमकुल्य इति ख्यातो लोके ख्यातो यथा भवान् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1132,12 +1218,15 @@ chief, drink my waters there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उग्रदर्शनकर्माणो बहवस्तत्र दस्यवः ।  
 आभीरप्रमुखाः पापाः पिबन्ति सलिलं मम ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1178,12 +1267,15 @@ Let this excellent arrow with out vain be released over them there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्न तत्स्पर्शनं पापं सहेयं पापकर्मभिः ।  
 अमोघः क्रियतां राम अयं तत्र शरोत्तमः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1220,12 +1312,15 @@ splendid arrow towards that place as directed by the ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा सागरस्य महात्मनः ।  
 मुमोच तं शरं दीप्तं परं सागरदर्शनात् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,12 +1366,15 @@ earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन तन्मरुकान्तारं पृथिव्यां किल विश्रुतम् ।  
 निपातितः शरो यत्र वज्राशनिसमप्रभः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,12 +1417,15 @@ penultimate subterranean region gushed forth from the mouth of that cleft.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननाद च तदा तत्र वसुधा शल्यपीडिता ।  
 तस्माद् व्रणमुखात् तोयमुत्पपात रसातलात् ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1358,12 +1459,15 @@ resembled seawater.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बभूव तदा कूपो व्रण इत्येव विश्रुतः ।  
 सततं चोत्थितं तोयं समुद्रस्येव दृश्यते ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1400,12 +1504,15 @@ cavities, as a result of hurling of that arrow by Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवदारणशब्दश्च दारुणः समपद्यत ।  
 तस्मात् तद् बाणपातेन अपः कुक्षिष्वशोषयत् ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1422,6 +1529,7 @@ cavities, as a result of hurling of that arrow by Rama.
 
 आग अल्लि भूमियु बिरिद भयङ्कर शब्द केळिबन्तु. आ बाणवन्नु बिट्टु अल्लिय भूमिय गर्भदल्लिरुव वर्तमान नीरन्नु श्रीरामनु ऒणगिसिबिट्टनु.॥39॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1429,6 +1537,8 @@ cavities, as a result of hurling of that arrow by Rama.
 शोषयित्वा तु तं कुक्षिं रामो दशरथात्मजः ॥ ४० ॥  
 वरं तस्मै ददौ विद्वान् मरवेऽमरविक्रमः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1466,12 +1576,15 @@ that desert of Maru.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशव्यश्चाल्परोगश्च फलमूलरसायुतः ।  
 बहुस्नेहो बहुक्षीरः सुगन्धिर्विविधौषधिः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1511,12 +1624,15 @@ an auspicious and suitable move, bestowing these merits.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतैश्च संयुक्तो बहुभिः संयुतो मरुः ।  
 रामस्य वरदानाच्च शिवः पन्था बभूव ह ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1556,12 +1672,15 @@ who knew all scientific treatises.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् दग्धे तदा कुक्षौ समुद्रः सरितां पतिः ।  
 राघवं सर्वशास्त्रज्ञमिदं वचनमब्रवीत् ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,12 +1721,15 @@ Vishvakarma; who was given a boon by his father and is equal to Visvakarma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सौम्य नलो नाम तनयो विश्वकर्मणः ।  
 पित्रा दत्तवरः श्रीमान् प्रीतिमान् विश्वकर्मणः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1647,12 +1769,15 @@ He is just the same as his father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष सेतुं महोत्साहः करोतु मयि वानरः ।  
 तमहं धारयिष्यामि यथा ह्येष पिता तथा ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1696,12 +1821,15 @@ distinguished among monkeys stood up and spoke the following words to Rama of gr
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वोदधिर्नष्टः समुत्थाय नलस्ततः ।  
 अब्रवीद् वानरश्रेष्ठो वाक्यं रामं महाबलम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1742,12 +1870,15 @@ Ocean, taking recourse to the skill and ability of my father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं सेतुं करिष्यामि विस्तीर्णे मकरालये ।  
 पितुः सामर्थ्यमासाद्य तत्त्वमाह महोदधिः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1787,12 +1918,15 @@ Rama, wishing to see a bridge constructed on it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दण्ड एव वरो लोके पुरुषस्येति मे मतिः ।  
 धिक् क्षमामकृतज्ञेषु सान्त्वं दानमथापि वा ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1833,12 +1967,15 @@ mother: "O, god like lady! A son equal to me will be born to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि सागरो भीमः सेतुकर्मदिदृक्षया ।  
 ददौ दण्डभयाद् गाधं राघवाय महोदधिः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1883,12 +2020,15 @@ details earlier."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम मातुर्वरो दत्तो मन्दरे विश्वकर्मणा ।  
 मया तु सदृशः पुत्रस्तव देवि भविष्यति ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1931,6 +2071,7 @@ monkeys build the bridge now itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1938,6 +2079,8 @@ monkeys build the bridge now itself."
 स्मारितोऽस्म्यहमेतेन तत्त्वमाह महोदधिः ।  
 न चाप्यहमनुक्तो वः प्रब्रूयामात्मनो गुणान् ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1978,12 +2121,15 @@ all sides towards the great forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समर्थश्चाप्यहं सेतुं कर्तुं वै वरुणालये ।  
 तस्मादद्यैव बध्नन्तु सेतुं वानरपुङ्गवाः ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2023,12 +2169,15 @@ there and dragged them away towards the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विसृष्टा रामेण सर्वतो हरिपुङ्गवाः ।  
 उत्पेततुर्महारण्यं हृष्टाः शतसहस्रशः ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2048,12 +2197,15 @@ _________________
 
 आग भगवान् श्रीरामनु कळिसिद्दरिन्द दॊड्ड दॊड्ड वानररु हर्षोत्साहदिन्द नॆगॆयुत्ता ऎल्लॆडॆ होगुत्ता महारण्यवन्नु हॊक्करु.॥54॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते नगान् नगसङ्काशाः शाखामृगगणर्षभाः ।  
 बभञ्जुः पादपांस्तत्र प्रचकर्षुश्च सागरम् ॥ ५५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2095,6 +2247,7 @@ also mango and Asoka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2103,6 +2256,8 @@ also mango and Asoka.
 बिल्वकैः सप्तपर्णैश्च कर्णिकारैश्च पुष्पितैः ।  
 चूतैश्चाशोकवृक्षैश्च सागरं समपूरयन् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2160,12 +2315,15 @@ posts, some trees with roots intact and some others without roots.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समूलांश्च विमूलांश्च पादपान् हरिसत्तमाः ।  
 इन्द्रकेतूनिवोद्यम्य प्रजह्रुर्वानरास्तरून् ॥ ५८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2199,12 +2357,15 @@ mountains and transported them by mechanical contrivances.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तालान् दाडिमगुल्मांश्च नारिकेलविभीतकान् ।  
 करीरान् बकुलान् निम्बान् समाजह्रुरितस्ततः ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2247,12 +2408,15 @@ towards the sky and from there again, gushed back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हस्तिमात्रान् महाकायाः पाषाणांश्च महाबलाः ।  
 पर्वतांश्च समुत्पाट्य यन्त्रैः परिवहन्ति च ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2286,12 +2450,15 @@ hundred Yojanas long (in order to keep the rocks in a straight line.)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रक्षिप्यमाणैरचलैः सहसा जलमुद्‍धृतम् ।  
 समुत्ससर्प चाकाशमवासर्पत् ततः पुनः ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2334,12 +2501,15 @@ bridge was built at that time with the cooperation of other monkeys, of terrible
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रं क्षोभयामासुर्निपतन्तः समन्ततः ।  
 सूत्राण्यन्ये प्रगृह्णन्ति ह्यायतं शतयोजनम् ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2356,12 +2526,15 @@ bridge was built at that time with the cooperation of other monkeys, of terrible
 
 आ वानररु ऎल्लॆडॆ बण्डॆगळन्नु हाकि समुद्रवु अल्लोल कल्लोलवायितु. इतर कॆलवु वानररु नूरु योजन उद्दद दारवन्नु हिडिदुकॊण्डिद्दरु.॥62॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नलश्चक्रे महासेतुं मध्ये नदनदीपतेः ।  
 स तदा क्रियते सेतुर्वानरैर्घोरकर्मभिः ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2399,6 +2572,7 @@ by the command of Rama, fastened some parts of the bridge.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2407,6 +2581,8 @@ by the command of Rama, fastened some parts of the bridge.
 मेघाभैः पर्वताभैश्च तृणैः काष्ठैर्बबन्धिरे ।  
 पुष्पिताग्रैश्च तरुभिः सेतुं बघ्नन्ति वानराः ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2476,12 +2652,15 @@ appeared running hither and thither.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च ।  
 दृश्यन्ते परिधावन्तो गृह्य दानवसन्निभाः ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2524,12 +2703,15 @@ speedily, thrilled with delight as they were, resembling elephants.
 
 पर्वत गळन्तह दॊड्ड दॊड्ड बण्डॆगळन्नु मत्तु पर्वत शिखरगळन्नु ऎत्तिकॊण्डु ऎल्लॆडॆ ओडुत्तिरुव वानररु दानवरन्तॆ कण्डुबरुत्तिद्दरु.॥6.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिलानां क्षिप्यमाणानां शैलानां तत्र पात्यताम् ।  
 बभूव तुमुलः शब्दस्तदा तस्मिन् महोदधौ ॥ ६७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2547,12 +2729,15 @@ speedily, thrilled with delight as they were, resembling elephants.
 
 उस समय उस महासागरमें फेंकी जाती हुई शिलाओं और गिराये जाते हुए पहाड़ोंके गिरनेसे बड़ा भीषण शब्द हो रहा था ॥ ६७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतानि प्रथमेनाह्ना योजनानि चतुर्दश ।  
 प्रहृष्टैर्गजसङ्काशैस्त्वरमाणैः प्लवङ्गमैः ॥ ६८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2610,12 +2795,15 @@ speedily by the monkeys of terrific bodies and of mighty strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वितीयेन तथैवाह्ना योजनानि तु विंशतिः ।  
 कृतानि प्लवगैस्तूर्णं भीमकायैर्महाबलैः ॥ ६९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2666,12 +2854,15 @@ split asunder. Mountains also were shaken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अह्ना तृतीयेन तथा योजनानि तु सागरे ।  
 त्वरमाणैर्महाकायैरेकविंशतिरेव च ॥ ७० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2705,12 +2896,15 @@ twenty-three yojanas of the bridge up to the other seashore.
 
 मूरनॆय दिवस शीघ्रवागि कॆलसदल्लि तॊडगिरुव महाकाय कपिगळु समुद्रदल्लि इप्पत्तॊन्दु योजन उद्दद सेतुवॆ कट्टिदरु.॥7.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्थेन तथा चाह्ना द्वाविंशतिरथापि वा ।  
 योजनानि महावेगैः कृतानि त्वरितैस्ततः ॥ ७१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2767,12 +2961,15 @@ soon agitated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चमेन तथा चाह्ना प्लवगैः क्षिप्रकारिभिः ।  
 योजनानि त्रयोविंशत् सुवेलमधिकृत्य वै ॥ ७२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2813,12 +3010,15 @@ alligators, shone brightly like a milky way of stars in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वानरवरः श्रीमान् विश्वकर्मात्मजो बली ।  
 बबन्ध सागरे सेतुं यथा चास्य पिता तथा ॥ ७३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2861,12 +3061,15 @@ qualities) and great sages came then and stood up in the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नलेन कृतः सेतुः सागरे मकरालये ।  
 शुशुभे सुभगः श्रीमान् स्वातीपथ इवाम्बरे ॥ ७४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2900,12 +3103,15 @@ width of ten yojanas and a length of hundred yojanas and which was very difficul
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 आगम्य गगने तस्थुर्द्रष्टुकामास्तदद्भुतम् ॥ ७५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2922,12 +3128,15 @@ width of ten yojanas and a length of hundred yojanas and which was very difficul
 
 आग आ अद्भुत कार्यवन्नु नोडलु देवतॆगळु, गन्धर्वरु, सिद्धरु, महर्षिगळु आकाशदल्लि बन्दु निन्तुकॊण्डरु.॥75॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशयोजनविस्तीर्णं शतयोजनमायतम् ।  
 ददृशुर्देवगन्धर्वा नलसेतुं सुदुष्करम् ॥ ७६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2967,6 +3176,7 @@ their hair to stand on end in amazement.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2974,6 +3184,8 @@ their hair to stand on end in amazement.
 तमचिन्त्यमसह्यं च ह्यद्भुतं लोमहर्षणम् ॥ ७७ ॥  
 ददृशुः सर्वभूतानि सागरे सेतुबन्धनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3019,12 +3231,15 @@ great ocean soon after building that bridge across the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि कोटिसहस्राणि वानराणां महौजसाम् ॥ ७८ ॥  
 बध्नन्तः सागरे सेतुं जग्मुः पारं महोदधेः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3065,12 +3280,15 @@ held together firmly, looked beautiful like a separating straight line in the oc
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशालः सुकृतः श्रीमान् सुभूमिः सुसमाहितः ॥ ७९ ॥  
 अशोभत महान् सेतुः सीमन्त इव सागरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3113,12 +3331,15 @@ ministers, for the purpose of invading the enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पारे समुद्रस्य गदापाणिर्विभीषणः ॥ ८० ॥  
 परेषामभिघातार्थमतिष्ठत् सचिवैः सह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3135,6 +3356,7 @@ ministers, for the purpose of invading the enemies.
 
 सेतुवॆ सिद्धवादॊडनॆये गदापाणियाद विभीषणनु तन्न सचिवरॊडनॆ समुद्रद आचॆय दडदल्लि निन्तनु. शत्रुगळेनादरू सेतुवॆयन्नु मुरियलु बन्दरॆ अवरन्नु दण्डिसुवुदे अवन उद्देशवागित्तु.॥80½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3143,6 +3365,8 @@ ministers, for the purpose of invading the enemies.
 अयं हि विपुलो वीर सागरो मकरालयः ॥ ८२ ॥  
 वैहायसौ युवामेतौ वानरौ धारयिष्यतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3207,12 +3431,15 @@ flying in the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतस्तस्य सैन्यस्य श्रीमान् रामः सलक्ष्मणः ॥ ८३ ॥  
 जगाम धन्वी धर्मात्मा सुग्रीवेण समन्वितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3257,6 +3484,7 @@ the sky and aviated like Garuda the eagle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3264,6 +3492,8 @@ the sky and aviated like Garuda the eagle.
 सलिलं प्रपतन्त्यन्ये मार्गमन्ये प्रपेदिरे ।  
 केचिद् वैहायसगताः सुपर्णा इव पुप्लुवुः ॥ ८५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3327,12 +3557,15 @@ terrific monkeys who were crossing the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोषेण महता घोषं सागरस्य समुच्छ्रितम् ।  
 भीममन्तर्दधे भीमा तरन्ती हरिवाहिनी ॥ ८६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3379,12 +3612,15 @@ separately.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराणां हि सा तीर्णा वाहिनी नलसेतुना ।  
 तीरे निविविशे राज्ञो बहुमूलफलोदके ॥ ८७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3429,6 +3665,7 @@ eternally for years."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3437,6 +3674,8 @@ eternally for years."
 उपेत्य रामं सहसा महर्षिभि-  
 स्तमभ्यषिञ्चन् सुशुभैर्जलैः पृथक् ॥ ८८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3460,6 +3699,7 @@ _________________
 
 भगवान् श्रीरामन आ अद्भुत मत्तु दुष्कर कर्मवन्नु नोडि सिद्धरु, चारणरु, महर्षि गळॊन्दिगॆ देवतॆगळु अवन बळिगॆ बन्दु बेरॆ बेरॆयाद शुभजलदिन्द अवन अभिषेक माडिदरु.॥88॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3468,6 +3708,8 @@ _________________
 इतीव रामं नरदेवसत्कृतं  
 शुभैर्वचोभिर्विविधैरपूजयन् ॥ ८९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -3538,5 +3780,6 @@ arrows in hand, addressing him first as �Rama!' and spoke the following words:
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वाविंशः सर्गः ॥ २२ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बाईसवाँ सर्ग पूरा हुआ ॥ २२ ॥
+</details>
 </details>
 

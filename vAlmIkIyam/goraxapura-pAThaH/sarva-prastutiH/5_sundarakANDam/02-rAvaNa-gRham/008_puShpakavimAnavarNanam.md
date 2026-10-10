@@ -2,6 +2,8 @@
 title = "००८ पुष्पकविमानवर्णनम्"
 title_english = "008 Description of the Pushpaka"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book
@@ -20,6 +22,7 @@ This chapter describes Pushpaka in glorious and amazing detail.
 
 8. हनुमान् जी के द्वारा पुनः पुष्पक विमानका दर्शन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ This chapter describes Pushpaka in glorious and amazing detail.
 प्रतप्तजाम्बूनदजालकृत्रिमं  
 ददर्श धीमान् पवनात्मजः कपिः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,6 +84,7 @@ by series of refined gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,6 +93,8 @@ by series of refined gold.
 दिवं गते वायुपथे प्रतिष्ठितं  
 व्यराजतादित्यपथस्य लक्ष्म तत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,6 +145,7 @@ beauty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,6 +154,8 @@ beauty.
 न ते विशेषा नियताः सुरेष्वपि  
 न तत्र किञ्चिन्न महाविशेषवत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +207,7 @@ also, in that there is nothing that is not of great significance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +216,8 @@ also, in that there is nothing that is not of great significance.
 अनेकसंस्थानविशेषनिर्मितं  
 ततस्ततस्तुल्यविशेषनिर्मितम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +268,7 @@ equal significance, collected from here and there from all over the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,6 +277,8 @@ equal significance, collected from here and there from all over the world.
 महात्मनां पुण्यकृतां महर्द्धिनां  
 यशस्विनामग्ऱ्यमुदामिवालयम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,6 +330,7 @@ mountain with other wonderful small peaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -321,6 +339,8 @@ mountain with other wonderful small peaks.
 मनोऽभिरामं शरदिन्दुनिर्मलं  
 विचित्रकूटं शिखरं गिरेर्यथा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +392,7 @@ crooked eyes and wide eyes capable of great speed carrying it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -384,6 +405,8 @@ crooked eyes and wide eyes capable of great speed carrying it.
 स पुष्पकं तत्र विमानमुत्तमं  
 ददर्श तद् वानरवीरसत्तमः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -451,5 +474,6 @@ appearance than even the spring season.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऎण्टनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

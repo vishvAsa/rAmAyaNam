@@ -2,6 +2,8 @@
 title = "०२२ खरस्य युद्धसिद्धता"
 title_english = "022 Khara s army marches to Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ battle at the end of epic.
 
 22. चौदह हजार राक्षसोंकी सेनाके साथ खर-दूषणका जनस्थानसे पञ्चवटीकी ओर प्रस्थान
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमाधर्षितः शूरः शूर्पणख्या खरस्ततः ।  
 उवाच रक्षसां मध्ये खरः खरतरं वचः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ highly hurtful words. [3-22-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवापमानप्रभवः क्रोधोऽयमतुलो मम ।  
 न शक्यते धारयितुं लवणाम्भ इवोल्बणम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +117,15 @@ that is impossible to contain when ingested. [3-22-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न रामं गणये वीर्यान्मानुषं क्षीणजीवितम् ।  
 आत्मदुश्चरितैः प्राणान् हतो योऽद्य विमोक्ष्यते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,12 +166,15 @@ his life slain by his own misdoings. [3-22-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पः सन्धार्यतामेष सम्भ्रमश्च विमुच्यताम् ।  
 अहं रामं सह भ्रात्रा नयामि यमसादनम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ along with his brother. [3-22-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परश्वधहतस्याद्य मन्दप्राणस्य भूतले ।  
 रामस्य रुधिरं रक्तमुष्णं पास्यसि राक्षसि ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,12 +261,15 @@ to earth with an axe." So Khara assured Shuurpanakha. [3-22-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रहृष्टा वचः श्रुत्वा खरस्य वदनाच्च्युतम् ।  
 प्रशशंस पुनर्मौर्ख्याद् भ्रातरं रक्षसां वरम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,12 +310,15 @@ she further praised her brother highly saying, "you are the best among all the d
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया परुषितः पूर्वं पुनरेव प्रशंसितः ।  
 अब्रवीद् दूषणं नाम खरः सेनापतिं तदा ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,6 +357,7 @@ ordered his army commander, namely Duushana. [3-22-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -342,6 +366,8 @@ ordered his army commander, namely Duushana. [3-22-7]
 नीलजीमूतवर्णानां लोकहिंसाविहारिणाम् ।  
 सर्वोद्योगमुदीर्णानां रक्षसां सौम्य कारय ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,12 +439,15 @@ in combats, such of those demons are there in fourteen thousand numbers, aren't 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थापय मे क्षिप्रं रथं सौम्य धनूंषि च ।  
 शरांश्च चित्रान् खड्गांश्च शक्तीश्च विविधाः शिताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -458,12 +487,15 @@ swords and diverse sharp power bolts. [3-22-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रे निर्यातुमिच्छामि पौलस्त्यानां महात्मनाम् ।  
 वधार्थं दुर्विनीतस्य रामस्य रणकोविद ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,12 +546,15 @@ for which I am starting ahead as a starter of this elimination process..."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्य ब्रुवाणस्य सूर्यवर्णं महारथम् ।  
 सदश्वैः शबलैर्युक्तमाचचक्षेऽथ दूषणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,6 +594,7 @@ yoked with very good horses of variegated colours." [3-22-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -569,6 +605,8 @@ yoked with very good horses of variegated colours." [3-22-12]
 ध्वजनिस्त्रिंशसम्पन्नं किङ्किणीवरभूषितम् ।  
 सदश्वयुक्तं सोऽमर्षादारुरोह खरस्तदा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +673,15 @@ it with all his rancour. [3-22-13, 14, 15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरस्तु तन्महत्सैन्यं रथचर्मायुधध्वजम् ।  
 निर्यातेत्यब्रवीत् प्रेक्ष्य दूषणः सर्वराक्षसान् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +725,15 @@ too, Khara charged all those demons saying "proceed." [3-22-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद् राक्षसं सैन्यं घोरचर्मायुधध्वजम् ।  
 निर्जगाम जनस्थानान्महानादं महाजवम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,6 +773,7 @@ blaring blatantly and foraying dashingly. [3-22-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -739,6 +784,8 @@ blaring blatantly and foraying dashingly. [3-22-17]
 राक्षसानां सुघोराणां सहस्राणि चतुर्दश ।  
 निर्यातानि जनस्थानात् खरचित्तानुवर्तिनाम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +850,15 @@ thousand demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु निर्धावतो दृष्ट्वा राक्षसान् भीमदर्शनान् ।  
 खरस्याथ रथः किञ्चिज्जगाम तदनन्तरम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -848,12 +898,15 @@ little later at their behind. [3-22-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ताञ्छबलानश्वांस्तप्तकाञ्चनभूषितान् ।  
 खरस्य मतमाज्ञाय सारथिः पर्यचोदयत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -893,12 +946,15 @@ to the notions of Khara. [3-22-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्चोदितो रथः शीघ्रं खरस्य रिपुघातिनः ।  
 शब्देनापूरयामास दिशः सप्रदिशस्तथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -938,6 +994,7 @@ four cardinal quarters and inter-quarters with turbulence. [3-22-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -946,6 +1003,8 @@ four cardinal quarters and inter-quarters with turbulence. [3-22-23]
 अचूचुदत् सारथिमुन्नदन् पुन-  
 र्महाबलो मेघ इवाश्मवर्षवान् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,5 +1066,6 @@ at him loudly like a overwhelming cloud that is going to storm stones. [3-22-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥22॥
+</details>
 </details>
 

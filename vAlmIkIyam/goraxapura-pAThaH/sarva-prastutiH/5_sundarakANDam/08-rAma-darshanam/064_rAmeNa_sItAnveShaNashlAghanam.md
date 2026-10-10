@@ -2,6 +2,8 @@
 title = "०६४ रामेण सीतान्वेषणश्लाघनम्"
 title_english = "064 Hanuma apprises of the discovery of Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -25,12 +27,15 @@ esteem.
 
 64. दधिमुखसे सुग्रीवका संदेश सुनकर अङ्गद-हनुमान् आदि वानरोंका किष्किन्धामें पहुँचना और हनुमान् जी का श्रीरामको प्रणाम करके सीता देवीके दर्शनका समाचार बताना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेणैवमुक्तस्तु हृष्टो दधिमुखः कपिः ।  
 राघवं लक्ष्मणं चैव सुग्रीवं चाभ्यवादयत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ with reverence to Rama, Lakshmana
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रणम्य च सुग्रीवं राघवौ च महाबलौ ।  
 वानरैः सहितः शूरैर्दिवमेवोत्पपात ह ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ accompanied by his valiant monkeys, sprang into the air.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स यथैवागतः पूर्वं तथैव त्वरितं गतः ।  
 निपत्य गगनाद् भूमौ तद् वनं प्रविवेश ह ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ from their intoxication, having passed off the honey and who were inwardly excit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविष्टो मधुवनं ददर्श हरियूथपान् ।  
 विमदानुद्धतान् सर्वान् मेहमानान् मधूदकम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ and cheerfully spoke the following gentle words to Angada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तानुपागमद् वीरो बद्‍ध्वा करपुटाञ्जलिम् ।  
 उवाच वचनं श्लक्ष्णमिदं हृष्टवदङ्गदम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ the grove. No resentment should be harboured by you about this obstruction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य रोषो न कर्तव्यो यदेभिः परिवारणम् ।  
 अज्ञानाद् रक्षिभिः क्रोधाद् भवन्तः प्रतिषेधिताः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,12 +325,15 @@ have done a mistake
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रान्तो दूरादनुप्राप्तो भक्षयस्व स्वकं मधु ।  
 युवराजस्त्वमीशश्च वनस्यास्य महाबल ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,6 +378,7 @@ of all these monkeys here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -362,6 +386,8 @@ of all these monkeys here."
 यथैव हि पिता तेऽभूत् पूर्वं हरिगणेश्वरः ॥ ८ ॥  
 तथा त्वमपि सुग्रीवो नान्यस्तु हरिसत्तम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,6 +409,7 @@ _________________
 
 ‘कपिश्रेष्ठ! मैंने पहले मूर्खतावश जो रोष प्रकट किया था, उसे आप क्षमा करें; क्योंकि पूर्वकालमें जैसे आपके पिता वानरोंके राजा थे, उसी प्रकार आप और सुग्रीव भी हैं । आपलोगोंके सिवा दूसरा कोई हमारा स्वामी नहीं है ॥ ८ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -391,6 +418,8 @@ _________________
 भवदागमनं श्रुत्वा सहैभिर्वनचारिभिः ॥ १० ॥  
 प्रहृष्टो न तु रुष्टोऽसौ वनं श्रुत्वा प्रधर्षितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +508,15 @@ pleased. Even after hearing of Madhuvana having been attacked, he did not develo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टो मां पितृव्यस्ते सुग्रीवो वानरेश्वरः ॥ ११ ॥  
 शीघ्रं प्रेषय सर्वांस्तानिति होवाच पार्थिवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ _________________
 
 ‘आपके चाचा वानरराज सुग्रीवने बड़े हर्षके साथ मुझसे कहा है कि उन सबको शीघ्र यहाँ भेजो’ ॥ ११ १/२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा दधिमुखस्यैतद् वचनं श्लक्ष्णमङ्गदः ॥ १२ ॥  
 अब्रवीत् तान् हरिश्रेष्ठो वाक्यं वाक्यविशारदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -567,6 +602,7 @@ our work has been accomplished."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -574,6 +610,8 @@ our work has been accomplished."
 अयं च हर्षादाख्याति तेन जानामि हेतुना ।  
 तत् क्षमं नेह नः स्थातुं कृते कार्ये परन्तपाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +659,15 @@ in the matter of what ought to be done."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पीत्वा मधु यथाकामं विक्रान्ता वनचारिणः ।  
 किं शेषं गमनं तत्र सुग्रीवो यत्र वानरः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +727,15 @@ for me to play the lord over you, who have accomplished the task."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे यथा मां वक्ष्यन्ति समेत्य हरिपुङ्गवाः ।  
 तथास्मि कर्ता कर्तव्ये भवद्भिः परवानहम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +756,15 @@ _________________
 
 ‘वानरपुङ्गवो! आप सब लोग मिलकर मुझसे जैसा कहेंगे, मैं वैसा ही करूँगा; क्योंकि कर्तव्यके विषयमें मैं आपलोगोंके अधीन हूँ ॥ १६ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाज्ञापयितुमीशोऽहं युवराजोऽस्मि यद्यपि ।  
 अयुक्तं कृतकर्माणो यूयं धर्षयितुं बलात् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -755,12 +802,15 @@ this. Your humility itself is telling of your future suitableness for prosperity
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवतश्चाङ्गदस्यैवं श्रुत्वा वचनमुत्तमम् ।  
 प्रहृष्टमनसो वाक्यमिदमूचुर्वनौकसः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,12 +870,15 @@ Every one indeed thinks one's supremacy with an excited arrogance and says 'I, I
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वक्ष्यति को राजन् प्रभुः सन् वानरर्षभ ।  
 ऐश्वर्यमदमत्तो हि सर्वोऽहमिति मन्यते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +899,15 @@ _________________
 
 ‘राजन्! कपिश्रेष्ठ! स्वामी होकर भी अपने अधीन रहनेवाले लोगोंसे कौन इस तरहकी बात करेगा? प्रायः सब लोग ऐश्वर्यके मदसे उन्मत्त हो अहंकारवश अपनेको ही सर्वोपरि मानने लगते हैं ॥ १९ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव चेदं सुसदृशं वाक्यं नान्यस्य कस्यचित् ।  
 सन्नतिर्हि तवाख्याति भविष्यच्छुभयोग्यताम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +967,15 @@ anywhere, even a step forward. We are speaking this truth to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे वयमपि प्राप्तास्तत्र गन्तुं कृतक्षणाः ।  
 स यत्र हरिवीराणां सुग्रीवः पतिरव्ययः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -959,12 +1018,15 @@ space-less, followed Angada, who was springing forward.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया ह्यनुक्तैर्हरिभिर्नैव शक्यं पदात् पदम् ।  
 क्वचिद् गन्तुं हरिश्रेष्ठ ब्रूमः सत्यमिदं तु ते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1069,15 @@ driven by the wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तु वदतां तेषामङ्गदः प्रत्यभाषत ।  
 साधु गच्छाम इत्युक्त्वा खमुत्पेतुर्महाबलाः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1056,12 +1121,15 @@ Rama, who was afflicted with grief (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पतन्तमनूत्पेतुः सर्वे ते हरियूथपाः ।  
 कृत्वाऽऽकाशं निराकाशं यन्त्रोत्क्षिप्ता इवोपलाः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1082,6 +1150,7 @@ _________________
 
 आगे-आगे अङ्गद और उनके पीछे वे समस्त वानरयूथपति उड़ने लगे । वे आकाशको आच्छादित करके गुलेलसे फेंके गये पत्थरोंकी भाँति तीव्रगतिसे जा रहे थे ॥ २४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1089,6 +1158,8 @@ _________________
 तेऽम्बरं सहसोत्पत्य वेगवन्तः प्लवङ्गमाः ॥ २५ ॥  
 विनदन्तो महानादं घना वातेरिता यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1149,12 +1220,15 @@ the time earlier fixed by us exceeds beyond limit, it is not possible for them t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदे समनुप्राप्ते सुग्रीवो वानरेश्वरः ॥ २६ ॥  
 उवाच शोकसन्तप्तं रामं कमललोचनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,12 +1271,15 @@ their work, Angada would have worn a sad face and felt perplexed and scattered i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाश्वसिहि भद्रं ते दृष्टा देवी न संशयः ॥ २७ ॥  
 नागन्तुमिह शक्यं तैरतीतसमयैरिह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1248,6 +1325,7 @@ virtuous Rama, the splendid son of Kausalya!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1255,6 +1333,8 @@ virtuous Rama, the splendid son of Kausalya!"
 न मत्सकाशमागच्छेत् कृत्ये हि विनिपातिते ।  
 युवराजो महाबाहुः प्लवतामङ्गदो वरः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,12 +1404,15 @@ is indeed none other than Hanuma, who is the executor."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यप्यकृतकृत्यानामीदृशः स्यादुपक्रमः ।  
 भवेत् तु दीनवदनो भ्रान्तविप्लुतमानसः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1373,12 +1456,15 @@ the administer, the progress of that work cannot be as otherwise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृपैतामहं चैतत् पूर्वकैरभिरक्षितम् ।  
 न मे मधुवनं हन्याददृष्ट्वा जनकात्मजाम् ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1479,15 @@ _________________
 
 ‘मेरे बाप-दादोंके इस मधुवनका, जिसकी पूर्वजोंने भी सदा रक्षा की है, कोई जनककिशोरीका दर्शन किये बिना विध्वंस नहीं कर सकता था ॥ ३१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या सुप्रजा राम समाश्वसिहि सुव्रत ।  
 दृष्टा देवी न सन्देहो न चान्येन हनूमता ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1440,6 +1529,7 @@ joy, in the vicinity of the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1449,6 +1539,8 @@ joy, in the vicinity of the sky."
 जाम्बवान् यत्र नेता स्यादङ्गदश्च हरीश्वरः ॥ ३४ ॥  
 हनूमांश्चाप्यधिष्ठाता न तत्र गतिरन्यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1515,6 +1607,7 @@ at heart, duly stretching and curling up his tail (in joy).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1523,6 +1616,8 @@ at heart, duly stretching and curling up his tail (in joy).
 नैषामकृतकार्याणामीदृशः स्यादुपक्रमः ॥ ३६ ॥  
 वनभङ्गेन जानामि मधूनां भक्षणेन च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1593,6 +1688,7 @@ with joy, landed at the vicinity of Sugreeva and Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1600,6 +1696,8 @@ with joy, landed at the vicinity of Sugreeva and Rama.
 हनूमत्कर्मदृप्तानां नदतां काननौकसाम् ।  
 किष्किन्धामुपयातानां सिद्धिं कथयतामिव ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1661,12 +1759,15 @@ and Lakshmana felt happy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः श्रुत्वा निनादं तं कपीनां कपिसत्तमः ।  
 आयताञ्चितलाङ्गूलः सोऽभवद्हृष्टमानसः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1708,12 +1809,15 @@ a high esteem.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आजग्मुस्तेऽपि हरयो रामदर्शनकाङ्क्षिणः ।  
 अङ्गदं पुरतः कृत्वा हनूमन्तं च वानरम् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1733,12 +1837,15 @@ _________________
 
 शत्रुसंहारकनाद श्रीरामनु हनुमन्तन विषयदल्लि अपारवाद प्रीतियन्नु हॊन्दि अवनन्नु अत्यन्त गौरवभावदिन्द वीक्षिसिदनु.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽङ्गदप्रमुखा वीराः प्रहृष्टाश्च मुदान्विताः ।  
 निपेतुर्हरिराजस्य समीपे राघवस्य च ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1750,12 +1857,15 @@ _________________
 
 वे अङ्गद आदि वीर आनन्द और उत्साहसे भरकर वानरराज सुग्रीव तथा रघुनाथजीके समीप आकाशसे नीचे उतरे ॥ ४१ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमांश्च महाबाहुः प्रणम्य शिरसा ततः ।  
 नियतामक्षतां देवीं राघवाय न्यवेदयत् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1767,12 +1877,15 @@ _________________
 
 महाबाहु हनुमान् ने श्रीरघुनाथजीके चरणोंमें मस्तक रखकर प्रणाम किया और उन्हें यह बताया कि ‘देवी सीता पातिव्रत्यके कठोर नियमोंका पालन करती हुई शरीरसे सकुशल हैं’ ॥ ४२ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टा देवीति हनुमद्वदनादमृतोपमम् ।  
 आकर्ण्य वचनं रामो हर्षमाप सलक्ष्मणः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1784,12 +1897,15 @@ _________________
 
 ‘मैंने देवी सीताका दर्शन किया है’ हनुमान् जी के मुखसे यह अमृतके समान मधुर वचन सुनकर लक्ष्मणसहित श्रीरामको बड़ी प्रसन्नता हुई ॥ ४३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निश्चितार्थं ततस्तस्मिन् सुग्रीवं पवनात्मजे ।  
 लक्ष्मणः प्रीतिमान् प्रीतं बहुमानादवैक्षत ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1801,12 +1917,15 @@ _________________
 
 पवनपुत्र हनुुमान् के विषयमें सुग्रीवने पहलेसे ही निश्चय कर लिया था कि उन्हींके द्वारा कार्य सिद्ध हुआ है । इसलिये प्रसन्न हुए लक्ष्मणने प्रीतियुक्त सुग्रीवकी ओर बड़े आदरसे देखा ॥ ४४ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रीत्या च परयोपेतो राघवः परवीरहा ।  
 बहुमानेन महता हनूमन्तमवैक्षत ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1828,5 +1947,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तनाल्कनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

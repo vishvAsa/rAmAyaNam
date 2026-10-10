@@ -2,6 +2,8 @@
 title = "१०४ रामकौसल्यादीनां संभाषणम्"
 title_english = "104 Vasishta advances to the hermitage of Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -26,12 +28,15 @@ nearby.
 
 104. वसिष्ठजीके साथ आती हुई कौसल्याका मन्दाकिनीके तटपर सुमित्रा आदिके समक्ष दुःखपूर्ण उद‍्गार, श्रीराम, लक्ष्मण और सीताके द्वारा माताओंकी चरणवन्दना तथा वसिष्ठजीको प्रणाम करके श्रीराम आदिका सबके साथ बैठना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठः पुरतः कृत्वा दारान् दशरथस्य च ।  
 अभिचक्राम तं देशं रामदर्शनतर्षितः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ wives.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजपत्न्यश्च गच्छन्त्यो मन्दं मन्दाकिनीं प्रति ।  
 ददृशुस्तत्र तत् तीर्थं रामलक्ष्मणसेवितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ being frequented by Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या बाष्पपूर्णेन मुखेन परिशुष्यता ।  
 सुमित्रामब्रवीद् दीनां याश्चान्या राजयोषितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +163,15 @@ other royal women (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तेषामनाथानां क्लिष्टमक्लिष्टकर्मणाम् ।  
 वने प्राक्कलनं तीर्थं ये ते निर्विषयीकृताः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +207,15 @@ exploits who have no country."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतः सुमित्रे पुत्रस्ते सदा जलमतन्द्रितः ।  
 स्वयं हरति सौमित्रिर्मम पुत्रस्य कारणात् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,12 +255,15 @@ for the sake of my son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जघन्यमपि ते पुत्रः कृतवान् न तु गर्हितः ।  
 भ्रातुर्यदर्थरहितं सर्वं तद् गर्हितं गुणैः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +304,15 @@ censured because all that service rendered to his brother is enjoined with virtu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यायमपि ते पुत्रः क्लेशानामतथोचितः ।  
 नीचानर्थसमाचारं सज्जं कर्म प्रमुञ्चतु ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,12 +346,15 @@ this mean, wretched and laborious task."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणाग्रेषु दर्भेषु सा दर्दश महीतले ।  
 पितुरिङ्गुदिपिण्याकं न्यस्तमायतलोचना ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,12 +399,15 @@ pointed towards the south.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं भूमौ पितुरार्तेन न्यस्तं रामेण वीक्ष्य सा ।  
 उवाच देवी कौसल्या सर्वा दशरथस्त्रियः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,12 +448,15 @@ father, the Queen Kausalya spoke to all those wives of Dasaratha (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदमिक्ष्वाकुनाथस्य राघवस्य महात्मनः ।  
 राघवेण पितुर्दत्तं पश्यतैतद् यथाविधि ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +499,15 @@ high-souled Dasaratha the Lord of Ikshvaku race."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य देवसमानस्य पार्थिवस्य महात्मनः ।  
 नैतदौपयिकं मन्ये भुक्तभोगस्य भोजनम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +541,15 @@ like unto a God and who lived amidst every pleasure."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुरन्तां महीं भुक्त्वा महेन्द्रसदृशो भुवि ।  
 कथमिङ्गुदिपिण्याकं स भुङ्‍क्ते वसुधाधिपः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +590,15 @@ oceans, eat a cake of Ingudi pulp?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो दुःखतरं लोके न किञ्चित् प्रतिभाति मे ।  
 यत्र रामः पितुर्दद्यादिङ्गुदीक्षोदमृद्धिमान् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,12 +639,15 @@ fortune offering a cake of Ingudi pulp to his father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामेणेङ्गुदिपिण्याकं पितुर्दत्तं समीक्ष्य मे ।  
 कथं दुःखेन हृदयं न स्फोटति सहस्रधा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -646,12 +690,15 @@ heart not break into a thousand pieces with anguish?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतिस्तु खल्वियं सत्या लौकिकी प्रतिभाति मे ।  
 यदन्नः पुरुषो भवति तदन्नास्तस्य देवताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +739,15 @@ consumed by his Gods is true."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमार्तां सपत्न्यस्ता जग्मुराश्वास्य तां तदा ।  
 ददृशुश्चाश्रमे रामं स्वर्गच्युतमिवामरम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -738,12 +788,15 @@ further and saw Rama in his hermitage, who resembled an Immortal driven out of P
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं भोगैः सम्परित्यक्तं रामं सम्प्रेक्ष्य मातरः ।  
 आर्ता मुमुचुरश्रूणि सस्वरं शोककर्शिताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,12 +836,15 @@ grief, emitted cries and allowed tears to flow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां रामः समुत्थाय जग्राह चरणाम्बुजान् ।  
 मातॄणां मनुजव्याघ्रः सर्वासां सत्यसङ्गरः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -828,12 +884,15 @@ auspicious feet of all his mothers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः पाणिभिः सुखस्पर्शैर्मृद्वङ्गुलितलैः शुभैः ।  
 प्रममार्जू रजः पृष्ठाद् रामस्यायतलोचनाः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,12 +933,15 @@ palms as well as charming hands, wiped the dust from Rama's back.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रिरपि ताः सर्वा मातॄः सम्प्रेक्ष्य दुःखितः ।  
 अभ्यवादयदासक्तं शनै रामादनन्तरम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -922,12 +984,15 @@ to them all by bowing to each in turn, immediately after Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा रामे तथा तस्मिन् सर्वा ववृतिरे स्त्रियः ।  
 वृत्तिं दशरथाज्जाते लक्ष्मणे शुभलक्षणे ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1027,15 @@ of Dasaratha and exceedingly handsome, as they did to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतापि चरणांस्तासामुपसङ्गृह्य दुःखिता ।  
 श्वश्रूणामश्रुपूर्णाक्षी सम्बभूवाग्रतः स्थिता ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,12 +1075,15 @@ her mothers-in-laws and stood before them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां परिष्वज्य दुःखार्ता माता दुहितरं यथा ।  
 वनवासकृतां दीनां कौसल्या वाक्यमब्रतीत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,12 +1128,15 @@ words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहराजन्यसुता स्नुषा दशरथस्य च ।  
 रामपत्नी कथं दुःखं सम्प्राप्ता विजने वने ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,12 +1176,15 @@ Rama's wife, fallen into such a wretched plight that she is living in a desolate
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्ममातपसन्तप्तं परिक्लिष्टमिवोत्पलम् ।  
 काञ्चनं रजसा ध्वस्तं क्लिष्टं चन्द्रमिवाम्बुदैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,12 +1201,15 @@ Rama's wife, fallen into such a wretched plight that she is living in a desolate
 
 मगळे! निन्न मुखवु बिसिलिनिन्द बाडिद कमलदन्तॆ, ऒणगिहोद उत्पलदन्तॆ, धूळु हिडिद बङ्गारदन्तॆ, मोडगळिन्द मुच्चिद चन्द्रनन्तॆ कळाहीनवागिदॆ.॥25॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुखं ते प्रेक्ष्य मां शोको दहत्यग्निरिवाश्रयम् ।  
 भृशं मनसि वैदेहि व्यसनारणिसम्भवः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1248,15 @@ of adversity and existing in my mind burns me severely."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवन्त्यामेवमार्तायां जनन्यां भरताग्रजः ।  
 पादावासाद्य जग्राह वसिष्ठस्य च राघवः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1214,6 +1297,7 @@ approached Vasishta and took hold of his feet in salutation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1222,6 +1306,8 @@ approached Vasishta and took hold of his feet in salutation.
 प्रगृह्य पादौ सुसमृद्धतेजसः  
 सहैव तेनोपविवेश राघवः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1268,6 +1354,7 @@ Brihaspati, sat down by his side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1276,6 +1363,8 @@ Brihaspati, sat down by his side.
 जनेन धर्मज्ञतमेन धर्मवा-  
 नुपोपविष्टो भरतस्तदाग्रजम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1321,6 +1410,7 @@ to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1329,6 +1419,8 @@ to Rama.
 श्रिया ज्वलन्तं भरतः कृताञ्जलि-  
 र्यथा महेन्द्रः प्रयतः प्रजापतिम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1376,6 +1468,7 @@ devoted Indra the Lord of celestials sits before Brahma the Lord of creation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1384,6 +1477,8 @@ devoted Indra the Lord of celestials sits before Brahma the Lord of creation.
 इतीव तस्यार्यजनस्य तत्त्वतो  
 बभूव कौतूहलमुत्तमं तदा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1430,6 +1525,7 @@ salutation and homage to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1438,6 +1534,8 @@ salutation and homage to him.
 वृताः सुहृद्भिश्च विरेजिरेऽध्वरे  
 यथा सदस्यैः सहितास्त्रयोऽग्नयः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1496,5 +1594,6 @@ superintending priests.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर नाल्कनॆय सर्ग पूर्णवायितु ॥104॥
+</details>
 </details>
 

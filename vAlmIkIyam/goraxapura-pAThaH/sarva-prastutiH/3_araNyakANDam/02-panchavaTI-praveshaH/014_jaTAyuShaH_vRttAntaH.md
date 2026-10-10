@@ -2,6 +2,8 @@
 title = "०१४ जटायुषः वृत्तान्तः"
 title_english = "014 Sri Rama s Contact with Jatayu"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ Rama and the other two on their way to Panchavati come into contact with Jatayu,
 
 14. पञ्चवटीके मार्गमें जटायुका मिलना और श्रीरामको अपना विस्तृत परिचय देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ पञ्चवटीं गच्छन्नन्तरा रघुनन्दनः ।  
 आससाद महाकायं गृध्रं भीमपराक्रमम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ might in midway. [3-14-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा तौ महाभागौ वनस्थं रामलक्ष्मणौ ।  
 मेनाते राक्षसं पक्षिं ब्रुवाणौ को भवानिति ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ it asking, "Who you are?" presuming it to be a demon. [3-14-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मधुरया वाचा सौम्यया प्रीणयन्निव ।  
 उवाच वत्स मां विद्धि वयस्यं पितुरात्मनः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ as your father's friend." [3-14-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं पितृसखं मत्वा पूजयामास राघवः ।  
 स तस्य कुलमव्यग्रमथ पप्रच्छ नाम च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +217,15 @@ eagle's name and lineage. [3-14-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा कुलमात्मानमेव च ।  
 आचचक्षे द्विजस्तस्मै सर्वभूतसमुद्भवम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,6 +264,7 @@ narrated the overall genesis of all beings. [3-14-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,6 +273,8 @@ narrated the overall genesis of all beings. [3-14-5]
 तान् मे निगदतः सर्वान्  
 आदितः शृणु राघव ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,6 +314,7 @@ from the beginning, while I narrate [3-14-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -302,6 +323,8 @@ from the beginning, while I narrate [3-14-6]
 शेषश्च संश्रयश्चैव  
 बहुपुत्रश्च वीर्यवान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,6 +344,7 @@ _________________
 
 आ प्रजापतिगळल्लि मॊट्टमॊदलु कर्दमनादनु. अनन्तर ऎरडनॆयवनु विकृत ऎम्ब प्रजापतियादनु, मूरनॆयवनु शेष, नाल्कनॆयवनु संश्रय, ऐदनॆयवनु पराक्रमि बहुपुत्रनादनु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +353,8 @@ _________________
 पुलस्त्यश् चाङ्गिराश् चैव  
 प्रचेताः पुलहस् तथा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,6 +371,7 @@ _________________
 
 आरनॆयव स्थाणु, एळनॆयवनु मरीचि, ऎण्टनॆयवनु अत्रि, ऒम्भत्तनॆयवनु क्रतु, हत्तनॆयवनु पुलस्त्य, हन्नॊन्दनॆयवनु अङ्गिरा, हन्नॆरडनॆयवनु प्रचेता (वरुण) हदिमूरनॆयदागि पुलह प्रजापतियादनु.॥8॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,6 +380,8 @@ _________________
 कश्यपश् च महातेजास्  
 तेषामासीच् च पश्चिमः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,6 +421,7 @@ is Arishtanemi, and lastly the great resplendent Kashyapa, was there as Prajapat
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -400,6 +430,8 @@ is Arishtanemi, and lastly the great resplendent Kashyapa, was there as Prajapat
 षष्टिर् दुहितरो राम  
 यशस्विन्यो महायशः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -437,6 +469,7 @@ ones; *babhuuvuH iti vi shrutam* = were there, thus, we hear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -444,6 +477,8 @@ ones; *babhuuvuH iti vi shrutam* = were there, thus, we hear.
 अदितिं च दितिं चैव दनूमपि च कालकाम् ॥ ११ ॥  
 ताम्रां क्रोधवशां चैव मनुं चाप्यनलामपि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,12 +530,15 @@ Danu, Kaalakaa and Taamra, Krodhavasha, also thus Manu and even Anala also as wi
 
 * यद्यपि पुराणग्रन्थोंमें ‘कश्यपाय त्रयोदश’ इत्यादि वचनोंद्वारा कश्यपकी तेरह पत्नियोंका उल्लेख किया गया है, तथापि यहाँ जिस संतानपरम्पराका वर्णन करना है, उसमें इन आठोंका ही उपयोग है, इसलिये यहाँ आठकी ही संख्या दी गयी है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तास्तु कन्यास्ततः प्रीतः कश्यपः पुनरब्रवीत् ॥ १२ ॥  
 पुत्रांस्त्रैलोक्यभर्तॄन् वै जनयिष्यथ मत्समान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -543,12 +581,15 @@ and who can sustain the three worlds." [3-14-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदितिस्तन्मना राम दितिश्च दनुरेव च ॥ १३ ॥  
 कालका च महाबाहो शेषास्त्वमनसोऽभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +629,15 @@ of Kashyapa's words. [3-14-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदित्यां जज्ञिरे देवास्त्रयस्त्रिंशदरिन्दम ॥ १४ ॥  
 आदित्या वसवो रुद्रा अश्विनौ च परन्तप ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +679,15 @@ the Fury-gods, and two Ashvinis, the medicine-gods, total thirty-three of them. 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दितिस्त्वजनयत् पुत्रान् दैत्यांस्तात यशस्विनः ॥ १५ ॥  
 तेषामियं वसुमती पुराऽऽसीत् सवनार्णवा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +728,15 @@ with forests and oceans belonged to them. [3-14-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दनुस्त्वजनयत् पुत्रमश्वग्रीवमरिन्दम ॥ १६ ॥  
 नरकं कालकं चैव कालकापि व्यजायत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,12 +775,15 @@ god, and Kaalakaa gave birth to Naraka and Kaalaka. [3-14-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रौञ्चीं भासीं तथा श्येनीं धृतराष्ट्रीं तथा शुकीम् ॥ १७ ॥  
 ताम्रा तु सुषुवे कन्याः पञ्चैता लोकविश्रुताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,6 +827,7 @@ and Shukii. [3-14-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -781,6 +835,8 @@ and Shukii. [3-14-17b, 18a]
 श्येनी श्येनांश्च गृध्रांश्च व्यजायत सुतेजसः ।  
 धृतराष्ट्री तु हंसांश्च कलहंसाश्च सर्वशः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,12 +887,15 @@ kinds of graceful water-birds. [3-14-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्रवाकांश्च भद्रं ते विजज्ञे सापि भामिनी ।  
 शुकी नतां विजज्ञे तु नतायां विनता सुता ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,6 +934,7 @@ and Nata's daughter is Vinata. [3-14-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -883,6 +943,8 @@ and Nata's daughter is Vinata. [3-14-20]
 मातङ्गीमथ शार्दूलीं श्वेतां च सुरभीं तथा ।  
 सर्वलक्षणसम्पन्नां सुरसां कद्रुकामपि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,12 +997,15 @@ all giftedness, and even to Kadruva. [3-14-21, 22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपत्यं तु मृगाः सर्वे मृग्या नरवरोत्तम ।  
 ऋक्षाश्च मृगमन्दायाः सृमराश्चमरास्तथा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1045,15 @@ Bears, a kind of antelope, and like that the Himalayan yak like species.[3-14-23
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्विरावतीं नाम जज्ञे भद्रमदा सुताम् ।  
 तस्यास्त्वैरावतः पुत्रो लोकनाथो महागजः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,12 +1095,15 @@ the protector of world. [3-14-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्याश्च हरयोऽपत्यं वानराश्च तपस्विनः ।  
 गोलाङ्गूलाश्च शार्दूली व्याघ्रांश्चाजनयत् सुतान् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,12 +1142,15 @@ tigers. [3-14-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातङ्ग्यास्त्वथ मातङ्गा अपत्यं मनुजर्षभ ।  
 दिशागजं तु काकुत्स्थ श्वेता व्यजनयत् सुतम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1118,12 +1192,15 @@ elephants that are at eight quarters of world, sustaining the world on their hea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दुहितरौ राम सुरभिर्द्वे व्यजायत ।  
 रोहिणीं नाम भद्रं ते गन्धर्वीं च यशस्विनीम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1162,12 +1239,15 @@ be, and the other is Gandharvi. [3-14-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोहिण्यजनयद् गावो गन्धर्वी वाजिनः सुतान् ।  
 सुरसाजनयन्नागान् राम कद्रूश्च पन्नगान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1207,6 +1287,7 @@ serpents, while Kadru gave birth to ordinary serpents. [3-124-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1215,6 +1296,8 @@ serpents, while Kadru gave birth to ordinary serpents. [3-124-28]
 ब्राह्मणान् क्षत्रियान् वैश्यान्  
 शूद्रांश्च मनुजर्षभ ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1258,12 +1341,15 @@ Kshatriya-s, Vyasya-s, and Shudra-s. [3-14-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुखतो ब्राह्मणा जाता उरसः क्षत्रियास्तथा ।  
 ऊरुभ्यां जज्ञिरे वैश्याः पद्‍भ्यां शूद्रा इति श्रुतिः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,12 +1391,15 @@ Shudra-s from two feet, thus we hear from the scriptures viz., Veda, i.e., Rig V
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वान् पुण्यफलान् वृक्षाननलापि व्यजायत ।  
 विनता च शुकीपौत्री कद्रूश्च सुरसास्वसा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1350,12 +1439,15 @@ the daughter's daughter of Shukii, and about Kadru, the sister of Surasa. [3-14-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कद्रूर्नागसहस्रं तु विजज्ञे धरणीधरान् ।  
 द्वौ पुत्रौ विनतायास्तु गरुडोऽरुण एव च ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1402,12 +1494,15 @@ speediest propellers, and Jatayu and Sampati belong to that lineage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माज्जातोऽहमरुणात् सम्पातिश्च ममाग्रजः ।  
 जटायुरिति मां विद्धि श्येनीपुत्रमरिन्दम ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1448,6 +1543,7 @@ Sampati too, hence know me as Jatayu, the son of Shyenii. [3-14-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1455,6 +1551,8 @@ Sampati too, hence know me as Jatayu, the son of Shyenii. [3-14-33]
 इदं दुर्गं हि कान्तारं मृगराक्षससेवितम् ।  
 सीतां च तात रक्षिष्ये त्वयि याते सलक्ष्मणे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1499,6 +1597,7 @@ and Lakshmana go out..." Thus Jatayu said to Rama. [3-14-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1507,6 +1606,8 @@ and Lakshmana go out..." Thus Jatayu said to Rama. [3-14-34]
 पितुर्हि शुश्राव सखित्वमात्मवा-  
 ञ्जटायुषा सङ्कथितं पुनः पुनः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1557,6 +1658,7 @@ Rama is indeed regardful of the friendship of his father with Jatayu that is rep
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1565,6 +1667,8 @@ Rama is indeed regardful of the friendship of his father with Jatayu that is rep
 जगाम तां पञ्चवटीं सलक्ष्मणो  
 रिपून् दिधक्षन् शलभानिवानलः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1621,5 +1725,6 @@ mighty bird and Lakshmana, as though to incinerate enemies, like fire that burns
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥14॥
+</details>
 </details>
 

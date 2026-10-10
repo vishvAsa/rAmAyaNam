@@ -2,6 +2,8 @@
 title = "०३९ सहाय्यकरणनिराकरणम्"
 title_english = "039 Maareecha further advises Ravana"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ how he escaped from the all-pursuant arrow of Rama.
 
 39. मारीचका रावणको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्मि तदा मुक्तः कथञ्चित् तेन संयुगे ।  
 इदानीमपि यद् वृत्तं तच्छृणुष्व यदुत्तरम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ to Ravana. [4-39-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाभ्यामहं द्वाभ्यामनिर्विण्णस्तथाकृतः ।  
 सहितो मृगरूपाभ्यां प्रविष्टो दण्डकावने ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ together with two more demons who were in the guise of animals. [4-39-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्तजिह्वो महादंष्ट्रस्तीक्ष्णशृङ्गो महाबलः ।  
 व्यचरन् दण्डकारण्यं मांसभक्षो महामृगः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,12 +179,15 @@ getting at Rama. [4-39-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निहोत्रेषु तीर्थेषु चैत्यवृक्षेषु रावण ।  
 अत्यन्तघोरो व्यचरंस्तापसांस्तान् प्रधर्षयन् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +228,15 @@ religious sanctuaries while reaching Rama. [4-39-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहत्य दण्डकारण्ये तापसान् धर्मचारिणः ।  
 रुधिराणि पिबंस्तेषां तन्मांसानि च भक्षयन् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ saintliness, and drinking off their blood and feasting on their flesh. [4-39-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिमांसाशनः क्रूरस्त्रासयन् वनगोचरान् ।  
 तदा रुधिरमत्तोऽहं व्यचरं दण्डकावनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,6 +328,7 @@ reaching Rama. [4-39-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -316,6 +337,8 @@ reaching Rama. [4-39-6]
 वैदेहीं च महाभागां लक्ष्मणं च महारथम् ।  
 तापसं नियताहारं सर्वभूतहिते रतम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,6 +378,7 @@ Vaidehi and top-speeded-chariot-rider Lakshmana. [4-39-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,6 +387,8 @@ Vaidehi and top-speeded-chariot-rider Lakshmana. [4-39-7, 8a]
 अभ्यधावं सुसङ्क्रुद्धस्तीक्ष्णशृङ्गो मृगाकृतिः ।  
 जिघांसुरकृतप्रज्ञस्तं प्रहारमनुस्मरन् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,12 +435,15 @@ indiscriminately dashed towards him, only to kill him, completely disregarding h
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन त्यक्तास्त्रयो बाणाः शिताः शत्रुनिबर्हणाः ।  
 विकृष्य सुमहच्चापं सुपर्णानिलतुल्यगाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,12 +485,15 @@ enemy eliminating arrows which in their egress match the Air-god and the Divine-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते बाणा वज्रसङ्काशाः सुघोरा रक्तभोजनाः ।  
 आजग्मुः सहिताः सर्वे त्रयः सन्नतपर्वणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,12 +532,15 @@ acutely bent at barbs, and that are highly horrendous have come at us in a coord
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पराक्रमज्ञो रामस्य शठो दृष्टभयः पुरा ।  
 समुत्क्रान्तस्ततो मुक्तस्तावुभौ राक्षसौ हतौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -566,12 +601,15 @@ clear why pundits did not consider these verses of ancient mms instead of the ab
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरेण मुक्तो रामस्य कथञ्चित् प्राप्य जीवितम् ।  
 इह प्रव्राजितो युक्तस्तापसोऽहं समाहितः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +655,15 @@ ascetic. [4-39-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षे वृक्षे हि पश्यामि चीरकृष्णाजिनाम्बरम् ।  
 गृहीतधनुषं रामं पाशहस्तमिवान्तकम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +707,15 @@ tether. [4-39-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि रामसहस्राणि भीतः पश्यामि रावण ।  
 रामभूतमिदं सर्वमरण्यं प्रतिभाति मे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,12 +755,15 @@ reflecting to me as one entity of Rama. [4-39-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राममेव हि पश्यामि रहिते राक्षसेश्वर ।  
 दृष्ट्वा स्वप्नगतं राममुद‍्भ्रमामि विचेतनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,12 +804,15 @@ even if he enters my dream, in fact, I am jolting up and swooning. [4-39-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रकारादीनि नामानि रामत्रस्तस्य रावण ।  
 रत्नानि च रथाश्चैव वित्रासं जनयन्ति मे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,12 +862,15 @@ happens to be other than 'ma' then my fear ceases.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तस्य प्रभावज्ञो न युद्धं तेन ते क्षमम् ।  
 बलिं वा नमुचिं वापि हन्याद्धि रघुनन्दनः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +921,15 @@ might of Emperor Bali
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रणे रामेण युद्धस्व क्षमां वा कुरु रावण ।  
 न ते रामकथा कार्या यदि मां द्रष्टुमिच्छसि ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,12 +970,15 @@ Rama with me if you wish to see me alive. [4-39-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहवः साधवो लोके युक्ता धर्ममनुष्ठिताः ।  
 परेषामपराधेन विनष्टाः सपरिच्छदाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -960,12 +1019,15 @@ righteousness are utterly ruined along with their kith and kin, just by the misd
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं परापराधेन विनशेयं निशाचर ।  
 कुरु यत् ते क्षमं तत्त्वमहं त्वां नानुयामि वै ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,12 +1070,15 @@ whatever that is fair to you, but I am not the one to simply take after you. [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामश्च हि महातेजा महासत्त्वो महाबलः ।  
 अपि राक्षसलोकस्य भवेदन्तकरोऽपि हि ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,6 +1122,7 @@ extraordinary power, and for sure, he becomes an eradicator of the world of demo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1064,6 +1130,8 @@ extraordinary power, and for sure, he becomes an eradicator of the world of demo
 अतिवृत्तो हतः पूर्वं रामेणाक्लिष्टकर्मणा ।  
 अत्र ब्रूहि यथातत्त्वं को रामस्य व्यतिक्रमः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,6 +1178,7 @@ final analysis. [4-39-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1118,6 +1187,8 @@ final analysis. [4-39-24]
 सबान्धवस्त्यक्ष्यसि जीवितं रणे  
 हतोऽद्य रामेण शरैरजिह्मगैः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1181,5 +1252,6 @@ accelerating arrows of Rama. [4-39-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥39॥
+</details>
 </details>
 

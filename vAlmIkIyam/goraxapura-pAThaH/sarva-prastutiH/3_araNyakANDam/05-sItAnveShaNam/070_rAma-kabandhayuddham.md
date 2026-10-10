@@ -2,6 +2,8 @@
 title = "०७० राम-कबन्धयुद्धम्"
 title_english = "070 Kabandha s overlong arms are cut off"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ elated for his accursed state is over at the hands of Rama.
 
 70. श्रीराम और लक्ष्मणका परस्पर विचार करके कबन्धकी दोनों भुजाओंको काट डालना तथा कबन्धके द्वारा उनका स्वागत
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु तत्र स्थितौ दृष्ट्वा भ्रातरौ रामलक्ष्मणौ ।  
 बाहुपाशपरिक्षिप्तौ कबन्धो वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ arms of the demon, and who are enduring within it, Kabandha said this sentence t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठतः किं नु मां दृष्ट्वा क्षुधार्तं क्षत्रियर्षभौ ।  
 आहारार्थं तु सन्दिष्टौ दैवेन हतचेतनौ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,12 +122,15 @@ are the godsend gobs of mine, and hence now you are almost dead..." So said Kaba
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा लक्ष्मणो वाक्यं प्राप्तकालं हितं तदा ।  
 उवाचार्तिसमापन्नो विक्रमे कृतनिश्चयः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ expedient and advisable words to Rama on hearing that demon's word. [3-70-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां च मां च पुरा तूर्णमादत्ते राक्षसाधमः ।  
 तस्मादसिभ्यामस्याशु बाहू छिन्दावहे गुरू ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +224,15 @@ therefore, we will have to swiftly hack off his lengthy arms at his shoulder lev
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भीषणोऽयं महाकायो राक्षसा भुजविक्रमः ।  
 लोकं ह्यतिजितं कृत्वा ह्यावां हन्तुमिहेच्छति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +276,15 @@ this province, and he now wishes to end us... [3-70-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निश्चेष्टानां वधो राजन् कुत्सितो जगतीपतेः ।  
 क्रतुमध्योपनीतानां पशूनामिव राघव ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +340,15 @@ but not this beastly demon who is aggressive and contemplating a regicide...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् सञ्जल्पितं श्रुत्वा तयोः क्रुद्धस्तु राक्षसः ।  
 विदार्यास्यं ततो रौद्रं तौ भक्षयितुमारभत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,12 +392,15 @@ mouth he started to wolf down both of them. [3-70-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तौ देशकालज्ञौ खड्गाभ्यामेव राघवौ ।  
 अच्छिन्दन्तां सुसंहृष्टौ बाहू तस्यांसदेशतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +452,15 @@ circumspectly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणो दक्षिणं बाहुमसक्तमसिना ततः ।  
 चिच्छेद रामो वेगेन सव्यं वीरस्तु लक्ष्मणः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -471,12 +500,15 @@ his part hewed down the left arm that speedily. [3-70-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पपात महाबाहुश्छिन्नबाहुर्महास्वनः ।  
 खं च गां च दिशश्चैव नादयञ्जलदो यथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -517,12 +549,15 @@ the ten points of horizon with a cacophonous voice, like a black-thunderous-clou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निकृत्तौ भुजौ दृष्ट्वा शोणितौघपरिप्लुतः ।  
 दीनः पप्रच्छ तौ वीरौ कौ युवामिति दानवः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,12 +600,15 @@ asked those two bold ones thus as, "who are you..." [3-70-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्य ब्रुवाणस्य लक्ष्मणः शुभलक्षणः ।  
 शशंस तस्य काकुस्त्थं कबन्धस्य महाबलः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,12 +645,15 @@ him about Rama of Kakutstha, an unremitting dynasty. [3-70-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमिक्ष्वाकुदायादो रामो नाम जनैः श्रुतः ।  
 तस्यैवावरजं विद्धि भ्रातरं मां च लक्ष्मणम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -655,6 +696,7 @@ younger brother, Lakshmana, by my name... [3-70-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -663,6 +705,8 @@ younger brother, Lakshmana, by my name... [3-70-13]
 अस्य देवप्रभावस्य वसतो विजने वने ।  
 रक्षसापहृता भार्या यामिच्छन्ताविहागतौ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +771,15 @@ great forests along with me ad his wife... [3-70-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु को वा किमर्थं वा कबन्धसदृशो वने ।  
 आस्येनोरसि दीप्तेन भग्नजङ्घो विचेष्टसे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -773,12 +820,15 @@ asked the demon thus. [3-70-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः कबन्धस्तु लक्ष्मणेनोत्तरं वचः ।  
 उवाच वचनं प्रीतस्तदिन्द्रवचनं स्मरन् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +867,15 @@ and he said these words in reply. [3-70-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं वां नरव्याघ्रौ दिष्ट्या पश्यामि वामहम् ।  
 दिष्ट्या चेमौ निकृत्तौ मे युवाभ्यां बाहुबन्धनौ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +925,15 @@ ca* Now those shackles of mortality are severed and he is ready for immortality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरूपं यच्च मे रूपं प्राप्तं ह्यविनयाद् यथा ।  
 तन्मे शृणु नरव्याघ्र तत्त्वतः शंसतस्तव ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,5 +983,6 @@ that you may listen while I narrate it to you. [3-70-19]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तनॆय सर्ग सम्पूर्णवायितु.॥70॥
+</details>
 </details>
 

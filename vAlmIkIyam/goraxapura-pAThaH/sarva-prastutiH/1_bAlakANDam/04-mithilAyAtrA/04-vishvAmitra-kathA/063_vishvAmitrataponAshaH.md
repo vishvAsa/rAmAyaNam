@@ -2,6 +2,8 @@
 title = "०६३ विश्वामित्रतपोनाशः"
 title_english = "063 Legend of vishvamitra contd"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties**
@@ -24,12 +26,15 @@ by which gods are perturbed.
 
 63. विश्वामित्रको ऋषि एवं महर्षिपदकी प्राप्ति, मेनकाद्वारा उनका तपोभंग तथा ब्रह्मर्षिपदकी प्राप्तिके लिये उनकी घोर तपस्या
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे वर्षसहस्रे तु व्रतस्नातं महामुनिम् ।  
 अभ्यगच्छन् सुराः सर्वे तपः फलचिकीर्षवः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ of that ascesis to Vishvamitra." Thus Sage Shataananda continued the legend of V
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् सुमहातेजा ब्रह्मा सुरुचिरं वचः ।  
 ऋषिस्त्वमसि भद्रं ते स्वार्जितैः कर्मभिः शुभैः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,12 +128,15 @@ lust, jealousy etc.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा देवेशस्त्रिदिवं पुनरभ्यगात् ।  
 विश्वामित्रो महातेजा भूयस्तेपे महत् तपः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,12 +175,15 @@ Gayatri Hymn.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कालेन महता मेनका परमाप्सराः ।  
 पुष्करेषु नरश्रेष्ठ स्नातुं समुपचक्रमे ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ and started to swim for sport in that holy lake. [1-63-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां ददर्श महातेजा मेनकां कुशिकात्मजः ।  
 रूपेणाप्रतिमां तत्र विद्युतं जलदे यथा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,12 +261,15 @@ in the holy lake. [1-63-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कन्दर्पदर्पवशगो मुनिस्तामिदमब्रवीत् ।  
 अप्सरः स्वागतं तेऽस्तु वस चेह ममाश्रमे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,12 +313,15 @@ am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुगृह्णीष्व भद्रं ते मदनेन विमोहितम् ।  
 इत्युक्ता सा वरारोहा तत्र वासमथाकरोत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,6 +338,7 @@ am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
 
 निनगॆ ऒळ्ळॆयदागलि नानु कामदिन्द मोहितनागिरुवॆनु. नन्न मेलॆ दयॆतोरु. अवरु हीगॆ हेळिदाग सुन्दरियाद मेनकॆयु अल्ले इरतॊडगिदळु.॥7॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -322,6 +346,8 @@ am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
 तस्यां वसन्त्यां वर्षाणि पञ्च पञ्च च राघव ॥ ८ ॥  
 विश्वामित्राश्रमे सौम्ये सुखेन व्यतिचक्रमुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -361,12 +387,15 @@ indeed faced with a great hindrance in his ascesis. [1-63-7b, 8, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ काले गते तस्मिन् विश्वामित्रो महामुनिः ॥ ९ ॥  
 सव्रीड इव संवृत्तश्चिन्ताशोकपरायणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +412,15 @@ indeed faced with a great hindrance in his ascesis. [1-63-7b, 8, 9a]
 
 इष्टु समय कळॆदुहोदाग महामुनि विश्वामित्ररु लज्जितरागि चिन्तॆयल्लि मुळुगिदरु.॥9½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धिर्मुनेः समुत्पन्ना सामर्षा रघुनन्दन ॥ १० ॥  
 सर्वं सुराणां कर्मैतत् तपोऽपहरणं महत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +460,15 @@ then a resentful thought occurred to him. [1-63-9b, 10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रापदेशेन गताः संवत्सरा दश ॥ ११ ॥  
 काममोहाभिभूतस्य विघ्नोऽयं प्रत्युपस्थितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,11 +513,14 @@ am under the influence of lust and lure had to encounter this hindrance in my as
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निःश्वसन् मुनिवरः पश्चात्तापेन दुःखितः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,6 +536,7 @@ am under the influence of lust and lure had to encounter this hindrance in my as
 
 हीगॆ विचारमाडुत्ता मुनिवर विश्वामित्ररु निट्टुसिरुबिडुत्ता पश्चात्तापदिन्द दुःखितरादरु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,6 +544,8 @@ am under the influence of lust and lure had to encounter this hindrance in my as
 मेनकां मधुरैर्वाक्यैर्विसृज्य कुशिकात्मजः ॥ १३ ॥  
 उत्तरं पर्वतं राम विश्वामित्रो जगाम ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +591,15 @@ indeed went to the northern Himalayan mountain. [1-63-12b, 13, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वा नैष्ठिकीं बुद्धिं जेतुकामो महायशाः ॥ १४ ॥  
 कौशिकीतीरमासाद्य तपस्तेपे दुरासदम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +635,15 @@ of River Kaushiki. [1-63-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वर्षसहस्राणि घोरं तप उपासतः ॥ १५ ॥  
 उत्तरे पर्वते राम देवतानामभूद् भयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,12 +678,15 @@ on the northern mountain, namely Himalayas, then fear occurred to gods. [1-63-15
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमन्त्रयन् समागम्य सर्वे सर्षिगणाः सुराः ॥ १६ ॥  
 महर्षिशब्दं लभतां साध्वयं कुशिकात्मजः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,6 +722,7 @@ Exalted Sage.' [1-63-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -680,6 +731,8 @@ Exalted Sage.' [1-63-16b, 17a]
 महर्षे स्वागतं वत्स तपसोग्रेण तोषितः ॥ १८ ॥  
 महत्त्वमृषिमुख्यत्वं ददामि तव कौशिक ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,6 +786,7 @@ these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -741,6 +795,8 @@ these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
 ब्रह्मर्षिशब्दमतुलं स्वार्जितैः कर्मभिः शुभैः ॥ २० ॥  
 यदि मे भगवन्नाह ततोऽहं विजितेन्द्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -801,12 +857,15 @@ obeisant and replied the Grandparent adjoining his palms suppliantly. [1-63-19b,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच ततो ब्रह्मा न तावत् त्वं जितेन्द्रियः ॥ २१ ॥  
 यतस्व मुनिशार्दूल इत्युक्त्वा त्रिदिवं गतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +900,15 @@ make an effort for it.' Saying so Brahma went heavenward. [1-63-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रस्थितेषु देवेषु विश्वामित्रो महामुनिः ॥ २२ ॥  
 ऊर्ध्वबाहुर्निरालम्बो वायुभक्षस्तपश्चरन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,6 +944,7 @@ and subsisting on air alone. [1-63-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +952,8 @@ and subsisting on air alone. [1-63-22b, 23a]
 शिशिरे सलिलेशायी रात्र्यहानि तपोधनः ।  
 एवं वर्षसहस्रं हि तपो घोरमुपागमत् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +1004,15 @@ as above, in some mms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् सन्तप्यमाने तु विश्वामित्रे महामुनौ ।  
 सन्तापः सुमहानासीत् सुराणां वासवस्य च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,12 +1046,15 @@ burning problem to gods and even to Indra. [1-63-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रम्भामप्सरसं शक्रः सर्वैः सह मरुद्‍गणैः ।  
 उवाचात्महितं वाक्यमहितं कौशिकस्य च ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,5 +1107,6 @@ narration. [1-63-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्त मूरनॆय सर्ग पूर्णवायितु.॥63॥
+</details>
 </details>
 

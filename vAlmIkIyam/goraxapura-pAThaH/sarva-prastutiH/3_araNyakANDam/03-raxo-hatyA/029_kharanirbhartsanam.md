@@ -2,6 +2,8 @@
 title = "०२९ खरनिर्भर्त्सनम्"
 title_english = "029 Khara s fight with Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The
@@ -23,12 +25,15 @@ it is still sky rocketing.
 
 29. श्रीरामका खरको फटकारना तथा खरका भी उन्हें कठोर उत्तर देकर उनके ऊपर गदाका प्रहार करना और श्रीरामद्वारा उस गदाका खण्डन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरं तु विरथं रामो गदापाणिमवस्थितम् ।  
 मृदुपूर्वं महातेजाः परुषं वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,6 +78,7 @@ all paraphernalia of war. Hence he is said to have talked softly but harshly to 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -83,6 +89,8 @@ all paraphernalia of war. Hence he is said to have talked softly but harshly to 
 कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर ।  
 तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,12 +180,15 @@ to this soldiery. [3-29-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोभात् पापानि कुर्वाणः कामाद् वा यो न बुध्यते ।  
 हृष्टः पश्यति तस्यान्तं ब्राह्मणी करकादिव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,12 +259,15 @@ in the next verse.
 
 * लाल पूँछवाली एक कीड़ी होती है, जो ओला खा लेनेपर मर जाती है । वह उसके लिये विषका काम करता है—यह बात लोकमें प्रसिद्ध है ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसतो दण्डकारण्ये तापसान् धर्मचारिणः ।  
 किं नु हत्वा महाभागान् फलं प्राप्स्यसि राक्षस ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +310,15 @@ flower.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चिरं पापकर्माणः क्रूरा लोकजुगुप्सिताः ।  
 ऐश्वर्यं प्राप्य तिष्ठन्ति शीर्णमूला इव द्रुमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,12 +353,15 @@ further more those that are abominated by world will not last long, no more that
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं लभते कर्ता फलं पापस्य कर्मणः ।  
 घोरं पर्यागते काले द्रुमः पुष्पमिवार्तवम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,12 +409,15 @@ Moreover the fruit of sin will be venomous, for the greedy harvester of that sin
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नचिरात् प्राप्यते लोके पापानां कर्मणां फलम् ।  
 सविषाणामिवान्नानां भुक्तानां क्षणदाचर ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +465,15 @@ acquire an inconsolable wretched state.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापमाचरतां घोरं लोकस्याप्रियमिच्छताम् ।  
 अहमासादितो राज्ञा प्राणान् हन्तुं निशाचर ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -501,12 +527,15 @@ shaastaa shaastaa duraatmanaam | antaH pracchanna paapaanaam shaastaa vaivasvato
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य भित्त्वा मया मुक्ताः शराः काञ्चनभूषणाः ।  
 विदार्यातिपतिष्यन्ति वल्मीकमिव पन्नगाः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,12 +585,15 @@ they will kill all the sins lying like snakes inside that body of yours, and ret
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वया दण्डकारण्ये भक्षिता धर्मचारिणः ।  
 तानद्य निहतः सङ्ख्ये ससैन्योऽनुगमिष्यसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,12 +649,15 @@ Gita 8-6.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य त्वां निहतं बाणैः पश्यन्तु परमर्षयः ।  
 निरयस्थं विमानस्था ये त्वया निहताः पुरा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,12 +706,15 @@ etc., will be futile, hence, it is 'hellish pangs' by the hit of arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहरस्व यथाकामं कुरु यत्नं कुलाधम ।  
 अद्य ते पातयिष्यामि शिरस्तालफलं यथा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +768,15 @@ like thundering clouds...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण क्रुद्धः संरक्तलोचनः ।  
 प्रत्युवाच ततो रामं प्रहसन् क्रोधमूर्च्छितः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +829,15 @@ the non-adherers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकृतान् राक्षसान् हत्वा युद्धे दशरथात्मज ।  
 आत्मना कथमात्मानमप्रशस्यं प्रशंससि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +885,15 @@ to self-extol before small beings like us...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रान्ता बलवन्तो वा ये भवन्ति नरर्षभाः ।  
 कथयन्ति न ते किञ्चित् तेजसा चातिगर्विताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -895,12 +942,15 @@ our curse at your hand...' Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकृतास्त्वकृतात्मानो लोके क्षत्रियपांसनाः ।  
 निरर्थकं विकत्थन्ते यथा राम विकत्थसे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -949,12 +999,15 @@ your duty righteously without much talk...' Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलं व्यपदिशन् वीरः समरे कोऽभिधास्यति ।  
 मृत्युकाले तु सम्प्राप्ते स्वयमप्रस्तवे स्तवम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1004,12 +1057,15 @@ extol yourself...' Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा तु लघुत्वं ते कत्थनेन विदर्शितम् ।  
 सुवर्णप्रतिरूपेण तप्तेनेव कुशाग्निना ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1081,12 +1137,15 @@ Khara is quickening Rama to proceed with fighting so that the ensuing salvation 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु मामिह तिष्ठन्तं पश्यसि त्वं गदाधरम् ।  
 धराधरमिवाकम्प्यं पर्वतं धातुभिश्चितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1126,12 +1185,15 @@ laden with ores, isn't it! [3-29-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्याप्तोऽहं गदापाणिर्हन्तुं प्राणान् रणे तव ।  
 त्रयाणामपि लोकानां पाशहस्त इवान्तकः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1247,15 @@ oh, Supreme Being...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं बह्वपि वक्तव्यं त्वयि वक्ष्यामि न त्वहम् ।  
 अस्तं प्राप्नोति सविता युद्धविघ्नस्ततो भवेत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1240,12 +1305,15 @@ chivalry and then I can dab the eyes of the wives of the demons so far killed by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश सहस्राणि राक्षसानां हतानि ते ।  
 त्वद्विनाशात् करोम्यद्य तेषामश्रुप्रमार्जनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1295,12 +1363,15 @@ I can not but war, and you need not think that I am heedless of your words...' T
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा परमक्रुद्धः स गदां परमाङ्गदाम् ।  
 खरश्चिक्षेप रामाय प्रदीप्तामशनिं यथा ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1341,12 +1412,15 @@ golden cinctures, and which is extremely glaring like a thunderbolt. [3-29-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरबाहुप्रमुक्ता सा प्रदीप्ता महती गदा ।  
 भस्म वृक्षांश्च गुल्मांश्च कृत्वागात् तत्समीपतः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1386,12 +1460,15 @@ down to ashes darted towards Rama. [3-29-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामापतन्तीं महतीं मृत्युपाशोपमां गदाम् ।  
 अन्तरिक्षगतां रामश्चिच्छेद बहुधा शरैः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1431,12 +1508,15 @@ smithereens with his arrows while it is still sky rocketing. [3-29-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विशीर्णा शरैर्भिन्ना पपात धरणीतले ।  
 गदा मन्त्रौषधिबलैर्व्यालीव विनिपातिता ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1498,5 +1578,6 @@ antidotes, say spells and nostrums...'
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥29॥
+</details>
 </details>
 

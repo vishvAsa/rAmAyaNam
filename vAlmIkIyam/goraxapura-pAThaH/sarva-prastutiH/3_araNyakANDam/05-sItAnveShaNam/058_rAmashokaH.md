@@ -2,6 +2,8 @@
 title = "०५८ रामशोकः"
 title_english = "058 Rama anguishes for Seetha s aloneness"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -22,12 +24,15 @@ then he is thrown in throes of despair.
 
 58. मार्गमें अनेक प्रकारकी आशङ्का करते हुए लक्ष्मणसहित श्रीरामका आश्रममें आना और वहाँ सीताको न पाकर व्यथित होना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दृष्ट्वा लक्ष्मणं दीनं शून्यं दशरथात्मजः ।  
 पर्यपृच्छत धर्मात्मा वैदेहीमागतं विना ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ Rama, the son of Dasharatha, has asked him impatiently. [3-58-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्थितं दण्डकारण्यं या मामनुजगाम ह ।  
 क्व सा लक्ष्मण वैदेही यां हित्वा त्वमिहागतः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ deserted and came here, oh, Lakshmana, she that Vaidehi, where is she? [3-58-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यभ्रष्टस्य दीनस्य दण्डकान् परिधावतः ।  
 क्व सा दुःखसहाया मे वैदेही तनुमध्यमा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +163,15 @@ she stood with me as a partaker in my woes. She that comely Vaidehi, where is sh
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां विना नोत्सहे वीर मुहूर्तमपि जीवितुम् ।  
 क्व सा प्राणसहाया मे सीता सुरसुतोपमा ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -198,12 +212,15 @@ is like the daughter of deities and who is my life-force, where is she? [3-58-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतित्वममराणां हि पृथिव्याश्चापि लक्ष्मण ।  
 विना तां तपनीयाभां नेच्छेयं जनकात्मजाम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -243,12 +260,15 @@ of Janaka whose aspect glisters like gold. [3-58-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिज्जीवति वैदेही प्राणैः प्रियतरा मम ।  
 कच्चित् प्रव्राजनं वीर न मे मिथ्या भविष्यति ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ no more what happens to her abduction, Ravana's elimination, and my pledge to go
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतानिमित्तं सौमित्रे मृते मयि गते त्वयि ।  
 कच्चित् सकामा कैकेयी सुखिता सा भविष्यति ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,12 +362,15 @@ wishes are accomplished thus, oh, Soumitri, will she be comfortable, somewhat! [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सपुत्रराज्यां सिद्धार्थां मृतपुत्रा तपस्विनी ।  
 उपस्थास्यति कौसल्या कच्चित् सौम्येन कैकयीम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,12 +416,15 @@ of Kaikeyi, anyhow! [3-58-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि जीवति वैदेही गमिष्याम्याश्रमं पुनः ।  
 संवृत्ता यदि वृत्ता सा प्राणांस्त्यक्ष्यामि लक्ष्मण ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ itself. [3-58-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मामाश्रमगतं वैदेही नाभिभाषते ।  
 पुरः प्रहसिता सीता विनशिष्यामि लक्ष्मण ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +520,15 @@ at the hermitage, oh, Lakshmana, I really breath my last. [3-58-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रूहि लक्ष्मण वैदेही यदि जीवति वा न वा ।  
 त्वयि प्रमत्ते रक्षोभिर्भक्षिता वा तपस्विनी ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +568,15 @@ guard is she consumed by demons, either? [3-58-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकुमारी च बाला च नित्यं चादुःखभागिनी ।  
 मद्वियोगेन वैदेही व्यक्तं शोचति दुर्मनाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +617,15 @@ from me, and now by my dissociation she will be despairing brokenheartedly, so i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा रक्षसा तेन जिह्मेन सुदुरात्मना ।  
 वदता लक्ष्मणेत्युच्चैस्तवापि जनितं भयम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -630,12 +671,15 @@ rushing fearfully, were you fearful or did I yell like that right from our child
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतश्च मन्ये वैदेह्या स स्वरः सदृशो मम ।  
 त्रस्तया प्रेषितस्त्वं च द्रष्टुं मां शीघ्रमागतः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,12 +728,15 @@ unhopeful of my capabilities and came rushing at the haste of a hasty woman, or 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा तु कृतं कष्टं सीतामुत्सृजता वने ।  
 प्रतिकर्तुं नृशंसानां रक्षसां दत्तमन्तरम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,12 +783,15 @@ to counterattack me, instead of these tricks and gimmicks...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखिताः खरघातेन राक्षसाः पिशिताशनाः ।  
 तैः सीता निहता घोरैर्भविष्यति न संशयः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +831,15 @@ have liquidated Seetha by now. There is no doubt about it. [3-58-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोऽस्मि व्यसने मग्नः सर्वथा रिपुनाशन ।  
 किं त्विदानीं करिष्यामि शङ्के प्राप्तव्यमीदृशम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -830,12 +883,15 @@ his feelings on his way to hermitage. [3-58-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सीतां वरारोहां चिन्तयन्नेव राघवः ।  
 आजगाम जनस्थानं त्वरया सहलक्ष्मणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +930,7 @@ along with Lakshmana. [3-58-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -882,6 +939,8 @@ along with Lakshmana. [3-58-18]
 विनिःश्वसन् शुष्कमुखो विषण्णः  
 प्रतिश्रयं प्राप्य समीक्ष्य शून्यम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -900,6 +959,7 @@ along with Lakshmana. [3-58-18]
 
 दुःखितनाद तम्म लक्ष्मणनन्नु जरॆयुत्ता हसिवु - बायारिकॆयिन्द दीर्घवागि निट्टुसिरुबिडुत्ता बाडिद मुखवुळ्ळ श्रीरामचन्द्रनु आश्रमद बळिगॆ बन्दु बरिदाद अदन्नु नोडि विषाददल्लि मुळुगिदनु.॥19॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -908,6 +968,8 @@ along with Lakshmana. [3-58-18]
 एतत्तदित्येव निवासभूमौ  
 प्रहृष्टरोमा व्यथितो बभूव ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,5 +1031,6 @@ of Seetha. [3-58-19, 20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु.॥58॥
+</details>
 </details>
 

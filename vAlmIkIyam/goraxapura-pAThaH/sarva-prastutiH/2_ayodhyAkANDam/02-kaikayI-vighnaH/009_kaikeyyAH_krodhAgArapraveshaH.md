@@ -2,6 +2,8 @@
 title = "००९ कैकेय्याः क्रोधागारप्रवेशः"
 title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,12 +22,15 @@ towards evil.
 
 9. कुब्जाके कुचक्रसे कैकेयीका कोपभवनमें प्रवेश
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु कैकेयी क्रोधेन ज्वलितानना ।  
 दीर्घमुष्णं विनिःश्वस्य मन्थरामिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,12 +71,15 @@ hot sigh and spoke to Manthara as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य राममितः क्षिप्रं वनं प्रस्थापयाम्यहम् ।  
 यौवराज्येन भरतं क्षिप्रमद्याभिषेचये ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -111,12 +119,15 @@ princely kingdom immediately."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं त्विदानीं सम्पश्य केनोपायेन साधये ।  
 भरतः प्राप्नुयाद् राज्यं न तु रामः कथञ्चन ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +167,15 @@ not get it by any method. Think about it now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सा देव्या मन्थरा पापदर्शिनी ।  
 रामार्थमुपहिंसन्ती कैकेयीमिदमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,12 +215,15 @@ destroy Rama's benefit of kingdom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्तेदानीं प्रपश्य त्वं कैकेयि श्रूयतां वचः ।  
 यथा ते भरतो राज्यं पुत्रः प्राप्स्यति केवलम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -246,12 +263,15 @@ only will get the kingdom. Listen to it!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं न स्मरसि कैकेयि स्मरन्ती वा निगूहसे ।  
 यदुच्यमानमात्मार्थं मत्तस्त्वं श्रोतुमिच्छसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -285,12 +305,15 @@ forgotten about it or are you hiding, even if you have remembered it?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयोच्यमानं यदि ते श्रोतुं छन्दो विलासिनि ।  
 श्रूयतामभिधास्यामि श्रुत्वा चैतद् विधीयताम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +347,15 @@ tell you. Listen to me. Let it be acted upon after listening to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वैवं वचनं तस्या मन्थरायास्तु कैकयी ।  
 किञ्चिदुत्थाय शयनात् स्वास्तीर्णादिदमब्रवीत् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,12 +395,15 @@ spoke the following :
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथयस्व ममोपायं केनोपायेन मन्थरे ।  
 भरतः प्राप्नुयाद् राज्यं न तु रामः कथञ्चन ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,12 +447,15 @@ not get it under any circumstances."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तदा देव्या मन्थरा पापदर्शिनी ।  
 रामार्थमुपहिंसन्ती कैकेयीमिदमब्रवीत् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,12 +496,15 @@ thus, with an intention to destroy Rama's benefit of kingdom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा देवासुरे युद्धे सह राजर्षिभिः पतिः ।  
 अगच्छत् त्वामुपादाय देवराजस्य साह्यकृत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -486,6 +521,7 @@ thus, with an intention to destroy Rama's benefit of kingdom.
 
 देवि! हिन्दॊम्मॆ देवासुर सङ्ग्रामद सन्दर्भ राजर्षिगळ जॊतॆगॆ निन्न पतियु निन्नन्नु जॊतॆगॆ करॆदुकॊण्डु देवेन्द्रन सहायक्कागि स्वर्गलोकक्कॆ होगिद्दनु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -494,6 +530,8 @@ thus, with an intention to destroy Rama's benefit of kingdom.
 स शम्बर इति ख्यातः शतमायो महासुरः ।  
 ददौ शक्रस्य सङ्ग्रामं देवसङ्घैरनिर्जितः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,12 +595,15 @@ forest of Dandaka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् महति सङ्ग्रामे पुरुषान् क्षतविक्षतान् ।  
 रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -610,12 +651,15 @@ people and defenceless people sleeping at night. Demons do not follow such scrip
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राकरोन्महायुद्धं राजा दशरथस्तदा ।  
 असुरैश्च महाबाहुः शस्त्रैश्च शकलीकृतः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,12 +696,15 @@ into pieces the long armed Dasaratha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपवाह्य त्वया देवि सङ्ग्रामान्नष्टचेतनः ।  
 तत्रापि विक्षतः शस्त्रैः पतिस्ते रक्षितस्त्वया ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,6 +745,7 @@ battle field. There also, you again saved him, when beaten by demons with their 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -706,6 +754,8 @@ battle field. There also, you again saved him, when beaten by demons with their 
 गृह्णीयां तु तदा भर्तस्तथेत्युक्तं महात्मना ।  
 अनभिज्ञा ह्यहं देवि त्वयैव कथितं पुरा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +794,15 @@ Then, you said, " I shall ask you whenever I require them". He then agreed to it
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथैषा तव तु स्नेहान्मनसा धार्यते मया ।  
 रामाभिषेकसम्भारान्निगृह्य विनिवर्तय ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,12 +839,15 @@ to stop, by force, the arrangements being made for Rama's coronation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ च याचस्व भर्तारं भरतस्याभिषेचनम् ।  
 प्रव्राजनं च रामस्य वर्षाणि च चतुर्दश ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -831,12 +887,15 @@ sending Rama to exile for fourteen years."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
 प्रजाभावगतस्नेहः स्थिरः पुत्रो भविष्यति ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,12 +929,15 @@ association in the hearts of the people and will get stabilised in kingdom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधागारं प्रविश्याद्य क्रुद्धेवाश्वपतेः सुते ।  
 शेष्वानन्तर्हितायां त्वं भूमौ मलिनवासिनी ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,12 +978,15 @@ without any spread underneath and wearing soiled clothes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा स्मैनं प्रत्युदीक्षेथा मा चैनमभिभाषथाः ।  
 रुदन्ती पार्थिवं दृष्ट्वा जगत्यां शोकलालसा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,12 +1026,15 @@ him and without talking to him face to face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दयिता त्वं सदा भर्तुरत्र मे नास्ति संशयः ।  
 त्वत्कृते च महाराजो विशेदपि हुताशनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,12 +1074,15 @@ even jump into a fire for your sake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वां क्रोधयितुं शक्तो न क्रुद्धां प्रत्युदीक्षितुम् ।  
 तव प्रियार्थं राजा तु प्राणानपि परित्यजेत् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,12 +1122,15 @@ anger. He will give up his life for your love.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्यतिक्रमितुं शक्तस्तव वाक्यं महीपतिः ।  
 मन्दस्वभावे बुध्यस्व सौभाग्यबलमात्मनः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1096,12 +1170,15 @@ abundant strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिमुक्तासुवर्णानि रत्नानि विविधानि च ।  
 दद्याद् दशरथो राजा मा स्म तेषु मनः कृथाः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,12 +1218,15 @@ stones. Do not care for them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यौ तौ देवासुरे युद्धे वरौ दशरथो ददौ ।  
 तौ स्मारय महाभागे सोऽर्थो न त्वा क्रमेदति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1188,12 +1268,15 @@ thwarted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा तु ते वरं दद्यात् स्वयमुत्थाप्य राघवः ।  
 व्यवस्थाप्य महाराजं त्वमिमं वृणुया वरम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1233,12 +1316,15 @@ making him steady, you ask for this boon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामप्रव्रजनं दूरं नव वर्षाणि पञ्च च ।  
 भरतः क्रियतां राजा पृथिव्यां पार्थिवर्षभ ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1278,12 +1364,15 @@ this earth".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
 रूढश्च कृतमूलश्च शेषं स्थास्यति ते सुतः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1323,12 +1412,15 @@ having laid his roots and will stay in power for the remaining period.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामप्रव्राजनं चैव देवि याचस्व तं वरम् ।  
 एवं सेत्स्यन्ति पुत्रस्य सर्वार्थास्तव कामिनि ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,12 +1460,15 @@ will accomplish all the desired benefits.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रव्राजितश्चैव रामोऽरामो भविष्यति ।  
 भरतश्च गतामित्रस्तव राजा भविष्यति ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1410,12 +1505,15 @@ will become king, after the enemies having been annihilated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन कालेन रामश्च वनात् प्रत्यागमिष्यति ।  
 अन्तर्बहिश्च पुत्रस्ते कृतमूलो भविष्यति ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,6 +1555,7 @@ to his fold, thus establishing roots himself.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1464,6 +1563,8 @@ to his fold, thus establishing roots himself.
 प्राप्तकालं नु मन्येऽहं राजानं वीतसाध्वसा ॥ ३५ ॥  
 रामाभिषेकसङ्कल्पान्निगृह्य विनिवर्तय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1498,6 +1599,7 @@ king turn aside his effort to anoint Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1506,6 +1608,8 @@ king turn aside his effort to anoint Rama.
 सा हि वाक्येन कुब्जायाः किशोरीवोत्पथं गता ॥ ३७ ॥  
 कैकेयी विस्मयं प्राप्य परं परमदर्शना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,6 +1663,7 @@ Manthara, accepted her well and having delighted, spoke to her as follows:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1566,6 +1671,8 @@ Manthara, accepted her well and having delighted, spoke to her as follows:-
 पृथिव्यामसि कुब्जानामुत्तमा बुद्धिनिश्चये ।  
 त्वमेव तु ममार्थेषु नित्ययुक्ता हितैषिणी ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1628,12 +1735,15 @@ decisions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं समवबुद्ध्येयं कुब्जे राज्ञश्चिकीर्षितम् ।  
 सन्ति दुःसंस्थिताः कुब्जाः वक्राः परमपापिकाः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1677,12 +1787,15 @@ breeze.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं पद्ममिव वातेन सन्नता प्रियदर्शना ।  
 उरस्तेऽभिनिविष्टं वै यावत् स्कन्धात् समुन्नतम् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1726,12 +1839,15 @@ seeing the loftiness of chest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधस्ताच्चोदरं शान्तं सुनाभमिव लज्जितम् ।  
 प्रतिपूर्णं च जघनं सुपीनौ च पयोधरौ ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1771,12 +1887,15 @@ untainted moon you are shining well.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमलेन्दुसमं वक्त्रमहो राजसि मन्थरे ।  
 जघनं तव निर्मृष्टं रशनादामभूषितम् ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1816,6 +1935,7 @@ leg-muscles are well rounded and your feet are tall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1823,6 +1943,8 @@ leg-muscles are well rounded and your feet are tall.
 त्वमायताभ्यां सक्थिभ्यां मन्थरे क्षौमवासिनी ॥ ४४ ॥  
 अग्रतो मम गच्छन्ती राजसेऽतीव शोभने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1863,6 +1985,7 @@ are wearing a silk sari.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1875,6 +1998,8 @@ are wearing a silk sari.
 मतयः क्षत्र-विद्याश् च  
 मायाश्चात्र वसन्ति ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1941,6 +2066,7 @@ demons, another further thousands of magic effects are lying in you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1949,6 +2075,8 @@ demons, another further thousands of magic effects are lying in you.
 जात्येन च सुवर्णेन सुनिष्टप्तेन सुन्दरि ॥ ४८ ॥  
 लब्धार्था च प्रतीता च लेपयिष्यामि ते स्थगु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2009,6 +2137,7 @@ hunch back with a golden garland.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2016,6 +2145,8 @@ hunch back with a golden garland.
 कारयिष्यामि ते कुब्जे शुभान्याभरणानि च ।  
 परिधाय शुभे वस्त्रे देवतेव चरिष्यसि ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2050,12 +2181,15 @@ dots of variety done of pure gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रमाह्वयमानेन मुखेनाप्रतिमानना ।  
 गमिष्यसि गतिं मुख्यां गर्वयन्ती द्विषज्जने ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2092,12 +2226,15 @@ competing with moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवापि कुब्जाः कुब्जायाः सर्वाभरणभूषिताः ।  
 पादौ परिचरिष्यन्ति यथैव त्वं सदा मम ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2138,12 +2275,15 @@ feet, as how as hunch-backed you are doing it to me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रशस्यमाना सा कैकेयीमिदमब्रवीत् ।  
 शयानां शयने शुभ्रे वेद्यामग्निशिखामिव ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2177,12 +2317,15 @@ clean couch like a flame of fire upon the sacrificial altar.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतोदके सेतुबन्धो न कल्याणि विधीयते ।  
 उत्तिष्ठ कुरु कल्याणं राजानमनुदर्शय ॥ ५४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2222,6 +2365,7 @@ constructing a dam. Now rise and do this purposeful action. Show your influence 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2230,6 +2374,8 @@ constructing a dam. Now rise and do this purposeful action. Show your influence 
 अनेकशतसाहस्रं मुक्ताहारं वराङ्गना ।  
 अवमुच्य वरार्हाणि शुभान्याभरणानि च ॥५६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2248,12 +2394,15 @@ constructing a dam. Now rise and do this purposeful action. Show your influence 
 
 मन्थरॆयु हीगॆ प्रोत्साहिसिदाग सौभाग्यद मददिन्द गर्वितळाद विशाललोचनॆ सुन्दरी कैकादेवियु आकॆयॊन्दिगे कोपभवनक्कॆ होगि अनेक लक्ष वरहगळ मौल्यद मुत्तिन हारगळन्नू, इतर सुन्दर-सुन्दर ऒडवॆगळन्नु शरीरदिन्द कळचि ऎसॆयतॊडगिदळु.॥55-56॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा हेमोपमा तत्र कुब्जावाक्यवशङ्गता ।  
 संविश्य भूमौ कैकेयी मन्थरामिदमब्रवीत् ॥ ५७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2300,6 +2449,7 @@ wire and spoke to Manthara as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2308,6 +2458,8 @@ wire and spoke to Manthara as follows:
 सुवर्णेन न मे ह्यर्थो न रत्नैर्न च भोजनैः ।  
 एष मे जीवितस्यान्तो रामो यद्यभिषिच्यते ॥ ५९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2369,6 +2521,7 @@ inform the king that I died here itself".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2377,6 +2530,8 @@ inform the king that I died here itself".
 उवाच कुब्जा भरतस्य मातरं  
 हितं वचो राममुपेत्य चाहितम् ॥ ६० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2420,6 +2575,7 @@ Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2428,6 +2584,8 @@ Rama.
 ततो हि कल्याणि यतस्व तत् तथा  
 यथा सुतस्ते भरतोऽभिषेक्ष्यते ॥ ६१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2473,6 +2631,7 @@ qualities! Hence you try for coronation of your son, Bharata
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2481,6 +2640,8 @@ qualities! Hence you try for coronation of your son, Bharata
 निधाय हस्तौ हृदयेऽतिविस्मिता  
 शशंस कुब्जां कुपिता पुनः पुनः ॥ ६२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2532,6 +2693,7 @@ of Manthara and praised her time and again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2540,6 +2702,8 @@ of Manthara and praised her time and again.
 वनं गते वा सुचिराय राघवे  
 समृद्धकामो भरतो भविष्यति ॥ ६३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2581,6 +2745,7 @@ garlands or sandal paste or eye-liner or drink or food or even the loaf here.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2589,6 +2754,8 @@ garlands or sandal paste or eye-liner or drink or food or even the loaf here.
 न किञ्चिदिच्छामि न चेह जीवनं  
 न चेदितो गच्छति राघवो वनम् ॥ ६४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2633,6 +2800,7 @@ garlands or sandal paste or eye-liner or drink or food or even the life here.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2641,6 +2809,8 @@ garlands or sandal paste or eye-liner or drink or food or even the life here.
 असंस्कृतामास्तरणेन मेदिनीं  
 तदाधिशिश्ये पतितेव किन्नरी ॥ ६५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2686,6 +2856,7 @@ without a mattress like a fallen angel.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2694,6 +2865,8 @@ without a mattress like a fallen angel.
 नरेन्द्रपत्नी विमना बभूव सा  
 तमोवृता द्यौरिव मग्नतारका ॥ ६६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2753,5 +2926,6 @@ extreme anger and with her depressed mind, looked like a starless sky in a gloom
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒम्भत्तनॆय सर्ग पूर्णवायितु. ॥9॥
+</details>
 </details>
 

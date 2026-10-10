@@ -2,6 +2,8 @@
 title = "०३८ सगरकथा"
 title_english = "038 Legend of emperor sagara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - The Youthful Majesties
@@ -23,12 +25,15 @@ Sage Vishvamitra narrates the legend of Sagara, the earliest King of
 
 38. राजा सगरके पुत्रोंकी उत्पत्ति तथा यज्ञकी तैयारी
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां कथां कौशिको रामे निवेद्य मधुराक्षराम् ।  
 पुनरेवापरं वाक्यं काकुत्स्थमिदमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्याधिपतिर्वीर पूर्वमासीन्नराधिपः ।  
 सगरो नाम धर्मात्मा प्रजाकामः स चाप्रजः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,12 +125,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदर्भदुहिता राम केशिनी नाम नामतः ।  
 ज्येष्ठा सगरपत्नी सा धर्मिष्ठा सत्यवादिनी ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,12 +168,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरिष्टनेमेर्दुहिता सुपर्णभगिनी तु सा ।  
 द्वितीया सगरस्यासीत् पत्नी सुमतिसञ्ज्ञिता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +218,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभ्यां सह महाराजः पत्नीभ्यां तप्तवांस्तपः ।  
 हिमवन्तं समासाद्य भृगुप्रस्रवणे गिरौ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्षशते पूर्णे तपसाऽऽराधितो मुनिः ।  
 सगराय वरं प्रादाद् भृगुः सत्यवतां वरः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपत्यलाभः सुमहान् भविष्यति तवानघ ।  
 कीर्तिं चाप्रतिमां लोके प्राप्स्यसे पुरुषर्षभ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +361,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एका जनयिता तात पुत्रं वंशकरं तव ।  
 षष्टिं पुत्रसहस्राणि अपरा जनयिष्यति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,12 +411,15 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भाषमाणं महात्मानं राजपुत्र्यौ प्रसाद्य तम् ।  
 ऊचतुः परमप्रीते कृताञ्जलिपुटे तदा ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +457,15 @@ Highly gladdened are the daughters of kings of Vidarbha and Aristanemi,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकः कस्याः सुतो ब्रह्मन् का बहूञ्जनयिष्यति ।  
 श्रोतुमिच्छावहे ब्रह्मन् सत्यमस्तु वचस्तव ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -473,6 +505,7 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -481,6 +514,8 @@ _________________
 एको वंशकरो वास्तु बहवो वा महाबलाः ।  
 कीर्तिमन्तो महोत्साहाः का वा कं वरमिच्छति ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,12 +573,15 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनेस्तु वचनं श्रुत्वा केशिनी रघुनन्दन ।  
 पुत्रं वंशकरं राम जग्राह नृपसन्निधौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,12 +617,15 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्टिं पुत्रसहस्राणि सुपर्णभगिनी तदा ।  
 महोत्साहान् कीर्तिमतो जग्राह सुमतिः सुतान् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -620,12 +661,15 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदक्षिणमृषिं कृत्वा शिरसाभिप्रणम्य तम् ।  
 जगाम स्वपुरं राजा सभार्यो रघुनन्दन ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +711,15 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ काले गते तस्य ज्येष्ठा पुत्रं व्यजायत ।  
 असमञ्ज इति ख्यातं केशिनी सगरात्मजम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,12 +759,15 @@ When the time rolled by then the elder wife Keshini gave birth to the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमतिस्तु नरव्याघ्र गर्भतुम्बं व्यजायत ।  
 षष्टिः पुत्रसहस्राणि तुम्बभेदाद् विनिःसृताः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -758,12 +808,15 @@ But the second queen Sumati on part, oh, tigerly-man Rama, verily
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृतपूर्णेषु कुम्भेषु धात्र्यस्तान् समवर्धयन् ।  
 कालेन महता सर्वे यौवनं प्रतिपेदिरे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -800,12 +853,15 @@ The childminders brought up those siblings in vessels filled with ghee,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ दीर्घेण कालेन रूपयौवनशालिनः ।  
 षष्टिः पुत्रसहस्राणि सगरस्याभवंस्तदा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,6 +895,7 @@ After a long time the sixty thousand sons of king Sagara have become
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -846,6 +903,8 @@ After a long time the sixty thousand sons of king Sagara have become
 बालान् गृहीत्वा तु जले सरय्वा रघुनन्दन ॥ २० ॥  
 प्रक्षिप्य प्राहसन्नित्यं मज्जतस्तान् निरीक्ष्य वै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,12 +948,15 @@ But, oh, best one among men, oh, Rama, the elder son of the king Sagara,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पापसमाचारः सज्जनप्रतिबाधकः ॥ २१ ॥  
 पौराणामहिते युक्तः पित्रा निर्वासितः पुरात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +996,15 @@ This Asamanja appears to be the person from the first-generation of
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य पुत्रोऽंशुमान् नाम असमञ्जस्य वीर्यवान् ॥ २२ ॥  
 सम्मतः सर्वलोकस्य सर्वस्यापि प्रियंवदः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1040,15 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कालेन महता मतिः समभिजायत ॥ २३ ॥  
 सगरस्य नरश्रेष्ठ यजेयमिति निश्चिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,12 +1083,15 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वा निश्चयं राजा सोपाध्यायगणास्तदा ।  
 यज्ञकर्मणि वेदज्ञो यष्टुं समुपचक्रमे ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,5 +1142,6 @@ That king Sagara who is an expert in Vedic-procedures has then taken
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥38॥
+</details>
 </details>
 

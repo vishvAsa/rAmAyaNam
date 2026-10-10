@@ -2,6 +2,8 @@
 title = "०५१ हनुमता रामकथानिरूपणम्"
 title_english = "051 Hanuma narrates the story of"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -25,12 +27,15 @@ that he should be prepared for the worst if on the other hand he refuses to do s
 
 51. हनुमान् जी का श्रीरामके प्रभावका वर्णन करते हुए रावणको समझाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्य महासत्त्वं सत्त्ववान् हरिसत्तमः ।  
 वाक्यमर्थवदव्यग्रस्तमुवाच दशाननम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ meaningful words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं सुग्रीवसन्देशादिह प्राप्तस्तवान्तिके ।  
 राक्षसेश हरीशस्त्वां भ्राता कुशलमब्रवीत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +129,15 @@ Lord of monkeys, your brother, asked me to enquire about your welfare.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुः श्रृणु समादेशं सुग्रीवस्य महात्मनः ।  
 धर्मार्थसहितं वाक्यमिह चामुत्र च क्षमम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +180,15 @@ your brother, conducive to good in the world as well as in the other world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो नाम रथकुञ्जरवाजिमान् ।  
 पितेव बन्धुर्लोकस्य सुरेश्वरसमद्युतिः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,6 +228,7 @@ to the people and endowed with a splendour equal to that of Indra the lord of ce
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -222,6 +237,8 @@ to the people and endowed with a splendour equal to that of Indra the lord of ce
 लक्ष्मणेन सह भ्राता सीतया सह भार्यया ।  
 रामो नाम महातेजा धर्म्यं पन्थानमाश्रितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -274,12 +291,15 @@ Dandaka along with Lakshmana his brother and Seetha his wife."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य भार्या जनस्थाने भ्रष्टा सीतेति विश्रुता ।  
 वैदेहस्य सुता राज्ञो जनकस्य महात्मनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,12 +342,15 @@ Janaka, the head of Videha kingdom, got lost in the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गमाणस्तु तां देवीं राजपुत्रः सहानुजः ।  
 ऋष्यमूकमनुप्राप्तः सुग्रीवेण च सङ्गतः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,12 +393,15 @@ and happened to meet Sugreeva."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तेन प्रतिज्ञातं सीतायाः परिमार्गणम् ।  
 सुग्रीवस्यापि रामेण हरिराज्यं निवेदितुम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,12 +444,15 @@ of monkeys to Sugreeva."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तेन मृधे हत्वा राजपुत्रेण वालिनम् ।  
 सुग्रीवः स्थापितो राज्ये हर्यृक्षाणां गणेश्वरः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +492,15 @@ of that troop monkeys and bears."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया विज्ञातपूर्वश्च वाली वानरपुङ्गवः ।  
 स तेन निहतः सङ्ख्ये शरेणैकेन वानरः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ with a single arrow in battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सीतामार्गणे व्यग्रः सुग्रीवः सत्यसङ्गरः ।  
 हरीन् सम्प्रेषयामास दिशः सर्वा हरीश्वरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,12 +585,15 @@ and sent his monkeys to all directions."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां हरीणां सहस्राणि शतानि नियुतानि च ।  
 दिक्षु सर्वासु मार्गन्ते ह्यधश्चोपरि चाम्बरे ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -595,12 +633,15 @@ below and above in the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैनतेयसमाः केचित् केचित् तत्रानिलोपमाः ।  
 असङ्गगतयः शीघ्रा हरिवीरा महाबलाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -640,6 +681,7 @@ Some are like wind, swiftly going with an unhindered movement."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -648,6 +690,8 @@ Some are like wind, swiftly going with an unhindered movement."
 समुद्रं लङ्घयित्वैव त्वां दिदृक्षुरिहागतः ।  
 भ्रमता च मया दृष्टा गृहे ते जनकात्मजा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -691,12 +735,15 @@ wishing to see her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् भवान् दृष्टधर्मार्थस्तपःकृतपरिग्रहः ।  
 परदारान् महाप्राज्ञ नोपरोद‍्धुं त्वमर्हसि ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,12 +780,15 @@ not besiege the wife of another, O great intellectual!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि धर्मविरुद्धेषु बह्वपायेषु कर्मसु ।  
 मूलघातिषु सज्जन्ते बुद्धिमन्तो भवद्विधाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +828,15 @@ which are attended with many dangers and which even ruin the doer at the roots."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च लक्ष्मणमुक्तानां रामकोपानुवर्तिनाम् ।  
 शराणामग्रतः स्थातुं शक्तो देवासुरेष्वपि ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +876,15 @@ by Lakshmana, in the wake of the fury of Rama?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चापि त्रिषु लोकेषु राजन् विद्येत कश्चन ।  
 राघवस्य व्यलीकं यः कृत्वा सुखमवाप्नुयात् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,12 +902,15 @@ by Lakshmana, in the wake of the fury of Rama?
 
 ‘राजन्! तीनों लोकोंमें एक भी ऐसा प्राणी नहीं है, जो भगवान् श्रीरामका अपराध करके सुखी रह सके ॥ २० ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् त्रिकालहितं वाक्यं धर्म्यमर्थानुयायि च ।  
 मन्यस्व नरदेवाय जानकी प्रतिदीयताम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,12 +970,15 @@ to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टा हीयं मया देवी लब्धं यदिह दुर्लभम् ।  
 उत्तरं कर्म यच्छेषं निमित्तं तत्र राघवः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -957,12 +1019,15 @@ it is obtained here. It is for Rama there to decide his remaining task of future
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्षितेयं मया सीता तथा शोकपरायणा ।  
 गृहे यां नाभिजानासि पञ्चास्यामिव पन्नगीम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,12 +1070,15 @@ abode, has been found by me in that manner, and wholly given over to sorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेयं जरयितुं शक्या सासुरैरमरैरपि ।  
 विषसंस्पृष्टमत्यर्थं भुक्तमन्नमिवौजसा ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,12 +1121,15 @@ more than food mixed with abundant poison could be digested with one's digestive
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपःसन्तापलब्धस्ते सोऽयं धर्मपरिग्रहः ।  
 न स नाशयितुं न्याय्य आत्मप्राणपरिग्रहः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,12 +1172,15 @@ an outcome of your virtue, both of which have been acquired by you through the p
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवध्यतां तपोभिर्यां भवान् समनुपश्यति ।  
 आत्मनः सासुरैर्देवैर्हेतुस्तत्राप्ययं महान् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1220,7 @@ of your austerities. But your opinion in that matter is not correct, on account 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1153,6 +1228,8 @@ of your austerities. But your opinion in that matter is not correct, on account 
 मानुषो राघवो राजन् सुग्रीवश्च हरीश्वरः ।  
 तस्मात् प्राणपरित्राणं कथं राजन् करिष्यसि ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1175,12 +1252,15 @@ _________________
 
 ‘राक्षसराज! सुग्रीव और श्रीरामचन्द्रजी न तो देवता हैं, न यक्ष हैं और न राक्षस ही हैं । श्रीरघुनाथजी मनुष्य हैं और सुग्रीव वानरोंके राजा । अतः उनके हाथसे तुम अपने प्राणोंकी रक्षा कैसे करोगे? ॥ २७ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु धर्मोपसंहारमधर्मफलसंहितम् ।  
 तदेव फलमन्वेति धर्मश्चाधर्मनाशनः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1249,12 +1329,15 @@ nor pannaga the serpent-demon. O King! How do you protect your life from him?"
 
 * जैसा कि श्रुतिका वचन है—‘धर्मेण पापमपनुदति ।’ अर्थात् धर्मसे मनुष्य अपने पापको दूर करता है । स्मृतियोंमें बताये गये प्रायश्चित्त कृच्छ्रव्रत आदि भी इसी बातके समर्थक हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तं धर्मफलं तावद् भवता नात्र संशयः ।  
 फलमस्याप्यधर्मस्य क्षिप्रमेव प्रपत्स्यसे ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1297,12 +1380,15 @@ time, you will obtain the fruit of unrighteousness also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनस्थानवधं बुद्‍ध्वा वालिनश्च वधं तथा ।  
 रामसुग्रीवसख्यं च बुद्‍ध्यस्व हितमात्मनः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,12 +1431,15 @@ Vali and about the friendship between Rama and Sugreeva, realize your own intere
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं खल्वहमप्येकः सवाजिरथकुञ्जराम् ।  
 लङ्कां नाशयितुं शक्तस्तस्यैष तु न निश्चयः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1393,12 +1482,15 @@ and elephants. However, this is not in accordance with the resolution of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामेण हि प्रतिज्ञातं हर्यृक्षगणसन्निधौ ।  
 उत्सादनममित्राणां सीता यैस्तु प्रधर्षिता ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1441,12 +1533,15 @@ extermination of enemies, by whom Seetha was actually laid violent hands upon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपकुर्वन् हि रामस्य साक्षादपि पुरन्दरः ।  
 न सुखं प्राप्नुयादन्यः किं पुनस्त्वद्विधो जनः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1489,12 +1584,15 @@ harm to Rama. How much move to another person like you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां सीतेत्यभिजानासि येयं तिष्ठति ते गृहे ।  
 कालरात्रीति तां विद्धि सर्वलङ्काविनाशिनीम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1539,12 +1637,15 @@ Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं कालपाशेन सीताविग्रहरूपिणा ।  
 स्वयं स्कन्धावसक्तेन क्षेममात्मनि चिन्त्यताम् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1587,12 +1688,15 @@ which has been placed by yourself around your neck. Think well of your safety."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतायास्तेजसा दग्धां रामकोपप्रदीपिताम् ।  
 दह्यमानामिमां पश्य पुरीं साट्टप्रतोलिकाम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1636,12 +1740,15 @@ Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वानि मित्राणि मन्त्रींश्च ज्ञातीन् भ्रातॄन् सुता‍न‍‍्हितान् ।  
 भोगान् दारांश्च लङ्कां च मा विनाशमुपानय ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1684,12 +1791,15 @@ well-wishers, enjoyments, wives and Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यं राक्षसराजेन्द्र शृणुष्व वचनं मम ।  
 रामदासस्य दूतस्य वानरस्य विशेषतः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1726,12 +1836,15 @@ servant of Rama, his messenger and particularly of this monkey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वाल्ँ लोकान् सुसंहृत्य सभूतान् सचराचरान् ।  
 पुनरेव तथा स्रष्टुं शक्तो रामो महायशाः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1770,6 +1883,7 @@ in like manner as before."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1779,6 +1893,8 @@ in like manner as before."
 सर्वत्र सर्वभूतेषु सर्वकालेषु नास्ति सः ॥ ४१ ॥  
 यो रामं प्रति युध्येत विष्णुतुल्यपराक्रमम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1803,12 +1919,15 @@ _________________
 
 महायशस्वियाद श्रीरामनु रुद्रनन्तॆ समस्तलोकगळन्नु संहरिसबल्लनु. पञ्च भूतात्मकवाद चराचरगळिन्दॊडगूडिद जगत्तन्नु मरळि अदे रीतियिन्द क्षणार्धदल्लि सृष्टिसबल्लनु.॥40॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलोकेश्वरस्येह कृत्वा विप्रियमीदृशम् ।  
 रामस्य राजसिंहस्य दुर्लभं तव जीवितम् ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1856,6 +1975,7 @@ of birds or among all living beings at all places and at all times."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1864,6 +1984,8 @@ of birds or among all living beings at all places and at all times."
 रामस्य लोकत्रयनायकस्य  
 स्थातुं न शक्ताः समरेषु सर्वे ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1908,6 +2030,7 @@ lion among kings, your survival will be difficult."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1916,6 +2039,8 @@ lion among kings, your survival will be difficult."
 इन्द्रो महेन्द्रः सुरनायको वा  
 स्थातुं न शक्ता युधि राघवस्य ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1959,6 +2084,7 @@ divine beings-all of them are not able to stand before Rama the lord of the thre
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1967,6 +2093,8 @@ divine beings-all of them are not able to stand before Rama the lord of the thre
 दशाननः कोपविवृत्तलोचनः  
 समादिशत् तस्य वधं महाकपेः ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2030,5 +2158,6 @@ would not be able to protect the one to be killed by Rama in battle."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तॊन्दनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

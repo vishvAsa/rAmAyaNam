@@ -1,6 +1,8 @@
 +++
 title = "०९७ सुग्रीवेण महोदरवधः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -23,12 +25,15 @@ get exhausted. Finally, Sugreeva cuts off Mahodara's head with a huge sword.
 
 97. सुग्रीवके साथ महोदरका घोर युद्ध तथा वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यमाने बले तूर्णमन्योन्यं ते महामृधे ।  
 सरसीव महाघर्मे सूपक्षीणे बभूवतुः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ diminished soon, like two lakes in a severe summer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वबलस्य तु घातेन विरूपाक्षवधेन च ।  
 बभूव द्विगुणं क्रुद्धो रावणो राक्षसाधिपः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +116,15 @@ army and the fall of Virupaksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रक्षीणं स्वबलं दृष्ट्वा वध्यमानं वलीमुखैः ।  
 बभूवास्य व्यथा युद्धे दृष्ट्वा दैवविपर्ययम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +165,15 @@ and to see the reversal of his fate.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच च समीपस्थं महोदरमनन्तरम् ।  
 अस्मिन् काले महाबाहो जयाशा त्वयि मे स्थिता ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -199,12 +213,15 @@ He spoke to Mahodara, the annihilator of enemies, standing beside him (as follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जहि शत्रुचमूं वीर दर्शयाद्य पराक्रमम् ।  
 भर्तृपिण्डस्य कालोऽयं निर्वेष्टुं साधु युध्यताम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,12 +266,15 @@ well."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तथेत्युक्त्वा राक्षसेन्द्रो महोदरः ।  
 प्रविवेशारिसेनां स पतङ्ग इव पावकम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,12 +314,15 @@ penetrated into the army of enemies, as a moth rushed into a flame.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स कदनं चक्रे वानराणां महाबलः ।  
 भर्तृवाक्येन तेजस्वी स्वेन वीर्येण चोदितः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,12 +356,15 @@ destroyed the monkeys by dint of his own valour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराश्च महासत्त्वाः प्रगृह्य विपुलाः शिलाः ।  
 प्रविश्यारिबलं भीमं जघ्नुस्ते सर्वराक्षसान् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -378,12 +404,15 @@ strong monkeys too started killing all the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरः सुसङ्क्रुद्धः शरैः काञ्चनभूषणैः ।  
 चिच्छेद पाणिपादोरु वानराणां महाहवे ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,12 +455,15 @@ chopped off the hands, feet and thighs of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते वानराः सर्वे राक्षसैरर्दिता भृशम् ।  
 दिशो दश द्रुताः केचित् केचित् सुग्रीवमाश्रिताः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,12 +498,15 @@ ten directions. Some others sought refuge with Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभग्नं समरे दृष्ट्वा वानराणां महाबलम् ।  
 अभिदुद्राव सुग्रीवो महोदरमनन्तरम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -512,12 +547,15 @@ Mahodara who was immediately close to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रगृह्य विपुलां घोरां महीधरसमां शिलाम् ।  
 चिक्षेप च महातेजास्तद्वधाय हरीश्वरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -552,12 +590,15 @@ who was endowed with a great energy, hurled it with an aim to kill the demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामापतन्तीं सहसा शिलां दृष्ट्वा महोदरः ।  
 असम्भ्रान्तस्ततो बाणैर्निर्बिभेद दुरासदाम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +632,15 @@ arrows, though it was difficult to approach.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षसा तेन बाणौघैर्निकृत्ता सा सहस्रधा ।  
 निपपात तदा भूमौ गृध्रचक्रमिवाकुलम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -637,12 +681,15 @@ forthwith fell down on earth, like a flock of frightened vultures.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु भिन्नां शिलां दृष्ट्वा सुग्रीवः क्रोधमूर्च्छितः ।  
 सालमुत्पाट्य चिक्षेप तं स चिच्छेद नैकधा ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +733,15 @@ hurled it at his enemy and Mahodara chopped it off into many pieces.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरैश्च विददारैनं शूरः परबलार्दनः ।  
 स ददर्श ततः क्रुद्धः परिघं पतितं भुवि ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +782,15 @@ with his arrows. That enraged Sugreeva then saw an iron rod on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आविध्य तु स तं दीप्तं परिघं तस्य दर्शयन् ।  
 परिघेणोग्रवेगेन जघानास्य हयोत्तमान् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,12 +830,15 @@ horses of Mahodara with that iron rod of terrible speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद्धतहयाद् वीरः सोऽवप्लुत्य महारथात् ।  
 गदां जग्राह सङ्क्रुद्धो राक्षसोऽथ महोदरः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,12 +878,15 @@ Mahodara the demon, thereupon seized hold of a mace with anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गदापरिघहस्तौ तौ युधि वीरौ समीयतुः ।  
 नर्दन्तौ गोवृषप्रख्यौ घनाविव सविद्युतौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -862,12 +921,15 @@ and resembling like two clouds charged with lightning, those two heroes closed i
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रुद्धो गदां तस्मै चिक्षेप रजनीचरः ।  
 ज्वलन्तीं भास्कराभासां सुग्रीवाय महोदरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +969,7 @@ which shone like the sun, on Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -915,6 +978,8 @@ which shone like the sun, on Sugreeva.
 आजघान गदां तस्य परिघेण हरीश्वरः ।  
 पपात तरसा भिन्नः परिघस्तस्य भूतले ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -962,12 +1027,15 @@ iron rod. That iron rod broke off and fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो जग्राह तेजस्वी सुग्रीवो वसुधातलात् ।  
 आयसं मुसलं घोरं सर्वतो हेमभूषितम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,12 +1069,15 @@ decked with gold, from the earth-surface.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमुद्यम्य चिक्षेप सोऽप्यस्य प्राक्षिपद् गदाम् ।  
 भिन्नावन्योन्यमासाद्य पेततुस्तौ महीतले ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,12 +1115,15 @@ him. Those two weapons, clashing each other, broke and fell on the floor.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भिन्नप्रहरणौ मुष्टिभ्यां तौ समीयतुः ।  
 तेजोबलसमाविष्टौ दीप्ताविव हुताशनौ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1083,12 +1157,15 @@ and strength, resembling two blazing fires, started contending with fists.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जघ्नतुस्तौ तदान्योन्यं नदन्तौ च पुनः पुनः ।  
 तलैश्चान्योन्यमासाद्य पेततुश्च महीतले ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1132,12 +1209,15 @@ other with their palms, they rolled on the earth's surface.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पेततुस्तदा तूर्णं जघ्नतुश्च परस्परम् ।  
 भुजैश्चिक्षिपतुर्वीरावन्योन्यमपराजितौ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1177,6 +1257,7 @@ unyielded, the two heroes pushed each other on their shoulders.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1186,6 +1267,8 @@ unyielded, the two heroes pushed each other on their shoulders.
 तथैव च महाखड्गं चर्मणा पतितं सह ।  
 जग्राह वानरश्रेष्ठः सुग्रीवो वेगवत्तरः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1242,12 +1325,15 @@ not very far.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रोषपरीताङ्गौ नदन्तावभ्यधावताम् ।  
 उद्यतासी रणे हृष्टौ युधि शस्त्रविशारदौ ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1292,12 +1378,15 @@ swords upraised.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणं मण्डलं चोभौ सुतूर्णं सम्परीयतुः ।  
 अन्योन्यमभिसङ्क्रुद्धौ जये प्रणिहितावुभौ ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1337,12 +1426,15 @@ enraged with each other and performed circumambulations form left to right, very
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु शूरो महावेगो वीर्यश्लाघी महोदरः ।  
 महावर्मणि तं खड्गं पातयामास दुर्मतिः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1382,12 +1474,15 @@ with very high speed, that sword on the heavy shield of Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लग्नमुत्कर्षतः खड्गं खड्गेन कपिकुञ्जरः ।  
 जहार सशिरस्त्राणं कुण्डलोपगतं शिरः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1429,12 +1524,15 @@ helmet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकृत्तशिरसस्तस्य पतितस्य महीतले ।  
 तद् बलं राक्षसेन्द्रस्य दृष्ट्वा तत्र न दृश्यते ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1474,12 +1572,15 @@ on seeing it, could no longer be seen on the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हत्वा तं वानरैः सार्धं ननाद मुदितो हरिः ।  
 चुक्रोध च दशग्रीवो बभौ हृष्टश्च राघवः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1513,12 +1614,15 @@ enraged. Rama looked rejoicing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषण्णवदनाः सर्वे राक्षसा दीनचेतसः ।  
 विद्रवन्ति ततः सर्वे भयवित्रस्तचेतसः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1552,6 +1656,7 @@ stricken with fear, all of them ran away from the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1560,6 +1665,8 @@ stricken with fear, all of them ran away from the battle-field.
 सूर्यात्मजस्तत्र रराज लक्ष्म्या  
 सूर्यः स्वतेजोभिरिवाप्रधृष्यः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1598,6 +1705,7 @@ shines with its rays.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1606,6 +1714,8 @@ shines with its rays.
 अवनितलगतैश्च भूतसङ्घै-  
 र्हरुषसमाकुलितैर्निरीक्ष्यमाणः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1661,5 +1771,6 @@ standing on the earth's surface who were all overwhelmed with joy.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तेळनॆय सर्ग पूर्णवायितु.॥97॥
+</details>
 </details>
 

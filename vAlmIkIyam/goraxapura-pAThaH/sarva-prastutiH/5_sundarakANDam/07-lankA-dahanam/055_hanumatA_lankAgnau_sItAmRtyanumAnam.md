@@ -2,6 +2,8 @@
 title = "०५५ हनुमता लङ्काग्नौ सीतामृत्यनुमानम्"
 title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book V : Sundara Kanda - Book Of Beauty**
@@ -25,12 +27,15 @@ Hanuma makes up his mind to return only after seeing her again.
 
 55. सीताजीके लिये हनुमान् जी की चिन्ता और उसका निवारण
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दीप्यमानां वित्रस्तां त्रस्तरक्षोगणां पुरीम् ।  
 अवेक्ष्य हनुमाल्ँ लङ्कां चिन्तयामास वानरः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ alarmed, Hanuma the monkey became thoughtful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याभूत् सुमहांस्त्रासः कुत्सा चात्मन्यजायत ।  
 लङ्कां प्रदहता कर्म किंस्वित् कृतमिदं मया ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,12 +130,15 @@ said to himself "What an admonitory act has bee done by me in burning Lanka."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्याः खलु महात्मानो ये बुद‍्ध्या कोपमुत्थितम् ।  
 निरुन्धन्ति महात्मानो दीप्तमग्निमिवाम्भसा ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,12 +181,15 @@ men of excellence, who in their wisdom, restrain their elevated fury."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धः पापं न कुर्यात् कः क्रुद्धो हन्याद् गुरूनपि ।  
 क्रुद्धः परुषया वाचा नरः साधूनधिक्षिपेत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +226,15 @@ elders. An enraged person may insult virtuous men with harsh words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच्यावाच्यं प्रकुपितो न विजानाति कर्हिचित् ।  
 नाकार्यमस्ति क्रुद्धस्य नावाच्यं विद्यते क्वचित् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,12 +272,15 @@ to be spoken."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः समुत्पतितं क्रोधं क्षमयैव निरस्यति ।  
 यथोरगस्त्वचं जीर्णां स वै पुरुष उच्यते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ him suddenly by virtue of his endurance, he verily is said to be an excellent ma
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिगस्तु मां सुदुर्बुद्धिं निर्लज्जं पापकृत्तमम् ।  
 अचिन्तयित्वा तां सीतामग्निदं स्वामिघातकम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,12 +368,15 @@ a fire-brand without giving thought to that Seetha and became hurtful to my mast
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि दग्धा त्वियं सर्वा नूनमार्यापि जानकी ।  
 दग्धा तेन मया भर्तुर्हतं कार्यमजानता ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ been burnt. Thus, I have spolt the purpose of my lord inadvertently."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदर्थमयमारम्भस्तत्कार्यमवसादितम् ।  
 मया हि दहता लङ्कां न सीता परिरक्षिता ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,12 +470,15 @@ the city, I have not saved Seetha indeed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईषत्कार्यमिदं कार्यं कृतमासीन्न संशयः ।  
 तस्य क्रोधाभिभूतेन मया मूलक्षयः कृतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,12 +523,15 @@ by me. There is no doubt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टा जानकी व्यक्तं न ह्यदग्धः प्रदृश्यते ।  
 लङ्कायाः कश्चिदुद्देशः सर्वा भस्मीकृता पुरी ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ Seetha also must have been surely lost."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तद्विहतं कार्यं मया प्रज्ञाविपर्ययात् ।  
 इहैव प्राणसन्न्यासो ममापि ह्यद्य रोचते ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,12 +625,15 @@ for me, here and now itself, to give up my life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमग्नौ निपताम्यद्य आहोस्विद् वडवामुखे ।  
 शरीरमिह सत्त्वानां दद्मि सागरवासिनाम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,12 +676,15 @@ my body as a feed to the marine animals?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नु जीवता शक्यो मया द्रष्टुं हरीश्वरः ।  
 तौ वा पुरुषशार्दूलौ कार्यसर्वस्वघातिना ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ the Lord of monkeys or Rama and Lakshmana the best of men?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया खलु तदेवेदं रोषदोषात् प्रदर्शितम् ।  
 प्रथितं त्रिषु लोकेषु कपित्वमनवस्थितम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +777,15 @@ instability in the three worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिगस्तु राजसं भावमनीशमनवस्थितम् ।  
 ईश्वरेणापि यद् रागान्मया सीता न रक्षिता ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,12 +829,15 @@ passion of anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टायां तु सीतायां तावुभौ विनशिष्यतः ।  
 तयोर्विनाशे सुग्रीवः सबन्धुर्विनशिष्यति ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -827,12 +880,15 @@ Sugreeva along with his associates will also die."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदेव वचः श्रुत्वा भरतो भ्रातृवत्सलः ।  
 धर्मात्मा सहशत्रुघ्नः कथं शक्ष्यति जीवितुम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,12 +931,15 @@ survive after hearing this news?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकुवंशे धर्मिष्ठे गते नाशमसंशयम् ।  
 भविष्यन्ति प्रजाः सर्वाः शोकसन्तापपीडिताः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -923,12 +982,15 @@ with anguish and affliction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदहं भाग्यरहितो लुप्तधर्मार्थसङ्ग्रहः ।  
 रोषदोषपरीतात्मा व्यक्तं लोकविनाशनः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1033,15 @@ my mind filled with culpability of anger, clearly became the destroyer of the wo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति चिन्तयतस्तस्य निमित्तान्युपपेदिरे ।  
 पूर्वमप्युपलब्धानि साक्षात् पुनरचिन्तयत् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1019,12 +1084,15 @@ been directly experienced by him and again thought (as follows);
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वा चारुसर्वाङ्गी रक्षिता स्वेन तेजसा ।  
 न नशिष्यति कल्याणी नाग्निरग्नौ प्रवर्तते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1067,12 +1135,15 @@ by her own effulgence, does not get destroyed. Fire does not indeed destroy fire
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि धर्मात्मनस्तस्य भार्याममिततेजसः ।  
 स्वचरित्राभिगुप्तां तां स्प्रष्टुमर्हति पावकः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,12 +1181,15 @@ _________________
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं रामप्रभावेण वैदेह्याः सुकृतेन च ।  
 यन्मां दहनकर्मायं नादहद्धव्यवाहनः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1158,12 +1232,15 @@ of Rama and the benevolence of Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणां भरतादीनां भ्रातॄणां देवता च या ।  
 रामस्य च मनःकान्ता सा कथं विनशिष्यति ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,12 +1283,15 @@ Bharata and who is dear to the heart of Rama perish?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वा दहनकर्मायं सर्वत्र प्रभुरव्ययः ।  
 न मे दहति लाङ्गूलं कथमार्यां प्रधक्ष्यति ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,12 +1334,15 @@ can it burn the venerable Seetha?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनश्चाचिन्तयत् तत्र हनूमान् विस्मितस्तदा ।  
 हिरण्यनाभस्य गिरेर्जलमध्ये प्रदर्शनम् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1296,12 +1379,15 @@ in the midst of sea-water there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपसा सत्यवाक्येन अनन्यत्वाच्च भर्तरि ।  
 असौ विनिर्दहेदग्निं न तामग्निः प्रधक्ष्यति ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1344,12 +1430,15 @@ devotion towards her husband. Fire does not ignite her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथा चिन्तयंस्तत्र देव्या धर्मपरिग्रहम् ।  
 शुश्राव हनुमांस्तत्र चारणानां महात्मनाम् ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1392,12 +1481,15 @@ to hear the words of the high-souled charanas (heavenly bards).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो खलु कृतं कर्म दुर्विगाहं हनूमता ।  
 अग्निं विसृजता तीक्ष्णं भीमं राक्षससद्मनि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1440,6 +1532,7 @@ difficult act."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1448,6 +1541,8 @@ difficult act."
 दग्धेयं नगरी लङ्का साट्टप्राकारतोरणा ।  
 जानकी न च दग्धेति विस्मयोऽद्भुत एव नः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1511,12 +1606,15 @@ thither, as also filled with an uproar of people, appears as if it weeping throu
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति शुश्राव हनुमान् वाचं ताममृतोपमाम् ।  
 बभूव चास्य मनसो हर्षस्तत्कालसम्भवः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1559,12 +1657,15 @@ in them and very high qualities of their origin as also the words of those sages
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निमित्तैश्च दृष्टार्थैः कारणैश्च महागुणैः ।  
 ऋषिवाक्यैश्च हनुमानभवत् प्रीतमानसः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1610,6 +1711,7 @@ remains uninjured, made up his mind to return only after seeing her personally y
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1618,6 +1720,8 @@ remains uninjured, made up his mind to return only after seeing her personally y
 प्रत्यक्षतस्तां पुनरेव दृष्ट्वा  
 प्रतिप्रयाणाय मतिं चकार ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1649,5 +1753,6 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तैदनॆय सर्गवु मुगियितु.
+</details>
 </details>
 

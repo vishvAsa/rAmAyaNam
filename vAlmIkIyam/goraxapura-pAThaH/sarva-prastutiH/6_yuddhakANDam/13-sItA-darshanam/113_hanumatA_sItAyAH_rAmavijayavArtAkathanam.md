@@ -1,6 +1,8 @@
 +++
 title = "११३ हनुमता सीतायाः रामविजयवार्ताकथनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ to Seetha through Hanuma.
 
 113. हनुमान् जी का सीताजीसे बातचीत करके लौटना और उनका संदेश श्रीरामको सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिष्टो हनूमान् मारुतात्मजः ।  
 प्रविवेश पुरीं लङ्कां पूज्यमानो निशाचरैः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,12 +69,15 @@ Lanka, being respectfully received by the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविश्य च पुरीं लङ्कामनुज्ञाप्य विभीषणम् ।  
 ततस्तेनाभ्यनुज्ञातो हनूमान् वृक्षवाटिकाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -86,12 +94,15 @@ Lanka, being respectfully received by the demons.
 
 पुरियल्लि प्रवेश माडि अवनु विभीषणन अप्पणॆ पडॆदु हनुमन्तनु अशोकवनक्कॆ होदनु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रविश्य यथान्यायं सीताया विदितो हरिः ।  
 ददर्श मृजया हीनां सातङ्कां रोहिणीमिव ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,12 +119,15 @@ Lanka, being respectfully received by the demons.
 
 अशोकवनवन्नु प्रवेशिसि न्यायानुसार अवनु सीतॆगॆ तानु बन्द सूचनॆयन्नु कॊट्टनु. बळिक हत्तिर होगि दर्शन माडिदनु. अवळु स्नानादिगळिन्द रहितळाद्दरिन्द स्वल्प मलिनळन्तॆ कण्डुबरुत्तिद्दळु हागू सशङ्कळाद रोहिणियन्तॆ अनिसुत्तित्तु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षमूले निरानन्दां राक्षसीभिः परीवृताम् ।  
 निभृतः प्रणतः प्रह्वः सोऽभिगम्याभिवाद्य च ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +144,15 @@ Lanka, being respectfully received by the demons.
 
 सीतादेवियु राक्षसियरिन्द परिवृतळागि वृक्षद कॆळगॆ आनन्दशून्यळागि कुळित्तिद्दळु. हनुमन्तनु शान्त-विनीत भावदिन्द ऎदुरिगॆ होगि प्रणामगैदु सुम्मने निन्तुकॊण्डनु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा तमागतं देवी हनूमन्तं महाबलम् ।  
 तूष्णीमास्त तदा दृष्ट्वा स्मृत्वा हृष्टाभवत् तदा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,12 +193,15 @@ Then, seeing and recollecting him, she became rejoiced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्यं तस्या मुखं दृष्ट्वा हनूमान् प्लवगोत्तमः ।  
 रामस्य वचनं सर्वमाख्यातुमुपचक्रमे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +238,15 @@ message of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहि कुशली रामः सहसुग्रीवलक्ष्मणः ।  
 कुशलं चाह सिद्धार्थो हतशत्रुरमित्रजित् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +286,15 @@ as his supporter and collectively with the army of monkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणसहायेन रामेण हरिभिः सह ।  
 निहतो रावणो देवि लक्ष्मणेन च वीर्यवान् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,6 +339,7 @@ Lakshmana, with the support of Vibhishana and the monkeys, killed the valiant Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -321,6 +348,8 @@ Lakshmana, with the support of Vibhishana and the monkeys, killed the valiant Ra
 लब्धोऽयं विजयः सीते स्वस्था भव गतज्वरा ।  
 रावणश्च हतः शत्रुर्लङ्का चैव वशीकृता ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,12 +389,15 @@ power. Be free from your grief and be comfortable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया ह्यलब्धनिद्रेण धृतेन तव निर्जये ।  
 प्रतिज्ञैषा विनिस्तीर्णा बद्‍ध्वा सेतुं महोदधौ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,6 +441,7 @@ the great ocean and this vow (of winning you back) has been fulfilled."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +450,8 @@ the great ocean and this vow (of winning you back) has been fulfilled."
 तदाश्वसिहि विस्रब्धं स्वगृहे परिवर्तसे ।  
 अयं चाभ्येति संहृष्टस्त्वद्दर्शनसमुत्सुकः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,12 +505,15 @@ Lanka has now been placed indeed under the dominion ship of Vibhishana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सा देवी सीता शशिनिभानना ।  
 प्रहर्षेणावरुद्धा सा व्याहर्तुं न शशाक ह ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +553,15 @@ could not speak, tongue-tied as she was with a thrill of delight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीद्धरिवरः सीतामप्रतिजल्पतीम् ।  
 किं त्वं चिन्तयसे देवि किं च मां नाभिभाषसे ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,12 +596,15 @@ divine lady! What are you reflecting upon? Why don't you speak to me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता हनुमता सीता धर्मपथे स्थिता ।  
 अब्रवीत् परमप्रीता बाष्पगद‍्गदया गिरा ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -597,12 +641,15 @@ much delighted and spoke (as follows) in a voice choked with tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियमेतदुपश्रुत्य भर्तुर्विजयसंश्रितम् ।  
 प्रहर्षवशमापन्ना निर्वाक्यास्मि क्षणान्तरम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,12 +689,15 @@ for a while, overpowered as I was, by extreme joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि पश्यामि सदृशं चिन्तयन्ती प्लवङ्गम ।  
 आख्यानकस्य भवतो दातुं प्रत्यभिनन्दनम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +742,15 @@ brain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि पश्यामि तत् सौम्य पृथिव्यामपि वानर ।  
 सदृशं यत्प्रियाख्याने तव दत्त्वा भवेत् सुखम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,12 +794,15 @@ this agreeable news to me and on bestowing which on you, happiness may come to m
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यं वा सुवर्णं वा रत्नानि विविधानि च ।  
 राज्यं वा त्रिषु लोकेषु एतन्नार्हति भाषितम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,12 +842,15 @@ can be worthy of this message."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु वैदेह्या प्रत्युवाच प्लवङ्गमः ।  
 प्रगृहीताञ्जलिर्हर्षात् सीतायाः प्रमुखे स्थितः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,12 +894,15 @@ with his hands joined in salutation, joyfully replied as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुः प्रियहिते युक्ते भर्तुर्विजयकाङ्क्षिणि ।  
 स्निग्धमेवंविधं वाक्यं त्वमेवार्हस्यनिन्दिते ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,12 +946,15 @@ wishing for his victory! You alone deserve to speak such words filled with affec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवैतद् वचनं सौम्ये सारवत् स्निग्धमेव च ।  
 रत्नौघाद् विविधाच्चापि देवराज्याद् विशिष्यते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +991,15 @@ better than various kinds of collection of diamonds or the sovereignty over the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थतश्च मया प्राप्ता देवराज्यादयो गुणाः ।  
 हतशत्रुं विजयिनं रामं पश्यामि सुस्थितम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -973,12 +1041,15 @@ other good qualities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा मैथिली जनकात्मजा ।  
 ततः शुभतरं वाक्यमुवाच पवनात्मजम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,12 +1083,15 @@ following auspicious words to Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिलक्षणसम्पन्नं माधुर्यगुणभूषणम् ।  
 बुद्‍ध्या ह्यष्टाङ्गया युक्तं त्वमेवार्हसि भाषितुम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1100,6 +1174,7 @@ offering salutation to her in bending his head, he stood there silently.
 ऊहापोहोऽर्थविज्ञानं तत्त्वज्ञानं च धीगुणाः ॥  
 सुननेकी इच्छा, सुनना, ग्रहण करना, स्मरण रखना, ऊहा (तर्क-वितर्क), अपोह (सिद्धान्तका निश्चय), अर्थका ज्ञान होना तथा तत्त्वको समझना—ये आठ बुद्धिके गुण हैं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1108,6 +1183,8 @@ offering salutation to her in bending his head, he stood there silently.
 तेजः क्षमा धृतिः स्थैर्यं विनीतत्वं न संशयः ।  
 एते चान्ये च बहवो गुणास्त्वय्येव शोभनाः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1157,12 +1234,15 @@ stability and re is no humility. There is no doubt about it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच पुनः सीतामसम्भ्रान्तो विनीतवत् ।  
 प्रगृहीताञ्जलिर्हर्षात् सीतायाः प्रमुखे स्थितः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1203,12 +1283,15 @@ Seetha in humility and free from flurry, Hanuma again spoke to Seetha (as follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमास्तु खलु राक्षस्यो यदि त्वमनुमन्यसे ।  
 हन्तुमिच्छामि ताः सर्वा याभिस्त्वं तर्जिता पुरा ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,6 +1328,7 @@ have been frightened earlier."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1253,6 +1337,8 @@ have been frightened earlier."
 इह श्रुता मया देवि राक्षस्यो विकृताननाः ।  
 असकृत्परुषैर्वाक्यैर्वदन्त्यो रावणाज्ञया ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1294,12 +1380,15 @@ grove, O divine lady!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकृता विकृताकाराः क्रूराः क्रूरकचेक्षणाः ।  
 इच्छामि विविधैर्घातैर्हन्तुमेताः सुदारुणाः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,6 +1408,7 @@ _________________
 
 इवरॆल्लरू विकराळ, विकट आकारद क्रूर हागू अत्यन्त दारुणरागिद्दारॆ. इवर कण्णुगळिन्द, कूदलु गळिन्दलू क्रूरतॆ ऒसरुत्तदॆ. नानु इवरॆल्लरन्नू वधिसलु इच्छिसुत्तेनॆ.॥33॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1330,6 +1420,8 @@ _________________
 एवं प्रहारैर्बहुभिः सम्प्रहार्य यशस्विनि ॥ ३६ ॥  
 घातये तीव्ररूपाभिर्याभिस्त्वं तर्जिता पुरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1379,12 +1471,15 @@ roughly. (Pray) grant this boon to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्ता सा हनुमता कृपणा दीनवत्सला ॥ ३७ ॥  
 हनूमन्तमुवाचेदं चिन्तयित्वा विमृश्य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,6 +1523,7 @@ their bodies, with their burst cheeks, necks, shoulders and ribs."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1437,6 +1533,8 @@ their bodies, with their burst cheeks, necks, shoulders and ribs."
 मयैतत् प्राप्यते सर्वं स्वकृतं ह्युपभुज्यते ।  
 मैवं वद महाबाहो दैवी ह्येषा परा गतिः ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1515,12 +1613,15 @@ the female-demons of terrible form, by whom you have been threatened in the past
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तव्यं तु दशायोगान्मयैतदिति निश्चितम् ।  
 दासीनां रावणस्याहं मर्षयामीह दुर्बला ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1562,12 +1663,15 @@ life)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञप्ता राक्षसेनेह राक्षस्यस्तर्जयन्ति माम् ।  
 हते तस्मिन् न कुर्वन्ति तर्जनं मारुतात्मज ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1613,12 +1717,15 @@ here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं व्याघ्रसमीपे तु पुराणो धर्मसंहितः ।  
 ऋक्षेण गीतः श्लोकोऽस्ति तं निबोध प्लवङ्गम ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1662,12 +1769,15 @@ not do the threatening."
 
 * पहलेकी बात है—एक बाघने किसी व्याधका पीछा किया । व्याध भागकर एक वृक्षपर चढ़ गया । उस वृक्षपर पहलेसे ही कोई रीछ बैठा हुआ था । बाघ वृक्षकी जड़के पास पहुँचकर पेड़पर बैठे हुए रीछसे बोला—‘हम और तुम दोनों ही वनके जीव हैं । यह व्याध हम दोनोंका ही शत्रु है; अतः तुम इसे वृक्षसे नीचे गिरा दो ।’ रीछने उत्तर दिया—‘यह व्याध मेरे निवासस्थानपर आकर एक प्रकारसे मेरी शरण ले चुका है, इसलिये मैं इसे नीचे नहीं गिराऊँगा । यदि गिरा दूँ तो धर्मकी हानि होगी ।’ ऐसा कहकर रीछ सो गया । तब बाघने व्याधसे कहा—‘देखो, इस सोये हुए रीछको नीचे गिरा दो । मैं तुम्हारी रक्षा करूँगा ।’ उसके ऐसा कहनेपर व्याधने उस रीछको धक्का दे दिया; परंतु रीछ अभ्यासवश दूसरी डाल पकड़कर गिरनेसे बच गया । तब बाघने रीछसे कहा—‘यह व्याध तुमको गिराना चाहता था; अतः अपराधी है । इसलिये अब इसको नीचे ढकेल दो ।’ बाघके इस प्रकार बारम्बार उकसानेपर भी रीछने उस व्याधको नहीं गिराया और ‘न परः पापमादत्ते’ इस श्लोकका गान करके उसे मुँहतोड़ उत्तर दे दिया । यह प्राचीन कथा है । (रामायणभूषण-टीकासे)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न परः पापमादत्ते परेषां पापकर्मणाम् ।  
 समयो रक्षितव्यस्तु सन्तश्चारित्रभूषणाः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1707,12 +1817,15 @@ the presence of a tiger. Hear it from me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापानां वा शुभानां वा वधार्हाणामथापि वा ।  
 कार्यं कारुण्यमार्येण न कश्चिन्नापराध्यति ॥ ४५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1763,12 +1876,15 @@ above quoted verse in support of his attitude.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकहिंसाविहाराणां क्रूराणां पापकर्मणाम् ।  
 कुर्वतामपि पापानि नैव कार्यमशोभनम् ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1809,12 +1925,15 @@ person or even to a person who deserves death, for, there is none who never comm
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु हनुमान् सीतया वाक्यकोविदः ।  
 प्रत्युवाच ततः सीतां रामपत्नीमनिन्दिताम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1854,12 +1973,15 @@ pleasure to harm the life of others and continue to perpetrate their sinful acts
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युक्ता रामस्य भवती धर्मपत्नी गुणान्विता ।  
 प्रतिसन्दिश मां देवि गमिष्ये यत्र राघवः ॥ ४८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1899,12 +2021,15 @@ faultless Seetha, Rama's consort (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता हनुमता वैदेही जनकात्मजा ।  
 साब्रवीद् द्रष्टुमिच्छामि भर्तारं भक्तवत्सलम् ॥ ४९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1945,12 +2070,15 @@ return. I will go to the place where Rama is."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा हनूमान् मारुतात्मजः ।  
 हर्षयन् मैथिलीं वाक्यमुवाचेदं महामतिः ॥ ५० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1990,12 +2118,15 @@ foremost of monkeys! I long to see my husband."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णचन्द्रमुखं रामं द्रक्ष्यस्यद्य सलक्ष्मणम् ।  
 स्थितमित्रं हतामित्रं शचीवेन्द्रं सुरेश्वरम् ॥ ५१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2035,12 +2166,15 @@ bringing delight to Seetha, spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामेवमुक्त्वा भ्राजन्तीं सीतां साक्षादिव श्रियम् ।  
 आजगाम महातेजा हनूमान् यत्र राघवः ॥ ५२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2082,6 +2216,7 @@ Shachi (the consort of Indra) would see Indra the lord of gods."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2090,6 +2225,8 @@ Shachi (the consort of Indra) would see Indra the lord of gods."
 कथितमकथयद् यथाक्रमेण  
 त्रिदशवरप्रतिमाय राघवाय ॥ ५३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2137,5 +2274,6 @@ goddess of prosperity, Hanuma of great splendor, came to the place where Rama wa
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रयोदशाधिकशततमः सर्गः ॥ ११३ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ तेरहवाँ सर्ग पूरा हुआ ॥ ११३ ॥
+</details>
 </details>
 

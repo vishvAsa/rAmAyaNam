@@ -2,6 +2,8 @@
 title = "००१ ऋषीणाम् अभयप्रार्थनम्"
 title_english = "001 Entering Dandaka Forest"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya
@@ -85,12 +87,15 @@ Rama does much good in jansthana in wiping out those cultures of greedily dictat
 
 1. श्रीराम, लक्ष्मण और सीताका तापसोंके आश्रममण्डलमें सत्कार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविश्य तु महारण्यं दण्डकारण्यमात्मवान् ।  
 रामो ददर्श दुर्धर्षस्तापसाश्रममण्डलम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,12 +136,15 @@ from the above *aatmavaan* normally means sagacious one.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशचीरपरिक्षिप्तं ब्राह्म्या लक्ष्म्या समावृतम् ।  
 यथा प्रदीप्तं दुर्दर्शं गगने सूर्यमण्डलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +205,15 @@ the above Vedic hymn. God reveals Himself
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरण्यं सर्वभूतानां सुसम्मृष्टाजिरं सदा ।  
 मृगैर्बहुभिराकीर्णं पक्षिसङ्घैः समावृतम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +252,7 @@ they are the recourse for all living beings. [3-1-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,6 +261,8 @@ they are the recourse for all living beings. [3-1-3]
 समिद्भिस्तोयकलशैः फलमूलैश्च शोभितम् ।  
 आरण्यैश्च महावृक्षैः पुण्यैः स्वादुफलैर्वृतम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +326,15 @@ or the end point is intractable.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलिहोमार्चितं पुण्यं ब्रह्मघोषनिनादितम् ।  
 पुष्पैश्चान्यैः परिक्षिप्तं पद्मिन्या च सपद्मया ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,12 +367,15 @@ Vedic sounds, and they are enwrapped with lotus ponds with lotuses, and even wit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फलमूलाशनैर्दान्तैश्चीरकृष्णाजिनाम्बरैः ।  
 सूर्यवैश्वानराभैश्च पुराणैर्मुनिभिर्युतम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,12 +422,15 @@ some parts of India.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्यैश्च नियताहारैः शोभितं परमर्षिभिः ।  
 तद् ब्रह्मभवनप्रख्यं ब्रह्मघोषनिनादितम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -448,6 +471,7 @@ chants alone. [3-1-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -455,6 +479,8 @@ chants alone. [3-1-8]
 तद् दृष्ट्वा राघवः श्रीमांस्तापसाश्रममण्डलम् ॥ ९ ॥  
 अभ्यगच्छन्महातेजा विज्यं कृत्वा महद् धनुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,12 +522,15 @@ the knowers of Brahma, neared it, unstringing the bowstring of his great bow. [3
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यज्ञानोपपन्नास्ते रामं दृष्ट्वा महर्षयः ॥ १० ॥  
 अभिजग्मुस्तदा प्रीता वैदेहीं च यशस्विनीम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +584,7 @@ saints now, unfastened the bowstring in all his humbleness to sages and saints.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -562,6 +592,8 @@ saints now, unfastened the bowstring in all his humbleness to sages and saints.
 लक्ष्मणं चैव दृष्ट्वा तु वैदेहीं च यशस्विनीम् ।  
 मङ्गलानि प्रयुञ्जानाः प्रत्यगृह्णन् दृढव्रताः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +668,15 @@ This context is also explained in the following ways:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपसंहननं लक्ष्मीं सौकुमार्यं सुवेषताम् ।  
 ददृशुर्विस्मिताकारा रामस्य वनवासिनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +721,15 @@ wielding weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहीं लक्ष्मणं रामं नेत्रैरनिमिषैरिव ।  
 आश्चर्यभूतान् ददृशुः सर्वे ते वनवासिनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -741,12 +779,15 @@ wink-less state [3-1-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रैनं हि महाभागाः सर्वभूतहिते रताः ।  
 अतिथिं पर्णशालायां राघवं सन्न्यवेशयन् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -785,12 +826,15 @@ as Rama is their guest a priori. [3-1-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामस्य सत्कृत्य विधिना पावकोपमाः ।  
 आजह्रुस्ते महाभागाः सलिलं धर्मचारिणः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,12 +873,15 @@ water for him. [3-1-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मङ्गलानि प्रयुञ्जाना मुदा परमया युताः ।  
 मूलं पुष्पं फलं सर्वमाश्रमं च महात्मनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -875,6 +922,7 @@ to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -884,6 +932,8 @@ to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
 इन्द्रस्यैव चतुर्भागः प्रजा रक्षति राघव ॥ १९ ॥  
 राजा तस्माद् वरान् भोगान् रम्यान् भुङ्‍क्ते नमस्कृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -963,12 +1013,15 @@ adorable one, and as he wields the sceptre of justice, he is a revered one too..
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वयं भवता रक्ष्या भवद्विषयवासिनः ।  
 नगरस्थो वनस्थो वा त्वं नो राजा जनेश्वरः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,12 +1054,15 @@ are our king... [3-1-20b,c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यस्तदण्डा वयं राजञ्जितक्रोधा जितेन्द्रियाः ।  
 रक्षणीयास्त्वया शश्वद् गर्भभूतास्तपोधनाः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1045,12 +1101,15 @@ is the only wealth of ours, thus oh! King, we are to be protected by you, like t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा फलैर्मूलैः पुष्पैरन्यैश्च राघवम् ।  
 वन्यैश्च विविधाहारैः सलक्ष्मणमपूजयन् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,12 +1148,15 @@ foods. [3-1-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथान्ये तापसाः सिद्धा रामं वैश्वानरोपमाः ।  
 न्यायवृत्ता यथान्यायं तर्पयामासुरीश्वरम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,5 +1202,6 @@ to the wont of custom. [3-1-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मॊदलनॆय सर्ग सम्पूर्णवायितु.॥1॥
+</details>
 </details>
 

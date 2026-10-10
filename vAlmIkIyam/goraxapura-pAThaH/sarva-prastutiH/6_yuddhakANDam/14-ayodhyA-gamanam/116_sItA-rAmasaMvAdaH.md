@@ -1,6 +1,8 @@
 +++
 title = "११६ सीता-रामसंवादः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,6 +23,7 @@ and enters into it, in order toprove her conjugal fidelity.
 
 116. सीताका श्रीरामको उपालम्भपूर्ण उत्तर देकर अपने सतीत्वकी परीक्षा देनेके लिये अग्निमें प्रवेश करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29,6 +32,8 @@ and enters into it, in order toprove her conjugal fidelity.
 राघवेण सरोषेण  
 श्रुत्वा प्रव्यथिताभवत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,12 +74,15 @@ stand on end, Seetha became very much perturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तदाश्रुतपूर्वं हि जने महति मैथिली ।  
 श्रुत्वा भर्तुर्वचो घोरं लज्जयावनताभवत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ before, amidst a large gathering of people, Seetha stood bent low with shame.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविशन्तीव गात्राणि स्वानि सा जनकात्मजा ।  
 वाक्शरैस्तैः सशल्येव भृशमश्रूण्यवर्तयत् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ pointed splinters, Seetha shed profuse tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो बाष्पपरिक्लिन्नं प्रमार्जन्ती स्वमाननम् ।  
 शनैर्गद‍्गदया वाचा भर्तारमिदमब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +225,15 @@ words slowly, in a stammering voice to her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं मामसदृशं वाक्यमीदृशं श्रोत्रदारुणम् ।  
 रूक्षं श्रावयसे वीर प्राकृतः प्राकृतामिव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +273,15 @@ for me, like a common man speaking to a common woman?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तथास्मि महाबाहो यथा मामवगच्छसि ।  
 प्रत्ययं गच्छ मे स्वेन चारित्रेणैव ते शपे ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +324,15 @@ in me. I swear to you by my own character."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथक्स्त्रीणां प्रचारेण जातिं त्वं परिशङ्कसे ।  
 परित्यजैनां शङ्कां तु यदि तेऽहं परीक्षिता ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -347,12 +370,15 @@ doubt, if I have been actually tested (and found trustworthy) by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदहं गात्रसंस्पर्शं गतास्मि विवशा प्रभो ।  
 कामकारो न मे तत्र दैवं तत्रापराध्यति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +419,15 @@ Ravana. I was helpless. My adverse fate was to blame on that score."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मदधीनं तु यत् तन्मे हृदयं त्वयि वर्तते ।  
 पराधीनेषु गात्रेषु किं करिष्याम्यनीश्वरी ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,12 +469,15 @@ helpless as I was, with regard to my limbs which had fallen under the sway of an
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह संवृद्धभावेन संसर्गेण च मानद ।  
 यदि तेऽहं न विज्ञाता हता तेनास्मि शाश्वतम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +519,15 @@ such ignorance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेषितस्ते महावीरो हनुमानवलोककः ।  
 लङ्कास्थाहं त्वया राजन् किं तदा न विसर्जिता ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +568,15 @@ was still in Lanka, was not abandoned then itself?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षं वानरस्यास्य तद्वाक्यसमनन्तरम् ।  
 त्वया सन्त्यक्तया वीर त्यक्तं स्याज्जीवितं मया ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +619,15 @@ hearing the message (conveying your desertion) before the eyes of the monkey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वृथा ते श्रमोऽयं स्यात् संशये न्यस्य जीवितम् ।  
 सुहृज्जनपरिक्लेशो न चायं विफलस्तव ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,12 +669,15 @@ have your friends been put to such fruitless hardship."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया तु नृपशार्दूल रोषमेवानुवर्तता ।  
 लघुनेव मनुष्येण स्त्रीत्वमेव पुरस्कृतम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -673,12 +717,15 @@ conforming yourself to just an emotion of anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपदेशेन जनकान्नोत्पत्तिर्वसुधातलात् ।  
 मम वृत्तं च वृत्तज्ञ बहु ते न पुरस्कृतम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,12 +763,15 @@ actually from the earth. My sacred birth of such a high degree, was not honoured
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न प्रमाणीकृतः पाणिर्बाल्ये मम निपीडितः ।  
 मम भक्तिश्च शीलं च सर्वं ते पृष्ठतः कृतम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,12 +811,15 @@ My devotion, my chastity and all have been ignored by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवन्ती रुदती बाष्पगद‍्गदभाषिणी ।  
 उवाच लक्ष्मणं सीता दीनं ध्यानपरायणम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -803,12 +856,15 @@ sad and engaged in thoughtfulness (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चितां मे कुरु सौमित्रे व्यसनस्यास्य भेषजम् ।  
 मिथ्यापवादोपहता नाहं जीवितुमुत्सहे ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,12 +898,15 @@ no longer wish to survive, smitten as am with false blames."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रीतेन गुणैर्भर्त्रा त्यक्ताया जनसंसदि ।  
 या क्षमा मे गतिर्गन्तुं प्रवेक्ष्ये हव्यवाहनम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -882,12 +941,15 @@ abandoned amidst an assembly of men, by my husband who was not satisfied with my
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु वैदेह्या लक्ष्मणः परवीरहा ।  
 अमर्षवशमापन्नो राघवं समुदैक्षत ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -927,12 +989,15 @@ to wrath, looked towards Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विज्ञाय मनश्छन्दं रामस्याकारसूचितम् ।  
 चितां चकार सौमित्रिर्मते रामस्य वीर्यवान् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,12 +1032,15 @@ face, that valiant Lakshmana prepared a pyre, in deference to the wishes of Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि रामं तदा कश्चित् कालान्तकयमोपमम् ।  
 अनुनेतुमथो वक्तुं द्रष्टुं वाप्यशकत् सुहृत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1008,12 +1076,15 @@ world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधोमुखं स्थितं रामं ततः कृत्वा प्रदक्षिणम् ।  
 उपावर्तत वैदेही दीप्यमानं हुताशनम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1053,12 +1124,15 @@ head bent low, proceeded towards the blazing fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणम्य दैवतेभ्यश्च ब्राह्मणेभ्यश्च मैथिली ।  
 बद्धाञ्जलिपुटा चेदमुवाचाग्निसमीपतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1101,12 +1175,15 @@ the vicinity of the fire, Seetha spoke the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा मे हृदयं नित्यं नापसर्पति राघवात् ।  
 तथा लोकस्य साक्षी मां सर्वतः पातु पावकः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,12 +1217,15 @@ world, protect me from all sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा मां शुद्धचारित्रां दुष्टां जानाति राघवः ।  
 तथा लोकस्य साक्षी मां सर्वतः पातु पावकः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,12 +1265,15 @@ fire-god the witness of the world protect me from all sides."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मणा मनसा वाचा यथा नातिचराम्यहम् ।  
 राघवं सर्वधर्मज्ञं तथा मां पातु पावकः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1225,6 +1308,7 @@ the virtues, so let the fire-god protect me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1232,6 +1316,8 @@ the virtues, so let the fire-god protect me."
 अहश्चापि तथा सन्ध्ये रात्रिश्च पृथिवी तथा ।  
 यथान्येऽपि विजानन्ति तथा चारित्रसंयुताम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1278,12 +1364,15 @@ even others know me to be endowed with good conduct, so let the fire-god protect
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु वैदेही परिक्रम्य हुताशनम् ।  
 विवेश ज्वलनं दीप्तं निःशङ्केनान्तरात्मना ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1323,12 +1412,15 @@ hesitation, entered the blazing fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनश्च सुमहांस्तत्र बालवृद्धसमाकुलः ।  
 ददर्श मैथिलीं दीप्तां प्रविशन्तीं हुताशनम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,12 +1460,15 @@ having entered the fire there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तप्तनवहेमाभा तप्तकाञ्चनभूषणा ।  
 पपात ज्वलनं दीप्तं सर्वलोकस्य सन्निधौ ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1407,12 +1502,15 @@ refined gold, plunged into the blazing fire, in the presence of all people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददृशुस्तां विशालाक्षीं पतन्तीं हव्यवाहनम् ।  
 सीतां सर्वाणि रूपाणि रुक्मवेदिनिभां तदा ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,12 +1544,15 @@ altar, plunging into the fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददृशुस्तां महाभागां प्रविशन्तीं हुताशनम् ।  
 ऋषयो देवगन्धर्वा यज्ञे पूर्णाहुतीमिव ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1492,12 +1593,15 @@ the fire as a sacred oblation of clarified butter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचुक्रुशुः स्त्रियः सर्वास्तां दृष्ट्वा हव्यवाहने ।  
 पतन्तीं संस्कृतां मन्त्रैर्वसोर्धारामिवाध्वरे ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1544,12 +1648,15 @@ hymns.
 
 * घीकी अनवच्छिन्न धारा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददृशुस्तां त्रयो लोका देवगन्धर्वदानवाः ।  
 शप्तां पतन्तीं निरये त्रिदिवाद् देवतामिव ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1590,12 +1697,15 @@ hell.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यामग्निं विशन्त्यां तु हाहेति विपुलः स्वनः ।  
 रक्षसां वानराणां च सम्बभूवाद्भुतोपमः ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1639,5 +1749,6 @@ uttering 'Alas, Alas' rose both from the demons and the monkeys alike.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनारनॆय सर्ग पूर्णवायितु.॥116॥
+</details>
 </details>
 

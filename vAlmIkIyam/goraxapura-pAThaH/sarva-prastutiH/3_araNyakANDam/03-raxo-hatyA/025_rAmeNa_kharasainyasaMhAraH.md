@@ -2,6 +2,8 @@
 title = "०२५ रामेण खरसैन्यसंहारः"
 title_english = "025 Rama s war with Khara s demons"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -30,6 +32,7 @@ missile and many other arrows, which will devastate the entire army of Dushana's
 
 25. राक्षसोंका श्रीरामपर आक्रमण और श्रीरामचन्द्रजीके द्वारा राक्षसोंका संहार
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -38,6 +41,8 @@ missile and many other arrows, which will devastate the entire army of Dushana's
 तं दृष्ट्वा सगुणं चापमुद्यम्य खरनिःस्वनम् ।  
 रामस्याभिमुखं सूतं चोद्यतामित्यचोदयत् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,12 +103,15 @@ Rama holding fast to his bow. [3-25-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स खरस्याज्ञया सूतस्तुरगान् समचोदयत् ।  
 यत्र रामो महाबाहुरेको धुन्वन् धनुः स्थितः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,12 +150,15 @@ single-handedly while swaying his bow. [3-25-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु निष्पतितं दृष्ट्वा सर्वतो रजनीचराः ।  
 मुञ्चमाना महानादं सचिवाः पर्यवारयन् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,12 +201,15 @@ Khara venting out loud battle cries. [3-25-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेषां यातुधानानां मध्ये रथगतः खरः ।  
 बभूव मध्ये ताराणां लोहिताङ्ग इवोदितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +249,15 @@ up-shot in the thick of stars. [3-25-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरसहस्रेण राममप्रतिमौजसम् ।  
 अर्दयित्वा महानादं ननाद समरे खरः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +297,15 @@ blared a roaring battle cry. [3-25-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं भीमधन्वानं क्रुद्धाः सर्वे निशाचराः ।  
 रामं नानाविधैः शस्त्रैरभ्यवर्षन्त दुर्जयम् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +349,15 @@ who is handling a horrific bow. [3-25-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुद‍्गरैरायसैः शूलैः प्रासैः खड्गैः परश्वधैः ।  
 राक्षसाः समरे शूरं निजघ्नू रोषतत्पराः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,6 +396,7 @@ darts and hatchets. [3-25-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -380,6 +404,8 @@ darts and hatchets. [3-25-8]
 अभ्यधावन्त काकुत्स्थं रथैर्वाजिभिरेव च ॥ ९ ॥  
 गजैः पर्वतकूटाभै रामं युद्धे जिघांसवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,12 +450,15 @@ like elephants rushed in on Rama. [3-25-9,10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रामे शरवर्षाणि व्यसृजन् रक्षसां गणाः ॥ १० ॥  
 शैलेन्द्रमिव धाराभिर्वर्षमाणा महाघनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,12 +498,15 @@ torrents on a lofty mountain. [3-25-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वैः परिवृतो रामो राक्षसैः क्रूरदर्शनैः ॥ ११ ॥  
 तिथिष्विव महादेवो वृतः पारिषदां गणैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -518,12 +550,15 @@ cosmic-dance. [3-25-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि मुक्तानि शस्त्राणि यातुधानैः स राघवः ॥ १२ ॥  
 प्रतिजग्राह विशिखैर्नद्योघानिव सागरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +598,15 @@ as an ocean would do with the river's onrush. [3-25-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैः प्रहरणैर्घोरैर्भिन्नगात्रो न विव्यथे ॥ १३ ॥  
 रामः प्रदीप्तैर्बहुभिर्वज्रैरिव महाचलः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,12 +649,15 @@ Mt. Meru that can withstand even if battered by very many highly blazing thunder
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विद्धः क्षतजादिग्धः सर्वगात्रेषु राघवः ॥ १४ ॥  
 बभूव रामः सन्ध्याभ्रैर्दिवाकर इवावृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -662,12 +703,15 @@ sun is stained with blood and fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषेदुर्देवगन्धर्वाः सिद्धाश्च परमर्षयः ॥ १५ ॥  
 एकं सहस्रैर्बहुभिस्तदा दृष्ट्वा समावृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -706,6 +750,7 @@ On seeing lone Rama beset by many demons, then the gods, celestials, saints and 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -713,6 +758,8 @@ On seeing lone Rama beset by many demons, then the gods, celestials, saints and 
 ससर्ज निशितान् बाणान् शतशोऽथ सहस्रशः ।  
 दुरावारान् दुर्विषहान् कालपाशोपमान् रणे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,6 +821,7 @@ up to his ear, and then jetted out trenchant arrows in hundreds. Why hundreds? H
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -781,6 +829,8 @@ up to his ear, and then jetted out trenchant arrows in hundreds. Why hundreds? H
 ते शराः शत्रुसैन्येषु मुक्ता रामेण लीलया ॥ १८ ॥  
 आददू रक्षसां प्राणान् पाशाः कालकृता इव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -818,12 +868,15 @@ the tethers flung by the Time-god. [3-25-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भित्त्वा राक्षसदेहांस्तांस्ते शरा रुधिराप्लुताः ॥ १९ ॥  
 अन्तरिक्षगता रेजुर्दीप्ताग्निसमतेजसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,12 +922,15 @@ at 3-25-14b, 15a above.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असङ्ख्येयास्तु रामस्य सायकाश्चापमण्डलात् ॥ २० ॥  
 विनिष्पेतुरतीवोग्रा रक्षःप्राणापहारिणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -914,6 +970,7 @@ as the filchers of the lives of demons. [3-25-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -921,6 +978,8 @@ as the filchers of the lives of demons. [3-25-20b, 21a]
 बाहून् सहस्ताभरणानूरून् करिकरोपमान् ।  
 चिच्छेद रामः समरे शतशोऽथ सहस्रशः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -965,6 +1024,7 @@ with their ornamented arms and thighs similar to the trunks of elephants. [3-25-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -973,6 +1033,8 @@ with their ornamented arms and thighs similar to the trunks of elephants. [3-25-
 चिच्छिदुर्बिभिदुश्चैव रामबाणा गुणच्युताः ।  
 पदातीन् समरे हत्वा ह्यनयद् यमसादनम् ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,12 +1089,15 @@ cavaliers. And on eliminating infantrymen in that war Rama led them to the abode
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नालीकनाराचैस्तीक्ष्णाग्रैश्च विकर्णिभिः ।  
 भीममार्तस्वरं चक्रुश्छिद्यमाना निशाचराः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,12 +1137,15 @@ arrows those demons have let out disgusting cries of anguish. [3-25-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्सैन्यं विविधैर्बाणैरर्दितं मर्मभेदिभिः ।  
 न रामेण सुखं लेभे शुष्कं वनमिवाग्निना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1185,15 @@ burnt to a cinder by wild-fire. [3-25-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद् भीमबलाः शूराः प्रासान् शूलान् परश्वधान् ।  
 चिक्षिपुः परमक्रुद्धा रामाय रजनीचराः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,12 +1226,15 @@ and hatchets towards Rama. [3-25-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां बाणैर्महाबाहुः शस्त्राण्यावार्य वीर्यवान् ।  
 जहार समरे प्राणांश्चिच्छेद च शिरोधरान् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1200,6 +1274,7 @@ lives by shearing off their necks in that war. [3-25-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1208,6 +1283,8 @@ lives by shearing off their necks in that war. [3-25-28]
 अवशिष्टाश्च ये तत्र विषण्णास्ते निशाचराः ।  
 खरमेवाभ्यधावन्त शरणार्थं शराहताः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1273,12 +1350,15 @@ flight in heavens. [3-25-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् सर्वान् धनुरादाय समाश्वास्य च दूषणः ।  
 अभ्यधावत् सुसङ्क्रुद्धः क्रुद्धं क्रुद्ध इवान्तकः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,12 +1412,15 @@ than that of Gorakhpur version.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तास्तु पुनः सर्वे दूषणाश्रयनिर्भयाः ।  
 राममेवाभ्यधावन्त सालतालशिलायुधाः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1380,12 +1463,15 @@ again rushed towards Rama with saala trees, palm trees and boulders as their wea
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूलमुद‍्गरहस्ताश्च पाशहस्ता महाबलाः ।  
 सृजन्तः शरवर्षाणि शस्त्रवर्षाणि संयुगे ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1428,6 +1514,7 @@ trees and boulders, and inundated Rama in that war. [3-25-33, 34a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1435,6 +1522,8 @@ trees and boulders, and inundated Rama in that war. [3-25-33, 34a]
 तद् बभूवाद्भुतं युद्धं तुमुलं रोमहर्षणम् ॥ ३४ ॥  
 रामस्यास्य महाघोरं पुनस्तेषां च रक्षसाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1479,6 +1568,7 @@ and a hair-raising. [3-25-34b, 35a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1488,6 +1578,8 @@ and a hair-raising. [3-25-34b, 35a]
 स कृत्वा भैरवं नादमस्त्रं परमभास्वरम् ।  
 समयोजयद् गान्धर्वं राक्षसेषु महाबलः ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1541,12 +1633,15 @@ an extremely blazing missile among the gather of demons, called gandharva missil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरसहस्राणि निर्ययुश्चापमण्डलात् ।  
 सर्वा दश दिशो बाणैरापूर्यन्त समागतैः ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,12 +1680,15 @@ the ten sides are cramped up. [3-25-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाददानं शरान् घोरान् विमुञ्चन्तं शरोत्तमान् ।  
 विकर्षमाणं पश्यन्ति राक्षसास्ते शरार्दिताः ॥ ३९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1632,12 +1730,15 @@ them, or unloosing them from the bow is unperceived by those demons that are har
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरान्धकारमाकाशमावृणोत् सदिवाकरम् ।  
 बभूवावस्थितो रामः प्रक्षिपन्निव तान् शरान् ॥ ४० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1681,12 +1782,15 @@ Dark grew the air with arrowy hail / Which hid the sun as with a veil. - Griffit
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युगपत्पतमानैश्च युगपच्च हतैर्भृशम् ।  
 युगपत्पतितैश्चैव विकीर्णा वसुधाभवत् ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1729,12 +1833,15 @@ Fiends wounded, falling, fallen, slain, / All in a moment, spread the plain, - G
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहताः पतिताः क्षीणाश्छिन्ना भिन्ना विदारिताः ।  
 तत्र तत्र स्म दृश्यन्ते राक्षसास्ते सहस्रशः ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1778,6 +1885,7 @@ And thousands scarce alive were left / Mangled, and gashed, and torn, and cleft.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1790,6 +1898,8 @@ And thousands scarce alive were left / Mangled, and gashed, and torn, and cleft.
 चूर्णिताभिः शिलाभिश्च शरैश्चित्रैरनेकशः ।  
 विच्छिन्नैः समरे भूमिर्विस्तीर्णाभूद् भयङ्करा ॥ ४६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1871,12 +1981,15 @@ in many ways. Spread with such wreckage the earth has become horrifying for a gl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् दृष्ट्वा निहतान् सर्वे राक्षसाः परमातुराः ।  
 न तत्र चलितुं शक्ता रामं परपुरञ्जयम् ॥ ४७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1926,5 +2039,6 @@ to make a move towards Rama, the conqueror of enemy's capitals. [3-25-47]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तैदनॆय सर्ग सम्पूर्णवायितु.॥25॥
+</details>
 </details>
 

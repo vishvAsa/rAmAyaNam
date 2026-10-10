@@ -2,6 +2,8 @@
 title = "०२३ खरेणोत्पातदर्शनम्"
 title_english = "023 Khara s army face bad omens"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda -The Forest Trek**
@@ -22,12 +24,15 @@ is nothing before him.
 
 23. भयंकर उत्पातोंको देखकर भी खरका उनकी परवा नहीं करना तथा राक्षस-सेनाका श्रीरामके आश्रमके समीप पहुँचना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्प्रयातं बलं घोरमशिवं शोणितोदकम् ।  
 अभ्यवर्षन्महाघोरस्तुमुलो गर्दभारुणः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,12 +75,15 @@ advancing. [3-23-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपेतुस्तुरगास्तस्य रथयुक्ता महाजवाः ।  
 समे पुष्पचिते देशे राजमार्गे यदृच्छया ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +123,15 @@ on the highway is with even surface and spread with flowers. [3-23-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यामं रुधिरपर्यन्तं बभूव परिवेषणम् ।  
 अलातचक्रप्रतिमं प्रतिगृह्य दिवाकरम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +171,15 @@ and it is performed before marriage processions or such other events as a daring
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो ध्वजमुपागम्य हेमदण्डं समुच्छ्रितम् ।  
 समाक्रम्य महाकायस्तस्थौ गृध्रः सुदारुणः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,6 +219,7 @@ with massive body occupied and perched atop of that golden shaft. [3-23-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,6 +228,8 @@ with massive body occupied and perched atop of that golden shaft. [3-23-4]
 व्याजह्रुरभिदीप्तायां दिशि वै भैरवस्वनम् ।  
 अशिवं यातुधानानां शिवा घोरा महास्वनाः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -273,12 +290,15 @@ made raucous sounds of many kinds. [3-23-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभिन्नगजसङ्काशास्तोयशोणितधारिणः ।  
 आकाशं तदनाकाशं चक्रुर्भीमाम्बुवाहकाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,12 +340,15 @@ less of leeway. [3-23-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव तिमिरं घोरमुद्धतं रोमहर्षणम् ।  
 दिशो वा प्रदिशो वापि सुव्यक्तं न चकाशिरे ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -364,12 +387,15 @@ are not very clearly brightened. [3-23-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षतजार्द्रसवर्णाभा सन्ध्या कालं विना बभौ ।  
 खरं चाभिमुखं नेदुस्तदा घोरा मृगाः खगाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,6 +443,7 @@ screamed portending danger. [3-23-9, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -424,6 +451,8 @@ screamed portending danger. [3-23-9, 10a]
 नित्याशिवकरा युद्धे शिवा घोरनिदर्शनाः ॥ १० ॥  
 नेदुर्बलस्याभिमुखं ज्वालोद‍्गारिभिराननैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,6 +495,7 @@ army with their snouts spewing blazes. [3-23-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,6 +503,8 @@ army with their snouts spewing blazes. [3-23-10]
 जग्राह सूर्यं स्वर्भानुरपर्वणि महाग्रहः ।  
 प्रवाति मारुतः शीघ्रं निष्प्रभोऽभूद् दिवाकरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -516,12 +548,15 @@ whirled frantically. [3-23-11b, 12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पेतुश्च विना रात्रिं ताराः खद्योतसप्रभाः ।  
 संलीनमीनविहगा नलिन्यः शुष्कपङ्कजाः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -565,12 +600,15 @@ though it is night. [3-23-13, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् क्षणे बभूवुश्च विना पुष्पफलैर्द्रुमाः ।  
 उद‍्धूतश्च विना वातं रेणुर्जलधरारुणः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +653,15 @@ The expression *cii cii kuu cii* is an onomatopoetic expression for the twitteri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चीचीकूचीति वाश्यन्त्यो बभूवुस्तत्र सारिकाः ।  
 उल्काश्चापि सनिर्घोषा निपेतुर्घोरदर्शनाः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -663,6 +704,7 @@ woods and forests quaked shakily. [3-23-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -671,6 +713,8 @@ woods and forests quaked shakily. [3-23-15b, 16a]
 प्राकम्पत भुजः सव्यः स्वरश्चास्यावसज्जत ।  
 सास्रा सम्पद्यते दृष्टिः पश्यमानस्य सर्वतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,6 +776,7 @@ and his voice too quavered. [3-23-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -739,6 +784,8 @@ and his voice too quavered. [3-23-16b, 17a]
 तान् समीक्ष्य महोत्पातानुत्थितान् रोमहर्षणान् ॥ १८ ॥  
 अब्रवीद् राक्षसान् सर्वान् प्रहसन् स खरस्तदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,6 +827,7 @@ them off and said this to all of the demons. [3-23-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -787,6 +835,8 @@ them off and said this to all of the demons. [3-23-18b, 19a]
 न चिन्तयाम्यहं वीर्याद् बलवान् दुर्बलानिव ।  
 तारा अपि शरैस्तीक्ष्णैः पातयेयं नभस्तलात् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -853,6 +903,7 @@ about all of them as with a mighty one unworried of the mightless. [3-23-19b, 20
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -860,6 +911,8 @@ about all of them as with a mighty one unworried of the mightless. [3-23-19b, 20
 राघवं तं बलोत्सिक्तं भ्रातरं चापि लक्ष्मणम् ॥ २१ ॥  
 अहत्वा सायकैस्तीक्ष्णैर्नोपावर्तितुमुत्सहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,12 +954,15 @@ Lakshmana, with my incisive arrows. [3-23-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्निमित्तं तु रामस्य लक्ष्मणस्य विपर्ययः ॥ २२ ॥  
 सकामा भगिनीमेऽस्तु पीत्वा तु रुधिरं तयोः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1003,15 @@ drinking the blood of those two. [3-23-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न क्वचित् प्राप्तपूर्वो मे संयुगेषु पराजयः ॥ २३ ॥  
 युष्माकमेतत् प्रत्यक्षं नानृतं कथयाम्यहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -995,12 +1054,15 @@ no untruth. [3-23-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवराजमपि क्रुद्धो मत्तैरावतगामिनम् ॥ २४ ॥  
 वज्रहस्तं रणे हन्यां किं पुनस्तौ च मानवौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1042,12 +1104,15 @@ his troops. [3-23-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तस्य गर्जितं श्रुत्वा राक्षसानां महाचमूः ॥ २५ ॥  
 प्रहर्षमतुलं लेभे मृत्युपाशावपाशिता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,6 +1153,7 @@ of death obtained an incomparable rejoice. [3-23-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1095,6 +1161,8 @@ of death obtained an incomparable rejoice. [3-23-25b, 26a]
 ऋषयो देवगन्धर्वाः सिद्धाश्च सह चारणैः ।  
 समेत्य चोचुः सहितास्तेऽन्योन्यं पुण्यकर्मणः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,6 +1222,7 @@ carana-s and siddha-s have come together in firmament. [3-23-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1161,6 +1230,8 @@ carana-s and siddha-s have come together in firmament. [3-23-26b, 27a]
 जयतां राघवो युद्धे पौलस्त्यान् रजनीचरान् ॥ २८ ॥  
 चक्रहस्तो यथा विष्णुः सर्वानसुरसत्तमान् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,6 +1277,7 @@ once conquered all the mighty demons in war." So said celestials to one another.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1213,6 +1285,8 @@ once conquered all the mighty demons in war." So said celestials to one another.
 जातकौतूहलास्तत्र विमानस्थाश्च देवताः ।  
 ददृशुर्वाहिनीं तेषां राक्षसानां गतायुषाम् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1257,6 +1331,7 @@ aircrafts have inquisitively seen the flow of army of demons, whose longevity is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1266,6 +1341,8 @@ aircrafts have inquisitively seen the flow of army of demons, whose longevity is
 हेममाली महामाली सर्पास्यो रुधिराशनः ॥ ३२ ॥  
 द्वादशैते महावीर्याः प्रतस्थुरभितः खरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1324,12 +1401,15 @@ Rudhiraaksha. These twelve highly valorous demons cruised in a semicircle around
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाकपालः स्थूलाक्षः प्रमाथस्त्रिशिरास्तथा ।  
 चत्वार एते सेनाग्रे दूषणं पृष्ठतोऽन्वयुः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1371,6 +1451,7 @@ they followed Duushana marching at his behind. [3-23-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1379,6 +1460,8 @@ they followed Duushana marching at his behind. [3-23-33]
 तौ राजपुत्रौ सहसाभ्युपेता  
 माला ग्रहाणामिव चन्द्रसूर्यौ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1435,5 +1518,6 @@ would rush towards the Moon and Sun so as to put them to rout. [3-23-34]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥23॥
+</details>
 </details>
 

@@ -1,6 +1,8 @@
 +++
 title = "११० रावणसम्बधिभिः शोकः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -20,12 +22,15 @@ been restored by Ravana to Rama, this major disaster would not have befallen the
 
 110. रावणकी स्त्रियोंका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं निहतं श्रुत्वा राघवेण महात्मना ।  
 अन्तःपुराद् विनिष्पेतू राक्षस्यः शोककर्शिताः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ grief and rushed out from their gynaecium.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वार्यमाणाः सुबहुशो वेष्टन्त्यः क्षितिपांसुषु ।  
 विमुक्तकेश्यः शोकार्ता गावो वत्सहता इव ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +107,15 @@ _________________
 
 सेवकियरु पदे पदे तडॆयुत्तिद्दरू आ स्त्रीयरु धूळिनल्लि हॊरळाडतॊडगिदरु. तलॆकॆदरिकॊण्डु अवरॆल्लरू करुवन्नु कळकॊण्ड गोवुगळन्तॆ शोकपीडितरागिद्दरु.॥2॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरेण विनिष्क्रम्य द्वारेण सह राक्षसैः ।  
 प्रविश्यायोधनं घोरं विचिन्वन्त्यो हतं पतिम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,12 +132,15 @@ _________________
 
 राक्षसरॊन्दिगॆ लङ्कॆय उत्तरद्वारदिन्द हॊरबन्दु भयङ्कर युद्धभूमियन्नु प्रवेशिसि मडिद तम्म पतियन्नु हुडुक तॊडगिदरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्यपुत्रेति वादिन्यो हा नाथेति च सर्वशः ।  
 परिपेतुः कबन्धाङ्कां महीं शोणितकर्दमाम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,12 +179,15 @@ rendered muddy with blood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता बाष्पपरिपूर्णाक्ष्यो भर्तृशोकपराजिताः ।  
 करिण्य इव नर्दन्त्यः करेण्वो हतयूथपाः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +231,15 @@ their herd.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददृशुस्ता महाकायं महावीर्यं महाद्युतिम् ।  
 रावणं निहतं भूमौ नीलाञ्जनचयोपमम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +283,15 @@ invested with a great splendour, lying killed on the ground, like a heap of blac
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः पतिं सहसा दृष्ट्वा शयानं रणपांसुषु ।  
 निपेतुस्तस्य गात्रेषु च्छिन्ना वनलता इव ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,12 +331,15 @@ down on his limbs, like uprooted wild creepers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहुमानात् परिष्वज्य काचिदेनं रुरोद ह ।  
 चरणौ काचिदालम्ब्य काचित् कण्ठेऽवलम्ब्य च ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,12 +379,15 @@ and another, catching hold of his neck.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्क्षिप्य च भुजौ काचिद् भूमौ सुपरिवर्तते ।  
 हतस्य वदनं दृष्ट्वा काचिन्मोहमुपागमत् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,12 +424,15 @@ deceased husband, another woman fell into a swoon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काचिदङ्के शिरः कृत्वा रुरोद मुखमीक्षती ।  
 स्नापयन्ती मुखं बाष्पैस्तुषारैरिव पङ्कजम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +470,15 @@ face with her tears, as dew drops moisten a lotus-flower.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमार्ताः पतिं दृष्ट्वा रावणं निहतं भुवि ।  
 चुक्रुशुर्बहुधा शोकाद् भूयस्ताः पर्यदेवयन् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,6 +495,7 @@ face with her tears, as dew drops moisten a lotus-flower.
 
 हीगॆ तम्म पति रावणनु नॆलदल्लि सत्तु बिद्दिरुवुदन्नु नोडि ऎल्लरू आर्तरागि अवनन्नु करॆयतॊडगिदरु हागू शोकदिन्दागि नाना प्रकारदिन्द विलापिस तॊडगिदरु.॥11॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -468,6 +504,8 @@ face with her tears, as dew drops moisten a lotus-flower.
 गन्धर्वाणामृषीणां च सुराणां च महात्मनाम् ।  
 भयं येन रणे दत्तं सोऽयं शेते रणे हतः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -509,12 +547,15 @@ killed in the battle-field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असुरेभ्यः सुरेभ्यो वा पन्नगेभ्योऽपि वा तथा ।  
 भयं यो न विजानाति तस्येदं मानुषाद् भयम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +592,15 @@ demons or the gods or even the serpents for that matter!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवध्यो देवतानां यस्तथा दानवरक्षसाम् ।  
 हतः सोऽयं रणे शेते मानुषेण पदातिना ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,12 +635,15 @@ who was incapable of being killed by gods and even so by devils and demons too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो न शक्यः सुरैर्हन्तुं न यक्षैर्नासुरैस्तथा ।  
 सोऽयं कश्चिदिवासत्त्वो मृत्युं मर्त्येन लम्भितः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,12 +683,15 @@ mortal like one devoid of strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वदन्त्यो रुरुदुस्तस्य ता दुःखिताः स्त्रियः ।  
 भूय एव च दुःखार्ता विलेपुश्च पुनः पुनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,6 +732,7 @@ once more and repeatedly lamented, stricken, as they were, with grief (as follow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -689,6 +740,8 @@ once more and repeatedly lamented, stricken, as they were, with grief (as follow
 मरणायाहृता सीता राक्षसाश्च निपातिताः ।  
 एताः सममिदानीं ते वयमात्मा च पातितः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -730,12 +783,15 @@ we (your consorts) as well as your own self, struck down now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवाणोऽपि हितं वाक्यमिष्टो भ्राता विभीषणः ।  
 दृष्टं परुषितो मोहात् त्वयाऽऽत्मवधकाङ्क्षिणा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -779,12 +835,15 @@ harshly scolded through ignorance by you, who sought your own destruction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि निर्यातिता ते स्यात् सीता रामाय मैथिली ।  
 न नः स्याद् व्यसनं घोरमिदं मूलहरं महत् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,12 +883,15 @@ disaster, which has robbed us of every root, would not have befallen us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृत्तकामो भवेद् भ्राता रामो मित्रकुलं भवेत् ।  
 वयं चाविधवाः सर्वाः सकामा न च शत्रवः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -866,12 +928,15 @@ spared the curse of widowhood and our enemies would not have realized their ambi
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया पुनर्नृशंसेन सीतां संरुन्धता बलात् ।  
 राक्षसा वयमात्मा च त्रयं तुल्यं निपातितम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,12 +971,15 @@ consorts) and your own self all the three have been destroyed all at once."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कामकारः कामं वा तव राक्षसपुङ्गव ।  
 दैवं चेष्टयते सर्वं हतं दैवेन हन्यते ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,12 +1015,15 @@ the divine power."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराणां विनाशोऽयं राक्षसानां च ते रणे ।  
 तव चैव महाबाहो दैवयोगादुपागतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,12 +1064,15 @@ happened at the juncture of the Providence (alone), O the great armed!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवार्थेन च कामेन विक्रमेण न चाज्ञया ।  
 शक्या दैवगतिर्लोके निवर्तयितुमुद्यता ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1038,12 +1112,15 @@ money, or by wish, or by valour or even by command in this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलेपुरेवं दीनास्ता राक्षसाधिपयोषितः ।  
 कुरर्य इव दुःखार्ता बाष्पपर्याकुलेक्षणाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,5 +1186,6 @@ had lost their calf.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहत्तनॆय सर्ग पूर्णवायितु.॥110॥
+</details>
 </details>
 

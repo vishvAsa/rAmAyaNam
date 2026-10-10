@@ -2,6 +2,8 @@
 title = "००७ राम-सुतीक्ष्णसंवादः"
 title_english = "007 Hermitage of Sage Suteekshna"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -25,12 +27,15 @@ there.
 
 7. सीता और भ्रातासहित श्रीरामका सुतीक्ष्णके आश्रमपर जाकर उनसे बातचीत करना तथा उनसे सत्कृत हो रातमें वहीं ठहरना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्तु सहितो भ्रात्रा सीतया च परन्तपः ।  
 सुतीक्ष्णस्याश्रमपदं जगाम सह तैर्द्विजैः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ the way. [4-7-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा दूरमध्वानं नदीस्तीर्त्वा बहूदकाः ।  
 ददर्श विमलं शैलं महामेरुमिवोन्नतम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ tranquil mountain towering like great Mt. Meru. [3-7-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तदिक्ष्वाकुवरौ सततं विविधैर्द्रुमैः ।  
 काननं तौ विविशतुः सीतया सह राघवौ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ entered the forest which will always be full with diverse trees. [3-7-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टस्तु वनं घोरं बहुपुष्पफलद्रुमम् ।  
 ददर्शाश्रममेकान्ते चीरमालापरिष्कृतम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -209,12 +223,15 @@ seen the hermitage in a reclusive place adorned with rows of jute cloths as thou
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र तापसमासीनं मलपङ्कजधारिणम् ।  
 रामः सुतीक्ष्णं विधिवत् तपोधनमभाषत ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,12 +283,15 @@ inner space.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽहमस्मि भगवन् भवन्तं द्रष्टुमागतः ।  
 तन्माभिवद धर्मज्ञ महर्षे सत्यविक्रम ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,12 +332,15 @@ sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निरीक्ष्य ततो धीरो रामं धर्मभृतां वरम् ।  
 समाश्लिष्य च बाहुभ्यामिदं वचनमब्रवीत् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,12 +381,15 @@ with both of his hands, and spoke this sentence. [3-7-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं ते रघुश्रेष्ठ राम सत्यभृतां वर ।  
 आश्रमोऽयं त्वयाऽऽक्रान्तः सनाथ इव साम्प्रतम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,12 +430,15 @@ presently caught this hermitage unprepared this has become a well-lorded one... 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतीक्षमाणस्त्वामेव नारोहेऽहं महायशः ।  
 देवलोकमितो वीर देहं त्यक्त्वा महीतले ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +492,15 @@ Absolute, in you... so I did not cast off this body...' Thus said the sage to Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रकूटमुपादाय राज्यभ्रष्टोऽसि मे श्रुतः ।  
 इहोपयातः काकुत्स्थ देवराजः शतक्रतुः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -485,12 +517,15 @@ Absolute, in you... so I did not cast off this body...' Thus said the sage to Ra
 
 नीनु राज्यदिन्द भ्रष्टनागि चित्रकूटपर्वतक्कॆ बन्दु इरुवुदन्नु नानु केळिद्दॆ. काकुत्स्थने! इल्लिगॆ शतक्रतु देवेन्द्रनु बन्दिद्दनु.॥10॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपागम्य च मे देवो महादेवः सुरेश्वरः ।  
 सर्वाल्ँ लोकाञ्जितानाह मम पुण्येन कर्मणा ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ that great deity said me that I have conquered all the worlds by my meritorious 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु देवर्षिजुष्टेषु जितेषु तपसा मया ।  
 मत्प्रसादात् सभार्यस्त्वं विहरस्व सलक्ष्मणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +619,15 @@ worship it is dedicated in the Supreme...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुग्रतपसं दीप्तं महर्षिं सत्यवादिनम् ।  
 प्रत्युवाचात्मवान् रामो ब्रह्माणमिव वासवः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,12 +668,15 @@ and an advocate of truth by himself, as Indra would reply to Brahma. [3-7-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेवाहरिष्यामि स्वयं लोकान् महामुने ।  
 आवासं त्वहमिच्छामि प्रदिष्टमिह कानने ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -678,12 +722,15 @@ This is an allusive saying by Rama. cf. 3-5-33.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् सर्वत्र कुशलः सर्वभूतहिते रतः ।  
 आख्यातं शरभङ्गेन गौतमेन महात्मना ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,12 +770,15 @@ so said the great souled Sage Sharabhanga of Sage Gautama's dynasty..." [So said
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण महर्षिर्लोकविश्रुतः ।  
 अब्रवीन्मधुरं वाक्यं हर्षेण महता युतः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -768,12 +818,15 @@ with great pleasure. [3-7-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमेवाश्रमो राम गुणवान् रम्यतामिति ।  
 ऋषिसङ्घानुचरितः सदा मूलफलैर्युतः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -817,12 +870,15 @@ always be moving here, and this always contains tubers and fruits..." Thus said 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इममाश्रममागम्य मृगसङ्घा महीयसः ।  
 अहत्वा प्रतिगच्छन्ति लोभयित्वाकुतोभयाः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -877,6 +933,7 @@ deer', say Golden Deer, but not at ordinary deer. Thus this usage of 'deer and l
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -884,6 +941,8 @@ deer', say Golden Deer, but not at ordinary deer. Thus this usage of 'deer and l
 तच्छ्रुत्वा वचनं तस्य महर्षेर्लक्ष्मणाग्रजः ॥ १९ ॥  
 उवाच वचनं धीरो विगृह्य सशरं धनुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,6 +987,7 @@ this sentence. [3-7-19, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -935,6 +995,8 @@ this sentence. [3-7-19, 20a]
 हन्यां निशितधारेण शरेणानतपर्वणा ।  
 भवांस्तत्राभिषज्येत किं स्यात् कृच्छ्रतरं ततः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -996,12 +1058,15 @@ in herds with sharp edged, curve-end arrows... [3-7-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नाश्रमे वासं चिरं तु न समर्थये ।  
 तमेवमुक्त्वोपरमं रामः सन्ध्यामुपागमत् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,12 +1083,15 @@ in herds with sharp edged, curve-end arrows... [3-7-20b, 21a]
 
 आद्दरिन्द नानु ई आश्रमदल्लि हॆच्चु समय इरलु बयसुवुदिल्ल. मुनिय बळि हीगॆ हेळि मौननाद श्रीरामनु सन्ध्योपासनॆगागि हॊरटुहोदनु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वास्य पश्चिमां सन्ध्यां तत्र वासमकल्पयत् ।  
 सुतीक्ष्णस्याश्रमे रम्ये सीतया लक्ष्मणेन च ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1059,6 +1127,7 @@ in that delightful hermitage of Sage Suteekshna. [3-7-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1067,6 +1136,8 @@ in that delightful hermitage of Sage Suteekshna. [3-7-22b, 23]
 ताभ्यां सुसत्कृत्य ददौ महात्मा  
 सन्ध्यानिवृत्तौ रजनीं समीक्ष्य ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1130,5 +1201,6 @@ their meal, [for a long time...of course, with their unending chit-chatting...]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि एळनॆय सर्ग सम्पूर्णवायितु.॥7॥
+</details>
 </details>
 

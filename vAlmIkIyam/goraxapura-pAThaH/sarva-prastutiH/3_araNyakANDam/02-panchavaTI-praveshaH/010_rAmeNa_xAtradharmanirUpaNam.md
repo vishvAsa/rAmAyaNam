@@ -2,6 +2,8 @@
 title = "०१० रामेण क्षात्रधर्मनिरूपणम्"
 title_english = "010 Sri Rama s reply to Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book III : Aranya Kanda - The Forest Trek**
@@ -21,12 +23,15 @@ Rama replies Seetha's enquiry as to why he should wage war to eliminate the demo
 
 10. श्रीरामका ऋषियोंकी रक्षाके लिये राक्षसोंके वधके निमित्त की हुई प्रतिज्ञाके पालनपर दृढ़ रहनेका विचार प्रकट करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्यमेतत् तु वैदेह्या व्याहृतं भर्तृभक्तया ।  
 श्रुत्वा धर्मे स्थितो रामः प्रत्युवाचाथ जानकीम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ that Rama replied Janaki. [4-10-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हितमुक्तं त्वया देवि स्निग्धया सदृशं वचः ।  
 कुलं व्यपदिशन्त्या च धर्मज्ञे जनकात्मजे ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ are apt to speak of your familial brought up, for you are the daughter of virtue
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु वक्ष्याम्यहं देवि त्वयैवोक्तमिदं वचः ।  
 क्षत्रियैर्धार्यते चापो नार्तशब्दो भवेदिति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ cease to flow...' and this saying is iterated even by you... [4-10-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते चार्ता दण्डकारण्ये मुनयः संशितव्रताः ।  
 मां सीते स्वयमागम्य शरण्यं शरणं गताः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +217,7 @@ thus they came into my refuge... [4-10-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,6 +225,8 @@ thus they came into my refuge... [4-10-4]
 न लभन्ते सुखं भीरु राक्षसैः क्रूरकर्मभिः ॥ ५ ॥  
 भक्ष्यन्ते राक्षसैर्भीमैर्नरमांसोपजीविभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,12 +270,15 @@ as they are scared by the demons with invidious deeds... [4-10-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते भक्ष्यमाणा मुनयो दण्डकारण्यवासिनः ॥ ६ ॥  
 अस्मानभ्यवपद्येति मामूचुर्द्विजसत्तमाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ as they are scared by the demons with invidious deeds... [4-10-5]
 
 आ राक्षसरिगॆ तुत्तागिरुव ई दण्डकारण्यवासी द्विज श्रेष्ठ मुनिगळु नम्म बळिगॆ बन्दु ‘प्रभो! नम्म मेलॆ अनुग्रहमाडु’ ऎन्दु हेळिदरु.॥6½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया तु वचनं श्रुत्वा तेषामेवं मुखाच्च्युतम् ॥ ७ ॥  
 कृत्वा वचनशुश्रूषां वाक्यमेतदुदाहृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -319,6 +342,7 @@ our rescue..." [4-10-6,7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -326,6 +350,8 @@ our rescue..." [4-10-6,7a]
 यदीदृशैरहं विप्रैरुपस्थेयैरुपस्थितः ।  
 किं करोमीति च मया व्याहृतं द्विजसन्निधौ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,6 +411,7 @@ Brahmans, whom I should have actually addressed my self, this indeed is a dishon
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,6 +419,8 @@ Brahmans, whom I should have actually addressed my self, this indeed is a dishon
 राक्षसैर्दण्डकारण्ये बहुभिः कामरूपिभिः ॥ १० ॥  
 अर्दिताः स्म भृशं राम भवान् नस्तत्र रक्षतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -431,12 +460,15 @@ you shall protect us... [4-10-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 होमकाले तु सम्प्राप्ते पर्वकालेषु चानघ ॥ ११ ॥  
 धर्षयन्ति सुदुर्धर्षा राक्षसाः पिशिताशनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +508,15 @@ or on propitious times like full or new moons to persecute us... [4-10-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसैर्धर्षितानां च तापसानां तपस्विनाम् ॥ १२ ॥  
 गतिं मृगयमाणानां भवान् नः परमा गतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,6 +556,7 @@ as our ultimate course... [4-10-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -528,6 +564,8 @@ as our ultimate course... [4-10-12b, 13a]
 चिरार्जितं न चेच्छामस्तपः खण्डयितुं वयम् ।  
 बहुविघ्नं तपो नित्यं दुश्चरं चैव राघव ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +627,7 @@ to shorten the effect of our long earned merit of ascesis... [4-10-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -596,6 +635,8 @@ to shorten the effect of our long earned merit of ascesis... [4-10-13b, 14a]
 तदर्द्यमानान् रक्षोभिर्दण्डकारण्यवासिभिः ॥ १५ ॥  
 रक्ष नस्त्वं सह भ्रात्रा त्वन्नाथा हि वयं वने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -638,12 +679,15 @@ Dandaka forest as you alone are the protector of ours in these forests...'so sai
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया चैतद्वचः श्रुत्वा कात्स्‍न्‍‍र्येन परिपालनम् ॥ १६ ॥  
 ऋषीणां दण्डकारण्ये संश्रुतं जनकात्मजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,12 +730,15 @@ to sages; *kaartsnyena paripaalanam samshrutam* = complete, protection, promised
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संश्रुत्य च न शक्ष्यामि जीवमानः प्रतिश्रवम् ॥ १७ ॥  
 मुनीनामन्यथा कर्तुं सत्यमिष्टं हि मे सदा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,12 +779,15 @@ is dearer to me, isn't it... [4-10-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्यहं जीवितं जह्यां त्वां वा सीते सलक्ष्मणाम् ॥ १८ ॥  
 न तु प्रतिज्ञा संश्रुत्य ब्राह्मणेभ्यो विशेषतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -778,12 +828,15 @@ made to Brahmans, and having promised I can never go back... [4-10-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदवश्यं मया कार्यमृषीणां परिपालनम् ॥ १९ ॥  
 अनुक्तेनापि वैदेहि प्रतिज्ञाय कथं पुनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -823,12 +876,15 @@ how then it is undone when given a promise... [4-10-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम स्नेहाच्च सौहार्दादिदमुक्तं त्वया वचः ॥ २० ॥  
 परितुष्टोऽस्म्यहं सीते न ह्यनिष्टोऽनुशास्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +924,15 @@ ones do not forewarn, indeed... [4-10-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशं चानुरूपं च कुलस्य तव शोभने ।  
 सधर्मचारिणी मे त्वं प्राणेभ्योऽपि गरीयसी ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,6 +975,7 @@ co-pursuer in dharma with me, hence you are loftier to me than my own lives..." 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -924,6 +984,8 @@ co-pursuer in dharma with me, hence you are loftier to me than my own lives..." 
 रामो धनुष्मान् सह लक्ष्मणेन  
 जगाम रम्याणि तपोवनानि ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -977,5 +1039,6 @@ his bow proceeded further with Lakshmana to the picturesque woodlands of hermits
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हत्तनॆय सर्ग सम्पूर्णवायितु.॥10॥
+</details>
 </details>
 

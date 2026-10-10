@@ -2,6 +2,8 @@
 title = "०६७ शिवधनुर्भङ्गः"
 title_english = "067 rAma breaks shiva s bow"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book I : Bala Kanda - Book Of Youthful Majesties**
@@ -22,12 +24,15 @@ Rama breaks Shiva's bow when he wanted to examine the tautness of its
 
 67. श्रीरामके द्वारा धनुर्भंग तथा राजा जनकका विश्वामित्रकी आज्ञासे राजा दशरथको बुलानेके लिये मन्त्रियोंको भेजना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकस्य वचः श्रुत्वा विश्वामित्रो महामुनिः ।  
 धनुर्दर्शय रामाय इति होवाच पार्थिवम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +68,15 @@ On listening to the words of Janaka, the eminent-saint Vishvamitra indeed said t
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स राजा जनकः सचिवान् व्यादिदेश ह ।  
 धनुरानीयतां दिव्यं गन्धमाल्यानुलेपितम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,12 +112,15 @@ Then king Janaka indeed ordered his ministers, "bring the divine bow which is
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकेन समादिष्टाः सचिवाः प्राविशन् पुरम् ।  
 तद्धनुः पुरतः कृत्वा निर्जग्मुरमितौजसः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -129,12 +140,15 @@ _________________
 
 राजा जनकन आज्ञॆ पडॆदु आ अमित तेजस्वी मन्त्रिगळु नगरक्कॆ होगि, आ धनुस्सन्नु मुन्दॆ माडि पुरियिन्द हॊरगॆ हॊरटरु.॥3॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृणां शतानि पञ्चाशद् व्यायतानां महात्मनाम् ।  
 मञ्जूषामष्टचक्रां तां समूहुस्ते कथञ्चन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +192,15 @@ Thus clearly instructed by Janaka those high souled ministers have gone out from
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामादाय सुमञ्जूषामायसीं यत्र तद्धनुः ।  
 सुरोपमं ते जनकमूचुर्नृपतिमन्त्रिणः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,12 +244,15 @@ On fetching that iron coffer wherein that bow is there, those ministers of the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं धनुर्वरं राजन् पूजितं सर्वराजभिः ।  
 मिथिलाधिप राजेन्द्र दर्शनीयं यदीच्छसि ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,12 +298,15 @@ Oh king and sovereign of Mithila, here is the select bow that is reverenced by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां नृपो वचः श्रुत्वा कृताञ्जलिरभाषत ।  
 विश्वामित्रं महात्मानं तावुभौ रामलक्ष्मणौ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,12 +344,15 @@ On listening the announcement of his ministers the king spoke to the noble soule
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं धनुर्वरं ब्रह्मञ्जनकैरभिपूजितम् ।  
 राजभिश्च महावीर्यैरशक्तैः पूरितं तदा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,12 +395,15 @@ Here is that exquisite bow, oh, Brahman, which is held as a time-honoured bow by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतत् सुरगणाः सर्वे सासुरा न च राक्षसाः ।  
 गन्धर्वयक्षप्रवराः सकिन्नरमहोरगाः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +420,15 @@ Here is that exquisite bow, oh, Brahman, which is held as a time-honoured bow by
 
 इदन्नु समस्त देवतॆगळु, असुररु, राक्षसरु, गन्धर्वरु, दॊड्ड-दॊड्ड यक्षरु, किन्नररु, महा नागगळू कूड इदन्नु ऎत्तलु साध्यवागलिल्ल.॥9॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व गतिर्मानुषाणां च धनुषोऽस्य प्रपूरणे ।  
 आरोपणे समायोगे वेपने तोलने तथा ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -444,12 +476,15 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेतद् धनुषां श्रेष्ठमानीतं मुनिपुङ्गव ।  
 दर्शयैतन्महाभाग अनयो राजपुत्रयोः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -487,12 +522,15 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रः सरामस्तु श्रुत्वा जनकभाषितम् ।  
 वत्स राम धनुः पश्य इति राघवमब्रवीत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -530,12 +568,15 @@ Vishvamitra on listening the sentence of Janaka along with Rama, on his part sai
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महर्षेर्वचनाद् रामो यत्र तिष्ठति तद्धनुः ।  
 मञ्जूषां तामपावृत्य दृष्ट्वा धनुरथाब्रवीत् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,12 +617,15 @@ Upon the word of the great sage Vishvamitra, Rama on unclosing the lid of that
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं धनुर्वरं दिव्यं संस्पृशामीह पाणिना ।  
 यत्नवांश्च भविष्यामि तोलने पूरणेऽपि वा ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -629,6 +673,7 @@ Now I wish to get the feel of this supreme bow, oh, Brahman, and I shall try to
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -637,6 +682,8 @@ Now I wish to get the feel of this supreme bow, oh, Brahman, and I shall try to
 पश्यतां नृसहस्राणां बहूनां रघुनन्दनः ।  
 आरोपयत् स धर्मात्मा सलीलमिव तद्धनुः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -722,12 +769,15 @@ A bow has a definite height and it is a measure of length, from the ages even
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोपयित्वा मौर्वीं च पूरयामास तद्धनुः ।  
 तद् बभञ्ज धनुर्मध्ये नरश्रेष्ठो महायशाः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,12 +831,15 @@ The bow is not broken by itself because of its oldness or dryness, but let us
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य शब्दो महानासीन्निर्घातसमनिःस्वनः ।  
 भूमिकम्पश्च सुमहान् पर्वतस्येव दीर्यतः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -868,12 +921,15 @@ And the pacemaker Rama is marrying the world with peace, by stringing the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपेतुश्च नराः सर्वे तेन शब्देन मोहिताः ।  
 वर्जयित्वा मुनिवरं राजानं तौ च राघवौ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -916,12 +972,15 @@ Bewildered by that raucous caused by the breakage of bow, all the people swooned
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याश्वस्ते जने तस्मिन् राजा विगतसाध्वसः ।  
 उवाच प्राञ्जलिर्वाक्यं वाक्यज्ञो मुनिपुङ्गवम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -970,12 +1029,15 @@ While the people are being reaccustomed after their undergoing the shock, at tha
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् दृष्टवीर्यो मे रामो दशरथात्मजः ।  
 अत्यद्भुतमचिन्त्यं च अतर्कितमिदं मया ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,12 +1084,15 @@ Oh, godly sage, the gallantry of Dasharatha's Rama is evidently seen... and the
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकानां कुले कीर्तिमाहरिष्यति मे सुता ।  
 सीता भर्तारमासाद्य रामं दशरथात्मजम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,12 +1152,15 @@ This verse explains the advantageous status of Seetha than Rama in her birth
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम सत्या प्रतिज्ञा सा वीर्यशुल्केति कौशिक ।  
 सीता प्राणैर्बहुमता देया रामाय मे सुता ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,6 +1199,7 @@ Oh, Kaushika, my commitment that she is the bounty of bravery has also come
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1139,6 +1208,8 @@ Oh, Kaushika, my commitment that she is the bounty of bravery has also come
 राजानं प्रश्रितैर्वाक्यैरानयन्तु पुरं मम ।  
 प्रदानं वीर्यशुल्कायाः कथयन्तु च सर्वशः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1208,12 +1279,15 @@ Annex: 'This boy appears to be straight from the shoulder type, and he may now
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनिगुप्तौ च काकुत्स्थौ कथयन्तु नृपाय वै ।  
 प्रीतियुक्तं तु राजानमानयन्तु सुशीघ्रगाः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1255,6 +1329,7 @@ Annex: 'This boy appears to be straight from the shoulder type, and he may now
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1262,6 +1337,8 @@ Annex: 'This boy appears to be straight from the shoulder type, and he may now
 अयोध्यां प्रेषयामास धर्मात्मा कृतशासनान् ।  
 यथावृत्तं समाख्यातुमानेतुं च नृपं तथा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1319,5 +1396,6 @@ Vishvamitra said, "so be it," and then that right-minded king Janaka on consulti
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तेळनॆय सर्ग पूर्णवायितु.॥67॥
+</details>
 </details>
 

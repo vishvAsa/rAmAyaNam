@@ -1,6 +1,8 @@
 +++
 title = "११८ अग्निदेवेन लङ्कागमनम्"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -19,6 +21,7 @@ and restores her to Rama, testifying to her purity. Rama later joyfully accepts 
 
 118. मूर्तिमान् अग्निदेवका सीताको लेकर चितासे प्रकट होना और श्रीरामको समर्पित करके उनकी पवित्रताको प्रमाणित करना तथा श्रीरामका सीताको सहर्ष स्वीकार करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27,6 +30,8 @@ and restores her to Rama, testifying to her purity. Rama later joyfully accepts 
 अङ्केनादाय वैदेहीम्  
 उत्पपात विभावसुः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ up, taking Seetha in his arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधूयाथ चितां तां तु वैदेहीं हव्यवाहनः ।  
 उत्तस्थौ मूर्तिमानाशु गृहीत्वा जनकात्मजाम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,6 +114,7 @@ arms, the fire-god forthwith sprang up at once in a personified form.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -114,6 +123,8 @@ arms, the fire-god forthwith sprang up at once in a personified form.
 अक्लिष्टमाल्याभरणां तथारूपामनिन्दिताम् ।  
 ददौ रामाय वैदेहीमङ्के कृत्वा विभावसुः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ same (as she did while entering the flames), the fire-god restored her to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीत् तु तदा रामं साक्षी लोकस्य पावकः ।  
 एषा ते राम वैदेही पापमस्यां न विद्यते ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,12 +211,15 @@ is your Seetha. No sin exists in her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव वाचा न मनसा नैव बुद्ध्या न चक्षुषा ।  
 सुवृत्ता वृत्तशौटीर्यं न त्वामत्यचरच्छुभा ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +264,15 @@ her glances."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेनापनीतैषा वीर्योत्सिक्तेन रक्षसा ।  
 त्वया विरहिता दीना विवशा निर्जने सती ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +312,15 @@ demon, who was arrogant of his valour, from a lonely hermitage."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्धा चान्तःपुरे गुप्ता त्वच्चित्ता त्वत्परायणा ।  
 रक्षिता राक्षसीभिश्च घोराभिर्घोरबुद्धिभिः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ female-demons with horrible intellect."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रलोभ्यमाना विविधं तर्ज्यमाना च मैथिली ।  
 नाचिन्तयत तद्रक्षस्त्वद‍्गतेनान्तरात्मना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,12 +407,15 @@ and frightened through various means."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशुद्धभावां निष्पापां प्रतिगृह्णीष्व मैथिलीम् ।  
 न किञ्चिदभिधातव्या अहमाज्ञापयामि ते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,6 +455,7 @@ anything harsh. I hereby command you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -434,6 +464,8 @@ anything harsh. I hereby command you."
 **दध्यौ** मुहूर्तं धर्मात्मा  
 हर्षव्याकुललोचनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -478,6 +510,7 @@ tears of joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -486,6 +519,8 @@ tears of joy.
 **उवाच** त्रिदशश्रेष्ठं  
 रामो धर्मभृतां वरः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,6 +563,7 @@ upholding the virtue, replied to the fire-god, the best of gods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -536,6 +572,8 @@ upholding the virtue, replied to the fire-god, the best of gods.
 दीर्घकालोषिता हीयं  
 रावणान्तःपुरे शुभा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,6 +608,7 @@ much as this blessed woman had resided for a long time indeed in the gynaecium o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -578,6 +617,8 @@ much as this blessed woman had resided for a long time indeed in the gynaecium o
 इति **वक्ष्यति** मां लोको  
 जानकीम् **अविशोध्य** हि +++(यद्य् अगृहीष्यम्)+++ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -622,6 +663,7 @@ with regard to her chastity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -630,6 +672,8 @@ with regard to her chastity."
 अहम् अप्य् **अवगच्छामि**  
 मैथिलीं जनकात्मजाम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -669,6 +713,7 @@ undivided in her affection to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -677,6 +722,8 @@ undivided in her affection to me."
 रावणो **नातिवर्तेत**  
 वेलाम् इव महोदधिः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,6 +763,7 @@ splendour, any more than an ocean would transgress its bounds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -724,6 +772,8 @@ splendour, any more than an ocean would transgress its bounds."
 **उपेक्षे** चापि वैदेहीं  
 **प्रविशन्तीं** हुताशनम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,6 +807,7 @@ while she was entering the fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,6 +816,8 @@ while she was entering the fire."
 प्रधर्षयितुम् अप्राप्यां  
 दीप्ताम् अग्निशिखाम् इव ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,6 +857,7 @@ the unobtainable Seetha, who was blazing like a flaming tongue of fire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -812,6 +866,8 @@ the unobtainable Seetha, who was blazing like a flaming tongue of fire."
 अनन्या हि मया सीता  
 भास्करस्य प्रभा यथा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -853,6 +909,7 @@ different from the sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -861,6 +918,8 @@ different from the sun."
 **न विहातुं** मया **शक्या**  
 कीर्तिर् आत्मवता यथा ॥ २० ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -899,6 +958,7 @@ man."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -907,6 +967,8 @@ man."
 स्निग्धानां लोकनाथानाम्  
 एवं च वदतां हितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -941,6 +1003,7 @@ saying what is conducive to our good, must be certainly carried out by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -949,6 +1012,8 @@ saying what is conducive to our good, must be certainly carried out by me."
 समेत्य रामः प्रियया महायशाः  
 **सुखं** सुखार्हो **ऽनुबभूव** राघवः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,5 +1072,6 @@ happiness and was being glorified by his exploits, performed by his own self, ex
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनॆण्टनॆय सर्ग पूर्णवायितु.॥118॥
+</details>
 </details>
 

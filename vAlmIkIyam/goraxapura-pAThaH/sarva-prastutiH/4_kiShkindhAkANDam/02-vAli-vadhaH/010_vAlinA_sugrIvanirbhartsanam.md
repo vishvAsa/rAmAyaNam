@@ -2,6 +2,8 @@
 title = "०१० वालिना सुग्रीवनिर्भर्त्सनम्"
 title_english = "010 Banishment of Sugreeva by Vali"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -22,12 +24,15 @@ same thinking.
 
 10. भाईके साथ वैरका कारण बतानेके प्रसङ्गमें सुग्रीवका वालीको मनाने और वालीद्वारा अपने निष्कासित होनेका वृत्तान्त सुनाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधसमाविष्टं संरब्धं तमुपागतम् ।  
 अहं प्रसादयाञ्चक्रे भ्रातरं हितकाम्यया ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ in anger and behaving capriciously. [4-10-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्यासि कुशली प्राप्तो निहतश्च त्वया रिपुः ।  
 अनाथस्य हि मे नाथस्त्वमेकोऽनाथनन्दन ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ the enemy and returned safely, and to an orphaned one like me you alone are the 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं बहुशलाकं ते पूर्णचन्द्रमिवोदितम् ।  
 छत्रं सवालव्यजनं प्रतीच्छस्व मया धृतम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +169,7 @@ with accompanying fur-fans may please be accepted while I hold it for you. [4-10
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,6 +177,8 @@ with accompanying fur-fans may please be accepted while I hold it for you. [4-10
 दृष्ट्वा च शोणितं द्वारि बिलाच्चापि समुत्थितम् ॥ ४ ॥  
 शोकसंविग्नहृदयो भृशं व्याकुलितेन्द्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +196,15 @@ with accompanying fur-fans may please be accepted while I hold it for you. [4-10
 
 वानरराजने! नानु बहळ दुःखितनागि ऒन्दु वर्षदवरॆगॆ आ बिलद बागिलल्लि निन्तिद्दॆ. बळिक बिलदॊळगिनिन्द रक्तद धारॆयु हरिदुबन्तु. द्वारदल्लि आ रक्तधारॆयन्नु नोडि नन्न मनस्सु शोकदिन्द उद्विग्नवायितु, नन्न इन्द्रियगळॆल्ल व्याकुलवादवु.॥4॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपिधाय बिलद्वारं शैलशृङ्गेण तत् तदा ॥ ५ ॥  
 तस्माद् देशादपाक्रम्य किष्किन्धां प्राविशं पुनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -230,12 +247,15 @@ hilltop, and departing from that country, I re-entered Kishkindha. [4-10-4, 5, 6
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषादात्त्विह मां दृष्ट्वा पौरैर्मन्त्रिभिरेव च ॥ ६ ॥  
 अभिषिक्तो न कामेन तन्मे क्षन्तुं त्वमर्हसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,12 +295,15 @@ that is not at my desire, therefore it is apt of you pardon me. [4-10-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमेव राजा मानार्हः सदा चाहं यथा पुरा ॥ ७ ॥  
 राजभावे नियोगोऽयं मम त्वद्विरहात् कृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,12 +323,15 @@ _________________
 
 नीने इल्लिय सन्मान्य राजनागिरुवॆ, नानु सदा हिन्दिनन्तॆ निन्न सेवकनागिद्देनॆ. निन्न वियोगदिन्दले राजनागि नन्न नियुक्ति आयितु.॥7½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामात्यपौरनगरं स्थितं निहतकण्टकम् ॥ ८ ॥  
 न्यासभूतमिदं राज्यं तव निर्यातयाम्यहम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,12 +372,15 @@ ministers is kept up without thorniness. [4-10-7b, 8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा च रोषं कृथाः सौम्य मम शत्रुनिषूदन ॥ ९ ॥  
 याचे त्वां शिरसा राजन् मया बद्धोऽयमञ्जलिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -393,12 +422,15 @@ eliminator, you need not be hostile towards me. [4-10-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलादस्मिन् समागम्य मन्त्रिभिः पुरवासिभिः ॥ १० ॥  
 राजभावे नियुक्तोऽहं शून्यदेशजिगीषया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +474,15 @@ kingless kingdom under control. [4-10-10, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्निग्धमेवं ब्रुवाणं मां स विनिर्भर्त्स्य वानरः ॥ ११ ॥  
 धिक्त्वामिति च मामुक्त्वा बहु तत्तदुवाच ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -488,12 +523,15 @@ starting from 'fie, fie, upon you.' and the like. [4-10-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृतीश्च समानीय मन्त्रिणश्चैव सम्मतान् ॥ १२ ॥  
 मामाह सुहृदां मध्ये वाक्यं परमगर्हितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,12 +571,15 @@ among friends. [4-10-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदितं वो मया रात्रौ मायावी स महासुरः ॥ १३ ॥  
 मां समाह्वयत क्रुद्धो युद्धाकाङ्क्षी तदा पुरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,12 +622,15 @@ desiring a duel in that night. [4-10-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् भाषितं श्रुत्वा निःसृतोऽहं नृपालयात् ॥ १४ ॥  
 अनुयातश्च मां तूर्णमयं भ्राता सुदारुणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,6 +671,7 @@ hazardous brother of mine quickly followed me. [4-10-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -634,6 +679,8 @@ hazardous brother of mine quickly followed me. [4-10-14b, 15a]
 प्राद्रवद् भयसन्त्रस्तो वीक्ष्यावां समुपागतौ ।  
 अभिद्रुतस्तु वेगेन विवेश स महाबिलम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,12 +729,15 @@ nearly reaching him. [4-10-15b, 16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रविष्टं विदित्वा तु सुघोरं सुमहद‍‍्बिलम् ।  
 अयमुक्तोऽथ मे भ्राता मया तु क्रूरदर्शनः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -727,12 +777,15 @@ this cruel looking brother of mine. [4-10-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहत्वा नास्ति मे शक्तिः प्रतिगन्तुमितः पुरीम् ।  
 बिलद्वारि प्रतीक्ष त्वं यावदेनं निहन्म्यहम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -774,12 +827,15 @@ demon, hence you wait at this cavity's entrance, till I kill that demon and come
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थितोऽयमिति मत्वाहं प्रविष्टस्तु दुरासदम् ।  
 तं मे मार्गयतस्तत्र गतः संवत्सरस्तदा ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -820,12 +876,15 @@ cavity, and then in searching for that demon there one year elapsed. [4-10-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु दृष्टो मया शत्रुरनिर्वेदाद् भयावहः ।  
 निहतश्च मया सद्यः स सर्वैः सह बन्धुभिः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -865,12 +924,15 @@ along with all of his relatives. [4-10-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्यात्तु प्रवृत्तेन रुधिरौघेण तद‍‍्बिलम् ।  
 पूर्णमासीद् दुराक्रामं स्तनतस्तस्य भूतले ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -910,12 +972,15 @@ blood emanating from the mouth of that demon who fell yelling onto ground. [4-10
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूदयित्वा तु तं शत्रुं विक्रान्तं तमहं सुखम् ।  
 निष्क्रामं नैव पश्यामि बिलस्य पिहितं मुखम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -955,12 +1020,15 @@ as its mouth was closed. [4-10-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रोशमानस्य तु मे सुग्रीवेति पुनः पुनः ।  
 यतः प्रतिवचो नास्ति ततोऽहं भृशदुःखितः ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,12 +1071,15 @@ Sugreeva.' thereby I was very saddened. [4-10-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादप्रहारैस्तु मया बहुभिः परिपातितम् ।  
 ततोऽहं तेन निष्क्रम्य पथा पुरमुपागतः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1048,12 +1119,15 @@ that way and arrived here. [4-10-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रानेनास्मि संरुद्धो राज्यं मृगयताऽऽत्मनः ।  
 सुग्रीवेण नृशंसेन विस्मृत्य भ्रातृसौहृदम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1097,12 +1171,15 @@ clannishness." So said Vali to all the courtiers. [4-10-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु मां तत्र वस्त्रेणैकेन वानरः ।  
 तदा निर्वासयामास वाली विगतसाध्वसः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,6 +1219,7 @@ itself, who am with a single clothing on my body. [4-10-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1150,6 +1228,8 @@ itself, who am with a single clothing on my body. [4-10-26]
 ऋष्यमूकं गिरिवरं भार्याहरणदुःखितः ।  
 प्रविष्टोऽस्मि दुराधर्षं वालिनः कारणान्तरे ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1215,12 +1295,15 @@ I roamed all over the earth with its forests and oceans. [4-10-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत्ते सर्वमाख्यातं वैरानुकथनं महत् ।  
 अनागसा मया प्राप्तं व्यसनं पश्य राघव ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1260,12 +1343,15 @@ examine the dire straits befallen on me at no fault of mine. [4-10-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालिनश्च भयात् तस्य सर्वलोकभयापह ।  
 कर्तुमर्हसि मे वीर प्रसादं तस्य निग्रहात् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1306,12 +1392,15 @@ requested Rama thus. [4-10-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स तेजस्वी धर्मज्ञो धर्मसंहितम् ।  
 वचनं वक्तुमारेभे सुग्रीवं प्रहसन्निव ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1353,12 +1442,15 @@ tell Sugreeva, the words that abide by virtue, as though trivializing the task o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमोघाः सूर्यसङ्काशा निशिता मे शरा इमे ।  
 तस्मिन् वालिनि दुर्वृत्ते पतिष्यन्ति रुषान्विताः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1401,12 +1493,15 @@ my wrath, and they are bound fall on that evil minded Vali. [4-10-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् तं नहि पश्येयं तव भार्यापहारिणम् ।  
 तावत् स जीवेत् पापात्मा वाली चारित्रदूषकः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,12 +1541,15 @@ descry. [4-10-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मानुमानात् पश्यामि मग्नस्त्वं शोकसागरे ।  
 त्वामहं तारयिष्यामि बाढं प्राप्स्यसि पुष्कलम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1492,12 +1590,15 @@ Sugreeva thus. [4-10-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा हर्षपौरुषवर्धनम् ।  
 सुग्रीवः परमप्रीतः सुमहद्वाक्यमब्रवीत् ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1547,5 +1648,6 @@ Sugreeva is very gladdened and further said this great sentence. [4-10-35]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हत्तनॆय सर्ग सम्पूर्णवायितु.॥10॥
+</details>
 </details>
 

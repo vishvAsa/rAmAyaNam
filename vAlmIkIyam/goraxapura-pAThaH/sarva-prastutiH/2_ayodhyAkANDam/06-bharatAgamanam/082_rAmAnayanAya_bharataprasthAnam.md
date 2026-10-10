@@ -2,6 +2,8 @@
 title = "०८२ रामानयनाय भरतप्रस्थानम्"
 title_english = "082 Bharata refuses to rob the throne from Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -23,12 +25,15 @@ ready for the journey to the forest along with Bharata.
 
 82. वसिष्ठजीका भरतको राज्यपर अभिषिक्त होनेके लिये आदेश देना तथा भरतका उसे अनुचित बताकर अस्वीकार करना और श्रीरामको लौटा लानेके लिये वनमें चलनेकी तैयारीके निमित्त सबको आदेश देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामार्यगणसम्पूर्णां भरतः प्रग्रहां सभाम् ।  
 ददर्श बुद्धिसम्पन्नः पूर्णचन्द्रां निशामिव ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,12 +77,15 @@ of respectable men, looking like a night in full moon duly enriched with well-kn
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसनानि यथान्यायमार्याणां विशतां तदा ।  
 वस्त्राङ्गरागप्रभया द्योतिता सा सभोत्तमा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,12 +126,15 @@ cosmetics of its respected members occupying their appropriate seats.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विद्वज्जनसम्पूर्णा सभा सुरुचिरा तथा ।  
 अदृश्यत घनापाये पूर्णचन्द्रेव शर्वरी ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,12 +174,15 @@ moon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञस्तु प्रकृतीः सर्वाः स सम्प्रेक्ष्य च धर्मवित् ।  
 इदं पुरोहितो वाक्यं भरतं मृदु चाब्रवीत् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,12 +226,15 @@ righteousness uttered to Bharata the following soft-spoken words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तात राजा दशरथः स्वर्गतो धर्ममाचरन् ।  
 धनधान्यवतीं स्फीतां प्रदाय पृथिवीं तव ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,12 +275,15 @@ this wide earth endowed with grains and riches and went to heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्तथा सत्यवृत्तिः सतां धर्ममनुस्मरन् ।  
 नाजहात् पितुरादेशं शशी ज्योत्स्नामिवोदितः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,6 +325,7 @@ moon-light."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,6 +334,8 @@ moon-light."
 उदीच्याश्च प्रतीच्याश्च दाक्षिणात्याश्च केवलाः ।  
 कोट्यापरान्ताः सामुद्रा रत्नान्युपहरन्तु ते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,12 +400,15 @@ brother. Enjoy it, with its delightful ministers. Get anointed for the kingdom j
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भरतो वाक्यं शोकेनाभिपरिप्लुतः ।  
 जगाम मनसा रामं धर्मज्ञो धर्मकाङ्क्षया ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,12 +448,15 @@ justice got his mind fixed on Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सबाष्पकलया वाचा कलहंसस्वरो युवा ।  
 विललाप सभामध्ये जगर्हे च पुरोहितम् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +496,15 @@ lamented in a tearful and appealing speech. He even reproached his royal priest 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरितब्रह्मचर्यस्य विद्यास्नातस्य धीमतः ।  
 धर्मे प्रयतमानस्य को राज्यं मद्विधो हरेत् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -508,12 +540,15 @@ devoted to duty?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं दशरथाज्जातो भवेद् राज्यापहारकः ।  
 राज्यं चाहं च रामस्य धर्मं वक्तुमिहार्हसि ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +589,15 @@ and I myself belong to Rama. You ought to tell the law and justice in this matte
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठः श्रेष्ठश्च धर्मात्मा दिलीपनहुषोपमः ।  
 लब्धुमर्हति काकुत्स्थो राज्यं दशरथो यथा ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,12 +646,15 @@ solar and lunar dynasty respectively.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनार्यजुष्टमस्वर्ग्यं कुर्यां पापमहं यदि ।  
 इक्ष्वाकूणामहं लोके भवेयं कुलपांसनः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +694,15 @@ sinful act, practiced by disgraceful men, which does not lead to heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्धि मात्रा कृतं पापं नाहं तदपि रोचये ।  
 इहस्थो वनदुर्गस्थं नमस्यामि कृताञ्जलिः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,12 +743,15 @@ offer my salutation with my joined palms to Rama who is residing in an impassabl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राममेवानुगच्छामि स राजा द्विपदां वरः ।  
 त्रयाणामपि लोकानां राघवो राज्यमर्हति ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +791,15 @@ eligible even for the kingdom of the three worlds."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वाक्यं धर्मसंयुक्तं श्रुत्वा सर्वे सभासदः ।  
 हर्षान्मुमुचुरश्रूणि रामे निहितचेतसः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +840,15 @@ of joy, having their minds obsessed of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि त्वार्यं न शक्ष्यामि विनिवर्तयितुं वनात् ।  
 वने तत्रैव वत्स्यामि यथार्यो लक्ष्मणस्तथा ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,12 +892,15 @@ that forest itself, as how the venerable Lakshmana is staying now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वोपायं तु वर्तिष्ये विनिवर्तयितुं बलात् ।  
 समक्षमार्यमिश्राणां साधूनां गुणवर्तिनाम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +943,15 @@ practicing virtues, the honourable and the distinguished men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्टिकर्मान्तिकाः सर्वे मार्गशोधकदक्षकाः ।  
 प्रस्थापिता मया पूर्वं यात्रा च मम रोचते ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -935,12 +994,15 @@ sent by me in advance and the journey so planned, pleases me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु धर्मात्मा भरतो भ्रातृवत्सलः ।  
 समीपस्थमुवाचेदं सुमन्त्रं मन्त्रकोविदम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1043,15 @@ nearby.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूर्णमुत्थाय गच्छ त्वं सुमन्त्र मम शासनात् ।  
 यात्रामाज्ञापय क्षिप्रं बलं चैव समानय ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,12 +1092,15 @@ immediately. Bring the army also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः सुमन्त्रस्तु भरतेन महात्मना ।  
 प्रहृष्टः सोऽदिशत् सर्वं यथासन्दिष्टमिष्टवत् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,12 +1140,15 @@ accord with Bharata's orders and wishes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः प्रहृष्टाः प्रकृतयो बलाध्यक्षा बलस्य च ।  
 श्रुत्वा यात्रां समाज्ञप्तां राघवस्य निवर्तने ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1117,12 +1188,15 @@ ministers and army-commander there were delighted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो योधाङ्गनाः सर्वा भर्तॄन् सर्वान् गृहे गृहे ।  
 यात्रागमनमाज्ञाय त्वरयन्ति स्म हर्षिताः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1166,12 +1240,15 @@ jubiliant and hurried up all their respective husband to setoff for the journey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते हयैर्गोरथैः शीघ्रं स्यन्दनैश्च मनोजवैः ।  
 सह योषिद्‍बलाध्यक्षा बलं सर्वमचोदयन् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1215,12 +1292,15 @@ moving horses, bullock carts with a good speed and the chariots along with the w
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सज्जं तु तद् बलं दृष्ट्वा भरतो गुरुसन्निधौ ।  
 रथं मे त्वरयस्वेति सुमन्त्रं पार्श्वतोऽब्रवीत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,12 +1341,15 @@ Sumantra who was standing by his side: "Get ready my chariot quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्य तु तस्याज्ञां परिगृह्य प्रहर्षितः ।  
 रथं गृहीत्वोपययौ युक्तं परमवाजिभिः ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1309,6 +1392,7 @@ Sumantra on his part approached him with delight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1317,6 +1401,8 @@ Sumantra on his part approached him with delight.
 गुरुं महारण्यगतं यशस्विनं  
 प्रसादयिष्यन् भरतोऽब्रवीत् तदा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,6 +1451,7 @@ to Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1373,6 +1460,8 @@ to Ayodhya.
 आनेतुमिच्छामि हि तं वनस्थं  
 प्रसाद्य रामं जगतो हिताय ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1424,6 +1513,7 @@ for the welfare of the people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1432,6 +1522,8 @@ for the welfare of the people."
 शशास सर्वान् प्रकृतिप्रधानान्  
 बलस्य मुख्यांश्च सुहृज्जनं च ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1483,6 +1575,7 @@ multitude.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1491,6 +1584,8 @@ multitude.
 अयूयुजन्नुष्ट्ररथान् खरांश्च  
 नागान् हयांश्चैव कुलप्रसूतान् ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1546,5 +1641,6 @@ harnessed their chariots to camels, mules, well-bred elephants and horses.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॆरडनॆय सर्ग पूर्णवायितु.॥82॥
+</details>
 </details>
 

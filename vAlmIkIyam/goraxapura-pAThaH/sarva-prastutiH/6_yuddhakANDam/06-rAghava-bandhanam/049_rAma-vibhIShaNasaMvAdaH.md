@@ -2,6 +2,8 @@
 title = "०४९ राम-विभीषणसंवादः"
 title_english = "049 Vibhishana approaches Rama"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -22,12 +24,15 @@ mistaking him as Indrajit.
 
 49. श्रीरामका सचेत होकर लक्ष्मणके लिये विलाप करना और स्वयं प्राणत्यागका विचार करके वानरोंको लौट जानेकी आज्ञा देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोरेण शरबन्धेन बद्धौ दशरथात्मजौ ।  
 निःश्वसन्तौ यथा नागौ शयानौ रुधिरोक्षितौ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,12 +49,15 @@ mistaking him as Indrajit.
 
 घोरवाद सर्पाकार बाणगळिन्द बन्धितराद दशरथकुमार श्रीराम-लक्ष्मणरु रक्तदल्लि मुळुगि सर्पगळन्तॆ निट्टुसिरु बिडुत्ता बिद्दिद्दरु.॥1॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे ते वानरश्रेष्ठाः ससुग्रीवमहाबलाः ।  
 परिवार्य महात्मानौ तस्थुः शोकपरिप्लुताः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -89,12 +97,15 @@ warriors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे रामः प्रत्यबुध्यत वीर्यवान् ।  
 स्थिरत्वात् सत्त्वयोगाच्च शरैः सन्दानितोऽपि सन् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -137,12 +148,15 @@ awoke from his swwon, despite the shafts that held him captive.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दृष्ट्वा सरुधिरं निषण्णं गाढमर्पितम् ।  
 भ्रातरं दीनवदनं पर्यदेवयदातुरः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +200,15 @@ his features changed, Rama full of grief lamented thus:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु मे सीतया कार्यं लब्धया जीवितेन वा ।  
 शयानं योऽद्य पश्यामि भ्रातरं युधि निर्जितम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +249,15 @@ now lying, before my eyes, has been struck down in teh fight?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्या सीतासमा नारी मर्त्यलोके विचिन्वता ।  
 न लक्ष्मणसमो भ्राता सचिवः साम्परायिकः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,12 +299,15 @@ Lakshmana!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परित्यक्ष्याम्यहं प्राणान् वानराणां तु पश्यताम् ।  
 यदि पञ्चत्वमापन्नः सुमित्रानन्दवर्धनः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,6 +347,7 @@ will yield up my life-breaths while the monkeys stand looking on."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -332,6 +356,8 @@ will yield up my life-breaths while the monkeys stand looking on."
 विवत्सां वेपमानां च वेपन्तीं कुररीमिव ।  
 कथमाश्वासयिष्यामि यदि यास्यामि तं विना ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,12 +423,15 @@ Sumitra, sighing for the sight of her son?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं वक्ष्यामि शत्रुघ्नं भरतं च यशस्विनम् ।  
 मया सह वनं यातो विना तेनाहमागतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -442,12 +471,15 @@ Lakshmana, who followed to the forest along with me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपालम्भं न शक्ष्यामि सोढुमम्बासुमित्रया ।  
 इहैव देहं त्यक्ष्यामि नहि जीवितुमुत्सहे ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,12 +522,15 @@ here itself. I do not wish to continue living."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिङ्मां दुष्कृतकर्माणमनार्यं यत्कृते ह्यसौ ।  
 लक्ष्मणः पतितः शेते शरतल्पे गतासुवत् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,12 +574,15 @@ Lakshmana has fallen and lies indeed on a bed of arrows as on who has yielded up
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं नित्यं सुविषण्णं मामाश्वासयसि लक्ष्मण ।  
 गतासुर्नाद्य शक्तोऽसि मामार्तमभिभाषितुम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -588,12 +626,15 @@ having lost your life now are not able to allay my sufferings with your words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येनाद्य बहवो युद्धे निहता राक्षसाः क्षितौ ।  
 तस्यामेवाद्य शूरस्त्वं शेषे विनिहतः शनैः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,12 +675,15 @@ fallen, pierced by darts, like a hero on the self same field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयानः शरतल्पेऽस्मिन् सशोणितपरिस्रुतः ।  
 शरभूतस्ततो भासि भास्करोऽस्तमिव व्रजन् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -681,12 +725,15 @@ behind; astam= the horizon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणाभिहतमर्मत्वान्न शक्नोषीह भाषितुम् ।  
 रुजा चाब्रुवतो यस्य दृष्टिरागेण सूच्यते ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,12 +773,15 @@ now. Eventhough you not speaking, your agony is disclosed by the redness of your
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव मां वनं यान्तमनुयातो महाद्युतिः ।  
 अहमप्यनुयास्यामि तथैवैनं यमक्षयम् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,12 +821,15 @@ me when I retired to the forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टबन्धुजनो नित्यं मां च नित्यमनुव्रतः ।  
 इमामद्य गतोऽवस्थां ममानार्यस्य दुर्नयैः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -816,12 +869,15 @@ to which my misdeeds have brought him, wretched that I am!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरुष्टेनापि वीरेण लक्ष्मणेन न संस्मरे ।  
 परुषं विप्रियं चापि श्रावितं तु कदाचन ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -861,12 +917,15 @@ Lakshmana, even if he is deeply provoked."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विससर्जैकवेगेन पञ्चबाणशतानि यः ।  
 इष्वस्त्रेष्वधिकस्तस्मात् कार्तवीर्याच्च लक्ष्मणः ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -909,12 +968,15 @@ kartavirya himself in the science of archery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्रैरस्त्राणि यो हन्याच्छक्रस्यापि महात्मनः ।  
 सोऽयमुर्व्यां हतः शेते महार्हशयनोचितः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -958,12 +1020,15 @@ weapons the mighty Indra the Lord of celestials, is lying slain on the ground."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्तु मिथ्या प्रलप्तं मां प्रधक्ष्यति न संशयः ।  
 यन्मया न कृतो राजा राक्षसानां विभीषणः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,12 +1068,15 @@ Vibhishana the king of demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् मुहूर्ते सुग्रीव प्रतियातुमितोऽर्हसि ।  
 मत्वा हीनं मया राजन् रावणोऽभिभविष्यति ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,12 +1117,15 @@ bereft of my support, Ravana will overcome you, O king!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदं तु पुरस्कृत्य ससैन्यं सपरिच्छदम् ।  
 सागरं तर सुग्रीव नीलेन च नलेन च ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1094,12 +1165,15 @@ followers, Nila and Nala."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं हि सुमहत्कर्म यदन्यैर्दुष्करं रणे ।  
 ऋक्षराजेन तुष्यामि गोलाङ्गूलाधिपेन च ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1140,12 +1214,15 @@ Bears and the General of the Monkeys, which was impossible to any other in battl
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदेन कृतं कर्म मैन्देन द्विविदेन च ।  
 युद्धं केसरिणा सङ्ख्ये घोरं सम्पातिना कृतम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1180,12 +1257,15 @@ Kesari and Sampati in the battle-field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गवयेन गवाक्षेण शरभेण गजेन च ।  
 अन्यैश्च हरिभिर्युद्धं मदर्थे त्यक्तजीवितैः ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1225,6 +1305,7 @@ their lives for me, the battle was carried on."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1234,6 +1315,8 @@ their lives for me, the battle was carried on."
 मित्रकार्यं कृतमिदं भवद्भिर्वानरर्षभाः ॥ २९ ॥  
 अनुज्ञाता मया सर्वे यथेष्टं गन्तुमर्हथ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1306,12 +1389,15 @@ comrade could do."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रुवुस्तस्य ये सर्वे वानराः परिदेवितम् ॥ ३० ॥  
 वर्तयाञ्चक्रिरेऽश्रूणि नेत्रैः कृष्णेतरेक्षणाः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1370,12 +1456,15 @@ their eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वाण्यनीकानि स्थापयित्वा विभीषणः ।  
 आजगाम गदापाणिस्त्वरितं यत्र राघवः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1416,12 +1505,15 @@ monkeys thinking him to be Indrajit the son of Ravana, fled away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा त्वरितं यान्तं नीलाञ्जनचयोपमम् ।  
 वानरा दुद्रुवुः सर्वे मन्यमानास्तु रावणिम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1448,5 +1540,6 @@ monkeys thinking him to be Indrajit the son of Ravana, fled away.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥49॥
+</details>
 </details>
 

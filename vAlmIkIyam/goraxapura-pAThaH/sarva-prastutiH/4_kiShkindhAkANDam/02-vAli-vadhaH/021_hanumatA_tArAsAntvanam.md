@@ -2,6 +2,8 @@
 title = "०२१ हनुमता तारासान्त्वनम्"
 title_english = "021 Hanuma consoles Tara"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -21,12 +23,15 @@ self-immolation along with her husband Vali.
 
 21. हनुमान् जी का ताराको समझाना और ताराका पतिके अनुगमनका ही निश्चय करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निपतितां तारां च्युतां तारामिवाम्बरात् ।  
 शनैराश्वासयामास हनुमान् हरियूथपः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ star from sky. [4-21-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुणदोषकृतं जन्तुः स्वकर्म फलहेतुकम् ।  
 अव्यग्रस्तदवाप्नोति सर्वं प्रेत्य शुभाशुभम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,12 +132,15 @@ is not dead at the hand of Sugreeva but dead due his own demerits.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोच्या शोचसि कं शोच्यं दीनं दीनानुकम्पसे ।  
 कश्च कस्यानुशोच्योऽस्ति देहेऽस्मिन् बुद‍्बुदोपमे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,12 +185,15 @@ like bodies? [4-21-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्तु कुमारोऽयं द्रष्टव्यो जीवपुत्रया ।  
 आयत्यां च विधेयानि समर्थान्यस्य चिन्तय ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +234,15 @@ think of the forthcoming activities for his well-being and for his performance o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानास्यनियतामेवं भूतानामागतिं गतिम् ।  
 तस्माच्छुभं हि कर्तव्यं पण्डिते नेह लौकिकम् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -266,12 +283,15 @@ worldly deeds here in this world, say, the funeral of Vali. [4-21-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिन् हरिसहस्राणि शतानि नियुतानि च ।  
 वर्तयन्ति कृताशानि सोऽयं दिष्टान्तमागतः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +331,15 @@ in him alone, that Vali has arrived at his end. [4-21-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदयं न्यायदृष्टार्थः सामदानक्षमापरः ।  
 गतो धर्मजितां भूमिं नैनं शोचितुमर्हसि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,12 +381,15 @@ for himself, and it is unapt of your sorrowing for him. [4-21-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे च हरिशार्दूलाः पुत्रश्चायं तवाङ्गदः ।  
 हर्यृक्षपतिराज्यं च त्वत्सनाथमनिन्दिते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +429,15 @@ of monkeys and bears have their guardian angel in you. [4-21-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताविमौ शोकसन्तप्तौ शनैः प्रेरय भामिनि ।  
 त्वया परिगृहीतोऽयमङ्गदः शास्तु मेदिनीम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ then this Angada will rule over the earth. [4-21-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ततिश्च यथा दृष्टा कृत्यं यच्चापि साम्प्रतम् ।  
 राज्ञस्तत् क्रियतां सर्वमेष कालस्य निश्चयः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,12 +534,15 @@ and means remain in house, relatives come up to graveyard, only Merit and Demeri
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्कार्यो हरिराजस्तु अङ्गदश्चाभिषिच्यताम् ।  
 सिंहासनगतं पुत्रं पश्यन्ती शान्तिमेष्यसि ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,12 +581,15 @@ your son invested on the throne you can obtain peace." Thus spoke Hanuma to Tara
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तस्य वचनं श्रुत्वा भर्तृव्यसनपीडिता ।  
 अब्रवीदुत्तरं तारा हनूमन्तमवस्थितम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -593,12 +631,15 @@ who is standing nearby. [4-21-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदप्रतिरूपाणां पुत्राणामेकतः शतम् ।  
 हतस्याप्यस्य वीरस्य गात्रसंश्लेषणं वरम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,12 +685,15 @@ of this verse omitting the first foot of next stanza and it reads: * kim kaaryam
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाहं हरिराज्यस्य प्रभवाम्यङ्गदस्य वा ।  
 पितृव्यस्तस्य सुग्रीवः सर्वकार्येष्वनन्तरः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,12 +736,15 @@ Sugreeva is close at hand? [4-21-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्येषा बुद्धिरास्थेया हनूमन्नङ्गदं प्रति ।  
 पिता हि बन्धुः पुत्रस्य न माता हरिसत्तम ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,6 +787,7 @@ is the real defender of a son, but not the mother. [4-21-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -748,6 +796,8 @@ is the real defender of a son, but not the mother. [4-21-15]
 अभिमुखहतवीरसेवितं  
 शयनमिदं मम सेवितुं क्षमम् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,5 +859,6 @@ death bed, which he is adoring when put to death while he is facing away. [4-21-
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥21॥
+</details>
 </details>
 

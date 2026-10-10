@@ -2,6 +2,8 @@
 title = "०५९ दशरथविलापः"
 title_english = "059 Dasaratha falls unconscious"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
@@ -20,6 +22,7 @@ beings. Dasaratha laments and soon falls unconscious.
 
 59. सुमन्त्रद्वारा श्रीरामके शोकसे जड-चेतन एवं अयोध्यापुरीकी दुरवस्थाका वर्णन तथा राजा दशरथका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,6 +31,8 @@ beings. Dasaratha laments and soon falls unconscious.
 उभाभ्यां राजपुत्राभ्यामथ कृत्वाहमञ्जलिम् ।  
 प्रस्थितो रथमास्थाय तद्दुःखमपि धारयन् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,12 +100,15 @@ warm tears, did not proceed further on the way."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहेन सार्धं तत्रैव स्थितोऽस्मि दिवसान् बहून् ।  
 आशया यदि मां रामः पुनः शब्दापयेदिति ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,12 +151,15 @@ for three days."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषये ते महाराज महाव्यसनकर्शिताः ।  
 अपि वृक्षाः परिम्लानाः सपुष्पाङ्कुरकोरकाः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -191,12 +202,15 @@ sprouts and buds, having emaciated due to Rama's separation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपतप्तोदका नद्यः पल्वलानि सरांसि च ।  
 परिशुष्कपलाशानि वनान्युपवनानि च ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,12 +249,15 @@ leaves, parched up."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सर्पन्ति सत्त्वानि व्याला न प्रचरन्ति च ।  
 रामशोकाभिभूतं तन्निष्कूजमभवद् वनम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +297,15 @@ became silent, predominated by grief towards Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लीनपुष्करपत्राश्च नद्यश्च कलुषोदकाः ।  
 सन्तप्तपद्माः पद्मिन्यो लीनमीनविहङ्गमाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,12 +347,15 @@ water fowls have completely disappeared."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलजानि च पुष्पाणि माल्यानि स्थलजानि च ।  
 नातिभान्त्यल्पगन्धीनि फलानि च यथापुरम् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,12 +395,15 @@ and fruits do not have a luscious look as before."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रोद्यानानि शून्यानि प्रलीनविहगानि च ।  
 न चाभिरामानारामान् पश्यामि मनुजर्षभ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,12 +437,15 @@ am not seeing the gardens as charming (as before)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविशन्तमयोध्यायां न कश्चिदभिनन्दति ।  
 नरा राममपश्यन्तो निःश्वसन्ति मुहुर्मुहुः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,12 +485,15 @@ breathing their sigh of lamentation again and again."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव राजरथं दृष्ट्वा विना राममिहागतम् ।  
 दूरादश्रुमुखः सर्वो राजमार्गे गतो जनः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,12 +537,15 @@ along the royal high-way are shedding tears with grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्म्यैर्विमानैः प्रासादैरवेक्ष्य रथमागतम् ।  
 हाहाकारकृता नार्यो रामादर्शनकर्शिताः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,12 +586,15 @@ palaces are crying �ha ha!', being troubled by the non-appearance of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः ।  
 अन्योन्यमभिवीक्षन्तेऽव्यक्तमार्ततराः स्त्रियः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,12 +634,15 @@ bright eyes overwhelmed with a flood of tears."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामित्राणां न मित्राणामुदासीनजनस्य च ।  
 अहमार्ततया कञ्चिद् विशेषं नोपलक्षये ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,6 +684,7 @@ or neutral people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -651,6 +693,8 @@ or neutral people."
 निरानन्दा महाराज रामप्रव्राजनातुरा ।  
 कौसल्या पुत्रहीनेव अयोध्या प्रतिभाति मे ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -698,12 +742,15 @@ without her son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूतस्य वचनं श्रुत्वा वाचा परमदीनया ।  
 बाष्पोपहतया सूतमिदं वचनमब्रवीत् ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,12 +790,15 @@ woeful, spoke to that charioteer as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्या विनियुक्तेन पापाभिजनभावया ।  
 मया न मन्त्रकुशलैर्वृद्धैः सह समर्थितम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,12 +838,15 @@ with people experienced in counsel or with elders beforehand."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सुहृद्भिर्न चामात्यैर्मन्त्रयित्वा सनैगमैः ।  
 मयायमर्थः सम्मोहात् स्त्रीहेतोः सहसा कृतः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -838,12 +891,15 @@ without consulting with friends or ministers or with interpreters of sacred text
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवितव्यतया नूनमिदं वा व्यसनं महत् ।  
 कुलस्यास्य विनाशाय प्राप्तं सूत यदृच्छया ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -884,12 +940,15 @@ for the ruin of this race or accidentally."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूत यद्यस्ति ते किञ्चिन्मयापि सुकृतं कृतम् ।  
 त्वं प्रापयाशु मां रामं प्राणाः सन्त्वरयन्ति माम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,12 +989,15 @@ vital spirits are hastening me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यद्यापि ममैवाज्ञा निवर्तयतु राघवम् ।  
 न शक्ष्यामि विना रामं मुहूर्तमपि जीवितुम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -975,12 +1037,15 @@ to Ayodhya. I cannot survive without Rama even for a moment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवापि महाबाहुर्गतो दूरं भविष्यति ।  
 मामेव रथमारोप्य शीघ्रं रामाय दर्शय ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1020,12 +1085,15 @@ chariot and quickly show me to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृत्तदंष्ट्रो महेष्वासः क्वासौ लक्ष्मणपूर्वजः ।  
 यदि जीवामि साध्वेनं पश्येयं सीतया सह ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1065,12 +1133,15 @@ see him well with Seetha, I can survive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोहिताक्षं महाबाहुमामुक्तमणिकुण्डलम् ।  
 रामं यदि न पश्येयं गमिष्यामि यमक्षयम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1110,12 +1181,15 @@ I shall proceed to the world of Death."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो नु किं दुःखतरं योऽहमिक्ष्वाकुनन्दनम् ।  
 इमामवस्थामापन्नो नेह पश्यामि राघवम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,12 +1230,15 @@ here, Rama who is a delight to Ikshvaku dynasty?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा राम रामानुज हा हा वैदेहि तपस्विनि ।  
 न मां जानीत दुःखेन म्रियमाणमनाथवत् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,12 +1278,15 @@ I am dying with grief, like one abandoned."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेन राजा दुःखेन भृशमर्पितचेतनः ।  
 अवगाढः सुदुष्पारं शोकसागरमब्रवीत् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1246,6 +1326,7 @@ sorrow, very difficult to be crossed, spoke (as follows)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1258,6 +1339,8 @@ sorrow, very difficult to be crossed, spoke (as follows)
 यस्मिन् बत निमग्नोऽहं कौसल्ये राघवं विना ।  
 दुस्तरो जीवता देवि मयायं शोकसागरः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1325,6 +1408,7 @@ sending of Rama to far away place. I cannot cross this ocean alive, without Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1333,6 +1417,8 @@ sending of Rama to far away place. I cannot cross this ocean alive, without Rama
 इतीव राजा विलपन् महायशाः  
 पपात तूर्णं शयने स मूर्च्छितः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1385,6 +1471,7 @@ couch.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1393,6 +1480,8 @@ couch.
 वचनमनुनिशम्य तस्य देवी  
 भयमगमत् पुनरेव राममाता ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1447,5 +1536,6 @@ having fallen unconscious, Kausalya was alarmed once again.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥59॥
+</details>
 </details>
 

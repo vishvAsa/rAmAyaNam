@@ -2,6 +2,8 @@
 title = "०५५ वानरकृतशीघ्रान्वेषणनिश्चयः"
 title_english = "055 Monkeys decide to fast unto death"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV
@@ -22,12 +24,15 @@ commands, takes this decision on many counts. All the other monkeys follow the s
 
 55. अङ्गदसहित वानरोंका प्रायोपवेशन
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनुमतो वाक्यं प्रश्रितं धर्मसंहितम् ।  
 स्वामिसत्कारसंयुक्तमङ्गदो वाक्यमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -67,12 +72,15 @@ Angada said these sentences. [4-55-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थैर्यमात्ममनःशौचमानृशंस्यमथार्जवम् ।  
 विक्रमश्चैव धैर्यं च सुग्रीवे नोपपद्यते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +125,7 @@ further more cleanliness of heart or soul. [4-55-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,6 +134,8 @@ further more cleanliness of heart or soul. [4-55-2]
 कथं स धर्मं जानीते येन भ्रात्रा दुरात्मना ।  
 युद्धायाभिनियुक्तेन बिलस्य पिहितं मुखम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -180,12 +191,15 @@ is still inside the cavity, thus he is nefarious, how then he can be said as one
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यात् पाणिगृहीतश्च कृतकर्मा महायशाः ।  
 विस्मृतो राघवो येन स कस्य सुकृतं स्मरेत् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +246,15 @@ the upright conduct of Sugreeva?' For that Angada is ready with an answer as.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य भयेनेह नाधर्मभयभीरुणा ।  
 आदिष्टा मार्गितुं सीता धर्मस्तस्मिन् कथं भवेत् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +297,15 @@ his own unscrupulousness, how then can scrupulosity be manifest in him? [4-55-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् पापे कृतघ्ने तु स्मृतिभिन्ने चलात्मनि ।  
 आर्यः को विश्वसेज्जातु तत्कुलीनो विशेषतः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -328,12 +348,15 @@ Lakshmana? Will it be possible especially for one like me belonging to his famil
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ये पुत्रः प्रतिष्ठाप्यः सगुणो निर्गुणोऽपि वा ।  
 कथं शत्रुकुलीनं मां सुग्रीवो जीवयिष्यति ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +405,15 @@ to Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिन्नमन्त्रोऽपराद्धश्च भिन्नशक्तिः कथं ह्यहम् ।  
 किष्किन्धां प्राप्य जीवेयमनाथ इव दुर्बलः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +454,15 @@ Kishkindha, like caitiff turned into a wretch. [4-55-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपांशुदण्डेन हि मां बन्धनेनोपपादयेत् ।  
 शठः क्रूरो नृशंसश्च सुग्रीवो राज्यकारणात् ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,12 +505,15 @@ also barbarous just for the reason of his kingship. [4-55-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बन्धनाच्चावसादान्मे श्रेयः प्रायोपवेशनम् ।  
 अनुजानन्तु मां सर्वे गृहं गच्छन्तु वानराः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,12 +552,15 @@ go back to your dwellings. [4-55-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं वः प्रतिजानामि न गमिष्याम्यहं पुरीम् ।  
 इहैव प्रायमासिष्ये श्रेयो मरणमेव मे ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +599,15 @@ death, as death alone is expedient to me. [4-55-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवादनपूर्वं तु राजा कुशलमेव च ।  
 अभिवादनपूर्वं तु राघवौ बलशालिनौ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,12 +624,15 @@ death, as death alone is expedient to me. [4-55-12]
 
 नीवु राजा सुग्रीवनिगॆ प्रणामगैदु अवनल्लि नन्न समाचार तिळिसिरि. तम्म बलदिन्द शोभिसुव रघु वंशी इब्बरू बन्धुगळिगू नन्न सादर प्रणाम वन्नु निवेदिसुत्ता क्षेम समाचार तिळिसिरि.॥13॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच्यस्तातो यवीयान् मे सुग्रीवो वानरेश्वरः ।  
 आरोग्यपूर्वं कुशलं वाच्या माता रुमा च मे ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -626,12 +667,15 @@ paternal uncle and king may be enquired, only after paying deference to that lor
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातरं चैव मे तारामाश्वासयितुमर्हथ ।  
 प्रकृत्या प्रियपुत्रा सा सानुक्रोशा तपस्विनी ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -670,6 +714,7 @@ is she will obviously leave off her life on hearing that I breathed my last." So
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -677,6 +722,8 @@ is she will obviously leave off her life on hearing that I breathed my last." So
 एतावदुक्त्वा वचनं वृद्धांस्तानभिवाद्य च ॥ १६ ॥  
 विवेश चाङ्गदो भूमौ रुदन् दर्भेषु दुर्मनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,6 +764,7 @@ reclined on the sacred grass spread on ground. [4-55-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -725,6 +773,8 @@ reclined on the sacred grass spread on ground. [4-55-16b, 17a]
 सुग्रीवं चैव निन्दन्तः प्रशंसन्तश्च वालिनम् ॥ १८ ॥  
 परिवार्याङ्गदं सर्वे व्यवसन् प्रायमासितुम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,6 +839,7 @@ effusive teardrops emotionally. [4-55-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -797,6 +848,8 @@ effusive teardrops emotionally. [4-55-17b, 18a]
 दक्षिणाग्रेषु दर्भेषु उदक्तीरं समाश्रिताः ॥ २० ॥  
 मुमूर्षवो हरिश्रेष्ठा एतत् क्षममिति स्म ह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -846,6 +899,7 @@ they became recumbent facing eastward. [4-55-19b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -854,6 +908,8 @@ they became recumbent facing eastward. [4-55-19b, 21a]
 हरणं चैव वैदेह्या वालिनश्च वधं तथा ।  
 रामकोपं च वदतां हरीणां भयमागतम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -907,6 +963,7 @@ is apprehended. Thus, their fasting unto death, as per scriptural sanction is go
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -915,6 +972,8 @@ is apprehended. Thus, their fasting unto death, as per scriptural sanction is go
 बभूव सन्नादितनिर्दरान्तरो  
 भृशं नदद्भिर्जलदैरिवाम्बरम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -976,5 +1035,6 @@ with strident clouds about to burst a good fortune. [4-55-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥55॥
+</details>
 </details>
 

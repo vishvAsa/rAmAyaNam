@@ -2,6 +2,8 @@
 title = "०३३ सीता-सरमासंवादः"
 title_english = "033 Sarama restores confidence to Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -23,12 +25,15 @@ win her back.
 
 33. सरमाका सीताको सान्त्वना देना, रावणकी मायाका भेद खोलना, श्रीरामके आगमनका प्रिय समाचार सुनाना और उनके विजयी होनेका विश्वास दिलाना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां तु मोहितां दृष्ट्वा सरमा नाम राक्षसी ।  
 आससादाथ वैदेहीं प्रियां प्रणयिनी सखीम् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,12 +78,15 @@ companion then approached Seetha, her beloved Seetha, her beloved friend.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोहितां राक्षसेन्द्रेण सीतां परमदुःखिताम् ।  
 आश्वासयामास तदा सरमा मृदुभाषिणी ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +120,15 @@ was very much in distress.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि तत्र कृता मित्रं सीतया रक्ष्यमाणया ।  
 रक्षन्ती रावणादिष्टा सानुक्रोशा दृढव्रता ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,12 +169,15 @@ austerity. She was indeed made a companion by Seetha, who was being protected by
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा ददर्श सखी सीतां सरमा नष्टचेतनाम् ।  
 उपावृत्योत्थितां ध्वस्तां वडवामिव पांसुषु ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +221,7 @@ dust and soiled, resembling a female horse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,6 +232,8 @@ dust and soiled, resembling a female horse.
 लीनया गहने शून्ये भयमुत्सृज्य रावणात् ।  
 तव हेतोर्विशालाक्षि नहि मे रावणाद् भयम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,12 +279,15 @@ not get perturbed in your mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्भ्रान्तश्च निष्क्रान्तो यत्कृते राक्षसेश्वरः ।  
 तत्र मे विदितं सर्वमभिनिष्क्रम्य मैथिलि ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -310,12 +330,15 @@ eyed woman! I do not have any fear of Ravana, owing to my affection towards you"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्यं सौप्तिकं कर्तुं रामस्य विदितात्मनः ।  
 वधश्च पुरुषव्याघ्रे तस्मिन् नैवोपपद्यते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,12 +378,15 @@ the reason for which Ravana has gone away agitated."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वेवं वानरा हन्तुं शक्याः पादपयोधिनः ।  
 सुरा देवर्षभेणेव रामेण हि सुरक्षिताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,6 +427,7 @@ even killing him, the tiger among men, is well nigh impossible."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -411,6 +438,8 @@ even killing him, the tiger among men, is well nigh impossible."
 हन्ता परबलौघानामचिन्त्यबलपौरुषः ।  
 न हतो राघवः श्रीमान् सीते शत्रुनिबर्हणः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -457,12 +486,15 @@ their lord"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयुक्तबुद्धिकृत्येन सर्वभूतविरोधिना ।  
 एवं प्रयुक्ता रौद्रेण माया मायाविना त्वयि ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +545,15 @@ adversaries, has not been killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकस्ते विगतः सर्वकल्याणं त्वामुपस्थितम् ।  
 ध्रुवं त्वां भजते लक्ष्मीः प्रियं ते भवति शृणु ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -558,12 +593,15 @@ perverse in thinking and action and an enemy of all beings."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तीर्य सागरं रामः सह वानरसेनया ।  
 सन्निविष्टः समुद्रस्य तीरमासाद्य दक्षिणम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,12 +643,15 @@ you. Accordingly prosperity will attend on you. Hear me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टो मे परिपूर्णार्थः काकुत्स्थः सहलक्ष्मणः ।  
 सहितैः सागरान्तस्थैर्बलैस्तिष्ठति रक्षितः ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -650,12 +691,15 @@ southern shore and is encamped there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन प्रेषिता ये च राक्षसा लघुविक्रमाः ।  
 राघवस्तीर्ण इत्येवं प्रवृत्तिस्तैरिहाहृता ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,12 +740,15 @@ protected by the troops gathered together at the vicinity of the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां श्रुत्वा विशालाक्षि प्रवृत्तिं राक्षसाधिपः ।  
 एष मन्त्रयते सर्वैः सचिवैः सह रावणः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,12 +791,15 @@ that Rama has crossed the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणा सरमा राक्षसी सीतया सह ।  
 सर्वोद्योगेन सैन्यानां शब्दं शुश्राव भैरवम् ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,12 +839,15 @@ deliberations with all his ministers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दण्डनिर्घातवादिन्याः श्रुत्वा भेर्या महास्वनम् ।  
 उवाच सरमा सीतामिदं मधुरभाषिणी ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -835,12 +888,15 @@ heard, from the troops engaged in the impending war.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्नाहजननी ह्येषा भैरवा भीरु भेरिका ।  
 भेरीनादं च गम्भीरं शृणु तोयदनिःस्वनम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -880,12 +936,15 @@ a drum stick, Sarama in her sweet voice spoke to Seetha as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्प्यन्ते मत्तमातङ्गा युज्यन्ते रथवाजिनः ।  
 दृश्यन्ते तुरगारूढाः प्रासहस्ताः सहस्रशः ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -930,6 +989,7 @@ rumbling of clouds"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -937,6 +997,8 @@ rumbling of clouds"
 आपूर्यन्ते राजमार्गाः सैन्यैरद्भुतदर्शनैः ॥ २३ ॥  
 वेगवद्भिर्नदद्भिश्च तोयौघैरिव सागरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -978,6 +1040,7 @@ for a battle. Thousands of horsemen carrying darts in their hands are seen."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -987,6 +1050,8 @@ for a battle. Thousands of horsemen carrying darts in their hands are seen."
 प्रभां विसृजतां पश्य नानावर्णसमुत्थिताम् ।  
 वनं निर्दहतो घर्मे यथा रूपं विभावसोः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,12 +1097,15 @@ of waters making a roaring sound."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घण्टानां शृणु निर्घोषं रथानां शृणु निःस्वनम् ।  
 हयानां हेषमाणानां शृणु तूर्यध्वनिं तथा ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1078,6 +1146,7 @@ demons thrilled with joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1085,6 +1154,8 @@ demons thrilled with joy."
 सम्भ्रमो रक्षसामेष तुमुलो लोमहर्षणम् ॥ २८ ॥  
 श्रीस्त्वां भजति शोकघ्नी रक्षसां भयमागतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,6 +1177,7 @@ _________________
 
 आयुधगळन्नु धरिसि आनॆय मेलॆ कुळितिरुव रावणन अनुगामि राक्षसरु गाबरिगॊण्डिरुवरु. अवर मेलॆ यावुदो भारी रोमाञ्चकारि भय उपस्थितवागिदॆ ऎन्दॆनिसुत्तदॆ. शोकवन्नु निवारिसुव लक्ष्मियु निम्म सेवॆयल्लि उपस्थितळागिरुवळु.॥28½॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1113,6 +1185,8 @@ _________________
 अवजित्य जितक्रोधस्तमचिन्त्यपराक्रमः ।  
 रावणं समरे हत्वा भर्ता त्वाधिगमिष्यति ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1154,12 +1228,15 @@ hair to stand erect through terror."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रमिष्यति रक्षःसु भर्ता ते सहलक्ष्मणः ।  
 यथा शत्रुषु शत्रुघ्नो विष्णुना सह वासवः ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1198,12 +1275,15 @@ unimaginable strength will kill Ravana in battle and win you back"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगतस्य हि रामस्य क्षिप्रमङ्कागतां सतीम् ।  
 अहं द्रक्ष्यामि सिद्धार्थां त्वां शत्रौ विनिपातिते ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1245,12 +1325,15 @@ exhibited his strength over his adversaries."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्राण्यानन्दजानि त्वं वर्तयिष्यसि जानकि ।  
 समागम्य परिष्वक्ता तस्योरसि महोरसः ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1293,12 +1376,15 @@ object of his coming being fulfilled and the enemy fallen."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिरान्मोक्ष्यते सीते देवि ते जघनं गताम् ।  
 धृतामेकां बहून् मासान् वेणीं रामो महाबलः ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1338,12 +1424,15 @@ united with you and holding you clasped to his breast."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य दृष्ट्वा मुखं देवि पूर्णचन्द्रमिवोदितम् ।  
 मोक्ष्यसे शोकजं वारि निर्मोकमिव पन्नगी ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1384,12 +1473,15 @@ which has reached past your hips, which you have worn these many months."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं समरे हत्वा नचिरादेव मैथिलि ।  
 त्वया समग्रः प्रियया सुखार्हो लप्स्यते सुखम् ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1429,12 +1521,15 @@ born of grief, like a female snake casts off its slough."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सभाजिता त्वं रामेण मोदिष्यसि महात्मना ।  
 सुवर्षेण समायुक्ता यथा सस्येन मेदिनी ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1475,6 +1570,7 @@ facility); will enjoy happiness in the company of the beloved, namely yourself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1483,6 +1579,8 @@ facility); will enjoy happiness in the company of the beloved, namely yourself."
 तमिह शरणमभ्युपैहि देवि  
 दिवसकरं प्रभवो ह्ययं प्रजानाम् ॥ ३८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1534,5 +1632,6 @@ with crops, feels after the onset of good rains."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तमूरनॆय सर्ग पूर्णवायितु.॥33॥
+</details>
 </details>
 

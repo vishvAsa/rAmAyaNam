@@ -2,6 +2,8 @@
 title = "०५८ सम्पातिना सीतान्वेषणसाहाय्यप्रतिज्ञा"
 title_english = "058 Sampaati informs Angada about Seetha"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book
@@ -26,12 +28,15 @@ highly rejoiced on the seashore.
 
 58. सम्पातिका अपने पंख जलनेकी कथा सुनाना, सीता और रावणका पता बताना तथा वानरोंकी सहायतासे समुद्र-तटपर जाकर भाईको जलाञ्जलि देना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः करुणं वाक्यं वानरैस्त्यक्तजीवितैः ।  
 सबाष्पो वानरान् गृध्रः प्रत्युवाच महास्वनः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,12 +76,15 @@ words, that thunder-voiced eagle tearfully spoke to those vanara-s. [4-58-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवीयान् स मम भ्राता जटायुर्नाम वानराः ।  
 यमाख्यात हतं युद्धे रावणेन बलीयसा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,12 +124,15 @@ that one is my younger brother named Jatayu... [4-58-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्धभावादपक्षत्वाच्छृण्वंस्तदपि मर्षये ।  
 नहि मे शक्तिरस्त्यद्य भ्रातुर्वैरविमोक्षणे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +177,7 @@ retaliate my brother's enemy... [4-58-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -174,6 +186,8 @@ retaliate my brother's enemy... [4-58-3]
 आवृत्याकाशमार्गेण जवेन स्वर्गतौ भृशम् ।  
 मध्यं प्राप्ते तु सूर्ये तु जटायुरवसीदति ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +251,15 @@ near to the scorch-rayed sun... [4-58-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमहं भ्रातरं दृष्ट्वा सूर्यरश्मिभिरर्दितम् ।  
 पक्षाभ्यां छादयामास स्नेहात् परमविह्वलम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,12 +300,15 @@ my highly fretful brother with both of my wings in all my brotherliness... [4-58
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्दग्धपत्रः पतितो विन्ध्येऽहं वानरर्षभाः ।  
 अहमस्मिन् वसन् भ्रातुः प्रवृत्तिं नोपलक्षये ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,12 +354,15 @@ brother's experiences or, at least his existence, or otherwise..." So lamented o
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुषस्त्वेवमुक्तो भ्रात्रा सम्पातिना तदा ।  
 युवराजो महाप्रज्ञः प्रत्युवाचाङ्गदस्तदा ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +405,15 @@ crown prince Angada replied him. [4-58-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुषो यदि भ्राता श्रुतं ते गदितं मया ।  
 आख्याहि यदि जानासि निलयं तस्य रक्षसः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,12 +450,15 @@ of Jataayu, and if you are aware of the whereabouts of Ravana... please tell it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदीर्घदर्शिनं तं वै रावणं राक्षसाधमम् ।  
 अन्तिके यदि वा दूरे यदि जानासि शंस नः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,12 +499,15 @@ wide..." Thus Angada asked Sampaati. [4-58-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्महातेजा भ्राता ज्येष्ठो जटायुषः ।  
 आत्मानुरूपं वचनं वानरान् सम्प्रहर्षयन् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -515,12 +547,15 @@ are self-befitting and that would highly gladden the monkeys. [4-58-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्दग्धपक्षो गृध्रोऽहं गतवीर्यः प्लवङ्गमाः ।  
 वाङ्मात्रेण तु रामस्य करिष्ये साह्यमुत्तमम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +598,15 @@ render a best service in the task of Rama, at least verbally... [4-58-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानामि वारुणाल्ँ लोकान् विष्णोस्त्रैविक्रमानपि ।  
 देवासुरविमर्दांश्च ह्यमृतस्य विमन्थनम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -615,12 +653,15 @@ unseeable Milky Ocean when it was churned for ambrosia... [4-58-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य यदिदं कार्यं कर्तव्यं प्रथमं मया ।  
 जरया च हृतं तेजः प्राणाश्च शिथिला मम ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,12 +702,15 @@ my vigour and vitality... [4-58-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरुणी रूपसम्पन्ना सर्वाभरणभूषिता ।  
 ह्रियमाणा मया दृष्टा रावणेन दुरात्मना ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -683,12 +727,15 @@ my vigour and vitality... [4-58-14]
 
 ऒन्दु दिन दुरात्मा रावणनु ऎल्ल प्रकराद ऒडवॆगळिन्द अलङ्कृतळाद ओर्व रूपवति युवतियन्नु कद्दु कॊण्डु होगुवुदन्नु नानु नोडिद्दॆ.॥15॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोशन्ती रामरामेति लक्ष्मणेति च भामिनी ।  
 भूषणान्यपविध्यन्ती गात्राणि च विधुन्वती ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -728,12 +775,15 @@ demon... [4-58-15, 16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्यप्रभेव शैलाग्रे तस्याः कौशेयमुत्तमम् ।  
 असिते राक्षसे भाति यथा वा तडिदम्बुदे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -780,12 +830,15 @@ or ocean...'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु सीतामहं मन्ये रामस्य परिकीर्तनात् ।  
 श्रूयतां मे कथयतो निलयं तस्य रक्षसः ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,12 +878,15 @@ location of that demon be heard from me while I say about it... [4-58-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रो विश्रवसः साक्षाद् भ्राता वैश्रवणस्य च ।  
 अध्यास्ते नगरीं लङ्कां रावणो नाम राक्षसः ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -883,12 +939,15 @@ endnote.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतो द्वीपे समुद्रस्य सम्पूर्णे शतयोजने ।  
 तस्मिल्ँ लङ्का पुरी रम्या निर्मिता विश्वकर्मणा ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,12 +991,15 @@ from here, which Vishvakarma, the Divine-Architect, has built, and it is called 
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बूनदमयैर्द्वारैश्चित्रैः काञ्चनवेदिकैः ।  
 प्रासादैर्हेमवर्णैश्च महद्भिः सुसमाकृता ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -981,12 +1043,15 @@ enclosed in a gigantic rampart that will be dazzling in the colour of sun... [4-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकारेणार्कवर्णेन महता च समन्विता ।  
 तस्यां वसति वैदेही दीना कौशेयवासिनी ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,12 +1071,15 @@ _________________
 
 आ नगरद सुत्तल कोटॆ बहळ दॊड्डदागिद्दु सूर्यनन्तॆ हॊळॆयुत्तिदॆ. अदरॊळगॆ हळदिबण्णद रेश्मॆसीरॆयन्नुट्टिद्द वैदेहियु बहळ दुःखदिन्द वासिसुत्तिरुवळु.॥22॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणान्तःपुरे रुद्धा राक्षसीभिः सुरक्षिता ।  
 जनकस्यात्मजां राज्ञस्तस्यां द्रक्ष्यथ मैथिलीम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,6 +1091,7 @@ _________________
 
 ‘रावणके अन्तःपुरमें नजरबंद हैं । बहुत-सी राक्षसियाँ उनके पहरेपर तैनात हैं । वहाँ पहुँचनेपर तुमलोग राजा जनककी कन्या मैथिली सीताको देख सकोगे ॥ २३ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1031,6 +1100,8 @@ _________________
 आसाद्य दक्षिणं तीरं ततो द्रक्ष्यथ रावणम् ।  
 तत्रैव त्वरिताः क्षिप्रं विक्रमध्वं प्लवङ्गमाः ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1180,15 @@ sari of Seetha...' oft times.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञानेन खलु पश्यामि दृष्ट्वा प्रत्यागमिष्यथ ।  
 आद्यः पन्थाः कुलिङ्गानां ये चान्ये धान्यजीविनः ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1131,12 +1205,15 @@ sari of Seetha...' oft times.
 
 निश्चयवागि नीवु सीतॆय दर्शन माडि मरळुविरि, ऎन्दु नानु ज्ञानदृष्टियिन्द नोडुत्तिद्देनॆ. आकाशद मॊदल मार्ग गुब्बच्चि हागू धान्य तिन्नुव पक्षिगळद्दागिदॆ.॥26॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वितीयो बलिभोजानां ये च वृक्षफलाशनाः ।  
 भासास्तृतीयं गच्छन्ति क्रौञ्चाश्च कुररैः सह ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1183,6 +1260,7 @@ fifth is that of the vultures. [4-58-26, 27, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1191,6 +1269,8 @@ fifth is that of the vultures. [4-58-26, 27, 28a]
 षष्ठस्तु पन्था हंसानां वैनतेयगतिः परा ।  
 वैनतेयाच्च नो जन्म सर्वेषां वानरर्षभाः ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1261,12 +1341,15 @@ matter of fact, all eagles belong to that lineage, for their keen vision and pow
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गर्हितं तु कृतं कर्म येन स्म पिशिताशिनः ।  
 प्रतिकार्यं च मे तस्य वैरं भ्रातृकृतं भवेत् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1308,12 +1391,15 @@ his animosity towards my brother Jataayu will also be fulfilled... [4-58-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहस्थोऽहं प्रपश्यामि रावणं जानकीं तथा ।  
 अस्माकमपि सौपर्णं दिव्यं चक्षुर्बलं तथा ॥ ३१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1354,12 +1440,15 @@ our sight and power will be excellent like that of Garuda, the Divine Eagle... [
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादाहारवीर्येण निसर्गेण च वानराः ।  
 आयोजनशतात् साग्राद् वयं पश्याम नित्यशः ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1418,12 +1507,15 @@ response to certain stimuli.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माकं विहिता वृत्तिर्निसर्गेण च दूरतः ।  
 विहिता वृक्षमूले तु वृत्तिश्चरणयोधिनाम् ॥ ३३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1470,12 +1562,15 @@ bringing food for that day.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायो दृश्यतां कश्चिल्लङ्घने लवणाम्भसः ।  
 अभिगम्य तु वैदेहीं समृद्धार्था गमिष्यथ ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1516,12 +1611,15 @@ Kishkindha on your finding Vaidehi, and on your becoming productive of you objec
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रं नेतुमिच्छामि भवद्भिर्वरुणालयम् ।  
 प्रदास्याम्युदकं भ्रातुः स्वर्गतस्य महात्मनः ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1562,6 +1660,7 @@ Sampaati spoke to the monkeys. [4-58-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1570,6 +1669,8 @@ Sampaati spoke to the monkeys. [4-58-35]
 तं पुनः प्रापयित्वा च तं देशं पतगेश्वरम् ।  
 बभूवुर्वानरा हृष्टाः प्रवृत्तिमुपलभ्य ते ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1632,5 +1733,6 @@ to them. [4-58-36, 37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥58॥
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "००९ विभीषणनीतिः"
 title_english = "009 Vibhishana speak words of morality"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -21,6 +23,7 @@ Rama can reside in the forest delightfully, by warding off his agony.
 
 9. विभीषणका रावणसे श्रीरामकी अजेयता बताकर सीताको लौटा देनेके लिये अनुरोध करना
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ Rama can reside in the forest delightfully, by warding off his agony.
 प्रगृह्य परमक्रुद्धाः समुत्पत्य च राक्षसाः ।  
 अब्रुवन् रावणं सर्वे प्रदीप्ता इव तेजसा ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,12 +89,15 @@ _________________
 
 अनन्तर निकुम्भ, रभस, महाबली सूर्य शत्रु, सुप्तघ्न, यज्ञकोप, महापार्श्व, महोदर,दुर्जय, अग्निकेतु, राक्षस रश्मिकेतु, महातेजस्वी बलवन्त रावणकुमार इन्द्रजितु, प्रहस्त, विरूपाक्ष, महाबलि वज्रदंष्ट्र, धूम्राक्ष, अतिकाय मत्तु निशाचर दुर्मुख - इवरॆल्ल राक्षसरु अत्यन्त कुपितरागि कैगळल्लि परिघ, पट्टिश, शूल, प्रास, शक्ति, कॊडलि, धनुर्बाण हागू हरितवाद दॊड्ड-दॊड्ड खड्गगळन्नॆत्तिकॊण्डु कुणियुत्ता रावणन ऎदुरिगॆ बन्दु, तम्म तेजदिन्द उरियुत्ता ऎल्लरू अवनल्लि हेळिदर.॥1-5॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य रामं वधिष्यामः सुग्रीवं च सलक्ष्मणम् ।  
 कृपणं च हनूमन्तं लङ्का येन प्रधर्षिता ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -123,12 +131,15 @@ pitiable Hanuma by whom Lanka was attacked."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् गृहीतायुधान् सर्वान् वारयित्वा विभीषणः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं पुनः प्रत्युपवेश्य तान् ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +182,15 @@ seize weapons, were made to sit again by saluting them with joined palms and spo
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्युपायैस्त्रिभिस्तात योऽर्थः प्राप्तुं न शक्यते ।  
 तस्य विक्रमकालांस्तान् युक्तानाहुर्मनीषिणः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,12 +232,15 @@ prowess, as stated by wise men."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमत्तेष्वभियुक्तेषु दैवेन प्रहतेषु च ।  
 विक्रमास्तात सिद्ध्यन्ति परीक्ष्य विधिना कृताः ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -265,12 +282,15 @@ an enemy or who stand struck down by fate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमत्तं कथं तं तु विजिगीषुं बले स्थितम् ।  
 जितरोषं दुराधर्षं तं धर्षयितुमिच्छथ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,6 +334,7 @@ conquered."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -322,6 +343,8 @@ conquered."
 बलान्यपरिमेयानि वीर्याणि च निशाचराः ।  
 परेषां सहसावज्ञा न कर्तव्या कथञ्चन ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -383,12 +406,15 @@ formidable ocean, which is the lord of streams and rivers?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च राक्षसराजस्य रामेणापकृतं पुरा ।  
 आजहार जनस्थानाद् यस्य भार्यां यशस्विनः ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,12 +454,15 @@ wife that he bore away from Janasthana?"
 
 आ यशस्वी महात्मन पत्नियन्नु जनस्थानदिन्द कद्दुतरलु श्रीराम चन्द्रनु मॊदलु याव अपराधवन्नु माडिद्दनु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरो यद्यतिवृत्तस्तु स रामेण हतो रणे ।  
 अवश्यं प्राणिनां प्राणा रक्षितव्या यथाबलम् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,12 +506,15 @@ Lives are certainly to be protected, according to one's own strength, by living 
 
 अवनु खरनन्नु कॊन्दिद्दनु ऎन्दु हेळिदरू इदु सरियल्ल; एकॆन्दरॆ खरनु अत्याचारियागिद्दनु. अवनु स्वतः रामनन्नु कॊल्ललु अवन मेलॆ आक्रमण माडिद्दनु. अदक्कागि श्रीरामनु रणरङ्गदल्लि अवनन्नु वधिसिदनु; एकॆन्दरॆ प्रतियॊन्दु प्राणिगू यथाशक्ति तन्न प्राणगळन्नु रक्षिसुवुदु अवश्यवागिदॆ.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्निमित्तं वैदेही भयं नः सुमहद् भवेत् ।  
 आहृता सा परित्याज्या कलहार्थे कृते नु किम् ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -527,12 +559,15 @@ end?"
 
 इदे कारणदिन्द सीतॆयन्नु कद्दु तन्दिद्दरॆ आकॆयन्नु बेगने हिन्दिरुगिसबेकु. इल्लदिद्दरॆ नम्म मेलॆ महाभय ऎरगलिदॆ. केवल कलहवे कर्मद फलवागिद्दरॆ अदन्नु माडुवुदरिन्द एनु लाभ .॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु क्षमं वीर्यवता तेन धर्मानुवर्तिना ।  
 वैरं निरर्थकं कर्तुं दीयतामस्य मैथिली ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -573,12 +608,15 @@ follows righteousness. Let Seetha be given away to him."
 
 श्रीरामनु बहळ धर्मात्मा मत्तु पराक्रमियागिद्दानॆ. अवनॊन्दिगॆ व्यर्थवागि वैरमाडुवुदु उचितवल्ल. मिथिलेशकुमारि सीतॆयन्नु अवन बळि हिन्दिरुगिसबेकु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्न सगजां साश्वां बहुरत्नसमाकुलाम् ।  
 पुरीं दारयते बाणैर्दीयतामस्य मैथिली ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -621,12 +659,15 @@ arrows, let Seetha be given away to him."
 
 आनॆ, कुदुरॆ मत्तु अनेक रत्नगळिन्द तुम्बिद लङ्कॆयन्नु श्रीरामनु तन्न बाणगळिन्द विध्वस्थ माडिबिडुव मॊदले मैथिलियन्नु मरळि कळिसिकॊडबेकु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् सुघोरा महती दुर्धर्षा हरिवाहिनी ।  
 नावस्कन्दति नो लङ्कां तावत् सीता प्रदीयताम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -667,12 +708,15 @@ attacks our Lanka, let Seetha be given away."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनश्येद्धि पुरी लङ्का शूराः सर्वे च राक्षसाः ।  
 रामस्य दयिता पत्नी न स्वयं यदि दीयते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -713,12 +757,15 @@ will indeed perish. All our valiant demons too will Perish."
 
 श्रीरामन प्राणवल्लभॆ सीतॆयन्नु नावागिये हिन्दिरुगिसदिद्दरॆ ई लङ्कापुरियु नाशवागि, समस्त शूरवीर राक्षसरु सत्तुहोदारु.॥1.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादये त्वां बन्धुत्वात् कुरुष्व वचनं मम ।  
 हितं तथ्यं त्वहं ब्रूमि दीयतामस्य मैथिली ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,6 +806,7 @@ beneficial as well as truthful word. Let Seetha be given away to him."
 
 नीवु नन्न अण्णनागिरुविरि. आद्दरिन्द नानु निम्मन्नु विनयपूर्वक सन्तोषगॊळिसलु बयसुत्तिरुवॆनु. नीवु नन्न मातन्नु ऒप्पिकॊळ्ळि. नानु निम्म हितक्कागि निजवाद मातन्नु हेळुवॆनु. नीवु श्रीरामनिगॆ अवन सीतॆयन्नु हिन्दिरुगिसिरि.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -767,6 +815,8 @@ beneficial as well as truthful word. Let Seetha be given away to him."
 सृजत्यमोघान् विशिखान् वधाय ते  
 प्रदीयतां दाशरथाय मैथिली ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -818,6 +868,7 @@ given away to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -826,6 +877,8 @@ given away to Rama."
 प्रसीद जीवेम सपुत्रबान्धवाः  
 प्रदीयतां दाशरथाय मैथिली ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,12 +925,15 @@ relatives. Let Seetha be given away to Rama."
 
 अण्णा! नीवु क्रोधवन्नु बिडिरि; एकॆन्दरॆ अदु सुख मत्तु धर्मद नाश माडुवन्तहुदु. धर्मवन्नु सेविसु, एकॆन्दरॆ अदु सुख मत्तु यशवन्नु हॆच्चिसुत्तदॆ. नम्म मेलॆ प्रसन्ननागु, अदरिन्द नावु मक्कळु, बन्धुबान्धवरॊन्दिगॆ सुखवागि जीविसि इरबल्लॆवु. इदे दृष्टियिन्द नीवु दशरथनन्दन श्रीरामन कैगॆ मैथिलियन्नु ऒप्पिसि बिडि, इदे नन्न प्रार्थनॆयागिदॆ.॥2.॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा रावणो राक्षसेश्वरः ।  
 विसर्जयित्वा तान् सर्वान् प्रविवेश स्वकं गृहम् ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -966,5 +1022,6 @@ glory, those demons rose up and spoke to Ravana (as follows).
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऒम्भत्तनॆय सर्ग पूर्णवायितु.॥9॥
+</details>
 </details>
 

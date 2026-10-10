@@ -2,6 +2,8 @@
 title = "०२३ ताराशोकः"
 title_english = "023 Tara s lament for death of Vali"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
 
 **Book IV : Kishkindha Kanda - The Empire of Holy Monkeys**
@@ -20,12 +22,15 @@ his demise as any ordinary woman would.
 
 23. ताराका विलाप
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुपजिघ्रन्ती कपिराजस्य तन्मुखम् ।  
 पतिं लोकश्रुता तारा मृतं वचनमब्रवीत् ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ dead husband. [3-23-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शेषे त्वं विषमे दुःखमकृत्वा वचनं मम ।  
 उपलोपचिते वीर सुदुःखे वसुधातले ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ with stones. [3-23-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्तः प्रियतरा नूनं वानरेन्द्र मही तव ।  
 शेषे हि तां परिष्वज्य मां च न प्रतिभाषसे ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -152,12 +163,15 @@ her while you recline on her, without replying me. [3-23-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्य वशं प्राप्तो विधिरेष भवत्यहो ।  
 सुग्रीव एव विक्रान्तो वीर साहसिकप्रिय ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,6 +211,7 @@ in adventures, oho, is it fated to happen this way. [3-23-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +219,8 @@ in adventures, oho, is it fated to happen this way. [3-23-4]
 तेषां विलपितं कृच्छ्रमङ्गदस्य च शोचतः ॥ ५ ॥  
 मम चेमा गिरः श्रुत्वा किं त्वं न प्रतिबुध्यसे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,12 +269,15 @@ in keen, why do not you comeback to senses. [3-23-5, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तद् वीरशयनं तत्र शेषे हतो युधि ॥ ६ ॥  
 शायिता निहता यत्र त्वयैव रिपवः पुरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ once felled them in fights, or what? [3-23-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशुद्धसत्त्वाभिजन प्रिययुद्ध मम प्रिय ॥ ७ ॥  
 मामनाथां विहायैकां गतस्त्वमसि मानद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ my dear, have you gone on leaving me without a protector and lonely? [3-23-7b, 8
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूराय न प्रदातव्या कन्या खलु विपश्चिता ॥ ८ ॥  
 शूरभार्यां हतां पश्य सद्यो मां विधवां कृताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,12 +414,15 @@ places, uneducated, seekers of salvation, daring ones, un-wealthy brides shall n
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवभग्नश्च मे मानो भग्ना मे शाश्वती गतिः ॥ ९ ॥  
 अगाधे च निमग्नास्मि विपुले शोकसागरे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +462,15 @@ boundless ocean called anguish. [3-23-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्मसारमयं नूनमिदं मे हृदयं दृढम् ॥ १० ॥  
 भर्तारं निहतं दृष्ट्वा यन्नाद्य शतधा कृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,12 +511,15 @@ into hundredfold even on seeing my husband killed, it is definite. [3-23-10b, 11
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुहृच्चैव च भर्ता च प्रकृत्या च मम प्रियः ॥ ११ ॥  
 प्रहारे च पराक्रान्तः शूरः पञ्चत्वमागतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,12 +560,15 @@ the fifth state, the death. [3-23-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतिहीना तु या नारी कामं भवतु पुत्रिणी ॥ १२ ॥  
 धनधान्यसमृद्धापि विधवेत्युच्यते जनैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,12 +612,15 @@ people will call her a widow, if she is without husband. [3-23-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वगात्रप्रभवे वीर शेषे रुधिरमण्डले ॥ १३ ॥  
 कृमिरागपरिस्तोमे स्वकीये शयने यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,12 +655,15 @@ reclining on your own bed spread with a bed sheet of red blood colour? [3-23-13b
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेणुशोणितसंवीतं गात्रं तव समन्ततः ॥ १४ ॥  
 परिरब्धुं न शक्नोमि भुजाभ्यां प्लवगर्षभ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,12 +697,15 @@ dust covering your body comes in between. [3-23-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतकृत्योऽद्य सुग्रीवो वैरेऽस्मिन्नतिदारुणे ॥ १५ ॥  
 यस्य रामविमुक्तेन हृतमेकेषुणा भयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -700,12 +747,15 @@ too, is evanished. [3-23-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरेण हृदि लग्नेन गात्रसंस्पर्शने तव ॥ १६ ॥  
 वार्यामि त्वां निरीक्षन्ती त्वयि पञ्चत्वमागते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -745,12 +795,15 @@ in your chest is hindering me to embrace you..." Thus wailed Tara. [3-23-16b, 17
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्बबर्ह शरं नीलस्तस्य गात्रगतं तदा ॥ १७ ॥  
 गिरिगह्वरसंलीनं दीप्तमाशीविषं यथा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -790,12 +843,15 @@ of a firmly wedged sparkling snake from the cavity of a mound. [3-23-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य निष्कृष्यमाणस्य बाणस्यापि बभौ द्युतिः ॥ १८ ॥  
 अस्तमस्तकसंरुद्धरश्मेर्दिनकरादिव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -841,12 +897,15 @@ More brilliant days are indicated for the arrows of Rama as the dusky day of Val
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पेतुः क्षतजधारास्तु व्रणेभ्यस्तस्य सर्वशः ॥ १९ ॥  
 ताम्रगैरिकसम्पृक्ता धारा इव धराधरात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,12 +945,15 @@ from a mountain saturated with coppery mineral-ores. [3-23-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवकीर्णं विमार्जन्ती भर्तारं रणरेणुना ॥ २० ॥  
 अस्रैर्नयनजैः शूरं सिषेचास्त्रसमाहतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -934,12 +996,15 @@ that valiant one who is summarily hit by the missile of Rama. [3-23-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरोक्षितसर्वाङ्गं दृष्ट्वा विनिहतं पतिम् ॥ २१ ॥  
 उवाच तारा पिङ्गाक्षं पुत्रमङ्गदमङ्गना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -980,12 +1045,15 @@ Angada whose eyes are coppery-red. [3-23-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवस्थां पश्चिमां पश्य पितुः पुत्र सुदारुणाम् ॥ २२ ॥  
 सम्प्रसक्तस्य वैरस्य गतोऽन्तः पापकर्मणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1026,12 +1094,15 @@ harnessed by sinful deeds. [3-23-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालसूर्योज्ज्वलतनुं प्रयातं यमसादनम् ॥ २३ ॥  
 अभिवादय राजानं पितरं पुत्र मानदम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1069,12 +1140,15 @@ to Angada. [3-23-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः समुत्थाय जग्राह चरणौ पितुः ॥ २४ ॥  
 भुजाभ्यां पीनवृत्ताभ्यामङ्गदोऽहमिति ब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1115,12 +1189,15 @@ sinewy arms saying, "father, I am Angada..." [3-23-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवादयमानं त्वामङ्गदं त्वं यथा पुरा ॥ २५ ॥  
 दीर्घायुर्भव पुत्रेति किमर्थं नाभिभाषसे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1161,12 +1238,15 @@ Thus Tara is addressing Vali in her anguish. [3-23-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं पुत्रसहाया त्वामुपासे गतचेतनम् ।  
 सिंहेन पातितं सद्यो गौः सवत्सेव गोवृषम् ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1210,12 +1290,15 @@ cow that sits near her bull with its calf, when that bull is slain by a lion, ju
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्ट्वा सङ्ग्रामयज्ञेन रामप्रहरणाम्भसा ।  
 तस्मन्नवभृथे स्नातः कथं पत्न्या मया विना ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1267,12 +1350,15 @@ called ritual waters, and Tara is questioning him about her propriety to partici
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या दत्ता देवराजेन तव तुष्टेन संयुगे ।  
 शातकौम्भीं प्रियां मालां तां ते पश्यामि नेह किम् ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1316,12 +1402,15 @@ with your conduct in wars, I don't see it? [3-23-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यश्रीर्न जहाति त्वां गतासुमपि मानद ।  
 सूर्यस्यावर्तमानस्य शैलराजमिव प्रभा ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1365,6 +1454,7 @@ everything by its vastness. [3-23-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1373,6 +1463,8 @@ everything by its vastness. [3-23-29]
 हता सपुत्रास्मि हतेन संयुगे  
 सह त्वया श्रीर्विजहाति मामपि ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1429,5 +1521,6 @@ me too, in its entirety. [3-23-30]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तमूरनॆय सर्ग सम्पूर्णवायितु. ॥23॥
+</details>
 </details>
 

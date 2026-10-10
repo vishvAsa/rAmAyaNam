@@ -1,6 +1,8 @@
 +++
 title = "०९६ सुग्रीवेण विरूपाक्षवधः"
 +++
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **VI : Yuddha Kanda - Book Of
@@ -22,12 +24,15 @@ slap on the temple-bone of Virupaksha and kills him.
 
 96. सुग्रीवद्वारा राक्षससेनाका संहार और विरूपाक्षका वध
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तैः कृत्तगात्रैस्तु दशग्रीवेण मार्गणैः ।  
 बभूव वसुधा तत्र प्रकीर्णा हरिभिस्तदा ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +73,15 @@ whose bodies had thus been torn asunder by Ravana with his arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्याप्रसह्यं तं शरसम्पातमेकतः ।  
 न शेकुः सहितुं दीप्तं पतङ्गा ज्वलनं यथा ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,12 +121,15 @@ any more than moths would bear a blazing fire.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽर्दिता निशितैर्बाणैः क्रोशन्तो विप्रदुद्रुवुः ।  
 पावकार्चिः समाविष्टा दह्यमाना यथा गजाः ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +172,15 @@ when enveloped in flames of fire and getting scorched by them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लवङ्गानामनीकानि महाभ्राणीव मारुतः ।  
 संययौ समरे तस्मिन् विधमन् रावणः शरैः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,12 +220,15 @@ monkeys, like the wind blows away large clouds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदनं तरसा कृत्वा राक्षसेन्द्रो वनौकसाम् ।  
 आससाद ततो युद्धे त्वरितं राघवं रणे ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -251,12 +268,15 @@ Ravana quickly approached Rama on the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्तान् कपीन् दृष्ट्वा भग्नान् विद्रावितान् रणे ।  
 गुल्मे सुषेणं निक्षिप्य चक्रे युद्धे द्रुतं मनः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,12 +317,15 @@ charge of his army and quickly threw his mind into the fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मनः सदृशं वीरं स तं निक्षिप्य वानरम् ।  
 सुग्रीवोऽभिमुखं शत्रुं प्रतस्थे पादपायुधः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +365,15 @@ with the tree as a weapon, marched forward towards the enemy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्श्वतः पृष्ठतश्चास्य सर्वे वानरयूथपाः ।  
 अनुजग्मुर्महाशैलान् विविधांश्च वनस्पतीन् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,6 +413,7 @@ Sugreeva at his side and behind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -395,6 +422,8 @@ Sugreeva at his side and behind.
 ममर्द च महाकायो राक्षसान् वानरेश्वरः ।  
 युगान्तसमये वायुः प्रवृद्धानगमानिव ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,12 +476,15 @@ blows, he crushed various other chiefs of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानामनीकेषु शैलवर्षं ववर्ष ह ।  
 अश्मवर्षं यथा मेघः पक्षिसङ्घेषु कानने ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,12 +524,15 @@ hail-stones on a host of birds in a forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिराजविमुक्तैस्तैः शैलवर्षैस्तु राक्षसाः ।  
 विकीर्णशिरसः पेतुर्विकीर्णा इव पर्वताः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,6 +549,7 @@ hail-stones on a host of birds in a forest.
 
 वानरराजनु प्रयोगिसिद पर्वतगळ मळॆयिन्द राक्षसर तलॆगळु पुडियागि, कुसियुत्तिरुव पर्वतदन्तॆ धराशायिगळागुत्तिद्दरु.॥12॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,6 +558,8 @@ hail-stones on a host of birds in a forest.
 विरूपाक्षः स्वकं नाम धन्वी विश्राव्य राक्षसः ।  
 रथादाप्लुत्य दुर्धर्षो गजस्कन्धमुपारुहत् ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,12 +601,15 @@ elephant.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं द्विपमथारुह्य विरूपाक्षो महाबलः ।  
 ननर्द भीमनिर्ह्रादं वानरानभ्यधावत ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,12 +652,15 @@ rushed towards the monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवे स शरान् घोरान् विससर्ज चमूमुखे ।  
 स्थापयामास चोद्विग्नान् राक्षसान् सम्प्रहर्षयन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +701,15 @@ army. He strengthened his support to the worried demons, by cheering them up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽतिविद्धः शितैर्बाणैः कपीन्द्रस्तेन रक्षसा ।  
 चुक्रोश च महाक्रोधो वधे चास्य मनो दधे ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -702,12 +749,15 @@ demon, shouted loudly. With profuse anger, he set his mind on killing him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पादपमुद‍्धृत्य शूरः सम्प्रधनो हरिः ।  
 अभिपत्य जघानास्य प्रमुखे तं महागजम् ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,12 +797,15 @@ thorough fighter, struck it on its face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु प्रहाराभिहतः सुग्रीवेण महागजः ।  
 अपासर्पद् धनुर्मात्रं निषसाद ननाद च ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -786,6 +839,7 @@ yards, sank down and roared too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -794,6 +848,8 @@ yards, sank down and roared too.
 आर्षभं चर्म खड्गं च प्रगृह्य लघुविक्रमः ।  
 भर्त्सयन्निव सुग्रीवमाससाद व्यवस्थितम् ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -842,12 +898,15 @@ Sugreeva his enemy, approached him, who stood firm, threatening him as it were.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि तस्याभिसङ्क्रुद्धः प्रगृह्य विपुलां शिलाम् ।  
 विरूपाक्षस्य चिक्षेप सुग्रीवो जलदोपमाम् ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -887,12 +946,15 @@ threw it on Virupaksha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां शिलामापतन्तीं दृष्ट्वा राक्षसपुङ्गवः ।  
 अपक्रम्य सुविक्रान्तः खड्गेन प्राहरत् तदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,12 +988,15 @@ away, struck him with a sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन खड्गप्रहारेण रक्षसा बलिना हतः ।  
 मुहूर्तमभवद् भूमौ विसञ्ज्ञ इव वानरः ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -971,12 +1036,15 @@ unconscious on the ground, for a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहसा स तदोत्पत्य राक्षसस्य महाहवे ।  
 मुष्टिं संवर्त्य वेगेन पातयामास वक्षसि ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1010,6 +1078,7 @@ brought it down on the demon's chest violently.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1017,6 +1086,8 @@ brought it down on the demon's chest violently.
 तेन खड्गेन सङ्क्रुद्धः सुग्रीवस्य चमूमुखे ॥ २६ ॥  
 कवचं पातयामास पद्‍भ्यामभिहतोऽपतत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,12 +1125,15 @@ down from his feet.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स समुत्थाय पतितः कपिस्तस्य व्यसर्जयत् ॥ २७ ॥  
 तलप्रहारमशनेः समानं भीमनिःस्वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1099,12 +1173,15 @@ similar to a thunder.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तलप्रहारं तद् रक्षः सुग्रीवेण समुद्यतम् ॥ २८ ॥  
 नैपुण्यान्मोचयित्वैनं मुष्टिनोरसि ताडयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1145,6 +1222,7 @@ skillfully, Virupaksha the demon struck Sugreeva on the chest with his fist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1152,6 +1230,8 @@ skillfully, Virupaksha the demon struck Sugreeva on the chest with his fist.
 मोक्षितं चात्मनो दृष्ट्वा प्रहारं तेन रक्षसा ।  
 स ददर्शान्तरं तस्य विरूपाक्षस्य वानरः ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1204,6 +1284,7 @@ very much enraged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1212,6 +1293,8 @@ very much enraged.
 पपात रुधिरक्लिन्नः शोणितं हि समुद‍‍्गिरन् ।  
 स्रोतोभ्यस्तु विरूपाक्षो जलं प्रस्रवणादिव ॥ ३२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1267,6 +1350,7 @@ anus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1275,6 +1359,8 @@ anus.
 स्फुरन्तं परिवर्तन्तं पार्श्वेन रुधिरोक्षितम् ।  
 करुणं च विनर्दन्तं ददृशुः कपयो रिपुम् ॥ ३४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1345,6 +1431,7 @@ eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1353,6 +1440,8 @@ eyes.
 बलार्णवौ सस्वनतुश्च भीमौ  
 महार्णवौ द्वाविव भिन्नसेतू ॥ ३५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1398,6 +1487,7 @@ had burst their bounds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1406,6 +1496,8 @@ had burst their bounds.
 बलं समेतं कपिराक्षसाना-  
 मुद‍्वृत्तगङ्गाप्रतिमं बभूव ॥ ३६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1460,5 +1552,6 @@ together looked like the agitated river of Ganga.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तारनॆय सर्ग पूर्णवायितु.॥96॥
+</details>
 </details>
 
