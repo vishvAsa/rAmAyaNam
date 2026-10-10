@@ -2,6 +2,7 @@
 title = "०३० रावणेन शार्दूलप्रेषणम्"
 title_english = "030 Ravana dispatches Sardula the demon spy"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ monkeys.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-030-Ravana_dispatches_Sardula_the_demon-spy_1.mp3"></div>
 </details>
 
@@ -1660,6 +1662,8 @@ of Lanka (as a prospective gift from Rama) remains devoted to the good of Rama."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस प्रकार मैंने सुवेल पर्वतपर ठहरी हुई वानरसेनाकापूरा-पूरा वर्णन कर दिया । अब जो शेष कार्य है, वह आपके ही हाथ है’* ॥ ३५ ॥
+
+\\* इस सर्गमें जो वानरोंके जन्मका वर्णन किया गया है, वह प्रायः बालकाण्डके सत्रहवें सर्गमें किये गये वर्णनसे विरुद्ध है । वहाँ वरुणसे सुषेण, पर्जन्यसे शरभ और कुबेरसे गन्धमादनकी उत्पत्ति कही गयी है । परंतु इस सर्गमें सुषेणको धर्मका तथा शरभ और गन्धमादनको वैवस्वत यमका पुत्र कहा गया है । इस विरोधका परिहार यही है कि यहाँ कहे गये सुषेण आदि बालकाण्डवर्णित सुषेण आदिसे भिन्न हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1684,11 +1688,6 @@ Suvela. Now, it is for you to decide what remains to be done!"
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस सर्गमें जो वानरोंके जन्मका वर्णन किया गया है, वह प्रायः बालकाण्डके सत्रहवें सर्गमें किये गये वर्णनसे विरुद्ध है । वहाँ वरुणसे सुषेण, पर्जन्यसे शरभ और कुबेरसे गन्धमादनकी उत्पत्ति कही गयी है । परंतु इस सर्गमें सुषेणको धर्मका तथा शरभ और गन्धमादनको वैवस्वत यमका पुत्र कहा गया है । इस विरोधका परिहार यही है कि यहाँ कहे गये सुषेण आदि बालकाण्डवर्णित सुषेण आदिसे भिन्न हैं ।
-</details>
-
 <details><summary>समाप्तिः</summary>
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रिंशः सर्गः ॥ ३० ॥  
@@ -1700,4 +1699,3 @@ Suvela. Now, it is for you to decide what remains to be done!"
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तनॆय सर्गवु पूर्णवायितु.॥30॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०३५ सीता-हनुमत्संवादः"
 title_english = "035 Seetha asks Hanuma to describe the characteristics"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ in Lanka.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
 </details>
 
@@ -948,6 +950,8 @@ shanks and knees) equally matched."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘शरीरमें जो दो-दोकी संख्यामें चौदह* अङ्ग होते हैं, वे भी उनके परस्पर सम हैं । उनकी चारों कोनोंकी चारों दाढ़ें शास्त्रीय लक्षणोंसे युक्त हैं । वे सिंह, बाघ, हाथी और साँड़—इन चारके समान चार प्रकारकी गतिसे चलते हैं । उनके ओठ, ठोढ़ी और नासिका—सभी प्रशस्त हैं । केश, नेत्र, दाँत, त्वचा और पैरके तलवे—इन पाँचों अङ्गोंमें स्निग्धता भरी है । दोनों भुजाएँ, दोनों जाँघें, दोनों पिण्डलियाँ, हाथ और पैरोंकी अँगुलियाँ—ये आठ अङ्ग उत्तम लक्षणोंसे सम्पन्न (लंबे) हैं ॥ १९ ॥
+
+\\* भौंह, नथुने, नेत्र, कान, ओठ, स्तन, कोहनी, कलाई, जाँघ, घुटने, अण्डकोष, कमरके दोनों भाग, हाथ और पैर ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -979,10 +983,6 @@ thighs and shanks).
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* भौंह, नथुने, नेत्र, कान, ओठ, स्तन, कोहनी, कलाई, जाँघ, घुटने, अण्डकोष, कमरके दोनों भाग, हाथ और पैर ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4164,4 +4164,3 @@ in battle. I am a monkey born through wind-god and through his influence I am eq
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तैदनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

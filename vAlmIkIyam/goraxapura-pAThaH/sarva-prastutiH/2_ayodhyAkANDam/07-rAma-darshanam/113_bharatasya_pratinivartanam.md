@@ -2,6 +2,7 @@
 title = "११३ भरतस्य प्रतिनिवर्तनम्"
 title_english = "113 Keeping Rama s sandals on his head Bharata ascends his chariot"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,6 +20,7 @@ peace and harmony in Ayodhya.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
 </details>
 
@@ -244,6 +246,8 @@ with his troops along the side of the mountain.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 चित्रकूटसे थोड़ी ही दूर जानेपर भरतने वह आश्रम देखा, जहाँ मुनिवर भरद्वाजजी निवास करते थे* ॥ ५ ॥
+
+\\* यह आश्रम यमुनासे दक्षिण दिशामें चित्रकूटके कुछ निकट था । गङ्गा और यमुनाके बीच प्रयागवाला आश्रम, जहाँ वनमें जाते समय श्रीरामचन्द्रजी तथा भरत आदिने विश्राम किया था, इससे भिन्न जान पड़ता है । तभी इस आश्रमपर भरद्वाजसे मिलनेके बाद भरत आदिके यमुना पार करनेका उल्लेख मिलता है—‘ततस्ते यमुनां दिव्यां नदीं तीर्त्वोर्मिमालिनीम् ।’ इस द्वितीय आश्रमसे श्रीराम और भरतके समागमका समाचार शीघ्र प्राप्त हो सकता था; इसीलिये भरद्वाजजी भरतके लौटनेके समय यहीं मौजूद थे ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -268,10 +272,6 @@ Bharadwaja resided.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह आश्रम यमुनासे दक्षिण दिशामें चित्रकूटके कुछ निकट था । गङ्गा और यमुनाके बीच प्रयागवाला आश्रम, जहाँ वनमें जाते समय श्रीरामचन्द्रजी तथा भरत आदिने विश्राम किया था, इससे भिन्न जान पड़ता है । तभी इस आश्रमपर भरद्वाजसे मिलनेके बाद भरत आदिके यमुना पार करनेका उल्लेख मिलता है—‘ततस्ते यमुनां दिव्यां नदीं तीर्त्वोर्मिमालिनीम् ।’ इस द्वितीय आश्रमसे श्रीराम और भरतके समागमका समाचार शीघ्र प्राप्त हो सकता था; इसीलिये भरद्वाजजी भरतके लौटनेके समय यहीं मौजूद थे ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1214,4 +1214,3 @@ miserable, and with an impeded voice."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिमूरनॆय सर्ग पूर्णवायितु ॥113॥
 </details>
 </details>
-

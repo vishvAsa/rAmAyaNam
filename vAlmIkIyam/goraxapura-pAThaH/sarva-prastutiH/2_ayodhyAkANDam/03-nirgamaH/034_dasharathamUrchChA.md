@@ -2,9 +2,11 @@
 title = "०३४ दशरथमूर्च्छा"
 title_english = "034 Rama consoles Dasaratha"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-034-Dasharatha_Murchchaa.mp3"></div>
 </details>
 
@@ -1771,6 +1773,8 @@ upset. Then Rama spoke these words.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाराज! आज यात्रा करके मैं जिन गुणों (लाभों) को पाऊँगा, उन्हें कल कौन मुझे देगा?* अतः मैं सम्पूर्ण कामनाओंके बदले आज यहाँसे निकल जाना ही अच्छा समझता हूँ और इसीका वरण करता हूँ ॥
+
+\\* ‘प्राप्स्यामि......इस आधे श्लोकका अर्थ यह भी हो सकता है कि आज यहाँ रहकर जिन उत्तमोत्तम अभीष्ट पदार्थोंको मैं पाऊँगा, उन्हें कलसे कौन देगा?
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1796,10 +1800,6 @@ me tomorrow? Therefore I desire only to get away in lieu of all these enjoyments
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ‘प्राप्स्यामि......इस आधे श्लोकका अर्थ यह भी हो सकता है कि आज यहाँ रहकर जिन उत्तमोत्तम अभीष्ट पदार्थोंको मैं पाऊँगा, उन्हें कलसे कौन देगा?
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2849,4 +2849,3 @@ into a swoon, while weeping. Everything there became loud lamenting.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥34॥
 </details>
 </details>
-

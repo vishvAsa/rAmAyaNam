@@ -2,6 +2,7 @@
 title = "००९ रावणान्तःपुरवर्णनम्"
 title_english = "009 The inner buildings of Ravana s house"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ through a hall filled with Ravana's wives.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-009-The_inner_buildings_of_Ravana_s_house.mp3"></div>
 </details>
 
@@ -1903,6 +1905,8 @@ sky in autumn shone by stars.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय हनुमान् जी को ऐसा मालूम हुआ कि आकाश (स्वर्ग)-से भोगावशिष्ट पुण्यके साथ जो ताराएँ नीचे गिरती हैं, वे सब-की-सब मानो यहाँ इन सुन्दरियोंके रूपमें एकत्र हो गयी हैं* ॥ ४२ ॥
+
+\\* इस श्लोकमें ‘अत्युक्ति’ अलंकार है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1927,10 +1931,6 @@ surrounded by stars.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस श्लोकमें ‘अत्युक्ति’ अलंकार है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3009,12 +3009,10 @@ flower garland with dragon flies on it tied in thread.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 यद्यपि उन युवतियोंके वस्त्र, अंग, आभूषण और हार उचित स्थानोंपर ही प्रतिष्ठित थे, यह बात स्पष्ट दिखायी दे रही थी, तथापि उन सबके परस्पर गुँथ जानेके कारण यह विवेक होना असम्भव हो गया था कि कौन वस्त्र, आभूषण, अंग अथवा हार किसके हैं* ॥
+
+\\* इस श्लोकमें ‘भ्रान्तिमान्’ नामक अलंकार है ।
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस श्लोकमें ‘भ्रान्तिमान्’ नामक अलंकार है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3420,4 +3418,3 @@ with her.
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऒम्भत्तनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

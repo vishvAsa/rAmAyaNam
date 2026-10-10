@@ -2,6 +2,7 @@
 title = "००१ रामेण पम्पातीरे विलापः"
 title_english = "001 Sri Rama at Pampa Lake lamenting for Seetha"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -40,6 +41,7 @@ and Lakshmana entering into his territory, flees into deep forests, fearing them
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-001-Rama_Vilapaha.mp3"></div>
 </details>
 
@@ -1815,6 +1817,8 @@ and Lakshmana, similarly enchanting is this vernal season to her... [4-1-31b, 32
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अनङ्गवेदनासे उत्पन्न हुई शोकाग्नि वसन्तऋतुके गुणोंका* ईंधन पाकर बढ़ गयी है; जान पड़ता है, यह मुझे शीघ्र ही अविलम्ब जला देगी ॥ ३२ १/२ ॥
+
+\\* मन्द-मन्द मलयानिलका चलना, वनके वृक्षोंका नूतन पल्लवों और फूलोंसे सज जाना, कोकिलोंका कूकना, कमलोंका खिल जाना तथा सब ओर मधुर सुगन्धका छा जाना आदि वसन्तके गुण हैं, जो विरहीकी शोकाग्निको उद्दीप्त करते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1839,10 +1843,6 @@ will swiftly burn me down in no time... [4-1-32]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* मन्द-मन्द मलयानिलका चलना, वनके वृक्षोंका नूतन पल्लवों और फूलोंसे सज जाना, कोकिलोंका कूकना, कमलोंका खिल जाना तथा सब ओर मधुर सुगन्धका छा जाना आदि वसन्तके गुण हैं, जो विरहीकी शोकाग्निको उद्दीप्त करते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2215,6 +2215,8 @@ after his female... [4-1-39b, 40a]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘निश्चय ही वनमें किसी राक्षसने मोरकी प्रियाका अपहरण नहीं किया है, इसीलिये यह रमणीय वनोंमें अपनी वल्लभाके साथ नृत्य कर रहा है* ॥ ४० १/२ ॥
+
+\\* रामायणशिरोमणिकार इस श्लोकके पूर्वार्धका अर्थ यों लिखते हैं—निश्चय ही इस मोरके निवासभूत वनमें उस राक्षसने मेरी प्रिया सीताका अपहरण नहीं किया; नहीं तो यह भी उसीके शोकमें डूबा रहता ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2238,10 +2240,6 @@ forests... [4-1-40b, 41a]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* रामायणशिरोमणिकार इस श्लोकके पूर्वार्धका अर्थ यों लिखते हैं—निश्चय ही इस मोरके निवासभूत वनमें उस राक्षसने मेरी प्रिया सीताका अपहरण नहीं किया; नहीं तो यह भी उसीके शोकमें डूबा रहता ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6712,4 +6710,3 @@ and sheltering them. [4-1-130]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मॊदलनॆय सर्ग सम्पूर्णवायितु.॥1॥
 </details>
 </details>
-

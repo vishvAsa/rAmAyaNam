@@ -2,6 +2,7 @@
 title = "०५३ राम-लक्ष्मणसंवादः"
 title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ the forest with him.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-053-Rama_Lakshmana_Samvadhaha.mp3"></div>
 </details>
 
@@ -250,6 +252,8 @@ it by straw, leaves and so on, procured by our own hands."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जो बहुमूल्य शय्यापर सोनेके योग्य थे, वे श्रीराम भूमिपर ही बैठकर सुमित्राकुमार लक्ष्मणसे ये शुभ बातें कहने लगे—* ॥ ५ ॥
+
+\\* श्लोक ६ से लेकर २६ तक श्रीरामचन्द्रजीने जो बातें कही हैं, वे लक्ष्मणकी परीक्षाके लिये तथा उन्हें अयोध्या लौटानेके लिये कही गयी हैं; वास्तवमें उनकी ऐसी मान्यता नहीं थी । यही बात यहाँ सभी व्याख्याकारोंने स्वीकार की है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -274,10 +278,6 @@ uttered the following suitable words to Lakshmana:
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* श्लोक ६ से लेकर २६ तक श्रीरामचन्द्रजीने जो बातें कही हैं, वे लक्ष्मणकी परीक्षाके लिये तथा उन्हें अयोध्या लौटानेके लिये कही गयी हैं; वास्तवमें उनकी ऐसी मान्यता नहीं थी । यही बात यहाँ सभी व्याख्याकारोंने स्वीकार की है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1773,4 +1773,3 @@ couple of lions on the slopes of a mountain.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
 </details>
 </details>
-

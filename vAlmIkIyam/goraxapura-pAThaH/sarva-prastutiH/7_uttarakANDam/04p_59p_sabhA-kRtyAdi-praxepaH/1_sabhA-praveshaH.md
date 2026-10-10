@@ -3,10 +3,9 @@ title = "१ सभा-प्रवेशः"
 +++
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>पादटिप्पनी</summary>
 
-* कुछ प्रतियोंमें यहाँ तीन सर्ग और मिलते हैं, जिनपर संस्कृत-टीकाकारोंकी व्याख्या न मिलनेसे इन्हें प्रक्षिप्त बताया गया है । इनमेंसे दो सर्ग उपयोगी होनेके कारण यहाँ अनुवादसहित दिये जा रहे हैं ।
+\\* कुछ प्रतियोंमें यहाँ तीन सर्ग और मिलते हैं, जिनपर संस्कृत-टीकाकारोंकी व्याख्या न मिलनेसे इन्हें प्रक्षिप्त बताया गया है । इनमेंसे दो सर्ग उपयोगी होनेके कारण यहाँ अनुवादसहित दिये जा रहे हैं ।
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -24,7 +23,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 ततः प्रभाते विमले कृत्वा पौर्वाह्णिकीं क्रियाम् ।  
@@ -51,7 +49,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 मन्त्रिभिर्व्यवहारज्ञैस्तथान्यैर्धर्मपाठकैः ।  
@@ -76,7 +73,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 सभा यथा महेन्द्रस्य यमस्य वरुणस्य च ।  
@@ -102,7 +98,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 अथ रामोऽब्रवीत् तत्र लक्ष्मणं शुभलक्षणम् ।  
@@ -129,7 +124,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 रामस्य भाषितं श्रुत्वा लक्ष्मणः शुभलक्षणः ॥ ६ ॥  
@@ -155,7 +149,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 नाधयो व्याधयश्चैव रामे राज्यं प्रशासति ।  
@@ -180,7 +173,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 न बालो म्रियते तत्र न युवा न च मध्यमः ।  
@@ -205,7 +197,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 दृश्यते न च कार्यार्थी रामे राज्यं प्रशासति ।  
@@ -230,7 +221,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 अथ रामः प्रसन्नात्मा सौमित्रिमिदमब्रवीत् ।  
@@ -255,7 +245,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 सम्यक्प्रणीतया नीत्या नाधर्मो विद्यते क्वचित् ।  
@@ -280,7 +269,6 @@ title = "१ सभा-प्रवेशः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 बाणा इव मया मुक्ता इह रक्षन्ति मे प्रजाः ।  
@@ -310,7 +298,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु सौमित्रिर्निर्जगाम नृपालयात् ।  
@@ -337,7 +324,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 किं ते कार्यं महाभाग ब्रूहि विस्रब्धमानसः ।  
@@ -362,7 +348,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 सर्वभूतशरण्याय रामायाक्लिष्टकर्मणे ।  
@@ -387,7 +372,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 एतच्छ्रुत्वा च वचनं सारमेयस्य लक्ष्मणः ।  
@@ -412,7 +396,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 निवेद्य रामस्य पुनर्निर्जगाम नृपालयात् ।  
@@ -439,7 +422,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 लक्ष्मणस्य वचः श्रुत्वा सारमेयोऽभ्यभाषत ।  
@@ -466,7 +448,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 प्रवेष्टुं नात्र शक्ष्यामि धर्मो विग्रहवान् नृपः ।  
@@ -491,7 +472,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 षाड्गुण्यस्य पदं वेत्ति नीतिकर्ता स राघवः ।  
@@ -516,7 +496,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 स सोमः स च मृत्युश्च स यमो धनदस्तथा ।  
@@ -541,7 +520,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 तस्य त्वं ब्रूहि सौमित्रे प्रजापालः स राघवः ।  
@@ -566,7 +544,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 आनृशंस्यान्महाभागः प्रविवेश महाद्युतिः ।  
@@ -591,7 +568,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 श्रूयतां मम विज्ञाप्यं कौसल्यानन्दवर्धन ।  
@@ -617,7 +593,6 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 श्वा वै ते तिष्ठते द्वारि कार्यार्थी समुपागतः ।  
@@ -646,4 +621,3 @@ _________________
 प्रक्षिप्त ऒन्दनॆय सर्ग पूर्णवायितु.
 </details>
 </details>
-

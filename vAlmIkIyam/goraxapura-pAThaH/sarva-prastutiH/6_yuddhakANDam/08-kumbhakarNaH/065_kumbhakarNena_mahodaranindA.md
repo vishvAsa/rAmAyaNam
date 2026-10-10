@@ -2,6 +2,7 @@
 title = "०६५ कुम्भकर्णेन महोदरनिन्दा"
 title_english = "065 Kumbhakarna rebukes Mahodara"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -20,6 +21,7 @@ form of Kumbhakarna, all the monkeys get frightened and take to their heels.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-065-Kumbhakarna_rebukes_Mahodara___0.mp3"></div>
 </details>
 
@@ -1761,6 +1763,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनके नेत्र रोषसे लाल हो रहे थे । वे सभी कई व्याम* ऊँचे और काले कोयलेके ढेरकी भाँति काले थे । उन्होंने अपने हाथोंमें शूल, तलवार, तीखी धारवाले फरसे, भिन्दिपाल, परिघ, गदा, मूसल, बड़े-बड़े ताड़के वृक्षोंके तने और जिन्हें कोई काट न सके, ऐसी गुलेलें ले रखी थीं ॥ ३८-३९ ॥
+
+\\* लंबाईका एक नाप । दोनों भुजाओंको दोनों ओर फैलानेपर एक हाथकी उँगलियोंके सिरेसे दूसरे हाथकी उँगलियोंके सिरेतक जितनी दूरी होती है, उसे ‘व्याम’ कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1790,10 +1794,6 @@ mallets, enormous trunks of palmyrah trees to be hurled at and difficult to be m
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* लंबाईका एक नाप । दोनों भुजाओंको दोनों ओर फैलानेपर एक हाथकी उँगलियोंके सिरेसे दूसरे हाथकी उँगलियोंके सिरेतक जितनी दूरी होती है, उसे ‘व्याम’ कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2635,4 +2635,3 @@ troops of monkeys.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तैदनॆय सर्ग पूर्णवायितु.॥65॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०२७ सीतायाः वनगमननिश्चयः"
 title_english = "027 Seetha s wish to go to forest along with Rama"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,6 +15,7 @@ In this chapter Seetha asks Rama to take her to the forest.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-027-Sitayaaha_Vanagamana_Nishchayaha.mp3"></div>
 </details>
 
@@ -398,6 +400,10 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अतः वीर! आप ईर्ष्या१ और रोषको२ दूर करके पीनेसे३ बचे हुए जलकी भाँति मुझे निःशङ्क होकर साथ ले चलिये । मुझमें ऐसा कोई पाप—अपराध नहीं है, जिसके कारण आप मुझे यहाँ त्याग दें ॥ ८ ॥
+
+१. स्त्री होकर यह वनमें जानेका साहस कैसे करती है? इस विचारसे ईर्ष्या होती है ।  
+२. यह मेरी बात नहीं मान रही है, यह सोचकर रोष प्रकट होता है । इन दोनोंका त्याग अपेक्षित है ।  
+३. जैसे किसी जलहीन बीहड़ पथमें लोग अपने पीनेसे बचे हुए पानीको साथ ले चलते हैं, उसी प्रकार मुझे भी आप साथ ले चलें—यह सीताका अनुरोध है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -423,12 +429,6 @@ positions."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. स्त्री होकर यह वनमें जानेका साहस कैसे करती है? इस विचारसे ईर्ष्या होती है ।  
-२. यह मेरी बात नहीं मान रही है, यह सोचकर रोष प्रकट होता है । इन दोनोंका त्याग अपेक्षित है ।  
-३. जैसे किसी जलहीन बीहड़ पथमें लोग अपने पीनेसे बचे हुए पानीको साथ ले चलते हैं, उसी प्रकार मुझे भी आप साथ ले चलें—यह सीताका अनुरोध है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1229,4 +1229,3 @@ face in a forest.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तेळनॆय सर्ग पूर्णवायितु ॥27॥
 </details>
 </details>
-

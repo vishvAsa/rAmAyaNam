@@ -2,6 +2,7 @@
 title = "०९२ भरतप्रस्थानम्"
 title_english = "092 Bharata approaches Bharadwaja"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -23,6 +24,7 @@ his retinue.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-092-Bharatha_Prasthanam.mp3"></div>
 </details>
 
@@ -501,6 +503,8 @@ The highly glorious Bharadwaaja, of rigid asceticism, thus questioned by Bharata
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भरत! यहाँसे ढाई योजन (दस कोस)* की दूरीपर एक निर्जन वनमें चित्रकूट नामक पर्वत है, जहाँके झरने और वन बड़े ही रमणीय हैं (प्रयागसे चित्रकूटकी आधुनिक दूरी लगभग २८ कोस है) ॥ १० ॥
+
+\\* सर्ग ५४ के श्लोक २८ में मूल ग्रन्थमें दस कोसकी दूरी लिखी है और यहाँ ढाई योजन । दोनों स्थलोंमें दस कोसका ही संकेत है । रामायणशिरोमणि नामक व्याख्यामें दोनों जगह कपि-जलाधिकरणन्यायसे अथवा एकशेषके द्वारा यह दूरी तिगुनी करके दिखायी गयी है । प्रयागसे चित्रकूटकी दूरी लगभग २८ कोसकी मानी जाती है । रामायणशिरोमणिकारकी मान्यताके अनुसार ३० कोसकी दूरीमें और इस दूरीमें अधिक अन्तर नहीं है । मीलका माप पुराने क्रोश-मानकी अपेक्षा छोटा है, इसलिये ८० मीलकी यह दूरी मानी जाती है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -526,10 +530,6 @@ Chitrakuta, in the middle of a lonely forest with its charming Cascades and grov
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* सर्ग ५४ के श्लोक २८ में मूल ग्रन्थमें दस कोसकी दूरी लिखी है और यहाँ ढाई योजन । दोनों स्थलोंमें दस कोसका ही संकेत है । रामायणशिरोमणि नामक व्याख्यामें दोनों जगह कपि-जलाधिकरणन्यायसे अथवा एकशेषके द्वारा यह दूरी तिगुनी करके दिखायी गयी है । प्रयागसे चित्रकूटकी दूरी लगभग २८ कोसकी मानी जाती है । रामायणशिरोमणिकारकी मान्यताके अनुसार ३० कोसकी दूरीमें और इस दूरीमें अधिक अन्तर नहीं है । मीलका माप पुराने क्रोश-मानकी अपेक्षा छोटा है, इसलिये ८० मीलकी यह दूरी मानी जाती है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1725,4 +1725,3 @@ there.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॆरडनॆय सर्ग पूर्णवायितु.॥92॥
 </details>
 </details>
-

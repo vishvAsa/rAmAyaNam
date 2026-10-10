@@ -2,6 +2,7 @@
 title = "०१३ अशोकवाटिकाप्रस्थानम्"
 title_english = "013 Hanuma starts to search in Ashoka garden"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ Ashoka garden to continue his search.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
 </details>
 
@@ -51,6 +53,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वानरयूथपति हनुमान् विमानसे उतरकर महलके परकोटेपर चढ़ आये । वहाँ आकर वे मेघमालाके अंकमें चमकती हुई बिजलीके समान बड़े वेगसे इधर-उधर घूमने लगे* ॥ १ ॥
+
+\\* घनमालामें विद्युत् की उपमासे यह ध्वनित होता है कि रावणका वह परकोटा इन्द्रनीलमणिका बना हुआ था और उसपर सुवर्णके समान गौर कान्तिवाले हनुमान् जी  विद्युत् के समान प्रतीत होते थे ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -75,10 +79,6 @@ lighting in the middle of a cloud.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* घनमालामें विद्युत् की उपमासे यह ध्वनित होता है कि रावणका वह परकोटा इन्द्रनीलमणिका बना हुआ था और उसपर सुवर्णके समान गौर कान्तिवाले हनुमान् जी  विद्युत् के समान प्रतीत होते थे ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3300,4 +3300,3 @@ a cruel action, with a horribly decorated form will fall in the range of my sigh
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हदिमूरनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

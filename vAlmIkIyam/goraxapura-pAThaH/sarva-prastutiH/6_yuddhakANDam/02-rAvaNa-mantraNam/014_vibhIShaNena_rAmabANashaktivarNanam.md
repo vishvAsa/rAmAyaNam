@@ -2,6 +2,7 @@
 title = "०१४ विभीषणेन रामबाणशक्तिवर्णनम्"
 title_english = "014 Vibhishana informs about the power of Rama s arrow"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ to save Ravana by giving back Sita to Rama.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-014-Vibhishana_informs_about_the_power_of_Rama_s_arrow.mp3"></div>
 </details>
 
@@ -940,6 +942,11 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ये महाराज रावण तो व्यसनोंके* वशीभूत हैं, इसलिये सोच-विचारकर काम नहीं करते हैं । इसके सिवा ये स्वभावसे ही कठोर हैं तथा राक्षसोंके सत्यानाशके लिये तुम-जैसे शत्रुतुल्य मित्रकी सेवामें उपस्थित रहते हैं ॥
+
+\\* राजाओंमें सात व्यसन माने गये हैं—  
+वाग्दण्डयोस्तु पारुष्यमर्थदूषणमेव च ।  
+पानं स्त्री मृगया द्यूतं व्यसनं सप्तधा प्रभो ॥  
+(कामन्दक नीतिका वचन गोविन्दराजकी टीका रामायण-भूषणसे) वाणी और दण्डकी कठोरता, धनका अपव्यय, मद्यपान, स्त्री, मृगया और द्यूत—ये राजाके सात प्रकारके व्यसन हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -973,13 +980,6 @@ hunting and gambling.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* राजाओंमें सात व्यसन माने गये हैं—  
-वाग्दण्डयोस्तु पारुष्यमर्थदूषणमेव च ।  
-पानं स्त्री मृगया द्यूतं व्यसनं सप्तधा प्रभो ॥  
-(कामन्दक नीतिका वचन गोविन्दराजकी टीका रामायण-भूषणसे) वाणी और दण्डकी कठोरता, धनका अपव्यय, मद्यपान, स्त्री, मृगया और द्यूत—ये राजाके सात प्रकारके व्यसन हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1287,4 +1287,3 @@ king."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिनाल्कनॆय सर्ग पूर्णवायितु.॥14॥
 </details>
 </details>
-

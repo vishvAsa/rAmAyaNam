@@ -2,6 +2,7 @@
 title = "००७ हनुमता पुष्पकविमानदर्शनम्"
 title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ aerial plane Pushpaka in Ravana's building.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-007-Hanuma_sees_Pushpaka_in_Ravana_s_inner_city.mp3"></div>
 </details>
 
@@ -527,6 +529,8 @@ peak, looking picturesque with numerous minerals.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस विमानकी आधारभूमि (आरोहियोंके खड़े होनेका स्थान) सोने और मणियोंके द्वारा निर्मित कृत्रिम पर्वत-मालाओंसे पूर्ण बनायी गयी थी । वे पर्वत वृक्षोंकी विस्तृत पंक्तियोंसे हरे-भरे रचे गये थे । वे वृक्ष फूलोंके बाहुल्यसे व्याप्त बनाये गये थे तथा वे पुष्प भी केसर एवं पंखुड़ियोंसे पूर्ण निर्मित हुए थे* ॥ ९ ॥
+
+\\* जहाँ पूर्वकथित वस्तुओंके प्रति उत्तरोत्तर कथित वस्तुओंका विशेषण-भावसे स्थापन किया जाय, वहाँ ‘एकावली’ अलंकार माना गया है । इस लक्षणके अनुसार इस श्लोकमें एकावली अलंकार है । यहाँ ‘मही’ का विशेषण पर्वत, पर्वतका वृक्ष और वृक्षका विशेषण पुष्प आदि समझना चाहिये । गोविन्दराजने यहाँ ‘अधिक’ नामक अलंकार माना है, परंतु जहाँ आधारसे आधेयकी विशेषता बतायी गयी हो वही इसका विषय है; यहाँ ऐसी बात नहीं है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -554,10 +558,6 @@ filaments and petals.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* जहाँ पूर्वकथित वस्तुओंके प्रति उत्तरोत्तर कथित वस्तुओंका विशेषण-भावसे स्थापन किया जाय, वहाँ ‘एकावली’ अलंकार माना गया है । इस लक्षणके अनुसार इस श्लोकमें एकावली अलंकार है । यहाँ ‘मही’ का विशेषण पर्वत, पर्वतका वृक्ष और वृक्षका विशेषण पुष्प आदि समझना चाहिये । गोविन्दराजने यहाँ ‘अधिक’ नामक अलंकार माना है, परंतु जहाँ आधारसे आधेयकी विशेषता बतायी गयी हो वही इसका विषय है; यहाँ ऐसी बात नहीं है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1061,4 +1061,3 @@ about in the city of Lanka became greatly sorrowful on not seeing Seetha.
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि एळनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

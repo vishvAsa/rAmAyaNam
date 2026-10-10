@@ -2,6 +2,7 @@
 title = "०११ ऋष्यशृङ्गागमनम्"
 title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,6 +16,7 @@ On the advice of his minister Sumantra, Dasharatha proceeds to Anga kingdom to
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-011-Rushya_Shrungaagamanam.mp3"></div>
 </details>
 
@@ -154,6 +156,8 @@ resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘उनकी अंगराजके साथ मित्रता होगी । दशरथके एक परम सौभाग्यशालिनी कन्या होगी, जिसका नाम होगा ‘शान्ता’* । अंगदेशके राजकुमारका नाम होगा ‘रोमपाद’ । महायशस्वी राजा दशरथ उनके पास जायँगे और कहेंगे—‘धर्मात्मन्! मैं संतानहीन हूँ । यदि आप आज्ञा दें तो शान्ताके पति ऋष्यशृंग मुनि चलकर मेरा यज्ञ करा दें । इससे मुझे पुत्रकी प्राप्ति होगी और मेरे वंशकी रक्षा हो जायगी’ ॥ ३—५ ॥
+
+\\* शान्ता राजा दशरथ एवं कौसल्याकी औरस पुत्री थी । उन्होंने राजा रोमपादको उसे दत्तक पुत्रीके रूपमें दिया था । इस प्रकार वह राजा दशरथकी औरसी और राजा रोमपादकी दत्तक कन्या थी । (श्रीविष्णुपुराण ४ ।१८ ।१७-१८)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -218,10 +222,6 @@ marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* शान्ता राजा दशरथ एवं कौसल्याकी औरस पुत्री थी । उन्होंने राजा रोमपादको उसे दत्तक पुत्रीके रूपमें दिया था । इस प्रकार वह राजा दशरथकी औरसी और राजा रोमपादकी दत्तक कन्या थी । (श्रीविष्णुपुराण ४ ।१८ ।१७-१८)
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1483,4 +1483,3 @@ by these Ritwik-s. Hence, Ritwik-hood is the highest.
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हन्नॊन्दनॆय सर्ग पूर्णवायितु. ॥11॥
 </details>
 </details>
-

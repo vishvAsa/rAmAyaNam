@@ -2,6 +2,7 @@
 title = "०२३ राक्षसीकृतसीताभीषणम्"
 title_english = "023 Ogres frighten Seetha"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,6 +15,7 @@ This chapter describes the ogre women speaking to Seetha about her marrying Rava
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-023-Ogres_frighten_Seetha.mp3"></div>
 </details>
 
@@ -278,6 +280,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विदेहकुमारी! पुलस्त्यजी छः* प्रजापतियोंमें चौथे हैं और ब्रह्माजीके मानस पुत्र हैं । इस रूपमें उनकी सर्वत्र ख्याति है ॥ ६ ॥
+
+\\* मरीचि, अत्रि, अङ्गिरा, पुलस्त्य, पुलह और क्रतु—ये छः प्रजापति हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -301,10 +305,6 @@ _________________
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* मरीचि, अत्रि, अङ्गिरा, पुलस्त्य, पुलह और क्रतु—ये छः प्रजापति हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +433,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इसके बाद बिल्लीके समान भूरे आँखोंवाली हरिजटा नामकी राक्षसीने क्रोधसे आँखें फाड़कर कहना आरम्भ किया—‘अरी! जिन्होंने तैंतीसों* देवताओं तथा देवराज इन्द्रको भी परास्त कर दिया है, उन राक्षसराज रावणकी रानी तो तुम्हें अवश्य बन जाना चाहिये ॥
+
+\\* बारह आदित्य, ग्यारह रुद्र, आठ वसु और दो अश्विनीकुमार—ये तैंतीस देवता हैं ।
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -452,10 +454,6 @@ the wife of that lord of ogres.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* बारह आदित्य, ग्यारह रुद्र, आठ वसु और दो अश्विनीकुमार—ये तैंतीस देवता हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,4 +821,3 @@ the sun will not comsume by heat, fearing whom the win will not blow, to that on
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तमूरनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

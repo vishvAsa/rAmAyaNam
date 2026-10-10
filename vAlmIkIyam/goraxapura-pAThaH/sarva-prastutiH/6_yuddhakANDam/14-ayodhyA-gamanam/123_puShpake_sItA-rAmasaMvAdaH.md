@@ -1,6 +1,7 @@
 +++
 title = "१२३ पुष्पके सीता-रामसंवादः"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ hermitage of Bharadwaja, Ganga-river, Sarayu-river and finally the City of Ayodh
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-123-Rama_shows_to_Seetha_the_places_0.mp3"></div>
 </details>
 
@@ -1050,6 +1052,8 @@ feeling timid through love, then spoke the following courteous words to Rama.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महाराज! मैं सुग्रीवकी तारा आदि प्रिय भार्याओं तथा अन्य वानरेश्वरोंकी स्त्रियोंको साथ लेकर आपके साथ अपनी राजधानी अयोध्यामें चलना चाहती हूँ’* ॥ २४-२५ ॥
+
+\\* सीताजीने जो यहाँ वानरोंकी स्त्रियोंको साथ ले चलनेकी इच्छा प्रकट की है, इसके लिये किष्किन्धामें विमानको रोककर सबको एक दिन रुकना पड़ा । ऐसा रामायण-तिलककारका मत है । उनके कथनानुसार आश्विन शुक्ला चतुर्थीको किष्किन्धामें रहकर पञ्चमीको वहाँसे प्रस्थान किया गया था । भगवान् रामने वहाँ रुककर उसी दिन अङ्गदका किष्किन्धाके युवराजपदपर अभिषेक करवाया था, जैसा कि महाभारत, वनपर्व अध्याय २९१ श्लोक ५८-५९ से सूचित होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1075,10 +1079,6 @@ the wives of other monkey-chiefs with Tara and other beloved wives of Sugreeva."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* सीताजीने जो यहाँ वानरोंकी स्त्रियोंको साथ ले चलनेकी इच्छा प्रकट की है, इसके लिये किष्किन्धामें विमानको रोककर सबको एक दिन रुकना पड़ा । ऐसा रामायण-तिलककारका मत है । उनके कथनानुसार आश्विन शुक्ला चतुर्थीको किष्किन्धामें रहकर पञ्चमीको वहाँसे प्रस्थान किया गया था । भगवान् रामने वहाँ रुककर उसी दिन अङ्गदका किष्किन्धाके युवराजपदपर अभिषेक करवाया था, जैसा कि महाभारत, वनपर्व अध्याय २९१ श्लोक ५८-५९ से सूचित होता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2379,4 +2379,3 @@ Amaravathi, the City of Indra the lord of Celestials.
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ तेईसवाँ सर्ग पूरा हुआ ॥ १२३ ॥
 </details>
 </details>
-

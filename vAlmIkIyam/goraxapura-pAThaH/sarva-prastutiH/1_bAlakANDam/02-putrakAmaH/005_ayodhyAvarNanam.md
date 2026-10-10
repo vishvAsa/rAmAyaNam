@@ -2,6 +2,7 @@
 title = "००५ अयोध्यावर्णनम्"
 title_english = "005 City ayodhya detailed"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,6 +17,7 @@ along with its town planning and grandeur of the city, and its residents.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-005-Ayodhya_Varnavam.mp3"></div>
 </details>
 
@@ -751,6 +753,8 @@ she is adorned, and filled with them she is like Amaravati, the capital of Indra
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसकी शोभा विचित्र थी । उसके महलोंपर सोनेका पानी चढ़ाया गया था (अथवा वह पुरी द्यूतफलकके* आकारमें बसायी गयी थी) । श्रेष्ठ एवं सुन्दरी नारियोंके समूह उस पुरीकी शोभा बढ़ाते थे । वह सब प्रकारके रत्नोंसे भरी-पूरी तथा सतमहले प्रासादोंसे सुशोभित थी ॥
+
+\\* गोविन्दराजकी टीकामें अष्टापदका अर्थ शारिफल या द्यूतफलक किया गया है । वह चौकी जिसपर पासा बिछाया या खेला जाय, द्यूतफलक कहलाती है । पुरीके बीचमें राजमहल था । उसके चारों ओर राजबीथियाँ थीं और बीचमें खाली जगहें थीं । यही ‘अष्टापदाकारा’ का भाव है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -776,10 +780,6 @@ up, and where its seven storied buildings are picturesque. [1-5-16]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* गोविन्दराजकी टीकामें अष्टापदका अर्थ शारिफल या द्यूतफलक किया गया है । वह चौकी जिसपर पासा बिछाया या खेला जाय, द्यूतफलक कहलाती है । पुरीके बीचमें राजमहल था । उसके चारों ओर राजबीथियाँ थीं और बीचमें खाली जगहें थीं । यही ‘अष्टापदाकारा’ का भाव है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1091,4 +1091,3 @@ saints, and who are just like sages that are charitable donors, and that abide b
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐदनॆय सर्ग पूर्णवायितु.॥5॥
 </details>
 </details>
-

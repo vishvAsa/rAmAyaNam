@@ -2,6 +2,7 @@
 title = "०२२ रावणेन अन्तसमयसूचना"
 title_english = "022 Ravana gives deadline"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ his control. Ravana then goes back to his own house with his consorts.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-022-Ravana_gives_deadline.mp3"></div>
 </details>
 
@@ -1307,6 +1309,8 @@ with red flowers and shoots.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वह अभिनव शोभासे सम्पन्न होकर कल्पवृक्ष एवं मूर्तिमान् वसन्तके समान जान पड़ता था । आभूषणोंसे विभूषित होनेपर भी श्मशानचैत्य* (मरघटमें बने हुए देवालय)-की भाँति भयंकर प्रतीत होता था ॥ २९ ॥
+
+\\* प्राचीनकालमें नगरकी श्मशानभूमिके पास एक गोलाकार देवालय-सा बना रहता था, जहाँ राजाकी आज्ञासे प्राणदण्डके अपराधियोंका जल्लादोंके द्वारा वध कराया जाता था । जब वहाँ किसीको प्राणदण्ड देनेका अवसर आता, तब उस देवालयको लीप-पोतकर फूलोंकी बन्दनवारोंसे सजाया जाता था । उस विभूषित श्मशानचैत्यको देखते ही लोग यह सोचकर भयभीत हो उठते थे कि आज यहाँ किसीके जीवनका अन्त होनेवाला है । इस तरह जैसे वह श्मशानचैत्य विभूषित होनेपर भी भयंकर लगता था, उसी प्रकार रावण सुन्दर शृङ्गार करके भी सीताको भयानक प्रतीत होता था; क्योंकि वह उनके सतीत्वको नष्ट करना चाहता था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1330,10 +1334,6 @@ grave-yard was horrible even though decorated.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* प्राचीनकालमें नगरकी श्मशानभूमिके पास एक गोलाकार देवालय-सा बना रहता था, जहाँ राजाकी आज्ञासे प्राणदण्डके अपराधियोंका जल्लादोंके द्वारा वध कराया जाता था । जब वहाँ किसीको प्राणदण्ड देनेका अवसर आता, तब उस देवालयको लीप-पोतकर फूलोंकी बन्दनवारोंसे सजाया जाता था । उस विभूषित श्मशानचैत्यको देखते ही लोग यह सोचकर भयभीत हो उठते थे कि आज यहाँ किसीके जीवनका अन्त होनेवाला है । इस तरह जैसे वह श्मशानचैत्य विभूषित होनेपर भी भयंकर लगता था, उसी प्रकार रावण सुन्दर शृङ्गार करके भी सीताको भयानक प्रतीत होता था; क्योंकि वह उनके सतीत्वको नष्ट करना चाहता था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2029,4 +2029,3 @@ Seetha, infatuated by love, entered his own house which was shining.
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॆरडनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

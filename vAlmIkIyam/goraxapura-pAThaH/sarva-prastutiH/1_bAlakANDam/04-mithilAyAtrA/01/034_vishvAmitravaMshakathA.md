@@ -2,6 +2,7 @@
 title = "०३४ विश्वामित्रवंशकथा"
 title_english = "034 Legend of vishvamitra s ancestry"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,6 +17,7 @@ is Vishwamitra's elder sister turned out as a sacred River.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-034-Vishvamitra_Vamsha_Varnavam.mp3"></div>
 </details>
 
@@ -768,6 +770,8 @@ splendorous as though orbs of heaven are overspread on its vault. [1-34-16]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सम्पूर्ण लोकका अन्धकार दूर करनेवाले शीतरश्मि चन्द्रमा अपनी प्रभासे जगत् के प्राणियोंके मनको आह्लाद प्रदान करते हुए उदित हो रहे हैं* ॥ १७ ॥
+
+\\* इस वर्णनसे जान पड़ता है कि उस रात्रिको कृष्णपक्षकी नवमी तिथि थी ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -793,10 +797,6 @@ coolant moonbeams is rising up, gladdening the hearts of worldly beings. [1-34-1
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस वर्णनसे जान पड़ता है कि उस रात्रिको कृष्णपक्षकी नवमी तिथि थी ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1079,4 +1079,3 @@ and glided into the lap of sleep along with Soumitri. [1-34-23]
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥34॥
 </details>
 </details>
-

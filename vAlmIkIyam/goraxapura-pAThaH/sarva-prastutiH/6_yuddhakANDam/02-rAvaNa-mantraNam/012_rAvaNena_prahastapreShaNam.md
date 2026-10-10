@@ -2,6 +2,7 @@
 title = "०१२ रावणेन प्रहस्तप्रेषणम्"
 title_english = "012 Ravana instructs Prahasta to defend Lanka"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -20,6 +21,7 @@ killing the enemies.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-012-Ravana_instructs_Prahasta_to_defend_Lanka.mp3"></div>
 </details>
 
@@ -851,6 +853,8 @@ and I have been ever since in grief and anguish."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विशाल नेत्रोंवाली माननीय सीताने मुझसे एक वर्षका समय माँगा है । इस बीचमें वह अपने पति श्रीरामकी प्रतीक्षा करेगी । मैंने मनोहर नेत्रोंवाली सीताके उस सुन्दर वचनको सुनकर उसे पूर्ण करनेकी प्रतिज्ञा कर ली है* ॥ १८-१९ ॥
+
+\\* यहाँ रावणने सभासदोंके सामने अपनी झूठी उदारता दिखानेके लिये सर्वथा असत्य कहा है । सीताजीने कभी अपने मुँहसे यह नहीं कहा था कि ‘मुझे एक वर्षका समय दो । यदि उतने दिनोंतक श्रीराम नहीं आये तो मैं तुम्हारी हो जाऊँगी ।’ सीताने तो सदा तिरस्कारपूर्वक उसके जघन्य प्रस्तावको ठुकराया ही था । इसने स्वयं ही अपनी ओरसे उन्हें एक वर्षका अवसर दिया था । (देखिये अरण्यकाण्ड सर्ग ५६ श्लोक २४-२५)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -880,10 +884,6 @@ of this lust, like a horse galloping along a path continuously."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ रावणने सभासदोंके सामने अपनी झूठी उदारता दिखानेके लिये सर्वथा असत्य कहा है । सीताजीने कभी अपने मुँहसे यह नहीं कहा था कि ‘मुझे एक वर्षका समय दो । यदि उतने दिनोंतक श्रीराम नहीं आये तो मैं तुम्हारी हो जाऊँगी ।’ सीताने तो सदा तिरस्कारपूर्वक उसके जघन्य प्रस्तावको ठुकराया ही था । इसने स्वयं ही अपनी ओरसे उन्हें एक वर्षका अवसर दिया था । (देखिये अरण्यकाण्ड सर्ग ५६ श्लोक २४-२५)
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1482,6 +1482,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘शत्रुलोग अपने विपक्षीके बलको अपनेसे अधिक देखकर भी यदि वह हर काममें चपल (जल्दबाज) है तो उसका दमन करनेके लिये उसी तरह उसके छिद्र ढूँढ़ते रहते हैं, जैसे पक्षी दुर्लङ्घ्य क्रौञ्च पर्वतको लाँघकर आगे बढ़नेके लिये उसके (उस) छिद्रका* आश्रय लेते हैं (जिसे कुमार कार्तिकेयने अपनी शक्तिका प्रहार करके बनाया था) ॥ ३३ ॥
+
+\\* कुमार कार्तिकेयने अपनी शक्तिके द्वारा क्रौञ्चपर्वतको विदीर्ण करके उसमें छेद कर दिया था—यह प्रसंग महाभारतमें आया है । (देखिये शल्यप० ४६ । ८४)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1511,10 +1513,6 @@ javelin. (Mahabharata, Salya Parva 46-84).
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* कुमार कार्तिकेयने अपनी शक्तिके द्वारा क्रौञ्चपर्वतको विदीर्ण करके उसमें छेद कर दिया था—यह प्रसंग महाभारतमें आया है । (देखिये शल्यप० ४६ । ८४)
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1871,4 +1869,3 @@ your disposal forever."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हन्नॆरडनॆय सर्ग पूर्णवायितु.॥12॥
 </details>
 </details>
-

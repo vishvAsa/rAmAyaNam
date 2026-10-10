@@ -2,6 +2,7 @@
 title = "०६३ सम्पातिना नूतनपक्षप्राप्तिः"
 title_english = "063 Sampaati gets new wings and flew away"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,6 +18,7 @@ journey on to southern direction, as directed by Sampaati.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-063-Sampaati_gets_new_wings_and_flew_away.mp3"></div>
 </details>
 
@@ -147,6 +149,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मुनिसे बातचीतके बाद आजतक जो समय बीता है, इसमें आठ* हजारसे अधिक वर्ष निकल गये । मुनिके कथनको हृदयमें धारण करके मैं देश-कालकी प्रतीक्षा कर रहा हूँ ॥ ३ ॥
+
+\\* यहाँ मूलमें साग्रशतम् (सौ वर्षसे अधिक) समय बीतनेकी बात कही गयी है; परंतु साठवें सर्गके नवें श्लोकमें आठ सहस्र वर्ष बीतनेकी चर्चा आयी है । अतः दोनोंकी एकवाक्यताके लिये यहाँ शत शब्दको आठ सहस्र वर्षका उपलक्षण मानना चाहिये ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -182,10 +186,6 @@ after his demise...'
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ मूलमें साग्रशतम् (सौ वर्षसे अधिक) समय बीतनेकी बात कही गयी है; परंतु साठवें सर्गके नवें श्लोकमें आठ सहस्र वर्ष बीतनेकी चर्चा आयी है । अतः दोनोंकी एकवाक्यताके लिये यहाँ शत शब्दको आठ सहस्र वर्षका उपलक्षण मानना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -810,4 +810,3 @@ on to the southern direction, as they are the pioneers in searching Seetha, the 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धा काण्डद अरवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥63॥
 </details>
 </details>
-

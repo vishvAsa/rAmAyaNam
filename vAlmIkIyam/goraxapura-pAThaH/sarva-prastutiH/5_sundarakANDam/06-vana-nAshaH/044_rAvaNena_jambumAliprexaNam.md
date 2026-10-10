@@ -29,7 +29,10 @@ Hanuma throws a big sal tree towards Jambumali and the latter succumbs to it.
 
 सन्दिष्टो राक्षसेन्द्रेण प्रहस्तस्य सुतो बली ।  
 जम्बुमाली महादंष्ट्रो निर्जगाम धनुर्धरः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 संदिष्टो राक्षसेन्द्रेण प्रहस्तस्य सुतो बली ।  
@@ -39,11 +42,16 @@ Hanuma throws a big sal tree towards Jambumali and the latter succumbs to it.
 
 राक्षसेन्द्रनाद रावणनिन्द अप्पणॆ पडॆदु, बलिष्ठनू, उद्दवाद कोरॆदाडॆगळुळ्ळवनू आद प्रहस्तन मग जम्बुमालियु धनुर्धारियागि हनुमन्तनन्नु ऎदुरिसलु हॊरटनु. ॥1 ॥
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्तमाल्याम्बरधरः स्रग्वी रुचिरकुण्डलः ।  
 महान् विवृत्तनयनश्चण्डः समरदुर्जयः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 रक्तमाल्याम्बरधरः स्रग्वी रुचिरकुण्डलः ।  
@@ -53,21 +61,31 @@ Hanuma throws a big sal tree towards Jambumali and the latter succumbs to it.
 
 अवनु कॆम्पाद वस्त्रवन्नू, मालॆगळन्नू धरिसिद्दनु. कत्तिनल्लि हूविन हारवन्नु तॊट्टिद्दनु. अवन कर्णकुण्डलगळु मनोहरवागिद्दवु. तीक्ष्णवाद स्वभाववुळ्ळवनू, युद्धदल्लि जयिसलु असाध्यनू, अगलवाद कण्णुगळुळ्ळवनू आगिद्दनु. ॥2 ॥
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुः शक्रधनुःप्रख्यं महद्रुचिरसायकम् ।  
 विस्फारयानो वेगेन वज्राशनिसमस्वनम् ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 धनुः शक्रधनुःप्रख्यं महद्रुचिरसायकम् ।  
 विस्फारयानो वेगेन वज्राशनिसमस्वनम् ॥
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य विस्फारघोषेण धनुषो महता दिशः ।  
 प्रदिशश्च नभश्चॆव सहसा समपूर्यत ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तस्य विस्फारघोषेण धनुषो महता दिशः ।  
@@ -121,11 +139,16 @@ thunder.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथेन खरयुक्तेन तमागतमुदीक्ष्य सः ।  
 हनुमान् वेगसंपन्नो जहर्ष च ननाद च ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 रथेन खरयुक्तेन तमागतमुदीक्ष्य सः ।  
@@ -152,11 +175,16 @@ swiftness, was thrilled with joy and made a noise too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तोरणविटङ्कस्थं हनुमन्तं महाकपिम् ।  
 जम्बुमाली महाबाहुर्विव्याध निशितैः शरैः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तं तोरणविटङ्कस्थं हनुमन्तं महाकपिम् ।  
@@ -183,11 +211,16 @@ standing on the top of the archy door-way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धचन्द्रेण वदने शिरस्येकेन कर्णिना ।  
 बाह्वोर्विव्याध नाराचैर्दशभिस्तं कपीश्वरम् ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अर्धचन्द्रेण वदने शिरस्येकेन कर्णिना ।  
@@ -215,11 +248,16 @@ head, on the head with an arrow having an ear-shaped top and in the arms with te
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तच्छुशुभे ताम्रं शरेणाभिहतं मुखम् ।  
 शरदीवाम्बुजम्फुल्लं विद्धं भास्कररश्मिना ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तस्य तच्छुशुभे ताम्रं शरेणाभिहतं मुखम् ।  
@@ -246,11 +284,16 @@ a sun's ray in autumn.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्तस्य रक्तं रक्तेन रञ्जितं शुशुभे मुखम् ।  
 यथाकाशे महापद्मं सिक्तं चन्दनबिन्दुभिः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तत्तस्य रक्तं रक्तेन रञ्जितं शुशुभे मुखम् ।  
@@ -277,11 +320,16 @@ like a large lotus in the sky sprinkled with drops of sandal.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चुकोप बाणाभिहतो राक्षसस्य महाकपिः ।  
 ततः पार्श्वेतिविपुलां ददर्श महतीं शिलाम् ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 चुकोप बाणाभिहतो राक्षसस्य महाकपिः ।  
@@ -308,11 +356,16 @@ a big rock of a very large measure.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरसा तां समुत्पाट्य चिक्षेप बलवद्बली ।  
 तां शरैर्दशभिः क्रुद्धस्ताडयामास राक्षसः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तरसा तां समुत्पाट्य चिक्षेप बलवद्बली ।  
@@ -339,11 +392,16 @@ demon then struck back that rock with ten arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विपन्नं कर्म तद्दृष्ट्वा हनुमांश्चण्डविक्रमः ।  
 सालं विपुलमुत्पाट्य भ्रामयामास वीर्यवान् ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 विपन्नं कर्म तद्दृष्ट्वा हनुमांश्चण्डविक्रमः ।  
@@ -370,11 +428,16 @@ sal tree and whirled it around.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रामयन्तं कपिं दृष्ट्वा सालवृक्षं महाबलम् ।  
 चिक्षेप सुबहून् बाणान् जम्बुमाली महाबलः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 भ्रामयन्तं कपिं दृष्ट्वा सालवृक्षं महाबलम् ।  
@@ -401,11 +464,16 @@ discharged numerous arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालं चतुर्भिश्चिच्छेद वानरं पञ्चभिर्भुजे ।  
 शिरस्येकेन बाणेन दशभिस्तु स्तनान्तरे ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सालं चतुर्भिश्चिच्छेद वानरं पञ्चभिर्भुजे ।  
@@ -432,11 +500,16 @@ in the chest with one arrow and in the space between the breast wit ten arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरैः पूरिततनुः क्रोधेन महता वृतः ।  
 तमेव परिघं गृह्य भ्रामयामास वेगतः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स शरैः पूरिततनुः क्रोधेन महता वृतः ।  
@@ -463,11 +536,16 @@ as well as clasping it swiftly, whirled it around.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिवेगोतिवेगेन भ्रामयित्वा बलोत्कटः ।  
 परिघं पातयामास जम्बुमालेर्महोरसि ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अतिवेगोतिवेगेन भ्रामयित्वा बलोत्कटः ।  
@@ -494,11 +572,16 @@ agitated, threw it on the broad chest of Jamubumali.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चैव शिरो नास्ति न बाहू न च जानुनी ।  
 न धनुर्नरथो नाश्वास्तत्रादृश्यन्त नेषवः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तस्य चैव शिरो नास्ति न बाहू न च जानुनी ।  
@@ -525,11 +608,16 @@ chariot and nor his horses were seen nor his arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हतस्तरसा तेन जम्बुमाली महाबलः ।  
 पपात निहतो भूवौ चूर्णिताङ्गविभूषणः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स हतस्तरसा तेन जम्बुमाली महाबलः ।  
@@ -556,23 +644,33 @@ powder, was instantly killed and fell dead on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जम्बुमालिं च निहतं किङ्करांश्च महाबलान् ।  
 चुक्रोध रावणः श्रुत्वा कोपसंरक्त लोचनः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 जम्बुमालिं च निहतं किङ्करांश्च महाबलान् ।  
 चुक्रोध रावणः श्रुत्वा कोपसंरक्त लोचनः ॥
 </details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रोषसंवर्तितताम्रलोचनः  
 प्रहस्त पुत्रे निहते महाबले ।  
 अमात्यपुत्रानतिवीर्यविक्रमान्  
 समादिदेशाशु निशाचरेश्वरः ॥
-<details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स रोषसंवर्तितताम्रलोचनः  
@@ -618,6 +716,8 @@ his red enraged eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
+</details>
+
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुश्चत्वारिंशः सर्गः ॥ 44 ॥

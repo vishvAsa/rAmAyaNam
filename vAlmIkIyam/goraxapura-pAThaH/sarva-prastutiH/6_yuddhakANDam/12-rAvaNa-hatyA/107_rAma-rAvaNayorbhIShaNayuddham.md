@@ -1,6 +1,7 @@
 +++
 title = "१०७ राम-रावणयोर्भीषणयुद्धम्"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ starts to crop up in its place. The fierce encounter continues thus for seven da
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-107-Rama_and_Ravana_perform_a_fierce_battle_0.mp3"></div>
 </details>
 
@@ -399,6 +401,8 @@ directing them towards the flag-staff fixed on Rama's chariot.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 परंतु उसके चलाये हुए वे बाण इन्द्रके रथकी ध्वजातक न पहुँच सके, केवल रथशक्तिको* छूते हुए धरतीपर गिर पड़े ॥ ९ ॥
+
+\\* रथकी कलशीपरका वह बाँस जिसमें लड़ाईके रथोंकी ध्वजाएँ लगायी जाती थीं । कुछ विद्वानोंने रथशक्तिका अर्थ—रथकी अद्भुत सामर्थ्य किया है । वैसा अर्थ माननेपर यह भाव निकलता है कि रथके अद्भुत प्रभावका अनुभव करके वे बाण ध्वजतक न पहुँचकर पृथ्वीपर ही गिर पड़े ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -424,10 +428,6 @@ supported the banner of the chariot, the arrows fell on the ground.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* रथकी कलशीपरका वह बाँस जिसमें लड़ाईके रथोंकी ध्वजाएँ लगायी जाती थीं । कुछ विद्वानोंने रथशक्तिका अर्थ—रथकी अद्भुत सामर्थ्य किया है । वैसा अर्थ माननेपर यह भाव निकलता है कि रथके अद्भुत प्रभावका अनुभव करके वे बाण ध्वजतक न पहुँचकर पृथ्वीपर ही गिर पड़े ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2144,6 +2144,8 @@ became disquieted.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 गन्धर्वों और अप्सराओंके समुदाय उस अनुपम युद्धको देखकर कहने लगे—‘आकाश आकाशके ही तुल्य है, समुद्र समुद्रके ही समान है तथा राम और रावणका युद्ध राम और रावणके युद्धके ही सदृश है’* ऐसा कहते हुए वे सब लोग राम-रावणका युद्ध देखने लगे ॥
+
+\\* ‘गगनं गगनाकारं’ से ‘रामरावणयोरिव’ तकके श्लोकमें अनन्वयालङ्कार है । जहाँ एक ही वस्तु उपमान और उपमेयरूपसे कही जाय, दूसरी कोई उपमा न मिल सके, वहाँ अनन्वयालङ्कार होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2173,10 +2175,6 @@ terrific battle between Rama and Ravana, which caused one's hair to stand on end
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ‘गगनं गगनाकारं’ से ‘रामरावणयोरिव’ तकके श्लोकमें अनन्वयालङ्कार है । जहाँ एक ही वस्तु उपमान और उपमेयरूपसे कही जाय, दूसरी कोई उपमा न मिल सके, वहाँ अनन्वयालङ्कार होता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2835,4 +2833,3 @@ battle.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरएळनॆय सर्ग पूर्णवायितु.॥107॥
 </details>
 </details>
-

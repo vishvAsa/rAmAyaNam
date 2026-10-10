@@ -2,6 +2,7 @@
 title = "०१८ रामजन्म"
 title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -19,6 +20,7 @@ help from the king. Dasharatha receives him adoring in high esteem.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-018-Rama_Janma.mp3"></div>
 </details>
 
@@ -709,6 +711,8 @@ of verse. This may be from some other version of Ramayana.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजा दशरथके ये चारों महामनस्वी पुत्र पृथक्-पृथक् गुणोंसे सम्पन्न और सुन्दर थे । ये भाद्रपदा नामक चार तारोंके समान कान्तिमान् थे* ॥ १६ ॥
+
+\\* प्रोष्ठपदा कहते हैं—भाद्रपदा नक्षत्रको । उसके दो भेद हैं—पूर्वभाद्रपदा और उत्तरभाद्रपदा । इन दोनोंमें दो-दो तारे हैं । यह बात ज्यौतिषशास्त्रमें प्रसिद्ध है । (रा०ति०)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -779,10 +783,6 @@ their portion of sacrificial oblation returned to their abodes as they have come
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* प्रोष्ठपदा कहते हैं—भाद्रपदा नक्षत्रको । उसके दो भेद हैं—पूर्वभाद्रपदा और उत्तरभाद्रपदा । इन दोनोंमें दो-दो तारे हैं । यह बात ज्यौतिषशास्त्रमें प्रसिद्ध है । (रा०ति०)
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1147,6 +1147,8 @@ gave funds and wealth in the form of thousands of cows. [1-18-20]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ग्यारह दिन बीतनेपर महाराजने बालकोंका नामकरण-संस्कार किया* । उस समय महर्षि वसिष्ठने प्रसन्नताके साथ सबके नाम रखे । उन्होंने ज्येष्ठ पुत्रका नाम ‘राम’ रखा । श्रीराम महात्मा (परमात्मा) थे । कैकेयीकुमारका नाम भरत तथा सुमित्राके एक पुत्रका नाम लक्ष्मण और दूसरेका शत्रुघ्न निश्चित किया ॥ २१-२२ ॥
+
+\\* रामायणतिलकके निर्माताने मूलके एकादशाह शब्दको सूतकके अन्तिम दिनका उपलक्षण माना है । उनका कहना है कि यदि ऐसा न माना जाय तो ‘क्षत्रियस्य द्वादशाहं सूतकम्’ (क्षत्रियको बारह दिनोंका सूतक लगता है) इस स्मृतिवाक्यसे विरोध होगा; अतः रामजन्मके बारह दिन बीत जानेके बाद तेरहवें दिन राजाने नामकरण-संस्कार किया—ऐसा मानना चाहिये ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1207,10 +1209,6 @@ of the kingdom, named these princes with a vision into the future.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* रामायणतिलकके निर्माताने मूलके एकादशाह शब्दको सूतकके अन्तिम दिनका उपलक्षण माना है । उनका कहना है कि यदि ऐसा न माना जाय तो ‘क्षत्रियस्य द्वादशाहं सूतकम्’ (क्षत्रियको बारह दिनोंका सूतक लगता है) इस स्मृतिवाक्यसे विरोध होगा; अतः रामजन्मके बारह दिन बीत जानेके बाद तेरहवें दिन राजाने नामकरण-संस्कार किया—ऐसा मानना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2785,4 +2783,3 @@ rejoice. [1-18-59]
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनॆण्टनॆय सर्ग पूर्णवायितु. ॥18॥
 </details>
 </details>
-

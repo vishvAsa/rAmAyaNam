@@ -2,6 +2,7 @@
 title = "०४३ स्वर्णमृगग्रहणर्थं रामगमनम्"
 title_english = "043 Lure of the Golden Deer"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,6 +18,7 @@ down.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-043-Swarna_Mruga_Grahanaardham_Rama_Agamanam.mp3"></div>
 </details>
 
@@ -1767,6 +1769,8 @@ different than that of deer.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यह सुन्दर मृग और वह जो दिव्य आकाशचारी मृग (मृगशिरा नक्षत्र) है, ये दोनों ही दिव्य मृग हैं । इनमेंसे एक तारामृग१ और दूसरा महीमृग२ है ॥ ३७ ॥
+
+१. नक्षत्रलोकमें विचरनेवाला मृग (मृगशिरा नक्षत्र) । २. दूसरा पृथ्वीपर विचरनेवाला काञ्चन मृग ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1803,10 +1807,6 @@ viz., killing the demon.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. नक्षत्रलोकमें विचरनेवाला मृग (मृगशिरा नक्षत्र) । २. दूसरा पृथ्वीपर विचरनेवाला काञ्चन मृग ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2519,4 +2519,3 @@ to Lakshmana and started to go after the deer [3-43-51]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥43॥
 </details>
 </details>
-

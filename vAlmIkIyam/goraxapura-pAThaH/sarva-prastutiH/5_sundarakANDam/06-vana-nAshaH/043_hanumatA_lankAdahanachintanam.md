@@ -2,6 +2,7 @@
 title = "०४३ हनुमता लङ्कादहनचिन्तनम्"
 title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,6 +20,7 @@ the sanctuary by producing a fire, created out of its friction with the other pi
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-043-Hanuma_thinks_of_destroying_a_sacred_sanctuary_of_demons.mp3"></div>
 </details>
 
@@ -48,12 +50,10 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इधर किंकरोंका वध करके हनुमान् जी  यह सोचने लगे कि ‘मैंने वनको तो उजाड़ दिया, परंतु इस चैत्य* प्रासादको नष्ट नहीं किया है ॥ १ ॥
+
+\\* लङ्कामें राक्षसोंके कुलदेवताका जो स्थान था, उसीका नाम ‘चैत्यप्रासाद’ रखा गया था ।
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* लङ्कामें राक्षसोंके कुलदेवताका जो स्थान था, उसीका नाम ‘चैत्यप्रासाद’ रखा गया था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,4 +914,3 @@ and nails as their weapons, Sugreeva, who is capable of destroying you all, will
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तमूरनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

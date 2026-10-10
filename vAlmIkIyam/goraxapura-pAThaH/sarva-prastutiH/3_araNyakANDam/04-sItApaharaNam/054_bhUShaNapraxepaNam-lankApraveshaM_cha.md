@@ -2,6 +2,7 @@
 title = "०५४ भूषणप्रक्षेपणम्-लङ्काप्रवेशं च"
 title_english = "054 Seetha drops jewellery at Sugreeva"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ hypocritically feels elated in gaining both Seetha and an animosity with Rama.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-054-Bhushana_Prekshepanam_Lankaa_Praveshanam_Cha.mp3"></div>
 </details>
 
@@ -667,6 +669,8 @@ very many chambers. [3-54-12b, 13a]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कजरारे नेत्रप्रान्तवाली सीता शोक और मोहमें डूबी हुई थीं । रावणने उन्हें अन्तःपुरमें रख दिया, मानो मयासुरने मूर्तिमती आसुरी मायाको वहाँ स्थापित कर दिया हो* ॥ १३ १/२ ॥
+
+*रामायणतिलक नामक व्याख्याके विद्वान् लेखकने यह बताया है कि यहाँ जो सीताकी मायासे उपमा दी गयी है, उसके द्वारा यह अभिप्राय व्यक्त किया गया है कि मायामयी सीता ही लङ्कामें आयी थीं; मुख्य सीता तो अग्निमें प्रविष्ट हो चुकी थीं । इसीलिये रावण इन्हें ला सका । मायारूपिणी होनेके कारण ही रावणको इनके स्वरूपका ज्ञान न हो सका ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -733,10 +737,6 @@ eyelashes are tear-wet and slanted edge-ward to give a blackish shade at the end
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-*रामायणतिलक नामक व्याख्याके विद्वान् लेखकने यह बताया है कि यहाँ जो सीताकी मायासे उपमा दी गयी है, उसके द्वारा यह अभिप्राय व्यक्त किया गया है कि मायामयी सीता ही लङ्कामें आयी थीं; मुख्य सीता तो अग्निमें प्रविष्ट हो चुकी थीं । इसीलिये रावण इन्हें ला सका । मायारूपिणी होनेके कारण ही रावणको इनके स्वरूपका ज्ञान न हो सका ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1618,4 +1618,3 @@ And the releaser or the deliverer is Rama, and hence Ravana is happy.
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥54॥
 </details>
 </details>
-

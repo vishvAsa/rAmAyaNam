@@ -2,7 +2,6 @@
 title = "१०५ राम-अगस्त्यसंवादः"
 +++
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
 
 **Book VI : Yuddha Kanda - Book Of War**
@@ -24,7 +23,7 @@ praise of the sun-god, with a view to gaining victory.
 
 <details><summary>पादटिप्पनी</summary>
 
-* इस ‘आदित्यहृदय’ नामक स्तोत्रका विनियोग एवं न्यासविधि इस प्रकार है—  
+\\* इस ‘आदित्यहृदय’ नामक स्तोत्रका विनियोग एवं न्यासविधि इस प्रकार है—  
 विनियोग  
 ॐ अस्य आदित्यहृदयस्तोत्रस्यागस्त्यऋषिरनुष्टुप‍्छन्दः, आदित्यहृदयभूतो भगवान् ब्रह्मा देवता निरस्ताशेषविघ्नतया ब्रह्मविद्यासिद्धौ सर्वत्र जयसिद्धौ च विनियोगः ।  
 ऋष्यादिन्यास  
@@ -48,7 +47,6 @@ praise of the sun-god, with a view to gaining victory.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम् ।  
@@ -112,7 +110,6 @@ foolows:
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 राम राम महाबाहो शृणु गुह्यं सनातनम् ।  
@@ -156,7 +153,6 @@ conquer all the enemies in battle, my child!"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम् ।  
@@ -213,7 +209,6 @@ prashamanam* = allay all anxiety and grief; *uttamam* = excellent;
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 रश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम् ।  
@@ -257,7 +252,6 @@ all other lights and brings light to the world."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः ।  
@@ -310,7 +304,6 @@ protects the multitude of gods and demons as well as their worlds by his rays."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः ।  
@@ -392,7 +385,6 @@ Soma the moon-god and Varuna the ruler of the waters."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान् ।  
@@ -556,7 +548,6 @@ the maker of the day."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 नमः पूर्वाय गिरये पश्चिमायाद्रये नमः ।  
@@ -598,7 +589,6 @@ to the lord of host of luminaries and hail to the lord of the day."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 जयाय जयभद्राय हर्यश्वाय नमो नमः ।  
@@ -647,7 +637,6 @@ Aditi!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 नम उग्राय वीराय सारङ्गाय नमो नमः ।  
@@ -689,7 +678,6 @@ variegated colours! Hail to you, the awakener of the louts, hail to you, the fur
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 ब्रह्मेशानाच्युतेशाय सूरायादित्यवर्चसे ।  
@@ -739,7 +727,6 @@ form of Rudra."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 तमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने ।  
@@ -789,7 +776,6 @@ ruler of all lights."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 तप्तचामीकराभाय हरये विश्वकर्मणे ।  
@@ -833,7 +819,6 @@ world!'"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 नाशयत्येष वै भूतं तमेव सृजति प्रभुः ।  
@@ -881,7 +866,6 @@ radiates heat by his rays. He sends the rain."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः ।  
@@ -923,7 +907,6 @@ alone is the oblation to the fire-god and the fruit attained by those who pour s
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 देवाश्च क्रतवश्चैव क्रतूनां फलमेव च ।  
@@ -970,7 +953,6 @@ worlds."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 एनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च ।  
@@ -1012,7 +994,6 @@ the woods or in times of peril, comes to grief."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 पूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम् ।  
@@ -1065,7 +1046,6 @@ battles."
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 अस्मिन् क्षणे महाबाहो रावणं त्वं जहिष्यसि ।  
@@ -1118,7 +1098,6 @@ so, the sage, Agastya, thereupon, left as in the same way as he had come.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 एतच्छ्रुत्वा महातेजा नष्टशोकोऽभवत् तदा ।  
@@ -1198,7 +1177,6 @@ greatly delighted, Rama retained that hymn in his memory with a devoted mind.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
-
 <details><summary>मूलम्</summary>
 
 अथ रविरवदन्निरीक्ष्य रामं  
@@ -1248,4 +1226,3 @@ up."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर ऐदनॆय सर्ग पूर्णवायितु.॥105॥
 </details>
 </details>
-

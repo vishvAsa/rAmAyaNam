@@ -2,6 +2,7 @@
 title = "०५६ चित्रकूटदर्शनम्"
 title_english = "056 The Chitrakuta Mountain"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ purification ceremony.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-056-Chitrakoota_Darshanam.mp3"></div>
 </details>
 
@@ -1061,6 +1063,8 @@ attentive to him:
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुमित्राकुमार! हम गजकन्दका गूदा लेकर उसीसे पर्णशालाके अधिष्ठाता देवताओंका पूजन करेंगे;* क्योंकि दीर्घ जीवनकी इच्छा करनेवाले पुरुषोंको वास्तुशान्ति अवश्य करनी चाहिये ॥ २२ ॥
+
+\\* यहाँ ‘ऐणेयं मांसम्’ का अर्थ है—गजकन्द नामक कन्द विशेषका गूदा । इस प्रसंगमें मांसपरक अर्थ नहीं लेना चाहिये; क्योंकि ऐसा अर्थ लेनेपर ‘हित्वा मुनिवदामिषम्’ (२ । २० । २९), ‘फलानि मूलानि च भक्षयन् वने’ (२ । ३४ । ५९) तथा ‘धर्ममेवाचरिष्यामस्तत्र मूलफलाशनाः’ (२ । ५४ । १६) इत्यादि रूपसे की हुई श्रीरामकी प्रतिज्ञाओंसे विरोध पड़ेगा । इन वचनोंमें निरामिष रहने और फल-मूल खाकर धर्माचरण करनेकी ही बात कही गयी है । ‘रामो द्विर्नाभिभाषते’ (श्रीराम दो तरहकी बात नहीं कहते हैं, एक बार जो कह दिया, वह अटल है) इस कथनके अनुसार श्रीरामकी प्रतिज्ञा टलनेवाली नहीं है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1086,10 +1090,6 @@ ceremony while entering the house. Which is to be done by those who wish to live
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ ‘ऐणेयं मांसम्’ का अर्थ है—गजकन्द नामक कन्द विशेषका गूदा । इस प्रसंगमें मांसपरक अर्थ नहीं लेना चाहिये; क्योंकि ऐसा अर्थ लेनेपर ‘हित्वा मुनिवदामिषम्’ (२ । २० । २९), ‘फलानि मूलानि च भक्षयन् वने’ (२ । ३४ । ५९) तथा ‘धर्ममेवाचरिष्यामस्तत्र मूलफलाशनाः’ (२ । ५४ । १६) इत्यादि रूपसे की हुई श्रीरामकी प्रतिज्ञाओंसे विरोध पड़ेगा । इन वचनोंमें निरामिष रहने और फल-मूल खाकर धर्माचरण करनेकी ही बात कही गयी है । ‘रामो द्विर्नाभिभाषते’ (श्रीराम दो तरहकी बात नहीं कहते हैं, एक बार जो कह दिया, वह अटल है) इस कथनके अनुसार श्रीरामकी प्रतिज्ञा टलनेवाली नहीं है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1115,8 @@ ceremony while entering the house. Which is to be done by those who wish to live
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘कल्याणदर्शी लक्ष्मण! तुम ‘गजकन्द’ नामक कन्दको* उखाड़कर या खोदकर शीघ्र यहाँ ले आओ; क्योंकि शास्त्रोक्त विधिका अनुष्ठान हमारे लिये अवश्य-कर्तव्य है । तुम धर्मका ही सदा चिन्तन किया करो’ ॥ २३ ॥
+
+\\* मदनपाल-निघण्टुके अनुसार ‘मृग’ का अर्थ गजकन्द है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1141,10 +1143,6 @@ sacred obligation."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* मदनपाल-निघण्टुके अनुसार ‘मृग’ का अर्थ गजकन्द है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1219,6 +1217,9 @@ instructed. Rama spoke again to Lakshmana as follows.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘लक्ष्मण! इस गजकन्दको पकाओ । हम पर्णशालाके अधिष्ठाता देवताओंका पूजन करेंगे । जल्दी करो । यह सौम्यमुहूर्त है और यह दिन भी ‘ध्रुव’* संज्ञक है (अतः इसीमें यह शुभ कार्य होना चाहिये)’ ॥ २५ ॥
+
+\\* ‘उत्तरात्रयरोहिण्यो भास्करश्च ध्रुवं स्थिरम् ।’ (मुहूर्तचिन्तामणि)  
+अर्थात तीनों उत्तरा और रोहिणी नक्षत्र तथा रविवार—ये ‘ध्रुव’ एवं ‘स्थिर’ संज्ञक हैं । इसमें गृहशान्ति या वास्तुशान्ति आदि कार्य अच्छे माने गये हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1244,11 +1245,6 @@ day and this instant also are of a distinctive character. Be quick."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ‘उत्तरात्रयरोहिण्यो भास्करश्च ध्रुवं स्थिरम् ।’ (मुहूर्तचिन्तामणि)  
-अर्थात तीनों उत्तरा और रोहिणी नक्षत्र तथा रविवार—ये ‘ध्रुव’ एवं ‘स्थिर’ संज्ञक हैं । इसमें गृहशान्ति या वास्तुशान्ति आदि कार्य अच्छे माने गये हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1322,6 +1318,8 @@ tossed it in an ignited fire.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रक्तविकारका नाश करनेवाले* उस गजकंदको भलीभाँति पका हुआ जानकर लक्ष्मणने पुरुषसिंह श्रीरघुनाथजीसे कहा— ॥ २७ ॥
+
+\\*	‘छिन्नशोणितम्’ की व्युत्पत्ति इस प्रकार है—‘छिन्नं शोणितं रक्तविकाररूपं रोगजातं येन सः तम् ।’ ‘गजकन्द’ रोगविकारका नाशक है’ यह वैद्यकमें प्रसिद्ध है । मदनपाल-निघण्टुके ‘षड्दोषादिकुष्ठहन्ता’ आदि वचनसे भी यह चर्मदोष तथा कुष्ठ आदि रक्तविकारका नाशक सिद्ध होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1346,10 +1344,6 @@ Lakshmana spoke to Rama the lion among man as follows:
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-*	‘छिन्नशोणितम्’ की व्युत्पत्ति इस प्रकार है—‘छिन्नं शोणितं रक्तविकाररूपं रोगजातं येन सः तम् ।’ ‘गजकन्द’ रोगविकारका नाशक है’ यह वैद्यकमें प्रसिद्ध है । मदनपाल-निघण्टुके ‘षड्दोषादिकुष्ठहन्ता’ आदि वचनसे भी यह चर्मदोष तथा कुष्ठ आदि रक्तविकारका नाशक सिद्ध होता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1375,6 +1369,8 @@ Lakshmana spoke to Rama the lion among man as follows:
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देवोपम तेजस्वी श्रीरघुनाथजी! यह काले छिलकेवाला गजकन्द, जो बिगड़े हुए सभी अङ्गोंको ठीक करनेवाला है,* मेरे द्वारा सम्पूर्णतः पका दिया गया है । अब आप वास्तुदेवताओंका यजन कीजिये; क्योंकि आप इस कर्ममें कुशल हैं ॥ २८ ॥
+
+\\* ‘समस्ताङ्गः’ की व्युत्पत्ति यों समझनी चाहिये—‘सम्यग् भवन्ति अस्तानि अङ्गानि येन सः ।’
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1400,10 +1396,6 @@ Rama resembling God! Worship the concerned deity, as you are skilled in that act
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ‘समस्ताङ्गः’ की व्युत्पत्ति यों समझनी चाहिये—‘सम्यग् भवन्ति अस्तानि अङ्गानि येन सः ।’
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1714,4 +1706,3 @@ entered the auspicious leaf-hut.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तारनॆय सर्ग पूर्णवायितु ॥56॥
 </details>
 </details>
-

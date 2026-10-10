@@ -1,6 +1,7 @@
 +++
 title = "०९० इन्द्रजिदश्वमरणम्"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -21,6 +22,7 @@ all the monkey-chiefs, Vibhishana, Hanuma and Jambavan applaud Lakshmana.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
 </details>
 
@@ -1400,6 +1402,8 @@ Lakshmana with ten arrows.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 लक्ष्मणका कवच* अभेद्य है, ऐसा जानकर रावणकुमार इन्द्रजित् ने उनके ललाटमें सुन्दर पंखवाले तीन बाण मारे । उसने अपनी अस्त्र चलानेकी फुर्ती दिखाते हुए अत्यन्त क्रोधपूर्वक उन्हें घायल कर दिया । ललाटमें धँसे हुए उन बाणोंसे युद्धकी श्लाघा रखनेवाले रघुकुलनन्दन लक्ष्मण संग्रामके मुहानेपर तीन शिखरोंवाले पर्वतके समान शोभा पा रहे थे ॥ ३२-३३ १/२ ॥
+
+\\* पहले लक्ष्मणके कवचके टूटनेका वर्णन आ चुका है । उसके बाद लक्ष्मणने फिर अभेद्य कवच धारण किया था । यह इस प्रसंगसे जाना जाता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1424,10 +1428,6 @@ having reached Lakshmana's armour with a golden hue, got destroyed.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* पहले लक्ष्मणके कवचके टूटनेका वर्णन आ चुका है । उसके बाद लक्ष्मणने फिर अभेद्य कवच धारण किया था । यह इस प्रसंगसे जाना जाता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4097,4 +4097,3 @@ thundering sounds, stood encircling Lakshmana.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥90॥
 </details>
 </details>
-

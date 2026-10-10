@@ -2,6 +2,7 @@
 title = "०५५ सीतां प्रति रावणदर्पोक्तिः"
 title_english = "055 Ravana entices Seetha to marry him"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,6 +17,7 @@ and they are included here, as far as possible.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-055-Sitaam_Prathi_Ravana_Darpookthihi.mp3"></div>
 </details>
 
@@ -1610,6 +1612,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विदेहनन्दिनि! अपने पतिके त्याग और परपुरुषके अङ्गीकारसे जो धर्मलोपकी आशङ्का होती है, उसके कारण तुम्हें यहाँ लज्जा नहीं होनी चाहिये, इस तरहकी लाज व्यर्थ है । देवि! तुम्हारे साथ जो मेरा स्नेह सम्बन्ध होगा, यह आर्ष धर्मशास्त्रोंद्वारा* समर्थित है ॥ ३४ १/२ ॥
+
+\\* ऐसा कहकर रावण देवी सीताको धोखा देना चाहता है । वास्तवमें ऐसे पापपूर्ण कृत्योंका समर्थन धर्मशास्त्रोंमें कहीं नहीं है । कुमारी कन्याका बलपूर्वक अपहरण शास्त्रोंमें राक्षसविवाह कहा गया है; किंतु वह भी निन्द्य ही माना गया है, यहाँ तो वह भी नहीं है । विवाहिता सती साध्वीका अपहरण घोर पाप माना गया है । इसी पापसे सोनेकी लङ्का मिट्टीमें मिल गयी और रावण दल-बल-कुल-परिवारसहित नष्ट हो गया ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1697,10 +1701,6 @@ Seetha, namely Goddess Lakshmi, legendarily.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ऐसा कहकर रावण देवी सीताको धोखा देना चाहता है । वास्तवमें ऐसे पापपूर्ण कृत्योंका समर्थन धर्मशास्त्रोंमें कहीं नहीं है । कुमारी कन्याका बलपूर्वक अपहरण शास्त्रोंमें राक्षसविवाह कहा गया है; किंतु वह भी निन्द्य ही माना गया है, यहाँ तो वह भी नहीं है । विवाहिता सती साध्वीका अपहरण घोर पाप माना गया है । इसी पापसे सोनेकी लङ्का मिट्टीमें मिल गयी और रावण दल-बल-कुल-परिवारसहित नष्ट हो गया ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1870,4 +1870,3 @@ is mine,' as he has gone under the sway of the Terminator. [3-55-37]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥55॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०३५ तारया लक्ष्मणसान्त्वनम्"
 title_english = "035 Tara appeases Lakshmana"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ themselves before Rama on this very day.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-035-Tharaya_Lakshmana_Santhvanam.mp3"></div>
 </details>
 
@@ -295,6 +297,8 @@ kingship of monkeys, more so with Ruma and me as well. [4-35-5]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पहले इन्होंने बड़ा दुःख उठाया है । अब इस उत्तम सुखको पाकर ये इसमें ऐसे रम गये कि इन्हें प्राप्त हुए समयका ज्ञान ही नहीं रहा । ठीक उसी तरह, जैसे विश्वामित्र मुनिको मेनकामें आसक्त हो जानेके कारण समयकी सुध-बुध नहीं रह गयी थी* ॥ ६ ॥
+
+\\* यह प्रसंग बालकाण्डके तिरसठवें सर्गमें आया है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -319,10 +323,6 @@ himself to the time-oriented actions as with saint Vishvamitra. [4-35-6]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह प्रसंग बालकाण्डके तिरसठवें सर्गमें आया है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -750,6 +750,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘कहते हैं कि लङ्कामें सौ हजार करोड़, छत्तीस अयुत, छत्तीस हजार और छत्तीस सौ राक्षस रहते हैं* ॥
+
+\\* आधुनिक गणनाके अनुसार यह संख्या दस खरब तीन लाख निन्यानबे हजार छः सौ होती है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -783,10 +785,6 @@ women that are held captive in that island.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* आधुनिक गणनाके अनुसार यह संख्या दस खरब तीन लाख निन्यानबे हजार छः सौ होती है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1235,4 +1233,3 @@ premonished about such a happening in respect of Sugreeva too. [4-35-23]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥35॥
 </details>
 </details>
-

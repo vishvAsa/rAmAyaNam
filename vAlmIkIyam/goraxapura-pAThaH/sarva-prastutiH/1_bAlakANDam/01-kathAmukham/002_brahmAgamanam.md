@@ -2,6 +2,7 @@
 title = "००२ ब्रह्मागमनम्"
 title_english = "002 vAlmIki gets divine guidance to compile the epic"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ of Rama, for which purpose alone he gave such divine meter and grammar to him.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-002-Brahma_Aagamanam.mp3"></div>
 </details>
 
@@ -1748,8 +1750,6 @@ word of yours will not be false in this epic... [1-2-35]
 </details>
 </details>
 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् स्थास्यन्ति गिरयः सरितश्च महीतले ॥ ३६ ॥  
@@ -1960,6 +1960,8 @@ much astonished they also recited this verse, reciprocally. [1-2-39]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हमारे गुरुदेव महर्षिने क्रौञ्च पक्षीके दुःखसे दुःखी होकर जिस समान अक्षरोंवाले चार चरणोंसे युक्त वाक्यका गान किया था, वह था तो उनके हृदयका शोक; िकंतु उनकी वाणीद्वारा उच्चारित होकर श्लोकरूप* हो गया’ ॥ ४० ॥
+
+\\* काव्य या यशरूप ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1997,10 +1999,6 @@ being sung by the disciples, thus anyone can recite it.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* काव्य या यशरूप ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2190,4 +2188,3 @@ attentively.
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎरडनॆय सर्ग पूर्णवायितु. ॥2॥
 </details>
 </details>
-

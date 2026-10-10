@@ -2,9 +2,11 @@
 title = "०४३ रक्षः-कपीनां युद्धम्"
 title_english = "043 The duels arose between the monkeys and demons"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-043-The_duels_arose_between_the_monkeys_and_demons_0.mp3"></div>
 </details>
 
@@ -2168,6 +2170,8 @@ on the ground and frequented as it was by herds of jackals.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय उन वानरशिरोमणियोंद्वारा मारे जाते हुए निशाचर रक्तकी गन्धसे मतवाले हो रहे थे । वे सूर्यके अस्त होनेकी प्रतीक्षा करते हुए पुनः बड़े वेगसे घमासान युद्धमें तत्पर हो गये* ॥ ४६ ॥
+
+\\* सूर्यास्तके बाद प्रदोषकालसे लेकर पूरी रातभर राक्षसोंका बल अधिक बढ़ा होता है, इसीलिये वे सूर्यास्त होनेकी प्रतीक्षा कर रहे थे ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2194,11 +2198,6 @@ combat.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* सूर्यास्तके बाद प्रदोषकालसे लेकर पूरी रातभर राक्षसोंका बल अधिक बढ़ा होता है, इसीलिये वे सूर्यास्त होनेकी प्रतीक्षा कर रहे थे ।
-</details>
-
 <details><summary>समाप्तिः</summary>
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रिचत्वारिंशः सर्गः ॥ ४३ ॥  
@@ -2210,4 +2209,3 @@ combat.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तमूरनॆय सर्ग पूर्णवायितु.॥43॥
 </details>
 </details>
-

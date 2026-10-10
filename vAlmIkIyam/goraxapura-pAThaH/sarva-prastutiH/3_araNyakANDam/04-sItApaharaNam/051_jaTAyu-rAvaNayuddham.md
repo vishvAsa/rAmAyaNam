@@ -2,6 +2,7 @@
 title = "०५१ जटायु-रावणयुद्धम्"
 title_english = "051 The combat of Jataayu and Ravana"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ and sides. Then seeing that fallen eagle Seetha weeps over, as if Jataayu is her
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-051-Jataayu_Ravana_Yudhdham.mp3"></div>
 </details>
 
@@ -161,6 +163,8 @@ in sky, the combat between those two, Ravana and Jataayu, became tempestuous in 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय गृध्र और राक्षसमें वह बड़ा अद्भुत युद्ध होने लगा, मानो दो पंखधारी माल्यवान्* पर्वत एक-दूसरेसे भिड़ गये हों ॥ ३ ॥
+
+\\* माल्यवान् पर्वत दो माने गये हैं, एक तो दण्डकारण्यमें किष्किन्धाके समीप है और दूसरा मेरुपर्वतके निकट बताया गया है । ये दोनों पर्वत परस्पर इतने दूर हैं कि इनमें संघर्षकी कोई सम्भावना नहीं हो सकती । इसलिये ‘सपक्ष’ (पंखधारी) विशेषण दिया गया है । पाँखवाले पर्वत कदाचित् उड़कर एक-दूसरेके समीप पहुँच सकते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -192,10 +196,6 @@ the equivalence between their courage and strength.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* माल्यवान् पर्वत दो माने गये हैं, एक तो दण्डकारण्यमें किष्किन्धाके समीप है और दूसरा मेरुपर्वतके निकट बताया गया है । ये दोनों पर्वत परस्पर इतने दूर हैं कि इनमें संघर्षकी कोई सम्भावना नहीं हो सकती । इसलिये ‘सपक्ष’ (पंखधारी) विशेषण दिया गया है । पाँखवाले पर्वत कदाचित् उड़कर एक-दूसरेके समीप पहुँच सकते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -818,6 +818,8 @@ in golden armours and tantivy in fastness. [3-51-15]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर अग्निकी भाँति दीप्तिमान्, मणिमय सोपानसे विचित्र अङ्गोंवाले तथा इच्छानुसार चलनेवाले उसके त्रिवेणुसम्पन्न* विशाल रथको भी तोड़-फोड़ डाला ॥ १६ ॥
+
+\\* त्रिवेणु रथका वह अङ्ग है, जो जूएको धारण करता है । इसका पर्याय है युगन्धर ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -845,10 +847,6 @@ splintered down even that chariot of Ravana. [3-51-16]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* त्रिवेणु रथका वह अङ्ग है, जो जूएको धारण करता है । इसका पर्याय है युगन्धर ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2301,4 +2299,3 @@ The commentators deal this aspect in the next chapter of this canto.
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु. ॥51॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०२१ लक्ष्मणस्य वीर्योक्तिः"
 title_english = "021 Rama consoles angry Lakshmana"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,6 +15,7 @@ This chapter describes Lakshmana's anger and Rama consoling Lakshmana.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-021-Lakshmnasya_Viryokthihi.mp3"></div>
 </details>
 
@@ -1339,6 +1341,8 @@ called Pippalada, producing the latter's wrath."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘बेटा! ऐसा होनेपर तुम संसार प्रसिद्ध वह नरक-तुल्य कष्ट पाओगे, जो ब्रह्महत्याके समान है और जिसे सरिताओंके स्वामी समुद्रने अपने अधर्मके फलरूपसे प्राप्त किया था’* ॥ २८ ॥
+
+\\* किसी कल्पमें समुद्रने अपनी माताको दुःख दिया था, उससे पिप्पलाद नामक ब्रह्मर्षिने उस अधर्मका दण्ड देनेके लिये उसके ऊपर एक कृत्याका प्रयोग किया । इससे समुद्रको नरकवासतुल्य महान् दुःख भोगना पड़ा था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1363,10 +1367,6 @@ miserably.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* किसी कल्पमें समुद्रने अपनी माताको दुःख दिया था, उससे पिप्पलाद नामक ब्रह्मर्षिने उस अधर्मका दण्ड देनेके लिये उसके ऊपर एक कृत्याका प्रयोग किया । इससे समुद्रको नरकवासतुल्य महान् दुःख भोगना पड़ा था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3216,4 +3216,3 @@ his mother, advised his brother by good thoughts and made hearty circumbulatory 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग पूर्णवायितु.॥21॥
 </details>
 </details>
-

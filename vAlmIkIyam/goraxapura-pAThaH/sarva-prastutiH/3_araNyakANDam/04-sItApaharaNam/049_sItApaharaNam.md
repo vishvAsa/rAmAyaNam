@@ -2,6 +2,7 @@
 title = "०४९ सीतापहरणम्"
 title_english = "049 Seetha s abduction takes place now"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,6 +17,7 @@ she sees Jatayu, the eagle, and asks him to narrate her abduction to Rama.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-049-Sitaa_Apaharnam.mp3"></div>
 </details>
 
@@ -750,6 +752,8 @@ accord salvation, as planned by you all...' Maheshvara Tiirtha.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जो प्रिय वचन सुननेके योग्य और सबसे प्रिय वचन बोलनेवाली थीं, उन मिथिलेशकुमारी सीतासे ऐसा अप्रिय वचन कहकर कामसे मोहित हुए उस अत्यन्त दुष्टात्मा राक्षस रावणने निकट जाकर (माताके समान आदरणीया) सीताको पकड़ लिया, मानो बुधने आकाशमें अपनी माता रोहिणीको पकड़नेका दुस्साहस किया हो* ॥ १५-१६ ॥
+
+\\* यहाँ अभूतोपमालंकार है । बुध चन्द्रमाके पुत्र हैं और रोहिणी चन्द्रमाकी पत्नी । बुधने न तो कभी रोहिणीको पकड़ा है और न वे ऐसा कर ही सकते हैं । यहाँ यह दिखाया गया है कि यदि कदाचित् बुध कामवश अपनी माता रोहिणीको पकड़ लें तो वह जैसा घोर पाप होगा, वही पाप रावणने सीताको पकड़नेके कारण किया था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -787,10 +791,6 @@ complex.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ अभूतोपमालंकार है । बुध चन्द्रमाके पुत्र हैं और रोहिणी चन्द्रमाकी पत्नी । बुधने न तो कभी रोहिणीको पकड़ा है और न वे ऐसा कर ही सकते हैं । यहाँ यह दिखाया गया है कि यदि कदाचित् बुध कामवश अपनी माता रोहिणीको पकड़ लें तो वह जैसा घोर पाप होगा, वही पाप रावणने सीताको पकड़नेके कारण किया था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1994,4 +1994,3 @@ and animals are not heedful of her request, and this eagle alone is beheld, besi
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥49॥
 </details>
 </details>
-

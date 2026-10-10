@@ -2,6 +2,7 @@
 title = "०५२ गङ्गातरणम्-सुमन्त्रविसर्जनं च"
 title_english = "052 Guha gets a boat ready"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,6 +20,7 @@ night at the foot of a tree.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-052-Gangaa_Tharanam_Sumantra_Visarjanam_cha.mp3"></div>
 </details>
 
@@ -4182,6 +4184,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘देवि! पुनः अयोध्यापुरीमें लौटनेपर मैं सहस्रों देवदुर्लभ पदार्थोंसे तथा राजकीय भागसे रहित पृथ्वी, वस्त्र और अन्नके द्वारा भी आपकी पूजा करूँगी । आप मुझपर प्रसन्न हों* ॥ ८९ ॥
+
+\\* इस श्लोकमें आये हुए ‘सुराघटसहस्रेण’ की व्युत्पत्ति इस प्रकार है—‘सुरेषु देवेषु न घटन्ते न सन्तीत्यर्थः, तेषां सहस्रं तेन सहस्रसंख्याकसुरदुर्लभपदार्थेनेत्यर्थः ।’ ‘मांसभूतौदनेन’ की व्युत्पत्ति इस प्रकार समझनी चाहिये—‘मांसभूतौदनेन मा नास्ति अंसो राजभागो यस्यां सा एव भूः पृथ्वी च उतं वस्त्रं च ओदनं च एतेषां समाहारः, तेन च त्वां यक्ष्ये ।’
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4208,10 +4212,6 @@ rite."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस श्लोकमें आये हुए ‘सुराघटसहस्रेण’ की व्युत्पत्ति इस प्रकार है—‘सुरेषु देवेषु न घटन्ते न सन्तीत्यर्थः, तेषां सहस्रं तेन सहस्रसंख्याकसुरदुर्लभपदार्थेनेत्यर्थः ।’ ‘मांसभूतौदनेन’ की व्युत्पत्ति इस प्रकार समझनी चाहिये—‘मांसभूतौदनेन मा नास्ति अंसो राजभागो यस्यां सा एव भूः पृथ्वी च उतं वस्त्रं च ओदनं च एतेषां समाहारः, तेन च त्वां यक्ष्ये ।’
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4834,4 +4834,3 @@ they were, Rama and Lakshmana reached a tree to take rest in the evening.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॆरडनॆय सर्ग पूर्णवायितु ॥52॥
 </details>
 </details>
-

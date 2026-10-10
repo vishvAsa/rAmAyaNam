@@ -1,6 +1,7 @@
 +++
 title = "१२८ श्रीरामपट्टाभिषेकः"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -28,6 +29,7 @@ of the epic is complemented in the end by Valmiki.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
 </details>
 
@@ -3884,6 +3886,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरघुनाथजीने राज्य पाकर ग्यारह* सहस्र वर्षोंतक उसका पालन और सौ अश्वमेध-यज्ञोंका अनुष्ठान किया । उन यज्ञोंमें उत्तम अश्व छोड़े गये थे तथा ऋत्विजोंको बहुत अधिक दक्षिणाएँ बाँटी गयी थीं ॥
+
+\\* अन्यत्र ‘दशवर्षसहस्राणि दशवर्षशतानि च’ कहा गया है, उनसे एक वाक्यताके लिये यहाँ दसको ग्यारहका बोधक समझना चाहिये ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3908,10 +3912,6 @@ sacrifices many times.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* अन्यत्र ‘दशवर्षसहस्राणि दशवर्षशतानि च’ कहा गया है, उनसे एक वाक्यताके लिये यहाँ दसको ग्यारहका बोधक समझना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

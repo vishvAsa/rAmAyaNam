@@ -2,6 +2,7 @@
 title = "०६२ दधिमुखेन किष्किन्धानिवर्तनम्"
 title_english = "062 Dadhimukha departs to Kishkindha"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -21,6 +22,7 @@ and touches Sugreeva's feet as a mark of salutation.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-061-Monkeys_took_halt_at_Madhuvana.mp3"></div>
 </details>
 
@@ -397,6 +399,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कितने ही वानर झुंड-के-झुंड एकत्र हो वहाँ अपनी भुजाओंद्वारा एक-एक द्रोण* मधुसे भरे हुए छत्तोंको पकड़ लेते और सहर्ष पी जाते थे ॥ ९ ॥
+
+\\* आठ आढक या बत्तीस सेरके मापको ‘द्रोण’ कहते हैं । यह प्राचीन कालमें प्रचलित था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -425,10 +429,6 @@ Drona= A wooden vessel containing 1024 Mushtis/fists of honey.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* आठ आढक या बत्तीस सेरके मापको ‘द्रोण’ कहते हैं । यह प्राचीन कालमें प्रचलित था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1841,4 +1841,3 @@ was there, within an interval of only a moment.
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तॆरडनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

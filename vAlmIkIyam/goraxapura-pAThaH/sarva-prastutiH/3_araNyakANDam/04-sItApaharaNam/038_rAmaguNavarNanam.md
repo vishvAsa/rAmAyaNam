@@ -2,6 +2,7 @@
 title = "०३८ रामगुणवर्णनम्"
 title_english = "038 Maareecha s good word to Ravana"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-038-RamaGuna_Varnanam.mp3"></div>
 </details>
 
@@ -287,6 +289,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मुनिश्रेष्ठ! रघुकुलनन्दन रामकी अवस्था अभी बारह* वर्षसे भी कम है । इन्हें अस्त्र-शस्त्रोंके चलानेका पूरा अभ्यास भी नहीं है । आप चाहें तो मेरे साथ मेरी सारी सेना वहाँ चलेगी और मैं चतुरङ्गिणी सेनाके साथ स्वयं ही चलकर आपकी इच्छाके अनुसार उस शत्रुरूप निशाचरका वध करूँगा’ ॥ ६-७ १/२ ॥
+
+\\* यद्यपि बालकाण्डके २०वें सर्गके दूसरे श्लोकमें राजा दशरथने श्रीरामकी अवस्था सोलह वर्षसे कम (पंद्रह वर्षकी) बतायी थी, तथापि यहाँ मारीचने रावणके मनमें भय उत्पन्न करनेके लिये चार वर्ष कम अवस्था बतायी है । जो छोटी अवस्थामें इतने महान् पराक्रमी थे, वे अब बड़े होनेपर न जाने कैसे होंगे? यह लक्ष्य कराना ही यहाँ मारीचको अभीष्ट है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -343,10 +347,6 @@ Maheshvara Tiirtha says that Maareecha lessened the age of Rama only to intimida
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यद्यपि बालकाण्डके २०वें सर्गके दूसरे श्लोकमें राजा दशरथने श्रीरामकी अवस्था सोलह वर्षसे कम (पंद्रह वर्षकी) बतायी थी, तथापि यहाँ मारीचने रावणके मनमें भय उत्पन्न करनेके लिये चार वर्ष कम अवस्था बतायी है । जो छोटी अवस्थामें इतने महान् पराक्रमी थे, वे अब बड़े होनेपर न जाने कैसे होंगे? यह लक्ष्य कराना ही यहाँ मारीचको अभीष्ट है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1566,4 +1566,3 @@ of Rama." Thus, Maareecha spoke to Ravana. [3-38-33]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मुवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥38॥
 </details>
 </details>
-

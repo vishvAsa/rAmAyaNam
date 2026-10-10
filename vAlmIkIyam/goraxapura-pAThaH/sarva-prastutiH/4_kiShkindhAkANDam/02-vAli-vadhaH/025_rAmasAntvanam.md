@@ -2,6 +2,7 @@
 title = "०२५ रामसान्त्वनम्"
 title_english = "025 Vali s funeral ritual"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ committed to fire for his voyage to heavens on a remote avenue.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-025-Rama_Santvanam.mp3"></div>
 </details>
 
@@ -1788,6 +1790,8 @@ its hillocks appeared to be wailing noisily. [4-25-36b, 37a]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 पहाड़ी* नदी तुङ्गभद्राके एकान्त तटपर जो जलसे घिरा था, पहुँचकर बहुत-से वनचारी वानरोंने एक चिता तैयार की ॥ ३७ १/२ ॥
+
+\\* यह नदी सह्यपर्वतसे निकलकर किष्किन्धाकी पर्वत-मालाओंके बीचसे बहती हुई कृष्णा नदीमें जा मिली है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1812,10 +1816,6 @@ cascades of hills are encircling. [4-25-37b, 38a]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह नदी सह्यपर्वतसे निकलकर किष्किन्धाकी पर्वत-मालाओंके बीचसे बहती हुई कृष्णा नदीमें जा मिली है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2617,4 +2617,3 @@ took birth at the hest of Brahma.
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तैदनॆय सर्ग सम्पूर्णवायितु. ॥25॥
 </details>
 </details>
-

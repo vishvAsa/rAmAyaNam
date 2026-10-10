@@ -2,6 +2,7 @@
 title = "०४१ दक्षिणां प्रति हनुमदादिप्रेषणम्"
 title_english = "041 Sugreeva sends Vanara s to Southward"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -19,6 +20,7 @@ Seetha.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-041-Dakshina_Disham_Prathi_Hanumadadi_Preshanam.mp3"></div>
 </details>
 
@@ -126,6 +128,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अग्निपुत्र नील, कपिवर हनुमान् जी , ब्रह्माजीके महाबली पुत्र जाम्बवान्, सुहोत्र, शरारि, शरगुल्म, गज, गवाक्ष, गवय, सुषेण* (प्रथम), वृषभ, मैन्द, द्विविद, सुषेण (द्वितीय), गन्धमादन, हुताशनके दो पुत्र उल्कामुख और अनङ्ग (असङ्ग) तथा अङ्गद आदि प्रधान-प्रधान वीरोंको, जो महान् वेग और पराक्रमसे सम्पन्न थे, विशेषज्ञ वानरराज सुग्रीवने दक्षिणकी ओर जानेकी आज्ञा दी ॥ २—५ ॥
+
+\\* सुषेण दो थे—एक ताराके पिता और दूसरा उनसे भिन्न वानरयूथपति था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -168,10 +172,6 @@ later when sending another direction.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* सुषेण दो थे—एक ताराके पिता और दूसरा उनसे भिन्न वानरयूथपति था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +245,8 @@ forming search party and ordered southern direction for them. [4-41-6]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस दिशामें जो कोई भी स्थान अत्यन्त दुर्गम थे, उनका भी कपिराज सुग्रीवने उन श्रेष्ठ वानरोंको परिचय दिया* ॥ ७ ॥
+
+\\* यहाँ दक्षिण दिशाका विभाग किष्किन्धासे न करके आर्यावर्तसे किया गया है । पूर्व समुद्रसे पश्चिम समुद्र और हिमालयसे विन्ध्यके भागको आर्यावर्त कहते हैं । सुग्रीवने दक्षिण दिशाके जिन स्थानोंका परिचय दिया है, उनकी सङ्गति आर्यावर्तसे ही दिशाका विभाजन करनेपर लगती है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -272,10 +274,6 @@ south. [4-41-7]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ दक्षिण दिशाका विभाग किष्किन्धासे न करके आर्यावर्तसे किया गया है । पूर्व समुद्रसे पश्चिम समुद्र और हिमालयसे विन्ध्यके भागको आर्यावर्त कहते हैं । सुग्रीवने दक्षिण दिशाके जिन स्थानोंका परिचय दिया है, उनकी सङ्गति आर्यावर्तसे ही दिशाका विभाजन करनेपर लगती है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +341,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसी प्रकार विदर्भ, ऋष्टिक, रम्य माहिषक देश, वङ्ग*, कलिङ्ग तथा कौशिक आदि देशोंमें सब ओर देखभाल करके पर्वत, नदी और गुफाओंसहित समूचे दण्डकारण्यमें छानबीन करना । वहाँ जो गोदावरी नदी है, उसमें सब ओर बारंबार देखना । इसी प्रकार आन्ध्र, पुण्ड्र, चोल, पाण्ड्य तथा केरल आदि देशोंमें भी ढूँढ़ना ॥
+
+\\* अन्य पाठके अनुसार यहाँ मत्स्य देश समझना चाहिये ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -439,10 +439,6 @@ shuffled.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* अन्य पाठके अनुसार यहाँ मत्स्य देश समझना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -475,6 +471,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तदनन्तर अनेक धातुओंसे अलंकृत अयोमुख* (मलय) पर्वतपर भी जाना, उसके शिखर बड़े विचित्र हैं । वह शोभाशाली पर्वत फूले हुए विचित्र काननोंसे युक्त है । उसके सभी स्थानोंमें सुन्दर चन्दनके वन हैं । उस महापर्वत मलयपर सीताकी अच्छी तरह खोज करना ॥
+
+\\* रामायणतिलकके लेखक अयोमुखको मलय-पर्वतका नामान्तर मानते हैं । गोविन्दराज इसे सह्यपर्वतका पर्याय समझते हैं तथा रामायणशिरोमणिकार अयोमुखको इन दोनोंसे भिन्न स्वतन्त्र पर्वत मानते हैं । यहाँ तिलककारके मतका अनुसरण किया गया है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -509,10 +507,6 @@ River Tamraparni emerges.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* रामायणतिलकके लेखक अयोमुखको मलय-पर्वतका नामान्तर मानते हैं । गोविन्दराज इसे सह्यपर्वतका पर्याय समझते हैं तथा रामायणशिरोमणिकार अयोमुखको इन दोनोंसे भिन्न स्वतन्त्र पर्वत मानते हैं । यहाँ तिलककारके मतका अनुसरण किया गया है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +592,8 @@ Kaaveri only *pulavoy vazhi kaaveri... nadanthai vazhi kaaveri...*
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उस प्रसिद्ध मलयपर्वतके शिखरपर बैठे हुए सूर्यके समान महान् तेजसे सम्पन्न मुनिश्रेष्ठ अगस्त्यका* दर्शन करना ॥ १५ ॥
+
+\\* यद्यपि पहले पञ्चवटीसे उत्तर भागमें अगस्त्यके आश्रमका वर्णन आया है तथापि यहाँ मलयपर्वतपर भी उनका आश्रम था, ऐसा मानना चाहिये । जैसे वाल्मीकि मुनिका आश्रम अनेक स्थानोंमें था, उसी तरह इनका भी था अथवा ये उसी नामके कोई दूसरे ऋषि थे ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -622,10 +618,6 @@ Sun, and who will be sitting on the top of that highly resplendent Mt. Malaya. [
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यद्यपि पहले पञ्चवटीसे उत्तर भागमें अगस्त्यके आश्रमका वर्णन आया है तथापि यहाँ मलयपर्वतपर भी उनका आश्रम था, ऐसा मानना चाहिये । जैसे वाल्मीकि मुनिका आश्रम अनेक स्थानोंमें था, उसी तरह इनका भी था अथवा ये उसी नामके कोई दूसरे ऋषि थे ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -778,6 +770,8 @@ they have renamed it as per the nomenclature given in Ramayana as *Lanka,* but a
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वानरो! वहाँसे आगे बढ़नेपर तुमलोग पाण्ड्यवंशी राजाओंके नगरद्वारपर* लगे हुए सुवर्णमय कपाटका दर्शन करोगे, जो मुक्तामणियोंसे विभूषित एवं दिव्य है ॥
+
+\\* आधुनिक तंजौर ही प्राचीन पाण्ड्यवंशी नरेशोंका नगर है । इस नगरमें भी छानबीन करनेके लिये सुग्रीव वानरोंको आदेश दे रहे हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -804,10 +798,6 @@ and conduct your search even in that kingdom. [4-41-18b, 19a]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* आधुनिक तंजौर ही प्राचीन पाण्ड्यवंशी नरेशोंका नगर है । इस नगरमें भी छानबीन करनेके लिये सुग्रीव वानरोंको आदेश दे रहे हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1541,6 +1531,8 @@ growing on Mt. Vaidyuta, and even on consuming precious honey at that place. [4-
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘फिर कुञ्जर नामक पर्वत दिखायी देगा, जो नेत्रों और मनको भी अत्यन्त प्रिय लगनेवाला है । उसके ऊपर विश्वकर्माका बनाया हुआ महर्षि अगस्त्यका* एक सुन्दर भवन है ॥ ३४ १/२ ॥
+
+\\* यह महर्षि अगस्त्यका तीसरा स्थान है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1565,10 +1557,6 @@ and heart, on which Vishvakarma built the mansion of Agastya. [4-41-34b, 35a]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह महर्षि अगस्त्यका तीसरा स्थान है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2283,4 +2271,3 @@ eradicating evil on earth...' you start on your mission.
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तनॆय सर्ग सम्पूर्णवायितु.॥40॥
 </details>
 </details>
-

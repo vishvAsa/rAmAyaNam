@@ -2,6 +2,7 @@
 title = "०१४ जटायुषः वृत्तान्तः"
 title_english = "014 Sri Rama s Contact with Jatayu"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,6 +18,7 @@ Rama and the other two on their way to Panchavati come into contact with Jatayu,
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-014-Jatayusho_Vruthanthaha.mp3"></div>
 </details>
 
@@ -501,6 +503,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनमेंसे आठ* सुन्दरी कन्याओंको प्रजापति कश्यपने पत्नीरूपमें ग्रहण किया । जिनके नाम इस प्रकार हैं— अदिति, दिति, दनु, कालका, ताम्रा, क्रोधवशा, मनु और अनला ॥ ११ १/२ ॥
+
+\\* यद्यपि पुराणग्रन्थोंमें ‘कश्यपाय त्रयोदश’ इत्यादि वचनोंद्वारा कश्यपकी तेरह पत्नियोंका उल्लेख किया गया है, तथापि यहाँ जिस संतानपरम्पराका वर्णन करना है, उसमें इन आठोंका ही उपयोग है, इसलिये यहाँ आठकी ही संख्या दी गयी है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -526,10 +530,6 @@ Danu, Kaalakaa and Taamra, Krodhavasha, also thus Manu and even Anala also as wi
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यद्यपि पुराणग्रन्थोंमें ‘कश्यपाय त्रयोदश’ इत्यादि वचनोंद्वारा कश्यपकी तेरह पत्नियोंका उल्लेख किया गया है, तथापि यहाँ जिस संतानपरम्पराका वर्णन करना है, उसमें इन आठोंका ही उपयोग है, इसलिये यहाँ आठकी ही संख्या दी गयी है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1727,4 +1727,3 @@ mighty bird and Lakshmana, as though to incinerate enemies, like fire that burns
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥14॥
 </details>
 </details>
-

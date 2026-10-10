@@ -1,6 +1,7 @@
 +++
 title = "११६ सीता-रामसंवादः"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ and enters into it, in order toprove her conjugal fidelity.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-116-Seetha_s_taunting_reply_to_Rama_0.mp3"></div>
 </details>
 
@@ -1618,6 +1620,8 @@ the fire as a sacred oblation of clarified butter.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जैसे यज्ञमें मन्त्रोंद्वारा संस्कार की हुई वसुधाराकी* आहुति दी जाती है, उसी प्रकार दिव्य आभूषणोंसे विभूषित सीताको आगमें गिरते देख वहाँ आयी हुई सभी स्त्रियाँ चीख उठीं ॥ ३४ ॥
+
+\\* घीकी अनवच्छिन्न धारा ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1644,10 +1648,6 @@ hymns.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* घीकी अनवच्छिन्न धारा ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1751,4 +1751,3 @@ uttering 'Alas, Alas' rose both from the demons and the monkeys alike.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनारनॆय सर्ग पूर्णवायितु.॥116॥
 </details>
 </details>
-

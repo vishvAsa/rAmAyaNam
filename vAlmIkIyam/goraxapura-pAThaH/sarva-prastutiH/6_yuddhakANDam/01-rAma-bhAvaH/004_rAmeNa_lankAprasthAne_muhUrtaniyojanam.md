@@ -2,6 +2,7 @@
 title = "००४ रामेण लङ्काप्रस्थाने मुहूर्तनियोजनम्"
 title_english = "004 Rama fixes an auspicious hour for the departure"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ his forces to Lanka and perceives good omens. The Army reaches the shores of the
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-004-Rama_fixes_an_auspicious_hour_for_the_departure_.mp3"></div>
 </details>
 
@@ -153,6 +155,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुग्रीव! तुम इसी मुहूर्तमें प्रस्थानकी तैयारी करो । सूर्यदेव दिनके मध्य भागमें जा पहुँचे हैं । इसलिये इस विजय* नामक मुहूर्तमें हमारी यात्रा उपयुक्त होगी ॥ ३ ॥
+
+\\* दिनमें दोपहरीके समय अभिजित् मुहूर्त होता है, इसीको विजय-मुहूर्त भी कहते हैं । यह यात्राके लिये बहुत उत्तम माना गया है । यद्यपि—‘भुक्तौ दक्षिणयात्रायां प्रतिष्ठायां द्विजन्मनि । आधाने च ध्वजारोहे मृत्युदः स्यात् सदाभिजित् ॥’ इस ज्योतिष-रत्नाकरके वचनके अनुसार उक्त मुहूर्तमें दक्षिणयात्रा निषिद्ध है, तथापि किष्किन्धासे लङ्का दक्षिणपूर्वके कोणमें होनेके कारण वह दोष यहाँ नहीं प्राप्त होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -177,10 +181,6 @@ reached the mid-day.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* दिनमें दोपहरीके समय अभिजित् मुहूर्त होता है, इसीको विजय-मुहूर्त भी कहते हैं । यह यात्राके लिये बहुत उत्तम माना गया है । यद्यपि—‘भुक्तौ दक्षिणयात्रायां प्रतिष्ठायां द्विजन्मनि । आधाने च ध्वजारोहे मृत्युदः स्यात् सदाभिजित् ॥’ इस ज्योतिष-रत्नाकरके वचनके अनुसार उक्त मुहूर्तमें दक्षिणयात्रा निषिद्ध है, तथापि किष्किन्धासे लङ्का दक्षिणपूर्वके कोणमें होनेके कारण वह दोष यहाँ नहीं प्राप्त होता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5242,4 +5242,3 @@ like a kettle-drum in the sky.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु. ॥3॥
 </details>
 </details>
-

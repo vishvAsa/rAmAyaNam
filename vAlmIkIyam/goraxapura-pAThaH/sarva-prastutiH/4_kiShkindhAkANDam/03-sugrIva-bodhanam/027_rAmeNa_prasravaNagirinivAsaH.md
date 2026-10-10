@@ -2,6 +2,7 @@
 title = "०२७ रामेण प्रस्रवणगिरिनिवासः"
 title_english = "027 Rama at Mt Prasavana"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -25,6 +26,7 @@ than to worry about global warming, ozone depletion, deforestation etc.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-027-Ramasya_Prasravana_Girinivasaha.mp3"></div>
 </details>
 
@@ -497,6 +499,8 @@ available not far away from our cave. [4-27-11]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सौम्य! यहाँका स्थान ईशानकोणकी ओरसे नीचा है, अतः यहाँ यह गुफा हमारे निवासके लिये बहुत अच्छी रहेगी । पश्चिम-दक्षिणके कोणकी ओरसे ऊँची यह गुफा हवा और वर्षासे बचानेके लिये अच्छी होगी* ॥ १२ ॥
+
+\\* ईशानकोणकी ओर नीची तथा नैर्ऋत्यकोणकी ओरसे ऊँची होनेसे उसका द्वार नैर्ऋत्यकोणकी ओर था—यह प्रतीत होता है, इससे उसमें पूर्वी हवा और उधरसे आनेवाली वर्षाका प्रवेश नहीं था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -522,10 +526,6 @@ be less of gusts that come from east. [4-27-12]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ईशानकोणकी ओर नीची तथा नैर्ऋत्यकोणकी ओरसे ऊँची होनेसे उसका द्वार नैर्ऋत्यकोणकी ओर था—यह प्रतीत होता है, इससे उसमें पूर्वी हवा और उधरसे आनेवाली वर्षाका प्रवेश नहीं था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2285,4 +2285,3 @@ lion, although you are capable to eliminate the enemy at any moment like a lion.
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तेळनॆय सर्ग सम्पूर्णवायितु.॥27॥
 </details>
 </details>
-

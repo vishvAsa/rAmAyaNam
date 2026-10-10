@@ -2,6 +2,7 @@
 title = "०३९ वानरसेनासङ्ख्यानिवेदनम्"
 title_english = "039 Rama mildly admonishes Sugreeva"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -19,6 +20,7 @@ of monkey-warriors.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-039-Vanarasena_Samkhya_Nivedanam.mp3"></div>
 </details>
 
@@ -258,6 +260,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसाधम रावणने अपना नाश करनेके लिये ही मिथिलेशकुमारीको धोखा देकर उसका अपहरण कियाहै । ठीक उसी तरह, जैसे अनुह्लादने अपने विनाशके लिये ही पुलोमपुत्री शचीको छलपूर्वक हर लिया था* ॥ ६ ॥
+
+\\* पुलोम दानवकी कन्या शची इन्द्रदेवके प्रति अनुरक्त थीं, परंतु अनुह्लादने उनके पिताको फुसलाकर अपने पक्षमें कर लिया और उसकी अनुमतिसे शचीको हर लिया । जब इन्द्रको इसका पता लगा, तब वे अनुमति देनेवाले पुलोमको और अपहरण करनेवाले अनुह्लादको भी मारकर शचीको अपने घर ले आये । यह पुराणप्रसिद्ध कथा है । (रामायणतिलकसे)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -288,10 +292,6 @@ got a name Pulomajit.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* पुलोम दानवकी कन्या शची इन्द्रदेवके प्रति अनुरक्त थीं, परंतु अनुह्लादने उनके पिताको फुसलाकर अपने पक्षमें कर लिया और उसकी अनुमतिसे शचीको हर लिया । जब इन्द्रको इसका पता लगा, तब वे अनुमति देनेवाले पुलोमको और अपहरण करनेवाले अनुह्लादको भी मारकर शचीको अपने घर ले आये । यह पुराणप्रसिद्ध कथा है । (रामायणतिलकसे)
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2030,4 +2030,3 @@ mathematics: liilaavatii gaNita shaastre siddhanta shiromaNe -
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥39॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०२१ रामेण समुद्रक्रोधः"
 title_english = "021 Rama becomes angry at the ocean"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ among the creatures inhabiting the sea.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-021-Rama_becomes_angry_at_the_ocean.mp3"></div>
 </details>
 
@@ -169,6 +171,8 @@ and made beautiful like the splendor of a rising sun.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सीताहरणसे पहले शयनकालमें सीताका सिर उस बाँहकी शोभा बढ़ाता था और श्वेत शय्यापर स्थित एवं लाल चन्दनसे चर्चित हुई वह बाँह गङ्गाजलमें निवास करनेवाले तक्षकके* शरीरकी भाँति सुशोभित होती थी ॥ ५ ॥
+
+\\* तक्षकनागका रंग लाल माना गया है । (देखिये महाभारत, आदिपर्व ४४ । २-३)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -193,10 +197,6 @@ resembled the body of Takshaka. (A snake) supported on the water of the Ganga.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* तक्षकनागका रंग लाल माना गया है । (देखिये महाभारत, आदिपर्व ४४ । २-३)
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1551,4 +1551,3 @@ loud voices, saying "No farther, no farther" and making a noise "Ah,Oh,Alas!"
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग पूर्णवायितु.॥21॥
 </details>
 </details>
-

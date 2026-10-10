@@ -1,6 +1,7 @@
 +++
 title = "१०१ हनुमता सञ्जीविनीपर्वतानयनम्"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ Sushena.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-101-Hanuma_brings_mountain_with_life_giving_herbs_0.mp3"></div>
 </details>
 
@@ -1297,6 +1299,8 @@ earth's surface, fast asleep, with his limbs relaxed are telling it, O the galla
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सौम्य! तुम शीघ्र ही यहाँसे महोदय पर्वतपर, जिसका पता जाम्बवान् तुम्हें पहले बता चुके हैं, जाओ और उसके दक्षिण शिखरपर उगी हुई विशल्यकरणी१, सावर्ण्यकरणी२, संजीवकरणी३ तथा संधानी४ नामसे प्रसिद्ध महौषधियोंको यहाँ ले आओ । वीर! उन्हींसे वीरवर लक्ष्मणके जीवनकी रक्षा होगी’ ॥ ३०—३२ १/२ ॥
+
+१. शरीरमें धँसे हुए बाण आदिको निकालकर घाव भरने और पीड़ा दूर करनेवाली । २. शरीरमें पहलेकी-सी रंगत लानेवाली । ३. मूर्च्छा दूर कर चेतना प्रदान करनेवाली । ४. टूटी हुई हड्डियोंको जोड़नेवाली ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1322,10 +1326,6 @@ following words to Hanuma the great monkey, who was standing nearby:
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. शरीरमें धँसे हुए बाण आदिको निकालकर घाव भरने और पीड़ा दूर करनेवाली । २. शरीरमें पहलेकी-सी रंगत लानेवाली । ३. मूर्च्छा दूर कर चेतना प्रदान करनेवाली । ४. टूटी हुई हड्डियोंको जोड़नेवाली ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2438,4 +2438,3 @@ death?"
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरऒन्दनॆय सर्ग पूर्णवायितु.॥101॥
 </details>
 </details>
-

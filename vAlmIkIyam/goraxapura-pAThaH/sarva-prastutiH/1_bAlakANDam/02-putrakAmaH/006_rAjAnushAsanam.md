@@ -2,6 +2,7 @@
 title = "००६ राजानुशासनम्"
 title_english = "006 Splendour of ayodhya city described"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ The riches and happiness enjoyed by the people, under the rein of Emperor Dashar
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-006-Raajaanu_Shaasavam.mp3"></div>
 </details>
 
@@ -90,6 +92,8 @@ The riches and happiness enjoyed by the people, under the rein of Emperor Dashar
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस अयोध्यापुरीमें रहकर राजा दशरथ प्रजावर्गका पालन करते थे । वे वेदोंके विद्वान् तथा सभी उपयोगी वस्तुओंका संग्रह करनेवाले थे । दूरदर्शी और महान् तेजस्वी थे । नगर और जनपदकी प्रजा उनसे बहुत प्रेम रखती थी । वे इक्ष्वाकुकुलके अतिरथी* वीर थे । यज्ञ करनेवाले, धर्मपरायण और जितेन्द्रिय थे । महर्षियोंके समान दिव्य गुणसम्पन्न राजर्षि थे । उनकी तीनों लोकोंमें ख्याति थी । वे बलवान्, शत्रुहीन, मित्रोंसे युक्त एवं इन्द्रियविजयी थे । धन और अन्य वस्तुओंके संचयकी दृष्टिसे इन्द्र और कुबेरके समान जान पड़ते थे । जैसे महातेजस्वी प्रजापति मनु सम्पूर्ण जगत् की रक्षा करते थे, उसी प्रकार महाराज दशरथ भी करते थे ॥ १—४ ॥
+
+\\* जो दस हजार महारथियोंके साथ अकेला ही युद्ध करनेमें समर्थ हो, वह ‘अतिरथी’ कहलाता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -135,10 +139,6 @@ He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* जो दस हजार महारथियोंके साथ अकेला ही युद्ध करनेमें समर्थ हो, वह ‘अतिरथी’ कहलाता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,4 +1389,3 @@ With gorgeous arches, castle-door-bars and with amazingly built houses that city
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु. ॥6॥
 </details>
 </details>
-

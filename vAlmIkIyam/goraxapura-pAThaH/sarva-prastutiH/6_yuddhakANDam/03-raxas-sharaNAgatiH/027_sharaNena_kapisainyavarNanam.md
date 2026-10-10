@@ -2,6 +2,7 @@
 title = "०२७ शरणेन कपिसैन्यवर्णनम्"
 title_english = "027 Sharana describes the individual strength of the army"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ the army of monkeys, mentioning their names one by one, in detail.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-027-Sharana_describes_the_individual_strength_of_the_army_0.mp3"></div>
 </details>
 
@@ -761,6 +763,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो हाथियों और वानरोंके पुराने* वैरका स्मरण करके गज-यूथपतियोंको भयभीत करता हुआ गङ्गाके किनारे विचरा करता है, जंगली पेड़ोंको तोड़-उखाड़कर उनके द्वारा हाथियोंको आगे बढ़नेसे रोक देता है, पर्वतोंकी कन्दरामें सोता और जोर-जोरसे गर्जना करता है, वानरयूथोंका स्वामी तथा संचालक है, वानरोंकी सेनामें जिसे प्रमुख वीर माना जाता है, जो गङ्गातटपर विद्यमान उशीरबीज नामक पर्वत तथा गिरिश्रेष्ठ मन्दराचलका आश्रय लेकर रहता एवं रमण करता है और जो वानरोंमें उसी प्रकार श्रेष्ठ स्थान रखता है जैसे स्वर्गके देवताओंमें साक्षात् इन्द्र, वही यह दुर्जय वीर प्रमाथी नामक यूथपति है । इसके साथ बल और पराक्रमपर गर्व रखकर गर्जना करनेवाले दस करोड़ वानर रहते हैं, जो अपने बाहुबलसे सुशोभित होते हैं । यह प्रमाथी इन सभी महात्मा वानरोंका नेता है । वायुके वेगसे उठे हुए मेघकी भाँति जिस वानरकी ओर आप बारंबार देख रहे हैं, जिससे सम्बन्ध रखनेवाले वेगशाली वानरोंकी सेना भी रोषसे भरी दिखायी देती है तथा जिसकी सेनाद्वारा उड़ायी गयी धूमिल रंगकी बहुत बड़ी धूलिराशि वायुसे सब ओर फैलकर जिसके निकट गिर रही है, वही यह प्रमाथी नामक वीर है ॥ २५—३१ १/२ ॥
+
+\\* हनुमान् जी के पिता वानरराज केसरीने शम्बसादन नामक राक्षसको, जो हाथीका रूप धारण करके आया था, मार डाला था । इसीसे पूर्वकालमें हाथियोंसे वानरोंका वैर बँध गया था ।
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -868,10 +872,6 @@ mountain-caves, subduing wild elephants."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* हनुमान् जी के पिता वानरराज केसरीने शम्बसादन नामक राक्षसको, जो हाथीका रूप धारण करके आया था, मार डाला था । इसीसे पूर्वकालमें हाथियोंसे वानरोंका वैर बँध गया था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1378,4 +1378,3 @@ by uprooting and razing its mountains to the ground."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तेळनॆय सर्गः पूर्णवायितु. ॥27॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०८१ राजसभागमनम्"
 title_english = "081 Bharata with Shatrughna enters the assembly"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ others enter the assembly.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-081-Raja_Sabhaa_Gamanam.mp3"></div>
 </details>
 
@@ -757,6 +759,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तिमि नामक महान् मत्स्य और जलहस्तीसे युक्त, स्थिर जलवाले तथा मुक्ता आदि मणियोंसे युक्त शङ्ख और बालुकावाले समुद्रके जलाशयकी भाँति वह सभा दशरथपुत्र भरतसे सुशोभित होकर वैसी ही शोभा पाने लगी, जैसे पूर्वकालमें राजा दशरथकी उपस्थितिसे शोभा पाती थी* ॥ १६ ॥
+
+\\* यहाँ सभा उपमेय और ह्रद (जलाशय) उपमान है । जलाशयके जो विशेषण दिये गये हैं, वे सभामें इस प्रकार संगत होते हैं—सभामें तिमि और जलहस्तीके चित्र लगे हैं । स्थिर जलकी जगह उसमें स्थिर तेज है, खम्भोंमें मणियाँ जड़ी गयी हैं, शङ्खके चित्र हैं तथा फर्शमें सोनेका लेप लगा है, जो स्वर्णबालुका-सा प्रतीत होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -783,11 +787,6 @@ and sand and filled with great fish and serpents.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ सभा उपमेय और ह्रद (जलाशय) उपमान है । जलाशयके जो विशेषण दिये गये हैं, वे सभामें इस प्रकार संगत होते हैं—सभामें तिमि और जलहस्तीके चित्र लगे हैं । स्थिर जलकी जगह उसमें स्थिर तेज है, खम्भोंमें मणियाँ जड़ी गयी हैं, शङ्खके चित्र हैं तथा फर्शमें सोनेका लेप लगा है, जो स्वर्णबालुका-सा प्रतीत होता है ।
-</details>
-
 <details><summary>समाप्तिः</summary>
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकाशीतितमः सर्गः ॥ ८१ ॥  
@@ -799,4 +798,3 @@ and sand and filled with great fish and serpents.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॊन्दनॆय सर्ग पूर्णवायितु.॥81॥
 </details>
 </details>
-

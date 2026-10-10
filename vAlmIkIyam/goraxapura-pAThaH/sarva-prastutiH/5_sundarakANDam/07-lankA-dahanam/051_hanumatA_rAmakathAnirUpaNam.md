@@ -2,6 +2,7 @@
 title = "०५१ हनुमता रामकथानिरूपणम्"
 title_english = "051 Hanuma narrates the story of"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -20,6 +21,7 @@ that he should be prepared for the worst if on the other hand he refuses to do s
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-050-Hanuma_declares_himself_to_be_a_messenger_of.mp3"></div>
 </details>
 
@@ -1280,6 +1282,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो पुरुष प्रबल अधर्मके फलसे बँधा हुआ है, उसे धर्मका फल नहीं मिलता । वह उस अधर्मफलको ही पाता है । हाँ, यदि उस अधर्मके बाद किसी प्रबल धर्मका अनुष्ठान किया गया हो तो वह पहलेके अधर्मका नाशक होता है* ॥ २८ ॥
+
+\\* जैसा कि श्रुतिका वचन है—‘धर्मेण पापमपनुदति ।’ अर्थात् धर्मसे मनुष्य अपने पापको दूर करता है । स्मृतियोंमें बताये गये प्रायश्चित्त कृच्छ्रव्रत आदि भी इसी बातके समर्थक हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1325,10 +1329,6 @@ nor pannaga the serpent-demon. O King! How do you protect your life from him?"
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* जैसा कि श्रुतिका वचन है—‘धर्मेण पापमपनुदति ।’ अर्थात् धर्मसे मनुष्य अपने पापको दूर करता है । स्मृतियोंमें बताये गये प्रायश्चित्त कृच्छ्रव्रत आदि भी इसी बातके समर्थक हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2160,4 +2160,3 @@ would not be able to protect the one to be killed by Rama in battle."
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तॊन्दनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

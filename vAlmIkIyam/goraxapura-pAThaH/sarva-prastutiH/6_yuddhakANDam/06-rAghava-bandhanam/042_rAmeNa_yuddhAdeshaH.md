@@ -2,6 +2,7 @@
 title = "०४२ रामेण युद्धादेशः"
 title_english = "042 Ravana commands his army to commence combat"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -21,6 +22,7 @@ trees, mountain-tops, nails and teeth.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-042-Ravana_commands_his_army_to_commence_combat_0.mp3"></div>
 </details>
 
@@ -1238,6 +1240,8 @@ monkeys, stood besieging that gate.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 सुमित्राकुमार लक्ष्मणसहित महाबलवान् श्रीराम तथा वानरराज सुग्रीव उत्तर४ द्वारको घेरकर खड़े हुए (सुग्रीव पूर्ववर्णनके अनुसार वायव्यकोणमें स्थित हो उत्तर द्वारवर्ती श्रीरामकी सहायता करते थे ।) ॥ २७ ॥
+
+१, २, ३, ४—यहाँ जो पूर्व, दक्षिण, पश्चिम और उत्तर शब्द आये हैं, वे क्रमशः ईशान, अग्नि, नैर्ऋत्य और वायव्यकोणका लक्ष्य करानेवाले हैं; क्योंकि पहले (४१ वें सर्गमें) पूर्व आदि दरवाजोंपर नील आदि यूथपतियोंके आक्रमणकी बात कह दी गयी है वे कुमुद आदि वानर निकटवर्ती ईशान आदि कोणोंमें रहकर पूर्वादि द्वारोंपर आक्रमण करके नील आदिकी सहायता करते थे ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1263,10 +1267,6 @@ northern gate (while remaining stationed in the north west) stood besieging that
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१, २, ३, ४—यहाँ जो पूर्व, दक्षिण, पश्चिम और उत्तर शब्द आये हैं, वे क्रमशः ईशान, अग्नि, नैर्ऋत्य और वायव्यकोणका लक्ष्य करानेवाले हैं; क्योंकि पहले (४१ वें सर्गमें) पूर्व आदि दरवाजोंपर नील आदि यूथपतियोंके आक्रमणकी बात कह दी गयी है वे कुमुद आदि वानर निकटवर्ती ईशान आदि कोणोंमें रहकर पूर्वादि द्वारोंपर आक्रमण करके नील आदिकी सहायता करते थे ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2165,4 +2165,3 @@ a mire of flesh and blood.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तॆरडनॆय सर्ग पूर्णवायितु.॥42॥
 </details>
 </details>
-

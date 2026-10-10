@@ -2,6 +2,7 @@
 title = "०५९ रावणेन युद्धभूमिप्रवेशः"
 title_english = "059 Ravana himself appears on the battle front"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ ignominious defeat at the latter's hands and escaping with his life, withdraws t
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-059-Ravana_himself_appears_on_the_battle-front_0.mp3"></div>
 </details>
 
@@ -735,6 +737,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! यह जो महामनस्वी वीर हाथीकी पीठपर बैठा है, जिसका मुख नवोदित सूर्यके समान लाल रंगका है तथा जो अपने भारसे हाथीके मस्तकमें कम्पन उत्पन्न करता हुआ इधर आ रहा है, इसे आप अकम्पन* समझें ॥ १४ ॥
+
+\\* यह अकम्पन हनुमान् जी के द्वारा मारे गये अकम्पनसे भिन्न है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -742,10 +746,6 @@ _________________
 राजने! आनॆय मेलॆ कुळितिरुव उदयिसुत्तिरुव सूर्यनन्तॆ कॆम्पाद बण्णुवुळ्ळ तन्न भारदिन्द आनॆय मस्तकवन्नु नडुगिसुत्ता इत्तबरुत्तिरुव महामनस्वी वीरनु अकम्पननॆन्दु तिळि.॥14॥*
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह अकम्पन हनुमान् जी के द्वारा मारे गये अकम्पनसे भिन्न है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1006,6 +1006,8 @@ clouds and a mountain, he is Pishacha."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिसने वज्रके वेगको भी अपना दास बना लिया है और जिससे बिजलीकी-सी प्रभा छिटकती रहती है, ऐसे तीखे त्रिशूलको हाथमें लिये जो यह चन्द्रमाके समान श्वेत कान्तिवाले साँड़पर चढ़कर युद्धभूमिमें आ रहा है, यह यशस्वी वीर त्रिशिरा* है ॥ १९ ॥
+
+\\* यह त्रिशिरा जनस्थानमें मारे गये त्रिशिरासे भिन्न है । यह रावणका पुत्र है और वह भाई था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1033,10 +1035,6 @@ illustrious Trishiras."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह त्रिशिरा जनस्थानमें मारे गये त्रिशिरासे भिन्न है । यह रावणका पुत्र है और वह भाई था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1181,6 +1179,8 @@ demons, he is Nikumbha of Prodigious exploits."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यह जो धनुष, खड्ग और बाणसमूहसे भरे हुए, ध्वजा-पताकासे अलंकृत तथा प्रज्वलित अग्निके समान देदीप्यमान रथपर आरूढ़ हो अतिशय शोभा पा रहा है, वह ऊँचे कदका योद्धा नरान्तक* है । वह पहाड़ोंकी चोटियोंसे युद्ध करता है ॥ २२ ॥
+
+\\* यह नरान्तक रावणका पुत्र है ।
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1208,10 +1208,6 @@ over there and who, in combat, fights with mountain-tops."
 धनुस्सु, खड्ग, बाण तुम्बिद बत्तळिकॆयॊन्दिगॆ ध्वजपताकॆगळिन्द अलङ्कृत हागू अग्नियन्तॆ देदीप्यमान रथारूढनागि अतिशय शोभिसुत्तिरुव ऎत्तरनाद योधने नरान्तकनु. इवनु पर्वत शिखरगळिन्द युद्धमाडुत्तानॆ.॥2.॥
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह नरान्तक रावणका पुत्र है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7442,4 +7438,3 @@ serpents as also all beings on earth and in waters rejoiced very much.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥59॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०६३ कुम्भकर्णेन रावणाश्वासनम्"
 title_english = "063 Kumbhakarna reassures Ravana"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ be destroyed by him in the ensuing battle.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-063-Kumbhakarna_reassures_Ravana_0.mp3"></div>
 </details>
 
@@ -286,6 +288,8 @@ without properly making the fire well-prepared."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो राजा सचिवोंके साथ विचार करके क्षय, वृद्धि और स्थानरूपसे उपलक्षित साम, दान और दण्ड—इन तीनों कर्मोंके पाँच* प्रकारके प्रयोगको काममें लाता है, वही उत्तम नीति-मार्गपर विद्यमान है, ऐसा समझना चाहिये ॥ ७ ॥
+
+\\* कार्यको आरम्भ करनेका उपाय, पुरुष और द्रव्यरूप सम्पत्ति, देश-कालका विभाग, विपत्तिको टालनेका उपाय और कार्यकी सिद्धि—ये पाँच प्रकारके योग हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -318,10 +322,6 @@ of success.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* कार्यको आरम्भ करनेका उपाय, पुरुष और द्रव्यरूप सम्पत्ति, देश-कालका विभाग, विपत्तिको टालनेका उपाय और कार्यकी सिद्धि—ये पाँच प्रकारके योग हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +344,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो नरेश नीतिशास्त्रके अनुसार मन्त्रियोंके साथ क्षय* आदिके लिये उपयुक्त समयका विचार करके तदनुरूप कार्य करता है और अपनी बुद्धिसे सुहृदोंकी भी पहचान कर लेता है, वही कर्तव्य और अकर्तव्यका विवेक कर पाता है ॥ ८ ॥
+
+\\* जब अपनी वृद्धि और शत्रुकी हानिका समय हो तब दण्डोपयोगी यान (युद्धयात्रा) उचित है । अपनी और शत्रुकी समान स्थिति हो तो सामपूर्वक संधि कर लेना उचित है । तथा जब अपनी हानि और शत्रुकी वृद्धिका समय हो, तब उसे कुछ देकर उसका आश्रय ग्रहण करना उचित होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -368,10 +370,6 @@ intellect as well as the counsellors and discovers it through his friends, is on
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* जब अपनी वृद्धि और शत्रुकी हानिका समय हो तब दण्डोपयोगी यान (युद्धयात्रा) उचित है । अपनी और शत्रुकी समान स्थिति हो तो सामपूर्वक संधि कर लेना उचित है । तथा जब अपनी हानि और शत्रुकी वृद्धिका समय हो, तब उसे कुछ देकर उसका आश्रय ग्रहण करना उचित होता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +395,8 @@ intellect as well as the counsellors and discovers it through his friends, is on
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसराज! नीतिज्ञ पुरुषको चाहिये कि धर्म,अर्थ या कामका अथवा सबका अपने समयपर सेवन करे अथवा तीनों द्वन्द्वोंका—धर्म-अर्थ, अर्थ-धर्म और काम-अर्थ इन सबका भी उपयुक्त समयमें ही सेवन करे* ॥
+
+\\* यहाँ यह बात कही गयी है कि शास्त्रके अनुसार प्रातःकाल धर्मका, मध्याह्नकालमें अर्थका और रात्रिमें कामसेवनका विधान है; अतः उन-उन समयोंमें धर्म आदिका सेवन करना चाहिये अथवा प्रातःकालमें धर्म और अर्थरूप द्वन्द्वका, मध्याह्नकालमें अर्थ और धर्मका और रात्रिमें काम और अर्थका सेवन करे । जो हर समय केवल कामका ही सेवन करता है, वह पुरुषोंमें अधम कोटिका है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -428,10 +428,6 @@ in the afternoon and sensuous pleasure at night. As an alternative, one is calle
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ यह बात कही गयी है कि शास्त्रके अनुसार प्रातःकाल धर्मका, मध्याह्नकालमें अर्थका और रात्रिमें कामसेवनका विधान है; अतः उन-उन समयोंमें धर्म आदिका सेवन करना चाहिये अथवा प्रातःकालमें धर्म और अर्थरूप द्वन्द्वका, मध्याह्नकालमें अर्थ और धर्मका और रात्रिमें काम और अर्थका सेवन करे । जो हर समय केवल कामका ही सेवन करता है, वह पुरुषोंमें अधम कोटिका है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2617,4 +2613,3 @@ your after a log time."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तमूरनॆय सर्ग पूर्णवायितु. ॥63॥
 </details>
 </details>
-

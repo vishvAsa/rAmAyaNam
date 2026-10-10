@@ -2,6 +2,7 @@
 title = "०४५ राघव-इन्द्रजिद्युद्धम्"
 title_english = "045 Two scions of Raghu dynasty fall on the ground"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ state, the monkeys give way to utter despondence.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-045-Two_scions_of_Raghu_dynasty_fall_on_the_ground_0.mp3"></div>
 </details>
 
@@ -1060,6 +1062,8 @@ formerly vanquished Indra the Lord of celestials.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रजित् ने उन्हें सोनेके पंख, स्वच्छ अग्रभाग और धूलके समान गतिवाले (अर्थात् धूलकी भाँति छिद्ररहित स्थानमें भी प्रवेश करनेवाले) शीघ्रगामी नाराच१, अर्धनाराच२, भल्ल३, अञ्जलिक४, वत्सदन्त५, सिंहदंष्ट्र६ और क्षुर७ जातिके बाणोंद्वारा घायल कर दिया था ॥ २३ ॥
+
+१. जिसका अग्रभाग सीधा और गोल हो, उस बाणको ‘नाराच’ कहते हैं । २. अर्ध भागमें नाराचकी समानता रखनेवाले बाण ‘अर्धनाराच’ कहलाते हैं । ३. जिनका अग्रभाग फरसेके समान हो, उस बाणकी ‘भल्ल’ संज्ञा है । आधुनिक भालेको भी भल्ल कहते हैं । ४. जिसका मुखभाग दोनों हाथोंकी अञ्जलिके समान हो, वह बाण ‘अञ्जलिक’ कहा गया है । ५. जिसका अग्रभाग बछड़ेके दाँतोंके समान दिखायी देता हो, उस बाणकी ‘वत्सदन्त’ संज्ञा होती है । ६. सिंहकी दाढ़के समान अग्रभागवाला बाण । ७. जिसका अग्रभाग क्षुरेकी धारके समान हो, उस बाणको ‘क्षुर’ कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1087,10 +1091,6 @@ dantas and those shafts like unto razors.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. जिसका अग्रभाग सीधा और गोल हो, उस बाणको ‘नाराच’ कहते हैं । २. अर्ध भागमें नाराचकी समानता रखनेवाले बाण ‘अर्धनाराच’ कहलाते हैं । ३. जिनका अग्रभाग फरसेके समान हो, उस बाणकी ‘भल्ल’ संज्ञा है । आधुनिक भालेको भी भल्ल कहते हैं । ४. जिसका मुखभाग दोनों हाथोंकी अञ्जलिके समान हो, वह बाण ‘अञ्जलिक’ कहा गया है । ५. जिसका अग्रभाग बछड़ेके दाँतोंके समान दिखायी देता हो, उस बाणकी ‘वत्सदन्त’ संज्ञा होती है । ६. सिंहकी दाढ़के समान अग्रभागवाला बाण । ७. जिसका अग्रभाग क्षुरेकी धारके समान हो, उस बाणको ‘क्षुर’ कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1346,4 +1346,3 @@ disturbed and afflicted sorrow.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तैदनॆय सर्ग पूर्णवायितु.॥45॥
 </details>
 </details>
-

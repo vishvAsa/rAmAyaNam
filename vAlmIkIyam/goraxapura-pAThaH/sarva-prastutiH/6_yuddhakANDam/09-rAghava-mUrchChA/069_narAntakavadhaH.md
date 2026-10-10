@@ -2,6 +2,7 @@
 title = "०६९ नरान्तकवधः"
 title_english = "069 Death of Narantaka"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -26,6 +27,7 @@ finally, Narantaka dies.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-069-Death_of_Narantaka_0.mp3"></div>
 </details>
 
@@ -315,6 +317,8 @@ various types of weapons. As such, you can punish Rama, when endowed with all we
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जैसे इन्द्रने शम्बरासुरको और भगवान् विष्णुने नरकासुरको* मार गिराया था, उसी प्रकार युद्धस्थलमें आज मेरे द्वारा मारे जाकर राम सदाके लिये सो जायँगे’ ॥ ७ ॥
+
+\\* यहाँ जिस नरकासुरका नाम आया है, वह विप्रचित्ति नामक दानवके द्वारा सिंहिकाके गर्भसे उत्पन्न हुए वातापि आदि सात पुत्रोंमेंसे एक था । उनके नाम क्रमशः इस प्रकार हैं—वातापि, नमुचि, इल्वल, सृमर, अन्धक, नरक और कालनाभ । भगवान् श्रीकृष्णने द्वापरमें जिस भूमिपुत्र नरकासुरका वध किया था, वह यहाँ उल्लिखित नरकासुरसे भिन्न था । त्रिशिरा और रावणके समयमें तो उसका जन्म ही नहीं हुआ था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -345,10 +349,6 @@ Namuchi, Ilwala, Shrimara, Andhaka and Kalanabha.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ जिस नरकासुरका नाम आया है, वह विप्रचित्ति नामक दानवके द्वारा सिंहिकाके गर्भसे उत्पन्न हुए वातापि आदि सात पुत्रोंमेंसे एक था । उनके नाम क्रमशः इस प्रकार हैं—वातापि, नमुचि, इल्वल, सृमर, अन्धक, नरक और कालनाभ । भगवान् श्रीकृष्णने द्वापरमें जिस भूमिपुत्र नरकासुरका वध किया था, वह यहाँ उल्लिखित नरकासुरसे भिन्न था । त्रिशिरा और रावणके समयमें तो उसका जन्म ही नहीं हुआ था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1203,6 +1203,9 @@ the wielders of bow, mounted an excellent chariot.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस रथके पहिये और धुरे बहुत सुन्दर थे । उसमें उत्तम घोड़े जुते हुए थे तथा उसके अनुकर्ष१ और कूबर२ भी सुदृढ़ थे । तूणीर, बाण और धनुषके कारण वह रथ उद्दीप्त हो रहा था । प्रास, खड्ग और परिघोंसे वह भरा हुआ था ॥ २६ ॥
+
+१. रथके धुरेपर कूबरके आधाररूपसे स्थापित काष्ठविशेषको अनुकर्ष कहते हैं ।  
+२. कूबर उस काष्ठको कहते हैं, जिसपर जुआ रखा जाता है । गाड़ीके हरसोंको भी प्राचीनकालमें कूबर कहा जाता था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1229,11 +1232,6 @@ maces.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. रथके धुरेपर कूबरके आधाररूपसे स्थापित काष्ठविशेषको अनुकर्ष कहते हैं ।  
-२. कूबर उस काष्ठको कहते हैं, जिसपर जुआ रखा जाता है । गाड़ीके हरसोंको भी प्राचीनकालमें कूबर कहा जाता था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4691,4 +4689,3 @@ terrible acts, was infused with vigour and again showed enthusiasm in battle.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥69॥
 </details>
 </details>
-

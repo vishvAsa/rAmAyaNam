@@ -2,6 +2,7 @@
 title = "०३२ रावणेन सीतायाः मायिकरामशिर आदिप्रदर्शनम्"
 title_english = "032 Seetha sees the illusory head and bow"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ army for action against the forces of Rama.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
 </details>
 
@@ -843,6 +845,8 @@ law Dasaratha as well as all the multitude of manes."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आप पिताकी आज्ञाका पालनरूपी महान् कर्म करके अद्भुत पुण्यका उपार्जन कर यहाँसे अपने उस राजर्षिकुलकी उपेक्षा करके (उसे छोड़कर) जा रहे हैं, जो आकाशमें नक्षत्र* बनकर प्रकाशित होता है (आपको ऐसा नहीं करना चाहिये) ॥ १९ ॥
+
+\\* इक्ष्वाकुवंशके राजा त्रिशंकु आकाशमें नक्षत्र होकर प्रकाशित होते हैं, उन्हींके कारण क्षत्रिन्यायसे समस्त कुलको ही नक्षत्रकुल बताया है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -867,10 +871,6 @@ great act, which illuminated the heaven like a luminary."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इक्ष्वाकुवंशके राजा त्रिशंकु आकाशमें नक्षत्र होकर प्रकाशित होते हैं, उन्हींके कारण क्षत्रिन्यायसे समस्त कुलको ही नक्षत्रकुल बताया है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2102,4 +2102,3 @@ the army.
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ ॥ ३२ ॥
 </details>
 </details>
-

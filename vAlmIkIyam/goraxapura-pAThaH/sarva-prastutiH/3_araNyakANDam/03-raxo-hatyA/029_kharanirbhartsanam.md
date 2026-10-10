@@ -2,6 +2,7 @@
 title = "०२९ खरनिर्भर्त्सनम्"
 title_english = "029 Khara s fight with Rama"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ it is still sky rocketing.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-029-Khara_Nribhartha_Sanam.mp3"></div>
 </details>
 
@@ -209,6 +211,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो वस्तु प्राप्त नहीं हुई है, उसकी इच्छाको ‘काम’ कहते हैं और प्राप्त हुई वस्तुको अधिक-से-अधिक संख्यामें पानेकी इच्छाका नाम ‘लोभ’ है । जो काम अथवा लोभसे प्रेरित हो पाप करता है और उसके (विनाशकारी) परिणामको नहीं समझता है, उलटे उस पापमें हर्षका अनुभव करता है, वह उसी प्रकार अपना विनाशरूप परिणाम देखता है जैसे वर्षाके साथ गिरे हुए ओलेको खाकर ब्राह्मणी (रक्तपुच्छिका) नामवाली कीड़ी अपना विनाश देखती है * ॥ ५ ॥
+
+\\* लाल पूँछवाली एक कीड़ी होती है, जो ओला खा लेनेपर मर जाती है । वह उसके लिये विषका काम करता है—यह बात लोकमें प्रसिद्ध है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -255,10 +259,6 @@ in the next verse.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* लाल पूँछवाली एक कीड़ी होती है, जो ओला खा लेनेपर मर जाती है । वह उसके लिये विषका काम करता है—यह बात लोकमें प्रसिद्ध है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1580,4 +1580,3 @@ antidotes, say spells and nostrums...'
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥29॥
 </details>
 </details>
-

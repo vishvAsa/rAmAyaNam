@@ -2,6 +2,7 @@
 title = "००१ हनुमता सागरोल्लङ्घनम्"
 title_english = "001 Hanuma s Flight over Ocean"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ Hanuma's encountering of Mainaka, Surasa and Simhika form important phases of Hi
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-001-Hanuma_s_Flight_over_Ocean.mp3"></div>
 </details>
 
@@ -838,6 +840,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जिनमें स्वस्तिक* चिह्न स्पष्ट दिखायी दे रहे थे, उन स्थूल फणोंसे विषकी भयानक आग उगलते हुए बड़े-बड़े सर्प उस पर्वतकी शिलाओंको अपने दाँतोंसे डँसने लगे ॥ १९ ॥
+
+\\* साँपके फनोंमें दिखायी देनेवाली नील रेखाको ‘स्वस्तिक’ कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -862,10 +866,6 @@ with their great heads and bit the rocks with their teeth.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* साँपके फनोंमें दिखायी देनेवाली नील रेखाको ‘स्वस्तिक’ कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7339,6 +7339,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर अग्निके समान तेजस्वी हनुमान् नब्बे योजन ऊँचे हो गये । यह देख सुरसाने भी अपने मुँहका विस्तार सौ योजनका कर लिया* ॥ १६५ ॥
+
+\\* १६२ से लेकर १६५ तकके चार श्लोक कुछ टीकाकारोंने प्रक्षिप्त बताये हैं, किंतु रामायणशिरोमणि नामक टीकामें इनकी व्याख्या उपलब्ध होती है । अतः यहाँ मूलमें इन्हें सम्मिलित कर लिया गया है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -7363,10 +7365,6 @@ fashion, became seventy yojanas high.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* १६२ से लेकर १६५ तकके चार श्लोक कुछ टीकाकारोंने प्रक्षिप्त बताये हैं, किंतु रामायणशिरोमणि नामक टीकामें इनकी व्याख्या उपलब्ध होती है । अतः यहाँ मूलमें इन्हें सम्मिलित कर लिया गया है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9267,4 +9265,3 @@ _________________
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मॊदलनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

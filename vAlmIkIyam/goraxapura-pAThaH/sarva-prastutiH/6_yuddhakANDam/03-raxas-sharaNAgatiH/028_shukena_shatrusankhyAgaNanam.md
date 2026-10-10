@@ -2,6 +2,7 @@
 title = "०२८ शुकेन शत्रुसङ्ख्यागणनम्"
 title_english = "028 Shuka enumerates the enemies"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ Sarana.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-028-Shuka_enumerates_the_enemies_0.mp3"></div>
 </details>
 
@@ -150,6 +152,8 @@ with the valour of the gods."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इनकी संख्या इक्कीस कोटि सहस्र, सहस्र शङ्कु और सौ वृन्द है* । ये सब-के-सब वानर सदा किष्किन्धामें रहनेवाले सुग्रीवके मन्त्री हैं । इनकी उत्पत्ति देवताओं और गन्धर्वोंसे हुई है । ये सभी इच्छानुसार रूप धारण करनेमें समर्थ हैं ॥ ४-५ ॥
+
+\\* इन संख्याओंका स्पष्टीकरण इसी सर्गके अन्तमें दी हुई परिभाषाके अनुसार समझना चाहिये ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -196,10 +200,6 @@ as calculated at the end of this chapter.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इन संख्याओंका स्पष्टीकरण इसी सर्गके अन्तमें दी हुई परिभाषाके अनुसार समझना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1514,4 +1514,3 @@ identical of an ocean."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॆण्टनॆय सर्गः पूर्णवायितु.॥28॥
 </details>
 </details>
-

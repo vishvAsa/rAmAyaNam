@@ -2,6 +2,7 @@
 title = "००६ अभिषेकार्थं जनोल्लासः"
 title_english = "006 Joy of a city"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,6 +19,7 @@ occasion.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-006-Abhishekaartham_Janollasaha.mp3"></div>
 </details>
 
@@ -44,6 +46,8 @@ occasion.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 पुरोहितजीके चले जानेपर मनको संयममें रखनेवाले श्रीरामने स्नान करके अपनी विशाललोचना पत्नीके साथ श्रीनारायणकी* उपासना आरम्भ की ॥ १ ॥
+
+\\* ऐसा माना जाता है कि यहाँ नारायण शब्दसे श्रीरङ्गनाथजीकी वह अर्चा-मूर्ति अभिप्रेत है; जो कि पूर्वजोंके समयसे ही दीर्घकालतक अयोध्यामें उपास्य देवताके रूपमें रही । बादमें श्रीरामजीने वह मूर्ति विभीषणको दे दी थी, जिससे वह वर्तमान श्रीरंगक्षेत्रमें पहुँची । इसकी विस्तृत कथा पद्मपुराणमें है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -68,10 +72,6 @@ mind along with his wide-eyed wife, Seetha.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ऐसा माना जाता है कि यहाँ नारायण शब्दसे श्रीरङ्गनाथजीकी वह अर्चा-मूर्ति अभिप्रेत है; जो कि पूर्वजोंके समयसे ही दीर्घकालतक अयोध्यामें उपास्य देवताके रूपमें रही । बादमें श्रीरामजीने वह मूर्ति विभीषणको दे दी थी, जिससे वह वर्तमान श्रीरंगक्षेत्रमें पहुँची । इसकी विस्तृत कथा पद्मपुराणमें है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1241,4 +1241,3 @@ shone like a roaring ocean filled with sea animals.
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु. ॥6॥
 </details>
 </details>
-

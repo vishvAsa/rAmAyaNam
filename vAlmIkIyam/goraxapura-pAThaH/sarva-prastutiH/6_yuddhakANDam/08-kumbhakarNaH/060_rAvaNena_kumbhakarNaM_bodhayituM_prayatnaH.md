@@ -2,6 +2,7 @@
 title = "०६० रावणेन कुम्भकर्णं बोधयितुं प्रयत्नः"
 title_english = "060 Ravana sends demons to wake up Kumbhakarna"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ Ravana and the monkeys get alarmed to see the giant demon.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-060-Ravana_sends_demons_to_wake_up_Kumbhakarna_0.mp3"></div>
 </details>
 
@@ -471,6 +473,8 @@ Vedavati is born as the highly fortunate Seetha the daughter of Janaka."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसी तरह उमा, नन्दीश्वर, रम्भा और वरुण-कन्याने भी जैसा-जैसा कहा था, वैसा ही परिणाम मुझे प्राप्त हुआ है ।* सच है ऋषियोंकी बात कभी झूठी नहीं होती ॥ ११ १/२ ॥
+
+\\* उमाने कैलास उठानेके समय भयभीत होनेसे रावणको शाप दिया था कि ‘तेरी मृत्यु स्त्रीके कारण होगी ।’ नन्दीश्वरकी वानर-मूर्ति देखकर रावण हँसा था, इसलिये उन्होंने कहा था—‘मेरे समान रूप और पराक्रमवाले ही तेरे कुलका नाश करेंगे ।’ रम्भाके निमित्तसे नल-कूबरने और वरुण-कन्या पुञ्जिकस्थलाके निमित्तसे ब्रह्माजीने शाप दिया था कि ‘अनिच्छासे किसी स्त्रीके साथ सम्भोग करनेपर तेरी मृत्यु हो जायगी ।’
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -497,10 +501,6 @@ The words of the sages never prove false."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* उमाने कैलास उठानेके समय भयभीत होनेसे रावणको शाप दिया था कि ‘तेरी मृत्यु स्त्रीके कारण होगी ।’ नन्दीश्वरकी वानर-मूर्ति देखकर रावण हँसा था, इसलिये उन्होंने कहा था—‘मेरे समान रूप और पराक्रमवाले ही तेरे कुलका नाश करेंगे ।’ रम्भाके निमित्तसे नल-कूबरने और वरुण-कन्या पुञ्जिकस्थलाके निमित्तसे ब्रह्माजीने शाप दिया था कि ‘अनिच्छासे किसी स्त्रीके साथ सम्भोग करनेपर तेरी मृत्यु हो जायगी ।’
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4368,4 +4368,3 @@ _________________
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तनॆय सर्ग पूर्णवायितु.॥60॥
 </details>
 </details>
-

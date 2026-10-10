@@ -2,6 +2,7 @@
 title = "०४७ मरुदुत्पत्तिः"
 title_english = "047 The legend of Seven maruts wind gods"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ later became the City of Vishaala.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-047-Marudut_Paththihi.mp3"></div>
 </details>
 
@@ -189,6 +191,8 @@ of seven Marut-s, thus they are forty-nine entities, in total.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘बेटा! ये मेरे दिव्य रूपधारी पुत्र ‘मारुत’ नामसे प्रसिद्ध होकर आकाशमें जो सुविख्यात सात वातस्कन्ध* हैं, उनमें विचरें ॥ ४ ॥
+
+\\* आवह, प्रवह, संवह, उद्वह, विवह, परिवह और परावह—ये सात मरुत् हैं । इन्हींको सात वातस्कन्ध कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -213,10 +217,6 @@ Cosmic Air Divisions and let them move in heaven with heavenly forms. [1-47-4]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* आवह, प्रवह, संवह, उद्वह, विवह, परिवह और परावह—ये सात मरुत् हैं । इन्हींको सात वातस्कन्ध कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -991,4 +991,3 @@ king Sumati to Vishvamitra. [1-47-22]
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तेळनॆय सर्ग पूर्णवायितु. ॥47॥
 </details>
 </details>
-

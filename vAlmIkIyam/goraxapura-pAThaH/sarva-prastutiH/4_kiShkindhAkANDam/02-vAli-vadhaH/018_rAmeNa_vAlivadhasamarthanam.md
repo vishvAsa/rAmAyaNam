@@ -2,6 +2,7 @@
 title = "०१८ रामेण वालिवधसमर्थनम्"
 title_english = "018 Rama s elucidation of dharma to vali"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,6 +18,7 @@ concludes that there is someone superior to him and thus seeks refuge in Rama.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-018-Ramena_Valivadha_Samardhanam.mp3"></div>
 </details>
 
@@ -1546,6 +1548,12 @@ in those verses of law. [4-18-30]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मनुष्य पाप करके यदि राजाके दिये हुए दण्डको भोग लेते हैं तो वे शुद्ध होकर पुण्यात्मा साधु पुरुषोंकी भाँति स्वर्गलोकमें जाते हैं । (चोर आदि पापी जब राजाके सामने उपस्थित हों उस समय उन्हें) राजा दण्ड दे अथवा दया करके छोड़ दे । चोर आदि पापी पुरुष अपने पापसे मुक्त हो जाता है; किंतु यदि राजा पापीको उचित दण्ड नहीं देता तो उसे स्वयं उसके पापका फल भोगना पड़ता है* ॥
+
+\\* मनुस्मृतिमें ये दोनों श्लोक किंचित् पाठान्तरके साथ इस प्रकार मिलते हैं—  
+राजभिः कृतदण्डास्तु कृत्वा पापानि मानवाः ।  
+निर्मलाः स्वर्गमायान्ति सन्तः सुकृतिनो यथा ॥  
+शासनाद् वा विमोक्षाद् वा स्तेनःस्तेयाद् विमुच्यते ।  
+अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1585,15 +1593,6 @@ heaven, they come.
 heaven as with the pious souls with good deeds.' So says one verse of Manu. [4-18-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>पादटिप्पनी</summary>
-
-* मनुस्मृतिमें ये दोनों श्लोक किंचित् पाठान्तरके साथ इस प्रकार मिलते हैं—  
-राजभिः कृतदण्डास्तु कृत्वा पापानि मानवाः ।  
-निर्मलाः स्वर्गमायान्ति सन्तः सुकृतिनो यथा ॥  
-शासनाद् वा विमोक्षाद् वा स्तेनःस्तेयाद् विमुच्यते ।  
-अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥
 </details>
 
 <details><summary>Misc Detail</summary>
@@ -3285,4 +3284,3 @@ I appease you for the same. [4-18-66]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥18॥
 </details>
 </details>
-

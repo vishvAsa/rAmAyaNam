@@ -2,6 +2,7 @@
 title = "०१४ अश्वमेधयजनम्"
 title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,6 +17,7 @@ Ritual are narrated.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-014-Ashva_Medhayajanam.mp3"></div>
 </details>
 
@@ -244,6 +246,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रदेवताको विधिपूर्वक हविष्यका भाग अर्पित किया गया । पापनिवर्तक राजा सोम (सोमलता)* का रस निकाला गया । फिर क्रमशः माध्यन्दिनसवनका कार्य प्रारम्भ हुआ ॥ ६ ॥
+
+\\* इस विषयमें सूत्रकारका वचन है—सोमं राजानं दृषदि निधाय......दृषद्भिरभिहन्यात् अर्थात् ‘राजा सोम (सोमलता) को पत्थरपर रखकर........पत्थरसे कूँचे ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -274,10 +278,6 @@ hold the view that it is from Sarcostema Viminalis family.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस विषयमें सूत्रकारका वचन है—सोमं राजानं दृषदि निधाय......दृषद्भिरभिहन्यात् अर्थात् ‘राजा सोम (सोमलता) को पत्थरपर रखकर........पत्थरसे कूँचे ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1200,6 +1200,8 @@ they are gold-pleated and decorated for the purpose of elegance to that ritual. 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 पूर्वोक्त इक्कीस यूप इक्कीस-इक्कीस अरत्नि* (पाँचसौ चार अंगुल) ऊँचे बनाये गये थे । उन सबको पृथक्-पृथक् इक्कीस कपड़ोंसे अलंकृत किया गया था ॥ २५ ॥
+
+\\* तथा च सूत्रम्—‘चतुर्विंशत्यङ्गुलयोऽरत्निः’ अर्थात् एक अरत्नि चौबीस अङ्गुलके बराबर होता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1224,10 +1226,6 @@ decoratively clothed with each cloth. [1-14-25]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* तथा च सूत्रम्—‘चतुर्विंशत्यङ्गुलयोऽरत्निः’ अर्थात् एक अरत्नि चौबीस अङ्गुलके बराबर होता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1709,6 +1707,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तत्पश्चात् होता, अध्वर्यु और उद्‍गाताने राजाकी (क्षत्रियजातीय) महिषी ‘कौसल्या’, (वैश्यजातीय स्त्री) ‘वावाता’ तथा (शूद्रजातीय स्त्री) ‘परिवृत्ति’—इन सबके हाथसे उस अश्वका स्पर्श कराया* ॥ ३५ ॥
+
+\\* जातिके अनुसार नाम अलग-अलग होते हैं । दशरथके तो कौसल्या, कैकेयी और सुमित्रा तीनों क्षत्रिय जातिकी ही थीं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1748,10 +1748,6 @@ priests took these wives by hand to bring them in contact with the dead horse.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* जातिके अनुसार नाम अलग-अलग होते हैं । दशरथके तो कौसल्या, कैकेयी और सुमित्रा तीनों क्षत्रिय जातिकी ही थीं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2111,6 +2107,8 @@ And also rituals of great kind like *abhijit, vishwajit, aptoryaama* are perform
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इसी तरह उद्‍गाताको उत्तर दिशाकी सारी भूमि दे दी । पूर्वकालमें भगवान् ब्रह्माजीने जिसका अनुष्ठान किया था, उस अश्वमेध नामक महायज्ञमें ऐसी ही दक्षिणाका विधान किया गया है* ॥ ४४ ॥
+
+\\* ‘प्रजापतिरश्वमेधमसृजत (प्रजापतिने अश्वमेध यज्ञका अनुष्ठान किया ।)’ इस श्रुतिके द्वारा यह सूचित होता है कि पूर्वकालमें ब्रह्माजीने इस महायज्ञका अनुष्ठान किया था । इसमें दक्षिणारूपसे प्रत्येक दिशाके दानका विधान कल्पसूत्रद्वारा किया गया है । यथा—‘प्रतिदिशं दक्षिणां ददाति प्राची दिग्धोतुर्दक्षिणा ब्रह्मणः प्रतीच्यध्वर्योरुदीच्युद्‍गातुः’ ॥
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2140,10 +2138,6 @@ by the Self-Created Brahma from earlier times. [1-14-44,43]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* ‘प्रजापतिरश्वमेधमसृजत (प्रजापतिने अश्वमेध यज्ञका अनुष्ठान किया ।)’ इस श्रुतिके द्वारा यह सूचित होता है कि पूर्वकालमें ब्रह्माजीने इस महायज्ञका अनुष्ठान किया था । इसमें दक्षिणारूपसे प्रत्येक दिशाके दानका विधान कल्पसूत्रद्वारा किया गया है । यथा—‘प्रतिदिशं दक्षिणां ददाति प्राची दिग्धोतुर्दक्षिणा ब्रह्मणः प्रतीच्यध्वर्योरुदीच्युद्‍गातुः’ ॥
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2952,4 +2946,3 @@ a state of ecstasy and venerating that great soul, Rishyasringa, again said this
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनाल्कनॆय सर्ग पूर्णवायितु. ॥14॥
 </details>
 </details>
-

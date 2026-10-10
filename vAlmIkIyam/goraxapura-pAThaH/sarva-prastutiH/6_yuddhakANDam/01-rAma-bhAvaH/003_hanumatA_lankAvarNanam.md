@@ -2,6 +2,7 @@
 title = "००३ हनुमता लङ्कावर्णनम्"
 title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ Hanuma gives a detailed description of Lanka as he saw it.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-003-Rama_requests_Hanuma_to_describe_Lanka_in_detail.mp3"></div>
 </details>
 
@@ -552,6 +554,8 @@ gates."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिन्हें वीर राक्षसगणोंने बनाया है, जो काले लोहेकी बनी हुई, भयंकर और तीखी हैं तथा जिनका अच्छी तरह संस्कार किया गया है, ऐसी सैकड़ों शतघ्नियाँ* (लोहेके काँटोंसे भरी हुई चार हाथ लंबी गदाएँ) उन दरवाजोंपर सजाकर रखी गयी हैं ॥ १३ ॥
+
+\\* शतघ्नी च चतुर्हस्ता लोहकंटकिनी गदा । इति वैजयन्ती ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -581,10 +585,6 @@ so called because they are supposed to kill hundreds at a time.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* शतघ्नी च चतुर्हस्ता लोहकंटकिनी गदा । इति वैजयन्ती ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +711,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उक्त चारों दरवाजोंके सामने उन खाइयोंपर मचानोंके रूपमें चार संक्रम* (लकड़ीके पुल) हैं, जो बहुत ही विस्तृत हैं । उनमें बहुत-से बड़े-बड़े यन्त्र लगे हुए हैं और उनके आस-पास परकोटेपर बने हुए मकानोंकी पंक्तियाँ हैं ॥ १६ ॥
+
+\\* मालूम होता है ‘संक्रम’ इस प्रकारके पुल थे, जिन्हें जब आवश्यकता होती, तभी यन्त्रोंद्वारा गिरा दिया जाता था । इसीसे शत्रुकी सेना आनेपर उसे खाईमें गिरा देनेकी बात कही गयी है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -737,10 +739,6 @@ those entrusted with the duty of guarding the entrances)."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* मालूम होता है ‘संक्रम’ इस प्रकारके पुल थे, जिन्हें जब आवश्यकता होती, तभी यन्त्रोंद्वारा गिरा दिया जाता था । इसीसे शत्रुकी सेना आनेपर उसे खाईमें गिरा देनेकी बात कही गयी है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1571,4 +1569,3 @@ walls and buildings, will recover Seetha."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु.॥3॥
 </details>
 </details>
-

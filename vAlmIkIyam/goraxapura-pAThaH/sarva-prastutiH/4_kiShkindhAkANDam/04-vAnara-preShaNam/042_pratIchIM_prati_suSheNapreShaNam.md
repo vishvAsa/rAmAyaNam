@@ -2,6 +2,7 @@
 title = "०४२ प्रतीचीं प्रति सुषेणप्रेषणम्"
 title_english = "042 Sugreeva sends troops to west side"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -19,6 +20,7 @@ time.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-042-Prathicheem_Prathi_Sushena_Preshanam.mp3"></div>
 </details>
 
@@ -403,6 +405,8 @@ Tamaala plants and in the boscages of coconut trees. [4-42-11b, 12a]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 समुद्रतटवर्ती पर्वतों और वनोंमें भी उन्हें ढूँढ़ना चाहिये । मुरवीपत्तन (मोरवी) तथा रमणीय जटापुरमें, अवन्ती* तथा अङ्गलेपापुरीमें, अलक्षित वनमें और बड़े-बड़े राष्ट्रों एवं नगरोंमें जहाँ-तहाँ घूमकर पता लगाना ॥
+
+\\* यह अवन्ती पूर्व दिशाके मार्गमें बतायी गयी अवन्तीसे भिन्न है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -442,10 +446,6 @@ neglected.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यह अवन्ती पूर्व दिशाके मार्गमें बतायी गयी अवन्तीसे भिन्न है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -987,6 +987,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘समुद्रके चतुर्थ भागमें चक्रवान् नामक पर्वत है । वहीं विश्वकर्माने सहस्रार* चक्रका निर्माण किया था ॥ २७ ॥
+
+\\* जिसमें एक हजार अरे हों, उसे सहस्रार चक्र कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1018,10 +1020,6 @@ demons conquer Indra's paradise. In the following verses, a connected legend is 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* जिसमें एक हजार अरे हों, उसे सहस्रार चक्र कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2508,4 +2506,3 @@ Rain-god. [4-42-58]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥42॥
 </details>
 </details>
-

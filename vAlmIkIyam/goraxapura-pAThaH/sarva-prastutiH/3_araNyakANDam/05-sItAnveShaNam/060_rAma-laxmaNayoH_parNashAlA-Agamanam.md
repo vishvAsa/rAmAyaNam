@@ -2,6 +2,7 @@
 title = "०६० राम-लक्ष्मणयोः पर्णशाला-आगमनम्"
 title_english = "060 Rama laments for Seetha s separation"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,6 +17,7 @@ is said here.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-060-Rama_Lakshmanayoho_Parnashala_Agamanam.mp3"></div>
 </details>
 
@@ -683,6 +685,8 @@ of mine, thou telleth whether that slender-waisted daughter of Janaka liveth or 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यह ककुभ* अपने ही समान ऊरुवाली मिथिलेशकुमारीको अवश्य जानता होगा; क्योंकि यह वनस्पति लता, पल्लव तथा फूलोंसे सम्पन्न हो बड़ी शोभा पा रहा है । ककुभ! तुम सब वृक्षोंमें श्रेष्ठ हो, क्योंकि ये भ्रमर तुम्हारे समीप आकर अपने झंकारोंद्वारा तुम्हारा यशोगान करते हैं । (तुम्हीं सीताका पता बताओ, अहो! यह भी कोई उत्तर नहीं दे रहा है ।) यह तिलक वृक्ष अवश्य सीताके विषयमें जानता होगा; क्योंकि मेरी प्रिया सीताको भी तिलकसे प्रेम था ॥ १५-१६ ॥
+
+\\* रामायणके व्याख्याकारोंमेंसे किसीने ककुभका अर्थ मरुवक लिखा है और किसीने अर्जुनविशेष, किंतु कोषोंमें यह कुटजका पर्याय बताया गया है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -729,10 +733,6 @@ this tree knowest Maithili whose thighs can be likened to the smoothish trunk of
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* रामायणके व्याख्याकारोंमेंसे किसीने ककुभका अर्थ मरुवक लिखा है और किसीने अर्जुनविशेष, किंतु कोषोंमें यह कुटजका पर्याय बताया गया है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1848,4 +1848,3 @@ but again he undertook the search for his ladylove, over-strenuously. [3-60-38]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तनॆय सर्ग सम्पूर्णवायितु.॥60॥
 </details>
 </details>
-

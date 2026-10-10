@@ -2,6 +2,7 @@
 title = "१०१ दशरथनिर्याणकथनम्"
 title_english = "101 Bharata informs Rama about Dasaratha s death"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,6 +20,7 @@ both of them.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
 </details>
 
@@ -1307,6 +1309,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मनुष्यलोकमें सम्मानित और देवराज इन्द्रके तुल्य तेजस्वी मेरे महात्मा पिताने मुझे जो वनवासकी आज्ञा दी है, उसीको मैं अपने लिये परम हितकारी समझता हूँ । उनकी आज्ञाके विरुद्ध सर्वलोकेश्वर ब्रह्माका अविनाशी पद भी मेरे लिये श्रेयस्कर नहीं है’ ॥ २७ ॥
+
+\\* कुछ प्रतियोंमें यह सर्ग १०४ वें सर्गके रूपमें वर्णित है । १०० वें सर्गके बादके तीन सर्गोंके बाद इसका उल्लेख हुआ है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1325,9 +1329,4 @@ _________________
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर ऒन्दनॆय सर्ग पूर्णवायितु ॥101॥
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* कुछ प्रतियोंमें यह सर्ग १०४ वें सर्गके रूपमें वर्णित है । १०० वें सर्गके बादके तीन सर्गोंके बाद इसका उल्लेख हुआ है ।
 </details>
-</details>
-

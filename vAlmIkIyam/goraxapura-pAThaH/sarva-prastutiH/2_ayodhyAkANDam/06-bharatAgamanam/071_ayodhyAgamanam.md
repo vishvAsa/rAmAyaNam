@@ -2,6 +2,7 @@
 title = "०७१ अयोध्यागमनम्"
 title_english = "071 Bharata reaches the city of Ayodhya"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ an apprehensive and gloomy mind, he enters his father's house.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-071-Ayodhyaa_Gamanam.mp3"></div>
 </details>
 
@@ -60,6 +62,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजगृहसे निकलकर पराक्रमी भरत पूर्वदिशाकी ओर चले ।* उन तेजस्वी राजकुमारने मार्गमें सुदामा नदीका दर्शन करके उसे पार किया । तत्पश्चात् इक्ष्वाकुनन्दन श्रीमान् भरतने, जिसका पाट दूरतक फैला हुआ था, उस ह्रादिनी नदीको लाँघकर पश्चिमाभिमुख बहनेवाली शतद्रु नदी (सतलज) को पार किया ॥ १-२ ॥
+
+\\* अयोध्यासे जो पाँच दूत चले थे, वे सीधी राहसे राजगृहमें आये थे; अतः उनके मार्गमें जो-जो स्थान पड़े थे, वे भरतके मार्गमें नहीं पड़े थे । भरतके साथ रथ और चतुरङ्गिणी सेना थी, अतः उसके निर्वाहके अनुकूल मार्गसे चलकर वे अयोध्या पहुँचे थे । इसलिये इनके मार्गमें सर्वथा नये ग्रामों और स्थानोंका उल्लेख मिलता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -96,10 +100,6 @@ reach Ayodhya
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* अयोध्यासे जो पाँच दूत चले थे, वे सीधी राहसे राजगृहमें आये थे; अतः उनके मार्गमें जो-जो स्थान पड़े थे, वे भरतके मार्गमें नहीं पड़े थे । भरतके साथ रथ और चतुरङ्गिणी सेना थी, अतः उसके निर्वाहके अनुकूल मार्गसे चलकर वे अयोध्या पहुँचे थे । इसलिये इनके मार्गमें सर्वथा नये ग्रामों और स्थानोंका उल्लेख मिलता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1927,4 +1927,3 @@ with rust , Bharata was overcome with grief.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग पूर्णवायितु ॥71॥
 </details>
 </details>
-

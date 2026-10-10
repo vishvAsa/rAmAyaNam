@@ -2,6 +2,7 @@
 title = "०३३ तारया लक्ष्मणप्रसाधनम्"
 title_english = "033 Lakshmana s fury Tara s pacifying"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -29,6 +30,7 @@ of 'kingly vices...' on which Tara rationally defends.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-033-Tharaya_Lakshmana_Prasadhanam.mp3"></div>
 </details>
 
@@ -841,6 +843,8 @@ is provided. [4-33-19, 20]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसमें प्रवेश करते ही लक्ष्मणके कानोंमें संगीतकी मीठी तान सुनायी पड़ी, जो वहाँ निरन्तर गूँज रही थी । वीणाके लयपर कोई कोमल कण्ठसे गा रहा था । प्रत्येक पद और अक्षरका उच्चारण सम* तालका प्रदर्शन करते हुए हो रहा था ॥ २१ ॥
+
+\\* संगीतमें वह स्थान जहाँ गाने-बजानेवालोंका सिर या हाथ आप-से-आप हिल जाता है । यह स्थान तालके अनुसार निश्चित होता है । जैसे तितालेमें दूसरे तालपर और चौतालमें पहले तालपर सम होता है । इसी प्रकार भिन्न-भिन्न तालोंमें भिन्न-भिन्न स्थानोंपर सम होता है । वाद्योंका आरम्भ और गीतों तथा वाद्योंका अन्त इसी समपर होता है । परंतु गाने-बजानेके बीच-बीचमें भी सम बराबर आता रहता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -867,10 +871,6 @@ with strains from string-instruments, like Veena etc., and all have a pulsating 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* संगीतमें वह स्थान जहाँ गाने-बजानेवालोंका सिर या हाथ आप-से-आप हिल जाता है । यह स्थान तालके अनुसार निश्चित होता है । जैसे तितालेमें दूसरे तालपर और चौतालमें पहले तालपर सम होता है । इसी प्रकार भिन्न-भिन्न तालोंमें भिन्न-भिन्न स्थानोंपर सम होता है । वाद्योंका आरम्भ और गीतों तथा वाद्योंका अन्त इसी समपर होता है । परंतु गाने-बजानेके बीच-बीचमें भी सम बराबर आता रहता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3197,4 +3197,3 @@ Sugreeva made sheep eyes at the furiously broad-eyed Lakshmana. [4-33-66]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥33॥
 </details>
 </details>
-

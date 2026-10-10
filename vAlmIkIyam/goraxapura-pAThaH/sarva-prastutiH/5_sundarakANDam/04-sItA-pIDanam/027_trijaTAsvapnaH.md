@@ -2,6 +2,7 @@
 title = "०२७ त्रिजटास्वप्नः"
 title_english = "027 Trijata s dream"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ the ogre Ravana is conquered.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-027-Trijata_s_dream.mp3"></div>
 </details>
 
@@ -695,6 +697,10 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसके बाद कमलनयनी सीता अपने पतिके अङ्कसे ऊपरको उछलकर चन्द्रमा और सूर्यके पास पहुँच गयीं । वहाँ मैंने देखा, वे अपने दोनों हाथोंसे चन्द्रमा और सूर्यको पोंछ रही हैं—उनपर हाथ फेर रही हैं* ॥ १५ १/२ ॥
+
+जो स्त्री या पुरुष स्वप्नमें अपने दोनों हाथोंसे सूर्यमण्डल अथ‍वा चन्द्रमण्डलको छू लेता है, उसे विशाल राज्यकी प्राप्ति होती है । जैसा कि स्वप्नाध्यायका वचन है—  
+आदित्यमण्डलं वापि चन्द्रमण्डलमेव वा ।  
+स्वप्ने गृह्णाति हस्ताभ्यां राज्यं सम्प्राप्नुयान्महत् ॥
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -719,12 +725,6 @@ of Her husband and gently touched the Moon and the Sun with Her hand."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-जो स्त्री या पुरुष स्वप्नमें अपने दोनों हाथोंसे सूर्यमण्डल अथ‍वा चन्द्रमण्डलको छू लेता है, उसे विशाल राज्यकी प्राप्ति होती है । जैसा कि स्वप्नाध्यायका वचन है—  
-आदित्यमण्डलं वापि चन्द्रमण्डलमेव वा ।  
-स्वप्ने गृह्णाति हस्ताभ्यां राज्यं सम्प्राप्नुयान्महत् ॥
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2294,4 +2294,3 @@ _________________
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तेळनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

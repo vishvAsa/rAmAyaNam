@@ -2,6 +2,7 @@
 title = "०४६ दुन्दुभिवृत्तान्तः"
 title_english = "046 Sugreeva s knowledge of physical world"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,6 +19,7 @@ a plighted flight, Sugreeva says, he acquired a direct and personal knowledge of
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-046-_Dundubhi_Vruthanthaha.mp3"></div>
 </details>
 
@@ -153,6 +155,8 @@ Then Sugreeva bowing down before Rama said, "I will narrate all vividly, and let
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जब वाली महिषरूपधारी दानव दुन्दुभि* (उसके पुत्र मायावी) का पीछा कर रहे थे, उस समय वह महिष मलयपर्वतकी ओर भागा और उस पर्वतकी कन्दरामें घुस गया । यह देख वालीने उसके वधकी इच्छासे उस गुफाके भीतर भी प्रवेश किया ॥ ३-४ ॥
+
+\\* यहाँ दुन्दुभि और महिष शब्दसे उसके पुत्र मायावी नामक दानवका ही वर्णन हुआ है—ऐसा मानना चाहिये; क्योंकि आगे कही जानेवाली सारी बातें उसीके वृत्तान्तसे सम्बन्ध रखती हैं । पिता भैंसेका रूप धारण करता था, यही गुण उसके पुत्र मायावीमें भी था । इसलिये उसको भी महिष या महिषाकृति कहना असङ्गत नहीं है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -197,10 +201,6 @@ Maayaavi and Dundubhi.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ दुन्दुभि और महिष शब्दसे उसके पुत्र मायावी नामक दानवका ही वर्णन हुआ है—ऐसा मानना चाहिये; क्योंकि आगे कही जानेवाली सारी बातें उसीके वृत्तान्तसे सम्बन्ध रखती हैं । पिता भैंसेका रूप धारण करता था, यही गुण उसके पुत्र मायावीमें भी था । इसलिये उसको भी महिष या महिषाकृति कहना असङ्गत नहीं है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1086,4 +1086,3 @@ its entirety, and then I came into the cave of Rishyamuka and did not stir out."
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तारनॆय सर्ग सम्पूर्णवायितु.॥46॥
 </details>
 </details>
-

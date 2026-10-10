@@ -2,6 +2,7 @@
 title = "०१० हनुमता रावणान्तःपुरप्रवेशः"
 title_english = "010 Hanuma enters Ravana s house"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,6 +16,7 @@ of Ravana sleeping in the house. He sees Mandodari and thinks her to be Seetha.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-010-Hanuma_enters_Ravana_s_house.mp3"></div>
 </details>
 
@@ -855,6 +857,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन बड़ी-बड़ी और गोलाकार दो भुजाओंसे युक्त पर्वताकार राक्षसराज रावण दो शिखरोंसे संयुक्त मन्दराचलके समान शोभा पा रहा था* ॥ २२ ॥
+
+\\* यहाँ शयनागारमें सोये हुए रावणके एक ही मुख और दो ही बाँहोंका वर्णन आया है । इससे जान पड़ता है कि वह साधारण स्थितिमें इसी तरह रहता था । युद्ध आदिके विशेष अवसरोंपर ही वह स्वेच्छापूर्वक दस मुख और बीस भुजाओंसे संयुक्त होता था ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -896,10 +900,6 @@ flag staffs raised in honor of Indra.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ शयनागारमें सोये हुए रावणके एक ही मुख और दो ही बाँहोंका वर्णन आया है । इससे जान पड़ता है कि वह साधारण स्थितिमें इसी तरह रहता था । युद्ध आदिके विशेष अवसरोंपर ही वह स्वेच्छापूर्वक दस मुख और बीस भुजाओंसे संयुक्त होता था ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2355,4 +2355,3 @@ simian nature, climbed pillars and fell down on land.
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हत्तनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

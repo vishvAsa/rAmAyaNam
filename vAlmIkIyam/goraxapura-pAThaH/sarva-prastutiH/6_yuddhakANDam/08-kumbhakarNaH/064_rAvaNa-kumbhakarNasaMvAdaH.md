@@ -2,6 +2,7 @@
 title = "०६४ रावण-कुम्भकर्णसंवादः"
 title_english = "064 He advises Kumbhakarna"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ Mahodara then suggests to Ravana a strategy to fulfill his purpose without a com
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-064-He_advises_Kumbhakarna_0.mp3"></div>
 </details>
 
@@ -478,6 +480,8 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यहाँ राजाके लिये कामरूपी पुरुषार्थका सेवन उचित है ही* । ऐसा ही राक्षसराजने अपने हृदयमें निश्चित किया है और यही हम मन्त्रियोंकी भी सम्मति है । शत्रुके प्रति साहसपूर्ण कार्य करना कौन-सी अनीति है (अतः इन्होंने जो कुछ किया है, उचित ही किया है) ॥ १० ॥
+
+\\* यहाँ महोदरने रावणकी चापलूसी करनेके लिये ‘कामवाद’ की स्थापना या प्रशंसा की है । यह आदर्श मत नहीं है । वास्तवमें धर्म, अर्थ और काममें धर्म ही प्रधान है; अतः उसीके सेवनसे प्राणिमात्रका कल्याण हो सकता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -505,10 +509,6 @@ against the enemy?"
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ महोदरने रावणकी चापलूसी करनेके लिये ‘कामवाद’ की स्थापना या प्रशंसा की है । यह आदर्श मत नहीं है । वास्तवमें धर्म, अर्थ और काममें धर्म ही प्रधान है; अतः उसीके सेवनसे प्राणिमात्रका कल्याण हो सकता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1695,4 +1695,3 @@ glory."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥64॥
 </details>
 </details>
-

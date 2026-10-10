@@ -2,6 +2,7 @@
 title = "०५८ रामसन्देशनिवेदनम्"
 title_english = "058 Sumantra delivers the messages of Rama"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ messages to Dasaratha.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-058-Rama_Sandesha_Nivedanam.mp3"></div>
 </details>
 
@@ -798,6 +800,9 @@ her and about my meticulousness.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अभिमान१ और मानको२ त्यागकर सभी माताओंके प्रति समान बर्ताव करना—उनके साथ हिल-मिलकर रहना । अम्बे! जिसमें राजाका अनुराग है, उस कैकेयीको भी श्रेष्ठ मानकर उसका सत्कार करना ॥ १९ ॥
+
+१. मुख्य पटरानी होनेका अहङ्कार ।  
+२. अपने बड़प्पनके घमंडमें आकर दूसरोंके तिरस्कार करनेकी भावना ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -822,11 +827,6 @@ indignation. Make the venerable Kaikeyi, agreeable to the king."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. मुख्य पटरानी होनेका अहङ्कार ।  
-२. अपने बड़प्पनके घमंडमें आकर दूसरोंके तिरस्कार करनेकी भावना ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1683,4 +1683,3 @@ the royal chariot and me."
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग पूर्णवायितु ॥58॥
 </details>
 </details>
-

@@ -2,6 +2,7 @@
 title = "०११ अगस्त्यमाहात्म्यम्"
 title_english = "011 Stories of Sages Mandakarani and Agastya"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -22,6 +23,7 @@ Rama comes across lake from which divine music is heard. Surprised at the musica
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-011-Agastya_Mahathyam.mp3"></div>
 </details>
 
@@ -3566,6 +3568,8 @@ very far from here. [4-11-78]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो अपने कर्मसे ही संसारमें अगस्त्य* के नामसे विख्यात हुए हैं, उन्हींका यह आश्रम दिखायी देता है, जो थके-माँदे पथिकोंकी थकावटको दूर करनेवाला है ॥
+
+\\* अगं पर्वतं स्तम्भयति इति अगस्त्यः—जो अग अर्थात् पर्वतको स्तम्भित कर दे, उसे अगस्त्य कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3593,10 +3597,6 @@ The name Agastya is cleavable like *aga+ stha* mountain, who stayed, stopped fro
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* अगं पर्वतं स्तम्भयति इति अगस्त्यः—जो अग अर्थात् पर्वतको स्तम्भित कर दे, उसे अगस्त्य कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4311,4 +4311,3 @@ the arrival of time to eradicate Ravana, Rama seeks this protocol.
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हन्नॊन्दनॆय सर्ग सम्पूर्णवायितु. ॥11॥
 </details>
 </details>
-

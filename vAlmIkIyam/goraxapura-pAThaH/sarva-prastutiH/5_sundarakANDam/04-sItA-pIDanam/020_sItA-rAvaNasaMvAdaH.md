@@ -2,6 +2,7 @@
 title = "०२० सीता-रावणसंवादः"
 title_english = "020 Ravana talks to Seetha"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,6 +15,7 @@ In this chapter Ravana entices Seetha with wealth, gems, sovereignty over all wi
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-020-Ravana_talks_to_Seetha.mp3"></div>
 </details>
 
@@ -970,12 +972,10 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुमुखि! आज मैं शृंगारसे सुसज्जित हुए तुम्हारे सुन्दर रूपको देख रहा हूँ* । तुम उदारतावश मुझपर कृपा करके शृंगारसे सम्पन्न हो जाओ ॥ २२ ॥
+
+\\* यहाँ भविष्यका वर्तमानकी भाँति वर्णन होनेसे ‘भाविक’ अलंकार समझना चाहिये ।
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ भविष्यका वर्तमानकी भाँति वर्णन होनेसे ‘भाविक’ अलंकार समझना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1689,4 +1689,3 @@ at sea shore filled with groups of flowered trees and with humble bees."
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तनॆय सर्गवु मुगियितु.
 </details>
 </details>
-

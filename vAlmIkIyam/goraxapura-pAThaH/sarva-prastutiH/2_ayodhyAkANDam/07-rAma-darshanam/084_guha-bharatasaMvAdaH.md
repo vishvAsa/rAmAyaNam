@@ -2,6 +2,7 @@
 title = "०८४ गुह-भरतसंवादः"
 title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,6 +17,7 @@ of honey, meat and fish. He asks Bharata with his army to accept his hospitality
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
 </details>
 
@@ -475,6 +477,8 @@ allowed to) cross the River Ganga in safety."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 यों कहकर निषादराज गुह मत्स्यण्डी* (मिश्री), फलके गूदे और मधु आदि भेंटकी सामग्री लेकर भरतके पास गया ॥ १० ॥
+
+\\* यहाँ मूलमें ‘मत्स्य’ शब्द ‘मत्स्यण्डी’ अर्थात् मिश्रीका वाचक है । ‘मत्स्यण्डी’ इस नामका एक अंश ‘मत्स्य’ है, अतः नामके एक अंशके ग्रहणसे सम्पूर्ण नामका ग्रहण किया गया है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -499,10 +503,6 @@ offering and approached Bharata.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ मूलमें ‘मत्स्य’ शब्द ‘मत्स्यण्डी’ अर्थात् मिश्रीका वाचक है । ‘मत्स्यण्डी’ इस नामका एक अंश ‘मत्स्य’ है, अतः नामके एक अंशके ग्रहणसे सम्पूर्ण नामका ग्रहण किया गया है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,4 +891,3 @@ you could desire, you can continue your journey tomorrow along with your troops.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥84॥
 </details>
 </details>
-

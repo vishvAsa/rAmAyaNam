@@ -2,6 +2,7 @@
 title = "०३० शरद्वर्णनम्-रामविलापश्च"
 title_english = "030 Autumn Sharad R itu eulogised"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -25,6 +26,7 @@ traditional versions, as age-old commentators have commented on them at length.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-030-Sharadvaranam_Rama_Vilapshcha.mp3"></div>
 </details>
 
@@ -2558,6 +2560,8 @@ Rama?
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘शोभाशाली चन्द्रमाकी किरणोंके स्पर्शसे होनेवाले हर्षके कारण जिसके तारे किंचित् प्रकाशित हो रहे हैं (अथवा प्रियतमके करस्पर्शजनित हर्षसे जिसके नेत्रोंकी पुतली किंचित् खिल उठी है) वह रागयुक्त संध्या (अथवा अनुरागभरी नायिका) स्वयं ही अम्बर (आकाश अथवा वस्त्र) का त्याग कर रही है, यह कैसे आश्चर्यकी बात है!* ॥ ४५ ॥
+
+\\* यहाँ संध्यामें कामुकी नायिकाके व्यवहारका आरोप होनेसे समासोक्ति अलंकार समझना चाहिये ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2592,10 +2596,6 @@ is delightedly widening her pupils and disrobing her ochry robe on her own. [4-3
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* यहाँ संध्यामें कामुकी नायिकाके व्यवहारका आरोप होनेसे समासोक्ति अलंकार समझना चाहिये ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5052,4 +5052,3 @@ augmenter of Manu's dynasty, has become hostile towards the monkey-king Sugreeva
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तनॆय सर्ग सम्पूर्णवायितु.॥30॥
 </details>
 </details>
-

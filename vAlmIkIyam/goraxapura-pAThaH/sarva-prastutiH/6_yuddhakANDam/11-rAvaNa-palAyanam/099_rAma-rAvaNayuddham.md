@@ -1,6 +1,7 @@
 +++
 title = "०९९ राम-रावणयुद्धम्"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ Rama, all the monkeys shout loudly with a rejoice.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-099-The_battle_between_Rama_and_Ravana_0.mp3"></div>
 </details>
 
@@ -307,6 +309,8 @@ trembled, throwing lions, antelopes and birds, into fright.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस समय रावणने तामस* नामवाले अत्यन्त भयंकर महाघोर अस्त्रको प्रकट करके समस्त वानरोंको भस्म करना आरम्भ किया । सब ओर उनकी लाशें गिरने लगीं ॥
+
+\\* इस अस्त्रका देवता तमोग्रह राहु है, इसलिये इसको ‘तामस’ कहते हैं ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -332,10 +336,6 @@ Tamasa, which began to consume all the monkeys, who started falling down on all 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* इस अस्त्रका देवता तमोग्रह राहु है, इसलिये इसको ‘तामस’ कहते हैं ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2171,4 +2171,3 @@ loudly.
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें निन्यानबेवाँ सर्ग पूरा हुआ ॥ ९९ ॥
 </details>
 </details>
-

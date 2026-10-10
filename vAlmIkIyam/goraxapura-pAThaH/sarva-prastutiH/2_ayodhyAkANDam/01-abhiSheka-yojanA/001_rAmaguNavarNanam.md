@@ -2,6 +2,7 @@
 title = "००१ रामगुणवर्णनम्"
 title_english = "001 Rama The Hero"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,6 +18,7 @@ kingdom.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-001-Ramaguna_Varnanam.mp3"></div>
 </details>
 
@@ -1161,6 +1163,12 @@ men. He could judiciously discriminate whom to protect and whom to punish.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्हें सत्पुरुषोंके संग्रह और पालन तथा दुष्ट पुरुषोंके निग्रहके अवसरोंका ठीक-ठीक ज्ञान था । धनकी आयके उपायोंको वे अच्छी तरह जानते थे (अर्थात् फूलोंको नष्ट न करके उनसे रस लेनेवाले भ्रमरोंकी भाँति वे प्रजाओंको कष्ट दिये बिना ही उनसे न्यायोचित धनका उपार्जन करनेमें कुशल थे) तथा शास्त्रवर्णित व्यय कर्मका भी उन्हें ठीक-ठीक ज्ञान था* ॥२६ ॥
+
+\\* शास्त्रमें व्ययका विधान इस प्रकार देखा जाता है—  
+कच्चिदायस्य चार्धेन चतुर्भागेन वा पुनः ।  
+पादभागैस्त्रिभिर्वापि व्ययः संशुद्ध्यते तव ॥
+
+नारदजी कहते हैं—युधिष्ठिर! क्या तुम्हारी आयके एक चौथाई या आधे अथवा तीन चौथाई भागसे तुम्हारा सारा खर्च चल जाता है?
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1186,22 +1194,11 @@ economic sciences.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* शास्त्रमें व्ययका विधान इस प्रकार देखा जाता है—  
-कच्चिदायस्य चार्धेन चतुर्भागेन वा पुनः ।  
-पादभागैस्त्रिभिर्वापि व्ययः संशुद्ध्यते तव ॥
-</details>
-
 <details><summary>Misc Detail</summary>
 
 (महा० सभा० ५ ।७१)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-नारदजी कहते हैं—युधिष्ठिर! क्या तुम्हारी आयके एक चौथाई या आधे अथवा तीन चौथाई भागसे तुम्हारा सारा खर्च चल जाता है?
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1274,6 +1271,10 @@ and virtues. He never remained inactive.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 विहार (क्रीडा या मनोरञ्जन)-के उपयोगमें आनेवाले संगीत, वाद्य और चित्रकारी आदि शिल्पोंके भी वे विशेषज्ञ थे । अर्थोंके विभाजनका भी उन्हें सम्यक् ज्ञान था ।* वे हाथियों और घोड़ोंपर चढ़ने और उन्हें भाँति-भाँतिकी चालोंकी शिक्षा देनेमें भी निपुण थे ॥ २८ ॥
+
+\\* नीचे लिखी पाँच वस्तुओंके लिये अर्थका विभाजन करनेवाला मनुष्य इहलोक और परलोकमें भी सुखी होता है । वे वस्तुएँ हैं—धर्म, यश, अर्थ, आत्मा और स्वजन । यथा—  
+धर्माय यशसेऽर्थाय कामाय स्वजनाय च ।  
+पञ्चधा विभजन् वित्तमिहामुत्र च मोदते ॥
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1296,13 +1297,6 @@ Rama was acquainted with the fine arts useful for entertainment. He knew how to
 distribute the wealth. He was efficient in riding and also taming of elephants and horses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
-</details>
-
-<details><summary>पादटिप्पनी</summary>
-
-* नीचे लिखी पाँच वस्तुओंके लिये अर्थका विभाजन करनेवाला मनुष्य इहलोक और परलोकमें भी सुखी होता है । वे वस्तुएँ हैं—धर्म, यश, अर्थ, आत्मा और स्वजन । यथा—  
-धर्माय यशसेऽर्थाय कामाय स्वजनाय च ।  
-पञ्चधा विभजन् वित्तमिहामुत्र च मोदते ॥
 </details>
 
 <details><summary>Misc Detail</summary>
@@ -2131,6 +2125,8 @@ himself, he looked after them in the manner Lord Brahma looks after his children
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जल्दीबाजीके कारण राजा दशरथने केकय-नरेशको तथा मिथिलापति जनकको भी नहीं बुलवाया ।* उन्होंने सोचा वे दोनों सम्बन्धी इस प्रिय समाचारको पीछे सुन लेंगे ॥ ४८ ॥
+
+\\* केकयनरेशके साथ भरत-शत्रुघ्न भी आ जाते । इन सबके तथा राजा जनकके रहनेसे श्रीरामका राज्याभिषेक सम्पन्न हो जाता और वे वनमें नहीं जाने पाते—इसी डरसे देवताओंने राजा दशरथको इन सबको नहीं बुलानेकी बुद्धि दे दी ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2155,10 +2151,6 @@ king Dasaratha , who annihilates the opponent's army, occupied his seat.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-* केकयनरेशके साथ भरत-शत्रुघ्न भी आ जाते । इन सबके तथा राजा जनकके रहनेसे श्रीरामका राज्याभिषेक सम्पन्न हो जाता और वे वनमें नहीं जाने पाते—इसी डरसे देवताओंने राजा दशरथको इन सबको नहीं बुलानेकी बुद्धि दे दी ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2289,4 +2281,3 @@ celestials.
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि मॊदलनॆय सर्ग पूर्णवायितु. ॥1॥
 </details>
 </details>
-

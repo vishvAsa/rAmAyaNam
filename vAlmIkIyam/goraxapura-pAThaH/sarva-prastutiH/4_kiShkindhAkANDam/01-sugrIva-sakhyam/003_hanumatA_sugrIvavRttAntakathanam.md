@@ -2,6 +2,7 @@
 title = "००३ हनुमता सुग्रीववृत्तान्तकथनम्"
 title_english = "003 Hanuma meets Sri Rama"
 +++
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -27,6 +28,7 @@ the clever. He is the supreme scholar, teacher, and the cleverest.
 </details>
 
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-003-Hanumatha_Sugreeva_Vruththantha_Kathanam_0.mp3"></div>
 </details>
 
@@ -1413,6 +1415,8 @@ labiovelar, are the fourteen reciting mistakes.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ये संस्कार१ और क्रमसे२ सम्पन्न, अद्भुत, अविलम्बित३ तथा हृदयको आनन्द प्रदान करनेवाली कल्याणमयी वाणीका उच्चारण करते हैं ॥ ३२ ॥
+
+१. व्याकरणके नियमानुकूल शुद्ध वाणीको संस्कारसम्पन्न (संस्कृत) कहते हैं । २. शब्दोच्चारणकी शास्त्रीय परिपाटीका नाम क्रम है । ३. बिना रुके धाराप्रवाहरूपसे बोलना अविलम्बित कहलाता है ।
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1451,10 +1455,6 @@ confident, and rhythm included are the six best qualities of best reciters.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
-<details><summary>पादटिप्पनी</summary>
-
-१. व्याकरणके नियमानुकूल शुद्ध वाणीको संस्कारसम्पन्न (संस्कृत) कहते हैं । २. शब्दोच्चारणकी शास्त्रीय परिपाटीका नाम क्रम है । ३. बिना रुके धाराप्रवाहरूपसे बोलना अविलम्बित कहलाता है ।
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1811,4 +1811,3 @@ friendship between Rama ad Sugreeva, at the earliest. [4-3-39]
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूरनॆय सर्ग सम्पूर्णवायितु.॥3॥
 </details>
 </details>
-
