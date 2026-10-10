@@ -207,7 +207,7 @@ title = "०३ पारायण-विधिः"
 ## अथ हृदयादिन्यासः
 
 
-<details open unmatched="true"><summary>मूल (दोहा)</summary>
+<details open><summary>मूल (दोहा)</summary>
 
 जग मंगल गुन ग्राम राम के।  
 दानि मुकुति धन धरम धाम के॥
