@@ -44,7 +44,7 @@ title = "०६ श्रीरामशलाका प्रश्नावल
 फल—प्रश्नकर्त्याचा प्रश्न उत्तम आहे. कार्य यशस्वी होईल.
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 २—प्रबिसि नगर कीजे सब काजा।  
 हृदयँ राखि कोसलपुर राजा॥
@@ -92,7 +92,7 @@ title = "०६ श्रीरामशलाका प्रश्नावल
 फल—प्रश्न उत्तम आहे. कार्य यशस्वी होईल.
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ६—गरल सुधा रिपु करहिं मिताई।  
 गोपद सिंधु अनल सितलाई॥
@@ -104,7 +104,7 @@ title = "०६ श्रीरामशलाका प्रश्नावल
 फल—प्रश्न फार श्रेष्ठ आहे. कार्य यशस्वी होईल.
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ७—बरुन कुबेर सुरेस समीरा।  
 रन सन्मुख धरि काहुँ न धीरा॥

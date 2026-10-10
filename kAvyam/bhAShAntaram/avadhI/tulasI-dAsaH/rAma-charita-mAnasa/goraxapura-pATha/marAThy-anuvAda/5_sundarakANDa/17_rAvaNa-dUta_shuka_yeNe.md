@@ -3,7 +3,7 @@ title = "१७ रावण-दूत शुक येणे"
 +++
 
 
-<details open><summary>मूल (चौपाई)</summary>
+<details open unmatched="true"><summary>मूल (चौपाई)</summary>
 
 सुनु कपीस लंकापति बीरा।  
 केहि बिधि तरिअ जलधि गंभीरा॥  

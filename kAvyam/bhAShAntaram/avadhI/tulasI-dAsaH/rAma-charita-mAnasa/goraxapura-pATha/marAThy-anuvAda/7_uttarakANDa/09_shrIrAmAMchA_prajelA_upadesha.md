@@ -58,7 +58,7 @@ title = "०९ श्रीरामांचा प्रजेला उप�
 ## दोहा
 
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 सो परत्र दुख पावइ सिर धुनि धुनि पछिताइ।  
 कालहि कर्महि ईस्वरहि मिथ्या दोस लगाइ॥४३॥

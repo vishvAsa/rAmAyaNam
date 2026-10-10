@@ -6,7 +6,7 @@ title = "३२ अवताराचे हेतू"
 ## दोहा
 
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 हियँ हरषे कामारि तब संकर सहज सुजान।  
 बहु बिधि उमहि प्रसंसि पुनि बोले कृपानिधान॥ १२० (क)॥

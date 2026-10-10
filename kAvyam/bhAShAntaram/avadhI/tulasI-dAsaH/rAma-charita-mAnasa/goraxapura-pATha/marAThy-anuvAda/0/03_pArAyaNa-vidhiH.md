@@ -11,84 +11,84 @@ title = "०३ पारायण-विधिः"
 ## अथ आवाहनमन्त्रः
 
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 तुलसीक नमस्तुभ्यमिहागच्छ शुचिव्रत।  
 र्नैऋत्य उपविश्येदं पूजनं प्रतिगृह्यताम्॥ १॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ तुलसीदासाय नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 श्रीवाल्मीक नमस्तुभ्यमिहागच्छ शुभप्रद।  
 उत्तरपूर्वयोर्मध्ये तिष्ठ गृह्णीष्व मेऽर्चनम्॥२॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ वाल्मीकाय नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 गौरीपते नमस्तुभ्यमिहागच्छ महेश्वर।  
 पूर्वदक्षिणयोर्मध्ये तिष्ठ पूजां गृहाण मे॥ ३॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ गौरीपतये नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 श्रीलक्ष्मण नमस्तुभ्यमिहागच्छ सहप्रियः।  
 याम्यभागे समातिष्ठ पूजनं संगृहाण मे॥ ४॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ सपत्नीकाय लक्ष्मणाय नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 श्रीशत्रुघ्न नमस्तुभ्यमिहागच्छ सहप्रियः।  
 पीठस्य पश्चिमे भागे पूजनं स्वीकुरुष्व मे॥ ५॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ सपत्नीकाय शत्रुघ्नाय नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 श्रीभरत नमस्तुभ्यमिहागच्छ सहप्रियः।  
 पीठकस्योत्तरे भागे तिष्ठ पूजां गृहाण मे॥ ६॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ सपत्नीकाय भरताय नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 श्रीहनुमन्नमस्तुभ्यमिहागच्छ कृपानिधे।  
 पूर्वभागे समातिष्ठ पूजनं स्वीकुरु प्रभो॥ ७॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 ॐ हनुमते नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 अथ प्रधानपूजा च कर्तव्या विधिपूर्वकम्।  
 पुष्पाञ्जलिं गृहीत्वा तु ध्यानं कुर्यात्परस्य च॥ ८॥  
@@ -100,18 +100,18 @@ title = "०३ पारायण-विधिः"
 गृहाण मम पूजां च वायुपुत्रादिभिर्युतः॥ १०॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 इत्यावाहनम्
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 सुवर्णरचितं राम दिव्यास्तरणशोभितम्।  
 आसनं हि मया दत्तं गृहाण मणिचित्रितम्॥ ११॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 इति षोडशोपचारैः पूजयेत्
 </details>
@@ -124,7 +124,7 @@ title = "०३ पारायण-विधिः"
 ## अथ आचमनम्
 
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 श्रीसीतारामाभ्यां नमः। श्रीरामचन्द्राय नमः। श्रीरामभद्राय नमः।  
 इति मन्त्रत्रितयेन आचमनं कुर्यात्। श्रीयुगलबीजमन्त्रेण प्राणायामं कुर्यात्॥
@@ -139,62 +139,62 @@ title = "०३ पारायण-विधिः"
 दानि मुकुति धन धरम धाम के॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 अङ्गुष्ठाभ्यां नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 राम राम कहि जे जमुहाहीं।  
 तिन्हहि न पापपुंज समुहाहीं॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 तर्जनीभ्यां नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 राम सकल नामन्ह ते अधिका।  
 होउ नाथ अघ खग गन बधिका॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 मध्यमाभ्यां नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 उमा दारु जोषित की नाईं।  
 सबहि नचावत रामु गोसाईं॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 अनामिकाभ्यां नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 सनमुख होइ जीव मोहि जबहीं।  
 जन्म कोटि अघ नासहिं तबहीं॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 कनिष्ठिकाभ्यां नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 मामभिरक्षय रघुकुलनायक।  
 धृत बर चाप रुचिर कर सायक॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 करतलकरपृष्ठाभ्यां नमः।
 </details>
@@ -207,68 +207,68 @@ title = "०३ पारायण-विधिः"
 ## अथ हृदयादिन्यासः
 
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 जग मंगल गुन ग्राम राम के।  
 दानि मुकुति धन धरम धाम के॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 हृदयाय नमः।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 राम राम कहि जे जमुहाहीं।  
 तिन्हहि न पापपुंज समुहाहीं॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 शिरसे स्वाहा।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 राम सकल नामन्ह ते अधिका।  
 होउ नाथ अघ खग गन बधिका॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 शिखायै वषट्।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 उमा दारु जोषित की नाईं।  
 सबहि नचावत रामु गोसाईं॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 कवचाय हुम्।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 सनमुख होइ जीव मोहि जबहीं।  
 जन्म कोटि अघ नासहिं तबहीं॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 नेत्राभ्यां वौषट्।
 </details>
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 मामभिरक्षय रघुकुलनायक।  
 धृत बर चाप रुचिर कर सायक॥
 </details>
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 अस्त्राय फट्।
 </details>
@@ -281,7 +281,7 @@ title = "०३ पारायण-विधिः"
 ## अथ ध्यानम्
 
 
-<details open><summary>मूल (दोहा)</summary>
+<details open unmatched="true"><summary>मूल (दोहा)</summary>
 
 मामवलोकय पंकजलोचन।  
 कृपा बिलोकनि सोच बिमोचन॥  

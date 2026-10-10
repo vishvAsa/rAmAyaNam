@@ -1,10 +1,9 @@
 +++
 title = "०७ श्रीरामायणजीकी आरती"
-
 +++
 
 
-<details open><summary>मूल (श्लोक)</summary>
+<details open unmatched="true"><summary>मूल (श्लोक)</summary>
 
 आरति श्रीरामायनजी की।  
 कीरति कलित ललित सिय पी की॥  
