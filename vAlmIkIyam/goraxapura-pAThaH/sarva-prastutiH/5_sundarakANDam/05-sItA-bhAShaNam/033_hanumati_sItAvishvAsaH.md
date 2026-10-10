@@ -2,6 +2,11 @@
 title = "०३३ हनुमति सीताविश्वासः"
 title_english = "033 Seetha antecedents to Hanuma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-033-Seetha_antecedents_to_Hanuma.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ under which she along with Rama and Lakshmana went to Dandaka forest as per the 
 also informs Hanuma about her snatching away of Ravana from the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-033-Seetha_antecedents_to_Hanuma.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

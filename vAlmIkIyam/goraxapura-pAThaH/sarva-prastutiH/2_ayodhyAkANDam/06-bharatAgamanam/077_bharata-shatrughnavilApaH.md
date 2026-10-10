@@ -2,6 +2,11 @@
 title = "०७७ भरत-शत्रुघ्नविलापः"
 title_english = "077 Bharata and Shatrughna grieve on cremation ground"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-077-Bharatha_Shatrugna_Vilapaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ priest and Sumantra raise them up and pacifying urge both of them to complete th
 to be performed on the thirteenth day.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-077-Bharatha_Shatrugna_Vilapaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

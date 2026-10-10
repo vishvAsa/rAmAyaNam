@@ -1,6 +1,11 @@
 +++
 title = "०९१ सुषेणेन लक्ष्मणादिसेवा"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-091-Lakshmana_and_others_were_treated_by_Sushena_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Lakshmana and others treated by Sushena. After the medical treatment by Suhena, 
 sound, active and full of joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-091-Lakshmana_and_others_were_treated_by_Sushena_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०३५ सरमया रावणनिर्धारकथनम्"
 title_english = "035 Seetha asks Sarama about Ravana s decision"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-035-Seetha_asks_Sarama_about_Ravana_s_decision__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Malyavan, Ravana's maternal grandfather advises Ravana to conclude peace with Ra
 Seetha to him as he is perceiving adverse omens.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-035-Seetha_asks_Sarama_about_Ravana_s_decision__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

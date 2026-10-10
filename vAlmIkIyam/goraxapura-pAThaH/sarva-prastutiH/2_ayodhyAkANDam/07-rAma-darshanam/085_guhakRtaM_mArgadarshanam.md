@@ -2,6 +2,11 @@
 title = "०८५ गुहकृतं मार्गदर्शनम्"
 title_english = "085 Bharata thanks Guha for his hospitality"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-085-Guha_Krutham_Marga_Darshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ Bharata thanks Guha for having come forward to offer hospitality to him and his
  the nightfall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-085-Guha_Krutham_Marga_Darshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -1,6 +1,11 @@
 +++
 title = "०९५ कपिभिः सह रावणयुद्धम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-095-Ravana_fights_fiercely_with_monkeys_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ battle-field, the army of monkeys return to the battle. A tumultuous fight ensue
 monkeys and the demons. Ravana fights fiercely with monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-095-Ravana_fights_fiercely_with_monkeys_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

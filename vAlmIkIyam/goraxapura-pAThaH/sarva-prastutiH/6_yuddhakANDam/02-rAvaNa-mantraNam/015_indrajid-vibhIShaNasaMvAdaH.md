@@ -2,6 +2,11 @@
 title = "०१५ इन्द्रजिद्-विभीषणसंवादः"
 title_english = "015 Indrajit criticizes Vibhishana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-015-Indrajit_criticizes_Vibhishana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Rama`s arrows. Vibhishana further advises Ravana to give back Sita along with va
 Rama and to live happily ever after in Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-015-Indrajit_criticizes_Vibhishana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

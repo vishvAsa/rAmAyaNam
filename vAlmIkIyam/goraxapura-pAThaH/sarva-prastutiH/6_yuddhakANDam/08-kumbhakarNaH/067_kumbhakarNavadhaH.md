@@ -3,6 +3,12 @@ title = "०६७ कुम्भकर्णवधः"
 title_english = "067 Kumbhakarna was slain in battle"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-067-Kumbhakarna_was_slain_in_battle__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -38,11 +44,6 @@ Kumbhakarna, Rama then chops off the feet of Kumbhakarna with his arrows and fin
 his head.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-067-Kumbhakarna_was_slain_in_battle__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

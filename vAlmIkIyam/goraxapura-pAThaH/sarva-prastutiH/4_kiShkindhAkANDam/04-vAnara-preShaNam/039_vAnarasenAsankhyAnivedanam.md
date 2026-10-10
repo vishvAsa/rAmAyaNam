@@ -3,6 +3,12 @@ title = "०३९ वानरसेनासङ्ख्यानिवेद�
 title_english = "039 Rama mildly admonishes Sugreeva"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-039-Vanarasena_Samkhya_Nivedanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,11 +23,6 @@ informing about the arrival of monkeys, in a split-second that place is further 
 of monkey-warriors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-039-Vanarasena_Samkhya_Nivedanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

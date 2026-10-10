@@ -3,6 +3,12 @@ title = "०४९ सीतापहरणम्"
 title_english = "049 Seetha s abduction takes place now"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-049-Sitaa_Apaharnam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,11 +20,6 @@ and bemoans for Rama and Lakshmana and appeals to all nature to inform Rama abou
 she sees Jatayu, the eagle, and asks him to narrate her abduction to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-049-Sitaa_Apaharnam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

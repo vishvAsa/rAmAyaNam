@@ -2,6 +2,11 @@
 title = "०६८ भरताय दूतप्रेषणम्"
 title_english = "068 Vasishta instructs messengers to call Bharata and Satrughna"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-068-Bharathaya_dutha_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ through Bahlika kingdom in Sudama mountain range to Vishnupada and finally reach
 Girivraja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-068-Bharathaya_dutha_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

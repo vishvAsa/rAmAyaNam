@@ -2,6 +2,11 @@
 title = "०५१ विश्वामित्र-वंश-वर्णनम्"
 title_english = "051 The legend of vishvamitra"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-051-Vishvamitra_Vamsha_Varnanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ the biography of Vishvamitra to Rama, because too much of overbearing of kings,
 as has been done by Vishvamitra, will be unbecoming for kings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-051-Vishvamitra_Vamsha_Varnanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

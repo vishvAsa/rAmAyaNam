@@ -2,6 +2,11 @@
 title = "०६५ विश्वामित्र-ब्रह्मर्षित्व-प्राप्तिः"
 title_english = "065 Legend of vishvamitra concluded"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-065-Vishvamithrasya_Bramharshithva_Prapthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ as he is cleansed of all mortal impurities, and Brahma accords that highest orde
 on him. Thus Sage Shataananda concludes his narration about the legend of Vishvamitra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-065-Vishvamithrasya_Bramharshithva_Prapthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

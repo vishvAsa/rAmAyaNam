@@ -3,6 +3,12 @@ title = "०३० रावणेन शार्दूलप्रेषणम
 title_english = "030 Ravana dispatches Sardula the demon spy"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-030-Ravana_dispatches_Sardula_the_demon-spy_1.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,11 +20,6 @@ opposition-camp, Shardula the demon-spy acquaints his master with the important 
 monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-030-Ravana_dispatches_Sardula_the_demon-spy_1.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

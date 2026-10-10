@@ -2,6 +2,11 @@
 title = "०४७ त्रिदिशात् वानरप्रत्यागमनम्"
 title_english = "047 Search for Seetha failed in east north and west"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-047-Thridigbhyaha_Vanara_Prathyagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ went there have come back to inform that she is not found and they all hoped Han
 out, because he is pursuing the direction in which Seetha was taken away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-047-Thridigbhyaha_Vanara_Prathyagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

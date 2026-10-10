@@ -2,6 +2,11 @@
 title = "००३ राम-विराधयुद्धम्"
 title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-003-Rama_Viradha_Yudhdham.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ Rama and Lakshmana enter into a dialogue with Viradha, the demon and shower arro
 Rama and Lakshmana away from Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-003-Rama_Viradha_Yudhdham.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

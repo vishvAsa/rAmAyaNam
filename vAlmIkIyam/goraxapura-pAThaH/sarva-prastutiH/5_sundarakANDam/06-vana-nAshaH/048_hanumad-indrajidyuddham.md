@@ -2,6 +2,11 @@
 title = "०४८ हनुमद्-इन्द्रजिद्युद्धम्"
 title_english = "048 Ravana sends his son Indrajit"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-047-Ravana_sends_his_son_Aksha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ ropes and drag him to the presence of Ravana. Hanuma yields to their operation o
 capable of aborting it, eager as he was to meet Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-047-Ravana_sends_his_son_Aksha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

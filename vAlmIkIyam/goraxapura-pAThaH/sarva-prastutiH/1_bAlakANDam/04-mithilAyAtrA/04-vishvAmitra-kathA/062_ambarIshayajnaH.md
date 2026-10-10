@@ -2,6 +2,11 @@
 title = "०६२ अम्बरीशयज्ञः"
 title_english = "062 Legend of shunashshepa contd"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-062-Ambareesha_Yagnaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ Sage Shataananda informs Rama about the capabilities of his own mentor, Vishvami
 in these many episodes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-062-Ambareesha_Yagnaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

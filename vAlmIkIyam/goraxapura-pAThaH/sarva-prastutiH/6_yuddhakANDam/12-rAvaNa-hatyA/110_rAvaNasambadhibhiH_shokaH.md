@@ -1,6 +1,11 @@
 +++
 title = "११० रावणसम्बधिभिः शोकः"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ stunning surprise of how he has been killed by an ordinary mortal. They feel sor
 been restored by Ravana to Rama, this major disaster would not have befallen them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

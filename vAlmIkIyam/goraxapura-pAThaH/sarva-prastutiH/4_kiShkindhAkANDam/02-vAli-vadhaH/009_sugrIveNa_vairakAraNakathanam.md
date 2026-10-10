@@ -2,6 +2,11 @@
 title = "००९ सुग्रीवेण वैरकारणकथनम्"
 title_english = "009 The strength of Vali"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-009-Sugreevena_Vairakarana_Kathanam_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ towards Sugreeva. Sugreeva describes to Rama about the strength and heartless na
 a kind of indirect portrayal of his enemy's capabilities.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-009-Sugreevena_Vairakarana_Kathanam_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

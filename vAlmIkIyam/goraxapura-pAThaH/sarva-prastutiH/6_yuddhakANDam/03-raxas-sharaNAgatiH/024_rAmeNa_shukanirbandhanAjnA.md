@@ -2,6 +2,11 @@
 title = "०२४ रामेण शुकनिर्बन्धनाज्ञा"
 title_english = "024 Rama orders for release of Suka"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-024-Rama_orders_for_release_of_Suka_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ approaches Ravana and describes the strength of Rama's side of the army. Ravana 
 his own army's strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-024-Rama_orders_for_release_of_Suka_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

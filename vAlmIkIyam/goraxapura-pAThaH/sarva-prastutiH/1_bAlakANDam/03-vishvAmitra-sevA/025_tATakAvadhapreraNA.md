@@ -2,6 +2,11 @@
 title = "०२५ ताटकावधप्रेरणा"
 title_english = "025 The legend of deomoness tATaka contd"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-025-ThaataKaavadha_Preranaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ to eliminate her menace without any hesitation of killing a female, for she is a
 the society.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-025-ThaataKaavadha_Preranaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

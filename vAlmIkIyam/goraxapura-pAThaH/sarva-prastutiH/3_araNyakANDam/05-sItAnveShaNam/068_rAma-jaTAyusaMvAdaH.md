@@ -2,6 +2,11 @@
 title = "०६८ राम-जटायुसंवादः"
 title_english = "068 Jataayu infoms about Ravana and dies"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-068-Rama_Jataayu_Samvadaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ is about to be said to Rama. Receiving that much information at least, Rama cons
 fire, like his own relative and performs other rites, and then proceeds for searching Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-068-Rama_Jataayu_Samvadaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

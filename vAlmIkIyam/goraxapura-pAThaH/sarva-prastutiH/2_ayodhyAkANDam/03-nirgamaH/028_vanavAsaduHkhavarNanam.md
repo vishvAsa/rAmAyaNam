@@ -2,6 +2,11 @@
 title = "०२८ वनवासदुःखवर्णनम्"
 title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-028-Vanavasa_Dukka_Varnanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ In this chapter Rama describes various troubles of staying in forest and beseech
 seetha not to go to forest
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-028-Vanavasa_Dukka_Varnanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

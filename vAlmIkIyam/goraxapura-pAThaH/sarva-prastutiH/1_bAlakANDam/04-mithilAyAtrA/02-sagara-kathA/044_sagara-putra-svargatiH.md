@@ -2,6 +2,11 @@
 title = "०४४ सगर-पुत्र-स्वर्गतिः"
 title_english = "044 brahma commends bhageeratha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-044-Sagara_Puthranam_Swarga_Prapthi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
  with the sanctified waters of Ganga.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-044-Sagara_Puthranam_Swarga_Prapthi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०६९ भरतेन दुःस्वप्नदर्शनम्"
 title_english = "069 Bharata experiences a bad dream"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-069-Bharathena_Duswapna_Darshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ depression was not gone. Bharata explains in detail his unpleasant dream in its 
 his friends.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-069-Bharathena_Duswapna_Darshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

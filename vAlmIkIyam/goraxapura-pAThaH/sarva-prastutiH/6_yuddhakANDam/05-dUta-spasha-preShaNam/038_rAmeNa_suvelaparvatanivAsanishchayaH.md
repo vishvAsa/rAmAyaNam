@@ -2,6 +2,11 @@
 title = "०३८ रामेण सुवेलपर्वतनिवासनिश्चयः"
 title_english = "038 Rama decides to stay on Suvela mountain"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-038-Rama_decides_to_stay_on_Suvela_mountain__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ night, and to envision the City of Lanka. Rama along with Lakshmana, Vibhishana,
 ascend the mountain and witness the beauty of Lanka. They halt on that mountain-resort for the night.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-038-Rama_decides_to_stay_on_Suvela_mountain__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

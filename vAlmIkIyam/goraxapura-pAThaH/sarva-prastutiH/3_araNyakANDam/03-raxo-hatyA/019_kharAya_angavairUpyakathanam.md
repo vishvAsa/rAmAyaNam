@@ -2,6 +2,11 @@
 title = "०१९ खराय अङ्गवैरूप्यकथनम्"
 title_english = "019 Surpanakha s reporting to her brother Khara"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-019-Kharaya_Angavairupya_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ Khara to wage a war so that she could drink Seetha's blood. Khara in order to ap
 fourteen demons to eliminate Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-019-Kharaya_Angavairupya_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

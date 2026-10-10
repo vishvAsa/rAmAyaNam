@@ -2,6 +2,11 @@
 title = "०२२ खरस्य युद्धसिद्धता"
 title_english = "022 Khara s army marches to Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-022-Kharasya_Yudhdha_Sidhathaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ with their unusual arsenal. This is the first major move of demons towards Rama 
 battle at the end of epic.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-022-Kharasya_Yudhdha_Sidhathaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

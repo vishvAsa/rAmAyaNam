@@ -2,6 +2,11 @@
 title = "०९९ श्रीरामदर्शनम्"
 title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-099-Sri_Rama_Darshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ ascetic Bharata and Shatrughna throw themselves on Rama's feet in salutation. Ra
 both.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-099-Sri_Rama_Darshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

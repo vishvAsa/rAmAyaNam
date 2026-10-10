@@ -2,6 +2,11 @@
 title = "०१९ रावणेन सीतादर्शनम्"
 title_english = "019 Seetha in Ashoka garden"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-019-Seetha_in_Ashoka_garden.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -11,10 +16,6 @@ title_english = "019 Seetha in Ashoka garden"
 In this chapter Valmiki describes the plight of Seetha in Ashoka garden in detail.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-019-Seetha_in_Ashoka_garden.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

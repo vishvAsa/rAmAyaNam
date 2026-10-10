@@ -3,6 +3,12 @@ title = "१०१ दशरथनिर्याणकथनम्"
 title_english = "101 Bharata informs Rama about Dasaratha s death"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,11 +23,6 @@ binding on him and the other bequeathing the kingdom to Bharata, they must be im
 both of them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

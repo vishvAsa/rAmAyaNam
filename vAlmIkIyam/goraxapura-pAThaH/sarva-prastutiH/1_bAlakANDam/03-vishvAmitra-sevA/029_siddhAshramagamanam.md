@@ -2,6 +2,11 @@
 title = "०२९ सिद्धाश्रमगमनम्"
 title_english = "029 Legend of siddha Ashrama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-029-Sidhdha_Shrama_Gamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ Rama and Lakshmana inquisitively enquired into the Siddhaashrama,
  to Rama from Sage Vishvamitra to do likewise in this incarnation of Rama also.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-029-Sidhdha_Shrama_Gamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

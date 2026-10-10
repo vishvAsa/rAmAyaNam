@@ -2,6 +2,11 @@
 title = "०१२ अगस्त्यदर्शनम्"
 title_english = "012 Entering the hermitage of Sage Agastya"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-012-Agastya_Darshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ Rama, Lakshmana, and Seetha enter the hermitage of Sage Agastya. Sage Agastya is
  the very same armoury Vishnu once eradicated evil on earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-012-Agastya_Darshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

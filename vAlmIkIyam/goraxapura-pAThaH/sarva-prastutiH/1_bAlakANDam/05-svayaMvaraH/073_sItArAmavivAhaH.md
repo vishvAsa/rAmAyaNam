@@ -2,6 +2,11 @@
 title = "०७३ सीतारामविवाहः"
 title_english = "073 sItha s marriage with rAma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-073-Sita_Rama_Vivahaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -12,10 +17,6 @@ We need not wait for any invitation or wedding card or call for this marriage, a
 Let us go there straight, without any introductions and preliminaries.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-073-Sita_Rama_Vivahaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

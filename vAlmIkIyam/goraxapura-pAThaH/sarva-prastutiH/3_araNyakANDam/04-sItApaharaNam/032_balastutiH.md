@@ -2,6 +2,11 @@
 title = "०३२ बलस्तुतिः"
 title_english = "032 Ravana s pomp and pride"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-032-Shoorpanakakrutha_Ravana_Bala_Stuthi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ and victories, his jalousies and covetousness. Shuurpanakha approaches him to in
 the hand of Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-032-Shoorpanakakrutha_Ravana_Bala_Stuthi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -1047,7 +1048,7 @@ the *uttara ramayaNa* seventh book. Thus, Ravana is the etymological derivation 
 
 The *mantra shastra* says:--
 
- raama patniim
+raama patniim
  vanasthaam ninaaya *- iti raavaNa* 'one who abducted Rama's wife from woodlands...' In another way it is
 *raavaNasya
 apatyam pumaan raavaNaH* 'Ravana's son is Raavana.'

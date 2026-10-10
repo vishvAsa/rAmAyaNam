@@ -3,6 +3,12 @@ title = "०१३ अशोकवाटिकाप्रस्थानम्"
 title_english = "013 Hanuma starts to search in Ashoka garden"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,11 +19,6 @@ In this chapter Hanuma starts to search for Seetha overcoming the depression. He
 Ashoka garden to continue his search.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

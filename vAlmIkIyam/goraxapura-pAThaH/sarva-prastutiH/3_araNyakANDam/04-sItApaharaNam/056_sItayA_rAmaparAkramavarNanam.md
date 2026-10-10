@@ -2,6 +2,11 @@
 title = "०५६ सीतया रामपराक्रमवर्णनम्"
 title_english = "056 Seetha reprimands Ravana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-056-Sitaaya_Rama_Parakrama_Varnanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ by anyone. She gives word-by-word replies to all that is prattled by Ravana in e
 about Seetha's stance and stability is given in the endnote of this chapter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-056-Sitaaya_Rama_Parakrama_Varnanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

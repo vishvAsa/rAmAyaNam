@@ -2,6 +2,11 @@
 title = "०४१ हनुमता रावणदर्शनचिन्तनम्"
 title_english = "041 Hanuma thinks to meet Ravana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-041-Hanuma_thinks_to_meet_Ravana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ and strengths. Accordingly, he makes up his mind to damage the royal pleasure-ga
 gynaecium at Lanka and then proceeds to do that task.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-041-Hanuma_thinks_to_meet_Ravana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

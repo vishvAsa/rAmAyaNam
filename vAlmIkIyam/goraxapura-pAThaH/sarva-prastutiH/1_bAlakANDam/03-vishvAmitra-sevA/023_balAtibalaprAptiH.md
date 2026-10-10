@@ -2,6 +2,11 @@
 title = "०२३ बलातिबलप्राप्तिः"
 title_english = "023 Their sojourn at the confluence of the rivers ganga and sarayu"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-023-Balaathi_balaa_Prapthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ Ganga and River Sarayu are confluent. Once god Shiva with his third eye burnt do
 entity of Manmatha, the Love-god, at this place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-023-Balaathi_balaa_Prapthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

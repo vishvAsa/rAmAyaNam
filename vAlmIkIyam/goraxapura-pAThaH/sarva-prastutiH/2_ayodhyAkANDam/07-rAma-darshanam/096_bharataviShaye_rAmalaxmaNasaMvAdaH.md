@@ -2,6 +2,11 @@
 title = "०९६ भरतविषये रामलक्ष्मणसंवादः"
 title_english = "096 Rama hears a gigantic clamour of an army"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-096-Bharatham_Prathi_Lakshmana_Vikalpaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ there in order to kill both of them. An enraged Lakshmana says that he will kill
 Kaikeyi together with the army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-096-Bharatham_Prathi_Lakshmana_Vikalpaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

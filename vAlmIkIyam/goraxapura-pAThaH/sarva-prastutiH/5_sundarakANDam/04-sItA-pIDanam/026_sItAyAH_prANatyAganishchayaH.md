@@ -2,6 +2,11 @@
 title = "०२६ सीतायाः प्राणत्यागनिश्चयः"
 title_english = "026 Seetha decides to give up life"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-026-Seetha_decides_to_give_up_life.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -11,10 +16,6 @@ title_english = "026 Seetha decides to give up life"
 In this chapter Seetha ponders a lot and decides to give up life without Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-026-Seetha_decides_to_give_up_life.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

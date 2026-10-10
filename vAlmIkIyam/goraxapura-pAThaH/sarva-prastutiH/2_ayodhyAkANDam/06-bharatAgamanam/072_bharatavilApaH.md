@@ -2,6 +2,11 @@
 title = "०७२ भरतविलापः"
 title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-072-Bharatha_Vilapaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ as well as how the king accepted her boons and sent Rama to exile. She further a
 meet the chief of Brahmans like Vasista and others to get himself crowned for the kingdom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-072-Bharatha_Vilapaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

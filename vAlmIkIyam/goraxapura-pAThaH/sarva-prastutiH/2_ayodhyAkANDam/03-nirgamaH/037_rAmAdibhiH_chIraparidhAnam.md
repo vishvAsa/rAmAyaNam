@@ -2,11 +2,12 @@
 title = "०३७ रामादिभिः चीरपरिधानम्"
 title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-037-Chira_Paridhanam.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 

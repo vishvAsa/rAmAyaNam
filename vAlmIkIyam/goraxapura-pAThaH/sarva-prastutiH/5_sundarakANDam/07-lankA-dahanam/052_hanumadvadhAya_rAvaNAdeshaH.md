@@ -2,6 +2,11 @@
 title = "०५२ हनुमद्वधाय रावणादेशः"
 title_english = "052 Ravana orders Hanuma to be killed"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-051-Hanuma_narrates_the_story_of.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ advises Ravana to desist from the dastardly act, pointing out that the killing o
 to religious scriptures.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-051-Hanuma_narrates_the_story_of.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

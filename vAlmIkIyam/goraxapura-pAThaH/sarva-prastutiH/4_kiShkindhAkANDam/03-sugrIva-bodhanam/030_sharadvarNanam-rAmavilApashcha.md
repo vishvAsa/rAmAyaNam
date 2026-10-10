@@ -3,6 +3,12 @@ title = "०३० शरद्वर्णनम्-रामविलापश
 title_english = "030 Autumn Sharad R itu eulogised"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-030-Sharadvaranam_Rama_Vilapshcha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -23,11 +29,6 @@ traditional versions and they carry the blemish of interpolation. They are inesc
 traditional versions, as age-old commentators have commented on them at length.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-030-Sharadvaranam_Rama_Vilapshcha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

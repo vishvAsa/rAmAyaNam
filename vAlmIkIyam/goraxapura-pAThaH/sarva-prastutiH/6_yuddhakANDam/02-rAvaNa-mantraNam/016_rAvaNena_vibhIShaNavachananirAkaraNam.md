@@ -2,6 +2,11 @@
 title = "०१६ रावणेन विभीषणवचननिराकरणम्"
 title_english = "016 Ravana refuses to hear the words of Vibhishana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-016-Ravana_refuses_to_hear_the_words_of_Vibhishana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Ravana refuses to hear the words of Vibhishana and rebukes him with harsh words.
 Vibhishana gets angry and sets off, to leave Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-016-Ravana_refuses_to_hear_the_words_of_Vibhishana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

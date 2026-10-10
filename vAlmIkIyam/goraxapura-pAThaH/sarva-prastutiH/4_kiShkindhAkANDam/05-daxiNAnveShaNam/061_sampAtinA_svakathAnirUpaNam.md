@@ -2,6 +2,11 @@
 title = "०६१ सम्पातिना स्वकथानिरूपणम्"
 title_english = "061 Sampaati s legend contd"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-061-Sampaati_s_legend_[contd.].mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ brother Jataayu were flying competitively near at the sun. He says that he wante
 suicide, as his two wings, eagle kingdom, valour and even brother, are lost.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-061-Sampaati_s_legend_[contd.].mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

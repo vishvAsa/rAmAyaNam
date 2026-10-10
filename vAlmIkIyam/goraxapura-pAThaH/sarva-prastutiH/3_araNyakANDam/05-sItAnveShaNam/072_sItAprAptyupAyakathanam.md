@@ -2,6 +2,11 @@
 title = "०७२ सीताप्राप्त्युपायकथनम्"
 title_english = "072 Kabandha advises Rama to meet Sugreeva"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-072-Sitaa_Prapthyupaya_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ one to rely upon, in order to overcome his problems, and thus Kabandha asks Rama
 get help as requital from Sugreeva.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-072-Sitaa_Prapthyupaya_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

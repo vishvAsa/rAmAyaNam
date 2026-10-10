@@ -1,6 +1,11 @@
 +++
 title = "११७ लङ्कां प्रति देवैः आगमनम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-117-Gods_reach_Lanka_and_approach_Rama_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Seetha, when she is entering into the fire. Rama appeals them to describe in rea
 Brahma (the creator) proclaims his divinity and eulogizes him with hymns.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-117-Gods_reach_Lanka_and_approach_Rama_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

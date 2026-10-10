@@ -2,6 +2,11 @@
 title = "०१२ हनूमन्निर्वेदः"
 title_english = "012 Hanuma s depression"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-012-Hanuma_s_depression.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ In this chapter Hanuma gets discouraging thoughts about Seetha. He thinks that S
 dead. He thus gets into depression for a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-012-Hanuma_s_depression.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

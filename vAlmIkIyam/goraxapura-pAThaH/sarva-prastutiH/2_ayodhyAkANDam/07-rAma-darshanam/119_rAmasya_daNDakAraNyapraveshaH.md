@@ -2,6 +2,11 @@
 title = "११९ रामस्य दण्डकारण्यप्रवेशः"
 title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-119-Ramasya_Dandakaranya_Praveshaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ leave of the ascetics and advance further into the great forest in the route sug
 ascetics.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-119-Ramasya_Dandakaranya_Praveshaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,11 +2,12 @@
 title = "०३८ रामेण दशरथप्रार्थना"
 title_english = "038 Dasaratha is enraged"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-038-_Ramena_Dashratha_Prathana.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 

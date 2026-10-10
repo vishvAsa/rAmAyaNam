@@ -2,6 +2,11 @@
 title = "०५८ सम्पातिना सीतान्वेषणसाहाय्यप्रतिज्ञा"
 title_english = "058 Sampaati informs Angada about Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-058-Sampaati_informs_Angada_about_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,10 +23,6 @@ monkeys on getting a bare beacon of indication from the lighthouse called Sampaa
 highly rejoiced on the seashore.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-058-Sampaati_informs_Angada_about_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

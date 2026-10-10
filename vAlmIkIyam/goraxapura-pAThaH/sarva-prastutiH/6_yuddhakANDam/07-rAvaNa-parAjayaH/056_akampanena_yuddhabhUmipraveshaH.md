@@ -2,6 +2,11 @@
 title = "०५६ अकम्पनेन युद्धभूमिप्रवेशः"
 title_english = "056 Akampana enters the battle field"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-056-Akampana_enters_the_battle-field__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Hanuman. Hanuman strikes the head of Akampana with a huge tree and Akampana dies
 take to their heels and return to Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-056-Akampana_enters_the_battle-field__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

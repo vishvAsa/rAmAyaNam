@@ -2,6 +2,12 @@
 title = "१२३ पुष्पके सीता-रामसंवादः"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-123-Rama_shows_to_Seetha_the_places_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ hermitage of sage-Agastya, the hermitage of Atri and Anasuya, Mount Chitrakuta, 
 hermitage of Bharadwaja, Ganga-river, Sarayu-river and finally the City of Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-123-Rama_shows_to_Seetha_the_places_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

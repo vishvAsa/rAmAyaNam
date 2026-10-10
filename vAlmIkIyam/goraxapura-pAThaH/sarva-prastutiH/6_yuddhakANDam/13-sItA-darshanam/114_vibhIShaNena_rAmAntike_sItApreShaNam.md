@@ -1,6 +1,11 @@
 +++
 title = "११४ विभीषणेन रामान्तिके सीताप्रेषणम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-114-Vibhishana_brings_Seetha_to_Rama_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -11,10 +16,6 @@ Rama sends Vibhishana to bring Seetha to his presence. Vibhishana brings Seetha 
 Rama's presence. Seetha casts her looks on the moon-like face of Rama, her beloved husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-114-Vibhishana_brings_Seetha_to_Rama_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

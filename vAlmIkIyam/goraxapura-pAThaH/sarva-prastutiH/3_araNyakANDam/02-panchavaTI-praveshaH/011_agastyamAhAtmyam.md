@@ -3,6 +3,12 @@ title = "०११ अगस्त्यमाहात्म्यम्"
 title_english = "011 Stories of Sages Mandakarani and Agastya"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-011-Agastya_Mahathyam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -20,11 +26,6 @@ Rama comes across lake from which divine music is heard. Surprised at the musica
  in protecting humans from demons, and also depicts the propitious nature of Agastya's hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-011-Agastya_Mahathyam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

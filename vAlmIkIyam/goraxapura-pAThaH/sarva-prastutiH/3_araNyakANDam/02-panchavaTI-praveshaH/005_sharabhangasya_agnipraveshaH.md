@@ -2,6 +2,11 @@
 title = "००५ शरभङ्गस्य अग्निप्रवेशः"
 title_english = "005 Hermitage of Sage Sharabhanga"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-005-Sharabhangasya_Agni_Praveshaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ Rama after killing demon Viradha enters the hermitage of Sage Sharabhanga, as ad
  course of their journey, that Sage enters the yogic fire and ascends to Brahma's abode.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-005-Sharabhangasya_Agni_Praveshaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

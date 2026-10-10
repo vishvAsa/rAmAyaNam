@@ -2,6 +2,11 @@
 title = "००८ रामेण वालिवधनिश्चयः"
 title_english = "008 The tale of enmity between Vali and Sugreeva"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-008-Ramasya_Valivadha_Nishachayyaha_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ brother an enemy and abducted Sugreeva's wife. Rama asks Sugreeva to inform him 
 cause of enmity, so that he can decide correctly. Sugreeva narrates his woeful condition.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-008-Ramasya_Valivadha_Nishachayyaha_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

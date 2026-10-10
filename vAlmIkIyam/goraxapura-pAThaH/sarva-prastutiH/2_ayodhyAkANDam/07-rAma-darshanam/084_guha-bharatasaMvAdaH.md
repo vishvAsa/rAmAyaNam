@@ -3,6 +3,12 @@ title = "०८४ गुह-भरतसंवादः"
 title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,11 +20,6 @@ ready for a battle, if necessary, with Bharata. Then, Guha approaches Bharata wi
 of honey, meat and fish. He asks Bharata with his army to accept his hospitality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

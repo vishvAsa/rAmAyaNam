@@ -2,6 +2,11 @@
 title = "०१३ रावण-महापार्श्वसंवादः"
 title_english = "013 Mahaparsva s advise to Ravana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-013-Mahaparsva_s_advise_to_Ravana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ inability to do so, because of a curse pronounced against him by Brahma (lord of
 past. Ravana then boasts of his own prowess.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-013-Mahaparsva_s_advise_to_Ravana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

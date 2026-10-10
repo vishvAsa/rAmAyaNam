@@ -2,6 +2,11 @@
 title = "०२६ सीता-रामयोर्संवादः"
 title_english = "026 Rama lets Seetha know of King s wish"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-026-Sita_Rama_Samvadaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Seeing Rama being sad seetha wants to know the reason Rama then lets her know hi
 father's wish and his decision to go to forest. He then askes her to stay in Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-026-Sita_Rama_Samvadaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

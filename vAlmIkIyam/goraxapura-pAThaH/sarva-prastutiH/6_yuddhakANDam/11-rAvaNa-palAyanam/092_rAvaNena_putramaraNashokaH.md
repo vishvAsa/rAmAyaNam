@@ -1,6 +1,11 @@
 +++
 title = "०९२ रावणेन पुत्रमरणशोकः"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-092-Ravana_feels_distressed_over_his_son_s_death_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ minister of Ravana advises Ravana to desist from that dastardly act and to diver
 Rama in battle. Ravana accepts the advice of his minister and returns to his assembly-hall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-092-Ravana_feels_distressed_over_his_son_s_death_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४९ हनुमता रावणदर्शनम्"
 title_english = "049 Hanuma sees well adorned Ravana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-048-Ravana_sends_his_son_Indrajit.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ behold the splendor and glory of Ravana, Hanuma believes that he could even rule
 but for his gross unrighteousness, which pulled him down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-048-Ravana_sends_his_son_Indrajit.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

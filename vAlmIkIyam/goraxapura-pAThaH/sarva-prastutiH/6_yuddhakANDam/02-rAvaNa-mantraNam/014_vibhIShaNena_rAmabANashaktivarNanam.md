@@ -3,6 +3,12 @@ title = "०१४ विभीषणेन रामबाणशक्तिव
 title_english = "014 Vibhishana informs about the power of Rama s arrow"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-014-Vibhishana_informs_about_the_power_of_Rama_s_arrow.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ reiterates the enormous strength of the fatal arrows discharged by Rama and requ
 to save Ravana by giving back Sita to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-014-Vibhishana_informs_about_the_power_of_Rama_s_arrow.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

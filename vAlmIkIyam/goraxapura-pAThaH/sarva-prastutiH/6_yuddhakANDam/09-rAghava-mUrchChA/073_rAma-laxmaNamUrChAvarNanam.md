@@ -2,6 +2,11 @@
 title = "०७३ राम-लक्ष्मणमूर्छावर्णनम्"
 title_english = "073 Rama and Lakshmana fell unconscious"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-073-Rama_and_Lakshmana_fell_unconscious_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -20,10 +25,6 @@ Lanka, boasting of his laurels of victory. Grievously hurt on the battle field b
 Indrajit, Rama and Lakshmana along with the whole army of monkeys fell unconscious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-073-Rama_and_Lakshmana_fell_unconscious_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०११ हनुमता रावणान्तःपुरे �
 title_english = "011 Hanuma continues search for Seetha"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-011-Hanuma_continues_search_for_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,11 +19,6 @@ Realizing that the woman he saw at Ravana's house was not Seetha, Hanuma begins 
 for Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-011-Hanuma_continues_search_for_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

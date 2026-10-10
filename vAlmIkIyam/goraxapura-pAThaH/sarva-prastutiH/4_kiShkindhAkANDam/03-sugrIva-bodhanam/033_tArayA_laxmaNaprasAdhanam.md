@@ -3,6 +3,12 @@ title = "०३३ तारया लक्ष्मणप्रसाधनम
 title_english = "033 Lakshmana s fury Tara s pacifying"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-033-Tharaya_Lakshmana_Prasadhanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -27,11 +33,6 @@ be lateral interpolations, and there this chapter is quickly concluded. These ve
 of 'kingly vices...' on which Tara rationally defends.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-033-Tharaya_Lakshmana_Prasadhanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०५८ विभीषणेन प्रहस्तबलवर्णनम्"
 title_english = "058 Vibhishana explains the prowess of Prahasta"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-058-Vibhishana_explains_the_prowess_of_Prahasta_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ hurling a huge tree and breaks his bow. Finally a huge rock hurled by Nila break
 into myriad pieces and dies. All the other demons abandon the battle-field and return to Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-058-Vibhishana_explains_the_prowess_of_Prahasta_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०३३ कुशनाभकन्योद्वाहः"
 title_english = "033 Legend of brahmadatta"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-033-Kushanabha_Kanyodvahaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ Daughters of Kushanaabha report about the Air-god's mischief. Pleased
  they again become great beauties.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-033-Kushanabha_Kanyodvahaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

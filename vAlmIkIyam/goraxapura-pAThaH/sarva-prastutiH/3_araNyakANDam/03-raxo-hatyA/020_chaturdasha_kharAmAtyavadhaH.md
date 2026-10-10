@@ -2,6 +2,11 @@
 title = "०२० चतुर्दश खरामात्यवधः"
 title_english = "020 Rama eliminates Khara s demons"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-020-Chaturdhasha_Rakshasa_Samharaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ which Rama destructs all their weaponry and eliminates them all. Seeing this def
 back to her brother to report the defeat.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-020-Chaturdhasha_Rakshasa_Samharaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

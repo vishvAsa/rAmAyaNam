@@ -2,6 +2,11 @@
 title = "०५० जटायुकृतरावणनिरोधः"
 title_english = "050 Jataayu s confrontation with Ravana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-050-Jataayu_Krutha_Ravana_Nirodhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ to kings, but of no avail. His dilemma is that he cannot take flight to Rama's p
 Ravana until Rama comes. Yet, he persists to affront Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-050-Jataayu_Krutha_Ravana_Nirodhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०३५ मारीचं प्रति पुनः रावणागमनम्"
 title_english = "035 Ravana proceeds to Mareecha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-035-Maaricham_Prathi_Punaha_Ravana_Agamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ a banyan tree Ravana recollects the episode of Garuda, the Divine Eagle. He arri
 of Maareecha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-035-Maaricham_Prathi_Punaha_Ravana_Agamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

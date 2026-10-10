@@ -2,6 +2,11 @@
 title = "०७४ हनुमता हिमालयप्रयाणम्"
 title_english = "074 Hanuma s journey to Himalayas"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-074-_Hanuma_s_journey_to_Himalayas_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -20,10 +25,6 @@ the four celestial herbs and carries it along with him. Inhaling the odour of th
 Lakshmana and all the monkeys regain their normal health.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-074-_Hanuma_s_journey_to_Himalayas_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

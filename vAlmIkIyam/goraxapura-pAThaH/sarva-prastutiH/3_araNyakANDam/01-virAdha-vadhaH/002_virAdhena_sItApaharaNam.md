@@ -2,6 +2,11 @@
 title = "००२ विराधेन सीतापहरणम्"
 title_english = "002 Confrontation with Viraadha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-002-Viradhena_Sita_Apaharanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -20,10 +25,6 @@ Viradha the demon confronts Rama and other and tries to abduct Seetha, and
  other saints and sages living thereabout.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-002-Viradhena_Sita_Apaharanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

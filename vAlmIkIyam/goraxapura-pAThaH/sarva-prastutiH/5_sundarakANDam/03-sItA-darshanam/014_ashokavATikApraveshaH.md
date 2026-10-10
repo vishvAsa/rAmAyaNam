@@ -2,6 +2,11 @@
 title = "०१४ अशोकवाटिकाप्रवेशः"
 title_english = "014 Hanuma enters the Ashoka garden"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-014-Hanuma_enters_the_Ashoka_garden.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Hanuma enters the Ashoka garden and observes its beauty. He starts looking for S
 He thinks that Seetha would definitely come to that garden if she were to be alive.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-014-Hanuma_enters_the_Ashoka_garden.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

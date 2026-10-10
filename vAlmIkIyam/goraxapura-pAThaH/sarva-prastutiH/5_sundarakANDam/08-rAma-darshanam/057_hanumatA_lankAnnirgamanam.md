@@ -2,6 +2,11 @@
 title = "०५७ हनुमता लङ्कान्निर्गमनम्"
 title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-056-Hanuma_again_visits_Ashoka_garden_and_sees_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,10 +24,6 @@ Hanuma leaps from the coast of Lanka and touches Mount Mainaka, which he came ac
  all others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-056-Hanuma_again_visits_Ashoka_garden_and_sees_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

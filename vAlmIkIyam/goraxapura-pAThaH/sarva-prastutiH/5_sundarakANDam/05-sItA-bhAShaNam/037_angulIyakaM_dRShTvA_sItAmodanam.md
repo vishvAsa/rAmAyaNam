@@ -2,6 +2,11 @@
 title = "०३७ अङ्गुलीयकं दृष्ट्वा सीतामोदनम्"
 title_english = "037 Seetha was both delighted and depressed"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-037-Seetha_was_both_delighted_and_depressed.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ form, so as to inspire confidence in Seetha. However, explaining various reasons
 go with him and requests Hanuma to bring her husband to Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-037-Seetha_was_both_delighted_and_depressed.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

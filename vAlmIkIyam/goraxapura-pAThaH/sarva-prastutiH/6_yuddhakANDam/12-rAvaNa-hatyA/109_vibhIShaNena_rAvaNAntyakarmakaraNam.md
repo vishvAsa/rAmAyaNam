@@ -1,6 +1,11 @@
 +++
 title = "१०९ विभीषणेन रावणान्त्यकर्मकरणम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-109-Rama_directs_Vibhishana_to_perform_the_obsequies_to_Ravana_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ rites to Ravana. Rama directs Vibhishana to perform the obsequies to Ravana, his
 brother.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-109-Rama_directs_Vibhishana_to_perform_the_obsequies_to_Ravana_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

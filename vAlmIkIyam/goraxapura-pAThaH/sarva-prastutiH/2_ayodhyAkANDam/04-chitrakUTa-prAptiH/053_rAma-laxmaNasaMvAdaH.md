@@ -3,6 +3,12 @@ title = "०५३ राम-लक्ष्मणसंवादः"
 title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-053-Rama_Lakshmana_Samvadhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ inability to survive in the absence of Rama. Rama thereafter agrees again for La
 the forest with him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-053-Rama_Lakshmana_Samvadhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

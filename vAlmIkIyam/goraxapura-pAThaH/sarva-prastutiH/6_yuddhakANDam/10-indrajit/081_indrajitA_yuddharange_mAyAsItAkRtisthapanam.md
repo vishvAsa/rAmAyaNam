@@ -2,6 +2,11 @@
 title = "०८१ इन्द्रजिता युद्धरङ्गे मायासीताकृतिस्थपनम्"
 title_english = "081 Indrajit places illusory live image of Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-081-Indrajit_places_illusory_live_image_of_Seetha_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ battle. While Hanuma and his army are watching, Indrajit pulls Seetha by her hai
 his sword. Indrajit kills the illusory living image of Seetha, with his sharp sword.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-081-Indrajit_places_illusory_live_image_of_Seetha_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०८८ भरतप्रतिज्ञा"
 title_english = "088 Bharata approaches the foot of Angudi tree"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-088-Bharatha_Prathignaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ roots and fruits. He says that if Rama refuses his appeal to occupy the throne o
 will stay back in the forest along with Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-088-Bharatha_Prathignaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

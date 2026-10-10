@@ -2,6 +2,12 @@
 title = "११३ हनुमता सीतायाः रामविजयवार्ताकथनम्"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-113-Hanuma_informs_Seetha_about_Rama_s_victory__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ install him as the King of Lanka, in the presence of the demons there. Then, Ram
 to Seetha through Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-113-Hanuma_informs_Seetha_about_Rama_s_victory__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,11 +2,12 @@
 title = "०३२ सम्पद्वितरणम्"
 title_english = "032 Rama distributes his wealth to Rishis"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-032-Lakshmanaaya_Mamathihi.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 
@@ -15,6 +16,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 </details>
 
 ## सुयज्ञाह्वानम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शासनम् आज्ञाय  
@@ -534,6 +536,7 @@ Rama, Lakshmana and Seetha.
 </details>
 
 ## अन्यदानादेशः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ भ्रातरमव्यग्रं  
@@ -1037,6 +1040,7 @@ best of brahmanas as instructed.
 </details>
 
 ## उपजीविभ्यो वचनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाब्रवीद् बाष्पगलांस्  
@@ -1114,6 +1118,7 @@ with tears in their throats, spoke to them as follows;
 </details>
 
 ## त्रिजटाय दानम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य् **उक्त्वा** दुःखितं सर्वं  
@@ -2039,6 +2044,7 @@ immediately bestowed on friendly people, a great wealth earned by righteous migh
 </details>
 
 ## अन्येभ्यो दानम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चापि रामः प्रति-पूर्ण-पौरुषो  

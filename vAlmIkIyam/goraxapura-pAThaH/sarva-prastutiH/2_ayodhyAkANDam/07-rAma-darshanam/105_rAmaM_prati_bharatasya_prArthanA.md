@@ -2,6 +2,11 @@
 title = "१०५ रामं प्रति भरतस्य प्रार्थना"
 title_english = "105 Bharata requests Rama to accept the kingdom"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-105-Ramam_Prathi_Bharathasya_Pradhanaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ Ayodhya to shoulder the burden of rulership there in order to the command of the
 and that Rama himself would obey his father's command by staying back in the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-105-Ramam_Prathi_Bharathasya_Pradhanaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

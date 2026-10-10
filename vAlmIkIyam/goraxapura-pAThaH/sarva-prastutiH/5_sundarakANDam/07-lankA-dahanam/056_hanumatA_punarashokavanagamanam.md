@@ -2,6 +2,11 @@
 title = "०५६ हनुमता पुनरशोकवनगमनम्"
 title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-055-Hanuma_doubts_whether_Seetha_dies_in_the_fire.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ will take her back. After bidding adieu to Seetha, he ascends Mount Arishta and 
 himself ready to leap across the ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-055-Hanuma_doubts_whether_Seetha_dies_in_the_fire.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

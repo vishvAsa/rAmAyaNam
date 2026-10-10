@@ -2,6 +2,11 @@
 title = "०५९ लक्ष्मणनिन्दा"
 title_english = "059 Rama reprimands Lakshmana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-059-Lakshmana_Nindaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ between Rama and Lakshmana may be deemed to have happened before their approachi
 the last few verses of last chapter, and on their pathway to their hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-059-Lakshmana_Nindaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

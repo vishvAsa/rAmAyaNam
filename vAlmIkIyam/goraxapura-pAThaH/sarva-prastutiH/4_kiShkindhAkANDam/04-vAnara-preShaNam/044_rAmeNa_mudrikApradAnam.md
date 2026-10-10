@@ -2,6 +2,11 @@
 title = "०४४ रामेण मुद्रिकाप्रदानम्"
 title_english = "044 Rama gives ring to Hanuma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-044-Hanumathe_Ramena_Mudrikaa_Pradanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ the task to Hanuma, Rama perceives that Hanuma alone can achieve results and thu
 Then Hanuma starts on the expedition with others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-044-Hanumathe_Ramena_Mudrikaa_Pradanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

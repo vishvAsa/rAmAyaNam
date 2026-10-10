@@ -3,6 +3,12 @@ title = "०१८ रामेण वालिवधसमर्थनम्"
 title_english = "018 Rama s elucidation of dharma to vali"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-018-Ramena_Valivadha_Samardhanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,11 +21,6 @@ question put by Vali in the last chapter from the viewpoint of scriptures that l
 concludes that there is someone superior to him and thus seeks refuge in Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-018-Ramena_Valivadha_Samardhanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

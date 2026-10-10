@@ -3,6 +3,12 @@ title = "००४ लङ्कापुरीप्रवेशः"
 title_english = "004 Hanuma enters the city of Lanka"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-004-Hanuma_enters_the_city_of_Lanka.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ enemies, Hanuma hears various musical instruments being played upon inside. He a
 enemies' forces and moves towards the royal gynaeceum.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-004-Hanuma_enters_the_city_of_Lanka.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

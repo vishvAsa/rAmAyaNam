@@ -2,6 +2,11 @@
 title = "०६३ दशरथेन पूर्वकृतबालवधकथनम्"
 title_english = "063 Dasaratha narrates his sin to Kausalya"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-063-Dashrathena_Poorvakrutha_Balavadha_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ heart felt apologies to the hermit boy, who asked him to extract the arrow from 
 his parents. The boy died soon after the arrow was drawn out from the body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-063-Dashrathena_Poorvakrutha_Balavadha_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

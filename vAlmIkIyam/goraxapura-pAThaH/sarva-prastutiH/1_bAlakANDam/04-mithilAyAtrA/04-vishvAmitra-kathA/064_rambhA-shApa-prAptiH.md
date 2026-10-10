@@ -2,6 +2,11 @@
 title = "०६४ रम्भा-शाप-प्राप्तिः"
 title_english = "064 Legend of vishvamitra contd"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-064-Rambhayaha_Shapa_Prapthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ hindrance to his ascesis. But later feels ashamed to loose his tongue and then h
 another round of ascesis to conquer is own senses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga64/balasans64.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-064-Rambhayaha_Shapa_Prapthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

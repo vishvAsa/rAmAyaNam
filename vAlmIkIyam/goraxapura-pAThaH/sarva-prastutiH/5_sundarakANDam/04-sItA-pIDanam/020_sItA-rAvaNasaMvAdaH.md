@@ -3,6 +3,12 @@ title = "०२० सीता-रावणसंवादः"
 title_english = "020 Ravana talks to Seetha"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-020-Ravana_talks_to_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,11 +18,6 @@ title_english = "020 Ravana talks to Seetha"
 In this chapter Ravana entices Seetha with wealth, gems, sovereignty over all wives of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-020-Ravana_talks_to_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

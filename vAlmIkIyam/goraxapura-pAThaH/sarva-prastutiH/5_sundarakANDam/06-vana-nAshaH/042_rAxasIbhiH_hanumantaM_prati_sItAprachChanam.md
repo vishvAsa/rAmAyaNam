@@ -2,6 +2,11 @@
 title = "०४२ राक्षसीभिः हनुमन्तं प्रति सीताप्रच्छनम्"
 title_english = "042 Female demons enquires Seetha about Hanuma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-042-Female-demons_enquires_Seetha_about_Hanuma.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,10 +24,6 @@ rod. Getting to know of the killings, Ravana again sends Jambumali, the son of P
 of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-042-Female-demons_enquires_Seetha_about_Hanuma.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

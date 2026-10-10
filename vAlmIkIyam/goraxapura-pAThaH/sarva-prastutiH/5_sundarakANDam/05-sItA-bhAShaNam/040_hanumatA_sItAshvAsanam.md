@@ -2,6 +2,11 @@
 title = "०४० हनुमता सीताश्वासनम्"
 title_english = "040 Hanuma consoles Seetha and travels northward"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-040-Hanuma_consoles_Seetha_and_travels_northward.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ met her. Seetha also requests Hanuma to appraise Rama of her wretched plight and
 to have a happy journey ahead.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-040-Hanuma_consoles_Seetha_and_travels_northward.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

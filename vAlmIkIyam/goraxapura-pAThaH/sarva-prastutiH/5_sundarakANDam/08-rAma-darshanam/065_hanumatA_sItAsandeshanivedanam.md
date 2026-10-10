@@ -2,6 +2,11 @@
 title = "०६५ हनुमता सीतासन्देशनिवेदनम्"
 title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ related by her and delivering to Rama the jewel for the head, earlier handed-ove
 Hanuma conveys her message to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

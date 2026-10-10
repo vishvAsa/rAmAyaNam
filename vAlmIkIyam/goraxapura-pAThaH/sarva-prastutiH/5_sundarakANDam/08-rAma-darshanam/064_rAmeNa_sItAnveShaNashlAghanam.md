@@ -2,6 +2,11 @@
 title = "०६४ रामेण सीतान्वेषणश्लाघनम्"
 title_english = "064 Hanuma apprises of the discovery of Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-063-Dadhimukha_reports_Madhuvana_destruction_to_Sugreeva.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ of Seetha. Hearing the news, Rama and Lakshmana were thrilled with joy and looke
 esteem.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-063-Dadhimukha_reports_Madhuvana_destruction_to_Sugreeva.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०१६ हेमन्तर्तुवर्णनम्"
 title_english = "016 Lakshmana s description of vasanta season"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-016-Hemantharthu_Varnanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ On one day before the sunrise Rama proceeds to River Godavari for daily bath alo
  season. In doing so he casts aspersions on queen Kaikeyi, and Rama reproves it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-016-Hemantharthu_Varnanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

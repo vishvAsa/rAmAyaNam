@@ -3,6 +3,12 @@ title = "००४ रामेण लङ्काप्रस्थाने �
 title_english = "004 Rama fixes an auspicious hour for the departure"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-004-Rama_fixes_an_auspicious_hour_for_the_departure_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,11 +20,6 @@ After hearing the report of Hanuma, Rama fixes an auspicious hour for the depart
 his forces to Lanka and perceives good omens. The Army reaches the shores of the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-004-Rama_fixes_an_auspicious_hour_for_the_departure_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

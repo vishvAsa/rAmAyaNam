@@ -3,6 +3,12 @@ title = "०३८ रामगुणवर्णनम्"
 title_english = "038 Maareecha s good word to Ravana"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-038-RamaGuna_Varnanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ Rama's wife as Rama's valour is irrefutable. Maareecha narrates how Rama hurt hi
 safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-038-RamaGuna_Varnanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

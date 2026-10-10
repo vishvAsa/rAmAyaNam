@@ -3,6 +3,12 @@ title = "००७ हनुमता पुष्पकविमानदर्
 title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-007-Hanuma_sees_Pushpaka_in_Ravana_s_inner_city.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,11 +20,6 @@ Hanuma continues his search for mother Seetha in Ravana's inner city. He sees th
 aerial plane Pushpaka in Ravana's building.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-007-Hanuma_sees_Pushpaka_in_Ravana_s_inner_city.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

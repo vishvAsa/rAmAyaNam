@@ -2,6 +2,11 @@
 title = "०६६ राजशरीरस्य तैलकटाहे निक्षेपः"
 title_english = "066 Kausalya reproaches Kaikeyi"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-066-Raja_Sharirasya_Thailakata_Hanikshepaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ which they later keep in a trough filled with oil. The ministers and other funct
 their abodes, when the night fell in darkness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-066-Raja_Sharirasya_Thailakata_Hanikshepaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

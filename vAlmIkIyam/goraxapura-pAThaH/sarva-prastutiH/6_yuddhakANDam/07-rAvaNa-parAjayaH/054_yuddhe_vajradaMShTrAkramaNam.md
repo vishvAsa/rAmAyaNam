@@ -2,6 +2,11 @@
 title = "०५४ युद्धे वज्रदंष्ट्राक्रमणम्"
 title_english = "054 Vajradamstra shows terror among the monkeys"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-054-Vajradamstra_shows_terror_among_the_monkeys__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Vajradamshtra and Angada. Angada assaults Vajradamshtra with a sword and Vajrada
 on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-054-Vajradamstra_shows_terror_among_the_monkeys__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

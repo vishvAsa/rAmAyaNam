@@ -3,6 +3,12 @@ title = "०६२ दधिमुखेन किष्किन्धानि
 title_english = "062 Dadhimukha departs to Kishkindha"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-061-Monkeys_took_halt_at_Madhuvana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,11 +25,6 @@ along with his followers then proceed to Kishkindha to report the matter to him.
 and touches Sugreeva's feet as a mark of salutation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-061-Monkeys_took_halt_at_Madhuvana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

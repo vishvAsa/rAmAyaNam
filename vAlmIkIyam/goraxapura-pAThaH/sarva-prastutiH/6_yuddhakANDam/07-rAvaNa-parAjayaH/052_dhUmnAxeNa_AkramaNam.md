@@ -2,6 +2,11 @@
 title = "०५२ धूम्नाक्षेण आक्रमणम्"
 title_english = "052 Dhumraksha along with army attacks the monkeys"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-052-Dhumraksha_along_with_army_attacks_the_monkeys_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ Dhumraksha's chariot to pieces. Lifting his mace, Dhumraksha fights with Hanuman
 him on his head and kills him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-052-Dhumraksha_along_with_army_attacks_the_monkeys_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

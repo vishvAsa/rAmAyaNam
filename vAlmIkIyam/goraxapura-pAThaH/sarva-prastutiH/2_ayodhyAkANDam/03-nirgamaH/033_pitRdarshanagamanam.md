@@ -2,11 +2,12 @@
 title = "०३३ पितृदर्शनगमनम्"
 title_english = "033 Rama pays respects to his father at departure"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-033-Pithur_Dharshanaartham_Gamanam.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 

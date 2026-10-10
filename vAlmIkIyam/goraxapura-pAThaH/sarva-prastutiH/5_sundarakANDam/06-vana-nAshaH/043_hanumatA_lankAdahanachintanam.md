@@ -3,6 +3,12 @@ title = "०४३ हनुमता लङ्कादहनचिन्तन
 title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-043-Hanuma_thinks_of_destroying_a_sacred_sanctuary_of_demons.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,11 +23,6 @@ assumes a gigantic form and uplifting a pillar in that sanctuary, he speedily wh
 the sanctuary by producing a fire, created out of its friction with the other pillars.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-043-Hanuma_thinks_of_destroying_a_sacred_sanctuary_of_demons.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

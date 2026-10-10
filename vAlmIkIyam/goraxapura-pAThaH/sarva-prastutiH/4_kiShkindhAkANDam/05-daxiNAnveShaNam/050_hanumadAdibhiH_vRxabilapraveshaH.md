@@ -2,6 +2,11 @@
 title = "०५० हनुमदादिभिः वृक्षबिलप्रवेशः"
 title_english = "050 Search of Vanaras in Riksha cavity"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-050-Rukshabila_Praveshaha_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ sight of an elderly sainted lady and they all approach her asking after the lege
 cavity.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-050-Rukshabila_Praveshaha_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

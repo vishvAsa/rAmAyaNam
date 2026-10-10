@@ -2,6 +2,11 @@
 title = "०२८ अस्त्रसंहारोपदेशः"
 title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-028-Asthra_Samharo_Padeshaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -12,14 +17,10 @@ Rama requests sage Vishvamitra for endowing annulment missiles, besides
  projectile ones that have been accorded in the previous chapter. Sage
  Vishvamitra accords them, and while they are journeying further, they
 
- chance to see a picturesque forest on their way and Rama enquires about
+chance to see a picturesque forest on their way and Rama enquires about
  it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-028-Asthra_Samharo_Padeshaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४८ रावणेन सीतानिर्भर्त्सनम्"
 title_english = "048 Ravana tempts Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-048-Ravanena_Sita_Nirbhartha_Sanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ she obliges him and comes to Lanka with him, leaving Rama. She curtly dismisses 
 luring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-048-Ravanena_Sita_Nirbhartha_Sanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

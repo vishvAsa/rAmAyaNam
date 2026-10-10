@@ -2,6 +2,11 @@
 title = "०३६ सहाय्यार्थं रावणप्रार्थना"
 title_english = "036 Ravana seeks Mareecha s help"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-036-Sahayyartham_Ravana_Prathana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ Rama when he was in Tataka forest. As such, Maareecha tries to explain Ravana ab
 quintessence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-036-Sahayyartham_Ravana_Prathana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

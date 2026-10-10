@@ -2,6 +2,11 @@
 title = "००२ भिक्षुरूपेण हनुमदागमनम्"
 title_english = "002 The fearless Hanuma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-002-Bhikshu_Rupena_Hanumad_Aagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ by Sage Valmiki through Hanuma, to one and all is, "Be Fearless..." Even today t
 is ruling high on the Hindu psyche and Hanuma is to be remembered in any event of fright.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-002-Bhikshu_Rupena_Hanumad_Aagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

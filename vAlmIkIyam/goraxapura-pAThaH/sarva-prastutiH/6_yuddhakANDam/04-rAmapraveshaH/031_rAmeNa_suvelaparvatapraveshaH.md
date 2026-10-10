@@ -2,11 +2,12 @@
 title = "०३१ रामेण सुवेलपर्वतप्रवेशः"
 title_english = "031 Rama enters Lanka at Suvela Mountain"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-031-Rama_enters_Lanka_at_Suvela_Mountain_0.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 

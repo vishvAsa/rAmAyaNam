@@ -2,6 +2,11 @@
 title = "११० वसिष्ठसूचनम्"
 title_english = "110 Vasishta gives details of the creation of the world to Sri Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-110-Vasista_Soochanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ informs Rama that i the whole of Ikshvaku race, only the eldest son becomes the 
 Sri Rama not to violate this tradition and take over the reins of Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-110-Vasista_Soochanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

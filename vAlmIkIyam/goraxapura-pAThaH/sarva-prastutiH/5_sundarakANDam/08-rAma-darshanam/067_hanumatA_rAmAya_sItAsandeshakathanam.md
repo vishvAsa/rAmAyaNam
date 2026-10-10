@@ -2,6 +2,11 @@
 title = "०६७ हनुमता रामाय सीतासन्देशकथनम्"
 title_english = "067 Hanuma narrates an incident connected with a crow"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-066-urges_Hanuma,_to_repeat_the_words_spoken_by_Seetha..mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ Lakshmana would reduce Lanka to ashes and take her back to Ayodhya. When Hanuma 
 to give a token of remembrance to be handed over to Rama, she gives him a jewel for the head as a token.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-066-urges_Hanuma,_to_repeat_the_words_spoken_by_Seetha..mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

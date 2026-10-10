@@ -2,6 +2,11 @@
 title = "०१८ रामेण दशरथसान्त्वनम्"
 title_english = "018 Kaikeyi s harsh words"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-018-Ramena_Dashratha_Santhvanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ of Rama and sending Rama to Dandaka forest. On listening to these harsh words of
 not become sorrowful, but Dasaratha was very much disturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-018-Ramena_Dashratha_Santhvanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४३ उदीचीं प्रति शतबलिप्रेषणम्"
 title_english = "043 Sugreeva sends troops to north"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-043-Udeecheem_Prathi_Shathavali_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ Kuru and a heavenly mountain called Mt. Soma on which Brahma, Vishnu and Shiva m
 sacredness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-043-Udeecheem_Prathi_Shathavali_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

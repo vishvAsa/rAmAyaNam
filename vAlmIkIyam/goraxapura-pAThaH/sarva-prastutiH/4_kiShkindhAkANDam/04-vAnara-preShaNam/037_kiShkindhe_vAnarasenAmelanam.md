@@ -2,6 +2,11 @@
 title = "०३७ किष्किन्धे वानरसेनामेलनम्"
 title_english = "037 Monkey chiefs go round the earth"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-037-Vanarasenaa_Aagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ Sugreeva. They all return to Sugreeva in the same time when Sugreeva is with Lak
 the other monkeys that are summoned.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-037-Vanarasenaa_Aagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

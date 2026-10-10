@@ -2,6 +2,11 @@
 title = "०८७ इन्द्रजिता विभीषणभर्त्सनम्"
 title_english = "087 Indrajit s harsh words to Vibhishana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-087-Indrajit_s_harsh_words_to_Vibhishana_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ vices, he has left him and joined Rama's side. He further adds that Indrajit and
 survive under the range of Lakshmana's arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-087-Indrajit_s_harsh_words_to_Vibhishana_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

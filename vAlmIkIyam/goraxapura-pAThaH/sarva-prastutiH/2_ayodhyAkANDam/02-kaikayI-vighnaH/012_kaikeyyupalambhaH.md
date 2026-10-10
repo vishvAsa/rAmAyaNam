@@ -2,6 +2,11 @@
 title = "०१२ कैकेय्युपलम्भः"
 title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-012-Kaikeyyu_Palambhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Dasaratha is shocked by the strange wishes of Kaikeyi and tries to convince Kaik
 her wishes as being harmful. Kaikeyi would not heed to the emperor's words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-012-Kaikeyyu_Palambhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

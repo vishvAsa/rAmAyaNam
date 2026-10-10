@@ -2,6 +2,11 @@
 title = "०५६ वसिष्ठ-विश्वामित्र-सङ्घर्षः"
 title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-056-Vasista_Vishvamitra_Sangarshaha_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ seeing this concludes that mere missiles are of no use and thus he embarks on a
 sublime ascesis for Brahma-hood.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-056-Vasista_Vishvamitra_Sangarshaha_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

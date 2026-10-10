@@ -3,6 +3,12 @@ title = "०३८ राम-सुग्रीवसंवादः"
 title_english = "038 Sugreeva approaches Rama"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-038-Rama_Sugreeva_Samvadhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ Rama that all the Vanara armies on earth are coming for confronting Ravana in ba
 is at his job, Rama is pleased heartily.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-038-Rama_Sugreeva_Samvadhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

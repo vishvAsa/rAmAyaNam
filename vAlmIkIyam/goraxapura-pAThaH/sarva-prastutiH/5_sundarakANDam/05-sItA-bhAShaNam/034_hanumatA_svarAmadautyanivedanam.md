@@ -2,6 +2,11 @@
 title = "०३४ हनुमता स्वरामदौत्यनिवेदनम्"
 title_english = "034 Hanuma reveals himself to be a messenger of"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-034-Hanuma_reveals_himself_to_be_a_messenger_of.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ qualities of Rama. Hanuma on his part discloses to her his actuality as a minist
 qualities of Rama. He requests her to have faith in his words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-034-Hanuma_reveals_himself_to_be_a_messenger_of.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

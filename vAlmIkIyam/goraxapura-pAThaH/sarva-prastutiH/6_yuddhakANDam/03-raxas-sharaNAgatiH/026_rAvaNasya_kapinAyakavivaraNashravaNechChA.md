@@ -2,6 +2,11 @@
 title = "०२६ रावणस्य कपिनायकविवरणश्रवणेच्छा"
 title_english = "026 Ravana enquires about the various monkey leaders"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-026-Ravana_enquires_about_the_various_monkey_leaders_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ shows him Nila, Angada, Nala, Sweta, Kumuda, Rambha, Sarabha, Panasa, Vinata and
 army-generals along with their distinguishing characterestics.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-026-Ravana_enquires_about_the_various_monkey_leaders_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

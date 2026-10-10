@@ -2,6 +2,11 @@
 title = "०८६ गुहेन रामवृत्तान्तकथनम्"
 title_english = "086 Guha narrates Bharata about Rama s stay"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ during that night. Guha further tells him how Rama and Lakshmana matted their ha
 mass crossed the holy river with Seetha and left for the hermitage of Sage Bharadwaja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

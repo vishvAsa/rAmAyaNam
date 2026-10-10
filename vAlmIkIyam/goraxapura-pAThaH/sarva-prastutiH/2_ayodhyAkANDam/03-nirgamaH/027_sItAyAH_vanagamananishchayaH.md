@@ -3,6 +3,12 @@ title = "०२७ सीतायाः वनगमननिश्चयः"
 title_english = "027 Seetha s wish to go to forest along with Rama"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-027-Sitayaaha_Vanagamana_Nishchayaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,11 +18,6 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 In this chapter Seetha asks Rama to take her to the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-027-Sitayaaha_Vanagamana_Nishchayaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

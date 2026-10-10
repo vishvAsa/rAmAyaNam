@@ -2,6 +2,11 @@
 title = "०५७ त्रिशङ्कोर् यजनप्रार्थना"
 title_english = "057 The Legend of trishanku"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-057-Thrishamkoryajana_Pradhana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ The legend of Trishanku is narrated to Rama, which forms a part of Vishvamitra's
  Vashishta with the same idea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-057-Thrishamkoryajana_Pradhana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

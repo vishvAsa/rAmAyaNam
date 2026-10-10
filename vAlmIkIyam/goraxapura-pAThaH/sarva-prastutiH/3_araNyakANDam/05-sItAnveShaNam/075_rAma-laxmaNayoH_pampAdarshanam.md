@@ -2,6 +2,11 @@
 title = "०७५ राम-लक्ष्मणयोः पम्पादर्शनम्"
 title_english = "075 Rama and Lakshmana arrive at Pampa Lake"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-075-Rama_Lakshmanayoho_Pampaa_Darshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ the ladylike Pampa Lake, his thoughts move to Seetha, and he is again dispirited
 that short spell of his anguish, he proceeds with Lakshmana to the nearby of the lake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-075-Rama_Lakshmanayoho_Pampaa_Darshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

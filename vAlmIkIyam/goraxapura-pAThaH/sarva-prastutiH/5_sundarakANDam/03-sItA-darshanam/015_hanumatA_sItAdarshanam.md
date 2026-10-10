@@ -2,6 +2,11 @@
 title = "०१५ हनुमता सीतादर्शनम्"
 title_english = "015 Hanuma sees Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-015-Hanuma_sees_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Hanuma continues his search in the Ashoka garden for Seetha. He sees an emaciate
  by demonesses. From Her radiance and manner of clothing etc, Hanuma recognizes Her to be Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-015-Hanuma_sees_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

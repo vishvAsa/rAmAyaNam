@@ -2,6 +2,11 @@
 title = "०४० सगर-सुत-विनाशः"
 title_english = "040 Sage kapila burns the sons of sagara"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-040-Sagara_Putra_Vinashaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
  he renders them to heaps of ashes by his yogic powers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-040-Sagara_Putra_Vinashaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

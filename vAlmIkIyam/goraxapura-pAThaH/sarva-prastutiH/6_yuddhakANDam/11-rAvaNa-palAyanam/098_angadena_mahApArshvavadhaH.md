@@ -1,6 +1,11 @@
 +++
 title = "०९८ अङ्गदेन महापार्श्ववधः"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-098-Angada_kills_Mahaparsva_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Mahaparshva. Then, Angada knocks the bow and the helmet of Mahaparshva, as they 
 Mahaparshva falls dead, succumbing to a forcible blow of Angada's fist.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-098-Angada_kills_Mahaparsva_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

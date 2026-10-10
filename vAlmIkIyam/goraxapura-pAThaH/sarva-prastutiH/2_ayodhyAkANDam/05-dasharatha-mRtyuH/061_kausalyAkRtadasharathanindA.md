@@ -2,6 +2,11 @@
 title = "०६१ कौसल्याकृतदशरथनिन्दा"
 title_english = "061 Kausalya rebukes Dasaratha for his evil act"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-061-Kousalya_Krutha_Dahsratha_Nindaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ forest-life. She says that even if Rama returns to Ayodhya in the fifteenth year
 the kingdom since enjoyed by Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-061-Kousalya_Krutha_Dahsratha_Nindaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

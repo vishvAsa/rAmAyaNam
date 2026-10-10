@@ -3,6 +3,12 @@ title = "०६३ सम्पातिना नूतनपक्षप्र
 title_english = "063 Sampaati gets new wings and flew away"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-063-Sampaati_gets_new_wings_and_flew_away.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,11 +21,6 @@ away for flight-test of his newborn wings wishing the monkeys success. Then the 
 journey on to southern direction, as directed by Sampaati.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-063-Sampaati_gets_new_wings_and_flew_away.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

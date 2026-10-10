@@ -2,6 +2,11 @@
 title = "०६७ जटायुषा सीतावृत्तान्तकथनम्"
 title_english = "067 Rama spots wing clipped Jataayu"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-067-Jataayuvaa_Sitaa_Vruthantha_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ demon Rama wants to kill and speedily approaches Jataayu, but on listening Jataa
 recognises and laments for his wretched situation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-067-Jataayuvaa_Sitaa_Vruthantha_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

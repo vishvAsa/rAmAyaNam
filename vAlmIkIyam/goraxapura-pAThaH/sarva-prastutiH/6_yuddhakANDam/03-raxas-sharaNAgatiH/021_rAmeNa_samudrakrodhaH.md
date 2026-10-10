@@ -3,6 +3,12 @@ title = "०२१ रामेण समुद्रक्रोधः"
 title_english = "021 Rama becomes angry at the ocean"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-021-Rama_becomes_angry_at_the_ocean.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,11 +20,6 @@ requested to do so. Rama becomes angry at the ocean and looses fierce arrows, wh
 among the creatures inhabiting the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-021-Rama_becomes_angry_at_the_ocean.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

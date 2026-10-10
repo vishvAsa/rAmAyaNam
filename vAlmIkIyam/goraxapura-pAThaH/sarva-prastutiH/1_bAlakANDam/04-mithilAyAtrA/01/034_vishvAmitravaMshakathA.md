@@ -3,6 +3,12 @@ title = "०३४ विश्वामित्रवंशकथा"
 title_english = "034 Legend of vishvamitra s ancestry"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-034-Vishvamitra_Vamsha_Varnavam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,11 +20,6 @@ Incidentally he narrates about the emergence and prominence of River Kaushiki, w
 is Vishwamitra's elder sister turned out as a sacred River.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-034-Vishvamitra_Vamsha_Varnavam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "००२ ब्रह्मागमनम्"
 title_english = "002 vAlmIki gets divine guidance to compile the epic"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-002-Brahma_Aagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ the presiding deity of letters appears and ordains Valmiki to author Ramayana, e
 of Rama, for which purpose alone he gave such divine meter and grammar to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-002-Brahma_Aagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

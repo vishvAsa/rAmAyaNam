@@ -2,6 +2,11 @@
 title = "०२३ लक्ष्मणसान्त्वनम्"
 title_english = "023 Lakshmana s angry words"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-023-Lakshmana_Santhvanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ This chapter describes the valiant words of Lakshmana, his opposing depends on g
 and proposes to fight with Rama's enemies to endow Rama with Kingdom.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-023-Lakshmana_Santhvanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

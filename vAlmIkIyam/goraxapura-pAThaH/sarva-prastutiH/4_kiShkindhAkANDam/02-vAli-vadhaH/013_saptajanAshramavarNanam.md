@@ -2,6 +2,11 @@
 title = "०१३ सप्तजनाश्रमवर्णनम्"
 title_english = "013 Saptajana hermitage"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-013-Saptha_Jana_Shrama_Varnanam_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ chance to see a divine hermitage called sapta jana aashrama 'Hermitage
 of Seven Sages.' On worshipping it they proceed to Kishkindha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-013-Saptha_Jana_Shrama_Varnanam_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

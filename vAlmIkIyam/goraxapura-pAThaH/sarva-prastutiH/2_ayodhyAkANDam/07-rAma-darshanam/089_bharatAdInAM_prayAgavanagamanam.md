@@ -3,6 +3,12 @@ title = "०८९ भरतादीनां प्रयागवनगमन
 title_english = "089 Bharata asks Guha to to ferry them across the river by boats"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-089-Bharathaa_Deenam_Prayaga_Vanagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ river. Encamping the army at the shore in the magnificient woods of Prayaga, Bha
 priests and king's counsellors, approach the hermitage of Bharadwaja.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-089-Bharathaa_Deenam_Prayaga_Vanagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०७८ रावणेन मकराक्षप्रेषणम्"
 title_english = "078 Ravana orders Makaraksha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-078-Ravana_orders_Makaraksha_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ and a dust-storm ensued. Ignoring those portents, Makaraskha's army march forwar
 battle-field, to reach Rama and Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-078-Ravana_orders_Makaraksha_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

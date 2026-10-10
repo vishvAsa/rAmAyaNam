@@ -2,6 +2,11 @@
 title = "०२९ सीतया शुभशकुनानुभवः"
 title_english = "029 Seetha experiences some good omens"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-029-Seetha_experiences_some_good_omens.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Seetha experiences some good omens as follows; Her left eye, left shoulder and l
 as also her clothing slipped a bit. Feeling these omens, her consciousness was awakened with exaltation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-029-Seetha_experiences_some_good_omens.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

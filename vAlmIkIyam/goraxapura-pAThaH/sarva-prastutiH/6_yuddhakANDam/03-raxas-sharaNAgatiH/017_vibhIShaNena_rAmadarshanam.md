@@ -2,6 +2,11 @@
 title = "०१७ विभीषणेन रामदर्शनम्"
 title_english = "017 Vibhishana reaches Rama s places"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-017-Vibhishana_reaches_Rama_s_places.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ Vibhishana is desirous of obtaining the kingdom of demons. Hanuman requests Rama
 decision on the matter.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-017-Vibhishana_reaches_Rama_s_places.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

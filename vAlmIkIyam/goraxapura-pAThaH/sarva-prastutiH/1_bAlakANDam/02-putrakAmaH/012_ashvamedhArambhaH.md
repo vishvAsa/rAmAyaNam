@@ -2,6 +2,11 @@
 title = "०१२ अश्वमेधारम्भः"
 title_english = "012 dasaratha readies to perform asvamedha ritual"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-012-Ashva_Medhaarambhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ which the ministers are ordered to supply forthwith. This chapter is almost a re
 8, excepting the inclusion of references to Sage Rishyasringa who by now is available in Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-012-Ashva_Medhaarambhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

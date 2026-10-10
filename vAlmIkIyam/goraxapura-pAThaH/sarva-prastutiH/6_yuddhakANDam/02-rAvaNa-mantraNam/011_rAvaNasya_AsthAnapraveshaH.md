@@ -2,6 +2,11 @@
 title = "०११ रावणस्य आस्थानप्रवेशः"
 title_english = "011 Ravana goes again to the assembly hall"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Ravana goes again to the assembly hall, to hold consultations with his ministers
 othere important demons and Vibhishana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४४ इन्द्रजिता अदृश्यरूपेण युद्धरङ्गागमनम्"
 title_english = "044 Indrajit comes back in an invisible form"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-044-Indrajit_comes_back_in_an_invisible_form_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -20,10 +25,6 @@ recourse to magic, makes Rama and Lakshmana captive by hurling a net work of ser
 them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-044-Indrajit_comes_back_in_an_invisible_form_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

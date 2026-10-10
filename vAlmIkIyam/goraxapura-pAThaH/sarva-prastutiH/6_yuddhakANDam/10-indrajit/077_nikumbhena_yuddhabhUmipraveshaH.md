@@ -2,6 +2,11 @@
 title = "०७७ निकुम्भेन युद्धभूमिप्रवेशः"
 title_english = "077 Kumbha s brother Nikumbha faces the battle"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-077-Kumbha_s_brother,_Nikumbha_faces_the_battle_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ frees himself and throws down Nikumbha on the ground. Hanuma descends on Nikumbh
 with his fist, catches his head and tears it off. Thus, Nikumbha dies at the hands of Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-077-Kumbha_s_brother,_Nikumbha_faces_the_battle_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

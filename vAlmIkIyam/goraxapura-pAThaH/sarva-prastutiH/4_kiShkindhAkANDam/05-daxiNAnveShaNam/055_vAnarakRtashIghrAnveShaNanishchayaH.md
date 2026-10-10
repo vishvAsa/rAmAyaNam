@@ -2,6 +2,11 @@
 title = "०५५ वानरकृतशीघ्रान्वेषणनिश्चयः"
 title_english = "055 Monkeys decide to fast unto death"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-055-Monkeys_decide_to_fast_unto_death.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ returning after timeframe might deem himself as dead. Thus, Angada casting asper
 commands, takes this decision on many counts. All the other monkeys follow the suite.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-055-Monkeys_decide_to_fast_unto_death.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

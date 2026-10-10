@@ -2,6 +2,11 @@
 title = "०२८ राम-खरयुद्धम्"
 title_english = "028 Khara s war with Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-028-Rama_Khara_Yuddham.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ He wages a fearful war showing all his expertise and he even brings down the amo
 arrows. The combat of Rama and Khara takes a longer time, as Khara is not easy-to-deal demon.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-028-Rama_Khara_Yuddham.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

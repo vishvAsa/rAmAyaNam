@@ -2,6 +2,11 @@
 title = "००५ रामेण सीतास्मरणम्"
 title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-005-Sri_Rama_recollects_the_lotus-eyed_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Rama recollects the lotus-eyed Seetha and laments much about his separation from
 Lakshmana consoles him and there approaches the sun-set.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-005-Sri_Rama_recollects_the_lotus-eyed_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

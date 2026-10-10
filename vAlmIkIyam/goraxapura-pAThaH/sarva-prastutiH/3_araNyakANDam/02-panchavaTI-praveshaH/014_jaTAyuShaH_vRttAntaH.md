@@ -3,6 +3,12 @@ title = "०१४ जटायुषः वृत्तान्तः"
 title_english = "014 Sri Rama s Contact with Jatayu"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-014-Jatayusho_Vruthanthaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,11 +21,6 @@ Rama and the other two on their way to Panchavati come into contact with Jatayu,
  to help Rama in exile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-014-Jatayusho_Vruthanthaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

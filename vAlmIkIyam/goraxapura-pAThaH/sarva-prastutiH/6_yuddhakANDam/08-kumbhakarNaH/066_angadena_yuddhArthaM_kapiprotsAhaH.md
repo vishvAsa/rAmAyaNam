@@ -2,6 +2,11 @@
 title = "०६६ अङ्गदेन युद्धार्थं कपिप्रोत्साहः"
 title_english = "066 Angada reassures the monkeys to return to the battle"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-066-Angada_reassures_the_monkeys_to_return_to_the_battle__0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ Then again, the monkeys get frightened and run away in different directions. Ang
 the monkeys to confidence once more and all the monkeys stand awaiting the command of Angada.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-066-Angada_reassures_the_monkeys_to_return_to_the_battle__0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

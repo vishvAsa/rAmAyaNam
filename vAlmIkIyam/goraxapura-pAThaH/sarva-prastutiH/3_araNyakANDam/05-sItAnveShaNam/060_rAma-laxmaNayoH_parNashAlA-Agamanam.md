@@ -3,6 +3,12 @@ title = "०६० राम-लक्ष्मणयोः पर्णशा�
 title_english = "060 Rama laments for Seetha s separation"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-060-Rama_Lakshmanayoho_Parnashala_Agamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,11 +20,6 @@ and animal, in a kind of frenzied attitude. This chapter is too poetic to summar
 is said here.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-060-Rama_Lakshmanayoho_Parnashala_Agamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

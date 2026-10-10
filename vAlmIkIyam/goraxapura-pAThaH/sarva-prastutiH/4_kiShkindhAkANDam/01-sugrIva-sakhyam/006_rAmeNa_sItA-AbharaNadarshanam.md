@@ -2,6 +2,11 @@
 title = "००६ रामेण सीता-आभरणदर्शनम्"
 title_english = "006 Sugreeva s narration of the abduction"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-006-Sita_Abharana_Darshanam_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,10 +23,6 @@ angered at the scandalous act of abduction he avows to eradicate that demon alon
 clansmen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-006-Sita_Abharana_Darshanam_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

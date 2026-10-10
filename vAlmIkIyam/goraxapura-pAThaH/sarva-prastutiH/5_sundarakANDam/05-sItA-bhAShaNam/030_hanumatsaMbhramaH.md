@@ -2,6 +2,11 @@
 title = "०३० हनुमत्संभ्रमः"
 title_english = "030 Hanuma falls in dilemma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-030-Hanuma_falls_in_dilemma.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Hanuma falls in a dilemma whether to console Seetha or to remain silent. Finally
 to console Seetha, by eulogising Rama's attributes in a sweet voice, so that Seetha can give credence to his words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-030-Hanuma_falls_in_dilemma.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

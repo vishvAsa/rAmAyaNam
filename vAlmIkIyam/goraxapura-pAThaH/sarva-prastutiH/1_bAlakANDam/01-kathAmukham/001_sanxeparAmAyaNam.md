@@ -3,6 +3,11 @@ title = "००१ सङ्क्षेपरामायणम्"
 english_title = "001 nArada briefs vAlmIki about rAma rAmAyaNa in a nutshell"
 unicode_script = "devanagari"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-001-Samksheparamayanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -26,10 +31,6 @@ letter *ta* an auspicious letter.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-001-Samksheparamayanam.mp3"></div>
-</details>
-
 <details><summary>भागसूचना</summary>
 
 1. नारदजीका वाल्मीकि मुनिको संक्षेपसे श्रीरामचरित्र सुनाना
@@ -42,6 +43,7 @@ letter *ta* an auspicious letter.
 </details>
 
 ## नारदाय प्रश्नः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।  
@@ -308,6 +310,7 @@ full-moon.
 </details>
 
 ## नारदस्योत्तरम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा चैतत्त्रिलोकज्ञो  
@@ -405,6 +408,7 @@ this world, the intermediary heaven, the heavens themselves.
 </details>
 
 ### रामवर्णनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकुवंशप्रभवो  
@@ -1036,6 +1040,7 @@ to English.
 </details>
 
 ### अभिषेकयत्नः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवङ्गुणसम्पन्नं रामं सत्यपराक्रमम् ॥ १९ ॥  
@@ -1197,6 +1202,7 @@ _________________
 </details>
 
 ### वनवासः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स जगाम वनं वीरः प्रतिज्ञामनुपालयन् ।  
@@ -1521,6 +1527,7 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 </details>
 
 ### भरतयत्नः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः ॥ ३३ ॥  
@@ -1731,6 +1738,7 @@ expectation of Rama's arrival... [1-1-38b, 39a]
 </details>
 
 ### दण्डकारण्ये
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रियः ॥ ३९ ॥  
@@ -1886,6 +1894,7 @@ called as *agatsyabhraataa*, brother of Agastya.
 </details>
 
 ### ऋषिरक्षा
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसतस्तस्य रामस्य वने वनचरैः सह ॥ ४३ ॥  
@@ -2479,6 +2488,7 @@ Traditionally Hanuma is worshipped as a god.
 </details>
 
 ### सुग्रीवसख्यम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पम्पातीरे हनुमता सङ्गतो वानरेण ह ॥ ५८ ॥  
@@ -3049,6 +3059,7 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 </details>
 
 ### वानरप्रेषणम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च सर्वान् समानीय वानरान् वानरर्षभः ।  
@@ -3142,6 +3153,7 @@ order'.
 </details>
 
 ### सीतादर्शनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।  
@@ -3671,6 +3683,7 @@ beings, and with groups of gods and sages became exultant... [1-1-83, 84]
 </details>
 
 ### अयोध्यागतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान् ।  
@@ -3854,6 +3867,7 @@ a householder, and he regained his kingdom also... [1-1-89]
 </details>
 
 ### रामराज्यम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः ।  
@@ -4179,6 +4193,7 @@ The brahma loka is not the abode of four-faced Brahma, but still higher abode, r
 </details>
 
 ### फलस्तुतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम् ।  

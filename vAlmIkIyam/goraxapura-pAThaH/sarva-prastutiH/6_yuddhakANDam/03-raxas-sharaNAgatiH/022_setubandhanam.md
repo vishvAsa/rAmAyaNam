@@ -2,6 +2,11 @@
 title = "०२२ सेतुबन्धनम्"
 title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-022-Sea-god_advices_Rama_with_joined_palms_to_build_a_bridge.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ by Nala across the ocean. The ocean god disappears after giving this advice to R
 accordingly constructs a bridge across the sea with the help of other monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-022-Sea-god_advices_Rama_with_joined_palms_to_build_a_bridge.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "००९ सीतया आयुधन्यासप्रदानम्"
 title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-009-Sitaya_Aayudhanyasa_Pradhana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ Seetha foresees danger in Rama's decision to eliminate the demons in Dandaka for
  about a sage who in possession of a weapon became violent and cruel.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-009-Sitaya_Aayudhanyasa_Pradhana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

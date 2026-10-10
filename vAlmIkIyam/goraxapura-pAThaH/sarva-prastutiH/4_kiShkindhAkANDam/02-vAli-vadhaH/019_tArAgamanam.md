@@ -2,6 +2,11 @@
 title = "०१९ तारागमनम्"
 title_english = "019 Tara s arrival at Vali in battlefield"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-019-Tharaya_Aagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ their advises away and proceeds to meet Vali. She arrives at that place, sees Ra
 her husband Vali and his brother Sugreeva. She faints and wails for the departing soul of Vali.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-019-Tharaya_Aagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

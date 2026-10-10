@@ -2,6 +2,11 @@
 title = "०४६ रावणेन इन्द्रजित्प्रशंसनम्"
 title_english = "046 Ravana applauds his son for his daring act"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-046-Ravana_applauds_his_son_for_his_daring_act_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ infuses confidence in them. Indrajit, in the meanwhile, informs Ravana that both
 have been killed. Ravana applauds his son for his daring act.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-046-Ravana_applauds_his_son_for_his_daring_act_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

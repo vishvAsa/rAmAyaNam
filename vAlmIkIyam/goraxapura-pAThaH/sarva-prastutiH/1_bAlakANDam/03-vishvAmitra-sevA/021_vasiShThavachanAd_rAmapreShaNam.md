@@ -2,6 +2,11 @@
 title = "०२१ वसिष्ठवचनाद् रामप्रेषणम्"
 title_english = "021 Ire of sage vishvamitra vashiShTha appeases dasharatha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-021-Vasistavachanath_Rama_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ The ire of sage Vishvamitra is shown at king Dasharatha. To pacify sage Vishvami
  Dasharatha agrees to send Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-021-Vasistavachanath_Rama_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -127,7 +128,7 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 > गुर्वर्थम् अर्थी श्रुत-पार-दृश्वा रघोः सकाशाद् अनवाप्य कामम् ।  
 > गतो वदान्यान्तरम् इत्य् अयं मे मा भूत् परीवाद-नवावतारः ॥
 
- इति ।
+इति ।
 
 > यदीदं ते क्षमं राजन् गमिष्यामि यथागतम् ।  
 > मिथ्या-प्रतिज्ञः काकुत्स्थ सुखी भव स-बान्धवः ॥

@@ -3,6 +3,12 @@ title = "०४२ रामेण युद्धादेशः"
 title_english = "042 Ravana commands his army to commence combat"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-042-Ravana_commands_his_army_to_commence_combat_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,11 +25,6 @@ Demons begin to strike the monkeys with their weapons and the monkeys respond th
 trees, mountain-tops, nails and teeth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-042-Ravana_commands_his_army_to_commence_combat_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

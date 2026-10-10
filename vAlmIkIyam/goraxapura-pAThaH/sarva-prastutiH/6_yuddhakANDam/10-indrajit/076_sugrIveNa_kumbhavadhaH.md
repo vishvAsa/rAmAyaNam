@@ -3,6 +3,12 @@ title = "०७६ सुग्रीवेण कुम्भवधः"
 title_english = "076 Sugreeva kills Kumbha"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-076-Sugreeva_kills_Kumbha_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,11 +23,6 @@ headed by Jambavan. Sugreeva, with his thunderbolt-like fist, strikes Kumbha wit
 kills him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-076-Sugreeva_kills_Kumbha_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

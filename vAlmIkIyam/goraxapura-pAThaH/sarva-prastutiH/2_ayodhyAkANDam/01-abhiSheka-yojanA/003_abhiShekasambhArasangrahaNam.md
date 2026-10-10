@@ -2,6 +2,11 @@
 title = "००३ अभिषेकसम्भारसङ्ग्रहणम्"
 title_english = "003 Preparing for the Ceremony"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-003-Abhisheka_Sambhara_Samgrahanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ Sumantra to bring Rama to the assembly. After letting Rama know of his desire, D
 advises Rama on how to rule the kingdom for the benefit of the people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-003-Abhisheka_Sambhara_Samgrahanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

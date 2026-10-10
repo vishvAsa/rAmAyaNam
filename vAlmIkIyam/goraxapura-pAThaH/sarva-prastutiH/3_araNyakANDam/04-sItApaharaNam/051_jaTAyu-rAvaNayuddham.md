@@ -3,6 +3,12 @@ title = "०५१ जटायु-रावणयुद्धम्"
 title_english = "051 The combat of Jataayu and Ravana"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-051-Jataayu_Ravana_Yudhdham.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ body of Ravana lacerating severally. Enraged at the bird-hits Ravana severs that
 and sides. Then seeing that fallen eagle Seetha weeps over, as if Jataayu is her own relative.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-051-Jataayu_Ravana_Yudhdham.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

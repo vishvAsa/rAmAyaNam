@@ -3,6 +3,12 @@ title = "०४६ दुन्दुभिवृत्तान्तः"
 title_english = "046 Sugreeva s knowledge of physical world"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-046-_Dundubhi_Vruthanthaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ repulsed by Vali he was on the run to pillar to post, until he finally settled o
 a plighted flight, Sugreeva says, he acquired a direct and personal knowledge of earth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-046-_Dundubhi_Vruthanthaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

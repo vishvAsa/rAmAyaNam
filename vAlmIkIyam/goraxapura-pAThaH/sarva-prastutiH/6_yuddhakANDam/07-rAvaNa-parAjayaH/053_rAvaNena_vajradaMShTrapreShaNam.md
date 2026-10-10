@@ -2,6 +2,11 @@
 title = "०५३ रावणेन वज्रदंष्ट्रप्रेषणम्"
 title_english = "053 Ravana sends Vajradamstra"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-053-Ravana_sends_Vajradamstra_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ stationed. The monkeys had a tough fight with the demons. Angada, the leader of 
 the terrible strong demons, chopping off their heads.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-053-Ravana_sends_Vajradamstra_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

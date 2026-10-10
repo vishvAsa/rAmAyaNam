@@ -2,6 +2,11 @@
 title = "०९१ भरद्वाजकृतातिथ्यम्"
 title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-091-Bharadwajakrutha_Maathidyam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ his army also to come to the hermitage. Then, Bharadwaja invokes Visvakarma, the
 and requests him to arrange for a befitting hopsitality to Bharata,
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-091-Bharadwajakrutha_Maathidyam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -1,6 +1,11 @@
 +++
 title = "१०३ रावणेन युद्धभूमिनिर्वर्तनम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ confused. Ravana's charioteer carries away Ravana in the chariot, camly and slow
 battle-front.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

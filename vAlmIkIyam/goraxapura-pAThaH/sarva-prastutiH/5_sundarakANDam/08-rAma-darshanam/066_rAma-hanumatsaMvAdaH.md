@@ -2,6 +2,11 @@
 title = "०६६ राम-हनुमत्संवादः"
 title_english = "066 Sri Rama urges Hanuma to repeat the words spoken by Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-065-Hanuma_conveys_Seetha_s_message_to_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ Sugreeva, telling him that by seeing that excellent jewel he obtains the sight o
 and father-in-law. Rama urges Hanuma, to repeat the words spoken by Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-065-Hanuma_conveys_Seetha_s_message_to_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

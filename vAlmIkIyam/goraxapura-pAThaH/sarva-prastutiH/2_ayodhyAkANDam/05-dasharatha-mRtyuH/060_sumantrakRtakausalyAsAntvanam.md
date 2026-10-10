@@ -2,6 +2,11 @@
 title = "०६० सुमन्त्रकृतकौसल्यासान्त्वनम्"
 title_english = "060 Sumantra was unable to console Kausalya"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-060-Sumanthra_Krutha_Kousalya_Santvanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ grief over her separation from Rama, even though he tries to avert her grief by 
 Rama can reside in the forest delightfully, by warding off his agony.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-060-Sumanthra_Krutha_Kousalya_Santvanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

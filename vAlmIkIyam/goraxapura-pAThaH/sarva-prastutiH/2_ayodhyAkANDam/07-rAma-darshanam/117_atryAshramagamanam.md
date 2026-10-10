@@ -2,6 +2,11 @@
 title = "११७ अत्र्याश्रमगमनम्"
 title_english = "117 Rama decides to leave Chitrakuta Mountain"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-117-Athryaa_Shrama_Gamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ Atri urges Rama to send his concert Seetha to Anasuya. Anasuya receives Seetha, 
 gives her instructions on the role and responsibilities of a devoted wife.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-117-Athryaa_Shrama_Gamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

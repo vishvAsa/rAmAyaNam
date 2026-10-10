@@ -2,6 +2,11 @@
 title = "०३७ विभीषणेन गुप्तचरप्रेषणम्"
 title_english = "037 Vibhishana sends spies into Lanka"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-037-Vibhishana_sends_spies_into_Lanka_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ Angada Hanuman and others to storm the four gates and decides to stay on Suvela 
 army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-037-Vibhishana_sends_spies_into_Lanka_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

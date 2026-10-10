@@ -3,6 +3,12 @@ title = "०४२ प्रतीचीं प्रति सुषेणप�
 title_english = "042 Sugreeva sends troops to west side"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-042-Prathicheem_Prathi_Sushena_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,11 +23,6 @@ Sea and almost up to Persian provinces, he orders monkey troops to return within
 time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-042-Prathicheem_Prathi_Sushena_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

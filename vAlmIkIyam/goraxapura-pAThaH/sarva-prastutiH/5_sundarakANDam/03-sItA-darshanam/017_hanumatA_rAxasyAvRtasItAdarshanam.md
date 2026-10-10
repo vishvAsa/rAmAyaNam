@@ -2,6 +2,11 @@
 title = "०१७ हनुमता राक्षस्यावृतसीतादर्शनम्"
 title_english = "017 Hanuma sees Seetha with ogresses"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-017-Hanuma_sees_Seetha_with_ogresses.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -11,10 +16,6 @@ title_english = "017 Hanuma sees Seetha with ogresses"
 In this chapter Hanuma sees Seetha surrounded by ogresses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-017-Hanuma_sees_Seetha_with_ogresses.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

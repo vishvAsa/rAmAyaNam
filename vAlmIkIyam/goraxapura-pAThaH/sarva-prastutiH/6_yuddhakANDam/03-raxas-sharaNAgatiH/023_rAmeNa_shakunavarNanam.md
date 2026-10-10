@@ -2,6 +2,11 @@
 title = "०२३ रामेण शकुनवर्णनम्"
 title_english = "023 Rama explains to Lakshmana the various portents"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ a destructive war fare. He orders for formation of battalions in the army and su
 with the battalions towards Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

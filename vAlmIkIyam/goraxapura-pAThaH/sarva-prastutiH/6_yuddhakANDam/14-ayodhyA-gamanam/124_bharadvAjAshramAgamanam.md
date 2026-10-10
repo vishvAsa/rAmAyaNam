@@ -1,6 +1,11 @@
 +++
 title = "१२४ भरद्वाजाश्रमागमनम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-124-Rama_lands_at_Sage_Bharadwaja_hermitage_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ trees on the route to Ayodhya, to bear fruit in the off-season for which the sag
 Thereupon, the troops of monkeys feasted on those fruits at will.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-124-Rama_lands_at_Sage_Bharadwaja_hermitage_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

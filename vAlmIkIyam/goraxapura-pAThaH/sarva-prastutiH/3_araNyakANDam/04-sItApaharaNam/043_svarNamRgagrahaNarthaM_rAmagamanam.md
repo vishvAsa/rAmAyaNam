@@ -3,6 +3,12 @@ title = "०४३ स्वर्णमृगग्रहणर्थं रा
 title_english = "043 Lure of the Golden Deer"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-043-Swarna_Mruga_Grahanaardham_Rama_Agamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,11 +21,6 @@ when he looked at that deer and he explains to Lakshmana as to why that particul
 down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-043-Swarna_Mruga_Grahanaardham_Rama_Agamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

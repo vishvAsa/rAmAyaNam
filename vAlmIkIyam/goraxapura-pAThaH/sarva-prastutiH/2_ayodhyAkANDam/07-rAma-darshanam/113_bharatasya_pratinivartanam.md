@@ -3,6 +3,12 @@ title = "११३ भरतस्य प्रतिनिवर्तनम्
 title_english = "113 Keeping Rama s sandals on his head Bharata ascends his chariot"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,11 +23,6 @@ father scruprulously and also Vaishta's advice to Rama to offer his sandals to B
 peace and harmony in Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

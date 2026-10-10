@@ -2,6 +2,11 @@
 title = "०२६ अङ्गदयौवराज्याभिषेकः"
 title_english = "026 Sugreeva s coronation"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-026-Angada_Youvarajyabhishekaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ suggests that Angada may also be crowned as crown prince. Accordingly, Sugreeva 
 as crown prince of Kishkindha. The regal splendour of the coronation is narrated in here.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-026-Angada_Youvarajyabhishekaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

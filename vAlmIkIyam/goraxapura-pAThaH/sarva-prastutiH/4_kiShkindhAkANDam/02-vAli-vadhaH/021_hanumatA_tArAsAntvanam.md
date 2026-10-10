@@ -2,6 +2,11 @@
 title = "०२१ हनुमता तारासान्त्वनम्"
 title_english = "021 Hanuma consoles Tara"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-021-Hanumatha_Thara_Santvanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ his plight, Hanuma says, that Tara alone is the empress to lead Kishkindha kingd
 self-immolation along with her husband Vali.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-021-Hanumatha_Thara_Santvanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

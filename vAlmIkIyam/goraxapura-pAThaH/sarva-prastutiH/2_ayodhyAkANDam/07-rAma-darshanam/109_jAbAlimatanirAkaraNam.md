@@ -2,6 +2,11 @@
 title = "१०९ जाबालिमतनिराकरणम्"
 title_english = "109 Rama refutes the atheistic arguments of Jabali"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-109-Jabali_Matha_Nirakaranam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ father, who was a devotee of truth and stay back in the forest. Jabali replies t
 sake of convincing Rama to return to Ayodhya, he has spoken the words of a non-believer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-109-Jabali_Matha_Nirakaranam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०१७ ऋक्षवानरोत्पत्तिः"
 title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-017-Ruksha_Vaanarothpaththi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ The gods become progenitors Vanara heroes at the dictate of Brahma to come to
  power to come to the help of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-017-Ruksha_Vaanarothpaththi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

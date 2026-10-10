@@ -2,6 +2,11 @@
 title = "०३० वनगमनानुज्ञा"
 title_english = "030 Rama agrees to take Seetha to the forest"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-030-Vanagama_Naanugnaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ like Seetha, but in vain. Finally Rama had to yield to her prevail and accepts h
 and asks her to give away her personal belongings to Brahmins in charity before they proceed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-030-Vanagama_Naanugnaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

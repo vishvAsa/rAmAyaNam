@@ -2,6 +2,11 @@
 title = "०५० मिथिला-गतिः"
 title_english = "050 Redemption of ahalya from her curse cont"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-050-Mithila_Gamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ near at Vishvamitra, Janaka inquisitively asks Vishvamitra about these two princ
 them as the sons of Dasharatha and informs about the adventurous deeds the boys have undertaken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-050-Mithila_Gamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

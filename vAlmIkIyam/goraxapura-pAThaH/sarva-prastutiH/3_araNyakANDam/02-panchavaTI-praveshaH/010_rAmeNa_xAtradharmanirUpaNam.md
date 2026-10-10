@@ -2,6 +2,11 @@
 title = "०१० रामेण क्षात्रधर्मनिरूपणम्"
 title_english = "010 Sri Rama s reply to Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-010-Ramena_Kshatra_Dharma_Nirupanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ Rama replies Seetha's enquiry as to why he should wage war to eliminate the demo
  the decrepit sages under his scheme of protecting the helpless.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-010-Ramena_Kshatra_Dharma_Nirupanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

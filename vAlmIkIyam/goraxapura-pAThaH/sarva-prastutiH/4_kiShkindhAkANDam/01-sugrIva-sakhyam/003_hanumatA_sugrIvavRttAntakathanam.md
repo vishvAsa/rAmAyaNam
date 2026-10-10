@@ -3,6 +3,12 @@ title = "००३ हनुमता सुग्रीववृत्तान
 title_english = "003 Hanuma meets Sri Rama"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-003-Hanumatha_Sugreeva_Vruththantha_Kathanam_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -25,11 +31,6 @@ scholar in nine schools of grammars, *buddhimata variSTaH* , cleverest of
 the clever. He is the supreme scholar, teacher, and the cleverest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-003-Hanumatha_Sugreeva_Vruththantha_Kathanam_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

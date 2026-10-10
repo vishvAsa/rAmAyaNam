@@ -1,6 +1,11 @@
 +++
 title = "१२७ नन्दिग्रामे भरतप्रतीक्षा"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-127-Bharata_commands_for_the_reception_of_Rama_in_the_City of _0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ Rama's wooden sandals and places them below the feet of Rama. Rama commands Push
 car to return to Kubera, the lord of riches to whom it originally belonged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-127-Bharata_commands_for_the_reception_of_Rama_in_the_City of _0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

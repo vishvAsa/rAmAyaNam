@@ -2,6 +2,11 @@
 title = "०१५ पञ्चवट्यां पर्णशालानिर्माणम्"
 title_english = "015 The Panchavati"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-015-Panchavatyam_Parnashala_Nirmanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ Rama entrusts the construction work of a parNa shaala, straw-cottage
  heart felt feeling about Lakshmana's concern towards Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-015-Panchavatyam_Parnashala_Nirmanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

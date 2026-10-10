@@ -2,6 +2,11 @@
 title = "०९५ मन्दाकिनीसौन्दर्यम्-अधिकापातः"
 title_english = "095 Rama and Seetha spend some time at Mandakini River"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-095-Mandakini_Soundaryam_Adhika_Pataha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ river and herds of elephants and monkeys coming for a drink there. Thus Rama and
 of their time in enjoying the charms of Chitrakuta mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-095-Mandakini_Soundaryam_Adhika_Pataha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

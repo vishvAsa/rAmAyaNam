@@ -2,6 +2,11 @@
 title = "१०६ राज्यस्वीकारार्थं पुनर्याचना"
 title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-106-Raajya_Sweekaarardham_Punaryaachana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ request. Rama's mothers also join Bharata and urge Rama to grant his request, wh
 lukewarm in the matter and insistent on implementing the words of his deceased father.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-106-Raajya_Sweekaarardham_Punaryaachana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

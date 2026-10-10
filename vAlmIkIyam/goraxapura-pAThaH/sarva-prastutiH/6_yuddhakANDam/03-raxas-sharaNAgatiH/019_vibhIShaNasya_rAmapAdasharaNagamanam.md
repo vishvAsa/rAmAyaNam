@@ -2,6 +2,11 @@
 title = "०१९ विभीषणस्य रामपादशरणगमनम्"
 title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-019-Vibhishana_seeks_refuge_at_the_feet_of_Rama.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Vibhishana. Rama sits on the sea -shore, seeking the help of the ocean god to yi
 his army to pass through and reach the city of Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-019-Vibhishana_seeks_refuge_at_the_feet_of_Rama.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०७१ लक्ष्मणेन-अतिकायवधः"
 title_english = "071 Lakshmana kills Atikaya"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-071-Lakshmana_kills_Atikaya_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,10 +24,6 @@ missile. On the advice the wind-god appeared before him, Lakshmana finally hurls
 with a missile of Brahma and chips off the head of Atikaya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-071-Lakshmana_kills_Atikaya_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०१२ रावणेन प्रहस्तप्रेषणम
 title_english = "012 Ravana instructs Prahasta to defend Lanka"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-012-Ravana_instructs_Prahasta_to_defend_Lanka.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,11 +24,6 @@ accuses Ravana of his unworthy act but assures him that he would neutralize that
 killing the enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-012-Ravana_instructs_Prahasta_to_defend_Lanka.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

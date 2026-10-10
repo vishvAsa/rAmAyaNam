@@ -2,6 +2,12 @@
 title = "१२८ श्रीरामपट्टाभिषेकः"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -26,11 +32,6 @@ Vibhishana, Sugreeva, Jambavan and others on the occasion. Rama bids farewell to
 of the epic is complemented in the end by Valmiki.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

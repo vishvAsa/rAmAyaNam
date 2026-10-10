@@ -2,6 +2,11 @@
 title = "१०७ रामस्य पित्राज्ञापालनकथनम्"
 title_english = "107 Rama tells Bharata about Dasaratha s promise of kingdom"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-107-Ramasya_Pitragnaa_Palana_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ the forest. Rama requests Bharata to make Dasaratha's promises true and asks him
 Ayodhya and assume its rulership.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-107-Ramasya_Pitragnaa_Palana_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

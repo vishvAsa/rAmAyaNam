@@ -3,6 +3,12 @@ title = "०४१ दक्षिणां प्रति हनुमदा�
 title_english = "041 Sugreeva sends Vanara s to Southward"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-041-Dakshina_Disham_Prathi_Hanumadadi_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,11 +23,6 @@ Terminator is there. This troop is also given one month's time to find the where
 Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-041-Dakshina_Disham_Prathi_Hanumadadi_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

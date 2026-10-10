@@ -2,6 +2,11 @@
 title = "०६७ हनुमता सागरोल्लङ्घननिश्चयः"
 title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-067-Hanuma_asserts_his_capabilities_to_leap_the_ocean.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -18,10 +23,6 @@ vegam... Thus, with this chapter this book of Kishkindha Kanda, 'The Empire of H
 Monkeys...' concludes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-067-Hanuma_asserts_his_capabilities_to_leap_the_ocean.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

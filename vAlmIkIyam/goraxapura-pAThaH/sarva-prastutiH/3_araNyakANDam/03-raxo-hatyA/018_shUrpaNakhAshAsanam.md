@@ -3,6 +3,12 @@ title = "०१८ शूर्पणखाशासनम्"
 title_english = "018 Lakshmana punishes Surpanakha"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-018-Shoorpanakha_Shasanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ Rama averts Shuurpanakha's advances toward him and asks her to seek Lakshmana in
  of another round of troubles to Rama and Ramayana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-018-Shoorpanakha_Shasanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

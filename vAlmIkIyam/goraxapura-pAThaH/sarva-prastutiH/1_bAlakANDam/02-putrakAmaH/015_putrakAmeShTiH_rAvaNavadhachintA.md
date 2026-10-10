@@ -2,6 +2,11 @@
 title = "०१५ पुत्रकामेष्टिः रावणवधचिन्ता"
 title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharatha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-015-Putrakaamesti_-_Raavana_Vadhayojanaa.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ pacifies Brahma and other celestials with an assurance that he will incarnate as
 eliminate Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-015-Putrakaamesti_-_Raavana_Vadhayojanaa.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

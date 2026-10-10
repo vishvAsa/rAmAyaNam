@@ -2,6 +2,11 @@
 title = "०७१ कबन्धेन स्ववृत्तान्तकथनम्"
 title_english = "071 Kabandha requestes for incineration"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-071-Kabandhena_Swa_Vruththantha_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ of his arrogant behaviour, thereby a sort of repentance has occurred in him. A c
 occurs among these two, as each is distrustful of the other.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-071-Kabandhena_Swa_Vruththantha_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

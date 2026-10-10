@@ -2,6 +2,11 @@
 title = "०२९ सीतायाः वनगमनविज्ञप्तिः"
 title_english = "029 Seetha s insistence on going to the forest"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-029-Sita_Vanagamana_Vignapthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ again tries to pacify her. He asks her to stay back at Ayodhya. For that Seetha 
 lonely parted with her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-029-Sita_Vanagamana_Vignapthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

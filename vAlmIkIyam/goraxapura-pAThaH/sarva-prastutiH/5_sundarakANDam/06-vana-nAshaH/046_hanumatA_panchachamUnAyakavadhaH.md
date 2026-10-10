@@ -2,6 +2,11 @@
 title = "०४६ हनुमता पञ्चचमूनायकवधः"
 title_english = "046 Ravana sends five army generals"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-045-Hanuma_kills_Prahasta_s_seven_sons.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ and Bhasakarna, by hurling the top of a mountain on them. After destroying the r
 with horses elephants and chariots, he again in returns to the archy door way of the Ashoka groove.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-045-Hanuma_kills_Prahasta_s_seven_sons.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

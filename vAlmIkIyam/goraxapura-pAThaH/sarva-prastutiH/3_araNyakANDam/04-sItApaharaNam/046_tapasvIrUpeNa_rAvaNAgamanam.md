@@ -2,6 +2,11 @@
 title = "०४६ तपस्वीरूपेण रावणागमनम्"
 title_english = "046 Ravana praises Seetha s beauty"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-046-Thapasvi_Roopena_Ravana_Agamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ a friar. He indulges in a most untoward laudation that is unbefitting for a sain
 Unable to refute him, because he is in such a pious garb, she had to invite him as an untimely guest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-046-Thapasvi_Roopena_Ravana_Agamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

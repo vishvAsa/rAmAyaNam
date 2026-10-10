@@ -3,6 +3,12 @@ title = "०५९ रावणेन युद्धभूमिप्रवे
 title_english = "059 Ravana himself appears on the battle front"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-059-Ravana_himself_appears_on_the_battle-front_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ Sugreeva, Lakshmana, Hanuma and Nila, Ravana encounters Rama in battle, and sust
 ignominious defeat at the latter's hands and escaping with his life, withdraws to Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-059-Ravana_himself_appears_on_the_battle-front_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

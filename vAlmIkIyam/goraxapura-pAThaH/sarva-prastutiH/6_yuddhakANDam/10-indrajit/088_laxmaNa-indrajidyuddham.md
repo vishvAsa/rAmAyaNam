@@ -2,6 +2,11 @@
 title = "०८८ लक्ष्मण-इन्द्रजिद्युद्धम्"
 title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ breaks up Lakshmana's armour. A fierce fight ensues for a long time. Meanwhile, 
 the battle-field, to relieve Lakshmana's fatigue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

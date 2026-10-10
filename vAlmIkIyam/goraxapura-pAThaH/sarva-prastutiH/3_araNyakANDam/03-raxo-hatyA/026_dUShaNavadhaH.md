@@ -2,6 +2,11 @@
 title = "०२६ दूषणवधः"
 title_english = "026 Rama eliminates Dushana and his army"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-026-Dooshana_Vadhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ next Duushana is routed, and then twelve other captains who on knowing Duushana'
 Rama. Left behind are only two, Khara and Trishira, the chiefs of that demonic force in Janasthaana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-026-Dooshana_Vadhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

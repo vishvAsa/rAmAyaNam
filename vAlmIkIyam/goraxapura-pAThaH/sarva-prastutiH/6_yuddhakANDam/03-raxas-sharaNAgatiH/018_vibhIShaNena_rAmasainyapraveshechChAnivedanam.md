@@ -2,6 +2,11 @@
 title = "०१८ विभीषणेन रामसैन्यप्रवेशेच्छानिवेदनम्"
 title_english = "018 Vibhishana joins as an associate in Rama s side"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-018-Vibhishana_joins_as_an_associate_in_Rama_s_side.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ different circumstances under which Vibhishana is acceptable, Sugreeva also agre
 Finally Vibhishana joins as an associate in Rama's side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-018-Vibhishana_joins_as_an_associate_in_Rama_s_side.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

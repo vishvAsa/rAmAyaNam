@@ -2,6 +2,11 @@
 title = "०६० त्रिशङ्कुस्वर्गप्राप्तिः"
 title_english = "060 trishanku s ascension to heaven"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-060-Thrishamkoh_Swarga_Prapthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ gods yield to the pertinence of Vishvamitra and allow that which Vishvamitra rep
 also allow Trishanku to inhibit that pseudo Creation, but with an upside down posture.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-060-Thrishamkoh_Swarga_Prapthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

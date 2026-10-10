@@ -2,6 +2,11 @@
 title = "०४८ त्रिजटया सीतासमाश्वासनम्"
 title_english = "048 Trijata reassures Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-048-Trijata_reassures_Seetha_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ prediction become untrue?" However, Trijata reassures her, stating good reasons 
 Lakshman to be still alive and cheering her up, takes her back to Ashoka grove.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-048-Trijata_reassures_Seetha_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०५५ सीतां प्रति रावणदर्पो�
 title_english = "055 Ravana entices Seetha to marry him"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-055-Sitaam_Prathi_Ravana_Darpookthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,11 +20,6 @@ her to become his empress. The words of Ravana have some latent meanings as deri
 and they are included here, as far as possible.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-055-Sitaam_Prathi_Ravana_Darpookthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०७१ अयोध्यागमनम्"
 title_english = "071 Bharata reaches the city of Ayodhya"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-071-Ayodhyaa_Gamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ finds the city of Ayodhya in a forlorn mood and discusses this situation with th
 an apprehensive and gloomy mind, he enters his father's house.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-071-Ayodhyaa_Gamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

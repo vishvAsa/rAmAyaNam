@@ -2,6 +2,11 @@
 title = "०७७ दशरथाद्ययोध्यागमनम्"
 title_english = "077 Happy days after marriages"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-077-Dasharathaadi_Naamayodhyagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ The wedding party arrives at Ayodhya on the exit of Parashu Rama. Yudhaajit, the
  enter the threshold of their blissful married life.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-077-Dasharathaadi_Naamayodhyagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

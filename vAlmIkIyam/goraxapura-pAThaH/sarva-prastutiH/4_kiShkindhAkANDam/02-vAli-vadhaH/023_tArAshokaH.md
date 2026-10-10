@@ -2,6 +2,11 @@
 title = "०२३ ताराशोकः"
 title_english = "023 Tara s lament for death of Vali"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-023-Tharayaha_Shokaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -12,10 +17,6 @@ Tara's lamentation is narrated in here. Seeing at her departed husband Vali, Tar
 his demise as any ordinary woman would.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-023-Tharayaha_Shokaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

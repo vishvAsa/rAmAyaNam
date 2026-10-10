@@ -2,11 +2,12 @@
 title = "०७४ परशुरामागमनम्"
 title_english = "074 parashu rAma s arrival"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>वाचनम्</summary>
+
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-074-Parushu_Ramaa_Gamanam.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 
@@ -448,7 +449,7 @@ But while going with the assemblages of sages and with young Raghava-s, namely
  = startling [voicing]; *
  pakSiNaH*
 
- = bird's; *asaumyaaH* = not gentle [not favourable, unpropitious]; *mR^igaaH ca api
+= bird's; *asaumyaaH* = not gentle [not favourable, unpropitious]; *mR^igaaH ca api
  pradakSiNaaH* = animals, also, even, going leftward [propitious]; *hR^idayotkampi*
  = to up beating heart [with one's heart in one's mouth, throbbing up]; *idam kim* = this
  is, what [why so?]; *mama manaH viSiidati* = my, heart, is sinking [throbbing down].

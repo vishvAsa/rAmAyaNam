@@ -2,6 +2,11 @@
 title = "००८ राक्षसैः स्वबलप्रशंसनम्"
 title_english = "008 All demons eulogising their strengths"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-008-All_demons_eulogising_their_strengths.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ Vajradamshtra, Nikumbha and Vajrahanu, eulogising their strengths, assure the ki
 individually kill Rama and his army within no time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-008-All_demons_eulogising_their_strengths.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

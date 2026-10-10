@@ -2,6 +2,11 @@
 title = "०४४ मारीचवधः"
 title_english = "044 Rama eliminates Maareecha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-044-Maaricha_Vadhaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ Maareecha shouts out for Seetha and Lakshmana, as demanded by Ravana. Rama is pe
 oddity of Maareecha and presumes that some danger is immanent and then returns to hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-044-Maaricha_Vadhaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

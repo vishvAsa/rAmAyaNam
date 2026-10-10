@@ -2,6 +2,11 @@
 title = "०२५ शुकेन रावणाय रामसैन्यबलवर्णनम्"
 title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-025-Suka_explains_the_strength_of_the_enemy_s_army_to_Ravana_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ captures them. But Rama sets them free. Going back to Ravana, they explain the m
 the enemy's ranks and exhort him to restore Seetha to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-025-Suka_explains_the_strength_of_the_enemy_s_army_to_Ravana_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

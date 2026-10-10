@@ -2,6 +2,11 @@
 title = "०७२ रावणेन-अतिकायमरणशोकः"
 title_english = "072 Ravana s grief over Atikaya s death"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ instruction to his army, he enters deep into his palace and remains boarding ove
 Atikaya, his son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

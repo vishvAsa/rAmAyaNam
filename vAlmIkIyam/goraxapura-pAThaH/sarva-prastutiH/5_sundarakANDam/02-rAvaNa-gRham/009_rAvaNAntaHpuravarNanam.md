@@ -3,6 +3,12 @@ title = "००९ रावणान्तःपुरवर्णनम्"
 title_english = "009 The inner buildings of Ravana s house"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-009-The_inner_buildings_of_Ravana_s_house.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,11 +20,6 @@ This chapter further describes the inner buildings of Ravana's house. Hanuma pas
 through a hall filled with Ravana's wives.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-009-The_inner_buildings_of_Ravana_s_house.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

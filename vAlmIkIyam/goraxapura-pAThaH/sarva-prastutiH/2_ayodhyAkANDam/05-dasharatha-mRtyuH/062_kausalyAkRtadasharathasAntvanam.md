@@ -2,6 +2,11 @@
 title = "०६२ कौसल्याकृतदशरथसान्त्वनम्"
 title_english = "062 King Dasaratha loses consciousness"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-062-Kousalya_Krutha_Dashratha_Santhvanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ words and consoles the king with her reconciliatory words. Overcome by grief, Da
 the grip, Dasaratha fell into the grip of slumber as the night prevailed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-062-Kousalya_Krutha_Dashratha_Santhvanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

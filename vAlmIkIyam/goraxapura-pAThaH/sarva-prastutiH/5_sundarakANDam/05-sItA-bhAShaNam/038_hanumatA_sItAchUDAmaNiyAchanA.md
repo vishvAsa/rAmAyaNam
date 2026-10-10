@@ -2,6 +2,11 @@
 title = "०३८ हनुमता सीताचूडामणियाचना"
 title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-038-Hanuma_asks_Seetha_to_give_him_a_token_of_remembrance.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ a month after the expiry of the time-limit given by Ravana. Thereupon, she hands
 jewel for the head as a token of remembrance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-038-Hanuma_asks_Seetha_to_give_him_a_token_of_remembrance.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

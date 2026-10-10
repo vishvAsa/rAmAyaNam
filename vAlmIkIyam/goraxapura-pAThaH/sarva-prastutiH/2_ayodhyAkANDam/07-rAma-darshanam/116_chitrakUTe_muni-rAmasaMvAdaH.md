@@ -2,6 +2,11 @@
 title = "११६ चित्रकूटे मुनि-रामसंवादः"
 title_english = "116 Rama notices anxiety among the sages who live in the vicinity"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-116-Chitrakoote_Rushi_Rama_Samvadaha_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ wished to leave the place. Rama gives his consent for their leaving. Bidding far
 great respect, Rama retires to his own hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-116-Chitrakoote_Rushi_Rama_Samvadaha_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

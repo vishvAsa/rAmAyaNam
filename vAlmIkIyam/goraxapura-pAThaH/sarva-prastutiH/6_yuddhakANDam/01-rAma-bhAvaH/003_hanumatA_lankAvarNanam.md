@@ -3,6 +3,12 @@ title = "००३ हनुमता लङ्कावर्णनम्"
 title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-003-Rama_requests_Hanuma_to_describe_Lanka_in_detail.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,11 +19,6 @@ On hearing the words of Sugreeva, Rama requests Hanuma to describe Lanka in deta
 Hanuma gives a detailed description of Lanka as he saw it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga3/yuddhasans3.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-003-Rama_requests_Hanuma_to_describe_Lanka_in_detail.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

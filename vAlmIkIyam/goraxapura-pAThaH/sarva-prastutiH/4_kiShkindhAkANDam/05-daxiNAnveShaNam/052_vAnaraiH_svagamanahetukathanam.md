@@ -2,6 +2,11 @@
 title = "०५२ वानरैः स्वगमनहेतुकथनम्"
 title_english = "052 Vanaras deliverance from black hole"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-052-Vanaraihi_Swagamana_Hethu_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ frame set by Sugreeva is lapsed in this very cavity, Swayamprabha uses her ascet
 from that cave, which exit is otherwise impossible for any other intruder, in his aliveness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-052-Vanaraihi_Swagamana_Hethu_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "००४ रामाय दशरथस्योपदेशः"
 title_english = "004 Dasaratha s Premonition"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-004-Ramaya_Dasharatha_Syopadeshaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ the reason for his haste. Rama thus informed by his father, goes to his mother's
 her of the good news. Kausalya becomes delighted at the news and gives Rama her blessings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-004-Ramaya_Dasharatha_Syopadeshaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

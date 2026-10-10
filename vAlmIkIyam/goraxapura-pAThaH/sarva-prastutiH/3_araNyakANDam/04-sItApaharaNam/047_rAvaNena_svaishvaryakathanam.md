@@ -2,6 +2,11 @@
 title = "०४७ रावणेन स्वैश्वर्यकथनम्"
 title_english = "047 The debate of Seetha and Ravana is started"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-047-Ravanena_Swaishwarya_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ believes him to be a Vedic Brahman but insists to know about him. Ravana reveals
 her to become his wife. Thereupon she goes into a frenzied state and brainstorms Ravana in all her curtness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-047-Ravanena_Swaishwarya_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४१ सगर-यज्ञ-समाप्तिः"
 title_english = "041 sagara s grandson amshuman s search for the horse"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-041-Sagara_Yagna_Parisamapthihi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ Amshuman's search for horse reveals that Kapila rendered his paternal-uncles
  Ganga onto earth departs to heaven at the end of his time.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-041-Sagara_Yagna_Parisamapthihi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

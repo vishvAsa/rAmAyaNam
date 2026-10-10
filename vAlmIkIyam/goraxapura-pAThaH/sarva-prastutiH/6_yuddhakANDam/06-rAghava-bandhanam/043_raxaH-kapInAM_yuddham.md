@@ -3,12 +3,13 @@ title = "०४३ रक्षः-कपीनां युद्धम्"
 title_english = "043 The duels arose between the monkeys and demons"
 +++
 
-<details><summary>सर्वाष् टीकाः</summary>
 
 <details open><summary>वाचनम्</summary>
 
 <div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-043-The_duels_arose_between_the_monkeys_and_demons_0.mp3"></div>
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 

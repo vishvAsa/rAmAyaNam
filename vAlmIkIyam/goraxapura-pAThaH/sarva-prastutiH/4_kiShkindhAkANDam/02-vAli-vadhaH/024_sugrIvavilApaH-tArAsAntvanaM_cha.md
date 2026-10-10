@@ -2,6 +2,11 @@
 title = "०२४ सुग्रीवविलापः-तारासान्त्वनं च"
 title_english = "024 Tara Sugreeva s resolve to die with Valii"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-024-Sugreeva_Vilapaha_Thara_Santvanam_Cha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -24,10 +29,6 @@ have commentaries on chapter. In all the commentaries an exhaustive commentary i
 uttered by Tara, which is included here also.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-024-Sugreeva_Vilapaha_Thara_Santvanam_Cha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

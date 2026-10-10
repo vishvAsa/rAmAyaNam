@@ -3,6 +3,12 @@ title = "०४० सुग्रीवेण रावणोत्प्लव
 title_english = "040 On seeing Ravana Sugreeva bounces on him"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-040-On_seeing_Ravana_Sugreeva_bounces_on_him_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,11 +23,6 @@ They wrestle endlessly in different postures. Finally, after reducing Ravana to 
 Sugreeva comes back and rejoins his monkey-troops.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-040-On_seeing_Ravana_Sugreeva_bounces_on_him_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

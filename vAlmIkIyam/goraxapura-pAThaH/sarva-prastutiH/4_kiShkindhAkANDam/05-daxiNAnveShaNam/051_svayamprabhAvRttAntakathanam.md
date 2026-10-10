@@ -2,6 +2,11 @@
 title = "०५१ स्वयम्प्रभावृत्तान्तकथनम्"
 title_english = "051 The legend of Black Cave"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-051-Swayam_Prabha_Vruthantha_Kathanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ nymphal-virtuoso accords this fantastic creation to Swayamprabha. Swayamprabha o
 to all the monkeys who entered that cave.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-051-Swayam_Prabha_Vruthantha_Kathanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

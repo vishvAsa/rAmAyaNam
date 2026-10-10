@@ -2,6 +2,11 @@
 title = "०५५ रावणेन अकम्पनप्रेषणम्"
 title_english = "055 Ravana next sends Akampana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-055-Ravana_next_sends_Akampana_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ for the war, he visualized various bad portents. A deadly conflict ensued betwee
 demons. Kumuda, Nala and Mainda the chiefs of monkeys creates a great carnage among demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-055-Ravana_next_sends_Akampana_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

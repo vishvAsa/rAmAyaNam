@@ -2,6 +2,11 @@
 title = "०६३ सुग्रीव-दधिमुखसंवादः"
 title_english = "063 Dadhimukha reports Madhuvana destruction to Sugreeva"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-062-Dadhimukha_departs_to_Kishkindha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ that Seetha has been traced out. Assuaging Dadhimukha, Sugreeva asks him to send
 Angada and others to him, so as to hear about their efforts in tracing out Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-062-Dadhimukha_departs_to_Kishkindha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०१० रावण-विभीषणसंवादः"
 title_english = "010 Vibhishana advises Ravana to restore Seetha to Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-010-Vibhishana_advises_Ravana_to_restore_Seetha_to_Rama.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ and in the gynaeceum and advises Ravana to restore Seetha to Rama as an atonemen
 forces. Ravana turns a deaf ear to Vibhishana's counsel and sends him away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-010-Vibhishana_advises_Ravana_to_restore_Seetha_to_Rama.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

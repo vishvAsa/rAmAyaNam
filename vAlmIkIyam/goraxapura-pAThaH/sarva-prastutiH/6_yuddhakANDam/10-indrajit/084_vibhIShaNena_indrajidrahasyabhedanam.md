@@ -2,6 +2,11 @@
 title = "०८४ विभीषणेन इन्द्रजिद्रहस्यभेदनम्"
 title_english = "084 Vibhishana tells the secret of conjuring trick"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-084-Vibhishana_tells_the_secret_of_conjuring_trick_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ Seetha being still alive and urges him to send Lakshmana with an army to the san
 Nikumbhila.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-084-Vibhishana_tells_the_secret_of_conjuring_trick_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

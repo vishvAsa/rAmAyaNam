@@ -2,6 +2,11 @@
 title = "०६२ सम्पातिना स्वकथानिरूपणम्"
 title_english = "062 Sampaati s legend contd"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-062-Sampaati_s_legend_[contd.].mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ the arrival of harbinger monkeys of Rama, as this eagle has to guide the monkeys
 location where Seetha is incarcerated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-062-Sampaati_s_legend_[contd.].mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

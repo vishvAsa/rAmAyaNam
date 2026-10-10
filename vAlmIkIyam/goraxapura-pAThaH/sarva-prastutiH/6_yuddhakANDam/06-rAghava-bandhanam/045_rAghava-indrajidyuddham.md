@@ -3,6 +3,12 @@ title = "०४५ राघव-इन्द्रजिद्युद्धम
 title_english = "045 Two scions of Raghu dynasty fall on the ground"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-045-Two_scions_of_Raghu_dynasty_fall_on_the_ground_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ and they fall down on the battle-ground in a bath of blood. Seeing those two sci
 state, the monkeys give way to utter despondence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-045-Two_scions_of_Raghu_dynasty_fall_on_the_ground_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

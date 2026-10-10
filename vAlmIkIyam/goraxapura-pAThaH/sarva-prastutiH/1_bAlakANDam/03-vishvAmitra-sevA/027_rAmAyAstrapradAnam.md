@@ -2,6 +2,11 @@
 title = "०२७ रामायास्त्रप्रदानम्"
 title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-027-Ramaayastra_Pradhaanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -22,10 +27,6 @@ Sage Vishvamitra satisfied with the behaviour of Rama in obliging the
  astra-s are incorporated.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-027-Ramaayastra_Pradhaanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४७ अक्षकुमारवधः"
 title_english = "047 Ravana sends his son Aksha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-046-Ravana_sends_five_army-generals.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ Aksha discharges his arrows, Hanuma bounces quickly to the sky and smashes Aksha
 horses with blows. After killing Aksha, Hanuma returns again to the same archy door-way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-046-Ravana_sends_five_army-generals.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

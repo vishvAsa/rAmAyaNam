@@ -2,6 +2,11 @@
 title = "०७० राम-कबन्धयुद्धम्"
 title_english = "070 Kabandha s overlong arms are cut off"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-070-Kabandhena_Saha_Yudhdham.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ Then Kabandha wishes to know who these two are and when Lakshmana informs him of
 elated for his accursed state is over at the hands of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-070-Kabandhena_Saha_Yudhdham.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

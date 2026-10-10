@@ -3,6 +3,12 @@ title = "०५१ हनुमता रामकथानिरूपणम्
 title_english = "051 Hanuma narrates the story of"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-050-Hanuma_declares_himself_to_be_a_messenger_of.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,11 +24,6 @@ Rama, Hanuma points out to Ravana that if he wished to survive he should give ba
 that he should be prepared for the worst if on the other hand he refuses to do so.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-050-Hanuma_declares_himself_to_be_a_messenger_of.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

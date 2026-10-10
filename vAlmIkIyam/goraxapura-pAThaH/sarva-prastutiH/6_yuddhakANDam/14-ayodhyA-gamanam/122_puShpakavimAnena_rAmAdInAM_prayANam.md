@@ -1,6 +1,11 @@
 +++
 title = "१२२ पुष्पकविमानेन रामादीनां प्रयाणम्"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ start on their aerial journey in Pushpaka, the wonderful aerial car which can ac
 spaciously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

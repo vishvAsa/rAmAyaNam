@@ -2,6 +2,11 @@
 title = "०५४ हनूमता लङ्कादहनम्"
 title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-053-Later_Ravana_orders_to_set_fire_to_his_tail.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ consuming their city with its trees, houses and a host of living beings. Surpris
 the celestials and musicians (Gandharvas) gain a great delight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-053-Later_Ravana_orders_to_set_fire_to_his_tail.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

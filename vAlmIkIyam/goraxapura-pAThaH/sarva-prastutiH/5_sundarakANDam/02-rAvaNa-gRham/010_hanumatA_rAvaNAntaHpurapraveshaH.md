@@ -3,6 +3,12 @@ title = "०१० हनुमता रावणान्तःपुरप्
 title_english = "010 Hanuma enters Ravana s house"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-010-Hanuma_enters_Ravana_s_house.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,11 +19,6 @@ In this Chapter Hanuma has first glimpse of Ravana in his house. He also observe
 of Ravana sleeping in the house. He sees Mandodari and thinks her to be Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-010-Hanuma_enters_Ravana_s_house.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

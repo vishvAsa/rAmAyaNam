@@ -3,6 +3,12 @@ title = "००१ रामेण पम्पातीरे विलाप�
 title_english = "001 Sri Rama at Pampa Lake lamenting for Seetha"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-001-Rama_Vilapaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -38,11 +44,6 @@ fag end of this chapter, the mighty monkey hero Sugreeva, moving on the Rishyamu
 and Lakshmana entering into his territory, flees into deep forests, fearing them to be enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-001-Rama_Vilapaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

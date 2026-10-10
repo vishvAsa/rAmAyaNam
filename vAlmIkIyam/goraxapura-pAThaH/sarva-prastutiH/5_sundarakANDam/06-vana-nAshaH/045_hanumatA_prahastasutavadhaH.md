@@ -2,6 +2,11 @@
 title = "०४५ हनुमता प्रहस्तसुतवधः"
 title_english = "045 Hanuma kills Prahasta s seven sons"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-044-Ravana_sends_Jambumali.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ all the enemies, using his palms, feet, fists, nails, chest and thighs only as h
 those demons, Hanuma climbs up the archy door-way and takes up his position there again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-044-Ravana_sends_Jambumali.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

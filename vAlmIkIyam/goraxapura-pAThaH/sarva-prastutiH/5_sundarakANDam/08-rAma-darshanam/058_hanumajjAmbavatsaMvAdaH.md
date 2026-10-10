@@ -2,6 +2,11 @@
 title = "०५८ हनुमज्जाम्बवत्संवादः"
 title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-057-Hanuma_leaps_from_Lanka_and_touches_Mount_Mainaka.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -24,10 +29,6 @@ Ravana. He further informs about his setting fire of the City of Lanka. He final
 re-visit to Seetha and his return to Mount Mahendra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-057-Hanuma_leaps_from_Lanka_and_touches_Mount_Mainaka.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

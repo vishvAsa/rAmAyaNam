@@ -2,6 +2,11 @@
 title = "०७८ मन्थराशासनम्"
 title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-078-Mandhara_Shasanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ powerful hand, threatens to punish her and abuses Kaikeyi too. When Kaikeyi plea
 her son, Bharata intervenses and Shatrughna releases Manthara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-078-Mandhara_Shasanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

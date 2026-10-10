@@ -2,6 +2,11 @@
 title = "०३२ हनुमन्तं वीक्ष्य सीतायाः भयम्"
 title_english = "032 Seetha is shocked to see Hanuma"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-032-Seetha_is_shocked_to_see_Hanuma.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ it is a dream or a reality. Finally, she thinks that as the monkey is talking to
 is quite a reality. She prays Lord Brihaspati and Brahma to make he words spoken by Hanuma as true.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-032-Seetha_is_shocked_to_see_Hanuma.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

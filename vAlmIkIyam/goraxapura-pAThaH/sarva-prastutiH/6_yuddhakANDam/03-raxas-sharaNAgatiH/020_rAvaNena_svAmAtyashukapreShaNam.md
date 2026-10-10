@@ -2,6 +2,11 @@
 title = "०२० रावणेन स्वामात्यशुकप्रेषणम्"
 title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ comes out of danger. Sugriva gives a fitting reply to Ravana's message sent thro
 monkeys again try to bind him and harass him, Rama prevents them from killing him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

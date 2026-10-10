@@ -2,6 +2,11 @@
 title = "००६ रावण-तन्मन्त्रिसंवादः"
 title_english = "006 Ravana calls a meetings of his ministers"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-006-Ravana_calls_a_meetings_of_his_ministers.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ calls a meeting of his ministers and invites suggestions from them in view of th
 of a probable attack of Rama and his army on the City of Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-006-Ravana_calls_a_meetings_of_his_ministers.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

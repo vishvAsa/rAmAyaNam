@@ -2,6 +2,11 @@
 title = "०५७ रामेण दुर्निमित्तदर्शनम्"
 title_english = "057 Rama meets Lakshmana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-057-Ramena_Durnimiththa_Darshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -12,10 +17,6 @@ Rama meets Lakshmana while returning to hermitage after killing the deer demon M
 some ill omens and worries why Lakshmana left Seetha alone and came to him, sad facedly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-057-Ramena_Durnimiththa_Darshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

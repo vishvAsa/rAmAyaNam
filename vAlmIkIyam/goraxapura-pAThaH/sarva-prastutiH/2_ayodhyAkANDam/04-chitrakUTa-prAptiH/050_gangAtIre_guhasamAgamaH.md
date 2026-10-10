@@ -2,6 +2,11 @@
 title = "०५० गङ्गातीरे गुहसमागमः"
 title_english = "050 Rama bids farewell to his birth place"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-050-Gangatheere_Guhasamagamaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -12,10 +17,6 @@ Rama bids farewell to his birth-place Ayodhya and reaches the bank of the holy
 Ganga. There, Nishadas offers welcome reception to Rama and others.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-050-Gangatheere_Guhasamagamaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०५४ भूषणप्रक्षेपणम्-लङ्का
 title_english = "054 Seetha drops jewellery at Sugreeva"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-054-Bhushana_Prekshepanam_Lankaa_Praveshanam_Cha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,11 +22,6 @@ haunted by Rama. On crossing the southerly ocean, his jitteriness in stealing Se
 hypocritically feels elated in gaining both Seetha and an animosity with Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-054-Bhushana_Prekshepanam_Lankaa_Praveshanam_Cha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

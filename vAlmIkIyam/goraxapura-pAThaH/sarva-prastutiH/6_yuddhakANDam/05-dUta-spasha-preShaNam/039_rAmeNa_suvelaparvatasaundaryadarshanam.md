@@ -3,6 +3,12 @@ title = "०३९ रामेण सुवेलपर्वतसौन्द
 title_english = "039 Rama and others see the charming garden on Suvela mountain"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-039-Rama_and_others_see_the_charming_garden_on_Suvela_mountain_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ apex of Trikuta mountain. They see the city with its large mansions and seven st
 including the thousand-pillared mansion of Ravana with a height almost touching the skies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-039-Rama_and_others_see_the_charming_garden_on_Suvela_mountain_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

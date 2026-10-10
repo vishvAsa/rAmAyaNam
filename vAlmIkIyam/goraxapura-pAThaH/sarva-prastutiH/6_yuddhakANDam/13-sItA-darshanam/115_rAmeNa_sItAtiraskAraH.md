@@ -1,6 +1,11 @@
 +++
 title = "११५ रामेण सीतातिरस्कारः"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-115-Rama_disowns_her_and_asks_her_to_seek_shelter_elsewhere._0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ and Vibhishana. However, regarding with suspicion the character of Seetha, Rama 
 asks her to seek shelter elsewhere.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-115-Rama_disowns_her_and_asks_her_to_seek_shelter_elsewhere._0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

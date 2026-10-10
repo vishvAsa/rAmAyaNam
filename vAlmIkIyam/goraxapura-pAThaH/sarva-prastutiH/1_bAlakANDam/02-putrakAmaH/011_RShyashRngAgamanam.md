@@ -3,6 +3,12 @@ title = "०११ ऋष्यशृङ्गागमनम्"
 title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-011-Rushya_Shrungaagamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,11 +19,6 @@ On the advice of his minister Sumantra, Dasharatha proceeds to Anga kingdom to
  fetch Sage Rishyasringa and his wife Shanta to his capital Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-011-Rushya_Shrungaagamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

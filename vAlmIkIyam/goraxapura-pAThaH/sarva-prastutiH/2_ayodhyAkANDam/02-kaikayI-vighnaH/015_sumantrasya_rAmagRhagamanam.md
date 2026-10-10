@@ -2,6 +2,11 @@
 title = "०१५ सुमन्त्रस्य रामगृहगमनम्"
 title_english = "015 Sumantra arrives at Sri Rama s chambers"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-015-Sumanthrasya_Ramagruha_Gamanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ for the coronation of Sri Rama. Ordered by Dasaratha to fetch Sri Rama, he enter
 of Sri Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-015-Sumanthrasya_Ramagruha_Gamanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

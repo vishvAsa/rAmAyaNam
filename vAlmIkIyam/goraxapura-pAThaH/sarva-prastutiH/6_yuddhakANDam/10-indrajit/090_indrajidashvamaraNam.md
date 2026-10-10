@@ -2,6 +2,12 @@
 title = "०९० इन्द्रजिदश्वमरणम्"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -19,11 +25,6 @@ Indrajit. Indrajit's head gets chopped off and falls to the ground. Witnessing I
 all the monkey-chiefs, Vibhishana, Hanuma and Jambavan applaud Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

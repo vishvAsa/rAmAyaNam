@@ -2,6 +2,11 @@
 title = "०३१ हनुमता रामकथावर्णनम्"
 title_english = "031 Hanuma began to narrate story of to Seetha"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-031-Hanuma_began_to_narrate_story_of_to_Seetha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ Rama from the time he was born till his sending Hanuma to Lanka in search of See
 Hanuman, Seetha was overjoyed and finds Hanuma perched on Simshapa tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-031-Hanuma_began_to_narrate_story_of_to_Seetha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

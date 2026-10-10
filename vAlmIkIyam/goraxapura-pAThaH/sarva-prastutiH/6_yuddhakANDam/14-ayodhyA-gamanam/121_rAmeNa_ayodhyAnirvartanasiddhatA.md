@@ -1,6 +1,11 @@
 +++
 title = "१२१ रामेण अयोध्यानिर्वर्तनसिद्धता"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-121-Rama_prepares_to_leave_for_Ayodhya_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ he needs to proceed to Ayodhya quickly, to see his mothers, brothers and people 
 arranges the aerial car, Pushpaka to transport Rama and others to Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-121-Rama_prepares_to_leave_for_Ayodhya_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

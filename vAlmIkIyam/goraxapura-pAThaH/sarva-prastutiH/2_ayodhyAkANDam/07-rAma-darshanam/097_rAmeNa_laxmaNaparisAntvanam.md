@@ -2,6 +2,11 @@
 title = "०९७ रामेण लक्ष्मणपरिसान्त्वनम्"
 title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-097-Lakshmana_Pari_Santvanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ Commanded by Bharata that no disturbance should be caused to the hermitage occup
 army encamps around the edge of the mountain, chitrakuta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-097-Lakshmana_Pari_Santvanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

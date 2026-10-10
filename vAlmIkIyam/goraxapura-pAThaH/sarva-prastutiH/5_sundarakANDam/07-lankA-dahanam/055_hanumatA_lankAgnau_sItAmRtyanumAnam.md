@@ -2,6 +2,11 @@
 title = "०५५ हनुमता लङ्काग्नौ सीतामृत्यनुमानम्"
 title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-054-Hanuma_makes_up_his_mind_to_set_fire_the_city of Lanka.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -17,10 +22,6 @@ In the meantime, he hears of her safety from the lips of Charanas (celestial bar
 Hanuma makes up his mind to return only after seeing her again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-054-Hanuma_makes_up_his_mind_to_set_fire_the_city of Lanka.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

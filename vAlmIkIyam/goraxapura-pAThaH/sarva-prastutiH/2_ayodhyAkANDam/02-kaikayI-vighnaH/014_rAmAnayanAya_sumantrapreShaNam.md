@@ -2,6 +2,11 @@
 title = "०१४ रामानयनाय सुमन्त्रप्रेषणम्"
 title_english = "014 The night passes"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-014-Ramyanayanaya_Sumanthra_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ disowning her as wife. The night passes and Sumantra comes to wake up the King. 
 to bring Sri Rama to the king, he goes to Sri Rama to fetch Him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-014-Ramyanayanaya_Sumanthra_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "००३ लङ्कागमनम्"
 title_english = "003 Hanuma conquers Lanka"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-003-Hanuma_conquers_Lanka.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -11,10 +16,6 @@ title_english = "003 Hanuma conquers Lanka"
 In this chapter Hanuma faces Lanka, the city of Lanka herself in the form of a demoness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-003-Hanuma_conquers_Lanka.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

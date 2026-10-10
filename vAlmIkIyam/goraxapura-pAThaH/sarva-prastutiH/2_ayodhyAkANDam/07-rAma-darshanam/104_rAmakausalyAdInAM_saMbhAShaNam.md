@@ -2,6 +2,11 @@
 title = "१०४ रामकौसल्यादीनां संभाषणम्"
 title_english = "104 Vasishta advances to the hermitage of Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-104-Rama_Kousalya_Deenam_Sambhashanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,10 +23,6 @@ holds the feet of his preceptor and takes his seat. Accompanied by his ministers
 nearby.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-104-Rama_Kousalya_Deenam_Sambhashanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

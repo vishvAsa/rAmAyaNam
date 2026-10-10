@@ -2,6 +2,11 @@
 title = "०५९ वसिष्ठपुत्रशपनम्"
 title_english = "059 trishanku undertakes Vedic ritual"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-059-Vasista_Putranam_Shapa_Prapthi.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ sages have come except for Vashishta and his sons. Further, the sons of Vashisht
 ritual of Vishvamitra and Trishanku. Vishvamitra gets irritated and hurls curses at the sons of Vashishta.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-059-Vasista_Putranam_Shapa_Prapthi.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

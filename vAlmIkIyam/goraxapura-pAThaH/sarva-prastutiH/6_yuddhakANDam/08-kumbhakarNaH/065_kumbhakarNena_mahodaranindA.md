@@ -3,6 +3,12 @@ title = "०६५ कुम्भकर्णेन महोदरनिन्
 title_english = "065 Kumbhakarna rebukes Mahodara"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-065-Kumbhakarna_rebukes_Mahodara___0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -18,11 +24,6 @@ sides. Kumbhakarna disregards these portents and marches ahead for the battle. S
 form of Kumbhakarna, all the monkeys get frightened and take to their heels.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-065-Kumbhakarna_rebukes_Mahodara___0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -1,6 +1,11 @@
 +++
 title = "०५३ रावणादेशेन राक्षसकृतहनुमत्पुच्छाग्निस्पर्शः"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-052-Ravana_orders_Hanuma_to_be_killed.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,10 +21,6 @@ his burnign tail. Then, Hanuma approaches the city-gate of Lanka, takes an iron-
 door of the gate and kills all the security-guards there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-052-Ravana_orders_Hanuma_to_be_killed.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

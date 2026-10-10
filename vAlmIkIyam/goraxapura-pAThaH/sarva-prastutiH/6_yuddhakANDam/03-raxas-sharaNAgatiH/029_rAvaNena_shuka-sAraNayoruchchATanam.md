@@ -2,6 +2,11 @@
 title = "०२९ रावणेन शुक-सारणयोरुच्चाटनम्"
 title_english = "029 Ravana reprimands Shuka and Sarana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-029-Ravana_reprimands_Shuka_and_Sarana_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -14,10 +19,6 @@ the monkeys start harassing them. But the compassionate Rama gets them released 
 back Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-029-Ravana_reprimands_Shuka_and_Sarana_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

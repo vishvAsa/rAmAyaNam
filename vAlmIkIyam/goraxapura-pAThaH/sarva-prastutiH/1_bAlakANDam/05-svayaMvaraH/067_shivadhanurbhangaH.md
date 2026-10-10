@@ -2,6 +2,11 @@
 title = "०६७ शिवधनुर्भङ्गः"
 title_english = "067 rAma breaks shiva s bow"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-067-Shiva_Dhanur_Bhamgaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ Rama breaks Shiva's bow when he wanted to examine the tautness of its
  proposal, Janaka sends his plenipotentiaries to Ayodhya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-067-Shiva_Dhanur_Bhamgaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -233,7 +234,7 @@ Thus clearly instructed by Janaka those high souled ministers have gone out from
  = they, king's ministers; *
  yatra*
 
- = in which [coffer]; *tat dhanuH* = that, bow is there; *taam aayasiim manjuuSaam*
+= in which [coffer]; *tat dhanuH* = that, bow is there; *taam aayasiim manjuuSaam*
  = that, iron, coffer; *aadaaya* = on fetching; *suropamam janakam uucuH* =
  they said to god like Janaka.
 
@@ -557,7 +558,7 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
  = Vishvamitra, on his part; *
  sa raamaH*
 
- = with Rama; *janakabhaaSitam shrutvaa* = on listening Janaka's spoken word; *vatsa
+= with Rama; *janakabhaaSitam shrutvaa* = on listening Janaka's spoken word; *vatsa
  raama dhanuH pashya* = oh boy Rama, see bow; *iti raaghavam abraviit* = thus, said to
  Raghava.
 

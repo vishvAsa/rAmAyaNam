@@ -2,6 +2,11 @@
 title = "११२ पादुकाप्रदानम्"
 title_english = "112 The sages requests Bharata to accept Rama s words"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-112-Padukaa_Pradaanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -22,10 +27,6 @@ After embracing Bharata and Shatrughna, Rama bids farewell to all with due respe
 the rank of each and enters his hermitage.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-112-Padukaa_Pradaanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

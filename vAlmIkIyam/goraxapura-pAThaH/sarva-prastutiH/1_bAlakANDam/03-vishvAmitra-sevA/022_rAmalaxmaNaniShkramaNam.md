@@ -2,6 +2,11 @@
 title = "०२२ रामलक्ष्मणनिष्क्रमणम्"
 title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-022-Rama_Lakshmana_YorniShrakamanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -14,10 +19,6 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
  vidya-s, by practicing which nothing can wither their vigour and vitality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-022-Rama_Lakshmana_YorniShrakamanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -129,7 +130,7 @@ Rama is blessed for a propitious travel firstly by his mother Kausalya and then
 
 The mother is the first one to bless sons.
 
- *prathamam maatR^ikR^itama~Ngalapratipaadanena itarakR^itama~NgalaapekShayaa
+*prathamam maatR^ikR^itama~Ngalapratipaadanena itarakR^itama~NgalaapekShayaa
  maatR^ikR^itama~Ngalasya aavashyakataa vyatirekeNa anvayena ca suucitam*
 
 **टिप्पनी**

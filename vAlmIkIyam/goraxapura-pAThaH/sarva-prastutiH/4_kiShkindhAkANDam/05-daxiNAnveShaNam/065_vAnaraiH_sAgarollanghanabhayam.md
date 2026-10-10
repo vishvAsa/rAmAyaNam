@@ -2,6 +2,11 @@
 title = "०६५ वानरैः सागरोल्लङ्घनभयम्"
 title_english = "065 Monkeys fear to jump the ocean"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-065-Monkeys_fear_to_jump_the_ocean.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -16,10 +21,6 @@ name of his prospective kingship. But Jambavanta pacifies and starts to encourag
 Hanuma to undertake the task of leaping the ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-065-Monkeys_fear_to_jump_the_ocean.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

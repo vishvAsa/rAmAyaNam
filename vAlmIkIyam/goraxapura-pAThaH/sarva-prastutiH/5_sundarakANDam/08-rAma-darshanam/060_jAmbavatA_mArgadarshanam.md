@@ -2,6 +2,11 @@
 title = "०६० जाम्बवता मार्गदर्शनम्"
 title_english = "060 Jambavan s wise guidelines"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-059-Hanuma_describes_the_plight_of_Seetha_to_his_fellow_monkeys.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ Lanka. But Jambavan replies that it is not proper for them to do like that witho
 intention.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-059-Hanuma_describes_the_plight_of_Seetha_to_his_fellow_monkeys.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

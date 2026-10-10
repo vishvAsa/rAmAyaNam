@@ -2,6 +2,11 @@
 title = "०४६ पौरान् विहाय रामादीनां गमनम्"
 title_english = "046 Rama passes the night on the banks of Tamasa river"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-046-Pouran_Vihaya_Ramadeenam_Gamanam_.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ to think that the chariot had turned back towards Ayodhya instead of proceeding 
 He then ascends the chariot along with Sita and Lakshmana and went ahead to the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-046-Pouran_Vihaya_Ramadeenam_Gamanam_.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०५७ अङ्गदेन स्वकष्टनिरूपणम्"
 title_english = "057 Angada informs their plight to Sampaati"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-057-Angada_informs_their_plight_to_Sampaati.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ search, thereof they transgressed the order of Sugreeva, thereby they did not re
 and therefore they resorted to fast-unto-death.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-057-Angada_informs_their_plight_to_Sampaati.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

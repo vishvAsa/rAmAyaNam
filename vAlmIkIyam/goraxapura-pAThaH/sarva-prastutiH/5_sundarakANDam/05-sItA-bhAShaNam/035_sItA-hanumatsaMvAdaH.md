@@ -3,6 +3,12 @@ title = "०३५ सीता-हनुमत्संवादः"
 title_english = "035 Seetha asks Hanuma to describe the characteristics"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -16,11 +22,6 @@ from the time he was born till his role as a minister of Sugreeva. He ends the s
 in Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

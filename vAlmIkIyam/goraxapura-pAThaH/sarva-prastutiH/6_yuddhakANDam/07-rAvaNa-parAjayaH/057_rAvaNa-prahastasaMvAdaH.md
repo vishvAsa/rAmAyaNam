@@ -2,6 +2,11 @@
 title = "०५७ रावण-प्रहस्तसंवादः"
 title_english = "057 Ravana asks Prahasta to go to the battle"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-057-Ravana_asks_Prahasta_to_go_to_the_battle_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -13,10 +18,6 @@ with a huge army and enters the eastern gate. Bad omens appeared, as Prahasta en
 battle-field. The army of monkeys seized hold of trees and rocks, to attack the demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-057-Ravana_asks_Prahasta_to_go_to_the_battle_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०२७ रामेण प्रस्रवणगिरिनिव
 title_english = "027 Rama at Mt Prasavana"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-027-Ramasya_Prasravana_Girinivasaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -23,11 +29,6 @@ ingredient of epical literature that aim to remind us about the need for a good 
 than to worry about global warming, ozone depletion, deforestation etc.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-027-Ramasya_Prasravana_Girinivasaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

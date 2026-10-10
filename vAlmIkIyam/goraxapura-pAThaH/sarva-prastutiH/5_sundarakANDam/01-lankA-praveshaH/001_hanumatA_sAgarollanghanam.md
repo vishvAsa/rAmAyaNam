@@ -3,6 +3,12 @@ title = "००१ हनुमता सागरोल्लङ्घनम्
 title_english = "001 Hanuma s Flight over Ocean"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-001-Hanuma_s_Flight_over_Ocean.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ ocean in search of Seetha. Mighty Hanuma's flight over the ocean is described in
 Hanuma's encountering of Mainaka, Surasa and Simhika form important phases of His flight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-001-Hanuma_s_Flight_over_Ocean.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

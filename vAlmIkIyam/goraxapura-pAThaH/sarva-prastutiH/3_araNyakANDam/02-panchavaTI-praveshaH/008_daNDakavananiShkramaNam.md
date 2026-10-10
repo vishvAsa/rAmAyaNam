@@ -2,6 +2,11 @@
 title = "००८ दण्डकवननिष्क्रमणम्"
 title_english = "008 Dialogue with Sage Suteekshna"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-008-Dandakavana_Nishkramanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ in this Dandaka Aranya, by whom these forests are rendered into graveyards, not 
 but stockyards for heaps of dead bodies, bones and skulls, for no faulty reason of the saints and sages.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-008-Dandakavana_Nishkramanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

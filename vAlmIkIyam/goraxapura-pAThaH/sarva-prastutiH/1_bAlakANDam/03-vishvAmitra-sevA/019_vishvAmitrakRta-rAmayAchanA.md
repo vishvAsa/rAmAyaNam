@@ -2,6 +2,11 @@
 title = "०१९ विश्वामित्रकृत-रामयाचना"
 title_english = "019 Sage vishvamitra s arrival to take rAma along with him to guard ritual"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-019-Vishvamitrakrutha_Ramayaachana.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ Sage Vishvamitra asks King Dasharatha to send Rama to protect the Vedic ritual
  can easily kill the demons. But Dasharatha is upset at this request.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-019-Vishvamitrakrutha_Ramayaachana.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

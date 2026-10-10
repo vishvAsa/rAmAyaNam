@@ -2,6 +2,11 @@
 title = "०५५ विश्वामित्रास्त्रमोक्षणम्"
 title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-055-Vishra_Mithrena_Stramokshnam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ On getting them, he again comes to Sage Vashishta's hermitage and ruins it compl
 infuriated Sage Vashishta resorts to his Brahma-baton to confront Vishvamitra.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-055-Vishra_Mithrena_Stramokshnam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

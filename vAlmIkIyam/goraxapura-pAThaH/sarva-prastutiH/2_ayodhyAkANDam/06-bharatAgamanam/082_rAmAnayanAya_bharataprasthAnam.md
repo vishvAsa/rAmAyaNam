@@ -2,6 +2,11 @@
 title = "०८२ रामानयनाय भरतप्रस्थानम्"
 title_english = "082 Bharata refuses to rob the throne from Rama"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-082-Ramanayanaaya_Bharatha_Prasthanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,10 +20,6 @@ journey. Thereupon, warriors merchants Shudras and Bhrahmanas harnessed their ch
 ready for the journey to the forest along with Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-082-Ramanayanaaya_Bharatha_Prasthanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

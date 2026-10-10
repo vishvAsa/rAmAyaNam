@@ -2,6 +2,11 @@
 title = "०३६ उमामाहत्म्यम्"
 title_english = "036 Legend of Uma and her curse"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-036-Uma_Mahathyam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -19,10 +24,6 @@ Shiva on his marriage with Uma is in the conjugal bliss for a long period
  the prevention of begetting a son, now curses gods and earth to be childless.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-036-Uma_Mahathyam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -3,6 +3,12 @@ title = "०८३ इन्द्रजिता मायासीताकृ
 title_english = "083 Seetha has been killed by Indrajit"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-083-Seetha_has_been_killed_by_Indrajit_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ regains consciousness. Then, Lakshmana embraces Rama and discusses with him the 
 virtue in life. After consoling Rama, Lakshmana prepares for a fight with Indrajit.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-083-Seetha_has_been_killed_by_Indrajit_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

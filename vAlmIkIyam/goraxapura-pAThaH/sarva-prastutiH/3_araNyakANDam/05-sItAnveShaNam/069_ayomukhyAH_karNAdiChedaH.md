@@ -2,6 +2,11 @@
 title = "०६९ अयोमुख्याः कर्णादिछेदः"
 title_english = "069 Kabandha captures Rama Lakshmana"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-069-Ayomukyhaha_Karnaadi_Chchedaha.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -13,10 +18,6 @@ demoness named Ayomukhi wanted to romance with Lakshmana, but Lakshmana cuts her
 away. The episode of Kabandha has a turning point in the epic.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-069-Ayomukyhaha_Karnaadi_Chchedaha.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

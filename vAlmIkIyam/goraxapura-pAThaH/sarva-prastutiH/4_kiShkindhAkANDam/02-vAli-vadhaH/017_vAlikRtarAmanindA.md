@@ -2,6 +2,11 @@
 title = "०१७ वालिकृतरामनिन्दा"
 title_english = "017 Vali s questioning Rama s propriety"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-017-Valikrutha_Rama_Ninda.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -15,10 +20,6 @@ that deduce many more meanings in picturising Vali as a devotee of Rama, who wan
 of Rama, like Viraadha and others, as a means of salvation.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-017-Valikrutha_Rama_Ninda.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

@@ -2,6 +2,11 @@
 title = "०४० प्राचीं प्रति वानरप्रेषणम्"
 title_english = "040 Sugreeva orders Eastside search"
 +++
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-040-Pracheem_Prathi_Vanara_Preshanam.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Desiraju Hanumanta Rao - Intro</summary>
@@ -17,10 +22,6 @@ Asia. This is the first chronicle ever recorded about the lands and oceans, isla
 far as Ancient Indian Geography is concerned.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-040-Pracheem_Prathi_Vanara_Preshanam.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>

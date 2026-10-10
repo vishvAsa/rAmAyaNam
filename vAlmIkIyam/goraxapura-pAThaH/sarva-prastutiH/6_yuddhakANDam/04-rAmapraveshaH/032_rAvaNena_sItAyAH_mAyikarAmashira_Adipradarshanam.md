@@ -3,6 +3,12 @@ title = "०३२ रावणेन सीतायाः मायिकर�
 title_english = "032 Seetha sees the illusory head and bow"
 +++
 
+
+<details open><summary>वाचनम्</summary>
+
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy - Intro</summary>
@@ -15,11 +21,6 @@ Ravana is abruptly called away by an emissary and after consultation with his mi
 army for action against the forces of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
-</details>
-
-<details open><summary>वाचनम्</summary>
-
-<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
 </details>
 
 <details><summary>भागसूचना</summary>
