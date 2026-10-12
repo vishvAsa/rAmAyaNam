@@ -809,7 +809,7 @@ rest on a stone."
 
 *17. kR^ipeNaH* = The unfortunate one; *utthaasyaticha* = will
 wake up; *medinyaaH* = from the hard earth; *paamshugunDitaH* = stained with dust
-;vivasvasan = sighing;R^ishhabhaH = like a bull elephant ;the lord of ; *kareNuunaam* =
+;vinishvasan = sighing;R^ishhabhaH = like a bull elephant ;the lord of ; *kareNuunaam* =
 female elephants; *prasravaNaat iva* = (rising from)the side of a hill."
 
 **अनुवादः**
@@ -961,7 +961,7 @@ _________________
 
 *20. saa* = Sita ;anabhiG^yaa = who was not accustomed ;vanaanaam = to
 woodlands ;nuunam = from now on; *upaishhyati* = will obtain ;bhayam = fear;
-*shrutvaa* = hearing ;shvaapadaa narditam = the roaring sound of wild beasts;
+*shrutvaa* = hearing ;shvapadaa narditam = the roaring sound of wild beasts;
 *gambhiiram* = which was thundering; *romaharshhaNam* = causing hair to stand on
 end.
 
