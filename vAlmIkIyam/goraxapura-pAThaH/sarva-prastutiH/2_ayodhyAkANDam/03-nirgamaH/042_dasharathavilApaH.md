@@ -1144,7 +1144,7 @@ race)
 entire; *puriim* = city ;shuunya chatvara veshmaantaam = with its road junctions and
 mansions deserted ; *samvR^itaapaNa devataam* = with its shops and temples closed ;
 *klaanta durbala duHkhaartaam* = with people exhausted with fatigue and plunged in
-affliction ; *naatyaakiirNe mahaapathaam* = its highways not very crowded ; *raajaa*
+affliction ; *naatyaakiirNa mahaapathaam* = its highways not very crowded ; *raajaa*
 = the king ;praavishat = entered ;vilaapan = wailing ;anuchintayan = thinking; *raamameva* =
 of Rama alone;ambudam iva = as the cloud ;suuryaH = by a sun.
 
